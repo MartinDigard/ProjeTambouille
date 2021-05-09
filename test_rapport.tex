@@ -1,4 +1,5 @@
-\documentclass{article}
+\documentclass[a4paper,11pt,twoside]{memoir}
+\setcounter{secnumdepth}{2}
 \usepackage{ae,lmodern} % Polices vectorielles
 \usepackage[french]{babel} % Traitement du français
 \usepackage[utf8]{inputenc} % encodage d’entrée
@@ -10,7 +11,10 @@
 \parindent=0em % Supprimer les marges en début de paragraphes.
 
 
+
+
 \begin{document}
+	\include{page-de-garde}
 	\title{Titre du projet}
 	\author{Martin Digard}
 	\date{}
@@ -32,4 +36,8 @@
         note de bas de page\footnote{voilà}
         \url{https://www.martindigard.com/}
         \tab c’est une tabulation
+    \appendix
+    \cleardoublepage\pdfbookmark[-1]{Annexes}{appendix}
+    \include{documentation}
+    \include{principes}
 \end{document}
