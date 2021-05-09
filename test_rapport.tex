@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{ae,lmodern} % Polices vectorielles
+\usepackage[french]{babel} % Traitement du français
+\usepackage[utf8]{inputenc} % encodage d’entrée
+\usepackage[T1]{fontenc} % encodage de sortie
+\usepackage{verbatim} % inclure du code source
+\usepackage{graphicx} % inclure des images
+\usepackage{hyperref} % inclure des adresses web
+\newcommand\tab[1][5mm]{\hspace*{#1}}
+\parindent=0em % Supprimer les marges en début de paragraphes.
+
+
+\begin{document}
+	\title{Titre du projet}
+	\author{Martin Digard}
+	\date{}
+	\maketitle
+	\chapter*{Chapitre}
+	Texte ?
+	\section*{Section}
+	Texte \\	
+	\subsection*{Sub-section}
+	Texte
+	\begin{verbatim}
+	print("pour écrire du code utiliser verbatim")
+	\end{verbatim}
+	Pour afficher une image :
+	%\includegraphics[height=50mm, width=110mm]{imgs/image.png} \\
+	\newpage{} % Nouvelle page
+	$\rightarrow$ Faire une flèche
+	$\Rightarrow$ Faire une flèche double
+        note de bas de page\footnote{voilà}
+        \url{https://www.martindigard.com/}
+        \tab c’est une tabulation
+\end{document}
