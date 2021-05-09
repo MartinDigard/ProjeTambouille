@@ -1,0 +1,13 @@
+\documentclass[11pt,a4paper,twoside,openright]{book}
+\input{preambule/preambule}
+\begin{document}
+	\frontmatter% début des pages liminaires
+	\pagestyle{front}%style des en-têtes pour cette partie
+	\input{page-de-couverture/page-de-couverture}%on crée la couverture
+	\thispagestyle{empty}%pour la page de garde toute blanche
+	\input{page-de-couverture/page-de-titre}%no comment !
+	\input{resume/resume}%no comment !
+	\input{remerciements/remerciements}%no comment !
+	\input{dedicaces/dedicaces}%no comment !
+	\shorttableofcontents{Sommaire}{0}%sommaire avec uniquement les chapitres
+	\addcontentsline{toc}{chapter}{Sommaire}%ajout du sommaire dans le sommaire !
