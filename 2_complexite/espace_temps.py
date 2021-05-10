@@ -9,6 +9,10 @@ import re
 
 
 def annot_espace_temps(recette, oper_temps, nb_recipients):
+    """
+    Sortie : la recette avec les balises opération annotatées avec les
+             attributs espace et temps
+    """
     return recette
 
 

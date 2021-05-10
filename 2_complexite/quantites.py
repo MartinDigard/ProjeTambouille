@@ -63,7 +63,7 @@ def annotation_qtt(recette, infos_ingr):
     Nettoyage et annotation des qtt dans les balises ingrédients.
     """
     if len(infos_ingr) != 0:
-        if len(infos_ingr[0].split('\t')) < 3:
+        if len(infos_ingr[0].split('\t')) != 3:
             return annotation_qtt(recette, infos_ingr[1:])
         qtt, unite, ingr = infos_ingr[0].split('\t')
         qtt = nettoyage_qtt(qtt, unite)
@@ -73,7 +73,7 @@ def annotation_qtt(recette, infos_ingr):
             qtt = int(qtt)
 
         for token in ingr.split():
-            if len(token) > 2:
+            if len(token) > 2 and "/" not in token:
                 recette = re.sub(f'<ingredient>([^<]*{token}[^<]*)'
                                  '</ingredient>',
                                  f'<ingredient quantite={qtt}>\\1'
