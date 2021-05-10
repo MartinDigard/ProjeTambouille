@@ -79,7 +79,10 @@ def decompte_ingredients(infos_ingr, nb_ingr):
 
 def temps(operations, refs_tps, oper_temps=None):
     """
-    Fait un truc.
+    Pour chaque opération : définir son temps unitaire
+    Pour chaque ingrédient de l’opération : faire la somme de leur qtt
+    Calculer le produit de cette somme et du temps unitaire.
+    somme(nb_unité(ingr) for ingr in opération) * temps unitaire
     """
     if oper_temps is None:
         oper_temps = []
