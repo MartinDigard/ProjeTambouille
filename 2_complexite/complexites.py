@@ -67,8 +67,8 @@ def main():
 
         # Limitation pour les tests
         compteur += 1
-        if compteur > 100:
-            break
+        # if compteur > 100:
+        #     break
 
         # Lecture de la recette courante
         with open(fichier) as input_file:
