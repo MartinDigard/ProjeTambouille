@@ -150,7 +150,7 @@ def main():
         # Nom du fichier pour la lecture de la clef du dico
         fichier = fichier.split('/')[-1]
         
-        # nb_ingredients = decompte_ingredients(infos_ingr[fichier], 0)
+        qtt_ingredients = decompte_ingredients(infos_ingr[fichier], 0)
 
         nb_ingredients = len(infos_ingr[fichier])
 
