@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70601">
+ <titre>Filets de veau aux asperges</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de filet de veau</p>
+ <p>5 échalotes</p>
+ <p>1 bouteille de vin blanc demi-sec</p>
+ <p>250 g d’ asperges vertes</p>
+ <p>125 g de crème fraîche</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>huile d’ olive</p>
+ <p>farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>veau</ingredient> en morceaux et les fariner. <operation>faire revenir les <ingredient>échalotes</ingredient></operation> émincées dans l’ huile d’ <ingredient>olive</ingredient>. ajouter les morceaux de <ingredient>veau</ingredient> et les <operation>faire dorer de toutes parts</operation>. saler, poivrer. mouiller avec le <ingredient>vin blanc</ingredient>, <operation>faire mijoter 1 heure à feu doux</operation>. préparer les <ingredient>asperges</ingredient>, les couper en petits tronçons, puis les ajouter dans la <recipient>cocotte</recipient> et <operation>laisser cuire 30 min de plus</operation>. en fin de cuisson, <operation>sortir la viande et les légumes</operation>. ajouter la <ingredient>crème fraîche</ingredient> mélangée au <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient> dans le jus de cuisson, mélanger. remettre le tout ensemble, réchauffer 2 - 3 minutes et <operation>servir</operation>. accompagner de pommes de terre vapeur ou de spaghettis.
+]]>
+ </preparation>
+</recette>

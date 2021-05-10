@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37250">
+ <titre>Poêlée de légumes multicolore</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poivron rouge</p>
+ <p>10 gros champignons de Paris</p>
+ <p>2 grosses têtes de brocolis</p>
+ <p>6 pommes de terre</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient>poivron</ingredient> et les <ingredient>champignons</ingredient> en lamelles fines. découper les <ingredient>pommes de terre</ingredient> en rondelles fines, émincer l’ <ingredient>oignon</ingredient>. détacher les petites <ingredient>têtes des brocolis</ingredient> et les couper en deux dans le sens de la longueur. faire revenir le <ingredient>poivron</ingredient>, les <ingredient>champignons</ingredient>, le <ingredient>brocolis</ingredient> et les <ingredient>pommes de terre</ingredient> dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> à feu vif. quand ils commencent à dorer, baisser à feu moyen pendant 15 min en remuant régulierement avec une <ingredient>cuillère</ingredient> en bois sans trop insister pour ne pas écraser les ingrédients. rajouter la <ingredient>sauce soja</ingredient> et <operation>laisser à feu doux 5 min</operation>. servir bien chaud. vous pouvez <operation>servir avec du riz</operation>: <operation>faire cuire le riz puis le</operation> rajouter dans la <recipient>poêle</recipient> en même temps que la <ingredient>sauce soja</ingredient>.
+]]>
+ </preparation>
+</recette>

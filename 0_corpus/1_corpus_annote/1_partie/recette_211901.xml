@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211901">
+ <titre>Penne aux poissons variés</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 morceaux de poisson par personne: saumon, cabillaud, colin</p>
+ <p>250 g de penne (de préférence des mini penne) </p>
+ <p>1 courgette</p>
+ <p>1 petite aubergine</p>
+ <p>1 poivron jaune </p>
+ <p>quelques tomates cerises</p>
+ <p>1 briquette de sauce hollandaise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir dans un peu d’ huile d’ olive l’ <ingredient>aubergine</ingredient></operation> coupée en <ingredient>petits</ingredient> morceaux, la <ingredient>courgette</ingredient> en fines rondelles et le <ingredient>poivron</ingredient> en <ingredient>petites</ingredient> lamelles. pendant ce temps cuire au court bouillon les morceaux de <ingredient>poissons</ingredient>. <operation>faire cuire les mini penne al dente</operation>. disposer dans un grand <recipient>plat</recipient> les pâtes mélangées aux légumes, les morceaux de <ingredient>poissons</ingredient>. verser la <ingredient>sauce hollandaise</ingredient> chaude dessus et décorer avec les <ingredient>tomates cerises</ingredient>. varier les légumes à volonté selon les goûts ainsi que les sortes de pâtes. muscadet
+]]>
+ </preparation>
+</recette>

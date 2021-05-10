@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42536">
+ <titre>Bouchées champignon, lard et feta</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un gros champignon de paris</p>
+ <p>une tranche de lard fumé</p>
+ <p>un cube de feta</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>ôtez la queue du <ingredient>champignon</ingredient></operation>. <operation>frottez - le avec un essuie - tout</operation> humidifié. <operation>posez le <ingredient>champignon</ingredient> sur un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, côté pied au-dessus. enroulez la <ingredient>tranche de lard</ingredient> autour du <ingredient>champignon</ingredient>, en laissant l’ emplacement du pied libre. posez le <ingredient>cube de feta</ingredient> à l’ emplacement du pied. <operation>salez</operation>, <operation>poivrez</operation>. passez 5 min sous le grill chaud (environ 180 ° c - thermostat 6). pour ma part, je le <operation>fais au grill de mon micro-ondes, donc je ne</operation> <operation>sais pas</operation> exactement la température... <operation>faites autant de pièces que d’ invités! petite entrée improvisée, mais qui a</operation> remporté un grand succès! le <ingredient>champignon</ingredient> chaud est fondant, le <ingredient>lard</ingredient> est légèrement croquant, et la <ingredient>feta</ingredient> donne un petit goût acide et du moelleux.
+]]>
+ </preparation>
+</recette>

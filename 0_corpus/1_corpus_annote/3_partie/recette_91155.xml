@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91155">
+ <titre>Salade basique</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 laitue</p>
+ <p>2 tomates</p>
+ <p>2 carottes</p>
+ <p>200 g de thon</p>
+ <p>2 tranches de jambon blanc</p>
+ <p>1 oeuf</p>
+ <p>10 cl d´huile d´olive</p>
+ <p>5 cl de vinaigre</p>
+ <p>1 cuillère à café de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+d´abord <operation>lavez bien la <ingredient>laitue</ingredient>, ensuite épluchez les <ingredient>carottes</ingredient></operation>. puis <operation>faites bien</operation> cuire l´oeuf dans une <recipient>casserole</recipient> d’ eau pendant 10 min. après, <operation>coupez les <ingredient>tomates</ingredient>, les <ingredient>carottes</ingredient>, la <ingredient>laitue</ingredient> et l´oeuf en petits morceaux</operation>. ensuite <operation>ajoutez le</operation> <ingredient>thon</ingredient> et coupez aussi le <ingredient>jambon blanc</ingredient> en petites dés. <operation>versez un peu d´huile <ingredient>d´olive</ingredient>, un peu de <ingredient>vinaigre</ingredient> et le <ingredient>sel</ingredient></operation>. voilà à table!
+]]>
+ </preparation>
+</recette>

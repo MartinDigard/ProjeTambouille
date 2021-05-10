@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228957">
+ <titre>Le Fesenjoon de Sanaz</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet entier</p>
+ <p>25 cl de jus concentré de grenade</p>
+ <p>500 g de noix écrasées ou pilées</p>
+ <p>1 oignon</p>
+ <p>sel</p>
+ <p>1 pincée de sucre</p>
+ <p>1 pincée de curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le <ingredient>poulet</ingredient></operation> découpé dans une <recipient>marmite</recipient> d’ eau salée avec l’ <ingredient>oignon</ingredient> coupé grossièrement, le <ingredient>curcuma</ingredient> pendant 20 min. dans une autre <recipient>casserole</recipient>, faire bouillir dans de l’ eau les <ingredient>noix pilées</ingredient> pendant 20 min. ôter les <ingredient>oignons</ingredient> de la <recipient>marmite</recipient> et mettre ensemble le contenu des 2 casseroles (<ingredient>poulet</ingredient> + eau et <ingredient>noix</ingredient> + eau) dans celle-ci. <operation>faire bouillir le tout pendant 10 min</operation>. mélanger le <ingredient>jus concentré de grenade</ingredient> avec une pincée de <ingredient>sucre</ingredient>. ajouter un peu d’ eau pour rendre le tout un peu plus liquide. ajouter ce mélange au <ingredient>poulet</ingredient> et aux <ingredient>noix</ingredient> (toujours en gardant l’ eau) dans la <recipient>marmite</recipient>. cuire le tout dans la <recipient>marmite</recipient> à feu moyen jusqu’ à ce que l’ eau réduise (plus ou moins 30 ou 40 min.). bon appétit! je vous conseille de boire un verre de <ingredient>jus</ingredient> d’ orange pour accompagner
+]]>
+ </preparation>
+</recette>

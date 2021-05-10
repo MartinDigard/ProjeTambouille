@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66717">
+ <titre>Gnocchis au boeuf et à la vodka</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de gnocchis</p>
+ <p>500 g de viande hachée pur boeuf </p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>20 à 30 cl de crème fraîche épaisse</p>
+ <p>10 à 15 cl de vodka</p>
+ <p>sel, poivre</p>
+ <p>huile, beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffeur l’ eau salé pour la cuisson des <ingredient>gnocchis</ingredient></operation>. en attendant, <operation>faire revenir la <ingredient>viande</ingredient></operation> haché dans un peu de matière grasse à la <recipient>poêle</recipient>, en l’ émiettant. une fois la <ingredient>viande</ingredient> cuite, ajouter la <ingredient>petite</ingredient> boite de <ingredient>concentré de tomate</ingredient>, remuer. rajouter la <ingredient>crème fraîche</ingredient> et bien mélanger. <operation>laisser chauffer une dizaine de minutes</operation>. en fin de cuisson, ajouter le verre de vodka et <operation>laisser mijoter 10/12 minutes</operation>. cuire les <ingredient>gnocchis</ingredient> environ 2 - 3 minutes, lorsqu’ ils remontent à la suface c’ est qu’ ils sont cuits. les égoutter et les <operation>répartir dans les assiettes</operation>. verser la sauce dessus et servir, accompagné de gruyère ou parmesan. bon appétit!
+]]>
+ </preparation>
+</recette>

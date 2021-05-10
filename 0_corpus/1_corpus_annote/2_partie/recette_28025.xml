@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28025">
+ <titre>Tarte capri au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat dessert</p>
+ <p>200 g de sucre</p>
+ <p>250 g de beurre fondu</p>
+ <p>5 oeufs jaunes et blancs séparés</p>
+ <p>250 g d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites fondre le <ingredient>chocolat</ingredient> avec le beurre au <recipient>micro-onde</recipient> pendant 2 mn</operation>. <operation>ajoutez le <ingredient>sucre</ingredient>, les <ingredient>jaunes</ingredient> d’</operation> <ingredient>oeufs</ingredient> et <operation>mélangez</operation>. <operation>ajoutez les</operation> <ingredient>amandes</ingredient> et <operation>mélangez</operation> à nouveau. <operation>montez les blancs en neige ferme</operation> et <operation>incorporez - les délicatement au mélange</operation>. <operation>mettez le <recipient>moule</recipient> au <recipient>four</recipient></operation>. <operation>faites cuire 45 mn dans un <recipient>four</recipient> préchauffé, th 6 ou 180 ° c</operation>. <operation>laissez refroidir quelques minutes avant de</operation> démouler. décorez de quelques <ingredient>amandes effilées</ingredient>, grillées. <operation>ouvrez le gâteau en deux dans le sens de l’ épaisseur</operation> et <operation>fourrez - le avec de la confiture d’ oranges ou de la crème de marron</operation> sucrée, ou bien <operation>laissez - le nature</operation>.
+]]>
+ </preparation>
+</recette>

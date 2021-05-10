@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84771">
+ <titre>Poulet sauté à la chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de blancs de poulet taillés en lanières</p>
+ <p>2 bocaux de légumes variés (mélange à la chinoise Suzy Wan) </p>
+ <p>1 morceau de piment (selon le goût) </p>
+ <p>4 oignons fins</p>
+ <p>2 cm de gingembre frais</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 cuillères à café de maïzena</p>
+ <p>sauce soja </p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 ou 2 citrons verts </p>
+ <p>coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>émincez</operation> finement le <ingredient>piment</ingredient> épépiné et les <ingredient>oignons fins</ingredient>. hachez l’ <ingredient>ail</ingredient> et <operation>râpez le <ingredient>gingembre</ingredient></operation>. <operation>mélangez la <ingredient>maïzena</ingredient> avec le jus du <ingredient>citron</ingredient>, deux <ingredient>cuillères</ingredient> d’ eau et deux <ingredient>cuillères</ingredient> de sauce <ingredient>soja</ingredient></operation>. <operation>réservez</operation>. <operation>faites revenir au <recipient>wok</recipient> le <ingredient>poulet</ingredient> à feu vif avec l’ <ingredient>huile</ingredient></operation>. <operation>retirez</operation> et <operation>réservez</operation>. <operation>saisissez 20 secondes sur feu vif l’ <ingredient>ail</ingredient> et le <ingredient>gingembre</ingredient></operation>. <operation>ajoutez</operation> <ingredient>oignons</ingredient> et piment. <operation>faites revenir 20 secondes sans</operation> <operation>laisser dorer</operation>. ajoutez la sauce au <ingredient>citron vert</ingredient>. mélangez. <operation>ajoutez le <ingredient>poulet</ingredient> et les <ingredient>légumes</ingredient> bien égouttés</operation>. mélangez et <operation>laisser cuire environ 3 min</operation>. <operation>saupoudrez de <ingredient>coriandre</ingredient> hachée</operation>. les quantités de sauce <ingredient>soja</ingredient> et de <ingredient>citron</ingredient> sont à <ingredient>varier</ingredient> selon les goûts. riesling ou bière chinoise
+]]>
+ </preparation>
+</recette>

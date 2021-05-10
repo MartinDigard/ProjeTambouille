@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19337">
+ <titre>Risotto aux deux jambons et aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 verres de riz</p>
+ <p>100 g de petits pois frais</p>
+ <p>1 tranche de jambon blanc</p>
+ <p>1 tranche de jambon de Parme</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>100 g de parmesan</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer l’ <ingredient>huile</ingredient> dans une grande <recipient>poêle</recipient></operation>, <operation>ajoutez - y le</operation> <ingredient>riz</ingredient> et <operation>faites - le</operation> <operation>revenir jusqu’ à ce qu’ il</operation> devienne transparent ; <operation>ajoutez deux fois son volume d’ eau</operation>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>laissez cuire à feu doux jusqu’ à ce que le liquide soit complètement évaporé</operation>. pendant ce temps, coupez le <ingredient>jambon blanc</ingredient> en dés et le <ingredient>jambon de parme</ingredient> en lanières. dix minutes avant la fin de la cuisson du <ingredient>riz</ingredient>, ajoutez - y les <ingredient>petits pois</ingredient> et <operation>poursuivez la cuisson</operation>. lorsque le <ingredient>riz</ingredient> est cuit, disposez - le dans un <recipient>plat</recipient> de service creux puis <operation>ajoutez - y les morceaux des 2 <ingredient>jambons</ingredient></operation>. <operation>râpez le <ingredient>parmesan</ingredient> et parsemez - le sur le risotto</operation>. <operation>ajoutez quelques brins de <ingredient>persil</ingredient></operation> ciselé. <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

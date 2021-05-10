@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20396">
+ <titre>Brochette de St Jacques et gambas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>2 coquilles st jacques</p>
+ <p>2 gambas</p>
+ <p>2 pruneaux</p>
+ <p>2 tranches de lard</p>
+ <p>1 morceau de tomate</p>
+ <p>1 morceau d’ oignon</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>herbes de provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enroulez les <ingredient>coquilles st jacques</ingredient> dans des <ingredient>tranches de lard</ingredient>, puis enfilez tous les ingrédients sur des piques en alternant: coquille <ingredient>st jacques</ingredient> - pruneau - <ingredient>gambas</ingredient> - <ingredient>tomate</ingredient> - <ingredient>oignon</ingredient> - coquille <ingredient>st jacques</ingredient> - pruneau - gambas. <operation>mettez toutes les brochettes dans un <recipient>plat</recipient></operation>, arrosez d’ huile d’ <ingredient>olive</ingredient> selon le goût puis d’ un peu d’ <ingredient>herbes de provence</ingredient> (pas trop pour ne pas dénaturer le goût - si vous les <operation>faites cuire au <recipient>barbecue</recipient></operation> mettez plutôt les <ingredient>herbes de provence</ingredient> dans les braises). <operation>faites cuire ces brochettes soit au <recipient>barbecue</recipient> soit dans une <recipient>poêle</recipient> à poisson à peu près 10</operation> mn.
+]]>
+ </preparation>
+</recette>

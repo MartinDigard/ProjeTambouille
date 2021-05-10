@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80806">
+ <titre>Pastis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 boîte de cuisses de confit de canard</p>
+ <p>2 oignons </p>
+ <p>1 boîte de salsifis</p>
+ <p>2 pâtes feuilletées</p>
+ <p>1 oeuf</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dégraisser le <ingredient>confit</ingredient> et l’ émietter. hacher les <ingredient>oignons</ingredient> et <operation>faire dorer à la <recipient>poêle</recipient> dans un peu de graisse de <ingredient>canard</ingredient></operation>. ajouter le <ingredient>confit</ingredient> puis les <ingredient>salsifis</ingredient> coupés en rondelles. poivrer et <operation>laisser cuire 5 min</operation>. dérouler une <ingredient>pâte</ingredient>, y mettre le mélange <ingredient>confit salsifis</ingredient> et <operation>recouvrir d’ une autre <ingredient>pâte</ingredient></operation>. <operation>faire une cheminée</operation> et dorer au jaune d’ <ingredient>oeuf</ingredient>. <operation>faire cuire à 200 ° c (thermostat 6 - 7) jusqu’ à ce que ce soit doré</operation>. <operation>servir avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

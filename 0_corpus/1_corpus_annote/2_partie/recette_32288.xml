@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32288">
+ <titre>Pommes de terre à l’ ancienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>4 tranches de jambon coupées en dés</p>
+ <p>2 oignons</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>15 cl de bouillon de poulet fait avec 1 cube</p>
+ <p>20 cl de crème fraîche liquide</p>
+ <p>100 g de gruyère râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient>oignons</ingredient> et les <ingredient><operation>faire</ingredient> rissoler dans une <recipient>poêle</recipient> beurrée pendant 5 mn</operation>. peler les <ingredient>pommes de terre</ingredient>, les <ingredient>couper</ingredient> en fines rondelles. en étaler la moitié sur le fond d’ un <recipient>plat</recipient> à <recipient>four</recipient> beurré. saler et poivrer. les <operation>recouvrir des</operation> <ingredient>oignons</ingredient> et <operation>répartir les dés de <ingredient>jambon</ingredient> par dessus</operation>. badigeonner les dés de <ingredient>jambon</ingredient> avec la <ingredient>moutarde</ingredient> et les recouvrir avec l’ autre moitié des <ingredient>pommes de terre</ingredient>. saler poivrer et verse le <ingredient>bouillon</ingredient>. cuire à <recipient>four</recipient> th 6 pendant 40 mn. répartir la <ingredient>crème</ingredient> puis le <ingredient>gruyère râpé</ingredient> à la surface du <recipient>plat</recipient>. poursuivre la cuisson 15 à 20 mn. <recipient>plat</recipient> très facile et adoré par les enfants.
+]]>
+ </preparation>
+</recette>

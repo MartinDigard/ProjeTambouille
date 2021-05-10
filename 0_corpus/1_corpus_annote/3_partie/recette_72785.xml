@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72785">
+ <titre>Salade de vincent</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 salade</p>
+ <p>1 blanc de poulet</p>
+ <p>1 avocat</p>
+ <p>50 g de farfalles (pour une personne) </p>
+ <p>2 tranches de pain grillés</p>
+ <p>25 g de beurre</p>
+ <p>1 cuillère à soupe d’ épices créoles (colombo) </p>
+ <p>50 g de graines de sésame</p>
+ <p>Pour la sauce: </p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation>faire cuire les <ingredient>farfalles</ingredient> comme</operation> indiqué sur le paquet. couper les <ingredient>blancs de poulet</ingredient> en morceaux et les <operation>faire revenir dans un peu d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. saler et poivrer. réserver. couper les <ingredient>tranches de pain</ingredient> grillées en petits morceaux et les <operation>faire revenir à la <recipient>poêle</recipient> dans un bon morceau de beurre</operation>. mélanger les <ingredient>farfalles</ingredient>, le <ingredient>poulet</ingredient>, les morceaux de <ingredient>pain</ingredient> grillés dans un saladier. y ajouter deux <ingredient>cuillères</ingredient> de colombo et <operation>laisser refroidir un peu</operation>. ajouter l’ <ingredient>avocat</ingredient> coupé en morceaux, la <ingredient>salade</ingredient> et des <ingredient>graines de sésame</ingredient>. préparer la <ingredient>sauce</ingredient> au <ingredient>vinaigre balsamique</ingredient> et <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. <operation>servir</operation>!
+]]>
+ </preparation>
+</recette>

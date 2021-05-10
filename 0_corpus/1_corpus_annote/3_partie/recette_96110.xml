@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96110">
+ <titre>Soupe aux tomates et aux boulettes de viande hachée</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1kg de tomates</p>
+ <p>1litre de bouillon de bœuf</p>
+ <p>une cuillère à café de sucre</p>
+ <p>deux cuillère à soupe de coriandre hachée. </p>
+ <p>un bol de vermicelles</p>
+ <p>une cuillère à soupe du concentré de tomate. </p>
+ <p>200 g de viande hachée. </p>
+ <p>Sel et poivre. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mixez les <ingredient>tomates</ingredient> après</operation> avoir ôté la peau et la pulpe, <operation>ajoutez</operation> ceci au <ingredient>bouillon de bœuf</ingredient>, et <operation>mettez ce mélange sur un feu doux</operation>. <operation>ajoutez</operation> le <ingredient>sucre</ingredient>, pour diminuer l’ acidité des <ingredient>tomates</ingredient>, la <ingredient>coriandre</ingredient>, <operation>salez</operation> et <operation>poivrez</operation> et <operation>laissez mijoter pendant 15 min</operation>. <operation>ajoutez</operation> la <ingredient>vermicelle</ingredient>, <operation>laissez la</operation> cuire pendant 5 min environ. pendant ce temps, faites de la <ingredient>viande hachée</ingredient> de petites boulettes puis <operation>ajoutez</operation> la au mélange. <operation>laissez encore</operation> mijoter pendant environ 10min. une <ingredient>soupe</ingredient> toute rouge, à <operation>servir bien chaude, assez consistante, idéale en</operation> hiver.
+]]>
+ </preparation>
+</recette>

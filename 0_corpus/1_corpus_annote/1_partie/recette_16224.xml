@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16224">
+ <titre>Blanquette de veau maison</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 2 kg d’ épaule ou de tendron de veau coupé en morceaux</p>
+ <p>1 carotte</p>
+ <p>2 blancs de poireaux</p>
+ <p>1 gros oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 échalotes</p>
+ <p>1 brin de céleri</p>
+ <p>1 bouquet garni</p>
+ <p>1 bouquet de persil</p>
+ <p>1 citron</p>
+ <p>300 g de champignons de Paris</p>
+ <p>3 cuillères à soupe de vin blanc sec</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>1 dl de crème fraîche</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>70 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez <ingredient>carotte</ingredient>, <ingredient>ail</ingredient>, <ingredient>échalotes</ingredient> et <ingredient>oignon</ingredient></operation>. hachez ce dernier ainsi que les <ingredient>blancs</ingredient> de <ingredient>poireaux</ingredient>. <ingredient>coupez</ingredient> les <ingredient>échalotes</ingredient> et la <ingredient>carotte</ingredient> en deux. <operation>portez à ébullition 2 litres d’ eau dans un grand <recipient>faitout</recipient>, plongez - y les <ingredient>morceaux</ingredient> de viande pendant environ une minute pour les blanchir</operation> (<operation>blanchir la viande</operation> permet d’ éliminer les éventuelles impuretés tout en la rendant plus ferme). <operation>egouttez la viande, rincez - la sous l’ eau froide et jetez l’ eau de cuisson</operation>. <operation>replacez la viande dans le <recipient>faitout</recipient></operation> rincé. ajoutez <ingredient>oignon</ingredient> et poireaux hachés, <ingredient>carottes</ingredient>, <ingredient>échalotes</ingredient>, <ingredient>ail</ingredient>, <ingredient>céleri</ingredient> et <ingredient>bouquet garni</ingredient>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>mouillez avec le <ingredient>vin</ingredient></operation>. <operation>ajoutez de l’ eau pour que la viande et les légumes soient</operation> immergés. couvrez. <operation>portez à ébullition</operation> et <operation>laissez cuire 1 h 30</operation>. <operation>faites cuire dans une <recipient>poêle</recipient>, avec 30 g de beurre, les <ingredient>champignons</ingredient> coupés</operation> et citronnés 10 min. <operation>préparez un roux blond</operation>: <operation>faites fondre le reste de beurre dans une <recipient>casserole</recipient></operation>, <operation>saupoudrez - le avec la farine</operation>, <operation>mélangez vivement au fouet,</operation> puis <operation>laissez refroidir</operation>. quand la viande est cuite, <operation>mettez - la dans une <recipient>passoire</recipient> avec les légumes</operation> et <operation>récupérez le bouillon de cuisson</operation>. <operation>délayez le roux avec ce bouillon et amenez à ébullition en fouettant</operation>. <operation>remettez la viande et tous les légumes dans le <recipient>faitout</recipient> après avoir</operation> retiré <ingredient>bouquet garni</ingredient>, <ingredient>ail</ingredient>, <ingredient>céleri</ingredient> et <ingredient>carotte</ingredient>. <operation>ajoutez les</operation> <ingredient>champignons</ingredient>, <operation>versez la sauce</operation> et <operation>réchauffez le tout 10 à 15 mn</operation>. juste avant de <operation>servir</operation> <operation>mélangez la <ingredient>crème</ingredient> et les <ingredient>jaunes</ingredient> d’ <ingredient>oeufs</ingredient>, incorporez - les à la sauce en tournant sans</operation> <operation>laisser bouillir</operation>. <operation>ajoutez quelques gouttes de jus de <ingredient>citron</ingredient></operation>. <operation>servez dans un <recipient>plat</recipient> creux avec du <ingredient>persil</ingredient></operation>. [ ndchef: si vous ne <operation>buvez pas d’</operation> alcool, pas d’ inquiétude. l’ alcool s’ en va à la cuisson, ne laissant que l’ arôme... ]
+]]>
+ </preparation>
+</recette>

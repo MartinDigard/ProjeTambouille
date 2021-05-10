@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25016">
+ <titre>Coq au vin d’ Alsace</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 coq découpé en 8 morceaux + les chutes</p>
+ <p>50 cl de Riesling (Vin blanc d’ Alsace) </p>
+ <p>200 g de champignons</p>
+ <p>1 échalote</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à soupe d’ estragon haché</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>20 cl de crème fraîche</p>
+ <p>farine</p>
+ <p>beurre, huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient>chutes</ingredient> du <ingredient>coq</ingredient> dans une <recipient>casserole</recipient> avec l’ <ingredient>échalote</ingredient> et 25 cl d’ eau salée. porter à ébullition et <operation>laisser bouillir 20 min</operation>. <operation>faire dorer les <ingredient>morceaux</ingredient> de <ingredient>coq</ingredient> dans un mélange <ingredient>beurre</ingredient> - <ingredient>huile</ingredient> dans une <recipient>cocotte</recipient></operation>. ajouter les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> et les herbes <ingredient>hachées</ingredient>. mouiller avec le bouillon préparé au début et filtré et le vin. <operation>laisser mijoter 30 min</operation>. nettoyer et émincer les <ingredient>champignons</ingredient>. les <operation>faire sauter au beurre</operation> et saupoudrer de <ingredient>farine</ingredient>. ajouter ces <ingredient>champignons</ingredient> au <ingredient>coq</ingredient> et <operation>laisser mijoter encore 15 min</operation>. retirer les <ingredient>morceaux</ingredient> de <ingredient>coq</ingredient> de la <recipient>cocotte</recipient>, les disposer sur un <recipient>plat</recipient> chaud. ajouter la <ingredient>crème fraîche</ingredient> dans la <recipient>cocotte</recipient>, rectifier l’ assaisonnement et napper les <ingredient>morceaux</ingredient> de <ingredient>coq</ingredient>. <operation>servir aussitôt</operation>. pour accompagner vous n’ <operation>avez que l’ embarras</operation> su choix: pâtes fraîches, spätzle, riz, purée ou pommes dauphines, ravioles au fromage...
+]]>
+ </preparation>
+</recette>

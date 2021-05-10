@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24069">
+ <titre>Blanquette de veau</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 2 kg de viande de veau</p>
+ <p>1 carotte</p>
+ <p>2 blancs de poireaux</p>
+ <p>2 oignon</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>le jus d’ 1 citron</p>
+ <p>300 g de champignons de Paris</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>10 cl de crème fraîche</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>70 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir une grande <recipient>cocotte</recipient> d’ eau</operation>. y plonger la <ingredient>viande</ingredient> découpées en morceaux. au bout d’ une minute, retirer du feu et jeter l’ eau de cuisson. remettre la <recipient>cocotte</recipient> sur le feu et y metre les <ingredient>carottes</ingredient> et les <ingredient>poireaux</ingredient> en rondelles, les <ingredient>oignons</ingredient> émincés, les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> et le <ingredient>bouquet garni</ingredient>. mouiller avec le <ingredient>vin</ingredient>, saler, poivrer, remettre la <ingredient>viande</ingredient>. ajuster le niveau du liquide en ajoutant de l’ eau: les ingrédients doivent être immergés. <operation>laisser cuire 1 h 30 min à couvert</operation>. au bout de ce temps, laver les <ingredient>champignons</ingredient> et les <operation>faire sauter à la <recipient>poêle</recipient> avec 30 g de beurre</operation>. <operation>faire un roux avec le beurre</operation> restant: le <operation>faire fondre dans une <recipient>casserole</recipient></operation> et ajouter la farine en fouettant. <operation>sortir les légumes et la <ingredient>viande</ingredient> de la <recipient>cocotte</recipient></operation>. jeter le <ingredient>bouquet garni</ingredient>. y ajouter le roux en remuant et les <ingredient>champignons</ingredient>. remettre tous les éléments dans la <recipient>cocotte</recipient> et réchauffer 15 min. délayer les <ingredient>jaunes</ingredient> d’ <ingredient>oeufs</ingredient> dans la <ingredient>crème fraîche</ingredient> et l’ ajouter à la <recipient>cocotte</recipient> avant de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42103">
+ <titre>Apple pie</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>2 cuillères à café bien pleines de farine</p>
+ <p>1 pincée de sel</p>
+ <p>100 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 grosse pomme coupée en petits cubes</p>
+ <p>Pour le nappage: </p>
+ <p>45 g de farine (ou 5 grosses cuillères à soupe de farine) </p>
+ <p>75 g de sucre (ou 5 grosses cuillères à soupe de sucre) </p>
+ <p>1 cuillère à café rase de cannelle</p>
+ <p>45 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>tapissez le fond d’ un <recipient><recipient>moule</recipient> à tarte</recipient> avec la <ingredient>pâte</ingredient></operation> brisée. <operation>mélangez la farine, le <ingredient>sel</ingredient>, le <ingredient>sucre</ingredient> et le <ingredient>sucre</ingredient></operation> vanillé. ajoutez l’ <ingredient>oeuf</ingredient>, la <ingredient>crème fraîche</ingredient>, le <ingredient>sucre</ingredient> vanillé et les <ingredient>pommes</ingredient> ; <operation>versez sur la <ingredient>pâte</ingredient></operation>. <operation>préparez ensuite le <ingredient>nappage</ingredient>, en</operation> mélangeant la farine, le <ingredient>sucre</ingredient>, la <ingredient>cannelle</ingredient>, et le beurre. mélangez, en utilisant une technique facile pour <operation>faire des miettes: avec 1 couteau dans chaque main, traversez la <ingredient>pâte</ingredient> dans tous les sens</operation>. <operation>dispersez sur le dessus de la tarte</operation>. enfournez à 180 ° c (thermostat 6), puis <operation>servez tiède</operation>. cidre
+]]>
+ </preparation>
+</recette>

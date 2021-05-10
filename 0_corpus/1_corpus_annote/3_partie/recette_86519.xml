@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86519">
+ <titre>Gratin de pâtes au camembert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pâtes</p>
+ <p>2 oignons</p>
+ <p>250 g de lardons</p>
+ <p>1 camembert (250 g) </p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire vos <ingredient>pâtes</ingredient> dans l’ <ingredient>eau</ingredient> bouillante</operation>. pendant ce temps, émincez vos <ingredient>oignons</ingredient>. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). dans une <recipient>poêle</recipient>, <operation>faites griller les <ingredient>lardons</ingredient> ainsi que les <ingredient>oignons</ingredient></operation>. enlevez la croûte du <ingredient>camembert</ingredient> et <operation>coupez - le en 2 dans le sens de l’ épaisseur, de façon à</operation> <operation>faire 2 cylindres</operation>. dans un <recipient>plat</recipient> un peu haut, <operation>déposez une couche de <ingredient>pâtes</ingredient> puis une de <ingredient>lardons</ingredient>, <ingredient>oignons</ingredient> et une tranche de <ingredient>camembert</ingredient> et ainsi de suite</operation>. <operation>terminez par le <ingredient>camembert</ingredient></operation>. <operation>faites cuire environ 15 min à <recipient>four</recipient> chaud</operation>. pour les francomtois, on peut remplacer les <ingredient>lardons</ingredient> par de la saucisse de montbéliard.
+]]>
+ </preparation>
+</recette>

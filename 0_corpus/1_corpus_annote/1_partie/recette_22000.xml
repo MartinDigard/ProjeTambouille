@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22000">
+ <titre>Riz cantonais au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de riz cuit</p>
+ <p>300 g de restes de poulet cuit</p>
+ <p>2 oeufs</p>
+ <p>150 g de petits pois cuits</p>
+ <p>50 g de pousses de bambou</p>
+ <p>2 gros champignons noirs</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites tremper les <ingredient>champignons</ingredient> dans un bol d’ eau</operation> chaude au moins 30 min ou passez - les 2 min au <recipient>micro-onde</recipient> dans un bol d’ eau. hachez l’ <ingredient>oignon</ingredient>, <operation>faites - le</operation> <operation>revenir dans une <recipient>sauteuse</recipient> avec 2 <ingredient>cuillères</ingredient> d’</operation> huile chaude. <operation>détaillez le <ingredient>poulet</ingredient> en <ingredient>petits</ingredient> morceaux</operation> et ajoutez - les, ainsi que les <ingredient>pousses de bambou</ingredient> égouttées. <operation>ajoutez aussi les <ingredient>champignons</ingredient></operation> égouttés et émincés et les <ingredient>petits pois</ingredient>. <operation>mélangez bien le tout</operation>. <operation>ajoutez le</operation> <ingredient>riz</ingredient>, <operation>mélangez</operation> et</operation> <operation>laissez cuire à feu doux 10 min en</operation> remuant sans cesse. battez les <ingredient>oeufs</ingredient> en omelette et <operation>faites - les</operation> cuire à part avec 1 <ingredient>cuillère</ingredient> d’ huile. <operation>roulez l’ omelette</operation>, <operation>découpez - la en lanières</operation> et <operation>ajoutez - les dans la <recipient>sauteuse</recipient></operation>. <operation>mélangez</operation> et</operation> <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

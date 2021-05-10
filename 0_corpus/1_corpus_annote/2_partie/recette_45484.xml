@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45484">
+ <titre>La soupe espagnole de Mamie</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de collier d’ agneau ou de mouton ou autre morceau bon marché</p>
+ <p>1 oignon moyen</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 cubes pour bouillon de volaille</p>
+ <p>colorant alimentaire en poudre jaune ou piment doux (facultatif mais cela donne un air plus espagnol à la soupe) </p>
+ <p>180 g de riz</p>
+ <p>200 g de haricots verts frais ou congelés</p>
+ <p>250 g de pois-chiches cuits</p>
+ <p>2 pommes de terre moyennes</p>
+ <p>la viande peut être remplacée par des ailes de poulet, les haricots verts par des épinards ou des côtes de blettes, les pois-chiches par des haricots rouges</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir la <ingredient>viande</ingredient> quelques minutes avec l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient> hachés</operation>. ajouter 1, 5 l d’ eau et les <ingredient>cubes pour bouillon de volaille</ingredient>. saler (pas trop à cause des <ingredient>cubes</ingredient>) et poivrer, <operation>faire cuire 1 h (il</operation> faut que la <ingredient>viande</ingredient> soit fondante). ajouter le <ingredient>riz</ingredient> et <operation>laisser cuire 10 minutes</operation>. ajouter les <ingredient>pois</ingredient> - <ingredient>chiches</ingredient>, les <ingredient>haricots verts</ingredient> et les <ingredient>pommes de terre</ingredient> coupés en petits <ingredient>morceaux</ingredient> (je les coupe en 4 dans le sens de la longueur et ensuite en tranches de 1/2 centimètre dans l’ autre sens), <operation>laisser cuire encore 15 minutes</operation> puis éteindre le feu et <operation>laisser reposer au moins 1/2 heure</operation>. cette soupe était faite par ma belle-mère (espagnole) qui avait une famille nombreuse à <operation>nourrir, mes enfants (+ de 30 ans) me</operation> réclament encore " la soupe de mamie ", elle est bien meilleure le lendemain. bien sûr les proportions peuvent être modifiées en fonction des goûts.
+]]>
+ </preparation>
+</recette>

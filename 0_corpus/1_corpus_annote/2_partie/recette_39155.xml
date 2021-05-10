@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39155">
+ <titre>Salade de concombre au yaourt</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 concombre</p>
+ <p>1 yaourt nature</p>
+ <p>1 moitié de poivron vert</p>
+ <p>jus de citron</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et éplucher le <ingredient>concombre</ingredient>, le couper en rondelles et le <operation>laisser égoutter avec un peu de <ingredient>sel</ingredient></operation>. laver le <ingredient>poivron</ingredient> et le couper en petits dés. dans un saladier: verser le <ingredient>yaourt</ingredient>, poivrer, citronner, et ajouter quelques <ingredient>herbes de provence</ingredient> (ne pas hésiter à goûter la sauce pour vérifier l’ assaisonnement). mélanger le tout avec le <ingredient>concombre</ingredient> et le <ingredient>poivron</ingredient>.
+]]>
+ </preparation>
+</recette>

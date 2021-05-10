@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73423">
+ <titre>Tarte aux citrons de zaza</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Le jus de 4 citrons</p>
+ <p>1 pâte sablée (maison de préférence) </p>
+ <p>1 boite (380 ml) de lait concentré non sucré</p>
+ <p>4 œufs</p>
+ <p>30 g de farine</p>
+ <p>facultatif: des zestes de citron confit</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 175 ° c (thermostat 5 - 6). dans un <recipient>plat</recipient>, mélanger: <ingredient>farine</ingredient>, <ingredient>jus de citrons</ingredient>, <ingredient>zestes confits</ingredient>, puis ajouter les <ingredient>œufs</ingredient> et le <ingredient>lait concentré</ingredient>. bien mélanger. verser le tout sur la pâte <ingredient>sablée</ingredient>. <operation>faire cuire 30 min à 175 ° c</operation>.
+]]>
+ </preparation>
+</recette>

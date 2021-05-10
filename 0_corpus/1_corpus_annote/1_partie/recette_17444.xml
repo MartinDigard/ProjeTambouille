@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17444">
+ <titre>Spaghetti à l’ ail et aux courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti épais (taille 7 environ) </p>
+ <p>1 brique et demi de crème fraîche liquide</p>
+ <p>6 belles courgettes</p>
+ <p>4 gousses d’ ail</p>
+ <p>quelques cuillères d’ huile d’ olive</p>
+ <p>parmesan</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>courgettes</ingredient></operation> coupées en dés et l’ <ingredient>ail</ingredient> écrasé dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> jusqu’ à ce que les <ingredient>courgettes</ingredient> soient bien tendres. <operation>faire cuire les <ingredient>spaghetti</ingredient> al dente</operation>. verser la <ingredient>crème fraîche</ingredient> sur la préparation et remuer 30 secondes. verser la sauce et le <ingredient>parmesan</ingredient> sur les pâtes bien chaudes. <operation>servir de suite</operation>.
+]]>
+ </preparation>
+</recette>

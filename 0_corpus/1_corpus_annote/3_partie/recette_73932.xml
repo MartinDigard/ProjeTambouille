@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73932">
+ <titre>Moules au curry rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 kg de moules</p>
+ <p>4 tomates</p>
+ <p>8 oignons</p>
+ <p>6 carottes</p>
+ <p>150 g de pâte de curry rouge</p>
+ <p>50 cl de crème fraîche</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient>oignons</ingredient> en rondelles, et les <operation>faire revenir dans de l’ huile d’ <ingredient>olive</ingredient></operation>. ajouter les <ingredient>carottes</ingredient> découpées en petits bâtonnets, <operation>couvrir</operation> et</operation> <operation>laisser mijoter 20 min</operation> environ</operation>. ajouter les <ingredient>tomates</ingredient> découpées en dés, ainsi que la pâte de <ingredient>curry rouge</ingredient>, <operation>couvrir</operation> et</operation> <operation>laisser mijoter 20 min</operation>. ajouter les <ingredient>moules</ingredient> et cuire à feu vif. avant de <operation>servir</operation>, ajouter la <ingredient>crème fraîche</ingredient>.
+]]>
+ </preparation>
+</recette>

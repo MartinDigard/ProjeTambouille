@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58026">
+ <titre>Couscous antillais</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 gr de semoule de blé (couscous) </p>
+ <p>6 merguez</p>
+ <p>3 bananes bien mûres</p>
+ <p>Bouillon de poule</p>
+ <p>curcuma</p>
+ <p>raisins secs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>merguez</ingredient></operation>. peler les <ingredient>bananes</ingredient> et les <operation>faire cuire (avec les <ingredient>merguez</ingredient> c’ est meilleur, mais il</operation> faut aimer) faire gonfler la semoule avec le <ingredient>bouillon de poule</ingredient> chaud, les <ingredient>raisins sec</ingredient> et le <ingredient>curcuma</ingredient> (épices à couscous). servir le tout dans un grand <recipient>plat</recipient>. <recipient>plat</recipient> adoré par les enfants!!! pour les plus jeunes, je remplace les <ingredient>merguez</ingredient> par des chipolatas.
+]]>
+ </preparation>
+</recette>

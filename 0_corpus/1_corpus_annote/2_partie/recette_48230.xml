@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48230">
+ <titre>Lasagnes aux oeufs, chèvre et petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de lasagnes</p>
+ <p>5 oeufs</p>
+ <p>1 boîte de petits pois</p>
+ <p>2 bûches de chèvre</p>
+ <p>1 boîte de tomate en morceaux</p>
+ <p>sel et poivre</p>
+ <p>2 gros oignons</p>
+ <p>3 têtes d’ ail</p>
+ <p>herbes de Provence</p>
+ <p>150 g de gruyère ou parmesan (selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>oeufs</ingredient> dans une eau</operation> portée à ébullition pendant 10 min. les écaler et les couper en rondelles. pour la sauce à la <ingredient>tomate</ingredient> et aux <ingredient>petits pois</ingredient>: mixer les <ingredient>tomates</ingredient>. <operation>faire revenir les <ingredient>oignons</ingredient> dans une <recipient>poêle</recipient> puis les mixer avec les <ingredient>tomates</ingredient></operation>. ajouter les <ingredient>herbes de provence</ingredient> et <operation>laisser mijoter le tout dans une <recipient>casserole</recipient> en</operation> assaisonnant à votre convenance. quand la sauce est presque prête, écraser l’ <ingredient>ail</ingredient> et l’ incorporer à la sauce. ajouter les <ingredient>petits pois</ingredient> et <operation>laisser cuire le tout pendant 5 min</operation>. pour les <ingredient>lasagnes</ingredient>: déposer dans le fond d’ un <recipient>plat</recipient> une première couche de <ingredient>lasagnes</ingredient> puis une couche de sauce à la <ingredient>tomate</ingredient> et aux <ingredient>petits pois</ingredient>, une couche de rondelles d’ <ingredient>oeufs</ingredient> et une couche de rondelles de <ingredient>chèvre</ingredient>. recommencer cette alternance jusqu’ au bord du <recipient>plat</recipient>. parsemer enfin le dessus de gruyère ou de <ingredient>parmesan</ingredient>. mettre le <recipient>plat</recipient> au <recipient>four</recipient> pendant 20 min à 220 ° c (thermostat 7 - 8). servir. et voilà un <ingredient>petit</ingredient> air de sicile sur votre table... un vin rouge italien
+]]>
+ </preparation>
+</recette>

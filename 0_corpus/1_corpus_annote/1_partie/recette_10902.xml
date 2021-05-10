@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10902">
+ <titre>Quiche saumon-crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>20 cl de crème épaisse à 15% de MG</p>
+ <p>2 cuillères à café de fumet de poisson</p>
+ <p>1 pâte feuilletée</p>
+ <p>1 boîte de saumon en conserve</p>
+ <p>1 boite de crevette en conserve</p>
+ <p>50 g de gruyère râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient>oeufs</ingredient> avec la <ingredient>crème</ingredient>, le <ingredient>fumet</ingredient>, du <ingredient>sel</ingredient> et du poivre. etaler la <ingredient>pâte feuilletée</ingredient> dans le <recipient><recipient>moule</recipient> à tarte</recipient>. egoutter le <ingredient>saumon</ingredient> et les <ingredient>crevettes</ingredient> puis les disposer sur la <ingredient>pâte</ingredient>. <operation>recouvrir du mélange <ingredient>crème</ingredient> - <ingredient>oeuf</ingredient></operation>. parsemer de <ingredient>gruyère râpé</ingredient>. mettre au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 20 - 30 minutes. a <operation>servir avec une salade verte</operation>
+]]>
+ </preparation>
+</recette>

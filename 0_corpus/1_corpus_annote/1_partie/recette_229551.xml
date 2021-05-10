@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229551">
+ <titre>Pêches au vin rosé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 l de vin rosé</p>
+ <p>2 pêches</p>
+ <p>4 cl d’ eau</p>
+ <p>1 cuillère à café de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>pêches</ingredient> en dés</operation>. <operation>mettez le rosé dans un verre</operation>, <operation>ajoutez un peu d’ <ingredient>eau</ingredient> pour le</operation> diluer puis du <ingredient>sucre</ingredient>. enfin, <operation>mettez les morceaux de <ingredient>pêche</ingredient> dans le verre</operation>. <operation>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

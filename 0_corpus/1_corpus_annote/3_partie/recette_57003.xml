@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57003">
+ <titre>Steak au bresse bleu</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 steaks hachés</p>
+ <p>2 tranches de bresse bleu</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire d’ abord</operation> cuire les steak à feu fort puis, sur un coté de la <recipient>poêle</recipient>, faire cuire le <ingredient>bresse bleu</ingredient> des 2 côtés et le mettre sur le steak haché et <operation>faire cuire à petit feu</operation>. dans une autre <recipient>poêle</recipient>, <operation>faire cuire les 2 <ingredient>oeufs</ingredient> et les</operation> poser sur le steak haché et le <ingredient>bresse bleu</ingredient> et le tour est joué. bon appétit à vous tous! très bon et très consistant!
+]]>
+ </preparation>
+</recette>

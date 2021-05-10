@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96239">
+ <titre>Thon en gelée</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de gelée madère</p>
+ <p>4 feuilles de gélatine (gelée alimentaire) </p>
+ <p>500g de thon</p>
+ <p>3 œufs durs</p>
+ <p>3 tomates</p>
+ <p>20cl de mayonnaise</p>
+ <p>20cl de fromage blanc</p>
+ <p>20cl de crème liquide</p>
+ <p>Ciboulette et persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>portez à ébullition une <recipient>casserole</recipient> d’ eau dans laquelle vous avez</operation> plonger les <ingredient>feuilles de gélatine</ingredient> avec un <ingredient>sachet de gelée madère</ingredient>. <operation>laissez refroidir</operation>. mélangez la <ingredient>ciboulette</ingredient> et le <ingredient>persil</ingredient> avec la <ingredient>mayonnaise</ingredient>, la <ingredient>crème liquide</ingredient> et le <ingredient>fromage blanc</ingredient>. verser un peu de <ingredient>gelée</ingredient> dans le fond d’ un <recipient>plat</recipient> et décorez avec les <ingredient>œufs durs</ingredient> et les <ingredient>tomates</ingredient>. versez le reste de <ingredient>gelée</ingredient> dans le mélange herbes / <ingredient>mayonnaise</ingredient> / <ingredient>crème</ingredient> et <ingredient>fromage blanc</ingredient>. <operation>versez le tout délicatement dans le <recipient>plat</recipient></operation> et <operation>laissez reposez 24h au frigo</operation>. <operation>démoulez en le retournant pour</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

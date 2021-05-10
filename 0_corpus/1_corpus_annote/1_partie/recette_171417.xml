@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171417">
+ <titre>Mafé de poulet facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de poulet (ou 4 hauts de cuisse) </p>
+ <p>2 tomates fraîches</p>
+ <p>1 demi-blanc de poireaux</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 cuillères à soupe de pâte d’ arachide</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>piment doux (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir les cuisses de <ingredient>poulet</ingredient></operation>. pendant ce temps, épluchez les <ingredient>tomates</ingredient> à l’ aide d’ un économe spécial ou après les avoir plongées 30 secondes dans l’ eau bouillante. mixez l’ <ingredient>oignon</ingredient>, l’ <ingredient>ail</ingredient>, le blanc de <ingredient>poireaux</ingredient> et les <ingredient>tomates</ingredient>. <operation>versez le tout sur le <ingredient>poulet</ingredient>, remuez</operation> puis <operation>recouvrez d’ un demi-litre d’ eau</operation>. <operation>laissez cuire à feu <ingredient>doux</ingredient> pendant 1h.15 min avant la fin de la cuisson</operation>, <operation>ajoutez la <ingredient>pâte</ingredient> d’ <ingredient>arachide</ingredient> en</operation> mélangeant bien. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez du <ingredient>piment</ingredient> à votre convenance</operation>. <operation>servir avec un riz thai ou basmati bien cuit</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24823">
+ <titre>Poulet au yaourt et paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>1 yaourt</p>
+ <p>4 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à soupe de paprika</p>
+ <p>20 cl de bouillon de volaille</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient>oignons</ingredient>. <operation>faites revenir le <ingredient>poulet</ingredient></operation> découpé en morceaux dans une <recipient>cocotte</recipient> avec l’ <ingredient>huile</ingredient>. une fois les morceaux dorés, <operation>retirez - les</operation> et <operation>mettez à leur place les</operation> <ingredient>oignons</ingredient>, <operation>laissez - les fondre</operation>. hors du feu <operation>saupoudrez de</operation> <ingredient>paprika</ingredient>, <operation>salez</operation>, <operation>poivrez</operation> et <operation>versez le <ingredient>bouillon</ingredient></operation>. <operation>remettez sur le feu</operation>, <operation>rajoutez les morceaux de <ingredient>poulet</ingredient> et l’ <ingredient>ail</ingredient></operation> écrasé. <operation>laissez mijoter 1 h à feu doux</operation>. en fin de cuisson, <operation>versez le <ingredient>yaourt</ingredient> battu</operation>, <operation>mélangez</operation> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

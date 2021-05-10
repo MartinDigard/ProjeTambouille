@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52875">
+ <titre>Emincé de veau au citron et à l’ estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de veau coupé en dés</p>
+ <p>1 oignon</p>
+ <p>250 g de lardons</p>
+ <p>2 cuillères à soupe d’ huile ou de graisse d’ oie</p>
+ <p>1 tasse de bouillon de boeuf</p>
+ <p>1 verre vin blanc sec</p>
+ <p>20 cl de crème fraîche</p>
+ <p>le jus d’ 1 citron</p>
+ <p>3 cuillères à soupe d’ estragon haché (surgelé) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire blondir l’ <ingredient>oignon</ingredient></operation> émincé et les <ingredient>lardons</ingredient> dans la <ingredient>graisse</ingredient>. ajouter le <ingredient>veau</ingredient> en cubes, avec la tasse de <ingredient>bouillon</ingredient> et le <ingredient>verre</ingredient> de <ingredient>vin blanc</ingredient>. saler et poivrer (attention, les <ingredient>lardons</ingredient> sont déjà salés), puis <operation>laisser mijoter pendant 1 h 30</operation>. 5 min avant de <operation>servir</operation>, rajouter la <ingredient>crème fraîche</ingredient>, le <ingredient>citron</ingredient> et l’ <ingredient>estragon</ingredient>. servir avec des tagliatelles fraîches.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17969">
+ <titre>Gateau aux fruits de saison</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>7 cuillères à soupe de farine</p>
+ <p>7 cuillères à soupe de sucre</p>
+ <p>1/2 sachet de levure</p>
+ <p>100 g de beurre ramolli</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>un peu de lait</p>
+ <p>3 oeufs</p>
+ <p>des fruits (pommes, mirabelles, poires, cerises, pèches... au choix et à mélanger selon les goûts) </p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre dans un saladier la farine, le <ingredient>sucre</ingredient> et la <ingredient>levure</ingredient> et bien mélanger. ajouter le beurre, la <ingredient>crème fraîche</ingredient> et les <ingredient>oeufs</ingredient>, bien mélanger, ajouter le <ingredient>lait</ingredient> en remuant (plus les <ingredient>fruits</ingredient> sont juteux moins il faut mettre de <ingredient>lait</ingredient>). beurrer un <recipient>plat</recipient> allant au <recipient>four</recipient> y disposer les <ingredient>fruits</ingredient> et <operation>recouvrir de la pâte</operation>. enfourner à <recipient>four</recipient> moyen pendant 25 mn. à la sortie du <recipient>four</recipient> saupoudrer le <ingredient>sucre</ingredient> vanillé. n’ <operation>ayez pas peur de</operation> mettre beaucoup de <ingredient>fruits</ingredient> la pâte en gonflant les recouvrira tous.
+]]>
+ </preparation>
+</recette>

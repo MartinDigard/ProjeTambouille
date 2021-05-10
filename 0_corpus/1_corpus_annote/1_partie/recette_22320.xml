@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22320">
+ <titre>Cassoulet au saucisson et au canard</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>900 g de haricots blancs</p>
+ <p>3 ailes et 3 cuisses de canard confites</p>
+ <p>3 saucissons à cuire</p>
+ <p>4 gousses d’ ail</p>
+ <p>225 g de lard fumé</p>
+ <p>1 bouquet de persil</p>
+ <p>9 brins de thym</p>
+ <p>1 oignon piqué de 2 clous de girofle</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille: <operation>faites tremper les <ingredient>haricots</ingredient> dans l’ eau</operation> froide. le jour même: <operation>egouttez les</operation> <ingredient>haricots</ingredient> et <operation>mettez - les dans l’ eau</operation> froide avec l’ <ingredient>oignon</ingredient> clouté et le <ingredient>thym</ingredient>. <operation>amenez à ébullition</operation> et <operation>laissez <ingredient>cuire</ingredient> 1 heure</operation>. <operation>salez</operation> et <operation>poivrez en fin de cuisson</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 8). <operation>frottez d’ <ingredient>ail</ingredient> un <recipient>plat</recipient> en terre à feu</operation>. déposez - y le <ingredient>confit</ingredient>, les <ingredient>saucissons</ingredient> et le <ingredient>lard</ingredient> coupé en dés. <operation>ajoutez les <ingredient>haricots</ingredient> égouttés et quelques louches de leur eau de cuisson</operation>. <operation>portez à ébullition</operation> puis <operation>enfournez pour 1h30 de cuisson</operation>. <operation>saupoudrez de <ingredient>persil</ingredient></operation> haché avant de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

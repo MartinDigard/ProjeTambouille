@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34250">
+ <titre>Oeufs gratinés au chou-fleur et au riz</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>1 chou-fleur</p>
+ <p>250 g de riz</p>
+ <p>un oignon</p>
+ <p>sel poivre</p>
+ <p>100 g de gruyère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir dans une <recipient>cocotte</recipient> - minute l’ <ingredient>oignon</ingredient> puis le <ingredient>chou-fleur</ingredient> en morceaux, puis le <ingredient>riz</ingredient></operation>. <operation>salez</operation> <operation>poivrez</operation> et <operation>ajoutez 400 g d’ eau</operation>. <operation>faire cuire 5 mn à la vapeur</operation>. pendant ce temps <operation>faire cuire les <ingredient>oeufs</ingredient> durs (6 mn dans l’ eau bouillante</operation>). les écalez et les <operation>coupez en deux</operation>. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, <operation>remplir du <ingredient>chou-fleur</ingredient> au <ingredient>riz</ingredient></operation> auquel on ajoute la moitié du <ingredient>gruyère</ingredient>. <operation>posez les <ingredient>oeufs</ingredient> durs dessus</operation> et <operation>recouvrez le tout de <ingredient>gruyère</ingredient></operation>. <operation>passez 5 mn sous le grill</operation>. même les petis enfants adorent le <ingredient>chou-fleur</ingredient> préparé de cette façon.
+]]>
+ </preparation>
+</recette>

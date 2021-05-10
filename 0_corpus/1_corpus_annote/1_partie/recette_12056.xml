@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12056">
+ <titre>Prunes au vin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>110 g de sucre roux</p>
+ <p>1 kg de prunes</p>
+ <p>1/2 l de muscat blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>dénoyautez les <ingredient>prunes</ingredient></operation>. dans une <recipient>casserole</recipient>, <operation>faites fondre le <ingredient>sucre</ingredient> dans le</operation> <ingredient>muscat</ingredient>, <operation>laissez bouillir</operation>. <operation>ajoutez ensuite les</operation> <ingredient>prunes</ingredient> et <operation>laissez mijoter pendant environ 10 minutes</operation>.
+]]>
+ </preparation>
+</recette>

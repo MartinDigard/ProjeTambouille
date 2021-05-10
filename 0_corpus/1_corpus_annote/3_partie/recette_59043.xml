@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59043">
+ <titre>Sandwich chinois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pistolets (baguette coupée en 3 ou 4 qu’ on trouve en sachets au rayon boulangerie) </p>
+ <p>200 g de thon au naturel (1 boîte) </p>
+ <p>1 petit oignon</p>
+ <p>1 grosse carotte</p>
+ <p>un peu de purée de piment ou harissa (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egoutter le <ingredient>thon</ingredient> et l’ émietter. couper l’ <ingredient>oignon</ingredient> en 2 puis couper des lamelles fines. eplucher et râper la <ingredient>carotte</ingredient>. <operation>ouvrir les <ingredient>pistolets</ingredient> en 2</operation>, <operation>garnir de la quantité</operation> désirée de <ingredient>thon</ingredient>, puis ajouter des demi-rondelles d’ <ingredient>oignon</ingredient> sur toute la surface et ajouter de la <ingredient>carotte</ingredient> râpée. si vous le voulez, tartinez sur une des faces intérieures du pain un peu d’ <ingredient>harissa</ingredient>. bon casse-croûte... j’ ai goûté ce genre de sandwich dans une sandwicherie, tenue par un asiatique, dans le 13è arrondissement à paris. j’ ai trouvé ça très original et le goût avait vraiment un côté " <recipient>chinois</recipient> " que j’ ai beaucoup aimé.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81488">
+ <titre>Omelette de coquillettes et julienne de légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80 g de coquillettes</p>
+ <p>3 oeufs</p>
+ <p>100 g de julienne de légumes surgelés</p>
+ <p>1 cuillère à soupe de concentré de tomates</p>
+ <p>basilic, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>cuisez les</operation> <ingredient>coquillettes</ingredient> et <operation>réservez - les</operation>. <operation>mélangez les <ingredient>coquillettes</ingredient> avec la <ingredient>julienne</ingredient></operation> décongelée, le concentré de <ingredient>tomates</ingredient>, <ingredient>basilic</ingredient>, <ingredient>sel</ingredient> et <ingredient>poivre</ingredient>. <operation>ajoutez les <ingredient>oeufs</ingredient></operation> battus, <operation>mélangez bien</operation>. <operation>versez dans une <recipient>poêle</recipient></operation> et <operation>laissez prendre à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

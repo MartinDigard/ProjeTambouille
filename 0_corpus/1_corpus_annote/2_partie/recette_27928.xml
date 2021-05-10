@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27928">
+ <titre>Pâtes à la crème de parmesan et jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de pâtes</p>
+ <p>50 g de beurre</p>
+ <p>50 cl de crème fraîche</p>
+ <p>100 g de parmesan râpé</p>
+ <p>3 tranches de jambon</p>
+ <p>1 oignon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>pâtes</ingredient> dans un grand volume d’ eau bouillante</operation> salée. <operation>faire fondre le beurre dans une <recipient>casserole</recipient>, y</operation> <operation>faire dorer l’ <ingredient>oignon</ingredient></operation> émincé et le <ingredient>jambon</ingredient> détaillé en lamelles. ajouter la <ingredient>crème fraîche</ingredient> dans la <recipient>casserole</recipient> avec l’ <ingredient>oignon</ingredient>, saler, poivrer et mélanger. incorporer le <ingredient>parmesan</ingredient>. mélanger jusqu’ à ce que ce soit onctueux. egoutter les <ingredient>pâtes</ingredient>, les metrre dans un <recipient>plat</recipient> et verser la sauce dessus.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57503">
+ <titre>Omelette à la tomate et à la pomme</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tomate</p>
+ <p>1 pomme</p>
+ <p>2 oeufs</p>
+ <p>sel, poivre, paprika</p>
+ <p>1 cuillère à café d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>huile</ingredient> dans une <recipient>poêle</recipient> anti-adhésive</operation>. pendant ce temps, couper la <ingredient>tomate</ingredient> en petites rondelles. <operation>faire cuire la <ingredient>tomate</ingredient></operation>. peler la <ingredient>pomme</ingredient> et la couper en quartiers fins. rajouter la <ingredient>pomme</ingredient> à la <ingredient>tomate</ingredient>. battre 2 <ingredient>oeufs</ingredient> en omelette, saler, poivrer et rajouter un peu de <ingredient>paprika</ingredient>. les rajouter à la <ingredient>pomme</ingredient> et la <ingredient>tomate</ingredient>.
+]]>
+ </preparation>
+</recette>

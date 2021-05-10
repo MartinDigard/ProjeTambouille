@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30840">
+ <titre>Poêlée d’ aubergines à la provençale</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g d’ aubergines</p>
+ <p>350 g de tomates</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 oignons</p>
+ <p>50 g de fromage râpé</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>quelques feuilles de basilic</p>
+ <p>gros sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>aubergines</ingredient> en rondelles</operation> et <operation>faites - les</operation> dégorger 20 minutes dans une <recipient>passoire</recipient> en les saupoudrant de <ingredient>gros sel</ingredient>. rincez les <ingredient>aubergines</ingredient>, séchez - les puis <operation>faites - les</operation> <operation>revenir dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. <operation>ajoutez l’ <ingredient>ail</ingredient> et les <ingredient>oignons</ingredient></operation> émincés ainsi que les <ingredient>tomates</ingredient> pelées et coupées en quartiers. <operation>assaisonnez</operation> et <operation>laissez cuire 20 - 25 minutes</operation>. avant de <operation>servir</operation>, saupoudrez de <ingredient>fromage râpé</ingredient> et de <ingredient>feuilles de basilic</ingredient> ciselée. se déguste aussi bien chaud que froid.
+]]>
+ </preparation>
+</recette>

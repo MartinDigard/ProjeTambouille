@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50101">
+ <titre>Emincé de poulet aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>1 grosse boîte de petits pois</p>
+ <p>1/2 échalote</p>
+ <p>2 tomates</p>
+ <p>1 tête d’ ail</p>
+ <p>thym</p>
+ <p>1 pincée de safran</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient>poulet</ingredient> en morceaux, puis les <operation>faire dorer dans une <recipient>cocotte</recipient> en fonte</operation> huilée. egoutter les <ingredient>petits pois</ingredient>, éplucher l’ <ingredient>échalote</ingredient>, les <ingredient>tomates</ingredient> et l’ <ingredient>ail</ingredient> ; les couper très finement. ajouter l’ <ingredient>ail</ingredient>, le <ingredient>thym</ingredient> et l’ <ingredient>échalote</ingredient> dans la <recipient>cocotte</recipient>. <operation>laisser cuire 2 min,</operation> puis ajouter la pincée de <ingredient>safran</ingredient>, le poivre, sel et les <ingredient>tomates</ingredient>. <operation>laisser cuire encore 2 min</operation>, ajouter les <ingredient>petits pois</ingredient> et de l’ eau, de sorte que cela couvre la totalité des ingrédients ; <operation>couvrir à moitié</operation>. <operation>laisser cuire environ 1 h, jusqu’ à ce que l’ eau</operation> devienne un sauce onctueuse. vous pouvez accompagner ce <recipient>plat</recipient> avec du riz parfumé.
+]]>
+ </preparation>
+</recette>

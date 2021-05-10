@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168085">
+ <titre>Gâteau au chocolat noir et aux cigarettes croustillantes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300g de farine</p>
+ <p>350g de lait</p>
+ <p>135g de sucre</p>
+ <p>15g de sucre vanillé</p>
+ <p>1 sachet de levure chimique</p>
+ <p>100g de chocolat noir</p>
+ <p>5 cigarettes croustillantes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> et le beurre, au micro-ondes ou au <recipient>bain - marie</recipient></operation>. mélanger la farine, la <ingredient>levure</ingredient> et le <ingredient>sucre</ingredient>. puis ajouter le lait jusqu’ à une consistance assez liquide. pour <operation>finir</operation>, <operation>incorporez le mélange <ingredient>chocolat</ingredient> et beurre fondu,</operation> puis <operation>mélangez</operation>. enfourner à 200 ° c pendant 30 minutes. enfin <operation>saupoudrez de <ingredient>sucre</ingredient> glace</operation>.
+]]>
+ </preparation>
+</recette>

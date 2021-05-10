@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68380">
+ <titre>Lasagnes fondantes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>lasagnes</p>
+ <p>2 litres de coulis de tomates</p>
+ <p>2 gros oignons</p>
+ <p>800 g de viande hachée</p>
+ <p>300 g de gruyère</p>
+ <p>100 g de parmesan rapé</p>
+ <p>une boule de mozzarella</p>
+ <p>huile d’ olive</p>
+ <p>4 morceaux de sucre</p>
+ <p>bûche de fromage de chèvre</p>
+ <p>15 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>oignons</ingredient> dans l’ huile d’ <ingredient>olive</ingredient></operation>. une fois les <ingredient>oignons</ingredient> colorés, ajouter la <ingredient>viande</ingredient>. une fois la <ingredient>viande</ingredient> cuite, ajouter le <ingredient>coulis de tomates</ingredient> et les 4 morceaux de <ingredient>sucre</ingredient> (réduit l’ acidité). <operation>laisser réduire la préparation pendant 25 min dans un <recipient>plat</recipient> à gratin</operation>, commencer par disposer une couche de garniture puis mettre les <ingredient>lasagnes</ingredient> sans les superposer. recommencer l’ oppération en ajoutant en plus de la garniture des dés de <ingredient>mozzarella</ingredient> et du <ingredient>gruyère rapé</ingredient> entre les couches terminer par une couche de garniture, ajouter de la <ingredient>crème liquide</ingredient>, du gruyère, et des rondelles de <ingredient>fromage de chèvre</ingredient>. mettre au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 25 min. vin italien
+]]>
+ </preparation>
+</recette>

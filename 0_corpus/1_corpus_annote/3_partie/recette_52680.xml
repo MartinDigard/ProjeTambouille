@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52680">
+ <titre>Langue de boeuf sauce cornichons</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le bouillon: </p>
+ <p>1, 5 kg de langue de bœuf </p>
+ <p>3 carottes</p>
+ <p>3 poireaux</p>
+ <p>1 navet</p>
+ <p>1 oignon</p>
+ <p>1 os à moelle</p>
+ <p>1 petite poignée de gros sel</p>
+ <p>Pour la sauce: </p>
+ <p>le bouillon</p>
+ <p>25 g de beurre</p>
+ <p>1 cuillère à soupe rase de farine</p>
+ <p>1/2 échalote coupée finement</p>
+ <p>1 boîte de sauce tomate de 200 g</p>
+ <p>10 petits cornichons coupés en rondelles</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+le <ingredient>bouillon</ingredient>: rincer la <ingredient>langue</ingredient> à l’ eau froide. mettre tous les ingrédients dans une <recipient>marmite</recipient> d’ eau froide, et ajouter la <ingredient>langue de bœuf</ingredient> ; <operation>couvrir</operation> et <operation>faire cuire 3 h</operation>. après la cuisson, enlever la <ingredient>langue</ingredient> ; <operation>laisser refroidir</operation> puis retirer la peau. mettre la <ingredient>langue</ingredient> et le <ingredient>bouillon</ingredient> au frigo pour la nuit. la <ingredient>sauce</ingredient>: <operation>faire fondre le beurre,</operation> puis incorporer la farine ; <operation>laisser brunir tout en</operation> remuant (<operation>faire un roux brun</operation>). ajouter, louche par louche, une partie du <ingredient>bouillon</ingredient> en évitant les grumeaux (5 louches) ; verser la <ingredient>sauce</ingredient> tomate et ajouter l’ <ingredient>échalote</ingredient> et les <ingredient>cornichons</ingredient>. rajouter du <ingredient>bouillon</ingredient> afin d’ <operation>obtenir une <ingredient>sauce</ingredient> assez liquide</operation>. le <recipient>plat</recipient>: <ingredient>couper</ingredient> la <ingredient>langue</ingredient> en tranches, et les disposer dans la <ingredient>sauce</ingredient>. rajouter éventuellement du <ingredient>bouillon</ingredient> pour <operation>recouvrir la</operation> <ingredient>langue</ingredient> ; <operation>laisser mijoter 1 h</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94781">
+ <titre>Parmentier de quinoa et purée de potiron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500g de quinoa</p>
+ <p>500g de purée de potiron</p>
+ <p>500g de viande hachée (bœuf) </p>
+ <p>150g de comté</p>
+ <p>3 feuilles de basilic</p>
+ <p>2 c. à soupe d’ huile végétale</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer le <ingredient>quinoa</ingredient> dans l’ <ingredient>huile</ingredient></operation>. verser l’ eau par dessus, <operation>couvrir</operation> et cuire à feu doux pendant 20min. cuire la <ingredient>viande</ingredient> avec les <ingredient>basilic</ingredient> ciselé. beurrer un <recipient>plat</recipient> à gratin, y mettre la <ingredient>purée de potiron</ingredient>, la <ingredient>viande</ingredient>, le fromage râpé, le <ingredient>quinoa</ingredient> et parsemez du reste de fromage. enfourner 30 min à 200 ° c.
+]]>
+ </preparation>
+</recette>

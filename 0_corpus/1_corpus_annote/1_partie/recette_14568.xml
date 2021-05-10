@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14568">
+ <titre>Salade de penne au pesto</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de penne rigate</p>
+ <p>1 belle tomate</p>
+ <p>200 g de fèves fraîches (ou surgelées) </p>
+ <p>2 petits oignons blancs</p>
+ <p>1 bouquet de basilic</p>
+ <p>parmesan</p>
+ <p>Pour la sauce: </p>
+ <p>12 feuilles de basilic</p>
+ <p>1 cuillère à soupe de pignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère de vinaigre de vin</p>
+ <p>3 cuillère d’ huile d’ olive</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>fèves</ingredient> 5 à 10 mn à couvert dans de l’ eau bouillante</operation> salée. <operation>egouttez</operation> - les et <operation>laissez tièdir</operation> puis <operation>otez leur fine peau</operation>. <operation>faites la <ingredient>sauce</ingredient> au pesto</operation>: mixez en purée les <ingredient>feuilles de basilic</ingredient>, les <ingredient>pignons</ingredient>, l’ <ingredient>ail</ingredient>, l’ <ingredient>huile</ingredient>, le <ingredient>vinaigre</ingredient>, le <ingredient>sel</ingredient> et le poivre. ebouillantez et <operation>pelez la</operation> <ingredient>tomate</ingredient>, <operation>épépinez - la</operation> et <operation>taillez - la en dés</operation>. <operation>pelez les <ingredient>oignons</ingredient> et émincez - les</operation>. <operation>faites cuire les pâtes selon votre goût</operation>. <operation>rafraichissez - les</operation> et <operation>égouttez - les</operation>. <operation>versez - les dans un saladier</operation>. <operation>mélangez - y les <ingredient>fèves</ingredient>, les dés de <ingredient>tomate</ingredient> et les <ingredient>oignons</ingredient></operation>. <operation>arrosez de <ingredient>sauce</ingredient></operation> pesto, parsemez de <ingredient>feuilles de basilic</ingredient> et <operation>saupoudrez de <ingredient>parmesan</ingredient></operation>. si la <ingredient>sauce</ingredient> est trop épaisse, <operation>allongez - la avec un peu d’ eau</operation>.
+]]>
+ </preparation>
+</recette>

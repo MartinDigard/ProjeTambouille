@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23625">
+ <titre>Quiche multicolore</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>200 g de maïs doux en boîte</p>
+ <p>200 g de jambon cuit</p>
+ <p>100 g de petits pois surgelés</p>
+ <p>1 carotte</p>
+ <p>50 g d’ olives noires dénoyautées</p>
+ <p>100 g de gouda</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème</p>
+ <p>sel, poivre, muscade. </p>
+ <p>50 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez la <ingredient>carotte</ingredient>. <operation>coupez - la en dés</operation>. <operation>faites - les <ingredient>cuire</ingredient> 10 mn à l’ eau bouillante</operation> salée avec les <ingredient>petits pois surgelés</ingredient>. <operation>rafraichissez</operation> et <operation>égouttez</operation>. <operation>taillez le <ingredient>jambon</ingredient> et le <ingredient>gouda</ingredient> en <ingredient>petit</ingredient> dés</operation>. <operation>egouttez le <ingredient>maïs</ingredient></operation>. <operation>coupez les <ingredient>olives</ingredient> en rondelles</operation>. dans un <ingredient>petit</ingredient> saladier, <operation>fouettez les <ingredient>oeufs</ingredient> avec la <ingredient>crème</ingredient>, le <ingredient>sel</ingredient>, le poivre et la <ingredient>muscade</ingredient></operation>. <operation>ajoutez le gruyère</operation>. <operation>mélangez</operation> délicatement tous les ingrédients. <operation>etalez la <ingredient>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation>. répartissez la garniture sur la <ingredient>pâte</ingredient> et <operation>faites <ingredient>cuire</ingredient> 35 - 40</operation> mn au <recipient>four</recipient>, th 180 ° c. <operation>démoulez</operation> et <operation>servez tiède</operation>. un régal pour les yeux et les papilles!
+]]>
+ </preparation>
+</recette>

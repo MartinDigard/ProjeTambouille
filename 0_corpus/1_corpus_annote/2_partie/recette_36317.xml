@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36317">
+ <titre>Galettes sucrées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>1 kg de cassonade (sucre brun) </p>
+ <p>600 g de beurre</p>
+ <p>4 à 5 oeufs</p>
+ <p>1 verre (20cl) de rhum brun</p>
+ <p>3 cuillères à café de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez la farine avec le sucre et le <ingredient>sel</ingredient></operation>. <operation>creusez une fontaine</operation> et <operation>incorporez les <ingredient>oeufs</ingredient> et le beurre</operation> <operation>ramolis</operation>. <operation>ajoutez le <ingredient>rhum</ingredient></operation>. faites des petites boules avec une <ingredient>cuillère à café</ingredient> et <operation>disposez sur une assiette</operation>. <operation>laissez reposer au frais pendant 2 heures</operation>. <operation>cuisez dans un <recipient>moule</recipient> à gaufre à rainure fine</operation>. <operation>laissez reposer sur une grille</operation>. pour une saveur douce et une galette molle, <operation>laissez reposer en cave humide pendant un jour ou deux</operation>. sinon, placez au sec et frais pour les conserver croquantes.
+]]>
+ </preparation>
+</recette>

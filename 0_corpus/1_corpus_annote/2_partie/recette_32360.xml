@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32360">
+ <titre>Poulet’ morisco’ </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet d’ 1, 5 kg débité en morceaux (ou blancs de poulet) </p>
+ <p>3 gros oignons</p>
+ <p>100 g de poudre d’ amande</p>
+ <p>100 g d’ amandes effilées</p>
+ <p>200 g de raisins de Smyrne</p>
+ <p>2 verres d’ huile d’ olive</p>
+ <p>5 cuillères à café de "pimenton" doux (ou paprika) </p>
+ <p>1 cuillère à café de "pimenton" fort (ou piment fort en poudre) </p>
+ <p>0, 5 l d’ eau</p>
+ <p>farine</p>
+ <p>sel, poivre noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fariner les <ingredient>morceaux</ingredient> de poulet. dans une <recipient>cocotte</recipient>, <operation>faire dorer le poulet dans l’ huile chaude, saler</operation>, poivrer, puis retirer le poulet. baisser le feu. dans la même <recipient>cocotte</recipient>, <operation>faire revenir l’ <ingredient>oignon</ingredient></operation> émincé à couvert pendant 10 mn. ajouter le poulet, la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient>, les <ingredient>amandes effilées</ingredient>, les <ingredient>raisins</ingredient>, les deux " pimentones " et l’ <ingredient>eau</ingredient>. <operation>laisser mijoter au moins 45 mn</operation> découvert à feu minimum. servir très chaud avec du riz rond ou des tagliatelles. recette traditionnelle de la province de murcia (espagne). le " <ingredient>pimenton</ingredient> " est en fait du poivron rouge séché et moulu, <ingredient>doux</ingredient> ou <ingredient>fort</ingredient>. côte du roussillon village rouge
+]]>
+ </preparation>
+</recette>

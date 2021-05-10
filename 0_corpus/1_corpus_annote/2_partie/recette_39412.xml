@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39412">
+ <titre>Lentilles au curry avec des bananes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oignons</p>
+ <p>2 pommes</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>200 g de lentilles rouges</p>
+ <p>50 cl de bouillon de légumes</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>1 pincée de coriandre</p>
+ <p>crème fraîche</p>
+ <p>4 bananes</p>
+ <p>30 g de beurre</p>
+ <p>riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>oignons</ingredient> dans une grande <recipient>poêle</recipient>, avec un peu d’</operation> huile bien chaude. couper les <ingredient>pommes</ingredient> en petits morceaux et écraser l’ <ingredient>ail</ingredient>. ajouter les morceaux de <ingredient>pommes</ingredient>, l’ <ingredient>ail</ingredient> et le <ingredient>curry</ingredient> aux <ingredient>oignons</ingredient>. <operation>faire cuire environ 5 minutes avant d’ y</operation> ajouter le <ingredient>bouillon de légume</ingredient>, puis les <ingredient>lentilles</ingredient>. <operation>laisser le tout</operation> mijoter, jusqu’ à ce que le <ingredient>bouillon</ingredient> soit absorbé par les <ingredient>lentilles</ingredient> (15 - 20 min.) saler, poivrer, et ajouter la <ingredient>coriandre</ingredient>. mélanger à de la <ingredient>crème</ingredient> fraiche (quantité selon votre goût) eplucher les <ingredient>bananes</ingredient> et les <operation>faire " griller " dans du beurre chaud, jusqu’ à ce qu’ elles</operation> deviennent dorées et les disposer sur les <ingredient>lentilles</ingredient> au <ingredient>curry</ingredient>. <operation>servir avec du <ingredient>riz</ingredient></operation>. on peut, selon le goût, mettre des raisins secs ou des noix.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80126">
+ <titre>Brioche de chichi en MAP</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs dans un verre mesureur, auxquels vous rajouterez du lait à hauteur de 20 cl</p>
+ <p>60 g de beurre doux</p>
+ <p>50 g de sucre</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>250 g de farine </p>
+ <p>1 pincée de vanille en poudre en option</p>
+ <p>15 g de levure fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez dans la cuve de votre map les ingrédients dans l’ ordre</operation> indiqué. <operation>programmez pain sucre 700 g clair</operation>. <operation>arrêtez 15 min avant la fin de la cuisson</operation>. je vous conseille la <ingredient>levure fraîche</ingredient>, la pâte n’ en sera que meilleure. attention! ne <operation>doublez pas les doses car lors de la levée, la pâte</operation> touchera votre cuve! vous pouvez au bip <ingredient>rajouter</ingredient> des pépites de chocolat ou encore des fruits confits. essayer, c’ est l’ adopter... aussi bon qu’ à la boulangerie!
+]]>
+ </preparation>
+</recette>

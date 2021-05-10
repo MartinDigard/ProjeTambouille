@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225004">
+ <titre>Pâtes aux poireaux poivrons et petits lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poireaux</p>
+ <p>1 poivron</p>
+ <p>1 petit oignon</p>
+ <p>1 boite de lardons</p>
+ <p>40 cl de crème fraiche liquide</p>
+ <p>2 cuillères à soupe de fromage ail et fines herbes</p>
+ <p>400 g de pâtes (quantité pour 4 personnes) </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient>poireaux</ingredient> en lamelles, les <operation>faire cuire à la vapeur pendant 15 minutes</operation>. couper le <ingredient>poivron</ingredient>, l’ <ingredient>oignon</ingredient> en dés. <operation>faire cuire les <ingredient>pâtes</ingredient></operation>. une fois les <ingredient>poireaux</ingredient> cuits, les <operation>faire revenir dans une <recipient>poêle</recipient> avec l’ <ingredient>oignon</ingredient> et le <ingredient>poivron</ingredient></operation>. <operation>faire revenir les <ingredient>lardons</ingredient> à part</operation>. mélanger le tout dans la <recipient>poêle</recipient>, ajouter la <ingredient>crème fraiche</ingredient>, le <ingredient>fromage</ingredient> <operation>laisser mijoter 5 minutes</operation>. <operation>servir avec les</operation> <ingredient>pâtes</ingredient> et déguster!
+]]>
+ </preparation>
+</recette>

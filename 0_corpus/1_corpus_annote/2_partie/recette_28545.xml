@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28545">
+ <titre>Ragoût de lentilles et de pâtes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de pâtes courtes</p>
+ <p>375 g de lentilles</p>
+ <p>100 g de champignons de Paris</p>
+ <p>45 g de beurre</p>
+ <p>45 g de lard</p>
+ <p>3 oignons</p>
+ <p>30 g de parmesan ou de gruyère</p>
+ <p>1, 5 l de bouillon de viande </p>
+ <p>1 brin de thym</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient>oignons</ingredient>, les <ingredient>champignons</ingredient> et le <ingredient>lard</ingredient>. les <operation>faire fondre dans le beurre avec le <ingredient>thym</ingredient></operation>. mettre les <ingredient>lentilles</ingredient> dans le <ingredient>bouillon</ingredient> froid. amener à ébullition et cuire 40 minutes. ajouter les <ingredient>pâtes</ingredient> 15 minutes avant la fin de la cuisson. rajouter un peu de liquide si nécessaire. lorsque les <ingredient>lentilles</ingredient> et les <ingredient>pâtes</ingredient> sont cuites, il ne doit presque plus rester de liquide. ajouter alors le mélange <ingredient>oignons</ingredient>, <ingredient>champignons</ingredient> et <ingredient>lard</ingredient> ainsi que le fromage. mélanger et servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10906">
+ <titre>Risotto poulet, saucisse, chorizo</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 blancs de poulet</p>
+ <p>4 saucisses aux herbes</p>
+ <p>4 saucisses natures</p>
+ <p>1/2 chorizo</p>
+ <p>2 oignons émincés</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>500 g de de riz sauvage</p>
+ <p>1 cuillère à café de curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites revenir les blancs de <ingredient>poulet</ingredient>, <ingredient>saucisses aux herbes</ingredient> et <ingredient>nature</ingredient>, <ingredient>chorizo</ingredient> dans une <recipient>poêle</recipient>. lorsqu’ ils sont tous dorés, <operation>coupez - les en morceaux</operation>. dans une <recipient>cocotte</recipient>, <operation>versez l’ <ingredient>huile</ingredient> d’</operation> <ingredient>olive</ingredient> et faite <operation>revenir les 2 <ingredient>oignons</ingredient></operation> <operation>ajoutez ensuite le mélange (<ingredient>poulet</ingredient>, <ingredient>saucisses</ingredient>, <ingredient>chorizo</ingredient>) dans la <recipient>cocotte</recipient></operation>. ajouter le <ingredient>riz</ingredient>, 75 cl d’ eau, le <ingredient>curry</ingredient>, du sel et du poivre. fermer la <recipient>cocotte</recipient> et compter ensuite 6 minutes de cuisson lorsque la toupie commence à tourner.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20853">
+ <titre>Salade poulet avocat et basilic</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet cuit</p>
+ <p>4 avocats</p>
+ <p>5 oeufs durs</p>
+ <p>4 tomates</p>
+ <p>6 cuillères à soupe d’ huile</p>
+ <p>4 cuillères à soupe de jus de citron</p>
+ <p>1 bouquet de basilic ciselé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez la chair du <ingredient>poulet</ingredient> en morceaux</operation>. emincez les <ingredient>avocats</ingredient> en lamelles et citronnez - les pour qu’ elles ne noircissent pas. <operation>ecalez les</operation> <ingredient>oeufs</ingredient>, <operation>coupez - les en 4</operation>. <operation>lavez</operation> et <operation>coupez les <ingredient>tomates</ingredient> en quartiers</operation>, <operation>épépinez - les</operation>. emulsionnez l’ <ingredient>huile</ingredient> avec le vinaigre, du <ingredient>sel</ingredient> et du poivre. <operation>ajoutez le <ingredient>basilic</ingredient></operation>. <operation>mélangez</operation> délicatement les <ingredient>tomates</ingredient>, les <ingredient>oeufs</ingredient>, les lamelles d’ <ingredient>avocat</ingredient> et les morceaux de <ingredient>poulet</ingredient>, puis <operation>arrosez de vinaigrette</operation>.
+]]>
+ </preparation>
+</recette>

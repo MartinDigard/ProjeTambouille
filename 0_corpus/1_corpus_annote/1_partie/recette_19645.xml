@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19645">
+ <titre>Pâtes gratinées au chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de pâtes (courtes) </p>
+ <p>un morceau de bûche de chèvre 150 g</p>
+ <p>une boîte de tomates pelées</p>
+ <p>ail</p>
+ <p>origan</p>
+ <p>basilic</p>
+ <p>poivre de Cayenne</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>pâtes</ingredient></operation>. faire réduire les <ingredient>tomates pelées</ingredient> dans un <recipient>faitout</recipient> avec de l’ huile d’ <ingredient>olive</ingredient>, de l’ <ingredient>ail</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, une cuillère à café d’ <ingredient>origan</ingredient>. mélanger les <ingredient>pâtes</ingredient> à la sauce. les mettre dans un <recipient>plat</recipient> à gratin. déposer des <ingredient>morceaux</ingredient> de fromages de <ingredient>chèvre</ingredient> sur le <recipient>plat</recipient> et enfourner 15 mn à <recipient>four</recipient> chaud. a la sortie du <recipient>four</recipient> parsemer de <ingredient>basilic</ingredient> frais ciselé. madiran
+]]>
+ </preparation>
+</recette>

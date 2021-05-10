@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211756">
+ <titre>Pâtes en sauce "thontatouille"</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pâtes</p>
+ <p>restes de ratatouille maison</p>
+ <p>une grosse boîte de thon</p>
+ <p>25 cl de crème frâiche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>pâtes</ingredient> dans de l’ eau bouillante</operation> salée le temps indiqué sur le paquet. pendant ce temps, dans le <recipient>blender</recipient>, mettre la <ingredient>ratatouille</ingredient>, le <ingredient>thon</ingredient> et la <ingredient>crème</ingredient> et mixer jusqu’ à <operation>obtenir une "</operation> <ingredient>crème</ingredient> ". égoutter les <ingredient>pâtes</ingredient> et mélanger le tout dans une <recipient>casserole</recipient> et <operation>servez bien chaud</operation>. bon ap’!
+]]>
+ </preparation>
+</recette>

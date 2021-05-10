@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82495">
+ <titre>Emincé de dinde et patates douces</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 escalopes de dinde</p>
+ <p>4 patates douces</p>
+ <p>6 cuillères à soupe de crème fraiche</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 bouquet de persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient>patates douces</ingredient>, les couper en rondelles et les <operation>faire revenir dans une <recipient>poêle</recipient> avec l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. couper les <ingredient>escalopes</ingredient> en lamelles, les ajouter aux <ingredient>patates douces</ingredient> cuites et <operation>laisser cuire</operation>. ajouter la <ingredient>crème fraiche</ingredient>, le <ingredient>persil</ingredient>, le <ingredient>sel</ingredient> et le poivre.
+]]>
+ </preparation>
+</recette>

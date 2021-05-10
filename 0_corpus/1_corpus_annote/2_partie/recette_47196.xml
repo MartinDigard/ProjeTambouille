@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47196">
+ <titre>Soupe chinoise super simple</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses carottes coupées en rondelles</p>
+ <p>12 crevettes</p>
+ <p>1 branche de céleri coupée en gros morceaux</p>
+ <p>1 poireau coupé en rondelles</p>
+ <p>10 champignons noirs séchés</p>
+ <p>1 morceau de petit salé ou autre viande selon goût</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>1 pincée de gros sel</p>
+ <p>2 rondelles de piment vert (attention, c’ est très fort) </p>
+ <p>2 litres d’ eau</p>
+ <p>12 feuilles de coriandre fraîche</p>
+ <p>1 grosse rondelle de gingembre frais</p>
+ <p>vermicelles chinois</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients de la liste - sauf le <ingredient>vermicelle</ingredient> - dans une grande <recipient>casserole</recipient> ou un <recipient>wok</recipient>, ajouter l’ <ingredient>eau</ingredient> et <operation>laisser cuire 2 h</operation>. avant de <operation>servir</operation>, ajouter des <ingredient>vermicelles <recipient>chinois</recipient></ingredient> et <operation>couvrir</operation> puis <operation>laisser cuire le temps</operation> indiqué sur le sachet, puis servir. vous pouvez rajouter, selon votre <ingredient>goût</ingredient>, des fruits de mer, des pousses de bambou, ou des germes de soja. attention à la quantité de <ingredient>sel</ingredient> en fonction de la <ingredient>viande</ingredient> untilisée.
+]]>
+ </preparation>
+</recette>

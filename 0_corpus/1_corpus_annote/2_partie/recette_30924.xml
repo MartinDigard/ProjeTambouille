@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30924">
+ <titre>Tarte au chocolat et aux noix</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte sablée (du commerce ou faite maison) </p>
+ <p>3 oeufs</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>100 g de sucre</p>
+ <p>150 g de noix</p>
+ <p>1 tablette de chocolat noir pâtissier (200 g) </p>
+ <p>1 tablette de chocolat praliné (ou au choix chocolat blanc ou au lait) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposez la pâte <ingredient>sablée</ingredient> au fond d’ un <recipient>plat</recipient> à tarte. battez les <ingredient>oeufs</ingredient>, la <ingredient>crème fraîche</ingredient> le <ingredient>sucre</ingredient> et les <ingredient>noix</ingredient> mixées et <operation>versez sur le fond de tarte</operation>. <operation>enfournez 20 mn à 180 ° c</operation>. faites fondre le <ingredient>chocolat praliné</ingredient> au <recipient>bain marie</recipient> et <operation>versez sur la tarte</operation> refroidie</operation>. faites fondre le <ingredient>chocolat noir</ingredient> au <recipient>bain marie</recipient> et <operation>versez sur la tarte</operation>. servir bien frais pour les fondus de <ingredient>chocolat</ingredient>!
+]]>
+ </preparation>
+</recette>

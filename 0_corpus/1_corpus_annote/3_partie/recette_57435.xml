@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57435">
+ <titre>Poulet amandes poireaux de Louloute</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poireaux</p>
+ <p>2 blancs de poulet</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p> 1 pincée de gingembre en poudre</p>
+ <p>1/4 de litre de bouillon de volaille (en cube) </p>
+ <p>50 g d’ amandes entières</p>
+ <p>1 cuillère soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer le <ingredient>poulet</ingredient> dans une <recipient>poêle</recipient> (à bords hauts) avec l’ <ingredient>huile</ingredient></operation>. ajouter les <ingredient>poireaux</ingredient> lavés, coupés en lanières d’ environ 2 cm, les <ingredient>oignons</ingredient> émincés et la gousse d’ <ingredient>ail</ingredient> écrasée. mélanger bien, puis ajouter le <ingredient>bouillon</ingredient> et la <ingredient>sauce soja</ingredient>. <operation>laisser cuire à feu doux pendant 20 min</operation>. mettre les <ingredient>amandes</ingredient> en fin de cuisson. <operation>servir avec du riz parfumé</operation>.
+]]>
+ </preparation>
+</recette>

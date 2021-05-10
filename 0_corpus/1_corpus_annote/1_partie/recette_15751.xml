@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15751">
+ <titre>Lupini</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 kg de lupini (coquillage de la famille des famille des vongoles) </p>
+ <p>1 tête d’ ail</p>
+ <p>1 botte de persil</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive (première pression) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dégorger les <ingredient>lupini</ingredient> dans de l’ eau fortement</operation> salée durant 1h30.pendant ce temps, hacher très finement l’ <ingredient>ail</ingredient> et le <ingredient>persil</ingredient>. <operation>faire ouvrir les coquillages dans une <recipient>casserole</recipient> (à sec) durant quelques minutes</operation>. filtrer le jus de cuisson des <ingredient>lupini</ingredient>. <operation>faire revenir à feu doux l’ <ingredient>ail</ingredient>, le <ingredient>persil</ingredient> dans une bonne quantité d’ huile d’ <ingredient>olive</ingredient></operation>. mettre dans l’ huile les <ingredient>lupini</ingredient> et ajouter <ingredient>poivre et sel</ingredient>. bien mélanger et <operation>servir avec du pain pour</operation> tremper dans la préparation. vin blanc italien sec
+]]>
+ </preparation>
+</recette>

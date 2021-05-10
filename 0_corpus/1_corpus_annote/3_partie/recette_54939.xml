@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54939">
+ <titre>Soupe de champignon à la crème de Saint Agur</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 gros champignons de Paris frais</p>
+ <p>1 litre de bouillon de poule</p>
+ <p>4 grosses cuillères de crème de Saint Agur</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à bouillir le <ingredient>bouillon de poule</ingredient> (4 <ingredient>cuillères</ingredient> à soupe de <ingredient>bouillon</ingredient> en poudre pour 1 <ingredient>litre</ingredient>). découper grossièrement les <ingredient>champignons</ingredient> (chapeaux et pieds) et les mettres dans le <ingredient>bouillon</ingredient> chaud. <operation>laisser cuire 20 min à petit <ingredient>bouillon</ingredient></operation>. passer le tout au mixer. remettre la soupe dans la <recipient>casserole</recipient> avec les <ingredient>cuillères de saint agur</ingredient>. <operation>laisser chauffer 5 min et servir</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212783">
+ <titre>Saumon au curry et lentilles du Puy</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de lentilles du Puy</p>
+ <p>100 g de haricots verts</p>
+ <p>1 poivron rouge</p>
+ <p>300 g de saumon</p>
+ <p>20 cl de lait de coco</p>
+ <p>10 g de pâte de curry</p>
+ <p>Coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>lentilles</ingredient> 15 à 20 min dans l’ eau bouillante</operation>. couper les <ingredient>haricots verts</ingredient> en deux et les <operation>faire cuire à la vapeur</operation>. pendant ce temps, <operation>faire revenir à la <recipient>poêle</recipient> quelques minutes le <ingredient>poivron</ingredient></operation> coupé en dés. ajouter le <ingredient>saumon</ingredient> et le <operation>laisser dorer quelques minutes</operation>. ajouter la pâte de <ingredient>curry</ingredient> puis le lait de <ingredient>coco</ingredient>. <operation>laisser mijoter jusqu’ à ce que le <ingredient>saumon</ingredient> soit cuit (10 min environ</operation>). ajouter alors les <ingredient>lentilles</ingredient> et les <ingredient>haricots verts</ingredient>. enlever du feu et ajouter quelques feuilles de <ingredient>coriandre fraîche</ingredient>. <operation>servir avec du riz basmati</operation>.
+]]>
+ </preparation>
+</recette>

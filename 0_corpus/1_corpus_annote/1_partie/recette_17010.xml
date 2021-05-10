@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17010">
+ <titre>Mousse au chocolat et aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat noir</p>
+ <p>100 g de beurre</p>
+ <p>40 g de sucre en poudre</p>
+ <p>3 oeufs</p>
+ <p>40 g de noisettes décortiquées</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à soupe de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>cassez le <ingredient>chocolat</ingredient> en morceaux</operation>, <operation>mettez - le dans un saladier</operation> posé sur un <recipient>bain - marie</recipient>. quand le <ingredient>chocolat</ingredient> est fondu, <operation>mélangez</operation>. hors du feu, <operation>ajoutez le beurre en petits morceaux</operation>, <operation>mélangez</operation> et ajoutez le <ingredient>sucre en poudre</ingredient> puis les jaunes. <operation>faites griller les <ingredient>noisettes</ingredient></operation>. <operation>battez les blancs d’</operation> oeufs avec le <ingredient>sel</ingredient> puis versez le <ingredient>sucre glace</ingredient>. <operation>incorporez les blancs en neige à la préparation au <ingredient>chocolat</ingredient> et les <ingredient>noisettes</ingredient></operation> grillées. <operation>versez dans des coupelles</operation> et <operation>conservez 2h au frais</operation>.
+]]>
+ </preparation>
+</recette>

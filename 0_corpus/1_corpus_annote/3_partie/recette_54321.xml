@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54321">
+ <titre>Biche sauce aigre-douce</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pavés de biche</p>
+ <p>30 g de beurre</p>
+ <p>1 oignon rouge</p>
+ <p>1 tronçon de 5 cm de gingembre frais</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de cannelle en poudre</p>
+ <p>25 cl de vin rouge</p>
+ <p>2 cuillères à soupe de gelée de groseilles</p>
+ <p>1 cuillères à soupe de miel</p>
+ <p>75 g de griottes (surgelées ou en conserve) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la sauce: dans une petite <recipient>casserole</recipient>, <operation>faire fondre doucement l’ <ingredient>oignon</ingredient> et le <ingredient>gingembre</ingredient></operation> émincés dans le beurre avec le <ingredient>sucre</ingredient>. ajouter le <ingredient>sel</ingredient> et la <ingredient>cannelle</ingredient> avant de verser le <ingredient>vin</ingredient>. incorporer la <ingredient>gelée de groseilles</ingredient> et le <ingredient>miel</ingredient> puis les <ingredient>griottes</ingredient>. <operation>laisser réduire de moitié sur feu doux</operation>. la sauce doit être onctueuse. réserver. la viande: cuire comme des <ingredient>pavés</ingredient> de boeuf, selon le goût de chaque convive. dresser la viande accompagnée de la sauce, sur des assiettes chaudes. délicieux avec des ballotins de haricots verts et des pommes dûchesse. un <ingredient>vin rouge</ingredient> qui a du corps!
+]]>
+ </preparation>
+</recette>

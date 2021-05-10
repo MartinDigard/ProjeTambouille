@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29769">
+ <titre>Bouchées au camembert</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 camembert</p>
+ <p>1 oeuf</p>
+ <p>moutarde</p>
+ <p>fromage blanc</p>
+ <p>chapelure</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, mélangez l’ <ingredient>oeuf</ingredient> battu, la <ingredient>moutarde</ingredient> et le <ingredient>fromage blanc</ingredient>. <operation>coupez le <ingredient>camembert</ingredient> en 8 parts</operation>. enduisez chaque part du mélange <ingredient>oeuf</ingredient> / <ingredient>moutarde</ingredient> / <ingredient>fromage blanc</ingredient>, puis <operation>roulez les dans la <ingredient>chapelure</ingredient></operation>. <operation>laissez reposer au <recipient>réfrigérateur</recipient> 15 minutes</operation>. <operation>faites frire à la <recipient>poêle</recipient> jusqu’ à ce que le <ingredient>camembert</ingredient> soit</operation> fondant. servez chaud avec une salade.
+]]>
+ </preparation>
+</recette>

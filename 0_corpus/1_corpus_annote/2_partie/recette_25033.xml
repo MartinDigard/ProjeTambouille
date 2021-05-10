@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25033">
+ <titre>Lapin bonne femme</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>150 g de poitrine fumée</p>
+ <p>250 g de champignons de Paris</p>
+ <p>15 cl de vin blanc sec</p>
+ <p>15 cl de bouillon de volaille</p>
+ <p>1 bouquet garnis (thym, laurier, queues de persil) </p>
+ <p>1 gousse d’ ail pelée et écrasée</p>
+ <p>3 cuillères à soupe de persil haché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) <operation>faites revenir à feu moyen les <ingredient>morceaux</ingredient> de <ingredient>lapin</ingredient> à l’ <ingredient>huile</ingredient> dans une <recipient>cocotte</recipient> jusqu’ à ce qu’ ils soient</operation> colorés. lavez et émincez les <ingredient>champignons</ingredient>. 2) <operation>ôtez les <ingredient>morceaux</ingredient> de <ingredient>lapin</ingredient> de la <recipient>cocotte</recipient></operation>. á leur place, <operation>faites suer quelques minutes sur feu moyen les oignons, les ladons, et les <ingredient>champignons</ingredient> jusqu’ à ce que le mélange soit</operation> doré. 3) <operation>remettez le <ingredient>lapin</ingredient> dans la <recipient>cocotte</recipient></operation>. <operation>salez</operation>, <operation>poivrez</operation>. versez le <ingredient>vin blanc</ingredient>. <operation>laissez réduire 5 mn</operation> puis ajoutez le <ingredient>bouillon</ingredient>, le <ingredient>bouquet garni</ingredient> et l’ <ingredient>ail</ingredient>. <operation>couvrez</operation> et <operation>laissez cuire</operation> 1h sur feu doux. 4) <operation>ôtez la préparation de la <recipient>cocotte</recipient></operation>. <operation>faites réduire le jus de citron d’ un tiers sur feu vif</operation>. liez avec la crème, <operation>rajoutez le <ingredient>lapin</ingredient> et sa garniture</operation>. <operation>laissez réchauffer en</operation> mélangeant. parsemez de <ingredient>persil</ingredient> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

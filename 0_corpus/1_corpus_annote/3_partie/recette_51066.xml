@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51066">
+ <titre>Mousse au fruit de la passion</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 gros maracudjas (fruits de la passion) </p>
+ <p>4 jaunes d’ oeuf</p>
+ <p>100 g de sucre</p>
+ <p>300 g de crème fouettée (chantilly) </p>
+ <p>5 feuilles de gélatine</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>videz la pulpe des <ingredient>maracudjas</ingredient> dans un bol à mixer</operation>, <operation>ajoutez de l’ eau de façon à</operation> <operation>obtenir 50 cl de pulpe</operation>, <operation>mixez</operation> et <operation>passez la pulpe au tamis (pour</operation> enlever les graines noires). <operation>ajoutez un peu de <ingredient>cannelle</ingredient> à la pulpe</operation>. <operation>mélangez les <ingredient>jaunes</ingredient> d’</operation> oeufs avec le <ingredient>sucre</ingredient>, y <operation>ajoutez la pulpe</operation> et <operation>faire cuire rapidement</operation>. dès l’ ébullition ajoutez les <ingredient>feuilles de gélatine</ingredient> (préalablement ramollies dans l’ eau) et <operation>laissez refroidir</operation>. quand l’ appareil est froid, ajoutez la <ingredient>crème fouettée</ingredient>. <operation>versez dans un <recipient>moule</recipient> ou un ramequin</operation>, <operation>laissez prendre au moins 3 heures au <recipient>réfrigérateur</recipient> et servir avec des tuiles ou des biscuits à la cuillère</operation>. bonne dégustation! je conseille même de <operation>laisser prendre une nuit au <recipient>réfrigérateur</recipient> pour une meilleure tenue</operation>. j’ ai servi cette mousse lors d’ un anniversaire et j’ ai remporté un franc succès! vin liquoreux
+]]>
+ </preparation>
+</recette>

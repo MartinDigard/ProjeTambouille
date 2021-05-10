@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64175">
+ <titre>Poulet Gaston</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>1 pot de crème fraîche</p>
+ <p>1 verre de vin blanc sec</p>
+ <p>gruyère</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer les <ingredient>blancs</ingredient> de <ingredient>poulet</ingredient>, les saler</operation> et poivrer puis les réserver dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. préchauffer le <recipient>four</recipient> à 170 ° c (thermostat 5 - 6). hâcher l’ <ingredient>oignon</ingredient> et le <operation>faire revenir</operation>. ajouter à l’ <ingredient>oignon</ingredient> la <ingredient>moutarde</ingredient> puis la <ingredient>crème</ingredient> fraiche ainsi que le <ingredient>vin blanc</ingredient>, saler légèrement, poivrer et <operation>laisser mijoter 10 min</operation>. arroser les <ingredient>blancs</ingredient> de <ingredient>poulet</ingredient> avec la sauce, saupoudrer de gruyère. enfourner pendant environ 15 min.
+]]>
+ </preparation>
+</recette>

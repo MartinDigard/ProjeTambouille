@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89210">
+ <titre>Tarte saumon, asperges et chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>5 tranches de saumon fumé</p>
+ <p>10 asperges (fraîches ou en conserve) </p>
+ <p>1 bûche de fromage de chèvre</p>
+ <p>1 petit pot de crème fraiche</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+installer la <ingredient>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, percer à l’ aide d’ une fourchette et <operation>laisser reposer</operation>. dans un saladier, couper en morceaux fins les <ingredient>asperges</ingredient> et le <ingredient>chèvre</ingredient>, ajouter la <ingredient>crème</ingredient> fraîche et mélanger en purée ; le mélange doit être le plus onctueux possible. mettre le mélange dans le fond de tarte. couvrir avec les <ingredient>tranches de saumon</ingredient>, badigeonner avec le jaune d’ <ingredient>oeuf</ingredient>. enfourner, 30 minutes et c’ est pret!
+]]>
+ </preparation>
+</recette>

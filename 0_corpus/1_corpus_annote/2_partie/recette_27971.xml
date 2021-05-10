@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27971">
+ <titre>Risotto aux petits pois et au parmesan</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de riz</p>
+ <p>250 g de petits pois</p>
+ <p>100 g de parmesan</p>
+ <p>1 oignon</p>
+ <p>100 g de beurre</p>
+ <p>1, 5 l de bouillon chaud</p>
+ <p>1 feuille de laurier</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez l’ <ingredient>oignon</ingredient> et <operation>faites - le</operation> suer dans du beurre à la <recipient>sauteuse</recipient>. ajoutez les <ingredient>petits pois</ingredient> cuits, 1 cuillerée de <ingredient>bouillon</ingredient> et <operation>laissez chauffer quelques minutes</operation>. <operation>versez le</operation> <ingredient>riz</ingredient> et <operation>mouillez d’ une louche de <ingredient>bouillon</ingredient></operation>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez le <ingredient>laurier</ingredient></operation>. dès que le <ingredient>riz</ingredient> à absorbé le <ingredient>bouillon</ingredient>, <operation>rajoutez 2 autres louches,</operation> et <operation>laissez à feu doux</operation>. recommencez ainsi jusqu’ à ce qu’ il soit cuit. une fois cuit, <operation>incorporez le <ingredient>parmesan</ingredient> et le reste de beurre en</operation> mélangeant délicatement. <operation>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

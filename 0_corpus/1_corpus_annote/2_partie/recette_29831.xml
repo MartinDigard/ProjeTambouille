@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29831">
+ <titre>Colombo de poulet aux christophines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet découpé en morceaux</p>
+ <p>2 cuillères à soupe d’ épices à colombo</p>
+ <p>2 christophines</p>
+ <p>2 aubergines</p>
+ <p>2 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 piment</p>
+ <p>coriandre fraîche</p>
+ <p>huile</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient> dans une <recipient>cocotte</recipient> avec de l’ huile</operation>. ajouter les <ingredient>oignons</ingredient> hachés et saupoudrer des épices à <ingredient>colombo</ingredient>. <operation>couvrir d’ eau</operation> froide, saler et <operation>laisser mijoter 20 min à feu moyen, en</operation> remuant de temps en temps. ajouter les <ingredient>aubergines</ingredient> et les <ingredient>christophines</ingredient> coupées en quartiers, l’ <ingredient>ail</ingredient> haché et <operation>laisser cuire encore 20 min</operation>. servir le <ingredient>colombo</ingredient> parsemé de <ingredient>coriandre</ingredient> hachée. a accompagner de riz créole bien sûr...
+]]>
+ </preparation>
+</recette>

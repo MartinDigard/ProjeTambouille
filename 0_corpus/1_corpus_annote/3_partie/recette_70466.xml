@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70466">
+ <titre>Escalopes italiennes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>4 tranches de jambon blanc, découénné et dégraissé</p>
+ <p>250 g de mascarpone</p>
+ <p>200 g de gorgonzola</p>
+ <p>poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>poulet</ingredient>, salé et poivré</operation>. une fois cuit le <operation>sortir de la <recipient>poêle</recipient></operation>. sur une <recipient>planche</recipient>, poser une <ingredient>tranche de jambon</ingredient>, sur cette <ingredient>tranche</ingredient> déposer du <ingredient>gorgonzola</ingredient>. une fois la <ingredient>tranche de jambon</ingredient> garnie de fromage, poser une <ingredient>escalope de poulet</ingredient> et plier le <ingredient>jambon</ingredient> de façon à ce qu’ il renferme le <ingredient>poulet</ingredient>. renouveler pour chaque <ingredient>escalope</ingredient>. les remettre dans une pôele à feu doux, une fois que le fromage commence à fondre, incorporer le <ingredient>mascarpone</ingredient>, qui vous fera une sauce extra... poivrer et servir. accompagner de pâtes fraîches, ou de courgettes, aubergines et tomates grillées au <recipient>four</recipient>
+]]>
+ </preparation>
+</recette>

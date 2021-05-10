@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28281">
+ <titre>Gâteau de semoule et compote de quetsches</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 l de lait</p>
+ <p>1 gousse de vanille</p>
+ <p>650 g de sucre</p>
+ <p>200 g de semoule de blé</p>
+ <p>3 oeufs</p>
+ <p>60 g de beurre</p>
+ <p>75 g de poudre d’ amandes</p>
+ <p>1 kg de quetsches</p>
+ <p>1/2 cuillerée à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le lait et la gousse de <ingredient>vanille</ingredient> fendue</operation>. verser la semoule en pluie tout en remuant. <operation>laisser cuire à feu doux 10 minutes en</operation> remuant. ajouter 150 g de <ingredient>sucre</ingredient>, la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient> et remuer. hors du feu, incorporer les jaunes d’ <ingredient>oeufs</ingredient> et le beurre. verser dans un <recipient>moule</recipient> à savarin (couronne) beurré. mettre dans un <recipient>bain - marie</recipient> et <operation>laisser cuire à 200 ° c (thermostat 6 - 7) pendant 25 min</operation>. laver, dénoyauter et <operation>faire cuire les questches en compote avec 500 g de <ingredient>sucre</ingredient> et la <ingredient>cannelle</ingredient></operation>. <operation>laisser refroidir le gâteau de semoule</operation>, démouler et <operation>garnir le centre avec les <ingredient>quetsches</ingredient> cuites</operation>. <operation>servir froid</operation>.
+]]>
+ </preparation>
+</recette>

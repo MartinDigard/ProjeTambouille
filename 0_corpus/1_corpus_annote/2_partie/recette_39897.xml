@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39897">
+ <titre>Poulet et macaroni au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 blancs de poulet</p>
+ <p>1 gros oignon</p>
+ <p>1 belle carotte</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl de crème fraîche allégée</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>curry</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>200 g de macaroni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les blancs de <ingredient>poulet</ingredient> en dés. hacher l’ <ingredient>oignon</ingredient>, la <ingredient>carotte</ingredient> et l’ <ingredient>ail</ingredient>, et les <operation>faire revenir dans l’ huile d’ <ingredient>olive</ingredient></operation>. <operation>laisser colorer,</operation> puis ajouter le <ingredient>poulet</ingredient>, et saupoudrer généreusement de <ingredient>curry</ingredient>. <operation>laisser dorer quelques minutes,</operation> puis arroser avec le <ingredient>cube de bouillon</ingredient> dilué dans 10 cl d’ eau chaude. ajouter la brique de <ingredient>crème</ingredient> fraîche. <operation>laisser mijoter pendant 10 à 15 minutes</operation>. pendant ce temps, <operation>faire cuire les <ingredient>macaroni</ingredient>, les</operation> égoutter, et les incorporer à la préparation au <ingredient>poulet</ingredient>. rectifier l’ assaisonnement si nécessaire, et servir chaud. on peut rajouter aux légumes hachés une petite branche de céleri, ou plus rapide du <ingredient>sel</ingredient> de céleri. attention au <ingredient>sel</ingredient>, penser à la présence du <ingredient>bouillon</ingredient> de volaille
+]]>
+ </preparation>
+</recette>

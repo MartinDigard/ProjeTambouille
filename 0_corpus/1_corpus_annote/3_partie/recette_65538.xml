@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65538">
+ <titre>Tarte tiflette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>5 pommes de terre</p>
+ <p>5 oignons moyen</p>
+ <p>200 g de lardons fumé</p>
+ <p>1 reblochon</p>
+ <p>1 demi verre de vin blanc (10 cl) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient>pommes de terre</ingredient> pendant 15 min à la vapeur. pendant ce temps <operation>faire revenir les <ingredient>oignons</ingredient></operation> émincés dans une <recipient>poêle</recipient> (en ajoutant un peu d’ eau en court de cuisson pour ne pas qu’ ils noircissent), ajouter les <ingredient>lardons</ingredient> et <operation>laisser cuire 10 min à feu doux</operation>. préchauffer le <recipient>four</recipient> 10 min à 220 ° c (thermostat 7 - 8). etaler la <ingredient>pâte brisée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, la piquer et cuire à <ingredient>blanc</ingredient> 10 minutes. couper les <ingredient>pommes de terre</ingredient> en lamelles et les ajouter aux <ingredient>oignons</ingredient> et <ingredient>lardons</ingredient>, verser le <ingredient>verre de vin blanc</ingredient>, saler, poivrer. <operation>laisser un peu</operation> réduire le tout à feu vif. verser cette préparation (sans liquide) sur le fond de tarte et <operation>recouvrir de lamelles de <ingredient>reblochon</ingredient></operation>. remettre au <recipient>four</recipient> 20 - 25 min afin que le roblochon soit bien fondu. vous pouvez accompagner cette tarte d’ un <recipient>plat</recipient> de 2 ou 3 tranches de charcuterie différentes et de salade verte assaisonnée.
+]]>
+ </preparation>
+</recette>

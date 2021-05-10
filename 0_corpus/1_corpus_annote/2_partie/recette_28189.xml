@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28189">
+ <titre>Pot-au-feu végétarien au gruyère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 carottes</p>
+ <p>3 poireaux</p>
+ <p>1 oignon piqué de 2 clous de girofle</p>
+ <p>3 navets</p>
+ <p>1 branche de céleri</p>
+ <p>800 g de pommes de terre</p>
+ <p>250 g de gruyère coupé en gros morceaux</p>
+ <p>1 bouquet garni</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettez tous les légumes sauf les <ingredient>pommes de terre</ingredient> dans l’ eau froide. <operation>salez</operation>, <operation>poivrez</operation>, ajoutez le <ingredient>bouquet garni</ingredient> et <operation>portez à ébullition</operation>. <operation>laissez cuire 25 min</operation> puis <operation>ajoutez le gruyère</operation>. <operation>poursuivez la cuisson 15 min</operation> puis ajoutez les <ingredient>pommes de terre</ingredient> épluchées. le pot-au-feu est cuit lorsque les <ingredient>pommes de terre</ingredient> sont tendres.
+]]>
+ </preparation>
+</recette>

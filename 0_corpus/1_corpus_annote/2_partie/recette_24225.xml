@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24225">
+ <titre>Chou rouge et pommes à l’ autocuiseur</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 chou rouge d’ 1kg environ</p>
+ <p>200 g de lard</p>
+ <p>30 g de beurre</p>
+ <p>250 g de pommes</p>
+ <p>4 oignons</p>
+ <p>1 verre de vin blanc sec</p>
+ <p>1 verre d’ eau</p>
+ <p>sel, poivre </p>
+ <p>1 autocuiseur</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter l’ <ingredient>eau</ingredient> à ébullition dans l’ <ingredient><recipient>autocuiseur</recipient></ingredient>. pendant ce temps, couper le trognon du chou, ôter les cotes épaisses, l’ effeuiller puis le détailler en quartiers. découper ensuite les feuilles en fines lanière puis les déposer dans l’ <ingredient><recipient>autocuiseur</recipient></ingredient> avec le <ingredient>lard</ingredient>. dés que l’ <ingredient>eau</ingredient> frémit de nouveau, égoutter les choux et le <ingredient>lard</ingredient>, puis le détailler en petits dés et le réserver. eplucher ensuite l’ <ingredient>oignon</ingredient> et les <ingredient>pommes</ingredient> puis les détailler en fines lamelles. déposer dans l’ <ingredient><recipient>autocuiseur</recipient></ingredient> les dés de <ingredient>lard</ingredient> avec l’ <ingredient>oignon</ingredient> émincé et une noisette de beurre, puis <operation>laisser cuire en</operation> remuant jusqu’ à ce qu’ ils soient bien dorés. ajouter enfin le chou avec les <ingredient>pommes</ingredient>, puis mouiller de <ingredient>vin blanc</ingredient> et d’ <ingredient>eau</ingredient>. saler, poivrer et refermer l’ <ingredient><recipient>autocuiseur</recipient></ingredient>, pour achever la cuisson. <operation>laisser cuire 25 min à couvert, à feu doux dés</operation> mise en route de la soupape. déguster.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67493">
+ <titre>Tarte au thon indienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à tarte</p>
+ <p>400 g de thon</p>
+ <p>200 g de crème fraîche</p>
+ <p>1 oeuf</p>
+ <p>1 oignon</p>
+ <p>épices tandoori</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 180 ° c (thermostat 6). dans un bol, <operation>mélangez la <ingredient>crème</ingredient> fraiche avec l’ <ingredient>oeuf</ingredient>, l’ <ingredient>oignon</ingredient></operation> émincé et le mélange <ingredient>tandoori</ingredient>. <operation>salez</operation>, <operation>poivrez</operation>. <operation>versez le mélange sur la pâte à <ingredient>tarte</ingredient></operation>. <operation>emiettez le <ingredient>thon</ingredient> sur le mélange <ingredient>tandoori</ingredient></operation>. <operation>faites cuire au <recipient>four</recipient> pendant 20 min</operation>. <operation>servez avec une salade verte</operation> assaisonnée avec du nuoc nam.
+]]>
+ </preparation>
+</recette>

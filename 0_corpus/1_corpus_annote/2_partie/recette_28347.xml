@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28347">
+ <titre>Crêpes à l’ Italienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour les crêpes: </p>
+ <p>5 cuillères à soupe de farine</p>
+ <p>1 oeuf</p>
+ <p>1/2 pincée de sel</p>
+ <p>environ 25 cl de lait</p>
+ <p>1 cuillère à café d’ huile</p>
+ <p>Pour la garniture: </p>
+ <p>400 g de dés de tomates en boîte</p>
+ <p>ciboulette</p>
+ <p>origan</p>
+ <p>basilic</p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>250 g de mozzarella (ou de gruyère ou même de St Nectaire) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez la pâte à <ingredient>crêpe</ingredient>: dans un saladier</operation> mélanger la farine + <ingredient>sel</ingredient> + <ingredient>oeuf</ingredient>. ajouter peu à peu le lait puis en dernier l’ <ingredient>huile</ingredient>. <operation>laisser reposer</operation>. dans un saladier <operation>mélangez les dés de <ingredient>tomate</ingredient> + la pulpe + la <ingredient>ciboulette</ingredient> + <ingredient>origan</ingredient> + <ingredient>basilic</ingredient> + <ingredient>sel</ingredient> + poivre + les <ingredient>cuillères</ingredient> d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> + 200 g <ingredient>mozzarella</ingredient></operation> coupée en dés. préchauffez le <recipient>four</recipient> à 200 ° c (th 6). <operation>cuisez les <ingredient>crêpes</ingredient></operation>. <operation>répartissez un peu de sauce sur chaque</operation> <ingredient>crêpe</ingredient>, <operation>enroulez</operation> - les et <operation>serrez - les dans un <recipient>plat</recipient> légèrement huilé</operation>. répartissez le reste de la sauce sur les <ingredient>crêpes</ingredient> ainsi que la mozzarella restante (ou gruyère). <operation>enfournez 10 - 15 mn jusqu’ à ce que le dessus soit</operation> doré. vous pouvez <operation>accompagnez ce <recipient>plat</recipient> de fines tranches de jambon de parme!!! un <recipient>plat</recipient> si léger qu’ il est même</operation> conseillé pour un repas du soir!!!
+]]>
+ </preparation>
+</recette>

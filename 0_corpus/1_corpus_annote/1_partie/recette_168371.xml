@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168371">
+ <titre>Petite crème au café</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 litre de lait</p>
+ <p>30 g de maizena</p>
+ <p>30 g de sucre ou plus selon les gouts</p>
+ <p>+/- 10 g de café soluble</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le <ingredient>lait</ingredient> (sauf une tasse</operation>) délayer le <ingredient>sucre</ingredient>, la maizena et le café dans la tasse de <ingredient>lait</ingredient> froid verser ce mélange dans le <ingredient>lait</ingredient> bouillant <operation>faire cuire pendant 2/3 minutes sans</operation> cesser de remuer (le mélange épaissit) verser ensuite dans 4 pots de yaourts en verre de récupération. <operation>laisser refroidir</operation> et déguster. peut se <operation>faire aussi en remplaçant le café par 30 g de chocolat en poudre</operation>
+]]>
+ </preparation>
+</recette>

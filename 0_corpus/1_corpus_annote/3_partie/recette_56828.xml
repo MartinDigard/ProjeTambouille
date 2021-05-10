@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56828">
+ <titre>Fleischnaka façon Sandrine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>4 oeufs</p>
+ <p>400 g de farine</p>
+ <p>de l’ eau</p>
+ <p>sel</p>
+ <p>Pour la farce: </p>
+ <p>400 g de viande hachée</p>
+ <p>200 g de gruyère rapé</p>
+ <p>épices</p>
+ <p>Pour la cuisson: </p>
+ <p>eau</p>
+ <p>2 cubes de bouillon de boeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire la <ingredient>pâte</ingredient> à nouille en</operation> mélangeant les <ingredient>oeufs</ingredient>, la farine et un peu d’ <ingredient>eau</ingredient> salée. mélanger à la main la <ingredient>viande hachée</ingredient>, le fromage et les <ingredient>épices</ingredient>. etaler la <ingredient>pâte</ingredient>, la <operation>recouvrir de <ingredient>farce</ingredient> et l’</operation> enrouler. couper le boudin en tranches d’ environ 1 cm de large. les <operation>faire dorer les deux côtés dans un peu d’</operation> huile en aplatissant les faces avec une pelle à tarte. faire bouillir un <ingredient>bouillon de boeuf</ingredient> et y plonger les tranches pendant au moins une heure voir plus. très bon rechauffés aussi! un vin d’ alsace
+]]>
+ </preparation>
+</recette>

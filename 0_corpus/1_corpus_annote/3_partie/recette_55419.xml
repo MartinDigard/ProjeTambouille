@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55419">
+ <titre>Pâte à crêpes simplissime</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>3 oeufs</p>
+ <p>du lait</p>
+ <p>du rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>versez la farine dans un saladier</operation>. ajouter du <ingredient>lait</ingredient> et battre au fouet. la pâte doit être lisse (mettre le <ingredient>lait</ingredient> avant les <ingredient>oeufs</ingredient> évite les grumeaux). ajouter ensuite les <ingredient>oeufs</ingredient> un à un puis le <ingredient>rhum</ingredient>. moi, j’ en mets une bonne cuillère à soupe. en règle générale, à ce stade la pâte est trop épaisse alors je rajoute du <ingredient>lait</ingredient> jusqu’ à la consistance souhaitée.
+]]>
+ </preparation>
+</recette>

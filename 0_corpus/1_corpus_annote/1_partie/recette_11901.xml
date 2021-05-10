@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11901">
+ <titre>Feuilleté d’ andouille sauce au cidre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>18 tranches d’ andouille épaisses</p>
+ <p>6 ronds de pâte feuilletée de 10 cm de diamètre</p>
+ <p>3 pommes</p>
+ <p>Pour la sauce: </p>
+ <p>50 cl de cidre </p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>30 g de beurre</p>
+ <p>30 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire réduire le <ingredient>cidre</ingredient> de moitié</operation>, ajouter la <ingredient>crème</ingredient> et le mélange de farine et de beurre. faire cuire 5 min les <ingredient>ronds de pâte feuilleté</ingredient> au <recipient>four</recipient> 10mn à thermostat 7 jusqu’ à leur montée. <operation>faire cuire les <ingredient>pommes</ingredient> 5 min en morceaux dans une poele avec du beurre</operation>. <operation>faire ensuite</operation> chauffer l’ <ingredient>andouille</ingredient> sur un coté pour eviter quelles se défasse. couper les <ingredient>ronds</ingredient> en deux poser les <ingredient>pommes</ingredient> puis les rondelles d’ <ingredient>andouille</ingredient>. napper de <ingredient>sauce</ingredient> et reposer le dessus du <ingredient>rond</ingredient>. servir chaud. <ingredient>cidre</ingredient>
+]]>
+ </preparation>
+</recette>

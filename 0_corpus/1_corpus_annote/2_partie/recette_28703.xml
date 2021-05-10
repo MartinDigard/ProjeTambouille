@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28703">
+ <titre>Gâteau moelleux express au chocolat (au micro-ondes) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat pâtisserie</p>
+ <p>150 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>100 g de beurre</p>
+ <p>50 g de farine</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> au <recipient>micro-onde</recipient> sur fort pendant 2 mn</operation>. ajouter le beurre coupé en morceaux. remettre sur fort pendant 2 mn. mélanger le tout. battre les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient>. ajouter le mélange <ingredient>chocolat</ingredient> - <ingredient>beurre</ingredient>. ajouter la farine. ajouter la <ingredient>crème fraîche</ingredient>. beurrer le <recipient>moule</recipient> (prévoir de la marge en hauteur). mettre la préparation dans le <recipient>moule</recipient> et cuire sur fort pendant 8 - 10 mn (un couteau piqué dans le gâteau doit <operation>ressortir propre, sec ou légèrement humide</operation>). démouler le gâteau et le <operation>laisser refroidir un peu sur une grille</operation>. il faut adapter les temps en fonction de la puissance utlisée (ex: diviser par 2 pour 900w). une fois refroidi, le gâteau devient un peu comme un fondant...
+]]>
+ </preparation>
+</recette>

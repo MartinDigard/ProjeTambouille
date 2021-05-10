@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223448">
+ <titre>Omelette à l’ orange</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 œufs</p>
+ <p>1 orange</p>
+ <p>1 cuillère à café de rhum</p>
+ <p>2 cuillère à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un saladier, mélanger les <ingredient>œufs</ingredient>, le <ingredient>sucre</ingredient> et le <ingredient>rhum</ingredient>. éplucher l’ orange, séparer les quartiers et les couper tous en deux, les <operation>faire chauffer quelques minute dans une <recipient>poêle</recipient> légèrement beurré en les saupoudrant de <ingredient>sucre</ingredient></operation>. une fois la petite peau des quartiers devenue un peu transparente, ajouter le mélange à base d’ oeufs et cuire 5 min environ en <operation>faisant attention de ne pas</operation> <operation>faire brûler</operation>.
+]]>
+ </preparation>
+</recette>

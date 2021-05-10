@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15776">
+ <titre>Rôti de veau orloff</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de veau en rôti (sous-noix ou épaule) </p>
+ <p>150 g de gruyère</p>
+ <p>250 g de bacon (tranches rondes) </p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ <p>15 cl de vin blanc</p>
+ <p>15 cl de crème fraîche</p>
+ <p>1 cuillère à soupe de fumet de veau en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+inciser le <ingredient>rôti</ingredient> tout le long en profondeur. glisser une tranche de <ingredient>bacon</ingredient> et une tranche de gruyère dans chaque incision. <operation>faire chauffer une grosse noix de beurre dans une <recipient>cocotte</recipient></operation>, <operation>saisir le <ingredient>rôti</ingredient> de tous les cotés pour le dorer</operation>. mélanger le <ingredient>fumet de veau</ingredient> dans un bol d’ eau, verser dans la <recipient>cocotte</recipient>. saler et poivrer. rajouter le <ingredient>vin blanc</ingredient>. <operation>laisser mijoter 45 min</operation>. au dernier moment, retirer le <ingredient>rôti</ingredient>, verser la <ingredient>crème fraîche</ingredient> dans la sauce, mélanger (surtout ne pas <operation>faire bouillir</operation>). <operation>servir le <ingredient>rôti</ingredient> dans un <recipient>plat</recipient> et la sauce à part</operation>. très bon accompagné de tagliatelles fraîches.
+]]>
+ </preparation>
+</recette>

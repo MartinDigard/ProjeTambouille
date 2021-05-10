@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22151">
+ <titre>Riz au lait épicé, crème pistachée</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le riz au lait: </p>
+ <p>50 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>zestes d’ oranges</p>
+ <p>75 g de sucre</p>
+ <p>1/2 gousse de vanille</p>
+ <p>cardamome verte</p>
+ <p>poivre de séchouan</p>
+ <p>Pour la crème pistachée: </p>
+ <p>12.5 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>25 g de sucre</p>
+ <p>15 g pâte à pistache</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+riz au lait: <operation>faire bouillir le <ingredient>lait</ingredient> avec les épices</operation>. ajouter le <ingredient>riz</ingredient> puis reporter à ébullition. terminer à couvert au <recipient>four</recipient> à 150 ° c pendant 20 - 25 min. quand c’ est fait, <operation>blanchir les jaunes avec le</operation> <ingredient>sucre</ingredient> et additionner au <ingredient>riz</ingredient>, puis remettre sur feu très doux durant 3 - 4 min en mélangeant et ajouter les <ingredient>zestes</ingredient> d’ <ingredient>oranges</ingredient>. vous pouvez les mouler en mettant du film étirable dans des ramequins et les démouler qu’ après les avoir <operation>laisser reposer durant 1 h au frais (ne pas</operation> oublier d’ enlever les épices avant de les mouler). <ingredient>crème pistachée</ingredient>: <operation>faire bouillir le <ingredient>lait</ingredient> et y</operation> ajouter les jaunes d’ oeufs préalablement blanchis avec le <ingredient>sucre</ingredient>. <operation>laisser épaissir (consistance d’ une <ingredient>crème</ingredient> anglaise) et y</operation> ajouter la pâte à <ingredient>pistache</ingredient>.
+]]>
+ </preparation>
+</recette>

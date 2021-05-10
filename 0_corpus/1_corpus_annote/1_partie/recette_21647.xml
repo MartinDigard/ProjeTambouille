@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21647">
+ <titre>Salade mélangée</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>gruyère</p>
+ <p>1 concombre</p>
+ <p>2 poivrons verts (ou rouges, ou les deux) </p>
+ <p>1 botte de radis</p>
+ <p>lardons</p>
+ <p>4 oeufs</p>
+ <p>huile </p>
+ <p>vinaigre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les <ingredient>tomates</ingredient> et les</operation> <ingredient>radis</ingredient>, <operation>coupez - les en rondelles ainsi que le</operation> <ingredient>concombre</ingredient>, <operation>coupez les <ingredient>poivron</ingredient> en lamelles</operation>, <operation>coupez le gruyère en dés</operation>. <operation>faites revenir les <ingredient>lardons</ingredient> dans une <recipient>poêle</recipient></operation>, <operation>laissez - les refroidir</operation>, <operation>faites cuire les <ingredient>oeufs</ingredient></operation>. disposez tous les ingredients dans un <recipient>plat</recipient>. <operation>faites une vinaigrette</operation> et <operation>mettez - la dans le <recipient>plat</recipient></operation>.
+]]>
+ </preparation>
+</recette>

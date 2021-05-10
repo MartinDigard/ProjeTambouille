@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10869">
+ <titre>Pain de poisson rapide</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>2 boites de saumon en conserve</p>
+ <p>1 boite de concentré de tomate</p>
+ <p>5 cl de crème légère ou lait</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient>oeufs</ingredient> et ajouter la <ingredient>crème</ingredient> liquide. saler et poivrer. incorporer le <ingredient>concentré de tomate</ingredient> et bien mélanger. après avoir émietté le <ingredient>saumon</ingredient>, l’ ajouter au reste et remuer le tout. beurrer un <recipient>moule</recipient> à cake et verser la préparation. cuire à thermostat 6 pendant 20 à 25 min. <operation>laisser refroidir avant de</operation> <operation>servir avec de la mayonnaise</operation>.
+]]>
+ </preparation>
+</recette>

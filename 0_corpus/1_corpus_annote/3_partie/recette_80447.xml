@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80447">
+ <titre>Bouchées mexicaines</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>800 g de viande hachée</p>
+ <p>1 gros oignon</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>3 cuillères à café d’ épices "chili"</p>
+ <p>huile d’ olive</p>
+ <p>1 tomate</p>
+ <p>coulis de tomate</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire brunir les <ingredient>oignons</ingredient> dans l’ huile d’ <ingredient>olive</ingredient>, y</operation> ajouter les <ingredient>poivrons</ingredient> et la <ingredient>tomate</ingredient> (le tout coupé en dés), la <ingredient>viande hachée</ingredient>, le <ingredient>coulis de tomates</ingredient>, du <ingredient>sel</ingredient>, du poivre, les <ingredient>épices chili</ingredient>, et <operation>laisser à feu moyen pendant 5 min</operation>. pendant ce temps, découper les <ingredient>pâtes</ingredient> en 4 morceaux chacune. quand la <ingredient>viande</ingredient> est cuite, déposer un peu de garniture sur chaque morceau de <ingredient>pâte</ingredient> et refermer chacun d’ eux. cuire à 210 °, thermostat 7, pendant 20 min. a <operation>servir, par exemple, avec de la salade</operation>!
+]]>
+ </preparation>
+</recette>

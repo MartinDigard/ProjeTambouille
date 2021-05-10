@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30380">
+ <titre>Charlottes aux pommes au rhum</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>7 belles pommes</p>
+ <p>200 g de biscuits à la cuillère</p>
+ <p>150 g de sucre</p>
+ <p>15 cl de rhum </p>
+ <p>50 g de beurre </p>
+ <p>4 cuillères à soupe de confiture d’ abricots </p>
+ <p>2 cuillères à soupe de poudre d’ amandes </p>
+ <p>1 pincée de cannelle moulue</p>
+ <p>1 gousse de vanille</p>
+ <p>caramel liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation>, <operation>épépinez</operation> et <operation>coupez 6 <ingredient>pommes</ingredient> en morceaux</operation>. <operation>faites - les</operation> cuire en compote à la <recipient>casserole</recipient> dans le beurre avec la la gousse de <ingredient>vanille</ingredient> fendue en deux et la <ingredient>cannelle</ingredient>. <operation>ecrasez les <ingredient>pommes</ingredient> en compote</operation> (<operation>retirez la gousse de <ingredient>vanille</ingredient>)</operation> et <operation>rajoutez la <ingredient>confiture</ingredient> d’ <ingredient>abricots</ingredient> et la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient></operation>. <operation>réservez</operation>. <operation>faites bouillir 15 cl d’ eau avec le <ingredient>rhum</ingredient> et le <ingredient>sucre</ingredient> de manière à</operation> <operation>obtenir un sirpo léger</operation>. <operation>trempez rapidement les biscuits</operation> dedans et <operation>tapissez le fond et les parois d’ un <recipient>moule</recipient> à charlotte de biscuits imbibés</operation>. garnissez le centre compote et de couches de biscuits imbibés, <operation>terminez par des biscuits</operation>. <operation>posez une assiette et un poids sur le <recipient>moule</recipient>, et placez - le au <recipient>réfrigérateur</recipient> au moins 4h</operation>. pour <operation>servir</operation>, <operation>démoulez</operation> et <operation>décorez de quartiers de <ingredient>pomme</ingredient> et de <ingredient>caramel</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223976">
+ <titre>Jambon blanc pané</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 œufs</p>
+ <p>6 tranches de jambon blanc</p>
+ <p>chapelure </p>
+ <p>beurre pour la cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+casser les <ingredient>œufs</ingredient> dans un <recipient>plat</recipient> mi-creux, les battre en omelette, ajouter un peu de sel et du poivre. couper les <ingredient>tranches de jambon blanc</ingredient> en 2, les passer d’ abord dans l’ <ingredient>œuf</ingredient> battu puis dans la <ingredient>chapelure</ingredient>. <operation>faire fondre du beurre dans une <recipient>poêle</recipient>, dès qu’ il est noisette</operation>, mettre les demi-tranches panées à cuire pendant 5 - 6 min en surveillant et en les retournant, il faut qu’ elles soient dorées. <operation>servir avec une salade verte</operation>. bon appétit! on peut ajouter dans la <ingredient>chapelure</ingredient> du gruyère râpé!
+]]>
+ </preparation>
+</recette>

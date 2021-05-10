@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55327">
+ <titre>Crabe au curry</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 g de beurre</p>
+ <p>1 oignon</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1/2 cuillère à café de curry</p>
+ <p>1 boîte de crabe</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emietter et égouter le <ingredient>crabe</ingredient>. <operation>faire revenir l’ <ingredient>oignon</ingredient></operation> haché dans le beurre y ajouter la <ingredient>crème fraîche</ingredient>, le <ingredient>curry</ingredient> et la <ingredient>crabe</ingredient>. saler et poivrer. mélanger et <operation>laisser mijoter 5 minutes environ</operation>. a <operation>servir</operation> accompagné d’ une salade verte.
+]]>
+ </preparation>
+</recette>

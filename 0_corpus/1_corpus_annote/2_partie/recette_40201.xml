@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40201">
+ <titre>Pot-au-feu à l’ islandaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1kg de viande d’ agneau maigre coupée en dés ou 500g d’ agneau et 500g de viande de boeuf (type boeuf bourguignon) </p>
+ <p>1, 5l d’ eau</p>
+ <p>500 g de rutabagas (aussi appelés navets jaunes ou chou navets) </p>
+ <p>300 g de pommes de terre</p>
+ <p>300 g de carottes</p>
+ <p>1 poireau (facultatif) </p>
+ <p>300 g de chou blanc </p>
+ <p>1/2 bouquet de persil plat (ou de vos herbes préférées) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez la <ingredient>viande</ingredient> dans une grande <recipient>cocotte</recipient></operation>, <operation>ajoutez de l’ <ingredient>eau</ingredient> froide</operation> et <operation>portez lentement à ébullition</operation>. ecumez puis <operation>salez</operation>, <operation>poivrez</operation> et <operation>laissez mijoter sans couvercle pendant 45 min</operation>. entre-temps, épluchez les <ingredient>rutabagas</ingredient> et les <ingredient>pommes de terre</ingredient> et <ingredient>coupez</ingredient> - les en morceaux. lavez et épluchez le <ingredient>poireau</ingredient> et les <ingredient>carottes</ingredient>, <ingredient>coupez</ingredient> - les en tranches. <operation>ajoutez les légumes à la</operation> <ingredient>viande</ingredient> et <operation>poursuivez la cuisson à feu doux pendant 15 min</operation>. pendant ce temps, <ingredient>coupez</ingredient> le <ingredient>chou</ingredient> en tranches puis hachez - le grossièrement. <operation>mettez - le avec les herbes</operation> hachées dans la soupe et <operation>laissez mijoter 5 à 10 min</operation>. <operation>assaisonnez de nouveau avec du <ingredient>sel</ingredient> et du poivre</operation> et <operation>servez, comme le</operation> veut la tradition, dans deux assiettes par personne: l’ une pour la <ingredient>viande</ingredient>, l’ autre pour la soupe.
+]]>
+ </preparation>
+</recette>

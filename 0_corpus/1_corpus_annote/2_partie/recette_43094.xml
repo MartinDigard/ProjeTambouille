@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43094">
+ <titre>Paupiettes de veau au Marsala</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>8 fines escalopes de veau (applaties par votre boucher) </p>
+ <p>3 foies de volaille</p>
+ <p>1 oignon</p>
+ <p>80 g de raisins secs</p>
+ <p>40 g de pistaches mondées</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>40 g de beurre (ou 3 cuillères à soupe d’ huile d’ olive) </p>
+ <p>10 cl de Marsala (ou Rivesaltes) </p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>poivre du moulin</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire tremper les <ingredient>raisins</ingredient> avec le <ingredient>marsala</ingredient></operation>. <operation>faire fondre l’ <ingredient>oignon</ingredient></operation> émincé dans une <recipient>poêle</recipient>, avec la moitié de la matière grasse. ajouter les <ingredient>foies</ingredient> sur feu vif, et <operation>faire sauter 4 min</operation>. mixer le tout grossièrement, avec les <ingredient>pistaches</ingredient> et le <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient>. poivrer. saler et poivrer les <ingredient>escalopes</ingredient>. etaler dessus une couche de farce, puis rouler les paupiettes. les <operation>maintenir avec une pique en bois</operation>. les <operation>faire colorer sur feu</operation> modéré dans une <recipient>cocotte</recipient>, avec le reste de la matière grasse. baisser le feu, ajouter le <ingredient>cube de bouillon</ingredient> écrasé, les <ingredient>raisins</ingredient>, le <ingredient>marsala</ingredient> et la <ingredient>crème</ingredient>. <operation>laisser mijoter, à couvert 30 mn</operation>. présenter les paupiettes et leur sauce dans un <recipient>plat</recipient> chaud, accompagnées de pommes vapeur ou de polenta. chablis (bourgogne blanc)
+]]>
+ </preparation>
+</recette>

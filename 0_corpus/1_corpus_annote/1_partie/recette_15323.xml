@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15323">
+ <titre>Soupe mexicaine aux lentilles</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de lentilles</p>
+ <p>3 pommes de terre</p>
+ <p>1 barquette de lardons</p>
+ <p>2 citrons verts</p>
+ <p>1 carré de bouillon de volaille</p>
+ <p>1 oignon</p>
+ <p>ananas (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>lardons</ingredient> avec l’ <ingredient>oignon</ingredient></operation> haché. dans une <recipient>casserole</recipient>, faire chauffer 1 litre d’ eau avec le <ingredient>carré de bouillon</ingredient>, puis y ajouter les lentilles (avec le jus). couper les <ingredient>pommes de terre</ingredient> en <ingredient>carré</ingredient> et les <operation>faire cuire dans le <ingredient>bouillon</ingredient></operation>. <operation>laisser mijoter 30 min,</operation> puis ajouter les <ingredient>lardons</ingredient> et l’ <ingredient>oignon</ingredient>. avant de <operation>servir</operation>, ajouter le jus des <ingredient>citrons</ingredient> et éventuellement des <ingredient>carrés</ingredient> d’ <ingredient>ananas</ingredient>.
+]]>
+ </preparation>
+</recette>

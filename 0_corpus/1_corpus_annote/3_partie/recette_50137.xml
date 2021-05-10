@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50137">
+ <titre>Gâteau de courgettes caramélisé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de purée de courgettes</p>
+ <p>220 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>220 g de farine</p>
+ <p>25 cl de lait</p>
+ <p>3 oeufs</p>
+ <p>100 g de beurre fondu et refroidi</p>
+ <p>Pour le caramel: </p>
+ <p>100 g de sucre</p>
+ <p>1 cuillère à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire à la vapeur environ 1, 5 kg de <ingredient>courgettes</ingredient> pelées</operation> et épépinées afin d’ obtenir 75 g de <ingredient>purée de courgettes</ingredient>. dans un saladier, mélanger le <ingredient>sucre</ingredient>, le <ingredient>sucre vanillé</ingredient>, la farine, le lait, les <ingredient>oeufs</ingredient> et le beurre. ajouter la <ingredient>purée</ingredient> et mettre dans un <recipient>moule</recipient> caramélisé (<operation>faire chauffer le <ingredient>sucre</ingredient> et l’ <ingredient>eau</ingredient> jusqu’ à ce que ça caramlise et en</operation> <operation>couvrir le fond et les parois d’ un <recipient>moule</recipient> à</operation> manqué). enfourner 40 min à 180 ° c (thermostat 6). déguster froid.
+]]>
+ </preparation>
+</recette>

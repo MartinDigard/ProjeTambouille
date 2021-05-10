@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16473">
+ <titre>Gâteau à la crème de marrons (amande et noix de coco) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de crème de marrons </p>
+ <p>3 oeufs</p>
+ <p>1/2 plaquette de beurre</p>
+ <p>70 g d’ amandes en poudre</p>
+ <p>70 g de coco râpée</p>
+ <p>2 pincées de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>beurre</ingredient> dans un <recipient>casserole</recipient></operation>. le mélanger avec la <ingredient>crème de marrons</ingredient>, puis incorporer les <ingredient>amandes</ingredient> et la noix de <ingredient>coco</ingredient>. ajouter 2 pincées de <ingredient>sel</ingredient>. verser le mélange dans un grand <recipient>plat</recipient>, afin de <operation>faire un gâteau assez fin</operation>. <operation>faire cuire environ 30 à 40 mn à feu doux, en</operation> surveillant bien.
+]]>
+ </preparation>
+</recette>

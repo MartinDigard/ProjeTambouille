@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89251">
+ <titre>Poulet caramélisé aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros poulet coupé en morceaux (ou 6 cuisses avec haut de cuisses) </p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>6 poivrons (3 rouges + 3 jaunes) </p>
+ <p>4 gousses d’ ail</p>
+ <p>2 cuillères à soupe de sucre </p>
+ <p>2 cuillères à café de cumin en poudre</p>
+ <p>1 cuillère à café de paprika</p>
+ <p>1 pincée de piment d’ espelette (facultatif) </p>
+ <p>2 cuillères à café d’ origan</p>
+ <p>2 cuillères à soupe de vinaigre balsamique</p>
+ <p>15 olives noires</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>salez</operation> et <operation>poivrez les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient></operation>. <operation>faites - les</operation> dorer à feu vif dans une <recipient>cocotte</recipient> avec l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. pendant ce temps, <operation>lavez</operation>, <operation>épépinez et <ingredient>coupez</ingredient> les <ingredient>poivrons</ingredient> en 8 lanières verticales</operation>. <operation>pelez les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> et <ingredient>coupez</ingredient> - les en lamelles épaisses</operation>. lorsque le <ingredient>poulet</ingredient> est bien doré, <operation>réservez - le dans un <recipient>plat</recipient></operation> et <operation>faites dorer les <ingredient>poivrons</ingredient> et l’ <ingredient>ail</ingredient> à sa place pendant 10 minutes en</operation> remuant souvent. <operation>ajoutez sucre, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, <ingredient>cumin</ingredient> et <ingredient>origan</ingredient></operation>. <operation>laissez caraméliser 10 minutes</operation>. <operation>versez le</operation> <ingredient>vinaigre</ingredient> et <operation>remettez les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient> dans la <recipient>cocotte</recipient></operation>. <operation>remuez bien</operation>, <operation>couvrez</operation> et <operation>laisser cuire 30 minutes à feu doux</operation>. au bout de ce temps, <operation>ajoutez les</operation> <ingredient>olives</ingredient> et <operation>poursuivez la cuisson 10 minutes</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69278">
+ <titre>Croûtes dorées</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>1 baquette rassis ou autre pain dur</p>
+ <p>sucre glace</p>
+ <p>huile pour la friture (tournesol, arachide) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un saladier battre les <ingredient>oeufs</ingredient> en omelette. couper le <ingredient>pain dur</ingredient> en morceaux. <operation>faire chauffer l’</operation> huile. pendant ce temps, imbiber le <ingredient>pain dur</ingredient> avec les <ingredient>oeufs</ingredient> battus jusqu’ à ce qu’ il ramollisse. une fois le <ingredient>pain</ingredient> ramolli, le <operation>faire frire</operation>. quand le <ingredient>pain</ingredient> est doré, le et <operation>sortir l’</operation> égoutter sur un papier absorbant. une fois refroidi, saupoudrer de <ingredient>sucre glace</ingredient> et servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14556">
+ <titre>Moussaka</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de viande hachée</p>
+ <p>800 g de pommes de terre</p>
+ <p>150 g d’ huile</p>
+ <p>200 g de tomates</p>
+ <p>4 oeufs</p>
+ <p>300 g de lait</p>
+ <p>sel, poivre, poivre noir, thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+on met la <ingredient>viande</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient> et on fait frire avec l’ huile pendant dix minutes. on ajoute les <ingredient>pommes de terre</ingredient> coupées en petits cubes pour les frire pendant encore dix minutes. après avoir ajouté les épices, on ajoute de l’ eau chaude (un grand verre) et on <operation>laisse le <recipient>plat</recipient></operation> cuire pendant vingt minutes. pendant ce temps, on prépare le mélange à napper qui est composé des <ingredient>oeufs</ingredient> et du lait. on verse le mélange et on éteint le <recipient>four</recipient>. on y <operation>laisse le <recipient>plat</recipient></operation> jusqu’ à ce que ça cesse de cuire. vin rouge
+]]>
+ </preparation>
+</recette>

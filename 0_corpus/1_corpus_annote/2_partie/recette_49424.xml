@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49424">
+ <titre>Flan aux griottes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 bocal de griottes au sirop</p>
+ <p>1 boîte de lait concentré non sucré de 410 g </p>
+ <p>1 cuillère à soupe bombée de farine</p>
+ <p>3 oeufs</p>
+ <p>5 cl de sucre en poudre </p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (th 6 - 7). <operation>egouttez les <ingredient>griottes</ingredient></operation> dénoyautées dans une <recipient>passoire</recipient>. dans un saladier, <operation>versez le <ingredient>lait</ingredient>, la farine, les <ingredient>oeufs</ingredient> et le</operation> <ingredient>sucre</ingredient> et <operation>mélangez le tout à l’</operation> aide d’ une spatule. <operation>ajoutez les</operation> <ingredient>griottes</ingredient> et <operation>mélangez à nouveau</operation>. <operation>beurrez le</operation> <ingredient><recipient>moule</recipient></ingredient>, <operation>versez la préparation</operation> et <operation>enfournez couvert pendant 35 min à 200 ° c (th 6 - 7</operation>). servez tiède ou froid.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81812">
+ <titre>Gâteau-miettes aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g farine + 3/4 d’ un paquet de levure chimique</p>
+ <p>100 g de beurre</p>
+ <p>1 œuf</p>
+ <p>150 g de sucre </p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>500 g de pommes râpées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger (à la main ou au batteur) tous les ingrédients (sauf les <ingredient>pommes</ingredient>) jusqu’ à l’ obtention de « miettes ». en étaler la moitié à la main dans un <recipient><recipient>moule</recipient> à tarte</recipient> préalablement beurré, y répartir les <ingredient>pommes râpées</ingredient>. <operation>recouvrir avec le reste des miettes</operation>. <operation>faire cuire à <recipient>four</recipient> moyen (thermostat 7 - 210 ° c) pendant 45 min</operation>. démouler, et lorsque la tarte est refroidie, saupoudrer de <ingredient>sucre</ingredient> glace. en alsace, ce gâteau est appelé « grimmelkuche » « grimmel = miettes, kuche = gâteau muscat d’ alsace
+]]>
+ </preparation>
+</recette>

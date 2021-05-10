@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43329">
+ <titre>Soupe aux fanes de radis, poireaux et roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une bottes de fanes de radis</p>
+ <p>4 à 5 blancs de poireaux</p>
+ <p>2 oignons</p>
+ <p>1 pomme de terre moyenne</p>
+ <p>100 à 150 g de roquefort selon les goûts</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les légumes verts</operation> et <operation>coupez les <ingredient>poireaux</ingredient></operation>. epluchez et <operation>coupez les</operation> <ingredient>oignons</ingredient> et <operation>faites - les</operation> <operation>revenir dans une <recipient>cocotte</recipient> avec un peu d’ huile ou beurre</operation>. une fois revenus, ajoutez les <ingredient>poireaux</ingredient> et les <ingredient>fanes de radis</ingredient>, <operation>faites réduire</operation>. <operation>recouvrez le tout d’ eau</operation>. epluchez et coupez la <ingredient>pomme de terre</ingredient> puis <operation>incorporez - la à la <ingredient>soupe</ingredient></operation>. <operation>faites mijoter le tout à la <recipient>cocotte</recipient> 15 à 20 min</operation>. enfin au dernier moment, <operation>mixez la</operation> <ingredient>soupe</ingredient> et <operation>rajoutez le <ingredient>roquefort</ingredient> et la <ingredient>crème</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

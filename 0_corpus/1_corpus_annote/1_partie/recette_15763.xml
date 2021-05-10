@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15763">
+ <titre>Pudding banane et noix de coco (super facile!) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 baguette rassise ou l’ équivalent en pain</p>
+ <p>50 cl de lait</p>
+ <p>100 g de sucre</p>
+ <p>3 œufs</p>
+ <p>100 g de noix de coco</p>
+ <p>3 bananes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez dans un saladier des morceaux de <ingredient>pain</ingredient></operation> <operation>rassis</operation>,</operation> puis <operation>arrosez avec le lait</operation> bouillant. <operation>laissez le <ingredient>pain</ingredient></operation> gonfler et tout absorber le lait (si le lait est absorbé et que le <ingredient>pain</ingredient> est encore dur <operation>ajoutez du lait</operation>). ecrasez à la fourchette ou mixez. <operation>incorporez le <ingredient>sucre</ingredient>, les oeufs</operation> battus et la <ingredient>noix de coco</ingredient>. <operation>ajoutez ensuite les <ingredient>bananes</ingredient></operation> coupées en rondelles. <operation>mettez dans un <recipient>moule</recipient></operation> et <operation>cuisez environ 45 min à <recipient>four</recipient> moyen (thermostat 6 / 180 ° c</operation>). idéal quand il reste du <ingredient>pain</ingredient> <operation>rassis</operation>.
+]]>
+ </preparation>
+</recette>

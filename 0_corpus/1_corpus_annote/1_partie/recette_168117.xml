@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168117">
+ <titre>Marinade de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 c à café de paprika doux</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 feuilles de laurier</p>
+ <p>1/2 de vin blanc</p>
+ <p>1 c à café de gros sel</p>
+ <p>6 cuisses de poulet</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+écraser les <ingredient>feuilles de laurier</ingredient> mélanger le <ingredient>paprika</ingredient>, le <ingredient>gros sel</ingredient>, les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> écrasées, ainsi que le <ingredient>vin blanc</ingredient>. après avoir enlevé la peau du <ingredient>poulet</ingredient>, <operation>faire des entailles dans toute la chair</operation>. <operation>laisser reposer toute une nuit</operation>. idéal pour un <recipient>barbecue</recipient>!
+]]>
+ </preparation>
+</recette>

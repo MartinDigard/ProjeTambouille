@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20808">
+ <titre>Rôti de veau au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de noix de veau en rôti </p>
+ <p>50 g de beurre</p>
+ <p>2 oeufs durs</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>20 cl d’ eau tiède</p>
+ <p>1/2 oignon</p>
+ <p>5 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>un zeste de citron</p>
+ <p>persil haché</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer le <ingredient>rôti</ingredient> de chaque côté dans une <recipient>cocotte</recipient> avec le beurre</operation>. assaisonner et mouiller de <ingredient>vin</ingredient>. lorsque le <ingredient>vin</ingredient> s’ est évaporé, ajouter l’ <ingredient>eau</ingredient>. <operation>laisser mijoter à feu doux pendant 1 h</operation>. trancher le <ingredient>rôti</ingredient> une fois refroidi et le réserver dans un endroit frais. émietter les jaunes d’ <ingredient>oeufs</ingredient> dans un bol et le mélanger avec le <ingredient>persil</ingredient>, l’ <ingredient>oignon</ingredient> ciselé, la <ingredient>moutarde</ingredient> et un peu d’ écorce de <ingredient>citron</ingredient> râpée. assaisonner et verser progressivement l’ <ingredient>huile</ingredient> et le <ingredient>vinaigre</ingredient> en tournant doucement et régulièrement comme pour une mayonnaise. verser la sauce sur le <ingredient>rôti</ingredient> et <operation>garnir de rondelles de <ingredient>citron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

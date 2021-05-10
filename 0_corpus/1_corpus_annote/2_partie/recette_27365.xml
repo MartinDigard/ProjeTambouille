@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27365">
+ <titre>Noix de st Jacques à la crème et aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 noix de st jacques avec corail</p>
+ <p>30 g de beurre demi-sel</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>champignons de Paris frais (quantité selon les goûts) </p>
+ <p>persil</p>
+ <p>20 cl de crème liquide</p>
+ <p>une pincée de cumin</p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>oignons</ingredient> et l’ <ingredient>ail</ingredient>, hachés grossièrement, dans le beurre quelques minutes</operation> puis ajouter les <ingredient>champignons</ingredient>. mélangez et <operation>laissez revenir 1 mn</operation>. ajouter les <ingredient>st jacques</ingredient> ainsi que le <ingredient>persil</ingredient> pour 2 mn puis la <ingredient>crème</ingredient>. mettre le tout dans un <recipient>plat</recipient> à gratin, parsemez de <ingredient>chapelure</ingredient> et mettre au grill qelques instants. une fois doré, vous pouvez <operation>servir (très bon avec des tagliatelles</operation> <ingredient>fraîches</ingredient>). si la sauce est trop compact, vous pouvez ajouter un peu de vin blanc.
+]]>
+ </preparation>
+</recette>

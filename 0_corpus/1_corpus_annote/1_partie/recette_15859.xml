@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15859">
+ <titre>Gratin de poisson aux fruits de mer</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 saumon moyen ou 1 grosse truite de mer ou des filets de poisson blanc (cabillaud ou autre) </p>
+ <p>1 litre de moules qu’ on aura fait désabler dans de l’ eau salée</p>
+ <p>200 ou 300 g de grosses crevettes</p>
+ <p>1 sachet de sauce beurre blanc</p>
+ <p>fromage râpé</p>
+ <p>1 ou 2 cuillères de maïzena</p>
+ <p>riz pour accompagner</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>poisson</ingredient> au court bouillon</operation>. quand il est cuit, enlever peau et arêtes, mettre la chair de côté, conserver un peu de court bouillon. <ingredient><operation>faire</ingredient> ouvrir les <ingredient>moules</ingredient>, les</operation> <operation>sortir des coquilles</operation> et réserver. garder un peu de l’ <ingredient>eau</ingredient> de cuisson. décortiquer les crevettes et les couper ou les garder entières. <ingredient><operation>faire</ingredient> une <ingredient>sauce</ingredient> avec les <ingredient>eaux</ingredient> de cuisson et la</operation> maïzena, ajouter la <ingredient>sauce beurre blanc</ingredient> et asssaisonner. mélanger à la <ingredient>sauce</ingredient> les <ingredient>moules</ingredient>, les crevettes, le <ingredient>poisson</ingredient> un peu émietté. mettre dans un <recipient>plat</recipient> à <recipient>four</recipient>, parsemer de <ingredient>fromage râpé</ingredient> et mettre sous le <recipient>gril</recipient> du <recipient>four</recipient> pour gratiner. servir avec du <ingredient>riz</ingredient> et un peu de la <ingredient>sauce qu</ingredient>’ on peut réserver. si on met le <ingredient>riz</ingredient> dans le <recipient>plat</recipient> et la préparation au <ingredient>poisson</ingredient> dessus, c’ est très bon car le <ingredient>riz</ingredient> s’ imprègne de <ingredient>sauce</ingredient>. le <ingredient>saumon</ingredient> est un <ingredient>poisson</ingredient> un peu sec pour ce genre de recette: se méfier de la cuisson. on peut varier les crustacés et les coquillages, et remplacer la <ingredient>sauce beurre blanc</ingredient> par une <ingredient>sauce</ingredient> champagne.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20306">
+ <titre>Crème d’ oignons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g d’ oignons</p>
+ <p>un petit fenouil</p>
+ <p>une pomme</p>
+ <p>4 tranches de pain de mie</p>
+ <p>30 cl de crème liquide</p>
+ <p>50 cl de lait</p>
+ <p>75 g de beurre</p>
+ <p>sel, poivre</p>
+ <p>un peu de muscade, et de piment</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient>oignons</ingredient>, et les émincer, éplucher la <ingredient>pomme</ingredient>, <operation>épépinez la</operation> et <operation>coupez la en dés</operation>. emincer le <ingredient>fenouil</ingredient>. <operation>faites fondre 50 g de beurre dans un <recipient>faitout</recipient></operation>. <operation>faites y</operation> <operation>revenir les <ingredient>oignons</ingredient> 5 mn sur feu doux</operation>. ajouter la <ingredient>pomme</ingredient> et le <ingredient>fenouil</ingredient>, <operation>laisser cuire encore 5 mn</operation>. verser la <ingredient>crème liquide</ingredient> et le lait, assaisonner. <operation>laisser cuire 15 mn</operation>. mixer le tout. préparer des <ingredient>petits</ingredient> croûtons avec le <ingredient>pain de mie</ingredient>, en les <operation>faisant revenir dans le reste du beurre</operation>. je rajoute de la <ingredient>muscade</ingredient>, et <ingredient>un peu de piment</ingredient>, pour rehausser le goût.
+]]>
+ </preparation>
+</recette>

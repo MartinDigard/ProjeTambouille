@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80018">
+ <titre>Glace au chocolat noir</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de chocolat noir en tablette</p>
+ <p>20 cl de crème liquide</p>
+ <p>20 cl de lait</p>
+ <p>1 cuillère à soupe de vanille liquide</p>
+ <p>40 g de cassonade</p>
+ <p>3 jaunes d’ oeuf</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, mettre le lait, la <ingredient>crème liquide</ingredient>, le <ingredient>chocolat</ingredient> en morceaux, la <ingredient>cuillère</ingredient> de vanille. <operation>faire chauffer doucement jusqu’ à ce que le <ingredient>chocolat</ingredient> soit</operation> fondu. dans un saladier, battre les <ingredient>jaunes</ingredient> d’ <ingredient>oeuf</ingredient> avec le sucre et la maïzena et verser le mélange précédent dessus. remettre le tout à feu doux et <operation>faire épaissir</operation>. <operation>laisser refroidir</operation> et mettre dans un saladier au <recipient>réfrigérateur</recipient>. mettre le saladier au <recipient>congélateur</recipient> 30 min avant le passage en <recipient>sorbetière</recipient>.
+]]>
+ </preparation>
+</recette>

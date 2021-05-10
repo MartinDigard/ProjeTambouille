@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63575">
+ <titre>Tarte aux pignons, frangipane et confiture</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>100 g de pignons</p>
+ <p>100 g de beurre</p>
+ <p>100 g de poudre d’ amandes</p>
+ <p>2 oeufs entiers</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>100 g de sucre glace</p>
+ <p>3 cuillères à soupe de confiture de framboise</p>
+ <p>1 cuillère à soupe de kirsch</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+travailler le beurre avec la <ingredient>poudre</ingredient> d’ <ingredient>amande</ingredient>, ajouter les <ingredient>oeufs</ingredient>, la <ingredient>crème fraîche</ingredient>, le <ingredient>sucre glace</ingredient> et le <ingredient>kirsch</ingredient>. etaler sur le fond de la pâte la <ingredient>confiture</ingredient>, <operation>recouvrir de la préparation</operation> et parsemer de <ingredient>pignons</ingredient>. <operation>faire cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 40 min</operation>. a la sortie du <recipient>four</recipient>, saupoudrer la tarte d’ 1 <ingredient>cuillère à soupe</ingredient> de <ingredient>sucre glace</ingredient>.
+]]>
+ </preparation>
+</recette>

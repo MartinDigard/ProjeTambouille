@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81253">
+ <titre>Salade des tropiques</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte d’ ananas en tranches</p>
+ <p>1 boîte de maïs</p>
+ <p>1 boîte de thon à l’ huile (ou thon en miettes, aussi bon et moins cher) </p>
+ <p>2 tomates</p>
+ <p>1 poivrons vert (facultatif) Pour la sauce: </p>
+ <p>4 cuillerées à soupe d’ huile d’ olive</p>
+ <p>jus de citron</p>
+ <p>1/2 cuillerée à café de moutarde</p>
+ <p>l’ huile de la boîte de thon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>ouvrir</operation> et égoutter le contenu des <ingredient>boîtes</ingredient> de conserve de <ingredient>maïs</ingredient> et d’ <ingredient>ananas</ingredient>. couper les morceaux d’ <ingredient>ananas</ingredient> en petits dés. emietter le <ingredient>thon</ingredient>. couper les <ingredient>tomates</ingredient> en <ingredient>tranches</ingredient> et le <ingredient>poivron</ingredient> en fines lamelles. mélanger le tout et assaisonner avec environ une tasse de <ingredient>sauce</ingredient> au <ingredient>citron</ingredient>, faite en mélangeant vigoureusement huile, <ingredient>citron</ingredient>, et <ingredient>moutarde</ingredient>. voilà c’ est prêt!
+]]>
+ </preparation>
+</recette>

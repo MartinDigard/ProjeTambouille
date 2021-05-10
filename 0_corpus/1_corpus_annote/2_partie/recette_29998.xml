@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29998">
+ <titre>Poulet au vin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet découpé en morceaux</p>
+ <p>50 cl de vin rouge</p>
+ <p>100 g de lard maigre</p>
+ <p>250 g de champignons de Paris</p>
+ <p>12 petits oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>1 grosse cuillère à café de farine</p>
+ <p>5 cl de cognac</p>
+ <p>beurre, huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient> dans une <recipient>cocotte</recipient>, dans un mélange <ingredient>beurre</ingredient> - <ingredient>huile</ingredient></operation>. ajouter le <ingredient>lard</ingredient> détaillé en lardons et les <ingredient>oignons</ingredient> nettoyés. retirer les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient> et les flamber au <ingredient>cognac</ingredient>. les remettre dans la <recipient>cocotte</recipient> puis mouiller avec le <ingredient>vin</ingredient>. saler, poivrer et ajouter le <ingredient>bouquet garni</ingredient> et l’ <ingredient>ail</ingredient> écrasé. <operation>laisser mijoter 25 min</operation>. ajouter les <ingredient>champignons</ingredient> et <operation>laisser cuire encore 10 - 15 min</operation>. retirer les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient> et les <ingredient>champignons</ingredient>, les disposer dans un <recipient>plat</recipient> chaud. saupoudrer la sauce de farine, remuer et <operation>laisser épaissir quelques minutes,</operation> puis incorporer un peu de beurre froid en <ingredient>morceaux</ingredient> en fouettant. napper le <ingredient>poulet</ingredient> de sauce et servir. accompagner ce <ingredient>poulet</ingredient> de galettes de pommes de terre ou de spätzle.
+]]>
+ </preparation>
+</recette>

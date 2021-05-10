@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28891">
+ <titre>Chocolatine</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de beurre + un peu pour le moule</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>150 g de sucre glace</p>
+ <p>3 cuillères à soupe de cacao</p>
+ <p>4 paquets de sablés à la noix de coco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez les <ingredient>jaunes</ingredient> d’</operation> oeufs avec le <ingredient>sucre</ingredient> jusqu’ à l’ obtention d’ un mélange mousseux. <operation>mélangez le <ingredient>beurre</ingredient> et le</operation> <ingredient>cacao</ingredient> et <operation>ajoutez ce mélange au précédant</operation>. ajoutez ensuite un <ingredient>paquet de sablé</ingredient> préalablement mixé. pendre un petit <ingredient><recipient>moule</recipient></ingredient> à cake le couvrir de papier sulfurisé, beurré puis le tapisser d’ une couche de crème. <operation>intercalez ensuite des couches de <ingredient>sablés</ingredient> pouis de</operation> crème en terminant par une couche de crème. <operation>laissez au frais 12 heures avant de</operation> démouler. mousseux ou champagne
+]]>
+ </preparation>
+</recette>

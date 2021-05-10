@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25588">
+ <titre>Penne au thon et au chou-fleur</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de penne rigate</p>
+ <p>1 chou-fleur</p>
+ <p>2 oignons rouges émincés</p>
+ <p>2 gousses d’ ail</p>
+ <p>300 g de thon fumé</p>
+ <p>100 g de pignons de pin</p>
+ <p>150 g d’ olives vertes</p>
+ <p>basilic</p>
+ <p>parmesan</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>chou-fleur</ingredient>. le <operation>faire cuire 3 mn dans l’ eau bouillante</operation>. <operation>faire revenir dans l’ huile d’ <ingredient>olive</ingredient> l’ <ingredient>oignon</ingredient>, l’ <ingredient>ail</ingredient> et le <ingredient>thon</ingredient></operation>. verser 4 cuillères d’ eau de cuisson et le <ingredient>chou-fleur</ingredient> et <operation>laisser cuire encore 5 mn</operation>. ajouter les <ingredient>pignons</ingredient> et les <ingredient>olives</ingredient> et <operation>laisser encore 5 mn</operation>. saler, poivrer. <operation>faire cuire les <ingredient>penne</ingredient> al dente</operation> et mélanger le tout avec le <ingredient>basilic</ingredient>, le <ingredient>parmesan</ingredient> et un trait d’ huile d’ <ingredient>olive</ingredient>.
+]]>
+ </preparation>
+</recette>

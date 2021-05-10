@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30684">
+ <titre>Risotto aux moules et aux pétoncles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 l de moules</p>
+ <p>500 g de pétoncles</p>
+ <p>250 g de riz rond arborio</p>
+ <p>2 oignons</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>2 feuilles de laurier</p>
+ <p>50 cl de fumet de poisson</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites ouvrir les <ingredient>moules</ingredient> à feu vif avec le <ingredient>vin blanc</ingredient> et le <ingredient>laurier</ingredient> pendant 5 minutes. <operation>filtrez le jus</operation>, <operation>décoquillez les <ingredient>moules</ingredient></operation>. hachez les <ingredient>oignons</ingredient>, <operation>faites - les</operation> suer dans une <recipient>poêle</recipient> avec du beurre. une foid qu’ ils sont tendres, <operation>ajoutez le <ingredient>riz</ingredient></operation>. remuez jusqu’ à ce qu’ il soit devenu translucide. <operation>versez le jus de cuisson des</operation> <ingredient>moules</ingredient> et <operation>laissez frémir</operation>, <operation>mélangez</operation> de temps en temps</operation>. quand le <ingredient>riz</ingredient> a abosrbé le jus, <operation>mouillez de <ingredient>fumet</ingredient></operation> louche par louche. recommencez jusqu’ à ce qu’ il soit moelleux, en laissant toujours à peine <operation>frémir</operation>. <operation>faites sauter les <ingredient>pétoncles</ingredient> dans une <recipient>poêle</recipient> chaude avec un peu de beurre</operation>. <operation>secouez vivement</operation>, <operation>ajoutez les</operation> <ingredient>moules</ingredient> et <operation>mélangez</operation>. <operation>ajoutez - les dans le</operation> <ingredient>riz</ingredient>, <operation>mélangez</operation> et <operation>laissez chauffer 5 minutes avant de</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

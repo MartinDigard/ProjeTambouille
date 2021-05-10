@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23347">
+ <titre>Crème glacée au caramel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 jaunes d’ oeufs</p>
+ <p>350 g de sucre</p>
+ <p>75 cl de lait</p>
+ <p>1 citron</p>
+ <p>150 g de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient>jaunes</ingredient> d’ oeufs avec 150 g de <ingredient>sucre</ingredient>. porter le lait à ébullition. pendant ce temps, fouetter la <ingredient>crème fraîche</ingredient> en chantilly. dans une <recipient>casserole</recipient> à part, mettre 200 g sucre et quelques gouttes de jus de <ingredient>citron</ingredient>, et <operation>faire chauffer jusqu’ à l’ obtention d’ un caramel doré</operation>. y incorporer le lait et verser le tout sur les <ingredient>oeufs</ingredient>. <operation>faire chauffer à feu doux jusqu’ à ce que la préparation épaississe</operation>. incorporer la <ingredient>crème fraîche</ingredient> et <operation>faire prendre en <recipient>sorbetière</recipient></operation>.
+]]>
+ </preparation>
+</recette>

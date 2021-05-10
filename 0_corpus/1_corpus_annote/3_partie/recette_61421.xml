@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61421">
+ <titre>Fruits au lait de coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>35 cl de lait de coco</p>
+ <p>3 grosses bananes</p>
+ <p>10 gros litchis</p>
+ <p>75 g de fruits rouges</p>
+ <p>1/2 cuillère d’ arôme fleur d’ oranger</p>
+ <p>quelques feuilles de menthe</p>
+ <p>2 cuillères à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez les</operation> <ingredient>bananes</ingredient>, <operation>coupez - les en <ingredient>grosses</ingredient> rondelles</operation>, <operation>mettez - les dans une grande <recipient>casserole</recipient> avec le lait de <ingredient>coco</ingredient> et le</operation> <ingredient>sucre</ingredient> puis <operation>portez à ébullition</operation>. <operation>versez le tout dans un grand saladier</operation> et ajoutez les <ingredient>litchis</ingredient>, les <ingredient>fruits rouges</ingredient> et l’ <ingredient>arôme</ingredient> de <ingredient>fleur</ingredient> d’ <ingredient>oranger</ingredient>. couper la <ingredient>menthe</ingredient> en petits morceaux et <operation>ajoutez - la au mélange</operation>. servir frais. on peut remplacer les <ingredient>litchis</ingredient>, les <ingredient>bananes</ingredient> et les <ingredient>fruits rouges</ingredient> par d’ autres <ingredient>fruits</ingredient>.
+]]>
+ </preparation>
+</recette>

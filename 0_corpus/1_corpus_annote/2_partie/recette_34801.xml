@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34801">
+ <titre>Gratin de poisson sur lit de pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 portions de saumon frais ou surgelé</p>
+ <p>3 pommes de terre moyennes, préalablement cuites à la vapeur</p>
+ <p>1 petite boîte de champignons de Paris, ou mieux, l’ équivalent en frais</p>
+ <p>jus de citron</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>emmental râpéPour la sauce: </p>
+ <p>25 g de beurre (ou margarine) </p>
+ <p>1/3 litre de lait entier</p>
+ <p>1 grosse cuillerée de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le poisson en papillote, avec un peu d’ huile d’ <ingredient>olive</ingredient>, du <ingredient>sel</ingredient> et du poivre</operation>. préparer la béchamel: <operation>faire un roux avec le beurre et la farine,</operation> puis ajouter <ingredient>petit</ingredient> à <ingredient>petit</ingredient> le <ingredient>lait</ingredient>. pour <operation>finir</operation>, ajouter un filet d’ huile d’ <ingredient>olive</ingredient>, le <ingredient>sel</ingredient> et le poivre. <operation>faire cuire les <ingredient>champignons</ingredient> dans une</operation> cuiller à soupe d’ huile d’ <ingredient>olive</ingredient> et 2 cuillers à soupe de <ingredient>citron</ingredient>. quand ils ont tout absorbé, arrêter la cuisson et les ajouter à la béchamel, ainsi qu’ une cuiller à soupe de <ingredient>jus de citron</ingredient>. <operation>sortir les papillotes du <recipient>four</recipient> quand le poisson est mi-cuit,</operation> et verser le <ingredient>jus</ingredient> du poisson dans la béchamel en fouettant. préparer le lit de <ingredient>pommes de terre</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, émietter le poisson en morceaux d’ environ 2 à 3 cm, <operation>couvrir avec la béchamel aux <ingredient>champignons</ingredient>,</operation> puis <operation>recouvrir avec l’ <ingredient>emmental</ingredient> râpé</operation>. <operation>faire gratiner 10 mn sous le grill</operation>. c’ est prêt! on peut <operation>faire ce <recipient>plat</recipient> dans de <ingredient>petites</ingredient> cassolettes individuelles</operation>.
+]]>
+ </preparation>
+</recette>

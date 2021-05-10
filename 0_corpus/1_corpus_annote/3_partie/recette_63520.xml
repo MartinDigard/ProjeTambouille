@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63520">
+ <titre>Soupe aux bananes plantain et aux poireaux</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gros blanc de poireau émincé ou 2 moyens</p>
+ <p>1/2 banane plantain pelée et coupée en rondelles</p>
+ <p>5 tasse de bouillon de volaille ou de légumes</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient>légumes</ingredient> et le <ingredient>bouillon</ingredient> dans une <recipient>casserole</recipient>. <operation>faire cuire à feu doux, jusqu’ à ce que les <ingredient>légumes</ingredient> soient tendres</operation>. passer au <recipient>mixeur</recipient>, saler et poivrer. servir.
+]]>
+ </preparation>
+</recette>

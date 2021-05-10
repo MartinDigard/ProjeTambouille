@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17787">
+ <titre>Tarte aux framboises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte brisée: </p>
+ <p>300 g de farine tamisée</p>
+ <p>250 g de beurre demi-sel</p>
+ <p>Pour la crème: </p>
+ <p>250 g de Mascarpone</p>
+ <p>100 g de fromage blanc à 40 % de MG</p>
+ <p>100 g de sucre</p>
+ <p>Pour la garniture: </p>
+ <p>300 g de framboises</p>
+ <p>un jus de citron</p>
+ <p>50 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez une <ingredient>pâte</ingredient></operation> sablée avec la farine et le beurre ramolli. <operation>etalez - la à la main dans un <recipient>plat</recipient> à tarte préalablement beurré</operation>. <operation>faire cuire à <ingredient>blanc</ingredient> pendant environ 30 mn à 160 ° c</operation>. <operation>laissez refroidir</operation>. dans le bol du <recipient>mixeur</recipient>, mélangez la <ingredient>mascarpone</ingredient>, le <ingredient>fromage blanc</ingredient> et le <ingredient>sucre</ingredient>. lorsque la <ingredient>pâte</ingredient> est refroidie, <operation>étalez la <ingredient>crème</ingredient></operation>. <operation>disposez dessus 250 g de <ingredient>framboises</ingredient></operation>. mixez les 50 g de <ingredient>framboises</ingredient> restantes, le <ingredient>jus de citron</ingredient> et le <ingredient>sucre glace</ingredient> pour <operation>obtenir un coulis de <ingredient>framboise</ingredient> que vous</operation> <operation>servirez à part</operation>. <operation>laissez refroidir au <recipient>réfrigérateur</recipient> environ 2 heures</operation>.
+]]>
+ </preparation>
+</recette>

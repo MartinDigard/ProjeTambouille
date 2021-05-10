@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37598">
+ <titre>Beignets aux pommes de mémé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>8 œufs</p>
+ <p>1 pincée de sel</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 bol de sucre en poudre</p>
+ <p>1 l de lait (la pâte ne doit pas être trop liquide) </p>
+ <p>4 à 5 pommes épluchées et coupées en petits dés</p>
+ <p>100 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+repos: 2hmélanger la farine, les <ingredient>œufs</ingredient>, le <ingredient>sel</ingredient>, l’ <ingredient>huile</ingredient>, le <ingredient>sucre</ingredient> et le lait. <operation>laisser reposer au moins 2h</operation>. ajouter enfin les dés de <ingredient>pommes</ingredient>. ensuite, il faut <operation>faire cuire vos beignets dans une <recipient>poêle</recipient> avec un peu de beurre</operation>. les beignets se mangent chauds (réchauffés avec un peu de beurre) et avec un peu de <ingredient>sucre</ingredient>. cidre
+]]>
+ </preparation>
+</recette>

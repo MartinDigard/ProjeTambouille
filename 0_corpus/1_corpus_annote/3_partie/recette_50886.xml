@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50886">
+ <titre>Macaroni à l’ agneau</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>1 oignon épluché et haché finement</p>
+ <p>175 g de noisettes d’ agneau</p>
+ <p>1 petite boîte de champignons de Paris</p>
+ <p>1 petite boîte de petits pois</p>
+ <p>450 g de macaroni cuits al dente</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez grossièrement les <ingredient>noisettes</ingredient> d’ <ingredient>agneau</ingredient>. chauffez l’ <ingredient>huile</ingredient> dans une <recipient>poêle</recipient> à feu moyen puis <operation>ajoutez la viande hachée</operation> et <operation>faites - la</operation> cuire 10 minutes à feu moyen. <operation>ajoutez l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient>, réduisez l’ intensité du feu</operation> et <operation>laissez mijoter durant 3 minutes</operation>. mélangez, <operation>assaisonnez à votre goût</operation> et <operation>poursuivez la cuisson 3 minutes</operation>. répartissez les <ingredient>macaronis</ingredient> chauds dans 4 assiettes et déposez dessus la préparation à l’ <ingredient>agneau</ingredient>. <operation>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

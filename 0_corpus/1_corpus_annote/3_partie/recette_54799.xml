@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54799">
+ <titre>Poulet au poivron rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>1 poivron rouge</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>1 sachet de parmesan râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler le <ingredient>poivron rouge</ingredient> et les <ingredient>escalopes de poulet</ingredient> en lamelles. les <operation>faire revenir</operation> et colorer à la <recipient>poêle</recipient>. saler, poivrer et ajouter la <ingredient>crème</ingredient>. mettre dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. parsemer de <ingredient>parmesan râpé</ingredient> et <operation>faire gratiner au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

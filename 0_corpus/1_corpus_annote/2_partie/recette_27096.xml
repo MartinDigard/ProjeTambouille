@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27096">
+ <titre>Boeuf au safran et au yaourt</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>450 g de paleron ou de noix de boeuf</p>
+ <p>15 cl de crème fraîche épaisse</p>
+ <p>2 doses de safran</p>
+ <p>1 cuillère à soupe de curry en poudre</p>
+ <p>2 oignons</p>
+ <p>1 yaourt</p>
+ <p>20 g de beurre</p>
+ <p>4 feuilles de laurier</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient>oignons</ingredient> et <operation>détaillez la viande en cubes</operation>. <operation>pilez la moitié des <ingredient>oignons</ingredient> hachés au <recipient>mortier</recipient> avec le <ingredient>curry</ingredient>, le <ingredient>sel</ingredient> et le poivre</operation>. enrobez la viande de cette pâte et <operation>laissez - la s’ en</operation> imprégner durant 2 h. <operation>faites fondre le reste de l’ <ingredient>oignon</ingredient> dans le beurre avec le <ingredient>laurier</ingredient></operation>. <operation>incorporez le</operation> <ingredient>yaourt</ingredient> et <operation>faites épaissir 4 à 5 minutes en</operation> remuant. <operation>ajoutez la viande et le <ingredient>safran</ingredient></operation> délayé dans la <ingredient>crème fraîche</ingredient>. <operation>mouillez avec 15 cl d’ eau</operation>, <operation>couvrez</operation> et <operation>laissez frémir 1 h</operation>. <operation>vérifiez que la viande</operation> reste bien tendre avec la pointe d’ un couteau. rectifiez l’ assaisonnement avant de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

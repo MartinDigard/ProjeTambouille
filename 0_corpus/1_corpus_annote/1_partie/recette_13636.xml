@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13636">
+ <titre>Steaks au gruyère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 steaks hachées</p>
+ <p>gruyère râpé</p>
+ <p>moutarde</p>
+ <p>un bouillon de boeuf</p>
+ <p>un verre d’ eau</p>
+ <p>paprika, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer les <ingredient>steaks</ingredient> sur un seul côté dans une <recipient>poêle</recipient> à revêtement anti-adhésif préchauffé</operation>. les placer dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et badigonner de <ingredient>moutarde</ingredient> le côté cru des <ingredient>steaks</ingredient>. saupoudrer chaque <ingredient>steak</ingredient> de <ingredient>gruyère râpé</ingredient>, verser un peu de <ingredient>bouillon</ingredient> au fond du <recipient>plat</recipient>. saler et <operation>poivrez</operation>. <operation>faites cuire à <recipient>four</recipient> très chaud pendant 5 mn</operation>. avant de <operation>servir</operation>, <operation>saupoudrez de <ingredient>paprika</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15350">
+ <titre>Sauté de veau printanier</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 sautés de veau </p>
+ <p>2 tomates</p>
+ <p>2 tranches de jambon</p>
+ <p>1/2 concombre</p>
+ <p>2 tranches de gouda</p>
+ <p>1/4 l de crème</p>
+ <p>moutarde</p>
+ <p>poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir la viande dans la <recipient>poêle</recipient></operation>. lorsqu’ elle est bien saisie, mettre les <ingredient>tranches</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient> (garder le jus pour la suite de la préparation). sur chaque <ingredient>sauté</ingredient>, placer 1 morceau de <ingredient>jambon</ingredient>, 2 ou 3 rondelles de <ingredient>tomates</ingredient>, quelques rondelles de <ingredient>concombre</ingredient> et pour <operation>finir</operation> recouvrir d’ une 1/2 <ingredient>tranche de gouda</ingredient>. dans la <recipient>poêle</recipient>, <operation>faire chauffer le jus de cuisson de viande en</operation> ajoutant 2 cuillères à café de <ingredient>moutarde</ingredient> et la <ingredient>crème</ingredient>. <operation>salez</operation> et <operation>poivrez selon le goût</operation>. verser la sauce sur la préparation et mettre à gratiner 5 min. accompagner de pâtes ou de riz. si vous <operation>désirez</operation> <operation>faire meilleur marché</operation>, <operation>remplacez les <ingredient>tranches</ingredient> de <ingredient>veau</ingredient> par des <ingredient>tranches</ingredient> de porc ou des filets de poulet</operation>.
+]]>
+ </preparation>
+</recette>

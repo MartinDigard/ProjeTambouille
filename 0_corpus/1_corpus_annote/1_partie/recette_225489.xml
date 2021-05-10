@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225489">
+ <titre>Cake au bounty</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 bounty</p>
+ <p>100 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>180g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>10 cl de lait</p>
+ <p>10 cl d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>tamisez dans un bol la farine avec la <ingredient>levure</ingredient></operation>. dans un saladier, <operation>battez les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient>, jusqu’ à ce que le mélange</operation> blanchisse, et <operation>ajoutez - les à la farine</operation>. <operation>mélangez bien</operation>. <operation>versez le lait</operation> progressivement en remuant, puis <operation>faites de même avec l’</operation> huile. <operation>coupez les <ingredient>bounty</ingredient> en petits morceaux</operation> et <operation>ajoutez - les à la préparation en</operation> mélangeant rigoureusement. <operation>versez dans un <recipient>moule</recipient> à cake beurré et fariné</operation>. <operation>laissez reposer 1 heure au <recipient>réfrigérateur</recipient></operation>. enfournez à 180 ° c (thermostat 6) pendant 45 min environ. le temps de cuisson dépend des fours jus de fruit
+]]>
+ </preparation>
+</recette>

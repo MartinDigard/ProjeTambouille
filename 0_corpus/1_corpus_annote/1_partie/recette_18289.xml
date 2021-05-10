@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18289">
+ <titre>Escalopes sauce portugaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g d’ escalopes de veau</p>
+ <p>3 cuillerées à soupe de crème fraîche</p>
+ <p>60 g de beurre</p>
+ <p>3 cl de madère</p>
+ <p>poivre en grains</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>aplatir les <ingredient>escalopes</ingredient></operation>. saler et poivrer. <operation>faire fondre le beurre dans une <recipient>poêle</recipient></operation> et <operation>faire dorer les <ingredient>escalopes</ingredient> des deux côtés</operation>. ensuite mouiller au madère et mettre sur feu doux. retirer les <ingredient>escalopes</ingredient> et ajouter la <ingredient>crème fraîche</ingredient>. remuer pour épaissir la sauce et ne pas <operation>laisser attacher</operation>. arroser les <ingredient>escalopes</ingredient> avec la sauce et servir avec des champignons sautés et des frites.
+]]>
+ </preparation>
+</recette>

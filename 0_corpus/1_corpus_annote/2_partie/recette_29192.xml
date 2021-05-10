@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29192">
+ <titre>Omelette fourrée aux poireaux</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 œufs </p>
+ <p>2 poireaux coupés en morceaux</p>
+ <p>1 oignon haché</p>
+ <p>beurre</p>
+ <p>sel et poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation>faire revenir les <ingredient>poireaux</ingredient> avec du beurre et l’ <ingredient>oignon</ingredient></operation> ciselé environ 20 min. assaisonner. battre les <ingredient>œufs</ingredient> en omelette et la <operation>faire prendre dans une <recipient>poêle</recipient></operation>. ajouter les <ingredient>poireaux</ingredient> et les <ingredient>oignons</ingredient>, et plier l’ omelette en deux. on peut aussi garnir l’ omelette de tout autre légume ou même de lardons, restes de viande ou de poisson...
+]]>
+ </preparation>
+</recette>

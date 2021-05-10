@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28321">
+ <titre>Thon au cidre et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de thon frais</p>
+ <p>40 cl de cidre</p>
+ <p>500 g de champignons de Paris</p>
+ <p>15 cl de crème fraîche épaisse</p>
+ <p>60 g de beurre</p>
+ <p>1 citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>beurrez un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, déposez le <ingredient>thon</ingredient> salé et <operation>poivrez dans le <recipient>plat</recipient></operation>. répartissez quelques morceaux de beurre et <operation>versez 3 cuillères à soupe de <ingredient>cidre</ingredient> sur le poisson</operation>. enfournez pour 1 h, au <recipient>four</recipient> à 180 ° c (thermostat 6). <operation>arrosez du <ingredient>cidre</ingredient></operation> restant pendant la cuisson. emincez les <ingredient>champignons</ingredient>, <operation>faites - les</operation> sauter à la <recipient>poêle</recipient> dans le beurre restant. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez le jus du <ingredient>citron</ingredient></operation>. <operation>sortez le <recipient>plat</recipient> du <recipient>four</recipient></operation>, <operation>récupérez le jus</operation> rendu et <operation>faites - le réduire</operation>. <operation>ajoutez la <ingredient>crème</ingredient> et remuez</operation>. <operation>servez le <ingredient>thon</ingredient> avec les <ingredient>champignons</ingredient>, nappés de sauce</operation>.
+]]>
+ </preparation>
+</recette>

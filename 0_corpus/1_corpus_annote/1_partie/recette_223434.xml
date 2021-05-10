@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223434">
+ <titre>Soupe de légumes fabuleuse</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 carottes</p>
+ <p>4 pomme de terres moyennes</p>
+ <p>1 poireau</p>
+ <p>1 navet rond</p>
+ <p>1 cube de bouillon</p>
+ <p>100 g d’ allumette au jambon</p>
+ <p>1 oignon</p>
+ <p>10 cl de crème fraîche liquide</p>
+ <p>1 portion de fromage frais (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour commencer, <operation>faire bouillir de l’ eau</operation>. ensuite, éplucher <ingredient>carottes</ingredient> et <ingredient>pomme de terre</ingredient>, <ingredient>navet rond</ingredient>, <ingredient>oignon</ingredient> et <ingredient>poireau</ingredient>. puis les couper en petits morceaux et les mettre dans l’ eau bouillante. ajouter un <ingredient>cube de bouillon</ingredient>. puis, <operation>faire revenir les <ingredient>allumettes</ingredient></operation>. ensuite les verser dans l’ eau bouillante. <operation>faire bouillir environ 1 h</operation>. une fois les légumes cuits, les mixer et y ajouter 10 cl de <ingredient>crème fraîche</ingredient>. vous pouvez également y ajouter une <ingredient>portion de fromage frais</ingredient> pour la rendre plus onctueuse. bon appétit à vous! eau
+]]>
+ </preparation>
+</recette>

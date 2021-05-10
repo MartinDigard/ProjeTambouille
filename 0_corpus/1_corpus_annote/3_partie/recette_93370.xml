@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93370">
+ <titre>Crèmes de mangue en petits pots</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 mangues sans trop de fils (plus ou moins selon les gouts) </p>
+ <p>20 cl de lait de coco</p>
+ <p>1 citron vert bien juteux</p>
+ <p>20 g de sucre en poudre (blanc ou roux) </p>
+ <p>1 cuillère à soupe de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation> et <operation>coupez les <ingredient>mangues</ingredient></operation>. <operation>mettez les morceaux au mixer avec le lait de <ingredient>coco</ingredient></operation>. (<operation>mixez <ingredient>bien</ingredient> pour</operation> éviter les morceaux). <operation>ajoutez le jus du <ingredient>citron</ingredient> et le</operation> <ingredient>sucre</ingredient> et <operation>remixez</operation>. ajoutez enfin la <ingredient>cuillère à soupe de crème</ingredient> et <operation>mixez une dernière fois</operation>. <operation>versez dans de jolis pots (ou verrines) afin d’</operation> <operation>obtenir des portions d’ assez petites quantités</operation>. <operation>laissez environ 2 ou 3 h au frigo (le temps que la <ingredient>crème</ingredient></operation> prenne). petit plus: au moment de <operation>servir</operation>, <operation>saupoudrez d’ un peu de <ingredient>coco</ingredient></operation> rapée le dessus des <ingredient>crèmes</ingredient>, ou avant de <operation>répartir dans les pots, trempez le haut des verrines dans du sirop (<ingredient>sucre</ingredient> de canne, grenadine, <ingredient>citron</ingredient></operation>...) puis dans de la <ingredient>coco</ingredient> rapée.
+]]>
+ </preparation>
+</recette>

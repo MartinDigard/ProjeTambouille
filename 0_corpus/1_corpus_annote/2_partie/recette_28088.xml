@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28088">
+ <titre>Salade de fraises aux bananes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fraises</p>
+ <p>2 bananes</p>
+ <p>1 orange</p>
+ <p>1 demi-citron</p>
+ <p>80 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les <ingredient>fraises</ingredient>, séchez - les</operation> puis <operation>équeutez</operation> - les. couper les <ingredient>fraises</ingredient> en deux ou en quatre si elles sont grosses. <operation>pelez les</operation> <ingredient>bananes</ingredient> et <operation>découpez - les en fines tranches</operation>. <operation>arosez les <ingredient>bananes</ingredient> avec le jus de citron</operation>. pressez l’ orange. dans un saladier, <operation>mélangez les <ingredient>fraises</ingredient>, les <ingredient>bananes</ingredient>, le jus d’ orange et le <ingredient>sucre</ingredient></operation>. <operation>mettez au <recipient>réfrigérateur</recipient> jusqu’ au service</operation>. jus de fruit
+]]>
+ </preparation>
+</recette>

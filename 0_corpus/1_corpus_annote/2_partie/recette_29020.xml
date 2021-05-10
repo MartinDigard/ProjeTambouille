@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29020">
+ <titre>Flan aux pommes et aux raisins</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes reinette</p>
+ <p>6 oeufs</p>
+ <p>100 g de sucre</p>
+ <p>30 g de beurre</p>
+ <p>le jus de 1 citron</p>
+ <p>1 cuillère à soupe de fécule de pommes de terre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 poignée de raisins secs</p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation>, <operation>épépinez</operation> et <operation>coupez les <ingredient>pommes</ingredient> en quartiers</operation>. <operation>faites - les</operation> compoter avec le <ingredient>jus de citron</ingredient> environ 20 minutes à feu doux et à couverts. ecrasez bien la compote, <operation>incorporez la <ingredient>fécule</ingredient> et desséchez - la à feu doux</operation>. <operation>ajoutez alors les <ingredient>sucres</ingredient>, le beurre et les <ingredient>raisins</ingredient></operation>. <operation>laissez refroidir</operation>. battez les <ingredient>oeufs</ingredient> en omelette, <operation>ajoutez - les à la compote</operation>. <operation>versez le tout dans un <recipient>moule</recipient> (à cake ou à charlotte)</operation>, tapissé de papier sulfurisé ou d’ aluminium beurré. <operation>saupoudrez de <ingredient>chapelure</ingredient> et placez au <recipient>bain - marie</recipient></operation>. <operation>faites cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 40 min</operation>.
+]]>
+ </preparation>
+</recette>

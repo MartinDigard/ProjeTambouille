@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17302">
+ <titre>Crème d’ avocat</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 avocats (assez mous) </p>
+ <p>1/2 citron</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>dénoyautez les <ingredient>avocats</ingredient> et enlevez la peau</operation> et <operation>mettez les dans un mixer avec le jus de <ingredient>citron</ingredient></operation>. <operation>mélangez</operation>. <operation>ajoutez un peu de <ingredient>lait</ingredient>, <ingredient>crème</ingredient> et huile</operation>. c’ est prêt! mettre au frais avant de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

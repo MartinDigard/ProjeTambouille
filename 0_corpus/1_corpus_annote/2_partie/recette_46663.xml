@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46663">
+ <titre>Poulet au pâté</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de poulet coupé en morceaux</p>
+ <p>150-200 g de pâté de foie de porc</p>
+ <p>jus de noix de coco (facultatif) </p>
+ <p>300 g de pommes de terre épluchées et coupées en cubes</p>
+ <p>200 g de carottes épluchées et coupées en cubes</p>
+ <p>200 g de champignons de Paris</p>
+ <p>sel, poivre</p>
+ <p>ail</p>
+ <p>échalote</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient>sel</ingredient>, le poivre, l’ <ingredient>ail</ingredient> et les <ingredient>échalotes</ingredient> hachés avec le <ingredient>poulet</ingredient>. <operation>laisser reposer pendant 30 minutes</operation>. dans une <recipient>poêle</recipient>, <operation>faire bien griller les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient></operation>. les enlever, les mettre dans une <recipient>marmite</recipient>. mélanger le <ingredient>jus de noix de coco</ingredient> (ou de l’ eau) avec le <ingredient>pâté</ingredient>. verser le mélange sur le <ingredient>poulet</ingredient>. mettre la <recipient>marmite</recipient> sur le feu moyen 2 à 3 min après l’ ébullition, y ajouter les <ingredient>carottes</ingredient>. 10 min après, y ajouter les <ingredient>pommes de terre</ingredient> et les <ingredient>champignons</ingredient>. continuer la cuisson jusqu’ à ce que le tout soit bien cuit. <operation>servir avec du pain</operation>.
+]]>
+ </preparation>
+</recette>

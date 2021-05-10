@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51711">
+ <titre>Thon au vin blanc et aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boite de thon au naturel</p>
+ <p>1 boite de champignons</p>
+ <p>15 cl vin blanc sec type Muscadet</p>
+ <p>beurre</p>
+ <p>farine</p>
+ <p>persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, <operation>gardez le jus des <ingredient>champignons</ingredient></operation> auquel vous <operation>ajoutez le vin <ingredient>blanc</ingredient></operation>. dans une <recipient>casserole</recipient> <operation>faites fondre un morceau de beurre et une cuillère de <ingredient>farine</ingredient> afin d’</operation> <operation>obtenir un roux</operation>. une fois le beurre et la <ingredient>farine</ingredient> liées, <operation>ajoutez le vin <ingredient>blanc</ingredient></operation>, le <ingredient>thon</ingredient> égoutté et les <ingredient>champignons</ingredient>. <operation>saupoudrez de</operation> <ingredient>persil</ingredient> et <operation>couvrez jusqu’ à l’ ébullition</operation> puis <operation>servez</operation>. c’ est un <recipient>plat</recipient> simple et économique qui s’ accompagne de riz ou de pâtes. vin <ingredient>blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170489">
+ <titre>Crumble de courgettes au thym</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 belles courgettes</p>
+ <p>100 g de farine</p>
+ <p>80g de beurre</p>
+ <p>100 g de parmesan </p>
+ <p>1 cuillère à soupe de thym frais</p>
+ <p>1 gousse d’ ail</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>courgettes</ingredient> en cubes</operation>, <operation>faites les</operation> <operation>revenir dans de l’ huile d’ <ingredient>olive</ingredient> avec du</operation> <ingredient>thym</ingredient> (<operation>mettez en beaucoup) et de l’ <ingredient>ail</ingredient></operation> écrasé, sel poivre. <operation>couvrez</operation> et <operation>laissez cuire à l’</operation> étouffé 15 min. malaxez dans un bol le beurre, la farine et le <ingredient>parmesan</ingredient>. le mélange doit être sableux. <operation>sortez les <ingredient>courgettes</ingredient> du feu</operation>, <operation>mettez - les dans un <recipient>plat</recipient> qui</operation> va au <recipient>four</recipient>, <operation>recouvrez du mélange</operation> sablé. <operation>enfournez 30 min (le dessus</operation> doit être un peu bruni). <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

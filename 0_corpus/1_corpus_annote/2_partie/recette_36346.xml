@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36346">
+ <titre>Tarte au citron caramélisée</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oeuf</p>
+ <p>150 g de sucre</p>
+ <p>1 citron</p>
+ <p>70 g de beurre</p>
+ <p>1 pâte feuilletée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire préchauffer votre <recipient>four</recipient> à 210 ° c (thermostat 7</operation>). etaler la <ingredient>pâte</ingredient> dans le <recipient>plat</recipient>. <operation>faire fondre le beurre</operation>. presser le <ingredient>citron</ingredient>. mélanger l’ <ingredient>oeuf</ingredient> et le <ingredient>sucre</ingredient>, puis ajouter le jus du <ingredient>citron</ingredient> et le beurre fondu. verser le mélange sur la <ingredient>pâte</ingredient> et enfourner 30 min. la tarte durcit après la cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62672">
+ <titre>Fondant poire cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de poires Williams ou une boite de poires au sirop</p>
+ <p>3 oeufs</p>
+ <p>100 g de sucre</p>
+ <p>75 g de crème fraîche</p>
+ <p>80 g de farine (ou moitié maïzena) </p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>allumez <recipient>four</recipient> à 125 ° c (thermostat 4</operation>). <operation>cassez les</operation> <ingredient>oeufs</ingredient>, <operation>ajoutez le</operation> <ingredient>sucre</ingredient> et <operation>fouettez</operation> jusqu’ à ce mélange blanchisse. <operation>ajoutez la <ingredient>crème</ingredient> et la farine</operation>, <operation>mélangez</operation>. <operation>pelez les <ingredient>poires</ingredient>, les</operation> couper en 4. <operation>coupez chaque quartier en fines lamelles</operation>. <operation>incorporez dans la préparation</operation>, <operation>mélangez</operation> délicatement. <operation>versez dans le <recipient>moule</recipient>, préalablement beurré et fariné, enfournez</operation>, <operation>démoulez 5 minutes après la sortie</operation>. parsemez de <ingredient>cannelle</ingredient> et <operation>dégustez! moelleux</operation>
+]]>
+ </preparation>
+</recette>

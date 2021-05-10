@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64015">
+ <titre>Orecchiette poulet</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g d’ Orecchiette (ou penne ou macaronis) </p>
+ <p>2 cuillères à soupe d’ huile (olive de préférence) </p>
+ <p>2 blancs de poulet en lamelles</p>
+ <p>500 g de tomates cerise coupées en deux</p>
+ <p>1 orange en tranches</p>
+ <p>Basilic frais haché</p>
+ <p>3 cuillères à soupe de tapenade noire</p>
+ <p>1 cuillère à soupe de gros sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les pâtes dans un grand volume d’ eau selon le temps</operation> indiqué sur le paquet. pendant ce temps, mettre les <ingredient>tranches</ingredient> d’ <ingredient>orange</ingredient> dans une <recipient>poêle</recipient>, <operation>couvrir d’ eau</operation>. mettre le <ingredient>gros sel</ingredient>, porter à ébulition et <operation>faire cuire pendant 6/7min</operation>. <operation>sortir de l’ eau</operation>, égoutter et découper le zeste en petits carrés. faire chauffer 2 <ingredient>cuillères à soupe</ingredient> d’ <ingredient>huile</ingredient> dans une poele, y <operation>faire revenir les morceaux de <ingredient>poulet</ingredient> 3 min</operation>. mettre de côté. <operation>faire revenir les <ingredient>tomates</ingredient></operation> cerises dans la <recipient>poêle</recipient> du <ingredient>poulet</ingredient> pendant 5 min. ajouter la <ingredient>tapenade</ingredient> et les zestes. <operation>faire cuire 5 min</operation>. <operation>servir les blancs de <ingredient>poulet</ingredient> sur les pâtes</operation> nappées de sauce. ajouter le <ingredient>basilic haché</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16105">
+ <titre>Soupe paysanne à la citrouille</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de citrouille</p>
+ <p>250 g de lardons</p>
+ <p>250 g de pommes de terre</p>
+ <p>1 oignon</p>
+ <p>environ 1 assiette à soupe de pain sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites dorer dans une <recipient>cocotte</recipient> avec 2 cuillérées à <ingredient>soupe</ingredient> d’ huile, l’ <ingredient>oignon</ingredient></operation> émincé, les <ingredient>lardons</ingredient> et les <ingredient>pommes de terre</ingredient> pelées et coupées en petits cubes. <operation>ajoutez la citrouille pelée</operation> et coupée en petits cubes (de la grosseur d’ un oeuf). <operation>salez</operation>, <operation>poivrez</operation>, <operation>couvrez</operation> et <operation>laissez cuire à feu doux environ 1 heure à 1h15</operation>. avant de passer à table, <operation>ajoutez le <ingredient>pain</ingredient> dur</operation> coupé en très fines tranches. nb: s’ il vous reste de la <ingredient>soupe</ingredient>, vous pouvez la <operation>faire réchauffer au <recipient>four</recipient> micro-ondes sans problème</operation>.
+]]>
+ </preparation>
+</recette>

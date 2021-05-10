@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21902">
+ <titre>Compote de potiron aux raisins secs et miel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de potiron</p>
+ <p>250 g de miel</p>
+ <p>100 g de raisins secs</p>
+ <p>1 orange non traitée</p>
+ <p>1 citron non traité</p>
+ <p>1 petit verre de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez la moitié des <ingredient>raisins</ingredient> à</operation> gonfler dans le <ingredient>rhum</ingredient>. pelez et <operation>coupez la chair du <ingredient>potiron</ingredient> en gros cubes</operation>. <operation>découpez l’ <ingredient>orange</ingredient> et le <ingredient>citron</ingredient> en rondelles</operation>. <operation>mettez le tout dans une <recipient>casserole</recipient> avec le <ingredient>miel</ingredient> et le reste des <ingredient>raisins</ingredient></operation>. <operation>couvrez</operation> et <operation>faites cuire 30 min à feu doux</operation>. <operation>sortez les tranches d’ agrumes</operation> et <operation>disposez - les au fond d’ un saladier</operation>. ecrasez bien le <ingredient>potiron</ingredient> en purée et <operation>versez - le dans le saladier</operation>, <operation>rajoutez les <ingredient>raisins</ingredient></operation> macérés au le <ingredient>rhum</ingredient>. <operation>réservez au frais jusqu’ au service</operation>. cette compote peut <operation>servir de base pour</operation> <operation>garnir une tarte au <ingredient>potiron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

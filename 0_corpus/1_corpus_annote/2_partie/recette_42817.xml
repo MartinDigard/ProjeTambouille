@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42817">
+ <titre>Terrine de riz au thon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz (2 sachets cuisson) </p>
+ <p>100 g de thon (une petite boîte) </p>
+ <p>150 g de petit pois (une petite boîte) </p>
+ <p>150 g de maïs (une petite boîte) </p>
+ <p>4 oeufs durs</p>
+ <p>4 cuillères à soupe de mayonnaise</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient>riz</ingredient>, l’ égoutter, et le <operation>laisser refroidir</operation>. emietter les <ingredient>oeufs</ingredient> avec une fouchette. ajouter le <ingredient>thon</ingredient>, les <ingredient>petits pois</ingredient>, et le <ingredient>maïs</ingredient>. mélanger le tout avec le <ingredient>riz</ingredient>, saler, poivrer, et ajouter la <ingredient>mayonnaise</ingredient>. mettre le mélange dans un <recipient>moule</recipient> à cake, et placer au <recipient>réfrigérateur</recipient> pendant au moins 10 h. servir frais en tranches.
+]]>
+ </preparation>
+</recette>

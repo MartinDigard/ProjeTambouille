@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30288">
+ <titre>Homard au court-bouillon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 petits homards vivants de 350 g</p>
+ <p>80 g de carottes</p>
+ <p>100 g d’ oignons</p>
+ <p>30 g de beurre</p>
+ <p>40 cl de vin blanc sec</p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites fondre les <ingredient>carottes</ingredient> et les <ingredient>oignons</ingredient> finement</operation> émincés dans le beurre. lorsqu’ ils sont tendres, mouillez de <ingredient>vin blanc</ingredient>, <operation>salez</operation>, <operation>poivrez</operation> et ajoutez le <ingredient>bouquet garni</ingredient>. amenez à ébullition et <operation>faites - y</operation> cuire les <ingredient>homards</ingredient> 12 min. servez chaud dans le bouillon et accompagnez de beurre fondu ou d’ une sauce hollandaise.
+]]>
+ </preparation>
+</recette>

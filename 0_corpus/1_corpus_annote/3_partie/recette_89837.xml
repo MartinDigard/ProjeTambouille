@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89837">
+ <titre>Potage au poulet et aux champignons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons </p>
+ <p>200 g de poulet (coupé en dés) </p>
+ <p>1 cuillière à soupe de maïzena. </p>
+ <p>250 g de champignons. </p>
+ <p>1 cuillère à soupe de beurre. </p>
+ <p>sel poivre. </p>
+ <p>1/2 cube de bouillon de volaille. </p>
+ <p>300 g de vermicelles</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire à l’ eau les morceaux de <ingredient>poulet</ingredient> pendant 10 minutes</operation>. dans une <recipient>casserole</recipient>, <operation>faire revenir les <ingredient>oignons</ingredient> dans du <ingredient>beurre</ingredient>, y</operation> ajouter les <ingredient>champignons</ingredient> et les morceaux de <ingredient>poulet</ingredient>. <operation>laisser dorer en</operation> remuant, saler et poivrer selon le goût. ajouter deux grands verre d’ eau, la maïzena et le <ingredient>cube de bouillon</ingredient>. couvrir et <operation>laisser mijoter pendant 10 minutes</operation>. a mi-cuisson, ajouter les <ingredient>vermicelles</ingredient> et <operation>laisser cuire encore pendant une dizaine de minutes</operation>. servir chaud.
+]]>
+ </preparation>
+</recette>

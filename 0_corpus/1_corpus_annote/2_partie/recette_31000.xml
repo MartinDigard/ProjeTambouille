@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31000">
+ <titre>Jambon sur l’ oignon du Chambon sur Lignon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de jambonneaux de porc braisé</p>
+ <p>9 oignons de grosseur moyenne</p>
+ <p>360 g de lentilles vertes du Puy</p>
+ <p>3 picodons de chèvre</p>
+ <p>1 bouquet de persil haché</p>
+ <p>30 cl de fonds de veau lié</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>blanchir les <ingredient>oignons</ingredient> à l’ eau, puis les</operation> couper en deux et les <operation>faire confire au <recipient>four</recipient> jusqu’ à ce qu’ ils soient légèrement</operation> caramélisés. cuire les <ingredient>lentilles</ingredient> à l’ eau durant 18 mn, puis les égoutter. dans un <recipient>plat</recipient> en terre allant au <recipient>four</recipient>, disposer les <ingredient>lentilles</ingredient> cuites au fond, puis poser par dessus les <ingredient>oignons</ingredient> confits et caramélisés. <operation>couvrir toute la surface avec les <ingredient>jambonneaux</ingredient> coupés grossièrement</operation>, tasser légèrement, couper les fromages en lamelles et les <operation>répartir sur toute la surface du <recipient>plat</recipient></operation>. arroser enfin avec le jus de <ingredient>veau lié</ingredient> passer le <recipient>plat</recipient> à <recipient>four</recipient> chaud (thermostat 6/180 ° c) pendant 15 à 18 mn environ. je sers cette recette à l’ auberge chez leon du chambon sur lignon (43400) (http: //www. charleston - leon. net), en auvergne du sud. côtes du vivarais
+]]>
+ </preparation>
+</recette>

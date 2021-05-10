@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22627">
+ <titre>Charlotte aux framboises et crème pâtissière</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>450 g de biscuits à la cuillère</p>
+ <p>3 cuillères à soupe de kirsch</p>
+ <p>37.5 cl de lait vanillé (lait infusé avec 1/2 gousse de vanille) </p>
+ <p>3 oeufs</p>
+ <p>75 g de sucre</p>
+ <p>2 cuillère à soupe de farine</p>
+ <p>225 g de crème fraîche</p>
+ <p>300 g de framboises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>tapissez le fond et les parois d’ un <recipient>moule</recipient> à charlotte avec les biscuits puis les</operation> arroser de <ingredient>kirsch</ingredient>. <operation>préparez la <ingredient>crème</ingredient> pâtissière</operation>: <operation>chauffez le lait avec la vanille</operation>. <operation>fouettez les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient> et la farine</operation> puis verser le lait chaud. <operation>faites épaissir sur feu doux en</operation> remuant puis <operation>laisser refroidir</operation>. <operation>montez la <ingredient>crème</ingredient> froide en chantilly puis l’</operation> <operation>incorporez</operation> délicatement à la préparation précédente. <operation>remplissez en</operation> alternant les couches de fruits, de <ingredient>crème</ingredient> et de biscuits en terminant par les biscuits. placez au frais, avec une assiette et un léger poids par - dessus. démoulez et <operation>décorez de fruits</operation>.
+]]>
+ </preparation>
+</recette>

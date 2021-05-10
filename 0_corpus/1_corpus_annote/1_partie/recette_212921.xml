@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212921">
+ <titre>Oeufs cocottes aux feves et aux lardons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 œufs</p>
+ <p>4 cuillères à soupe de crème épaisse</p>
+ <p>4 cuillères à soupe de fèves</p>
+ <p>125 g de lardons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir les <ingredient>fèves</ingredient> 5 min</operation>. <operation>faire revenir les</operation> <ingredient>lardons</ingredient> puis jeter l’ excédent de gras. dans 4 ramequins individuels: mettre une <ingredient>cuillère de crème</ingredient> puis un <ingredient>œuf</ingredient>. poivrer. ajouter par dessus les <ingredient>fèves</ingredient> et les <ingredient>lardons</ingredient>. cuire au <recipient>bain marie</recipient> 15 min. <operation>servir avec du pain grille</operation>.
+]]>
+ </preparation>
+</recette>

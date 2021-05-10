@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18261">
+ <titre>Gâteau poire chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat à cuire</p>
+ <p>150 g de beurre</p>
+ <p>120 g de sucre en poudre</p>
+ <p>3 oeufs </p>
+ <p>130 g de farine</p>
+ <p>1 cuillère à café de levure</p>
+ <p>1 boîte 4/4 de poires au sirop</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> et le beurre au <recipient>micro-onde</recipient> (ou dans une <recipient>casserole</recipient></operation>). verser dans un saladier et ajouter le <ingredient>sucre</ingredient>. bien mélanger. ensuite, séparer les blancs des jaunes d’ <ingredient>oeufs</ingredient> et ajouter les jaunes. ajouter la farine et la <ingredient>levure</ingredient> et mélanger. battre les blancs d’ <ingredient>oeufs</ingredient> en neige et les ajouter délicatement au mélange. enfin, couper les <ingredient>poires</ingredient> en dés et les ajouter à la préparation. beurrer un <recipient><recipient>moule</recipient> à manqué</recipient> et y verser la préparation. <operation>faire <ingredient>cuire</ingredient> 40 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

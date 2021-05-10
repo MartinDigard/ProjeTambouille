@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32358">
+ <titre>Tarte Aubergines - Comté</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour un moule à tarte: </p>
+ <p>1 pâte feuilletée</p>
+ <p>2 grosses aubergines coupées en julienne</p>
+ <p>huile d’ olive</p>
+ <p>2 grosses gousses d’ ail pressées</p>
+ <p>sel</p>
+ <p>Pour l’ appareil: </p>
+ <p>3 oeufs</p>
+ <p>200 ml de lait concentré non sucré</p>
+ <p>1 cuillère à soupe de concentré de tomates</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>100 g de comté râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire suer les <ingredient>aubergines</ingredient> à la <recipient>poêle</recipient> avec huile et <ingredient>sel</ingredient></operation>. quand elles ne rendent plus d’ eau et commencent à dorer, ajouter l’ <ingredient>ail</ingredient> et remuer rapidement sur le feu pour que l’ <ingredient>ail</ingredient> ne brûle pas. retirer du feu et <operation>laisser refroidir</operation>. battre les <ingredient>oeufs</ingredient>, y ajouter successivement en mélangeant à chaque fois les ingrédients de l’ <ingredient>appareil</ingredient> dans l’ ordre. <operation>garnir le <ingredient><recipient>moule</recipient></ingredient> avec la <ingredient>pâte</ingredient>, le tartiner avec les</operation> <ingredient>aubergines</ingredient>, tasser avant de verser l’ <ingredient>appareil</ingredient>. <operation>faire cuire à 200 ° c 20 à 25 min</operation>. <operation>servir avec une salade bien</operation> relevée avec de l’ <ingredient>ail</ingredient>. rosé bien frais
+]]>
+ </preparation>
+</recette>

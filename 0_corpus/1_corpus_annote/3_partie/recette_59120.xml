@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59120">
+ <titre>Courgettes farcies d’ Anselme (poivron et fromage) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 courgettes rondes</p>
+ <p>1 bel oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>100 g de fromage charpenté (Saint Félicien, Rocamadour) </p>
+ <p>6 cuillères à soupe de riz cuit</p>
+ <p>1 beau poivron</p>
+ <p>1 cuillère à soupe de vin blanc sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>courgettes</ingredient></operation> rincées 20 minutes à la vapeur, entières. découper le chapeau des <ingredient>courgettes</ingredient>, évider les graines, saler l’ intérieur et <operation>laisser égoutter les <ingredient>courgettes</ingredient> à l’ envers</operation>. dans une <recipient>poêle</recipient>, <operation>faire tomber l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient> finement</operation> émincés, puis le <ingredient>poivron</ingredient> découpé en dés ; saler, poivrer. ajouter le <ingredient>vin blanc</ingredient>. découper le <ingredient>fromage</ingredient> en petits cubes. mélanger le <ingredient>poivron</ingredient>, le <ingredient>riz</ingredient>, le <ingredient>fromage</ingredient>. farcir les <ingredient>courgettes</ingredient>. les disposer dans un <recipient>plat</recipient> à <recipient>four</recipient>, verser un peu d’ eau au fond du <recipient>plat</recipient>, <operation>couvrir de papier alu</operation> et <operation>laisser cuire au <recipient>four</recipient> à 160 ° c (thermostat 5 - 6) pendant 20 minutes</operation>. accompagner d’ une <ingredient>belle</ingredient> salade et d’ une tranche de bon pain. on peut remplacer le <ingredient>riz</ingredient> par du boulghour, et <operation>choisir le <ingredient>fromage</ingredient> de son choix</operation>. parsemer d’ herbes fraîches au moment de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219614">
+ <titre>Dessert aux fruits et au chocolat en verrine</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 framboises (facultatif) </p>
+ <p>2 pommes</p>
+ <p>16 carrés de chocolat</p>
+ <p>du beurre</p>
+ <p>2 kiwis</p>
+ <p>1 banane</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et couper en petits morceaux les fruits sauf les <ingredient>framboises</ingredient>. mixer séparément les <ingredient>pommes</ingredient>, les <ingredient>kiwis</ingredient> et la <ingredient>banane</ingredient>. <operation>faire fondre le <ingredient>chocolat</ingredient> avec un petit peu de <ingredient>beurre</ingredient></operation>. mettre dans chaque verrine un fond de <ingredient>chocolat</ingredient> fondu, puis le <operation>recouvrir de la " purée de <ingredient>banane</ingredient> ", ensuite une seconde couche de <ingredient>chocolat</ingredient> fondu, puis de la " purée de <ingredient>kiwi</ingredient> ", encore une couche de <ingredient>chocolat</ingredient> fondu et enfin la " purée de</operation> <ingredient>pomme</ingredient> ". pour la décoration, mettre une <ingredient>framboise</ingredient> sur chaque dessus de verrine.
+]]>
+ </preparation>
+</recette>

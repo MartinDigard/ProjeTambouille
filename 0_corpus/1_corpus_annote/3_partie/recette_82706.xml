@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82706">
+ <titre>Potage à la tomate et aux bananes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons </p>
+ <p>240 g tomate pelées avec leur jus</p>
+ <p>15 cl de bouillon de poule</p>
+ <p>3 bananes</p>
+ <p>1 cuillère à café de curry</p>
+ <p>15 cl de crème fraiche</p>
+ <p>Facultatif: 1 pointe de poivre de Cayenne</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez et hachez grossièrement les <ingredient>oignons</ingredient></operation>. <operation>faites revenir dans un <recipient>faitout</recipient>, lorsqu’ ils</operation> deviennent transparents, <operation>ajoutez les tomates, le <ingredient>jus</ingredient>, le <ingredient>bouillon</ingredient>, 2 <ingredient>bananes</ingredient> (<ingredient>pelées</ingredient> et découpées), le <ingredient>curry</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient></operation>. <operation>laissez mijoter</operation>. <operation>mixez le tout</operation>, ajoutez la <ingredient>crème fraiche</ingredient>, et éventuellement le <ingredient>poivre de cayenne</ingredient>. <operation>décorez de rondelles de <ingredient>bananes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

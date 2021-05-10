@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26509">
+ <titre>Tarte méditerranéenne aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>6 tomates</p>
+ <p>20 filets d’ anchois</p>
+ <p>1/2 poivron vert</p>
+ <p>1/2 poivron rouge</p>
+ <p>2 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>quelques olives vertes et noires dénoyautées</p>
+ <p>50 g de gruyère en lamelles</p>
+ <p>thym, laurier, marjolaine, romarin</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>etalez la <ingredient>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation>, <operation>ré<operation>servez</operation> au frais</operation>. <operation>pelez</operation> et <operation>concassez les <ingredient>tomates</ingredient>, hachez les <ingredient>échalotes</ingredient></operation>. <operation>faites - les</operation> fondre à feu doux dans une <recipient>poêle</recipient> huilée. <operation>détaillez les <ingredient>poivrons</ingredient> en lanières</operation>, <operation>épépinez - les</operation>. <operation>couvrez la <ingredient>pâte</ingredient> avec les <ingredient>tomates</ingredient> aux <ingredient>échalotes</ingredient>, pressez l’ <ingredient>ail</ingredient> et répartissez - le dessus</operation>. <operation>saupoudrez des herbes</operation> émiettées. <operation>déposez les lanières de <ingredient>poivrons</ingredient> et les <ingredient>filets</ingredient> d’ <ingredient>anchois</ingredient> sur le tout</operation>. enfin <operation>ajoutez le fromage et les <ingredient>olives</ingredient></operation>. <operation>faites cuire à <recipient>four</recipient> à 220 ° c (thermostat 7 - 8), pendant 20 minutes</operation>. <operation>servez</operation> chaud ou froid.
+]]>
+ </preparation>
+</recette>

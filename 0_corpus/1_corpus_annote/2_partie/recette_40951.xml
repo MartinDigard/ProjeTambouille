@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40951">
+ <titre>Carottes râpées fruitées</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 carottes de taille moyenne</p>
+ <p>le jus d’ un pamplemousse</p>
+ <p>un demi verre de noisettes en poudre</p>
+ <p>deux cuillères à soupe d’ huile végétale (noix, ou raisin) </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez, <operation>lavez,</operation> puis <operation>râpez les <ingredient>carottes</ingredient></operation>. <operation>pressez le <ingredient>pamplemousse</ingredient>,</operation> et <operation>ajoutez le <ingredient>jus</ingredient> aux <ingredient>carottes</ingredient></operation>. saupoudrez avec les <ingredient>noisettes en poudre</ingredient>, <operation>salez peu</operation>, <operation>poivrez</operation>. <operation>ajoutez l’</operation> <ingredient>huile</ingredient>, <operation>mélangez,</operation> et <operation>servez! vous</operation> pouvez ensuite, ajouter des quartiers d’ agrumes et des fruits secs entiers, à la salade.
+]]>
+ </preparation>
+</recette>

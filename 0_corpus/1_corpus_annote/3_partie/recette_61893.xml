@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61893">
+ <titre>Frittata napolitaine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>1 reste de spaghetti à la sauce tomates-olives ou autre</p>
+ <p>basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation>coupez les <ingredient>spaghetti</ingredient> en 4</operation>. <operation>ajoutez - y les <ingredient>oeufs</ingredient></operation> battus et le <ingredient>basilic</ingredient>, <operation>mélangez bien</operation>. <operation>versez dans un <recipient>plat</recipient> à gratin et enfournez pour 30 minutes de cuisson</operation>. <operation>servez bien chaud avec une salade</operation>. peut se réaliser avec n’ importe quel reste de pâtes.
+]]>
+ </preparation>
+</recette>

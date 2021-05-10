@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42024">
+ <titre>Galettes de châtaignes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 châtaignes</p>
+ <p>4 oeufs</p>
+ <p>4 grosse poignée de raisins secs blonds</p>
+ <p>1 grand verre de lait</p>
+ <p>sel, poivre</p>
+ <p>cumin, curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>châtaignes</ingredient> dans l’ eau environ 20 min</operation>. puis, <operation>enlevez les deux peaux et écrasez - les à la fourchette jusqu’ à</operation> <operation>obtenir une farine plus ou moins grumeleuse</operation>. il peut rester quelques morceaux. mélangez à cette farine les <ingredient>oeufs</ingredient>, le <ingredient>lait</ingredient>, les <ingredient>raisins secs</ingredient>, le <ingredient>sel</ingredient> et le poivre. en fonction de la texture, n’ hésitez pas à rajouter du <ingredient>lait</ingredient>, sinon le résultat sera un peu <ingredient>sec</ingredient>. une fois la pâte obtenue, <operation>faites cuire de petites galettes individuelles à la <recipient>poêle</recipient>, avec un fond d’</operation> huile. la cuisson est très rapide, environ 5 min. <operation>servez avec une salade verte</operation>. possibilité d’ ajouter dans la pâte du fromage, notamment un chèvre frais.
+]]>
+ </preparation>
+</recette>

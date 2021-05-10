@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33792">
+ <titre>La mique</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>4 œufs</p>
+ <p>16 g de levure de boulanger</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>1 grosse cuillère à soupe de graisse de canard</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dissoudre la <ingredient>levure</ingredient> dans le <ingredient>lait</ingredient></operation>. verser la farine dans une jatte, casser les <ingredient>œufs</ingredient> au centre. ajouter la <ingredient>graisse de canard</ingredient>, la <ingredient>levure</ingredient> délayée, et le <ingredient>sel</ingredient>. <operation>pétrir la pâte</operation> longuement afin d’ <operation>obtenir une pâte souple et homogène</operation>. la mettre en boule. poudrer de <ingredient>farine</ingredient> la pâte, la placer dans une jatte et la couvrir. <operation>faire lever la pâte au chaud pendant 2 heure au minimum (elle</operation> doit doubler de volume). <operation>faire cuire à feu doux la mique dans le bouillon du petit salé pendant 1 heure (la</operation> retourner à mi cuisson). <operation>servir dans un <recipient>plat</recipient> chaud avec le petit salé et les légumes</operation>. pour découper la mique, utiliser 2 fourchettes. c’ est un <recipient>plat</recipient> consistant, économique. pour les restes de mique <operation>faire dorer les tranches dans la <recipient>poêle</recipient></operation> et <operation>servir avec la <ingredient>soupe</ingredient>, ou avec une bonne salade, ou également avec un oeuf à cheval</operation>. enfin, il ne vous reste plus qu’ à vous régaler. un vin du sud ouest
+]]>
+ </preparation>
+</recette>

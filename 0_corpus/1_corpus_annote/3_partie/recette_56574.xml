@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56574">
+ <titre>Gâteau aux pommes et à la muscade</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de sucre</p>
+ <p>100 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>3 oeufs</p>
+ <p>1/2 verre d’ huile</p>
+ <p>3 pommes</p>
+ <p>1 cuillère à soupe de muscade</p>
+ <p>facultatif: lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez les ingrédients dans l’ ordre de la liste en</operation> rajoutant un peu de lait si nécéssaire pour que la pâte soit fluide. dans votre <recipient>moule</recipient> beurré et fariné, disposez 1/3 de <ingredient>pommes</ingredient> coupées en morceaux, <operation>recouvrez de la pâte</operation> et <operation>disposez le reste des <ingredient>pommes</ingredient> dessus</operation>. <operation>mettez au <recipient>four</recipient> à température moyenne jusqu’ à ce que les <ingredient>pommes</ingredient> du dessus soient toutes dorées</operation>. le lait permet de mieux lier les ingrédients mais il peut être remplacé par les blancs montés en neige.
+]]>
+ </preparation>
+</recette>

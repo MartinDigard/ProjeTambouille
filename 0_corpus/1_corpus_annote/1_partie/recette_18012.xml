@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18012">
+ <titre>Brownie</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60 g de chocolat noir </p>
+ <p>2 oeufs</p>
+ <p>40 g de farine</p>
+ <p>110 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>120 g de beurre</p>
+ <p>Noix de pécan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> avec le beurre</operation>. battre les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient> puis le <ingredient>sucre</ingredient> vanillé jusqu’ à blanchiment. mélanger le tout et ajouter la farine puis incorporer les <ingredient>noix de pécans</ingredient>. beurrer un <recipient>plat</recipient> et mettre au <recipient>four</recipient> durant 20 mn pour un gâteau moëlleux.
+]]>
+ </preparation>
+</recette>

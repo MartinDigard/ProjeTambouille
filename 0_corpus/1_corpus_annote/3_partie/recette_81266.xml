@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81266">
+ <titre>Pâtes à la provençale</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons</p>
+ <p>1/2 poivron vert</p>
+ <p>1/2 poivron rouge</p>
+ <p>1/2 poivron jaune</p>
+ <p>4 grosses tomates</p>
+ <p>herbes de Provence</p>
+ <p>basilic frais</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>500 g de pâtes aux choix (de préférence torsades) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>pâtes</ingredient> dans une <recipient>casserole</recipient></operation>. pour la sauce: <operation>faites revenir les <ingredient>oignons</ingredient> et les <ingredient>poivrons</ingredient> coupés en petits</operation> carrés dans suffisamment d’ huile d’ <ingredient>olive</ingredient>. <operation>attendez que les <ingredient>poivrons</ingredient> ramollissent avant de</operation> rajouter les <ingredient>tomates</ingredient> sans leur peau et, elles aussi, coupées en petits dés. <operation>couvrir</operation> et <operation>laisser cuire à feu moyen pendant 20 min</operation> ajouter le <ingredient>basilic frais</ingredient> et beaucoup d’ <ingredient>herbes de provence</ingredient> et saler et poivrer. une recette simplissime, testée sur 3 garçons affamés. succès garanti!
+]]>
+ </preparation>
+</recette>

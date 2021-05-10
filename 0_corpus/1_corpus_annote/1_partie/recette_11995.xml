@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11995">
+ <titre>Brochette de poulet sauce satay</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de poulet en cubes</p>
+ <p>Pour la marinade: </p>
+ <p>2 cuillères à café de sucre brun</p>
+ <p>1 cuillère à café de coriandre</p>
+ <p>1 cuillère à café de curcuma </p>
+ <p>1 cuillère à café de cumin en poudre</p>
+ <p>18 cl de lait de coco</p>
+ <p>Pour la sauce satay: </p>
+ <p>50 g de cacahuètes grillées</p>
+ <p>1 cuillère à café de sel</p>
+ <p>30 cl de lait de coco</p>
+ <p>2 cuillères à café de pâte de curry rouge (c’ est très fort: facultatif pour les estomacs fragiles.) </p>
+ <p>2 cuillères à soupe de sucre brun</p>
+ <p>1/2 cuillère à café de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient>poulet</ingredient> dans la <ingredient>marinade</ingredient> pendant au moins 2h. sauce: broyer les <ingredient>cacahuètes</ingredient> (du beurre d’ arachide peut <operation>faire l’</operation> affaire). verser la moitié du lait dans une <recipient>casserole</recipient>, ajouter le <ingredient>curry</ingredient>, chauffer à feu doux pendant 3 min. ajouter la crème de <ingredient>cacahuète</ingredient>, le <ingredient>sucre</ingredient>, le <ingredient>jus de citron</ingredient> et le reste du lait de <ingredient>coco</ingredient>. mélanger bien et <operation>laisser cuire 20 à 30 mn</operation> <operation>faire cuire vos brochettes de <ingredient>poulet</ingredient></operation>. <operation>servir avec la <ingredient>sauce</ingredient> et une salade de concombre</operation>. on peut tout aussi bien utiliser du porc ou du boeuf en brochettes.
+]]>
+ </preparation>
+</recette>

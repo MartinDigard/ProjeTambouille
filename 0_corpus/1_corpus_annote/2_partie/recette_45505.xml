@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45505">
+ <titre>Véritable fondue sans alcool</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de mimolette</p>
+ <p>400 g d’ edam</p>
+ <p>1 gros sachet de fromage râpé</p>
+ <p>2 à 3 cuillère à soupe de crème fraîche épaisse</p>
+ <p>1 verre de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient>fromages</ingredient> en petits dés. <operation>faire chauffer le <recipient>caquelon</recipient> à fondue à feu vif,</operation> et déposer les dés de <ingredient>fromage</ingredient>. lorsque celui-ci commence à fondre, ajouter la moitié de la <ingredient>crème</ingredient> fraiche, et mélanger. si nécéssaire, mettre toute la <ingredient>crème fraîche</ingredient>, ajouter le <ingredient>lait</ingredient> (pour que ce soit légèrement liquide), et <operation>laisser le tout fondre à feu doux, en</operation> mélangant de temp à autre... rajouter le <ingredient>fromage</ingredient> rapé au dernier moment, et <operation>laisser fondre</operation>... couper des morceaux de pains en morceaux, et servir très chaud! cette fondue prouve qu’ on a pas besoin de vin blanc pour <operation>faire une bonne fondue</operation>!
+]]>
+ </preparation>
+</recette>

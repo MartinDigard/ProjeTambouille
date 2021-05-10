@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18057">
+ <titre>Lasagnes à la viande</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 plaques de lasagnes (précuites) </p>
+ <p>600 g de steak haché</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1/2 bouquet de persil</p>
+ <p>70 g de coulis de tomate</p>
+ <p>50 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>1/2 l de lait</p>
+ <p>50 g de parmesan râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient>oignons</ingredient>, l’ <ingredient>ail</ingredient> et le <ingredient>persil</ingredient> et les mélanger à la viande hachée. <operation>faire chauffer un peu d’ huile d’ olive dans une <recipient>poêle</recipient></operation> et <operation>faire la</operation> cuire la farce en remuant souvent, pendant 5 minutes. en fin de cuisson, éteindre le feu et réserver. mélanger au <ingredient>coulis de tomate</ingredient>. <operation>faire une béchamel avec le beurre, la farine et le lait</operation>. beurrer un <recipient>plat</recipient> à gratin, disposer une couche de <ingredient>plaques de lasagnes</ingredient>, puis une couche de viande hachée, puis une couche de béchamel. terminer par une couche de sauce béchamel. parsemer de <ingredient>parmesan râpé</ingredient>. <operation>faire gratiner à <recipient>four</recipient></operation> chaud pendant 1/2 heure.
+]]>
+ </preparation>
+</recette>

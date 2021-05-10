@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59948">
+ <titre>Quatre-quarts coco-myrtilles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>200 g de farine</p>
+ <p>200 g de beurre fondu</p>
+ <p>200 g de sucre</p>
+ <p>100 g de myrtilles</p>
+ <p>50 g de noix de coco râpée</p>
+ <p>1 cuillère à café de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à thermostat 6 (180 ° c). <operation>mélangez la farine et la <ingredient>levure</ingredient> dans un saladier</operation>. <operation>ajoutez le beurre, le <ingredient>sucre</ingredient> et les</operation> <ingredient>oeufs</ingredient> et <operation>mélangez au batteur électrique pendant 4 min</operation>. incorporez la <ingredient>noix de coco râpée</ingredient> et les <ingredient>myrtilles</ingredient>. <operation>versez la pâte dans un <recipient>moule</recipient> à cake beurré</operation>, <operation>lissez la surface et enfournez à mi-hauteur pendant 35 à 40 min</operation>. <operation>sortez du <recipient>four</recipient></operation> et <operation>laissez complètement</operation> <operation>refroidir avant de</operation> démouler. <operation>coupez en tranches</operation> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

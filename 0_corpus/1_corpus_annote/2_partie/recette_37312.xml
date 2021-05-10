@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37312">
+ <titre>Gratin saumon poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de saumon (filet) coupés en dés </p>
+ <p>600 g de blancs de poireau émincés </p>
+ <p>60 cl de crème fraîche </p>
+ <p>2 citrons </p>
+ <p>80 g de gruyère </p>
+ <p>50 g de beurre </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7)</operation>, <operation>faites fondre les <ingredient>poireaux</ingredient> dans 25 g de beurre (environ 10 min</operation>). dans une autre <recipient>poêle</recipient>, <operation>faites dorer les dés de <ingredient>saumon</ingredient> dans 25 g de beurre,</operation> puis <operation>rajoutez - les aux <ingredient>poireaux</ingredient></operation>. <operation>ajoutez également la <ingredient>crème</ingredient> fraiche et le jus d’ 1</operation> <ingredient>citron</ingredient>, <operation>salez et poivrez</operation> et <operation>faites bouillir quelques instants</operation>. mettre le tout dans un <recipient>plat</recipient> à gratin et <operation>recouvrir de <ingredient>gruyère</ingredient> râpé</operation> et <operation>faites cuire 15 min</operation>. <operation>servir avec le deuxième <ingredient>citron</ingredient></operation> coupé en quartiers et avec des pâtes fraiches ou du riz.
+]]>
+ </preparation>
+</recette>

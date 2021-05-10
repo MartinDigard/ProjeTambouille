@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229010">
+ <titre>Mousse légère chocolat et Guinness</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de chocolat noir (58% cacao, type chocolat dessert) </p>
+ <p>3 œufs</p>
+ <p>1 blanc d’ oeuf</p>
+ <p>50 g sucre</p>
+ <p>8 cl de Guinness Draught</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. pendant ce temps, casser les <ingredient>œufs</ingredient> en séparant les jaunes des <ingredient>blancs</ingredient>. mélanger les jaunes avec le sucre: ne pas attendre pour mélanger, car le sucre " cuit " les jaunes. une fois le sucre dissous, il n’ y a plus de problème. ajouter ce mélange au <ingredient>chocolat</ingredient> fondu, et lisser la préparation avec une cuillère en bois. ajouter ensuite la <ingredient>guinness</ingredient> et bien mélanger le tout. monter les <ingredient>blancs</ingredient> en neige ferme avec un pincée de sel (les <ingredient>blancs</ingredient> doivent être à température ambiante). en prendre une cuillère à soupe et la mélanger vivement au <ingredient>chocolat</ingredient>, cela permet de le " détendre ". ajouter ensuite le reste des <ingredient>blancs</ingredient>, et mélanger délicatement avec une spatule, lentement, sans " casser " les <ingredient>blancs</ingredient>. verser dans des ramequins, et <operation>laisser réfrigérer au moins 2 heures</operation>. bon appétit! du lait:)
+]]>
+ </preparation>
+</recette>

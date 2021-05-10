@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28502">
+ <titre>Gâteau de semoule à la vanille</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de semoule de blé fine</p>
+ <p>2/3 litre de lait</p>
+ <p>100 g de sucre</p>
+ <p>2 à 3 cuillères à café de vanille en poudre (ne pas hésiter à en mettre, car elle doit bien parfumer le gâteau) </p>
+ <p>2 oeufs</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer le <ingredient>lait</ingredient> avec le <ingredient>sucre</ingredient> et la <ingredient>vanille</ingredient></operation>. quand le <ingredient>lait</ingredient> bout, baisser le feu, verser dedans la semoule et bien mélanger. poser un couvercle sur la <recipient>casserole</recipient> et <operation>faire cuire à feu doux 10 min</operation>. on doit <operation>obtenir une pâte épaisse, sinon</operation> cuire un peu plus longtemps. éteindre le feu, et ajouter le beurre et les <ingredient>oeufs</ingredient> battus. verser dans un <recipient>moule</recipient> beurré, et enfourner pendant 25 à 30 min à th 7 (210 ° c). mettre au moins 12 h au <recipient>réfrigérateur</recipient> avant de <operation>servir</operation>. c’ est un gâteau très simple et assez compacte mais délicieux qui rappelle à certains les gâteaux de leur enfance.
+]]>
+ </preparation>
+</recette>

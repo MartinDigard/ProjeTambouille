@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19958">
+ <titre>Lapin sauce marengo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>2 cl d’ huile</p>
+ <p>30 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>persil</p>
+ <p>2 dl de bouillon</p>
+ <p>2 dl de vin blanc</p>
+ <p>200 g de champignons</p>
+ <p>50 g de purée de tomates</p>
+ <p>30 g d’ échalotes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez le <ingredient>lapin</ingredient></operation>. <operation>faire chauffer l’ huile et le beurre et y</operation> mettre les morceaux à dorer. lorsqu’ ils sont à moitié revenus, saupoudrer avec un hachis de <ingredient>persil</ingredient> et <ingredient>échalotes</ingredient>. <operation>continuez à</operation> <operation>faire dorer</operation>. mettre ensuite la farine, <operation>faire sautez les morceaux</operation>, mouillez avec le <ingredient>bouillon</ingredient> et le <ingredient>vin blanc</ingredient>. <operation>laissez cuire doucement pendant 1 heure</operation>. ajoutez à ce moment les <ingredient>champignons</ingredient> lavés et coupés et la <ingredient>purée de tomates</ingredient>. <operation>prolongez la cuisson pendant environ 30 mn</operation>.
+]]>
+ </preparation>
+</recette>

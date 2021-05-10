@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93015">
+ <titre>Verrine fruits pralinoise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de fromage blanc</p>
+ <p>1/4 d’ ananas</p>
+ <p>60 g de pralinoise</p>
+ <p>6 gavottes </p>
+ <p>30 g de sucre en poudre</p>
+ <p>20 g de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+sucrez le <ingredient>fromage blanc</ingredient> et <operation>versez la moitié du <ingredient>pot</ingredient> dans chaque verre</operation>. vous pouvez le parfumer à la <ingredient>cannelle</ingredient>. <operation>coupez l’ <ingredient>ananas</ingredient> en petits morceaux et les</operation> mettre sur le <ingredient>fromage blanc</ingredient>. <operation>faites fondre la pralinoise</operation>. <operation>ecrasez les gravotes en miettes</operation>. <operation>mélangez la pralinoise avec les <ingredient>gavottes</ingredient> en miettes</operation>. ce mélange est la troisième couche de la verrine: versez - la sur l’ ananas. <operation>réservez - la une heure au frais</operation>.
+]]>
+ </preparation>
+</recette>

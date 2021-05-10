@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165995">
+ <titre>Tarte de courge sucrée aux épices</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pate brisée </p>
+ <p>800 g de courge</p>
+ <p>3 oeufs</p>
+ <p>45 cl de crème fraiche</p>
+ <p>150 g de cassonade (sucre en poudre roux) </p>
+ <p>1 c. à café de cannelle, </p>
+ <p>1 c. à café de muscade, </p>
+ <p>1 c. à café de gingembre</p>
+ <p>le zest d’ une orange</p>
+ <p>Facultatif 100 g d’ amandes en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer le <recipient>four</recipient></operation>. couper la chair de la <ingredient>courge</ingredient> en dés. <operation>faites les</operation> cuire à la vapeur 20 mn environ égoutter et écraser en purée. etaler la pate brisée, garnissez un <recipient><recipient>moule</recipient> à tarte</recipient>. dans une <recipient>terrine</recipient>, <operation>battez les <ingredient>oeuf</ingredient> en omelette</operation>, ajoutez la <ingredient>cassonade</ingredient>, la <ingredient>crème fraiche</ingredient>, les épices et le <ingredient>zest</ingredient> d’ orange finement rapé (éventuellement les <ingredient>amandes en poudre</ingredient>) <operation>mélangez bien le tout</operation> puis <operation>incorporez la purée de <ingredient>courge</ingredient></operation>. <operation>mélangez à nouveau</operation> et verser la préparation sur le fond de la tarte. <operation>faites cuire au <recipient>four</recipient> 40 à45 mn</operation>. <operation>laisser refroidir complètement avant de</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

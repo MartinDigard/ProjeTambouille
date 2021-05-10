@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84512">
+ <titre>Tarte poulet / curry</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>350 g de blanc de poulet</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 gros oignons blancs</p>
+ <p>2 cuillères à soupe de curry</p>
+ <p>4 oeufs </p>
+ <p>25 cl de crème fraîche liquide</p>
+ <p>1 petit bouquet de coriandre ciselée</p>
+ <p>2 cuillères à soupe de graines de pavot</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>oignons</ingredient></operation> émincés dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> jusqu’ à qu’ ils soient bien fondants. ajouter les <ingredient>blancs de poulet</ingredient> coupés en <ingredient>petites</ingredient> lamelles et le <ingredient>curry</ingredient>. saler et poivrer, <operation>laisser cuire le tout jusqu’ à ce que la viande soit</operation> dorée. dans un <ingredient>petit</ingredient> saladier, battre les <ingredient>oeufs</ingredient> avec la <ingredient>crème</ingredient> et la <ingredient>coriandre</ingredient>. étaler la <ingredient>pâte brisée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, verser la préparation (viande) puis les <ingredient>oeufs</ingredient> et la <ingredient>crème</ingredient>. ajouter les <ingredient>graines de pavot</ingredient>. <operation>faire cuire au <recipient>four</recipient> à 210 ° c (thermostat 7) pendant 5 - 10 min</operation>. attention, bien surveiller, ça cuit vite. pour les amateurs de gruyère, il est possible d’ en rajouter pour gratiner.
+]]>
+ </preparation>
+</recette>

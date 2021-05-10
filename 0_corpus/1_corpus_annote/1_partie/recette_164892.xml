@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164892">
+ <titre>Les Pancakes de Juju</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>280 g de farine</p>
+ <p>60 cl de lait</p>
+ <p>1 pincée de sel</p>
+ <p>1 sachet de levure</p>
+ <p>2 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez la farine, la <ingredient>levure</ingredient> et la pincée de <ingredient>sel</ingredient> dans un saladier ou un récipient quelconque</operation>. <operation>ajoutez les 2 oeufs</operation>, <operation>mélangez</operation>, mettre le lait petit à petit tout en tournant avec une cuillère en bois. <operation>laissez reposer pendant environ 5 minutes</operation>. <operation>faire chauffer une <recipient>poêle</recipient> avec une cuillère d’</operation> huile de tournesol. déposer une louche de la pâte quand la <recipient>poêle</recipient> est chaude. <operation>laissez cuire pendant 2 à 4 min par côté selon votre désir</operation>. <operation>dégustez</operation> chaud ou froid, mais le meilleur c’ est quand c’ est chaud!! vous pouvez les mangez avec du nutella, du sucre glace ou en poudre, confiture...
+]]>
+ </preparation>
+</recette>

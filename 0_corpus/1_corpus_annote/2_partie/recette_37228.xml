@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37228">
+ <titre>Salade de pâtes aux tomates séchées et à la feta</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de pâtes (type penne rigate) </p>
+ <p>200 g de feta</p>
+ <p>200 g de tomates séchées à l’ huile d’ olive</p>
+ <p>125 g d’ olives noires à la grecque</p>
+ <p>1 concombre</p>
+ <p>1 poivron rouge</p>
+ <p>du pesto</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>pâtes</ingredient></operation>. pendant qu’ elle cuisent, couper la <ingredient>feta</ingredient>, les <ingredient>tomates séchées</ingredient>, le <ingredient>concombre</ingredient> et le <ingredient>poivron</ingredient> en dés. couper les <ingredient>olives</ingredient>, en enlevant les noyaux. quand les <ingredient>pâtes</ingredient> sont cuites, les rincer à l’ eau froide, et mélanger avec les ingrédients coupés et le pistou. réserver au frais, jusqu’ au moment de <operation>servir</operation>. on peut changer la sauce, et <operation>faire une vinaigrette à base d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. il est aussi possible de mettre les sauces à part et de <operation>laisser chacun choisir celle qui lui</operation> convient.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83327">
+ <titre>Salade méli-mélo</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 salade</p>
+ <p>3 œufs</p>
+ <p>2 champignons</p>
+ <p>1 paquet de lardons</p>
+ <p>1 paquet de dés d’ emmental</p>
+ <p>6 radis</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez en <ingredient>dés</ingredient> les <ingredient>œufs</ingredient> et les <ingredient>champignons</ingredient></operation>. <operation>coupez les <ingredient>radis</ingredient> en rondelles</operation>. dans une <recipient>poêle</recipient>, cuire les <ingredient>lardons</ingredient> 10 minutes, et les <ingredient>champignons</ingredient> 10 minutes également. <operation>mettez quelques feuilles de</operation> <ingredient>salade</ingredient> et <operation>ajoutez le reste des ingrédients</operation>. <operation>mélangez bien</operation>. la <ingredient>salade</ingredient> est prête. <operation>ajoutez huile, sel, poivre selon votre convenance</operation>.
+]]>
+ </preparation>
+</recette>

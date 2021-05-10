@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81423">
+ <titre>TARTE RUSTIQUE</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pâte sablé</p>
+ <p>200 g de Brie </p>
+ <p>130 g de Maroilles</p>
+ <p>3 pommes de terre</p>
+ <p>1 bouquet de persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient>pommes de terre</ingredient> et les <operation>faire cuire pendant 20 min environ</operation>. <operation>egouttez</operation> - les et <operation>laissez refroidir</operation>. <operation>coupez - les en rondelles</operation>, <operation>coupez les fromages en tranches pas trop fines</operation>. pour un meilleur goût, <operation>préparez vous - même la pâte, placez - la dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation>, <operation>recouvrez - la de papier</operation> sulfurisé et de haricots ou autre pour la <operation>faire cuire à blanc 20 min</operation>. <operation>sortez la pâte du <recipient>four</recipient></operation>, <operation>couvrez le fond avec le</operation> <ingredient>brie</ingredient>, ajoutez les <ingredient>pommes de terre</ingredient> et <operation>couvrez avec le <ingredient>maroilles</ingredient></operation>. <operation>poivrez</operation> et <operation>enfournez de nouveau 10 min</operation>. <operation>mettez le <ingredient>persil</ingredient> une fois cuite,</operation> et <operation>servir aussitôt avec une petite salade</operation>.
+]]>
+ </preparation>
+</recette>

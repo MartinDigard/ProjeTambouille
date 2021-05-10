@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221221">
+ <titre>Douceurs au citron</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 citron</p>
+ <p>25 cl de crème fraîche fleurette</p>
+ <p>60 g de sucre</p>
+ <p>4 morceaux de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et séchez le <ingredient>citron</ingredient>. <operation>prélevez le zeste avec une râpe</operation>. <operation>pressez le jus</operation>. dans une <recipient>casserole</recipient>, <operation>portez à ébullition la <ingredient>crème</ingredient></operation> fraiche avec le <ingredient>sucre</ingredient>. <operation>laissez mijoter à feu doux 3 min</operation>. <operation>ajoutez le jus de <ingredient>citron</ingredient></operation>. <operation>mélangez</operation>. répartissez la <ingredient>crème</ingredient> dans des petits contenants. <operation>faites bouillir les zestes dans une <recipient>casserole</recipient> avec les morceaux de <ingredient>sucre</ingredient> et 10cl d’ eau</operation>. <operation>portez à ébullition 5 min</operation>. <operation>égouttez - les</operation>. <operation>parsemez les <ingredient>crèmes</ingredient> de zestes</operation>. <operation>mettez au <recipient>réfrigérateur</recipient> 3 heures</operation>.
+]]>
+ </preparation>
+</recette>

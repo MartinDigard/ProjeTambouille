@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58615">
+ <titre>Compote de papaye</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 papaye bien mûre (taille moyenne) </p>
+ <p>1 citron</p>
+ <p>50 g de sucre </p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>ouvrir la <ingredient>papaye</ingredient> en deux</operation>, enlever les pépins, et mettre la chair (qui doit être orange vif) dans un saladier. ajouter le jus du <ingredient>citron</ingredient>, le <ingredient>sucre</ingredient> et le <ingredient>sachet de sucre</ingredient> vanillé. mixer le tout. placer au <recipient>réfrigérateur</recipient> pendant au moins deux heures, <operation>servir la compote <ingredient>bien</ingredient> fraîche</operation>. la pectine du fruit mélangée au <ingredient>sucre</ingredient> peut donner un aspect gélifié à la compote, c’ est normal. choisir une <ingredient>papaye bien mûre</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21941">
+ <titre>Thon à la provençale</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de thon frais</p>
+ <p>1 kg de tomates bien mûres</p>
+ <p>3 gros poivrons rouges</p>
+ <p>100 g d’ olives vertes et noires</p>
+ <p>3 gros oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>1/2 bouquet de basilic</p>
+ <p>15 cl de vin blanc sec</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation>coupez les <ingredient>tomates</ingredient> en quartiers, les <ingredient>poivrons</ingredient> en lanières et les <ingredient>oignons</ingredient> en rondelles</operation>. pelez et <operation>pilez l’ <ingredient>ail</ingredient></operation>. <operation>ciselez le <ingredient>basilic</ingredient></operation>. <operation>ebouillantez les <ingredient>olives</ingredient> 2 minutes,</operation> et <operation>dénoyautez - les</operation>. <operation>faites chauffer 3 cuillères à soupe d’</operation> huile dans une <recipient>cocotte</recipient>. <operation>jetez - y les <ingredient>oignons</ingredient> et les</operation> <ingredient>poivrons</ingredient>, <operation>laissez revenir 5 minutes en</operation> remuant. <operation>ajoutez l’ <ingredient>ail</ingredient>, les</operation> <ingredient>tomates</ingredient>, <operation>salez</operation> et <operation>poivrez</operation>. <operation>faites dorer le <ingredient>thon</ingredient> salé</operation> et poivré dans une autre <recipient>poêle</recipient>, avec un fond d’ huile. une fois qu’ il est <ingredient>bien</ingredient> doré, <operation>retirez - le</operation>. <operation>ajoutez les <ingredient>olives</ingredient> aux légumes</operation>, mouillez de <ingredient>vin blanc</ingredient> et <operation>posez le <ingredient>thon</ingredient> sur les légumes</operation>. <operation>couvrez</operation> et <operation>laissez mijoter 1 h à feu doux</operation>. parsemez de <ingredient>basilic</ingredient> ciselé 5 minutes avant la fin de la cuisson.
+]]>
+ </preparation>
+</recette>

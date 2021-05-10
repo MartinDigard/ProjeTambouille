@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22103">
+ <titre>Riz bonzaï</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>2 carottes</p>
+ <p>180 g de petits-pois</p>
+ <p>300 g de crevettes décortiquées </p>
+ <p>200 g de riz (basmati de préférence) </p>
+ <p>safran</p>
+ <p>200 g de champignons noirs </p>
+ <p>1 citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer le <ingredient>riz</ingredient> (environ 500 g pour 2 personnes</operation>). dans une autre <recipient>casserole</recipient> <operation>faites chauffer les <ingredient>petits-pois</ingredient></operation>. pendant ce temps, <operation>râpez les</operation> <ingredient>carottes</ingredient> et <operation>assaisonez - les du jus de</operation> <ingredient>citron</ingredient> et <operation>découpez les <ingredient>champignons</ingredient> et fines lamelles</operation>. lorsque les cuissons sont terminées <operation>mélangez les <ingredient>petits-pois</ingredient> aux <ingredient>crevettes</ingredient> fraîches et aux <ingredient>champignons</ingredient>,</operation> puis <operation>rajoutez en dernier les <ingredient>carottes</ingredient></operation> râpées. <operation>versez le <ingredient>riz</ingredient> dans un grand <recipient>plat</recipient></operation> et " <operation>renversez " le mélange au dessus</operation>. <operation>assaisonnez pour</operation> <operation>finir d’ un peu de <ingredient>safran</ingredient>, de poivre et de <ingredient>sel</ingredient></operation>. c’ est prêt!! bon appétit.
+]]>
+ </preparation>
+</recette>

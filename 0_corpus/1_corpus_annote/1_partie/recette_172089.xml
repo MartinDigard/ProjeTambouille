@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172089">
+ <titre>Poulet au citron (recette médiévale) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 filets de blancs de poulet</p>
+ <p>100 g d’ oignons</p>
+ <p>100 g de lardons</p>
+ <p>le jus d’ un citron</p>
+ <p>50 g d’ amandes en poudre</p>
+ <p>1/4 l de bouillon de poule</p>
+ <p>poivre</p>
+ <p>poivre long</p>
+ <p>clou de girofle</p>
+ <p>noix muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez un lait d’ <ingredient>amande</ingredient></operation>. pour cela, plongez la <ingredient>poudre</ingredient> d’ <ingredient>amande</ingredient> dans le <ingredient>bouillon de poule</ingredient> frémissant, <operation>laissez reprendre l’ ébullition</operation> puis <operation>laissez le mélange</operation> obtenu reposer un quart d’ heure. ensuite, passer le tout au <recipient>chinois</recipient>. bien presser le tissu pour extraire le plus de lait possible, sachant que celui qui coule à la fin est le plus riche. (peu aussi se <operation>faire avec un <recipient>blender</recipient></operation>) <operation>coupez le <ingredient>poulet</ingredient> en morceaux</operation>. <operation>faites fondre les <ingredient>lardons</ingredient> dans une <recipient>cocotte</recipient>,</operation> puis <operation>faites - y</operation> <operation>revenir le <ingredient>poulet</ingredient> et les <ingredient>oignons</ingredient></operation> émincés. <operation>salez un peu</operation> et <operation>ajoutez les épices, puis le lait d’ <ingredient>amande</ingredient></operation>. <operation>portez à ébullition</operation> et <operation>laissez cuire pendant environ 35 min</operation>. quand le <ingredient>poulet</ingredient> est cuit, <operation>ajoutez le <ingredient>jus</ingredient> de</operation> <ingredient>citron</ingredient> et <operation>contrôlez le sel</operation>. <operation>laissez bouillir quelques instants et servir</operation>.
+]]>
+ </preparation>
+</recette>

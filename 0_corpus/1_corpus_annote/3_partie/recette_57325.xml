@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57325">
+ <titre>Gateau cannelle (zimmetkuche de Moselle) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>250 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>1/2 paquet de levure chimique</p>
+ <p>1 paquet de sucre vanillé (facultatif) </p>
+ <p>2 oeufs</p>
+ <p>10 cl d’ huile</p>
+ <p>20 cl de lait</p>
+ <p>papier de cuisson</p>
+ <p>Pour la garniture: </p>
+ <p>2 à 3 cuillères à soupe de crème fraîche</p>
+ <p>3 cuillères à café de sucre</p>
+ <p>2 cuillères à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez la farine, la <ingredient>levure</ingredient>, le <ingredient>sucre</ingredient>, les <ingredient>oeufs</ingredient>, l’ huile et le lait jusqu’ à</operation> former une <ingredient>pâte</ingredient> homogène. <operation>versez la <ingredient>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> ou vous</operation> aurez préalablement placer du <ingredient>papier de cuisson</ingredient>. parsemez ensuite la <ingredient>crème</ingredient> de façon à former des petits nids à l’ aide d’ une <ingredient>cuillère</ingredient>. <operation>mélangez ensuite le <ingredient>sucre</ingredient> et la <ingredient>cannelle</ingredient> que vous</operation> <operation>mettrez uniformement sur le gâteau</operation>. mettre au <recipient>four</recipient> 45 min à 160 ° c (thermostat 5 - 6).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95654">
+ <titre>Sauté de poulet aux lardons et à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>2 escalopes de poulet</p>
+ <p>300 g de lardons</p>
+ <p>20 cl de crème liquide</p>
+ <p>curcuma, fenouil, piment, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>lardons</ingredient> sur feu vif pendant quelques minutes et les</operation> réserver. hacher finement les <ingredient>oignons</ingredient> et les <operation>faire revenir dans le jus des</operation> <ingredient>lardons</ingredient> puis réserver. découper en gros dés les <ingredient>escalopes de poulet</ingredient> et les <operation>faire revenir dans la <recipient>poêle</recipient> ayant</operation> servi à cuire les <ingredient>oignons</ingredient> et les <ingredient>lardons</ingredient>. ajouter 1 cuillère à café d’ épices puis y ajouter les <ingredient>lardons</ingredient> et l’ <ingredient>oignon</ingredient>. réchauffer quelques minutes puis y ajouter la <ingredient>crème liquide</ingredient> et <operation>laisser mijoter une dizaine de minutes</operation>. servir avec des pâtes ou du riz. excellent avec des pennes ou des spaghettis.
+]]>
+ </preparation>
+</recette>

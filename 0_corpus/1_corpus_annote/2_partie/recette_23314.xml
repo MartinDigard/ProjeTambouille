@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23314">
+ <titre>Spaghetti à la bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti</p>
+ <p>400 g de boeuf haché</p>
+ <p>200 g de sauce tomate</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>8 champignons de Paris</p>
+ <p>3 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 branche de céleri</p>
+ <p>1 branche de sauge</p>
+ <p>5 branches de persil</p>
+ <p>1 branche de basilic</p>
+ <p>thym, laurier</p>
+ <p>2 cuillères à soupe d’ origan</p>
+ <p>1 pointe de harissa</p>
+ <p>parmesan à volonté</p>
+ <p>huile d’ olive</p>
+ <p>sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez la <ingredient>sauge</ingredient>, le <ingredient>basilic</ingredient> et le <ingredient>persil</ingredient>. <ingredient>hachez</ingredient> les <ingredient>oignons</ingredient>, <operation>découpez le <ingredient>céleri</ingredient> en cubes</operation>. <operation>détaillez les <ingredient>champignons</ingredient> en cubes également</operation>. <operation>faites chauffer 3</operation> cuillerées à <ingredient>soupe</ingredient> d’ huile d’ <ingredient>olive</ingredient> dans une <recipient>cocotte</recipient>, <operation>mettez - y les <ingredient>oignons</ingredient>, le <ingredient>céleri</ingredient> et les <ingredient>champignons</ingredient></operation>. <operation>ajoutez l’ <ingredient>ail</ingredient></operation> écrasé, le <ingredient>concentré de tomate</ingredient>, la sauce <ingredient>tomate</ingredient>, la viande hachée et pressez bien le tout. <operation>ajoutez alors le <ingredient>thym</ingredient> et le</operation> <ingredient>laurier</ingredient>, <operation>mouillez de 50 cl d’ eau</operation>, <operation>rajoutez les herbes fraîches <ingredient>hachées</ingredient>, 2 morceaux de <ingredient>sucre</ingredient>, la</operation> <ingredient>harissa</ingredient>, assaisonner. <operation>laissez mijoter 30 min à feu doux</operation>. 10 minutes avant la fin, <operation>faites cuire les pâtes al dente</operation>. <operation>egouttez</operation> - les pâtes, <operation>mélangez - les avec un peu de beurre</operation>. <operation>retirez le <ingredient>laurier</ingredient> de la sauce</operation>, <operation>versez - la sur les pâtes</operation>. parsemez de <ingredient>parmesan</ingredient> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

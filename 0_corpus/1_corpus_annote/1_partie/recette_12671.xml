@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12671">
+ <titre>Coleslaw rapide</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou blanc</p>
+ <p>2 cuillères à soupe de mayonnaise</p>
+ <p>1 cuillères à soupe de vinaigre de vin</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ <p>facultatif: fromage (en cubes) </p>
+ <p>facultatif: poulet</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+évidemment, chacun possède sa variante, la base étant le <ingredient>chou blanc</ingredient> en lamelles dans de la <ingredient>mayonnaise</ingredient>. pour éviter qu’ il soit trop douceâtre, je préfère le <operation>faire dans une sauce</operation> faite avec la <ingredient>mayonnaise</ingredient>, l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, le <ingredient>vinaigre de vin</ingredient> (petit truc: ajouter un trait de lait avant de battre la sauce). mélanger le tout, saler et poivrer et <operation>servez après une 1/2 heure de repos</operation>. un rosé frais
+]]>
+ </preparation>
+</recette>

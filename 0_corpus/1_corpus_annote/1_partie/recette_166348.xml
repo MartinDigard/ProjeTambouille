@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166348">
+ <titre>Quiche lardons courgettes et tomates séchées</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 cl de crème fraîche light</p>
+ <p>20 ml de lait</p>
+ <p>1 oeuf</p>
+ <p>1 pâte brisée</p>
+ <p>1 petite courgette où quelques rondelles de courgettes surgelées</p>
+ <p>200 de lardons</p>
+ <p>quelques tomates séchées</p>
+ <p>thym, poivre</p>
+ <p>gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire préchauffer le <recipient>four</recipient> à 180 °</operation> - <operation>faire revenir les <ingredient>lardons</ingredient> quelques minutes dans une poelle</operation>, réserver. faire revenir les <ingredient>rondelles de courgettes</ingredient>, reserver. mélanger la <ingredient>crème fraîche</ingredient>, le lait, l’ <ingredient>oeuf</ingredient>, le <ingredient>thym</ingredient> et le poivre. disposer les <ingredient>lardons</ingredient>, les <ingredient>courgettes</ingredient> et les <ingredient>tomates séchées</ingredient> et verser la préparation dessus. <operation>couvrir de <ingredient>gruyère</ingredient> râpé</operation>. pas de sel dans cette recette, les <ingredient>lardons</ingredient> sont là pour ça =)
+]]>
+ </preparation>
+</recette>

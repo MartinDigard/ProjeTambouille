@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56604">
+ <titre>Spaghetti à la roquette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de spaghetti n.7</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 bonnes poignées de roquette</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>parmesan en copaux</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>spaghetti</ingredient></operation>. <operation>egouttez</operation> et <operation>réservez</operation>. passez l’ <ingredient>ail</ingredient> au presse - <ingredient>ail</ingredient> et <operation>faites le</operation> cuire avec la <ingredient>roquette</ingredient> dans l’ <ingredient>huile</ingredient> bien chaude jusqu’ à ce que la roquette commence à fondre légèrement (pas plus de 20 secondes). <operation>ajoutez les</operation> <ingredient>spaghetti</ingredient>, <operation>mélangez le tout durant 30 secondes</operation>. <operation>salez</operation>, <operation>poivrez</operation>. <operation>servez au chaud et parsemez de <ingredient>copaux</ingredient> de <ingredient>parmesan</ingredient></operation>. vous pouvez rajouter des tomates séchées. vin rouge ou blanc sec
+]]>
+ </preparation>
+</recette>

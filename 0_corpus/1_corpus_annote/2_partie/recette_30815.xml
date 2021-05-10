@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30815">
+ <titre>Saumonette aux petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de saumonette</p>
+ <p>2 oignons</p>
+ <p>4 tomates</p>
+ <p>2 courgettes</p>
+ <p>1 poivron</p>
+ <p>2 gousses d’ ail</p>
+ <p>huile</p>
+ <p>curry ou piment en poudre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation>coupez les légumes en morceaux</operation>. hachez les <ingredient>oignons</ingredient> et l’ <ingredient>ail</ingredient>. <operation>faites chauffer une <recipient>cocotte</recipient> avec un peu d’</operation> huile. <operation>jetez - y les <ingredient>oignons</ingredient> et échalotes</operation> et <operation>laissez suer quelques minutes</operation>. <operation>ajoutez les autres légumes</operation>, <operation>salez</operation>, <operation>poivrez</operation> et <operation>saupoudrez de <ingredient>curry</ingredient> ou piment</operation>. <operation>mouillez d’ un verre d’ eau ou de vin,</operation> et <operation>laissez mijoter 30 min</operation>. <operation>coupez la <ingredient>saumonette</ingredient> en gros tronçons</operation>, <operation>salez</operation> et <operation>poivrez - les, puis posez - les sur les légumes</operation>. <operation>laissez cuire 8 à 10 min</operation> et <operation>servez</operation>. accompagnez de riz ou de pâtes.
+]]>
+ </preparation>
+</recette>

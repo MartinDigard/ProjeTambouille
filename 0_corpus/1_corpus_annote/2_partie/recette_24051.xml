@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24051">
+ <titre>Gambas au lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>30 gambas grises</p>
+ <p>400 ml de lait de coco</p>
+ <p>3 feuilles de laurier</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café de curry bombée </p>
+ <p>1 cuillère à café de curcuma bombée </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une grande cassorole, <operation>faire revenir les <ingredient>gambas</ingredient></operation> décortiquées dans l’ huile (2 à 3 mn). lorsqu’ elles sont cuites, verser le lait de <ingredient>coco</ingredient>, le <ingredient>curcuma</ingredient>, le <ingredient>curry</ingredient> et les fueilles de <ingredient>laurier</ingredient>. saler et poivrer. <operation>laisser cuire à feu moyen jusqu’ à ce que le lait de <ingredient>coco</ingredient> soit bien jaune (7 à 10 min</operation>). retirer les <ingredient>feuille de laurier</ingredient> et <operation>servir aussitôt</operation> accompagné de riz blanc. cette recette a beaucoup de succès et ne nécessite pas d’ être un véritable cordon bleu pour la réussir! alors à vos casseroles... et bon appétit! vin rosé ou <ingredient>gris</ingredient> (reuilly par exemple)
+]]>
+ </preparation>
+</recette>

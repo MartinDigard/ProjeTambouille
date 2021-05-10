@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22519">
+ <titre>Crème aux fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>400 g de fruits rouges décongelés</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>20 cl de lait concentré non sucré</p>
+ <p>15 cl de crème liquide</p>
+ <p>15 cl de lait</p>
+ <p>1 cuillère à soupe de kirsh</p>
+ <p>un peu de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient> et le <ingredient>sucre</ingredient> vanillé. ajouter le lait <ingredient>concentré</ingredient> la <ingredient>crème</ingredient> et le lait. <operation>faire épaissir à feu très doux en tournant pendant 3</operation> mn. verser dans un <recipient>plat</recipient> à gratin, ajouter le kirsch. répartir les <ingredient>fruits rouges</ingredient> et <operation>saupoudrez de <ingredient>cassonade</ingredient></operation>. passer sous le grill 2 mn. puis mettre au frigo pendant 2 h.
+]]>
+ </preparation>
+</recette>

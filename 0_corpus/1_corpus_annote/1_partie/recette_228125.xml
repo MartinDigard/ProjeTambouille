@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228125">
+ <titre>Compote aux flocons d’ avoine</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pomme</p>
+ <p>5 cuillères à soupe de flocons d’ avoine</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez et <operation>découpez en tout petits morceaux la <ingredient>pomme</ingredient></operation>. <operation>versez les morceaux dans une petite <recipient>casserole</recipient> avec le <ingredient>sucre</ingredient></operation> vanillé et <operation>faites chauffer à feu moyen</operation>. si besoin, <operation>ajoutez un peu d’ eau dans la <recipient>casserole</recipient> afin que les fruits fondent</operation>. vers la fin de la cuisson, <operation>ajoutez les <ingredient>flocons</ingredient> d’ <ingredient>avoine</ingredient> et bien</operation> mélanger. <operation>servez</operation> chaud! idéal au petit-déjeuner ou au goûter:)
+]]>
+ </preparation>
+</recette>

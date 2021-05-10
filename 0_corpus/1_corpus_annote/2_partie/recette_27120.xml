@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27120">
+ <titre>Gâteau au pavot</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de beurre</p>
+ <p>150 g de sucre</p>
+ <p>150 g de farine</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>2 oeufs</p>
+ <p>jus d’ 1/2 citron + zeste</p>
+ <p>250 g de pavot moulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le beurre avec les <ingredient>sucres</ingredient>. battre les 2 <ingredient>oeufs</ingredient> puis les rajouter à la préparation. rajouter la farine, la <ingredient>levure</ingredient>, le <ingredient>jus</ingredient> de <ingredient>citron</ingredient> et le <ingredient>zeste</ingredient>. beurrer un <recipient>moule</recipient> à cake, puis y déposer une petite couche de cette préparation. rajouter le <ingredient>pavot</ingredient> à la préparation restante, mélanger, puis <operation>remplir le reste du <recipient>moule</recipient></operation>. puis passer une fourchette sur le dessus de la pâte et mettre au <recipient>four</recipient> préchauffé, pendant 45 à 50 mn (th 175 ° c). saupoudrer de <ingredient>sucre</ingredient> glace puis de poudre de cacao.
+]]>
+ </preparation>
+</recette>

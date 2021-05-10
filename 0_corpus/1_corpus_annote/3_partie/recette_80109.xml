@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80109">
+ <titre>Sorbet au pamplemousse</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 ou 4 pamplemousses</p>
+ <p>10 cl d’ eau</p>
+ <p>75 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+brossez l’ un des <ingredient>pamplemousses</ingredient> sous l’ <ingredient>eau</ingredient>. <operation>prélevez 3 morceaux de zeste à l’</operation> aide d’ un couteau économe en évitant de prendre aussi la peau blanche. <operation>pressez tous les <ingredient>pamplemousses</ingredient> afin d’</operation> <operation>obtenir 40 cl de jus</operation>. <operation>faites bouillir l’ <ingredient>eau</ingredient> avec le <ingredient>sucre</ingredient> et les zestes de <ingredient>pamplemousse</ingredient> jusqu’ à</operation> <operation>obtenir un sirop</operation>. <operation>laissez - le refroidir</operation> et <operation>mélangez - le au jus des <ingredient>pamplemousses</ingredient></operation>. <operation>filtrez - le au <recipient>chinois</recipient></operation>. <operation>versez dans la <recipient>sorbetière</recipient></operation> et <operation>laissez prendre</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20300">
+ <titre>Ratatouille à la Viande Hachée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>huile d’ olive</p>
+ <p>1 gros oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>400 g de viande hachée</p>
+ <p>250 g de tomates</p>
+ <p>1 kg de courgettes</p>
+ <p>1 poivron (ou deux moitiés de deux couleurs différentes) </p>
+ <p>sel</p>
+ <p>curry (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre un peu d’ huile d’ <ingredient>olive</ingredient> dans ue grande <recipient>casserole</recipient>. y <operation>faire revenir les <ingredient>oignons</ingredient> et l’ <ingredient>ail</ingredient></operation> haché quelques minutes. une fois les <ingredient>oignons</ingredient> et l’ <ingredient>ail</ingredient> revenus, ajouter la <ingredient>viande hachée</ingredient>. la <operation>faire revenir quelques minutes</operation>. ajouter les <ingredient>tomates</ingredient> coupées grossièrement en dés (ou une boîte de <ingredient>tomates</ingredient> concassées). pendant ce temps préparer les <ingredient>courgettes</ingredient> et les <ingredient>poivrons</ingredient>. les couper en petits dés, sans nécessité d’ enlever la peau. ajouter les légumes dans la grande <recipient>casserole</recipient>. couvrir et <operation>laisser mijoter entre 30 mn et 1 heure</operation>. surveiller, rajouter un peu d’ eau en cours de cuisson. c’ est une délicieuse alternative à la ratatouille classique. je rajoute du <ingredient>curry</ingredient> en poudre au moment de l’ assaisonnement (c’ est encore meilleur). bon appétit à tous!
+]]>
+ </preparation>
+</recette>

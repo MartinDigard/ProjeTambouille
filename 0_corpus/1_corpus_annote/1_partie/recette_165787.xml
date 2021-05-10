@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165787">
+ <titre>Hamburger au bleu d’ Auvergne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Un pain pour Hamburger (vendu en magasin) </p>
+ <p>Un steak haché</p>
+ <p>Une tomate</p>
+ <p>Une tranche de bleu d’ Auvergne </p>
+ <p>Un oignon</p>
+ <p>Une feuille de salade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencez par mettre le <ingredient>pain</ingredient> au <recipient>four</recipient> durant une dizaine de minutes à 180 °. pendant ce temps, faîtes rissoler les <ingredient>oignons</ingredient> sur une poelle jusqu’ à ce qu’ ils soient bien dorés (3 - 4 minutes) puis, faîtes cuire le <ingredient>steak haché</ingredient> à la poelle (10 minutes), puis <operation>découpez une rondelle de <ingredient>tomate</ingredient></operation>. la <ingredient>tranche de bleu</ingredient> d’ <ingredient>auvergne</ingredient> fera l’ épaisseur de votre choix. une fois le <ingredient>pain</ingredient> cuit, mettez la <ingredient>feuille de salade</ingredient>, puis le <ingredient>steak</ingredient>, puis le <ingredient>bleu</ingredient>, la <ingredient>tomate</ingredient> et pour <operation>finir les <ingredient>oignons</ingredient></operation>. vous pouvez rajouter une sauce (ketchup, mayonnaise, moutarde,...) bon appétit! une bière américaine
+]]>
+ </preparation>
+</recette>

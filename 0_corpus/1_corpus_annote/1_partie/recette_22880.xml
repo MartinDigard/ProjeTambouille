@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22880">
+ <titre>Macaronis aux trois fromages</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de macaronis longs ou de pennes</p>
+ <p>120 g de fromage à raclette sans sa croûte</p>
+ <p>100 g de gorgonzola (saint-Agur, bleu d’ Auvergne...) </p>
+ <p>80 g de parmesan râpé</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 pincée de noix de muscade</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>fromages</ingredient> en morceaux</operation>. mettre la <ingredient>crème</ingredient> dans une <recipient>casserole</recipient>, la <operation>faire bouillir et réduire 3 mn à feu doux</operation>. hors du feu, <operation>rajoutez les <ingredient>fromages</ingredient> mais seulement la moitié du <ingredient>parmesan</ingredient> en</operation> mélangeant vivement. remettez à feu doux jusqu’ à ce que le mélange soit lisse. poivrez et <operation>relevez de <ingredient>muscade</ingredient></operation>. pendant ce temps, faîtes cuire les pâtes suivant le temps indiqué sur votre paquet (pâtes fraîches c’ est encore meilleur). <operation>egouttez les pâtes</operation>, <operation>versez - les dans la <recipient>casserole</recipient></operation> contenant la sauce aux trois <ingredient>fromages</ingredient>. <operation>mélangez rapidement, parsemez du reste de</operation> <ingredient>parmesan</ingredient> et <operation>servez</operation>. on peut rajouter à la fin des dés de jambon ou des lardons, cuits à part.
+]]>
+ </preparation>
+</recette>

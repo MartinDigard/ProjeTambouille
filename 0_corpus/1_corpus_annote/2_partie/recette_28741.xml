@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28741">
+ <titre>Rôti de porc aux champignons gratiné</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc d’ 1 kg</p>
+ <p>500 g de champignons</p>
+ <p>50 cl de lait</p>
+ <p>100 g de fromage râpé (gruyère, comté, beaufort) </p>
+ <p>50 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites dorer la viande à la <recipient>cocotte</recipient> avec du beurre</operation>. <operation>couvrez</operation> et <operation>laissez cuire à feu doux pendant 1 h</operation>. pendant ce temps, <operation>lavez les</operation> <ingredient>champignons</ingredient>, <operation>égouttez - les</operation> et <operation>faites - les</operation> cuire à la <recipient>poêle</recipient> dans de l’ huile environ 10 min. <operation>hachez - les</operation> finement. <operation>faites fondre le beurre, et la farine et remuez</operation>. <operation>versez le lait</operation> et <operation>laissez épaissir à feu doux en</operation> remuant. <operation>salez</operation>, <operation>poivrez</operation> et <operation>parfumez de muscade</operation>. <operation>ajoutez les <ingredient>champignons</ingredient></operation> hachés dans la béchamel. <operation>retirez le rôti de la <recipient>cocotte</recipient>, tranchez - le</operation>. <operation>etalez de la sauce aux <ingredient>champignons</ingredient> entre chaque tranche</operation> et <operation>reformez le rôti</operation>. <operation>versez le reste de sauce dessus</operation> et <operation>saupoudrez de <ingredient>fromage</ingredient></operation>. <operation>faites gratiner 15 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

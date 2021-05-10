@@ -1,0 +1,8 @@
+Un petit erratum concernant le sujet du projet:
+
+> 3) Vous nous demandez de calculer la corrélation entre complexité de temps et
+temps estimé de chaque recette, mais je n'ai pas trouver cette info dans les
+fichiers xml (il n'a que la balise "niveau").
+
+Bien vu, effectivement les recettes de ce corpus n'ont pas d'information de
+temps de préparation, dans ce cas vous pouvez ignorer cette question.

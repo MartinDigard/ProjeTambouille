@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25455">
+ <titre>Soupe de boeuf aux pâtes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>750 g de viande de boeuf (paleron) </p>
+ <p>4 oignons</p>
+ <p>2 grosses tomates bien mûres</p>
+ <p>6 pommes de terre</p>
+ <p>2 cuillères à soupe de saindoux</p>
+ <p>1 cuillère à soupe de paprika</p>
+ <p>100 g de tagliatelles</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler la <ingredient>viande</ingredient> en dés, émincer les <ingredient>oignons</ingredient>. <operation>faire revenir le tout dans une <recipient>marmite</recipient> avec le <ingredient>saindoux</ingredient></operation>. saupoudrer de <ingredient>paprika</ingredient>. mélanger à feu vif, puis mouiller avec 2 l d’ eau. <operation>laisser cuire à feu moyen environ 30 min en écumant</operation>. epépiner et concasser les <ingredient>tomates</ingredient>, peler et couper les <ingredient>pommes de terre</ingredient> en petits dés. les ajouter dans la <recipient>marmite</recipient>. <operation>laisser cuire 1 h 30</operation>. goûter et rectifier l’ assaisonnement, <operation>laisser mijoter encore 30 min</operation>. ajouter les pâtes coupées dans la <recipient>marmite</recipient>, <operation>laisser cuire 7 - 8 min, et servir très chaud</operation>.
+]]>
+ </preparation>
+</recette>

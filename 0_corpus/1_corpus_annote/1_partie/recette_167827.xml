@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167827">
+ <titre>Pâtes aux champignons et petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pâtes (type penne rigate par exemple) </p>
+ <p>250 g de champignons de Paris</p>
+ <p>7 cl de verre de vin (blanc ou rouge) </p>
+ <p>2 grandes tranches de jambon</p>
+ <p>1 poignée de petits pois surgelés</p>
+ <p>20 cl de crème fraîche</p>
+ <p>ail</p>
+ <p>sel, poivre</p>
+ <p>ras el hanout (ou autre épice: paprika, curry, etc) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire suer l’ <ingredient>ail</ingredient> dans de l’ huile d’ olive ou du beurre</operation>. ajouter les <ingredient>champignons</ingredient>. lorsque les <ingredient>champignons</ingredient> sont cuits, ajouter le <ingredient>vin</ingredient> et <operation>laisser frémir 5 minutes à feu doux</operation>. ajouter la <ingredient>crème fraîche</ingredient>, le <ingredient>jambon</ingredient> et les épices. <operation>laisser cuire 5 minutes en</operation> remuant régulièrement. quelques minutes avant la fin de la cuisson des <ingredient>pâtes</ingredient>, ajouter les <ingredient>petits pois</ingredient>. <operation>servir cette sauce directement sur les <ingredient>pâtes</ingredient></operation>
+]]>
+ </preparation>
+</recette>

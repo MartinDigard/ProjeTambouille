@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48143">
+ <titre>Gambas à la Plancha</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de gambas entières</p>
+ <p>5 dl de vin blanc </p>
+ <p>2 étoiles d’ anis (badiane) </p>
+ <p>2 feuilles de laurier</p>
+ <p>1 bouquet de persil</p>
+ <p>4 gousses d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparez une marinade avec le <ingredient>vin blanc</ingredient>. ecrasez l’ <ingredient>ail</ingredient> et <operation>coupez le <ingredient>persil</ingredient> que vous</operation> mélangerez au <ingredient>vin blanc</ingredient>. ajoutez l’ <ingredient>anis</ingredient>, les <ingredient>feuilles de laurier</ingredient> et <operation>mélangez le tout</operation>. disposez vos gambas dans la marinade, et <operation>mélangez soigneusement</operation>. <operation>laissez reposer 1 nuit, à couvert, dans votre frigo</operation>. pour un repas convivial, <operation>faites - les</operation> cuire sur un grill posé en milieu de table pendant le repas. <operation>pensez à</operation> <operation>ajoutez un peu de marinade pendant la cuisson, elle</operation> donne un bon goût. vous pouvez aussi les <operation>faire cuire dans une <recipient>poêle</recipient> antiadhésive</operation>. <ingredient>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222101">
+ <titre>Soupe au maïs et au poulet</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillères à soupe de beurre</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>1 cube de bouillon de poulet</p>
+ <p>2 filets de poulet coupés en dés</p>
+ <p>1 poireau coupé en lamelles</p>
+ <p>140 g de maïs</p>
+ <p>quelques petits pois</p>
+ <p>1 pincée de paprika</p>
+ <p>thym</p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer le <ingredient>beurre</ingredient> et la farine quelques minutes dans une <recipient>casserole</recipient></operation>. ajouter progressivement (tout en mélangeant) autant d’ <ingredient>eau</ingredient> que nécessaire pour la quantité de <ingredient>soupe</ingredient> souhaitée. ajouter le <ingredient>bouillon</ingredient>. ajouter le <ingredient>poulet</ingredient>, les <ingredient>petits pois</ingredient>, le <ingredient>thym</ingredient>, le <ingredient>poireau</ingredient>, le <ingredient>paprika</ingredient> et le <ingredient>maïs</ingredient>. <operation>laisser mijoter 20 min</operation>.
+]]>
+ </preparation>
+</recette>

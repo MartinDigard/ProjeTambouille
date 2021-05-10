@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42866">
+ <titre>Faisan farci aux fruits</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 faisan vidé</p>
+ <p>30 g de beurre</p>
+ <p>3 échalotes</p>
+ <p>1 verre de porto</p>
+ <p>1 branche de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>sel et poivre</p>
+ <p>Pour la farce: </p>
+ <p>1 Petit suisse</p>
+ <p>1 oeuf</p>
+ <p>150 g de mie de pain</p>
+ <p>1 pomme </p>
+ <p>1 oignon</p>
+ <p>15 g de beurre</p>
+ <p>2 cuillères à soupe de raisins secs blonds</p>
+ <p>5 cl de porto</p>
+ <p>1 pincée de noix de muscade</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer 15 g de beurre dans une <recipient>poêle</recipient>, et y</operation> <operation>faire revenir le foie du</operation> <ingredient><operation>faisan</ingredient> pendant 5 min</operation>. puis, le hacher. préparer la <ingredient>farce</ingredient>: eplucher et hacher finement, la <ingredient>pomme</ingredient> et l’ <ingredient>oignon</ingredient>. dans un saladier, mettre ce hachis, le foie haché, ajouter la <ingredient>mie de pain</ingredient> émiettée, le <ingredient>petit suisse</ingredient>, l’ œuf et le <ingredient>porto</ingredient>. bien mélanger. rajouter ensuite les <ingredient>raisins secs</ingredient>, la <ingredient>noix de muscade</ingredient> râpée, le <ingredient>sel</ingredient> et le poivre. mélanger, jusqu’ à <operation>obtenir une <ingredient>farce</ingredient> très homogène</operation>. glisser cette <ingredient>farce</ingredient> dans le</operation> <ingredient><operation>faisan</ingredient>,</operation> puis coudre l’ ouverture. <operation>faire chauffer 30 g de beurre dans une <recipient>cocotte</recipient>,</operation> et <operation>faire dorer le</operation> <ingredient><operation>faisan</ingredient> de tous les côtés</operation>. rajouter les <ingredient>échalotes</ingredient> épluchées et coupées en quatre, le <ingredient>thym</ingredient> et le <ingredient>laurier</ingredient>, puis saler et poivrer. <operation>faire cuire à feu très doux pendant au moins 45 min, en</operation> ajoutant, de temps en temps, 1 <ingredient>cuillère</ingredient> à café de <ingredient>porto</ingredient>, et un peu d’ eau si nécessaire. découper le</operation> <ingredient><operation>faisan</ingredient>. couper la carcasse en deux, et en <operation>sortir la <ingredient>farce</ingredient></operation>. couper celle-ci en tranches, la disposer au milieu d’ un <recipient>plat</recipient> avec les morceaux de <ingredient><operation>faisan</ingredient> autour</operation>. verser un demi-verre d’ eau très chaude dans la <recipient>cocotte</recipient>, bien gratter les sucs avec une <ingredient>cuillère</ingredient> en bois, et porter à ébullition sans cesser de remuer. passer la sauce au <recipient>chinois</recipient>, et la servir dans une saucière j’ aime beaucoup l’ accompagner une poêlée de <ingredient>pommes</ingredient>, coupées en tranches épaisses et revenues dans un peu de beurre. saint emilion ou pomerol
+]]>
+ </preparation>
+</recette>

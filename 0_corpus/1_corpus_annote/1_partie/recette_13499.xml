@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13499">
+ <titre>Fondue bressanne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de viande blanche (poulet, dinde) </p>
+ <p>4 oeuf</p>
+ <p>chapelure</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez votre <ingredient>viande</ingredient> en carrés</operation>. <operation>battez un <ingredient>oeuf</ingredient> dans une coupelle</operation>. <operation>mettez de la <ingredient>chapelure</ingredient> dans une autre coupelle</operation>. trempez votre morceau de <ingredient>viande</ingredient> dans l’ <ingredient>oeuf</ingredient> puis dans la <ingredient>chapelure</ingredient> et faite cuire dans de l’ huile chaude. accompagnez de diverses sauces. beaujolais ou petit bourgogne
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18618">
+ <titre>Kouigns</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>600 g de sucre</p>
+ <p>6 oeufs</p>
+ <p>sel</p>
+ <p>2 paquets de levure</p>
+ <p>1 litre de lait entier</p>
+ <p>2 pommes (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez la farine, le <ingredient>sucre</ingredient>, 6 jaunes d’ <ingredient>oeufs</ingredient>, le <ingredient>sel</ingredient>, la</operation> <ingredient>levure</ingredient>, remuer. <operation>délayez avec le</operation> <ingredient>lait</ingredient> puis <operation>faire monter au <recipient>bain - marie</recipient></operation>. <operation>montez les blancs en neige et les</operation> incorporer délicatement à la pâte. vous pouvez ajouter des petits morceaux de <ingredient>pommes</ingredient> coupés en dés, c’ est délicieux. <operation>faire cuire dans une <recipient>poêle</recipient> huilée quelques minutes de chaque côté (ce sont de petites crêpes épaisses bretonnes</operation>)
+]]>
+ </preparation>
+</recette>

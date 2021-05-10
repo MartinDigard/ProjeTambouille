@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61341">
+ <titre>Sauté d’ agneau facile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 morceaux d’ agneau (collier, plat de côte, côte d’ agneau...) </p>
+ <p>2 oignons</p>
+ <p>500 g de sauce bolognaise</p>
+ <p>1 grosse boîte de haricots à la sauce tomate</p>
+ <p>30 cl de bouillon de légumes</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer la viande dans l’ huile puis la</operation> réserver de côté. emincer les <ingredient>oignons</ingredient> et les <operation>faire fondre dans l’ <ingredient>huile</ingredient></operation>. lorsqu’ ils sont tendres et colorés, saupoudrer de <ingredient>maïzena</ingredient> et <operation>laisser cuire 1 minute en</operation> remuant. verser le <ingredient>bouillon</ingredient> puis ajouter la <ingredient>sauce bolognaise</ingredient> et les <ingredient>haricots</ingredient>. disposer la viande dans cette <ingredient>sauce</ingredient> et <operation>laisser cuire environ 40 minutes</operation>.
+]]>
+ </preparation>
+</recette>

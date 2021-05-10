@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87717">
+ <titre>Crumble pêches chocolat blanc</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte de pêches au sirop</p>
+ <p>3 pommes</p>
+ <p>125 g de chocolat blanc</p>
+ <p>125 g de farine</p>
+ <p>125 g de sucre</p>
+ <p>60 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez les <ingredient>pommes</ingredient> puis les</operation> couper en morceaux ainsi que les <ingredient>pêches</ingredient>. répartissez les fruits dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. <operation>émiettez la tablette de <ingredient>chocolat</ingredient> au dessus des fruits</operation>. <operation>réservez</operation>. dans un saladier <operation>mélangez la farine, le <ingredient>sucre</ingredient> et incorporez - y le beurre en petits cubes</operation>. <operation>mélangez à la main de façon à</operation> <operation>obtenir une pâte grumeuleuse</operation>. <operation>émiettez cette pâte au dessus des fruits de façon à les</operation> <operation>recouvrir</operation>. enfournez à 200 ° c (thermostat 6 - 7), pendant 30 minutes. le <ingredient>chocolat blanc</ingredient> se marie très bien avec la <ingredient>pêche</ingredient>
+]]>
+ </preparation>
+</recette>

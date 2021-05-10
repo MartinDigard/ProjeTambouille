@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56708">
+ <titre>Pâtes au saumon et brocolis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pâtes (des tagliatelles par exemple) </p>
+ <p>1 planche de saumon fumé</p>
+ <p>500 g de brocolis</p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>30 cl de crème fraîche épaisse</p>
+ <p>de parmesan</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>défaire les brocolis en petits bouquets, les laver et les</operation> cuire 5 min à l’ eau bouillante salée, les égoutter et les garder au chaud. couper le <ingredient>saumon</ingredient> en lamelles. cuire les <ingredient>pâtes</ingredient>. les égoutter. dans une <recipient>casserole</recipient>, mélanger les <ingredient>jaunes</ingredient> et la <ingredient>crème</ingredient>, ajouter les <ingredient>pâtes</ingredient>, le <ingredient>saumon</ingredient> et le brocolis. poivrer, mettre la <recipient>casserole</recipient> sur feu doux. présenter dans un <recipient>plat</recipient> avec du <ingredient>parmesan</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73256">
+ <titre>Escalopes de veau gratinées</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 escalopes de veau de 150 g pièce</p>
+ <p>250 g de petits champignons de Paris</p>
+ <p>1 gousse d’ ail</p>
+ <p>100 de gruyère râpé</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>100 g de beurre</p>
+ <p>3 cuillères à soupe de crème fraîche épaisse</p>
+ <p>3 brins de persil</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>2 cuillères à soupe de chapelure</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire 10 min les <ingredient>champignons</ingredient> dans 50 g de beurre avec l’ <ingredient>ail</ingredient></operation> émincé. <operation>mettez les escalopes à</operation> cuire dans 50 g de beurre dans une <recipient>poêle</recipient> après les avoir farinées, poivrées et salées pendant 10 à 12 min. dans un bol <operation>mélangez la <ingredient>crème</ingredient> avec le gruyère et le <ingredient>persil</ingredient></operation> haché. <operation>déposez les escalopes cuites dans un <recipient>plat</recipient> à gratin</operation>. <operation>jetez le beurre de cuisson de la <recipient>poêle</recipient> et déglacez avec le <ingredient>vin</ingredient></operation>. <operation>versez ce jus dans le <recipient>plat</recipient>,</operation> puis <operation>déposez la <ingredient>crème</ingredient> au gruyère sur les escalopes</operation>, <operation>saupoudrez de</operation> <ingredient>chapelure</ingredient> et <operation>ajoutez les <ingredient>champignons</ingredient> en les</operation> disposant autour. <operation>mettez à</operation> gratiner 5 min sous le <recipient>gril</recipient> du <recipient>four</recipient> et <operation>servez aussitôt</operation>. <operation>accompagnez d’ une fondue de poivrons ou de tagliatelles fraîches</operation>.
+]]>
+ </preparation>
+</recette>

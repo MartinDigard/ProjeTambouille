@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15869">
+ <titre>Feuilleté au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée toute prête</p>
+ <p>3 tranches de jambon blanc</p>
+ <p>1 petite boîte de champignons </p>
+ <p>quelques rondelles de bûche de chèvre ou du gruyère râpé suivant les goûts</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient>pâte feuilletée</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. sur une moitié, étaler le <ingredient>jambon</ingredient> haché, puis les <ingredient>champignons</ingredient>, le fromage, et enfin les <ingredient>oeufs</ingredient>. replier la deuxième moitié de <ingredient>pâte</ingredient> de façon à former un gros chausson. bien fermer les extrémités. <operation>faire cuire a <recipient>four</recipient> assez chaud (thermostat 7/210 ° c) une vingtaine de minutes</operation>. repas vite préparé (et sans vaisselle!). une variante: thon + tomates + poivrons + olives.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10609">
+ <titre>Calamars farcis au carré frais</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 gros calamars (Prêts à l’ emploi, demandez à votre poissonnier) </p>
+ <p>6 carrés frais</p>
+ <p>100 g de riz rond</p>
+ <p>3 tomates</p>
+ <p>1 oignon</p>
+ <p>2 goussses d’ ail</p>
+ <p>1 feuille de laurier</p>
+ <p>sel, poivre</p>
+ <p>origan</p>
+ <p>1 cube de bouillon de poule</p>
+ <p>huile d’ olive</p>
+ <p>jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire le <ingredient>riz rond</ingredient> dans un <ingredient>bouillon de poule</ingredient>, puis <operation>réservez - le</operation>. <operation>pelez les</operation> <ingredient>tomates</ingredient>, <operation>épépinez - les</operation> et mixez - les avec les <ingredient>carrés frais</ingredient>. <operation>faites revenir l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient> dans l’ huile d’ <ingredient>olive</ingredient></operation>. rajoutez - les au mélange <ingredient>tomates</ingredient> - <ingredient>carrés frais</ingredient> et enfin <operation>mélangez avec le <ingredient>riz</ingredient> cuit</operation>, <operation>salez</operation>, <operation>poivrez à votre goût</operation>. <operation>farcissez chaque <ingredient>calamar</ingredient> généreusement</operation> et <operation>fermez avec des cure - dents</operation>. <operation>mettez dans un <recipient>plat</recipient> à <recipient>four</recipient>, nappez d’ huile d’</operation> <ingredient>olive</ingredient> et <operation>saupoudrez d’ <ingredient>origan</ingredient></operation>. <operation>ajoutez 1/2</operation> tasse d’ eau et couvrez de papier aluminium. <operation>enfournez 50 min dans <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6</operation>). dégustez avec du <ingredient>jus de citron</ingredient>.
+]]>
+ </preparation>
+</recette>

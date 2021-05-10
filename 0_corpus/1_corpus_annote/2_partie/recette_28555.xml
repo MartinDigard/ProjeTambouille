@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28555">
+ <titre>Eclairs au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 cl d’ eau</p>
+ <p>5 g de sel</p>
+ <p>100 g de beurre</p>
+ <p>4 oeufs</p>
+ <p>150 g de farine</p>
+ <p>crème pâtissière au chocolat</p>
+ <p>200 g de chocolat fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>eau</ingredient> le <ingredient>sel</ingredient> et le beurre</operation>. à ébullition, ajouter en une fois la farine et mélanger jusqu’ à <operation>obtenir une pâte consistante et compacte</operation>. retirer du feu, et ajouter les <ingredient>oeufs</ingredient> entiers en les incorporant un à un. placer la pâte sur une plaque huilée en une forme allongée. <operation>faire cuire à 200 ° c durant 25 min</operation>. retirer, <operation>laisser refroidir</operation>. grâce à 3 trous, injecter la <ingredient>crème pâtissière</ingredient> à l’ intérieur (avec une poche à <recipient>douille</recipient>) et glacer le dessus avec le <ingredient>chocolat fondu</ingredient>.
+]]>
+ </preparation>
+</recette>

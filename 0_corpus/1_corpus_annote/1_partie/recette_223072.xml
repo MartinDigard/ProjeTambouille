@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223072">
+ <titre>Omelette façon chinoise (végétarien) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 œufs</p>
+ <p>2 feuilles de chou (vert lisse ou pak-choi) </p>
+ <p>2 poignées de petits pois surgelés (si vous n’ en avez pas, 1 carotte râpée ou 2 poignées de haricots verts surgelés coupés en morceaux) </p>
+ <p>1 petite cuillère à soupe de sauce nuoc mam</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 cuillère à soupe de ciboulette hachée</p>
+ <p>1 pincée de gingembre en poudre</p>
+ <p>1 pincée d’ ail en poudre</p>
+ <p>1 trait de tabasco</p>
+ <p>1 cuillère à soupe d’ huile de sésame</p>
+ <p>1 cuillère à café de vinaigre blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher le <ingredient>chou</ingredient> en <ingredient>petits</ingredient> morceaux. dans une <recipient>poêle</recipient> antiadhésive, faire chauffer l’ <ingredient>huile de sésame</ingredient> et y <operation>faire revenir les <ingredient>petits</ingredient> morceaux de <ingredient>chou</ingredient> 1 min,</operation> puis ajouter les <ingredient>petits pois</ingredient> (rincés pour éviter qu’ ils ne rendent trop d’ eau) et <operation>laisser encore 1 min</operation>. pendant ce temps, mélanger les <ingredient>œufs</ingredient>, le <ingredient>sucre</ingredient>, la <ingredient>sauce nuoc mam</ingredient>, le <ingredient>vinaigre</ingredient>, l’ <ingredient>ail</ingredient> et le <ingredient>gingembre</ingredient>, la <ingredient>tabasco</ingredient> et la <ingredient>ciboulette hachée</ingredient>. verser dans la <recipient>poêle</recipient> et <operation>faire cuire 3 min environ (l’ omelette chinoise n’ est pas trop baveuse</operation>). bière chinoise
+]]>
+ </preparation>
+</recette>

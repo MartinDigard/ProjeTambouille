@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53435">
+ <titre>Bricks aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Ingrédients (pour 5 bricks): </p>
+ <p>5 feuilles de brick</p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>2 tomates</p>
+ <p>4 à 5 pommes de terre (suivant la grosseur) </p>
+ <p>1 pincée de fromage râpé</p>
+ <p>sel, poivre, huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient>pommes de terres</ingredient> à la vapeur. dans une <recipient>poêle</recipient>, <operation>faire revenir séparement l’ <ingredient>aubergine</ingredient> et la <ingredient>courgette</ingredient></operation> coupées en dés. faire griller les <ingredient>pommes de terre</ingredient> coupées en rondelles dans un peu d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. dans chaque <ingredient>feuille de brick</ingredient>, disposez: un peu de <ingredient>pommes de terre</ingredient>, de l’ <ingredient>aubergine</ingredient>, de la <ingredient>courgette</ingredient>, 2 à 3 rondelles de <ingredient>tomates</ingredient>, quelques lamelles d’ emmental. <operation>salez</operation>, <operation>poivrez,</operation> puis <operation>refermez la <ingredient>feuille</ingredient> de façon à</operation> <operation>obtenir un rectangle</operation> ; <operation>répétez l’ opération pour chaque <ingredient>brick</ingredient></operation>. <operation>faites - les griller des 2 côtés, à la <recipient>poêle</recipient>, dans un peu d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>,</operation> ou <operation>faites cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant environ 25 minutes</operation> (<operation>retournez à mi-cuisson</operation>). <operation>servez chaud, avec une salade verte ou en accompagnement de viandes, poissons</operation>...
+]]>
+ </preparation>
+</recette>

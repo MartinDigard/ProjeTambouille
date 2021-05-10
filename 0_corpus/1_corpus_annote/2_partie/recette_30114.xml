@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30114">
+ <titre>Parmentier d’ épinards</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ épinards</p>
+ <p>75 g de lard</p>
+ <p>2 oignons</p>
+ <p>2 oeufs</p>
+ <p>300 g de purée de pommes de terre</p>
+ <p>40 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>épinards</ingredient>, hachez - les grossièrement</operation> et <operation>faites - les</operation> <operation>revenir à la <recipient>poêle</recipient> avec 10 g de beurre, le <ingredient>lard</ingredient> et les <ingredient>oignons</ingredient> hachés</operation>. <operation>ajoutez les jaunes d’ <ingredient>oeuf</ingredient>, du <ingredient>sel</ingredient> et du poivre</operation>. <operation>versez les <ingredient>épinards</ingredient> dans un <recipient>plat</recipient> à</operation> soufflé beurré. préchauffez le grill du <recipient>four</recipient>. battez les blancs d’ <ingredient>oeuf</ingredient> en neige et mélangez - les à la <ingredient>purée de pommes de terre</ingredient>. <operation>versez - la ensuite sur les <ingredient>épinards</ingredient> dans le <recipient>plat</recipient> au <recipient>four</recipient></operation>. parsemez de dés de beurre et <operation>faites gratiner pendant 10 - 15 minutes</operation>.
+]]>
+ </preparation>
+</recette>

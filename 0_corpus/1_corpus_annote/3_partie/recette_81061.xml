@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81061">
+ <titre>Salade tomates et poivrons grillés</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poivrons</p>
+ <p>2 tomates</p>
+ <p>vinaigre, huile d’ olive</p>
+ <p>sel, poivre noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez les 2 <ingredient>poivrons</ingredient> au <recipient>four</recipient> jusqu’ à ce que la peau soit noircie et décollée (de 20 à 30 min selon le <recipient>four</recipient></operation>). <operation>sortez</operation> - les et <operation>laissez au moins 10 min dans un sac plastique</operation>. ensuite <operation>sortez</operation> - les, <operation>retirez la peau, la queue ainsi que les pépins</operation> et <operation>lavez - les à l’ eau</operation> froide. <operation>prenez 2 <ingredient>tomates</ingredient> que vous</operation> allez éplucher et <operation>coupez - les en petit dés</operation>. <operation>mettez dans un saladier</operation>. <operation>ajoutez - y alors les <ingredient>poivrons</ingredient> que vous</operation> aurez également coupés en petits dés. enfin, <operation>assaisonnez en</operation> mettant 2 cuillères à café de vignaire + 2 cuillères à soupe d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, du <ingredient>sel</ingredient>, du poivre. <operation>mettez au frais</operation> et <operation>laissez mariner au moins 2 heures avant de</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

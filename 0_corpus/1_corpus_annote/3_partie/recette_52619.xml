@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52619">
+ <titre>Crème chocolat moka</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat noir</p>
+ <p>5 cl de café fort </p>
+ <p>40 cl de crème liquide</p>
+ <p>80 g de beurre</p>
+ <p>80 g de sucre </p>
+ <p>10 cl d’ eau minérale</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>cassez le <ingredient>chocolat</ingredient> dans une <recipient>casserole</recipient>,</operation> puis ajoutez l’ <ingredient>eau</ingredient> et la <ingredient>crème liquide</ingredient>. <operation>portez à ébullition,</operation> et <operation>laissez cuire à petits bouillons pendant 5 min</operation>. <operation>ajoutez alors le café et le <ingredient>sucre</ingredient>,</operation> et <operation>poursuivez la cuisson, toujours à petits bouillons, en</operation> remuant de temps en temps. en toute fin de cuisson, <operation>incorporez le beurre en parcelles en</operation> remuant jusqu’ à obtention d’ une <ingredient>crème</ingredient> lisse. <operation>répartissez la <ingredient>crème</ingredient> dans des ramequins et placez au frais pendant 2 heures</operation>. <operation>servez avec des cigarettes russes</operation>. le bon accord: un pernant vergelesses (rouge, bourgogne)
+]]>
+ </preparation>
+</recette>

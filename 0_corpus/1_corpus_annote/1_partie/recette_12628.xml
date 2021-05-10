@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12628">
+ <titre>Döner kebab</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de gigot d’ agneau épaisses</p>
+ <p>2 oignons doux</p>
+ <p>1 poivron rouge</p>
+ <p>1 tomate</p>
+ <p>8 feuilles de laitue</p>
+ <p>2 feuilles de menthe</p>
+ <p>4 petits pains ronds</p>
+ <p>2 dl de crème fraîche</p>
+ <p>1 botte de ciboulette</p>
+ <p>3 cuil à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler les <ingredient>oignons</ingredient> en lamelles et les <ingredient>poivrons</ingredient> en lanières. <operation>faire revenir dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> quelques minutes</operation>. ciseler les <ingredient>feuilles de laitue</ingredient> en lanières et coupre les <ingredient>tomates</ingredient> en dés. couper le <ingredient>gigot</ingredient> d’ <ingredient>agneau</ingredient> en fines lamelles et les <operation>faire cuire à feu vif pendant environ 5 minutes</operation>. réchauffer les <ingredient>petits pains</ingredient> au <recipient>four</recipient> puis les couper en 2 sur un tiers de leur longueur. <operation>répartir dans chaque <ingredient>pain</ingredient>: salade, <ingredient>tomates</ingredient>, mélange <ingredient>oignons</ingredient> / <ingredient>poivrons</ingredient> et viande</operation>. terminer avec un mélange de <ingredient>crème</ingredient>, <ingredient>ciboulette</ingredient>, <ingredient>menthe</ingredient>, <ingredient>sel et poivre</ingredient>. <operation>servir immédiatement</operation>. vous pouvez ajouter une sauce pimentée (harrissa...)
+]]>
+ </preparation>
+</recette>

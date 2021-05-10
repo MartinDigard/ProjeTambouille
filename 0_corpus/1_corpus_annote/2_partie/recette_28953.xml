@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28953">
+ <titre>Sauté de lapin aux légumes du soleil</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin en morceaux</p>
+ <p>3 courgettes</p>
+ <p>1 aubergine</p>
+ <p>2 oignons</p>
+ <p>2 poivrons</p>
+ <p>1 branche de romarin</p>
+ <p>1 branche de thym</p>
+ <p>20 cl de vin blanc</p>
+ <p>5 cl d’ armagnac</p>
+ <p>120 g d’ olives noires</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation>faire rissoler le <ingredient>lapin</ingredient> dans une <recipient>cocotte</recipient></operation> et assaisonner. mouiller d’ <ingredient>armagnac</ingredient>, <operation>faire flamber</operation> et verser le <ingredient>vin blanc</ingredient>. <operation>faire revenir les <ingredient>oignons</ingredient></operation> émincés dans une <recipient>poêle</recipient> pendant 15 minutes puis ajouter les légumes émincés et assaisonner. <operation>laisser mijoter 15 minutes</operation> puis ajouter le <ingredient>romarin</ingredient> et le <ingredient>thym</ingredient>. verser le tout sur le <ingredient>lapin</ingredient> et <operation>faire cuire pendant 25 minutes</operation>. ajouter les <ingredient>olives</ingredient> en fin de cuisson.
+]]>
+ </preparation>
+</recette>

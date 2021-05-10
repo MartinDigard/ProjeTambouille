@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30767">
+ <titre>Poivrons farcis aux restes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 poivrons rouges longs</p>
+ <p>2 poivrons verts longs</p>
+ <p>200 g de restes viande (restes de rôti de porc, pot-au-feu de boeuf, sauté e veau, poulet...) </p>
+ <p>300 g de riz cuit</p>
+ <p>60 g de parmesan</p>
+ <p>2 tomates concassées</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café d’ origan</p>
+ <p>1 cuillère à café de sauge hachée</p>
+ <p>1 cuillère à café de basilic haché</p>
+ <p>5 cl de vin blanc sec</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>poivrons</ingredient> en 2</operation>, <operation>épépinez - les</operation>. <operation>faites - les</operation> cuire 15 min à l’ eau bouillante et <operation>égouttez</operation>. il doivent être mi-fermes. faites suer l’ <ingredient>oignon haché</ingredient> dans une <recipient>poêle</recipient> avec de l’ huile. <operation>ajoutez les restes de <ingredient>viande</ingredient></operation> coupée en petits morceaux, <operation>faites dorer</operation> puis rajoutez les <ingredient>tomates concassées</ingredient>, les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> écrasées et les herbes. <operation>salez</operation>, <operation>poivrez</operation> et arrosez de <ingredient>vin blanc</ingredient>. <operation>laissez revenir le tout 5 min à feu doux et couvert</operation>. <operation>ajoutez le <ingredient>riz</ingredient> dans la <recipient>poêle</recipient></operation> et <operation>mélangez bien</operation>. garnissez les demi <ingredient>poivrons</ingredient> de farce et <operation>saupoudrez de <ingredient>parmesan</ingredient></operation>. <operation>faites gratiner 20 min à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

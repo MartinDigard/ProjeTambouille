@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42807">
+ <titre>Poires d’ Olivet</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>poires</p>
+ <p>3 oeufs</p>
+ <p>150 g de sucre</p>
+ <p>75 g de farine</p>
+ <p>30 cl de lait</p>
+ <p>25 cl de crème fraîche</p>
+ <p>20 g de beurre </p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>beurrez votre <recipient>plat</recipient>,</operation> et <operation>disposez vos <ingredient>poires</ingredient> au fond, après les avoir</operation> épluché et coupé. dans un saladier, <operation>mélangez les <ingredient>oeufs</ingredient> et le <ingredient>sucre</ingredient></operation>. <operation>ajoutez la farine, avec le lait et la <ingredient>crème</ingredient></operation>. <operation>versez la préparation sur les <ingredient>poires</ingredient>,</operation> puis <operation>enfournez à 200 ° c (thermostat 6 - 7</operation>). au bout de 25 à 30 min, <operation>sortez le <recipient>plat</recipient>,</operation> et verser un filet de <ingredient>beurre</ingredient> fondu, avec le <ingredient>sucre</ingredient> vanillé, par dessus. remettez au <recipient>four</recipient>, jusqu’ à ce que le dessus caramélise (environ 5 à 10 min). vous pouvez remplacer les <ingredient>poires</ingredient> par des pommes. dans ce cas, il faudra changer le nom de la recette!
+]]>
+ </preparation>
+</recette>

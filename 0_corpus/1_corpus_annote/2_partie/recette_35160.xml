@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35160">
+ <titre>Gâteau danois à la confiture et coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>200 g de sucre en poudre</p>
+ <p>1/2 sachet de levure</p>
+ <p>125 g de beurre</p>
+ <p>200 g de farine</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>100 g de noix de coco râpée</p>
+ <p>50 g de confiture de votre choix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre ensemble les 3 jaunes d’ <ingredient>oeufs</ingredient>, 100 g de <ingredient>sucre</ingredient>, le beurre, la farine, le <ingredient>sucre vanillé</ingredient>, la <ingredient>levure</ingredient>, la <ingredient>crème fraîche</ingredient>. etaler la pâte sur le fond du <recipient>plat</recipient> puis le <operation>recouvrir de gelée</operation>. <operation>garnir avec 3 blancs en neige</operation> mélangés aux 100 g de <ingredient>sucre</ingredient> restant et à la <ingredient>noix de coco</ingredient>. <operation>faire cuire à <recipient>four</recipient> moyen 30 mn environ</operation>. on peut mettre plus de <ingredient>confiture</ingredient> pour les gourmands ou la remplacer par de la pâte à tartiner.
+]]>
+ </preparation>
+</recette>

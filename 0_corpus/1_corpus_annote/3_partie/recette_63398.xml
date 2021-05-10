@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63398">
+ <titre>Soupe à la mie de pain</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de pommes de terre</p>
+ <p>4 cuillères à soupe de concentré de tomate</p>
+ <p>4 cuillères à soupe de mie de pain</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient>pommes de terre</ingredient>, les laver, les couper en dés. dans une <recipient>casserole</recipient> les <operation>recouvrir de 2 litres d’ eau</operation> salée, <operation>laisser bouillir 10 minutes</operation>. peler l’ <ingredient>ail</ingredient> et l’ écraser. après 10 minutes d’ ébullition, ajouter dans la <recipient>casserole</recipient> l’ <ingredient>ail</ingredient>, la <ingredient>mie de pain</ingredient> et le <ingredient>concentré de tomate</ingredient> dilué dans un peu d’ eau de cuisson des <ingredient>pommes de terre</ingredient>, <operation>couvrir</operation> et réduire le feu. <operation>laisser cuire pendant 50 minutes</operation>. passer le tout au <recipient>mixeur</recipient>.
+]]>
+ </preparation>
+</recette>

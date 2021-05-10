@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53753">
+ <titre>Soupe au potiron et vermicelles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de potiron (1 gros quartier par exemple) </p>
+ <p>lait</p>
+ <p>vermicelles</p>
+ <p>sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire la chair du <ingredient>potiron</ingredient> dans une <recipient>sauteuse</recipient> avec un fond d’ eau</operation>. quand la chair est molle (on peut l’ écraser à la fourchette), la passer au mixer ou bien l’ écraser. attention à ce qu’ il ne reste pratiquement pas d’ eau!! mettre la chair mixée dans une <recipient>casserole</recipient>, en ajoutant du lait pour l’ <operation>éclaircir, à</operation> doser selon les goûts pour que le résultat soit plus ou moins liquide. quand le mélange bout, rajouter les <ingredient>vermicelles</ingredient>, toujours selon les goûts (plus il y en a, plus c’ est épais). rajouter un peu de <ingredient>sucre</ingredient> et <operation>laisser cuire jusqu’ à ce que les <ingredient>vermicelles</ingredient> soient bien fondants</operation>. voilà, c’ est prêt! on peut ensuite sucrer à volonté! c’ est vraiment agréable, un soir d’ hiver bien froid, en plus ça fait office de dessert en même temps, avec le <ingredient>sucre</ingredient>:)
+]]>
+ </preparation>
+</recette>

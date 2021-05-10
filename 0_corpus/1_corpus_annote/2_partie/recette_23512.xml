@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23512">
+ <titre>Avocats aux crevettes et au pamplemousse</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 avocats</p>
+ <p>1/2 citron</p>
+ <p>1/2 pamplemousse</p>
+ <p>150 g de crevettes cuites et décortiquées</p>
+ <p>2 cuillères à soupe de mayonnaise</p>
+ <p>1 pincée de paprika</p>
+ <p>Feuilles de laitue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>avocats</ingredient> en deux</operation> et <operation>retirez la chair sans</operation> abîmer l’ écorce. <operation>découpez la chair en dés</operation> et <operation>arrosez de <ingredient>citron</ingredient></operation>. a l’ aide d’ une <ingredient>cuillère</ingredient>, <operation>recupérez la chair du <ingredient>pamplemousse</ingredient></operation>. <operation>melez la chair d’ <ingredient>avocat</ingredient> au <ingredient>pamplemousse</ingredient>, à la <ingredient>mayonnaise</ingredient> et au <ingredient>paprika</ingredient></operation>. rectifiez l’ assaisonnement et <operation>remplissez les écorces d’ <ingredient>avocat</ingredient> de ce mélange</operation>. <operation>servez sur un lit de <ingredient>laitue</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170770">
+ <titre>Pizza aux légumes etau thon très délicieuse promis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>1 oignon</p>
+ <p>1 courgette</p>
+ <p>1 grosse tomate</p>
+ <p>1 boule de mozzarella</p>
+ <p>huile d’ olive</p>
+ <p>150 g de thon en boîte </p>
+ <p>1 rouleau de pâte à pizza</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire frire séparément les légumes (sauf la <ingredient>tomate</ingredient>) dans l’ huile d’ <ingredient>olive</ingredient></operation>. eplucher et épépiner la <ingredient>tomate</ingredient>, puis la poser sur du papier absorbant. emietter le <ingredient>thon</ingredient>, couper la <ingredient>mozzarella</ingredient> en dés. puis poser tous les ingrédients sur la <ingredient>pâte</ingredient>. ensuite enfourner la <ingredient>pizza</ingredient> au <recipient>four</recipient> température 170 °, thermostat 6, pendant 10 min.
+]]>
+ </preparation>
+</recette>

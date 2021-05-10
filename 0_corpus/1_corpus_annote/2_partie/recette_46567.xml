@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46567">
+ <titre>Omelette épinards-saumon fumé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>200 g d’ épinards hachés</p>
+ <p>200 g de saumon fumé</p>
+ <p>50 g de gruyère râpé</p>
+ <p>sel, poivre</p>
+ <p>-noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battez 4 <ingredient>oeufs</ingredient> en omelette. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez une pointe de noix de <ingredient>muscade</ingredient></operation>. <operation>mélangez les <ingredient>épinards</ingredient> à la préparation</operation>. <operation>faites cuire votre omelette</operation>. cinq minutes avant la fin de la cuisson, disposez les tranches de <ingredient>saumon fumé</ingredient> sur votre omelette et parsemez de <ingredient>gruyère râpé</ingredient>. pliez votre omelette en deux de sorte à former un chausson et <operation>laissez cuire le temps de</operation> <operation>faire fondre le <ingredient>gruyère</ingredient></operation>. <operation>servez avec une salade verte</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

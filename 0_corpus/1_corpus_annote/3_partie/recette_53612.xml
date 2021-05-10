@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53612">
+ <titre>Rouelle de porc au viandox</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une petite rouelle de porc</p>
+ <p>viandox</p>
+ <p>1 oignon</p>
+ <p>25 cl de vin blanc</p>
+ <p>un peu de maizena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient>rouelle</ingredient> en <ingredient>petits</ingredient> morceaux et la <operation>faire revenir dans une <recipient>sauteuse</recipient> avec l’ <ingredient>oignon</ingredient></operation>. quand tout est doré, rajouter un peu d’ eau, le <ingredient>vin blanc</ingredient> et du viandox. <operation>laisser mijoter</operation> et ajouter un <ingredient>peu de maizena</ingredient> en fin de cuisson. a essayer avec des champignons.
+]]>
+ </preparation>
+</recette>

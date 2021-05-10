@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81212">
+ <titre>Cookies fourrés au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à cookies: </p>
+ <p>100 g de beurre demi-sel mou</p>
+ <p>100 g de sucre</p>
+ <p>180 g de farine</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>1 oeuf</p>
+ <p>Pour la farce: </p>
+ <p>100 g de chocolat pâtissier noir</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>farine pour étaler la pâte </p>
+ <p>30 g de pépites de chocolat ou chocolat haché grossièrement</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+farce: <operation>faire fondre le <ingredient>chocolat</ingredient>, y</operation> incorporer la <ingredient>crème</ingredient> puis le <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient>. réfrigérer au moins 1/2 heure pour qu’ elle durcisse et <operation>garnir plus facilement les <ingredient>cookies</ingredient></operation>. <ingredient>pâte</ingredient>: fouetter le beurre ramolli avec le <ingredient>sucre</ingredient>. ajouter l’ <ingredient>oeuf</ingredient> et fouetter jusqu’ à ce que le mélange soit homogène. ajouter la farine et la <ingredient>levure</ingredient> et mélanger à la spatule. réserver au frais. montage: etaler la <ingredient>pâte</ingredient> pour qu’ elle fasse 2 mm d’ épaisseur. découper avec un emporte - pièces ou un petit verre d’ environ 5 cm de diamètre, 40 ronds. <operation>garnir d’ une demi-cuillère à café de <ingredient>farce</ingredient> la moitié des ronds</operation>, <operation>recouvrir des ronds</operation> restant et souder les bords. déposer sur chaque <ingredient>cookies</ingredient> quelques <ingredient>pépites</ingredient>. cuisson: au <recipient>four</recipient> 8 à 10 min à 180 ° c (thermostat 6). les bords doivent être à peine dorés. <operation>laisser refroidir sur une grille</operation>.
+]]>
+ </preparation>
+</recette>

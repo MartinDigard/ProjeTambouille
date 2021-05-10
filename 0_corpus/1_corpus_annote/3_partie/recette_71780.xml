@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71780">
+ <titre>Spaghettis économiques</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de spaghettis courts ou ordinaires coupés en deux </p>
+ <p>100 g de dés de jambon fumé</p>
+ <p>150 g de ratatouille en boîte</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>100 g de sauce tomate toute simple</p>
+ <p>olives vertes tranchées suivant les goûts</p>
+ <p>1 cuillère à café d’ huile d’ olive pour la cuisson des pâtes</p>
+ <p>sel, poivre, origan, herbes de Provence</p>
+ <p>parmesan ou gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer un grand volume d’ eau</operation>, ajouter l’ <ingredient>huile</ingredient>. lorsque l’ eau bout, ajouter les <ingredient>pâtes</ingredient>, couper le feu. les <ingredient>pâtes</ingredient> doivent être avant " l’ al dente ". mettre les <ingredient>pâtes</ingredient> égouttées de côté et y ajouter les <ingredient>dés de jambon</ingredient>. dans une <recipient>casserole</recipient>, <operation>faire réchauffer la <ingredient>ratatouille</ingredient>, la sauce <ingredient>tomate</ingredient>, la <ingredient>crème</ingredient>, les condiments et les <ingredient>olives</ingredient></operation>. lorsque la sauce est en légère ébullition, verser sur les <ingredient>pâtes</ingredient>, mélanger, remettre le tout à feu doux durant 5 min. <operation>servir éventuellement avec du fromage râpé</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22825">
+ <titre>Quiche au roquefort et aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rouleau de pâte brisée</p>
+ <p>du beurre pour le moule et faire frire les champignons</p>
+ <p>1 échalote</p>
+ <p>200 g de champignons de Paris frais</p>
+ <p>45 cl de crème fleurette</p>
+ <p>4 oeufs</p>
+ <p>200 g de Roquefort</p>
+ <p>1 pincée de muscade</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>chauffez le <recipient>four</recipient> à 210 ° c</operation>. <operation>beurrez un <ingredient><recipient>moule</recipient></ingredient> à tarte, y</operation> <operation>étalez la</operation> <ingredient>pâte</ingredient> puis mettre le tout au <recipient>réfrigérateur</recipient>. <operation>lavez les <ingredient>champignons</ingredient>, les</operation> <ingredient><operation>faire</ingredient> sautez dans une <recipient>poêle</recipient> avec un peu de <ingredient>beurre</ingredient></operation>. <operation>poivrez</operation>, <operation>ajoutez l’ <ingredient>échalote</ingredient> ciselée</operation> et <operation>laissez refroidir</operation>. <operation>coupez le <ingredient>roquefort</ingredient> en cubes</operation>. <operation>cassez les <ingredient>oeufs</ingredient> dans un saladier et les battre en omelette</operation>. <operation>ajoutez la <ingredient>crème</ingredient> liquide, du poivre et la <ingredient>muscade</ingredient></operation>. garnir la <ingredient>pâte</ingredient> avec le <ingredient>roquefort</ingredient> et <ingredient>les champignons</ingredient>. <operation>versez la <ingredient>crème</ingredient> aux <ingredient>oeufs</ingredient> et glissez au <recipient>four</recipient> pour 40 mn</operation>. <operation>laissez reposez la tarte 5 mn avant de</operation> <operation>servir</operation>. <operation>servir</operation> avec une salade verte. attention pour ceux qui n’ ont pas le droit de consommer beaucoup de sel, cette recette en contient beaucoup. surtout ne pas <operation>rajoutez de sel dans la recette</operation>. un gaillac rouge ou un cahors à 15 ° c
+]]>
+ </preparation>
+</recette>

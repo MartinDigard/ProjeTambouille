@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87336">
+ <titre>Oeufs brouillés au minestrone</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de minestrone en brique- 4 œufs- 50 g de gruyère râpé- 4 cuillères à soupe de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites réchauffer le <ingredient>minestrone</ingredient> jusqu’ à ce que la <ingredient>soupe</ingredient> ait épaissi</operation>. battez légèrement les œufs avec le <ingredient>lait</ingredient> et le <ingredient>gruyère</ingredient>. <operation>versez les œufs sur le <ingredient>minestrone</ingredient></operation>. <operation>mélangez avec une <ingredient>cuillère</ingredient> en bois, de façon à</operation> brouiller les œufs. dès que la préparation commence à prendre, <operation>coupez le feu</operation>. servez chaud avec une bonne salade.
+]]>
+ </preparation>
+</recette>

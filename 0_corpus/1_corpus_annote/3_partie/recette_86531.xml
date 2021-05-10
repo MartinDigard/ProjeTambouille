@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86531">
+ <titre>Gâteau facile aux chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 oeufs- 2 tasse de sucre semoule, soit 400 g- 1 tasse d’ huile, soit 25 cl- 1 tasse de cacao non sucré, soit 100 g- 1 tasse d’ eau gazeuse, soit 25 cl- 2 tasses de farine, soit 200 g- 1 sachet de levure chimique- 200 g de noisettes moulues</p>
+ <p>Si vous utilisez comme chocolat en poudre de type Nesquik, ne mettez que la moitié de dose de sucre. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez les oeufs avec le <ingredient>sucre</ingredient>, l’</operation> huile, le cacao, l’ eau gazeuse et la farine. <operation>ajoutez 1 sachet de levure chimique et les <ingredient>noisettes</ingredient></operation>. <operation>mélangez bien</operation>, <operation>versez la pâte dans un <recipient>moule</recipient> préalablement huilé</operation>. enfournez à <recipient>four</recipient> chaud à thermostat 5/6 (175 ° c) environ 45 min. vérifiez la cuisson du gâteau avec la lame d’ un couteau, qui doit <operation>ressortir propre</operation>. gâteau très léger, non bourratif. très bien accompagné d’ une crème anglaise.
+]]>
+ </preparation>
+</recette>

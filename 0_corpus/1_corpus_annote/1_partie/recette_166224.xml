@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166224">
+ <titre>Crêpes normandes caramélisées</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pommes bien mûres</p>
+ <p>150g de sucre semoule</p>
+ <p>200g de beurre</p>
+ <p>250g de farine</p>
+ <p>3 oeufs</p>
+ <p>lait</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez les <ingredient>oeufs</ingredient> et la farine</operation>, ajouter 50 g de <ingredient>sucre</ingredient> et une pincée de <ingredient>sel</ingredient>. <operation>versez le lait petit à petit tout en</operation> fouettant le mélange. <operation>incorporez 50 g de beurre mou</operation> divisé en noisettes. dans une <recipient>poêle</recipient>, <operation>faites fondre 100 g de beurre</operation> et <operation>cuisez, sur les 2 côtés, des rondelles de <ingredient>pommes</ingredient></operation> épluchées. <operation>versez une partie de la pâte sur les <ingredient>pommes</ingredient></operation>. dans une seconde <recipient>poêle</recipient>, <operation>faites fondre 50 g de beurre</operation> et ajoutez 100 g de <ingredient>sucre semoule</ingredient>. remuez à l’ aide d’ une couilière en bois et <operation>laissez caraméliser</operation>. <operation>tournez les crêpes cuites dans le <ingredient>sucre</ingredient></operation> caramélisé.
+]]>
+ </preparation>
+</recette>

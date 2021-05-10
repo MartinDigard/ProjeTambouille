@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56414">
+ <titre>Parmentier de pommes de terre au saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>30 cl de crème fraîche</p>
+ <p>30 cl de lait entier</p>
+ <p>3 pavés de saumon sans peau (150 g chacun) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 150 ° c (thermostat 5). epluchez, <operation>lavez</operation> et coupez en rondelles les <ingredient>pommes de terre</ingredient>. <operation>mettez</operation> - les dans une <recipient>casserole</recipient> d’ eau froide. <operation>portez à ébullition</operation> et <operation>faites cuire 10 min</operation>. <operation>egouttez</operation> - les. <operation>coupez le <ingredient>saumon</ingredient></operation> cru en tranches épaisses. <operation>mettez</operation> une couche de <ingredient>pommes de terres</ingredient> dans le fond d’ un <recipient>plat</recipient>. <operation>recouvrez d’ une couche de <ingredient>crème</ingredient> puis d’ une couche de <ingredient>saumon</ingredient></operation>. <operation>salez</operation> et <operation>poivrez</operation>. recommencez l’ opération jusqu’ à épuisement des ingrédients. <operation>versez le lait sur le tout</operation>. enfournez et <operation>faites cuire 1h40</operation>. <operation>servez aussitôt</operation> sorti du <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31816">
+ <titre>Purée rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g viande hachée</p>
+ <p>1 gros oignon</p>
+ <p>1 boîte corned beef</p>
+ <p>1 boîte sauce tomate</p>
+ <p>gruyère râpé</p>
+ <p>2 sachets de purée</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>sauteuse</recipient> <operation>faire revenir l’ <ingredient>oignon</ingredient>, les viandes, la sauce <ingredient>tomate</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient></operation>. <operation>faire la <ingredient>purée</ingredient> à part</operation>. mélanger la <ingredient>purée</ingredient> à la viande et mettre le tout dans un <recipient>plat</recipient> à gratin. saupoudrer de <ingredient>gruyère râpé</ingredient>. <operation>faire gratiner au <recipient>four</recipient></operation> et <operation>servir aussitôt</operation>. un vrai délice avec une salade verte bien relevée.
+]]>
+ </preparation>
+</recette>

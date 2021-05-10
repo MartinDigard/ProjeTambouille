@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53047">
+ <titre>Gâteau aux fruits à la poêle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pommes ou 2 poires</p>
+ <p>2 oeufs</p>
+ <p>10 cl de lait</p>
+ <p>1 noix de beurre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>3 cuillères à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper les fruits en tranches. dans une grande <recipient>poêle</recipient>, <operation>faire fondre le <ingredient>beurre</ingredient> et y</operation> <operation>faire dorer les fruits</operation>. mélanger au <recipient>mixeur</recipient> les <ingredient>oeufs</ingredient> avec la farine, le <ingredient>sucre</ingredient> et le lait. verser ce mélange sur les fruits dorés, <operation>couvrir</operation> et <operation>laisser cuire à feu moyen 15 min</operation>. retourner le gâteau sur une grande assiette et déguster encore chaud.
+]]>
+ </preparation>
+</recette>

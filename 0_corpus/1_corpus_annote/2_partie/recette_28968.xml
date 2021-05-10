@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28968">
+ <titre>Oeufs durs à la crème</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>30 g de beurre</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel et poivre</p>
+ <p>1 grosse cuillère à soupe de moutarde forte</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>100 g de crevettes décortiquées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>durcir les</operation> <ingredient>oeufs</ingredient>, ôter la coquille et les couper en deux. disposer les <ingredient>oeufs</ingredient> sur leur côté <recipient>plat</recipient>, sur un <recipient>plat</recipient> beurré pour le <recipient>four</recipient>, dans une <recipient>casserole</recipient>, <operation>faire chauffer la <ingredient>crème</ingredient> avec la <ingredient>moutarde</ingredient>, les <ingredient>crevettes</ingredient> et le <ingredient>persil</ingredient></operation>. quand la préparation est bien mélangée, la verser sur les <ingredient>oeufs</ingredient> et mettre au <recipient>four</recipient> à gratiner pendant 10 min.
+]]>
+ </preparation>
+</recette>

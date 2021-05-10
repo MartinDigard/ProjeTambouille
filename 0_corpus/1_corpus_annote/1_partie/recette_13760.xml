@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13760">
+ <titre>Panzanella</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de tomates assez fermes </p>
+ <p>1 poivron vert</p>
+ <p>2 gousses d’ ail</p>
+ <p>100 g de petites olives noires</p>
+ <p>100 g de roquette</p>
+ <p>150 g de pain de campagne rassis et légèrement doré au gril</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 cuillères à soupe de vinaigre de vin</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>tomates</ingredient> en quartiers assez gros</operation> et <operation>faites - les</operation> égoutter dans une <recipient>passoire</recipient>. <operation>ouvrez le</operation> <ingredient>poivron</ingredient>, <operation>retirez le pédoncule, les graines et les cloisons blanches</operation>. <operation>coupez - le en bâtonnets réguliers</operation>. <operation>mélangez les <ingredient>tomates</ingredient> et le <ingredient>poivron</ingredient> dans un saladier</operation>. <operation>ajoutez le <ingredient>pain</ingredient></operation> grillé coupé en morceaux, la <ingredient>roquette</ingredient> rincée et essorée, les <ingredient>olives</ingredient> et l’ <ingredient>ail</ingredient> finement haché. <operation>salez</operation> et <operation>poivrez</operation> généreusement la salade, <operation>arrosez avec l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> et le</operation> <ingredient>vinaigre</ingredient> et <operation>mélangez la panzanella avec soin</operation>. <operation>servez frais</operation>. réservez la panzanella pendant 1 heure au <recipient>réfrigérateur</recipient>, le temps que le <ingredient>pain rassis</ingredient> s’ imprègne bien des arômes. elle n’ en sera que meilleure.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25920">
+ <titre>Filet mignon à la choucroute</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon d’ environ 800 g (porc ou veau) </p>
+ <p>800 g de choucroute cuite</p>
+ <p>1 oignon</p>
+ <p>15 cl de vin blanc sec</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>20 g de beurre</p>
+ <p>1 branche de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>huile</ingredient> et le beurre dans une <recipient>cocotte</recipient></operation>. y faire dorer le <ingredient>filet mignon</ingredient> sur toutes ses faces, saler et poivrer. <operation>couvrir</operation> et <operation>laisser <ingredient>cuire</ingredient> à feu doux 15 - 20 min</operation>. réchauffer la choucroute avec 10 cl de <ingredient>vin</ingredient>, le <ingredient>thym</ingredient> et le <ingredient>laurier</ingredient>. au bout de 10 min, déposer le <ingredient>filet mignon</ingredient> dessus et <operation>laisser encore 10 min</operation>. vider la graisse de cuisson de la <recipient>cocotte</recipient> où la viande à cuit, y mettre l’ <ingredient>oignon</ingredient> haché. laisser colorer et déglacer avec le reste de <ingredient>vin blanc</ingredient>. verser sur la choucroute dans un <recipient>plat</recipient>, déposer le <ingredient>filet</ingredient> coupé en tranches et servir.
+]]>
+ </preparation>
+</recette>

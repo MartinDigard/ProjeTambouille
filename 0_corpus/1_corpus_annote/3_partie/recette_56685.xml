@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56685">
+ <titre>Betteraves au thon-mayonnaise</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 betteraves (taille moyenne) </p>
+ <p>200 g de thon entier au naturel </p>
+ <p>4 cuillères à soupe de mayonnaise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les bettraves en cubes dans un <recipient>plat</recipient> creux</operation>. <operation>emiettez le <ingredient>thon</ingredient> avec une fourchette et le mélangez avec les <ingredient>betteraves</ingredient></operation>. <operation>rajoutez la</operation> <ingredient>mayonnaise</ingredient> et mélanger! <operation>mettez au frais au moins une heure</operation>. <operation>régalez vous</operation>! <operation>mettez les ingrédients au frigo avant de</operation> préparer, ça permet de <operation>servir dès que c’ est prêt</operation>.
+]]>
+ </preparation>
+</recette>

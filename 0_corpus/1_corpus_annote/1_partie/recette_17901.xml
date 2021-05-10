@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17901">
+ <titre>Riz Cantonais</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de riz</p>
+ <p>600 g de crevettes</p>
+ <p>8 œufs</p>
+ <p>20 tiges d’ oignons (vertes) </p>
+ <p>10 tranches de jambon (de porc ou de dinde) </p>
+ <p>sauce de soja</p>
+ <p>Ve-tsin (glutamate, voir dans magasin chinois) </p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire d’ abord</operation> cuire le <ingredient>riz</ingredient> et <operation>laisser reposer 5 ou 6 h</operation> maximum. ensuite, dans une grande <recipient>poêle</recipient> bien huilée <operation>faire cuire les <ingredient>œufs</ingredient> en les</operation> brouillant le plus possible. ajouter ensuite, les <ingredient>crevettes</ingredient> déjà décortiquées et le <ingredient>jambon</ingredient>. <operation>laisser à feux doux 5 ou 6 mn</operation>, ajouter ensuite une bonne dose de sauce de <ingredient>soja</ingredient> et le <ingredient>tiges</ingredient> d’ <ingredient>oignons</ingredient> verts et 1 cuillère à café de <ingredient>ve</ingredient> - <ingredient>tsin</ingredient>. <operation>laisser mijoter pendant 10 min environ</operation> et mélanger au <ingredient>riz</ingredient>. servez chaud avec une petite <ingredient>sauce</ingredient> piquante chinoise. nb: les différents ingrédients peuvent être adaptés à vos goûts (vous pouvez enlever les <ingredient>crevettes</ingredient> et / ou la viande, rajouter des petits pois...). eau
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24404">
+ <titre>Chou rouge aux marrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou rouge</p>
+ <p>2 oignons</p>
+ <p>1 kg de marrons frais (1 grande boîte de marrons entiers) </p>
+ <p>1 cuillère à soupe de graisse d’ oie</p>
+ <p>300 g de lard fumé</p>
+ <p>1/2 cube de bouillon</p>
+ <p>20 cl d’ eau chaude</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>2 clous de girofle</p>
+ <p>thym, laurier</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer, laver le <ingredient>chou</ingredient> puis le couper en fines lanières. détailler le <ingredient>lard</ingredient> en lardons. peler, émincer les <ingredient>oignons</ingredient>. <operation>faire revenir tous ces ingrédients dans une <recipient>cocotte</recipient> dans la <ingredient>graisse</ingredient> d’ <ingredient>oie</ingredient></operation>. saler, poivrer et y ajouter les clous de <ingredient>girofle</ingredient> avec le <ingredient>thym</ingredient> et le <ingredient>laurier</ingredient>. arroser le tout de <ingredient>bouillon</ingredient> (<ingredient>cube</ingredient> et <ingredient>eau</ingredient>) et de <ingredient>vinaigre</ingredient>, puis <operation>laisser mijoter 1 h à feu doux à couvert</operation>. pendant ce temps, préparer les <ingredient>marrons</ingredient>: les plonger dans un bain d’ <ingredient>eau</ingredient> bouillante pendant 3 min environ, puis les éplucher. les incorporer ensuite au reste de la préparation après 1 h de cuisson, et poursuivre la cuisson à feu très doux pendant 1 h environ.
+]]>
+ </preparation>
+</recette>

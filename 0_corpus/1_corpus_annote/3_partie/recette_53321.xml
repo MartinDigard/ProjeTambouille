@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53321">
+ <titre>Risotto à la courge et aux lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petite tranche de courge</p>
+ <p>1 oignon rouge</p>
+ <p>100 g de lardons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 brin de romarin</p>
+ <p>bouillon de légume</p>
+ <p>150 g de riz arborio</p>
+ <p>10 cl de crème</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire la <ingredient>courge</ingredient> à la vapeur</operation>. <operation>faites revenir dans une <recipient>casserole</recipient>, l’ <ingredient>oignon</ingredient> et les <ingredient>lardons</ingredient></operation>. <operation>ajoutez le <ingredient>romarin</ingredient>, le <ingredient>riz</ingredient> et l’ <ingredient>ail</ingredient> ; remuez</operation> et <operation>laissez revenir 5 min</operation>. ajoutez une louche de <ingredient>bouillon de légumes</ingredient>. une fois qu’ il a été absorbé, <operation>ajoutez de nouveau une autre louche et ainsi de suite jusqu’ à ce que le <ingredient>riz</ingredient> soit tendre</operation>. <operation>ajoutez la <ingredient>courge</ingredient> en morceaux, puis la <ingredient>crème</ingredient>,</operation> et <operation>assaisonnez</operation>.
+]]>
+ </preparation>
+</recette>

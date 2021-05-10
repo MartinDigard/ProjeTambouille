@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35508">
+ <titre>Croque-monsieur allégé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 tranches de pain de mie moelleux</p>
+ <p>de la moutarde pas trop forte</p>
+ <p>2 tranches de viande des grisons (ou de jambon cru dégraissé) </p>
+ <p>quelques cornichons et/ou oignons au vinaigre (facultatifs, mais permettent de’ corser’ un peu la chose) </p>
+ <p>2 carrés de fromage en tranche (allégé ou non, selon vos goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer le <ingredient>pain</ingredient> au toaster. tartiner de <ingredient>la moutarde</ingredient> sur une <ingredient>tranche</ingredient>, y mettre 2 <ingredient>grisons</ingredient>, les <ingredient>cornichons et oignons</ingredient> couper en longueur, une <ingredient>tranche de fromage</ingredient>, une <ingredient>tranche de pain</ingredient> et une <ingredient>tranche de fromage</ingredient> par dessus. passer le croque 5 min sous le grill du micro-ondes ou du <recipient>four</recipient> pour gratiner et <operation>faire fondre le <ingredient>fromage</ingredient></operation>. <operation>servir aussitôt avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

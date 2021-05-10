@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25057">
+ <titre>Cake ardéchois à la crème de marrons</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>un sachet de levure</p>
+ <p>3 oeufs</p>
+ <p>150 g de beurre mou</p>
+ <p>100 g de sucre</p>
+ <p>1 petite boîte de crème de marrons</p>
+ <p>5 cl de rhum</p>
+ <p>80 g de raisins secs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites tremper les <ingredient>raisins</ingredient> dans le <ingredient>rhum</ingredient></operation>. dans une <recipient>terrine</recipient>, <operation>travaillez le <ingredient>beurre</ingredient> avec le <ingredient>sucre</ingredient> et la crème de <ingredient>marrons</ingredient></operation>. <operation>ajoutez ensuite les <ingredient>oeufs</ingredient></operation> battus en omelette, la farine, la <ingredient>levure</ingredient> et le sel. <operation>mélangez soigneusement</operation> puis incorporez les <ingredient>raisins secs</ingredient> avec le <ingredient>rhum</ingredient> de macération. <operation>versez la pâte dans un <recipient>moule</recipient> à cake beurré</operation> puis <operation>laissez reposer 30 mn à température ambiante</operation>. préchauffez le <recipient>four</recipient> sur th 7 (210 ° c). <operation>mettez au <recipient>four</recipient></operation> et <operation>laissez cuire 20 mn</operation>, <operation>baissez la température sur th 6 (180 ° c)</operation> et <operation>poursuivez la cuisson 20 mn</operation>. <operation>laissez tiédir avant de</operation> démouler.
+]]>
+ </preparation>
+</recette>

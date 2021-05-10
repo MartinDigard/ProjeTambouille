@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21361">
+ <titre>Salade fraicheur</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de mâche</p>
+ <p>2 oeufs durs</p>
+ <p>4 tomates</p>
+ <p>150 g de petites crevettes roses décortiquées</p>
+ <p>250 g de maïs en boîte</p>
+ <p>2 ou 3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 ou 2 cuillères à soupe de vinaigre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation>coupez les feuilles de mâche</operation>. <operation>coupez les <ingredient>tomates</ingredient> en quartiers</operation>. dans un saladier, <operation>mélangez tous les ingrédients ensemble</operation>. <operation>assaisonnez avec l’ <ingredient>huile</ingredient>, le <ingredient>vinaigre</ingredient> et le <ingredient>sel</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

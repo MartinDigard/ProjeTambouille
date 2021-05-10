@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89097">
+ <titre>Muffins au citron</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>230 g de farine</p>
+ <p>110 g de sucre</p>
+ <p>1 cuillère à soupe de levure chimique</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 oeuf</p>
+ <p>8 cl de beurre fondu</p>
+ <p>le jus de 2 citrons</p>
+ <p>15 cl de lait</p>
+ <p>le zeste d’ un citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation>mélangez la farine, le <ingredient>sucre</ingredient>, la <ingredient>levure</ingredient> et le</operation> <ingredient>sel</ingredient> et <operation>creusez un puits au centre</operation>. battez l’ <ingredient>oeuf</ingredient> dans un autre bol. <operation>ajoutez - y le beurre <ingredient>fondu</ingredient>, le lait, le <ingredient>zeste</ingredient> et le <ingredient>jus</ingredient></operation>. <operation>versez cette préparation dans le puits et remuez</operation>. <operation>versez dans des moules à muffins puis enfournez pour 20 minutes de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

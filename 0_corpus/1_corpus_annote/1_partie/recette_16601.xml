@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16601">
+ <titre>Magrets de canard au cidre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 magrets de canard</p>
+ <p>3 échalotes moyennes</p>
+ <p>1 verre de vin blanc</p>
+ <p>1 litre de cidre</p>
+ <p>baies rose</p>
+ <p>crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>magrets</ingredient> à la <recipient>poêle</recipient>, en</operation> commençant par le côté peau, <operation>laisser dorer</operation> et <operation>saisir légèrement côté viande</operation>. emincer les <ingredient>échalotes</ingredient>, les <operation>faire revenir dans une <recipient>casserole</recipient></operation>, mettre le <ingredient>vin blanc</ingredient> et <operation>laisser réduire</operation>. mettre le <ingredient>cidre</ingredient> et la <ingredient>crème</ingredient> selon votre goût et <operation>laisser réduire</operation> jusqu’ à ce que la sauce soit homogène. saler et poivrer. couper les <ingredient>magrets</ingredient> en lamelles, les cuire à souhait dans un <recipient>four</recipient> très chaud. les disposer dans les assiettes, <operation>recouvrir de sauce au</operation> <ingredient>cidre</ingredient> et parsemer de baies <ingredient>roses</ingredient>. si le goût du <ingredient>cidre</ingredient> se fait trop <operation>sentir n’</operation> ayait pas peur de remettre de la <ingredient>crème</ingredient>.
+]]>
+ </preparation>
+</recette>

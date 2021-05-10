@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19594">
+ <titre>Daube Avignonnaise</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gigot d’ agneau de 2 kg</p>
+ <p>300 g de petit salé (en lardons) </p>
+ <p>200 g de lard</p>
+ <p>200 g de couenne</p>
+ <p>200 g de barde de lard</p>
+ <p>1 bouquet garni (laurier, thym, persil, céleri) </p>
+ <p>écorce d’ orange</p>
+ <p>1 litre de vin rouge type Chateauneuf du Pape</p>
+ <p>2 carottes</p>
+ <p>4 oignons moyens</p>
+ <p>8 gousses d’ ail</p>
+ <p>poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire désosser le <ingredient>gigot</ingredient> et le</operation> couper en morceaux d’ environ 100 g. piquer chaque morceau de viande d’ un lardon. faire mariner les morceaux 2 heures dans le <ingredient>vin</ingredient>, un trait d’ huile d’ olive, les <ingredient>carottes</ingredient>, 2 des 4 <ingredient>oignons</ingredient>, 4 des 8 <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient>, le <ingredient>bouquet garni</ingredient> et l’ <ingredient>écorce</ingredient> d’ <ingredient>orange</ingredient>. hacher les 2 <ingredient>oignons</ingredient> et les 4 <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> restants. couper la <ingredient>couenne</ingredient> et le <ingredient>lard</ingredient>, et les faire blanchir avec le <ingredient>petit salé</ingredient> restant. <operation>garnir une <recipient>terrine</recipient> en terre de <ingredient>barde</ingredient> en couche fine</operation>. alterner les morceaux de <ingredient>gigot</ingredient> avec le hachis d’ <ingredient>oignon</ingredient> / <ingredient>ail</ingredient> / <ingredient>couenne</ingredient> / <ingredient>lard</ingredient>, en plusieurs couches. arroser avec la marinade filtrée au <recipient>chinois</recipient>. <operation>couvrir de <ingredient>bardes</ingredient></operation>. <operation>faire cuire pendant 3 heures à feu doux</operation>. avant de <operation>servir (dans la <recipient>terrine</recipient>)</operation>, enlever la <ingredient>barde</ingredient> et le surplus de gras. bon appétit!
+]]>
+ </preparation>
+</recette>

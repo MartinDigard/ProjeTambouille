@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10703">
+ <titre>Conchiglie farcies au carré frais et aux fèves</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de conchiglione</p>
+ <p>1 boîte de carré frais</p>
+ <p>150 g de fèves</p>
+ <p>50 g de parmesan rapé</p>
+ <p>20 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>fèves</ingredient> dans une <recipient>casserole</recipient> d’ eau bouillante</operation> salée. <operation>egouttez</operation> et <operation>laissez tiédir</operation>. mélangez les <ingredient>carré frais</ingredient> avec les <ingredient>fèves</ingredient>. <operation>salez</operation> et <operation>poivrez</operation>. placez les conchiglie dans une grande <recipient>casserole</recipient> d’ eau bouillante salée, <operation>faites - les</operation> cuire en les gardant fermes. préchauffez le <recipient>four</recipient> à 240 ° c (thermostat 8), remplissez les conchiglie avec la préparation au <ingredient>carré frais</ingredient> et aux <ingredient>fèves</ingredient>. <operation>déposez dans un <recipient>plat</recipient> beurré</operation> et <operation>saupoudrez de <ingredient>parmesan</ingredient></operation>. <operation>enfournez 15 min</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53056">
+ <titre>Tarte aux pommes, noix et raisins</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à tarte sablée (ou feuilletée) </p>
+ <p>500 g de pommes</p>
+ <p>50 g de raisins secs</p>
+ <p>40 g de cerneaux de noix</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ <p>10 cl de lait</p>
+ <p>2 cuillères à soupe de gelée de pommes (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>etalez la pâte dans un <recipient>moule</recipient> à <ingredient>tarte</ingredient> et y</operation> répartir la <ingredient>gelée de pommes</ingredient>. puis, parsemez de <ingredient>raisins secs</ingredient>. ensuite, <operation>pelez</operation> et <operation>découpez les <ingredient>pommes</ingredient> en tranches</operation> et <operation>disposez - les sur la préparation</operation>. hachez les <ingredient>noix</ingredient> grossièrement et répartissez - les sur la <ingredient>tarte</ingredient>. enfin, mélangez dans un saladier l’ <ingredient>oeuf</ingredient>, le <ingredient>sucre</ingredient>, la <ingredient>crème fraîche</ingredient> et le lait. <operation>versez ce mélange sur la</operation> <ingredient>tarte</ingredient> et <operation>mettez au <recipient>four</recipient> à 230 ° c (th 8) durant 25 min environ</operation>.
+]]>
+ </preparation>
+</recette>

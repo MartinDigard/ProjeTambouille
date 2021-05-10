@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31333">
+ <titre>Poulet mariné sur salade d’ avocats et d’ épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 morceaux de poulet fermier</p>
+ <p>1 citron</p>
+ <p>75 g d’ olives vertes</p>
+ <p>1 cuillère à soupe de câpres</p>
+ <p>1 feuille de laurier</p>
+ <p>4 brins de romarin</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>Pour la salade: </p>
+ <p>125 g d’ haricots verts</p>
+ <p>1 batavia ou laitue</p>
+ <p>1 avocat pelé</p>
+ <p>125 g de feuilles d’ épinards tendres</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez tous les morceaux de <ingredient>poulet</ingredient> à <recipient>plat</recipient> dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, <operation>mélangez les ingrédients restants (jus de <ingredient>citron</ingredient>, <ingredient>olives</ingredient>, <ingredient>câpres</ingredient>, huile d’ <ingredient>olives</ingredient>, <ingredient>romarin</ingredient>, <ingredient>laurier</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>)</operation> et <operation>versez le mélange sur le <ingredient>poulet</ingredient></operation>. <operation>laissez mariner au <recipient>réfrigérateur</recipient> au moins 30</operation> mn (1 h c’ est mieux). <operation>faire cuire le <ingredient>poulet</ingredient> au <recipient>four</recipient> pendant 30 mn</operation>. le passer au grill pendant 10 mn en le retournant. pour <ingredient>la salade</ingredient>, faites blanchir les <ingredient>haricots verts</ingredient> dans l’ eau bouillante et <operation>refroidir dans l’ eau</operation> glacée. au moyen d’ une <ingredient>cuillère</ingredient> à café, <operation>prélevez des petites boules d’</operation> <ingredient>avocat</ingredient> et mettez - les dans un saladier avec les <ingredient>haricots verts</ingredient>, les <ingredient>épinards</ingredient> et la <ingredient>salade</ingredient>. <operation>mélangez l’ huile et le <ingredient>vinaigre</ingredient>, <ingredient>sel</ingredient>,</operation> <ingredient>poivre</ingredient>, <operation>versez sur la <ingredient>salade</ingredient></operation>. servir avec des pommes de terre nouvelles que vous pouvez ajouter avec le <ingredient>poulet</ingredient> dans le <recipient>four</recipient> à la fin de la cuisson. pinot blanc d’ alsace
+]]>
+ </preparation>
+</recette>

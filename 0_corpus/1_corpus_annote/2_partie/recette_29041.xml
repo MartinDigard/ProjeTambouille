@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29041">
+ <titre>Coquilles Saint-Jacques gratinées aux champignons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 noix de St-Jacques avec corail</p>
+ <p>250 g de champignons de Paris</p>
+ <p>3 échalotes</p>
+ <p>70 g de comté râpé</p>
+ <p>30 g de beurre</p>
+ <p>5 cl crème fraîche</p>
+ <p>1 cuillère à soupe de cognac</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>déposez les <ingredient>noix</ingredient> de saint-jacques dans 4 ramequins</operation> allant au <recipient>four</recipient>. <ingredient>hachez</ingredient> finement les <ingredient>échalotes</ingredient>, émincez les <ingredient>champignons</ingredient>. <operation>faites fondre le beurre dans une <recipient>poêle</recipient></operation>, <operation>faites - y</operation> suer les <ingredient>champignons</ingredient> et <ingredient>échalotes</ingredient>. <operation>salez</operation>, <operation>poivrez</operation>. une fois qu’ ils sont bien tendres, <operation>ajoutez le <ingredient>cognac</ingredient>, la crème, le <ingredient>persil</ingredient> et la moitié du fromage râpé</operation>. <operation>mélangez bien</operation> et <operation>versez la préparation dans les ramequins</operation>. <operation>saupoudrez du reste de fromage</operation> et <operation>faites gratiner 10 min au <recipient>four</recipient> à 210 ° c (thermostat 7</operation>).
+]]>
+ </preparation>
+</recette>

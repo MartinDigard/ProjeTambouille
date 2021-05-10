@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25220">
+ <titre>Spaghetti à la napolitaine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de spaghetti</p>
+ <p>400 g de tomates</p>
+ <p>125 g de mozzarella</p>
+ <p>50 g de thon</p>
+ <p>4 anchois</p>
+ <p>4 olives noires</p>
+ <p>5 cl d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les pâtes " al dente</operation> ". <operation>pelez</operation> et <operation>coupez les <ingredient>tomates</ingredient> en petits cubes</operation>. <operation>faites chauffer l’ huile d’</operation> <ingredient>olive</ingredient>, <operation>mettez - y les <ingredient>tomates</ingredient> à</operation> fondre. hachez le <ingredient>thon</ingredient>, les <ingredient>anchois</ingredient> les <ingredient>olives</ingredient>, <operation>ajoutez la mozzarella découpée en dés</operation>. <operation>versez la sauce <ingredient>tomate</ingredient> sur les pâtes</operation> égoutter, mélangez et <operation>ajoutez la préparation au <ingredient>thon</ingredient> et à la mozzarella</operation>. assaissonez et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

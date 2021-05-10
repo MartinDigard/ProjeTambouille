@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11838">
+ <titre>Lapin sauté chasseur</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>beurre</p>
+ <p>farine</p>
+ <p>10 échalotes</p>
+ <p>2 tomates</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>vin blanc sec</p>
+ <p>1 bouillon de volaille</p>
+ <p>sel, poivre</p>
+ <p>200 g de champignons</p>
+ <p>120 g de lardons facultatif</p>
+ <p>estragon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez le <ingredient>lapin</ingredient> en morceaux</operation>. <operation>assaisonnez - les</operation>, <operation>farinez - les</operation>. <operation>faites - les</operation> rissoler en <recipient>cocotte</recipient> dans du beurre fondu. <operation>farinez légèrement, remuez et passez au <recipient>four</recipient> à</operation> découvert 5 minutes. <operation>ajoutez alors les <ingredient>échalotes</ingredient></operation> hachées, les <ingredient>champignons</ingredient> émincés, les <ingredient>lardons</ingredient> blanchis (si vous en <operation>mettez)</operation> et <operation>faites suer à feu doux</operation>. <operation>ajoutez les <ingredient>tomates</ingredient> pelées, épépinées</operation>, concassées. mouillez de moitié <ingredient>vin blanc</ingredient> et moitié <ingredient>bouillon</ingredient> à mi-hauteur. <operation>ajoutez l’ <ingredient>ail</ingredient></operation> écrasé et le <ingredient>bouquet garni</ingredient>. <operation>portez à ébullition,</operation> puis cuire doucement à couvert. a cuisson, retirez le <ingredient>bouquet garni</ingredient>, rectifiez l’ assaisonnement, <operation>saupoudrez d’ <ingredient>estragon</ingredient></operation> ciselé et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

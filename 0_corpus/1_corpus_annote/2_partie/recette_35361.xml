@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35361">
+ <titre>Avocat gratiné</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 avocats</p>
+ <p>4 gousses d’ ail</p>
+ <p>125 g de crème fraîche à 30% de MG (ou moins) </p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe de gruyère ou parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer le <recipient>four</recipient> et le <recipient>gril</recipient> à 210 ° c</operation>. pendant ce temps épluchez l’ <ingredient>ail</ingredient> que vous <operation>écrasez le plus possible</operation>, <operation>ajoutez à la <ingredient>crème</ingredient> fraiche</operation>, <operation>salez</operation>, <operation>poivrez</operation>. <operation>coupez les <ingredient>avocats</ingredient> en 2</operation>, <operation>dénoyautez</operation>. les placer dans un <recipient>plat</recipient> au fond duquel vous aurez étalé du gros <ingredient>sel</ingredient> pour qu’ ils ne bougent pas. <operation>garnir abondamment les <ingredient>avocats</ingredient> de <ingredient>crème</ingredient>, parsemez dessus du <ingredient>gruyère</ingredient> (ou <ingredient>parmesan</ingredient> c’ est meilleur)</operation> et cuire au <recipient>four</recipient> pendant environ 15 mn. rosé demi sec
+]]>
+ </preparation>
+</recette>

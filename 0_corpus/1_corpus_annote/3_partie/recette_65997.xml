@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65997">
+ <titre>Gambas à l’ italienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>24 gambas crues (surgelées) </p>
+ <p>8 tranches de jambon de Parme</p>
+ <p>1 échalote</p>
+ <p>20 cl de crème fraîche</p>
+ <p>3 cuillères à soupe de concentré de tomates</p>
+ <p>2 cuillères à soupe d’ huile d’ olives</p>
+ <p>sel, poivre</p>
+ <p>ail en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>laisser décongeler les <ingredient>gambas</ingredient> puis les</operation> décortiquer. les éponger sur du papier absorbant. couper en 3 (dans le sens de la longueur) les <ingredient>tranches de jambon de parme</ingredient>. rouler les <ingredient>gambas</ingredient> dans une lanière de <ingredient>jambon</ingredient>. <operation>faire chauffer l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> dans une grande <recipient>poêle</recipient></operation>. y <operation>faire revenir l’ <ingredient>échalote</ingredient></operation> émincée. y <operation>faire cuire des 2 cotés les</operation> <ingredient>gambas</ingredient> " bardées " de <ingredient>jambon</ingredient>. une fois cuites, (environ 5 min), les retirer de la <recipient>poêle</recipient> et les <operation>tenir au chaud</operation>. verser la <ingredient>crème fraîche</ingredient> dans la <recipient>poêle</recipient>, quand celle-ci est bien chaude ajouter le concentré de <ingredient>tomates</ingredient>, le <ingredient>sel</ingredient>, le poivre et l’ <ingredient>ail</ingredient>. <operation>laisser cuire environ 5 min</operation>. enfin mettre les <ingredient>gambas</ingredient> à réchauffer dans la sauce. servir bien chaud accompagné de tagliatelles ou spaghetti. vin blanc sec
+]]>
+ </preparation>
+</recette>

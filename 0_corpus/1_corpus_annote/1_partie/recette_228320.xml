@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228320">
+ <titre>Soupe glacée aux amandes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de pain complet rassis</p>
+ <p>60 cl de bouillon de poule ou 1 cube de bouillon</p>
+ <p>100 g d’ amandes blanchies et pelées</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de vinaigre balsamique</p>
+ <p>1 pot de sauce tomate épicée</p>
+ <p>4 pétales de tomate séchée (pour le décor) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>émiettez la mie de <ingredient>pain</ingredient> dans un saladier</operation>, versez 15 cl de <ingredient>bouillon de poule</ingredient> dessus, <operation>laissez tremper 5 min pour qu’ elle soit bien</operation> ramollie. broyez les amandes et l’ <ingredient>ail</ingredient> dans un robot puis ajoutez le <ingredient>pain</ingredient> ramolli et son <ingredient>bouillon</ingredient>, l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, le <ingredient>vinaigre</ingredient>, la <ingredient>sauce tomate épicée</ingredient>, <operation>mixez ensemble</operation> puis <operation>ajoutez le reste du <ingredient>bouillon</ingredient></operation>. <operation>versez dans des ramequins individuels</operation>, <operation>laissez refroidir au moins 2 h</operation>. au moment de <operation>servir</operation>, décorez avec les <ingredient>pétales de tomates séchées</ingredient>.
+]]>
+ </preparation>
+</recette>

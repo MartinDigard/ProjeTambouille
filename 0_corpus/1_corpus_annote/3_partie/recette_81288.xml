@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81288">
+ <titre>Crème brulée à la réglisse</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 oeufs entiers + 3 jaunes</p>
+ <p>1/2 litre de lait</p>
+ <p>40 cl de crème liquide </p>
+ <p>125 g de sucre</p>
+ <p>1 morceau de réglisse (zan) </p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le <ingredient>lait</ingredient> avec la <ingredient>réglisse</ingredient></operation>. pendant ce temps, délayer les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient>, la <ingredient>crème liquide</ingredient> et le <ingredient>sachet de sucre vanillé</ingredient>, ensuite incorporer la préparation au <ingredient>lait</ingredient> tout doucement (le mélange ne doit pas <operation>bouillir</operation>). puis verser dans les ramequins et <operation>faire cuire au <recipient>bain - marie</recipient> dans un <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 40 min environ (cela</operation> dépend du <recipient>four</recipient>). on voit que la <ingredient>crème</ingredient> est cuite quand il y a juste une légère vague lorsqu’ on la bouge. <operation>laisser refroidir, puis avant de</operation> <operation>servir</operation>, saupoudrer de <ingredient>cassonade</ingredient> et brûler pour <operation>obtenir un joli caramel</operation> croquant sur le dessus. bon appétit. cette recette est pour les amateurs de <ingredient>réglisse</ingredient>.
+]]>
+ </preparation>
+</recette>

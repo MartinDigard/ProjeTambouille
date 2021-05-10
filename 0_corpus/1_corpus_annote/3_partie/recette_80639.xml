@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80639">
+ <titre>Tarte choco poire</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>1 boîte de poire au sirop</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>60 g de sucre</p>
+ <p>2 cuillères à soupe de crème</p>
+ <p>60 g de beurre</p>
+ <p>200 g de chocolat pâtissier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire préchauffer votre <recipient>four</recipient> à 225 °, thermostat 7 - 8</operation>. <operation>faire fondre le <ingredient>chocolat</ingredient> et le beurre</operation>. dans un saladier, mélanger la crème, les <ingredient>oeufs</ingredient>, le <ingredient>sucre</ingredient>, la farine et y ajouter le mélange <ingredient>chocolat</ingredient> / beurre. couper les <ingredient>poires</ingredient> en petits cubes, puis verser sur le fond de tarte. <operation>recouvrir le tout avec la préparation au <ingredient>chocolat</ingredient></operation>. enfourner pour 20 min.
+]]>
+ </preparation>
+</recette>

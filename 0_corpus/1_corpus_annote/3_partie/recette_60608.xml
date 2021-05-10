@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60608">
+ <titre>Brochettes d’ agneau et légumes grillés</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>600 g d’ agneau (gigot, épaule) </p>
+ <p>250 g de champignons de Paris</p>
+ <p>2 aubergines</p>
+ <p>3 courgettes</p>
+ <p>1 citron</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les</operation> <ingredient>poivrons</ingredient>, <operation>ôtez les pépins et les membranes blanches</operation> puis <operation>coupez les en carrés</operation>. <operation>dégraissez</operation> et <operation>coupez la viande en gros dés</operation>. <operation>préparez les brochettes en intercalant viande et <ingredient>poivrons</ingredient></operation>. <operation>coupez le bout terreux des</operation> <ingredient>champignons</ingredient>, <operation>lavez - les puis émincez - les</operation>. <operation>lavez les <ingredient>aubergines</ingredient> et les</operation> <ingredient>courgettes</ingredient> et <operation>coupez - les en rondelles</operation>. <operation>pressez le</operation> <ingredient>citron</ingredient> et <operation>versez le jus dans un bol</operation>. <operation>ajoutez 2 cuillérées à <ingredient>soupe</ingredient> d’ <ingredient>huile</ingredient> d’</operation> <ingredient>olive</ingredient>, <operation>salez</operation>, <operation>poivrez</operation>. <operation>badigeonnez les <ingredient>aubergines</ingredient>, les <ingredient>courgettes</ingredient> et les lamelles de <ingredient>champignons</ingredient> de la préparation à l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. <operation>huilez</operation> légèrement la grille d’ un <recipient>barbecue</recipient> et déposez - y les brochettes et les légumes. <operation>faites cuire 5 à 10 minutes en les retournant pour qu’ ils ne</operation> brûlent pas. servez chaud dès la fin de la cuisson. variez les saveurs et <operation>badigeonnez les rondelles d’ <ingredient>aubergines</ingredient> et de <ingredient>courgettes</ingredient> d’ <ingredient>huile</ingredient> et de graines de sésame</operation>.
+]]>
+ </preparation>
+</recette>

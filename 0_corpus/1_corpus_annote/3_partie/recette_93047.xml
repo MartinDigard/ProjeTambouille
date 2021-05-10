@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93047">
+ <titre>Poulet à l’ estragon et aux petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet coupé en 8</p>
+ <p>3 échalotes</p>
+ <p>20 cl de sauce tomate </p>
+ <p>10 cl de crème</p>
+ <p>4 brins d’ estragon</p>
+ <p>1 cube de bouillon de poule</p>
+ <p>1 cuillère de moutarde</p>
+ <p>50 g de beurre</p>
+ <p>4 pommes de terre</p>
+ <p>4 carottes</p>
+ <p>250 g de champignons de Paris frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites dorer le <ingredient>poulet</ingredient> dans le beurre</operation>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez les <ingredient>échalotes</ingredient></operation>. <operation>laissez dorer quelques minutes</operation>. ajoutez les <ingredient>pommes de terre</ingredient> et les <ingredient>carottes</ingredient>. <operation>faites - les</operation> dorer rapidement puis ajoutez le <ingredient>bouillon de poule</ingredient> dilué dans 1/2 litre d’ eau chaude. <operation>ajoutez les <ingredient>brins</ingredient> d’ <ingredient>estragon</ingredient> et la</operation> <ingredient>moutarde</ingredient> puis <operation>faites mijoter 30 minutes</operation>. en parallèle, <operation>faites revenir les <ingredient>champignons</ingredient> dans une <recipient>sauteuse</recipient></operation>. lorsqu’ ils sont cuits, enlevez l’ eau et <operation>ajoutez - les à la <recipient>cocotte</recipient> où se</operation> trouvent le <ingredient>poulet</ingredient> et les légumes. <operation>ajoutez la sauce tomate</operation> et <operation>laissez cuire jusqu’ à ce que les légumes soient fondants et <ingredient>poulet</ingredient> cuit</operation>. <operation>otez le <ingredient>poulet</ingredient> et les légumes</operation>. <operation>faites réduire l’ eau restante jusqu’ à ce qu’ il n’ y</operation> ait plus qu’ un fond. <operation>ajoutez la <ingredient>crème</ingredient> fraiche et mélangez</operation>. cela donnera la sauce qui nappera votre <recipient>plat</recipient>.
+]]>
+ </preparation>
+</recette>

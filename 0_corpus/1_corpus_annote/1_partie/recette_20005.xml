@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20005">
+ <titre>Muffins coco - cannelle, coulis chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de noix de coco déshydratée</p>
+ <p>150 g farine</p>
+ <p>75 g de beurre ou margarine de régime</p>
+ <p>1 yaourt velouté</p>
+ <p>80 g de sucre semoule</p>
+ <p>2 sachets sucre à la cannelle</p>
+ <p>2 oeufs</p>
+ <p>1 sachet de levure alsacienne</p>
+ <p>Pour le coulis: </p>
+ <p>150 g de chocolat noir amer</p>
+ <p>3 pincées de cannelle en poudre</p>
+ <p>10 cl de crème liquide</p>
+ <p>1 noix de beurre ou margarine</p>
+ <p>6 moules à soufflé individuels</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>allumez le <recipient>four</recipient> thermostat 6 (175 ° c</operation>). <operation>beurrez les <ingredient>moules</ingredient></operation>. <operation>fouettez le <ingredient>beurre</ingredient> et le <ingredient>sucre</ingredient> jusqu’ à ce que le mélange blanchisse</operation>. <operation>ajoutez 1 <ingredient>oeuf</ingredient> sans</operation> cesser de fouetter et la moitié de la farine. ajouter le second <ingredient>oeuf</ingredient>, le reste de farine et la <ingredient>levure</ingredient> puis le <ingredient>yaourt</ingredient> et la <ingredient>noix de coco</ingredient>. répartissez la préparation dans les <ingredient>moules</ingredient> et glisser au <recipient>four</recipient>. cuire 15 à 20 mn (gâteaux gonflés et dorés). <ingredient>coulis</ingredient> facultatif: <operation>faire bouillir la crême dans une <recipient>casserole</recipient></operation>. retirer du feu et <operation>ajoutez le <ingredient>chocolat</ingredient></operation> coupé en petits morceaux. <operation>laissez reposer 10 mn</operation> puis lisser le <ingredient>coulis</ingredient> avec une spatule. <operation>ajoutez le <ingredient>beurre</ingredient> et la <ingredient>cannelle</ingredient></operation>. lorsque les gâteaux sont cuits, <operation>laissez reposer 5 mn</operation> puis démouler - les sur des assiettes, <operation>entourez de</operation> <ingredient>coulis</ingredient> et <operation>servez</operation>. on peut préparer un seul gâteau dans un <ingredient><recipient>moule</recipient></ingredient> à manqué de 24 cm, cuire 30 mn à 35 mn. <operation>servir à température ambiante ou avec un <ingredient>coulis</ingredient> chaud ou froid</operation>. utiliser du <ingredient>beurre</ingredient> ou une margarine diététique. le <ingredient>coulis</ingredient> n’ est pas indispensable, les gâteaux peuvent être <operation>servis avec un fromage blanc nature ou à la vanille</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48201">
+ <titre>Clafoutis aux brugnons et amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de brugnons</p>
+ <p>1/2 sachet de levure</p>
+ <p>100 g de farine</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>110 g de sucre </p>
+ <p>3 œufs entiers</p>
+ <p>20 cl de lait</p>
+ <p>50 g d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>brugnons</ingredient> en quartiers</operation>. <operation>mélangez la farine avec la <ingredient>levure</ingredient>, le <ingredient>sucre</ingredient>, et le <ingredient>sucre</ingredient></operation> vanillé. <operation>ajoutez les</operation> <ingredient>œufs</ingredient>, <operation>mélangez bien</operation> et incorporez ensuite les <ingredient>amandes effilées</ingredient> et le lait. <operation>beurrez un <recipient>moule</recipient></operation> et <operation>déposez les <ingredient>brugnons</ingredient> en</operation> tranches dans le fond. <operation>versez ensuite la préparation sur les fruits</operation>. <operation>faites cuire à <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6) pendant environ 35 à 40 min, le dessus</operation> doit être doré. a la sortie du <recipient>four</recipient>, <operation>saupoudrez le clafoutis de <ingredient>sucre</ingredient> roux</operation> et <operation>dégustez</operation>. si vous utilisez du <ingredient>sucre</ingredient> roux, le goût n’ en sera que meilleur.
+]]>
+ </preparation>
+</recette>

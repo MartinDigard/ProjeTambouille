@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23789">
+ <titre>Chou vert à la tomate et aux oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 chou vert</p>
+ <p>2 oignons</p>
+ <p>1 grande boite de tomates pelées</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl d’ eau</p>
+ <p>1 feuille de laurier</p>
+ <p>1 branche de thym</p>
+ <p>3 queues de persil</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer, effeuiller et émincer le <ingredient>chou</ingredient> puis <ingredient>peler</ingredient> et hacher l’ <ingredient>ail</ingredient> et les <ingredient>oignons</ingredient>. dans une <recipient>cocotte</recipient>, faire fondre les <ingredient>tomates pelées</ingredient> avec l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient>, puis mouiller le tout avec 20 cl d’ <ingredient>eau</ingredient>. porter le tout à ébullition puis incorporer le <ingredient>chou</ingredient> émincé, le <ingredient>thym</ingredient>, les <ingredient>queues de persil</ingredient>, le <ingredient>laurier</ingredient> et le <ingredient>sel</ingredient>. <operation>laisser mijoter 45 minutes à couvert à feu doux jusqu’ à ce que le jus de cuisson soit presque totalement évaporé</operation>. <operation>servir en accompagnement de viandes</operation> grillées.
+]]>
+ </preparation>
+</recette>

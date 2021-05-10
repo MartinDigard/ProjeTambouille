@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195695">
+ <titre>Soupe panais et poires</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de panais</p>
+ <p>2 poires</p>
+ <p>1 pomme de terre</p>
+ <p>1 oignon</p>
+ <p>1 litre de bouillon (de légumes ou de volaille) </p>
+ <p>crème ou purée d’ amandes</p>
+ <p>huile d’ olive ou beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient> dans une <recipient>casserole</recipient> avec du beurre ou de l’ huile d’ <ingredient>olive</ingredient></operation>. couper <ingredient>panais</ingredient>, <ingredient>pomme de terre</ingredient> et <ingredient>poires</ingredient> en petits morceaux. verser un <ingredient>litre de bouillon</ingredient> dans la <recipient>casserole</recipient> puis ajouter tous les légumes. cuire pendant 25 min environ, avec le couvercle en rectifiant l’ assaisonnement si besoin. mixer la préparation et enfin ajouter la <ingredient>crème</ingredient> ou deux cuillères à soupe de <ingredient>purée</ingredient> d’ <ingredient>amande</ingredient>. pour les gourmets, on peut <operation>servir ce potage avec un peu de <ingredient>crème</ingredient> fouettée</operation> parsemée de persil. la saveur des <ingredient>poires</ingredient> se marie très bien aux <ingredient>panais</ingredient>.
+]]>
+ </preparation>
+</recette>

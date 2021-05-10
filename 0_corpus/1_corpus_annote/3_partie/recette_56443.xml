@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56443">
+ <titre>Croque guimov</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oeuf (oie ou poule) </p>
+ <p>2 tranches de pain de mie</p>
+ <p>3 x 20 g de beurre</p>
+ <p>1 pincé de sel</p>
+ <p>fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire l’ <ingredient>oeuf</ingredient> au <recipient>plat</recipient> dans 20 g de beurre</operation>. faites revenir chaque <ingredient>tranche de pain</ingredient>, chacune son tour dans 20 g de beurre jusqu’ à ce qu’ elles soient bien dorées. placez l’ <ingredient>oeuf</ingredient> sur une <ingredient>tranche de pain</ingredient>, <operation>salez</operation>, recouvrez de la <ingredient>tranche de pain</ingredient> restante et saupoudrez de <ingredient>fromage râpé</ingredient>. ce <recipient>plat</recipient> très consistant peut-être accompagné de salade!!
+]]>
+ </preparation>
+</recette>

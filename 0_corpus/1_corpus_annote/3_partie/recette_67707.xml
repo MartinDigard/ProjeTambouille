@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67707">
+ <titre>L’ omelette croquante d’ Hélène</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 œufs</p>
+ <p>1 petit oignon</p>
+ <p>2 cuillères à soupe de raisins secs</p>
+ <p>1 cuillère à soupe de graines de tournesol</p>
+ <p>50 g d’ emmenthal râpé</p>
+ <p>1 cuillère à soupe d’ huile </p>
+ <p>6 ou 7 noix hachées grossièrement</p>
+ <p>Sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient>raisins</ingredient> à tremper dans de l’ eau tiède <operation>faire revenir l’ <ingredient>oignon</ingredient></operation> émincé dans une <recipient>poêle</recipient> avec l’ <ingredient>huile</ingredient> jusqu’ à ce qu’ il soit translucide, si besoin <operation>rajoutez un peu d’ eau</operation>. dans 1 saladier battre les 5 oeufs, saler, puis rajouter les <ingredient>raisins</ingredient>, les <ingredient>noix</ingredient>, les <ingredient>graines de tournesol</ingredient>, l’ <ingredient>emmenthal</ingredient> et enfin l’ <ingredient>oignon</ingredient>. chauffer la <recipient>poêle</recipient> précédemment utilisée et y verser la préparation <operation>laisser cuire environ 5 min</operation> puis retourner puis 5 min de plus. c’ est prêt, bon appétit! idéal pour le repas du soir, accompagné d’ une salade verte.
+]]>
+ </preparation>
+</recette>

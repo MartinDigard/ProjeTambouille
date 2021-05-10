@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42205">
+ <titre>Lasagnes chèvre et thon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de thon</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>8 petits chèvres frais</p>
+ <p>25 cl de crème liquide</p>
+ <p>olives noires dénoyautées</p>
+ <p>ciboulette</p>
+ <p>sel, poivre</p>
+ <p>Pour la sauce béchamel: </p>
+ <p>60 g de beurre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>50 cl de lait</p>
+ <p>sel, poivre, muscade</p>
+ <p>plaques de lasagnes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire précuire les pâtes à <ingredient>lasagnes</ingredient> pendant 5 min puis les</operation> égoutter (facultatif selon le type de pâtes utilisées). préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). emietter le <ingredient>thon</ingredient> puis l’ imbiber avec l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. mélanger le <ingredient>thon</ingredient> avec les <ingredient>petits chèvres</ingredient> et la <ingredient>crème liquide</ingredient> dans une <recipient>poêle</recipient>. cuire à feux doux jusqu’ à ce que la <ingredient>crème</ingredient> épaississe légèrement. ajouter la <ingredient>ciboulette</ingredient>, saler, poivrer. préparer la <ingredient>sauce béchamel</ingredient>: <operation>faire fondre le beurre</operation> et ajouter la farine pour <operation>faire une pâte</operation>. ajouter le lait et remuer jusqu’ à ce que le mélange épaississe. saler, poivrer et ajouter une grosse pincée de <ingredient>muscade</ingredient>. dans un <recipient>plat</recipient> à <ingredient>lasagnes</ingredient> alterner la <ingredient>béchamel</ingredient>, les <ingredient>lasagnes</ingredient>, le <ingredient>thon</ingredient>, (recommencer) en finissant par la <ingredient>béchamel</ingredient>. on peut éventuellement ajouter une couche de fromage râpé à la fin. mettre au <recipient>four</recipient> pendant 20 min et c’ est prêt!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24122">
+ <titre>Ragoût de fruits de mer à la portugaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 homard de 700 g</p>
+ <p>400 g de crevettes roses décortiquées</p>
+ <p>12 grosses moules</p>
+ <p>400 g de palourdes</p>
+ <p>6 coquilles Saint-Jacques</p>
+ <p>Pour la fondue de légumes: </p>
+ <p>6 belles tomates rouges</p>
+ <p>2 oignons</p>
+ <p>2 poivrons</p>
+ <p>50 g de jambon cru haché</p>
+ <p>2 gousses d’ ail</p>
+ <p>40 cl de vin blanc</p>
+ <p>4 à 5 cl d’ huile d’ olive</p>
+ <p>50 cl d’ eau</p>
+ <p>1 feuille de laurier</p>
+ <p>1 capsule de safran</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient>poivrons</ingredient> finement. peler et émincer les <ingredient>oignons</ingredient> puis les <operation>faire fondre dans une <recipient>cocotte</recipient> avec un peu d’ <ingredient>huile</ingredient></operation>. puis ajouter le hachis de <ingredient>poivron</ingredient>. <operation>faire cuire doucement 5 min</operation>. laver et couper grossièrement les <ingredient>tomates</ingredient>. ajouter le <ingredient>jambon</ingredient>, l’ <ingredient>ail</ingredient> et le <ingredient>laurier</ingredient> dans la <recipient>cocotte</recipient>. <operation>laisser revenir 2 min avant d’</operation> incorporer les <ingredient>tomates</ingredient> concassées. arroser le tout de <ingredient>vin blanc</ingredient> et d’ <ingredient>eau</ingredient>. cuire 15 min, puis poivrer et ajouter le <ingredient>safran</ingredient>. décoquiller les <ingredient>moules</ingredient> et les <ingredient>palourdes</ingredient> et les mettre dans la <recipient>cocotte</recipient> avec le <ingredient>homard</ingredient>, les <ingredient>crevettes</ingredient> et les coquilles saint - <ingredient>jacques</ingredient>. porter à nouveau à ébullition, rectifier l’ assaisonnement si besoin. saupoudrer de <ingredient>persil haché</ingredient> avant de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

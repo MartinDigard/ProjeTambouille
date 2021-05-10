@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73962">
+ <titre>Pizza poivron et lard</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>coulis de tomate</p>
+ <p>poivron coupé en lanières</p>
+ <p>barquette de lardons (allumettes de préférence) </p>
+ <p>oignons</p>
+ <p>fromage râpé </p>
+ <p>rondelles de tomates fraîches</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte puis garnir de <ingredient>coulis de tomate</ingredient>, ajouter les <ingredient>poivrons</ingredient>, <operation>garnir de <ingredient>lardons</ingredient> cru</operation>, ajouter l’ <ingredient>oignon</ingredient> en <ingredient>rondelles</ingredient>, puis le <ingredient>fromage râpé</ingredient>, les <ingredient>rondelles de tomate</ingredient> et parsemer de <ingredient>persil</ingredient>. cuisson 10 à 20 min à 240 °, thermostat 8.
+]]>
+ </preparation>
+</recette>

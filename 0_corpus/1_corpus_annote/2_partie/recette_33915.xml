@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33915">
+ <titre>Minestrone de fruits rouges au basilic</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de fruits rouges ou fruits des bois surgelés (500 g) </p>
+ <p>1/2 litre de vin rouge un peu corsé</p>
+ <p>100 g de cassonade</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>1/2 cuillère à café de muscade</p>
+ <p>1/2 cuillère à café de poivre blanc</p>
+ <p>2 clous de girofle</p>
+ <p>2 feuilles de basilic frais ou surgelé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>laisser décongeler les <ingredient>fruits</ingredient> dans une <recipient>passoire</recipient></operation> et <operation>recueillir le jus</operation>. mélanger le jus de décongélation avec le <ingredient>vin</ingredient>, le sucre et les épices, porter le tout à ébullition pendant quelques minutes. retirer les clous de <ingredient>girofle</ingredient>. <operation>répartir les <ingredient>fruits</ingredient> dans des coupes individuelles</operation> et verser dessus le liquide chaud. parsemer chaque coupe de <ingredient>basilic</ingredient> finement ciselé. servir à température ambiante. on peut ajouter pour le décor et le parfum une fine spirale de pelure d’ orange brunie au <recipient>four</recipient>. le même que celui de la marinade
+]]>
+ </preparation>
+</recette>

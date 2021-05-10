@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12752">
+ <titre>Gâteau aux patates douces</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg 500 de patates douces</p>
+ <p>4 ou 5 oeufs (selon la grosseur) </p>
+ <p>175 g de beurre</p>
+ <p>250 g de sucre</p>
+ <p>1 gousse de vanille</p>
+ <p>3 cuillères à soupe de rhum (ou de Marie Brizard) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient>patates</ingredient> et les <operation>faire cuire à l’ eau</operation> jusqu’ à ce qu’ elles soient tendres, les égouter et les réduire en purée lorsqu’ elles sont chaudes. ajouter les <ingredient>oeufs</ingredient> entiers (légèrement battus) avec le <ingredient>sucre</ingredient>, le beurre ramolli, la <ingredient>vanille</ingredient> coupée en petits morceaux et l’ alcool. verser dans un <recipient>moule</recipient> à bord hauts beurré. cuire à <recipient>four</recipient> chaud pendant une heure jusqu’ à ce que le gâteau soit doré.
+]]>
+ </preparation>
+</recette>

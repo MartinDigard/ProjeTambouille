@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23875">
+ <titre>Truites rôties aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 truites vidées</p>
+ <p>3 carottes</p>
+ <p>3 poireaux</p>
+ <p>150 g de beurre</p>
+ <p>15 cl de vin blanc</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). emincer finement les <ingredient>carottes</ingredient> et les <ingredient>poireaux</ingredient> puis les <operation>faire fondre dans le beurre à couvert jusqu’ à ce qu’ ils soient tendres</operation>. déposer les légumes dans un <recipient>plat</recipient> à <recipient>four</recipient> beurré. <operation>recouvrir des</operation> <ingredient>truites</ingredient> et arroser de <ingredient>vin blanc</ingredient>. enfourner pour 15 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

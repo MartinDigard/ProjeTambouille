@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13253">
+ <titre>Foie de veau vénitienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 à 600 g de foie de veau en bâtonnets de 1 cm de large</p>
+ <p>3 cuillères à soupe d’ huile d’ olive </p>
+ <p>1 oignon haché</p>
+ <p>1 gousse d’ ail pressée</p>
+ <p>environ 6 feuilles de sauge fraîche, coupées en lanières</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>deux ou trois tours de moulin de poivre</p>
+ <p>1 dl de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir <ingredient>oignon</ingredient>, <ingredient>ail</ingredient> et sauge dans l’ <ingredient>huile</ingredient> chaude</operation>. ajouter les <ingredient>bâtonnets de foie</ingredient> et rissoler à chaleur modérée en remuant souvent. quand le <ingredient>foie</ingredient> a changé de couleur, assaisonner et dresser sur un <recipient>plat</recipient> chaud. <operation>couvrir</operation>. déglacer le fond avec le <ingredient>vin blanc</ingredient>, <operation>faire réduire pendant 2 minutes</operation> et rectifier éventuellement l’ assaisonnement. verser le jus sur le <ingredient>foie</ingredient>. conseils: le <ingredient>foie</ingredient> durcit si on le saisit à feu trop vif ou si on le <operation>laisse trop longtemps dans la <recipient>sauteuse</recipient> si on est nombreux à table</operation>, sauter le <ingredient>foie</ingredient> par petites quantités
+]]>
+ </preparation>
+</recette>

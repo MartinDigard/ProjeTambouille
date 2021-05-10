@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64254">
+ <titre>Gâteau pour le goûter</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>1 yaourt</p>
+ <p>130 g de sucre en poudre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>100 g de farine</p>
+ <p>60 g d’ amandes en poudre</p>
+ <p>1/2 paquet de levure chimique</p>
+ <p>60 g de pralin</p>
+ <p>1/2 pot d’ huile (le pot du yaourt) </p>
+ <p>50 g de pépites de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). melanger les <ingredient>oeufs</ingredient>, le <ingredient>sucre en poudre</ingredient>, le <ingredient>sucre</ingredient> vanillé et le <ingredient>yaourt</ingredient>. ajouter la farine, la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient>, le <ingredient>pralin</ingredient>, la <ingredient>levure</ingredient>. mélanger. ajouter l’ <ingredient>huile</ingredient>. mélanger aànouveau jusqu’ à ce que la pâte soit bien lisse. ajouter les <ingredient>pépites</ingredient>. mélanger. <operation>versez dans un <recipient>moule</recipient> à cake huilé</operation>. enfourner 45 mn.
+]]>
+ </preparation>
+</recette>

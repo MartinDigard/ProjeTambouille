@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29953">
+ <titre>Boeuf braisé au paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de boeuf à bourguignon</p>
+ <p>50 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 oignon</p>
+ <p>1 carotte</p>
+ <p>1 cuillère à soupe de paprika</p>
+ <p>25 cl d’ eau</p>
+ <p>1/2 cuillère à café de graines de cumin</p>
+ <p>1 gousse d’ ail</p>
+ <p>100 g de crème fraîche</p>
+ <p>thym, laurier et persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez la viande en gros cubes</operation>. <operation>faites chauffer le beurre et l’ huile</operation>, <operation>mettez - y la viande</operation> et <operation>laissez dorer</operation>. <operation>retirez les morceaux et remplacez - les par l’ <ingredient>oignon</ingredient> et la <ingredient>carotte</ingredient></operation>. lorsque les légumes sont tendres, <operation>remettez la viande dans la <recipient>cocotte</recipient></operation>, <operation>saupoudrez de</operation> <ingredient>paprika</ingredient> et <operation>assaisonnez</operation>. <operation>mouillez d’ <ingredient>eau</ingredient> à hauteur</operation>, ajoutez le bouquet garni, les <ingredient>graines de cumin</ingredient> et l’ <ingredient>ail</ingredient> pilé. <operation>couvrez</operation> et <operation>laissez mijoter 2 h à feu très doux</operation>. en fin de cuisson, incorporez la sauce à la <ingredient>crème fraîche</ingredient>. <operation>saupoudrez de <ingredient>persil</ingredient></operation> haché.
+]]>
+ </preparation>
+</recette>

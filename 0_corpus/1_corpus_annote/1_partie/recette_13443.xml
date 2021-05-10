@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13443">
+ <titre>Potée champenoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de lard de poitrine maigre demi-sel</p>
+ <p>500g de carré de porc demi-sel</p>
+ <p>1 chou pommé</p>
+ <p>4 carottes</p>
+ <p>4 navets</p>
+ <p>1 kg de pommes de terre à chair ferme. </p>
+ <p>8 saucisses</p>
+ <p>1 tranche épaisse de jambon fumé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez le <ingredient>lard</ingredient> et le <ingredient>carré</ingredient> à</operation> dessaler. <operation>faites bouillir le <ingredient>chou</ingredient></operation> coupé en quatre, pendant 10mn. <operation>egouttez - le</operation>. dans l’ <recipient>autocuiseur</recipient>, <operation>cuisez le <ingredient>lard</ingredient> et le <ingredient>carré</ingredient> avec 3 litres d’ eau</operation>. <operation>fermez l’ <recipient>autocuiseur</recipient></operation>. <operation>laissez bouillir pendant 15 mn à</operation> <operation>partir de la mise en pression</operation>. <operation>ajoutez ensuite <ingredient>carottes</ingredient>, <ingredient>navets</ingredient> et <ingredient>chou</ingredient></operation>. <operation>continuez la cuisson pendant 15mn à</operation> <operation>partir de la mise en pression</operation>. ajoutez enfin <ingredient>pommes de terre</ingredient>, <ingredient>saucisses</ingredient> et <ingredient>jambon fumé</ingredient> coupé en <ingredient>carrés</ingredient>. <operation>salez légèrement et poivrez</operation>. <operation>prolongez la cuisson de 12mn sous pression</operation>. <operation>versez le bouillon de la</operation> potée dans une soupière garnie de <ingredient>tranches</ingredient> de pain de campagne. la viande et les légumes seront présentés en même temps, mais à part, dans un <recipient>plat</recipient> creux.
+]]>
+ </preparation>
+</recette>

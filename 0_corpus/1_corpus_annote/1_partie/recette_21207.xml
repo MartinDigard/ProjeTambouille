@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21207">
+ <titre>Mousse de jambon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de jambon blanc découenné dégraissé</p>
+ <p>2 oeufs entiers</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>25 cl de crème liquide allégée</p>
+ <p>sel, poivre</p>
+ <p>coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez le <ingredient>jambon</ingredient> au <recipient>mixeur</recipient>. le mettre dans une jatte. ajoutez les 2 <ingredient>oeufs entiers</ingredient> et les <ingredient>jaunes</ingredient>, la <ingredient>crème</ingredient> et la <ingredient>coriandre</ingredient>. <operation>salez</operation> et <operation>poivrez</operation>. <operation>beurrez des ramequins individuels et les</operation> <operation>remplir de la mousee de <ingredient>jambon</ingredient> (environ aux trois quarts</operation>). cuire 30 mn au <recipient>four</recipient>, th 8. cette mousse peut être accompagnée d’ une salade en guise de <recipient>plat</recipient> principal (dans ce cas, je conseille une vinaigrette avec yaourt, vinaigrette balsamique, huile de noisette et <ingredient>coriandre</ingredient>). ou bien servi avec du riz basmati.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64649">
+ <titre>Navets braisés à la moutarde à l’ ancienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de navets</p>
+ <p>3 cuillères à soupe de beurre</p>
+ <p>1 cuillère à soupe de moutarde à l’ ancienne</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites bouillir de l’ eau</operation> salée. * <operation>coupez les <ingredient>navets</ingredient> en dés ou en tranches</operation> et <operation>plongez dans l’ eau durant 10 minutes</operation>. <operation>egouttez</operation>. <operation>faites fondre le <ingredient>beurre</ingredient> dans une <recipient>poêle</recipient></operation>, <operation>ajoutez les</operation> <ingredient>navets</ingredient> et <operation>laissez dorer avant d’</operation> ajouter la <ingredient>moutarde</ingredient>. <operation>salez</operation>, <operation>poivrez</operation>. <operation>couvrez</operation> et <operation>laissez cuire 20 minutes à feu doux</operation>. <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

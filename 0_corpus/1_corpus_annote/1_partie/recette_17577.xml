@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17577">
+ <titre>Moules aux épices</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de moules</p>
+ <p>4 tomates</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café de curry</p>
+ <p>1 cuillère à café de curcuma</p>
+ <p>1 cuillère à café d’ épices à couscous</p>
+ <p>un peu de piment de cayenne</p>
+ <p>huile d’ olive</p>
+ <p>persil</p>
+ <p>vin blanc sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+après avoir soigneusement nettoyé les <ingredient>moules</ingredient>, dans une <recipient>cocotte</recipient> <operation>faire revenir l’ <ingredient>oignon</ingredient> dans l’ huile d’ <ingredient>olive</ingredient> chaude</operation>, ajouter les <ingredient>tomates</ingredient>. <operation>faire cuire 5 mn</operation> puis ajouter les épices, bien remuer. ajouter les <ingredient>moules</ingredient> et le <ingredient>vin blanc</ingredient>, <operation>laisser cuire jusqu’ à ce que les <ingredient>moules</ingredient> soient toutes ouvertes, en</operation> remuant fréquemment.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14078">
+ <titre>Tourte des templiers</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>2 cuisses de canard confit</p>
+ <p>1 chou vert</p>
+ <p>4 carottes</p>
+ <p>200 grammes de cèpes</p>
+ <p>200 grammes de pâte brisée</p>
+ <p>1 litre de vin rouge (type Bergerac) </p>
+ <p>1 verre d’ eau de vie de prune</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer le <ingredient>chou</ingredient>, faire mariner 24 heures dans le <ingredient>vin rouge</ingredient>. couper les <ingredient>carottes</ingredient> en rondelles, cuire 10 mn dans l’ <ingredient>eau</ingredient> bouillante. <operation>faire suer les <ingredient>cèpes</ingredient> dans la graisse de <ingredient>canard</ingredient></operation>. détacher la chair des <ingredient>cuisses de canard</ingredient>. egoutter le <ingredient>chou vert</ingredient>. <operation>garnir un <recipient>plat</recipient> à <recipient>four</recipient> avec la <ingredient>pâte</ingredient> brisée,</operation> puis <operation>garnir avec les légumes et la viande de <ingredient>canard</ingredient></operation>. <operation>salez</operation> et <operation>poivrez</operation>. <operation>recouvrir les bords de <ingredient>pâte</ingredient> pour</operation> former une tourte, en ménageant une cheminée au milieu. cuire au <recipient>four</recipient> thermostat 7 pendant 30 à 40 mn. au sortir du <recipient>four</recipient>, flambez la tourte avec l’ <ingredient>eau de vie de prune</ingredient>. <operation>servez immédiatement</operation>. bergerac ou cahors <ingredient>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

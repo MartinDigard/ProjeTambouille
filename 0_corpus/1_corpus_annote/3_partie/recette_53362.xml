@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53362">
+ <titre>Curry de poulet aux cacahuetes et lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à café d’ huile</p>
+ <p>700 g de blanc de poulet, coupé en morceau</p>
+ <p>sel et poivre</p>
+ <p>250 g de légumes mélangés surgelés dégelés (par exemple poivron + petits épis de maïs + pois + haricots) Pour la sauce: </p>
+ <p>35 cl de lait de coco</p>
+ <p>12, 5 cl de bouillon de poulet non salé</p>
+ <p>1 cuillère à soupe de pâte de curry (ou de curry en poudre) </p>
+ <p>8 cl de beurre de cacahuètes</p>
+ <p>2 cuillères à soupe de cassonade</p>
+ <p>2 cuillères à soupe de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>huile</ingredient> dans une grande <recipient>poêle</recipient></operation>. ajouter le <ingredient>poulet en morceaux</ingredient>, <ingredient>saler</ingredient>, poivrer. <operation>faire sauter jusqu’ à ce que le <ingredient>poulet</ingredient> soit cuit à coeur, en tournant de temps en temps, pendant environ 5 minutes</operation>. ajouter les <ingredient>légumes</ingredient> et continuer à cuire pendant 3 minutes. pendant que le <ingredient>poulet</ingredient> cuit, préparer la <ingredient>sauce</ingredient>: dans un petit saladier, fouetter ensemble tous les ingrédients nécéssaires pour <ingredient>la sauce</ingredient>. verser la <ingredient>sauce</ingredient> dans la <recipient>poêle</recipient> sur le <ingredient>poulet</ingredient> et les <ingredient>légumes</ingredient>. amener à ébullition, en tournant de temps en temps. baisser le feu et <operation>faire frémir pendant 6 à 8 minutes jusqu’ à ce que la <ingredient>sauce</ingredient> épaississe légèrement</operation>. <operation>servir avec du riz au lait de <ingredient>coco</ingredient> ou du riz nature</operation>.
+]]>
+ </preparation>
+</recette>

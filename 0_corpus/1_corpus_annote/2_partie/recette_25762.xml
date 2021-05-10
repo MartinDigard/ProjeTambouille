@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25762">
+ <titre>Langoustines à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>24 langoustines</p>
+ <p>1 l de court-bouillon</p>
+ <p>1 échalote</p>
+ <p>de l’ huile d’ olive</p>
+ <p>2 tomates</p>
+ <p>1 gousse d’ ail</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>5 cl de Cognac</p>
+ <p>1 bouquet garni</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer le <ingredient>court-bouillon</ingredient> et y</operation> plonger les <ingredient>langoustines</ingredient>. <operation>laisser cuire 5 min dès la reprise de l’ ébulition</operation>. une fois cuites, décortiquer les <ingredient>langoustines</ingredient> et réserver les têtes. hacher l’ <ingredient>échalote</ingredient>, peler et détailler les <ingredient>tomates</ingredient> en petits morceaux, piler l’ <ingredient>ail</ingredient>. dans une <recipient>casserole</recipient>, <operation>faire chauffer un peu d’ <ingredient>huile</ingredient> et y</operation> <operation>faire suer l’ <ingredient>échalote</ingredient></operation>. ajouter les <ingredient>tomates</ingredient>, l’ <ingredient>ail</ingredient>, le <ingredient>vin blanc</ingredient>, le <ingredient>cognac</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient> et le <ingredient>bouquet garni</ingredient>. cuire doucement la sauce pendant 30 min. au bout de ce temps, ajouter les <ingredient>langoustines</ingredient> et <operation>laisser chauffer 5 min</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22126">
+ <titre>Fricassée de poulet marengo</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>4 tomates</p>
+ <p>1 oignon</p>
+ <p>2 cuillères à soupe de purée de tomates</p>
+ <p>1 cuillère à café d’ extrait de viande</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 branche de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>accompagnement: 200 g de riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chuaffer l’ <ingredient>huile</ingredient> dans une <recipient>cocotte</recipient></operation>, <operation>faites - y</operation> dorer les morceaux de <ingredient>poulet</ingredient>. <operation>rajoutez ensuite l’ <ingredient>oignon</ingredient></operation> pelé et coupé en 8, le <ingredient>thym</ingredient>, le <ingredient>laurier</ingredient> et les <ingredient>tomates</ingredient> grossièrement hachées. <operation>laissez mijoter 5 min</operation> puis rajoutez la <ingredient>purée de tomates</ingredient>. <operation>remuez le tout,</operation> et versez l’ <ingredient>extrait de viande</ingredient>, le <ingredient>vin</ingredient> et 2 verres d’ eau. <operation>laissez mijoter 30 min à feu doux</operation>. <operation>faites cuire le <ingredient>riz</ingredient> à l’ eau bouillante</operation> salée pendant ce temps. <operation>egouttez - le</operation> et <operation>disposez - le dans le <recipient>plat</recipient></operation>. <operation>déposez les morceaux de <ingredient>poulet</ingredient> dessus</operation>, <operation>versez la sauce sur le tout</operation> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

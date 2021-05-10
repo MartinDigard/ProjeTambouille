@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46443">
+ <titre>Gâteau créole</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 oeufs entiers </p>
+ <p>75 g de sucre semoule</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>100 g de farine</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>100 g de beurre fondu</p>
+ <p>100 g de raisins secs </p>
+ <p>5 cl de rhum</p>
+ <p>3 bananes </p>
+ <p>1 boîte d’ ananas en tranches, au sirop</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire macérer les <ingredient>raisins</ingredient> dans le <ingredient>rhum</ingredient>, le temps de la préparation de la pâte</operation>. battre ensemble les <ingredient>oeufs</ingredient>, les <ingredient>sucres</ingredient> et le <ingredient>sel</ingredient>, jusqu’ à obtention d’ un mélange mousseux. ajouter la farine, la <ingredient>levure</ingredient>, le beurre <ingredient>fondu</ingredient>, et mélanger. incorporer à la pâte les <ingredient>bananes</ingredient> en rondelles et les ananas égouttés et coupés en morceaux, puis en dernier les <ingredient>raisins</ingredient> (avec le <ingredient>rhum</ingredient>). verser la préparation dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré et fariné, et <operation>faire cuire environ 45 min à <recipient>four</recipient> moyen (180 ° c / th 6</operation>). ce gâteau se déguste froid et est encore excellent, voire meilleur, le lendemain!
+]]>
+ </preparation>
+</recette>

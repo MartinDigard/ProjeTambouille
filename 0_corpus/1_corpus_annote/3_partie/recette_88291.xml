@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88291">
+ <titre>Gratin Dauphinois simple</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes de terre style farineuse pour que ce soit bien fondant</p>
+ <p>50 cl de crème liquide légère</p>
+ <p>200 g de fromage rapé</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre, noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez les <ingredient>pommes de terre</ingredient> et les couper en lamelles. <operation>beurrez un <recipient>plat</recipient> à gratin, disposez les lamelles et, entre chaque étage</operation>, <operation>poivrez</operation>, <operation>salez</operation> et ajoutez un peu de <ingredient>noix de muscade</ingredient>. a la surface du <recipient>plat</recipient>, <operation>versez la <ingredient>crème</ingredient></operation>. <operation>saupoudrez</operation> généreusement le tout de <ingredient>fromage</ingredient> rapé. <operation>ajoutez quelques noisettes de beurre sur le dessus</operation>. enfournez pendant 45 min à 1h à 180 ° c (thermostat 6) et passez ensuite au grill pendant 15 minutes pour <operation>faire gratiner</operation>.
+]]>
+ </preparation>
+</recette>

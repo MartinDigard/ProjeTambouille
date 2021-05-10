@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228543">
+ <titre>Sandwich à l’ assiette</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 salade croquante</p>
+ <p>1 tomate (en dés) </p>
+ <p>1 œuf dur</p>
+ <p>100 g de magrets de canard séché ou fumé</p>
+ <p>1 confit d’ oignon au vin rouge</p>
+ <p>1 mayonnaise</p>
+ <p>1 tranche de baguette (assez grande) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une assiette, disposer la salade, les <ingredient>tomates</ingredient> puis quelques <ingredient>tranches</ingredient> de <ingredient>magret</ingredient>. mettre en son milieu du <ingredient>confit</ingredient> d’ <ingredient>oignon</ingredient> et sur le bord (de l’ assiette) <ingredient>mayonnaise</ingredient> et <ingredient>œuf dur</ingredient>. <operation>servir avec un bon morceau de <ingredient>baguette</ingredient></operation>. oudans un saladier, disposer la salade, les <ingredient>tomates</ingredient> puis quelques <ingredient>tranches</ingredient> de <ingredient>magret</ingredient>. mélanger avec de la <ingredient>mayonnaise</ingredient>. <operation>ouvrir la <ingredient>baguette</ingredient> en sandwich</operation> et mettre la mixture. ensuite mettre l’ <ingredient>oignon confit</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37570">
+ <titre>Pudding pomme et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de pain rassis</p>
+ <p>1 boîte de lait concentré non sucré</p>
+ <p>60 cl de lait</p>
+ <p>3 oeufs</p>
+ <p>200 g de sucre roux</p>
+ <p>150 g de chocolat noir</p>
+ <p>2 pommes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>pain rassis</ingredient> en petits morceaux dans un grand saladier. chauffer le <ingredient>lait</ingredient> et verser les deux <ingredient>lait</ingredient> dans le saladier. <operation>laisser tremper au moins 20 min en</operation> prenant soin de mélanger de temps en temps pour que le <ingredient>pain</ingredient> soit bien imbibé. ajouter le <ingredient>sucre</ingredient> et les <ingredient>oeufs</ingredient>, puis le <ingredient>chocolat</ingredient> coupé grossièrement et les <ingredient>pommes</ingredient> coupées en dés. verser le tout dans un grand <recipient>moule</recipient> beurré et mettre dans le <recipient>four</recipient> préchauffé à 200 ° c (thermostat 6 - 7) pendant 50 min. vous pouvez enlever le <ingredient>lait concentré</ingredient> et mettre un litre entier de <ingredient>lait</ingredient> à la place. <operation>servir avec une crème anglaise</operation>.
+]]>
+ </preparation>
+</recette>

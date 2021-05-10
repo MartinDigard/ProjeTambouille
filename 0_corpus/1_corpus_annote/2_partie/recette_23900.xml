@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23900">
+ <titre>Harengs fumés à la créole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 harengs fumés</p>
+ <p>5 oignons</p>
+ <p>10 tomates</p>
+ <p>1 piment</p>
+ <p>huile</p>
+ <p>thym</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+immerger les harengs dans de l’ eau pendant 30 minutes. pendant ce temps, laver et détailler les <ingredient>tomates</ingredient> en dés, ciseler les <ingredient>oignons</ingredient> et l’ ail. dans une <recipient>casserole</recipient>, porter l’ eau à ébullition et y plonger les harengs pendant quelques minutes. egoutter. sectionner la tête et ôter les arêtes des harengs, puis les découper en morceaux. les <operation>faire frire dans une <recipient>poêle</recipient> avec de l’</operation> huile. dans une <recipient>cocotte</recipient>, <operation>faire revenir les <ingredient>oignons</ingredient> et l’</operation> ail. incorporer les dés de <ingredient>tomates</ingredient>, le <ingredient>thym</ingredient> et <operation>faire cuire 15 min à couvert sur feu doux</operation>. ajouter les harengs et <operation>faire mijoter 10 min</operation>.
+]]>
+ </preparation>
+</recette>

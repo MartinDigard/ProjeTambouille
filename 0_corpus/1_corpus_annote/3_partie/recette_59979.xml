@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59979">
+ <titre>Hamburger bacon chèvre tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pain spécial hamburger</p>
+ <p>3 tranches de bacon</p>
+ <p>2 tranches de fromage de chèvre</p>
+ <p>1 rondelle de tomate</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). disposer le <ingredient>fromage</ingredient> sur le <ingredient>pain</ingredient>, puis le <ingredient>bacon</ingredient> légèrement cuit, et ensuite la rondelle de <ingredient>tomate</ingredient>. pour terminer, <operation>recouvrir avec le dessus du <ingredient>pain</ingredient></operation>. mettre au <recipient>four</recipient> dans du papier aluminium pendant 15 min. ca change des <ingredient>hamburgers</ingredient> avec un steak.
+]]>
+ </preparation>
+</recette>

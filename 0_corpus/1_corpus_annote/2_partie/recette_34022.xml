@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34022">
+ <titre>Pancakes au fromage blanc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>275 g de farine</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>2 oeufs</p>
+ <p>75 g de beurre</p>
+ <p>25 cl de lait</p>
+ <p>200 g de fromage blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un saladier <operation>mélangez la farine avec le <ingredient>sucre</ingredient>, la <ingredient>levure</ingredient> et 1</operation> pincée de sel. <operation>ajoutez les 2 <ingredient>oeufs</ingredient> préalablement</operation> battus et <operation>travaillez jusqu’ à</operation> <operation>obtenir une pâte bien lisse</operation>. <operation>incorporez ensuite à la préparation le beurre fondu, ainsi que le lait puis, pour</operation> finir, le <ingredient>fromage blanc</ingredient>. il n’ est pas obligatoire de <operation>laisser la pâte</operation> reposer avant de l’ utiliser. pour la cuisson vous pouvez utiliser une petite <recipient>poêle</recipient> (20 cm) si vous n’ en avez pas de spéciale pour pancakes. <operation>veillez à ce que la <recipient>poêle</recipient> soit bien chaude</operation> et <operation>beurrez - la légèrement avant d’ y</operation> <operation>versez la pâte à chaque fois</operation>.
+]]>
+ </preparation>
+</recette>

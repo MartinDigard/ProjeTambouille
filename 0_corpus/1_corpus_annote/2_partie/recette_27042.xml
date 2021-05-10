@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27042">
+ <titre>Daurade marinée au citron et au lait de coco</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de daurade</p>
+ <p>2 citrons</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de lait de coco</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le poisson en petits dés et les arroser de jus de <ingredient>citron</ingredient>. <operation>laisser macérer durant 3 heures, le temps que le <ingredient>citron</ingredient></operation> cuise le poisson. egoutter les dés de poisson et les assaisonner d’ huile, de <ingredient>lait de coco</ingredient>, de <ingredient>sel</ingredient> et de poivre. <operation>servir immédiatement</operation>.
+]]>
+ </preparation>
+</recette>

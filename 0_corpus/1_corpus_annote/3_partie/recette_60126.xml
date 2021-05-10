@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60126">
+ <titre>Petites bouchées chocolatées (Kocka) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>50 g de beurre</p>
+ <p>4 jaunes d’ oeuf</p>
+ <p>200 g de sucre</p>
+ <p>300 g de farine</p>
+ <p>1 paquet de levure chimique</p>
+ <p>20 cl de lait</p>
+ <p>Pour la crème: </p>
+ <p>200 g de beurre</p>
+ <p>250 g de sucre</p>
+ <p>100 g de chocolat</p>
+ <p>10 cl de lait</p>
+ <p>Pour la décoration: </p>
+ <p>Noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez, l’ un après l’ autre, les différents ingrédients de la <ingredient>pâte</ingredient>. <operation>étalez cette <ingredient>pâte</ingredient> dans un <recipient>moule</recipient> rectangulaire beurré et fariné</operation> puis <operation>mettez - la au <recipient>four</recipient> 40 min à 140 ° c (thermostat 4 - 5</operation>). vous <operation>obtiendrez un fond de biscuit moelleux</operation>. <operation>préparez la <ingredient>crème</ingredient> en</operation> <operation>faisant fondre le beurre et le <ingredient>chocolat</ingredient>,</operation> puis <operation>ajoutez le lait préalablement chauffé et le <ingredient>sucre</ingredient></operation>. mettez la <ingredient>noix de coco</ingredient> dans une assiette. découpez la <ingredient>pâte</ingredient> refroidie en cubes, trempez - les dans la <ingredient>crème</ingredient> puis dans la <ingredient>noix de coco</ingredient>. <operation>laissez refroidir</operation> et <operation>durcir sur une grille</operation>.
+]]>
+ </preparation>
+</recette>

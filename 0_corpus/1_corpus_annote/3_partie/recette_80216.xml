@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80216">
+ <titre>Flan pâtissier simple</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée ou brisée</p>
+ <p>1 L de lait (fermier!) </p>
+ <p>6 oeufs</p>
+ <p>200 g de sucre</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>80 g de farine</p>
+ <p>80 g de maïzena</p>
+ <p>de la gelée de fruits</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire blanchir le <ingredient>sucre</ingredient>, le <ingredient>sucre</ingredient></operation> vanillé et les <ingredient>oeufs</ingredient>. ajouter la farine et la <ingredient>maïzena</ingredient>. pendant ce temps, <operation>faire bouillir le <ingredient>lait</ingredient></operation>. verser doucement le <ingredient>lait</ingredient> sur la préparation tout en mélangeant. remettre le tout sur feu doux en remuant jusqu’ à ce que le mélange se détache des parois de la <recipient>casserole</recipient>. mettre la <ingredient>pâte</ingredient> dans le <recipient>moule</recipient> et y verser la préparation. <operation>laisser refroidir</operation>. mettre à <recipient>four</recipient> chaud à 180 °, thermostat 6, pendant 40 min. le dessus doit être doré. badigeonner le dessus du flan de <ingredient>gelée</ingredient> à l’ aide d’ un pinceau. déguster bien foid. vous pouvez y ajouter des morceaux de <ingredient>fruits</ingredient>, du rhum, de la fleur d’ oranger, etc.
+]]>
+ </preparation>
+</recette>

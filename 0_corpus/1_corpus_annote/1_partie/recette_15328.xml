@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15328">
+ <titre>Pierojki russes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>350 g de farine</p>
+ <p>1 oeuf</p>
+ <p>13 cl d’ eau tiède</p>
+ <p>sel</p>
+ <p>Pour la farce: </p>
+ <p>600 g de pommes de terre</p>
+ <p>250 g de fromage blanc frais</p>
+ <p>1 oignon</p>
+ <p>poivre</p>
+ <p>2 cuillères à soupe de beurre fondu</p>
+ <p>lardons (quantité selon vos goûts) </p>
+ <p>2 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire la</operation> <ingredient>farce</ingredient>: pelez les <ingredient>pommes de terre</ingredient> et <operation>faites cuire dans de l’ <ingredient>eau</ingredient></operation> salée. ecrasez - les et <operation>travaillez - les</operation>. émincez l’ <ingredient>oignon</ingredient>, <operation>faites - le dorer dans une cuillerée de beurre</operation>. <operation>mélangez</operation> délicatement les <ingredient>pommes de terre</ingredient>, le <ingredient>fromage</ingredient>, l’ <ingredient>oignon</ingredient>, avec le beurre, <operation>salez</operation> et <operation>poivrez</operation>. <operation>faites le</operation> <ingredient>pâte</ingredient>: <operation>versez la farine dans un saladier</operation> et <operation>ajoutez - y l’</operation> <ingredient>oeuf</ingredient>, <operation>salez,</operation> et arroser avec l’ <ingredient>eau</ingredient>, pétrissez. <operation>étalez la <ingredient>pâte</ingredient> au rouleau</operation>. <operation>découpez - y avec un verre des ronds de 7 à 8 cm de</operation> diamètre. garnissez chacun des ronds avec un peu de <ingredient>farce</ingredient> pliez en deux et <operation>soudez les bien les bords</operation>. <operation>faites cuire dans une grande quantité d’ <ingredient>eau</ingredient> salée bouillante</operation>. <operation>laissez cuire encore 2 à 3 minutes après flottaison</operation>. servez chaud avec du beurre <ingredient>fondu</ingredient> ou bien du lard fondu avec de gros <ingredient>lardons</ingredient>. servez la <ingredient>crème fraîche</ingredient> à part. très long à <operation>faire, très rapidement</operation> mangés.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35045">
+ <titre>Sauté de dinde aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 de blanquette de dinde</p>
+ <p>2 poivrons</p>
+ <p>1 oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cube de bouillon</p>
+ <p>250 ml de coulis de tomates</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez l’ <ingredient>huile</ingredient> d’ olivre dans la <recipient>cocotte</recipient>, faitez - y</operation> <operation>revenir la volaille</operation>. epluchez et émincez l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient>. si vous en <operation>avez le courage</operation>, <operation>pelez aussi les <ingredient>poivrons</ingredient>, ce n’ est pas indispensable mais plus digeste</operation>, <operation>coupez - les ensuite en lanières</operation>. jetez le tout dans la <recipient>cocotte</recipient>, avec le <ingredient>cube de bouillon</ingredient> et le <ingredient>coulis de tomates</ingredient>. <operation>remuez bien</operation>. cuisson en <recipient>autocuiseur</recipient>: 30 mn après la rotation de la soupape, soit 2 heures (temps estimé, pas testé) en <recipient>cocotte</recipient> " normale ". <operation>accopagnez avec riz, semoule, polenta ou pommes de terre vapeur</operation>. encore meilleur réchauffé. se congèle parfaitement en barquette avec sa sauce.
+]]>
+ </preparation>
+</recette>

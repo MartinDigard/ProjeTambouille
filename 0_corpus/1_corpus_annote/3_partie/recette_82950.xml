@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82950">
+ <titre>Omelette campagnarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>4 grosses pommes de terre</p>
+ <p>1 petite boîte de champignons de Paris</p>
+ <p>1 oignon</p>
+ <p>2 tranches de bacon</p>
+ <p>basilic</p>
+ <p>paprika</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation>faites revenir les <ingredient>champignons</ingredient> et les <ingredient>oignons</ingredient> en morceaux, une <ingredient>petite</ingredient> cuillère de <ingredient>basilic</ingredient> et une pincée de <ingredient>paprika</ingredient></operation>. dans une autre <recipient>poêle</recipient>, <operation>faites griller le <ingredient>bacon</ingredient></operation> émincé. <operation>egouttez - le</operation> et <operation>réservez</operation>. pendant ce temps, faites cuire les <ingredient>pommes de terre</ingredient> épluchées au micro-ondes pendant 10 min. <operation>coupez - les en rondelles</operation> et <operation>ajoutez - les aux <ingredient>champignons</ingredient></operation>. dans un bol, <operation>battez les <ingredient>oeufs</ingredient> en omelette</operation>. <operation>versez les légumes dans un saladier</operation>, <operation>ajoutez les</operation> <ingredient>oeufs</ingredient>, <operation>salez</operation> et <operation>poivrez</operation>. <operation>mélangez bien pour que tout soit</operation> enrobé. <operation>ajoutez le</operation> <ingredient>bacon</ingredient> puis <operation>versez le tout dans une grande <recipient>poêle</recipient></operation>. <operation>laissez cuire à feu doux sans</operation> retourner. <operation>servez avec une bonne salade</operation>.
+]]>
+ </preparation>
+</recette>

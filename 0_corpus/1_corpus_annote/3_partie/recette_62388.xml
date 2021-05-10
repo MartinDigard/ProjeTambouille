@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62388">
+ <titre>Croc’ choco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat pâtissier</p>
+ <p>30 g de sucre</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>60 g de beurre</p>
+ <p>1 pincée de sel</p>
+ <p>6 boudoirs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites fondre le</operation> <ingredient>chocolat</ingredient> puis <operation>ajoutez le beurre et le <ingredient>sucre</ingredient> hors du feu</operation> <operation>ajoutez alors le <ingredient>sel</ingredient> et les <ingredient>jaunes</ingredient> d’ <ingredient>oeufs</ingredient></operation>. <operation>ecrasez les boudoirs dans un sac en plastique</operation>. <operation>ajoutez à la crème au <ingredient>chocolat</ingredient> les boudoirs et mélangez</operation>. <operation>versez le mélange dans une boite en plastique</operation> et <operation>fermez - le avec un film alimentaire</operation>. placez la boîte au <recipient>congélateur</recipient>. vous pouver <operation>ajoutez du nougat, des noisettes, des noix</operation>...
+]]>
+ </preparation>
+</recette>

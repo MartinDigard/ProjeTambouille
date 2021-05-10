@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50183">
+ <titre>Fricassé d’ écrevisses aux pâtes fraîches</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de tagliatelles</p>
+ <p>800 g d’ écrevisses (ou grosses crevettes) </p>
+ <p>quelques tomates</p>
+ <p>60 cl de crème fraiche</p>
+ <p>1 citron</p>
+ <p>4 gousses d’ ail</p>
+ <p>2 cuillères à café de curry</p>
+ <p>2 cuillères à café de curcuma</p>
+ <p>coriandre fraîche</p>
+ <p>10 cl de vermouth sec</p>
+ <p>50 g de beurre</p>
+ <p>4 à 5 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir les <ingredient>écrevisses</ingredient> 1 minute à la <recipient>poêle</recipient> avec le beurre et les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> pelées et écrasées</operation>. <operation>saupoudrez de</operation> <ingredient>curry</ingredient>, <operation>mélangez - les rapidement</operation> et <operation>retirez - les du feu</operation>. déglacez le jus de <ingredient>citron</ingredient> avec le <ingredient>vermouth</ingredient>, ajoutez la <ingredient>crème fraiche</ingredient> et le <ingredient>citron</ingredient> pressé. entre-temps, <operation>portez à ébulition un grand volume d’ eau</operation> salée avec le <ingredient>curcuma</ingredient>. <operation>ajoutez l’ huile</operation>, <operation>faites - y</operation> cuire les pâtes. <operation>remettez les <ingredient>écrevisses</ingredient> quelques instants dans la sauce pour les réchauffer</operation>. <operation>dressez les pâtes en nid au centre de l’ assiette</operation>, <operation>mettez un cordon de sauce autour</operation> et <operation>disposez les crevettes sur les pâtes</operation>. parsemez de <ingredient>coriandre</ingredient> ciselée et des dés de <ingredient>tomates</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25919">
+ <titre>Jambalaya au lard et aux fruits de mer</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de riz</p>
+ <p>250 g de lard frais coupé en dés</p>
+ <p>1 tranche épaisse de jambon de pays coupé en dés</p>
+ <p>2 pinces des crabes</p>
+ <p>16 langoustines cuites</p>
+ <p>24 clams</p>
+ <p>4 tomates concassées</p>
+ <p>2 poivrons détaillés en dés</p>
+ <p>2 oignons hachés</p>
+ <p>4 gousses d’ ail écrasées</p>
+ <p>2 piments de Cayenne</p>
+ <p>1 citron vert</p>
+ <p>1 l de fumet de poisson</p>
+ <p>huile</p>
+ <p>thym</p>
+ <p>1/2 cuillère à soupe de paprika</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez tous les éléments comme</operation> cités dans les ingrédients. <operation>faites revenir les lardons dans une grande <recipient>cocotte</recipient> avec un peu d’</operation> huile. ajoutez les <ingredient>oignons</ingredient>, l’ <ingredient>ail écrasées</ingredient> et les <ingredient>poivrons</ingredient>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>laissez revenir</operation>. <operation>ajoutez le</operation> <ingredient>riz</ingredient>, <operation>saupoudrez de</operation> <ingredient>thym</ingredient> et <operation>ajoutez les <ingredient>piments</ingredient>, les <ingredient>tomates</ingredient> et le <ingredient>jambon</ingredient></operation>. <operation>pressez le</operation> <ingredient>citron</ingredient> et <operation>versez le jus dans la <recipient>cocotte</recipient></operation>, <operation>saupoudrez de</operation> <ingredient>paprika</ingredient> et mouillez à hauteur de <ingredient>fumet de poisson</ingredient>. <operation>ajoutez les <ingredient>pinces</ingredient> de <ingredient>crabes</ingredient></operation> cassées, les <ingredient>langoustines</ingredient> et les <ingredient>clams</ingredient>. <operation>couvrez</operation> et <operation>laissez mijoter environ 30 min à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

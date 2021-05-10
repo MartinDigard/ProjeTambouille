@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169753">
+ <titre>Grillade de porc à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 côtes de porc </p>
+ <p>1 échalote</p>
+ <p>20 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 cuillère à soupe de vinaigre de vin blanc</p>
+ <p>20 cl de crème fraîche</p>
+ <p>3 ou 4 cornichons au vinaigre</p>
+ <p>2 cuillères à soupe de moutarde forte</p>
+ <p>Sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez et hachez l’ <ingredient>échalote</ingredient></operation>. <operation>coupez les <ingredient>cornichons</ingredient> en rondelles</operation>. <operation>laissez chauffer le beurre et l’ <ingredient>huile</ingredient> dans une grande <recipient>poêle</recipient></operation> et <operation>faites - y</operation> revenir les <ingredient>côtes de porc</ingredient> pendant 5 à 6 minutes de chaque côté. <operation>salez</operation> et</operation> <operation>poivrez</operation> - les à la fin</operation>. <operation>enlevez - les de la <recipient>poêle</recipient></operation> et <operation>gardez - les au chaud dans le <recipient>plat</recipient> de service</operation>. <operation>ajoutez l’ <ingredient>échalote</ingredient> dans le gras de la <recipient>poêle</recipient></operation> et <operation>laissez - la</operation> cuire sans brûler pendant 3 à 4 minutes. <operation>versez le</operation> <ingredient>vinaigre</ingredient> et <operation>mélangez</operation>. ajoutez - y la <ingredient>crème fraîche</ingredient> et les rondelles de <ingredient>cornichons</ingredient>. <operation>portez à ébullition</operation> et <operation>laissez mijoter de 2 à 3 minutes</operation>. <operation>salez</operation> et</operation> <operation>poivrez</operation>. <operation>sortez la <recipient>poêle</recipient> du feu</operation> et <operation>incorporez la <ingredient>moutarde</ingredient> à la sauce</operation>. <operation>versez - la sur les grillades</operation> et <operation>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220014">
+ <titre>Tartare de saumon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pavé de saumon de 300-400 g</p>
+ <p>1 grosse échalote ou (2 petites) </p>
+ <p>2 fromages blancs de 90 g</p>
+ <p>le jus d’ un demi-citron</p>
+ <p>quelques brins d’ aneth</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>détaillez le <ingredient>saumon</ingredient> en petits dés, émincez l’ <ingredient>échalote</ingredient>,</operation> et <operation>mélangez tous les ingrédients dans un bol, tout simplement</operation>! <operation>dressez ensuite comme vous le</operation> souhaitez (verrines, assiettes...).
+]]>
+ </preparation>
+</recette>

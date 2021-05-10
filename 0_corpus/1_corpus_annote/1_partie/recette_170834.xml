@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170834">
+ <titre>La pizza de Suzanne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de farine</p>
+ <p>1 petit verre d’ eau (12 cl) </p>
+ <p>2 cuillers à soupe d’ huile d’ olive</p>
+ <p>1 sachet de levure chimique (ou la dose conséquente d’ après les indications du sachet) </p>
+ <p>1 pincée de sel</p>
+ <p>4 tomates</p>
+ <p>2 oignons </p>
+ <p>300 g de bacon ou de lardons</p>
+ <p>100 g de fromage rappé</p>
+ <p>des herbes</p>
+ <p>des épices</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez la pâte en</operation> mélangeant la farine et la <ingredient>levure</ingredient> puis en ajoutant les autres ingrédients dans un saladier. si la pâte est trop sèche, <operation>ajoutez un peu d’</operation> <ingredient>eau</ingredient> mais <operation>faites le <ingredient>petite</ingredient> à <ingredient>petit</ingredient></operation>. <operation>mélangez bien</operation>. <operation>recouvrez d’ un torchon</operation> et <operation>laissez reposer 30 min</operation>. pendant ce temps, <operation>mixez les <ingredient>tomates</ingredient> avec un robot jusqu’ à ce qu’ elles soient</operation> réduites en jus. mettez - le dans une <recipient>casserole</recipient> à feu doux avec 1 <ingredient>cuiller à soupe</ingredient> de sucre. <operation>ajoutez ail</operation>, basilic, <ingredient>sel</ingredient>, poivre, thym, <ingredient>herbes</ingredient> de provence... selon vos goûts. <operation>ajoutez un peu de sucre si nécessaire</operation>. vous pouvez ajouter ensuite un peu de <ingredient>tomate</ingredient> mixée en plus si il n’ y en a pas assez. <operation>faites revenir les <ingredient>lardons</ingredient> et l’ <ingredient>oignon</ingredient> coupés en <ingredient>petits</ingredient> morceaux dans une <recipient>poêle</recipient> sans</operation> ajouter de matière grasse. <operation>etalez la pâte (si elle n’ est pas assez élastique</operation> <operation>ajoutez un peu d’ <ingredient>huile</ingredient> d’</operation> <ingredient>olive</ingredient>). tartinez les pizzas de la sauce <ingredient>tomate</ingredient>, <operation>ajoutez les <ingredient>lardons</ingredient> et l’ <ingredient>oignon</ingredient> et parsemez de <ingredient>fromage</ingredient> râpé</operation>. enfournez thermostat 8/9 (250 ° c) pour 20 min. j’ ai essayé de mixer les <ingredient>lardons</ingredient> et l’ <ingredient>oignon</ingredient> ; une purée à l’ aspect bizarre mais qui donne une bon résultat à la cuisson.
+]]>
+ </preparation>
+</recette>

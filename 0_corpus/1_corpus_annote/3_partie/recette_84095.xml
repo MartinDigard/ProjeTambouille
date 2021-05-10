@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84095">
+ <titre>Petits gratins de la mer</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g de moules fraîches</p>
+ <p>24 crevettes roses</p>
+ <p>100 g d’ écrevisse (rayon poisson frais) </p>
+ <p>1/2 blanc de poireau</p>
+ <p>Pour la béchamel: </p>
+ <p>75 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>50 cl lait</p>
+ <p>20 cl de vin blanc</p>
+ <p>sel, poivre</p>
+ <p>1 poignée de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et nettoyez les <ingredient>moules</ingredient>. faites cuire dans 20 cl de <ingredient>vin blanc</ingredient>. <operation>décortiquez les</operation> <ingredient>crevettes</ingredient>, <operation>préparez les <ingredient>écrevisses</ingredient></operation>. <operation>faites fondre le beurre dans une <recipient>casserole</recipient></operation> et <operation>saupoudrez de <ingredient>farine</ingredient></operation>. <operation>faites revenir quelques instants</operation> puis <operation>ajoutez du lait</operation>. <operation>faites épaissir en</operation> remuant au fouet. <operation>assaisonnez de <ingredient>sel</ingredient> et de poivre</operation>. emincez le <ingredient>blanc de poireau</ingredient>, le <operation>faire revenir dans la <recipient>poêle</recipient> avec un peu de beurre</operation>. ajoutez à la <ingredient>béchamel</ingredient> 10 cl de <ingredient>vin blanc</ingredient> de cuisson puis les <ingredient>moules</ingredient>, les <ingredient>crevettes</ingredient>, les <ingredient>écrevisses</ingredient> et le <ingredient>poireau</ingredient> émincé. <operation>versez dans des ramequins individuels</operation> et saupoudrez de <ingredient>gruyère râpé</ingredient>. <operation>faites gratiner au <recipient>four</recipient>, à 220 °, thermostat 7, pendant 15 min</operation>. trop bon!
+]]>
+ </preparation>
+</recette>

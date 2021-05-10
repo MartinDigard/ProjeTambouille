@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25546">
+ <titre>Salade de chèvres chauds</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de gésiers de volaille par personne</p>
+ <p>1 salade (de type frisée ou feuille de chêne) </p>
+ <p>3 chèvres frais par personne </p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de chapelure</p>
+ <p>2 cuillères à soupe d’ huile de pépin de raisin</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>gésiers</ingredient>, puis les</operation> <operation>faire revenir quelques minutes dans une <recipient>poêle</recipient></operation>. pendant ce temps tremper les <ingredient>chèvres</ingredient> dans l’ <ingredient>oeuf</ingredient> puis dans la <ingredient>chapelure</ingredient>. laver la <ingredient>salade</ingredient> et l’ assaisonner avec 3 <ingredient>cuillères à soupe</ingredient> l’ <ingredient>huile de pépin de raisin</ingredient> (ou d’ arachide) et 2 <ingredient>cuillères à soupe de vinaigre balsamique</ingredient>. <operation>faire revenir les <ingredient>chèvres</ingredient> dans une <recipient>poêle</recipient> avec un peu d’ <ingredient>huile</ingredient> d’ arachide</operation>. <operation>servir dans de grandes assiettes en</operation> plaçant la <ingredient>salade</ingredient> au centre par exemple. vous pouvez remplacer les <ingredient>gésiers de volaille</ingredient> par des lamelles de magrets de canard fumé ou du saumon fumé (dans ce cas <operation>faire une sauce au citron pour la</operation> <ingredient>salade</ingredient>). cette " entrée " peut constituer un <recipient>plat</recipient> principal.
+]]>
+ </preparation>
+</recette>

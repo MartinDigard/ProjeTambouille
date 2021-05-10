@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52532">
+ <titre>Tarte à l’ orange et aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>200 g de sucre semoule</p>
+ <p>30 g de farine</p>
+ <p>2 oranges</p>
+ <p>100 g de noisettes moulues</p>
+ <p>1 rouleau de pâte brisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à thermostat 6 (180 ° c). <operation>déroulez la <ingredient>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, avec le papier cuisson,</operation> et <operation>piquez le fond avec une fourchette</operation>. faîtes cuire à blanc environ 15 min. <operation>travaillez les jaunes d’ <ingredient>oeufs</ingredient> avec 75 g de <ingredient>sucre</ingredient>, jusqu’ à</operation> <operation>obtenir une crème mousseuse et blanche</operation> ; <operation>réservez les blancs d’ <ingredient>oeufs</ingredient></operation>. ajoutez le zeste d’ une <ingredient>orange</ingredient> et le jus des <ingredient>oranges</ingredient>, les <ingredient>noisettes moulues</ingredient> et la farine. <operation>faites cuire 15 min au <recipient>bain - marie</recipient> tout en</operation> remuant. <operation>ajoutez à la crème les blancs</operation> battus en neige avec le reste de <ingredient>sucre</ingredient>. garnissez de cette préparation la <ingredient>pâte</ingredient> cuite et enfournez pendant environ 15 min.
+]]>
+ </preparation>
+</recette>

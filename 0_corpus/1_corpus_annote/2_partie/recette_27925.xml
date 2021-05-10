@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27925">
+ <titre>Thon rôti aux légumes confits</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 tranche de thon frais de 600 g</p>
+ <p>4 tomates</p>
+ <p>2 poivrons</p>
+ <p>2 oignons</p>
+ <p>6 cuillères à soupe d’ huile</p>
+ <p>1 bonne pincée de thym émietté</p>
+ <p>1 bonne pincée de laurier émietté</p>
+ <p>1 cuillère à café d’ ail haché</p>
+ <p>1 cuillère à café de paprika doux</p>
+ <p>1 cuillère à café de mélange pour rouille</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez les <ingredient>tomates</ingredient> et les <ingredient>oignons</ingredient></operation>. <operation>coupez - les en quartiers</operation>. emincez et <operation>épépinez les <ingredient>poivrons</ingredient></operation>. <operation>faites chauffer l’ huile</operation>, <operation>mettez - les les</operation> <ingredient>poivrons</ingredient> et <operation>laissez revenir 5 minutes</operation>. <operation>ajoutez les <ingredient>oignons</ingredient> et les <ingredient>tomates</ingredient>, du <ingredient>sel</ingredient>, du poivre, le <ingredient>thym</ingredient>, le <ingredient>laurier</ingredient> et l’ <ingredient>ail</ingredient></operation>. <operation>poursuivez la cuisson 20 minutes, les légumes</operation> doivent être fondants. versez - les dans un <recipient>plat</recipient> huilé allant au <recipient>four</recipient>. déposez le <ingredient>thon</ingredient> dessus, saupoudrez de <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, <ingredient>paprika</ingredient> et du <ingredient>mélange pour rouille</ingredient>. <operation>faites cuire 25 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). tranchez le <ingredient>thon</ingredient> et <operation>servez</operation>. <operation>accompagnez de riz ou pommes de terre vapeur</operation>.
+]]>
+ </preparation>
+</recette>

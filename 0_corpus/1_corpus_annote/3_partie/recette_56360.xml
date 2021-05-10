@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56360">
+ <titre>Pizza oeuf - viande hachée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pâte à pizza</p>
+ <p>sauce tomate</p>
+ <p>500 g de viandes hachées</p>
+ <p>4-5 oeufs</p>
+ <p>gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>etalez votre pâte à <ingredient>pizza</ingredient> dans un <recipient>plat</recipient> de cuisson</operation>. etalez ensuite la <ingredient>sauce tomate</ingredient> nécessaire régulierement sur votre pâte. répartissez la <ingredient>viande</ingredient> hachée sur la sauce <ingredient>tomate</ingredient>. <operation>cassez le nombres d’ <ingredient>oeufs</ingredient> selon le nombre de personnes sur la <ingredient>viande</ingredient> pour que chaque personne est 1 <ingredient>oeuf</ingredient> dans sa part</operation>. pour <operation>finir</operation> <operation>saupoudrez le tout de <ingredient>gruyère</ingredient> râpé</operation>.
+]]>
+ </preparation>
+</recette>

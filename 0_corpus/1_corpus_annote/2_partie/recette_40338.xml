@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40338">
+ <titre>Semoule au lait au coulis de mûres</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la semoule au lait: </p>
+ <p>60 g de semoule fine</p>
+ <p>1/2 litre de lait</p>
+ <p>20 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>Pour le coulis de mûres: </p>
+ <p>250 g de mûres</p>
+ <p>50 g de sucre</p>
+ <p>1 jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire le gâteau de</operation> <ingredient>semoule</ingredient>: <operation>faire bouollir de <ingredient>lait</ingredient> avec le <ingredient>sucre</ingredient> et le</operation> <ingredient>rhum</ingredient>, ajouter la <ingredient>semoule</ingredient> en pluie <ingredient>fine</ingredient>. <operation>faire cuire 8 à 10 min selon la consistance</operation> souhaitée. <operation>laisser bien refroidir</operation>. écraser les <ingredient>mûres</ingredient> au moulin à légume ou au presse purée (pas au mixer), ajouter le <ingredient>sucre</ingredient> et le <ingredient>jus de citron</ingredient>, <operation>faire chauffer doucement (pour</operation> <operation>faire fondre le <ingredient>sucre</ingredient>,</operation> et lier le <ingredient>coulis</ingredient>). <operation>laisser refroidir également</operation>. quand tout est froid, verser le <ingredient>coulis</ingredient> sur la <ingredient>semoule au lait</ingredient>. on peut aussi mélanger la <ingredient>semoule</ingredient> cuite encore chaude avec le <ingredient>coulis</ingredient> encore chaud et tout <operation>laisser refroidir</operation>.
+]]>
+ </preparation>
+</recette>

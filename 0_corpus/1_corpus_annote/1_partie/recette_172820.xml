@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172820">
+ <titre>Fricassée de poulet facile et rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon de taille moyenne, coupé en petits morceaux</p>
+ <p>2 gousses d’ ail, écrasées</p>
+ <p>4 blancs de poulet coupés en dés</p>
+ <p>sel et poivre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 verre de vin blanc</p>
+ <p>15 cl de bouillon de poule</p>
+ <p>fines herbes ou autre</p>
+ <p>2 cuillères à café de moutarde</p>
+ <p>225 g de champignons, en lamelles</p>
+ <p>15 cl de lait</p>
+ <p>2 cuillères à soupe de fromage blanc à 0% (ou crème allégée ou équivalent) </p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient> dans une <recipient>sauteuse</recipient> jusqu’ a ce qu’ il soit tendre</operation>, ajouter l’ <ingredient>ail</ingredient> et le <ingredient>poulet</ingredient>, assaisonner et cuire pendant 2 à 3 minutes jusqu’ à ce que le <ingredient>poulet</ingredient> soit’ <ingredient>blanc</ingredient>’. ajouter la farine, bien mélanger, puis <operation>faire cuire pendant 1 minute</operation>. ajouter le <ingredient>vin blanc</ingredient> et le <ingredient>bouillon</ingredient>, <ingredient>petit</ingredient> à <ingredient>petit</ingredient>, puis ensuite la <ingredient>moutarde</ingredient>, les <ingredient>champignons</ingredient> et le lait. <operation>faire mijoter environ 15 minutes jusqu’ à ce que la sauce épaississe et que le <ingredient>poulet</ingredient> soit cuit</operation>. la sauce ne réduit pas beaucoup et reste assez liquide. enlever la <recipient>sauteuse</recipient> de la source de chaleur, ajouter le <ingredient>fromage blanc</ingredient> et le <ingredient>persil</ingredient>, puis <operation>servir immédiatement</operation>. a déguster avec du riz
+]]>
+ </preparation>
+</recette>

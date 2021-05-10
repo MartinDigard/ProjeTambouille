@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70895">
+ <titre>Gâteau Choco-bananes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g farine</p>
+ <p>50 g maïzena</p>
+ <p>2 oeufs</p>
+ <p>1 levure</p>
+ <p>200 g sucre (dont 1 sachet vanillé) </p>
+ <p>10 cl huile</p>
+ <p>10 cl lait</p>
+ <p>1 peu de rhum (au choix) </p>
+ <p>200 g de chocolat à cuire</p>
+ <p>2 bananes</p>
+ <p>2 pommes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger au fouet électrique dans un saladier: farine, maïzena, <ingredient>levure</ingredient>, <ingredient>oeufs</ingredient>, sucre, huile, lait et <ingredient>rhum</ingredient> jusqu’ à obtention d’ une pâte épaisse et lisse. eplucher les fruits et les couper en dés. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). beurrer un <recipient>moule</recipient> et y déposer les fruits. <operation>recouvrir du <ingredient>chocolat</ingredient></operation> coupé en carrés puis de la pâte. <operation>faire <ingredient>cuire</ingredient> environ 45 minutes</operation>. petite variante pour les gourmands: variez les <ingredient>chocolats</ingredient> (au lait, <operation>noir, noisettes</operation>...). quand le gâteau sort du <recipient>four</recipient>, les carrés sont encore fondants, c’ est un régal. et froid, les carrés croquent au coeur du gâteau...
+]]>
+ </preparation>
+</recette>

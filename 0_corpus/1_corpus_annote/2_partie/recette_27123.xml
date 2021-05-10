@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27123">
+ <titre>Escalopes à l’ italienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 escalopes</p>
+ <p>50 g de beurre</p>
+ <p>1 oeuf</p>
+ <p>1 citron</p>
+ <p>3 cuillères à soupe de chapelure fine</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre l’ <ingredient>oeuf</ingredient> dans une assiette et préparer la <ingredient>chapelure</ingredient> dans une autre assiette creuse. saler, poivrer chaque <ingredient>escalopes</ingredient> et les passer dans l’ <ingredient>oeuf</ingredient> puis la <ingredient>chapelure</ingredient>. tapoter légèrement chaque <ingredient>escalope</ingredient> pour enlever le surplus de <ingredient>chapelure</ingredient>. dans une <recipient>poêle</recipient>, <operation>faire fondre le beurre et y</operation> <operation>faire dorer les <ingredient>escalopes</ingredient> 5 min par face</operation>. réserver sur du papier absorbant pour enlever l’ excès de matière grasse. <operation>servir avec des rondelles de <ingredient>citron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

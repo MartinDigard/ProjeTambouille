@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27289">
+ <titre>Lapin campagnard aux cèpes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tranches de lard</p>
+ <p>1 lapin coupé en morceaux</p>
+ <p>2 oignons</p>
+ <p>300 g de cèpes</p>
+ <p>1 chou</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir le <ingredient>lard</ingredient> pendant 2 min dans une <recipient>poêle</recipient> chaude</operation> puis <operation>retirez</operation> - le et <operation>ajoutez le <ingredient>lapin</ingredient> avec les <ingredient>oignons</ingredient></operation> émincés. <operation>salez</operation>, <operation>poivrez</operation>. <operation>laissez cuire 10 min</operation>. <ingredient>coupez</ingredient> le <ingredient>chou</ingredient> en 4 et <operation>blanchissez - le 1 min dans l’ eau bouillante</operation> salée. <operation>disposez les <ingredient>cèpes</ingredient>, le <ingredient>lard</ingredient> et le <ingredient>chou</ingredient> avec le</operation> <ingredient>lapin</ingredient>, mouillez de <ingredient>vin blanc</ingredient> et <operation>laissez cuire 40 à 45 min</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44901">
+ <titre>Risotto de courgettes aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz rond</p>
+ <p>1 litre de bouillon de légumes</p>
+ <p>2 courgettes</p>
+ <p>250 g de champignons de Paris</p>
+ <p>1 gros oignon</p>
+ <p>25 cl de crème fraîche</p>
+ <p>50 g de parmesan</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre, origan, basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir l’ <ingredient>oignon</ingredient></operation> émincé, les <ingredient>champignons</ingredient> et les <ingredient>courgettes</ingredient> coupées en rondelles dans deux cuillères à soupe d’ huile d’ <ingredient>olive</ingredient>. <operation>ajoutez le <ingredient>riz</ingredient></operation>. lorsqu’ il est devenu translucide, versez 1/4 <ingredient>litre de bouillon</ingredient>. <operation>faites cuire à feu doux, en</operation> mouillant régulièrement avec le reste du <ingredient>bouillon</ingredient> (n’ hésitez pas à en rajouter, si vous avez épuisé le <ingredient>litre</ingredient>). lorsque le <ingredient>riz</ingredient> est quasiment cuit, <operation>versez la <ingredient>crème</ingredient> et le</operation> <ingredient>parmesan</ingredient>, <operation>assaisonnez</operation> suivant votre goût, et <operation>laissez réduire jusqu’ à cuisson complète du <ingredient>riz</ingredient></operation>. <operation>servez immédiatement</operation>. un risotto végétarien bien crèmeux. pour les amateurs de viandes, on peut le servir avec du poulet.
+]]>
+ </preparation>
+</recette>

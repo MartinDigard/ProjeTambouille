@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20760">
+ <titre>Riz gratiné aux lentilles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de riz cuit</p>
+ <p>150 g de lentilles cuites</p>
+ <p>2 oeufs</p>
+ <p>2 oignons</p>
+ <p>75 g de fromage râpé</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 gousses d’ ail</p>
+ <p>15 g de beurre</p>
+ <p>1, 5 cuillère à soupe de sauce soja</p>
+ <p>50 g de chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation>mélangez le <ingredient>riz</ingredient> à l’ <ingredient>oeuf</ingredient> battu</operation>, assaisonnez de <ingredient>sauce soja</ingredient>. <operation>faites blondir l’ <ingredient>oignon</ingredient></operation> haché dans le beurre puis <operation>ajoutez - le au <ingredient>riz</ingredient></operation>. <operation>incorporez également l’ <ingredient>ail</ingredient></operation> haché, les lentilles et le <ingredient>fromage</ingredient>. <operation>versez la préparation dans un <recipient>plat</recipient> à gratin huilé</operation>. <operation>saupoudrez de</operation> <ingredient>chapelure</ingredient>, <operation>arrosez d’</operation> <ingredient>huile</ingredient> et <operation>faites gratiner au <recipient>four</recipient> pendant 10 - 15 minutes</operation>.
+]]>
+ </preparation>
+</recette>

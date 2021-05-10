@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44864">
+ <titre>Gâteau au miel vite fait</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de yaourt</p>
+ <p>1/2 pot d’ huile</p>
+ <p>1/2 pot de miel</p>
+ <p>1/2 pot de sucre</p>
+ <p>3 pots de farine</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1/2 sachet de levure</p>
+ <p>2 oeufs</p>
+ <p>miel fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+il suffit de mélanger tout les ingrédients (sauf le <ingredient>miel</ingredient>), jusqu’ à <operation>obtenir une " pâte ", avec le moins de grumeaux possible</operation>! beurrer le <recipient>plat</recipient>. verser la pâte dedans, et enfourner 20 min, à 180 ° c (th 6). ensuite, démouler le gâteau. <operation>faire fondre le <ingredient>miel</ingredient> (à vous de</operation> voir la quantité) au <recipient>bain - marie</recipient> ou 10 secondes au micro-ondes. en <operation>recouvrir le gâteau</operation>. voilà, c’ est prêt!!! c’ est délicieux, simple, et ça change un peu du gâteau au <ingredient>yaourt</ingredient> habituel!!!
+]]>
+ </preparation>
+</recette>

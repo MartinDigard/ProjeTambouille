@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50606">
+ <titre>Fruits givrés</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>des fruits frais (fraise, raisin, framboises, cerises, melon, kiwi,.....) </p>
+ <p>du blanc d’ oeuf </p>
+ <p>du sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation>séchez les <ingredient>fruits</ingredient> soigneusement</operation>. <operation>versez le <ingredient>blanc</ingredient> d’ <ingredient>oeuf</ingredient> dans une assiette creuse et le <ingredient>sucre</ingredient> dans une autre</operation>. enduisez les <ingredient>fruits</ingredient> de <ingredient>blanc</ingredient> d’ <ingredient>oeuf</ingredient> au pinceau un par un puis <operation>roulez - les dans le <ingredient>sucre</ingredient></operation>. <operation>laissez le <ingredient>sucre</ingredient></operation> cristallisé et former une carapace. <operation>laissez sécher les</operation> <operation>fruis sur du papier</operation> sulfurisé pendant au moins 1/2 journée, à l’ abri de l’ humidité. répartissez les <ingredient>fruits</ingredient> couverts de givre dans des petites caissettes en papier pour <operation>faire plus chic</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17318">
+ <titre>BOEUF DIANE</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de paleron de boeuf</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>4 gousses d’ ail écrasées</p>
+ <p>1 oignon haché</p>
+ <p>1 boîte de tomates pelées</p>
+ <p>125 ml d’ eau</p>
+ <p>2 cubes de bouillon de boeuf</p>
+ <p>2 cuillères à soupe de sauce Worcestershire</p>
+ <p>125 ml de crème</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>1 cuillère à soupe de Cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) <operation>coupez la viande en <ingredient>cubes</ingredient></operation>. <operation>faites chauffer l’ <ingredient>huile</ingredient> dans une <recipient>sauteuse</recipient></operation> et <operation>ajoutez la viande, en plusieurs fois si nécessaire, pour qu’ elle soit</operation> dorée de toutes parts. <operation>ajoutez l’ <ingredient>ail</ingredient> et l’</operation> <ingredient>oignon</ingredient>, <operation>laissez fondre sans</operation> cesser de remuer. 2) ajoutez les <ingredient>tomates écrasées</ingredient> avec leur jus, l’ <ingredient>eau</ingredient>, les <ingredient>cubes de bouillon</ingredient> émiettés, la <ingredient>sauce</ingredient> worcestershire et le <ingredient>cognac</ingredient>. <operation>laissez mijoter à couvert pendant 1h30</operation>. 3) <operation>ajoutez la <ingredient>crème</ingredient> et le</operation> <ingredient>persil</ingredient> et <operation>laissez mijoter à découvert jusqu’ à ce que la <ingredient>sauce</ingredient> ait épaissi</operation>. <operation>servez avec des pâtes</operation>.
+]]>
+ </preparation>
+</recette>

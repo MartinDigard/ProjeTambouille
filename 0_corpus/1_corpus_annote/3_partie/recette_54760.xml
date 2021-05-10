@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54760">
+ <titre>Pommes de terre farcies à la cocotte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>50 g margarine ou beurre</p>
+ <p>250 g chair à saucisse</p>
+ <p>1 oignon</p>
+ <p>1 bouillon de volaille</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient>pommes de terre</ingredient> et <operation>creusez - les au centre</operation>. farcissez les <ingredient>pommes de terre</ingredient> avec la chair à <ingredient>saucisse</ingredient> salée et poivrée. <operation>faites fondre dans la <recipient>cocotte</recipient> le beurre</operation> et <operation>roussir un peu l’ <ingredient>oignon</ingredient>,</operation> puis mettez - y les <ingredient>pommes de terre</ingredient> à rissoler avec le surplus de chair émietté. <operation>salez</operation>, <operation>poivrez</operation>, ajoutez le <ingredient>bouillon de volaille</ingredient> et <operation>fermez la <recipient>cocotte</recipient></operation>. <operation>laissez cuire 15 min à</operation> <operation>partir du chuchotement de la soupape</operation>.
+]]>
+ </preparation>
+</recette>

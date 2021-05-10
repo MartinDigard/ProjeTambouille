@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23992">
+ <titre>Poulet aux poivrons et Banyuls</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>2 poivrons rouges</p>
+ <p>1 poivron jaune</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl de Banyuls</p>
+ <p>une pincée de thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites dorer les <ingredient>cuisses</ingredient></operation>. pendant ce temps, couper les <ingredient>poivrons</ingredient> en lanières et émincer l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient>. une fois les <ingredient>cuisses</ingredient> bien dorées, les mettre de côté. a la place, <operation>faites blondir l’ <ingredient>oignon</ingredient></operation>. ajouter les <ingredient>poivrons</ingredient> et l’ <ingredient>ail</ingredient>. cuire 15 min à feu doux. <operation>ajoutez les <ingredient>cuisses</ingredient>, puis le <ingredient>banyuls</ingredient></operation>. <operation>salez</operation> et <operation>poivrez</operation>. rajoutez une <ingredient>pincée de thym</ingredient>. <operation>laissez mijotez 45 min à 1h sur feu moyen, en</operation> remuant de temps en temps. <operation>servir avec du riz, pour trancher avec la belle couleur des <ingredient>oignons</ingredient></operation>. si vous ne <operation>trouvez pas de <ingredient>banyuls</ingredient>, un bon vin cuit</operation> sucré fera l’ affaire!
+]]>
+ </preparation>
+</recette>

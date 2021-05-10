@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223750">
+ <titre>Poulet mariné à la sauce soja</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet (ou de dinde) </p>
+ <p>sauce soja</p>
+ <p>4 feuilles de thym</p>
+ <p>1 gousse d’ ail (facultatif car faut aimer) </p>
+ <p>1 cuillère à soupe d’ huile de tournesol</p>
+ <p>poivre (pas de sel) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire mariner les blancs de <ingredient>poulet</ingredient> coupés en petits morceaux avec la sauce <ingredient>soja</ingredient>, le <ingredient>thym</ingredient>, le poivre et l’ <ingredient>ail</ingredient> (pour ceux qui</operation> aiment) pendant 20 min environ (+ ou - selon qu’ on ait le temps ou pas). mettre le tout bien à <recipient>plat</recipient> dans 1 <recipient>plat</recipient> puis arroser avec 1 filet d’ <ingredient>huile de tournesol</ingredient>. mettre au <recipient>four</recipient> à 200 ° c, en remuant à mi-cuisson, pendant 20 à 30 min selon qu’ on veuille le <ingredient>poulet</ingredient> moelleux ou plus croustillant. accompagner de riz <operation>cantonais par exemple</operation>.
+]]>
+ </preparation>
+</recette>

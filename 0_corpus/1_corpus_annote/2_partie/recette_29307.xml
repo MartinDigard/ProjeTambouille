@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29307">
+ <titre>Marrons en soufflés</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>500 g de marrons</p>
+ <p>2 oeufs</p>
+ <p>75 g de sucre</p>
+ <p>15 g de beurre</p>
+ <p>1 gousse de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+percer tous les <ingredient>marrons</ingredient> et les mettre à cuire dans l’ eau bouillante durant 10 minutes puis égoutter et les peler. <operation>faire chauffer le lait avec la gousse de <ingredient>vanille</ingredient> fendue et grattée</operation> puis ajouter les <ingredient>marrons</ingredient> et le <ingredient>sucre</ingredient>. <operation>laisser cuire 30 minutes</operation> puis réduire en purée. préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). ajouter le beurre, les jaunes d’ <ingredient>oeufs</ingredient> et les blancs battus en neige ferme. verser la préparation dans un <recipient>moule</recipient> à soufflé beurré et sucré. enfourner pour 30 minutes de cuisson sans <operation>ouvrir la porte du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

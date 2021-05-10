@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35670">
+ <titre>Soupe à la tomate à l’ ail</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>10 gousses d’ ail</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>800 g tomates concassées</p>
+ <p>500 ml de bouillon de légumes ou volaille</p>
+ <p>200 ml jus de tomate</p>
+ <p>1 cuillère à café vinaigre balsamique</p>
+ <p>1 cuillère à soupe de sauce de soja</p>
+ <p>2 feuilles de laurier</p>
+ <p>100 ml de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient></operation> épluché entier dans l’ huile, puis verser la <ingredient>tomate</ingredient>, le <ingredient>bouillon</ingredient>, le <ingredient>vinaigre</ingredient>, le jus de <ingredient>tomate</ingredient>, la <ingredient>sauce de soja</ingredient> et les <ingredient>feuilles de laurier</ingredient>. <operation>couvrir</operation> et <operation>laisser cuire à feu moyen 30 mn</operation>. <operation>ouvrir la <recipient>marmite</recipient></operation>, ôtez les <ingredient>feuilles de laurier</ingredient> et 6 <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient>. <operation>ecrasez les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> restantes avec une fourchette,</operation> puis moudre ou non selon votre goût et avant de <operation>servir</operation> verser la <ingredient>crème fraîche</ingredient> et <operation>ciselez un peu de basilic</operation>. bon appétit. pour ceux qui sont au régime, cette <ingredient>soupe</ingredient> reste délicieuse sans <ingredient>crème</ingredient>
+]]>
+ </preparation>
+</recette>

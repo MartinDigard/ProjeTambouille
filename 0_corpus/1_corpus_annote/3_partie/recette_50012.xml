@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50012">
+ <titre>Gâteau au melon</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 melon</p>
+ <p>12 cuillères à soupe de farine</p>
+ <p>6 cuillères à soupe de sucre blanc</p>
+ <p>5 cuillères à soupe d’ huile</p>
+ <p>7 cuillères à soupe de lait</p>
+ <p>2 cuillères à café de levure ou de bicarbonate de soude</p>
+ <p>1 pincée de sel</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 220 ° c (thermostat 7 - 8). enlever la peau du <ingredient>melon</ingredient> puis le couper en petits dés dans une assiette. dans un saladier, mélanger tous les ingrédients. beurrer un <recipient><recipient>moule</recipient> à tarte</recipient>. séparer la pâte en 2 et mettre une moitié au fond du <recipient>moule</recipient>, puis mettre les morceaux de <ingredient>melon</ingredient>. verser enfin l’ autre moitié de pâte. mettre au <recipient>four</recipient> pendant 15 min. déguster avec une glace à la vanille à côté.
+]]>
+ </preparation>
+</recette>

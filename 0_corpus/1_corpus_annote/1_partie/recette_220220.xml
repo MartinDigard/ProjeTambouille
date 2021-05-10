@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220220">
+ <titre>Lasagnes aux 2 saumons et chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>plaques de lasagnes (pour environ 3 étages) </p>
+ <p>2 pavés de saumon frais</p>
+ <p>6 tranches de saumon fumé</p>
+ <p>1 échalote</p>
+ <p>1 oignon</p>
+ <p>1 demi buche de chèvre</p>
+ <p>1 cube de bouillon</p>
+ <p>25 cl de vin blanc</p>
+ <p>huile d’ olive</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>échalote</ingredient> et l’ <ingredient>oignon</ingredient> hachés dans l’ huile d’ <ingredient>olive</ingredient></operation>. quand ils sont dorés, ajouter le <ingredient>vin blanc</ingredient> et <operation>laisser évaporer</operation>. pendant ce temps <operation>faire le</operation> <ingredient>bouillon</ingredient> et ajouter une louche quand le <ingredient>vin</ingredient> est évaporé. baisser le feu et répéter 3 fois. ajouter le <ingredient>chèvre</ingredient> et <operation>laisser fondre toujours à feu doux</operation>. couper le <ingredient>saumon fumé</ingredient> en lamelles et le <ingredient>saumon frais</ingredient> en <ingredient>cubes</ingredient>. au fond du <recipient>plat</recipient> mettre une couche de sauce, une <ingredient>plaque de lasagnes</ingredient>, le <ingredient>saumon frais</ingredient>, le <ingredient>saumon fumé</ingredient>. recommencer tant qu’ il vous reste de la matière. finir avec du <ingredient>gruyère râpé</ingredient>. mettre au <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6) pendant 20 minutes. <operation>servir avec de la salade verte</operation>. <ingredient>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

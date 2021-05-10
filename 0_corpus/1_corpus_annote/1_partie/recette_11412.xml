@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11412">
+ <titre>Soupe au potiron</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de potiron</p>
+ <p>2 pommes de terre Bintje</p>
+ <p>2 gousses d’ ail</p>
+ <p>persil, sel et poivre</p>
+ <p>10 cl de crème fraîche </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez le</operation> <ingredient>potiron</ingredient> et <operation>coupez - le en morceaux pas trop gros</operation>, épluchez les <ingredient>pommes de terre</ingredient>, <operation>lavez - les</operation> et <operation>coupez - les en morceaux</operation>. dans une <recipient>cocotte</recipient>, faites sauter le <ingredient>potiron</ingredient> et les <ingredient>pommes de terre</ingredient> dans du beurre. <operation>ajoutez l’ <ingredient>ail</ingredient> et le</operation> <ingredient>persil</ingredient>, <operation>salez au gros</operation> <ingredient>sel</ingredient> et <operation>poivrez</operation>, <operation>recouvrez d’ eau</operation> et <operation>laissez cuire environ 25 min</operation>. <operation>mixez le potage</operation>. servez avec de la <ingredient>crème fraîche</ingredient>. pour <operation>faire plus joli</operation>, <operation>servez dans le <ingredient>potiron</ingredient> que vous</operation> aurez évidé afin d’ en prendre la chair. c’ est déliciex lorqu’ il fait froid.
+]]>
+ </preparation>
+</recette>

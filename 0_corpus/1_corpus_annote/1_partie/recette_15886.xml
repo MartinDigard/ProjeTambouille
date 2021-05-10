@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15886">
+ <titre>Escalope de dinde au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde</p>
+ <p>4 échalotes</p>
+ <p>50 g de beurre</p>
+ <p>1 briquette de crème liquide</p>
+ <p>curry doux, sel, poivre, piment de Cayenne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>salez et <ingredient>poivre</ingredient> les <ingredient>escalopes</ingredient></operation>. <operation>pelez et hachez</operation> finement les <ingredient>échalotes</ingredient>. <operation>faites chauffer le beurre dans une <recipient>poêle</recipient></operation>. mettre les <ingredient>escalopes</ingredient> dans le beurre chaud et <operation>faites - les</operation> <operation>saisir 5 mn de chaque côté</operation>. <operation>egouttez les</operation> et <operation>tenez - les au chaud</operation>. <operation>mettez les <ingredient>échalotes</ingredient> dans la <recipient>poêle</recipient></operation> et <operation>faites - les</operation> fondre doucement en remuant. <operation>ajoutez la</operation> <ingredient>crème</ingredient> et <operation>mélangez en grattant avec une spatule</operation>. <operation>incorporez une cuillère à soupe de <ingredient>curry</ingredient> en</operation> remuant. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez éventuellement une pointe de <ingredient>cayenne</ingredient></operation>. <operation>faites épaissir en</operation> remuant pendant 2 à 3 minutes. <operation>nappez aussitôt les <ingredient>escalopes</ingredient> de cette sauce</operation>. si vous <operation>avez une idée</operation> dites le moi!
+]]>
+ </preparation>
+</recette>

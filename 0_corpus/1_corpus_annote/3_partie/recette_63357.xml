@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63357">
+ <titre>Compote de pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes</p>
+ <p>1 citron</p>
+ <p>200 g de sucre</p>
+ <p>1 demi cuillère à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient>pommes</ingredient> et <operation>enlèvez les pépins</operation>. <operation>pressez le <ingredient>citron</ingredient> pour</operation> récupérer le jus. <operation>coupez les <ingredient>pommes</ingredient> en petits dés dans une <recipient>casserole</recipient></operation> et <operation>faites cuire à feu doux avec le jus de <ingredient>citron</ingredient></operation>. en fin de cuisson, <operation>rajoutez le <ingredient>sucre</ingredient> et la canelle,</operation> et <operation>mélangez avec une cuillère en bois</operation>. la compote de <ingredient>pommes</ingredient> est bonne aussi bien froide que tiède. bon appétit!
+]]>
+ </preparation>
+</recette>

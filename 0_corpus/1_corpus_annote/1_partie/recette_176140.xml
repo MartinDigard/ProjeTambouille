@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="176140">
+ <titre>Sandwich choco-banane</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 demi baguette</p>
+ <p>une banane</p>
+ <p>100 à 150 g de chocolat à faire fondre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient>chocolat à fondre</ingredient> dans une <recipient>casserole</recipient>. (ou, à défaut, au micro-ondes). couper la <ingredient>banane</ingredient> en rondelles. la mettre à chauffer à la <recipient>casserole</recipient> (ou à défaut, une minute au micro-ondes). couper la demi-baguette en deux dans le sens de la largeur, puis dans le sens de la longueur. une fois que le <ingredient>chocolat</ingredient> est <ingredient>fondu</ingredient>, le tartiner sur deux des morceaux de baguette. <operation>répartir également les morceaux de <ingredient>banane</ingredient> cuits,</operation> et refermer les deux sandwich. bon appétit! on peut tester avec d’ autres baguettes, comme la viennoise par exemple!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30003">
+ <titre>Mouton mijoté aux pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de mouton</p>
+ <p>3 oignons</p>
+ <p>500 g de pommes de terre</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer grossièrement l’ <ingredient>ail</ingredient> et les <ingredient>oignons</ingredient> puis les disposer dans une <recipient>cocotte</recipient>. détailler la viande en morceaux et l’ ajouter au contenu de la <recipient>cocotte</recipient> ainsi que le <ingredient>bouquet garni</ingredient> et 1 ou 2 <ingredient>pommes de terre</ingredient>. <operation>re<operation>couvrir</operation> d’ eau à hauteur, saler</operation>, poivrer et <operation>couvrir</operation>. <operation>laisser mijoter 1 h 30</operation> puis écraser les <ingredient>pommes de terre</ingredient> cuites dans le jus de cuisson. ajouter les <ingredient>pommes de terre</ingredient> restantes coupées en dés, <operation>couvrir</operation> et poursuivre la cuisson durant 1 heure.
+]]>
+ </preparation>
+</recette>

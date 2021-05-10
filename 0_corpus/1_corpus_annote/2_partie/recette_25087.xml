@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25087">
+ <titre>Croustade aux fruits de mer</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte feuilletée à dérouler</p>
+ <p>1 grosse boîte de thon</p>
+ <p>1 boîte de moules (natures) </p>
+ <p>1 boîte de crevettes décortiquées</p>
+ <p>1 boîte de bisque de homard</p>
+ <p>1 cuillère à café d’ harissa</p>
+ <p>beurre, farine et lait pour faire la béchamel</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+foncez un <ingredient><recipient>moule</recipient></ingredient> à tarte avec la <ingredient>pâte</ingredient> feuilletée, piquez - la avec une fourchette. emiettez la <ingredient>boîte de thon</ingredient> sur la <ingredient>pâte</ingredient> et <operation>ajoutez les <ingredient>moules</ingredient>, les <ingredient>crevettes</ingredient></operation>. dans un récipient, mélanger la <ingredient>bisque de homard</ingredient>, l’ harissa et <ingredient>la béchamel</ingredient> (il faut que la <ingredient>béchamel</ingredient> ne soit pas trop liquide, mais assez consistante). <operation>recouvrir la tarte avec cette préparation</operation> et saupoudrer de <ingredient>gruyère râpé</ingredient>. mettre à <recipient>four</recipient> doux pendant 30 à 40 mn. inutile de saler car les fruits de mer le sont déjà assez. on peut également préparer cette croustade avec des fruits de mer frais. vin blanc sec
+]]>
+ </preparation>
+</recette>

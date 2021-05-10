@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48018">
+ <titre>Pâte à pizza légère et rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>1 pot de fromage blanc à 0%</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>1 sachet de levure chimique</p>
+ <p>environ 10 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un saladier, mélanger la farine, le <ingredient>sel</ingredient> et la <ingredient>levure</ingredient>. ajouter le <ingredient>fromage blanc</ingredient> et malaxer pour <operation>obtenir un sablé grossier</operation>. incorporer progressivement l’ <ingredient>eau</ingredient> froide jusqu’ à <operation>obtenir une boule homogène qui ne</operation> colle pas. la pâte n’ a pas besoin de reposer, vous pouvez l’ étaler immédiatement.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73565">
+ <titre>Tatin de courgettes au miel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de courgettes</p>
+ <p>8 cuillères à soupe de miel</p>
+ <p>1 pâte feuilletée prête à l’ emploi</p>
+ <p>sel</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 brindille de thym frais</p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>courgettes</ingredient> en rondelles sans les</operation> peler. <operation>beurrez le</operation> <ingredient><recipient>moule</recipient></ingredient> et <operation>étalez le <ingredient>miel</ingredient> au fond</operation>. <operation>mettez les rondelles de <ingredient>courgettes</ingredient> en rosace</operation>. préchauffez le <recipient>four</recipient> à 180 °, thermostat 6. <operation>faites cuire les <ingredient>courgettes</ingredient> seules dans le <recipient>four</recipient> pendant 15 min</operation>. au bout de ce temps, <operation>sortez le <recipient>plat</recipient> du <recipient>four</recipient></operation> et recouvrez - le de <ingredient>pâte feuilletée</ingredient>. enfournez encore 15 min. <operation>sortez du <recipient>four</recipient> et 5 min après</operation>, <operation>démoulez sur l’ envers, comme une tarte tatin</operation>. <operation>salez</operation>, <operation>ajoutez l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> et le <ingredient>thym</ingredient></operation> effeuillé. <operation>servez aussitôt</operation>!
+]]>
+ </preparation>
+</recette>

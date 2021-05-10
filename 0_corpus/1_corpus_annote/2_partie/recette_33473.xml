@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33473">
+ <titre>Soupe de poissons créole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de filet de saumon</p>
+ <p>200 g de loup ou lotte</p>
+ <p>24 crevettes</p>
+ <p>120 g de maïs</p>
+ <p>100 g de petits-pois</p>
+ <p>30 cl de coulis de tomate</p>
+ <p>1 litre de jus de légumes</p>
+ <p>50 cl d’ eau</p>
+ <p>2 oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>bouquet garni</p>
+ <p>bouquet de coriandre fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>filets</ingredient> de poissons</operation>, <operation>lavez</operation> et <operation>épongez - les</operation>. mettre l’ <ingredient>ail</ingredient> et les <ingredient>oignons</ingredient> dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> puis <operation>poudrez de <ingredient>farine</ingredient></operation>. versez le <ingredient>coulis de tomate</ingredient> et le <ingredient>jus de légumes</ingredient>, <operation>ajoutez 50 cl d’ <ingredient>eau</ingredient></operation>. <operation>assaisonnez de <ingredient>sel</ingredient> et de poivre</operation>, <operation>laissez mijotez 15 mn</operation>. <operation>ajoutez les poissons et le <ingredient>maïs</ingredient>, sans</operation> oublier les <ingredient>petits-pois</ingredient>. <operation>laissez cuire 10 à 12 mn</operation>. vérifiez vos poissons et parsemez de <ingredient>coriandre fraîche</ingredient>. <operation>dégustez</operation>! <operation>epatez vos invités avec cette excellente <ingredient>soupe</ingredient> très vite prête</operation>. proposez un peu de tabasco pour les amateurs de sensations fortes!! vin blanc, rosé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165725">
+ <titre>Moelleux au chocolat et à la crème de spéculoos</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100g de beurre + 10g pour les moules</p>
+ <p>3 oeufs</p>
+ <p>200g de chocolat patissier</p>
+ <p>125g de cassonade</p>
+ <p>70g de farine</p>
+ <p>200g de crème de speculoos</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>beurre</ingredient> dans une <recipient>casserole</recipient></operation> et <operation>ajoutez le <ingredient>chocolat</ingredient></operation>. lorsque le <ingredient>chocolat</ingredient> est fondu, <operation>versez le sucre et la farine</operation>. <operation>eteignez le feu</operation> et <operation>ajoutez les <ingredient>oeufs</ingredient> un à un</operation>. dans des <ingredient>moules</ingredient> à muffins en silicone, <operation>versez la pâte à moitier du <ingredient><recipient>moule</recipient></ingredient></operation>. ajoutez au centre une cuillère à café de " <ingredient>crème de speculoos</ingredient> " puis <operation>reversez la pâte jusqu’ à auteur du <ingredient><recipient>moule</recipient></ingredient></operation>. enfournez à 180 ° c pendant environ 15 min (il faut que le dessus soit craquelé). <operation>laissez refroidir quelques instant et servez</operation> accompagné par exemple d’ une boule de glace. bon appétitil est préférable de les manger tiède que froid car le cœur sera coulant.
+]]>
+ </preparation>
+</recette>

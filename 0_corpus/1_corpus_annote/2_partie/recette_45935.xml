@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45935">
+ <titre>Gâteau à étages coco et fruits</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 génoises natures</p>
+ <p>3 bananes</p>
+ <p>3 kiwis</p>
+ <p>5 barres chocolatées à la noix de coco (type bounty) </p>
+ <p>60 cl de crème fraîche (pour la chantilly) </p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>250 g de poudre de noix de coco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez vos génoises</operation> ou <operation>achetez - les toutes prêtes</operation>. sur la première génoise, <operation>disposez de la chantilly et la totalité des <ingredient>bananes</ingredient></operation> coupées en rondelles. <operation>recouvrez de la seconde génoise sur laquelle vous</operation> <operation>disposerez une couche de chantilly, puis la totalité des <ingredient>kiwis</ingredient></operation> coupées en rondelles et les 5 bounty émiettés. faites revenir la <ingredient>noix de coco</ingredient> jusqu’ à ce qu’ elle devienne légèrement brune dans une <recipient>poêle</recipient> sans matière grasse. <operation>remettez ensuite la dernière génoise sur laquelle vous</operation> mettrez le reste de chantilly recouverte de <ingredient>la noix de coco</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22673">
+ <titre>Haricots rouges à la Mexicaine au porc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de haricots rouges</p>
+ <p>500 g de palette de porc salé</p>
+ <p>6 saucisses fumées</p>
+ <p>3 gousses d’ ail</p>
+ <p>3 oignons</p>
+ <p>3 cuillerées à soupe d’ huile (d’ olive) </p>
+ <p>1 petite bouteille de Tabasco</p>
+ <p>1 bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire tremper 500 g de <ingredient>haricots</ingredient> toute la nuit</operation>. les égoutter. couper <ingredient>oignons</ingredient> et <ingredient>ail</ingredient>. mettre de l’ <ingredient>huile</ingredient> dans une grande <recipient>marmite</recipient>. poser la <ingredient>palette</ingredient>, ajouter les <ingredient>haricots</ingredient>. <operation>recouvrir le tout d’ eau</operation> froide, ajouter l’ <ingredient>ail</ingredient>, le poivre et le <ingredient>bouquet garni</ingredient>. mettre à cuire. <operation>faire blondir les <ingredient>oignons</ingredient> dans l’ <ingredient>huile</ingredient></operation>. les ajouter dans les <ingredient>haricots</ingredient> à mi-cuisson ainsi que les <ingredient>saucisses</ingredient>. au moment de <operation>servir</operation>, ajouter quelques goûtes de <ingredient>tabasco</ingredient> (en goûtant)
+]]>
+ </preparation>
+</recette>

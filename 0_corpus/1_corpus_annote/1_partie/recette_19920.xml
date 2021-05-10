@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19920">
+ <titre>Braisé de veau au lard et au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de veau en morceaux</p>
+ <p>6 tranches de lard coupées finement</p>
+ <p>3 carottes en rondelles</p>
+ <p>3 oignons émincés</p>
+ <p>1 bouquet garni</p>
+ <p>jus de citron</p>
+ <p>1 cuillère à café de fécule</p>
+ <p>2 cuillères à soupe de beurre</p>
+ <p>40 cl de vin blanc sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer une <recipient>cocotte</recipient> et y déposer les <ingredient>tranches de lard</ingredient>, les <ingredient>oignons</ingredient> et les <ingredient>carottes</ingredient> coupés. <operation>laisser fondre doucement</operation> et ajouter la viande. assaisonner et déposer le <ingredient>bouquet garni</ingredient>. arroser de 20 cl de <ingredient>vin blanc</ingredient> et <operation>laisser mijoter à feu doux pendant 1 h 15 min</operation>. tamiser le <ingredient>jus</ingredient> de cuisson et y incorporer le reste de <ingredient>vin blanc</ingredient>, un peu de <ingredient>jus de citron</ingredient> et la <ingredient>fécule</ingredient> délayée dans un peu d’ eau froide. napper la viande de sauce et <operation>servir avec des légumes de saison</operation>.
+]]>
+ </preparation>
+</recette>

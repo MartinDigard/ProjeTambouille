@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21545">
+ <titre>Raviolis au Nutella</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de Nutella</p>
+ <p>16 Kumquats (sorte d’ orange) </p>
+ <p>32 pâtes à raviolis chinois</p>
+ <p>4 fruits de la passion</p>
+ <p>2 tranches de pain de mie</p>
+ <p>50 g de beurre</p>
+ <p>25 g de sucre</p>
+ <p>100 g de sorbet coco</p>
+ <p>2 sachets de thé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir les <ingredient>kumquats</ingredient> à l’ eau bouillante pendant 5 mn</operation> puis <operation>laissez refroidir</operation>. <operation>mélangez les <ingredient>kumquats</ingredient> et le</operation> <ingredient>nutella</ingredient> et <operation>insérez - le tout dans les <ingredient>raviolis</ingredient></operation>. evidez les <ingredient>fruits de la passion</ingredient>. coupez le <ingredient>pain de mie</ingredient> en carrés, et <operation>faites les</operation> sauter au beurre. <operation>faites un caramel avec le</operation> <ingredient>sucre</ingredient> et <operation>ajoutez - y les croûtons ainsi</operation> formés. dans l’ infusion de <ingredient>thé</ingredient>, pochez les <ingredient>raviolis</ingredient> 2 mn. <operation>servez - le tout avec le <ingredient>sorbet</ingredient> de <ingredient>coco</ingredient></operation> mélangé aux morceaux de <ingredient>fruits de la passion</ingredient>.
+]]>
+ </preparation>
+</recette>

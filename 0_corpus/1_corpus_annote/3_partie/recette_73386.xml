@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73386">
+ <titre>Gâteau fondant au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat noir pâtissier</p>
+ <p>200 g de beurre + une noisette pour le moule</p>
+ <p>200 g de sucre glace</p>
+ <p>1 cuillère à soupe de farine + 1 pour le moule</p>
+ <p>5 œufs entiers</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+au <recipient>bain - marie</recipient>, <operation>faire fondre le <ingredient>chocolat</ingredient> et le <ingredient>beurre</ingredient></operation>. une fois fondus, rajouter un à un les 5 <ingredient>œufs entiers</ingredient> en remuant bien au fouet. incorporer ensuite le <ingredient>sucre glace</ingredient> et 1 <ingredient>cuillère de farine</ingredient>. bien mélanger pour que la pâte soit lisse et homogène et <operation>répartir dans un <recipient>plat</recipient> beurré et fariné</operation>. enfourner 25 à 30 min à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32599">
+ <titre>Poulet à la bière d’ abbaye</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>des blancs de poulets</p>
+ <p>2 bouteilles de 33 cl de bière brune d’ abbaye</p>
+ <p>3 oignons</p>
+ <p>4 carottes</p>
+ <p>2 tranches de pain d’ épices</p>
+ <p>4 cuillères à soupe de moutarde</p>
+ <p>thym, laurier</p>
+ <p>un peu de beurre</p>
+ <p>farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>carottes</ingredient> en rondelles et émincez les <ingredient>oignons</ingredient></operation>. <operation>faites dorer les morceaux de <ingredient>poulet</ingredient> dans du</operation> <ingredient>beurre</ingredient>, <operation>ajoutez les</operation> <ingredient>oignons</ingredient> et <operation>faites - les blondir</operation>. <operation>saupoudrez de farine</operation>, <operation>mélangez</operation> et <operation>mouillez avec la biere</operation>. <operation>ajoutez les <ingredient>carottes</ingredient>, un <ingredient>peu</ingredient> de <ingredient>thym</ingredient> et quelques feuilles de <ingredient>laurier</ingredient></operation>. <operation>salez</operation> et <operation>poivrez</operation>. tartinez les <ingredient>tranches de pain</ingredient> d’ <ingredient>épices</ingredient> avec de la <ingredient>moutarde</ingredient> et placez - les dans la <recipient>cocotte</recipient>, en surface. <operation>couvrez</operation> et <operation>laissez cuire à feu doux un peu moins d’ une heure</operation>. <operation>mélangez de temps en temps</operation>. mettre la même <ingredient>bière</ingredient> dans la recette et au repas. une <ingredient>bière</ingredient> grimbergen belge
+]]>
+ </preparation>
+</recette>

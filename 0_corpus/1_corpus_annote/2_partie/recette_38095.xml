@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38095">
+ <titre>Gaufres sèches</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de farine</p>
+ <p>250 g de sucre</p>
+ <p>150 g de beurre demi-sel ramolli</p>
+ <p>3 oeufs</p>
+ <p>5 cuillères à soupe de lait</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine avec la <ingredient>levure</ingredient> et le <ingredient>sucre</ingredient>. ajouter les <ingredient>oeufs</ingredient> battus, le <ingredient>lait</ingredient>, l’ <ingredient>huile</ingredient> et le beurre. bien <operation>pétrir</operation> et <operation>laisser reposer une nuit au frais</operation>. le lendemain, les cuire au gaufrier (gaufres fines). elles sont d’ abord molles, puis sèchent en refoidissant.
+]]>
+ </preparation>
+</recette>

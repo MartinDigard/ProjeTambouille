@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61272">
+ <titre>Tarte Hollandaise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>250 g de farine</p>
+ <p>100 g de beurre</p>
+ <p>100 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>3 cuillères à soupe de lait</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>Pour la garniture: </p>
+ <p>confiture de framboise</p>
+ <p>125 g de beurre</p>
+ <p>125 g de sucre</p>
+ <p>125 g d’ amandes en poudre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>4 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les ingrédients pour <ingredient>la pâte</ingredient>, former une boule et <operation>laisser reposer au frais 1 heure environ</operation>. etaler la <ingredient>pâte</ingredient> et la mettre dans un <recipient><recipient>moule</recipient> à tarte</recipient>. <operation>répartir la <ingredient>confiture</ingredient> sur toute la surface de la <ingredient>pâte</ingredient></operation>. mélanger les autres ingrédients de la <ingredient>garniture</ingredient>, puis verser sur la <ingredient>confiture</ingredient>. bien étaler et <operation>faire des petits traits sur le dessus a</operation> l’ aide d’ une fourchette. cuire 45 min à 180 ° c.
+]]>
+ </preparation>
+</recette>

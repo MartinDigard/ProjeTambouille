@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80270">
+ <titre>Magret de canard aux gnocchis sauce roquefort</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 magret de canard</p>
+ <p>150 g de roquefort</p>
+ <p>20 cl de crème fraîche épaisse à 3%</p>
+ <p>250 g de gnocchi </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les pâtes</operation>. pendant ce temps, enlever la peau du <ingredient>magret</ingredient> et le découper en lanières. dans un <recipient>wok</recipient>, sans matière grasse, <operation>faire revenir les morceaux de <ingredient>magret</ingredient> avec <ingredient>sel</ingredient> et <ingredient>poivre</ingredient></operation>. rajouter le <ingredient>roquefort</ingredient> écrasé et la <ingredient>crème fraîche</ingredient>. et lorsque le <ingredient>roquefort</ingredient> a fondu et la sauce épaissie, rajouter les pâtes dans le <recipient>wok</recipient> avec 1 tour de moulin <ingredient>poivre</ingredient> et baies. a <operation>servir de suite car cela</operation> refroidit vite...
+]]>
+ </preparation>
+</recette>

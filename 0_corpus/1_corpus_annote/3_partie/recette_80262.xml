@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80262">
+ <titre>FAR AUX POMMES MOELLEUX</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de farine</p>
+ <p>75 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>50 cl de lait froid</p>
+ <p>4-5 pommes</p>
+ <p>éventuellement du Rhum, du Calvados et/ou de la cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 - 200 °, thermostat 6 - 7. <operation>beurrez un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. <operation>mélangez les ingrédients de la pâte (<ingredient>farine</ingredient>, <ingredient>sucre</ingredient>, <ingredient>oeufs</ingredient>, <ingredient>lait</ingredient> et les ingrédients éventuels</operation>). <operation>coupez les <ingredient>pommes</ingredient> en cubes et les</operation> mettre dans le <recipient>plat</recipient>. <operation>ajoutez la pâte</operation>. <operation>enfournez 30 - 35 min, pas plus</operation>. café ou cidre
+]]>
+ </preparation>
+</recette>

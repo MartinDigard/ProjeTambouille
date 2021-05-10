@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24316">
+ <titre>Beignets de bananes épicés</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 bananes</p>
+ <p>100 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>2 oeufs</p>
+ <p>2 cuillerées à soupe d’ huile</p>
+ <p>30 cl de lait</p>
+ <p>2 cuillerées à soupe de sucre</p>
+ <p>1 pincée de cannelle</p>
+ <p>1 pincée de vanille en poudre</p>
+ <p>3 cuillères à soupe de rhum</p>
+ <p>huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation> et <operation>coupez les <ingredient>bananes</ingredient> en 4 ou 5 tronçons</operation>. déposez - les dans un saladier, <operation>saupoudrez de <ingredient>sucre</ingredient> semoule</operation>, <operation>ajoutez la <ingredient>cannelle</ingredient>, la <ingredient>vanille</ingredient> et le <ingredient>rhum</ingredient></operation>. <operation>laissez mariner 1 heure au moins</operation>. <operation>mélangez la farine, le <ingredient>sel</ingredient>, les deux jaunes d’ <ingredient>oeufs</ingredient>, l’ <ingredient>huile</ingredient>, le lait et une <ingredient>cuillère</ingredient> à café de <ingredient>rhum</ingredient></operation>. <operation>laissez reposer la pâte une heure</operation>. battez les blancs en neige, <operation>incorporez - les à la pâte</operation>. <operation>egouttez les moorceaux de <ingredient>bananes</ingredient>, plongez - les dans la pâte,</operation> puis <operation>faites - les frire dans l’ <ingredient>huile</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

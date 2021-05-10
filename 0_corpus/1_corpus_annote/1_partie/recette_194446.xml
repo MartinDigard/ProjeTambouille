@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194446">
+ <titre>Farce à l’ italienne pour légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 brins de persil plat</p>
+ <p>500 g de bœuf haché</p>
+ <p>75 g de parmesan râpé</p>
+ <p>le jus d’ un demi citron</p>
+ <p>1 œuf</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez le <ingredient>persil</ingredient> et l’ <ingredient>ail</ingredient>, mettez les dans un bol avec le <ingredient>bœuf haché</ingredient>, le <ingredient>parmesan</ingredient>, le <ingredient>jus</ingredient> de <ingredient>citron</ingredient>, le sel, le poivre et l’ <ingredient>œuf</ingredient>. <operation>mélangez les ingrédients jusqu’ à ce que ce soit homogène</operation>. vérifiez l’ assaisonnement. voila! il n’ y a plus qu’ à <operation>farcir la tomate ou le champignon</operation>.
+]]>
+ </preparation>
+</recette>

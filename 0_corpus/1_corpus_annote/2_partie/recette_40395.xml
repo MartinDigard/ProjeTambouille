@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40395">
+ <titre>Omelette cream cheese</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>4 cuillère a soupe de lait</p>
+ <p>sel et poivre</p>
+ <p>200 g de cream cheese (fromage frais type kiri ou saint morêt) </p>
+ <p>150 à 200 g de poisson fumé (saumon par exemple) </p>
+ <p>aneth</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez dans une jatte le fromage, le <ingredient>poisson</ingredient> préalablement émietté, et l’ <ingredient>aneth</ingredient></operation>. (ne pas rajouter de <ingredient>sel</ingredient>! le <ingredient>poisson</ingredient> l’ est suffisamment). battez les <ingredient>oeufs</ingredient>, le <ingredient>lait</ingredient> le <ingredient>sel</ingredient> et le poivre et <operation>faites cuire l’ omelette dans une <recipient>poêle</recipient></operation>. a la fin de la cuisson de l’ omelette, <operation>rajoutez la préparation au fromage sur le dessus (en forme de cylindrique) de l’ omelette</operation> et <operation>rabattez les bords de cette dernière par dessus le fromage</operation>. <operation>laissez cuire quelques minutes</operation>. <operation>retirez l’ omelette de la <recipient>poêle</recipient> et retournez - la sur un <recipient>plat</recipient></operation>. pour la déco, <operation>coupez l’</operation> omelette en deux afin de <operation>faire découvrir son coeur</operation>. <operation>saupoudrez d’</operation> <ingredient>aneth</ingredient> et <operation>repartissez quelques tomates cerises</operation>.
+]]>
+ </preparation>
+</recette>

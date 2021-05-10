@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27354">
+ <titre>Dinde provençale</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de filet de dinde</p>
+ <p>2 poivrons</p>
+ <p>5 tomates</p>
+ <p>3 oignons</p>
+ <p>sel, poivre</p>
+ <p>thym</p>
+ <p>huile</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>filet de dinde</ingredient> en petits morceaux. les <operation>faire revenir à la <recipient>poêle</recipient> avec de l’ huile et du beurre</operation>. couper les légumes en petits dés, émincer les <ingredient>oignons</ingredient> dans une <recipient>sauteuse</recipient>. ajouter la viande. <operation>laisser cuire 20 mn</operation> puis insérer la <ingredient>crème fraîche</ingredient>. laiser cuire 15 mn environ.
+]]>
+ </preparation>
+</recette>
