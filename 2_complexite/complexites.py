@@ -71,7 +71,6 @@ def nettoyage_qtt(qtt, unite):
                 qtt_ingr += 1
     else:
         qtt_ingr += 1.
-    print(f"===== {qtt_ingr}")
     return qtt_ingr 
 
 
@@ -88,8 +87,13 @@ def annotation_qtt(recette, infos_ingr):
             qtt = int(qtt) + 1
         else:
             qtt = int(qtt)
-        recette = re.sub(f'<ingredient>([^<]*{ingr}[^<]*)</ingredient>', f'<ingredient quantite={qtt}>\\1</ingredient>', recette)
+
+        for token in ingr.split():
+            if len(token) > 2:
+                recette = re.sub(f'<ingredient>([^<]*{token}[^<]*)</ingredient>', f'<ingredient quantite={qtt}>\\1</ingredient>', recette)
         return annotation_qtt(recette, infos_ingr[1:])
+    # Marche pas !?
+    recette = re.sub('<ingredient>', '<ingredient quantite=1>', recette)
     return recette
 
 
@@ -230,6 +234,7 @@ def main():
 
         # Annotation des balises ingrédients
         qtt_annotee = annotation_qtt(recette_annotee, infos_ingr[fichier])
+        print(qtt_annotee)
         
         qtt_ingredients = decompte_ingredients(infos_ingr[fichier], 0)
 
