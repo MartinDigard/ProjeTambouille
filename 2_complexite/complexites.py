@@ -71,7 +71,6 @@ def nettoyage_qtt(qtt, unite):
                 qtt_ingr += 1
     else:
         qtt_ingr += 1.
-    print(f"===== {qtt_ingr}")
     return qtt_ingr 
 
 
@@ -88,9 +87,23 @@ def annotation_qtt(recette, infos_ingr):
             qtt = int(qtt) + 1
         else:
             qtt = int(qtt)
-        recette = re.sub(f'<ingredient>([^<]*{ingr}[^<]*)</ingredient>', f'<ingredient quantite={qtt}>\\1</ingredient>', recette)
+        for elt in re.findall('<ingredient>[^<]+</ingredient>', recette):
+            elt = re.sub('<ingredient>([^<]+)</ingredient>', '\\1', elt)
+            if elt == ingr:
+                recette = re.sub(f'<ingredient>([^<]*{ingr}[^<]*)</ingredient>',
+                                 f'<ingredient quantite={qtt}>\\1</ingredient>',
+                                 recette)
         return annotation_qtt(recette, infos_ingr[1:])
     return recette
+
+        # ingr_recette = re.search(f'<ingredient>([^<]*{ingr}[^<]*)</ingredient>', recette)
+        # if ingr_recette:
+        #     ingr_recette = ingr_recette.group(1)
+        #     if ingr_recette in ingr and ingr_recette != ingr:
+        #         print(f"ingr_recette({ingr_recette}) est dans ingr({ingr})")
+        #     if ingr in ingr_recette and ingr_recette != ingr:
+        #         print(f"ingr({ingr}) est dans ingr_recette({ingr_recette})")
+
 
 
 
@@ -230,6 +243,7 @@ def main():
 
         # Annotation des balises ingrédients
         qtt_annotee = annotation_qtt(recette_annotee, infos_ingr[fichier])
+        print(qtt_annotee)
         
         qtt_ingredients = decompte_ingredients(infos_ingr[fichier], 0)
 
