@@ -12,22 +12,38 @@ def annot_espace_temps(recette, oper_temps, nb_recipients):
     """
     Entrée : La recette (balises ingrédients annotées)
              Les opérations et leur temps
+<<<<<<< HEAD
              Nombre de récipients
+=======
+             Le nombre de récipients
+>>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
     Sortie : la recette avec les balises opération annotatées avec les
              attributs espace et temps
     """
     if len(oper_temps) != 0:
         oper, temps = oper_temps[0]
+<<<<<<< HEAD
         oper_re = re.sub(r'\(', r'\\(', oper)
         oper_re = re.sub(r'\)', r'\\)', oper_re)
         oper_re = re.sub(r'\[', r'\\[', oper_re)
         oper_re = re.sub(r'\]', r'\\]', oper_re)
+=======
+        oper_re = re.sub(r'\)', '\\)', oper)
+        oper_re = re.sub(r'\(', '\\(', oper_re)
+        oper_re = re.sub(r'\]', '\\]', oper_re)
+        oper_re = re.sub(r'\[', '\\[', oper_re)
+>>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
         oper_re = re.sub(r'\+', r'\\+', oper_re)
         oper_re = oper_re.split('<operation>')[1]
         oper = oper.split('<operation>')[1]
         recette = re.sub(f'<operation>{oper_re}',
+<<<<<<< HEAD
                          f'<operation temps={temps}min espace={nb_recipients}>{oper}',
                          recette)
+=======
+                                f'<operation temps={temps}min espace={nb_recipients}>{oper}',
+                                recette)
+>>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
         return annot_espace_temps(recette, oper_temps[1:], nb_recipients)
     return recette
 

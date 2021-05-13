@@ -85,6 +85,9 @@ def main():
         # Récupération des annotations en listes.
         prepa_complexite = et.decompte_annotation(recette_annotee)
 
+        # Récupération des annotations en listes.
+        prepa_complexite = et.decompte_annotation(recette_annotee)
+
         # Calcul de la complexité en temps
         oper_temps = et.temps(prepa_complexite[0], refs_tps)
         # for elt in oper_temps:
@@ -94,13 +97,20 @@ def main():
         nb_recipients = len(prepa_complexite[1]) + len(infos_ingr[fichier])
 
         # Annotation du temps et de l’espace
+<<<<<<< HEAD
         recette = et.annot_espace_temps(recette_annotee, oper_temps,
                                         nb_recipients)
 
         # Debug annotation opération (reloutise) 
         recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>(.*?</operation>)', '\\1\\2\\3', recette) 
         print(recette)
+=======
+        recette = et.annot_espace_temps(recette_annotee, oper_temps, nb_recipients)
+>>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
 
+        # Debug annotation opération (reloutise) 
+        recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>(.*?</operation>)', '\\1\\2\\3', recette) 
+        print(recette)
 
 if __name__ == "__main__":
 
