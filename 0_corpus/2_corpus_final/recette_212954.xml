@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212954">
+ <titre>Tomate au chaource et saumon fumé</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates (taille moyenne) </p>
+ <p>4 tranches de saumon fumé</p>
+ <p>ciboulette fraiche</p>
+ <p>1 chaource</p>
+ <p>1 échalote</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ciseler la <ingredient quantite=1>ciboulette fraiche</ingredient>. découper l’ <ingredient quantite=1>échalote</ingredient> en petits cubes. découper en carrés les <ingredient quantite=4>tranches de saumon fumé</ingredient>. écraser à la fourchette le <ingredient quantite=1>chaource</ingredient> en incorporant la <ingredient quantite=1>ciboulette</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et le <ingredient quantite=4>saumon fumé</ingredient>. goûter et poivrer. découper le haut de la <ingredient quantite=1>tomate</ingredient> comme un chapeau et <operation temps=6.86min espace=5>videz son centre</operation>. <operation temps=6.86min espace=5>remplir la <ingredient quantite=1>tomate</ingredient> de la préparation au</operation> <ingredient quantite=1>chaource</ingredient> et <operation temps=6.86min espace=5>reposez le chapeau de la <ingredient quantite=1>tomate</ingredient> sur le dessus</operation>. servir bien frais. un blanc sec bien frais
+]]>
+ </preparation>
+</recette>

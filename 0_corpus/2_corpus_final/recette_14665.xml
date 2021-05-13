@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14665">
+ <titre>Lasagnes au saumon et aux épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 boîte de lasagnes précuites</p>
+ <p>300 g de saumon fumé </p>
+ <p>500 g d’ épinards en branches surgelés</p>
+ <p>parmesan</p>
+ <p>50cl de crème liqude</p>
+ <p>sel, poivre et beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire décongeler les <ingredient quantite=1>épinards</ingredient> suffisamment longtemps à l’ avance</operation>. préchauffer le <recipient>four</recipient> (210 ° c). mettre un peu de beurre dans un <recipient>plat</recipient> rectangulaire ou carré allant au <recipient>four</recipient>, puis une couche de <ingredient quantite=1>lasagnes</ingredient>, une couche de <ingredient quantite=1>saumon</ingredient>, une couche d’ <ingredient quantite=1>épinards</ingredient> et un peu de <ingredient quantite=1>parmesan</ingredient>. recommencer l’ opération jusqu’ à la fin des ingrédients. verser la <ingredient quantite=1>crème</ingredient> liquide préalablement salée et poivrée. remettre un peu de <ingredient quantite=1>parmesan</ingredient> puis cuire à <recipient>four</recipient> chaud pendant 25 mn. vin blanc
+]]>
+ </preparation>
+</recette>

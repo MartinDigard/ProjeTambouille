@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91523">
+ <titre>Tartare d’ avocat provencal</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 ou 4 avocats selon la grosseur</p>
+ <p>1/2 poivron rouge </p>
+ <p>1/4 d’ oignon blanc</p>
+ <p>1/2 concombre</p>
+ <p>Sel, Poivre</p>
+ <p>1 jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>avocats</ingredient>, le <ingredient quantite=1>poivron</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>concombre</ingredient> en petits dés. ajouter le <ingredient quantite=1>sel</ingredient>, le poivre et le <ingredient quantite=1>jus de citron</ingredient>. mélanger doucement pour ne pas écraser l’ <ingredient quantite=1>avocat</ingredient>. servir frais. vous pouvez ajouter 2 feuilles de menthe ou de basilic frais.
+]]>
+ </preparation>
+</recette>

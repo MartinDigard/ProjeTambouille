@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23839">
+ <titre>Gratin à la fourme d’ Ambert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de petites pommes de terre à chair ferme</p>
+ <p>200 g de fourme d’ Ambert</p>
+ <p>15 cl de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>pommes de terre</ingredient> dans leur peau à l’ eau salée, les peler puis les disposer dans un <ingredient quantite=1>petit</ingredient> <recipient>plat</recipient> allant au <recipient>four</recipient>. mélanger le fromage, la <ingredient quantite=1>crème</ingredient>, l’ assaisonnement et le <ingredient quantite=1>persil</ingredient>. verser le tout sur les <ingredient quantite=1>pommes de terre</ingredient> et passer rapidement sous le grill du <recipient>four</recipient> pour gratiner (ou 10 min à 220 ° c - thermostat 7 - 8).
+]]>
+ </preparation>
+</recette>

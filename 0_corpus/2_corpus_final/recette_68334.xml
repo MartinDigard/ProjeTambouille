@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68334">
+ <titre>Soupe de poulet pakistanaise</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>un poulet entier</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>une feuille de laurier</p>
+ <p>2 bâtons de cannelle</p>
+ <p>2 cuillères à café de sel</p>
+ <p>1 lime</p>
+ <p>20 cl de lait de coco </p>
+ <p>1/2 l de bouillon</p>
+ <p>2 cuillères à soupe d’ huile de tournesol</p>
+ <p>1 cuillère à café de: cadamomne,, coriandre, curry fort. </p>
+ <p>2 cuillères à café de curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire bouillir dans une <recipient>casserole</recipient> le <ingredient quantite=1>poulet</ingredient> dans de l’ eau</operation> froide, jusqu’ à ce que la viande se détache des os (<operation temps=6.86min espace=14>mettez assez d’ eau pour l’</operation> immerger complètement). garder l’ eau, détacher la peau et la jeter. dans une autre grande <recipient>casserole</recipient>, faire revenir les <ingredient quantite=2>oignons</ingredient> dans 2 <ingredient quantite=2>cuillères à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient>. rajouter toutes les épices en poudre, puis la <ingredient quantite=2>cannelle</ingredient> et le <ingredient quantite=1>laurier</ingredient>. bien mélanger et rajouter le <ingredient quantite=1>poulet</ingredient> préalablement découpé en petits morceaux. ajouter ensuite le jus du lime. mouiller ensuite le <ingredient quantite=1>poulet</ingredient> petit à petit avec le <ingredient quantite=1>bouillon</ingredient> en mélangeant (mettre + ou - d’ eau suivant le nombre de personnes) <operation temps=6.86min espace=14>laisser ensuite</operation> cuire à feu <ingredient quantite=1>fort</ingredient> quelques minutes. baisser le feu et rajouter le lait de <ingredient quantite=1>coco</ingredient>. la <ingredient quantite=2>soupe</ingredient> a un aspect un peu laiteux mais elle est excellente. recette traditionnelle du pakistan!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15963">
+ <titre>Pain de surimi rapide</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de surimi en bâtonnets</p>
+ <p>6 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>20 cl de lait</p>
+ <p>2 cuillères à café de maïzena</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer le <ingredient quantite=1>surimi</ingredient>, réserver dans un <recipient>saladier</recipient>. battre les <ingredient quantite=6>oeufs</ingredient> en omelette, ajouter la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=8>remplir le pot de <ingredient quantite=1>crème</ingredient> vide de lait et le</operation> verser dans la préparation, puis la <ingredient quantite=2>maïzena</ingredient> délayée avec un peu de lait. saler et poivrer la <ingredient quantite=1>crème</ingredient>, puis mélanger au <ingredient quantite=1>surimi</ingredient>. mettre dans un <recipient>moule</recipient> à cake de dimension moyenne et cuire pendant 45 mn à 1 heure à température moyenne (thermostat 6/180 ° c). <operation temps=6.86min espace=8>servir avec une mayonnaise et de l’</operation> aïoli. très facile a <operation temps=6.86min espace=8>réussir, même pour les nuls en cuisine</operation>. vin blanc
+]]>
+ </preparation>
+</recette>

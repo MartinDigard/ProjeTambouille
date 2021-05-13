@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47598">
+ <titre>Cabillaud sauce marine light</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pavé de cabillaud</p>
+ <p>4 champignons de Paris</p>
+ <p>50 g de crevettes grises</p>
+ <p>1 échalote</p>
+ <p>1 gousse d’ ail</p>
+ <p>coulis de tomates</p>
+ <p>sel, poivre</p>
+ <p>piment, ciboulette</p>
+ <p>1 noisette de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire fondre la <ingredient quantite=1>noisette beurre</ingredient> dans une <recipient>poêle</recipient> chaude, y déposer le <ingredient quantite=1>pavé de cabillaud</ingredient>, puis l’ <ingredient quantite=1>échalote</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et la <ingredient quantite=1>ciboulette</ingredient> finement ciselée. y ajouter les <ingredient quantite=1>crevettes</ingredient> et les <ingredient quantite=4>champignons</ingredient> découpé en dés, puis verser le <ingredient quantite=1>coulis de tomates</ingredient> acheté tout prêt. saler, poivrer et pimenter selon votre goût, <operation temps=6.86min espace=10>laisser mijoter quelques instants</operation>. quand le poisson est cuit, servir.
+]]>
+ </preparation>
+</recette>

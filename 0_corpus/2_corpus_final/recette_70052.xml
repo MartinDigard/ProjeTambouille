@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70052">
+ <titre>Hachis parmentier aux petits pois carottes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de viande hachée (au choix) </p>
+ <p>1 oignons</p>
+ <p>7-8 pommes de terre</p>
+ <p>1 grosse boîte petit pois et carottes</p>
+ <p>1/2 verre de lait</p>
+ <p>1 oeuf</p>
+ <p>beurre</p>
+ <p>muscade</p>
+ <p>chapelure</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>pommes de terre</ingredient>, les couper et les <operation temps=6.86min espace=14>faire cuire dans de l’ eau bouillante</operation> salée environ 30 - 40 min. pendant ce temps, hacher finement l’ <ingredient quantite=1>oignon</ingredient>, le <operation temps=6.86min espace=14>faire revenir à la <recipient>poêle</recipient> dans du beurre</operation>. ajouter la <ingredient quantite=1>viande hachée</ingredient>, <operation temps=6.86min espace=14>laisser cuire le tout en</operation> émiettant la <ingredient quantite=1>viande</ingredient> avec la cuillère en bois. saler, poivrer. une fois que les <ingredient quantite=1>pomme de terre</ingredient> sont cuites, les écraser en purée avec un peu de beurre, le <ingredient quantite=1>sel</ingredient>, le poivre, la <ingredient quantite=1>muscade</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>lait</ingredient>. egoutter les <ingredient quantite=1>petits pois et carottes</ingredient>. préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, disposer les <ingredient quantite=1>petits pois et carottes</ingredient> au fond, puis la <ingredient quantite=1>viande</ingredient> et enfin la purée. parsemer de <ingredient quantite=1>chapelure</ingredient> et de <ingredient quantite=1>petits</ingredient> copeaux de beurre. enfourner et <operation temps=6.86min espace=14>laisser cuire 20 min, jusqu’ à ce que la <ingredient quantite=1>chapelure</ingredient> soie</operation> dorée.
+]]>
+ </preparation>
+</recette>

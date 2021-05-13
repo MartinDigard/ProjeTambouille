@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73225">
+ <titre>Filet d’ agneau au Monbazillac</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de filet pur d’ agneau</p>
+ <p>1 échalote</p>
+ <p>5 aiguilles de romarin</p>
+ <p>15 cl de Monbazillac</p>
+ <p>10 cl de crème liquide</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>sortir la viande du réfrigerateur à l’ avance</operation>. hacher finement l’ <ingredient quantite=1>échalote</ingredient> et le <ingredient quantite=5>romarin</ingredient>. <operation temps=6.86min espace=10>saisir dans le beurre le <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>agneau</ingredient> de chaque côté, ensuite</operation> diminuer le feu et <operation temps=4.0min espace=10>laisser cuire 4 min de chaque côté</operation>. saler et poivrer et placer la viande dans de l’ alu au <recipient>four</recipient> à peine chaud pour la <operation temps=45.0min espace=10>laisser reposer</operation>. jeter le beurre de la <recipient>poêle</recipient> mais ne pas l’ essuyer, y mettre l’ <ingredient quantite=1>échalote</ingredient> et le vin, gratter les sucs de viande et <operation temps=6.86min espace=10>laisser évaporer environ de moitié, ensuite</operation> ajouter la <ingredient quantite=1>crème</ingredient> en allongeant. <operation temps=6.86min espace=10>sortir la viande de l</operation>’ alu et la trancher, ajouter le jus rendu à la sauce, enfin remettre la viande dans la <recipient>poêle</recipient> quelques secondes pour la réchauffer. le temps de cuisson de la viande varie selon l’ épaisseur du <ingredient quantite=1>filet</ingredient>. elle doit être rosée.
+]]>
+ </preparation>
+</recette>

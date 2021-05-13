@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31930">
+ <titre>Soupe aux Tomates, aux Pommes et au Curry</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cuillère à soupe de beurre</p>
+ <p>3 gros oignons ou 6 oignons moyens, hachés grossièrement</p>
+ <p>2 pommes Granny Smith, pelées et râpées</p>
+ <p>10 tomates italiennes, émondées*</p>
+ <p>2 cuillères à café de curry, en poudre ou en pâte</p>
+ <p>1 litre de bouillon de poulet</p>
+ <p>1/2 boîte de lait de coco, environ 250 ml</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire fondre le <ingredient quantite=1>beurre</ingredient> à feu</operation> <ingredient quantite=1>moyen</ingredient> puis <operation temps=6.86min espace=8>faire revenir les <ingredient quantite=3>oignons</ingredient> jusqu’ à ce qu’ ils soient</operation> caramélisés, soit environ 10 mn. ajouter les <ingredient quantite=2>pommes</ingredient>, les <ingredient quantite=1>tomates</ingredient>, le <ingredient quantite=2>curry</ingredient>, le <ingredient quantite=1>bouillon</ingredient> et le <ingredient quantite=1>lait de coco</ingredient>. assaisonner puis <operation temps=40.0min espace=8>faire mijoter de 35 à 40 mn</operation>. servir tel quel, ou pour <operation temps=6.86min espace=8>obtenir une texture plus crémeuse</operation>, réduire en purée au mélangeur électrique. * pour <ingredient quantite=1>émonder</ingredient> les <ingredient quantite=1>tomates</ingredient>, <operation temps=6.86min espace=8>faire une incision en forme de croix sur la base de chacune d’ elles puis les</operation> plonger dans une eau bouillante de 15 à 30 secondes. retirer les <ingredient quantite=1>tomates</ingredient> puis les plonger immédiatement dans un bain d’ eau glacée. les peler en les pressant légèrement afin de les épépiner. cette <ingredient quantite=1>soupe</ingredient> onctueuse dégustée à l’ automne avec les réserves de <ingredient quantite=1>tomates</ingredient> nous prépare à l’ hiver...
+]]>
+ </preparation>
+</recette>

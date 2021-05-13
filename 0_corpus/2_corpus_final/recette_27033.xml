@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27033">
+ <titre>Crêpes sucrées au miel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>125 g de farine</p>
+ <p>2 œufs</p>
+ <p>20 cl de lait</p>
+ <p>5 cl de bière</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la garniture: </p>
+ <p>100 g de raisins secs</p>
+ <p>1 petit verre de rhum</p>
+ <p>4 cuillères à soupe de miel</p>
+ <p>100 g de noix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte à crêpes: dans un <recipient>saladier</recipient>, verser la farine en fontaine. casser les <ingredient quantite=2>œufs</ingredient> et les intégrer à la farine en remuant énergiquement à la <ingredient quantite=1>cuillère</ingredient> en bois. ajouter un peu de lait pour délayer la <ingredient quantite=1>pâte</ingredient> de façon à éviter les grumeaux. verser la bière et l’ <ingredient quantite=2>huile</ingredient>. mettre la <ingredient quantite=1>pâte</ingredient> au repos pendant 1 h. dans le <ingredient quantite=1>rhum</ingredient>, ajouter les <ingredient quantite=1>raisins</ingredient> pour les <operation temps=6.86min espace=14>faire gonfler et les</operation> imprégner. dans une <recipient>casserole</recipient>, peu avant de <operation temps=6.86min espace=14>faire les crêpes</operation>, <operation temps=6.86min espace=14>faire tiédir sur feu doux: les <ingredient quantite=1>raisins</ingredient>, le <ingredient quantite=1>rhum</ingredient> et les cerneaux de <ingredient quantite=1>noix</ingredient></operation>. préparer vos crêpes et à la dernière minute, les fourrer avec la <ingredient quantite=1>garniture</ingredient>.
+]]>
+ </preparation>
+</recette>

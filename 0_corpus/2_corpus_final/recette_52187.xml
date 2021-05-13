@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52187">
+ <titre>Bouillon de ravioles aux petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 plaques de ravioles de Royan</p>
+ <p>1 botte de carottes nouvelles</p>
+ <p>4 navets oranges</p>
+ <p>2 poireaux</p>
+ <p>100 g de parmesan</p>
+ <p>Pour le bouillon: </p>
+ <p>1 carcasse de poulet</p>
+ <p>coriandre en grains</p>
+ <p>origan</p>
+ <p>OU: 2 cubes de bouillon de volaille dilués dans 1 l d’ eau bouillante</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire bouillir, pendant 15 min à feu doux, la <ingredient quantite=1>carcasse de poulet</ingredient> avec la <ingredient quantite=1>coriandre</ingredient> et l’ <ingredient quantite=1>origan</ingredient> dans 1 litre d’ <ingredient quantite=1>eau</ingredient> environ. retirer les morceaux d’ os et de peau, et garder seulement le liquide ; saler et poivrer. ajouter les légumes coupés grossièrement et <operation temps=5.0min espace=11>laisser cuire à feu moyen pendant 5 min</operation>. ajouter les <ingredient quantite=4>ravioles</ingredient> et <operation temps=10.0min espace=11>laisser mijoter à feu doux 10 min environ</operation>. servir et napper de <ingredient quantite=1>parmesan</ingredient>. cette soupe consistante suffit largement en <recipient>plat</recipient> unique. préférez des légumes du marché afin de multiplier les arômes. permet de profiter au maximum d’ un <ingredient quantite=1>poulet</ingredient> en réutilisant sa <ingredient quantite=1>carcasse</ingredient>. un morgon ou un fleurie.
+]]>
+ </preparation>
+</recette>

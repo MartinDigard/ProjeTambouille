@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40547">
+ <titre>Tarte au chocolat suculente et fondante</titre>
+ <type>Dessert</type>
+ <niveau>Difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte à tarte au choix</p>
+ <p>Pour la garniture: </p>
+ <p>100 g de chocolat à cuire </p>
+ <p>40 cl de lait </p>
+ <p>50 g de sucre </p>
+ <p>3 jaunes d’ oeuf </p>
+ <p>2 cuillères à soupe de farine Pour la meringue: </p>
+ <p>2 blancs d’ oeuf </p>
+ <p>40 g de sucre </p>
+ <p>40 g d’ amandes effilées Pour le glaçage: </p>
+ <p>25 g de chocolat </p>
+ <p>50 g de sucre </p>
+ <p>25 g de beurre</p>
+ <p>Pour la crème anglaise au café: </p>
+ <p>30 cl de lait </p>
+ <p>2 jaunes d’ oeuf </p>
+ <p>30 g de sucre en poudre</p>
+ <p>1 cuillère à café de Maïzena</p>
+ <p>1/2 cuillère à café de café</p>
+ <p>1/2 cuillère à café d’ extrait de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=24>faire <ingredient quantite=1>cuire</ingredient> la pâte à blanc</operation>. <operation temps=6.86min espace=24>faire fondre le <ingredient quantite=1>chocolat</ingredient> en morceaux, dans le lait</operation>. dans un <recipient>saladier</recipient>, mélanger le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=3>jaunes</ingredient>, et la <ingredient quantite=2>farine</ingredient>. <operation temps=6.86min espace=24>faire un mélange bien lisse</operation>. petit à petit, ajouter le lait chocolaté, et mélanger doucement. remettre le tout à <ingredient quantite=1>cuire</ingredient> à feu doux, tout en mélangeant. monter les blancs en neige avec le <ingredient quantite=1>sucre</ingredient>. verser la <ingredient quantite=1>crème</ingredient> au <ingredient quantite=1>chocolat</ingredient> sur le fond de la <ingredient quantite=1>tarte</ingredient>. attendre que la <ingredient quantite=1>crème</ingredient> soit froide, puis ajouter la <ingredient quantite=2>meringue</ingredient>, et saupoudrer d’ <ingredient quantite=1>amandes</ingredient> (quand la <ingredient quantite=1>crème</ingredient> est bien froide, les <operation temps=6.86min espace=24>faire dorer au grill quelques secondes</operation>). <operation temps=6.86min espace=24>préparez alors le <ingredient quantite=1>glaçage</ingredient>: dans une <recipient>casserole</recipient></operation>, <operation temps=6.86min espace=24>faire chauffer le <ingredient quantite=1>sucre</ingredient> avec un verre d’ eau</operation>. <operation temps=6.86min espace=24>laisser réduire, jusqu’ à ce que le sirop soit</operation> consistant. <operation temps=6.86min espace=24>ajoutez alors le <ingredient quantite=1>chocolat</ingredient>,</operation> et <operation temps=5.0min espace=24>laissez <ingredient quantite=1>cuire</ingredient> environ 5 min en</operation> remuant. hors du feu, <operation temps=6.86min espace=24>ajoutez le beurre</operation>. projeter ce mélange sur la <ingredient quantite=1>tarte</ingredient> et mettre au frais. <operation temps=6.86min espace=24>faire chauffer le lait au <recipient>micro-onde</recipient></operation>. mélanger les <ingredient quantite=3>jaunes</ingredient> d’ œuf, la <ingredient quantite=1>maïzena</ingredient> et le <ingredient quantite=1>sucre</ingredient>. ajouter la <ingredient quantite=1>vanille</ingredient> et le <ingredient quantite=1>café</ingredient>. quand le lait est chaud, le verser sur le mélange en remuant bien. remettre au <recipient>micro-onde</recipient> 2 à 3 min, en mélangeant en milieu de cuisson. <operation temps=6.86min espace=24>laisser bien refroidir au frigo avant de</operation> consommer cette <ingredient quantite=1>tarte</ingredient>, qui doit impérativement se manger froide! un mousseux ou du champagne
+]]>
+ </preparation>
+</recette>

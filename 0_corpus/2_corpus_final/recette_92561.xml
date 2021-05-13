@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92561">
+ <titre>Gratin de courgettes et de tomates au bacon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grande courgette- 2 tomates- 100 gr de bacon- dés de Feta marinés- 20 cl de crème fraîche épaisse- gruyère rapé- sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la courgette et les tomates en rondelles. dans un <recipient>plat</recipient> à gratin, mettre une couche de courgette, parsemé de quelques dés de feta émietté, puis rajouter le bacon émincé. mettre ensuite une couche de tomates, <operation temps=0.25min espace=3>salez</operation> lègerement. mettre le restant de courgette au dessus. pour terminer, rajouter une couche de <ingredient quantite=1>crème</ingredient> fraiche selon votre gout, <operation temps=0.25min espace=3>salez</operation> et <operation temps=6.86min espace=3>poivrez, et ensuite le <ingredient quantite=1>gruyère</ingredient></operation>. mettre au <recipient>four</recipient> 45 min à 220 °, il faut que ça frémissent pour bien cuire la courgette. <operation temps=6.86min espace=3>pensez à</operation> <operation temps=6.86min espace=3>recouvrir d’ un alu quand le gruyère est</operation> doré. bon appêtit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228191">
+ <titre>Velouté de carottes au fromage ail et fines herbes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>900 g de carottes</p>
+ <p>1 oignon</p>
+ <p>60 g de fromage ail et fines herbes</p>
+ <p>100 g de crème fraîche</p>
+ <p>2 cuillères à soupe d’ huile d’ arachide (facultatif) </p>
+ <p>1 pincée de sel </p>
+ <p>1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans l’ <ingredient quantite=2>huile</ingredient>, y</operation> ajouter les <ingredient quantite=1>carottes</ingredient> coupées en rondelles (cuire environ 5 min). verser 1, 5 l d’ eau, <operation temps=0.25min espace=7>couvrir</operation> et <operation temps=6.86min espace=7>finir la cuisson</operation>. mixez, incorporez la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>fromage ail et fines herbes</ingredient> et <operation temps=6.86min espace=7>assaisonnez selon vos goûts</operation>.
+]]>
+ </preparation>
+</recette>

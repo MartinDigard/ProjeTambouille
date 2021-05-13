@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17066">
+ <titre>Poulet à l’ ananas et aux courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>450 g de courgettes</p>
+ <p>1 oignon</p>
+ <p>40 g de beurre</p>
+ <p>250 g d’ ananas au sirop</p>
+ <p>2 dl de lait de coco</p>
+ <p>estragon</p>
+ <p>1 cuillère à soupe de curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=5.0min espace=11>faire cuire dans du beurre les rondelles de <ingredient quantite=1>courgettes</ingredient> 5 mn de chaque côté</operation>. <operation temps=0.25min espace=11>salez</operation> et <operation temps=6.86min espace=11>poivrez, puis les</operation> réserver. dans la même <recipient>cocotte</recipient>, faire saisir les <ingredient quantite=4>escalopes de poulet</ingredient> 10 mn. <operation temps=6.86min espace=11>salez,</operation> <operation temps=0.25min espace=11>poivrez et</operation> <operation temps=0.5min espace=11>réservez</operation>. toujours dans la même <recipient>cocotte</recipient>, <operation temps=5.0min espace=11>faire revenir 5 mn l’ <ingredient quantite=1>oignon</ingredient></operation> émincé. verser ensuite le lait de <ingredient quantite=1>coco</ingredient>, le <ingredient quantite=1>sirop</ingredient> d’ ananas (1dl), et le <ingredient quantite=1>curry</ingredient>. <operation temps=6.86min espace=11>salez,</operation> <operation temps=0.25min espace=11>poivrez et</operation> <operation temps=5.0min espace=11>faire réchauffer 5 mn à couvert</operation>. <operation temps=6.86min espace=11>ajoutez l’ <ingredient quantite=1>estragon</ingredient>, les <ingredient quantite=4>escalopes</ingredient></operation> coupées en grosses lanières, les <ingredient quantite=1>courgettes</ingredient> et les tranches d’ ananas coupées en 4. <operation temps=5.0min espace=11>poursuivez le réchauffage encore 5 mn</operation> et <operation temps=5.0min espace=11>régalez -vous</operation>.
+]]>
+ </preparation>
+</recette>

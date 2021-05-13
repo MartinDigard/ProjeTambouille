@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20319">
+ <titre>Gâteau pralinoise et écorces d’ oranges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>180 g de chocolat pralinoise (poulain 1848) </p>
+ <p>200 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>150 g de sucre</p>
+ <p>4 oeufs</p>
+ <p>40 g d’ écorces d’ oranges confites</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec le beurre au <recipient>bain - marie</recipient></operation>. dans un <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=4>oeufs</ingredient>. mélanger les 2 préparations (la pâte est alors très compacte). monter les blancs en neige et les incorporer délicatement à la pâte. ajouter les <ingredient quantite=1>écorces</ingredient> d’ <ingredient quantite=1>oranges</ingredient>. verser dans un <recipient>moule</recipient> et <operation temps=45.0min espace=9>laisser cuire 45 mn à 175 ° c</operation> (<operation temps=30.0min espace=9>couvrir avec un papier alu au bout de 30 mn</operation>).
+]]>
+ </preparation>
+</recette>

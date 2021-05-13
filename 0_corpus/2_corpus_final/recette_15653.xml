@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15653">
+ <titre>Faisan au muscat</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 gros faisan</p>
+ <p>4 verres de muscat</p>
+ <p>2 échalotes</p>
+ <p>lardons</p>
+ <p>10 grains de raisins</p>
+ <p>5 cuillères à soupe de crème</p>
+ <p>1 carotte</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en 4 morceaux le <ingredient quantite=1><operation temps=6.86min espace=9>faisan</ingredient>, puis le</operation> <operation temps=6.86min espace=9>faire dorer dans du beurre et un peu d’</operation> huile. couper les <ingredient quantite=2>échalotes</ingredient> ainsi que la <ingredient quantite=1>carotte</ingredient>, mettre dans la <recipient>poêle</recipient> les <ingredient quantite=1>lardons</ingredient>, la <ingredient quantite=1>carotte</ingredient> en rondelles, les <ingredient quantite=2>échalotes</ingredient>, puis <operation temps=6.86min espace=9>laisser un peu dorer</operation>. déglacer avec 4 <ingredient quantite=4>verres de muscat</ingredient>. placer le tout dans une <recipient>cocotte</recipient> et <operation temps=35.0min espace=9>laisser cuire 35 mn environ</operation>. a la fin de cuisson, mettre un peu de maizena mélangée à un peu d’ eau (pour lier), puis assaisonner et mettre la crème fraîche. vin du pays d’ oc blanc ou <ingredient quantite=4>muscat</ingredient>
+]]>
+ </preparation>
+</recette>

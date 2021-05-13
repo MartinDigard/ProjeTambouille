@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55045">
+ <titre>Charlotte aux biscuits roses de Reims et aux framboises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>24 biscuits à la cuillère ou des biscuits roses de Reims</p>
+ <p>1 flacon 1/2 de nappage framboise (type vahiné) </p>
+ <p>500 g de fromage blanc en faisselle</p>
+ <p>1 blanc d’ oeuf</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>4 feuilles de gélatine</p>
+ <p>framboises fraîches ou surgelées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>tapissez le <recipient>moule</recipient> à charlotte avec du papier cellophane en le laissant</operation> dépasser tout autour. <operation temps=6.86min espace=9>tapissez le fond et les parois de <ingredient quantite=1>biscuits</ingredient></operation>. egouttez le <ingredient quantite=1>fromage blanc</ingredient> (au moins <ingredient quantite=1>1/2</ingredient> heure). fouettez le <ingredient quantite=1>fromage blanc</ingredient> et le <ingredient quantite=1>nappage framboise</ingredient>. <operation temps=6.86min espace=9>faites ramollir la <ingredient quantite=4>gélatine</ingredient> dans l’ eau froide et la</operation> <operation temps=6.86min espace=9>faire fondre au micro onde avec 2 cl d’ eau (10 secondes</operation> suffisent). <operation temps=6.86min espace=9>versez la gelatine</operation> fondue dans le <ingredient quantite=1>fromage blanc</ingredient> et <operation temps=8.0min espace=9>mélangez bien</operation>. battez le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> en neige très ferme avec une pincée de sel, <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=9>incorporez le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> au mélange fromage blanc-nappage</operation>. <operation temps=6.86min espace=9>ajoutez quelques</operation> <ingredient quantite=1>framboises</ingredient> et <operation temps=6.86min espace=9>versez dans le <recipient>moule</recipient></operation>, <operation temps=6.86min espace=9>rabattez le film sur la préparation</operation> et <operation temps=6.86min espace=9>mettez au frigo au minimum 4 heures</operation>. retournez, <operation temps=6.86min espace=9>démoulez</operation> et <operation temps=6.86min espace=9>décorez de <ingredient quantite=1>framboises</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

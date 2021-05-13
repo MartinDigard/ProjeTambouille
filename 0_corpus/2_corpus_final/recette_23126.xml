@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23126">
+ <titre>Oeufs cocotte au gruyère</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de gruyère râpé</p>
+ <p>50 g de beurre</p>
+ <p>4 oeufs</p>
+ <p>2 tranches de jambon</p>
+ <p>2 échalotes</p>
+ <p>1 tomate</p>
+ <p>brins d’ estragon</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>2 cuillères à soupe de vin blanc sec</p>
+ <p>sel et poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6/7). dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=15>faire fondre les <ingredient quantite=2>échalotes</ingredient></operation> ciselées et les placer dans 4 cassolettes. parsemer de <ingredient quantite=1>gruyère râpé</ingredient> et arroser de <ingredient quantite=2>vin blanc</ingredient>. ajouter le <ingredient quantite=2>jambon</ingredient> coupé en dés, la <ingredient quantite=1>tomate</ingredient> mondée et coupée en morceaux, la <ingredient quantite=4>crème fraîche</ingredient> et quelques feuilles d’ <ingredient quantite=1>estragon</ingredient> hachées. assaisonner. <operation temps=10.0min espace=15>faire cuire les cassolettes au <recipient>bain - marie</recipient> dans le <recipient>four</recipient> pendant 10 min</operation>. ajouter les <ingredient quantite=4>oeufs</ingredient> dans chaque cassolette et remettre au <recipient>four</recipient> pendant 5 min.
+]]>
+ </preparation>
+</recette>

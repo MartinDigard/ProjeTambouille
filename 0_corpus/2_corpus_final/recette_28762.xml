@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28762">
+ <titre>Soupe au chou et au lard</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 chou blanc</p>
+ <p>50 g de beurre</p>
+ <p>3 oignons</p>
+ <p>100 g de lard coupé en dés</p>
+ <p>2 l d’ eau bouillante</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et émincer le <ingredient quantite=1>chou</ingredient> très finement, puis le plonger 3 minutes dans l’ <ingredient quantite=1>eau bouillante</ingredient> salée avant de le mettre à égoutter dans une <recipient>passoire</recipient>. <operation temps=6.86min espace=7>faire fondre les <ingredient quantite=3>oignons</ingredient> hachés dans le beurre</operation> puis ajouter le <ingredient quantite=1>chou</ingredient> et 5 cl d’ <ingredient quantite=1>eau</ingredient>. <operation temps=0.25min espace=7>couvrir</operation> et <operation temps=30.0min espace=7>laisser cuire 30 minutes</operation>. le <ingredient quantite=1>chou</ingredient> doit être bien tendre. verser l’ <ingredient quantite=1>eau bouillante</ingredient> et ajouter le <ingredient quantite=1>lard</ingredient>. poursuivre la cuisson à feu doux pendant 2 heures <operation temps=6.86min espace=7>servir bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

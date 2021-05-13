@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62607">
+ <titre>Ragout d’ agneau de ma Môman</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 cuillères à soupe huile d’ arachide</p>
+ <p>1, 5 kg de collier d’ agneau charnu ou 600 g de collier et 700 g d’ épaule en morceau</p>
+ <p>3 oignons</p>
+ <p>2 cuilléres à soupe de farine</p>
+ <p>2 branches de thym</p>
+ <p>2 feuilles de laurier</p>
+ <p>sel et poivre</p>
+ <p>1, 8 kg de pommes de terre Roseval</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>agneau</ingredient> dans une <recipient>cocotte</recipient></operation> et réserver quelques minutes. <operation temps=6.86min espace=9>faire blondir les <ingredient quantite=3>oignons</ingredient></operation> émincés. remettre l’ <ingredient quantite=1>agneau</ingredient>, le mélanger aux <ingredient quantite=3>oignons</ingredient>, saler, poivrer puis saupoudrer de <ingredient quantite=2>farine</ingredient>. bien mélanger et mouiller avec 1 l d’ eau. ajouter le <ingredient quantite=2>thym</ingredient> et le <ingredient quantite=2>laurier</ingredient> puis <operation temps=30.0min espace=9>laisser cuire 30 min à feu doux</operation>. ajouter les <ingredient quantite=1>pommes de terre</ingredient> coupées en quartiers. <operation temps=6.86min espace=9>laisser cuire une bonne heure</operation> puis <operation temps=2.0min espace=9>servir</operation>. côtes du rhône villages
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69957">
+ <titre>Pavés de Cabillaud sauce Saint-Jacques et pomme</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pavés de cabillaud</p>
+ <p>4 noix de Saint-Jacques avec le corail</p>
+ <p>1/2 pomme (Golden ou Granny selon le goût) </p>
+ <p>10 cl de crème fraîche épaisse</p>
+ <p>2 bonnes noix de beurre</p>
+ <p>sel, poivre, ciboulette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=8>faire cuire le <ingredient quantite=2>cabillaud</ingredient> avec un peu de <ingredient quantite=2>beurre</ingredient></operation>. assaisonner selon votre goût (<ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>). pendant ce temps, dans une autre <recipient>poêle</recipient> beurrée, <operation temps=6.86min espace=8>faites revenir les <ingredient quantite=4>noix</ingredient> de saint-jacques que vous</operation> aurez coupées en 2 au préalable. <operation temps=6.86min espace=8>laisser dorer</operation> et ajouter la 1/2 <ingredient quantite=1>pomme</ingredient> coupée en dés et sans peau. <operation temps=6.86min espace=8>faites revenir légèrement</operation> puis ajouter la <ingredient quantite=1>crème fraîche</ingredient> tout en mélangeant bien. ajouter enfin la <ingredient quantite=1>ciboulette</ingredient>. <operation temps=6.86min espace=8>laisser cuire encore quelques minutes à feu doux</operation>. <operation temps=6.86min espace=8>servez les <ingredient quantite=2>cabillaud</ingredient> recouverts de la sauce</operation>.
+]]>
+ </preparation>
+</recette>

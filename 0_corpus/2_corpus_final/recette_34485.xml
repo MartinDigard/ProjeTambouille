@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34485">
+ <titre>La soupe d’ halloween</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâtisson</p>
+ <p>1 potimarron</p>
+ <p>3 oignons</p>
+ <p>1 cuillère à soupe de gingembre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel et poivre (5 baies de préférence) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper et vider le <ingredient quantite=1>pâtisson</ingredient> et le <ingredient quantite=1>potimarron</ingredient>. les éplucher puis les couper les petits cubes. eplucher les <ingredient quantite=3>oignons</ingredient> et les couper en lamelles. mettre le tout dans une grande <recipient>marmite</recipient> et <operation temps=5.0min espace=8>faire revenir 5 mn sur le feu en</operation> ajoutant l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et le <ingredient quantite=1>gingembre</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. ajouter de l’ eau jusqu’ à ce que les trois quarts des légumes soient immergés dans l’ eau. <operation temps=20.0min espace=8>laisser cuire à feu moyen pendant 20 mn environ</operation>. passer au <recipient>mixeur</recipient> puis <operation temps=2.0min espace=8>servir</operation>.
+]]>
+ </preparation>
+</recette>

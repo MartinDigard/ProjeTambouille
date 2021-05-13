@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54549">
+ <titre>Quiche aux langoustines et coquilles Saint-Jacques</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 pâte brisée prête à dérouler</p>
+ <p>1 poireau</p>
+ <p>200 g de petites langoustines</p>
+ <p>200 g de petites coquilles Saint-Jacques (noix de pétoncles) </p>
+ <p>50 g de beurre</p>
+ <p>4 oeufs</p>
+ <p>200 g de crème fraîche</p>
+ <p>20 cl de lait</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>garnir un <recipient>moule</recipient> avec la <ingredient quantite=1>pâte</ingredient> puis la</operation> piquer la à la fourchette de part en part. disposer dans la tarte les lammelles de <ingredient quantite=1>poireau</ingredient>, préalablement blanchis et revenus à la <recipient>poêle</recipient> pendant 20 min. ajouter ensuite les <ingredient quantite=1>petites langoustines</ingredient> et coquilles saint - <ingredient quantite=1>jacques</ingredient>. parsemer des copeaux de beurre, et <operation temps=6.86min espace=12>recouvrir d’ une préparation</operation> faite avec les <ingredient quantite=4>oeufs</ingredient> battus, la <ingredient quantite=1>crème fraîche</ingredient> et le lait, et assaisonner avec le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=45.0min espace=12>faire cuire 45 min au <recipient>four</recipient> à 170 ° c (thermostrat 5 - 6</operation>). servir chaud. bon appétit!
+]]>
+ </preparation>
+</recette>

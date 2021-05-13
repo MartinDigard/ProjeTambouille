@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25260">
+ <titre>Pomme de terre aux saucisses</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes de terre (grosses) se gardant fermes à la cuisson. </p>
+ <p>12 saucisses knacks</p>
+ <p>1 oignon</p>
+ <p>1 boîte de concentré de tomate</p>
+ <p>1 cube de bouillon de boeuf</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>pommes de terre</ingredient> et les trouer à l’ aide d’ un videur de <ingredient quantite=1>pommes</ingredient>. mettre les <ingredient quantite=1>saucisses</ingredient> dans le trou des <ingredient quantite=1>pommes de terre</ingredient> et les couper à dimension de <ingredient quantite=1>la pomme de terre</ingredient>. éplucher l’ <ingredient quantite=1>oignon</ingredient> et, dans une <recipient>cocotte</recipient> - minute, le <operation temps=6.86min espace=9>faire revenir dans 50 g de beurre</operation>. ensuite mettre les <ingredient quantite=1>pomme de terre</ingredient> dans la <recipient>cocotte</recipient>, saler, poivrer, <operation temps=2.0min espace=9>couvrir d’ eau</operation>, ajouter le <ingredient quantite=1>cube de bouillon de boeuf</ingredient> et incorporer le <ingredient quantite=1>concentré de tomate</ingredient>. fermer et lorsque la soupape se met à tourner, <operation temps=30.0min espace=9>laisser cuire 30 mn à feu vif</operation>. <operation temps=6.86min espace=9>laisser partir la vapeur et servir très chaud, bon appétit</operation>. <recipient>plat</recipient> pour personne pressée.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80990">
+ <titre>Filet de poulet au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filet de poulet</p>
+ <p>1 oignon</p>
+ <p>ail au poudre</p>
+ <p>4 cuillères à soupe de sauce soja</p>
+ <p>4 brins de ciboulette</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café de curry</p>
+ <p>10 cl de crème fraîche épaisse ou liquide</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>filets de poulet</ingredient> en petits morceaux, les mettre dans un <recipient>saladier</recipient> avec la <ingredient quantite=4>sauce soja</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, la <ingredient quantite=4>ciboulette</ingredient> et le <ingredient quantite=1>curry</ingredient>. <operation temps=6.86min espace=10>laissez reposer une heure</operation>. après, <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient> avec un peu d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, une fois légèrement</operation> caramélisé, mettre la viande. quand la viande commence à cuire, mettre petit à petit la <ingredient quantite=1>crème fraîche</ingredient> (<ingredient quantite=1>épaisse ou liquide</ingredient>), ajouter du <ingredient quantite=1>curry</ingredient> selon vos goûts sur la viande. mélanger bien le tout, saler et poivrer. bon appétit à vous.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11329">
+ <titre>Mignons de poulet à la moutarde et à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de blancs de poulet</p>
+ <p>3 cuillères de moutarde mi-forte</p>
+ <p>200 g de crème épaisse</p>
+ <p>herbes de Provence</p>
+ <p>10 cl de vin blanc</p>
+ <p>sel, poivre</p>
+ <p>huile d’ arachide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+badigeonnez les filets de <ingredient quantite=1>poulet</ingredient> de <ingredient quantite=3>moutarde</ingredient> et d’ <ingredient quantite=1>herbes de provence</ingredient>. <operation temps=6.86min espace=9>faites chauffer un peu d’</operation> huile dans une <recipient>poêle</recipient>, puis faîtes y cuire les filets de <ingredient quantite=1>poulet</ingredient>, jusqu’ à ce qu’ ils soient légérement grillés (5 à 10 min). <operation temps=1.0min espace=9>assaisonnez</operation>. baissez le feu et glacez le tout au <ingredient quantite=1>vin blanc</ingredient> (versez environ le <ingredient quantite=1>vin blanc</ingredient> dans la <recipient>poêle</recipient>, <operation temps=6.86min espace=9>laissez chauffer</operation> et évaporer un peu). <operation temps=6.86min espace=9>ajoutez la</operation> <ingredient quantite=1>crème</ingredient>, <operation temps=6.86min espace=9>remuez légèrement</operation> et <operation temps=6.86min espace=9>laissez chauffer</operation>. quand la <ingredient quantite=1>crème</ingredient> est chaude (et épaissie), <operation temps=6.86min espace=9>servez avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20538">
+ <titre>Cuisses de poulet rôti asiatiques</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1 cuillère à café de 5 épices</p>
+ <p>1 cuillère à café de gingembre frais râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation> et saupoudrez les <ingredient quantite=4>cuisses</ingredient> de <ingredient quantite=1>5 épices</ingredient>. <operation temps=6.86min espace=9>mélangez la sauce <ingredient quantite=3>soja</ingredient>, le <ingredient quantite=1>miel</ingredient>, le <ingredient quantite=1>gingembre</ingredient> et les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient></operation> écrasées. <operation temps=6.86min espace=9>faites - y</operation> mariner le <ingredient quantite=4>poulet</ingredient> 1 nuit en retournant les morceaux de temps en temps. faites cuire les <ingredient quantite=4>cuisses de poulet</ingredient> au <recipient>barbecue</recipient>, sous le grill, à la broche ou au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 45 min en les retournant et en arrosant souvent. a <operation temps=6.86min espace=9>servir avec du riz ou des nouilles sautées aux légumes</operation>.
+]]>
+ </preparation>
+</recette>

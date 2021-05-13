@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43026">
+ <titre>Quiche au St Marcellin, tomate et jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à tarte feuilletée</p>
+ <p>4 oeufs entiers</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>1 paquet de dés de jambon</p>
+ <p>2 St Marcellin</p>
+ <p>2 tomates</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte dans un <recipient>plat</recipient> à <ingredient quantite=1>tarte</ingredient>. dans un <recipient>saladier</recipient>, mélanger l’ ensemble des ingrédients à l’ exception de <ingredient quantite=1>st marcellin</ingredient>. trancher le <ingredient quantite=1>st marcellin</ingredient> et le disposer sur le fond de <ingredient quantite=1>tarte</ingredient> et verser la préparation sur le tout. pour <operation temps=6.86min espace=9>faire joli, vous pouver</operation> disposer en tresse sur le dessus de la préparation l’ excédent de pâte à <ingredient quantite=1>tarte</ingredient>. enfourner pour 45 min à 180 ° c (thermostat 6) en surveillant de temps à autre.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49924">
+ <titre>Nouilles sautées aux petits légumes et curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g nouilles chinoises</p>
+ <p>50 g de vermicelles de soja</p>
+ <p>2 petites carottes</p>
+ <p>1 petite courgette</p>
+ <p>1 oignon</p>
+ <p>1 pincée de piment de cayenne en poudre</p>
+ <p>2 cuillères à soupe de curry</p>
+ <p>2 cuillères à soupe d’ huile de tournesol</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plongez les <ingredient quantite=1>vermicelles</ingredient> de soja dans de l’ eau froide pendant 10 min. emincez les légumes en julienne. dans un <recipient>wok</recipient>, <operation temps=6.86min espace=9>faites chauffer l’ huile,</operation> puis colorer les légumes. <operation temps=6.86min espace=9>mettez les nouilles, ainsi que les <ingredient quantite=1>vermicelles</ingredient> dans 1 litre d’ eau bouillante,</operation> et <operation temps=4.0min espace=9>laissez cuire pendant 4 min</operation>. <operation temps=6.86min espace=9>ajoutez aux légumes la pincée de <ingredient quantite=1>piment</ingredient> et le <ingredient quantite=2>curry</ingredient>,</operation> et <operation temps=8.0min espace=9>mélangez bien</operation>. <operation temps=6.86min espace=9>ajoutez les nouilles et les <ingredient quantite=1>vermicelles</ingredient>,</operation> et <operation temps=6.86min espace=9>faites - les</operation> sauter 2 min. <operation temps=6.86min espace=9>servez, c’ est prêt! vous</operation> pouvez également utiliser cette recette en <ingredient quantite=2>soupe</ingredient>, en y ajoutant 500 ml de bouillon de volaille. vin blanc sec
+]]>
+ </preparation>
+</recette>

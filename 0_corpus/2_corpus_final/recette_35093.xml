@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35093">
+ <titre>Poulet aux girolles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 poulet de 1, 8 à 2 kg</p>
+ <p>500 g de girolles</p>
+ <p>100 g de tomates</p>
+ <p>100 g de farine</p>
+ <p>100 g d’ échalotes</p>
+ <p>1 gousse d’ ail</p>
+ <p>50 g de beurre</p>
+ <p>2 cuillère à soupe d’ huile</p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher tous les légumes et les réserver. couper le <ingredient quantite=1>poulet</ingredient> en 6 morceaux, les fariner et les <operation temps=15.0min espace=13>faire rissoler 10 à 15 minutes dans le beurre et l’ huile</operation>. <operation temps=0.25min espace=13>couvrir</operation> et cuire en <recipient>cocotte</recipient> 15 minutes environ. ajouter l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=1>ail</ingredient> hachés, la <ingredient quantite=1>tomate</ingredient> pelée, épépinée, concassée, le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient>. assaisonner. <operation temps=6.86min espace=13>laisser cuire une dizaine de minutes</operation> et ajouter les <ingredient quantite=1>girolles</ingredient>. prolonger la cuisson pendant 20 minutes. vérifier l’ assaisonnement et la cuisson (le <ingredient quantite=1>poulet</ingredient> doit être tendre, sinon <operation temps=6.86min espace=13>prolongez la cuisson)</operation> et <operation temps=6.86min espace=13>servir dans un <recipient>plat</recipient> creux</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="197484">
+ <titre>Gâteau au chocolat et sirop d’ érable</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat pâtissier ou de dégustation selon les goûts</p>
+ <p>150 g de beurre</p>
+ <p>50 g de sirop d’ érable</p>
+ <p>3 œufs</p>
+ <p>150 g de sucre</p>
+ <p>60 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). casser le <ingredient quantite=1>chocolat</ingredient> en morceaux et le <operation temps=6.86min espace=8>faire fondre le <ingredient quantite=1>chocolat</ingredient> au micro-ondes avec le <ingredient quantite=1>sirop</ingredient> d’ <ingredient quantite=1>érable</ingredient> et le beurre</operation>. battre les <ingredient quantite=3>œufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse. ajouter la farine et le <ingredient quantite=1>chocolat</ingredient>. verser le tout dans le <recipient>moule</recipient> beurré et fariné et enfournez pendant environ 30 min.
+]]>
+ </preparation>
+</recette>

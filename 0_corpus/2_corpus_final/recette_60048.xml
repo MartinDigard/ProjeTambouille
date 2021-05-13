@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60048">
+ <titre>Escalope au bacon en papillotes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet ou de dine</p>
+ <p>8 tranches de bacon</p>
+ <p>moutarde</p>
+ <p>crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper 4 morceaux d’ aluminium. tartiner les <ingredient quantite=4>escalopes</ingredient> de <ingredient quantite=1>moutarde</ingredient>. mettre 2 <ingredient quantite=8>tranches de bacon</ingredient> sur chaque <ingredient quantite=1>escalope</ingredient>, tartiner de <ingredient quantite=1>moutarde</ingredient>. déposer une cuillère de crème sur le <ingredient quantite=8>bacon</ingredient>. poivrer. saler légèrement. disposer sur le papier d’ aluminium et le refermer sans <operation temps=6.86min espace=6>laisser l’</operation> <operation temps=6.86min espace=6>air</operation> passer. <operation temps=30.0min espace=6>faire cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 30 min</operation>. accompagner de riz et champignons. surveiller bien la cuisson sinon c’ est délicieux. rouge
+]]>
+ </preparation>
+</recette>

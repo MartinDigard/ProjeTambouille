@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41680">
+ <titre>Omelette aux cèpes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>9 oeufs</p>
+ <p>500 g de cèpes</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ <p>beurre ou huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+choississez de préférence un bon gros <ingredient quantite=1>cèpe</ingredient> frais, nettouyez - le (<operation temps=6.86min espace=8>ôtez la terre) sans le</operation> laver, <operation temps=6.86min espace=8>coupez - le en petit bout</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=8>battez les 9</operation> <ingredient quantite=9>oeufs</ingredient>, <operation temps=0.25min espace=8>salez</operation>, <operation temps=6.86min espace=8>poivrez,</operation> et <operation temps=6.86min espace=8>ajoutez un peu d’ ail et du <ingredient quantite=1>persil</ingredient> si vous</operation> aimez. <operation temps=6.86min espace=8>faites revenir le <ingredient quantite=1>cèpes</ingredient> dans une <recipient>poêle</recipient> beurrée</operation> ou huilée. attention, la <recipient>poêle</recipient> doit être très chaude!!! une fois que le <ingredient quantite=1>cèpe</ingredient> a réduit, <operation temps=6.86min espace=8>ajoutez le mélange d’</operation> oeufs en baissant le feu. <operation temps=6.86min espace=8>laissez cuire quelques minutes le temps que les <ingredient quantite=9>oeufs</ingredient> se</operation> figent en omelette. mangez l’ omelette rapidement, tant que c’ est chaud!!!
+]]>
+ </preparation>
+</recette>

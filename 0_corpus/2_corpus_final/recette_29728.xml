@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29728">
+ <titre>Salade de fruits exotiques au rhum</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>6 tranches d’ ananas</p>
+ <p>3 bananes</p>
+ <p>3 oranges</p>
+ <p>1 noix de coco</p>
+ <p>8 cuillères à soupe de sucre</p>
+ <p>1/2 citron</p>
+ <p>10 cl de rhum</p>
+ <p>1 pincée de vanille en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ouvrir la <ingredient quantite=1>noix de coco</ingredient>, récupérer la chair et la concasser. détailler les <ingredient quantite=3>oranges</ingredient> et les <ingredient quantite=3>bananes</ingredient> en rondelles, couper l’ <ingredient quantite=6>ananas</ingredient> en morceaux. <operation temps=6.86min espace=9>réunir les fruits dans un <recipient>saladier</recipient>, les</operation> saupoudrer de <ingredient quantite=8>sucre</ingredient> et de <ingredient quantite=1>vanille</ingredient>. arroser de <ingredient quantite=1>rhum</ingredient> et de jus de <ingredient quantite=1>citron</ingredient> puis <operation temps=6.86min espace=9>laisser macérer 1 heure avant de</operation> <operation temps=2.0min espace=9>servir</operation>.
+]]>
+ </preparation>
+</recette>

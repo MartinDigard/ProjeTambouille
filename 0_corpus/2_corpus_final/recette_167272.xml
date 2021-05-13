@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167272">
+ <titre>Tomates mozzarella chaudes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tomates</p>
+ <p>125g de mozzarella</p>
+ <p>Basilic</p>
+ <p>Sel, poivre</p>
+ <p>Huile d’ olive</p>
+ <p>Vinaigre balsamique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper vos <ingredient quantite=2>tomates</ingredient> en tranches. couper la mozzarella en tranches. dans un <recipient>plat</recipient> à <recipient>four</recipient> disposer en rangée une rondelle de <ingredient quantite=1>tomate</ingredient>, une rondelle de mozzarella jusqu’ à ce qu’ il n’ y en est plus. saler, poivrer et enfourner pour <operation temps=6.86min espace=9>faire fondre la mozzarella environ 5mn</operation>. <operation temps=3.0min espace=9>sortir du <recipient>four</recipient></operation>, assaisonner avec un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>, du <ingredient quantite=1>vinaigre balsamique</ingredient> et disposer quelques feuilles de <ingredient quantite=1>basilic</ingredient> dessus. déguster.
+]]>
+ </preparation>
+</recette>

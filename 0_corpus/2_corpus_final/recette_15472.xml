@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15472">
+ <titre>Poulet aux asperges</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 blancs de poulet</p>
+ <p>4 tranches de Gouda</p>
+ <p>1 petite boîte de petites asperges</p>
+ <p>1 verre de vermouth</p>
+ <p>50 g de farine</p>
+ <p>80 g de beurre ou de margarine</p>
+ <p>150 g de jambon blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez les <ingredient quantite=2>blancs</ingredient> de <ingredient quantite=2>poulet</ingredient> en morceaux</operation>, <operation temps=6.86min espace=13>saupoudrez - les de <ingredient quantite=1>farine</ingredient> et secouez - les pour en</operation> éliminer l’ excédent. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=13>faites fondre 30 g de beurre</operation>, <operation temps=2.0min espace=13>dorez - y les <ingredient quantite=2>blancs</ingredient> de <ingredient quantite=2>poulet</ingredient> 2 mn de chaque côté,</operation> puis <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>vermouth</ingredient></operation>. <operation temps=0.25min espace=13>salez</operation>, <operation temps=0.5min espace=13>poivrez</operation> et <operation temps=6.86min espace=13>faites cuire 10</operation> mn. <operation temps=6.86min espace=13>coupez le <ingredient quantite=1>jambon</ingredient> en lanières</operation>. <operation temps=6.86min espace=13>beurrez un <recipient>plat</recipient> à <recipient>four</recipient></operation>, <operation temps=6.86min espace=13>mettez - y les <ingredient quantite=2>blancs</ingredient> de</operation> <ingredient quantite=2>poulet</ingredient> et recouvrez - les de <ingredient quantite=4>tranches de gouda</ingredient>. disposez les lanières de <ingredient quantite=1>jambon</ingredient> et les <ingredient quantite=1>asperges</ingredient> égouttées sur le dessus ainsi que le jus de cuisson et le restant du beurre. <operation temps=6.86min espace=13>faites cuire à <recipient>four</recipient> chaud 10</operation> mn. <operation temps=6.86min espace=13>servez dans le <recipient>plat</recipient></operation>.
+]]>
+ </preparation>
+</recette>

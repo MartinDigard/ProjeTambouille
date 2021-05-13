@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48050">
+ <titre>Poivrons rouges grillés à la tapenade</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 gros poivrons rouge</p>
+ <p>2 petits bocaux d’ olives noires dénoyautées</p>
+ <p>ail (quantité selon le goût) </p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=7>faire cuire les <ingredient quantite=4>poivrons</ingredient> tel quels dans le <recipient>four</recipient> à 180 - 200 ° c (thermostat 6 - 7) environ 30 min</operation>. aprés la cuisson les enfermer dans un sac de congélation, les <operation temps=6.86min espace=7>laisser refroidir au <recipient>réfrigérateur</recipient></operation>. les couper en deux, enlever les graines et les éplucher. préparation de la tapenade: bien broyer les <ingredient quantite=2>olives</ingredient> avec l’ <ingredient quantite=1>ail</ingredient> et un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. metrre les <ingredient quantite=4>poivrons rouge</ingredient> dans un <recipient>plat</recipient> et au milieu la tapenade dans un <ingredient quantite=1>petit</ingredient> ramequin. ceci est très convivial, bien frais pour l’ été c’ est excellent. vous pouvez essayer avec d’ autres <ingredient quantite=4>poivrons</ingredient> pour une décoration sympathique. bon appetit
+]]>
+ </preparation>
+</recette>

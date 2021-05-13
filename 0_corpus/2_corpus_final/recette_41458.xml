@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41458">
+ <titre>Gratin d’ Halloween</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit morceau de courge</p>
+ <p>2 carottes</p>
+ <p>50 g de riz blanc</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 pincée de muscade</p>
+ <p>4 tranches de jambon blanc</p>
+ <p>du fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire au cuit - vapeur la <ingredient quantite=1>courge</ingredient> et les <ingredient quantite=2>carottes</ingredient> pendant 20 minutes. cuire le <ingredient quantite=1>riz blanc</ingredient>. mixer le <ingredient quantite=1>jambon blanc</ingredient>. ajouter dans le bol du mixer la <ingredient quantite=1>courge</ingredient> et les <ingredient quantite=2>carottes</ingredient>, la <ingredient quantite=2>crème fraîche</ingredient>, le sel, le poivre et la <ingredient quantite=1>muscade</ingredient>. mixer. verser dans un <recipient>plat</recipient> à gratin <operation temps=6.86min espace=9>ajoutez le</operation> <ingredient quantite=1>riz</ingredient>, mélanger. <operation temps=10.0min espace=9>faire gratiner pendant 5 à 10 minutes au <recipient>four</recipient> sous le grill</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28227">
+ <titre>Courgettes farcies à la brousse et coriandre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 courgettes de taille moyenne</p>
+ <p>400 g de brousse (variété de fromage de chèvre frais) </p>
+ <p>200 g de lardons fumés</p>
+ <p>200 g de champignons de Paris frais ou surgelés</p>
+ <p>100 g de pignons</p>
+ <p>2 oeufs</p>
+ <p>150 g de parmesan en poudre</p>
+ <p>1 bouquet de coriandre frais</p>
+ <p>2 gousses d’ ail</p>
+ <p>250 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=14>faites blanchir 3 mn les <ingredient quantite=6>courgettes</ingredient> dans l’ eau bouillante</operation> salée, sans les éplucher, mais en coupant les extrémités. il faut qu’ elles restent fermes. les couper dans le sens de la longueur et prélever leur pulpe à l’ aide d’ une petite cuillère. dans un <recipient>saladier</recipient>, mélanger la pulpe des <ingredient quantite=6>courgettes</ingredient>, la <ingredient quantite=1>brousse</ingredient>, les <ingredient quantite=2>oeufs</ingredient>, les <ingredient quantite=1>pignons</ingredient>, le <ingredient quantite=1>parmesan</ingredient>, la <ingredient quantite=1>coriandre</ingredient> ciselée, saler (pas trop à cause des <ingredient quantite=1>lardons</ingredient>) et poivrer. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=2>ail</ingredient>, puis les <ingredient quantite=1>champignons</ingredient> coupés en morceaux</operation>. ajouter le tout à la farce. farcir les <ingredient quantite=6>courgettes</ingredient>, recouvrir généreusement de <ingredient quantite=1>gruyère râpé</ingredient> et mettre au <recipient>four</recipient> 15 à 20 mn à <recipient>four</recipient> moyen. quand elles sont bien dorées, elles sont prêtes. vin rouge léger
+]]>
+ </preparation>
+</recette>

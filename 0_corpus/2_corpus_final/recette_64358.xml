@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64358">
+ <titre>Potiron farci au Beaufort</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit potiron, plus ou moins gros suivant le nombre de personnes</p>
+ <p>du beaufort à volonté</p>
+ <p>des champignons (de Paris, ou autres, mais pas trop forts en goût), au moins 150 g par personne</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlever le chapeau du <ingredient quantite=1>potiron</ingredient> et évider la chair en la conservant. n’ <operation temps=6.86min espace=5>ouvrir que le haut! farcir le <ingredient quantite=1>potiron</ingredient> avec le mélange de chair, de <ingredient quantite=1>beaufort</ingredient></operation> coupé en dés et de champignons émincés. bien poivrer régulièrement au fur et à mesure du remplissage. saler. remettre le chapeau du <ingredient quantite=1>potiron</ingredient>, envelopper de papier d’ alu, et mettre au <recipient>four</recipient>. le temps de cuisson est à contrôler, il dépend de la taille du <ingredient quantite=1>potiron</ingredient>. quand c’ est prêt, enlever simplement l’ aluminium... le <ingredient quantite=1>potiron</ingredient> sert de soupière!
+]]>
+ </preparation>
+</recette>

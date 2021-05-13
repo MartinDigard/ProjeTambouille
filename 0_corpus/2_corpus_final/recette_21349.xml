@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21349">
+ <titre>Abricots Meringués</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte d’ abricots au sirop</p>
+ <p>2 oeufs</p>
+ <p>100 g de poudre d’ amandes</p>
+ <p>50 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposez les <ingredient quantite=1>abricots</ingredient> égouttés au fond d’ un <recipient>plat</recipient> à <recipient>four</recipient> (la partie creuse vers le haut). <operation temps=6.86min espace=7>mélangez la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, les jaunes d’ <ingredient quantite=2>oeufs</ingredient> et un quart de jus des <ingredient quantite=1>abricots</ingredient></operation>. <operation temps=6.86min espace=7>nappez les <ingredient quantite=1>abricots</ingredient> avec ce mélange</operation>. battez les blancs en neige très ferme puis y <operation temps=6.86min espace=7>ajoutez le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=7>etendez cette meringue sur les <ingredient quantite=1>abricots</ingredient></operation>. <operation temps=20.0min espace=7>faites dorer lentement à <recipient>four</recipient> chaud 20 mn</operation>. <operation temps=6.86min espace=7>servez ce dessert chaud</operation>.
+]]>
+ </preparation>
+</recette>

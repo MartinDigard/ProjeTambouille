@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43359">
+ <titre>Croustades aux quatres fromages</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de féta</p>
+ <p>100 g d’ emmental râpé</p>
+ <p>100 g de mascarpone</p>
+ <p>100 g bleu d’ Auvergne</p>
+ <p>2 oeufs</p>
+ <p>1 paquet de feuille de filo ou de brick</p>
+ <p>du beurre fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>mélangez dans un <recipient>saladier</recipient> tous les fromages et les <ingredient quantite=2>oeufs</ingredient> jusqu’ à ce que la pâte</operation> devienne homogène. coupez les <ingredient quantite=1>feuilles de filo</ingredient> en 2 dans le sens de la longueur. <operation temps=6.86min espace=9>beurrez la moitié de chaque bande</operation> et <operation temps=6.86min espace=9>rabattez</operation>. <operation temps=6.86min espace=9>beurrez</operation>. <operation temps=6.86min espace=9>déposez une cuillerée de garniture dans un angle</operation> et <operation temps=6.86min espace=9>repliez en triangle</operation>. <operation temps=6.86min espace=9>beurrez</operation> le dessus. <operation temps=15.0min espace=9>faire cuire 12 à 15 min au <recipient>four</recipient> préchauffé à 1785 ° c (termostat 5 - 6) (à</operation> surveiller jusqu’ à ce que les croustades dorent). cette recette se marie parfaitement avec une salade.
+]]>
+ </preparation>
+</recette>

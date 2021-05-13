@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56380">
+ <titre>Mousse au beurre de crabe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 brique de crème faiche</p>
+ <p>1 à 2 zestes de citron suivant les goûts</p>
+ <p>poivre</p>
+ <p>beurre de crabe</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battez la <ingredient quantite=1>crème</ingredient> fraiche avec le jus de <ingredient quantite=1>citron</ingredient> jusqu’ à ce qu’ elle devienne relativement épaisse. <operation temps=6.86min espace=4>ajoutez selon votre <ingredient quantite=1>goût</ingredient> plus ou moins de jus de <ingredient quantite=1>citron</ingredient></operation>. ajoutez ensuite un peu de poivre (pas de sel, le <ingredient quantite=1>beurre de crabe</ingredient> est suffisament salé) et le <ingredient quantite=1>beurre de crabe</ingredient>. mélangez. <operation temps=6.86min espace=4>servez avec quelques crevettes, des oeufs de lompe ainsi que des feuilles d’ endives</operation>.
+]]>
+ </preparation>
+</recette>

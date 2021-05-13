@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39948">
+ <titre>Paëlla aux knacks pour célibataire</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>huile d’ olive</p>
+ <p>2 saucisses knack</p>
+ <p>1 tomate</p>
+ <p>1 quart de poivron rouge</p>
+ <p>60 g de riz</p>
+ <p>paprika en poudre</p>
+ <p>curry en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=8>faire chauffer l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. couper en rondelles fines les 2 <ingredient quantite=2>knack</ingredient>, es <operation temps=6.86min espace=8>faire dorer dans l’</operation> huile. couper en petit morceaux la <ingredient quantite=1>tomate</ingredient> et le <ingredient quantite=1>poivron</ingredient>, les rajouter aux <ingredient quantite=2>saucisses</ingredient>. <operation temps=25.0min espace=8>faire dorer</operation> puis ajouter le <ingredient quantite=1>riz</ingredient>, <operation temps=6.86min espace=8>laisser le <ingredient quantite=1>riz</ingredient></operation> absorber le jus de la <ingredient quantite=1>tomate</ingredient> et l’ huile. ajouter de l’ eau frémissante jusqu’ au niveau du <ingredient quantite=1>riz</ingredient> (à peu près 10 cl suivant la quantité de jus de la <ingredient quantite=1>tomate</ingredient>). ajouter du <ingredient quantite=1>curry</ingredient>, du paprika suivant votre goût. <operation temps=6.86min espace=8>laisser cuire jusqu’ à ce qu’ il n’ y</operation> ai plus d’ eau " libre ". bon appétit!
+]]>
+ </preparation>
+</recette>

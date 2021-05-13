@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26872">
+ <titre>Riz au... fonds de placards</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de riz long</p>
+ <p>150 g de thon au naturel</p>
+ <p>200 g de champignons de Paris émincés (en boîte, c’ est parfait!) </p>
+ <p>une sauce béchamel (la recette est sur le site!) </p>
+ <p>un peu de gruyère râpé (selon les goûts) </p>
+ <p>sel, poivre</p>
+ <p>une noix de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire le <ingredient quantite=1>riz</ingredient>, comme à l’ habitude</operation>. pendant ce temps, <operation temps=6.86min espace=8>préparez une <ingredient quantite=1>béchamel</ingredient> (<ingredient quantite=1>beurre</ingredient>, farine</operation>, lait,...) dans laquelle vous ajouterez un <ingredient quantite=1>peu de gruyère râpé</ingredient>. quand le <ingredient quantite=1>riz</ingredient> est cuit, bien égoutter et réserver au chaud. dans une <recipient>poêle</recipient>, <operation temps=5.0min espace=8>faire revenir avec un <ingredient quantite=1>peu</ingredient> de <ingredient quantite=1>beurre</ingredient>, le <ingredient quantite=1>thon</ingredient> et les <ingredient quantite=1>champignons</ingredient> (5 mn environ), saler</operation>, poivrer. ensuite, mélanger le <ingredient quantite=1>thon</ingredient> et les <ingredient quantite=1>champignons</ingredient> avec la <ingredient quantite=1>béchamel</ingredient>. verser le tout sur le <ingredient quantite=1>riz</ingredient>, mélanger de nouveau... c’ est prêt!!! c’ est pas cher, facile, et les enfants adorent! ;)
+]]>
+ </preparation>
+</recette>

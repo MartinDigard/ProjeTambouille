@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94571">
+ <titre>Cari de boudin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 ou 8 boudins antillais</p>
+ <p>5 tomates</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café de curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par cuire les <ingredient quantite=6>boudins antillais</ingredient> dans une <recipient>sauteuse</recipient> (1 ou 2 par personne selon l’ appétit). pendant ce temps, couper en petits dés 5 <ingredient quantite=5>tomates</ingredient> (la meilleure variété sera la coeur-de-boeuf, mais les <ingredient quantite=5>tomates</ingredient> " vrac " font l’ affaire aussi!). si vous n’ avez pas de <ingredient quantite=5>tomates</ingredient> fraîches, vous pouvez les remplacer par des <ingredient quantite=5>tomates</ingredient> pelées en conserve (prendre une grosse boîte). couper l’ <ingredient quantite=1>oignon</ingredient> en fines lamelles. une fois que les <ingredient quantite=6>boudins</ingredient> sont cuits, <operation temps=6.86min espace=6>incorporez dans la <recipient>sauteuse</recipient> l’ <ingredient quantite=1>oignon</ingredient> puis les <ingredient quantite=5>tomates</ingredient></operation>. <operation temps=20.0min espace=6>laisser mijoter à feu moyen 20 minutes environ</operation>. sapoudrer d’ une <ingredient quantite=1>cuillère à café de curcuma</ingredient>, mélanger. <operation temps=10.0min espace=6>laisser cuire à nouveau 10 minutes</operation>. <operation temps=6.86min espace=6>servir avec du riz basmati</operation>. ceci est une recette de l’ île de la réunion, une variante des fameux <operation temps=6.86min espace=6>caris poulet ou poisson</operation>.
+]]>
+ </preparation>
+</recette>

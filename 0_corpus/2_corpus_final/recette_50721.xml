@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50721">
+ <titre>Brochettes de filet mignon et d’ ananas sauce soja</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet mignon de porc</p>
+ <p>1 ananas mûr</p>
+ <p>sauce soja</p>
+ <p>3 cuillères à soupe de miel d’ acacia liquide</p>
+ <p>2 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez le <ingredient quantite=1>filet mignon</ingredient> en cubes d’ 1 cm de côté et <operation temps=6.86min espace=7>arrosez - les de <ingredient quantite=3>miel</ingredient></operation>. <operation temps=6.86min espace=7>ajoutez l’ <ingredient quantite=2>ail</ingredient></operation> haché puis <operation temps=6.86min espace=7>recouvrez la viande d’ un mélange</operation> fait 1/3 de sauce <ingredient quantite=1>soja</ingredient> et de 2/3 d’ huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=7>laissez mariner 1 nuit</operation>. epluchez l’ ananas et <operation temps=6.86min espace=7>coupez des cubes de même taille que la viande</operation>. piquez les cubes sur des brochettes en alternant <ingredient quantite=1>filet mignon</ingredient> et ananas puis <operation temps=15.0min espace=7>cuisez - les au <recipient>barbecue</recipient> pendant 10 à 15 minutes</operation>. <operation temps=6.86min espace=7>servez avec un gratin de courgettes</operation>... vin rosé frais
+]]>
+ </preparation>
+</recette>

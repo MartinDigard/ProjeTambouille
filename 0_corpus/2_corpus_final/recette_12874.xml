@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12874">
+ <titre>Soupe d’ automne aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 beau poireau</p>
+ <p>1 tomate</p>
+ <p>6 pommes de terre</p>
+ <p>8 carottes</p>
+ <p>sel/poivre</p>
+ <p>bouquet garni</p>
+ <p>1 oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et épluchez les <ingredient quantite=6>pommes de terre</ingredient> et les <ingredient quantite=8>carottes</ingredient>, <operation temps=6.86min espace=8>coupez les en 4</operation> et <operation temps=6.86min espace=8>mettez les dans la <recipient>cocotte</recipient> minute remplie d’ eau</operation> salée. <operation temps=6.86min espace=8>lavez le <ingredient quantite=1>poireau</ingredient> et n’</operation> utilisez que le blanc que vous <operation temps=6.86min espace=8>coupez en rondelles</operation>. <operation temps=6.86min espace=8>ajoutez la <ingredient quantite=1>tomate</ingredient> pelée et lavée puis l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en 4. <operation temps=0.25min espace=8>salez</operation> et <operation temps=0.5min espace=8>poivrez</operation>. ajoutez le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=8>mettez sur le feu à</operation> mijoter pendant 1 heure. si vous la voulez encore meilleure, <operation temps=6.86min espace=8>ajoutez un morceau de poitrine</operation> salée (pour la potée) ainsi que quelques saucisses fumées. vous <operation temps=6.86min espace=8>laisserez la viande pendant tout le temps de la cuisson</operation>. lorsque c’ est cuit, <operation temps=6.86min espace=8>retirez la viande</operation> et ôtez le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=8>moulinez le tout</operation> et <operation temps=5.0min espace=8>dégustez</operation>. n’ oubliez pas de conserver le reste de soupe au frais dans un récipient adapté.
+]]>
+ </preparation>
+</recette>

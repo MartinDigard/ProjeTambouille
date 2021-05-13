@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58758">
+ <titre>Gâteau aux fleurs d’ acacia</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 yaourts nature</p>
+ <p>2 pots de sucre</p>
+ <p>3 pots de farine</p>
+ <p>1/2 pot d’ huile</p>
+ <p>3 oeufs</p>
+ <p>1 sachet de levure</p>
+ <p>8 grappes de fleurs d’ acacias</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les ingrédients (mettre l’ <ingredient quantite=1>huile</ingredient> en dernier). quand la pâte est prête, en verser la moitié dans le <recipient><recipient>moule</recipient> à manqué</recipient> et y déposer les <ingredient quantite=8>grappes de fleurs</ingredient>, tiges vers le haut. verser délicatement le reste de pâte pour que le bout des tiges émerge de la pate. cuire 35 à 40 min à 180 ° c (thermostat 6). au moment de <operation temps=6.86min espace=8>servir le gâteau refroidi</operation>, tirer doucement les tiges qui <operation temps=6.86min espace=8>laisseront les <ingredient quantite=8>fleurs</ingredient> et leur délicat parfum " emprisonnés " dans le gâteau</operation>. plus léger que les classiques beignets, on peut remplacer une partie du <ingredient quantite=2>sucre</ingredient> par du miel. d’ <ingredient quantite=1>acacia</ingredient> bien sûr!
+]]>
+ </preparation>
+</recette>

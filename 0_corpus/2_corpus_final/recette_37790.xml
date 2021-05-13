@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37790">
+ <titre>Fondue au vin rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de viande de boeuf pour fondue</p>
+ <p>1 l de bon vin rouge</p>
+ <p>200 g de champignons émincés</p>
+ <p>200 g de lardons fumés</p>
+ <p>1 cube de bouillon de boeuf</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>cumin</p>
+ <p>4 épices</p>
+ <p>thym</p>
+ <p>feuilles de laurier</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans le <recipient>caquelon</recipient>, <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>lardons</ingredient> dans un peu de beurre avec les <ingredient quantite=1>champignons</ingredient></operation>. ajouter le <ingredient quantite=1>vin rouge</ingredient>, les <ingredient quantite=4>épices</ingredient>, <operation temps=50.0min espace=12>laisser mijoter 45 à 50 min avant de</operation> commencer la fondue. n’ hésitez pas à déguster les <ingredient quantite=1>champignons</ingredient> et les <ingredient quantite=1>lardons</ingredient> avec la <ingredient quantite=1>viande</ingredient>. vous pourrez aussi les utiliser ensuite pour une omelette ou une cassolette de <ingredient quantite=1>champignons</ingredient>.
+]]>
+ </preparation>
+</recette>

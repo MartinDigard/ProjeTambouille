@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84309">
+ <titre>Veau aux poireaux et à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 beaux morceaux de sauté de veau</p>
+ <p>3 blancs de poireaux</p>
+ <p>1 cuillère à café de fond de veau</p>
+ <p>1 gros oignon</p>
+ <p>un petit pot de crème (environ 20 cl) </p>
+ <p>un peu de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher l’ <ingredient quantite=1>oignon</ingredient> et les couper en juliennes avec les <ingredient quantite=3>poireaux</ingredient>. les faire fondre dans un <ingredient quantite=1>peu de beurre</ingredient> et les réserver. <operation temps=6.86min espace=7>faire rissoler le <ingredient quantite=4>veau</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation>. mouiller avec le <ingredient quantite=4>fond de veau</ingredient> délayé dans un verre d’ eau, saler et poivrer. ajouter la fondue de <ingredient quantite=3>poireaux</ingredient> et <operation temps=10.0min espace=7>laisser mijoter 10 min</operation>. avant de <operation temps=2.0min espace=7>servir</operation>, ajouter la crème fraîche. on peut ajouter des pommes de terre en début de cuisson.
+]]>
+ </preparation>
+</recette>

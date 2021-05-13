@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20916">
+ <titre>Quiche au surimi</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte brisée</p>
+ <p>120 g de surimi</p>
+ <p>125 g de crème fraîche</p>
+ <p>180 ml de lait</p>
+ <p>2 oeufs battus</p>
+ <p>2 cuillères à soupe de moutarde</p>
+ <p>2 cuillères à soupe de mayonnaise</p>
+ <p>ciboulette</p>
+ <p>jus de citron</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c. <operation temps=6.86min espace=13>etalez la <ingredient quantite=1>pâte</ingredient> dans le <recipient>moule</recipient></operation>. <operation temps=6.86min espace=13>mixez le <ingredient quantite=1>surimi</ingredient> (dans le bol d’ un robot)</operation> ou <operation temps=6.86min espace=13>coupez - le en petits morceaux</operation>. rajoutez les différents ingrédients: la <ingredient quantite=1>crème fraîche</ingredient>, le lait, les <ingredient quantite=2>oeufs</ingredient>, la <ingredient quantite=2>moutarde</ingredient>, la <ingredient quantite=2>mayonnaise</ingredient>. <operation temps=6.86min espace=13>assaisonnez l’ appareil</operation> obtenu avec la <ingredient quantite=1>ciboulette</ingredient>, le poivre et le <ingredient quantite=1>jus de citron</ingredient>. <operation temps=6.86min espace=13>versez sur la <ingredient quantite=1>pâte</ingredient></operation>. <operation temps=6.86min espace=13>enfournez dans le <recipient>four</recipient> chaud</operation> et <operation temps=25.0min espace=13>laissez cuire 25 mn (la quiche</operation> doit être dorée et ferme au toucher). le <ingredient quantite=1>surimi</ingredient> peut être remplacé par du saumon fumé. pour la déco, on peut rajouter des lanières de saumon.
+]]>
+ </preparation>
+</recette>

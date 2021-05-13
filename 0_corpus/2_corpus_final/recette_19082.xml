@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19082">
+ <titre>Mousseline de légume au gratin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de légumes par personne (carottes, chou-fleur, brocoli...) </p>
+ <p>2 oeufs</p>
+ <p>20 g de gruyère râpé</p>
+ <p>noix de muscade</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faites cuire les <ingredient quantite=1>légumes</ingredient> à la vapeur</operation>. <operation temps=6.86min espace=7>laissez - les bien</operation> égoutter, réduisez - les en purée. <operation temps=6.86min espace=7>cassez les <ingredient quantite=2>oeufs</ingredient> en</operation> séparant les blancs des jaunes. <operation temps=6.86min espace=7>ajoutez les jaunes d’</operation> oeufs à la purée de <ingredient quantite=1>légumes</ingredient>. rectifiez l’ assaisonnement si nécessaire. <operation temps=6.86min espace=7>battez les blancs en neige ferme</operation> et <operation temps=6.86min espace=7>incorporez - les au mélange</operation>. versez dans un <recipient>plat</recipient> à gratin et parsemez de gruyère et de <ingredient quantite=1>noix de muscade</ingredient>. <operation temps=20.0min espace=7>faites gratiner 15 à 20 mn à <recipient>four</recipient> chaud</operation>. <operation temps=6.86min espace=7>servez immédiatement</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15047">
+ <titre>Saumon à la sauce tomate et basilic</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pavés de saumon avec la peau</p>
+ <p>235 g de tomates pelées au jus</p>
+ <p>1 bouquet de basilic</p>
+ <p>gros sel</p>
+ <p>sel, poivre</p>
+ <p>350 g de tagliatelles fraîches</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer les <ingredient quantite=1>tomates</ingredient> et les mélanger au <ingredient quantite=1>basilic</ingredient> haché finement. saler et poiver. mettre au <ingredient quantite=1>frais</ingredient>. faire un lit de <ingredient quantite=1>gros sel</ingredient> de 0, 5 cm environ dans une <recipient>poêle</recipient> et la mettre à chauffer. poser les pavés de <ingredient quantite=4>saumon peau</ingredient> contre <ingredient quantite=1>sel</ingredient> dans la pôele, la <operation temps=6.86min espace=8>recouvrir d’ un couvercle ou de papier alu</operation>. <operation temps=6.86min espace=8>laisser cuire le</operation> <ingredient quantite=4>saumon</ingredient> et <operation temps=6.86min espace=8>faire cuire les pâtes</operation>. quand le <ingredient quantite=4>saumon</ingredient> est cuit, décoller la chair de <ingredient quantite=4>la peau</ingredient> (qui reste dans la <recipient>poêle</recipient>). le servir avec la sauce <ingredient quantite=1>fraîche</ingredient> et les pâtes. simple et sans aucune matière grasse.
+]]>
+ </preparation>
+</recette>

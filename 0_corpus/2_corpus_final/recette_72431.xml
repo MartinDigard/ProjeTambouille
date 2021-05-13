@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72431">
+ <titre>Filets de colin bonne femme</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de colin (ou cabillaud, limande, merlan...) </p>
+ <p>150 g de champignons de Paris (ou une boîte de 200 g) </p>
+ <p>2 échalotes</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>1 cuillère à café de farine </p>
+ <p>30 g de beurre</p>
+ <p>sel, Poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=11>faites préchauffer le <recipient>four</recipient> 10 min à 200 ° c (thermostat 6 - 7</operation>). <operation temps=6.86min espace=11>lavez</operation> puis découper les <ingredient quantite=1>champignons</ingredient> en lamelles et <operation temps=6.86min espace=11>déposez - les au fond du <recipient>plat</recipient> avec les <ingredient quantite=2>échalotes</ingredient></operation> hachées. posez dessus les <ingredient quantite=4>filets</ingredient>. mettez les 10 cl de <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=11>ajoutez - y un verre d’ eau (25 cl</operation>). <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et <operation temps=6.86min espace=11>recouvrez le tout de papier</operation> sulfurisé. enfournez et <operation temps=20.0min espace=11>laissez cuire de 10 à 20 min selon l’</operation> épaisseur des <ingredient quantite=4>filets</ingredient>. <operation temps=10.0min espace=11>egouttez</operation> puis <operation temps=6.86min espace=11>déposez les <ingredient quantite=4>filets</ingredient> dans le <recipient>plat</recipient> de service</operation>, <operation temps=6.86min espace=11>recouvrez du mélange <ingredient quantite=1>champignons</ingredient> - <ingredient quantite=2>échalotes</ingredient></operation>. mélanger dans une petite <recipient>casserole</recipient> le beurre, la farine et le jus de cuisson des <ingredient quantite=4>filets</ingredient>, <operation temps=6.86min espace=11>faire cuire à feu doux en</operation> remuant jusqu’ à ce que la sauce épaississe (2 - 3 min). <operation temps=6.86min espace=11>versez sur les <ingredient quantite=4>filets</ingredient></operation>. c’ est une recette de ma grand-mère, très rapide et facile mais qui fait toujours de l’ effet!
+]]>
+ </preparation>
+</recette>

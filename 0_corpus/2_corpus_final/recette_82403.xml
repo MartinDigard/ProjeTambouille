@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82403">
+ <titre>Soupe de pommes fondantes au caramel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 pommes à cuire (reinette...) </p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>1 l d’ eau</p>
+ <p>1 filet de caramel tout fait</p>
+ <p>4 gros pruneaux dénoyautés </p>
+ <p>2 cuillères à café de rhum ou de calvados</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire un sirop léger avec l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=4>sucre</ingredient></operation>. pendant ce temps éplucher les <ingredient quantite=6>pommes</ingredient> et les couper en 6 quartiers. les plonger dans le sirop en ébullition et <operation temps=6.86min espace=6>laisser <ingredient quantite=6>cuire</ingredient> 4 à 5 minutes, jusqu’ à ce que les <ingredient quantite=6>pommes</ingredient> soient</operation> fondantes mais pas <operation temps=6.86min espace=6>défaites</operation>. mettre dans des verres, ajouter 2 <ingredient quantite=4>cuillères à soupe</ingredient> de sirop. quand c’ est refroidi mettre au frigo. mettre les <ingredient quantite=1>pruneaux</ingredient> à gonfler dans 3 <ingredient quantite=4>cuillères à soupe</ingredient> de sirop et l’ alcool. au moment de <operation temps=2.0min espace=6>servir</operation>, couler un peu de <ingredient quantite=1>caramel</ingredient> sur les <ingredient quantite=6>pommes</ingredient>, décorer avec les <ingredient quantite=1>pruneaux</ingredient>. si on veut profiter de la douceur du goût de la <ingredient quantite=1>pomme</ingredient> on peut ne pas mettre au frigo cidre
+]]>
+ </preparation>
+</recette>

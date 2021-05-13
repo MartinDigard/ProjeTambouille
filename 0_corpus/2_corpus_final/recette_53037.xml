@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53037">
+ <titre>Filet mignon mangues et pruneaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon</p>
+ <p>1 oignon</p>
+ <p>1 mangues</p>
+ <p>200 à 300 g pruneaux</p>
+ <p>15 cl cidre</p>
+ <p>2 cuillères de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=7>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en lamelles, puis y faire dorer le <ingredient quantite=1>filet mignon</ingredient>. ajouter le cidre et 1/2 verre d’ eau, la <ingredient quantite=1>mangue</ingredient> coupée en morceaux et les pruneaux ; <operation temps=0.25min espace=7>couvrir</operation> retourner la viande tous les 1/4 heure. au moment de <operation temps=2.0min espace=7>servir</operation>, ajouter la <ingredient quantite=2>crème fraîche</ingredient>, saler et poivrer légèrement. accompagner de riz ou de pâtes.
+]]>
+ </preparation>
+</recette>

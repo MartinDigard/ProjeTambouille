@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32181">
+ <titre>Moules à la Riecoise (aux pommes) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 kg de moules lavées et gratées. </p>
+ <p>2 grands verres de muscadet</p>
+ <p>6 échalotes hachées</p>
+ <p>3 gousses d’ ail hachées</p>
+ <p>1 pomme fondante (rouge) pelée et coupée en petits morceaux</p>
+ <p>6 cuillères à soupe de persil haché</p>
+ <p>3 cuillères à soupe de chapelure</p>
+ <p>100 g de de beurre demi-sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <ingredient quantite=1>grande</ingredient> <recipient>marmite</recipient>, mettre le <ingredient quantite=1>beurre</ingredient>, <operation temps=4.0min espace=10>faire blondir les <ingredient quantite=6>échalotes</ingredient>, l’ <ingredient quantite=3>ail</ingredient> et la <ingredient quantite=1>pomme</ingredient> 3 à 4 minutes en</operation> remuant sur feu moyen. ajouter le <ingredient quantite=6>persil</ingredient> et la <ingredient quantite=3>chapelure</ingredient>, bien mélanger le tout, puis mouiller avec le vin blanc. <operation temps=6.86min espace=10>faire réduire à feu</operation> vif environ de moitié. ajouter les <ingredient quantite=1>moules</ingredient>, du poivre, puis <operation temps=0.25min espace=10>couvrir</operation>. <operation temps=30.0min espace=10>laisser cuire</operation> et remuer de temps en temps jusqu’ à ce que les <ingredient quantite=1>moules</ingredient> soient toutes ouvertes. ne pas hésiter à <operation temps=6.86min espace=10>laisser cuire longtemps</operation>. il vaut mieux que les <ingredient quantite=1>moules</ingredient> soit trop cuites que pas assez! cidre brut ou <ingredient quantite=2>muscadet</ingredient>
+]]>
+ </preparation>
+</recette>

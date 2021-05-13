@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41946">
+ <titre>Oeufs cocotte en nid de pain</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 petits pains de table ronds précuits (devant être cuit encore 10 min environ) </p>
+ <p>4 oeufs</p>
+ <p>8 cuillères à café de crème liquide</p>
+ <p>4 cuillères à café de ciboulette</p>
+ <p>1/2 tranche de jambon fumé</p>
+ <p>sel, poivre, muscade </p>
+ <p>1 feuille de papier cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). préchauffer un <recipient>plat</recipient>. evider les <ingredient quantite=4>petits pains précuits</ingredient> par le dessus de manière à pouvoir les farcir. verser 1 <ingredient quantite=1>cuillère</ingredient> de crème au fond de chacun d’ entre eux. couper le <ingredient quantite=1>jambon</ingredient> en lamelles et le répartir dans les <ingredient quantite=4>pains</ingredient>. casser les <ingredient quantite=4>oeufs</ingredient> un par un, et <operation temps=6.86min espace=10>garnir les <ingredient quantite=4>pains</ingredient> avec</operation>, <operation temps=6.86min espace=10>répartir la <ingredient quantite=4>ciboulette</ingredient></operation>. saler, poivrer, ajouter la <ingredient quantite=1>muscade</ingredient>. verser 1 <ingredient quantite=1>cuillère</ingredient> de crème par dessus chaque <ingredient quantite=1>oeuf</ingredient>, disposer une feuille de <ingredient quantite=1>papier cuisson</ingredient> au fond du <recipient>plat</recipient>. y dispoder les <ingredient quantite=4>petits pains</ingredient>, enfourner, et <operation temps=10.0min espace=10>faire cuire environ 10 min (selon la <ingredient quantite=1>cuisson</ingredient> plus ou moins ferme que vous</operation> aimez pour les <ingredient quantite=4>oeufs</ingredient> cocottes). cette recette s’ adapte bien sûr à d’ autres parfums que le <ingredient quantite=1>jambon</ingredient>. deux oeufs cocottes en nid de <ingredient quantite=1>pain</ingredient> et un bol de soupe de légumes constitue aussi un souper familial.
+]]>
+ </preparation>
+</recette>

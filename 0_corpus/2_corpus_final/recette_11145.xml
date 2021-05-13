@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11145">
+ <titre>Tourte pomme de terre et fromage de chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>1 kg de pommes de terre</p>
+ <p>50 cl de lait</p>
+ <p>200 g de chèvre frais</p>
+ <p>1 bûche de chèvre de 200 g</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à thermostat 7-8.prévoir deux grande feuilles de <ingredient quantite=1>pâte feuilletée</ingredient>. eplucher un kg de <ingredient quantite=1>pomme de terre</ingredient>, les couper en tranches fines, les <operation temps=6.86min espace=8>faire pocher dans du lait pour qu’ elles soient à</operation> moitié cuites. beurrer une plaque allant au <recipient>four</recipient>, étaler une première feuille de <ingredient quantite=1>pâte feuilletée</ingredient>. placer une couche de <ingredient quantite=1>pommes de terres</ingredient>, y ajouter du <ingredient quantite=1>chèvre</ingredient> frais (style chavroux) et quelques tranches de <ingredient quantite=1>bûche de chèvre</ingredient> (style ste maure), <operation temps=6.86min espace=8>faire une deuxième couche identique</operation>. placer la deuxième feuille de pate <ingredient quantite=1>feuilletée</ingredient>, souder les feuilles l’ une à l’ autre en mouillant légèrement et en <operation temps=6.86min espace=8>faisant pression sur le joint</operation>. <operation temps=6.86min espace=8>recouvrir de jaune d’ <ingredient quantite=1>oeuf</ingredient> battu</operation>. <operation temps=6.86min espace=8>faire cuire à thermostat 7 jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit</operation> dorée. vin blanc
+]]>
+ </preparation>
+</recette>

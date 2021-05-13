@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68155">
+ <titre>Croques méditerranéens</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 tranches de pain de mie</p>
+ <p>85 g de beurre</p>
+ <p>300 g mozzarella tranchée finement</p>
+ <p>75 g tomates séchées à l’ huile d olive</p>
+ <p>4 tranches de jambon fumé</p>
+ <p>2 oeufs</p>
+ <p>10 cl de lait</p>
+ <p>1 cuillère à soupe à soupe huile d olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer chaque <ingredient quantite=8>tranche de pain de mie</ingredient> de chaque côté. (garder 25 g de beurre) déposer les <ingredient quantite=8>tranches</ingredient> de mozzarella sur 4 <ingredient quantite=8>tranches de pain de mie</ingredient>. egoutter les tomates confites et les <operation temps=6.86min espace=9>répartir sur les <ingredient quantite=8>tranches</ingredient> où se</operation> trouve la mozzarella. ajoutez les <ingredient quantite=8>tranches de jambon fumé</ingredient> et poser les 4 <ingredient quantite=8>tranches de pain de mie</ingredient> beurrées restantes. <ingredient quantite=1>tranchez</ingredient> les sandwiches en diagonales. facultatif pour des croques plus tendres mais moins croustillants: dans un assiette creuse battre légèrement les <ingredient quantite=2>oeufs</ingredient> et le lait, tremper chaque demi croque des 2 côtés dans cette préparation. faire chauffer l <ingredient quantite=1>cuillère à soupe</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient> avec le reste de beurre du début dans une grande <recipient>poêle</recipient>. y <operation temps=4.0min espace=9>faire dorer les demi croque 4 minutes de chaque coté</operation>.
+]]>
+ </preparation>
+</recette>

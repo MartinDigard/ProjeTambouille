@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57416">
+ <titre>Pain de thon aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de thon</p>
+ <p>2 oeufs</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>2 cuillères à soupe de concentrée de tomates</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire cuire les <ingredient quantite=1>poivrons</ingredient> dans une <recipient>poêle</recipient></operation>. pendant ce temps: <operation temps=6.86min espace=11>emiettez le <ingredient quantite=1>thon</ingredient> dans un <recipient>plat</recipient></operation>. battez les <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=1>sel</ingredient>, le poivre et le concentré. <operation temps=6.86min espace=11>mélangez le <ingredient quantite=1>thon</ingredient> et les <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=11>laissez reposer pendant que les <ingredient quantite=1>poivrons</ingredient> cuisent</operation> et <operation temps=6.86min espace=11>faire préchauffer le <recipient>four</recipient> au maxi</operation>. une fois les <ingredient quantite=1>poivrons</ingredient> cuits, <operation temps=5.0min espace=11>mélangez le tout</operation>. mettre à cuire 30 min à 180 - 200 ° dans un <recipient>plat</recipient> à cake. vous pouvez rajouter des épices à votre mixture avant de la <operation temps=6.86min espace=11>faire cuire (curry, épices d’ inde) et / ou des herbes! se</operation> mange aussi bien chaud en <recipient>plat</recipient>, que froid en entrée! vin blanc
+]]>
+ </preparation>
+</recette>

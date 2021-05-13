@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70195">
+ <titre>Pâte à pizza rapide au concentré de tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de farine avec levure incorporée (ou farine + 1/2 sachet de levure) </p>
+ <p>2 cuillères à soupe de concentrée de tomates</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 oeuf</p>
+ <p>sel et poivre</p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). <ingredient quantite=1>incorporer</ingredient> à la <ingredient quantite=1>farine</ingredient> l’ <ingredient quantite=1>oeuf</ingredient>, l’ <ingredient quantite=3>huile</ingredient> et le concentré de <ingredient quantite=1>tomate</ingredient>. ajouter petit à petit de l’ <ingredient quantite=1>eau</ingredient> jusqu’ à obtention d’ une pâte souple. etaler la pâte puis la disposer sur une plaque à pizza huilée et farinée. <operation temps=6.86min espace=8>faire couler un filet d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> sur la pâte</operation> et piquer le fond à l’ aide d’ une fourchette. enfourner 15 min à 150 degrés. garnissez cette pâte à pizza puis remettre la pizza au <recipient>four</recipient> durant 15 min.
+]]>
+ </preparation>
+</recette>

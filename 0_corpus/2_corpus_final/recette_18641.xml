@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18641">
+ <titre>Fondue bressane</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde (ou de poulet) </p>
+ <p>1 jaune d’ oeuf</p>
+ <p>chapelure</p>
+ <p>huile pour fondue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>coupez la viande en dés</operation>. chaque convive trempe la viande dans l’ <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=1>chapelure</ingredient> et l’ huile chaude. un régal.
+]]>
+ </preparation>
+</recette>

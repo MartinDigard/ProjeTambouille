@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70635">
+ <titre>Bricks figue jambon cru chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 feuilles de brick</p>
+ <p>4 figues fraîches</p>
+ <p>2 tranches de jambon cru</p>
+ <p>2 tranches de chèvre frais</p>
+ <p>1 cuillère à café de miel</p>
+ <p>cure dent</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). au centre de la <ingredient quantite=4>feuille de brick</ingredient>, disposez 1/2 <ingredient quantite=2>tranche de jambon cru</ingredient>. par dessus, <operation temps=6.86min espace=8>déposez les <ingredient quantite=4>figues</ingredient> pelées</operation> et coupées en petits dés. <operation temps=6.86min espace=8>recouvrez du</operation> <ingredient quantite=2>chèvre</ingredient> et arrosez d’ 1/2 <ingredient quantite=1>cuillère à café de miel</ingredient>. fermez la <ingredient quantite=4>feuille de brick</ingredient> en aumônière à l’ aide d’ un <ingredient quantite=1>cure</ingredient> - dent. faites de même avec les 3 autres <ingredient quantite=4>feuilles de brick</ingredient>. <operation temps=15.0min espace=8>mettez au <recipient>four</recipient> pendant 15 minutes</operation>. <operation temps=6.86min espace=8>servez avec une salade pour un dîner léger</operation>.
+]]>
+ </preparation>
+</recette>

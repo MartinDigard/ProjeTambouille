@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35320">
+ <titre>Tarte aux pommes et roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 pommes</p>
+ <p>200 g de roquefort</p>
+ <p>1 pâte feuilletée</p>
+ <p>3 dl de vin blanc (moelleux si possible) </p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la <ingredient quantite=1>pâte</ingredient> dans le <recipient>moule</recipient>, la piquer à la fourchette. râper les <ingredient quantite=3>pommes</ingredient> (ou les couper en dés) et <operation temps=6.86min espace=8>recouvrir la <ingredient quantite=1>pâte</ingredient> avec</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=8>faire réduire de</operation> moitié le <ingredient quantite=1>vin blanc</ingredient> et y ajouter l’ <ingredient quantite=1>oeuf</ingredient> et fouetter le tout. arroser de ce mélange <ingredient quantite=1>vin</ingredient> / <ingredient quantite=1>oeuf</ingredient> les <ingredient quantite=3>pommes</ingredient> puis disposer le <ingredient quantite=1>roquefort</ingredient> en petit dés par - dessus. mettre au <recipient>four</recipient>, th 6/7. délicieux!!!! très agréable servi avec une salade.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28528">
+ <titre>Pommes de terre gratinées de Papyrus</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre BF 15 (ou toute pomme de terre ferme à la cuisson) </p>
+ <p>200 g d’ emmenthal ou de comté râpé</p>
+ <p>2 dl de crème fraîche</p>
+ <p>le jus de 1/2 citron</p>
+ <p>70 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=6.86min espace=19>lavez - les</operation>. <operation temps=6.86min espace=19>faites - les</operation> cuire dans une <recipient>marmite</recipient> d’ eau salée, 30 mn à petits bouillons. pendant ce temps, <operation temps=6.86min espace=19>faites liquéfier la <ingredient quantite=1>crème</ingredient> avec 50 g de beurre dans une petite <recipient>casserole</recipient></operation>. <operation temps=0.25min espace=19>salez</operation>, <operation temps=0.5min espace=19>poivrez</operation>. ajoutez le <ingredient quantite=1>jus de citron</ingredient> et la moitié du fromage râpé. <operation temps=5.0min espace=19>mélangez</operation>, <operation temps=6.86min espace=19>retirez la <recipient>casserole</recipient> du feu</operation>. <operation temps=6.86min espace=19>allumez le <recipient>gril</recipient> du <recipient>four</recipient></operation>. <operation temps=6.86min espace=19>beurrez un <recipient>plat</recipient> en <ingredient quantite=1>terre</ingredient></operation> allant au <recipient>four</recipient>. egouttez les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=6.86min espace=19>coupez - les en deux et placez - les dans le <recipient>plat</recipient></operation>. <operation temps=6.86min espace=19>arrosez - les avec la préparation à la</operation> <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=19>saupoudrez avec le reste de fromage</operation>. <operation temps=6.86min espace=19>passez le <recipient>plat</recipient> au <recipient>four</recipient> sous le <recipient>gril</recipient> pour</operation> <operation temps=6.86min espace=19>faire gratiner</operation>. <operation temps=6.86min espace=19>servez à la sortie du <recipient>four</recipient> dans le <recipient>plat</recipient> de cuisson</operation>.. simple et rapide à <operation temps=6.86min espace=19>faire, mais surtout délicieux</operation>...
+]]>
+ </preparation>
+</recette>

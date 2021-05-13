@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26600">
+ <titre>Pain de poisson aux langoustines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de morceaux de cabillaud, colin ou lieu</p>
+ <p>2 l de court-bouillon</p>
+ <p>4 langoustines</p>
+ <p>200 g de crevettes roses</p>
+ <p>3 oeufs</p>
+ <p>3 tranches de pain de mie</p>
+ <p>20 cl de lait</p>
+ <p>100 g de champignons de Paris</p>
+ <p>30 g de gruyère râpé</p>
+ <p>20 g de parmesan râpé</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faites tremper le <ingredient quantite=3>pain</ingredient> dans le lait</operation>. <operation temps=5.0min espace=17>faites cuire les <ingredient quantite=4>langoustines</ingredient> 5 minutes dans le <ingredient quantite=1>court-bouillon</ingredient> chaud</operation>. <operation temps=10.0min espace=17>egouttez</operation> - les, décortiquez - les et <operation temps=6.86min espace=17>coupez la chair en petits morceaux</operation>. <operation temps=10.0min espace=17>faites cuire les morceaux de poisson dans le <ingredient quantite=1>court-bouillon</ingredient> environ 10 minutes</operation>. <operation temps=10.0min espace=17>egouttez</operation> - les, <operation temps=6.86min espace=17>retirez la peau et arêtes</operation>, <operation temps=6.86min espace=17>émiettez la chair</operation>. <operation temps=6.86min espace=17>décortiquez les</operation> <ingredient quantite=1>crevettes</ingredient>, <operation temps=6.86min espace=17>coupez - les en morceaux</operation>. <operation temps=6.86min espace=17>mélangez le poisson avec la chair de <ingredient quantite=4>langoustines</ingredient> et de <ingredient quantite=1>crevettes</ingredient></operation>. <operation temps=6.86min espace=17>ajoutez les jaunes d’</operation> <ingredient quantite=3>oeufs</ingredient>, <operation temps=0.25min espace=17>salez</operation> et <operation temps=0.5min espace=17>poivrez</operation>. <operation temps=6.86min espace=17>ajoutez le <ingredient quantite=3>pain</ingredient></operation> essoré, les <ingredient quantite=1>champignons</ingredient> hachés, les fromages et mélangez. battez les blancs d’ <ingredient quantite=3>oeufs</ingredient> en neige ferme, incorporez - les délicatement à la préparation. <operation temps=6.86min espace=17>versez le tout dans un <recipient>moule</recipient> en couronne ou un <recipient>moule</recipient> à cake</operation>. placez le <recipient>moule</recipient> au <recipient>bain - marie</recipient>, <operation temps=30.0min espace=17>faites cuire 30 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=17>servez ce <ingredient quantite=3>pain</ingredient> de poissons chaud ou froid</operation>, accompagné d’ un coulis de tomates ou de poivrons, et de mayonnaise.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67343">
+ <titre>Mi-cuit de thon frais au sésame</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de thon frais</p>
+ <p>graines de sésame</p>
+ <p>sauce soja</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper de gros dés de <ingredient quantite=1>thon frais</ingredient>. a la façon d’ une panure, les passer dans la sauce <ingredient quantite=1>soja</ingredient> puis dans le <ingredient quantite=1>sésame</ingredient>. chauffer un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>poêle</recipient>, y <operation temps=6.86min espace=5>saisir les dés de <ingredient quantite=1>thon</ingredient></operation> brièvement en les <operation temps=6.86min espace=5>faisant bien dorer</operation>. maximum 3 minutes de chaque côté pour <operation temps=6.86min espace=5>laisser le coeur cru</operation>. régal assuré pour les amateurs de poisson cru et de sushis! bordeaux
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36723">
+ <titre>Tiramisu à la compote de pomme</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 cl de crème fraîche</p>
+ <p>250 g de fromage blanc</p>
+ <p>250 g de mascarpone</p>
+ <p>10 cl de lait</p>
+ <p>100 g de sucre</p>
+ <p>200 g de biscuits à la cuillère (ou de pavesini) </p>
+ <p>1 verre de compote de pommes (25 cl) </p>
+ <p>calvados</p>
+ <p>jus de pomme</p>
+ <p>cacao</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>fromage blanc</ingredient>, le <ingredient quantite=1>mascarpone</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le lait. battre la <ingredient quantite=1>crème fraîche</ingredient> en chantilly et l’ ajouter au mélange. tapisser un <recipient>plat</recipient> de biscuits, les arroser le calva mélangé au <ingredient quantite=1>jus de pommes</ingredient>, selon le goût et l’ envie. napper ces biscuits avec la <ingredient quantite=1>compote</ingredient>. ensuite <operation temps=6.86min espace=12>recouvrir le tout du mélange mascarpone</operation>. pour terminer, saupoudrer avec le <ingredient quantite=1>cacao</ingredient> et la <ingredient quantite=1>cannelle</ingredient>. mettre au frais plusieurs heures avant de <operation temps=2.0min espace=12>servir</operation>. n peut varier la <ingredient quantite=1>crème</ingredient> avec un mélange simple de jaune d’ oeufs, <ingredient quantite=1>sucre</ingredient> et blancs d’ oeufs en neige avec <ingredient quantite=1>mascarpone</ingredient>.
+]]>
+ </preparation>
+</recette>

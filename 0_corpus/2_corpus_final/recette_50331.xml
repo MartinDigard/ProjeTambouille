@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50331">
+ <titre>Gaspacho ultralight</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 concombres</p>
+ <p>2 poivrons rouges</p>
+ <p>1 grande boîte de tomates pelées</p>
+ <p>1 gros oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez et <operation temps=6.86min espace=9>égrainez les <ingredient quantite=2>concombres</ingredient> et <ingredient quantite=2>poivrons</ingredient></operation>. emincez l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. placez les légumes dans le bol du <recipient>mixeur</recipient> et mettre en marche. <operation temps=6.86min espace=9>ajoutez l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre</operation>. <operation temps=6.86min espace=9>rajoutez éventuellement un peu d’ eau la préparation est trop épaisse</operation>. <operation temps=6.86min espace=9>terminez en</operation> incorporant les <ingredient quantite=1>tomates pelées</ingredient>, <operation temps=6.86min espace=9>mixez à nouveau</operation>. <operation temps=6.86min espace=9>laisser refroidir 2 heures au <recipient>réfrigérateur</recipient></operation>. bon appétit... en gardant la ligne! vous pouvez ajouter, à votre convenance, les herbes de votre choix: ciboulette, persil, basilic...
+]]>
+ </preparation>
+</recette>

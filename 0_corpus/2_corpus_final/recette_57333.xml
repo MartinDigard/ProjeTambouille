@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57333">
+ <titre>Bricks au boeuf et au fromage</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 feuilles de brick</p>
+ <p>400 g de viande de boeuf hachée</p>
+ <p>200 g de fromage râpé (gruyère, emmental...) </p>
+ <p>un peu d’ huile pour la cuisson</p>
+ <p>muscade moulue</p>
+ <p>sel, poivre</p>
+ <p>margarine (ou beurre de cuisson) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, faire revenir à feu moyen dans un peu de margarine la <ingredient quantite=1>viande de boeuf hachée</ingredient>. y ajouter un peu de <ingredient quantite=1>muscade</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> (doser à votre convenance). dès que la <ingredient quantite=1>viande</ingredient> est cuite, prendre une <ingredient quantite=8>feuille de brick</ingredient>, y mettre un peu de <ingredient quantite=1>viande</ingredient> (2 bonnes cuillères à soupe) et y ajouter du gruyère râpé. attention à ne pas mettre trop de jus de <ingredient quantite=1>viande</ingredient> dans la <ingredient quantite=8>brick</ingredient>. plier la <ingredient quantite=1>feuille</ingredient> en forme de triangle. avec un pinceau, huiler bien chaque côté de vos <ingredient quantite=8>bricks</ingredient>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faire revenir à feu moyen les <ingredient quantite=8>bricks</ingredient> (elles</operation> doivent être dorées de chaque côté). <operation temps=6.86min espace=9>servir avec une salade verte en accompagnement</operation>.
+]]>
+ </preparation>
+</recette>

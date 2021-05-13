@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19135">
+ <titre>Pescajoun</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>100 g de viande hachée cuite (boeuf, veau ou porc) </p>
+ <p>3 oeufs</p>
+ <p>une grosse poignée de ciboulette</p>
+ <p>1/2 litre de lait</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>terrine</recipient>, <operation temps=6.86min espace=9>versez la farine, une pincée de</operation> <ingredient quantite=1>sel</ingredient> et <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=3>oeufs</ingredient> entiers</operation>. <operation temps=6.86min espace=9>mélangez doucement</operation>. <operation temps=6.86min espace=9>incorporez la <ingredient quantite=1>viande</ingredient> (cuite) et la <ingredient quantite=1>ciboulette</ingredient>, puis le <ingredient quantite=1>lait</ingredient> en le versant progressivement</operation>. <operation temps=6.86min espace=9>laissez reposer 1/2 heure</operation>. <operation temps=6.86min espace=9>faites chauffer un peu d’</operation> huile dans une trés grande <recipient>poêle</recipient> et <operation temps=6.86min espace=9>versez la préparation</operation>. <operation temps=6.86min espace=9>faites <ingredient quantite=1>cuire</ingredient> à feu doux</operation> et <operation temps=6.86min espace=9>retournez à mi-cuisson</operation>. <operation temps=2.0min espace=9>servez</operation> chaud. utilisez bien une grande <recipient>poêle</recipient> et une autre pour retourner car ce n’ est ni plus ni moins q’ une crépe auvergnate. un petit vin d’ ardéche
+]]>
+ </preparation>
+</recette>

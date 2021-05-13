@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23366">
+ <titre>Pain perdu au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 baguette de pain sèche ou tout autre pain sec (campagne, aux céréales...) </p>
+ <p>3 oeufs</p>
+ <p>100 g de sucre semoule</p>
+ <p>1 l de lait</p>
+ <p>100 g poudre de chocolat pour petit déjeuner ou de chocolat en tablette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient> mettre l’ équivalent de deux bols de lait et <operation temps=1.0min espace=12>tiédir au micro-ondes environ 1 min 30</operation>. ensuite émietter grossièrement le <ingredient quantite=1>pain sec</ingredient> dans le lait chaud, mélanger et attendre 5 min. ecraser le <ingredient quantite=1>pain</ingredient> avec une fourchette. si le <ingredient quantite=1>pain</ingredient> est encore trop dur, ajouter du lait et <operation temps=6.86min espace=12>retiédir l’</operation> ensemble au micro-ondes, et répéter l’ opération précédente jusqu’ à l’ obtention d’ une bouillie de <ingredient quantite=1>pain</ingredient>. dans le <recipient>saladier</recipient> contenant la bouillie, ajouter les <ingredient quantite=3>oeufs</ingredient> en mélangeant ainsi que le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>chocolat</ingredient> (le <ingredient quantite=1>chocolat en tablette</ingredient> doit être fondu). mettre dans un <recipient>plat</recipient> et enfourner environ 1 h (selon votre <recipient>four</recipient>) à 180 ° c. pour vérifier la cuisson, <operation temps=6.86min espace=12>sortir le <recipient>plat</recipient> du <recipient>four</recipient></operation>, appuyer sur le centre du <ingredient quantite=1>pain</ingredient> perdu, il doit avoir la consistance d’ une quiche lorraine (ferme au centre). le temps de cuisson peut varier selon votre <recipient>four</recipient> et l’ épaisseur du <ingredient quantite=1>pain</ingredient> perdu, vérifier après 45 min. la quantité de <ingredient quantite=1>pain</ingredient> peut-être augmentée mais <operation temps=6.86min espace=12>veillez à</operation> <operation temps=6.86min espace=12>obtenir toujours une bouillie lors de préparation</operation>. les quantités de <ingredient quantite=1>sucre</ingredient> et de <ingredient quantite=1>chocolat</ingredient> sont à adapter à vos goûts.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13867">
+ <titre>Velouté au Maredsou</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons</p>
+ <p>600 g de carottes</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>1 kg de pommes de terre</p>
+ <p>2 barquettes de Maredsou double crème</p>
+ <p>sel, poivre, thym, laurier</p>
+ <p>60 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez les <ingredient quantite=2>oignons</ingredient> et faîtes les fondre dans le beurre, pelez les légumes (<ingredient quantite=1>carottes</ingredient> en rondelles, <ingredient quantite=1>pommes de terre</ingredient> en morceaux). vider le <ingredient quantite=1>maredsou</ingredient> sur les <ingredient quantite=2>oignons</ingredient>, puis <operation temps=6.86min espace=7>laissez fondre doucement avant d’</operation> ajouter le <ingredient quantite=1>concentré</ingredient>. bien mélanger, ajouter les légumes et de l’ eau bien au-dessus de ceux - çi. assaisonner et <operation temps=30.0min espace=7>laisser cuire</operation>. après la cuisson, passer au mixer et rectifier l’ assaisonnement.
+]]>
+ </preparation>
+</recette>

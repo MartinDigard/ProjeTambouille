@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53122">
+ <titre>Haggis Ecossais</titre>
+ <type>Plat principal</type>
+ <niveau>Difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poumon de mouton</p>
+ <p>1 panse de mouton</p>
+ <p>1 coeur de mouton</p>
+ <p>1 foie de mouton</p>
+ <p>1/2 livre de graisse de boeuf</p>
+ <p>3/4 de tasse de farine d’ avoine</p>
+ <p>3 oignons finement coupés</p>
+ <p>1 cuillère à thé de sel</p>
+ <p>1 cuillère à thé de poivre fraîchement moulu</p>
+ <p>1/2 cuillère à thé de poivre de cayenne</p>
+ <p>1/2 cuillère à thé de noix de muscade</p>
+ <p>3/4 de tasse de bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+bien laver le <ingredient quantite=1>poumon</ingredient> et l’ estomac, frotter avec du <ingredient quantite=1>sel</ingredient> et rincer ; enlever les membranes et l’ excès de gras. <operation temps=6.86min espace=15>faire tremper dans de l’ eau froide</operation> et salée pendant plusieurs heures, retourner la <ingredient quantite=1>panse</ingredient> pour la <operation temps=6.86min espace=15>remplir</operation>. placer le <ingredient quantite=1>coeur</ingredient> et le <ingredient quantite=1>foie</ingredient> dans une <recipient>marmite</recipient>, et <operation temps=6.86min espace=15>recouvrir d’ eau froide</operation>. amener à ébullition, reduire le feu, <operation temps=0.25min espace=15>couvrir</operation> et <operation temps=30.0min espace=15>laisser mijoter à feu doux pendant 30 min</operation>. couper en morceaux le <ingredient quantite=1>coeur</ingredient> et émietter grossièrement le <ingredient quantite=1>foie</ingredient>. <operation temps=6.86min espace=15>faire griller l’ <ingredient quantite=1>avoine</ingredient> dans un récipient, en haut du <recipient>four</recipient>, en</operation> tournant fréquemment jusqu’ à ce qu’ elle roussisse. ajouter tous les ingrédients et bien mélanger. <operation temps=6.86min espace=15>remplir</operation>, sans tasser, la <ingredient quantite=1>panse</ingredient> avec le mélange aux trois quarts, car l’ <ingredient quantite=1>avoine</ingredient> prend du volume en cuisant. enlever l’ air de l’ estomac et le fermer avec de la ficelle alimentaire. mettre dans de l’ eau bouillante de sorte qu’ elle couvre la <ingredient quantite=1>panse</ingredient>. <operation temps=6.86min espace=15>laisser mijoter pendant 3 h, à découvert</operation> ; ajouter de l’ eau si nécessaire pour <operation temps=6.86min espace=15>maintenir le niveau</operation>. piquer la <ingredient quantite=1>panse</ingredient> plusieurs fois avec une aiguille fine, quand cela commence à gonfler, cela évite au sac d’ éclater. disposer sur un <recipient>plat</recipient> chaud, en enlevant les liens de fermeture. <operation temps=2.0min espace=15>servir</operation> avec une <ingredient quantite=1>cuillère</ingredient></operation>. <operation temps=2.0min espace=15>servir</operation> cérémonieusement avec des navets en purée (neeps), des pommes de terre en purée (tatties) et du whisky. whisky
+]]>
+ </preparation>
+</recette>

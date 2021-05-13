@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212215">
+ <titre>Délice chocolat-café</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la panacotta au chocolat: </p>
+ <p>15 cl de lait</p>
+ <p>45 cl de crème liquide</p>
+ <p>120 g de chocolat</p>
+ <p>50 g de sucre</p>
+ <p>2 g d’ agar-agar</p>
+ <p>Pour la chantilly au café: </p>
+ <p>20 cl de crème fraîche bien froide</p>
+ <p>1 petite tasse de café fort</p>
+ <p>20 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>panacotta</ingredient>. <operation temps=6.86min espace=10>faire bouillir la <ingredient quantite=1>crème</ingredient> et le lait</operation>. ajouter le <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=1>sucre</ingredient>. une fois qu’ il est <ingredient quantite=1>bien</ingredient> fondu, ajouter l’ <ingredient quantite=1>agar</ingredient> - <ingredient quantite=1>agar</ingredient> que vous aurez dilué dans un peu de lait. <operation temps=2.0min espace=10>laisser sur le feu environ 2 min en</operation> remuant. <operation temps=6.86min espace=10>répartir le mélange dans 4 verrines</operation>. <operation temps=20.0min espace=10>laisser refroidir</operation> puis placer au frais. au moment de <operation temps=2.0min espace=10>servir</operation>, monter la <ingredient quantite=1>crème</ingredient> en <ingredient quantite=1>chantilly</ingredient> puis, lorsqu’ elle a <ingredient quantite=1>bien</ingredient> épaissi, ajouter le <ingredient quantite=1>café</ingredient> et le <ingredient quantite=1>sucre</ingredient>. battre jusqu’ à une consistance onctueuse. dresser la <ingredient quantite=1>chantilly</ingredient> sur la <ingredient quantite=1>panacotta au chocolat</ingredient>. déguster aussitôt. le <ingredient quantite=1>café</ingredient> et le <ingredient quantite=1>chocolat</ingredient> se marient très <ingredient quantite=1>bien</ingredient> ensemble. le contraste entre les deux textures, l’ onctuosité de la <ingredient quantite=1>chantilly</ingredient> et la fermeté de la <ingredient quantite=1>panacotta</ingredient>, est intéressant. un bon <ingredient quantite=1>petit</ingredient> dessert léger. -
+]]>
+ </preparation>
+</recette>

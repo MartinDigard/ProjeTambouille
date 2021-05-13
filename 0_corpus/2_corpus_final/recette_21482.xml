@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21482">
+ <titre>Nouilles chinoises aux légumes et aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1/2 poireau</p>
+ <p>1 carotte</p>
+ <p>2 petites courgettes</p>
+ <p>250 g de champignons de Paris</p>
+ <p>1 petit poivron rouge</p>
+ <p>1 paquet de nouilles chinoises</p>
+ <p>3 cuillerée à soupe d’ huile</p>
+ <p>1 1/2 cuillerée à café de mélange cinq épices (au rayon produits asiatiques) </p>
+ <p>3 cuillerées à soupe de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler tous les légumes en fine julienne. <operation temps=6.86min espace=12>faire bouillir une grande <recipient>casserole</recipient> d’ eau</operation> salée, y jeter les <ingredient quantite=1>nouilles</ingredient>, dès que l’ ébullition à repris, <operation temps=0.25min espace=12>couvrir</operation>, éteindre le feu et <operation temps=4.0min espace=12>laisser reposer pendant 4 min</operation>. pendant ce temps, <operation temps=6.86min espace=12>faire revenir les légumes dans l’ <ingredient quantite=3>huile</ingredient> pendant 5 mn, à feu très vif</operation>, ajouter les cinq <ingredient quantite=1>épices</ingredient> et la <ingredient quantite=3>sauce</ingredient> de soja. égoutter les <ingredient quantite=1>nouilles</ingredient>, les joindre aux légumes et rectifier l’ assaisonnement si besoin. les légumes sont salés par la <ingredient quantite=3>sauce de soja</ingredient>, ne pas rajouter de sel. c’ est un <recipient>plat</recipient> parfait pour les végétariens mais peut également être servi avec des escaloppes de poulet ou des filets de poisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41751">
+ <titre>Crumble de semoule aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes</p>
+ <p>1/2 verre de semoule fine</p>
+ <p>sucre (selon le goût) </p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=4>pommes</ingredient>, et les couper en dés. les <operation temps=6.86min espace=6>faire cuire une vingtaine de minutes dans un <recipient>faitout</recipient>, avec de l’ <ingredient quantite=1>eau</ingredient> et du <ingredient quantite=1>sucre</ingredient> (les <ingredient quantite=4>pommes</ingredient> ne</operation> doivent pas être réduites en compote, mais juste cuites). sorter les <ingredient quantite=4>pommes</ingredient>, et chauffer le jus de cuisson pour en <operation temps=6.86min espace=6>faire un sirop</operation>. réserver. cuire à part: la <ingredient quantite=1>semoule</ingredient> dans de l’ <ingredient quantite=1>eau</ingredient>, pendant une dizaine de minutes. dans le <recipient>plat</recipient> de service, mélanger les <ingredient quantite=4>pommes</ingredient>, la <ingredient quantite=1>semoule</ingredient> cuite, et le sirop. servir chaud, avec éventuellement un peu de caramel... pour les gourmands!
+]]>
+ </preparation>
+</recette>

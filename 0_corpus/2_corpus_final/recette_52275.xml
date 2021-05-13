@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52275">
+ <titre>Ma soupe corse</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 légumes de chaque sorte: poireau, carotte, courgette, navet tomate, oignons, branche de céleri, feuilles de blettes</p>
+ <p>1 petite tranche de courge</p>
+ <p>quelques haricots verts fais juste coupés</p>
+ <p>1 talon de coppa ou de jambon cru (ou charcuterie crue fumée) </p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>1 poignée de spaghetti coupés grossièrement à la main</p>
+ <p>parmesan râpé (sur table) </p>
+ <p>1, 5 litre d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler les <ingredient quantite=3>légumes</ingredient> en morceaux, puis les <operation temps=6.86min espace=10>faire revenir dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> rapidement</operation>. ajouter le <ingredient quantite=1>jambon</ingredient> (ou coppa) coupé en gros morceaux, et <operation temps=6.86min espace=10>faire suer ; saler</operation>, poivrer très légèrement. mouiller avec l’ <ingredient quantite=1>eau</ingredient>, et <operation temps=6.86min espace=10>couvrir aux premiers bouillons</operation>. 5 min avant de passer à table, jeter les <ingredient quantite=1>spaghetti</ingredient> en pluie, et <operation temps=6.86min espace=10>faire reprendre 1 ou 2 bouillons</operation> ; <operation temps=0.25min espace=10>couvrir</operation> et garder hors du feu. <operation temps=6.86min espace=10>servir en soupière sur table, avec le <ingredient quantite=1>parmesan</ingredient> pour les amateurs!! a</operation> <operation temps=6.86min espace=10>faire la veille, c’ est bien meilleur et ça</operation> <operation temps=6.86min espace=10>laisse le temps de</operation> dégraisser! et en <recipient>cocotte</recipient> - minute, c’ est aussi très savoureux. patrimonio rouge (vin corse)
+]]>
+ </preparation>
+</recette>

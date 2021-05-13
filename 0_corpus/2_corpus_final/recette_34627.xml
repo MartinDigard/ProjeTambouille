@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34627">
+ <titre>Porridge rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 grosse tasse de flocons d’ avoine</p>
+ <p>1 grosse tasse d’ eau bouillante</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire bouillir de l’ <ingredient quantite=1>eau</ingredient></operation>. metre les <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient> dans une <recipient>casserole</recipient>. ajouter l’ <ingredient quantite=1>eau</ingredient> bouillante et la pincée de <ingredient quantite=1>sel</ingredient> ; bien mélanger avec une foruchette, pour éviter les grumeaux. porter à ébullition. eteindre le feu et mettre le couvercle sur la <recipient>casserole</recipient>. <operation temps=6.86min espace=5>laisser gonfler 5 - 10</operation> mn, selon les <ingredient quantite=1>flocons</ingredient>. se mange au petit déjeuner. servir chaud avec du lait, ou un peu de crème fluide et / ou du sucre ou du miel. on peut aussi ajouter un fruit coupé en morceaux comme une banane, une mangue, etc. à la place du sucre. c’ est meilleur pour la santé et pour la ligne! excellent pour le cholesterol.
+]]>
+ </preparation>
+</recette>

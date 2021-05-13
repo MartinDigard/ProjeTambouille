@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30092">
+ <titre>Gratin méditerranéen</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 courgettes</p>
+ <p>1 aubergine</p>
+ <p>2 tomates</p>
+ <p>1 poivron</p>
+ <p>1 gros oignon</p>
+ <p>1 cuillères à soupe d’ huile d’ olive</p>
+ <p>150 g de parmesan ou de gruyère râpé</p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe de chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>préparez les légumes: pelez et tranchez l’ <ingredient quantite=1>aubergine</ingredient>, les <ingredient quantite=2>courgettes</ingredient></operation>. les <operation temps=5.0min espace=12>faire blanchir 5 min dans l’ eau bouillante</operation>. <operation temps=6.86min espace=12>pelez les <ingredient quantite=2>tomates</ingredient> en les</operation> plongeant 1 min dans l’ eau bouillante. <operation temps=6.86min espace=12>epépinez - les</operation> et <operation temps=6.86min espace=12>coupez - les en tranches</operation>. <operation temps=6.86min espace=12>détaillez l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>poivron</ingredient> en lanières</operation>. <operation temps=6.86min espace=12>faites dorer les <ingredient quantite=1>oignons</ingredient> dans l’ <ingredient quantite=1>huile</ingredient> d’</operation> <ingredient quantite=1>olive</ingredient> et <operation temps=6.86min espace=12>versez le tout dans un <recipient>plat</recipient> profond</operation> allant au <recipient>four</recipient>. <operation temps=6.86min espace=12>remplissez le <recipient>plat</recipient> en</operation> alternant les légumes et en assaisonnant chaque couche. <operation temps=6.86min espace=12>saupoudrez de fromage, de</operation> <ingredient quantite=2>chapelure</ingredient> et <operation temps=6.86min espace=12>enfournez 1 h à 200 ° c (thermostat 6 - 7</operation>).
+]]>
+ </preparation>
+</recette>

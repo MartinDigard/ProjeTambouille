@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10556">
+ <titre>Filet mignon aux amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon de porc</p>
+ <p>1 oeuf</p>
+ <p>4 cuillères à soupe d’ amandes effilées</p>
+ <p>15 cl de Madère</p>
+ <p>1 orange</p>
+ <p>sel, poivre</p>
+ <p>curry</p>
+ <p>gingembre</p>
+ <p>cannelle</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prendre le <ingredient quantite=1>filet mignon de porc</ingredient>, le badigeonner avec un blanc d’ <ingredient quantite=1>oeuf</ingredient>. le recouvrir d’ <ingredient quantite=4>amandes effilées</ingredient>, puis le <operation temps=5.0min espace=13>faire dorer dans une <recipient>sauteuse</recipient> pendant 5 mn</operation>. réserver au chaud. déglacer la <recipient>sauteuse</recipient> avec du madère (qu’ on peut flamber), ajouter le jus d’ une orange et <operation temps=6.86min espace=13>laisser un peu réduire</operation>. saler et poivrer. personnellement j’ ajoute <ingredient quantite=1>curry</ingredient>, gingembre et <ingredient quantite=1>cannelle</ingredient>. en fin de réduction ajouter de la crême fraiche sans la <operation temps=6.86min espace=13>faire trop</operation> cuire. ajouter le <ingredient quantite=1>filet mignon</ingredient> jusqu’ à cuisson complète, soit 20 minutes à feu doux. j’ ai accompagné ce <recipient>plat</recipient> de 2 manières: riz basmati ou épinards. c’ est l’ adaptation d’ une recette trouvée dans un magazine. le vin conseillé était différent mais la première fois je n’ <operation temps=6.86min espace=13>avais que cela sous la main</operation>. la 2ème fois, je <operation temps=6.86min espace=13>crois que c’ était un banol rouge qui est bien</operation> passé. chateauneuf du pape
+]]>
+ </preparation>
+</recette>

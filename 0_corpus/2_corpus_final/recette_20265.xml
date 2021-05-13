@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20265">
+ <titre>Rouleaux de jambon à la salade de riz</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de jambon cuit</p>
+ <p>100 g de riz cuit froid</p>
+ <p>1 oeuf dur</p>
+ <p>2 tomates</p>
+ <p>1 poivron vert grillé et pelé</p>
+ <p>quelques olives dénoyautées</p>
+ <p>mayonnaise au citron</p>
+ <p>feuilles de laitue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>ôtez la couenne du <ingredient quantite=4>jambon</ingredient></operation>. hachez l’ <ingredient quantite=1>oeuf dur</ingredient>. <operation temps=6.86min espace=8>coupez les <ingredient quantite=2>tomates</ingredient> épépinés et le <ingredient quantite=1>poivron</ingredient></operation> grillé en dés. <operation temps=6.86min espace=8>mélangez les légumes au</operation> <ingredient quantite=1>riz</ingredient> et <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>olives</ingredient></operation>. <operation temps=6.86min espace=8>assaisonnez de <ingredient quantite=1>mayonnaise</ingredient></operation>. garnissez les <ingredient quantite=4>tranches de jambon</ingredient> de cette préparation et <operation temps=6.86min espace=8>roulez - les</operation>. <operation temps=6.86min espace=8>présentez les rouleaux de <ingredient quantite=4>jambon</ingredient> sur un lit de</operation> <ingredient quantite=1>laitue</ingredient> et <operation temps=6.86min espace=8>servez le reste de la <ingredient quantite=1>mayonnaise</ingredient> à part</operation>.
+]]>
+ </preparation>
+</recette>

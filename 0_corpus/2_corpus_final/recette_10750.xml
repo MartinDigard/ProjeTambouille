@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10750">
+ <titre>Flamiche au maroilles</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>30 g de levure de boulanger</p>
+ <p>1 pincée de sel</p>
+ <p>5 cl de lait tiède</p>
+ <p>50 g de beurre fondu</p>
+ <p>2 oeufs</p>
+ <p>1 maroilles (de bonne qualité) </p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la farine en fontaine dans une <recipient>terrine</recipient>. ajouter 1 <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=1>levure</ingredient> délayée dans le lait <ingredient quantite=1>tiède</ingredient> et le beurre <ingredient quantite=1>fondu</ingredient>. mélanger à la spatule en bois, travailler longuement, <operation temps=6.86min espace=13>pétrir 5 min, puis battre à même la <recipient>planche</recipient> farinée</operation>. déposer la boule de pâte élastique farinée dans une <recipient>terrine</recipient> recouverte d’ un torchon, et posée près d’ une source de chaleur. <operation temps=6.86min espace=13>garnir un <recipient><recipient>moule</recipient> à tarte</recipient> avec la pâte</operation> et parsemer de fines lamelles de <ingredient quantite=1>maroilles</ingredient>. <operation temps=6.86min espace=13>laisser lever 1 heure dans un endroit <ingredient quantite=1>tiède</ingredient></operation>. battre l’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=2>crème</ingredient> dans un bol et verser sur la tarte. poivrer. cuire 10 min à <recipient>four</recipient> très chaud. servir bien chaud. bière
+]]>
+ </preparation>
+</recette>

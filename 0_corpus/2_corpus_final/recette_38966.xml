@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38966">
+ <titre>Pizza royale aux fruits et au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza, toute prête </p>
+ <p>150 g de chocolat </p>
+ <p>des fruits variés: fraises, kiwis, poires, pommes...</p>
+ <p>100 g de sucre (verson moins sucré: 50 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>etalez la pâte à <ingredient quantite=1>pizza</ingredient>, sur du papier</operation> sulfurisé. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). déposez, sur la pâte, les <ingredient quantite=1>fruits</ingredient> émincés, puis <operation temps=6.86min espace=5>disposez les carrés de <ingredient quantite=1>chocolat</ingredient></operation>. pour <operation temps=6.86min espace=5>finir</operation>, <operation temps=6.86min espace=5>saupoudrez les <ingredient quantite=1>fruits</ingredient> de <ingredient quantite=1>sucre</ingredient></operation>. cuire pendant environ 20 min, à 170 ° c (thermostat 5 - 6). c’ est un dessert original qui étonne souvent... on peut très bien le confectionner avec ses enfants.
+]]>
+ </preparation>
+</recette>

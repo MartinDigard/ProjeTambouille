@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20696">
+ <titre>Bouillabaisse de légumes aux oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1.5 kg d’ épinards</p>
+ <p>2 oignons</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ <p>6 pommes de terre</p>
+ <p>1 dose de safran</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 brin de fenouil</p>
+ <p>1, 5 l d’ eau</p>
+ <p>6 oeufs bien frais</p>
+ <p>6 tranches de pain de campagne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire fondre l’ <ingredient quantite=1>oignon</ingredient> dans l’</operation> <ingredient quantite=6>huile</ingredient> puis ajouter les <ingredient quantite=1>épinards</ingredient> et les <ingredient quantite=6>pommes de terre</ingredient> pelées et coupées en rondelles de 5 mm d’ épaisseur. assaisonner de sel, de poivre et de <ingredient quantite=1>safran</ingredient> puis ajouter l’ <ingredient quantite=3>ail</ingredient> écrasé et le <ingredient quantite=1>fenouil</ingredient>. lorsque les <ingredient quantite=1>épinards</ingredient> ont fondu, verser l’ <ingredient quantite=1>eau</ingredient> bouillnate et <operation temps=25.0min espace=10>laisser cuire 20 - 25 minutes</operation>. les <ingredient quantite=6>pommes de terre</ingredient> doivent être cuites. pocher les <ingredient quantite=6>oeufs</ingredient> dans le mélange durant 3 minutes. déposer une <ingredient quantite=6>tranche de pain</ingredient> dans chaque assiette et <operation temps=6.86min espace=10>recouvrir de bouillon en</operation> prenant soin de répartir les <ingredient quantite=6>oeufs</ingredient>, les <ingredient quantite=1>épinards</ingredient> et les <ingredient quantite=6>pommes de terre</ingredient>.
+]]>
+ </preparation>
+</recette>

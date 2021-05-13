@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173736">
+ <titre>Brochettes de crevettes au chorizo et ananas</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>48 crevettes crues</p>
+ <p>1 chorizo doux</p>
+ <p>1 petite boite d’ ananas en morceaux</p>
+ <p>20 cl d’ huile d’ olive</p>
+ <p>1 jus de citron vert</p>
+ <p>1 cuillère à café de paprika doux</p>
+ <p>1/2 cuillère à café de gingembre</p>
+ <p>5 cl de whisky</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire la marinade en</operation> mélangeant l’ huile, le <ingredient quantite=1>citron</ingredient>, les épices et le <ingredient quantite=1>whisky</ingredient>. décortiquer les <ingredient quantite=1>crevettes</ingredient> en gardant la queue, et les <operation temps=6.86min espace=10>laisser dans la marinade au moins 2 h</operation>. préparer les brochettes en alternant crevette, <ingredient quantite=1>chorizo</ingredient>, ananas, etc..., <operation temps=6.86min espace=10>finir par une <ingredient quantite=1>crevette</ingredient></operation>. (par brochette: 4 <ingredient quantite=1>crevettes</ingredient>, 3 <ingredient quantite=1>chorizos</ingredient>, 3 <ingredient quantite=1>morceaux</ingredient> d’ ananas). griller les brochettes 10 min soit au <recipient>barbecue</recipient>, soit au <recipient>four</recipient> position grill.
+]]>
+ </preparation>
+</recette>

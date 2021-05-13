@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53457">
+ <titre>Soupe Poulet Champignon Bambou (la SPCB) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60 g de Champignons de Paris frais</p>
+ <p>80 g de pousses de Bambou en boîte</p>
+ <p>1 l de bouillon de poulet maison, sinon on remplace avec 2 cubes de bouillon de poulet bio</p>
+ <p>1 blanc d’ oeuf</p>
+ <p>2 cuillères à café de maïzena</p>
+ <p>2 cuillères à café de gingembre haché</p>
+ <p>2 ciboules hachées</p>
+ <p>1 bonne pincée de sel</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>1 tour de poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>découpez votre filet de <ingredient quantite=1>poulet</ingredient> en lamelles assez fines</operation>. <operation temps=6.86min espace=11>mélangez le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> avec la maïzena</operation>, <operation temps=6.86min espace=11>jetez les morceaux de <ingredient quantite=1>poulet</ingredient> dedans, remuez</operation> et <operation temps=0.5min espace=11>réservez</operation>. <operation temps=6.86min espace=11>faites chauffer le <ingredient quantite=1>bouillon</ingredient></operation>. emincez les <ingredient quantite=1>champignons</ingredient> en lamelles et les <ingredient quantite=1>pousses de bambou</ingredient> en lanières, hachez les <ingredient quantite=2>ciboules</ingredient> et le <ingredient quantite=2>gingembre</ingredient>. quand votre <ingredient quantite=1>bouillon</ingredient> est bien chaud, <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>poulet</ingredient> et les autres ingrédients</operation>. n’ oubliez pas de rajouter la <ingredient quantite=1>sauce soja</ingredient>, du <ingredient quantite=1>sel</ingredient> et du <ingredient quantite=1>poivre</ingredient>. je rajoute de la coriandre <ingredient quantite=1>fraîche</ingredient> mais tout le monde n’ aime pas. plus complet avec du vermicelle <recipient>chinois</recipient>.
+]]>
+ </preparation>
+</recette>

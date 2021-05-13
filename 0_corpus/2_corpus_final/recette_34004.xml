@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34004">
+ <titre>Lasagnes aux deux saumons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de saumon frais</p>
+ <p>300 g de saumon fumé</p>
+ <p>400 g de coulis de tomates (au basilic, ou nature selon les goûts) </p>
+ <p>20 cl de crème fraîche épaisse à 20% MG</p>
+ <p>1/4 de litre de béchamel</p>
+ <p>du fromage râpé</p>
+ <p>des lasagnes sèches ou fraîches</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>saumon frais</ingredient> en petits dés, le <ingredient quantite=1>saumon fumé</ingredient> en petites lanières. faire cuire le <ingredient quantite=1>saumon frais</ingredient> à la <recipient>poêle</recipient>, quand il est cuit, ajouter le <ingredient quantite=1>coulis de tomate</ingredient>, <operation temps=5.0min espace=9>laisser mijoter 5 mn</operation>. ajouter la <ingredient quantite=1>crème fraîche</ingredient>, <operation temps=5.0min espace=9>laisser mijoter encore 5 mn</operation>. enfin mettre le <ingredient quantite=1>saumon fumé</ingredient>, remuer et couper le feu. dresser les <ingredient quantite=1>lasagnes</ingredient> avec une couche de pâtes, un couche de sauce au <ingredient quantite=1>saumon</ingredient>, pâtes, sauce, pâtes et enfin <ingredient quantite=1>béchamel</ingredient> et <ingredient quantite=1>fromage râpé</ingredient>. mettre au <recipient>four</recipient> chaud (th 6/7) pour 30 à 40 mn. tester la cuisson au couteau! il y a beaucoup de sauce mais les <ingredient quantite=1>lasagnes</ingredient> n’ en seront que plus fondantes...
+]]>
+ </preparation>
+</recette>

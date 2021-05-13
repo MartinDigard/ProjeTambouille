@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57344">
+ <titre>Terrine de légumes à la Féta</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 bocal de féta aux herbes de Provence</p>
+ <p>7 oeufs</p>
+ <p>3 poivrons (1 rouge, 1 vert, 1 jaune) </p>
+ <p>4 courgettes</p>
+ <p>4 tomates</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>basilic, cerfeuil, ciboulette</p>
+ <p>beurre, huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites revenir séparément dans de l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>: les <ingredient quantite=3>poivrons</ingredient> en lamelles, les <ingredient quantite=1>oignons</ingredient></operation> émincés, les <ingredient quantite=4>courgettes</ingredient> en rondelles, les <ingredient quantite=4>tomates</ingredient> en dés. <operation temps=6.86min espace=14>mélangez tous les légumes</operation> et <operation temps=10.0min espace=14>laissez cuire pendant 10 min à découvert</operation>. <operation temps=6.86min espace=14>allumez le <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=14>fouettez les <ingredient quantite=7>oeufs</ingredient> en omelette</operation>, <operation temps=6.86min espace=14>incorporez l’ <ingredient quantite=3>ail</ingredient>, les <ingredient quantite=1>herbes</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre, la <ingredient quantite=1>muscade</ingredient>, et la feta</operation> écrasée à la fourchette. mélanger cette préparation aux légumes et <operation temps=5.0min espace=14>laissez mijoter 5 minutes</operation>. <operation temps=6.86min espace=14>recouvrez une <recipient>terrine</recipient> de papier</operation> sulfurisé et <operation temps=6.86min espace=14>versez - y le tout</operation>. <operation temps=6.86min espace=14>recouvrez de papier aluminium</operation> percé. <operation temps=45.0min espace=14>faites cuire 45 min</operation>, <operation temps=6.86min espace=14>laissez refroidir pour</operation> <operation temps=6.86min espace=14>démoulez</operation>. <operation temps=6.86min espace=14>servez froid</operation>. accompagnée d’ une salade, cette recette devient un <recipient>plat</recipient> appréciée l’ été!
+]]>
+ </preparation>
+</recette>

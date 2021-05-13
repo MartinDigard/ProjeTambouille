@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26038">
+ <titre>Coquilles Saint-Jacques gratinées au safran</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 coquilles Saint-Jacques</p>
+ <p>20 cl de vin blanc</p>
+ <p>30 g de gruyère râpé</p>
+ <p>30 g de beurre</p>
+ <p>1 échalote</p>
+ <p>1 dose de safran</p>
+ <p>1 citron</p>
+ <p>1 cuillerée à soupe de crème fraîche</p>
+ <p>1 cuillerée à café de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>ouvrez les</operation> <ingredient quantite=1>coquilles</ingredient>, <operation temps=6.86min espace=12>décollez les noix avec leur corail et nettoyez - les</operation>. <operation temps=6.86min espace=12>coupez les morceaux de chair qui</operation> dépassent, retirer le corail. hachez l’ <ingredient quantite=1>échalote</ingredient>, placez - la dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>safran</ingredient>, le <ingredient quantite=1>vin blanc</ingredient>, le jus du <ingredient quantite=1>citron</ingredient>, une pincée de <ingredient quantite=1>sel</ingredient> et de poivre et un petit verre d’ eau. <operation temps=6.86min espace=12>portez le tout à ébullition</operation>, <operation temps=6.86min espace=12>laissez bouillir jusqu’ à ce que la préparation ait</operation> réduit de moitié. <operation temps=6.86min espace=12>travaillez en pommade 10 g de beurre avec la farine</operation>. <operation temps=6.86min espace=12>ajoutez ce mélange à la sauce</operation> réduite hors du feu. <operation temps=6.86min espace=12>fouettez bien</operation> puis rajoutez la <ingredient quantite=1>crème fraîche</ingredient> et le corail des noix écrasé. <operation temps=6.86min espace=12>poêlez les <ingredient quantite=1>saint-jacques</ingredient> 30 secondes sur chaque face dans le reste de beurre chaud</operation>. <operation temps=6.86min espace=12>déposez 3 noix par coquille</operation>, <operation temps=6.86min espace=12>nappez de sauce</operation> et <operation temps=6.86min espace=12>saupoudrez de fromage râpé</operation>. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation>. <operation temps=10.0min espace=12>enfournez 10 minutes au <recipient>four</recipient> à 210 ° c (thermostat 7</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25286">
+ <titre>Choux farcis de ma’ Mamette’ </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 chou vert</p>
+ <p>4 cuillères à soupe de farine</p>
+ <p>1 oignon</p>
+ <p>450 g de tomates concassées Pour la farce: </p>
+ <p>200 g de boeuf haché </p>
+ <p>200 g de chair à saucisse</p>
+ <p>1 gousse d’ ail</p>
+ <p>persil</p>
+ <p>poivre, sel</p>
+ <p>200 g de fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=14>faire bouillir le <ingredient quantite=1>choux</ingredient> 20 mn</operation>. posez - le à l’ envers (tête en bas) toute la nuit pour bien l’ égoutter. le lendemain: couper les feuilles de <ingredient quantite=1>choux</ingredient> sans les abîmer avec un couteau (enlever la côte dure). farcir chaque feuille une à une, les rouler. les passer dans la farine et les <operation temps=6.86min espace=14>faire dorer de chaque côté à la <recipient>poêle</recipient> dans de l’</operation> huile bien chaude (tourner et retourner). les ranger dans un <recipient>plat</recipient>. pour la sauce: ajouter la boîte de <ingredient quantite=1>tomate</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et un peu de beurre. <operation temps=6.86min espace=14>laisser cuire un quart d’ heure</operation>. passer la sauce au <recipient>mixeur</recipient> et la répandre sur le <ingredient quantite=1>choux</ingredient>. mettre un peu de râpé et passer à <recipient>four</recipient> chaud jusqu’ à ce que se soit gratiné. celui de ma grand-mère est excellent mais malheureusement je n’ ai jamais réussi à le <operation temps=6.86min espace=14>faire aussi bon!!! (il est bon quand même</operation>).
+]]>
+ </preparation>
+</recette>

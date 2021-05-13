@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82634">
+ <titre>Saumon sur fondue de poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 filets de saumon</p>
+ <p>1 blanc de poireaux</p>
+ <p>2 petits bouquets de brocolis</p>
+ <p>6 nids de tagliatelles</p>
+ <p>1 sauce hollandaise ou à l’ aneth en brique</p>
+ <p>Pour le décor: </p>
+ <p>quelques tomates cerise</p>
+ <p>2 branches d’ aneth </p>
+ <p>2 cuillères à soupe d’ huile olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). cuire les <ingredient quantite=6>tagliatelles</ingredient> " al dente " puis cuire les <ingredient quantite=2>brocolis</ingredient> à la vapeur. <operation temps=6.86min espace=15>faire réduire les <ingredient quantite=1>poireaux</ingredient> dans la <recipient>poêle</recipient> avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> jusqu’ à ce qu’ ils soit cuits</operation>. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, mettre les <ingredient quantite=6>tagliatelles</ingredient>, le fondue de <ingredient quantite=1>poireaux</ingredient>, le <ingredient quantite=2>saumon</ingredient>, la sauce et les <ingredient quantite=2>brocolis</ingredient>. assaisonner. mettre au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 20 minutes. décorer avec les <ingredient quantite=1>tomates cerises</ingredient> et les <ingredient quantite=2>branches</ingredient> d’ <ingredient quantite=1>aneth</ingredient>. <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

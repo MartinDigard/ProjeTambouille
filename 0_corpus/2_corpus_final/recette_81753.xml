@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81753">
+ <titre>Chachouka de ma Grand-Mère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses tomates</p>
+ <p>4 poivrons rouges</p>
+ <p>1 tête d’ ail (ou 4 gousses) </p>
+ <p>huile d’ olive</p>
+ <p>persil</p>
+ <p>poivre</p>
+ <p>piment de Cayenne</p>
+ <p>curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+vider les <ingredient quantite=4>poivrons</ingredient> et les couper en dés. couper également les <ingredient quantite=6>tomates</ingredient> en dés. hacher finement les gousses d’ <ingredient quantite=1>ail</ingredient>, et les ajouter aux <ingredient quantite=4>poivrons</ingredient> et aux <ingredient quantite=6>tomates</ingredient>, puis mixer le tout. <operation temps=6.86min espace=12>faire revenir le mélange à feu vif pendant quelques minutes, pour</operation> <operation temps=6.86min espace=12>faire évaporer l’ eau</operation>. baisser le feu, et arroser généreusement d’ huile d’ <ingredient quantite=1>olive</ingredient> (5 à 6 cuillères à soupe). ajouter le <ingredient quantite=1>persil</ingredient>, haché finement, et <operation temps=6.86min espace=12>laisser mijoter 20 bonnes min</operation>. ajouter généreusement <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>piment de cayenne</ingredient> et <ingredient quantite=1>curry</ingredient>. bien mélanger, et servir bien chaud. la chachouka est un <recipient>plat</recipient> assez lourd et gras, elle peut donc être servie seule, en <recipient>plat</recipient> principal. ceci dit, on peut la servir très froide (l’ ayant donc laissée reposer au <recipient>réfrigérateur</recipient> en bon moment), en petite quantité, pour l’ entrée. cette chachouka, <recipient>plat</recipient> typiquement juif, est la recette d’ une vraie mamma yiddish!
+]]>
+ </preparation>
+</recette>

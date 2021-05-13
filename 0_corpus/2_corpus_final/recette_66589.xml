@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66589">
+ <titre>Flamusse aux pommes facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 belles pommes (650 g) </p>
+ <p>1/2 citron</p>
+ <p>3 œufs</p>
+ <p>50 g farine</p>
+ <p>70 g de sucre</p>
+ <p>30 cl lait</p>
+ <p>25 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=3>œufs</ingredient> avec 50 g de <ingredient quantite=1>sucre</ingredient>, ajouter la farine, le lait puis <operation temps=6.86min espace=13>laisser reposer une dizaine de minutes</operation>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). eplucher les <ingredient quantite=3>pommes</ingredient> et les couper en quartiers puis les arroser de <ingredient quantite=1>citron</ingredient>. <operation temps=1.0min espace=13>faire fondre le beurre</operation>, ranger les <ingredient quantite=3>pommes</ingredient> dans la <recipient>poêle</recipient>, les <operation temps=6.86min espace=13>faire cuire pour les</operation> colorer un peu puis verser la pâte sur les <ingredient quantite=3>pommes</ingredient>. <operation temps=3.0min espace=13>laisser cuire 2 à 3 minutes sur le feu, puis au <recipient>four</recipient> environ 30 minutes (vous</operation> pouvez mettre directement votre <recipient>poêle</recipient> au <recipient>four</recipient> si elle est en cuivre ou en métal, ou bien si le manche s’ enlève. sinon, verser la préparation dans un pat adapté). <operation temps=3.0min espace=13>sortir du <recipient>four</recipient></operation>, démouler sur une assiette et saupoudrer du reste de <ingredient quantite=1>sucre</ingredient>. aussi bon le jour même que le lendemain... vin rouge bougogne
+]]>
+ </preparation>
+</recette>

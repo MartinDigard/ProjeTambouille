@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21894">
+ <titre>LOTTE AU BRESSE BLEU</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 2 kg de lotte entière</p>
+ <p>250 g de bresse bleu</p>
+ <p>4 poires</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café de curry en poudre</p>
+ <p>25 cl de bouillon cube</p>
+ <p>25 cl de crème liquide</p>
+ <p>1/2 l de Porto</p>
+ <p>huile d’ olive</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>préparez la <ingredient quantite=1>lotte</ingredient> en 12 médaillons</operation>, <operation temps=0.25min espace=13>salez</operation>, <operation temps=0.5min espace=13>poivrez</operation>, <operation temps=6.86min espace=13>farinez,</operation> puis saupoudrez de <ingredient quantite=1>poudre de curry</ingredient>. <operation temps=6.86min espace=13>saisissez les médaillons sur les 2 faces dans une <recipient>poêle</recipient> avec du beurre et de l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=0.5min espace=13>réservez</operation>. déglacez la <recipient>poêle</recipient> avec le <ingredient quantite=1>bouillon</ingredient>, ajoutez le <ingredient quantite=1>bresse bleu</ingredient> en morceaux et <operation temps=6.86min espace=13>laissez fondre</operation>. <operation temps=6.86min espace=13>mélangez la sauce obtenue</operation> et <operation temps=6.86min espace=13>gardez au chaud</operation>. pochez les <ingredient quantite=4>poires</ingredient> entières, <operation temps=6.86min espace=13>coupez - les en 2 puis émincez - les en</operation> gardant la queue. <operation temps=6.86min espace=13>faites réduire le <ingredient quantite=1>porto</ingredient> pour</operation> <operation temps=6.86min espace=13>obtenir une consistance épaisse</operation>. dans chaque assiette, <operation temps=6.86min espace=13>déposez un peu de</operation> sauce au <ingredient quantite=1>bresse</ingredient> puis 4 médaillons de <ingredient quantite=1>lotte</ingredient> et enfin 1/2 <ingredient quantite=1>poire</ingredient>. <operation temps=2.0min espace=13>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

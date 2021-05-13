@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24279">
+ <titre>Samossas aux fromages frais et à la menthe</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de feta</p>
+ <p>250 g de ricotta</p>
+ <p>100 g de carré frais</p>
+ <p>menthe fraîche écrasée </p>
+ <p>4 oeufs</p>
+ <p>8 à 10 feuilles de filo</p>
+ <p>beurre fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=8>ecrasez la <ingredient quantite=1>feta</ingredient> avec la ricotta, le fromage carré <ingredient quantite=1>frais</ingredient> et les <ingredient quantite=4>oeufs</ingredient></operation>. <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation> et <operation temps=6.86min espace=8>ajoutez plus ou moins de <ingredient quantite=1>menthe</ingredient> selon le goût</operation>. beurrez les <ingredient quantite=8>feuilles de filo</ingredient> et <operation temps=6.86min espace=8>découpez des bandes de 5 cm de large</operation>. <operation temps=6.86min espace=8>déposez une cuillère à café</operation> bombée de la préparation sur une des extremités de la bande puis <operation temps=6.86min espace=8>repliez sur elle-même en triangle</operation>. badigeonnez de beurre <ingredient quantite=1>fondu</ingredient> et <operation temps=6.86min espace=8>faites cuire jusqu’ à ce qu’ ils soit bien</operation> dorés, soit 8 à 12 minutes.
+]]>
+ </preparation>
+</recette>

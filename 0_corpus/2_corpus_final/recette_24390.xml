@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24390">
+ <titre>Filets de truite aux noisettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de truite (120 à 150 g par portion) </p>
+ <p>les arêtes et les parures du poisson</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>20 cl de crème fraîche</p>
+ <p>30 g de beurre</p>
+ <p>40 g de noisettes</p>
+ <p>2 cuillères à soupe d’ huile de noisette</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites prélever les <ingredient quantite=4>filets de truite</ingredient> par le poissonnier. <operation temps=6.86min espace=14>préparez un fumet</operation>: mettez les <ingredient quantite=1>arêtes et les parures du poisson</ingredient> dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>vin blanc</ingredient> et 40 cl d’ eau. <operation temps=30.0min espace=14>laissez frémir pendant 30 mn</operation>. au bout de ce temps, <operation temps=6.86min espace=14>filtrez le fumet</operation> et <operation temps=6.86min espace=14>faites - le à nouveau réduire pour</operation> <operation temps=6.86min espace=14>obtenir 20 cl</operation>. versez ensuite la <ingredient quantite=1>crème fraîche</ingredient> dans le fumet réduit, <operation temps=6.86min espace=14>salez,</operation> <operation temps=0.25min espace=14>poivrez et</operation> <operation temps=6.86min espace=14>laissez bouillir doucement pour</operation> <operation temps=6.86min espace=14>faire réduire de moitié</operation>. <operation temps=6.86min espace=14>versez le contenu de la <recipient>casserole</recipient> dans le bol d’ un <recipient>mixeur</recipient></operation>, <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=1>noisettes</ingredient> et l’</operation> <ingredient quantite=2>huile</ingredient> et <operation temps=6.86min espace=14>mixez pour</operation> <operation temps=6.86min espace=14>obtenir une préparation homogène</operation>. <operation temps=0.5min espace=14>réservez au chaud</operation>. <operation temps=6.86min espace=14>salez,</operation> <operation temps=0.25min espace=14>poivrez et</operation> farinez les <ingredient quantite=4>filets de truite</ingredient>. dans une grande <recipient>poêle</recipient>, <operation temps=6.86min espace=14>mettez le beurre à</operation> fondre et <operation temps=3.0min espace=14>poêlez les <ingredient quantite=4>filets</ingredient>, 3 mn de chaque côté</operation>. pour <operation temps=2.0min espace=14>servir</operation>, <operation temps=6.86min espace=14>disposez le <ingredient quantite=1>poisson</ingredient> dans un <recipient>plat</recipient> préchauffé</operation>, <operation temps=6.86min espace=14>nappez de sauce</operation>. peut être accompagné d’ une purée de pommes de terre maison parfumée à l’ <ingredient quantite=2>huile de noisette</ingredient>. un saint-pourçain <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

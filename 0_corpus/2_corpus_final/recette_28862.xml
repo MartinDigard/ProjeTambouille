@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28862">
+ <titre>Strudel à la choucroute et autres Strudel salés</titre>
+ <type>Plat principal</type>
+ <niveau>Difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pâte à Strudel (voir la recette) </p>
+ <p>2 oignons</p>
+ <p>20 g de beurre</p>
+ <p>1 boîte de choucroute (810 g) nature</p>
+ <p>100 g de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>1 bouquet d’ aneth</p>
+ <p>300 g de saumon cru ou fumé ou de lardons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler, hacher les <ingredient quantite=2>oignons</ingredient>, les <operation temps=10.0min espace=10>faire revenir dans le beurre avec la <ingredient quantite=1>choucroute</ingredient> durant 10 mn</operation>. ajouter un peu de vin blanc (1/2 verre) et <operation temps=8.0min espace=10>laisser réduire</operation>. ajouter le <ingredient quantite=1>saumon</ingredient> coupé en dés. ajouter la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre, l’ <ingredient quantite=1>aneth</ingredient>. <operation temps=20.0min espace=10>laisser refroidir</operation>. etaler la pâte à <ingredient quantite=1>strudel</ingredient>, et suivre les instructions données dans la recette de la pâte à <ingredient quantite=1>strudel</ingredient>. il existe une infinité de variantes de <ingredient quantite=1>strudel</ingredient> salés. en général, je <operation temps=6.86min espace=10>fais mes <ingredient quantite=1>strudels</ingredient> avec mes restes: ça</operation> fait plus riche de les présenter en <ingredient quantite=1>strudel</ingredient>! c’ est ainsi que si on a un reste de <ingredient quantite=1>choucroute</ingredient>, il suffit de couper les pommes de terre et les viandes en morceaux, et d’ enfermer le tout dans la pâte. autres variantes: champignons: 1, 5 kg de champignons de paris coupés en morceaux revenus dans du beurre avec un <ingredient quantite=1>oignon</ingredient>, du persil, et 100 g de <ingredient quantite=1>lardons</ingredient>. ajouter 2 oeufs, 200 g de <ingredient quantite=1>crème fraîche</ingredient> épaisse et 3 c. s. de chapelure. epinards: 1 kg d’ épinards revenus dans du beurre avec 1 <ingredient quantite=1>oignon</ingredient>. ajouter 100 g de pignons <operation temps=6.86min espace=10>brunis dans une <recipient>poêle</recipient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, et 400 g de fromage de chèvre</operation> coupé en morceaux. ratatouille: utiliser un reste de ratatouille. on peut ajouter des saucisses de toulouse coupées en rondelles et revenues dans une <recipient>poêle</recipient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46531">
+ <titre>Papillote de saumon sauvage</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>4 pavés de saumon sauvage</p>
+ <p>2 carottes</p>
+ <p>2 poireaux</p>
+ <p>huile d’ olive</p>
+ <p>coriandre</p>
+ <p>aneth</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>carottes</ingredient> et les <ingredient quantite=2>poireaux</ingredient> en julienne. prendre 4 feuilles de papier aluminium. déposer dans chacune d’ elles un lit de <ingredient quantite=2>carottes</ingredient> et de <ingredient quantite=2>poireaux</ingredient> émincés, puis les pavés de <ingredient quantite=4>saumon sauvage</ingredient>. saler, poivrer. ajouter les herbes finement coupées et arroser d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. fermer les papillotes. déposer les papillotes dans une <recipient>poêle</recipient> et les <operation temps=15.0min espace=7>faire cuire à feu doux pendant 15 min sans les</operation> retourner. <operation temps=6.86min espace=7>servir les papillotes avec un beurre blanc ou tout simplement avec un filet de</operation> crème de soja. pouilly fumé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224030">
+ <titre>Ragoût de pommes de terre aux bettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 à 5 belles tiges de bettes</p>
+ <p>800 g de pommes de terre</p>
+ <p>huile d’ olive</p>
+ <p>1 petite boîte de tomates en conserve ou 1 brique de coulis de tomates</p>
+ <p>4 gousses d’ ail</p>
+ <p>un peu de céleri (facultatif) </p>
+ <p>herbes aromatiques: une feuille de laurier, quelques feuilles de sauge, du thym, éventuellement de la sarriette</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par hacher l’ <ingredient quantite=4>ail</ingredient>, effiler les côtes de <ingredient quantite=4>bettes</ingredient> (vous pouvez garder les <ingredient quantite=1>feuilles</ingredient> pour une soupe par exemple), les couper en tronçons. <operation temps=10.0min espace=13>faire chauffer l’</operation> huile dans une <recipient>cocotte</recipient> ou une <recipient>sauteuse</recipient> (un <recipient>wok</recipient> peut <operation temps=6.86min espace=13>faire l’</operation> affaire) à feu assez vif. y placer d’ abord l’ <ingredient quantite=4>ail</ingredient> haché puis, au bout de quelques secondes (attention, l’ <ingredient quantite=4>ail</ingredient> brûle vite!), les tronçons de <ingredient quantite=4>bettes</ingredient>. pendant que ces derniers reviennent, éplucher les <ingredient quantite=1>pommes de terre</ingredient> et les couper en rondelles d’ environ un cm. les mettre à <operation temps=5.0min espace=13>revenir avec les <ingredient quantite=4>bettes</ingredient> 5 min environ, en</operation> mélangeant régulièrement. ajouter le <ingredient quantite=1>céleri</ingredient> si vous en avez, coupé en <ingredient quantite=1>petits</ingredient> morceaux. enfin, ajouter les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>coulis</ingredient> ainsi que les <ingredient quantite=1>herbes aromatiques</ingredient> en bonne quantité, du <ingredient quantite=1>sel</ingredient>, du poivre, <ingredient quantite=1>éventuellement</ingredient> un peu d’ eau en fonction de l’ épaisseur de votre <recipient>cocotte</recipient>. quand le liquide bout, <operation temps=0.25min espace=13>couvrir</operation> et mettre à feu doux pendant environ 40 min (vérifier en fin de cuisson si les légumes sont cuits). vin rouge un peu corsé
+]]>
+ </preparation>
+</recette>

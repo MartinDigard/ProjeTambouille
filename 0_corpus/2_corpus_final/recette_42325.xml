@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42325">
+ <titre>Poulet aux concombres</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 escalope de poulet (ou dinde) par personne (ou cuisses), coupées en dés</p>
+ <p>1 carotte en dés</p>
+ <p>2 oignons</p>
+ <p>2 concombres en bâtonnets</p>
+ <p>1 cuillère à soupe d’ épices mexicaines </p>
+ <p>200 g de champignons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire revenir le <ingredient quantite=1>poulet</ingredient>, les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>carottes</ingredient>, dans l’ huile d’ olive</operation>. <operation temps=6.86min espace=6>faire revenir les <ingredient quantite=1>champignons</ingredient> en lamelles</operation>, mêler le tout, ajouter les <ingredient quantite=1>épices</ingredient>. rajouter les <ingredient quantite=2>concombres</ingredient>. cuire durant 15 min, rectifier l’ assaisonnement. la cuisson est très courte ainsi la viande reste tendre et les <ingredient quantite=2>concombres</ingredient> croquants. le jus des <ingredient quantite=2>concombres</ingredient> suffit largement pour <operation temps=6.86min espace=6>obtenir une sauce onctueuse</operation>. vite fait, et meilleur réchauffé. rosé sec
+]]>
+ </preparation>
+</recette>

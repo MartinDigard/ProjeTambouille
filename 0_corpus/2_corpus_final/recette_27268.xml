@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27268">
+ <titre>Crevettes sauce curry</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>700 g de crevettes</p>
+ <p>50 cl de crème fraîche liquide</p>
+ <p>40 cl de vin blanc sec</p>
+ <p>cognac (pour flamber) </p>
+ <p>3 cuillères à café de curry</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>estragon</p>
+ <p>piment de cayenne (ou Tabasco) </p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire chauffer du beurre dans une <recipient>sauteuse</recipient></operation> puis ajouter les <ingredient quantite=1>crevettes</ingredient> décortiquées et les <operation temps=6.86min espace=11>faire colorer</operation>. ajouter le <ingredient quantite=1>cognac</ingredient> et <operation temps=6.86min espace=11>faire flamber</operation>. <operation temps=6.86min espace=11>laisser réduire un peu</operation>. ajouter le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=8.0min espace=11>laisser réduire</operation>. ajouter l’ <ingredient quantite=2>ail</ingredient>, l’ <ingredient quantite=1>estragon</ingredient> et les épices. ajouter la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=11>laisser réduire un peu</operation> pour que la sauce épaississe. servir bien chaud.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43439">
+ <titre>Royal aux deux chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la base macaron: </p>
+ <p>5 blancs d’ oeufs</p>
+ <p>150 g de sucre </p>
+ <p>150 g d’ amandes en poudre Pour la ganache au chocolat: </p>
+ <p>200 g de chocolat à 70 % de cacao </p>
+ <p>50 g de beurre </p>
+ <p>10 cl crème Pour la crème au chocolat: </p>
+ <p>200 g de chocolat pâtissier au lait</p>
+ <p>50 cl de crème fleurette Pour le croustillant: </p>
+ <p>125 g de crêpes dentelle nature brisées </p>
+ <p>125 g de chocolat noir à 70 % de cacao</p>
+ <p>125 g de crème de noisettes ou crème pralinée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+* <ingredient quantite=1>base</ingredient> battre les blancs en neige ferme. rajouter 50 g de <ingredient quantite=1>sucre</ingredient>. continuer à battre. ajouter délicatement les <ingredient quantite=1>amandes</ingredient> et le reste de <ingredient quantite=1>sucre</ingredient>. verser dans un <recipient>moule</recipient> à fond amovible de 24 cm de diamètre dont on a beurré et fariné le fond et les côtés. cuire 30 min à 150 ° c (thermostat 5). <operation temps=6.86min espace=14>sortir</operation> et <operation temps=6.86min espace=14>refroidir sur une grille</operation>. * <ingredient quantite=1>ganache au chocolat</ingredient>: <operation temps=6.86min espace=14>faire bouillir la <ingredient quantite=1>crème</ingredient></operation>. ajouter le <ingredient quantite=1>chocolat</ingredient> et le beurre. quand le mélange refroidi bien, le verser sur la <ingredient quantite=1>base</ingredient> de gâteau. * <ingredient quantite=1>crème au chocolat</ingredient>: <operation temps=6.86min espace=14>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. fouetter la <ingredient quantite=1>crème</ingredient> en chantilly. ajouter le <ingredient quantite=1>chocolat</ingredient> encore chaud à la <ingredient quantite=1>crème</ingredient> et mélanger délicatement. verser une fine couche sur la <ingredient quantite=1>ganache</ingredient>. réserver le reste. * le <ingredient quantite=1>croustillant</ingredient>: mélanger le tout à chaud. etaler au rouleau entre 2 feuilles de papier sulfurisé sur 1 à 2 mm. <operation temps=6.86min espace=14>laisser en attente au froid</operation>, découper un cercle un tout petit peu plus petit que la <ingredient quantite=1>base</ingredient> du gâteau. mettre sur la couche de crème au <ingredient quantite=1>chocolat</ingredient>. terminer par la <ingredient quantite=1>crème au chocolat</ingredient> réservée. mettre au frais pendant au moins 12h. ce dessert n’ est pas du tout écoeurant, ceci dit, après un repas copieux, prévoir de petites parts. utiliser du nestlé dessert au <ingredient quantite=1>lait</ingredient>. champagne
+]]>
+ </preparation>
+</recette>

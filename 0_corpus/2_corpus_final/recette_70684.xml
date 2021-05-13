@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70684">
+ <titre>La piade</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>3 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 verre d’ eau</p>
+ <p>4 tranches de jambon cru</p>
+ <p>4 grandes feuilles de salade</p>
+ <p>1 boule de mozzarella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la <ingredient quantite=1>farine</ingredient> dan un <recipient>saladier</recipient>. <operation temps=6.86min espace=9>faire un puits et y</operation> incorporer l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et l’ <ingredient quantite=1>eau</ingredient> pour en <operation temps=6.86min espace=9>faire une pâte souple et homogène</operation>. couper la <ingredient quantite=1>boule</ingredient> de pâte en 4 et étaler chaque morceau avec un rouleau à pâtisserie. cuire chaque disque de pâte à la <recipient>poêle</recipient> comme une crêpe. un fois que les disque de pâte sont cuits, y mettre le <ingredient quantite=4>jambon</ingredient> cru, deux <ingredient quantite=4>tranches</ingredient> de <ingredient quantite=1>mozzarella</ingredient> et une <ingredient quantite=4>feuille de salade</ingredient>. <operation temps=10.0min espace=9>laisser chauffer au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 10 min pour que le fromage fonde légèrement</operation>. dégusté enroulé!
+]]>
+ </preparation>
+</recette>

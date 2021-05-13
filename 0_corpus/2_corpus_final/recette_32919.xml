@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32919">
+ <titre>Soupe de potiron aux champignons noirs</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de potiron</p>
+ <p>25 cl de crème épaisse</p>
+ <p>30 g de beurre</p>
+ <p>4/5 champignons noirs</p>
+ <p>sel fin</p>
+ <p>poivre moulin</p>
+ <p>1/2 l de bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et <operation temps=6.86min espace=8>taillez le <ingredient quantite=1>potiron</ingredient> en dés de 3 cm</operation>. <operation temps=6.86min espace=8>mettez 20 g de beurre dans un <recipient>faitout</recipient> chaud</operation>, <operation temps=6.86min espace=8>ajoutez le</operation> <ingredient quantite=1>potiron</ingredient> et <operation temps=5.0min espace=8>faites compoter 5 mn sur feu vif en</operation> écrasant la pulpe. <operation temps=6.86min espace=8>ajoutez le</operation> <ingredient quantite=1>bouillon</ingredient> et <operation temps=20.0min espace=8>portez à ébullition</operation> puis <operation temps=15.0min espace=8>faites mijoter 15 mn</operation>. <operation temps=6.86min espace=8>rajoutez la</operation> <ingredient quantite=1>crème</ingredient>, <operation temps=6.86min espace=8>mixez à soupe</operation> et <operation temps=6.86min espace=8>finir de</operation> cuire environ 5 mn. pendant ce temps faire revenir les <ingredient quantite=1>champignons noirs</ingredient> émincés très <ingredient quantite=1>fins</ingredient> dans le reste de beurre. <operation temps=6.86min espace=8>salez et poivrez et parsemez les assiettes de <ingredient quantite=1>champignons</ingredient></operation>. essayez cette soupe et vous allez l’ adopter. bon appétit!
+]]>
+ </preparation>
+</recette>

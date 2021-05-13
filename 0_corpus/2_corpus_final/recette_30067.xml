@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30067">
+ <titre>Filets de daurade sauce rouille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filets de daurade (ou autre poisson type rascasse) </p>
+ <p>200 g de riz</p>
+ <p>2 tomates</p>
+ <p>huile</p>
+ <p>sel, poivre</p>
+ <p>Pour la sauce rouille: </p>
+ <p>3 gousses d’ ail</p>
+ <p>1 petit piment fort</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>1 pomme de terre cuite</p>
+ <p>25 cl d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites <ingredient quantite=1>cuire</ingredient> le <ingredient quantite=1>riz</ingredient> dans 2 fois son volume d’ eau bouillante</operation> salée, environ 20 min à feu doux et couvert. <operation temps=6.86min espace=14>préparez la</operation> <ingredient quantite=1>rouille</ingredient>: pilez l’ <ingredient quantite=3>ail</ingredient> et le <ingredient quantite=1>piment</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=1>pomme de terre</ingredient> écrasée à la fourchette. <operation temps=6.86min espace=14>salez,</operation> <operation temps=0.5min espace=14>poivrez</operation> et <operation temps=6.86min espace=14>travaillez le tout en pommade</operation>. <operation temps=6.86min espace=14>versez peu à peu l’</operation> huile en fouettant comme une mayonnaise. <operation temps=6.86min espace=14>disposez les <ingredient quantite=1>filets</ingredient> de poisson dans un <recipient>plat</recipient> à <recipient>four</recipient> huilé</operation>. <operation temps=6.86min espace=14>arrosez - les d’ un <ingredient quantite=1>filet</ingredient> d’</operation> <ingredient quantite=1>huile</ingredient>, <operation temps=6.86min espace=14>salez,</operation> <operation temps=0.5min espace=14>poivrez</operation> et couvrez de papier d’ aluminium. <operation temps=20.0min espace=14>faites - les <ingredient quantite=1>cuire</ingredient> 20 min au <recipient>four</recipient> à 220 ° c (thermostat 7 - 8</operation>). pendant ce temps, <operation temps=6.86min espace=14>faites <ingredient quantite=1>cuire</ingredient> les <ingredient quantite=2>tomates</ingredient></operation> coupées en tranches avec un peu d’ huile. <operation temps=6.86min espace=14>salez,</operation> <operation temps=0.5min espace=14>poivrez</operation>. servez les <ingredient quantite=1>filets</ingredient> de daurade avec le <ingredient quantite=1>riz</ingredient>, les <ingredient quantite=2>tomates</ingredient> et la <ingredient quantite=1>sauce rouille</ingredient>.
+]]>
+ </preparation>
+</recette>

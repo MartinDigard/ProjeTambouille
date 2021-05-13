@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59964">
+ <titre>Salade d’ aubergines façon Tunisienne</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 aubergines</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olives</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epuchez les <ingredient quantite=6>aubergines</ingredient> et <operation temps=6.86min espace=8>coupez - les en dès</operation>. <operation temps=1.0min espace=8>mettez</operation> - les dans une <recipient>casserole</recipient> et <operation temps=20.0min espace=8>faites cuire 20 min dans l’ eau</operation>. losque c’ est cuit <operation temps=4.0min espace=8>égouttez - les</operation>. <operation temps=6.86min espace=8>ecrassez - les à l’</operation> aide d’ une fouchette et <operation temps=1.0min espace=8>mettez</operation> - les dans une <recipient>poêle</recipient> avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et l’ <ingredient quantite=2>ail</ingredient> écrassé. <operation temps=10.0min espace=8>faites revenir 10 min</operation> <operation temps=6.86min espace=8>ajoutez le</operation> <ingredient quantite=1>cumin</ingredient>, <operation temps=0.25min espace=8>salez</operation> et <operation temps=0.5min espace=8>poivrez</operation>. ce <recipient>plat</recipient> peut être servi tiède ou bien froid selon les goûts.
+]]>
+ </preparation>
+</recette>

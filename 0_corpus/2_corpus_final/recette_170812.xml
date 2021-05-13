@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170812">
+ <titre>Gaspacho de betteraves</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 betteraves rouges</p>
+ <p>50 g de fromage frais type saint-Morêt</p>
+ <p>50 cl de crème fraîche</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=60.0min espace=7>faire cuire les <ingredient quantite=4>betteraves</ingredient> 60 min dans une <recipient>casserole</recipient> d’ eau</operation>. les couper en morceaux. ajouter le <ingredient quantite=1>fromage</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient>, la <ingredient quantite=1>moutarde</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. mixer le tout. <operation temps=6.86min espace=7>servir dans de petits verres</operation> et mettre au <ingredient quantite=1>frais</ingredient> 2 h.
+]]>
+ </preparation>
+</recette>

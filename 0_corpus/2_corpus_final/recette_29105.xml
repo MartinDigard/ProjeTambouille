@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29105">
+ <titre>Coupes crémeuses aux poires caramélisées</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g fromage blanc à 0% de MG</p>
+ <p>300 g crème allégée</p>
+ <p>140 g de sucre</p>
+ <p>25 g de beurre</p>
+ <p>le zeste d’ 1/2 orange</p>
+ <p>le zeste d’ 1/2 citron</p>
+ <p>3 poires Williams bien mûres</p>
+ <p>20 grains de raisin muscat</p>
+ <p>5 cl de jus de pomme</p>
+ <p>1/2 cuillerée à café de gingembre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=1>zestes</ingredient> de <ingredient quantite=1>citron</ingredient> et d’ <ingredient quantite=1>orange</ingredient> finement. <operation temps=6.86min espace=12>fouettez le fromage <ingredient quantite=1>blanc</ingredient> avec les <ingredient quantite=1>zestes</ingredient> et 80 g de <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=12>fouettez la crème</operation> et <operation temps=6.86min espace=12>incorporez - la</operation>. répartissez dans 4 coupes et <operation temps=0.5min espace=12>réservez</operation> au <recipient>réfrigérateur</recipient></operation>. <operation temps=3.0min espace=12>pelez</operation> et <operation temps=6.86min espace=12>coupez les <ingredient quantite=3>poires</ingredient> en morceaux</operation>. <operation temps=6.86min espace=12>rincez le <ingredient quantite=1>raisin</ingredient></operation>. <operation temps=6.86min espace=12>faites fondre le beurre dans une <recipient>poêle</recipient></operation>, <operation temps=6.86min espace=12>jetez - y les <ingredient quantite=3>poires</ingredient> et les</operation> <ingredient quantite=1>raisins</ingredient>, mouillez avec le <ingredient quantite=1>jus de pomme</ingredient>. <operation temps=8.0min espace=12>laissez bouilloner 7 - 8 min à feu doux</operation>, <operation temps=6.86min espace=12>remuez</operation> délicatement les fruits de temps en temps. <operation temps=0.25min espace=12>retirez du feu</operation> et <operation temps=6.86min espace=12>laissez tiédir</operation>. <operation temps=6.86min espace=12>saupoudrez les coupes de <ingredient quantite=1>sucre</ingredient> et de <ingredient quantite=1>gingembre</ingredient>, répartissez les <ingredient quantite=3>poires</ingredient> et <ingredient quantite=1>raisins</ingredient></operation> caramélisés dessus et <operation temps=2.0min espace=12>servez</operation>.
+]]>
+ </preparation>
+</recette>

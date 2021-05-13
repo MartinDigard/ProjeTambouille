@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21201">
+ <titre>Gratin de restes de viande aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de champignons de Paris</p>
+ <p>3 échalotes</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>50 g de beurre</p>
+ <p>300 à 500 g de restes de viande</p>
+ <p>15 cl de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=1>champignons de paris</ingredient> avec l’ <ingredient quantite=1>échalote</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=6.86min espace=10>poivrez et mélangez</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=10>beurrez un <recipient>plat</recipient> à gratin</operation>. <operation temps=6.86min espace=10>recouvrez le fond du <recipient>plat</recipient> de la moitié du hachis de</operation> <ingredient quantite=1>champignons</ingredient>, <operation temps=6.86min espace=10>déposez les restes de <ingredient quantite=1>viande</ingredient> dessus</operation> et <operation temps=6.86min espace=10>recouvrez du reste des <ingredient quantite=1>champignons</ingredient></operation>. arrosez de <ingredient quantite=1>vin blanc</ingredient> et répartissez le beurre en noisettes sur le dessus du <recipient>plat</recipient>. <operation temps=30.0min espace=10>enfournez 30 minutes</operation>.
+]]>
+ </preparation>
+</recette>

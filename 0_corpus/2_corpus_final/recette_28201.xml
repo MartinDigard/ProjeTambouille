@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28201">
+ <titre>Terrine d’ épinards au torchon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g d’ épinards</p>
+ <p>120 g de fromage blanc épais</p>
+ <p>100 g de parmesan râpé</p>
+ <p>4 oeufs</p>
+ <p>250 g de farine</p>
+ <p>sel, poivre et noix muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire fondre les <ingredient quantite=1>épinards</ingredient> dans le beurre, les</operation> égoutter puis les hacher. mélanger le <ingredient quantite=1>fromage blanc</ingredient> avec le <ingredient quantite=1>parmesan</ingredient>, 2 <ingredient quantite=4>oeufs</ingredient>, les <ingredient quantite=1>épinards</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et de la <ingredient quantite=1>muscade</ingredient>. malaxer la farine avec les <ingredient quantite=4>oeufs</ingredient> restant et un peu de <ingredient quantite=1>sel</ingredient>. etaler la pâte en rectangle et disposer le mélange dessus. rouler la pâte de façon à former un boudin et envelopper dans un torchon pour éviter qu’ il ne se défasse. ficeler les extrémités et <operation temps=6.86min espace=6>faire cuire 1 heure dans l’ eau bouillante</operation> salée et servir coupé en tranches.
+]]>
+ </preparation>
+</recette>

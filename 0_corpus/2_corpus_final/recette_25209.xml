@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25209">
+ <titre>Terrine au poivre vert</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 canard de Barbarie d’ 1, 5 kg</p>
+ <p>500 g d’ échine de porc</p>
+ <p>500 g de jambon cuit</p>
+ <p>2 échalotes</p>
+ <p>1 bouquet de persil</p>
+ <p>50 g de poivre vert</p>
+ <p>bardes de lard</p>
+ <p>2 oeufs</p>
+ <p>1 boîte de gelée au porto</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+désosser le <ingredient quantite=1>canard</ingredient> et couper les filets en fines lamelles. dans un <recipient>mixeur</recipient>, hacher le reste des morceaux de <ingredient quantite=1>canard</ingredient> avec le <ingredient quantite=1>jambon</ingredient>, les <ingredient quantite=2>échalotes</ingredient>, le <ingredient quantite=1>persil</ingredient>, le poivre <ingredient quantite=1>vert</ingredient> et l’ <ingredient quantite=1>échine de porc</ingredient>. saler, puis lier le hachis de viande avec les <ingredient quantite=2>oeufs</ingredient>. bien mélanger. dans un <recipient>plat</recipient> à pâté ou une <recipient>terrine</recipient>, tapisser le fond de <ingredient quantite=1>bardes de lard</ingredient>, puis du hachis de viande et enfin des lamelles de filets de <ingredient quantite=1>canard</ingredient> en alternant les couches jusqu’ à épuisement des ingrédients. recouvrir de <ingredient quantite=1>bardes de lard</ingredient> et <operation temps=6.86min espace=17>faire <ingredient quantite=1>cuire</ingredient> 1 h 30 au <recipient>four</recipient> au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=17>sortir la <recipient>terrine</recipient> du <recipient>four</recipient>,</operation> puis verser la <ingredient quantite=1>gelée</ingredient> tiède dessus. <operation temps=6.86min espace=17>laisser refroidir au frais jusqu’ au lendemain avant de</operation> déguster.
+]]>
+ </preparation>
+</recette>

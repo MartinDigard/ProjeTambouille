@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28050">
+ <titre>Potée de boeuf et poulet au chou</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>600 g de jarret boeuf</p>
+ <p>200 g lard</p>
+ <p>250 g riz</p>
+ <p>1/2 chou</p>
+ <p>1 petite boîte concentré tomate</p>
+ <p>1 poivron</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 grosse cuillerée saindoux</p>
+ <p>75 cl de bouillon</p>
+ <p>laurier</p>
+ <p>poivre de Cayenne</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=1>oignon</ingredient>. laver et détailler le <ingredient quantite=1>chou</ingredient> en lanière. les <operation temps=5.0min espace=17>faires blanchir 5 min à l’ eau bouilante</operation> salée. <operation temps=6.86min espace=17>faire dorer le lard</operation> coupé en lardons dans une <recipient>cocotte</recipient> avec le <ingredient quantite=1>saindoux</ingredient> à feu vif. les retirer et mettre à la place le <ingredient quantite=1>poulet</ingredient> et le <ingredient quantite=1>boeuf</ingredient> coupés en morceaux. les <operation temps=6.86min espace=17>faire dorer de toutes parts</operation>. retirer lees morceaux de <ingredient quantite=1>poulet</ingredient> et les garder au chaud avec les lardons. mettre l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>chou</ingredient> dans la <recipient>cocotte</recipient>, <operation temps=20.0min espace=17>laisser revenir 20 min en</operation> remuant puis remettre les lardons et le <ingredient quantite=1>poulet</ingredient>. ajouter l’ <ingredient quantite=1>ail</ingredient> écrasé, le <ingredient quantite=1>poivron</ingredient> épépiné, le <ingredient quantite=1>laurier</ingredient> et le <ingredient quantite=1>bouillon</ingredient>. saler, poivrer et <operation temps=6.86min espace=17>laisser mijoter 1 h</operation>. ajouter alors le concentré de <ingredient quantite=1>tomate</ingredient> et le riz dans la <recipient>cocotte</recipient>, <operation temps=25.0min espace=17>laisser cuire encore 25 min jusqu’ à ce que le riz soit cuit</operation>. servir bien chaud.
+]]>
+ </preparation>
+</recette>

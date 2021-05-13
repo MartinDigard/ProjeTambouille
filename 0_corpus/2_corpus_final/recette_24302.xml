@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24302">
+ <titre>Poêlée de blettes à l’ ail</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de feuilles de blettes</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>2 gousse d’ ail</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>feuilles de blettes</ingredient> 15 minutes dans une <recipient>casserole</recipient> d’ eau bouillante salée. les égoutter soigneusement et bien enlever l’ excédent d’ eau puis les couper en lanières. chauffer l’ <ingredient quantite=4>huile</ingredient> dans une <recipient>poêle</recipient> à feu doux avec l’ <ingredient quantite=2>ail</ingredient>. ajouter les <ingredient quantite=1>feuilles de blettes</ingredient>. assaisonner et cuire 10 minutes en remuant de temps en temps.
+]]>
+ </preparation>
+</recette>

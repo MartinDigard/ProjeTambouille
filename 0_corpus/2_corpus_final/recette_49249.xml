@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49249">
+ <titre>Salade de pâtes au poulet et légumes d’ été</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tomate</p>
+ <p>1/3 ou 1/2 concombre (selon grosseur) </p>
+ <p>150 g de dés de volaille</p>
+ <p>1/2 poivron rouge</p>
+ <p>2 cuillères à soupe de petits pois</p>
+ <p>50 g cru de pâtes type "nouilles"</p>
+ <p>curry en poudre</p>
+ <p>sel, poivre</p>
+ <p>herbes à salade</p>
+ <p>1 cuillère à café d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=13>faire cuire les <ingredient quantite=1>nouilles</ingredient> environ 10 min (al dente</operation>). une fois les <ingredient quantite=1>pâtes</ingredient> cuites, les égoutter et les passer à l’ eau froide pour les refroidir. pendant ce temps, dans un <recipient>saladier</recipient>, couper les <ingredient quantite=1>tomates</ingredient>, le <ingredient quantite=1>concombre</ingredient>, et le <ingredient quantite=1>poivron</ingredient> en <ingredient quantite=1>dés</ingredient>. ajouter les <ingredient quantite=1>pâtes</ingredient> et les <ingredient quantite=2>petits pois</ingredient>. assaisonner de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, et <ingredient quantite=1>herbes</ingredient>, puis saupoudrer généreusement de <ingredient quantite=1>curry</ingredient>. enfin, ajouter l’ <ingredient quantite=1>huile</ingredient>, le <ingredient quantite=1>vinaigre</ingredient> et le <ingredient quantite=1>citron</ingredient>. mélanger et déguster. un repas simple et léger pour l’ été!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24604">
+ <titre>Gratin aubergine jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 aubergines</p>
+ <p>4 oignons</p>
+ <p>4 tomates</p>
+ <p>4 tranches de jambon</p>
+ <p>150 g de gruyère râpé</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez les <ingredient quantite=4>aubergines</ingredient> en</operation> <ingredient quantite=4>tranches</ingredient>, <operation temps=6.86min espace=13>saupoudrez de gros</operation> <ingredient quantite=1>sel</ingredient> et <operation temps=30.0min espace=13>laissez dégorger 30 minutes</operation>. <operation temps=6.86min espace=13>essuyez - les,</operation> puis <operation temps=6.86min espace=13>faites - les</operation> dorer dans une <recipient>poêle</recipient> avec de l’</operation> huile. emincez les <ingredient quantite=4>oignons</ingredient>, <operation temps=6.86min espace=13>faites - les dorer dans une autre <recipient>poêle</recipient> huilée</operation>. <operation temps=6.86min espace=13>pelez les <ingredient quantite=4>tomates</ingredient> après les avoir</operation> ébouillantées. <operation temps=6.86min espace=13>coupez - les en deux</operation> et <operation temps=6.86min espace=13>faites - les</operation> <operation temps=6.86min espace=13>revenir à feu</operation> vif 2 minutes sur chaque face. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, <operation temps=6.86min espace=13>alternez des couches d’ <ingredient quantite=4>aubergines</ingredient>, d’ <ingredient quantite=4>oignons</ingredient>, de <ingredient quantite=4>tomates</ingredient> et de <ingredient quantite=4>jambon</ingredient></operation>. <operation temps=0.25min espace=13>salez</operation>, <operation temps=0.5min espace=13>poivrez</operation>. saupoudrez de <ingredient quantite=1>gruyère râpé</ingredient> et <operation temps=40.0min espace=13>faites gratiner 40 minutes au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

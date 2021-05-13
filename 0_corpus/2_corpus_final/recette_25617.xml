@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25617">
+ <titre>Escalopes de dinde aux radis noirs et au porto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 escalopes de dinde</p>
+ <p>100 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>900 g de radis noirs</p>
+ <p>30 cl de porto rouge</p>
+ <p>1/2 citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=1>radis</ingredient> et les détailler en rondelles, puis les <operation temps=6.86min espace=10>faire revenir dans une <recipient>sauteuse</recipient> beurrée avec 75 g de beurre</operation>. <operation temps=5.0min espace=10>laisser revenir 5 min</operation> puis mouiller les <ingredient quantite=1>radis</ingredient> avec le <ingredient quantite=1>porto</ingredient> et le jus de <ingredient quantite=1>citron</ingredient>. <operation temps=10.0min espace=10>laisser mijoter 10 min jusqu’ à ce que le jus de cuisson</operation> prenne la consistance d’ un sirop. dans une <recipient>poêle</recipient>, faire revenir les <ingredient quantite=6>escalopes</ingredient> de dinde avec 25 g de beurre et 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ olive pendant 5 min de chaque côté. saler, poivrer puis dresser les <ingredient quantite=6>escalopes</ingredient> sur un <recipient>plat</recipient> de service chaud et les entourer de <ingredient quantite=1>radis noirs</ingredient> nappés de sirop.
+]]>
+ </preparation>
+</recette>

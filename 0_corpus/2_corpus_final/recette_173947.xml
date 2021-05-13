@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173947">
+ <titre>Milk-shake chocolat blanc-pistache</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tablette de chocolat blanc pâtissier</p>
+ <p>1 grosse noisette de beurre</p>
+ <p>20 cl de crème liquide (15% de matière grasse) </p>
+ <p>1 pot de glace à la pistache</p>
+ <p>8 pistaches</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réservez un carré de <ingredient quantite=1>chocolat blanc</ingredient> au frais et <operation temps=6.86min espace=8>mettez le reste à</operation> fondre au <recipient>bain - marie</recipient> avec la <ingredient quantite=1>crème</ingredient>. remuez régulièrement et <operation temps=6.86min espace=8>ajoutez le <ingredient quantite=1>beurre</ingredient> une fois le <ingredient quantite=1>chocolat</ingredient> fondu</operation>. <operation temps=20.0min espace=8>laissez refroidir</operation>. a l’ aide d’ un <recipient>mortier</recipient>, écrasez les <ingredient quantite=1>pistaches</ingredient> en petits morceaux. ensuite, à l’ aide d’ un économe, faites des copeaux du carré de <ingredient quantite=1>chocolat blanc</ingredient> que vous <operation temps=6.86min espace=8>aviez</operation> <operation temps=6.86min espace=8>mis au frais</operation>. <operation temps=6.86min espace=8>mettez de côtés les <ingredient quantite=1>pistaches</ingredient> et les copeaux de <ingredient quantite=1>chocolat</ingredient> au frais</operation>. juste avant de <operation temps=2.0min espace=8>servir</operation>, versez le <ingredient quantite=1>chocolat blanc liquide</ingredient> puis la <ingredient quantite=1>glace à la pistache</ingredient> dans un <recipient>mixeur</recipient>. <operation temps=6.86min espace=8>mixez le tout</operation>. versez dans une coupe ou dans un verre, parsemez des morceaux de <ingredient quantite=1>pistaches</ingredient> et des copeaux de <ingredient quantite=1>chocolat blanc</ingredient>. bonne dégustation!
+]]>
+ </preparation>
+</recette>

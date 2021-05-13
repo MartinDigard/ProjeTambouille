@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90571">
+ <titre>Glace au caramel au beurre salé facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de sucre</p>
+ <p>un peu d’ eau</p>
+ <p>30 g de beurre salé</p>
+ <p>380 ml de lait concentré (1 grande boîte) </p>
+ <p>600 ml de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire un caramel brun avec le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>eau</ingredient></operation>. hors du feu, ajouter le beurre et bien remuer. verser la moitié du lait <ingredient quantite=1>concentré</ingredient>, et remuer jusqu’ à ce que le caramel soit bien dissous. verser le reste de lait <ingredient quantite=1>concentré</ingredient> et le lait. lorsque le mélange est homogène, <operation temps=6.86min espace=6>laisser refroidir,</operation> puis placer au frais. verser dans la <recipient>sorbetière</recipient> ou la turbine à glace lorsque l’ appareil est bien froid.
+]]>
+ </preparation>
+</recette>

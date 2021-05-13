@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53805">
+ <titre>Tarte au citron à la faisselle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>200 g de faisselle</p>
+ <p>2 citrons</p>
+ <p>60 g de sucre</p>
+ <p>1 oeuf entier</p>
+ <p>2 jaunes d’ oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>etalez la pâte <ingredient quantite=1>sablée</ingredient> dans le <recipient>moule</recipient>, piquez - la</operation> et <operation temps=6.86min espace=9>faites - la</operation> cuire à blanc, à 180 ° c (th 6) pendant 20 à 25 min. <operation temps=6.86min espace=9>préparez l’ appareil, en</operation> fouettant au <recipient>bain - marie</recipient> le jus des 2 <ingredient quantite=2>citrons</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient>, les 2 <ingredient quantite=2>jaunes</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=5.0min espace=9>fouettez</operation> jusqu’ à ce que le mélange soit mousseux et tienne en pointe à l’ extrémité du fouet. sans fouet électrique, j’ ai failli attraper une crampe à force de fouetter, mais le résultat vaut le coup! <operation temps=6.86min espace=9>laissez refroidir l’ appareil</operation> et <operation temps=6.86min espace=9>incorporez la</operation> <ingredient quantite=1><operation temps=6.86min espace=9><recipient>faisselle</recipient></ingredient> égoutée</operation>. garnissez le fond de pâte cuit et <operation temps=6.86min espace=9>réservez au froid quelques heures</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30654">
+ <titre>Carottes au beurre moutardé</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de carottes</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>40 g de beurre</p>
+ <p>2 cuillères à soupe de moutarde forte</p>
+ <p>1 cuillère à soupe de ciboulette ciselée</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+gratter, peler et détailler les <ingredient quantite=1>carottes</ingredient> en rondelles, puis les disposer dans une grande <recipient>casserole</recipient>. les <operation temps=2.0min espace=8>couvrir d’ eau</operation> froide à hauteur, saler, sucrer puis <operation temps=30.0min espace=8>laisser cuire 20 à 30 min jusqu’ à ce que l’ eau soit totalement</operation> évaporée. egoutter et essuyer les <ingredient quantite=1>carottes</ingredient> à l’ aide de papier absorbant. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=8>faire chauffer la <ingredient quantite=2>moutarde</ingredient> avec le beurre en</operation> remuant, puis incorporer les <ingredient quantite=1>carottes</ingredient> et bien mélanger le tout. saupoudrer de <ingredient quantite=1>ciboulette</ingredient> hachée et réserver au chaud jusqu’ à la dégustation. idéales pour accompagner des viandes grillées ou du poisson à chair blanche.
+]]>
+ </preparation>
+</recette>

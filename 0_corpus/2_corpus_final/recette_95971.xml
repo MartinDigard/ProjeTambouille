@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95971">
+ <titre>Tarte chèvre poireaux</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de poireaux congelés en rondelles</p>
+ <p>2 cuillères à soupe d’ huile de colza</p>
+ <p>1 pâte feuilletée prêtes à étaler</p>
+ <p>100g d’ olives dénoyautées</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>2 crottins de Chavignol</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1. <operation temps=6.86min espace=10>faire revenire</operation> = les poireaux dans un <recipient>casserole</recipient> avec l’ <ingredient quantite=2>huile de colza</ingredient> jusqu’ à ce qu’ ils soient dorés. assaisonner.2. <ingredient quantite=1>étaler</ingredient> la <ingredient quantite=1>pâte</ingredient> dans le <recipient>moule</recipient>.3. mixer les <ingredient quantite=1>olives</ingredient> avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. etaler cette <ingredient quantite=1>pâte</ingredient> sur le fond de la tarte. ajouter les poireaux.4. couper les crotin de <ingredient quantite=1>chavignol</ingredient> en <ingredient quantite=1>rondelles</ingredient> et disposer sur les poireaux.5. passer au <recipient>four</recipient> à 210 ° c pedant 25 mnservez tiède et <operation temps=6.86min espace=10>régalez vous!!!</operation>!
+]]>
+ </preparation>
+</recette>

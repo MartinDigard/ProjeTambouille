@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26506">
+ <titre>Crêpes farcies aux oignons fondus</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à crêpes: </p>
+ <p>100 g de farine de sarrasin</p>
+ <p>25 cl de lait froid</p>
+ <p>2 œufs battus</p>
+ <p>une pincée de sel</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>Pour la garniture: </p>
+ <p>300 g d’ oignons</p>
+ <p>1 grosse noix de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer d’ abord la <ingredient quantite=1>pâte à crêpes</ingredient>: dans un <recipient>saladier</recipient>, verser la farine de <ingredient quantite=1>sarrasin</ingredient>, puis former une fontaine. battre les <ingredient quantite=2>œufs</ingredient> en omelette avec une <ingredient quantite=1>pincée de sel</ingredient> et une <ingredient quantite=1>cuillère à soupe</ingredient> d’ huile, puis les incorporer dans la fontaine et remuer à l’ aide d’ un fouet. verser ensuite le lait <ingredient quantite=1>froid</ingredient>, puis continuer de remuer jusqu’ à l’ obtention d’ une <ingredient quantite=1>pâte</ingredient> fluide et parfaitement lisse. <operation temps=6.86min espace=12>laisser reposer 1h</operation>. pendant ce temps, peler et <ingredient quantite=1>hacher</ingredient> les <ingredient quantite=1>oignons</ingredient>, puis les <operation temps=6.86min espace=12>faire revenir sur feu très doux dans un mélange de <ingredient quantite=1>beurre</ingredient> et d’ <ingredient quantite=1>huile</ingredient></operation>. <operation temps=6.86min espace=12>laisser colorer</operation> et réserver. <operation temps=6.86min espace=12>faire cuire les crêpes de chaque côté, puis les</operation> fourrer d’ <ingredient quantite=1>oignons</ingredient> fondus et saupoudrer de <ingredient quantite=1>persil haché</ingredient>. saler, poivrer, replier les crêpes et déguster. vous pouvez aussi ajouter des lardons et du fromage.
+]]>
+ </preparation>
+</recette>

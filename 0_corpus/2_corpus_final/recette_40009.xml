@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40009">
+ <titre>Mille feuille d’ aubergines à la viande des grisons et cancoillotte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse aubergine (environ 400 g) </p>
+ <p>4 tranches de viande des grisons (pastami, bresaola ou bacon) </p>
+ <p>cancoillotte</p>
+ <p>basilic</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver l’ <ingredient quantite=1>aubergine</ingredient>, et la couper, dans le sens de la longueur, en 6 belles <ingredient quantite=4>tranches</ingredient>. tartiner d’ huile d’ <ingredient quantite=1>olive</ingredient> et de <ingredient quantite=1>basilic</ingredient>, et <operation temps=20.0min espace=6>faire griller au <recipient>four</recipient> environ 15 à 20 min</operation>. quand les <ingredient quantite=1>aubergines</ingredient> sont bien grillées et tendres, égoutter, puis monter le mille - feuille: déposer une <ingredient quantite=1>tranche</ingredient> d’ <ingredient quantite=1>aubergine</ingredient>, tartiner de <ingredient quantite=1>cancoillotte</ingredient>, ajouter une <ingredient quantite=4>tranche de viande des grisons</ingredient> coupée en 2, puis <operation temps=6.86min espace=6>recouvrir d’ une <ingredient quantite=1>tranche</ingredient> d’ <ingredient quantite=1>aubergine</ingredient></operation>. la tartiner de <ingredient quantite=1>cancoillotte</ingredient>, puis déposer une 2ème <ingredient quantite=4>tranche de viande</ingredient> coupée en 2. et enfin, terminer par une 3ème <ingredient quantite=1>tranche</ingredient> d’ <ingredient quantite=1>aubergine</ingredient>. <operation temps=6.86min espace=6>servir avec une salade verte aux noix</operation>.
+]]>
+ </preparation>
+</recette>

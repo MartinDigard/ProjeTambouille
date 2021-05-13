@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28658">
+ <titre>Pot-au-feu du Vénézuéla</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet en morceaux</p>
+ <p>1 kg de jarret de veau</p>
+ <p>500 g de carottes</p>
+ <p>6 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 kg de bananes vertes</p>
+ <p>500 g de pommes de terre</p>
+ <p>500 g de céleri-rave</p>
+ <p>500 g de potiron</p>
+ <p>500 g de tomates pelées (1 grosse boîte, si l’ on préfère) </p>
+ <p>2 petits piments forts</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>50 cl de bouillon</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire dans une <recipient>marmite</recipient>, le <ingredient quantite=1>poulet</ingredient>, le <ingredient quantite=1>jarret de veau</ingredient>, les <ingredient quantite=1>carottes</ingredient>, 3 <ingredient quantite=6>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> pendant 30 min. assaisonner et incorporer les <ingredient quantite=1>bananes</ingredient> et les choux caraïbes. <operation temps=20.0min espace=16>laisser mijoter 20 min</operation>. ajouter les <ingredient quantite=1>pommes de terre</ingredient> puis, après 15 min de cuisson, le <ingredient quantite=1>potiron</ingredient> en <ingredient quantite=1>morceaux</ingredient>. <operation temps=15.0min espace=16>finir la cuisson pendant 15 min</operation>. <operation temps=6.86min espace=16>faire une fondue d’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>poêle</recipient> avec le reste d’ <ingredient quantite=6>oignons</ingredient></operation> ciselés et un peu d’ <ingredient quantite=2>huile</ingredient>. incorporer les <ingredient quantite=1>tomates</ingredient> mondées et découpées, et les <ingredient quantite=2>piments</ingredient>. <operation temps=6.86min espace=16>laisser mijoter quelques instants à feu doux</operation>. verser le <ingredient quantite=1>bouillon</ingredient> et <operation temps=10.0min espace=16>laisser réduire 10 min</operation>. <operation temps=6.86min espace=16>servir la viande avec les légumes, et la sauce à part</operation>.
+]]>
+ </preparation>
+</recette>

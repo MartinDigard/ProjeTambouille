@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22282">
+ <titre>Cuisses de grenouilles pochées, sauce au vin blanc</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 cuisses de grenouilles</p>
+ <p>35 cl de vin blanc sec</p>
+ <p>1 échalote</p>
+ <p>1 petit bouquet garni </p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>le jus d’ 1/2 citron</p>
+ <p>15 g de beurre</p>
+ <p>20 g de farine</p>
+ <p>du persil haché</p>
+ <p>5 cl de crème</p>
+ <p>sel, poivre et noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites fondre les <ingredient quantite=1>échalotes hachées</ingredient> dans le <ingredient quantite=1>vin blanc</ingredient>. ajoutez le <ingredient quantite=1>bouquet garni</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et <operation temps=20.0min espace=11>portez à ébullition</operation>. pochez - y les <ingredient quantite=1>cuisses de grenouille</ingredient> 10 minutes, elles doivent se rétracter. puis <operation temps=4.0min espace=11>égouttez - les</operation>. <operation temps=6.86min espace=11>mélangez la farine au beurre fondu sur feu doux jusqu’ à coloration</operation> puis <operation temps=6.86min espace=11>versez le <ingredient quantite=1>vin</ingredient> de cuisson sans</operation> cesser de remuer. <operation temps=10.0min espace=11>laissez cuire 10 minutes</operation>. <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient> puis les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeuf</ingredient> et la <ingredient quantite=1>crème</ingredient></operation>. rectifiez l’ assaisonnement et <operation temps=6.86min espace=11>parfumez de <ingredient quantite=1>muscade</ingredient></operation>. remettez les <ingredient quantite=1>cuisses de grenouilles</ingredient> dans la sauce pour les réchauffer et saupoudrez de <ingredient quantite=1>persil haché</ingredient>.
+]]>
+ </preparation>
+</recette>

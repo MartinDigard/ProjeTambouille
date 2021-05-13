@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67289">
+ <titre>Tiramisu au café turc et aux petits suisses</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de boudoirs</p>
+ <p>8 petits suisses sucrés</p>
+ <p>30 cl de café turc à la cardamome</p>
+ <p>4 cuillères à soupe de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparez le <ingredient quantite=1>café turc</ingredient>. trempez - y les <ingredient quantite=1>boudoirs</ingredient> un à un et <operation temps=6.86min espace=5>mettez les dans un <recipient>plat</recipient> en les alignant</operation>. recouvrez avec les <ingredient quantite=8>petits suisses sucrés</ingredient>, alternez une rangée de <ingredient quantite=1>boudoirs</ingredient> et une rangée de <ingredient quantite=8>petits suisses</ingredient>. finissez en saupoudrant de <ingredient quantite=4>cacao</ingredient>. idéal pour les femmes enceintes qui n’ ont pas droit aux oeufs crus qu’ on trouve dans la recette classique du tiramisu!
+]]>
+ </preparation>
+</recette>

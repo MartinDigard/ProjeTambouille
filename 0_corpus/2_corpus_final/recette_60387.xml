@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60387">
+ <titre>Pain perdu à la confiture de fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 cl de jus d’ orange</p>
+ <p>100 g de confiture de fruits rouges</p>
+ <p>2 pincées de cannelle</p>
+ <p>2 oeufs</p>
+ <p>15 cl de lait</p>
+ <p>1/2 sachet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>8 tranches de stollen</p>
+ <p>20 g de beurre</p>
+ <p>glace à la vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>jus</ingredient> d’ orange avec la <ingredient quantite=1>confiture</ingredient> et la <ingredient quantite=2>cannelle</ingredient> dans une <recipient>casserole</recipient>. chauffer 3 - 4 minutes jusqu’ à ébullition, <operation temps=45.0min espace=12>laisser reposer</operation>. battre les <ingredient quantite=2>oeufs</ingredient> avec le lait, le <ingredient quantite=1>sucre</ingredient> vanillé et le <ingredient quantite=1>sel</ingredient>. y tremper les <ingredient quantite=8>tranches de stollen</ingredient> en les imbibant bien. <operation temps=4.0min espace=12>faire dorer les <ingredient quantite=8>tranches</ingredient> 3 - 4 min de chaque côté dans le beurre à la <recipient>poêle</recipient></operation>. egoutter sur du papier absorbant. les déposer sur les assiettes et garnir de sauce aux <ingredient quantite=1>fruits rouges</ingredient> et de <ingredient quantite=1>glace à la vanille</ingredient>. le <ingredient quantite=8>stollen</ingredient> est une bricohe alsacienne aux <ingredient quantite=1>fruits</ingredient> secs. mais la recette convient aussi à une simple brioche aux raisins du commerce.
+]]>
+ </preparation>
+</recette>

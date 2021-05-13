@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32059">
+ <titre>Soupe au chou facile</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>1 oignon</p>
+ <p>6-7 feuilles de chou vert</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>pommes de terre</ingredient> en morceaux et les mettre a la <recipient>cocotte</recipient> minute avec l’ <ingredient quantite=1>oignon</ingredient>, <operation temps=6.86min espace=5>recouvrir d’ eau (environ 1, 5 l d’ eau) saler</operation> et <operation temps=10.0min espace=5>faire cuire 10 mn après que la soupape tourne</operation>. pendant ce temps, laver les <ingredient quantite=10>feuilles de chou</ingredient>, les superposer dans le même sens pour former un seul tas, puis les couper en fines lanières. les reserver. quand les <ingredient quantite=1>pommes de terre</ingredient> sont cuites, les mouliner avec l’ eau de cuisson et l’ <ingredient quantite=1>oignon</ingredient> pour <operation temps=6.86min espace=5>obtenir un potage sans morceaux</operation>. remettre le potage dans la <recipient>cocotte</recipient> et ajouter les lanières de <ingredient quantite=10>chou</ingredient>, puis <operation temps=6.86min espace=5>laisser cuire environ 10</operation> mn. servir chaud. on peut aussi mettre avec le <ingredient quantite=10>chou</ingredient> un saucisson fumé coupé en rondelle ou des lardons fumés.
+]]>
+ </preparation>
+</recette>

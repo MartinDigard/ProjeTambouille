@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55121">
+ <titre>Fondant 3 chocolats au micro-ondes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de chocolat noir</p>
+ <p>50 g de chocolat au lait</p>
+ <p>50 g de chocolat blanc</p>
+ <p>3 x 40 g de beurre (120 g en tout) </p>
+ <p>3 oeufs</p>
+ <p>3 x 25 g de farine (75 g en tout) </p>
+ <p>3 x 50 g de sucre (150 g en tout) </p>
+ <p>3 pincées de levure</p>
+ <p>3 cuillères à café d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+il vous faut 3 récipients allant au micro ondes (grands bols). faire fondre le <ingredient quantite=1>chocolat noir</ingredient> avec 40 g de beurre au micro ondes. faire de même pour le <ingredient quantite=1>chocolat au lait</ingredient> et le <ingredient quantite=1>chocolat blanc</ingredient>. ajouter un <ingredient quantite=1>oeuf</ingredient> dans chaque préparation au <ingredient quantite=1>chocolat</ingredient>, ajouter ensuite le <ingredient quantite=1>sucre</ingredient>, la farine, la <ingredient quantite=3>levure</ingredient> et l’ <ingredient quantite=3>eau</ingredient>. utiliser un <recipient>plat</recipient> de cuisson allant au micro ondes. mettre la préparation au <ingredient quantite=1>chocolat noir</ingredient>, puis celle au <ingredient quantite=1>chocolat blanc</ingredient> et enfin celle au <ingredient quantite=1>chocolat au lait</ingredient>. je place souvent un carré de chaque <ingredient quantite=1>chocolat</ingredient> sur la pâte non cuite pour qu’ ils fondent sur le dessus. <operation temps=5.0min espace=10>faire cuire ensuite 5 min au micro-ondes (puissance 800</operation> w environ).
+]]>
+ </preparation>
+</recette>

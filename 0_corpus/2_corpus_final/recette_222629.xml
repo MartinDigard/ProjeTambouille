@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222629">
+ <titre>Hachis parmentier (pommes de terre, boeuf, carotte, lardons) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 et 700 g de bœuf haché</p>
+ <p>1 kg de pommes de terre (à purée) </p>
+ <p>3 carottes</p>
+ <p>2 tomates entières pelées </p>
+ <p>2 oignons</p>
+ <p>1 échalote</p>
+ <p>150 g de lardons fumés</p>
+ <p>2 cuillères à soupe de crème fraîche épaisse</p>
+ <p>30 g de beurre</p>
+ <p>100 à 150 g de comté râpé (selon les goûts) </p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>noix de muscade</p>
+ <p>persil</p>
+ <p>ciboulette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>pommes de terre</ingredient> et les couper en 4. <operation temps=20.0min espace=18>faire cuire environ 20 min dans de l’ eau bouillante (la pointe d’ un couteau</operation> doit rentrer sans résistance). émincer les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et les <ingredient quantite=3>carottes</ingredient> très finement. <operation temps=2.0min espace=18>faire revenir les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> dans de l’ huile d’ olive pendant 2 minutes</operation> puis ajouter les <ingredient quantite=3>carottes</ingredient> et les <ingredient quantite=1>lardons</ingredient> et <operation temps=2.0min espace=18>laisser encore 2 min (les <ingredient quantite=1>lardons</ingredient></operation> doivent être cuits). saler, poivrer et ajouter le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient>. ajouter la viande <ingredient quantite=1>haché</ingredient>. <operation temps=7.0min espace=18>laisser cuire 6 - 7 minutes à feu moyen</operation> puis ajouter les <ingredient quantite=2>tomates</ingredient> coupées en dés. <operation temps=6.86min espace=18>laisser mijoter 2 - 3 min, la viande</operation> doit être cuite mais pas trop sèche. égoutter les <ingredient quantite=1>pommes de terre</ingredient> et les écraser à la fourchette avec le beurre, la <ingredient quantite=2>crème fraîche</ingredient>, la <ingredient quantite=1>noix de muscade</ingredient>, le <ingredient quantite=1>persil</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. saler et poivrer. la purée doit être onctueuse mais avec des morceaux. (<operation temps=6.86min espace=18>pensez à bien</operation> enlever les feuilles de <ingredient quantite=1>laurier</ingredient>). dans un récipient à part, mélanger un peu de viande et de purée (2 <ingredient quantite=2>cuillères à soupe</ingredient> de chaque). dans un <recipient>plat</recipient> à gratin légèrement beurré, déposer la viande. <operation temps=6.86min espace=18>couvrir ensuite du mélange purée - viande pour une couche intermédiaire</operation> et <operation temps=6.86min espace=18>recouvrir entièrement de purée</operation>. parsemer de <ingredient quantite=1>comté</ingredient> râpé. enfourner à 200 ° c entre 20 et 30 min (le fromage doit se gratiner). <operation temps=6.86min espace=18>servir sur un lit de mâche</operation>. vin rouge
+]]>
+ </preparation>
+</recette>

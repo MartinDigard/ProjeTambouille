@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27459">
+ <titre>Poule au blanc (Poule au pot à la normande) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poule ficelée (plutôt vieille de préférence) </p>
+ <p>3 navets</p>
+ <p>5 poireaux</p>
+ <p>2 gros oignons</p>
+ <p>1/2 céleri rave (du céleri en branche peut aussi convenir) </p>
+ <p>1 kg de carottes</p>
+ <p>persil</p>
+ <p>1 gros pot de crème fraîche épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher tous les légumes, et <ingredient quantite=1>ficeler</ingredient> les <ingredient quantite=5>poireaux</ingredient> en botte en mettant quelques branches de <ingredient quantite=1>persil</ingredient> au milieu. mettre la poule à cuire dans une grande <recipient>marmite</recipient> remplie d’ eau, ajouter du <ingredient quantite=2>gros</ingredient> sel et du poivre. mettre aussi les <ingredient quantite=2>oignons</ingredient>, les <ingredient quantite=5>poireaux</ingredient> et le <ingredient quantite=1>céleri</ingredient>. <operation temps=0.25min espace=10>couvrir</operation> et mettre sur le feu. quand l’ eau bout, ajouter les <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=3>navets</ingredient>. <operation temps=6.86min espace=10>laisser cuire encore une heure à une heure et demie, jusqu’ à ce que tous les légumes et la poule soient bien cuits</operation>. mettre la <ingredient quantite=1>crème</ingredient> dans une <recipient>casserole</recipient> et la <operation temps=6.86min espace=10>faire chauffer jusqu’ à ce qu’ elle</operation> devienne complétement liquide. servir le tout avec le <ingredient quantite=1>crème fraîche</ingredient> en sauce. cette recette peut être accompagnée de riz si vos convives n’ aiment pas trop les légumes.
+]]>
+ </preparation>
+</recette>

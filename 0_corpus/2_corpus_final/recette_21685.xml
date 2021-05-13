@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21685">
+ <titre>Pizza blanche</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>125 g de mozzarella </p>
+ <p>150 g de chèvre</p>
+ <p>100 g de gruyère</p>
+ <p>2 cuillères à soupe de parmesan </p>
+ <p>basilic frais</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+étaler la pâte à <ingredient quantite=1>pizza</ingredient>. disposer des petits morceaux de fromages de votre choix. cuire à <recipient>four</recipient> chaud pendant 20/25 min. au <operation temps=3.0min espace=9>sortir du <recipient>four</recipient></operation>, disposer les feuilles de <ingredient quantite=1>basilic</ingredient> et le filet d’ <ingredient quantite=1>huile</ingredient> et <operation temps=5.0min espace=9>dégustez</operation>... les fromages utilisés lors de mon 1er essai: gorgonzola, <ingredient quantite=1>chèvre</ingredient>, mozzarella, <ingredient quantite=2>parmesan</ingredient> râpé et <ingredient quantite=1>gruyère</ingredient> râpé. c’ est divin!
+]]>
+ </preparation>
+</recette>

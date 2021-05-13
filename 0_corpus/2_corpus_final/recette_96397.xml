@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96397">
+ <titre>Médaillons de sole à la bisque de homard</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>5 ou 6 médaillons de soles </p>
+ <p>1 boite de bisque de homard</p>
+ <p>2 cuillères à soupe de concentré de tomate</p>
+ <p>20 cl de vin blanc</p>
+ <p>5 cl de cognac</p>
+ <p>1 cuillère à soupe d’ huile </p>
+ <p>de curry</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir les medaillons de <ingredient quantite=5>soles</ingredient> dans un peu d’ huile</operation>, <operation temps=0.25min espace=9>salez</operation> <operation temps=6.86min espace=9>poivez</operation>. quand le poisson est presque cuit flambée avec l’ acool. ajouter la <ingredient quantite=1>bisque de homard</ingredient>, le <ingredient quantite=2>concentré de tomate</ingredient> diluée dans le <ingredient quantite=1>vin blanc</ingredient> et un peu de <ingredient quantite=1>curry</ingredient>. <operation temps=6.86min espace=9>laisser mijoter a</operation> feu fort environ 15mintes puis a feu doux environ 15minutess’ accompagne très bien avec du riz un <ingredient quantite=1>vin blanc</ingredient> sec
+]]>
+ </preparation>
+</recette>

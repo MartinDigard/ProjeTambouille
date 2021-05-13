@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12470">
+ <titre>Tourte à la farine de chataignes et au brocciu</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>600 g de farine de châtaignes</p>
+ <p>400 g de brocciu frais</p>
+ <p>1 cuillerée à soupe d’ huile</p>
+ <p>eau </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine de <ingredient quantite=1>châtaignes</ingredient> avec le <ingredient quantite=1>sel</ingredient> et ajouter assez d’ <ingredient quantite=1>eau</ingredient> froide afin d’ <operation temps=6.86min espace=7>obtenir une pâte un peu plus épaisse qu’ une pâte à crêpes</operation>. arroser d’ un peu d’ huile, puis beurrer un <recipient><recipient>moule</recipient> à tarte</recipient> et verser la pâte dedans. la parsemer de morceaux de <ingredient quantite=1>brocciu</ingredient> et mettre à <recipient>four</recipient> chaud. servez tiède de préférence. muscat corse, bien sûr
+]]>
+ </preparation>
+</recette>

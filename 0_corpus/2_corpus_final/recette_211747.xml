@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211747">
+ <titre>Flan de quinoa aux épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>120 g de quinoa</p>
+ <p>200 g d’ épinards cuits</p>
+ <p>1 petit oignon</p>
+ <p>1 c. à soupe de farine</p>
+ <p>10 cl de crème</p>
+ <p>2 œufs</p>
+ <p>graines de sésame</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>persil frais</p>
+ <p>emmental râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=14>rincez le</operation> <ingredient quantite=1>quinoa</ingredient>, <operation temps=6.86min espace=14>égouttez - le</operation> et <operation temps=6.86min espace=14>mettez - le dans une <recipient>casserole</recipient> avec 2 fois son volume d’ eau froide</operation> salée. <operation temps=20.0min espace=14>portez à ébullition</operation> puis <operation temps=6.86min espace=14>baissez le feu</operation>, <operation temps=0.25min espace=14>couvrez</operation> et <operation temps=12.0min espace=14>laissez cuire 12 min environ</operation>. <operation temps=0.25min espace=14>retirez du feu</operation> et <operation temps=5.0min espace=14>laissez gonfler à couvert 5 min</operation>. <operation temps=6.86min espace=14>mélangez - le avec tous les ingrédients</operation>. <operation temps=6.86min espace=14>versez la préparation dans un <recipient>moule</recipient> à gratin</operation> et saupoudrez d’ <ingredient quantite=1>emmental râpé</ingredient>. <operation temps=20.0min espace=14>enfournez 20 min à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47441">
+ <titre>Le Veau Vert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de sauté de veau coupé en dés</p>
+ <p>4 échalotes grises</p>
+ <p>1 verre de bouillon de légumes</p>
+ <p>200 g d’ oseille</p>
+ <p>1 petite botte ou une poignée de toutes les herbes fraîches et printanières que vous trouverez: persil, cerfeuil, estragon, menthe, sauge, etc. </p>
+ <p>250 g de crème fraîche</p>
+ <p>beurre et huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir les dés de <ingredient quantite=1>veau</ingredient> et les <ingredient quantite=4>échalotes</ingredient></operation> émincées dans un mélange de beurre et d’ <ingredient quantite=1>huile</ingredient>. quand ils sont bien rissolés les saler. les mouiller avec le <ingredient quantite=1>verre de bouillon</ingredient>. <operation temps=0.25min espace=8>couvrir</operation> et <operation temps=55.0min espace=8>faire mijoter à feux doux 55 min</operation>. ajouter l’ oseille et les autres <ingredient quantite=1>herbes</ingredient> hachées mais non mixées, les <operation temps=6.86min espace=8>faire tomber sans trop les</operation> cuire pour ne pas atténuer leur goût délicat. ajouter la <ingredient quantite=1>crème fraîche</ingredient> et poivrer. donner un <ingredient quantite=1>bouillon</ingredient> avant de <operation temps=2.0min espace=8>servir</operation>. pour accentuer le côté <ingredient quantite=1>frais</ingredient> et vert de ce <ingredient quantite=1>veau printanier</ingredient>, il est agréable de l’ accompagner d’ épinards en branche.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12938">
+ <titre>Kougelhopf sucré (Alsace) </titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>75 g de sucre</p>
+ <p>10 g de sel</p>
+ <p>150 g de beurre ramolli</p>
+ <p>2 oeufs</p>
+ <p>20 cl de lait tiède (attention! pas chaud, sinon l’ action de la levure ne se fera pas) </p>
+ <p>25 g de levure de bière (fraîche) </p>
+ <p>75 g de raisins secs</p>
+ <p>40 g d’ amandes entières</p>
+ <p>du sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tremper les <ingredient quantite=1>raisins</ingredient> dans de l’ eau <ingredient quantite=1>tiède</ingredient> pour les <operation temps=6.86min espace=12>faire gonfler</operation>. mélanger la <ingredient quantite=1>levure</ingredient> à 10 cl de lait et un peu de farine pour en <operation temps=6.86min espace=12>faire une pâte à</operation> <operation temps=6.86min espace=12>laisser reposer jusqu’ à doublement de son volume</operation>. mélanger la farine restante, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=2>oeufs</ingredient> et les 10cl de lait restants. <operation temps=15.0min espace=12>pétrir pendant 15 mn pour bien</operation> aérer la pâte. ajouter le beurre <ingredient quantite=1>ramolli</ingredient> et bien mélanger. ajouter ensuite le levain, puis <operation temps=6.86min espace=12>pétrir quelques minutes jusqu’ à ce que la pâte se</operation> détache des bords du récipient. <operation temps=6.86min espace=12>couvrir d’ un linge</operation> et <operation temps=6.86min espace=12>laisser reposer pendant 1h dans un endroit</operation> tempéré (près d’ un radiateur par exemple). <operation temps=6.86min espace=12>faire reprendre à la pâte son volume initial en la tapotant</operation>. ajouter les <ingredient quantite=1>raisins</ingredient> et mélanger. bien beurrer le <recipient>moule</recipient> à kougelhopf jusque dans les cannelures. déposer une <ingredient quantite=1>amande</ingredient> dans chaque cannelure. y mettre la pâte et <operation temps=6.86min espace=12>laisser reposer jusqu’ à ce qu’ elle</operation> arrive au bord du <recipient>moule</recipient>. cuire 50 minutes à thermostat 7 (200 - 210 ° c). si la pâte se colore de trop, <operation temps=6.86min espace=12>couvrir d’ un papier</operation> sulfurisé. démouler sur une grille et saupoudrer généreusement de <ingredient quantite=1>sucre glace</ingredient>. un gewurztraminer ou un crémant d’ alsace
+]]>
+ </preparation>
+</recette>

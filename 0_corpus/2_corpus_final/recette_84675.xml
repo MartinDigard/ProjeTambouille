@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84675">
+ <titre>Endives au jambon sauce à l’ orange</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 endives</p>
+ <p>2 oranges</p>
+ <p>gruyère</p>
+ <p>8 tranches de jambon blanc</p>
+ <p>2 cuillères a café de Maïzena</p>
+ <p>40g de beurre</p>
+ <p>sel, poivre</p>
+ <p>12 cl de porto (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=8>endives</ingredient> et les <operation temps=20.0min espace=14>faire cuire 20 min dans de une <recipient>casserole</recipient> d’ eau bouillante</operation>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). les égoutter et les <operation temps=6.86min espace=14>faire revenir dans une <recipient>poêle</recipient> avec du beurre jusqu’ à ce qu’ elles soient bien</operation> dorées. enrouler chaque <ingredient quantite=1>endive</ingredient> dans une <ingredient quantite=8>tranche de jambon</ingredient>. les disposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. presser le jus des <ingredient quantite=2>oranges</ingredient> et mélanger avec la maïzena. mélanger et réchauffer quelques minutes le jus d’ <ingredient quantite=1>orange</ingredient> et le <ingredient quantite=1>porto</ingredient>. verser sur les <ingredient quantite=8>endives</ingredient>. parsemer de <ingredient quantite=1>gruyère</ingredient>. <operation temps=15.0min espace=14>faire cuire au <recipient>four</recipient> 15 min à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

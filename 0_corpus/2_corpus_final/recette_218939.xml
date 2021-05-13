@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218939">
+ <titre>Cake d’ automne léger</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 œufs</p>
+ <p>100 g de farine de blé complète (ou non) </p>
+ <p>150 g de farine de châtaigne</p>
+ <p>1 yaourt au lait entier</p>
+ <p>10 cl de lait</p>
+ <p>3 ou 4 belles cuillère à soupe de miel (selon les goûts) </p>
+ <p>1 grosse pomme ou 2 petites</p>
+ <p>1 bonne poignée de raisins secs</p>
+ <p>1 sachet de levure</p>
+ <p>1 sachet de sucre vanillé ou de l’ arôme vanille</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6). battre les <ingredient quantite=2>œufs</ingredient> puis mettre les farines, le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=1>levure</ingredient>, mélanger. ajouter le <ingredient quantite=1>yaourt</ingredient>, le <ingredient quantite=3>miel</ingredient> et la vanille, bien mélanger. verser le <ingredient quantite=1>lait</ingredient> afin d’ <operation temps=6.86min espace=14>obtenir une constance homogène</operation>. couper la <ingredient quantite=1>pomme</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux, les incorporer à l’ appareil ainsi que les <ingredient quantite=1>raisins secs</ingredient>. verser dans un <recipient>moule</recipient> à cake et <operation temps=40.0min espace=14>faire cuire 40 min à 200 ° c</operation>. c’ est une version légère que je <operation temps=6.86min espace=14>fais avec pas trop de <ingredient quantite=1>sucre</ingredient> (car je n’</operation> aime pas quand c’ est trop sucré) mais il est possible d’ y mettre une brique de crème. avec des poires c’ est <ingredient quantite=1>bon</ingredient> aussi. la cuisson dépend des <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

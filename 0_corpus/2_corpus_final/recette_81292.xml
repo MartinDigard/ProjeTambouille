@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81292">
+ <titre>Riz aux carottes et aux lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>180 g de riz</p>
+ <p>6 carottes</p>
+ <p>2 oignons moyens</p>
+ <p>150 g de lardons fumés coupés en tous petits morceaux (je prends les lardons "alumettes") </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=2>oignons</ingredient> et les hacher. les <operation temps=6.86min espace=6>faire revenir à la <recipient>sauteuse</recipient> dans un peu d’</operation> huile. pendant ce temps, éplucher les <ingredient quantite=6>carottes</ingredient> et les hacher (ou les <ingredient quantite=1>couper</ingredient> à la main en <ingredient quantite=1>tous petits</ingredient> dés, mais c’ est plus long). les ajouter aux <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=6>faire revenir un <ingredient quantite=1>petit</ingredient> moment</operation>. ajouter les <ingredient quantite=1>lardons</ingredient>. au bout de 5 minutes ajouter le <ingredient quantite=1>riz</ingredient>. mélanger 2 minutes puis ajouter de l’ eau. il en faut environ 3 fois le volume du <ingredient quantite=1>riz</ingredient>. généralement, je mesure le <ingredient quantite=1>riz</ingredient> dans un verre de cuisine (180 g représente environ un gros verre de cuisine) ce qui me permet de savoir facilement combien d’ eau verser. porter à ébullition puis <operation temps=20.0min espace=6>laisser cuire à couvert 15 à 20 minutes</operation>. s’ il reste de l’ eau en fin de cuisson, on peut <operation temps=6.86min espace=6>découvrir</operation> et tourner un peu pour <operation temps=6.86min espace=6>faire évaporer l’ eau</operation> restante. chez nous, c’ est devenu un repas du soir pas trop long à préparer et qui fait plaisir à tout le monde. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34408">
+ <titre>Gâteau au vin rouge</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>300 g de sucre</p>
+ <p>2 paquets de sucre vanillé</p>
+ <p>200 g de beurre</p>
+ <p>300 g de farine</p>
+ <p>1/2 cuillère à café de cannelle en poudre</p>
+ <p>1 cuillère à soupe de cacao non sucré</p>
+ <p>200 g de chocolat râpé</p>
+ <p>1/8 de litre de vin rouge</p>
+ <p>1 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=6>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sucre</ingredient> vanillé. ajouter la farine, le beurre fondu, la <ingredient quantite=1>cannelle</ingredient>, le <ingredient quantite=1>cacao</ingredient>, le <ingredient quantite=1>chocolat râpé</ingredient>, le <ingredient quantite=1>vin rouge</ingredient>. ajouter la <ingredient quantite=1>levure</ingredient>. cuire à 200 ° c environ 40 mn. pour utiliser vos fonds de bouteille... <operation temps=6.86min espace=10>choisissez de préférence un <ingredient quantite=1>vin</ingredient> assez tanique comme le cahors</operation>.
+]]>
+ </preparation>
+</recette>

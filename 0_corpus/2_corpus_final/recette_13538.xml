@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13538">
+ <titre>Poulet à la vanille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 escalopes de poulet</p>
+ <p>3 oignons</p>
+ <p>1 grande boîte de lait concentré non sucré</p>
+ <p>2 gousses de vanille</p>
+ <p>quelques figues</p>
+ <p>sel, poivre, beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+versez le <ingredient quantite=1>lait concentré</ingredient> dans une <ingredient quantite=1>grande</ingredient> jatte, et plongez - y les <ingredient quantite=2>gousses de vanille</ingredient> fendues en deux dans le sens de la longueur. <operation temps=6.86min espace=7>coupez les <ingredient quantite=5>escalopes</ingredient> en lanières,</operation> et <operation temps=6.86min espace=7>faites - les</operation> <operation temps=6.86min espace=7>revenir dans un peu de <ingredient quantite=1>beurre</ingredient> jusqu’ à les dorer</operation>. <operation temps=6.86min espace=7>versez la viande dans le <ingredient quantite=1>lait</ingredient></operation>. emincez les <ingredient quantite=3>oignons</ingredient> et <operation temps=6.86min espace=7>faites - les</operation> <operation temps=6.86min espace=7>revenir dans un peu de <ingredient quantite=1>beurre</ingredient> jusqu’ à ce qu’ ils soient</operation> translucides, et <operation temps=6.86min espace=7>mettez - les également dans la jatte</operation>. <operation temps=0.25min espace=7>salez</operation> raisonnablement. <operation temps=6.86min espace=7>rajoutez les <ingredient quantite=1>figues</ingredient>, et si vous</operation> <operation temps=6.86min espace=7>avez le temps</operation>, <operation temps=6.86min espace=7>laissez mariner une heure ou deux</operation>. sinon, <operation temps=6.86min espace=7>mettez le tout dans une <recipient>sauteuse</recipient>,</operation> et <operation temps=30.0min espace=7>faites cuire 20 à 30 mn</operation>. rectifiez l’ assaisonnement. <operation temps=6.86min espace=7>servez avec un riz thailandais ou basmati</operation>. un vin rouge pas trop fort (style côtes du rhône)
+]]>
+ </preparation>
+</recette>

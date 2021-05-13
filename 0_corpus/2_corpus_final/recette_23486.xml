@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23486">
+ <titre>Tartare de Daurade à la mexicaine</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filet de daurade</p>
+ <p>1 oignon</p>
+ <p>2 tomates</p>
+ <p>2 avocats</p>
+ <p>3 citrons verts</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 pincée de poivre Cayenne</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>détaillez le <ingredient quantite=1>filet</ingredient> de daurade en petits dés</operation> et <operation temps=6.86min espace=10>mettez - les dans un <recipient>plat</recipient> creux</operation>. <operation temps=6.86min espace=10>arrosez - les d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et du jus de deux <ingredient quantite=3>citrons</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez la pincée de piment et un peu de <ingredient quantite=1>poivre</ingredient></operation>. <operation temps=30.0min espace=10>laissez mariner au moins 30 mn au frais</operation>. <operation temps=6.86min espace=10>pelez les <ingredient quantite=2>tomates</ingredient> après les avoir</operation> ébouillanté 10 secondes. <operation temps=6.86min espace=10>pelez - les</operation>, <operation temps=6.86min espace=10>épépinez - les</operation> puis <operation temps=6.86min espace=10>coupez - les en dés</operation>. <operation temps=6.86min espace=10>egouttez - les soigneusement</operation>. <operation temps=3.0min espace=10>pelez les</operation> <ingredient quantite=2>avocats</ingredient>, <operation temps=6.86min espace=10>coupez - les en deux</operation> et <operation temps=6.86min espace=10>débitez la chair en tranches minces</operation>. <operation temps=6.86min espace=10>arrosez - les avec le jus du dernier <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=10>pelez et émincez l’ <ingredient quantite=1>oignon</ingredient></operation>. au moment de <operation temps=2.0min espace=10>servir</operation>, <operation temps=6.86min espace=10>mélangez les dés de <ingredient quantite=1>tomate</ingredient> avec le poisson mariné</operation>, <operation temps=6.86min espace=10>salez et disposez la préparation en dômes sur les assiettes</operation>. <operation temps=6.86min espace=10>décorez de tranches d’ <ingredient quantite=1>avocat</ingredient> en éventail et des demi-tranches d’ <ingredient quantite=1>oignon</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

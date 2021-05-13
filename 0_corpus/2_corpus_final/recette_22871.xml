@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22871">
+ <titre>Quatre-quarts à la poire</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>5 poires</p>
+ <p>3 oeufs moyens (180 g au total sans les coquilles) </p>
+ <p>180 g de beurre mou</p>
+ <p>180 g de farine</p>
+ <p>180 g de sucre semoule</p>
+ <p>5 g de levure chimique</p>
+ <p>1/2 cuillerée à café de cannelle</p>
+ <p>2 cuillerées à soupe d’ alcool de poires</p>
+ <p>3 cuillères à soupe de cassonade pour caraméliser</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+travailler le <ingredient quantite=1>beurre</ingredient> avec le <ingredient quantite=1>sucre semoule</ingredient> en fouettant bien jusqu’ à obtention d’ une belle matière blanche. ajouter les <ingredient quantite=3>oeufs</ingredient> un à un en fouettant, puis la farine tamisée et la <ingredient quantite=1>levure chimique</ingredient>. parfumer avec la <ingredient quantite=1>cannelle</ingredient> et l’ <ingredient quantite=5>alcool de poires</ingredient>, verser dans un <recipient>moule</recipient> rond beurré. peler, couper les <ingredient quantite=5>poires</ingredient> en 2 et les épépiner. les disposer sur la pâte côté bombé vers le haut, saupoudrer de <ingredient quantite=3>cassonade</ingredient>. <operation temps=50.0min espace=11>faire cuire le gâteau 50 min au <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). <operation temps=6.86min espace=11>pesez les</operation> <ingredient quantite=3>oeufs</ingredient> et <operation temps=6.86min espace=11>ajustez les poids de farine, beurre et <ingredient quantite=1>sucre</ingredient> en fonction de leur poids</operation>. vous pouvez remplacer l’ alccol de <ingredient quantite=1>poire</ingredient> par du rhum ou un autre <ingredient quantite=2>alcool</ingredient>, et utiliser des fruits en conserve.
+]]>
+ </preparation>
+</recette>

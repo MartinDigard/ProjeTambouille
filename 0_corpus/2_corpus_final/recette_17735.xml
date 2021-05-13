@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17735">
+ <titre>Flan de courgettes au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de courgettes</p>
+ <p>10 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>15 g de farine</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>sel poivre</p>
+ <p>dés de jambon ou lardons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>courgettes</ingredient> 15 min à la vapeur. passer les <ingredient quantite=1>dés de jambon</ingredient> ou les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient> afin d’ en <operation temps=6.86min espace=11>faire évaporer l’ eau</operation>. réduire les <ingredient quantite=1>courgettes</ingredient> en purée. incorporer les <ingredient quantite=2>oeufs</ingredient>, la farine, la <ingredient quantite=2>crème</ingredient> et le <ingredient quantite=1>jambon</ingredient> (ou <ingredient quantite=1>lardons</ingredient>). assaisonner et <operation temps=6.86min espace=11>remplir le <recipient>moule</recipient> de cette farce</operation>. placer au <recipient>four</recipient>, au <recipient>bain - marie</recipient>, à 210 ° c (thermostat 7) et cuire 30 min. démouler et <operation temps=2.0min espace=11>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

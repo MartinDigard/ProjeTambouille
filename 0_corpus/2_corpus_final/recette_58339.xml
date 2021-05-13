@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58339">
+ <titre>Blancs de poulet au poivron rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 filets de poulet</p>
+ <p>1 poivron rouge</p>
+ <p>1/2 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 feuille de laurier</p>
+ <p>1 cuillerée à soupe de sauce soja</p>
+ <p>1 cuillérée à café de paprika</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé et les <ingredient quantite=1>poivrons</ingredient> coupés en carrés dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> ; ajouter les blancs de <ingredient quantite=2>poulet</ingredient> coupés en carrés. <operation temps=6.86min espace=9>faire revenir le tout jusqu’ à ce que les blancs soient bien</operation> dorés. ajouter: la feuille de <ingredient quantite=1>laurier</ingredient>, les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> émincées, la <ingredient quantite=1>sauce soja</ingredient>, le <ingredient quantite=1>paprika</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>sel</ingredient> (attention le soja est déjà salé). <operation temps=15.0min espace=9>laisser mijoter 15 minutes à couvert en</operation> remuant de temps en temps. s’ accomode très bien avec la semoule aux épices. rapide et délicieux. un petit corbières
+]]>
+ </preparation>
+</recette>

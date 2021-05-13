@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29205">
+ <titre>Choucroute à la lotte et aux poissons fumés</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de choucroute </p>
+ <p>800 g de filets de poisson fumé</p>
+ <p>800 g de lotte</p>
+ <p>60 g de saindoux</p>
+ <p>50 g de beurre</p>
+ <p>20 cl de lait</p>
+ <p>10 baies de genièvre</p>
+ <p>3 à 4 oignons</p>
+ <p>1 bouteille de riesling</p>
+ <p>1 cuillerée à café de sucre</p>
+ <p>Pour la sauce: </p>
+ <p>3 échalotes </p>
+ <p>10 cl de vinaigre de vin </p>
+ <p>20 cl de riesling </p>
+ <p>1 morceau de sucre </p>
+ <p>4 jaunes d’ œufs </p>
+ <p>200 g de crème fraîche </p>
+ <p>sel et poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ciseler les <ingredient quantite=3>oignons</ingredient> et les mettre à dorer dans une <recipient>cocotte</recipient> avec le <ingredient quantite=1>saindoux</ingredient> et le <ingredient quantite=1>vin</ingredient> blanc. ajouter les <ingredient quantite=1>baies</ingredient>, le <ingredient quantite=1>sucre</ingredient> et assaisonner. porter le tout à ébullition pendant 5 min. laver et essorer la choucroute. la placer dans la <recipient>cocotte</recipient> et <operation temps=6.86min espace=23>laisser mijoter pendant 2 h 30</operation>. mettre les <ingredient quantite=1>filets de poisson fumé</ingredient> à pocher dans le lait et l’ eau jusqu’ à ébullition. beurrer un <recipient>plat</recipient> et y placer la <ingredient quantite=1>lotte</ingredient>. enfourner à 210 ° (thermostat 7) pendant 20 min. ciseler les <ingredient quantite=3>échalotes</ingredient> et les <operation temps=6.86min espace=23>faire revenir dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>vinaigre</ingredient>, le <ingredient quantite=1>vin</ingredient> blanc et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=23>faire réduire de moitié</operation>. a part, mélanger les <ingredient quantite=4>jaunes</ingredient> d’ oeufs et la <ingredient quantite=1>crème fraîche</ingredient>. assaisonner et verser sur les <ingredient quantite=3>échalotes</ingredient>. <operation temps=6.86min espace=23>laisser épaissir à feu doux en</operation> remuant sans cesse. <operation temps=6.86min espace=23>servir la choucroute et les <ingredient quantite=1>poissons</ingredient> sur un <recipient>plat</recipient> avec des pommes vapeur</operation>.
+]]>
+ </preparation>
+</recette>

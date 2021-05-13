@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12728">
+ <titre>Terrine de poisson</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>700 g de filets de julienne</p>
+ <p>2 cuillères à café bombées de concentré de tomates</p>
+ <p>10 cl de vin blanc</p>
+ <p>4 oeufs</p>
+ <p>2 cuil à soupe de crème fraiche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+oter du <ingredient quantite=1>filet de julienne</ingredient> les arrêtes centrales simplement en découpant le <ingredient quantite=1>filet</ingredient> de chaque côté de l’ arrête centrale. mixer tous les ingrédients ensemble. beurrer ou badigeonner d’ huile d’ olives un <recipient>plat</recipient> (en forme de couronne ou un <recipient>moule</recipient> à cake). verser la préparation. <operation temps=6.86min espace=10>faire cuire au <recipient>bain marie</recipient> à thermostat 6 - 7</operation>. pour vérifier si c’ est cuit, piquer une lame de couteau, elle doit <operation temps=6.86min espace=10>ressortir sèche</operation>. <operation temps=20.0min espace=10>laisser refroidir</operation> et démouler un fois tiède ou froid. petit plus décoratif: au fond du <recipient>moule</recipient> déposer des <ingredient quantite=1>filets</ingredient> de rouget. <ingredient quantite=1>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

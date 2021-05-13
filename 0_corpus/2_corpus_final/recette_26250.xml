@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26250">
+ <titre>Cocotte de cuisses de poulet à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>600 g de pommes de terre</p>
+ <p>200 g d’ oignons</p>
+ <p>200 g de poireaux</p>
+ <p>100 g de céleri</p>
+ <p>4 cuillerées à soupe de moutarde forte</p>
+ <p>50 cl de bière blonde</p>
+ <p>1 feuille de laurier</p>
+ <p>2 brins de thym</p>
+ <p>1 cuillerée à café de fond de veau</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). séparez les <ingredient quantite=4>cuisses de poulet</ingredient> au niveau de l’ articulation, de manière à <operation temps=6.86min espace=16>obtenir 4 pilons et 4 hauts de <ingredient quantite=1>cuisse</ingredient></operation>. badigeonnez - les de <ingredient quantite=4>moutarde</ingredient>. pelez et émincez en rondelles fines les <ingredient quantite=1>pommes de terre</ingredient> et les <ingredient quantite=1>oignons</ingredient>. lavez et <operation temps=6.86min espace=16>émincez le <ingredient quantite=1>poireau</ingredient></operation>. dans une <recipient>cocotte</recipient> en <ingredient quantite=1>terre</ingredient> allant au <recipient>four</recipient>, faites un lit avec les <ingredient quantite=1>pommes de terre</ingredient>, <ingredient quantite=1>oignons</ingredient> et <ingredient quantite=1>poireaux</ingredient>. <operation temps=6.86min espace=16>disposez les morceaux de <ingredient quantite=4>poulet</ingredient> par - dessus</operation> et ajoutez les branches de <ingredient quantite=1>céleri</ingredient>, le <ingredient quantite=2>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient> et le <ingredient quantite=1>fond de veau</ingredient>. <operation temps=0.25min espace=16>salez</operation>, <operation temps=0.5min espace=16>poivrez</operation> et <operation temps=6.86min espace=16>versez la <ingredient quantite=1>bière</ingredient></operation>. <operation temps=6.86min espace=16>couvrez la <recipient>cocotte</recipient></operation> et <operation temps=6.86min espace=16>faites cuire 1 h 30 au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

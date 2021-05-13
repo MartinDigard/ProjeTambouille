@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40464">
+ <titre>Pastilla aux fruits de mer</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fruits de mer</p>
+ <p>1 oignon</p>
+ <p>1 poivron</p>
+ <p>100 g de vermicelles de soja</p>
+ <p>50 g d’ olives verte dénoyautées</p>
+ <p>10 feuilles de brick</p>
+ <p>50 g de beurre</p>
+ <p>1 cuillère à café rase de sel</p>
+ <p>poivre</p>
+ <p>1/2 cuillère à café de safran</p>
+ <p>1/2 cuillère à café de cumin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faire revenir avec un peu d’ huile l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>poivron</ingredient> coupés en petits dés</operation>, ajouter les <ingredient quantite=1>olives</ingredient> coupées en deux, puis ajouter les <ingredient quantite=1>fruits de mer</ingredient> et les épices. <operation temps=5.0min espace=17>laisser revenir 5 minutes</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=17>faire bouillir de l’ eau et y</operation> plonger les <ingredient quantite=1>vermicelles</ingredient>. <operation temps=2.0min espace=17>laisser cuire 2 minutes et les</operation> <operation temps=6.86min espace=17>sortir, puis les</operation> mélanger au reste. dans un <recipient>plat</recipient> rond, étaler un peu de <ingredient quantite=1>beurre</ingredient> fondu et mettre en profondeur deux <ingredient quantite=1>feuilles de brick</ingredient>, puis faire le contour du <recipient>plat</recipient> avec les <ingredient quantite=1>feuilles de brick</ingredient> (les <operation temps=6.86min espace=17>laisser dépasser du <recipient>plat</recipient></operation>). au milieu, mettre la préparation et refermer avec les <ingredient quantite=1>feuilles</ingredient> qui dépassent puis rajouter des <ingredient quantite=1>feuilles</ingredient> pour <operation temps=6.86min espace=17>maintenir la pastilla en une forme ronde</operation>. badigeonner chaque <ingredient quantite=1>feuille</ingredient> de <ingredient quantite=1>beurre</ingredient> fondu. mettre au <recipient>four</recipient> pendant 20 minutes au <recipient>four</recipient> préchauffé à thermostat 6/7 (200 ° c).
+]]>
+ </preparation>
+</recette>

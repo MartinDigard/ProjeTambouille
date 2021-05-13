@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22094">
+ <titre>Eclairs au café</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte à choux: </p>
+ <p>1/4 l d’ eau</p>
+ <p>12 g de sucre</p>
+ <p>65 g de beurre</p>
+ <p>125 g de farine</p>
+ <p>4 oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la crème pâtissière: </p>
+ <p>3/4 l de lait</p>
+ <p>4 jaunes d’ oeuf</p>
+ <p>150 g de sucre</p>
+ <p>60 g de Maïzéna</p>
+ <p>1 cuillère à soupe d’ extrait de caféPour la dorure et garniture: </p>
+ <p>200 g de fondant</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à café d’ extrait de café</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte à <ingredient quantite=1>choux</ingredient>: <operation temps=6.86min espace=17>faire bouillir l’ <ingredient quantite=1>eau</ingredient>, le beurre, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient></operation>. hors du feu, verser d’ un coup toute la farine, puis ajouter 3 <ingredient quantite=4>oeufs</ingredient> un par un en mélangeant énergiquement, sur feu très doux, jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> n’ attache plus au fond de la <recipient>casserole</recipient>. sur une plaque à pâtisserie, disposer cette <ingredient quantite=1>pâte</ingredient> en bâtonnets de 5 cm de long sur 1 cm de large. badigeonner d’ <ingredient quantite=4>oeuf</ingredient> battu avec 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=1>eau</ingredient> ; puis strier le dessus avec une fourchette. <operation temps=20.0min espace=17>laisser cuire 20 mn environ</operation>. <ingredient quantite=1>crème pâtissière</ingredient>: <operation temps=6.86min espace=17>faire bouillir le lait</operation>. pendant ce temps, mélanger les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeuf</ingredient>, le <ingredient quantite=1>sucre</ingredient> et la maïzéna ; puis, verser dessus le lait bouillant en mélangeant. remettre sur feu doux et mélanger jusqu’ à épaississement. ajouter l’ <ingredient quantite=1>extrait de café</ingredient>. <operation temps=6.86min espace=17>garnir les éclairs avec la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=17>faire chauffer le fondant</operation>. quand il est bien chaud, ajouter l’ <ingredient quantite=1>extrait de café</ingredient> et glacer les éclairs.
+]]>
+ </preparation>
+</recette>

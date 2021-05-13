@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29518">
+ <titre>Filet mignon lardé à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de filet mignon de porc</p>
+ <p>1 ananas</p>
+ <p>10 tranches fines de lard</p>
+ <p>6 cuillères à soupe de bouillon de volaille</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>40 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enroulez le <ingredient quantite=1>filet de porc</ingredient> dans les <ingredient quantite=1>tranches de lard</ingredient>, <operation temps=6.86min espace=15>ficelez - le</operation>. <operation temps=6.86min espace=15>faites - le dorer dans l’ <ingredient quantite=2>huile</ingredient> chaude dans une <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=15>egouttez - le</operation> et <operation temps=6.86min espace=15>mettez - le dans un <recipient>plat</recipient> à <recipient>four</recipient></operation>. <operation temps=35.0min espace=15>faites cuire 35 min à 150 ° c (thermostat 5</operation>). déglacez la <recipient>cocotte</recipient> encore chaude avec le <ingredient quantite=6>bouillon de volaille</ingredient> chaud, <operation temps=6.86min espace=15>grattez bien</operation>. epluchez l’ ananas, <operation temps=6.86min espace=15>retirez le coeur dur</operation>. <operation temps=6.86min espace=15>mixez la moitié de la pulpe</operation>, <operation temps=6.86min espace=15>découpez le reste en morceaux</operation>. <operation temps=6.86min espace=15>ajoutez la moitié de la purée d’</operation> ananas dans la <recipient>cocotte</recipient> et <operation temps=6.86min espace=15>laissez réduire d’ 1/4 du volume</operation>. <operation temps=0.25min espace=15>salez</operation>, <operation temps=0.5min espace=15>poivrez</operation>. <operation temps=6.86min espace=15>mélangez le <ingredient quantite=2>miel</ingredient> et la purée d’ ananas restante</operation>, <operation temps=10.0min espace=15>badigeonnez -en le rôti toutes les 10 minutes</operation>. <operation temps=6.86min espace=15>faites revenir les morceaux d’</operation> ananas à la <recipient>poêle</recipient> dans le beurre chaud, une fois dorés <operation temps=0.25min espace=15>retirez</operation> - les et <operation temps=0.5min espace=15>réservez</operation>. <operation temps=0.25min espace=15>retirez</operation> la ficelle du rôti, <operation temps=6.86min espace=15>coupez - les en</operation> <ingredient quantite=1>tranches</ingredient> et <operation temps=6.86min espace=15>servez avec la sauce et les morceaux d’ ananas poêlés</operation>. <operation temps=6.86min espace=15>accompagnez ce <recipient>plat</recipient> de riz, boulgour ou tagliatelles</operation>.
+]]>
+ </preparation>
+</recette>

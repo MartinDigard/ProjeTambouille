@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26063">
+ <titre>Poule au pot à l’ estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poule</p>
+ <p>2 branches d’ estragon</p>
+ <p>2 oignons piqués de 2 clous de girofle</p>
+ <p>1 bouquet garni</p>
+ <p>30 cl de crème fraîche</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez la poule, farcissez - la avec 1 <ingredient quantite=1>branche</ingredient> d’ <ingredient quantite=2>estragon</ingredient> hachée</operation>. <operation temps=6.86min espace=8>mettez - la dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=8>couvrez d’ eau</operation>, ajoutez le <ingredient quantite=1>bouquet garni</ingredient> et les <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=8>faites cuire 1 h 30 à petits bouillons</operation>. <operation temps=6.86min espace=8>egouttez la poule</operation> et <operation temps=6.86min espace=8>filtrez le bouillon de cuisson</operation>. <operation temps=6.86min espace=8>fouettez la <ingredient quantite=1>crème</ingredient> avec 30 cl de bouillon</operation> filtré et <operation temps=6.86min espace=8>faites réduire cette sauce à feu doux jusqu’ à ce qu’ elle</operation> devienne onctueuse. <operation temps=0.25min espace=8>retirez du feu</operation> et <operation temps=6.86min espace=8>incorporez les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient> et les feuilles de la 2e <ingredient quantite=1>branche</ingredient> d’ <ingredient quantite=2>estragon</ingredient></operation> hachées. <operation temps=6.86min espace=8>servez la poule découpée</operation> et nappée de sauce. accompagnez de riz bien sûr! ou de pommes de terre vapeur, tagliatelles, purée de courgettes... pour changer!
+]]>
+ </preparation>
+</recette>

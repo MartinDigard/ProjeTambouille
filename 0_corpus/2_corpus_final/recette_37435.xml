@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37435">
+ <titre>Poulet mode thaï</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>3 beaux oignons</p>
+ <p>20 pois mange tout</p>
+ <p>1 gros poivron rouge</p>
+ <p>2 grosses gousses d’ ail</p>
+ <p>1 bout de gingembre (4 cm) </p>
+ <p>curry</p>
+ <p>40 cl de lait de coco</p>
+ <p>huile d’ olive</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>wok</recipient>, ou une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=3>oignons</ingredient></operation> émincés pas trop fins dans 2 cuillères à soupe d’ huile d’ <ingredient quantite=1>olive</ingredient>. puis ajouter les blancs de <ingredient quantite=4>poulet</ingredient> découpés en lanières. ajouter le <ingredient quantite=1>poivron</ingredient>, pelé et coupé en morceaux pas trop petits, les <ingredient quantite=1>pois mange</ingredient> tout, coupés en 2 ou 3 suivant la grosseur. peler l’ <ingredient quantite=2>ail</ingredient> et enlever le germe ainsi que le <ingredient quantite=1>gingembre</ingredient> et les hacher. ajouter ce mélange à la préparation ainsi qu’ une cuillére à café de <ingredient quantite=1>curry</ingredient> et du <ingredient quantite=1>sel</ingredient>. au <ingredient quantite=1>bout</ingredient> de 10 minutes, verser le lait de <ingredient quantite=1>coco</ingredient> et <operation temps=5.0min espace=12>laisser frémir 5 minutes</operation>. servir accompagné d’ un riz bazmati.
+]]>
+ </preparation>
+</recette>

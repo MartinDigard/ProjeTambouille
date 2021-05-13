@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20700">
+ <titre>Soupe de chou-fleur et roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 beau chou-fleur</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cube bouillon</p>
+ <p>1 morceau de fromage bleu (Roquefort,...) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=6>faire revenir dans de l’</operation> huile (ou du beurre pour les plus gourmands) pendant 3 mn. couper le <ingredient quantite=1>chou-fleur</ingredient> en petits <ingredient quantite=1>morceau</ingredient> et le <operation temps=2.0min espace=6>faire revenir avec les <ingredient quantite=2>oignons</ingredient> encore 2 mn</operation>. <operation temps=2.0min espace=6>couvrir d’ eau</operation> et ajouter un <ingredient quantite=1>cube bouillon</ingredient>, de l’ <ingredient quantite=2>ail</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre. <operation temps=20.0min espace=6>laisser mijoter 20 mn</operation>. mixer la soupe et la verser dans des bols. parsemer de <ingredient quantite=1>fromage bleu</ingredient> coupé en petits <ingredient quantite=1>morceaux</ingredient>. le roquefort va bien avec le <ingredient quantite=1>chou-fleur</ingredient>. ce potage est très réconfortant quand il fait bien froid dehors!
+]]>
+ </preparation>
+</recette>

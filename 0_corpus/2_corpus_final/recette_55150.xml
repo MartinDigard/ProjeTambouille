@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55150">
+ <titre>Far breton aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pommes</p>
+ <p>100 g de farine</p>
+ <p>120 g de sucre</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>4 oeufs</p>
+ <p>25 cl de lait</p>
+ <p>25 cl de crème liquide</p>
+ <p>beurre (pour le moule) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (th.6). <operation temps=6.86min espace=13>coupez les <ingredient quantite=2>pommes</ingredient> en petits morceaux</operation>. <operation temps=6.86min espace=13>beurrez un <recipient>plat</recipient> à dessert</operation> et <operation temps=6.86min espace=13>poudrez le de <ingredient quantite=1>sucre</ingredient></operation>. dans un <recipient>saladier</recipient> <operation temps=5.0min espace=13>mélangez</operation> la farine, le <ingredient quantite=1>sucre</ingredient></operation> vanillé et le <ingredient quantite=1>sucre</ingredient>, puis <operation temps=6.86min espace=13>incorporez les <ingredient quantite=4>oeufs</ingredient> un à un en</operation> fouettant sans arrêt. <operation temps=6.86min espace=13>versez ensuite le lait puis la <ingredient quantite=1>crème</ingredient>, sans</operation> arrêter de fouetter jusqu’ à obtention d’ une pâte bien lisse. <operation temps=3.0min espace=13>ajoutez les</operation> <ingredient quantite=2>pommes</ingredient>, <operation temps=5.0min espace=13>mélangez</operation>. <operation temps=45.0min espace=13>versez la pâte dans le <recipient>plat</recipient> et enfournez pour 45 min</operation>. <operation temps=6.86min espace=13>sortez du <recipient>four</recipient></operation>, <operation temps=6.86min espace=13>saupoudrez de <ingredient quantite=1>sucre</ingredient></operation>. servez tiède. vous pouvez remplacer les <ingredient quantite=2>pommes</ingredient> par des pruneaux, des dattes ou autres fruits secs... un cidre brut
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228967">
+ <titre>Salade de riz fruitée curry et poulet</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 filets de poulet</p>
+ <p>50 g de raisins secs</p>
+ <p>50 g d’ amandes effilées</p>
+ <p>1 pomme</p>
+ <p>2 cuillères à soupe de curry</p>
+ <p>150 g de riz basmati</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>10 rondelles de concombre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>escalopez le</operation> <ingredient quantite=2>poulet</ingredient> et <operation temps=6.86min espace=10>faites - le</operation> <operation temps=15.0min espace=10>saisir dans l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient> pendant 15 minutes</operation>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. simultanément, <operation temps=6.86min espace=10>faites cuire le <ingredient quantite=1>riz</ingredient> dans l’ eau</operation> salée pendant 10 minutes. y <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=2>curry</ingredient></operation>. <operation temps=6.86min espace=10>laissez refroidir le tout</operation>. faites gonfler les <ingredient quantite=1>raisins secs</ingredient> dans l’ eau bouillante. <operation temps=6.86min espace=10>faites grillez les <ingredient quantite=1>amandes</ingredient></operation> effilées dans une <recipient>poêle</recipient> sans matière grasse. après le refroidissement du <ingredient quantite=1>riz</ingredient> et du <ingredient quantite=2>poulet</ingredient>. <operation temps=6.86min espace=10>coupez ce dernier en petits cubes ainsi que les <ingredient quantite=1>pommes</ingredient></operation> épluchées et épépinées. <operation temps=6.86min espace=10>mélangez tous les ingrédients à l’ exception du <ingredient quantite=1>concombre</ingredient></operation>. celui-ci servira à <operation temps=6.86min espace=10>garnir les assiettes, une fois que la salade y sera</operation> répartie.
+]]>
+ </preparation>
+</recette>

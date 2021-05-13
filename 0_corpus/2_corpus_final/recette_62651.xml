@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62651">
+ <titre>Poulet aux légumes et épices tandoori</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>1 petit poivron vert</p>
+ <p>1 petit poivron jaune</p>
+ <p>1 oignon</p>
+ <p>4 tomates</p>
+ <p>1 sachet d’ épices pour tandoori</p>
+ <p>1 cube de bouillon de poule</p>
+ <p>ail</p>
+ <p>sel, poivre</p>
+ <p>herbes de provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper l’ <ingredient quantite=1>oignon</ingredient> en lamelles. <operation temps=6.86min espace=12>faire chauffer une <recipient>casserole</recipient> avec un peu d’ huile d’ olive, y</operation> <operation temps=6.86min espace=12>faire cuire les <ingredient quantite=1>oignons</ingredient></operation>. découper les blancs de <ingredient quantite=4>poulet</ingredient> et les légumes en <ingredient quantite=1>petits</ingredient> morceaux. ajouter le tout dans la <recipient>casserole</recipient>. <operation temps=6.86min espace=12>laisser cuire jusqu’ à ce que les <ingredient quantite=4>tomates</ingredient> soient</operation> réduites en purée. ajouter les <ingredient quantite=1>épices</ingredient>, bien remuer. ajouter un peu d’ eau avec le <ingredient quantite=1>bouillon de poule</ingredient>. <operation temps=6.86min espace=12>laisser mijoter jusqu’ à ce que le <ingredient quantite=4>poulet</ingredient> soit</operation> cuit et le jus réduit. très facile à préparer, à <operation temps=6.86min espace=12>servir avec du riz blanc</operation>. montbazillac ou rosé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57784">
+ <titre>Calamars à la basquaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 kg de calamars frais ou décongelés</p>
+ <p>3 gros poivrons</p>
+ <p>1 gros oignon doux</p>
+ <p>1 kg de tomates</p>
+ <p>herbes de Provence</p>
+ <p>2 feuilles de laurier</p>
+ <p>1 dose de safran</p>
+ <p>1/2 cuillère à café de curry</p>
+ <p>1/2 cuillère à café de cumin</p>
+ <p>une bonne pincée de sel, un peu de poivre</p>
+ <p>du piment d’ Espelette</p>
+ <p>de l’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>wok</recipient> ou une grande <recipient>cocotte</recipient> mettre un tiers de verre d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et y faire revenir à feu moyen l’ <ingredient quantite=1>oignon doux</ingredient> émincé et les <ingredient quantite=3>poivrons</ingredient> épépinés découpés en lamelles pendant 30 min. au bout de ce temps, introduire à nouveau la même <ingredient quantite=1>dose</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> plus les <ingredient quantite=1>tomates</ingredient> pelées, l’ <ingredient quantite=1>herbe de provence</ingredient>, le <ingredient quantite=2>laurier</ingredient> et toutes les épices. <operation temps=30.0min espace=15>laisser mijoter toujours sur feu moyen encore 30 min</operation>. au bout d’ une heure, mettre les <ingredient quantite=1>calamars</ingredient> et terminer la cuisson selon leur taille, environ 15 min voire plus. <operation temps=6.86min espace=15>servir avec du riz ou des pâtes pour</operation> compléter le <recipient>plat</recipient> qui rend une <ingredient quantite=1>bonne</ingredient> quantité de jus.
+]]>
+ </preparation>
+</recette>

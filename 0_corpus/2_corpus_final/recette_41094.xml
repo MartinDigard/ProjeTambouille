@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41094">
+ <titre>Omelette aux feuilles de blettes de papy Félix</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>verts de blettes crus (une grosse passoire bien pleine) </p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>150 g de lardons fumés</p>
+ <p>3 gousses d’ ail</p>
+ <p>6 oeufs</p>
+ <p>vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=1>verts de blettes</ingredient> dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, saler et poivrer. en fin de cuisson, émincer l’ <ingredient quantite=3>ail</ingredient>, rajouter les <ingredient quantite=1>lardons</ingredient>, et <operation temps=6.86min espace=6>laisser le tout bien</operation> prendre de la couleur. pendant ce temps, battre les <ingredient quantite=6>oeufs</ingredient>, les verser sur les <ingredient quantite=1>blettes</ingredient>, et les <operation temps=6.86min espace=6>laisser prendre en omelette</operation>. servir chaud, avec un filet de <ingredient quantite=1>vinaigre</ingredient>. et voilà! bon appétit.
+]]>
+ </preparation>
+</recette>

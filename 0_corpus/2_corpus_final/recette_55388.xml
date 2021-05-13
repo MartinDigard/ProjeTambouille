@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55388">
+ <titre>Clafoutis Poire-Chocolat de Valérie</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de chocolat à dessert</p>
+ <p>2 poires</p>
+ <p>1/4 litre de lait</p>
+ <p>4 oeufs</p>
+ <p>50 g de farine</p>
+ <p>100 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=8>faire fondre le</operation> <ingredient quantite=1>chocolat</ingredient>, <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=4>oeufs</ingredient> entiers, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>lait</ingredient></operation>. <operation temps=3.0min espace=8>pelez</operation>, <operation temps=6.86min espace=8>lavez</operation> et couper les <ingredient quantite=2>poires</ingredient> en dés. <operation temps=6.86min espace=8>versez la préparation dans le <recipient>plat</recipient> beurré et répartissez dessus les <ingredient quantite=2>poires</ingredient> en dès</operation>. <operation temps=25.0min espace=8>faites cuire 25 minutes</operation>. parfait aussi avec des <ingredient quantite=2>poires</ingredient> en conserve. cidre ou vin blanc moelleux
+]]>
+ </preparation>
+</recette>

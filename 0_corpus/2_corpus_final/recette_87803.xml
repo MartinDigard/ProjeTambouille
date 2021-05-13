@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87803">
+ <titre>Soupe d’ hiver avec un reste de chou blanc (très rapide) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 chou blanc</p>
+ <p>1 oignon</p>
+ <p>2 pommes de terres</p>
+ <p>une noix de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=2>pommes de terre</ingredient>. mettre le <ingredient quantite=1>beurre</ingredient> à fondre à feu vif dans une <recipient>casserole</recipient> ajouter l’ <ingredient quantite=1>oignon</ingredient> en morceaux. <operation temps=2.0min espace=6>laisser dorer 2 minutes</operation>. ajouter les <ingredient quantite=2>pommes de terre</ingredient> en morceaux puis le <ingredient quantite=1>chou</ingredient> également découpé. <operation temps=6.86min espace=6>laisser dorer le temps de chauffer de l’ eau à la bouilloire (gain de temps), jusqu’ à</operation> <operation temps=6.86min espace=6>obtenir une bonne odeur d’ <ingredient quantite=1>oignon</ingredient> frits</operation>. saler, poivrer. ajouter environ 1, 5 l d’ eau bouillante et <operation temps=30.0min espace=6>laisser cuire à feu doux pendant 30 minutes</operation>. mixer finement et servir chaud. idéal pour terminer un reste de <ingredient quantite=1>chou blanc</ingredient> non-utilisé en temps que crudité. le temps de cuisson dépend essentiellement de la variété de <ingredient quantite=1>pomme de terre</ingredient>, et donc peut être plus ou moins long que ce qui est indiqué au dessus.
+]]>
+ </preparation>
+</recette>

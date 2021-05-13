@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64421">
+ <titre>U stufatu</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de boeuf (daube) </p>
+ <p>10 cl d’ huile d’ olive</p>
+ <p>2 tranches de petits salés</p>
+ <p>2 oignons</p>
+ <p>3 gousses d’ ail non épluchées</p>
+ <p>1 boîte de tomates pelées</p>
+ <p>thym, laurier, muscade</p>
+ <p>1/2 bouteille de vin rouge</p>
+ <p>olives noires (facultatif) </p>
+ <p>500 g de pâtes (penne rigate de préférence) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>oignons</ingredient> en rondelles et les <ingredient quantite=2>tranches de petits salés</ingredient> en lardons. réserver. dans une <recipient>cocotte</recipient> en fonte, mettre la viande dans l’ huile d’ <ingredient quantite=1>olive</ingredient> brûlante. une fois la viande dorée, la retirer de la <recipient>cocotte</recipient> et y mettre à <operation temps=6.86min espace=12>revenir les <ingredient quantite=2>oignons</ingredient>, les lardons et l’ <ingredient quantite=3>ail</ingredient></operation>. lorsque le mélange est doré, remettre la viande. assaisoner avec le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient> et la <ingredient quantite=1>muscade</ingredient>. ajouter alors les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>vin</ingredient>. <operation temps=6.86min espace=12>laisser bouillir à feu</operation> vif le temps que l’ alcool s’ évapore. ajouter 1 l d’ eau tiède et <operation temps=0.25min espace=12>couvrir</operation>. <operation temps=6.86min espace=12>laisser cuire durant 2 h à feu très doux</operation>. (a mi-cuisson, penser à vérifier que la sauce est toujours bien liquide. <operation temps=6.86min espace=12>rajoutez de l’ eau dans le cas contraire) au bout du temps de cuisson</operation>, ajouter les <ingredient quantite=1>olives</ingredient>. la sauce doit être très liquide. ajouter les <ingredient quantite=1>pâtes</ingredient> crues en mélangeant souvent (l’ excédant de sauce va être absorbé). <operation temps=15.0min espace=12>laissez cuire 15 min</operation>. <operation temps=2.0min espace=12>servir aussitôt</operation>. patrimonio
+]]>
+ </preparation>
+</recette>

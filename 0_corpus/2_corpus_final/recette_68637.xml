@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68637">
+ <titre>Tartare de saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 tranches de saumon sous vide réfrigéré (fumé ou non, de l’ Atlantique ou d’ autre part ^^) </p>
+ <p>quelques citrons (voir en fonction du goût) </p>
+ <p>des herbes diverses</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par couper le <ingredient quantite=8>saumon</ingredient> en très petits bouts (le plus petit possible) au couteau sans dents, mais sans casser les fibres... ensuite, assaisonner avec le <ingredient quantite=1>citron</ingredient> en pressant directement (mélanger au fur et a mesure) et avec les <ingredient quantite=1>herbes</ingredient>. goûter et rajouter selon vos goûts du sel, du <ingredient quantite=1>citron</ingredient>, du poivre, des <ingredient quantite=1>herbes</ingredient>... <operation temps=6.86min espace=5>laisser reposer pendant une nuit au <recipient>réfrigérateur</recipient></operation> et <operation temps=6.86min espace=5>servir dans des verres, par exemple verres à vin</operation>. surtout, ne <operation temps=6.86min espace=5>déchirez pas le poisson et ne le passez pas non plus au <recipient>mixeur</recipient></operation>.
+]]>
+ </preparation>
+</recette>

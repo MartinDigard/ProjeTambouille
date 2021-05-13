@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14765">
+ <titre>Omelette aux courgettes et à la menthe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 petites courgettes</p>
+ <p>4 oeufs</p>
+ <p>menthe fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>courgettes</ingredient> en rondelles. les <operation temps=6.86min espace=4>faire dorer (ou griller selon les goûts) à l’ huile d’ olive</operation>. saler, puis les <operation temps=6.86min espace=4>couvrir pour qu’ elles cuisent</operation>. pendant qu’ elles cuisent, battre les <ingredient quantite=4>oeufs</ingredient> en omelette. saler et poivrer. ajouter la <ingredient quantite=1>menthe</ingredient> finement hachée. une fois les <ingredient quantite=2>courgettes</ingredient> cuites, verser les <ingredient quantite=4>oeufs</ingredient> dessus. cuire l’ omelette selon votre convenance.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221561">
+ <titre>Salade de maquereaux séchés à la grecque</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de maquereaux séchés</p>
+ <p>2 oignons</p>
+ <p>1 petit bouquet d’ aneth</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>3 cuillères à soupe de vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher très finement l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>aneth</ingredient>. <operation temps=6.86min espace=8>émincez</operation> finement le maquereau avec vos mains. <operation temps=6.86min espace=8>mettez - le dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=8>ajoutez l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>aneth</ingredient></operation>. <operation temps=6.86min espace=8>mélangez l’ huile et le <ingredient quantite=3>vinaigre</ingredient> dans un shaker</operation> et <operation temps=1.0min espace=8>assaisonnez</operation>. <operation temps=6.86min espace=8>couvrez le <recipient>saladier</recipient> avec un film transparent</operation> et <operation temps=6.86min espace=8>laissez au <recipient>réfrigérateur</recipient></operation>. <operation temps=6.86min espace=8>servez froid</operation>. avant de <operation temps=6.86min espace=8>servir, vérifiez l’ assaisonnement</operation> et <operation temps=6.86min espace=8>ajustez en fonction</operation>.
+]]>
+ </preparation>
+</recette>

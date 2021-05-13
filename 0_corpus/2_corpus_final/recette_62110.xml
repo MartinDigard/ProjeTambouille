@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62110">
+ <titre>Aubergine à la carbonara</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 aubergines</p>
+ <p>200 g de lardons fumés</p>
+ <p>20 cl de crème fraîche liquide semi-épaisse</p>
+ <p>sel et poivre</p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=2>aubergines</ingredient> et les couper en tranches pas trop épaisses. les fariner et les <operation temps=6.86min espace=7>faire frire dans une <recipient>poêle</recipient> à l’ huile olive</operation>. bien les égoutter dans du papier absorbant. <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>lardons</ingredient> les</operation> égoutter eux aussi. remettre les <ingredient quantite=1>lardons</ingredient> dans la <recipient>poêle</recipient> sans matière grasse et ajouter la <ingredient quantite=1>crème fraîche</ingredient>. a ébulition, baisser le feu et <operation temps=6.86min espace=7>laisser épaissir</operation>. ajouter les <ingredient quantite=2>aubergines</ingredient> et <operation temps=6.86min espace=7>servir avec du <ingredient quantite=1>parmesan</ingredient></operation>. croze hermitage (chapoutier)
+]]>
+ </preparation>
+</recette>

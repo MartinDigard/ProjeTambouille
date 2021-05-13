@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81100">
+ <titre>Salade d’ été semoule et thon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de thon au naturel </p>
+ <p>250 g de semoule </p>
+ <p>1 poivron vert </p>
+ <p>2 tomates</p>
+ <p>2 citrons</p>
+ <p>12 olives vertes ou noires dénoyautées </p>
+ <p>5 cuillères à soupe d’ huile d’ olive </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez, essuyez, <operation temps=6.86min espace=9>épépinez le <ingredient quantite=1>poivron</ingredient>, les</operation> <ingredient quantite=2>tomates</ingredient>, <operation temps=6.86min espace=9>coupez - les en dés</operation>. <operation temps=6.86min espace=9>faites cuire la semoule</operation> et <operation temps=6.86min espace=9>déposez - la dans un grand <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>thon</ingredient> émietté, le <ingredient quantite=1>poivron</ingredient> et les <ingredient quantite=2>tomates</ingredient>, les <ingredient quantite=1>olives</ingredient></operation> hachées grossièrement. pressez les <ingredient quantite=2>citrons</ingredient> et <operation temps=6.86min espace=9>versez le jus</operation>. <operation temps=6.86min espace=9>ajoutez l’ <ingredient quantite=5>huile</ingredient> d’</operation> <ingredient quantite=5>olive</ingredient>, <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=5.0min espace=9>mélangez</operation> délicatement et <operation temps=6.86min espace=9>réservez au frais, au moins 1 heure</operation>.
+]]>
+ </preparation>
+</recette>

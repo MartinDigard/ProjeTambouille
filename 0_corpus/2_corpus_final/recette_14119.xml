@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14119">
+ <titre>Riz à l’ égyptienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 verre de vermicelle </p>
+ <p>3 verres de riz </p>
+ <p>eau, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire chauffer l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>casserole</recipient></operation> puis ajouter le <ingredient quantite=1>verre de vermicelle</ingredient>. <operation temps=6.86min espace=5>laisser griller le <ingredient quantite=1>vermicelle</ingredient> (attention c’ est très rapide!) sans</operation> cesser de remuer avec une spatule. ajouter les <ingredient quantite=1>verres de riz</ingredient> un à un, <operation temps=6.86min espace=5>laisser griller 3 min, toujours en</operation> remuant. ajouter 5 <ingredient quantite=1>verres</ingredient> d’ <ingredient quantite=1>eau</ingredient> froide (le dernier avec du <ingredient quantite=1>sel</ingredient>). <operation temps=0.25min espace=5>couvrir</operation>, <operation temps=15.0min espace=5>laisser cuire à feu très doux environ 15 min (jusqu’ à ce qu’ il n’ y</operation> ait plus d’ <ingredient quantite=1>eau</ingredient>). attention, le <ingredient quantite=1>vermicelle</ingredient> peut brûler très rapidement, ne cesser jamais de remuer, et commencer la cuisson à feu doux. photo: manina hatzimichali
+]]>
+ </preparation>
+</recette>

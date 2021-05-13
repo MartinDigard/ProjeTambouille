@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171905">
+ <titre>Rôti de porc au bacon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de rôti de porc</p>
+ <p>6 tranches de bacon</p>
+ <p>12 tranches de fromage (a toaster) </p>
+ <p>huile, beurre, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- cuire le rôti au <recipient>four</recipient> th.7 - 8, pendant 45min avec huile, <ingredient quantite=1>beurre</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=7>laisser refroidir 2h une fois cuit</operation>. - le couper en <ingredient quantite=6>tranches</ingredient> assez fines (pour 6, en 12 <ingredient quantite=6>tranches</ingredient>). <operation temps=6.86min espace=7>conservez le jus-</operation> insérez entre deux <ingredient quantite=6>tranches</ingredient> de viandes une <ingredient quantite=1>tranche de fromage</ingredient>, puis une de <ingredient quantite=6>bacon</ingredient> et encore une de <ingredient quantite=1>fromage</ingredient>. - mettre le rôti dans le <recipient>plat</recipient> et <operation temps=6.86min espace=7>arrosez de jus</operation>. remettre au <recipient>four</recipient> th.5 pendant 30min. ne <operation temps=6.86min espace=7>prenez pas peur du temps de préparation! c’ est le temps de mise au frais</operation>. s’ accompagne très bien d’ épinards ou d’ une poêlée.
+]]>
+ </preparation>
+</recette>

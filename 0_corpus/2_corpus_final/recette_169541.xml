@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169541">
+ <titre>Pancakes aux pommes et à la cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes</p>
+ <p>300 g de farine</p>
+ <p>6 oeufs</p>
+ <p>40 cl de lait</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>2 pincées de sel</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>80 g de beurre et un peu pour la cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battez les <ingredient quantite=6>oeufs</ingredient> en omelette et ajouter le lait. mélanger la farine, le <ingredient quantite=4>sucre</ingredient>, le <ingredient quantite=2>sel</ingredient>, la <ingredient quantite=1>cannelle</ingredient> et la <ingredient quantite=1>levure</ingredient> dans une <recipient>terrine</recipient>. versez - y le mélange <ingredient quantite=6>oeufs</ingredient> / lait et <operation temps=5.0min espace=11>fouettez</operation> vigoureusement jusqu’ à l’ obtention d’ une pâte lisse. tenez au frais. epluchez et couper les <ingredient quantite=4>pommes</ingredient> en fines lamelles. <operation temps=6.86min espace=11>faites fondre un peu de beurre dans une <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=11>faites - y dorer quelques quartiers de <ingredient quantite=4>pommes</ingredient></operation>. dès qu’ il sont cuits, <operation temps=6.86min espace=11>versez un peu de pâte par - dessus</operation> et <operation temps=6.86min espace=11>laissez cuire jusqu’ à ce qu’ elle se</operation> fige et <operation temps=6.86min espace=11>laisse apparaître de petites bulles</operation>. retournez le pancake avec une spatule et <operation temps=2.0min espace=11>poursuivez la <ingredient quantite=1>cuisson</ingredient> 1 à 2 min</operation>. servez chaud, <operation temps=6.86min espace=11>saupoudrez de <ingredient quantite=4>sucre</ingredient> glace ou de sirop d’ érable</operation>. a déguster tiède avec un jus de <ingredient quantite=4>pommes</ingredient> frais.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81053">
+ <titre>Sablé breton</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>160 g de sucre</p>
+ <p>225 g de farine</p>
+ <p>210 g de beurre salé</p>
+ <p>1/2 sachet de levure</p>
+ <p>1 oeuf entier et 3 jaunes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>blanchir le <ingredient quantite=1>sucre</ingredient></operation> mélangé au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. rajouter la farine préalablement mélée à la <ingredient quantite=1>levure</ingredient>. rajouter le beurre fondu, remuer jusqu’ à obtention d’ une pâte lisse. <operation temps=6.86min espace=7>laisser reposer une vingtaine de minutes au <recipient>réfrigérateur</recipient></operation>. verser la pâte dans un <recipient><recipient>moule</recipient> à manqué</recipient>, et <operation temps=6.86min espace=7>faire chauffer doucement à 190 ° c (thermostat 6) pendant environ 1h</operation>. du cidre brut
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72989">
+ <titre>Hâchis parmentier de thon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de thon au naturel égoutté</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>1 cuillère à soupe de persil ciselé</p>
+ <p>1 kg de pommes de terre</p>
+ <p>25 cl de crème liquide</p>
+ <p>25 g de beurre (+ un peu pour le plat) </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>pommes de terre</ingredient> et les couper en 4. les plonger dans une grandes quantité d’ eau bouillante salée et les <operation temps=20.0min espace=12>laisser cuire 20 min</operation>. les <ingredient quantite=1>égoutter</ingredient> et les verser dans un <recipient>plat</recipient> creux. les écraser à la fourchette et ajouter le <ingredient quantite=1>persil</ingredient>, la <ingredient quantite=1>crème</ingredient> et le beurre. peler et hâcher l’ <ingredient quantite=1>ail</ingredient>. verser l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>poêle</recipient> et <operation temps=5.0min espace=12>faire revenir 5 min l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>thon</ingredient></operation>. retirer du feu, saler, poivrer et ajouter le <ingredient quantite=1>cumin</ingredient>. mélanger le tout et verser le tout dans un <recipient>plat</recipient> beurré. enfourner à 180 °, thermostat 6, environ 20 min. a manger bien chaud, accompagné d’ une salade: un vrai régal!!!!
+]]>
+ </preparation>
+</recette>

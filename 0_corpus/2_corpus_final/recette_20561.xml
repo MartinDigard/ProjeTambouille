@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20561">
+ <titre>Morue aux pommes de terre et aux oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de morue dessalée et blanchie</p>
+ <p>600 g de pommes de terre</p>
+ <p>500 g d’ oignons</p>
+ <p>1 gousse d’ ail </p>
+ <p>4 oeufs</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et détailler en fines rondelles les <ingredient quantite=1>pommes de terre</ingredient> et les <ingredient quantite=1>oignons</ingredient>, puis hacher la gousse d’ <ingredient quantite=1>ail</ingredient>. dans une <recipient>sauteuse</recipient> huilée, <operation temps=6.86min espace=8>faire rissoler l’ <ingredient quantite=1>ail</ingredient></operation> haché, puis y ajouter les <ingredient quantite=1>pommes de terre</ingredient> et les <ingredient quantite=1>oignons</ingredient>. <operation temps=6.86min espace=8>faire revenir ce mélange en</operation> remuant, puis y ajouter la <ingredient quantite=1>morue</ingredient> effeuillée dés que les <ingredient quantite=1>pommes de terre</ingredient> commencent à cuire. <operation temps=6.86min espace=8>laisser mijoter à feu doux jusqu’ à ce que la chair de la <ingredient quantite=1>morue</ingredient> s’ attendrisse</operation>. dans un <recipient>saladier</recipient>, battre les <ingredient quantite=4>oeufs</ingredient> en omelette avec du <ingredient quantite=1>sel</ingredient> et du poivre, puis verser le mélange sur la <ingredient quantite=1>morue</ingredient>. <operation temps=6.86min espace=8>laisser cuire encore quelques minutes, le temps que la préparation soit parfaitement</operation> liée. servir et déguster bien chaud.
+]]>
+ </preparation>
+</recette>

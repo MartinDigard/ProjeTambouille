@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="197518">
+ <titre>Omelette au thym</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 œufs</p>
+ <p>3 branches de thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prendre quatre <ingredient quantite=4>œufs</ingredient> et les battre avec un fouet jusqu’ à ce que la préparation soit homogène. verser le liquide de l’ omelette dans une <recipient>poêle</recipient> et <operation temps=30.0min espace=3>laisser cuire</operation>. personnellement je l’ ai laissé cuire 1 - 2 minutes mais vous pouvez le <operation temps=6.86min espace=3>laisser plus longtemps</operation>. éviter de plier l’ omelette sauf si vous n’ aimez pas la mousse de celle-ci. prenez deux ou trois <ingredient quantite=3>branches de thym</ingredient> (de préférence frais) et les couper un petit peu. <operation temps=6.86min espace=3>répartir sur l’ omelette durant la cuisson de celle-ci</operation>. déposez l’ omelette sur une assiette et <operation temps=2.0min espace=3>servez</operation>!
+]]>
+ </preparation>
+</recette>

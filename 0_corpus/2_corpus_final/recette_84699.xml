@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84699">
+ <titre>Soupe au maroilles</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g d’ oignons</p>
+ <p>500 g de pommes de terre </p>
+ <p>1/2 Maroilles</p>
+ <p>20 cl de crème fraîche </p>
+ <p>30 g de beurre </p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1, 5 l d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>oignons</ingredient> et les <operation temps=6.86min espace=8>faire revenir dans le beurre</operation>. ajouter la farine et <operation temps=6.86min espace=8>laisser dorer</operation>. ajouter l’ <ingredient quantite=1>eau</ingredient> et les <ingredient quantite=1>pommes de terre</ingredient> coupées en dés. saler, poivrer. <operation temps=30.0min espace=8>laisser cuire 30 min</operation>. mixer. <operation temps=6.86min espace=8>ajoutez la <ingredient quantite=1>crème</ingredient> fraiche et le <ingredient quantite=1>maroilles</ingredient></operation> coupé en morceaux. <operation temps=6.86min espace=8>laisser sur le feu</operation> et remuer jusqu’ a ce que le fromage soit complètement fondu. <operation temps=6.86min espace=8>servir avec une baguette ou des morceaux de baguette légèrement</operation> rissolés à la <recipient>poêle</recipient>.
+]]>
+ </preparation>
+</recette>

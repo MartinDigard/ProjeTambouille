@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72120">
+ <titre>Cannelés à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 cl de lait de coco</p>
+ <p>2 cuillères à soupe de coco râpée</p>
+ <p>3 jaunes d’ oeuf</p>
+ <p>40 g de beurre</p>
+ <p>110 g de sucre complet</p>
+ <p>70 g de farine fluide</p>
+ <p>10 g de maïzena</p>
+ <p>1 cuillère à café de vanille en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire fondre le beurre à feu très doux dans un <recipient>caquelon</recipient> avec le lait de <ingredient quantite=1>coco</ingredient></operation>. battre les <ingredient quantite=3>jaunes</ingredient> longuement au batteur électrique avec le <ingredient quantite=1>sucre</ingredient> ; il faut que la masse épaississe et forme comme un ruban autour des fouets. ajouter la farine, la <ingredient quantite=1>maïzena</ingredient>, la <ingredient quantite=1>coco râpée</ingredient> et la <ingredient quantite=1>vanille</ingredient>. bien mélanger le tout et ajouter peu à peu le lait un peu refroidi mais encore chaud en tournant sans cesse pour bien homogénéiser l’ ensemble. maintenant la pâte doit reposer 24 h au frigo. le lendemain: préchauffer le <recipient>four</recipient> à 180 °, thermostat 6. <operation temps=6.86min espace=10>répartir la pâte dans des moules à cannelés</operation> et enfourner pour environ 45 min. si les cannelés brunissent trop vite, les <operation temps=6.86min espace=10>recouvrir d’ une feuille de papier alu</operation>. ne <operation temps=6.86min espace=10>jettez surtout pas les blancs d’ <ingredient quantite=3>oeuf</ingredient>!</operation>! utilisez - les pour <operation temps=6.86min espace=10>faire des financiers, des pistachiers aux fraises de marielle, des meringues</operation>... ou bien <operation temps=6.86min espace=10>congelez les pour une utilisation ultérieure</operation>. vin doux naturel de votre choix
+]]>
+ </preparation>
+</recette>

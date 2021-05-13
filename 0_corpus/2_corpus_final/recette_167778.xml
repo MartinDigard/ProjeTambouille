@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167778">
+ <titre>Moelleux à l’ ourson</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200g de chocolat noir en morceaux</p>
+ <p>150g de beurre + 15g pour le moule</p>
+ <p>4 oeufs</p>
+ <p>20 oursons guimauve</p>
+ <p>75g de poudre d’ amandes</p>
+ <p>175g de sucre semoule</p>
+ <p>50g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>1 moule-à-manqué</p>
+ <p>du sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient>, thermostat 6 (180 ° c), <operation temps=6.86min espace=16>berrez</operation> et <operation temps=6.86min espace=16>farinez le <ingredient quantite=1><recipient>moule</recipient></ingredient></operation>. <operation temps=6.86min espace=16>réservez le <ingredient quantite=1><recipient>moule</recipient></ingredient> au frais</operation>. <operation temps=6.86min espace=16>faites fondre le <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=1>beurre</ingredient> au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=16>séparez les jaunes des blancs d’</operation> <ingredient quantite=4>oeufs</ingredient> et <operation temps=6.86min espace=16>montez les blancs en neige</operation>. hors du feu, <operation temps=6.86min espace=16>versez dans le <ingredient quantite=1>chocolat</ingredient> fondu, les jaunes d’ <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> et la farine tamisée, puis la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient></operation>. mélangez. <operation temps=6.86min espace=16>incorporez les blancs en neige à la préparation au <ingredient quantite=1>chocolat</ingredient>, en</operation> soulevant délicatement pour ne pas <operation temps=6.86min espace=16>faire retomber les blancs en neige</operation>. <operation temps=6.86min espace=16>coupez 10 <ingredient quantite=1>oursons</ingredient> en</operation> <ingredient quantite=1>morceaux</ingredient> et <operation temps=6.86min espace=16>ajoutez - les à la pâte</operation>. <operation temps=6.86min espace=16>versez la pâte dans le</operation> <ingredient quantite=1><recipient>moule</recipient></ingredient> et <operation temps=6.86min espace=16>enfournez 40min, thermostat 6 (180 ° c</operation>). <operation temps=6.86min espace=16>servez le gâteau</operation> tiède, décoré avec le reste des <ingredient quantite=1>oursons</ingredient>, saupoudré de <ingredient quantite=1>sucre</ingredient> glace. cidre ou jus de pomme
+]]>
+ </preparation>
+</recette>

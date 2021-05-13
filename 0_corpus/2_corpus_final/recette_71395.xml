@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71395">
+ <titre>Tarte aux mousserons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>250 g de mousserons (ou compléter avec des champignons de Paris) </p>
+ <p>1 oignon</p>
+ <p>Pour la béchamel: </p>
+ <p>40 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>500 g de lait</p>
+ <p>Sel, poivre, muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1 - préparer la sauce <ingredient quantite=1>béchamel</ingredient>: <operation temps=6.86min espace=10>faire fondre 40 g de beurre dans une <recipient>casserole</recipient></operation>, ajouter 40 g de <ingredient quantite=1>farine</ingredient> afin d’ <operation temps=6.86min espace=10>obtenir un joli roux</operation> et ajouter le lait sans cesser de remuer jusqu’ à ce que la préparation soit légèrement épaisse. assaisonner selon votre goût avec du <ingredient quantite=1>sel</ingredient>, du poivre et de la <ingredient quantite=1>muscade</ingredient>. 2 - <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>mousserons</ingredient> afin qu’ ils</operation> rendent toute leur eau pendant environ 5 min à feu vif en ajoutant un <ingredient quantite=1>oignon</ingredient> émincé. 3 - <operation temps=6.86min espace=10>garnir la <ingredient quantite=1>pâte</ingredient> à tarte</operation>: disposer le mélange de champignons / <ingredient quantite=1>oignon</ingredient> au fond de la tarte et napper de sauce <ingredient quantite=1>béchamel</ingredient>. 4 - <operation temps=50.0min espace=10>faire cuire 45 à 50 min à 200 °, thermostat 6 - 7</operation>. a consommer en entrée ou en <recipient>plat</recipient> principal le soir, avec une salade verte.
+]]>
+ </preparation>
+</recette>

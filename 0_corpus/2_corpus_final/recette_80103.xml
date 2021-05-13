@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80103">
+ <titre>Paëlla au poulet (turque) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 filets de blanc de poulet</p>
+ <p>400 g de riz Surinam long grains sans parfum</p>
+ <p>80 cl d’ eau</p>
+ <p>1 boîte de conserve de pois chiche</p>
+ <p>4 cuillères à soupe d’ huile de maïs</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>coupez les <ingredient quantite=2>poulet</ingredient> en lamelles</operation>, <operation temps=6.86min espace=7>dorez - les avec un peu d’</operation> huile dans une <recipient>poêle</recipient>. ajoutez 4 <ingredient quantite=4>cuillères à soupe</ingredient> d’ huile et le <ingredient quantite=1>riz</ingredient> lavé à l’ <ingredient quantite=1>eau</ingredient> froide. <operation temps=5.0min espace=7>faites revenir pendant 5 min</operation>, ajouter 80 cl d’ <ingredient quantite=1>eau</ingredient>, les <ingredient quantite=1>pois chiche</ingredient> et le <ingredient quantite=1>sel</ingredient>. cuire 15 min. bon appétit! vous <operation temps=6.86min espace=7>trouverez plus d’</operation> explications sur mon blog. vous pouvez ajouter les épices que vous voulez.
+]]>
+ </preparation>
+</recette>

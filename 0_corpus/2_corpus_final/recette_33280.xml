@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33280">
+ <titre>Andouille, oignons, champignons comme à la foire</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 andouille coupée en morceaux</p>
+ <p>2 à 3 oignons en lamelles</p>
+ <p>1 petite boîte de champignons de Paris (pieds et morceaux) </p>
+ <p>25 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire revenir les <ingredient quantite=2>oignons</ingredient> dans un peu de matière grasse</operation>. retirer et réserver. dans la <recipient>poêle</recipient> <operation temps=6.86min espace=5>faire chauffer les <ingredient quantite=1>morceaux</ingredient> d’</operation> <ingredient quantite=1>andouille</ingredient>, rajouter les <ingredient quantite=2>oignons</ingredient> cuits, bien mélanger, ajouter la <ingredient quantite=1>crème</ingredient> fraîche et <operation temps=6.86min espace=5>laisser cuire quelques minutes en</operation> remuant souvent puis ajouter les <ingredient quantite=1>champignons</ingredient> rincés. remuer, saler, poivrer, remuer, goûter, rectifier si besoin. <operation temps=6.86min espace=5>laisser reposer avant de</operation> <operation temps=2.0min espace=5>servir chaud</operation>. adaptation personnelle (je n’ ai pas demandé la recette) d’ une prépration vue (et sentie) dans des stands alimentation lors de foires.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82493">
+ <titre>Pâtes à la julienne de légumes et tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de julienne de légumes surgelée</p>
+ <p>1 boite de tomates concassées</p>
+ <p>quelques lamelles de jambon de bayonne</p>
+ <p>180 g de pâtes</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuilères à soupe d’ huile olive</p>
+ <p>1 cuillère à soupe de ricotta</p>
+ <p>sel et poivre</p>
+ <p>piment d’ espelette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire 10 minutes au micro-ondes la <ingredient quantite=1>julienne de légumes</ingredient> avec un peu de thym, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=5.0min espace=9>faire revenir 5 minutes cette <ingredient quantite=1>julienne</ingredient> dans un peu d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient></operation>. ajouter une <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=2>ail</ingredient> écrasée et les <ingredient quantite=1>tomates concassées</ingredient>, <ingredient quantite=1>sel poivre</ingredient> et <ingredient quantite=1>piment</ingredient> ; <operation temps=20.0min espace=9>laisser mijoter 20 minutes</operation>. ajouter 1 <ingredient quantite=2>cuillère à soupe</ingredient> de ricotta et mélanger aux <ingredient quantite=1>pâtes</ingredient> préalablement cuites.
+]]>
+ </preparation>
+</recette>

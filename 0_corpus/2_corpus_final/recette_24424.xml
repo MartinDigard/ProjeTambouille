@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24424">
+ <titre>Tarte aux poireaux et au saumon frais</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée (toute faite) </p>
+ <p>3 poireaux</p>
+ <p>2 filets de saumon</p>
+ <p>3 oeufs</p>
+ <p>1 petit pot de crème fraîche (8 %) </p>
+ <p>fromage râpé (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>coupez les <ingredient quantite=3>poireaux</ingredient> en rondelles</operation> (prendre le blanc et un <ingredient quantite=1>petit</ingredient> peu de vert). <operation temps=6.86min espace=6>défaire les rondelles une à une pour</operation> pouvoir bien les laver. <operation temps=20.0min espace=6>faire cuire 20 mn les <ingredient quantite=3>poireaux</ingredient> et le <ingredient quantite=2>saumon</ingredient> à la vapeur</operation>. puis <operation temps=6.86min espace=6>défaire le <ingredient quantite=2>saumon</ingredient> sur la <ingredient quantite=1>pâte</ingredient> préalablement</operation> piquée, mettre les <ingredient quantite=3>poireaux</ingredient> par dessus. battre les <ingredient quantite=3>oeufs</ingredient>, ajouter la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>fromage</ingredient>, sel et poivre (une pointe de noix de muscade est la bienvenue). <operation temps=6.86min espace=6>recouvrir la tarte du mélange</operation> et <operation temps=20.0min espace=6>laissez cuire 20 mn à 200 ° c</operation>. a <operation temps=2.0min espace=6>servir avec une salade</operation>.
+]]>
+ </preparation>
+</recette>

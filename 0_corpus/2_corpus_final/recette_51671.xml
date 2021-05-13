@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51671">
+ <titre>Osbane (panse farcie) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de tripes préalablement néttoyées</p>
+ <p>500 g de foie</p>
+ <p>2 gros oignons</p>
+ <p>1 tête d’ ail </p>
+ <p>1 bouquet de coriandre et de menthe</p>
+ <p>100 g de pois chiches</p>
+ <p>1 poignée de riz</p>
+ <p>2 tomates fraiches</p>
+ <p>1 cuillère de concentré de tomates</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre, cumin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire bouillir les <ingredient quantite=1>tripes</ingredient> dans un court bouillon si le</operation> boucher ne l’ a pas déjà fait. une fois cuites, les découper en grands morceaux de façon à pouvoir les farcir. farce: découper le <ingredient quantite=1>foie</ingredient> en petits moceaux, hachez 1 <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>coriandre</ingredient>, la <ingredient quantite=1>menthe</ingredient> et une bonne partie de l’ <ingredient quantite=1>ail</ingredient>. dans un <recipient>saladier</recipient>, mélanger les morceaux de <ingredient quantite=1>foie</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>menthe</ingredient>, la <ingredient quantite=1>coriandre</ingredient> et l’ <ingredient quantite=1>ail</ingredient>, ajouter le <ingredient quantite=1>riz</ingredient>, les <ingredient quantite=1>pois chiches</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et du <ingredient quantite=1>cumin</ingredient>. bien mélanger. prendre les <ingredient quantite=2>gros</ingredient> morceaux de panse et les <operation temps=6.86min espace=14>faicir avec le mélange ci - dessus</operation>. assembler les côtés et coudre avec du fil de cuisine. réserver. dans une <recipient>cocotte</recipient>, mettre l’ <ingredient quantite=2>huile</ingredient> à chauffer puis y <operation temps=6.86min espace=14>faire revenir 1 <ingredient quantite=1>oignon</ingredient>, 2 gousses d’ <ingredient quantite=1>ail</ingredient>, les <ingredient quantite=2>tomates</ingredient> concassés et le concentré de <ingredient quantite=1>tomate</ingredient></operation>. saler, poivrer et ajouter du <ingredient quantite=1>cumin</ingredient>. mouiller avec environ 50 cl d’ eau puis y ajouter les panses farcies. <operation temps=30.0min espace=14>laisser cuire 30 minutes</operation>. <operation temps=6.86min espace=14>servir éventuellement avec des pommes de terre ou du <ingredient quantite=1>riz</ingredient></operation>. c’ est un <recipient>plat</recipient> convivial que nous préparons en algérie pour la fête de l’ aid el <operation temps=6.86min espace=14>kébir (fête du mouton</operation>).
+]]>
+ </preparation>
+</recette>

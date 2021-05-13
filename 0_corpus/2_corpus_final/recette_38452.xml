@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38452">
+ <titre>Petite salade vitaminée pour l’ été</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates</p>
+ <p>6 kiwis</p>
+ <p>3 bananes</p>
+ <p>4 avocats</p>
+ <p>sel, poivre </p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de citron (ou vinaigre de vin) </p>
+ <p>menthe fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>préparez la vinaigrette</operation> mélanger <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, 3 <ingredient quantite=3>cuillères à soupe</ingredient> d’ huile et 1 de vinaigre ou de jus de <ingredient quantite=1>citron</ingredient>. ebouillantez et <operation temps=3.0min espace=8>pelez les</operation> <ingredient quantite=6>tomates</ingredient>, <operation temps=6.86min espace=8>coupez - les en quartiers ou rondelles</operation>. <operation temps=3.0min espace=8>pelez les</operation> <ingredient quantite=6>kiwis</ingredient>, <operation temps=6.86min espace=8>coupez - les en quartiers ou rondelles</operation>. epluchez les <ingredient quantite=3>bananes</ingredient> et <operation temps=3.0min espace=8>coupez - les en rondelles</operation>. epluchez les <ingredient quantite=4>avocats</ingredient> et <operation temps=6.86min espace=8>découpez - les en quartiers</operation>. mélangez tous les ingrédients avec la vinaigrette et parsemez de <ingredient quantite=1>menthe fraîche</ingredient> (à volonté). tout simple, super <ingredient quantite=1>frais</ingredient> et vitaminé!
+]]>
+ </preparation>
+</recette>

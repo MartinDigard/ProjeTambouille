@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93047">
+ <titre>Poulet à l’ estragon et aux petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet coupé en 8</p>
+ <p>3 échalotes</p>
+ <p>20 cl de sauce tomate </p>
+ <p>10 cl de crème</p>
+ <p>4 brins d’ estragon</p>
+ <p>1 cube de bouillon de poule</p>
+ <p>1 cuillère de moutarde</p>
+ <p>50 g de beurre</p>
+ <p>4 pommes de terre</p>
+ <p>4 carottes</p>
+ <p>250 g de champignons de Paris frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites dorer le <ingredient quantite=1>poulet</ingredient> dans le beurre</operation>. <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation> et <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=3>échalotes</ingredient></operation>. <operation temps=6.86min espace=14>laissez dorer quelques minutes</operation>. ajoutez les <ingredient quantite=4>pommes de terre</ingredient> et les <ingredient quantite=4>carottes</ingredient>. <operation temps=6.86min espace=14>faites - les</operation> dorer rapidement puis ajoutez le <ingredient quantite=1>bouillon de poule</ingredient> dilué dans 1/2 litre d’ eau chaude. <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=4>brins</ingredient> d’ <ingredient quantite=4>estragon</ingredient> et la</operation> <ingredient quantite=1>moutarde</ingredient> puis <operation temps=30.0min espace=14>faites mijoter 30 minutes</operation>. en parallèle, <operation temps=6.86min espace=14>faites revenir les <ingredient quantite=1>champignons</ingredient> dans une <recipient>sauteuse</recipient></operation>. lorsqu’ ils sont cuits, enlevez l’ eau et <operation temps=6.86min espace=14>ajoutez - les à la <recipient>cocotte</recipient> où se</operation> trouvent le <ingredient quantite=1>poulet</ingredient> et les légumes. <operation temps=6.86min espace=14>ajoutez la sauce tomate</operation> et <operation temps=6.86min espace=14>laissez cuire jusqu’ à ce que les légumes soient fondants et <ingredient quantite=1>poulet</ingredient> cuit</operation>. <operation temps=6.86min espace=14>otez le <ingredient quantite=1>poulet</ingredient> et les légumes</operation>. <operation temps=6.86min espace=14>faites réduire l’ eau restante jusqu’ à ce qu’ il n’ y</operation> ait plus qu’ un fond. <operation temps=6.86min espace=14>ajoutez la <ingredient quantite=1>crème</ingredient> fraiche et mélangez</operation>. cela donnera la sauce qui nappera votre <recipient>plat</recipient>.
+]]>
+ </preparation>
+</recette>

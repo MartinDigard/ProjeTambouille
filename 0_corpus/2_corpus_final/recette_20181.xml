@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20181">
+ <titre>Gâteau allégé à la vanille</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>130 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>25 cl de crème fraîche liquide ou semi épaisse allégée</p>
+ <p>un pot de yaourt à la vanille </p>
+ <p>un paquet de levure (ne pas l’ oublier, sinon, c’ est inmangeable!) </p>
+ <p>2 cuillères à soupe de vanille liquide</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>1 cuillère à café de vanille moulue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les 3 <ingredient quantite=3>oeufs</ingredient> entiers. ajouter le <ingredient quantite=1>sucre</ingredient> et bien mélanger. ajouter ensuite la farine, la <ingredient quantite=1>crème fraîche</ingredient>, la <ingredient quantite=1>vanille liquide</ingredient> et <ingredient quantite=1>moulue</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, le <ingredient quantite=1>yaourt</ingredient> et la <ingredient quantite=1>levure</ingredient>. verser la préparation dans un <recipient>moule</recipient> beurré et enfourner dans un <recipient>four</recipient> préchauffé à 180 ° c. cuire environ 35 mn, surveiller.
+]]>
+ </preparation>
+</recette>

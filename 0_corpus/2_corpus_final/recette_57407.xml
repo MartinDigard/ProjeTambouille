@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57407">
+ <titre>Velouté de Choux de Bruxelles à l’ aïl</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une grosse poignée de petits choux de Bruxelles frais</p>
+ <p>un bon verre de lait ou d’ eau (pour le régime) </p>
+ <p>deux cuillères à soupe de farine</p>
+ <p>une gousse d’ aïl (réduire la quantité pour ceux qui craignent l’ aïl) </p>
+ <p>une noix de beurre</p>
+ <p>sel, poivre</p>
+ <p>facultatif: mélange de 5 baies (ou autre assaisonnement) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer les <ingredient quantite=1>choux</ingredient> et les <operation temps=6.86min espace=9>faire cuire à la vapeur</operation>. pendant ce temps, préparer une crème béchamel aïllée: <operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>beurre</ingredient> au fond de la <recipient>cocotte</recipient></operation> ; <operation temps=6.86min espace=9>faire rissoler l’ <ingredient quantite=1>aïl</ingredient></operation> écrasé (de préférence au presse - <ingredient quantite=1>aïl</ingredient>) quelques dizaines de secondes jusqu’ à ce que se dégage un fumet agréable. verser le <ingredient quantite=1>lait</ingredient> (ou l’ <ingredient quantite=1>eau</ingredient>) puis la farine doucement à travers un <recipient>chinois</recipient> (pour éviter les grumeaux) en ne cessant pas de tourner avec un fouet. saler, poivrer. continuer ce manège jusqu’ à ce le <ingredient quantite=1>mélange</ingredient> épaississe (la mixture est prête quand elle nappe une <ingredient quantite=1>cuillère</ingredient>). arrêter la cuisson vapeur des <ingredient quantite=1>choux</ingredient> et les ajouter à la crème. réduire le feu et <operation temps=5.0min espace=9>laisser cuire pendant 5 min</operation>. mixer le tout et assaisonner selon son goût ; avec un <ingredient quantite=1>mélange de baie</ingredient>, ou une autre épice qui se marie avec les <ingredient quantite=1>choux</ingredient>... pour se réconcilier avec les <ingredient quantite=1>choux de bruxelles</ingredient>...
+]]>
+ </preparation>
+</recette>

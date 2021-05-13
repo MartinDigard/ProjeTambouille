@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28019">
+ <titre>Croque normand (version sucrée) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pain de mie</p>
+ <p>beurre salé</p>
+ <p>pommes</p>
+ <p>cannelle</p>
+ <p>1 œuf</p>
+ <p>lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer une tranche de <ingredient quantite=1>pain de mie</ingredient> au beurre <ingredient quantite=1>salé</ingredient>. côté <ingredient quantite=1>beurre</ingredient>, mettre quelques lamelles de <ingredient quantite=1>pommes</ingredient> très fines. saupoudrer de <ingredient quantite=1>cannelle</ingredient>. terminer par la deuxième tranche de <ingredient quantite=1>pain de mie</ingredient> beurrée. tremper ce croque dans un <ingredient quantite=1>œuf</ingredient> battu avec un peu de lait et de la <ingredient quantite=1>cannelle</ingredient>. et mettre à cuire dans une <recipient>poêle</recipient> avec matière grasse bien chaude (de préférence <ingredient quantite=1>beurre salé</ingredient>). le croque doit être croustillant et les <ingredient quantite=1>pommes</ingredient> fondantes. peut être servi avec une boule de glace vanille ou un coulis de caramel. idéal pour terminer un repas fait avec des croques normands version <ingredient quantite=1>salée</ingredient>! bien-sûr, cette version sucrée peut <operation temps=6.86min espace=7>laisser libre court à l’ imagination: à la place des <ingredient quantite=1>pommes</ingredient>, toutes sortes de fruits ou des carrés de chocolat</operation>... pour les goûters, pour les p’ tit déj. a <operation temps=6.86min espace=7>faire à tout heure! du cidre bien-sûr</operation>!
+]]>
+ </preparation>
+</recette>

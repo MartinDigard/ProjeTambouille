@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20058">
+ <titre>BRETZEL DU NOUVEL AN</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de levure de boulanger</p>
+ <p>55 g de sucre en poudre</p>
+ <p>13 cl de lait tiède</p>
+ <p>500 g de farine</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>1 oeuf</p>
+ <p>250 g de beurre ramolli</p>
+ <p>lait concentré</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>mélangez la <ingredient quantite=1>levure</ingredient> avec le lait et une cuillère à café de <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=15.0min espace=12>laissez reposer 15 mn</operation>. <operation temps=6.86min espace=12>mettez la farine dans une <recipient>terrine</recipient></operation> et <operation temps=6.86min espace=12>creusez un puit au centre</operation>. sur les bords extérieurs du puit, <operation temps=6.86min espace=12>ajoutez les 50 g de <ingredient quantite=1>sucre</ingredient></operation> restant, le <ingredient quantite=1>sucre vanillé</ingredient>, le <ingredient quantite=1>sel</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le beurre coupé en morceaux. <operation temps=6.86min espace=12>versez la <ingredient quantite=1>levure</ingredient> délayée au centre</operation>. malaxez pendant 5 mn à l’ aide du batteur équipé de bras pétrisseurs, d’ abord à petite, puis à grande vitesse. <operation temps=6.86min espace=12>réservez un peu de pâte pour le motif décoratif,</operation> puis <operation temps=6.86min espace=12>partagez le reste en trois morceaux égaux</operation>. <operation temps=6.86min espace=12>roulez chaque morceau en boudins, tressez les</operation> et <operation temps=6.86min espace=12>nouez les en forme de bretzel</operation>. avec le reste de pâte, <operation temps=6.86min espace=12>modelez une fleur et des feuilles</operation>. badigeonnez l’ ensemble du bretzel au lait <ingredient quantite=1>concentré</ingredient> avec un pinceau et <operation temps=30.0min espace=12>laissez reposer 30 mn dans un endroit chaud</operation>. puis <operation temps=6.86min espace=12>mettez dans le <recipient>four</recipient> préchauffé à 200 ° c (th 6)</operation> et <operation temps=6.86min espace=12>faites cuire 40</operation> mn. pour <operation temps=6.86min espace=12>offrir</operation>: <operation temps=6.86min espace=12>présentez le bretzel sur une <recipient>planche</recipient> de bois</operation>, enveloppé dans une toile grossière maintenue par un ruban
+]]>
+ </preparation>
+</recette>

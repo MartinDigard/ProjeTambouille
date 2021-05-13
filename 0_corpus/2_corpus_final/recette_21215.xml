@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21215">
+ <titre>Artichauts à la provençale aux anchois</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 artichauts</p>
+ <p>200 g de jambon cuit</p>
+ <p>150 g de champignons </p>
+ <p>4 filets d’ anchois à l’ huile</p>
+ <p>1 poignée de feuilles d’ épinards</p>
+ <p>30 g de beurre</p>
+ <p>3 oeufs (1 jaune d’ oeuf cru + 2 oeufs durs) </p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>1 barde de lard</p>
+ <p>20 cl de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=4>artichauts</ingredient> à l’ eau bouillante salée pendant 20 minutes. les égoutter et les <operation temps=10.0min espace=15>laisser tiédir</operation>. retirer le foin et quelques <ingredient quantite=1>feuilles</ingredient> près de la queue. <operation temps=6.86min espace=15>raccourcir les autres <ingredient quantite=1>feuilles</ingredient> au besoin</operation>. couper le <ingredient quantite=1>jambon</ingredient> et les <ingredient quantite=1>champignons</ingredient> en dés. <ingredient quantite=1>hacher</ingredient> les <ingredient quantite=4>filets</ingredient> d’ <ingredient quantite=4>anchois</ingredient>. <operation temps=6.86min espace=15>faire <ingredient quantite=1>cuire</ingredient> 2 <ingredient quantite=3>oeufs</ingredient> durs pour la suite, les <ingredient quantite=1>hacher</ingredient> en menus morceaux</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=15>faire fondre du beurre avec de l’ <ingredient quantite=4>huile</ingredient></operation>. y jeter les <ingredient quantite=4>anchois</ingredient> et <operation temps=6.86min espace=15>laisser <ingredient quantite=1>cuire</ingredient> pendant quelques minutes en les</operation> écrasant à la fourchette. dans une autre <recipient>poêle</recipient>, <operation temps=6.86min espace=15>faire chauffer le reste de la matière grasse et y</operation> <operation temps=6.86min espace=15>faire fondre les <ingredient quantite=1>épinards</ingredient></operation>. a évaporation de l’ eau, ajouter les <ingredient quantite=1>champignons</ingredient> et le <ingredient quantite=1>jambon</ingredient>. <operation temps=10.0min espace=15>laisser <ingredient quantite=1>cuire</ingredient> pendant 10 minutes</operation> puis ajouter les <ingredient quantite=4>anchois</ingredient>. hors du feu, lier le tout avec le jaune d’ <ingredient quantite=1>oeuf</ingredient> cru, les <ingredient quantite=3>oeufs</ingredient> durs hachés et assaisonner. enfin, <operation temps=6.86min espace=15>remplir les <ingredient quantite=4>artichauts</ingredient> de ce mélange</operation>. préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). disposer la <ingredient quantite=1>barde de lard</ingredient> au fond d’ un <recipient>plat</recipient> allant au <recipient>four</recipient>. poser par - dessus les <ingredient quantite=4>artichauts</ingredient> farcis. mouiller de <ingredient quantite=1>vin blanc</ingredient>, <operation temps=0.25min espace=15>couvrir</operation> et enfourner pour 30 minutes.
+]]>
+ </preparation>
+</recette>

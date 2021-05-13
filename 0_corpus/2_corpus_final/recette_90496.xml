@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90496">
+ <titre>Gratin de pâtes de Léo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de macaronis</p>
+ <p>200 g de lardons</p>
+ <p>20 cl de crème liquide</p>
+ <p>25 cl de coulis de tomates</p>
+ <p>100 g de fromage rapé</p>
+ <p>curry en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>lardons</ingredient> dans un <recipient>plat</recipient> à gratin et les enfourner à 180 ° c (thermostat 6) pendant une quinzaine de minutes. cuire les pâtes pendant la moitié du temps indiqué sur le paquet. les égouter. dans un bol mélanger la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>curry</ingredient> (plus ou moins de <ingredient quantite=1>curry</ingredient> selon les goûts). mélanger les <ingredient quantite=1>lardons</ingredient> cuits, les pâtes et la <ingredient quantite=1>crème curry</ingredient> dans le <recipient>plat</recipient> à gratin. enfourner pendant 20 minutes à 180 ° c (thermostat 6). au bout des 20 minutes, rajouter le <ingredient quantite=1>coulis de tomates</ingredient> et saupoudrer de <ingredient quantite=1>fromage</ingredient>. remettre au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 10 à 15 minutes pour que le <ingredient quantite=1>fromage</ingredient> gratine. déguster.
+]]>
+ </preparation>
+</recette>

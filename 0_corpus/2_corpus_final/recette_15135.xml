@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15135">
+ <titre>Tarte tatin aux pommes de terre et au brie</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de pommes de terre</p>
+ <p>1 pâte feuilletée</p>
+ <p>300 g de brie</p>
+ <p>30 g de beurre</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>2 cuillères à soupe d’ échalote ciselée</p>
+ <p>sel, poivre</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>pommes de terre</ingredient>, les <operation temps=6.86min espace=17>faire cuire à l’ eau bouillante</operation> salée 10 mn, égoutter, <operation temps=10.0min espace=17>laisser tiédir</operation>, couper en rondelles. préchauffer le <recipient>four</recipient> thermostat 6 et beurrer le <recipient>moule</recipient>. répartir la moitié des <ingredient quantite=1>pommes de terre</ingredient> dans le <recipient>moule</recipient>. couper le fromage en lamelles sans enlever la croute, le répartir sur les <ingredient quantite=1>pommes de terre</ingredient> et ranger le reste des <ingredient quantite=1>pommes de terre</ingredient> sur le fromage. saupoudrer de l’ <ingredient quantite=2>échalote ciselée</ingredient>. <operation temps=6.86min espace=17>couvrir le <recipient>plat</recipient> de papier aluminium</operation> et mettre 15 mn au <recipient>four</recipient>. <operation temps=6.86min espace=17>sortir le <recipient>moule</recipient> du <recipient>four</recipient></operation>, remplacer le papier alu par la <ingredient quantite=1>pâte</ingredient> feuilletée et rentrer les bords de la <ingredient quantite=1>pâte</ingredient> à l’ intérieur du <recipient>moule</recipient>. dorer la surface de la <ingredient quantite=1>pâte</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et enfourner 10 mn. pour <operation temps=2.0min espace=17>servir</operation>, retourner la tarte sur un <recipient>plat</recipient> et décorer avec du <ingredient quantite=1>persil</ingredient>.
+]]>
+ </preparation>
+</recette>

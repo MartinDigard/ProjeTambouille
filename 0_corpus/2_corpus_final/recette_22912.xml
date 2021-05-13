@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22912">
+ <titre>Tarte simple aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 aubergine</p>
+ <p>1/2 poivron rouge</p>
+ <p>1/2 brocoli</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>crème fraîche</p>
+ <p>2 oeufs</p>
+ <p>fromage râpé</p>
+ <p>huile d’ olive</p>
+ <p>moutarde</p>
+ <p>persil</p>
+ <p>basilic</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) cuire la <ingredient quantite=1>pâte</ingredient> feuilletée (<recipient>four</recipient> 200 ° c - 10 mn). 2) couper le 1/2 <ingredient quantite=1>poivron</ingredient> en petits cubes, l’ <ingredient quantite=2>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. 3) <operation temps=6.86min espace=18>faire revenir l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=2>ail</ingredient> dans de l’ huile d’</operation> <ingredient quantite=1>olive</ingredient> et ajouter le <ingredient quantite=1>poivron</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>herbes</ingredient> - feu moyen - 10 mn. 4) couper de petits bouquets de <ingredient quantite=1>brocoli</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient> en cubes sans retirer la peau. 5) mettre le <ingredient quantite=1>poivron</ingredient> - <ingredient quantite=2>ail</ingredient> - <ingredient quantite=1>oignon</ingredient> dans un bol - remettre de l’ huile dans la <recipient>poêle</recipient> et ajouter le <ingredient quantite=1>brocoli</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>herbes</ingredient> - feu doux - 10 mn avec couvercle. 6) dans un bol, mélanger 2 <ingredient quantite=2>oeufs</ingredient>, <ingredient quantite=1>crème fraîche</ingredient>, <ingredient quantite=1>persil</ingredient>, <ingredient quantite=1>basilic</ingredient>, <ingredient quantite=1>fromage râpé</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. 7) <operation temps=6.86min espace=18>couvrir la <ingredient quantite=1>pâte</ingredient> de <ingredient quantite=1>moutarde</ingredient> (5 - 6 cuillères à café)</operation>, <operation temps=6.86min espace=18>répartir les <ingredient quantite=1>poivrons</ingredient>, les autres légumes et les <ingredient quantite=2>oeufs</ingredient></operation>. 8) <recipient>four</recipient> 220 - 240 ° c - 20 à 30 mn
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86270">
+ <titre>Poulet facile à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>2 gros oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 boîte moyenne de champignons de Paris entiers</p>
+ <p>1 boîte moyenne de poivrons rouges pelés</p>
+ <p>2 grosses boîtes de tomates pelées</p>
+ <p>Sel, poivre, herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler le <ingredient quantite=1>poulet</ingredient> en morceaux (2 ailes, 2 blancs, 2 pattes et la carcasse). <operation temps=6.86min espace=10>faire dorer le <ingredient quantite=1>poulet</ingredient> à l’ huile d’ olive dans un grand <recipient>faitout</recipient> (ou une <recipient>cocotte</recipient>) pour que la peau</operation> devienne bien colorée et croustillante sur toutes les faces. ajouter les <ingredient quantite=2>oignons</ingredient> coupés en grosses tranches et l’ <ingredient quantite=4>ail</ingredient> coupé grossièrement. mélanger pour <operation temps=6.86min espace=10>répartir les ingrédients</operation>. pendant ce temps, couper les <ingredient quantite=1>poivrons</ingredient> en grosses lamelles (1 cm). avant que l’ <ingredient quantite=1>oignon</ingredient> ne colore, ajouter les <ingredient quantite=1>poivrons</ingredient> et la moitié du jus de la <ingredient quantite=1>boîte</ingredient>. verser le <ingredient quantite=1>sel</ingredient> (généreusement), le poivre et les <ingredient quantite=1>herbes de provence</ingredient>. ajouter les <ingredient quantite=2>tomates</ingredient> en les pressant dans la main pour les réduire en purée (et éviter les éventuels lambeaux de peau qui restent parfois). ajouter le jus des <ingredient quantite=1>boîtes de tomates</ingredient> (jusqu’ à <operation temps=6.86min espace=10>recouvrir le</operation> <ingredient quantite=1>poulet</ingredient>). mélanger pour que le jus descende bien jusqu’ au fond de la <recipient>cocotte</recipient>. <operation temps=6.86min espace=10>couvrir à moitié</operation> et <operation temps=6.86min espace=10>laisser cuire à feu <ingredient quantite=1>moyen</ingredient> pendant 1h30</operation>.
+]]>
+ </preparation>
+</recette>

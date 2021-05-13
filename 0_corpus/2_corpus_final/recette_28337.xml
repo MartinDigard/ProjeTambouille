@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28337">
+ <titre>Poêlée de pommes de terre nouvelles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre bien régulières</p>
+ <p>3 cuillères à soupe de ciboulette hachée</p>
+ <p>30 g de beurre</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et laver les <ingredient quantite=1>pommes de terre</ingredient>. les sécher dans un torchon. <operation temps=6.86min espace=7>faire fondre le beurre dans une <recipient>sauteuse</recipient></operation>. y mettre les <ingredient quantite=1>pommes de terre</ingredient> et secouer la <recipient>casserole</recipient> pour les enrober de beurre. saupoudrer la <ingredient quantite=3>ciboulette hachée</ingredient>, saler, poivrer et mouiller d’ un 1/2 verre d’ eau. laisser cuire à feu très doux environ 20 min selon la taille des <ingredient quantite=1>pommes de terre</ingredient>. dès qu’ elles sont tendres à coeur, ajouter la <ingredient quantite=2>crème</ingredient>. remuer, chauffer à feu vif et <operation temps=2.0min espace=7>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28852">
+ <titre>Charlotte aux fraises et fromage blanc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fraises</p>
+ <p>500 g de fromage blanc</p>
+ <p>sucre</p>
+ <p>kirsch</p>
+ <p>crème anglaise</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>24 biscuits à la culière</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient> mettre le <ingredient quantite=1>fromage blanc</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sucre</ingredient> vanillé, mélanger. mettre du <ingredient quantite=1>kirsch</ingredient> dans une assiette creuse et couper avec un peu d’ eau. prendre un <recipient>moule</recipient> à charlotte et le garnir de biscuits à la cuillère. tremper dans le <ingredient quantite=1>kirsch</ingredient> (juste un aller retour) en commençant par le fond et ensuite tout le tour. verser une couche de <ingredient quantite=1>fromage blanc</ingredient> dans le <recipient>moule</recipient>, puis une couche de <ingredient quantite=1>fraises</ingredient> et une couche de biscuits passés dans le <ingredient quantite=1>kirsch</ingredient>, recommencer une autre fois - terminer par les biscuits. mettre un poids dessus et <operation temps=6.86min espace=11>laisser au <recipient>réfrigérateur</recipient> environ 6 h</operation>. au moment de <operation temps=2.0min espace=11>servir</operation>, démouler et verser de la <ingredient quantite=1>crème anglaise</ingredient> dessus. vin <ingredient quantite=1>blanc</ingredient> doux ou champagne
+]]>
+ </preparation>
+</recette>

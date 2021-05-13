@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46798">
+ <titre>Bol chinois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g Nouilles chinoises</p>
+ <p>200 g lardons</p>
+ <p>1 échalote</p>
+ <p>400 g champignons de Paris</p>
+ <p>200 g poireaux surgelés</p>
+ <p>Ras el hanout</p>
+ <p>Sel</p>
+ <p>Poivre</p>
+ <p>Piment doux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir dans un <recipient>wok</recipient> l’ <ingredient quantite=1>échalote</ingredient></operation> coupée en dés. ajouter les lardons, les poireaux, et les champignons. <operation temps=20.0min espace=14>faire revenir avec les épices, le <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> pendant 20 min sans</operation> <operation temps=0.25min espace=14>couvrir</operation>. il est préférable de rajouter 1/2 verre d’ eau afin que les poireaux cuisent mieux, et que la préparation ne s’ assèche pas. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=14>faire bouillir 1, 5 l d’ eau non</operation> salée. dès ébullition, verser les nouilles <ingredient quantite=1>chinoises</ingredient> et <operation temps=5.0min espace=14>laisser sur le feu moyen 5 min</operation>. ensuite, retirer du feu et avec une fourchette, délayer les nouilles délicatement. <operation temps=0.25min espace=14>couvrir</operation> avec un torchon 5 min. dans un <recipient>saladier</recipient>, verser les nouilles et la préparation, mélanger. dresser dans des bols <ingredient quantite=1><recipient>chinois</recipient></ingredient>. il est possible d’ ajouter à la préparation des pousses de bambous, du soja et champignons noirs, suivant les envies. ce <recipient>plat</recipient> peut se préparer à l’ avance, puis réchauffer ensuite au micro ondes, il n’ en sera que meilleur.
+]]>
+ </preparation>
+</recette>

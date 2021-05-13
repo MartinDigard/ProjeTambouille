@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18558">
+ <titre>Gâteau à la gelée de framboises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>125 g de beurre</p>
+ <p>125 g de sucre</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>3 jaunes d’ œufs</p>
+ <p>1 cuillère à soupe de crème</p>
+ <p>240 g de farine</p>
+ <p>1/4 de paquet de levure</p>
+ <p>Pour la garniture: </p>
+ <p>100 g d’ amandes moulues</p>
+ <p>100 g de sucre</p>
+ <p>3 blancs d’ oeufs en neige</p>
+ <p>3 cuillères à soupe de gelée de framboises ou autre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c. battre pendant 10 mn 125 g de <ingredient quantite=1>sucre</ingredient> avec le <ingredient quantite=1>sucre</ingredient> vanillé et le beurre. ajouter 3 <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient> + la crème + la farine + la <ingredient quantite=1>levure</ingredient>. beurrer un <recipient>moule</recipient> de 30 cm de diamètre (<recipient><recipient>moule</recipient> à tarte</recipient>) puis y étaler la <ingredient quantite=1>pâte</ingredient> à la main. <operation temps=6.86min espace=16>recouvrir en</operation> restant à 1 cm du bord avec la <ingredient quantite=3>gelée</ingredient>. battre les blancs en <ingredient quantite=3>neige</ingredient>, ajouter 100 g de <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=1>amandes moulues</ingredient>. verser ce mélange et l’ étaler sur la <ingredient quantite=3>gelée</ingredient> pour <operation temps=6.86min espace=16>faire un couvercle</operation>. cuire pendant 40 mn à 180 ° c. une fois refroidi, saupoudrer de <ingredient quantite=1>sucre</ingredient> glace.
+]]>
+ </preparation>
+</recette>

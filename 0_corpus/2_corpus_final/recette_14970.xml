@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14970">
+ <titre>Poulet au curry vert et lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de poulet en tranches</p>
+ <p>200 cl de lait de coco</p>
+ <p>2 cuillères à café de pâte de curry vert</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=1>tranches</ingredient> de <ingredient quantite=1>poulet</ingredient> et <operation temps=6.86min espace=4>faites les</operation> <operation temps=6.86min espace=4>revenir avec une goutte d’</operation> huile dans une <recipient>poêle</recipient>. dans un bol, mélanger le lait de <ingredient quantite=1>coco</ingredient> et la <ingredient quantite=2>pâte de curry vert</ingredient>. lorsque le <ingredient quantite=1>poulet</ingredient> est bien doré, ajouter délicatement la sauce et <operation temps=6.86min espace=4>laisser le <ingredient quantite=1>poulet</ingredient></operation> mariner a feu doux pendant quelques minutes. <operation temps=6.86min espace=4>servir avec du riz basmati ou des nouilles chinoises</operation>. vin blanc
+]]>
+ </preparation>
+</recette>

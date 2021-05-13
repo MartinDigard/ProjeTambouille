@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31136">
+ <titre>Tourte aux blettes niçoise</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>500 g de farine</p>
+ <p>2 oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>Pour la garniture: </p>
+ <p>500 g de feuilles de blettes (ou d’ épinards) </p>
+ <p>1 oignon</p>
+ <p>3 tranches de jambon blanc</p>
+ <p>1 oeuf</p>
+ <p>100 g de riz cuit</p>
+ <p>200 g de fromage râpé (gruyère ou parmesan) </p>
+ <p>sel, poivre</p>
+ <p>ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>pâte</ingredient> et la <operation temps=45.0min espace=17>laisser reposer</operation>. pendant ce temps, ôter les côtes de <ingredient quantite=1>blettes</ingredient> (ne garder que la pertie verte des <ingredient quantite=1>feuilles</ingredient>), les laver soigneusement et les <operation temps=30.0min espace=17>faire cuire à l’ <ingredient quantite=2>eau</ingredient> bouillante environ 30 mn</operation>. <operation temps=6.86min espace=17>egoutez - les</operation> et <operation temps=6.86min espace=17>hachez - les</operation> finement. <operation temps=6.86min espace=17>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé fin dans un peu d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=1>blettes</ingredient> avec le <ingredient quantite=3>jambon</ingredient> haché, l’ <ingredient quantite=1>oignon</ingredient> frit, puis ajouter l’ <ingredient quantite=1>oeuf</ingredient> entier, le <ingredient quantite=1>fromage râpé</ingredient> et le <ingredient quantite=1>riz cuit</ingredient>. bien mélanger le tout pour <operation temps=6.86min espace=17>obtenir une farce homogène</operation>. assaisonner avec le <ingredient quantite=1>sel</ingredient>, le poivre et l’ <ingredient quantite=1>ail</ingredient> selon les goûts. etaler la <ingredient quantite=1>pâte</ingredient> au rouleau pour <operation temps=6.86min espace=17>obtenir 2 plaques de <ingredient quantite=1>pâte</ingredient> rectangulaires</operation>. mettre la première <ingredient quantite=1>feuille</ingredient> de <ingredient quantite=1>pâte</ingredient> dans une plaque rectangulaire, bien <operation temps=6.86min espace=17>répartir la farce sur toute la surface</operation> et <operation temps=6.86min espace=17>recouvrir de l’ autre feuille de <ingredient quantite=1>pâte</ingredient> en</operation> prenant soin de bien refermer les côtés aux jointures. enfourner pendant 35 mn à 180 ° c (jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit bien dorée). c’ est la recette de ma grand-mère qui était niçoise... la tradition veut que cette tourte se mange froide en entrée, mais on peut aussi la consommer chaude en <recipient>plat</recipient> unique... car c’ est très nourrissant!
+]]>
+ </preparation>
+</recette>

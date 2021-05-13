@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211975">
+ <titre>Salade de Virginie croquante aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 carottes</p>
+ <p>1 concombre</p>
+ <p>1/2 botte de radis</p>
+ <p>400 g de soja</p>
+ <p>1 petit oignon</p>
+ <p>1 grosse poignée d’ arachides grillées non salées</p>
+ <p>vinaigre</p>
+ <p>huile d’ argan</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>concombre</ingredient> en bâtonnets et le faire dégorger avec du <ingredient quantite=1>gros sel</ingredient> pendant au moins 1h. éplucher et râper les <ingredient quantite=3>carottes</ingredient> puis éplucher également les <ingredient quantite=1>radis</ingredient> et les couper en fines rondelles. ébouillanter le soja frais ou égoutter le soja en boite puis émincer très finement le <ingredient quantite=1>petit oignon</ingredient>. enfin, hacher grossièrement les <ingredient quantite=1>arachides</ingredient>. mélanger bien le tout et assaisonner (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>coriandre</ingredient>)
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30609">
+ <titre>Coupes fromage blanc framboises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de fromage blanc</p>
+ <p>150 g de sucre</p>
+ <p>300 g de framboises</p>
+ <p>100 g de crème fraîche entière</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre le <ingredient quantite=1>fromage blanc</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. ecraser les deux - tiers des <ingredient quantite=1>framboises</ingredient> et les incorporer au <ingredient quantite=1>fromage blanc</ingredient>. fouetter la <ingredient quantite=1>crème fraîche</ingredient> en chantilly et la mélanger délicatement au <ingredient quantite=1>fromage</ingredient>. <operation temps=6.86min espace=4>répartir dans des coupes</operation>. décorer avec les <ingredient quantite=1>framboises</ingredient> entières. <operation temps=2.0min espace=4>servir très frais</operation>.
+]]>
+ </preparation>
+</recette>

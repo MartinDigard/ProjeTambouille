@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170134">
+ <titre>Boeuf sauce arachide (Mafé, Côte d’ Ivoire) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de cube de boeuf à ragoût ou à fondue bourguignonne</p>
+ <p>1 tomate entière fraîche</p>
+ <p>2 piments lampions (dit Habanero ou cloche) </p>
+ <p>500 g de beurre d’ arachide sans sel ni sucre</p>
+ <p>1 oignon jaune haché finement</p>
+ <p>50 cl d’ eau</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=11>faites revenir environ 20 min dans un grand <recipient>faitout</recipient> avec un peu d’</operation> huile, le <ingredient quantite=1>boeuf</ingredient> en <ingredient quantite=1>cube</ingredient>, les assaisonnements et l’ <ingredient quantite=1>oignon haché</ingredient>. il faut que les <ingredient quantite=1>cubes de boeuf</ingredient> se soit un peu <operation temps=6.86min espace=11>attendris</operation>. ajoutez 50 cl d’ <ingredient quantite=1>eau</ingredient>, le beurre d’ <ingredient quantite=1>arachides</ingredient>, la <ingredient quantite=1>tomate entière</ingredient>, sans la percer, posée la tout simplement, et un <ingredient quantite=1>piment lampion</ingredient> sans le percer ou le couper. cuire le tout à couvert durant 20 min. <operation temps=6.86min espace=11>sortez la <ingredient quantite=1>tomate</ingredient> et le <ingredient quantite=1>piment</ingredient> du <recipient>faitout</recipient></operation>. broyez - les au mixer, puis <operation temps=6.86min espace=11>versez ce mélange dans le <recipient>faitout</recipient></operation>. ajoutez le deuxième <ingredient quantite=1>piment entier</ingredient> au <recipient>faitout</recipient> sans le percer. <operation temps=6.86min espace=11>faites bouillir le tout à couvert à très gros bouillon jusqu’ à ce que l’ on</operation> voit apparaître l’ huile du beurre d’ <ingredient quantite=1>arachides</ingredient>, d’ abord en petit rond puis en grande flaques. environ 20 min. rectifiez les assaisonnements (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, ail) et <operation temps=6.86min espace=11>laissez encore</operation> <operation temps=10.0min espace=11>bouillir 10 min à découvert</operation>. <operation temps=6.86min espace=11>servir préférablement avec du riz blanc simple, ou de l’ attiéké</operation>. si la sauce n’ est pas assez liquide, <operation temps=6.86min espace=11>ajoutez un peu d’ <ingredient quantite=1>eau</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

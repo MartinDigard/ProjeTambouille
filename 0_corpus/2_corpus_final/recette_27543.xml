@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27543">
+ <titre>Daube de canard</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2, 5 kg de canard bien tendre</p>
+ <p>1 branche de céleri</p>
+ <p>2 carottes</p>
+ <p>5 cl de cognac</p>
+ <p>60 cl de vin rouge (de votre choix) </p>
+ <p>120 g de lard</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 bouquet garni</p>
+ <p>1 gousse d’ ail</p>
+ <p>250 g de champignons émincés</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>canard</ingredient> en morceaux, les saler et poivrer puis les disposer dans un <recipient>saladier</recipient>. découper le <ingredient quantite=1>lard</ingredient> en lardons. peler et <ingredient quantite=1>émincer</ingredient> le <ingredient quantite=1>céleri</ingredient>, les <ingredient quantite=2>carottes</ingredient> et les oignons, puis les incorporer au <ingredient quantite=1>canard</ingredient> dans le <recipient>saladier</recipient>. mouiller le tout avec le <ingredient quantite=1>cognac</ingredient> et le <ingredient quantite=1>vin rouge</ingredient>, <ingredient quantite=1>bien</ingredient> mélanger et <operation temps=6.86min espace=16>laisser le <ingredient quantite=1>canard</ingredient></operation> mariner pendant au moins 2 h. une fois mariné, l’ égoutter et le sécher avec un linge propre. réserver la marinade. dans une <recipient>cocotte</recipient> huilée, <operation temps=6.86min espace=16>faire revenir le <ingredient quantite=1>lard</ingredient> puis y</operation> ajouter les morceaux de <ingredient quantite=1>canard</ingredient> et cuire à découvert pendant 20 min. laver et détailler les <ingredient quantite=1>champignons</ingredient>. les ajouter dans la <recipient>cocotte</recipient>, avec la marinade, le <ingredient quantite=1>bouquet garni</ingredient> et l’ <ingredient quantite=1>ail</ingredient>, puis <operation temps=6.86min espace=16>faire cuire 1 h 30 à feu très doux</operation>. le <ingredient quantite=1>canard</ingredient> doit être <ingredient quantite=1>tendre</ingredient>. ôter le <ingredient quantite=1>bouquet garni</ingredient>, dégraisser, saler et poivrer. <operation temps=6.86min espace=16>servir directement dans la <recipient>cocotte</recipient></operation>. si la sauce est trop liquide, y incorporer de la maïzena délayée dans un peu d’ eau froide et mélanger pour lier la sauce.
+]]>
+ </preparation>
+</recette>

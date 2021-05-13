@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59145">
+ <titre>Sorbet citron</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre d’ eau</p>
+ <p>1 kg de sucre</p>
+ <p>750 g de jus de citrons frais (non-traités) </p>
+ <p>zestes de citrons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réaliser un sirop avec le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. faire mariner les <ingredient quantite=1>zestes de citron</ingredient> (d’ environ 1 ou 2 <ingredient quantite=1>citrons</ingredient>) dans le sirop et le <operation temps=6.86min espace=7>faire refroidir</operation>. ajouter le <ingredient quantite=1>jus de citrons</ingredient> et mélanger. mettre le mélange dans la <recipient>sorbetière</recipient> ou directement au <recipient>congélateur</recipient> si tout de suite au <recipient>congélateur</recipient>, tourner de temps en temps pour éviter les cristaux de glace!!! cette glace peut s’ utiliser comme trou normand.
+]]>
+ </preparation>
+</recette>

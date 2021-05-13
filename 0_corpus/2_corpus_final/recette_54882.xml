@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54882">
+ <titre>Pain perdu salé au fromage</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>du pain rassis</p>
+ <p>2 oeufs</p>
+ <p>du lait</p>
+ <p>du fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=2>oeufs</ingredient> et le <ingredient quantite=1>lait</ingredient> dans un <recipient>saladier</recipient>. couper le <ingredient quantite=1>pain</ingredient> en tranches assez épaisses pour qu’ elles tiennent bien la cuisson mais pas trop pour qu’ elles soient bien impregnées de mélange <ingredient quantite=2>oeufs</ingredient> - <ingredient quantite=1>lait</ingredient>. <operation temps=6.86min espace=7>faire chauffer une <recipient>poêle</recipient> avec un peu d’ huile ou de beurre</operation> et <operation temps=6.86min espace=7>faire dorer les tranches de <ingredient quantite=1>pain</ingredient> préalablement</operation> trempées dans le mélange <ingredient quantite=2>oeufs</ingredient> - <ingredient quantite=1>lait</ingredient>. dès qu’ elles sont dorées de chaque côté, les disposer sur un <recipient>plat</recipient> et les recouvrir de <ingredient quantite=1>fromage râpé</ingredient> (du comté, c’ est encore meilleur!) a déguster chaud ou tiède avec une salade verte. je tiens cette recette de ma grand-mère dédée et depuis 4 générations, il n’ en reste jamais une miette!
+]]>
+ </preparation>
+</recette>

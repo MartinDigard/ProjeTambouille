@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82547">
+ <titre>Gratin de pâtes bolognaise aux aubergines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 aubergines</p>
+ <p>350 g de viande de boeuf hachée</p>
+ <p>1 grosse boîte de tomates pelées</p>
+ <p>2 cuillères à soupe d’ herbes de Provence</p>
+ <p>250 g de pâtes (penne ou torsades) </p>
+ <p>1 pincée de sel</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>150 g de gruyère râpe</p>
+ <p>250 g de mozzarella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=3>aubergines</ingredient> et les couper en tranches de 3 mm d’ épaisseur dans le sens de la longueur. <operation temps=6.86min espace=15>faire frire les tranches d’ <ingredient quantite=3>aubergines</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> jusqu’ à ce qu’ elles soient</operation> colorées. dans le même temps, dans une autre <recipient>poêle</recipient>, faire revenir la <ingredient quantite=1>viande hachée</ingredient> dans de l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. dès que celle-ci est cuite, y ajouter les <ingredient quantite=1>tomates pelées</ingredient> avec leur jus, les <ingredient quantite=2>herbes de provence</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=30.0min espace=15>laisser mijoter pendant 30 minutes</operation>. <operation temps=6.86min espace=15>faire cuire les <ingredient quantite=1>pâtes</ingredient></operation>. dans un grand <recipient>plat</recipient> allant au <recipient>four</recipient>, verser la moitié des <ingredient quantite=1>pâtes</ingredient>, puis la moitié de la sauce, positionner la moitié des tranches d’ <ingredient quantite=3>aubergines</ingredient> et parsemer avec le <ingredient quantite=1>gruyère</ingredient> rapé. recommencer avec les <ingredient quantite=1>pâtes</ingredient>, la sauce, les <ingredient quantite=3>aubergines</ingredient> et terminer par la mozzarella coupée en fines tranches. mettre le <recipient>plat</recipient> au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) en position <recipient>gril</recipient> jusqu’ à ce que le dessus soit bien gratiné.
+]]>
+ </preparation>
+</recette>

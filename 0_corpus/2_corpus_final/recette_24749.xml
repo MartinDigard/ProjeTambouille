@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24749">
+ <titre>Joue de boeuf mijotée aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de joue de boeuf</p>
+ <p>1 cuillère à soupe de saindoux</p>
+ <p>700 g de carottes</p>
+ <p>560 à 600 g de petits pois (1 grosse boîte) </p>
+ <p>1 bouquet garni</p>
+ <p>3 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>20 cl de vin blanc</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>pelez et émincez l’</operation> <ingredient quantite=1>oignon</ingredient>, <operation temps=6.86min espace=10>pelez et hachez l’ <ingredient quantite=1>ail</ingredient></operation>. enfin, <operation temps=6.86min espace=10>lavez</operation> et <operation temps=6.86min espace=10>coupez les <ingredient quantite=1>carottes</ingredient> en rondelles</operation>. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=10>faites fondre le</operation> <ingredient quantite=1>saindoux</ingredient> et <operation temps=6.86min espace=10>faites - y</operation> <operation temps=6.86min espace=10>revenir la viande jusqu’ à ce qu’ elle soit</operation> colorée sur toutes les faces. ajoutez le <ingredient quantite=1>bouquet garni</ingredient>, les <ingredient quantite=3>oignons</ingredient> émincés, l’ <ingredient quantite=1>ail</ingredient> haché et les <ingredient quantite=1>carottes</ingredient> en rondelles. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. mouillez de <ingredient quantite=1>vin blanc</ingredient> et d’ eau en même quantité puis <operation temps=0.25min espace=10>couvrez</operation>. <operation temps=6.86min espace=10>faites mijoter à très <ingredient quantite=1>petit</ingredient> feu pendant 2 h 30</operation>. plus la cuisson sera douce et longue, meilleure sera la viande. ôtez le <ingredient quantite=1>bouquet garni</ingredient> et ajoutez les <ingredient quantite=1>petits pois</ingredient> égouttés. <operation temps=6.86min espace=10>poursuivez la cuisson à tout <ingredient quantite=1>petit</ingredient> feu jusqu’ au moment de</operation> <operation temps=2.0min espace=10>servir</operation>. servir avec des pommes à l’ anglaise. il est possible d’ ajouter du cognac (5 cl) au jus de cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32966">
+ <titre>Pâtes aux tomates confites, poivron et au chorizo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pâtes</p>
+ <p>150 g de tomates confites</p>
+ <p>1/2 chorizo</p>
+ <p>1 poivron rouge</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir le <ingredient quantite=1>poivron</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter le <ingredient quantite=1>chorizo</ingredient>, les <ingredient quantite=1>tomates</ingredient>, et l’ <ingredient quantite=2>ail</ingredient>. <operation temps=3.0min espace=7>faire cuire le temps que <ingredient quantite=1>chorizo</ingredient> change de couleur (environ 2 à 3 mn</operation>). ajouter ce mélange aux <ingredient quantite=1>pâtes</ingredient> préalablement cuites. servir. on peut ajouter un peu de vinaigre balsamique
+]]>
+ </preparation>
+</recette>

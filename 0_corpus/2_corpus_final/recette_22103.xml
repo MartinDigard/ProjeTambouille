@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22103">
+ <titre>Riz bonzaï</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>2 carottes</p>
+ <p>180 g de petits-pois</p>
+ <p>300 g de crevettes décortiquées </p>
+ <p>200 g de riz (basmati de préférence) </p>
+ <p>safran</p>
+ <p>200 g de champignons noirs </p>
+ <p>1 citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites chauffer le <ingredient quantite=1>riz</ingredient> (environ 500 g pour 2 personnes</operation>). dans une autre <recipient>casserole</recipient> <operation temps=6.86min espace=10>faites chauffer les <ingredient quantite=1>petits-pois</ingredient></operation>. pendant ce temps, <operation temps=6.86min espace=10>râpez les</operation> <ingredient quantite=2>carottes</ingredient> et <operation temps=6.86min espace=10>assaisonez - les du jus de</operation> <ingredient quantite=1>citron</ingredient> et <operation temps=6.86min espace=10>découpez les <ingredient quantite=1>champignons</ingredient> et fines lamelles</operation>. lorsque les cuissons sont terminées <operation temps=6.86min espace=10>mélangez les <ingredient quantite=1>petits-pois</ingredient> aux <ingredient quantite=1>crevettes</ingredient> fraîches et aux <ingredient quantite=1>champignons</ingredient>,</operation> puis <operation temps=6.86min espace=10>rajoutez en dernier les <ingredient quantite=2>carottes</ingredient></operation> râpées. <operation temps=6.86min espace=10>versez le <ingredient quantite=1>riz</ingredient> dans un grand <recipient>plat</recipient></operation> et " <operation temps=6.86min espace=10>renversez " le mélange au dessus</operation>. <operation temps=6.86min espace=10>assaisonnez pour</operation> <operation temps=6.86min espace=10>finir d’ un peu de <ingredient quantite=1>safran</ingredient>, de poivre et de <ingredient quantite=1>sel</ingredient></operation>. c’ est prêt!! bon appétit.
+]]>
+ </preparation>
+</recette>

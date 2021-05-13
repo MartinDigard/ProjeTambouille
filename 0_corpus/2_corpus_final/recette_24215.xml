@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24215">
+ <titre>Gratin de pommes de terre aux épinards</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ épinards</p>
+ <p>750 g de pommes de terre</p>
+ <p>150 g de crème fraîche</p>
+ <p>50 g de gruyère râpé</p>
+ <p>30 g de beurre</p>
+ <p>sel, poivre et noix de muscade</p>
+ <p>quelques croûtons frits</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites fondre les <ingredient quantite=1>épinards</ingredient> dans une <recipient>sauteuse</recipient> avec le beurre</operation> fondu en remuant avec une fourchette. puis <operation temps=4.0min espace=11>égouttez - les</operation>. faites cuire les <ingredient quantite=1>pommes de terre</ingredient> non pelées à l’ eau bouillante 15 - 20 minutes selon leur taille. <operation temps=6.86min espace=11>vérifiez la cuisson de la pointe du couteau</operation>. <operation temps=3.0min espace=11>pelez</operation> - les et <operation temps=3.0min espace=11>coupez - les en rondelles</operation>. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=11>beurrez un <recipient>plat</recipient> à <recipient>four</recipient> et déposez - y les <ingredient quantite=1>épinards</ingredient> puis un peu de <ingredient quantite=1>crème</ingredient></operation>. recouvrez de rondelles de <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et saupoudrez de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=11>versez le reste de la</operation> <ingredient quantite=1>crème</ingredient> et <operation temps=15.0min espace=11>enfournez 15 minutes</operation>. garnissez de <ingredient quantite=1>croûtons</ingredient> et <operation temps=2.0min espace=11>servez</operation>.
+]]>
+ </preparation>
+</recette>

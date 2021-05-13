@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95114">
+ <titre>Tourte mexicaine au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la tourte: </p>
+ <p>2 fajitas</p>
+ <p>1/2 tasse de sauce à tacos (pour chips par exemple) </p>
+ <p>2 blancs de poulet</p>
+ <p>1 tasse de cheddar râpé</p>
+ <p>2 jeunes oignons hâchés</p>
+ <p>Pour la sauce aigre: </p>
+ <p>1 pot yaourt nature non sucré</p>
+ <p>2 cuillères à soupe de mayonnaise </p>
+ <p>jus de citron</p>
+ <p>épices mexicaines</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la <ingredient quantite=1>sauce aigre</ingredient>: <operation temps=6.86min espace=12>mélangez la <ingredient quantite=2>mayonnaise</ingredient> et le <ingredient quantite=1>yaourt</ingredient></operation>. rajoutez 3 <ingredient quantite=2>cuillères</ingredient> à café de <ingredient quantite=1>jus de citron</ingredient> et les <ingredient quantite=1>épices mexicaines</ingredient>. <operation temps=5.0min espace=12>mélangez le tout</operation>. <operation temps=6.86min espace=12>réajustez les ingrédients en fonction de votre goût</operation>. la <ingredient quantite=1>tourte</ingredient>: hachez les <ingredient quantite=2>oignons</ingredient>. emincez les blancs de <ingredient quantite=2>poulet</ingredient> et <operation temps=6.86min espace=12>faites les</operation> cuire. <operation temps=6.86min espace=12>huilez légèrement une <recipient>poêle</recipient> assez grande pour y</operation> déposer une fajitas, <operation temps=6.86min espace=12>chauffez à feu doux</operation>. déposez - y une fajitas et tartinez -là de la <ingredient quantite=1>sauce à tacos</ingredient>. parsemez avec les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=12>ajoutez - y les émincés de <ingredient quantite=2>poulet</ingredient></operation>. parsemez le tout du <ingredient quantite=1>cheddar râpé</ingredient>. <operation temps=6.86min espace=12>recouvrez avec la deuxième <ingredient quantite=2>fajitas</ingredient></operation>. <operation temps=6.86min espace=12>laissez cuire 2 - 3 minutes, retournez l’ ensemble</operation> et <operation temps=6.86min espace=12>laissez cuire à nouveau, toujours à feu doux pour ne pas</operation> brûler les fajitas. c’ est prêt quand la préparation est chaude et le fromage bien fondu pour <operation temps=6.86min espace=12>faire tenir le tout ensemble</operation>! <operation temps=6.86min espace=12>découpez en 8 morceaux, à</operation> manger avec les doigts en trempant dans la <ingredient quantite=1>sauce aigre</ingredient>! variantes: vous pouvez aussi servir en entrée / apéro pour un souper <ingredient quantite=1>mexicain</ingredient>. <operation temps=6.86min espace=12>ajoutez du guacamole comme <ingredient quantite=1>sauce</ingredient> pour</operation> tremper. vous pouvez aussi remplacer le <ingredient quantite=2>poulet</ingredient> par du <ingredient quantite=1>hâché</ingredient> de boeuf ou sans viande! bon appétit
+]]>
+ </preparation>
+</recette>

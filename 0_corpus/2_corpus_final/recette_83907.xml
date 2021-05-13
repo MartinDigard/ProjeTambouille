@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83907">
+ <titre>Poulet sauce piquante</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>1 oignon</p>
+ <p>2 cuillères à soupe de Vermouth blanc</p>
+ <p>3 gousses d’ ail</p>
+ <p>½ cuillère à café de sel</p>
+ <p>4 rondelles d’ ananas</p>
+ <p>Pour la sauce piquante: </p>
+ <p>2 verres de bouillon</p>
+ <p>1 cuillère à café de purée de piment</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>4 cuillères à soupe de sauce tomate</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ <p>20 gouttes d’ huile de sésame (facultatif) </p>
+ <p>1 cuillère à soupe de fécule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>coupez le <ingredient quantite=4>poulet</ingredient> en morceaux (2x2 cm</operation>). <operation temps=6.86min espace=15>saupoudrez de <ingredient quantite=1>sel</ingredient> et poivre</operation>. <operation temps=6.86min espace=15>aspergez de</operation> <ingredient quantite=1>vermouth</ingredient>, <operation temps=30.0min espace=15>laissez mariner 30 minutes</operation>. hachez l’ <ingredient quantite=3>ail</ingredient>. <operation temps=6.86min espace=15>émincez l’ <ingredient quantite=1>oignon</ingredient></operation>. mélangez dans un bol tous les éléments de la <ingredient quantite=1>sauce piquante</ingredient>. faites chauffer 4 <ingredient quantite=2>cuillères à soupe</ingredient> d’ huile dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=15>faites revenir l’ <ingredient quantite=3>ail</ingredient> pendant 15 secondes</operation> puis <operation temps=6.86min espace=15>ajoutez le</operation> <ingredient quantite=4>poulet</ingredient> et <operation temps=6.86min espace=15>faites - le</operation> sauter pendant 5 minutes en remuant de temps en temps. <operation temps=6.86min espace=15>incorporez l’</operation> <ingredient quantite=1>oignon</ingredient> puis <operation temps=2.0min espace=15>laissez cuire 2 minutes en</operation> tournant sans arrêt. <operation temps=6.86min espace=15>réglez le feu à allure modérée</operation>, <operation temps=6.86min espace=15>ajoutez la</operation> <ingredient quantite=1>sauce</ingredient> et <operation temps=6.86min espace=15>laissez cuire en</operation> tournant doucement et sans arrêt jusqu’ à épaississement. <operation temps=6.86min espace=15>ajoutez les tranches d’ ananas</operation>, <operation temps=6.86min espace=15>servez rapidement</operation>. l’ <ingredient quantite=1>huile de sésame</ingredient> n’ est pas forcément facile à trouver mais n’ est vraiment pas essentielle. pour ceux qui aime bien la <ingredient quantite=1>sauce</ingredient> n’ hésitez pas à augmenter un peu les proportions. vin <ingredient quantite=2>blanc</ingredient> sec (sancerre par exemple) ou rosé
+]]>
+ </preparation>
+</recette>

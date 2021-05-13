@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29325">
+ <titre>Piperade Landaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 à 700 kg de tomates</p>
+ <p>environ 16 piments verts doux</p>
+ <p>4 tranches de jambon de Bayonne épaisses</p>
+ <p>4 oeufs</p>
+ <p>1 petit oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher l’ <ingredient quantite=1>oignon</ingredient>, épépiner et fendre les <ingredient quantite=1>piments</ingredient> en deux, écraser l’ <ingredient quantite=1>ail</ingredient>. peler et épépiner les <ingredient quantite=1>tomates</ingredient>, les hacher grossièrement. <operation temps=6.86min espace=10>faire colorer l’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>sauteuse</recipient> avec un peu d’ <ingredient quantite=1>huile</ingredient></operation>. ajouter les <ingredient quantite=1>piments</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et les <ingredient quantite=1>tomates</ingredient>. saler, poivrer et <operation temps=30.0min espace=10>laisser mijoter jusqu’ à ce que le liquide soit évaporé, environ 30 min</operation>. faire dorer les <ingredient quantite=4>tranches de jambon</ingredient> à la <recipient>poêle</recipient>. verser le gras rendu dans les légumes. battre les <ingredient quantite=4>oeufs</ingredient> en omelette. hors du feu, les verser dans les <ingredient quantite=1>tomates</ingredient> et mélanger, remettre sur feu <ingredient quantite=1>doux</ingredient> en remuant pour ne pas cuire les <ingredient quantite=4>oeufs</ingredient> complètement. servir avec les <ingredient quantite=4>tranches de jambon</ingredient> posées sur le tout.
+]]>
+ </preparation>
+</recette>

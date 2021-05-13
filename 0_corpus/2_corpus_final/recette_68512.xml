@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68512">
+ <titre>Biscuit de Savoie à l’ ancienne</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 gros oeufs</p>
+ <p>150 g de sucre en poudre</p>
+ <p>50 g de farine</p>
+ <p>50 g de fécule de pommes de terre</p>
+ <p>le zeste râpé d’ un citron</p>
+ <p>1 pincée de sel fin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>séparez les blancs des jaunes d’ <ingredient quantite=6>oeufs</ingredient></operation>. <operation temps=6.86min espace=9>travaillez</operation> longuement les jaunes avec le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>sucre</ingredient>, jusqu’ à blanchiment. ajoutez la farine tamisée, la <ingredient quantite=1>fécule</ingredient>, le <ingredient quantite=1>zeste râpé</ingredient>. battez les blancs en neige ferme. <operation temps=6.86min espace=9>incorporez à la pâte 2 cuillères à soupe de blancs</operation> battus et remuez énergiquement pour l’ <operation temps=6.86min espace=9>assouplir</operation>. <operation temps=6.86min espace=9>versez le reste des blancs d’</operation> <ingredient quantite=6>oeufs</ingredient> et <operation temps=6.86min espace=9>incorporez - les délicatement de façon à</operation> <operation temps=6.86min espace=9>obtenir une pâte à la fois légère et ferme</operation>. <operation temps=6.86min espace=9>versez la pâte dans un <recipient><recipient>moule</recipient> à manqué</recipient> de 26 cm de</operation> diamètre, beurré et sucré. <operation temps=40.0min espace=9>enfournez 40 min au <recipient>four</recipient> préchauffé à 190 ° c (thermostat 6 - 7</operation>). <operation temps=6.86min espace=9>démoulez immédiatement en</operation> retournant le <recipient>moule</recipient> sur une grille. <operation temps=6.86min espace=9>dégustez le gâteau</operation> tiède ou froid avec des confitures maison: myrtilles, abricot, fraises... <operation temps=6.86min espace=9>servir avec une roussette de seyssel, un blanc fruité de</operation> savoie
+]]>
+ </preparation>
+</recette>

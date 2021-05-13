@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54965">
+ <titre>Sandwich de tuiles aux fruits exotiques</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>18 tuiles aux amandes</p>
+ <p>250 g de mascarpone </p>
+ <p>50 g de sucre glace</p>
+ <p>1 mangue</p>
+ <p>2 kiwis</p>
+ <p>6 litchis</p>
+ <p>1 pincée de gingembre en poudre (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fouetter le <ingredient quantite=1>mascarpone</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>gingembre</ingredient> dans un <recipient>saladier</recipient>. eplucher les fruits, couper les en petit dés. puis les mélanger au <ingredient quantite=1>mascarpone</ingredient>. tartiner 2 <ingredient quantite=1>tuiles</ingredient> avec le mélange: <ingredient quantite=1>mascarpone</ingredient> + fruits, les superposer, et rajouter une derniere tuile afin de <operation temps=6.86min espace=8>faire un sandwich</operation>. <operation temps=2.0min espace=8>servir aussitôt</operation>, <operation temps=6.86min espace=8>régalez vous!!! cette recette</operation> peut se <operation temps=6.86min espace=8>faire avec toutes sortes de fruits</operation>. au lieu de mettre du <ingredient quantite=1>gingembre</ingredient> (pour ceux qui n’ aiment pas) mettre du <ingredient quantite=1>sucre</ingredient> vanillé...
+]]>
+ </preparation>
+</recette>

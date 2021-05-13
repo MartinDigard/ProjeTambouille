@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42346">
+ <titre>Ragoût d’ asperges</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ asperges fraîches</p>
+ <p>4 tranches de poitrine de porc fraîche</p>
+ <p>1 gros oignon</p>
+ <p>2 cuillères à soupe de farine </p>
+ <p>1 cube de bouillon de poule </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire revenir dans un peu d’ huile, l’ <ingredient quantite=1>oignon</ingredient></operation> émincé. quand il a bien doré, le retirer, et mettre la <ingredient quantite=4>poitrine</ingredient> coupée en <ingredient quantite=1>gros</ingredient> morceaux, à la place. la <operation temps=6.86min espace=6>faire dorer, puis la</operation> retirer. couper les <ingredient quantite=1>asperges</ingredient> (pelées) en 4, et les <operation temps=5.0min espace=6>faire revenir 5 min</operation>. saupoudrer de farine, et <operation temps=2.0min espace=6>faire cuire 2 min</operation>. ajouter la <ingredient quantite=4>poitrine</ingredient> et les <ingredient quantite=1>oignons</ingredient>. bien remuer le tout. <operation temps=2.0min espace=6>couvrir d’ eau</operation> froide, et ajouter le <ingredient quantite=1>cube de bouillon</ingredient> de volaille, le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=6.86min espace=6>faire cuire 1 heure environ</operation>.
+]]>
+ </preparation>
+</recette>

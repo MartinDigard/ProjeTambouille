@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20405">
+ <titre>Tarte au kiwis et à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 kiwis</p>
+ <p>80 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>120 g de noix de coco râpée</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pâte sablée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et mixer la chair de 3 <ingredient quantite=4>kiwis</ingredient>. <operation temps=6.86min espace=8>fouettez 2 <ingredient quantite=2>oeufs</ingredient> entier avec 80 g de</operation> <ingredient quantite=1>sucre</ingredient>, ajoutez la <ingredient quantite=1>noix de coco râpée</ingredient> et la chair mixée. <operation temps=6.86min espace=8>garmissez un <recipient>moule</recipient> de pâte</operation> <ingredient quantite=1>sablée</ingredient>, <operation temps=6.86min espace=8>versez - y la préparation en</operation> prenant soin de bien la <operation temps=3.0min espace=8>répartir</operation>. <operation temps=20.0min espace=8>faites cuire 20 min dans le <recipient>four</recipient> préchauffé sur th 7 (210 ° c</operation>). saupoudrez de <ingredient quantite=1>sucre vanillé</ingredient>, <operation temps=6.86min espace=8>décorez de rondelles de</operation> <ingredient quantite=4>kiwis</ingredient> et <operation temps=10.0min espace=8>faites cuire pendant 10 min</operation>. servir frais. champagne
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29437">
+ <titre>Salade d’ oeuf à la grecque</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs mollets</p>
+ <p>4 olives vertes</p>
+ <p>4 olives noires</p>
+ <p>30 g de feta</p>
+ <p>quelques feuilles de salade</p>
+ <p>sauce de votre choix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposez les <ingredient quantite=1>feuilles de salade</ingredient> au fond d’ une assiette. <operation temps=6.86min espace=6>coupez les <ingredient quantite=2>oeufs</ingredient> en 4</operation> et <operation temps=6.86min espace=6>disposez - les en rosace</operation>. <operation temps=6.86min espace=6>emiettez la <ingredient quantite=1>feta</ingredient> par dessus</operation>. parsemez de morceaux d’ <ingredient quantite=4>olives</ingredient> et dégustez avec la sauce de <ingredient quantite=1>votre choix</ingredient>. si vous utilisez des <ingredient quantite=4>olives</ingredient> aromatisées (au pistou par exemple), vous pouvez supprimer la sauce. intéressant si on surveille sa ligne!
+]]>
+ </preparation>
+</recette>

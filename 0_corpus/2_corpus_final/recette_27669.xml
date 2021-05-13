@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27669">
+ <titre>Tourte de blettes au jambon cru</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 botte de blettes</p>
+ <p>6 oeufs durs</p>
+ <p>6 tranches de jambon cru</p>
+ <p>450 g de pâte feuilletée </p>
+ <p>1 oeuf pour dorer</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher grossièrement les <ingredient quantite=1>blettes</ingredient> et les <operation temps=20.0min espace=7>faire cuire 20 minutes à l’ eau bouillante</operation> salée. couper les <ingredient quantite=6>oeufs durs</ingredient> en quartiers et le <ingredient quantite=6>jambon</ingredient> en morceaux. préchauffer le <recipient>four</recipient> à 240 ° c (thermostat 8). partager la <ingredient quantite=1>pâte feuilletée</ingredient> en deux. etaler en rectangles de <ingredient quantite=1>pâte</ingredient> de même dimension. sur l’ un des rectangles de <ingredient quantite=1>pâte</ingredient>, disposer en couches alternées, les bettes, le <ingredient quantite=6>jambon</ingredient> et les <ingredient quantite=6>oeufs</ingredient>. assaisonner puis <operation temps=6.86min espace=7>recouvrir du deuxième rectangle de <ingredient quantite=1>pâte</ingredient></operation>. souder les bords avec un peu d’ eau et <ingredient quantite=1>dorer</ingredient> à l’ <ingredient quantite=1>oeuf</ingredient>. enfourner 20 minutes. <operation temps=6.86min espace=7>servir aussi bien chaud que froid</operation> ou tiède.
+]]>
+ </preparation>
+</recette>

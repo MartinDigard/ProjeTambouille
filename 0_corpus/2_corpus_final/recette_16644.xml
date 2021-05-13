@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16644">
+ <titre>Clafoutis aux tomates cerises</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de tomates cerise</p>
+ <p>400 g de pâte brisée</p>
+ <p>1 bouquet de persil</p>
+ <p>20 cl de crème fraîche</p>
+ <p>3 oeufs</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte brisée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. disposer les <ingredient quantite=1>tomates</ingredient> sur le fond. ciseler le <ingredient quantite=1>persil</ingredient> et en parsemer les <ingredient quantite=1>tomates</ingredient>. battre les œufs et la <ingredient quantite=1>crème fraîche</ingredient>. saler, poivrer. verser la préparation sur la tarte et cuire au <recipient>four</recipient> (180 ° c) pendant une demi-heure.
+]]>
+ </preparation>
+</recette>

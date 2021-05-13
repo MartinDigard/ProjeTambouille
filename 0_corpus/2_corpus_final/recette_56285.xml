@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56285">
+ <titre>Aubergines au jambon et à la mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 aubergines</p>
+ <p>4 tranches de jambon</p>
+ <p>8 tranches de mozzarella</p>
+ <p>1 oeuf</p>
+ <p>chapelure</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper les <ingredient quantite=4>aubergines</ingredient> en rondelles de 5 mm d’ épaisseur. les <operation temps=40.0min espace=9>faire cuire, sur la grille du <recipient>four</recipient> à 200 ° c pendant environ 40 minutes</operation>. c’ est normal si elles ont l’ <operation temps=6.86min espace=9>air un peu sèches</operation>. tremper une seule face des <ingredient quantite=4>tranches</ingredient> d’ <ingredient quantite=4>aubergines</ingredient> dans un <ingredient quantite=1>oeuf</ingredient> battu et de la <ingredient quantite=1>chapelure</ingredient>. sur la face sans <ingredient quantite=1>chapelure</ingredient>, ajouter une <ingredient quantite=4>tranche de jambon</ingredient>, puis une de <ingredient quantite=8>mozzarella</ingredient>. saler et poivrer et ajouter l’ autre <ingredient quantite=1>tranche</ingredient> d’ <ingredient quantite=4>aubergines</ingredient> pour former comme un croque - monsieur. <operation temps=6.86min espace=9>faire cuire rapidement dans une <recipient>poêle</recipient> dans un peu d’</operation> huile.
+]]>
+ </preparation>
+</recette>

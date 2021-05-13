@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43652">
+ <titre>Pain irlandais aux pommes (gâteau) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre</p>
+ <p>200 g de sucre</p>
+ <p>200 g de farine</p>
+ <p>8 cuillères à soupe de lait</p>
+ <p>2 pommes</p>
+ <p>1 paquet de levure</p>
+ <p>cognac ou rhum</p>
+ <p>2 oeufs</p>
+ <p>zeste + le jus d’ 1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire ramollir le beurre, et le travailler avec le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>zeste</ingredient>, et le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient></operation>. ajouter la farine. incorporer le <ingredient quantite=8>lait</ingredient> et le <ingredient quantite=1>rhum</ingredient>. couper les <ingredient quantite=2>pommes</ingredient> en tranches. beurrer un <recipient>moule</recipient> à cake. alterner 1 lit de pâte, 1 lit de <ingredient quantite=2>pommes</ingredient>... terminer par un lit de <ingredient quantite=2>pommes</ingredient>. enfourner à 180 ° c (thermostat 6), pendant 45 min. cidre
+]]>
+ </preparation>
+</recette>

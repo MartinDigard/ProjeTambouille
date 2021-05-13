@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34273">
+ <titre>Fricassée de poulet aux figues</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet de 1, 2 kg coupé en morceaux</p>
+ <p>6 figues (fraîches ou sèches) </p>
+ <p>20 g de beurre</p>
+ <p>10 cl de vin blanc</p>
+ <p>1 cuillère à soupe de sirop de canne</p>
+ <p>1 cuillère à café de gingembre</p>
+ <p>1 cuillère à café de coriandre en poudre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>4 cuillères à soupe de vinaigre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>autocuiseur</recipient>, <operation temps=6.86min espace=14>faites revenir vivement les <ingredient quantite=1>morceaux</ingredient> de poulet dans l’ <ingredient quantite=2>huile</ingredient> et le beurre</operation>. <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation> et <operation temps=6.86min espace=14>ajoutez les épices</operation>. <operation temps=6.86min espace=14>versez la farine en pluie</operation>, <operation temps=5.0min espace=14>mélangez</operation>, <operation temps=3.0min espace=14>laissez cuire 3 mn à feu doux</operation>. <operation temps=6.86min espace=14>versez le <ingredient quantite=1>vinaigre</ingredient>,</operation> puis ajoutez le <ingredient quantite=1>vin blanc</ingredient> et le <ingredient quantite=1>sirop de canne</ingredient>. <operation temps=6.86min espace=14>complétez avec 1 verre d’ eau pour</operation> <operation temps=6.86min espace=14>mouillez la volaille à mi-hauteur</operation>. <operation temps=6.86min espace=14>fermez la <recipient>cocotte</recipient></operation>. dès le sifflement de la soupape, <operation temps=6.86min espace=14>baissez le feu</operation> et <operation temps=20.0min espace=14>laissez cuire 15 - 20 mn</operation>. <operation temps=6.86min espace=14>retirez les <ingredient quantite=1>morceaux</ingredient> de poulet</operation>. <operation temps=6.86min espace=14>otez la queue des <ingredient quantite=6>figues</ingredient>,</operation> puis <operation temps=6.86min espace=14>ajoutez les fruits dans la <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=14>laissez cuire 5 bonnes minutes à feu doux jusqu’ à obtention d’ une sauce nappante</operation>. rectifiez l’ assaisonnement. disposez dans chaque assiette quelques <ingredient quantite=1>morceaux</ingredient> de poulet nappés de sauce aux <ingredient quantite=6>figues</ingredient>. <operation temps=6.86min espace=14>servez par exemple avec des marrons ou des pommes de terre</operation>.
+]]>
+ </preparation>
+</recette>

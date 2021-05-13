@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25842">
+ <titre>Boulettes croustillantes au thon et aux anchois</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>350 g de thon en boîte au naturel</p>
+ <p>75 g d’ anchois au sel</p>
+ <p>1 oeuf</p>
+ <p>2 tasses de corn flakes nature</p>
+ <p>1 cuillère à soupe de chapelure (ou 1 biscotte écrasée) </p>
+ <p>1 oignon</p>
+ <p>1 poignées de persil frais</p>
+ <p>2 cuillères à café de moutarde</p>
+ <p>2 cuillères à soupe de mayonnaise</p>
+ <p>30 g de beurre mou</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>egouttez le <ingredient quantite=1>thon</ingredient></operation>. <operation temps=6.86min espace=14>rincez les <ingredient quantite=1>anchois</ingredient> à l’ eau</operation> froide plusieurs fois. hachez l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=14>mélangez le tout avec la <ingredient quantite=2>moutarde</ingredient>, la <ingredient quantite=2>mayonnaise</ingredient> et l’ <ingredient quantite=1>oeuf</ingredient></operation> battu. <operation temps=6.86min espace=14>ajoutez le</operation> <ingredient quantite=1>beurre</ingredient> et <operation temps=6.86min espace=14>formez des boulettes</operation>. ecrasez grossièrement les <ingredient quantite=2>corn</ingredient> - flakes. passez les boulettes dedans en appuyant légèrement. <operation temps=10.0min espace=14>faites griller les boulette sous le grill du <recipient>four</recipient> ou au <recipient>barbecue</recipient> environ 10 minutes</operation>. on peut aussi les <operation temps=6.86min espace=14>faire frire ou les</operation> cuire à la <recipient>casserole</recipient> dans un peu d’ huile.
+]]>
+ </preparation>
+</recette>

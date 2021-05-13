@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63988">
+ <titre>Crumble tomate thon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates moyennes</p>
+ <p>140 g de thon égoutté</p>
+ <p>2 oignons moyens</p>
+ <p>200 g de farine</p>
+ <p>100 g de beurre fondu</p>
+ <p>1 cuillère à café rase de sel</p>
+ <p>100 g de fromage (gruyère) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). emincer les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=10>faire dorer à la <recipient>poêle</recipient> dans du beurre</operation>. réduire le <ingredient quantite=1>fromage</ingredient> en miettes (au <recipient>mixeur</recipient>). mélanger la farine, le <ingredient quantite=1>sel</ingredient>, le beurre <ingredient quantite=1>fondu</ingredient> et le <ingredient quantite=1>fromage</ingredient> pour <operation temps=6.86min espace=10>obtenir un sable grossier</operation>. epépiner les <ingredient quantite=6>tomates</ingredient> et les couper en gros dés. dans une tourtière à bords hauts, mettre les <ingredient quantite=6>tomates</ingredient>, le <ingredient quantite=1>thon</ingredient> en miettes, les <ingredient quantite=2>oignons</ingredient> puis la pâte et tasser légèrement le tout. cuire 40 minutes.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227720">
+ <titre>Wok de poisson et chou chinois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500/600 g de poisson blanc </p>
+ <p>750 g de carottes crues</p>
+ <p>3/4 d’ un chou chinois</p>
+ <p>4 cuillères à soupe de sauce soja</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient> en fines lamelles et râper les <ingredient quantite=1>carottes</ingredient> avec une mandoline. faire mariner le <ingredient quantite=1>poisson blanc</ingredient> couper en dés dans de la <ingredient quantite=4>sauce soja</ingredient> et le jus de <ingredient quantite=1>citron</ingredient> + sel / poivre. <operation temps=6.86min espace=8>faire chauffer le <recipient>wok</recipient></operation>, verser 1 fond d’ eau + <ingredient quantite=4>sauce soja</ingredient> et y faire blanchir le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient> et ajouter ensuite les <ingredient quantite=1>carottes</ingredient> râpées. ajouter le <ingredient quantite=1>poisson</ingredient>. <operation temps=6.86min espace=8>laisser mijoter à feu doux</operation> et ajouter de la <ingredient quantite=4>sauce soja</ingredient> + sel / poivre selon les préférences. <operation temps=6.86min espace=8>servir avec un mélange de riz sauvage</operation>.
+]]>
+ </preparation>
+</recette>

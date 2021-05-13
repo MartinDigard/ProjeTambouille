@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13429">
+ <titre>Gâteau de carottes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>200 g de sucre en poudre</p>
+ <p>2 cuillères à soupe d’ eau chaude</p>
+ <p>1 pincée de cannelle</p>
+ <p>1/2 citron (jus et zeste) </p>
+ <p>250 g de noisettes moulues</p>
+ <p>250 g de carottes</p>
+ <p>1 pincée de sel</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>Pour la décoration: </p>
+ <p>200 g de sucre glace</p>
+ <p>1 blanc d’ oeuf</p>
+ <p>1 cuillère à soupe de kirsch ou de citron</p>
+ <p>gelée d’ abricot</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>séparez les</operation> <ingredient quantite=4>oeufs</ingredient> et <operation temps=6.86min espace=17>battez les jaunes avec le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=2>eau</ingredient>, la <ingredient quantite=1>cannelle</ingredient>, le zeste de <ingredient quantite=1>citron</ingredient> et son jus</operation>. <operation temps=6.86min espace=17>incorporez ensuite les <ingredient quantite=1>noisettes</ingredient> et les <ingredient quantite=1>carottes</ingredient></operation> râpées, puis <operation temps=8.0min espace=17>mélangez bien</operation>. battez les <ingredient quantite=1>blancs</ingredient> en neige en ajoutant le <ingredient quantite=1>sel</ingredient>. les incorporez délicatement, en alternant avec le mélange de farine et de <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=17>mettez le tout dans une tourtière beurrée</operation> et mettre au <recipient>four</recipient> froid, au bas du <recipient>four</recipient>. <operation temps=50.0min espace=17>faites cuire 50 mn à 180 ° c</operation>. pour <ingredient quantite=1>la décoration</ingredient>, <operation temps=6.86min espace=17>mélangez le <ingredient quantite=1>sucre</ingredient> le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>kirsch</ingredient> de manière à</operation> <operation temps=6.86min espace=17>obtenir un mélange bien lisse, ce glaçage de <ingredient quantite=1>sucre</ingredient></operation> doit être épais. <operation temps=6.86min espace=17>démoulez le gâteau encore</operation> chaud. <operation temps=6.86min espace=17>recouvrez la surface de <ingredient quantite=1>gelée</ingredient> d’ <ingredient quantite=1>abricot</ingredient> et de <ingredient quantite=1>glace</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

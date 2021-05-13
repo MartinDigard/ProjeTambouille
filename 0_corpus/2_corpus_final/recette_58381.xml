@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58381">
+ <titre>Linguine tièdes aux tomates fraîches, mozzarella et basilic</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de linguine (ou pâtes longues) </p>
+ <p>2 tomates bien mûres (type Romana ou Coeur de boeuf) </p>
+ <p>1 boule de mozzarella</p>
+ <p>quelques feuilles de basilic frais</p>
+ <p>une cuillère à soupe d’ huile d’ olive</p>
+ <p>sel et poivre selon vos goûts</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ eau à chauffer pour les pâtes. pendant ce temps, découper les <ingredient quantite=2>tomates</ingredient> et la <ingredient quantite=1>mozzarella</ingredient> en petits morceaux et les mettre dans un grand <recipient>plat</recipient>. ciseler le <ingredient quantite=1>basilic</ingredient> et le mettre avec les <ingredient quantite=2>tomates</ingredient> et la <ingredient quantite=1>mozzarella</ingredient>. ajouter l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre, <ingredient quantite=2>bien</ingredient> remuer le tout et réserver au <ingredient quantite=1>frais</ingredient>. cuire les pâtes. dès qu’ elles sont <ingredient quantite=2>bien</ingredient> égouttées, les mélanger avec la préparation. les <ingredient quantite=2>tomates</ingredient> vont <operation temps=6.86min espace=7>tiédir et la <ingredient quantite=1>mozzarella</ingredient></operation> va légèrement fondre. <operation temps=6.86min espace=7>servir rapidement</operation> et présenter avec un petite <ingredient quantite=1>feuille de basilic</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165701">
+ <titre>Jambon sauce gourmande</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 tranches de jambon (8 mm d’ épaisseur environ) </p>
+ <p>5 oignons</p>
+ <p>2 échalotes</p>
+ <p>4 baies de genièvre</p>
+ <p>vinaigre balsamique</p>
+ <p>20 cl de vin blanc</p>
+ <p>1 L de crème fraiche semi-épaisse de préférence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=5>oignons</ingredient> et les <ingredient quantite=2>échalotes</ingredient>, les mixer. dans une <recipient>sauteuse</recipient> <operation temps=6.86min espace=8>mettez de l’ huile et du beurre</operation>, faite <operation temps=6.86min espace=8>revenir la mixture jusqu’ à coloration</operation> puis déglacé avec une cuillère à soupe de <ingredient quantite=1>vinaigre balsamique</ingredient> puis incorporer le <ingredient quantite=1>vin blanc</ingredient> et faite réduire de moitié. ajouter la <ingredient quantite=1>crème fraiche</ingredient>, les <ingredient quantite=4>baies de genièvre</ingredient> et faite mijoté à feu doux (très important) pendant 1 heure. couper vos <ingredient quantite=3>tranche de jambon</ingredient> en deux et incorporer 15 min avant la fin de la cuisson. a accompagner avec des pâtes <ingredient quantite=1>fraiches de préférence</ingredient>.
+]]>
+ </preparation>
+</recette>

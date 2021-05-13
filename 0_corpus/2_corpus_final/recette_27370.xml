@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27370">
+ <titre>Haricots plats à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>environ 650 g de haricots plats</p>
+ <p>1 petite boîte de sauce tomate préparée (à la viande, ou au basilic... à votre goût) </p>
+ <p>1 bel oignon</p>
+ <p>2 échalotes</p>
+ <p>4 belles tranches de poitrine fumée</p>
+ <p>1 cuiller à café de cumin en poudre</p>
+ <p>1 cuiller à café d’ huile d’ olive</p>
+ <p>1 pincée de piment d’ espelette (ou un piment oiseau ou une pincée de piment de Cayenne) </p>
+ <p>4 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire vos <ingredient quantite=1>haricots plats</ingredient> à la vapeur ou bouillis. pendant la cuisson des <ingredient quantite=1>haricots</ingredient>: dans un <recipient>faitout</recipient> <operation temps=6.86min espace=12>faites revenir l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=2>échalotes</ingredient></operation> émincés dans une <ingredient quantite=1>cuiller à café</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. quand ils sont transparents, y ajouter les <ingredient quantite=4>tranches de poitrine</ingredient> pour les <operation temps=6.86min espace=12>faire revenir également</operation>. quand le tout est doré, versez la <ingredient quantite=1>boîte de sauce tomate</ingredient> et une demi-boîte d’ eau. <operation temps=6.86min espace=12>réduisez à feu doux</operation>. ajouter le <ingredient quantite=1>cumin</ingredient>, le <ingredient quantite=1>piment</ingredient>, <operation temps=0.25min espace=12>salez</operation> et <operation temps=6.86min espace=12>laissez mijoter</operation>. quand les <ingredient quantite=1>haricots</ingredient> sont cuits (la cuisson doit être " al dente "), <operation temps=6.86min espace=12>introduisez - les dans le <recipient>faitout</recipient></operation>. bien mélanger pour qu’ ils s’ imprègnent de la <ingredient quantite=1>sauce tomate</ingredient>. <operation temps=6.86min espace=12>formez 4 <ingredient quantite=1>petits</ingredient> puits pour y</operation> casser les <ingredient quantite=4>oeufs</ingredient>. <operation temps=6.86min espace=12>couvrez pour que les <ingredient quantite=4>oeufs</ingredient> cuisent</operation>. <operation temps=6.86min espace=12>servez quand les <ingredient quantite=4>oeufs</ingredient> sont cuits (ils</operation> doivent avoir la même consistance que des <ingredient quantite=4>oeufs</ingredient> au <ingredient quantite=1><recipient>plat</recipient></ingredient>). rouge léger
+]]>
+ </preparation>
+</recette>

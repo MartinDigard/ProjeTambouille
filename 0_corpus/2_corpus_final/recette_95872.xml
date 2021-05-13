@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95872">
+ <titre>Poulet aux litchi</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>35 g de maïzena</p>
+ <p>30 g de margarine</p>
+ <p>8 échalotes</p>
+ <p>1 poivron rouge</p>
+ <p>250 g de litchi (en conserve) </p>
+ <p>ciboulette ciselée</p>
+ <p>Pour la sauce: </p>
+ <p>10 cl d’ eau</p>
+ <p>2 cubes de bouillon de volaille</p>
+ <p>10 g de sucre</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les blancs de <ingredient quantite=4>poulet</ingredient> en lamelles et les passer dans trois cuillères à soupe de maïzena. les <operation temps=6.86min espace=13>faire dorer à la <recipient>poêle</recipient></operation>. ajouter les <ingredient quantite=8>échalotes</ingredient> émincées et le <ingredient quantite=1>poivron</ingredient> coupé en petits morceaux. <operation temps=2.0min espace=13>faire sauter pendant 2 minutes</operation>. ajouter les <ingredient quantite=1>litchis</ingredient> (garder le jus). remuer, <operation temps=0.25min espace=13>couvrir</operation> et <operation temps=6.86min espace=13>laisser mijoter jusqu’ à ce que le <ingredient quantite=4>poulet</ingredient> soit cuit</operation>. ajouter une cuillerée à café de maïzena délayée dans très peu de jus de <ingredient quantite=1>litchis</ingredient>. remuer jusqu’ à épaississement sur feu moyen. saupoudrer de <ingredient quantite=1>ciboulette</ingredient> et <operation temps=2.0min espace=13>servir aussitôt</operation>
+]]>
+ </preparation>
+</recette>

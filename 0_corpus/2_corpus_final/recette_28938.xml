@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28938">
+ <titre>Salade de fruits printanière</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kiwis</p>
+ <p>1 pomme rouge</p>
+ <p>2 oranges</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=2>kiwis</ingredient> et la <ingredient quantite=1>pomme</ingredient> et les couper en petits dés. presser les 2 <ingredient quantite=2>oranges</ingredient> pour <operation temps=6.86min espace=3>obtenir un jus</operation>. dans 4 coupes <operation temps=6.86min espace=3>mettez les dés de <ingredient quantite=1>kiwi</ingredient> et de</operation> <ingredient quantite=1>pomme</ingredient> puis verser équitablement le jus d’ orange sur chaque coupe. vous pouvez <operation temps=6.86min espace=3>servir cette salade de fruits avec une part de gâteau au chocolat</operation>. rosé
+]]>
+ </preparation>
+</recette>

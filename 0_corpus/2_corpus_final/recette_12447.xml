@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12447">
+ <titre>Parfait au Grand Marnier</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>80 g de sucre glace</p>
+ <p>7.5 cl d’ eau</p>
+ <p>25 cl de crème fraîche</p>
+ <p>3 cuillère à soupe de Grand Marnier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=6>fouettez</operation> la <ingredient quantite=1>crème fraîche</ingredient> en chantilly. faites fondre le <ingredient quantite=1>sucre glace</ingredient> dans l’ <ingredient quantite=1>eau</ingredient> sur feu doux jusqu’ à ce que le mélange blondisse. <operation temps=6.86min espace=6>séparez les blancs d’ <ingredient quantite=2>oeufs</ingredient> des jaunes</operation>. <operation temps=5.0min espace=6>fouettez</operation> énergiquement les jaunes d’ oeufs en incorporant peu à peu le sirop chaud mais non brûlant. <operation temps=6.86min espace=6>continuez de battre jusqu’ à ce que le mélange soit bien blanc et froid</operation>. ajoutez alors le <ingredient quantite=1>grand marnier</ingredient> puis la <ingredient quantite=1>crème</ingredient> fraîche fouettée, cuillerée par cuillerée. battez les blancs d’ <ingredient quantite=2>oeufs</ingredient> en neige et <operation temps=6.86min espace=6>incorporez - les à leur tour à la préparation</operation>. <operation temps=6.86min espace=6>versez dans la <recipient>sorbetière</recipient></operation> et <operation temps=6.86min espace=6>laissez - la</operation> prendre au freezer. les proportions peuvent être doublées.
+]]>
+ </preparation>
+</recette>

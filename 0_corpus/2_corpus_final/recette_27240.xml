@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27240">
+ <titre>Terrine de saumon à l’ aneth</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de saumon en boîte</p>
+ <p>2 oeufs</p>
+ <p>1 petite boîte de lait concentré (170 g) </p>
+ <p>50 g de fromage blanc</p>
+ <p>3 tranches de pain de mie</p>
+ <p>1 échalote</p>
+ <p>1 citron non traité</p>
+ <p>2 cuillerées à soupe de céleri-rave râpé</p>
+ <p>2 cuillères à café d’ aneth hachée</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=14>egouttez le</operation> <ingredient quantite=1>saumon</ingredient> et <operation temps=6.86min espace=14>émiettez - le à la fourchette</operation>. hachez l’ <ingredient quantite=1>échalote</ingredient>. <operation temps=6.86min espace=14>prélevez le zeste de la moitié du <ingredient quantite=1>citron</ingredient></operation>. mélangez les <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=3>pain de mie</ingredient> coupé en morceaux, le <ingredient quantite=1>fromage blanc</ingredient> et le <ingredient quantite=1>lait concentré</ingredient>. ajoutez le <ingredient quantite=2>céleri râpé</ingredient>, l’ <ingredient quantite=1>échalote</ingredient>, le zeste de <ingredient quantite=1>citron</ingredient>, l’ <ingredient quantite=2>aneth</ingredient> et la <ingredient quantite=1>moutarde</ingredient>. <operation temps=6.86min espace=14>ajoutez le jus d’ un demi</operation> <ingredient quantite=1>citron</ingredient>, <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation>. <operation temps=6.86min espace=14>versez le tout dans un <recipient>moule</recipient> à cake beurré</operation>. placez - le dans un <recipient>bain - marie</recipient>. enfournez et <operation temps=45.0min espace=14>laissez cuire environ 45 minutes</operation>. servez chaud ou froid avec de la mayonnaise ou un coulis de légumes.
+]]>
+ </preparation>
+</recette>

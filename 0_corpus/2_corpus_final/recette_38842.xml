@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38842">
+ <titre>Migas au porc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de semoule couscous</p>
+ <p>8 gousses d’ ail</p>
+ <p>200 g de boudin noir à cuire</p>
+ <p>200 g de longanisse (ou chorizo) </p>
+ <p>200 g de porc</p>
+ <p>10 cl d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>longanisse</ingredient> et le <ingredient quantite=1>boudin</ingredient> en grosses rondelles. couper le <ingredient quantite=1>porc</ingredient> en petits morceaux. <operation temps=6.86min espace=10>faire chauffer dans une grande <recipient>poêle</recipient> 10 cl d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=10>faire revenir les rondelles de <ingredient quantite=1>longanisse</ingredient>, les</operation> retirer de la <recipient>poêle</recipient>. faire revenir les rondelles de <ingredient quantite=1>boudin noir</ingredient>, les retirer de la <recipient>poêle</recipient>. <operation temps=6.86min espace=10>faire revenir le <ingredient quantite=1>porc</ingredient>, puis les <ingredient quantite=8>gousses</ingredient> d’ <ingredient quantite=8>ail</ingredient> non</operation> pelées, rajouter ensuite la <ingredient quantite=1>longanisse</ingredient> et le <ingredient quantite=1>boudin</ingredient>, puis la <ingredient quantite=1>semoule</ingredient> préalablement hydratée. <operation temps=6.86min espace=10>laisser revenir le tout: la <ingredient quantite=1>semoule</ingredient></operation> doit être impregnée du jus de cuisson des viandes, et dorée. saler et poivrer. on peut accompagner ce <recipient>plat</recipient> avec quelques <ingredient quantite=1>olives</ingredient>, du fenouil coupé en petits morceaux, des tomates fraîches et de la salade verte.
+]]>
+ </preparation>
+</recette>

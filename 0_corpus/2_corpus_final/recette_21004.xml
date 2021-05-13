@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21004">
+ <titre>Gateau breton</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de farine</p>
+ <p>1 oeuf entier + 5 jaunes d’ oeufs</p>
+ <p>300 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>350 g de beurre demi-sel très mou</p>
+ <p>1 cuillère à soupe de Cointreau</p>
+ <p>pour dorer le gâteau: </p>
+ <p>1 oeuf entier, 1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger <ingredient quantite=1>farine + sucre + sucre</ingredient> vanillé. creuser un puits et ajouter les <ingredient quantite=1>oeufs</ingredient>, le beurre <ingredient quantite=1>mou</ingredient> et le <ingredient quantite=1>cointreau</ingredient>. travailler la pâte à l’ aide d’ une <ingredient quantite=1>cuillère</ingredient> en bois. préchauffer le <recipient>four</recipient> sur th 6 (180 ° c). beurrer un <recipient>moule</recipient> de 26 cm de diamètre. verser la pâte dans le <recipient>moule</recipient> et l’ <operation temps=6.86min espace=11>aplatir</operation>. battre l’ <ingredient quantite=1>oeuf entier</ingredient> avec une pincée de <ingredient quantite=1>sel</ingredient> pour la dorure. <ingredient quantite=1>dorer le gâteau</ingredient>, puis strier la surface à l’ aide des dents d’ une fourchette. <operation temps=45.0min espace=11>faire cuire 45 mn</operation>. <operation temps=20.0min espace=11>laisser refroidir</operation>. vous pouvez accompagner ce gateau de confiture de pruneaux.
+]]>
+ </preparation>
+</recette>

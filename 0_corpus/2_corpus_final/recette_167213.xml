@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167213">
+ <titre>Milk-shake pommes caramélisées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes (Gala de préférence) </p>
+ <p>80cl de lait d’ amande</p>
+ <p>2 boules de glace vanille</p>
+ <p>15g de beurre</p>
+ <p>2 cuil. à soupe de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+placez le <ingredient quantite=1>lait</ingredient> d’ <ingredient quantite=1>amande</ingredient> au froid pour qu’ il soit bien frais. <operation temps=3.0min espace=7>pelez les</operation> <ingredient quantite=4>pommes</ingredient> et <operation temps=6.86min espace=7>coupez - les en cubes</operation>. <operation temps=6.86min espace=7>faites chauffer le beurre dans une <recipient>casserole</recipient></operation>, <operation temps=3.0min espace=7>ajoutez les</operation> <ingredient quantite=4>pommes</ingredient> et <operation temps=6.86min espace=7>saupoudrez avec le <ingredient quantite=2>sucre</ingredient></operation>. <operation temps=6.86min espace=7>laissez cuire à feux moyen jusqu’ à ce que les <ingredient quantite=4>pommes</ingredient> caramélisent</operation>. <operation temps=6.86min espace=7>laissez refroidir quelques instants</operation>. dans un <recipient>blender</recipient>, <operation temps=6.86min espace=7>versez les <ingredient quantite=4>pommes</ingredient> cuites, la <ingredient quantite=2>glace</ingredient> et le <ingredient quantite=1>lait</ingredient> d’ <ingredient quantite=1>amande</ingredient></operation>. mixez et <operation temps=2.0min espace=7>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

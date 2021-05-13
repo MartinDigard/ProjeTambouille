@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51743">
+ <titre>Verrine simple et rapide à la pomme (diététique) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 pommes (type reine des reinettes ou royal gold) </p>
+ <p>450 g de fromage blanc 0% </p>
+ <p>3 cuillères à soupe d’ édulcorant</p>
+ <p>2 cuillères à café de cannelle</p>
+ <p>1/2 à 1 cuillère à café de gingembre</p>
+ <p>coulis de framboise ("tout fait" ou à faire soit même pour qu’ il soit plus léger en sucre) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=7>pelez les</operation> <ingredient quantite=3>pommes</ingredient> et <operation temps=6.86min espace=7>coupez - les en morceaux</operation>. <operation temps=6.86min espace=7>faites chauffez une <recipient>poêle</recipient> anti-adhésive</operation> et <operation temps=6.86min espace=7>faites revenir les <ingredient quantite=3>pommes</ingredient> avec la <ingredient quantite=2>cannelle</ingredient> et le <ingredient quantite=1>gingembre</ingredient>, jusqu’ à ce que les <ingredient quantite=3>pommes</ingredient> soient assez fondantes</operation> puis <operation temps=6.86min espace=7>laissez - les refroidir un peu</operation>. pendant ce temps mélangez le <ingredient quantite=1>fromage blanc</ingredient> avec le " sucre ". dans chaque verrine disposez les <ingredient quantite=3>pommes</ingredient>, le <ingredient quantite=1>fromage blanc</ingredient>, puis arrosez le tout d’ un peu de <ingredient quantite=1>coulis de framboise</ingredient>. j’ ai imaginé cette recette à la suite d’ un régime, histoire de se <operation temps=6.86min espace=7>faire plaisir tout en</operation> mangeant " light ". jus de <ingredient quantite=1>pomme</ingredient> ou cidre doux.
+]]>
+ </preparation>
+</recette>

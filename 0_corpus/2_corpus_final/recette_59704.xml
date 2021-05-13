@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59704">
+ <titre>Thon à la Catalane</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boîtes de thon au naturel</p>
+ <p>1 oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 poivron vert</p>
+ <p>1 petite boite de tomates pelées</p>
+ <p>2 carottes</p>
+ <p>cornichons à volonté</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=3>ail</ingredient> et les <operation temps=6.86min espace=8>faire fondre dans de l’ huile d’ olive</operation>. couper le <ingredient quantite=1>poivron vert</ingredient> en cube et l’ ajouter ainsi que les <ingredient quantite=1>tomates</ingredient> dans la <recipient>poêle</recipient>. couper la <ingredient quantite=1>carotte pelée</ingredient> en <ingredient quantite=1>petits</ingredient> cubes et l’ ajouter au reste... ajouter des herbes de provence et du sel et poivre et <operation temps=20.0min espace=8>laisser mijoter 20 min</operation>. ajouter les <ingredient quantite=1>cornichons</ingredient> en rondelles et le <ingredient quantite=2>thon</ingredient> sans l’ émietter, <operation temps=6.86min espace=8>laisser chauffer encore quelques minutes et servir</operation>, accompagné de riz ou non... se mange aussi bien chaud que froid. rosé ou rouge léger
+]]>
+ </preparation>
+</recette>

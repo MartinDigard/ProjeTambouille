@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66347">
+ <titre>Petit salé aux lentilles vertes du Puy</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de lentilles vertes du Puy</p>
+ <p>200 g de petit salé</p>
+ <p>1 oignon</p>
+ <p>2 tomates</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 verre de vin blanc 15 cl) </p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>poivre, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>lentilles</ingredient> dans 3 fois leur volume d’ eau froide pendant 25 min. réserver le jus de cuisson. dans une <recipient>sauteuse</recipient>, faire revenir le <ingredient quantite=1>petit salé</ingredient> dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. ajouter l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient> hachés ainsi que les <ingredient quantite=2>tomates</ingredient> pelées. <operation temps=10.0min espace=10>laisser mijoter 10 min</operation> puis ajouter les <ingredient quantite=1>lentilles</ingredient> préalablement égouttées. saler, poivrer. <operation temps=5.0min espace=10>laisser mijoter 5 min</operation>. ajouter éventuellement du jus de cuisson et le verre de vin blanc. on peut cuire les <ingredient quantite=1>lentilles</ingredient> à la <recipient>cocotte</recipient> minute. eviter de saler l’ eau de cuisson des <ingredient quantite=1>lentilles</ingredient>, ça les fait <operation temps=6.86min espace=10>durcir</operation>. ne pas hésiter à saler après!!
+]]>
+ </preparation>
+</recette>

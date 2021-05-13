@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91669">
+ <titre>Salade fraîche de tomates et féta</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5</p>
+ <p>-6 Tomates- 1 concombre- 300 g de feta à l’ huile et aux herbes- 2</p>
+ <p>-3 poignées de riz- sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le riz à cuire, couper les tomates et le concombre en dés, ajouter la <ingredient quantite=1>feta</ingredient> avec l’ <ingredient quantite=1>huile</ingredient> du pot, mélanger le tout, saler, poivrer et <operation temps=6.86min espace=3>laisser au frais au moins 1 heure avant de</operation> <operation temps=2.0min espace=3>servir</operation>.
+]]>
+ </preparation>
+</recette>

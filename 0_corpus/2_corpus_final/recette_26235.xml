@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26235">
+ <titre>Oeufs durs en beignets</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 œufs</p>
+ <p>vinaigre </p>
+ <p>sel</p>
+ <p>chapelure</p>
+ <p>huile</p>
+ <p>Pour la sauce béchamel: </p>
+ <p>30 g de farine</p>
+ <p>30 g de beurre</p>
+ <p>20 cl de lait</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>durcir des oeufs dans une <recipient>casserole</recipient> d’ eau</operation> salée avec du <ingredient quantite=1>vinaigre</ingredient>, puis <operation temps=9.0min espace=12>laisser cuire 9 min dès l’ ébullition</operation>. les rincer sous l’ eau froide, les écaler et les découper en grosses rondelles. préparer ensuite une <ingredient quantite=1>sauce béchamel</ingredient> en mélangeant dans une <recipient>casserole</recipient> la farine avec le beurre et le lait et en remuant jusqu’ à l’ obtention d’ une crème parfaitement lisse. saler, poivrer, puis tremper les rondelles d’ <ingredient quantite=3>œufs</ingredient> dans cette <ingredient quantite=1>béchamel</ingredient> avant de les rouler dans la <ingredient quantite=1>chapelure</ingredient>. les plonger dans un bain d’ <ingredient quantite=1>huile</ingredient> pour les <operation temps=6.86min espace=12>faire frire</operation> et déguster.
+]]>
+ </preparation>
+</recette>

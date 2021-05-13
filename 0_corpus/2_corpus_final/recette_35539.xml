@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35539">
+ <titre>Boules suédoises à la cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>150 g de beurre</p>
+ <p>5 dl de lait</p>
+ <p>150 g de sucre</p>
+ <p>50 g de levure de boulanger fraîche</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 kg de farine</p>
+ <p>facultatif: cardamome en poudre</p>
+ <p>facultatif: barquettes en papier</p>
+ <p>Pour la garniture: </p>
+ <p>beurre mou</p>
+ <p>cannelle en poudre</p>
+ <p>sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire fondre le <ingredient quantite=1>beurre</ingredient> dans le lait</operation>. quand le tout a tiédi, verser sur la <ingredient quantite=1>levure</ingredient> émiettée dans un grand <recipient>saladier</recipient>. ajouter le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient> et éventuellement la <ingredient quantite=1>cardamome</ingredient>. incorporer la farine et travailler jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit belle. <operation temps=40.0min espace=15>laisser reposer 40 mn à température ambiante, sous un torchon</operation>. retravailler la <ingredient quantite=1>pâte</ingredient>, la séparer en deux. etaler la première moitié au rouleau, pour former un rectangle long, d’ environ 7 mm d’ épaisseur. etaler le <ingredient quantite=1>beurre mou</ingredient> dessus, puis saupoudrer généreusement de <ingredient quantite=1>sucre</ingredient> et de <ingredient quantite=1>cannelle</ingredient>. rouler la <ingredient quantite=1>pâte</ingredient> pour former un boudin, et le couper en tranches d’ environ 3 cm. poser ces tranches dans les <ingredient quantite=1>barquettes</ingredient> ou sur du <ingredient quantite=1>papier</ingredient> sulfurisé en veillant à replacer chaque bout sous la tranche (pour former un dessous). <operation temps=6.86min espace=15>faire de même avec la seconde moitié de la <ingredient quantite=1>pâte</ingredient></operation>. <operation temps=30.0min espace=15>laisser gonfler 30 mn</operation>. préchauffer le <recipient>four</recipient> à 220 ° c. <operation temps=20.0min espace=15>faire cuire 20 mn</operation>. on peut dorer à l’ oeuf et décorer avec des amandes ou des grains de <ingredient quantite=1>sucre</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18322">
+ <titre>Pâtes au thon, autre version</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 à 250g de pâtes</p>
+ <p>1 boîte de thon</p>
+ <p>crème fraîche liquide</p>
+ <p>moutarde: 1 bonne cuillère à soupe</p>
+ <p>proportions de moutarde et crème modulable selon vos goûts</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>pâtes</ingredient> à cuire. pendant ce temps, mélangez dans un <recipient>saladier</recipient> le <ingredient quantite=1>thon</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et la <ingredient quantite=1>moutarde</ingredient> à la fourchette (pour bien émietter le <ingredient quantite=1>thon</ingredient>). <operation temps=6.86min espace=6>egouttez les</operation> <ingredient quantite=1>pâtes</ingredient> et <operation temps=6.86min espace=6>mélangez les à la préparation</operation>. recette pour fauchés et / ou pressés et / ou sous doués!
+]]>
+ </preparation>
+</recette>

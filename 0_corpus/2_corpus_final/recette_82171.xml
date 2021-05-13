@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82171">
+ <titre>Salade de boeuf façon asiatique</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 morceaux de boeuf (style steak) </p>
+ <p>2 petits oignons blancs</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>3 cuillères à soupe de citron</p>
+ <p>un peu de coriandre</p>
+ <p>quelques brins de ciboulette</p>
+ <p>poivre en grain</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites revenir votre viande de <ingredient quantite=2>boeuf</ingredient> à la <recipient>poêle</recipient>, cuisson à point</operation>. <operation temps=6.86min espace=8>laissez - la refroidir</operation>. une fois que la viande est froide, <operation temps=6.86min espace=8>coupez - la en fines lamelles</operation>. <operation temps=6.86min espace=8>mettez - la dans un bol</operation>. ajoutez les <ingredient quantite=2>oignons</ingredient> coupés finement, la <ingredient quantite=2>sauce soja</ingredient>, le <ingredient quantite=3>citron</ingredient>, un <ingredient quantite=1>peu</ingredient> de <ingredient quantite=1>ciboulette</ingredient> et de <ingredient quantite=1>coriandre</ingredient>. <operation temps=6.86min espace=8>laissez reposer 1h au frigo</operation> et <operation temps=5.0min espace=8>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

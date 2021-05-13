@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40146">
+ <titre>Cake aux poivrons et champigons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine de blé</p>
+ <p>1 sachet de levure chimique</p>
+ <p>75 g de gruyère (râpé ou en petits cubes) </p>
+ <p>4 oeufs</p>
+ <p>1 poivron vert moyen et un poivron jaune moyen (ou rouge) </p>
+ <p>10 gros champignons de Paris</p>
+ <p>ciboulette</p>
+ <p>5-6 olives vertes (facultatif) </p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>moutarde</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faites revenir les <ingredient quantite=1>poivrons</ingredient> coupés en petits morceux dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=0.25min espace=12>salez</operation> et <operation temps=0.5min espace=12>poivrez</operation>. au bout de 5 minutes, <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=1>champignons</ingredient>, les <ingredient quantite=8>olives</ingredient> et la <ingredient quantite=1>ciboulette</ingredient></operation>. <operation temps=10.0min espace=12>laissez revenir 10 minutes à feu <ingredient quantite=1>moyen</ingredient></operation>. le bon indicateur, ce sont les champigons qui noircissent. pendant ce temps, <operation temps=6.86min espace=12>mélangez la farine, la <ingredient quantite=1>levure</ingredient> et les <ingredient quantite=4>oeufs</ingredient> dans un récipient</operation>. <operation temps=6.86min espace=12>délayez avec une <ingredient quantite=1>grosse</ingredient> cuillère de <ingredient quantite=1>moutarde</ingredient> pour le goût</operation>. lorsque la pâte est lisse, <operation temps=6.86min espace=12>incoporez le gruyère, puis, une fois cuits, la préparation <ingredient quantite=1>poivrons</ingredient> - champigons</operation>. <operation temps=10.0min espace=12>mettez le <recipient>four</recipient> à préchauffer 10 min à 240 ° c (thermostat 8)</operation> et <operation temps=20.0min espace=12>faites cuire 20 minutes</operation>. pour vérifier la cuisson, <operation temps=6.86min espace=12>plantez un couteau au centre du cake</operation>. s’ il ressort sec, c’ est bon! <operation temps=6.86min espace=12>servez en entrée avec une salade ou en apéritif, froid</operation> ou tiède. vin du sud
+]]>
+ </preparation>
+</recette>

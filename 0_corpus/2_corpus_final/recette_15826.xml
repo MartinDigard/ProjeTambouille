@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15826">
+ <titre>Poêlée de pommes de terre au foie gras</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>500 g de pommes de terre à chair ferme (type Charlotte, Belle de Fontenay, Ratte…) </p>
+ <p>200 g d’ haricots verts</p>
+ <p>150 g d’ asperges vertes</p>
+ <p>100 g de girolles</p>
+ <p>2 belles tranche de foie gras </p>
+ <p>1 gousse d’ ail</p>
+ <p>2 échalotes</p>
+ <p>1 cuillère à soupe de beurre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plonger les <ingredient quantite=1>pommes de terre</ingredient> dans une <recipient>casserole</recipient> d’ eau froide salée, <operation temps=1.0min espace=12>mettez</operation> - les à cuire 20 mn. environ. epluchez - les et <operation temps=3.0min espace=12>coupez - les en rondelles</operation>. faites cuire préalablement les <ingredient quantite=1>asperges</ingredient> et les <ingredient quantite=1>haricots verts</ingredient> 5 mn. dans une <recipient>casserole</recipient> d’ eau salée bouillante. <operation temps=10.0min espace=12>egouttez</operation> et <operation temps=0.5min espace=12>réservez</operation>. dans une grande <recipient>poêle</recipient>, <operation temps=6.86min espace=12>faites fondre le <ingredient quantite=1>beurre</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’</operation> <ingredient quantite=1>olive</ingredient> et faites revenir les <ingredient quantite=1>pommes de terre</ingredient>, les <ingredient quantite=2>échalotes</ingredient> coupés finement à l’ <ingredient quantite=1>ail</ingredient> écrasé. quand les <ingredient quantite=1>pommes de terre</ingredient> commencent à être légèrement dorées, <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=1>asperges</ingredient></operation> coupées, les <ingredient quantite=1>haricots verts</ingredient> et les <ingredient quantite=1>girolles</ingredient>. <operation temps=10.0min espace=12>continuez la cuisson de cette poêlée 10 mn</operation>. environ, jusqu’ à ce qu’ elle soit bien dorée. <operation temps=0.25min espace=12>salez</operation> et <operation temps=6.86min espace=12>poivrez au moulin</operation>. au dernier moment <operation temps=4.0min espace=12>incorporez</operation> délicatement le <ingredient quantite=2>foie gras</ingredient> coupé en dés. <operation temps=2.0min espace=12>servez</operation> chaud. recette proposée par le comité national interprofessionnel de la <ingredient quantite=1>pomme de terre</ingredient>. http: //www. cnipt. org/.
+]]>
+ </preparation>
+</recette>

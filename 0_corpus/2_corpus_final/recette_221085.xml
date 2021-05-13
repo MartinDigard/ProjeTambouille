@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221085">
+ <titre>Papillote de poulet à la moutarde simple et rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 blancs de poulet</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>herbes de Provence</p>
+ <p>papier aluminium</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> à 180 ° c (thermostat 6) le temps de la préparation. disposer 1 blanc de <ingredient quantite=2>poulet</ingredient> par feuille d’ <ingredient quantite=1>aluminium</ingredient>. mélanger la <ingredient quantite=1>moutarde</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et les <ingredient quantite=1>herbes de provence</ingredient> dans un bol. badigeonner les blancs de <ingredient quantite=2>poulet</ingredient> et refermer les papillotes. <operation temps=20.0min espace=7>faire cuire les papillotes 20 min au <recipient>four</recipient> à 180 ° c</operation>. <operation temps=6.86min espace=7>servir un accompagnement tel que haricot vert, ou tagliatelle</operation>...
+]]>
+ </preparation>
+</recette>

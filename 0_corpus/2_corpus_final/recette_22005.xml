@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22005">
+ <titre>Ragoût de lapin aux carottes et au chou</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>2 blancs de poulet</p>
+ <p>1 chou</p>
+ <p>4 carottes</p>
+ <p>200 g de lardons</p>
+ <p>1 kg de champignons</p>
+ <p>20 cl de vin (type vin d’ Alsace) </p>
+ <p>40 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>cuisez les <ingredient quantite=4>carottes</ingredient></operation> coupées en bâtonnets et le <ingredient quantite=1>chou</ingredient> émincé en fines lamelles à l’ eau bouillante salée durant 15 - 20 min. <operation temps=6.86min espace=9>désossez le</operation> <ingredient quantite=1>lapin</ingredient> et <operation temps=6.86min espace=9>coupez - le en lanières ainsi que le <ingredient quantite=2>poulet</ingredient></operation>. <operation temps=6.86min espace=9>faites revenir les viandes dans le beurre chaud</operation> puis <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=1>lardons</ingredient> préalablement salés</operation> et poivrés. lorsque la viande est dorée, <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=1>champignons</ingredient></operation> émincés. <operation temps=30.0min espace=9>laissez cuire 30 min</operation> puis <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=4>carottes</ingredient> et le <ingredient quantite=1>chou</ingredient></operation>. <operation temps=6.86min espace=9>faites chauffez le <ingredient quantite=1>vin</ingredient> d’ alsace, flambez - le</operation> puis <operation temps=6.86min espace=9>versez - le sur le <ingredient quantite=1>lapin</ingredient></operation>. <operation temps=20.0min espace=9>poursuivez la cuisson 20 min</operation>.
+]]>
+ </preparation>
+</recette>

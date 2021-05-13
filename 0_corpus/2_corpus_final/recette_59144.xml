@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59144">
+ <titre>Glace au citron et au yaourt</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de yaourt nature</p>
+ <p>3 cuillères à soupe de crème fraiche épaisse</p>
+ <p>170 g de sucre</p>
+ <p>25 cl de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>mélangez bien le <ingredient quantite=1>yaourt</ingredient>, la <ingredient quantite=3>crème</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu’ à dissolution complète du <ingredient quantite=1>sucre</ingredient></operation>. ajoutez le <ingredient quantite=1>jus de citron</ingredient> tout en remuant. mettre dans la <recipient>sorbetière</recipient> et <operation temps=40.0min espace=5>laisser prendre jusqu’ à épaississement de la préparation (environ 40 min</operation>). on peut remplacer le <ingredient quantite=1>yaourt nature</ingredient> par du <ingredient quantite=1>yaourt</ingredient> sucré, tout en diminuant la quantité de <ingredient quantite=1>sucre</ingredient>.
+]]>
+ </preparation>
+</recette>

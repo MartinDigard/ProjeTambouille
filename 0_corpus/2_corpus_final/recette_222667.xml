@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222667">
+ <titre>Les boulettes de l’ amour au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de blanc de poulet</p>
+ <p>35 cl de lait</p>
+ <p>1 oignon</p>
+ <p>2 œufs</p>
+ <p>100 g de gruyère râpé</p>
+ <p>1 assiette creuse de farine</p>
+ <p>chapelure</p>
+ <p>huile de friture</p>
+ <p>Pour les épices (à votre convenance): </p>
+ <p>persil</p>
+ <p>coriandre</p>
+ <p>curcuma</p>
+ <p>cumin</p>
+ <p>paprika</p>
+ <p>curry</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper finement les <ingredient quantite=1>blancs de poulet</ingredient> en émincé. dans un <recipient>saladier</recipient>, mettre les <ingredient quantite=1>blancs de poulet</ingredient> et les <operation temps=6.86min espace=20>recouvrir de lait</operation>. <operation temps=30.0min espace=20>laisser poser pendant 20 à 30 min</operation>. (ne pas sauter cette étape). dans un autre <recipient>saladier</recipient>, mettre l’ <ingredient quantite=1>oignon</ingredient> haché, le <ingredient quantite=1>persil</ingredient> et la <ingredient quantite=1>coriandre</ingredient>. après le temps de pause, mixer la viande avec les <ingredient quantite=2>œufs</ingredient> et toutes les <ingredient quantite=1>épices</ingredient>. mélanger cet appareil avec l’ <ingredient quantite=1>oignon</ingredient> et les herbes fraîches. et détremper doucement ce mélange avec la farine. <operation temps=10.0min espace=20>faire chauffer l’</operation> huile dans une <recipient>sauteuse</recipient>, sur feu moyen. prendre de la pâte pour confectionné une boulette, la <operation temps=6.86min espace=20>faire rouler dans la <ingredient quantite=1>chapelure</ingredient> et la</operation> plonger délicatement dans le bain d’ <ingredient quantite=1>huile</ingredient>. égoutter, et servir chaud... bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55357">
+ <titre>Conchiglioni fourrés épinards ricotta</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la farce: </p>
+ <p>850 g d’ épinards (même surgelés) </p>
+ <p>250 g de ricotta</p>
+ <p>50 g de parmesan</p>
+ <p>1 cuillère café noix de muscade</p>
+ <p>Pour la sauce: </p>
+ <p>1 bocal de 700 g de coulis ou purée de tomate</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de sel</p>
+ <p>1 cuillère à café de poivre</p>
+ <p>1 morceau de sucre</p>
+ <p>Pour les pâtes: </p>
+ <p>500 g de Conchiglioni (grosses pâtes à farcir) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+farce: cuire les <ingredient quantite=1>épinards</ingredient>, les égoutter correctement (au besoin, les presser dans les mains). les mélanger avec les autres ingrédients de la <ingredient quantite=1>farce</ingredient>. sauce: pendant la cuisson des <ingredient quantite=1>épinards</ingredient>, <operation temps=20.0min espace=18>faire revenir les ingrédients de la <ingredient quantite=1>sauce</ingredient> 15 à 20 min dans une <recipient>sauteuse</recipient></operation>. <ingredient quantite=1>pâtes</ingredient>: pendant la cuisson de la <ingredient quantite=1>sauce</ingredient>, cuire les <ingredient quantite=1>pâtes</ingredient> (si 14 min est indiqué sur la boîte, préférer 12 à 13 min max) dans beaucoup d’ eau salée plus un filet d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> pour éviter qu’ elles ne collent. montage du <recipient>plat</recipient>: étaler une couche de <ingredient quantite=1>sauce</ingredient> dans des plats type plats à gratin. <operation temps=6.86min espace=18>garnir chaque <ingredient quantite=1>pâte</ingredient> de <ingredient quantite=1>farce</ingredient>, les</operation> déposer dans le <recipient>plat</recipient> (les unes contre les autres), verser la <ingredient quantite=1>sauce</ingredient> sur les <ingredient quantite=1>pâtes</ingredient>. mettre à chauffer au <recipient>four</recipient> 8 à 10 min à 200 ° c (thermostat 6 - 7), ou au micro ondes. déguster. bardolino, vin rouge de vénétie (rouge ou rosé).
+]]>
+ </preparation>
+</recette>

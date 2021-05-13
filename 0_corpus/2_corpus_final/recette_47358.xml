@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47358">
+ <titre>Crêpes Mikado</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>18 crêpes au cointreau ou rhum</p>
+ <p>crème frangipane</p>
+ <p>sucre glace</p>
+ <p>éclats de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre une grosse cuillère de crème <ingredient quantite=1>frangipane</ingredient> dans chaque <ingredient quantite=1>crêpe</ingredient> et les rouler. les saupoudrer de <ingredient quantite=1>sucre glace</ingredient> et mettre 6 min au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=3.0min espace=6>sortir du <recipient>four</recipient></operation> et saupoudrer d’ <ingredient quantite=1>éclats de chocolat</ingredient>. <operation temps=2.0min espace=6>servir aussitôt</operation>. si vous <operation temps=6.86min espace=6>faites trop de</operation> crème <ingredient quantite=1>frangipane</ingredient>, <operation temps=6.86min espace=6>étalez -là sur une pâte</operation> feuillettée et <operation temps=6.86min espace=6>faites cuire: délicieux</operation>. vous pouvez aussi utiliser la préparation pour <ingredient quantite=1>frangipane</ingredient>, ceci est plus économique. blanc doux
+]]>
+ </preparation>
+</recette>

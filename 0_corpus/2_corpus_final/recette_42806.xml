@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42806">
+ <titre>Tarte poire / nutella de Sandy</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte feuilletée</p>
+ <p>une boîte de poires au sirop (ou trois grosses poires) </p>
+ <p>3 jaunes d’ oeuf</p>
+ <p>100 g de sucre</p>
+ <p>125 g de poudre d’ amandes</p>
+ <p>20 cl de crème liquide</p>
+ <p>Nutella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient>. mettre la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, et étaler une bonne couche de <ingredient quantite=1>nutella</ingredient> sur le fond. battre les <ingredient quantite=1>jaunes</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, jusqu’ à <operation temps=6.86min espace=10>obtenir un mélange mousseux,</operation> puis ajouter la <ingredient quantite=1>crème</ingredient>, puis la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>. verser ce mélange sur la <ingredient quantite=1>pâte</ingredient>. couper les <ingredient quantite=1>poires</ingredient> en lamelles, et les disposer sur la <ingredient quantite=1>crème</ingredient>. mettre au <recipient>four</recipient>, jusqu’ à ce que ce soit cuit et doré. servir froid ou à température ambiante. pour les amoureux du <ingredient quantite=1>nutella</ingredient>. bonne appétit!!!
+]]>
+ </preparation>
+</recette>

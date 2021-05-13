@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26561">
+ <titre>Verrines de pamplemousse au crabe, sauce cocktail</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pamplemousses</p>
+ <p>1 boîte de crabe</p>
+ <p>1 salade verte croquante</p>
+ <p>10 cl de crème fraîche</p>
+ <p>1 cuillère à soupe de ketchup</p>
+ <p>1 cuillère à café de Cognac</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egoutter le <ingredient quantite=1>crabe</ingredient> et émietter la chair. peler les <ingredient quantite=2>pamplemousses</ingredient> à vif et découper la chair en dés. disposez quelques feuilles de salade dans 4 verrines puis <operation temps=3.0min espace=7>répartir</operation> dessus le mélange <ingredient quantite=1>pamplemousse</ingredient> - <ingredient quantite=1>crabe</ingredient>. mélanger la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>ketchup</ingredient> et le <ingredient quantite=1>cognac</ingredient>. saler et poivrer. <operation temps=3.0min espace=7>répartir</operation> la sauce et réserver au frais.
+]]>
+ </preparation>
+</recette>

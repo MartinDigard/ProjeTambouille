@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54787">
+ <titre>Quiche merguez, cumin et courgettes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 merguez</p>
+ <p>2 courgettes moyennes</p>
+ <p>1 oeuf</p>
+ <p>25 cl de soja cuisine (ou crème fraiche mais plus gras) </p>
+ <p>3 ou 4 cuillères à soupe de cumin moulu</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel</p>
+ <p>1 rouleau de pâte brisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>allumez le <recipient>four</recipient> thermostat 6 (180 ° c)</operation> et <operation temps=6.86min espace=13>disposez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation>, <operation temps=6.86min espace=13>piquez la avec une fourchette</operation>, <operation temps=0.5min espace=13>réservez</operation>. <operation temps=3.0min espace=13>pelez les</operation> <ingredient quantite=2>courgettes</ingredient> et <operation temps=6.86min espace=13>coupez les en petit cubes</operation>, <operation temps=6.86min espace=13>faites les sautées à la <recipient>poêle</recipient> dans l’</operation> <ingredient quantite=2>huile</ingredient> et <operation temps=0.25min espace=13>salez</operation>. lorsqu’ elles commencent à légèrement dorer <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=4>merguez</ingredient></operation> coupées en tranches épaisses. <operation temps=6.86min espace=13>laissez cuire jusqu’ au moment où les <ingredient quantite=4>merguez</ingredient> ont</operation> <operation temps=6.86min espace=13>pris couleur et les <ingredient quantite=2>courgettes</ingredient></operation> diminué. <operation temps=6.86min espace=13>eteignez le feu</operation> et ajouter le <ingredient quantite=3>cumin</ingredient>, la crème de soja et l’ <ingredient quantite=1>oeuf</ingredient> battu. <operation temps=25.0min espace=13>versez le tout sur le fond de tarte et enfournez pendant 25 min</operation>. <operation temps=6.86min espace=13>surveillez la cuisson, lorsque la quiche est bien</operation> dorée, <operation temps=6.86min espace=13>éteignez le <recipient>four</recipient></operation> et <operation temps=6.86min espace=13>laissez la quiche</operation> reposer pendant 5 min dans le <recipient>four</recipient> éteint. a manger tiède de préférence. vin rouge corsé genre fitou
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31370">
+ <titre>Salade russe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 pommes de terre</p>
+ <p>6 carottes</p>
+ <p>100 g de petits pois</p>
+ <p>6 oeufs durs</p>
+ <p>12 olives vertes dénoyautées</p>
+ <p>mayonnaise (6 cuillères à soupe) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=6>pommes de terre</ingredient>, les <ingredient quantite=6>carottes</ingredient> et les <ingredient quantite=1>petits pois</ingredient>. bien les égoutter. couper les <ingredient quantite=6>pommes de terre</ingredient> et <ingredient quantite=6>carottes</ingredient> en <ingredient quantite=1>petits</ingredient> cubes, ajoutez les <ingredient quantite=6>oeufs durs</ingredient> hachés, les <ingredient quantite=1>petits pois</ingredient>, et la <ingredient quantite=1>mayonnaise</ingredient>. bien mélanger le tout, <operation temps=6.86min espace=6>ajoutez un peu de sel si nécessaire</operation>. <operation temps=6.86min espace=6>servir la salade</operation> entourée d’ <ingredient quantite=1>olives</ingredient>.
+]]>
+ </preparation>
+</recette>

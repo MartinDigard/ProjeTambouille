@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41725">
+ <titre>Tarte normande facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>2 oeufs pour la pâte</p>
+ <p>10 cuillères à soupe de farine</p>
+ <p>10 cuilléères à soupe de sucre</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>6 cuillères à soupe de lait froid</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à café de levure</p>
+ <p>3 pommes</p>
+ <p>Pour la crème: </p>
+ <p>50 g de beurre fondu</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>1 oeuf entier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler, et couper les <ingredient quantite=3>pommes</ingredient> en morceaux. dans une <recipient>terrine</recipient>, verser les <ingredient quantite=2>oeufs</ingredient>, et bien les mélanger. ajouter la farine, le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=4>huile</ingredient>, le lait, le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=1>levure</ingredient>. mélanger le tout, jusqu’ à l’ obtention d’ une <ingredient quantite=1>pâte</ingredient> bien lisse. <operation temps=6.86min espace=19>beurrez un <recipient><recipient>moule</recipient> à tarte</recipient>, et y</operation> verser la <ingredient quantite=1>pâte</ingredient>. <operation temps=6.86min espace=19>répartir les morceaux de <ingredient quantite=3>pommes</ingredient> sur toute la <ingredient quantite=1>pâte</ingredient>,</operation> et mettre au <recipient>four</recipient> à 120 ° c (therm.4), pendant 20 à 30 min. pendant ce temps, préparer la <ingredient quantite=1>crème</ingredient>: <operation temps=6.86min espace=19>faire fondre le beurre au <recipient>bain - marie</recipient> (ou au micro-ondes</operation>). dans un bol, verser le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>oeuf</ingredient>, mélanger. ajouter le beurre refroidi à ce mélange, et bien mélanger le tout. en fin de cuisson, <operation temps=6.86min espace=19>sortir la tarte du <recipient>four</recipient>,</operation> et verser la <ingredient quantite=1>crème</ingredient> au beurre sur le dessus. bien <operation temps=6.86min espace=19>répartir sur toute la tarte</operation>. remettre au <recipient>four</recipient> à dorer.
+]]>
+ </preparation>
+</recette>

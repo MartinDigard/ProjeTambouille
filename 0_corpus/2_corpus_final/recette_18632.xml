@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18632">
+ <titre>Chenklish ou fromage libanais</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 fromage libanais "chenklish"</p>
+ <p>4 tomates</p>
+ <p>2 oignons</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à café de cumin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>coupez les <ingredient quantite=4>tomates</ingredient> et les <ingredient quantite=2>oignons</ingredient> en petits dés</operation>. <operation temps=6.86min espace=5>effritez le <ingredient quantite=1>fromage</ingredient> à l’</operation> aide d’ un couteau afin de le réduire en morceaux le plus petits possible (surtout ne pas enlever la pellicule d’ herbes qui l’ entoure car c’ est elle qui lui donne ce goût si particulier). <operation temps=6.86min espace=5>ajoutez le <ingredient quantite=2>cumin</ingredient> et un peu de poivre</operation>. <operation temps=5.0min espace=5>mélangez le tout</operation>. <operation temps=6.86min espace=5>mouillez avec l’ <ingredient quantite=5>huile</ingredient> d’ <ingredient quantite=5>olive</ingredient> et en</operation> rajouter si l’ ensemble est trop sec. le <ingredient quantite=1>fromage libanais</ingredient> appelé " <ingredient quantite=1>chenklish</ingredient> " se présente sous la forme d’ une boule sèche que l’ on ne trouve que chez un traiteur <ingredient quantite=1>libanais</ingredient>. un vin <ingredient quantite=1>libanais</ingredient> rouge ou rosé, un ksara par exemple.
+]]>
+ </preparation>
+</recette>

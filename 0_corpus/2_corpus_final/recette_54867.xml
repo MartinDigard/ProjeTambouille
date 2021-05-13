@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54867">
+ <titre>Porc au caramel et aux noix de cajou</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de côtes de porc (2 ou 3) </p>
+ <p>50 g de noix de cajou</p>
+ <p>2 oignons</p>
+ <p>sauce soja</p>
+ <p>3 cuillères à café de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir à la <recipient>poêle</recipient> les 2 <ingredient quantite=2>oignons</ingredient></operation> émincés dans un petit peu d’ huile. désosser et découper la viande en petits morceaux puis l’ ajouter dans la <recipient>poêle</recipient>. ajouter les <ingredient quantite=1>noix de cajou</ingredient>. <operation temps=6.86min espace=7>faire revenir à feu doux</operation>. ajouter la sauce <ingredient quantite=1>soja</ingredient>. puis, 2 minutes avant la fin le <ingredient quantite=3>sucre en poudre</ingredient>. reisling
+]]>
+ </preparation>
+</recette>

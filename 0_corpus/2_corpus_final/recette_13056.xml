@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13056">
+ <titre>Colombo de poulet (Antilles) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 cuillères à café de poudre à colombo</p>
+ <p>1 cuillère à soupe de rhum blanc ou vieux (facultatif) </p>
+ <p>3 pommes de terre moyenne</p>
+ <p>persil frais</p>
+ <p>le jus d’ un citron</p>
+ <p>mélange quatre épices</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire mariner le <ingredient quantite=4>poulet</ingredient> dans un récipient avec 1 <ingredient quantite=1>oignon</ingredient></operation> coupé en dé, le <ingredient quantite=1>rhum</ingredient>, 1 <ingredient quantite=2>cuillère de colombo</ingredient>, du quatre <ingredient quantite=1>épice</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre et le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. ne pas y toucher durant 4 à 5 heures. <operation temps=6.86min espace=12>faire doré le <ingredient quantite=4>poulet</ingredient> dans une <recipient>sauteuse</recipient></operation>. puis le mettre de côté. dans la même <recipient>sauteuse</recipient>, faire revenir les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=3>pommes de terre</ingredient> coupées en petits dés, ainsi que la gousse d’ <ingredient quantite=1>ail</ingredient> hachée. rajouter le <ingredient quantite=4>poulet</ingredient>, le <ingredient quantite=2>colombo</ingredient>, et le <ingredient quantite=1>persil</ingredient> haché. <operation temps=2.0min espace=12>couvrir d’ eau</operation> et <operation temps=10.0min espace=12>laisser mijoter 10 mn en recouvrant</operation>. au moment de <operation temps=2.0min espace=12>servir</operation>, rectifier l’ assaisonnement. <operation temps=6.86min espace=12>servir de préférence avec du riz</operation>. vin rouge
+]]>
+ </preparation>
+</recette>

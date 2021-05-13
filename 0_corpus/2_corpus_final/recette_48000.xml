@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48000">
+ <titre>Filet mignon aux tomates confites</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 filets mignon de porc ou de veau</p>
+ <p>une boîte de tomates confites dans l’ huile</p>
+ <p>un paquet de tranches fines de lard</p>
+ <p>quelques feuilles de basilic frais</p>
+ <p>un verre de vin blanc sec</p>
+ <p>un gros oignon</p>
+ <p>un pion d’ ail</p>
+ <p>du fil de cuisine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>ouvrir les <ingredient quantite=2>filets</ingredient> en deux dans le sens de la longueur tout en</operation> laissant les 2 parties attachées. farcir l’ intérieur des <ingredient quantite=2>filets</ingredient> avec les <ingredient quantite=1>tomates confites</ingredient>, 2 ou 3 <ingredient quantite=1>tranches de lard</ingredient> fumé et enfin disposer quelques <ingredient quantite=1>feuilles de basilic</ingredient>. refermer les <ingredient quantite=2>filets</ingredient> à l’ aide du <ingredient quantite=1>fil de cuisine</ingredient> (1 nœud à chaque extrémité et 1 au centre). dans une grande <recipient>sauteuse</recipient>, <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient> jusqu’ à coloration</operation> puis disposer les <ingredient quantite=2>filets</ingredient> pour les <operation temps=6.86min espace=10>faire dorer sur toutes les faces</operation>. déglacer ensuite avec le <ingredient quantite=1>verre de vin blanc</ingredient>, ajouter l’ <ingredient quantite=1>ail</ingredient> pilé et <operation temps=30.0min espace=10>couvrir pendant 30 minutes</operation> (mouiller avec de l’ eau si besoin). si besoin en <ingredient quantite=1>fin</ingredient> de cuisson, retirer les <ingredient quantite=2>filets</ingredient> et <operation temps=6.86min espace=10>faire diminuer le volume de sauce en</operation> mettant à feu plus fort. couper les <ingredient quantite=2>filets</ingredient> en tronçons de 3 cm d’ épaisseur et disposer dans des assiettes chaudes. ce <recipient>plat</recipient> s’ accompagne parfaitement d’ une purée pommes de terre, <ingredient quantite=1>huile</ingredient> d’ olive et <ingredient quantite=1>basilic</ingredient>. <ingredient quantite=1>vin blanc sec</ingredient> ou rouge léger
+]]>
+ </preparation>
+</recette>

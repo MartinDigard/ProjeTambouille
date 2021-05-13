@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223333">
+ <titre>Flamusse aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60 g de farine</p>
+ <p>75 g de sucre en poudre</p>
+ <p>1 pincée de sel</p>
+ <p>3 œufs</p>
+ <p>50 cl de lait</p>
+ <p>3 ou 4 pommes (reinettes ou golden) </p>
+ <p>sucre glace</p>
+ <p>cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (th.6). mettre la farine, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient> dans un <recipient>saladier</recipient>. battre les <ingredient quantite=3>œufs</ingredient> en omelette et les ajouter dans le <recipient>saladier</recipient>. mélanger bien à l’ aide d’ une spatule en bois jusqu’ à l’ obtention d’ une pâte bien lisse. ajouter le lait petit à petit sans cesser de mélanger. beurrer une tourtière de 22 cm de diamètre ou 6 petites tourtières. peler et couper les <ingredient quantite=3>pommes</ingredient> en tranches fines et les disposer en couronne en les <operation temps=6.86min espace=12>faisant se chevaucher</operation>. verser la pâte par dessus et mettre au <recipient>four</recipient> pendant 45 min. démouler la flamusse quand elle est tiède et saupoudrer de <ingredient quantite=1>sucre glace</ingredient> et de <ingredient quantite=1>cassonade</ingredient> (pour donner un peu de croquant). servir tiède ou froid.
+]]>
+ </preparation>
+</recette>

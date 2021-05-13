@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30078">
+ <titre>Lapin au cidre et aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin coupé</p>
+ <p>4 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>200 g de lard fumé en lardons</p>
+ <p>300 g de champignons émincés</p>
+ <p>60 g de beurre</p>
+ <p>50 cl de cidre sec</p>
+ <p>1 cuillère à café rase de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>lapin</ingredient> en morceaux, hachez l’ <ingredient quantite=3>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> dans le beurre puis les</operation> ôter du feu. dorer le <ingredient quantite=1>lapin</ingredient> sur toutes les faces. <operation temps=6.86min espace=9>faire fondre les <ingredient quantite=1>champignons</ingredient> avec l’</operation> <ingredient quantite=3>ail</ingredient>, ajouter le <ingredient quantite=1>lapin</ingredient>, les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. saupoudrer de farine et verser le <ingredient quantite=1>cidre</ingredient>. couvrir et cuire 1 heure.
+]]>
+ </preparation>
+</recette>

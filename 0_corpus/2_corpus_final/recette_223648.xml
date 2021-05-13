@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223648">
+ <titre>Mon cramique (mi map, mi four traditionnel) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte de base (four à pain): </p>
+ <p>12, 5 cl d’ eau</p>
+ <p>12, 5 c de lait demi-écrémé</p>
+ <p>80 g de beurre mou</p>
+ <p>2 g de sel</p>
+ <p>500 g de "brioché fermier" (mélange pour brioche) </p>
+ <p>20 g de levure fraîche</p>
+ <p>Pour la garniture: </p>
+ <p>70 g de raisins noirs secs</p>
+ <p>70 g de sucre perlé</p>
+ <p>1 œuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+il faut, pour cette recette, un <recipient>four</recipient> à pain qui permette de lancer le programme " <ingredient quantite=1>pâte</ingredient> " ou " dough " uniquement, sans la cuisson! commencer par mettre les ingrédients suivants, dans l’ ordre, dans le <recipient>four</recipient> à pain: <ingredient quantite=1>eau</ingredient>, lait, <ingredient quantite=1>beurre mou</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>brioché fermier</ingredient>, <ingredient quantite=1>levure fraîche</ingredient>. lancer le programme " <ingredient quantite=1>pâte</ingredient> " qui dure 1h30.préchauffer le <recipient>four</recipient> traditionnel à 180 ° c (thermostat 6). beurrer et fariner deux moules à pain (pour ma part, j’ utilise un <recipient>moule</recipient> à pain + un <recipient>moule</recipient> à cake, ce qui donne un grand cramique et un petit). mettre dans un grand <recipient>plat</recipient> les <ingredient quantite=1>raisins secs</ingredient>, le <ingredient quantite=1>sucre perlé</ingredient> et l’ oeuf (jaune et blanc). ajouter la <ingredient quantite=1>pâte</ingredient> et mélanger le tout grossièrement. <operation temps=6.86min espace=19>répartir le mélange dans les 2 formes (attention, ça</operation> va doubler de volume!). <operation temps=30.0min espace=19>laisser au <recipient>four</recipient> environ 30 min en</operation> surveillant la coloration de la croûte qui doit être bien dorée sans <operation temps=6.86min espace=19>noircir</operation>. a déguster tiède de préférence. bon appétit. pour le dimanche matin, <operation temps=6.86min espace=19>programmez votre <recipient>machine à pain</recipient> la veille au soir, il vous</operation> restera juste la cuisson à <operation temps=6.86min espace=19>faire (et ça</operation> sent bon dans toute la maison...).
+]]>
+ </preparation>
+</recette>

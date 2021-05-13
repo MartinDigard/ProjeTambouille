@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88490">
+ <titre>Cassoulet façon basquaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de cassoulet toulousain</p>
+ <p>1/2 poivron rouge</p>
+ <p>1/2 poivron vert</p>
+ <p>2 tomates</p>
+ <p>1 gousse d’ aïl</p>
+ <p>1 oignon</p>
+ <p>3 fines tranches de jambon de bayonne</p>
+ <p>Piment d’ Espelette en poudre</p>
+ <p>huile, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>pelez et émincez l’ <ingredient quantite=1>oignon</ingredient>, hachez l’ <ingredient quantite=1>aïl</ingredient></operation>. <operation temps=6.86min espace=10>détaillez les <ingredient quantite=2>tomates</ingredient> en petits dés</operation>. <operation temps=6.86min espace=10>retirez les graines des</operation> <ingredient quantite=1>poivrons</ingredient> et <operation temps=6.86min espace=10>coupez - les en petits morceaux</operation>. <operation temps=5.0min espace=10>faites revenir l’ <ingredient quantite=1>aïl</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=1>poivrons</ingredient> pendant 5 minutes dans de l’ huile d’ olive</operation>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=3.0min espace=10>ajoutez les</operation> <ingredient quantite=2>tomates</ingredient> et <operation temps=10.0min espace=10>laissez cuire 10 minutes en</operation> remuant. parsemez de <ingredient quantite=1>piment</ingredient>. <operation temps=6.86min espace=10>détaillez le <ingredient quantite=3>jambon</ingredient> en <ingredient quantite=3>fines</ingredient> lanières</operation> et <operation temps=6.86min espace=10>faites - les dorer dans une <recipient>poêle</recipient> pendant quelques instants</operation>. <operation temps=6.86min espace=10>ajoutez les saucisses du <ingredient quantite=1>cassoulet</ingredient></operation>. au moment de <operation temps=2.0min espace=10>servir</operation>, <operation temps=6.86min espace=10>réchauffez les haricots et la viande du <ingredient quantite=1>cassoulet</ingredient></operation>. <operation temps=6.86min espace=10>mélangez la poêlée à base de <ingredient quantite=1>poivrons</ingredient></operation>. <operation temps=6.86min espace=10>servez avec les saucisses et le <ingredient quantite=3>jambon</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

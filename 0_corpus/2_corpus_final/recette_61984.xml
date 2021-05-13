@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61984">
+ <titre>Purée à la compotée d’ oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 à 1, 5 kg de purée maison ou en sachet ou surgelée! </p>
+ <p>10 oignons</p>
+ <p>20 cl de vin blanc</p>
+ <p>40 g de beurre + 1 noix pour le plat</p>
+ <p>6 branches de persil</p>
+ <p>100 g de gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> (en position grill). dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>oignons</ingredient></operation> émincés avec le <ingredient quantite=1>beurre</ingredient> jusqu’ à ce qu’ ils soient translucides et bien dorés. ajouter le <ingredient quantite=1>vin blanc</ingredient>, le <ingredient quantite=6>persil</ingredient> haché et <operation temps=5.0min espace=11>laisser réduire 5 min environ</operation>. préparer la <ingredient quantite=1>purée</ingredient>. dans un <recipient>moule</recipient> à gratin beurré, <operation temps=6.86min espace=11>répartir la compotée d’</operation> <ingredient quantite=1>oignons</ingredient> et <operation temps=6.86min espace=11>recouvrir avec la <ingredient quantite=1>purée</ingredient></operation>. saupoudrer de gruyère <ingredient quantite=1>rapée</ingredient> et <operation temps=5.0min espace=11>laisser gratiner au <recipient>four</recipient> 5 min environ</operation>.
+]]>
+ </preparation>
+</recette>

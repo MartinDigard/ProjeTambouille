@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64653">
+ <titre>Salade de blettes aux oeufs mollets</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de blettes</p>
+ <p>4 oeufs</p>
+ <p>3 cuillères à soupe de fromage blanc</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>jus d’ 1 citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire bouillir de l’ eau</operation>. <operation temps=6.86min espace=6>préparez les</operation> <ingredient quantite=1>blettes</ingredient> puis <operation temps=6.86min espace=6>émincez en julienne les feuilles et le corps</operation>. <operation temps=5.0min espace=6>cuisez - les 5 minutes dans l’ eau</operation> puis <operation temps=6.86min espace=6>égouttez</operation>. <operation temps=5.0min espace=6>cuisez les <ingredient quantite=4>oeufs</ingredient> 5 minutes dans l’ eau bouillante puis passez - les sous l’ eau</operation> froide jusqu’ à total refroidissement. mélangez le <ingredient quantite=3>fromage blanc</ingredient> avec <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=6.86min espace=6>ajoutez - y les bettes et mélangez</operation>. <operation temps=6.86min espace=6>servez avec les <ingredient quantite=4>oeufs</ingredient> coupés en deux sur les <ingredient quantite=1>blettes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

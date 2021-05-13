@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23388">
+ <titre>Fondue bourguignonne et sauces d’ accompagnement</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 2 kg de boeuf de première catégorie (faux-filet, filet) </p>
+ <p>huile de pépin de raisins ou autre huile neutre pour frire</p>
+ <p>1 brindille de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>250 g de mayonnaise</p>
+ <p>2 cuillères à soupe de câpres</p>
+ <p>5 brins de persil hachés</p>
+ <p>3 cornichons</p>
+ <p>2 gousses d’ ail</p>
+ <p>125 g de crème fraîche ou fromage blanc</p>
+ <p>3 cuillères à soupe de céleri rave râpé</p>
+ <p>2 cuillères à soupe de noix pilées</p>
+ <p>1/2 citron</p>
+ <p>20 cl de purée de tomate épaissse</p>
+ <p>3 ou 4 filets d’ anchois pilés</p>
+ <p>6-7 olives</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=19>préparez les sauces d’</operation> accompagnement: sauce tartare: <operation temps=6.86min espace=19>mélangez 125 g de <ingredient quantite=1>mayonnaise</ingredient> avec les <ingredient quantite=2>câpres</ingredient>, le <ingredient quantite=5>persil</ingredient> et les <ingredient quantite=3>cornichons</ingredient> hachés</operation>. <operation temps=0.25min espace=19>salez</operation> <operation temps=0.5min espace=19>poivrez</operation>. sauce aïoli: mélangez 125 g de <ingredient quantite=1>mayonnaise</ingredient> avec 2 <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail pilées</ingredient>. <operation temps=0.25min espace=19>salez</operation> <operation temps=0.5min espace=19>poivrez</operation>. sauce au <ingredient quantite=3>céleri</ingredient>: <operation temps=6.86min espace=19>mélangez la <ingredient quantite=1>crème</ingredient> avec le <ingredient quantite=3>céleri</ingredient>, les <ingredient quantite=2>noix</ingredient> et le jus de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=0.25min espace=19>salez</operation> <operation temps=0.5min espace=19>poivrez</operation>. sauce <ingredient quantite=1>tomate</ingredient> aux <ingredient quantite=3>anchois</ingredient>: mélangez la <ingredient quantite=1>purée de tomate</ingredient> avec les <ingredient quantite=3>anchois</ingredient> et les <ingredient quantite=10>olives</ingredient>. <operation temps=0.25min espace=19>salez</operation> <operation temps=0.5min espace=19>poivrez</operation>. <operation temps=6.86min espace=19>réservez les sauces au frais</operation>. <operation temps=6.86min espace=19>découpez la viande en cubes d’ environ 2 cm de côté</operation>. <operation temps=6.86min espace=19>faites chauffer l’ <ingredient quantite=1>huile</ingredient> dans un <recipient>caquelon</recipient> à fondue avec le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient></operation>. dès qu’ elle est chaude, <operation temps=0.25min espace=19>retirez</operation> - les et apportez l’ <ingredient quantite=1>huile</ingredient> à table, maintenez - la chaude. <operation temps=6.86min espace=19>faites cuire les morceaux de viande au fur et à mesure dans l’</operation> <ingredient quantite=1>huile</ingredient>, <operation temps=6.86min espace=19>égouttez</operation> et <operation temps=5.0min espace=19>dégustez</operation>. <operation temps=6.86min espace=19>servez avec les sauces, un grand <recipient>plat</recipient> de salades mélangées et des frites ou du riz</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38426">
+ <titre>Gratin dauphinois aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes de terres</p>
+ <p>1 poireau</p>
+ <p>1 grosse carotte</p>
+ <p>1 endive</p>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>1 l de lait</p>
+ <p>25 cl de crème fraiche</p>
+ <p>sel, poivre</p>
+ <p>muscade</p>
+ <p>ail</p>
+ <p>200 g de fromage rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=14>pelez</operation> et coupez les <ingredient quantite=4>pommes de terres</ingredient> en rondelles très fines. <operation temps=0.5min espace=14>réservez</operation>. <operation temps=6.86min espace=14>coupez le <ingredient quantite=1>poireau</ingredient>, l’</operation> endive, la <ingredient quantite=1>carotte</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et l’ echalote en fines lamelles. <operation temps=0.5min espace=14>réservez</operation>. mettez sur le feu, le lait avec le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>muscade</ingredient> et <ingredient quantite=1>ail</ingredient>, dès qu’ il bouillonne, plongez - y les <ingredient quantite=4>pommes de terre</ingredient> et les légumes pendant 15 minutes. <operation temps=6.86min espace=14>egouttez le tout en y</operation> laissant un peu de lait, <operation temps=6.86min espace=14>versez la préparation dans un <recipient>plat</recipient> à gratin</operation>, ajoutez la <ingredient quantite=1>crème fraiche</ingredient>, parsemez de <ingredient quantite=1>fromage</ingredient> rapé. <operation temps=15.0min espace=14>mettez au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 15 minutes</operation>.
+]]>
+ </preparation>
+</recette>

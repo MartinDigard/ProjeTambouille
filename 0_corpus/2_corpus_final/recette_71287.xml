@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71287">
+ <titre>Pancakes aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>200 g de noisette en poudre</p>
+ <p>2/3 d’ un sachet de levure chimique</p>
+ <p>2 oeufs</p>
+ <p>40 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>poudre</ingredient> de <ingredient quantite=1>noisettes</ingredient> et la <ingredient quantite=1>levure</ingredient> jusqu’ à <operation temps=8.0min espace=8>obtenir un mélange homogène</operation>. ensuite, y ajouter le lait et les <ingredient quantite=2>oeufs</ingredient>. <operation temps=6.86min espace=8>laisser reposer jusqu’ à ce que des petites bulles</operation> apparaissent (environ 15 à 20 minutes). mettre un <recipient>poêle</recipient> à chauffer. y <operation temps=6.86min espace=8>faire fondre un petit peu de beurre (étaler avec un morceau de papier essuie - tout</operation>). à l’ aide d’ une louche, <operation temps=6.86min espace=8>faire un petit paquet au centre de la <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=8>laisser cuire jusqu’ à apparition de petits trous (environ 30 secondes à 1 minute, selon feu),</operation> puis retourner à l’ aide d’ une spatule. c’ est prêt! bon ap’...
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92333">
+ <titre>Mousse aux chocolats noir et praliné</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80g de chocolat noir- 80g de chocolat praliné- 10cl de crème liquide- 1 cuillère à soupe de rhum ambré- 2 oeufs- 20g de sucre en poudre- 1 sachet de sucre vanillé- 1 cuillère à soupe de pralin ou pépites décoratives selon le goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+casser les <ingredient quantite=1>chocolats</ingredient> et <operation temps=6.86min espace=3>faire fondre au <recipient>bain marie</recipient></operation>. <operation temps=6.86min espace=3>faire chauffer la crème et la</operation> porter à ébullition. verser la crème sur le <ingredient quantite=1>chocolat</ingredient> fondu, parfumer avec le rhum. casser les oeufs, séparer les blancs et jaunes. fouetter les jaunes avec le sucre et le sucre vanillé jusqu’ au blanchiment, puis incorporer la crème au <ingredient quantite=1>chocolat</ingredient>. monter les blancs en neige. incorporer une cuillère à soupe de ces blancs à la préparation en remuant bien pour liquéfier la crème. ajouter le reste des blancs délicatement pour ne pas les casser. <operation temps=6.86min espace=3>répartir dans des ramequins</operation>. <operation temps=6.86min espace=3>couvrir d’ un film</operation> et placer au <recipient>réfrigérateur</recipient> au moins 6 heures. parsemer de pralin ou de pépites décoratives. déguster bien frais!
+]]>
+ </preparation>
+</recette>

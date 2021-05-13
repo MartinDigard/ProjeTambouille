@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44932">
+ <titre>Tarte à la ricotta et à la pistache</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>75 g de pistaches non salées</p>
+ <p>100 g de sucre</p>
+ <p>100 g de beurre</p>
+ <p>1 oeuf</p>
+ <p>100 g de ricotta</p>
+ <p>1 boule de glace à la pistache </p>
+ <p>1 cuillère à soupe de fécule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer les <ingredient quantite=1>pistaches</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. ajouter le beurre, l’ <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=1>fécule</ingredient>, la ricotta et la <ingredient quantite=1>glace pistache</ingredient>. <operation temps=6.86min espace=9>répartir la garniture sur la</operation> <ingredient quantite=1>pâte</ingredient>, disposée dans un <recipient><recipient>moule</recipient> à tarte</recipient>. enfourner pendant 30 min à 180 ° c (th 6).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67059">
+ <titre>Pâtes au thon de l’ étudiant fauché préssé</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 petites boites de thon à l’ huile d’ olive</p>
+ <p>500 g de pâtes</p>
+ <p>1 gros oignon</p>
+ <p>10 cl de vin blanc</p>
+ <p>1 brique de sauce tomate</p>
+ <p>2 cuillères à soupe de persil déshydraté</p>
+ <p>1 feuille de laurier</p>
+ <p>sel et poivre</p>
+ <p>100 g de fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>emiettez le</operation> <ingredient quantite=2>thon</ingredient> et récupérer son <ingredient quantite=2>huile</ingredient>. emincez l’ <ingredient quantite=1>oignon</ingredient> et faites - le fondre dans une <recipient>casserole</recipient> avec une partie de l’ <ingredient quantite=2>huile du thon</ingredient>. lorsque l’ <ingredient quantite=1>oignon</ingredient> commence à <operation temps=6.86min espace=10>blondir</operation>, ajoutez le <ingredient quantite=1>vin blanc</ingredient>, la <ingredient quantite=1>sauce tomate</ingredient>, le <ingredient quantite=2>persil</ingredient> et le <ingredient quantite=1>laurier</ingredient>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>, <operation temps=6.86min espace=10>laissez mijoter à feu doux en</operation> remuant régulièrement pendant 15 minutes. <operation temps=6.86min espace=10>ajoutez le</operation> <ingredient quantite=2>thon</ingredient>, <operation temps=2.0min espace=10>laissez mijoter 2 minutes</operation> et <operation temps=6.86min espace=10>versez la préparation sur les <ingredient quantite=1>pâtes</ingredient></operation>. <operation temps=2.0min espace=10>servez sans</operation> attendre, proposez le <ingredient quantite=1>fromage</ingredient> à part. facile, économique, végétarien et bon! cola
+]]>
+ </preparation>
+</recette>

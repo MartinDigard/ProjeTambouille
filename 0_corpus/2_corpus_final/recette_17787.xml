@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17787">
+ <titre>Tarte aux framboises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte brisée: </p>
+ <p>300 g de farine tamisée</p>
+ <p>250 g de beurre demi-sel</p>
+ <p>Pour la crème: </p>
+ <p>250 g de Mascarpone</p>
+ <p>100 g de fromage blanc à 40 % de MG</p>
+ <p>100 g de sucre</p>
+ <p>Pour la garniture: </p>
+ <p>300 g de framboises</p>
+ <p>un jus de citron</p>
+ <p>50 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>préparez une <ingredient quantite=1>pâte</ingredient></operation> sablée avec la farine et le beurre ramolli. <operation temps=6.86min espace=14>etalez - la à la main dans un <recipient>plat</recipient> à tarte préalablement beurré</operation>. <operation temps=30.0min espace=14>faire cuire à <ingredient quantite=1>blanc</ingredient> pendant environ 30 mn à 160 ° c</operation>. <operation temps=20.0min espace=14>laissez refroidir</operation>. dans le bol du <recipient>mixeur</recipient>, mélangez la <ingredient quantite=1>mascarpone</ingredient>, le <ingredient quantite=1>fromage blanc</ingredient> et le <ingredient quantite=1>sucre</ingredient>. lorsque la <ingredient quantite=1>pâte</ingredient> est refroidie, <operation temps=6.86min espace=14>étalez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=14>disposez dessus 250 g de <ingredient quantite=1>framboises</ingredient></operation>. mixez les 50 g de <ingredient quantite=1>framboises</ingredient> restantes, le <ingredient quantite=1>jus de citron</ingredient> et le <ingredient quantite=1>sucre glace</ingredient> pour <operation temps=6.86min espace=14>obtenir un coulis de <ingredient quantite=1>framboise</ingredient> que vous</operation> <operation temps=6.86min espace=14>servirez à part</operation>. <operation temps=6.86min espace=14>laissez refroidir au <recipient>réfrigérateur</recipient> environ 2 heures</operation>.
+]]>
+ </preparation>
+</recette>

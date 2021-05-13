@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18862">
+ <titre>Cheese cake</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de fromage blanc</p>
+ <p>10 cl de crème fraîche</p>
+ <p>200 g de biscuits petit beurre</p>
+ <p>100 g de noisettes décortiquées</p>
+ <p>100 g de beurre mou</p>
+ <p>100 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>4 ou 5 feuilles de gélatine</p>
+ <p>1 citron non traité</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réduire en poudre les <ingredient quantite=1>biscuits</ingredient> et les <ingredient quantite=1>noisettes</ingredient>. y ajouter le <ingredient quantite=1>beurre</ingredient> fondu. <operation temps=6.86min espace=12>garnir de ce mélange le fond d’ une tourtière (en</operation> tassant un peu) et mettre au <recipient>réfrigérateur</recipient>. faire tremper les <ingredient quantite=4>feuilles de gélatine</ingredient> pour les <operation temps=6.86min espace=12>ramollir, puis les</operation> égoutter. presser le jus du <ingredient quantite=1>citron</ingredient> et râper son zeste. dans une <recipient>casserole</recipient>, faire fondre doucement les <ingredient quantite=4>feuilles de gélatine</ingredient> et le jus de <ingredient quantite=1>citron</ingredient>. dans un <recipient>plat</recipient>, battre le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=2>oeufs</ingredient>. ajouter le <ingredient quantite=1>fromage blanc</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et le zeste du <ingredient quantite=1>citron</ingredient>, puis la <ingredient quantite=4>gélatine</ingredient> fondue -sans cesser de battre. monter les <ingredient quantite=1>blancs</ingredient> en neige, les ajouter au mélange. verser cette garniture sur le fond de <ingredient quantite=1>biscuits</ingredient> - <ingredient quantite=1>noisettes</ingredient>. mettre au frais au moins 6 heures.
+]]>
+ </preparation>
+</recette>

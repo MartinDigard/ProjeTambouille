@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27717">
+ <titre>Feuilleté au roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 rouleaux de pâte feuilletée</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>250 g de roquefort</p>
+ <p>2 oeufs</p>
+ <p>80 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la farce avec le <ingredient quantite=1>roquefort</ingredient> écrasé à la fourchette, la farine, le beurre, les <ingredient quantite=2>oeufs</ingredient>. poivrer. mettre un <ingredient quantite=2>rouleau de pâte feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, étaler la farce, recouvrir avec le deuxième <ingredient quantite=2>rouleau de pâte</ingredient>, <operation temps=20.0min espace=7>dorez - le avec un jaune d’ <ingredient quantite=1>oeuf</ingredient> et enfournez à <recipient>four</recipient> tres chaud 20 mn</operation>. c’ est délicieux et hyper rapide!
+]]>
+ </preparation>
+</recette>

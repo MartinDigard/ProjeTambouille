@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41661">
+ <titre>Velouté de Champignons à la crème fraîche</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de champignons de Paris</p>
+ <p>1 carotte</p>
+ <p>1 cube de bouillon</p>
+ <p>3 gousses d’ ail</p>
+ <p>2 grosses cuillers de crème fraîche</p>
+ <p>1 cuiller à soupe de Maïzena</p>
+ <p>de l’ eau</p>
+ <p>une pincée de sel et poivre</p>
+ <p>un jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>champignons</ingredient> en petits morceaux, couper la <ingredient quantite=1>carotte</ingredient> et l’ <ingredient quantite=3>ail</ingredient>, mettre à cuire dans une grande <recipient>casserole</recipient> en couvrant d’ <ingredient quantite=1>eau</ingredient>. ajouter le <ingredient quantite=1>cube de bouillon</ingredient>. <operation temps=15.0min espace=10>laisser cuire environ 15 minutes</operation>. mixer, ajouter la <ingredient quantite=2>crème fraîche</ingredient>, la <ingredient quantite=1>maïzena</ingredient>, le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et mixer sans attendre jusqu’ a ce que la <ingredient quantite=1>soupe</ingredient> prenne une consistance veloutée. <operation temps=6.86min espace=10>laisser cuire encore 15 minutes, et mixer à nouveau pour que la <ingredient quantite=1>soupe</ingredient> soit parfaitement</operation> veloutée. rectifier l’ assaisonnement et servir bien chaud avec une petite cuillerée de <ingredient quantite=2>crème fraîche</ingredient> et quelques croûtons à l’ <ingredient quantite=3>ail</ingredient>... si la <ingredient quantite=1>soupe</ingredient> est trop salée, <operation temps=6.86min espace=10>ajoutez une pomme de terre</operation> et <operation temps=6.86min espace=10>retirez - la ensuite une fois cuite, elle</operation> absorbera le <ingredient quantite=1>sel</ingredient> en trop...
+]]>
+ </preparation>
+</recette>

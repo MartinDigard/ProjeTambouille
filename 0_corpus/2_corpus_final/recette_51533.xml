@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51533">
+ <titre>Muffins bretons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>200 g de farine</p>
+ <p>100 g de beurre salé ou 1/2 sel + 20 g</p>
+ <p>15 cl de lait (ribot c’ est mieux) </p>
+ <p>180 g de sucre</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>2 belles pommes</p>
+ <p>1 cuillère à soupe de chouchen</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). battre les <ingredient quantite=2>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu à obtention d’ un mélange mousseux. <operation temps=6.86min espace=11>faire fondre le <ingredient quantite=1>beurre</ingredient> dans le lait dans une <recipient>casserole</recipient> sur feu doux</operation> puis verser sur le melange <ingredient quantite=2>oeufs</ingredient> - <ingredient quantite=1>sucre</ingredient> en fouettant. incorporer la farine et la <ingredient quantite=1>levure</ingredient>. détailler les <ingredient quantite=2>pommes</ingredient> en petits dés et les <operation temps=6.86min espace=11>faire dorer dans 20 <ingredient quantite=1>g</ingredient> de <ingredient quantite=1>beurre</ingredient> avant de les</operation> ajouter à la pâte avec le <ingredient quantite=1>chouchen</ingredient>. <operation temps=6.86min espace=11>remplir des moules à muffins beurrés</operation> et farinés puis enfourner pour 15 minutes de cuisson. les muffins sont cuits lorsque la lame du couteau plantée dans les gâteaux ressort séche. se conservent très bien dans une boite hermétique 3 à 4 jours. le <ingredient quantite=1>chouchen</ingredient> est une spécialité bretonne, c’ est une boisson alcoolisée fermentée à base de miel. pourquoi pas un bon cidre brut breton.
+]]>
+ </preparation>
+</recette>

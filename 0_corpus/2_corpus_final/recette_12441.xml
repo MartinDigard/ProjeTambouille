@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12441">
+ <titre>Soupe de pêches au vin rouge</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 pêches</p>
+ <p>6 cuillerées à soupe de sucre en poudre</p>
+ <p>35 cl de vin rouge de Bordeaux (l’ idéal est un Pomerol) </p>
+ <p>12 morceaux de sucre</p>
+ <p>1 bâton de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=6>pêches</ingredient>, les couper en 2, retirer les noyaux et les saupoudrer de <ingredient quantite=6>sucre</ingredient>. <operation temps=6.86min espace=6>laisser macérer 1 h</operation>. dans une <recipient>casserole</recipient>, faire bouillir le <ingredient quantite=1>vin rouge</ingredient> avec les morceaux de <ingredient quantite=6>sucre</ingredient> et la <ingredient quantite=1>cannelle</ingredient>, pendant 10 mn. puis, y <operation temps=6.86min espace=6>faire pocher les <ingredient quantite=6>pêches</ingredient> et leur jus de macération</operation>. lorsque les fruits sont cuits, les égoutter avec précaution, puis les dresser dans une coupe. <operation temps=6.86min espace=6>faire réduire le <ingredient quantite=1>vin</ingredient> de moitié et en</operation> napper les <ingredient quantite=6>pêches</ingredient>. <operation temps=6.86min espace=6>tenir au frais</operation>. choisir des <ingredient quantite=6>pêches</ingredient> blanches saines et bien mûres. on peut remplacer le <ingredient quantite=1>vin rouge</ingredient> par du lillet <ingredient quantite=1>rouge</ingredient> ou blanc, du sauternes ou du montbazillac et la <ingredient quantite=1>cannelle</ingredient> par de la vanille. si l’ on choisit un <ingredient quantite=1>vin</ingredient> liquoreux, 6 morceaux de <ingredient quantite=6>sucre</ingredient> sont suffisants.
+]]>
+ </preparation>
+</recette>

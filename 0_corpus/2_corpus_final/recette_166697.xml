@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166697">
+ <titre>Cannellonis au crabe sauce homardine</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la sauce homardine: </p>
+ <p>1 petite boite de bisque de homard (400 g) </p>
+ <p>1 brique de sauce béchamel (500 ml) </p>
+ <p>1 brique de sauce tomate (200 g) </p>
+ <p>50 cl de lait</p>
+ <p>Pour les cannellonis: </p>
+ <p>1 boite de cannelloni à farcir (sans précuisson) </p>
+ <p>2 pots de ricotta (250 g) </p>
+ <p>3 petites boite de crabe</p>
+ <p>persil frais ou surgelé</p>
+ <p>piment d’ Espelette</p>
+ <p>1 petit paquet d’ emmental (150 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>sauce</ingredient> en mélangeant les différents ingrédients dans une <recipient>casserole</recipient> et en chauffant légèrement. dans un grand <recipient>plat</recipient>, mélanger le <ingredient quantite=3>crabe</ingredient> bien égoutté, la ricotta, le <ingredient quantite=1>persil</ingredient> et le <ingredient quantite=1>piment</ingredient> puis <ingredient quantite=1>farcir</ingredient> les <ingredient quantite=1>cannellonis</ingredient> avec cette préparation. dans un <recipient>plat</recipient> à gratin beurré, verser de la <ingredient quantite=1>sauce</ingredient> pour <operation temps=6.86min espace=17>couvrir le fond du <recipient>plat</recipient></operation>, disposer les <ingredient quantite=1>cannellonis</ingredient> (ils ne doivent pas se toucher) puis recouvrer généreusement de <ingredient quantite=1>sauce</ingredient> et <operation temps=6.86min espace=17>finir avec l’ <ingredient quantite=1>emmental</ingredient></operation> <operation temps=6.86min espace=17>recouvrir d’ aluminium</operation> et <operation temps=30.0min espace=17>faire cuire 30 min à 180 ° c</operation> puis terminer la cuisson sans aluminium jusqu’ à ce que le <recipient>plat</recipient> soit bien doré chianti
+]]>
+ </preparation>
+</recette>

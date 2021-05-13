@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14785">
+ <titre>Sablé aux bananes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de biscuits sablés</p>
+ <p>100 g de beurre</p>
+ <p>250 ml de crême fraîche</p>
+ <p>bananes</p>
+ <p>1 boîte de lait concentré sucré</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire la <ingredient quantite=1>boîte de lait</ingredient> fermée pendant une heure et demie dans de l’ eau bouillante sans interruption et <operation temps=6.86min espace=6>laisser refroidir complètement</operation>. <operation temps=6.86min espace=6>emiettez les</operation> <ingredient quantite=1>biscuits</ingredient> et <operation temps=6.86min espace=6>ajoutez le beurre fondu</operation>, <operation temps=6.86min espace=6>applatissez le tout dans un <recipient>plat</recipient> à tarte</operation> et <operation temps=6.86min espace=6>laissez au frigo pendant 10</operation> mn. <operation temps=6.86min espace=6>couvrez ce <ingredient quantite=1>biscuit</ingredient> avec le <ingredient quantite=1>lait</ingredient></operation> caramélisé puis <operation temps=6.86min espace=6>couvrez de rondelles de <ingredient quantite=1>bananes</ingredient></operation>. <operation temps=6.86min espace=6>fouettez la crème fraîche</operation> et <operation temps=6.86min espace=6>couvrez le tout avec celle-ci</operation>. calorique mais délicieux. pas de crainte, la <ingredient quantite=1>boîte de lait</ingredient> n’ explose pas!
+]]>
+ </preparation>
+</recette>

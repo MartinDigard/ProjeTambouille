@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40687">
+ <titre>Filets de sardines marinés</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 filets de sardines coupés en deux (450 g environ) </p>
+ <p>vinaigre d’ alcool</p>
+ <p>2 à 3 carottes coupées en rondelles</p>
+ <p>2 oignons émincés</p>
+ <p>4 gousses d’ ail pilées</p>
+ <p>quelques grains de poivre</p>
+ <p>1 bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+placez les <ingredient quantite=1>filets de sardines</ingredient> dans un <recipient>plat</recipient> creux, ajoutez les <ingredient quantite=2>carottes</ingredient>, les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=4>ail</ingredient>, les <ingredient quantite=1>grains de poivre</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=9>arrosez le tout de <ingredient quantite=1>vinaigre</ingredient> d’ <ingredient quantite=1>alcool</ingredient></operation>. <operation temps=6.86min espace=9>recouvrez votre <recipient>plat</recipient> d’ un film alimentaire, et placez - le au frigo pendant 24 h</operation>. vous pouvez remplacer les <ingredient quantite=1>filets de sardines</ingredient> par des anchois frais.
+]]>
+ </preparation>
+</recette>

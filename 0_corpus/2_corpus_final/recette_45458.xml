@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45458">
+ <titre>Tarte à la cancoillotte et saucisse de Morteau</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 saucisse de Morteau</p>
+ <p>1 pate feuilletée </p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>500 g de pommes de terre</p>
+ <p>40 cl de crème épaisse</p>
+ <p>20 cl de lait</p>
+ <p>1 oeuf</p>
+ <p>1 pot de cancoillotte (200 g environ) </p>
+ <p>sel, poivre, muscade, thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire la <ingredient quantite=1>saucisse de morteau</ingredient> dans l’ eau bouillante pendant 30 min sans la piquer, puis la découper en rondelles. faire chauffer les <ingredient quantite=1>pommes de terre</ingredient> à la vapeur, pendant 10 min. mélanger <ingredient quantite=1>oeuf</ingredient>, <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>lait</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>muscade</ingredient> et <ingredient quantite=1>thym</ingredient>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire revenir légèrement <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=1>ail</ingredient></operation> émincés. diposer la pâte dans le <recipient>plat</recipient> à tarte, et disposer les <ingredient quantite=1>pommes de terre</ingredient> et les <ingredient quantite=1>oignons</ingredient>. verser la préparation <ingredient quantite=1>oeuf</ingredient>, <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>lait</ingredient> ; celle-ci ne doit pas atteindre le bord du <recipient>plat</recipient> et disposer les rondelles de <ingredient quantite=1>saucisse</ingredient> et la <ingredient quantite=1>cancoillotte</ingredient> à la cuillère par dessus. préchauffer le <recipient>four</recipient> à 210 ° c (th 6 - 7), pendant 30 à 45 min. vin du jura
+]]>
+ </preparation>
+</recette>

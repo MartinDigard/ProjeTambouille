@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53213">
+ <titre>Tarte de patate douce</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 fond de tarte en pâte brisée</p>
+ <p>2 tasses de patates douces en purée</p>
+ <p>1 tasse de sucre</p>
+ <p>2 cuillères a soupe de mêlasse ou de miel</p>
+ <p>1 cuillère à café de vanille en poudre</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>6 œufs</p>
+ <p>1 tasse de crème fraîche</p>
+ <p>2 cuillères à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fouetter la <ingredient quantite=2>purée de patates douces</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=2>mêlasse</ingredient> et les épices. ajouter les <ingredient quantite=6>œufs</ingredient> un à un. ajouter la <ingredient quantite=1>crème fraîche</ingredient>, puis la farine. verser le mélange sur le <ingredient quantite=1>fond de tarte</ingredient>. cuire 45 minutes à <recipient>four</recipient> moyen, ou jusqu’ à ce que la <ingredient quantite=1>tarte</ingredient> soit bien prise. déguster tiède (avec un peu de glace à la <ingredient quantite=1>vanille</ingredient>, c’ est délicieux), ou bien fraîche (la <ingredient quantite=1>tarte</ingredient> a alors la consistance d’ une <ingredient quantite=1>pâte</ingredient> de fruits).
+]]>
+ </preparation>
+</recette>

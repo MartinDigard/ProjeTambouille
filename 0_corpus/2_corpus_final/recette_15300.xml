@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15300">
+ <titre>Flan antillais</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 œufs</p>
+ <p>1/2 litre de lait</p>
+ <p>1 boîte de lait concentré sucré</p>
+ <p>1/2 sachet de noix de coco râpée (ou même un reste ou fond de sachet) </p>
+ <p>1 paquet sucre vanillé</p>
+ <p>facultatif: un peu de caramel liquide pour le fond du moule, c’ est une question d’ esthétique mais ne change rien au goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=4>œufs</ingredient> avec le <ingredient quantite=1>lait concentré</ingredient>, ajouter le 1/2 l de <ingredient quantite=1>lait</ingredient> et le <ingredient quantite=1>sucre</ingredient> vanillé, bien remuer. rajouter la <ingredient quantite=1>noix de coco</ingredient> et verser le tout dans un <ingredient quantite=1><recipient>moule</recipient></ingredient> à cake. mettre au <recipient>four</recipient> 45 min (thermostat 6 - 7), le dessus doit être légèrement doré. <operation temps=6.86min espace=9>laisser refroidir au frigo au moins deux heures avant de</operation> <operation temps=2.0min espace=9>servir</operation>. en le démoulant, si l’ on a mis du <ingredient quantite=1>caramel liquide au fond du <recipient>moule</recipient></ingredient> avant de verser la préparation, c’ est plus joli. cidre
+]]>
+ </preparation>
+</recette>

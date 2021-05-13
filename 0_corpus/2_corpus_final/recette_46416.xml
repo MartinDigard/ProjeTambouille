@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46416">
+ <titre>Agneau aux amandes et raisins secs</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg d’ épaule d’ agneau désossée et coupée en morceaux</p>
+ <p>3 oignons</p>
+ <p>250 g d’ amandes mondées</p>
+ <p>200 g de raisins secs</p>
+ <p>1 cuillère à soupe de miel liquide</p>
+ <p>1/2 cuillère à café de cannelle</p>
+ <p>6 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites tremper les <ingredient quantite=1>raisins</ingredient> pendant 1 heure dans de l’ eau</operation> tiède. chauffez 3 <ingredient quantite=1>cuillères à soupe</ingredient> d’ <ingredient quantite=6>huile</ingredient> dans un <recipient>faitout</recipient>, et <operation temps=6.86min espace=11>faites - y</operation> <operation temps=10.0min espace=11>revenir la viande 10 min</operation>. <operation temps=6.86min espace=11>otez - la et remplacez - la par les <ingredient quantite=3>oignons</ingredient></operation> émincés. <operation temps=6.86min espace=11>faites revenir les <ingredient quantite=3>oignons</ingredient> 5 min,</operation> puis <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>miel</ingredient> et les épices</operation>. <operation temps=6.86min espace=11>remettez la viande, remuez,</operation> et <operation temps=6.86min espace=11>versez 20 cl d’ eau</operation>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation>, <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=6.86min espace=11>laissez cuire 1 heure à feu doux</operation>. <operation temps=6.86min espace=11>faites dorer les <ingredient quantite=1>amandes</ingredient> à la <recipient>poêle</recipient> dans le reste d’ huile</operation>, <operation temps=6.86min espace=11>ajoutez - les dans le <recipient>faitout</recipient> avec les <ingredient quantite=1>raisins</ingredient> égouttés,</operation> et <operation temps=15.0min espace=11>laissez cuire 15 min sans</operation> <operation temps=0.25min espace=11>couvrir</operation>. <operation temps=2.0min espace=11>servez bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

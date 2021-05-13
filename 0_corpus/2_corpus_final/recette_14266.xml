@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14266">
+ <titre>Salade cuite aux poivrons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>7 poivrons rouges</p>
+ <p>1 poivron vert (pour la couleur) </p>
+ <p>2 boîtes de tomates pelées concassées</p>
+ <p>2 gousses d’ ail</p>
+ <p>un fond d’ huile de tournesol</p>
+ <p>un carré de sucre</p>
+ <p>une pincée de piment de cayenne</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faites griller les <ingredient quantite=7>poivrons</ingredient> au <recipient>gril</recipient> du <recipient>four</recipient></operation> porte ouverte en les retournant de temps en temps jusqu’ à ce qu’ ils soient bien grillés. enfermer les <ingredient quantite=7>poivrons</ingredient> dans un sac en plastique pendant environ 15 mn. ainsi ils seront plus facile a éplucher. dans une <recipient>casserole</recipient> assez large, <operation temps=6.86min espace=12>faire revenir l’ <ingredient quantite=2>ail</ingredient> avec l’ <ingredient quantite=1>huile</ingredient> jusqu’ à ce qu’ il soit</operation> doré. eplucher les <ingredient quantite=7>poivrons</ingredient> et les épépiner. les couper en tout petits dés. mettre les <ingredient quantite=2>tomates</ingredient> dans la <recipient>casserole</recipient> puis les <ingredient quantite=7>poivrons</ingredient>, ajouter le <ingredient quantite=1>sucre</ingredient> (pour enlever l’ amertume) ainsi que les <ingredient quantite=1>piments de cayenne</ingredient>, puis assaisoner. <operation temps=6.86min espace=12>laisser mijoter à feu moyen pendant au moins 1h30 non couvert jusqu’ à ce que la salade ait un aspect’</operation> confiture’. tourner régulièrement pour ne pas que ça attache. servir à température ambiante avec un bon pain de campagne, ou même avec du thon au naturel. petit truc: si vous êtes pressé, vous pouvez utiliser des <ingredient quantite=7>poivrons</ingredient> pelés en <ingredient quantite=1>boîte</ingredient> en mettant toujours le double de <ingredient quantite=7>poivrons</ingredient> par rapport aux <ingredient quantite=2>tomates</ingredient>.
+]]>
+ </preparation>
+</recette>

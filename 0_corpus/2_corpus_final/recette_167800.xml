@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167800">
+ <titre>Moussaka rapide et légère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pour la couche de viande: </p>
+ <p>viande hachée 500g</p>
+ <p>2 cuillères à soupe de concentré de tomates</p>
+ <p>sel, poivre, cumin, paprika</p>
+ <p>_ persil, coriandre (quelques brins) </p>
+ <p>_ un oignon moyen</p>
+ <p>_ une gousse d’ aïlpour la couche d’ aubergines: </p>
+ <p>_ 2 aubergines moyennes</p>
+ <p>_ 400 ml de lait</p>
+ <p>_ 2 c à soupe de maïzena</p>
+ <p>_ sel, poivre</p>
+ <p>_ 1 oeuf</p>
+ <p>_ (50 à 100g de fromage râpé facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>aubergines</ingredient> en 2 dans le sens de la longueur et les <operation temps=6.86min espace=18>laisser cuire à <recipient>four</recipient></operation> maximum 15 à 30 minutes puis les <operation temps=6.86min espace=18>sortir</operation> et baisser la température du <recipient>four</recipient> à 180 ° cpendant ce temps: hacher l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>persil</ingredient>, la <ingredient quantite=1>coriandre</ingredient>, l’ aïl mélanger à la <ingredient quantite=1>viande hachée</ingredient>, saler, poivrer, épicer étaler cette préparation au fond d’ un <recipient>plat</recipient> à <recipient>four</recipient> battre le lait et la <ingredient quantite=1>maïzena</ingredient>, chauffer et donner deux bouillons pour épaissir, saler, poivrer, casser l’ <ingredient quantite=1>oeuf</ingredient> et battre (mettre éventuellement le fromage à ce moment là) <operation temps=6.86min espace=18>sortir les <ingredient quantite=1>aubergines</ingredient> du <recipient>four</recipient></operation> et râcler la chair étaler la chair des <ingredient quantite=1>aubergines</ingredient> sur la <ingredient quantite=1>viande</ingredient> puis verser le lait épaissilaisser cuire 20 à 30 minutes à 180 ° c
+]]>
+ </preparation>
+</recette>

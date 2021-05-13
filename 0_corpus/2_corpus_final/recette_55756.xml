@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55756">
+ <titre>Feuilleté au jambon champenois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>8 tranches de jambon blanc</p>
+ <p>1 boîte de champignons</p>
+ <p>200 g de gruyère râpé</p>
+ <p>un jaune d’ oeuf</p>
+ <p>Pour la sauce bechamel: </p>
+ <p>50 g de beurre</p>
+ <p>4 à 5 cuillères à soupe de farine</p>
+ <p>50 cl de liquide (lait+eau) </p>
+ <p>1 bouillon cube</p>
+ <p>un peu de muscade en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>bechamel</ingredient>: dans une <recipient>casserole</recipient> <operation temps=6.86min espace=16>faire fondre le beurre, y</operation> ajouter la <ingredient quantite=4>farine</ingredient> jusqu’ à <operation temps=6.86min espace=16>obtenir un <ingredient quantite=1>pâte</ingredient> de consistance ferme</operation>. ajouter le <ingredient quantite=1>liquide</ingredient> (lait, eau et <ingredient quantite=1>bouillon cube</ingredient>) et remuer jusqu’ à obtention d’ une <ingredient quantite=1>bechamel</ingredient> épaisse. assaisoner avec sel, poivre, <ingredient quantite=1>muscade</ingredient>. pour le <ingredient quantite=1>feuilleté</ingredient>: dans un <recipient><recipient>moule</recipient> à tarte</recipient>, déposer la première <ingredient quantite=1>pâte</ingredient> feuilletée au fond du <recipient>moule</recipient> (prendre un <recipient>moule</recipient> plus petit que la <ingredient quantite=1>pâte</ingredient> pour pouvoir rabattre les bords après). mettre une couche de <ingredient quantite=8>jambon</ingredient> (4 <ingredient quantite=8>tranches</ingredient>) ; puis une couche de <ingredient quantite=1>champignons</ingredient> ; puis une de fromage râpé. recouvrir de <ingredient quantite=1>sauce bechamel</ingredient> (environ la moitié). recommencer l’ opération <ingredient quantite=8>jambon</ingredient> puis <ingredient quantite=1>champignon</ingredient> puis fromage puis la dernière couche de <ingredient quantite=1>bechamel</ingredient>. poser la deuxieme <ingredient quantite=1>pâte</ingredient> feuilletée sur le dessus. souder les bords des deux <ingredient quantite=2>pâtes</ingredient> feuilletés entre eux avec un peu d’ eau et les rabattre vers le centre du <ingredient quantite=1>feuilleté</ingredient> en les roulant. <operation temps=6.86min espace=16>faire une dessin sur le dessus de la <ingredient quantite=1>pâte</ingredient> avec la pointe d’ un couteau</operation> puis doré au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et au pinceau. enfourner à 200 ° c (thermostat 6 - 7) pendant 40 à 50 minutes. servir tiède avec une salade. l’ idéal est de le <operation temps=6.86min espace=16>faire la veille car il est encore meilleur</operation> rechauffé... un bon petit <recipient>plat</recipient> de vendanges de chez nous.... un champagne (type chouilly) ou un coteau champenois rouge (type bouzy)
+]]>
+ </preparation>
+</recette>

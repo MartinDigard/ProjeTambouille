@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20969">
+ <titre>Oeufs au plat aux légumes confits</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>2 oignons</p>
+ <p>2 poivrons</p>
+ <p>3 belles pommes de terre</p>
+ <p>3 grosses tomates</p>
+ <p>2 piments doux</p>
+ <p>1 petit piment fort</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez les <ingredient quantite=3>pommes de terre</ingredient>, <operation temps=6.86min espace=10>coupez - les en cubes</operation>. <operation temps=6.86min espace=10>découpez les <ingredient quantite=2>oignons</ingredient> en rondelles, les <ingredient quantite=3>tomates</ingredient> en quartiers et les <ingredient quantite=2>poivrons</ingredient> en lanières</operation>. hachez les <ingredient quantite=1>piment</ingredient> en prenant soin de les épépiner. faite chauffer 2 cuillères à soupe d’ huile dans une <recipient>poêle</recipient>. <operation temps=6.86min espace=10>jetez - y les légumes</operation> et <operation temps=30.0min espace=10>laissez cuire 30 minutes à feu <ingredient quantite=2>doux</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>rajoutez un peu d’ eau si nécessaire</operation>. une fois les légumes bien tendre et quasiment confits, <operation temps=6.86min espace=10>cassez les <ingredient quantite=4>oeufs</ingredient> dessus</operation>. <operation temps=6.86min espace=10>laissez prendre le blanc</operation> et <operation temps=2.0min espace=10>servez</operation>. un bon pain de campagne et le tour est joué! on peut rajouter des rondelles de chorizo dans les légumes, ou un peu de mozzarella.
+]]>
+ </preparation>
+</recette>

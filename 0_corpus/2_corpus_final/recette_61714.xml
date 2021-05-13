@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61714">
+ <titre>Pain de poisson aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de poisson (merlu, cabillaud, ou autre) </p>
+ <p>1 boite de crevettes</p>
+ <p>4 oeufs</p>
+ <p>2 courgettes</p>
+ <p>2 poivrons (1 jaune et 1 rouge) </p>
+ <p>2 cuillères à soupe de moutarde</p>
+ <p>1 citron (jus) </p>
+ <p>8 cuillères à café de concentré de tomate</p>
+ <p>8 cuillères à café de crème fraîche allégée</p>
+ <p>1 botte de persil hachée</p>
+ <p>3 gousses d’ ail écrasées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). couper les <ingredient quantite=2>courgettes</ingredient> en rondelles (pas trop fines), les blanchir 3 minutes dans l’ eau bouillante. <operation temps=6.86min espace=16>faire griller les <ingredient quantite=2>poivrons</ingredient> (<recipient>poêle</recipient> anti-adhésive</operation>) cuire au court bouillon le <ingredient quantite=1>poisson</ingredient> 10/15 minutes et le <operation temps=20.0min espace=16>laisser refroidir</operation>. dans un <recipient>saladier</recipient>, battre les <ingredient quantite=4>oeufs</ingredient> en omelette, puis ajouter le <ingredient quantite=8>concentré de tomate</ingredient>, la <ingredient quantite=8>crème fraîche allégée</ingredient>, le <ingredient quantite=1>persil</ingredient>, les <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail écrasées</ingredient>, la <ingredient quantite=2>moutarde</ingredient> et le <ingredient quantite=1>citron</ingredient>. incorporer ensuite les <ingredient quantite=1>crevettes</ingredient>, les <ingredient quantite=2>courgettes</ingredient>, le <ingredient quantite=1>poisson</ingredient> et les <ingredient quantite=2>poivrons</ingredient> détaillés en morceaux. verser la préparation dans un <recipient>moule</recipient> à cake beurré et <operation temps=30.0min espace=16>faire cuire au <recipient>bain - marie</recipient> durant 30 minutes</operation>. vérifier la cuisson, prolonger la cuisson de 10 minutes si nécessaire. servir chaud ou froid, c’ est extra! à <operation temps=6.86min espace=16>faire la veille pour le</operation> déguster froid, c’ est encore mieux!! muscadet sur lie
+]]>
+ </preparation>
+</recette>

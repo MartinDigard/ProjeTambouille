@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63623">
+ <titre>Tarte aux trois poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pate brisée pur beurre</p>
+ <p>3 gros oeufs</p>
+ <p>30 cl de crème fraîche épaisse</p>
+ <p>20 cl de crème semi-épaisse</p>
+ <p>1 gros poivron rouge</p>
+ <p>1 gros poivron jaune </p>
+ <p>1 gros poivron vert</p>
+ <p>noix de muscade</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>poivrons</ingredient> en deux dans la longueur, les épépiner, les laver et les essuyer. les couper ensuite en petits cubes. les <operation temps=6.86min espace=13>faire cuire à la poele dans l’ huile d’ <ingredient quantite=1>olives</ingredient> une bonne vingtaine de minutes</operation>, saler, poivrer. casser les <ingredient quantite=3>oeufs</ingredient> dans un <recipient>saladier</recipient>, les battre légèrement puis ajouter les <ingredient quantite=1>crèmes</ingredient>, battre jusqu’ à <operation temps=6.86min espace=13>obtenir un mélange onctueux, saler</operation> et poivrer. ajouter de la <ingredient quantite=1>noix de muscade</ingredient> râpée. ajouter les <ingredient quantite=1>poivrons</ingredient> cuits, bien mélanger puis verser le tout sur la pâte brisée préalablement déroulée dans le <recipient><recipient>moule</recipient> à tarte</recipient> et piquée à la fourchette. enfourner pour 25 à 30 min au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). se déguste tiède ou froide accompagnée d’ une salade <ingredient quantite=1>verte</ingredient> bien relevée. on peut aussi mettre un oignon ou une boîte de thon au naturel ou même les deux!!
+]]>
+ </preparation>
+</recette>

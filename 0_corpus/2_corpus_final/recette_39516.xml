@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39516">
+ <titre>Gâteau au noix et au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de beurre</p>
+ <p>200 g de sucre</p>
+ <p>4 oeufs</p>
+ <p>2 à 3 gouttes d’ extrait d’ amande amère</p>
+ <p>250 g de farine</p>
+ <p>9 g de levure chimique</p>
+ <p>250 g de noix ou noisettes moulues</p>
+ <p>50 g de chocolat en pépites</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+attention, ces proportions sont pour un grand <recipient>moule</recipient>. pour un <recipient>moule</recipient> à cake, diviser les proportions par 2. préchauffer le <recipient>four</recipient> à 165 - 175 ° (thermostat 5 - 6). mélanger le beurre ramolli, le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=4>oeufs</ingredient>. ajouter l’ <ingredient quantite=2>extrait</ingredient> d’ <ingredient quantite=2>amande amère</ingredient>. mélanger à part, la farine et la <ingredient quantite=1>levure</ingredient>, et ajouter au mélange précédent. incorporer les <ingredient quantite=1>noix</ingredient> et les <ingredient quantite=1>pépites</ingredient> de <ingredient quantite=1>chocolat</ingredient>. verser la préparation dans un <recipient>moule</recipient> beurré, et <operation temps=65.0min espace=12>faire cuire pendant 50 à 65 min</operation>.
+]]>
+ </preparation>
+</recette>

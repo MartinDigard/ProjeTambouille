@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63295">
+ <titre>Sauté de porc au colombo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de sauté de porc</p>
+ <p>poudre de colombo colombo</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>sel, poivre</p>
+ <p>1 oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=7.0min espace=9>faire revenir</operation> l’ <ingredient quantite=1>oignon</ingredient> dans de l’ huile d’ olive</operation>. une fois prêt, <operation temps=6.86min espace=9>faire dorer le <ingredient quantite=1>porc</ingredient></operation>. ensuite, rajouter les <ingredient quantite=1>poivrons</ingredient> coupés en petit dés et <operation temps=6.86min espace=9>faire tout</operation> <operation temps=6.86min espace=9>revenir</operation>. ajouter la farine et bien mélanger. mettre du <ingredient quantite=1>colombo</ingredient> sur toute la viande. mélanger à nouveau et ajouter ensuite le <ingredient quantite=1>bouillon de volaille</ingredient> de façon à ce que la viande soit toute recouverte. <operation temps=6.86min espace=9>laisser mijoter à feu doux 1 h 30</operation>. accompagnez de riz. <recipient>plat</recipient> très exotique pour les amateurs des plats des îles.
+]]>
+ </preparation>
+</recette>

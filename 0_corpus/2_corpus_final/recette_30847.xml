@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30847">
+ <titre>Gratiné curry aux deux saumons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre (chair ferme) </p>
+ <p>200 g saumon frais</p>
+ <p>200 g saumon fumé</p>
+ <p>50 cl crème fraîche épaisse</p>
+ <p>100 g gruyère ou comté râpé</p>
+ <p>curry en poudre à volonté! </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>pommes de terre</ingredient> (ne pas les laver...), les couper en fines rondelles. saler et poivrer les patates en rondelles. beurrer un <recipient>plat</recipient> à gratin, y disposer une couche de patates, une couche de saumon <ingredient quantite=1>fumé</ingredient>, une couche de patates, une couche de saumon <ingredient quantite=1>frais</ingredient> et enfin une couche de patates. <operation temps=6.86min espace=10>faire chauffer la crème dans une <recipient>casserole</recipient> pour qu’ elle</operation> devienne liquide et y ajouter de la <ingredient quantite=1>poudre</ingredient> de <ingredient quantite=1>curry</ingredient>. verser la crème au <ingredient quantite=1>curry</ingredient> sur le <recipient>plat</recipient> et parsemer généreusement de fromage. <operation temps=6.86min espace=10>faire cuire pendant 1 h15 thermostat 5</operation>. on peut mettre seulement du saumon <ingredient quantite=1>frais</ingredient>. a <operation temps=6.86min espace=10>servir avec une bonne salade:</operation>)
+]]>
+ </preparation>
+</recette>

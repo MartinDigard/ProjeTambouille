@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48864">
+ <titre>Crème de banane au tofu</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une barquette de tofu soyeux</p>
+ <p>3 cuillères à soupe de sucre (plus ou moins selon les goûts...) </p>
+ <p>1 banane</p>
+ <p>une pincée de cannelle</p>
+ <p>1 ou 2 gouttes d’ huile essentielle d’ orange douce ou de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer le <ingredient quantite=1>tofu soyeux</ingredient> au <recipient>mixeur</recipient>, puis ajouter la <ingredient quantite=1>banane</ingredient> écrasée, le <ingredient quantite=3>sucre</ingredient> et éventuellement la <ingredient quantite=1>cannelle</ingredient> et l’ <ingredient quantite=1>huile essentielle</ingredient>. mixer de nouveau jusqu’ a l’ obtention d’ un mélange homogène. verser dans 4 ramequins et <operation temps=6.86min espace=7>laisser prendre au <recipient>réfrigérateur</recipient> au moins une demi- journée</operation>. <operation temps=2.0min espace=7>servir très frais</operation>. voila un dessert original, riche en protéines et surtout très bon! essayez!
+]]>
+ </preparation>
+</recette>

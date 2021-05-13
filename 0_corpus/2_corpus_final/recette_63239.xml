@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63239">
+ <titre>Bricks orientales</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de feuilles de bricks (10 feuilles) </p>
+ <p>2 escalopes de poulet</p>
+ <p>1 oignon</p>
+ <p>2 biscottes</p>
+ <p>2 oeufs</p>
+ <p>2 pincées de cumin</p>
+ <p>1 cuillère à soupe de persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la farce: couper en morceaux les <ingredient quantite=2>escalopes</ingredient> et les <ingredient quantite=1>oignons</ingredient>. mettre dans un robot <recipient>mixeur</recipient> (ou hacheur) avec 1 <ingredient quantite=1>oeuf</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=2>cumin</ingredient> et les 2 <ingredient quantite=2>biscottes</ingredient> préalablement émiettées. mixer jusqu’ à ce que le mélange soit bien pateux et qu’ il n’ y ai plus de morceaux de <ingredient quantite=2>biscottes</ingredient> ou d’ <ingredient quantite=1>oignons</ingredient> trop gros. farcir les <ingredient quantite=1>feuilles de bricks</ingredient>: couper les <ingredient quantite=1>feuilles</ingredient> en deux. mettre le côté arrondi à droite, le replier à gauche. prendre une <ingredient quantite=1>cuillère</ingredient> à café bien bombée de farce, la déposer en bas de la <ingredient quantite=1>feuille</ingredient> pliée (pas au bord non plus, à environ 5 cm). là ça devient un peu compliqué. repliez de facon à former un triangle puis <operation temps=10.0min espace=10>faire cuire 10 minutes à la <recipient>poêle</recipient> dans un peu d’</operation> huile.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41486">
+ <titre>Filets de canard sauce à l’ estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>filets ou aiguillettes de canard: 200 g/personne</p>
+ <p>beurre </p>
+ <p>– huile </p>
+ <p>– 20 cl de crème légère liquide </p>
+ <p>4 échalotes </p>
+ <p>estragon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire dorer les <ingredient quantite=1>filets</ingredient> dans beurre (plus quelques gouttes d’ huile d’ olive)</operation> et réserver. déglacer la <recipient>poêle</recipient> avec la <ingredient quantite=1>crème liquide</ingredient> (3 cuillères à soupe). <operation temps=7.0min espace=8>faire revenir</operation> et <operation temps=6.86min espace=8>blondir les <ingredient quantite=4>échalotes</ingredient> dans le beurre</operation>, ajouter le reste de la <ingredient quantite=1>crème</ingredient> + une cuillère à café d’ <ingredient quantite=1>estragon</ingredient> et <operation temps=6.86min espace=8>laisser épaissir</operation>. ajouter le contenu de la <recipient>poêle</recipient> déglécée à la <ingredient quantite=1>crème</ingredient>. napper les <ingredient quantite=1>filets</ingredient>. servir avec des pommes de terre sautées ou des pâtes fraîches. le <ingredient quantite=1>canard</ingredient> doit rester un peu saignant. cuisson de 3 à 5 min.
+]]>
+ </preparation>
+</recette>

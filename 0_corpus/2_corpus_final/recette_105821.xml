@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105821">
+ <titre>Soupe 7 légumes parfumée au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses pommes de terre</p>
+ <p>2 carottes</p>
+ <p>2 poireaux</p>
+ <p>3 navets</p>
+ <p>1 courgette</p>
+ <p>1 aubergine</p>
+ <p>1 poivron rouge</p>
+ <p>3 litres d’ eau</p>
+ <p>gros sel</p>
+ <p>1 cuillière à soupe de curry (selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- eplucher les <ingredient quantite=2>pommes de terre</ingredient>, les <ingredient quantite=2>carottes</ingredient>, les <ingredient quantite=3>navets</ingredient> puis couper les en tronçons avec les <ingredient quantite=2>poireaux</ingredient>. couper en grosses rondelles la <ingredient quantite=1>courgette</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient>. epépiner le <ingredient quantite=1>poivron</ingredient> et couper le. mettre l tout dans un <recipient>faitout</recipient> avec les 3 <ingredient quantite=3>litres</ingredient> d’ <ingredient quantite=3>eau</ingredient>, le <ingredient quantite=1>gros sel</ingredient> et le <ingredient quantite=1>curry</ingredient>. cuire le tout 40min. une fois la cuisson terminée, mixer et déguster.
+]]>
+ </preparation>
+</recette>

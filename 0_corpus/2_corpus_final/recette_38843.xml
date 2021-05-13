@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38843">
+ <titre>Carottes aux 2 fromages et à l’ oseille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons</p>
+ <p>400 g de carottes</p>
+ <p>200 g de lardons</p>
+ <p>5 feuilles d’ oseille fraîche</p>
+ <p>10 cl de crème liquide</p>
+ <p>100 g de brique de vache</p>
+ <p>100 g de brique de chèvre</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper les <ingredient quantite=1>carottes</ingredient> en rondelles, les cuire à la vapeur 10 min. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation> émincés, <operation temps=6.86min espace=9>laisser dorer</operation>. ajouter les <ingredient quantite=1>carottes</ingredient>, l’ <ingredient quantite=5>oseille</ingredient>, la <ingredient quantite=1>brique de vache</ingredient> en petits cubes, remuer, ajouter la <ingredient quantite=1>crème</ingredient>, le fromage de <ingredient quantite=1>chèvre</ingredient> en rondelles par dessus et <operation temps=10.0min espace=9>laisser fondre 10 min</operation>. je le sert en <recipient>plat</recipient> complet du soir. j’ en avais marre des <ingredient quantite=1>carottes</ingredient> vichy... ça change!
+]]>
+ </preparation>
+</recette>

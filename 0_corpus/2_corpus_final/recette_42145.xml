@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42145">
+ <titre>Sauté de porc aux noix de cajou</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de viande de porc pour sauté</p>
+ <p>1 petit poivron jaune</p>
+ <p>1 petit poivron rouge</p>
+ <p>1 poignée de noix de cajou grillées</p>
+ <p>2 oignons</p>
+ <p>1 cube de bouillon de boeuf</p>
+ <p>1/4 de litre de cidre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faites revenir les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>poivrons</ingredient> coupés en fine lamelles</operation>. <operation temps=6.86min espace=7>ajoutez la <ingredient quantite=1>viande</ingredient></operation> coupée en <ingredient quantite=1>petits cubes</ingredient>, et <operation temps=6.86min espace=7>faites - la</operation> <operation temps=6.86min espace=7>revenir avec les légumes</operation>. <operation temps=6.86min espace=7>laissez la <ingredient quantite=1>viande</ingredient></operation> dorer. <operation temps=6.86min espace=7>ajoutez le <ingredient quantite=1>cidre</ingredient>,</operation> et émiettez le <ingredient quantite=1>cube de bouillon de boeuf</ingredient>, et les <ingredient quantite=1>noix de cajou</ingredient>. <operation temps=15.0min espace=7>laissez réduire 10 à 15 min</operation>.
+]]>
+ </preparation>
+</recette>

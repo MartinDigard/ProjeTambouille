@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33809">
+ <titre>Tarte Tatin aux oignons rouges</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg d’ oignons rouges</p>
+ <p>250 g de pâte brisée</p>
+ <p>2 cuillerées à soupe de vinaigre balsamique</p>
+ <p>1 cuillerée à soupe de sucre brun (ou casssonade) </p>
+ <p>25 g de beurre</p>
+ <p>1 cuillerée à soupe d’ huile d’ olive</p>
+ <p>25 g de thym</p>
+ <p>graines de sésame</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et émincer finement les <ingredient quantite=1>oignons</ingredient>. les verser dans un <recipient>plat</recipient> creux allant au <recipient>four</recipient>, suivi du <ingredient quantite=2>vinaigre balsamique</ingredient>, du <ingredient quantite=1>thym</ingredient>, du beurre, de l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et du <ingredient quantite=1>sucre</ingredient>. bien mélanger afin que les <ingredient quantite=1>oignons</ingredient> soient bien recouverts de ce mélange. <operation temps=35.0min espace=17>faire cuire au <recipient>four</recipient> pendant 35 mn afin que les <ingredient quantite=1>oignons</ingredient> soient bien</operation> fondus et confits. verser les <ingredient quantite=1>oignons</ingredient> dans un <recipient>plat</recipient> à tarte de 24 cm environ de diamètre, recouvrir de la <ingredient quantite=1>pâte brisée</ingredient> par dessus comme pour une tarte tatin classique. veiller à ce que les extrémités de la <ingredient quantite=1>pâte</ingredient> soient bien rentrées dans le <recipient>plat</recipient>. <operation temps=15.0min espace=17>faire cuire entre 10 et 15 mn jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit <ingredient quantite=1>brun</ingredient> doré</operation>. <operation temps=3.0min espace=17>sortir du <recipient>four</recipient></operation> et renverser immediatement la tarte sur un <recipient>plat</recipient> plus grand que le <recipient><recipient>moule</recipient> à tarte</recipient>. on peut <operation temps=6.86min espace=17>servir cette tarte comme entrée ou <recipient>plat</recipient> principal en fonction du nombre de personnes</operation>. dans le dernier cas, <operation temps=6.86min espace=17>servir avec une grande salade</operation> colorée, de type poivron ou salade d’ endives aux noix etc...
+]]>
+ </preparation>
+</recette>

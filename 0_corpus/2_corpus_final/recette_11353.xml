@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11353">
+ <titre>Lapin à l’ Italienne</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux</p>
+ <p>beurre et huile</p>
+ <p>sel et poivre</p>
+ <p>feuilles de basilic et de sauge</p>
+ <p>1 oignon</p>
+ <p>1 tomate pelée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire chauffer l’ <ingredient quantite=1>huile</ingredient> et le beurre dans une <recipient>cocotte</recipient></operation>. y <operation temps=6.86min espace=8>faire rissoler les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> de tous côtés</operation>. saler et poivrer. ajouter l’ <ingredient quantite=1>oignon coupé</ingredient> en quatre et les herbes. ajouter un petit verre d’ eau et gratter le fond de la <recipient>cocotte</recipient> pour décoller les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> qui auraient adhéré. <operation temps=45.0min espace=8>laisser cuire 45 minutes en</operation> remuant de temps à autre et en ajoutant de l’ eau si nécessaire. ajouter la <ingredient quantite=1>tomate pelée</ingredient> et l’ écraser. <operation temps=15.0min espace=8>laisser cuire encore 15 minutes</operation>. c’ est très bon aussi avec du poulet. <operation temps=6.86min espace=8>servir avec de la purée de pommes de terre ou des frites</operation>.
+]]>
+ </preparation>
+</recette>

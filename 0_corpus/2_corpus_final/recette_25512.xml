@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25512">
+ <titre>Gâteau caramélisé à l’ ananas et au rhum</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 grande boîte d’ ananas au sirop ou 1 gros ananas bien mûr</p>
+ <p>Pour le caramel: </p>
+ <p>125 g de sucre </p>
+ <p>4 cuillères à soupe d’ eau</p>
+ <p>Pour la pâte: </p>
+ <p>4 oeufs</p>
+ <p>200 g de sucre </p>
+ <p>150 g de beurre mou </p>
+ <p>250 g de farine</p>
+ <p>10 cl de rhum</p>
+ <p>1 citron</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et couper l’ <ingredient quantite=1>ananas</ingredient> frais en tranches, <operation temps=6.86min espace=18>recueillir le jus</operation>. egoutter l’ <ingredient quantite=1>ananas au sirop</ingredient> et conserver le <ingredient quantite=1>sirop</ingredient>. préparer le <ingredient quantite=1>caramel</ingredient>: mettre le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=4>eau</ingredient> dans une <recipient>casserole</recipient> à fond épais, <operation temps=6.86min espace=18>laisser le mélange fondre</operation> et prendre une couleur blonde à feu doux. ne pas remuer, la transformation se fait seule. verser le <ingredient quantite=1>caramel</ingredient> dans un <recipient>moule</recipient> à bords hauts (<recipient><recipient>moule</recipient> à manqué</recipient>) en l’ inclinant pour <ingredient quantite=1>bien</ingredient> <operation temps=6.86min espace=18>répartir le <ingredient quantite=1>caramel</ingredient> sur le fond et les parois</operation>. déposer aussitôt quelques rondelles d’ <ingredient quantite=1>ananas</ingredient> à <recipient>plat</recipient> sur le <ingredient quantite=1>caramel</ingredient>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). mixer le reste d’ <ingredient quantite=1>ananas</ingredient> en purée. battre les <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange épaississe et blanchisse. incorpore le <ingredient quantite=1>beurre mou</ingredient> en dés et la farine petit à petit. ajouter enfin le jus du <ingredient quantite=1>citron</ingredient>, la <ingredient quantite=1>levure</ingredient>, la moitié du <ingredient quantite=1>rhum</ingredient> et la purée d’ ananas. <ingredient quantite=1>bien</ingredient> mélanger et verser le tout dans le <recipient>moule</recipient>. enfourner et <operation temps=50.0min espace=18>laisser cuire 50 minutes</operation>. pendant ce temps, préparer un <ingredient quantite=1>sirop</ingredient> avec le jus d’ <ingredient quantite=1>ananas</ingredient> si celui-ci était frais: mélanger le jus avec de l’ <ingredient quantite=4>eau</ingredient> pour <operation temps=6.86min espace=18>obtenir 20 cl del iquide</operation>, ajouter 2 à 3 <ingredient quantite=4>cuillères à soupe</ingredient> de <ingredient quantite=1>sucre</ingredient> et porter à ébullition. ajouter le <ingredient quantite=1>rhum</ingredient>. sinon, mélanger le <ingredient quantite=1>rhum</ingredient> au <ingredient quantite=1>sirop</ingredient> de la <ingredient quantite=1>boîte</ingredient>. une fois cuit, <operation temps=6.86min espace=18>laisser tiédir le gâteau</operation>. le démouler et l’ arroser avec le <ingredient quantite=1>sirop</ingredient> au <ingredient quantite=1>rhum</ingredient>. <operation temps=6.86min espace=18>servir aussitôt ou <ingredient quantite=1>bien</ingredient></operation> <operation temps=20.0min espace=18>laisser refroidir</operation>. accompagner de glace à la vanille.
+]]>
+ </preparation>
+</recette>

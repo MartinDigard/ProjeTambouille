@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81300">
+ <titre>Spaghetti au thon vraiment facile! </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de spaghetti</p>
+ <p>une boîte de thon</p>
+ <p>20 g de beurre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>2, 5 verres de lait</p>
+ <p>gruyère râpé</p>
+ <p>poivre, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>spaghetti</ingredient>. dans une autre <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire fondre le morceau de beurre</operation> et ajouter une grosse <ingredient quantite=1>cuillère</ingredient> de farine, ainsi que 2, 5 <ingredient quantite=2>verres de lait</ingredient>, tout en fouettant. quand le mélange épaissit, ajouter du <ingredient quantite=1>gruyère râpé</ingredient>, du poivre, du <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>thon</ingredient> écrasé. egoutter les <ingredient quantite=1>spaghetti</ingredient>, les ajouter au mélange puis mettre dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. cuire 30 minutes à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

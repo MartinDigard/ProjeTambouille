@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225718">
+ <titre>Verrine champignons de Paris et crème de roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 champignons de Paris moyens</p>
+ <p>75 g de Roquefort</p>
+ <p>20 cl de crème semi-épaisse</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ <p>1 cuillère à café de fond de veau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et émincer les <ingredient quantite=1>champignons</ingredient> avec du <ingredient quantite=1>sel</ingredient>, du <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=1>fond de veau</ingredient>. <operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>roquefort</ingredient> au micro-ondes à puissance <ingredient quantite=1>moyenne</ingredient></operation>. mélanger la <ingredient quantite=1>crème</ingredient> avec le <ingredient quantite=1>roquefort</ingredient> fondu. <operation temps=6.86min espace=6>remplir les verrines à mi-hauteur avec les</operation> <ingredient quantite=1>champignons</ingredient> puis <operation temps=6.86min espace=6>recouvrir avec la <ingredient quantite=1>crème</ingredient> de <ingredient quantite=1>roquefort</ingredient></operation>. attendre que le tout soit froid pour déguster.
+]]>
+ </preparation>
+</recette>

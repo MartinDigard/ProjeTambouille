@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16365">
+ <titre>Soupe aux fanes de radis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bottes de radis</p>
+ <p>4 pommes de terre</p>
+ <p>2 tablettes de bouillon de volaille</p>
+ <p>1 oignon</p>
+ <p>30 g de beurre</p>
+ <p>4 cuillères à soupe de crème</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et émincer l’ <ingredient quantite=1>oignon</ingredient>. eplucher les <ingredient quantite=4>pommes de terre</ingredient> et les couper en rondelles. laver les fanes de <ingredient quantite=2>radis</ingredient>. dans une <recipient>cocotte</recipient>, <operation temps=1.0min espace=8>faire fondre le beurre</operation>. y <operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient> sans le</operation> colorer. ajouter les <ingredient quantite=4>pommes de terre</ingredient> et les fanes de <ingredient quantite=2>radis</ingredient>. <operation temps=5.0min espace=8>faire revenir l’ ensemble 5 mn</operation>. ajouter le <ingredient quantite=2>bouillon</ingredient>. <operation temps=20.0min espace=8>laisser cuire 20 mn à couvert</operation>. ajouter au dernier moment la crème et mixer l’ ensemble. très original et très fin. a <operation temps=6.86min espace=8>servir avec des croûtons</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57238">
+ <titre>Crêpes au lait d’ amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>4 oeufs</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>sel (une pincée) </p>
+ <p>1 cuillère à soupe de vanille liquide</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>1 cuillère à soupe de fleur d’ oranger</p>
+ <p>1 citron (le zeste) </p>
+ <p>1 litre de lait d’ amandes (rayon diététique ou bio) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire un puits dans la farine</operation>, incorporer les ingrédients dans l’ ordre et <operation temps=6.86min espace=10>finir en</operation> ajoutant le <ingredient quantite=1>lait</ingredient> d’ amandes petit à petit afin d’ éviter les grumeaux. si la pâte est trop épaisse, il suffit de rajouter un peu d’ eau. <operation temps=6.86min espace=10>faire chauffer une <recipient>poêle</recipient> avec un peu de matière grasse</operation> et <operation temps=1.0min espace=10>faire dorer les crêpes 1 min de chaque côté</operation>. idéales pour les allergiques au <ingredient quantite=1>lait</ingredient> de vache, de plus le <ingredient quantite=1>lait</ingredient> d’ <ingredient quantite=1>amande</ingredient> leur donne un goût exceptionnel.
+]]>
+ </preparation>
+</recette>

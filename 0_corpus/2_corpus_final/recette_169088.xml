@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169088">
+ <titre>Barres de céréales aux dattes et noix</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200g de muesli non sucré</p>
+ <p>100g de noix (ou amandes, noisettes, pistaches non salées, cacahuètes…) </p>
+ <p>100g de dattes (ou raisins secs, abricots secs, figues…) </p>
+ <p>40g de noix de coco râpée</p>
+ <p>1 cuillérée à café rase de cannelle</p>
+ <p>1 brick de lait concentré non sucré (20cL) </p>
+ <p>Facultatif: 50g de pépites de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez les <ingredient quantite=1>dattes</ingredient> et les <ingredient quantite=1>noix</ingredient> en petits morceaux</operation>. <operation temps=6.86min espace=8>mélangez tous les ingrédients</operation>. <operation temps=6.86min espace=8>etalez le mélange dans un <recipient>plat</recipient> carré</operation> recouvert de papier sulfurisé. <operation temps=6.86min espace=8>tassez</operation> et <operation temps=6.86min espace=8>lissez la préparation avec une spatule</operation>. <operation temps=6.86min espace=8>faites cuire 20min à 180 ° c</operation>. <operation temps=6.86min espace=8>découpez les barres au couteau lorsque c’ est encore</operation> chaud. <operation temps=20.0min espace=8>laissez refroidir</operation>. vous pouvez les emballer individuellement dans du papier alu.
+]]>
+ </preparation>
+</recette>

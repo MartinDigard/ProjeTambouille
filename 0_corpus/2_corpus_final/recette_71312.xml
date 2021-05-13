@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71312">
+ <titre>Papillote de saumon à la pistache et au gingembre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de pistaches</p>
+ <p>5 g de gingembre frais</p>
+ <p>4 filets de saumon</p>
+ <p>1 oeuf</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>décortiquez les <ingredient quantite=1>pistaches</ingredient>, hachez - les avec le gingembre</operation>. <operation temps=0.25min espace=6>salez</operation> et poivrez les <ingredient quantite=4>filets de saumon</ingredient> à votre convenance. trempez - les dans l’ <ingredient quantite=1>oeuf</ingredient> battu puis <operation temps=6.86min espace=6>roulez - les dans le mélange de <ingredient quantite=1>pistache</ingredient> et de gingembre</operation> haché. <operation temps=10.0min espace=6>faites cuire en papillote au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 10 minutes pour une cuisson</operation> rosée à coeur, ou 20 min si vous aimez le <ingredient quantite=4>saumon</ingredient> bien cuit. vin blanc sec
+]]>
+ </preparation>
+</recette>

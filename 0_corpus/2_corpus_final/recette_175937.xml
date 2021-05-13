@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175937">
+ <titre>Risotto au topinambour et à la courge</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz pour risotto</p>
+ <p>1 oignon</p>
+ <p>1 gros topinambour</p>
+ <p>1/8ème de courge</p>
+ <p>huile d’ olive</p>
+ <p>1 cube de bouillon de légumes</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>légumes</ingredient> et les couper en petits dés. émincer l’ <ingredient quantite=1>oignon</ingredient>. mettre un peu d’ huile à chauffer dans une <recipient>sauteuse</recipient> puis y ajouter les <ingredient quantite=1>oignons</ingredient> et les <ingredient quantite=1>légumes</ingredient>. les <operation temps=5.0min espace=10>laisser colorer pendant environ 5 min</operation>. réserver les <ingredient quantite=1>légumes</ingredient>, ajouter à nouveau un peu d’ huile dans la <recipient>sauteuse</recipient> et <operation temps=6.86min espace=10>faire revenir le <ingredient quantite=1>riz</ingredient> jusqu’ à ce qu’ il</operation> devienne translucide. ensuite, remettre les <ingredient quantite=1>légumes</ingredient> et <operation temps=6.86min espace=10>couvrir d’ eau bouillante</operation>. ajouter le <ingredient quantite=1>cube de bouillon de légumes</ingredient> délayer au préalable dans un peu d’ eau chaude, saler légèrement et poivrer. couvrir et <operation temps=20.0min espace=10>laisser cuire environ 20 min</operation>. <operation temps=6.86min espace=10>découvrir</operation> et <operation temps=6.86min espace=10>laisser sur le feu jusqu’ à ce qu’ il n’ y presque plus de liquide et que le <ingredient quantite=1>riz</ingredient> soit bien tendre</operation>. servir bien chaud.
+]]>
+ </preparation>
+</recette>

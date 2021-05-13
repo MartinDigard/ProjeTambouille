@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93505">
+ <titre>Croissant à la viande hachée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilleté</p>
+ <p>300g de viande hachée</p>
+ <p>1 oignon</p>
+ <p>gruyère râpé</p>
+ <p>1 Œuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>~faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>poêle</recipient> (avec des épices si vous le désirez paprika cumin</operation>...) jusqu’ à qu’ il soit bien doré. ~faire cuire la <ingredient quantite=1>viande hachée</ingredient> dans une <recipient>poêle</recipient> puis mélanger les <ingredient quantite=1>oignons</ingredient> avec. <operation temps=6.86min espace=7>~déroulez votre pâte</operation> <ingredient quantite=1>feuilleté</ingredient>, coupé la en 8 part égales (en forme de triangle comme des parts de gâteau). ~y déposer le mélange de <ingredient quantite=1>viande</ingredient> et <ingredient quantite=1>oignon</ingredient> en haut au milieu de votre part de pâte, puis parsemez d’ un peu de gruyère. ~rabattre le coté droit et gauche sur le mélange puis rouler (vous devez <operation temps=6.86min espace=7>obtenir une forme de</operation> croissant). ~une fois tous les croissants <operation temps=6.86min espace=7>mis en forme, battre un <ingredient quantite=1>œuf</ingredient> puis avec un pinceau de cuisine</operation> <operation temps=6.86min espace=7>badigeonnez votre croissant avec, afin que la pâte ne soit pas dure et qu’ elle soit</operation> doré!!! ~enfournez le tout environ 30min et <operation temps=6.86min espace=7>dégustez avec une salade!!</operation>!
+]]>
+ </preparation>
+</recette>

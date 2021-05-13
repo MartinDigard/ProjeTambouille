@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40556">
+ <titre>Gratin de riz à la fourme d’ ambert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>deux ou trois portions de riz long (selon l’ appétit) </p>
+ <p>100 g de fourme d’ ambert</p>
+ <p>20 cl de crème fraîche </p>
+ <p>3 tranches de jambon blanc mixés</p>
+ <p>sel, poivre</p>
+ <p>fromage râpé pour le gratiné (gruyère, émmental, comté...) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire cuire le <ingredient quantite=1>riz</ingredient> (</operation> ou utiliser un reste de <ingredient quantite=1>riz</ingredient> déjà cuit). <ingredient quantite=1>mixer</ingredient> les <ingredient quantite=3>tranches de jambon blanc</ingredient> et réserver. <ingredient quantite=1>mixer</ingredient> la <ingredient quantite=1>fourme</ingredient> d’ <ingredient quantite=1>ambert</ingredient> avec la créme épaisse. egoutter le <ingredient quantite=1>riz</ingredient>. mélanger le <ingredient quantite=3>jambon mixé</ingredient>. ajouter la créme. mélanger. saler, poivrer et ajouter le <ingredient quantite=1>fromage</ingredient> rapé pardessus. enfourner à 180 ° c (thermostat 6) une vingtaine de minutes environ et <operation temps=5.0min espace=7>régalez -vous</operation>. <recipient>plat</recipient> familial.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58783">
+ <titre>Calamars farcis aux moules</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 calamar d’ 1 kg</p>
+ <p>1 pinte de moules</p>
+ <p>300 g de chair a saucisse</p>
+ <p>300 g de viande de boeuf hachée</p>
+ <p>2 oignons</p>
+ <p>15 cl de vin blanc</p>
+ <p>1 tomate</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre, thym, laurier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer le <ingredient quantite=1>calamar</ingredient>. couper l’ <ingredient quantite=1>oignon</ingredient> en petits dés. couper la <ingredient quantite=1>tomate</ingredient> en rondelles. <operation temps=6.86min espace=14>faire ouvrir les <ingredient quantite=1>moules</ingredient> dans une <recipient>casserole</recipient> avec l’ <ingredient quantite=1>oignon</ingredient></operation>. mélanger ensuite la <ingredient quantite=1>chair</ingredient> à <ingredient quantite=1>saucisse</ingredient>, la <ingredient quantite=1>viande hachée</ingredient>, les <ingredient quantite=1>moules</ingredient>. réserver le jus des <ingredient quantite=1>moules</ingredient>. assaisonner la farce et en <operation temps=6.86min espace=14>remplir le <ingredient quantite=1>calamar</ingredient></operation>. fermer avec une pique en bois. <operation temps=6.86min espace=14>recouvrir le fond d’ un <recipient>plat</recipient> avec quelques rondelles d’ <ingredient quantite=1>oignon</ingredient></operation>. poser le <ingredient quantite=1>calamar</ingredient> dans un <recipient>plat</recipient>, mettre dans le <recipient>plat</recipient> le jus des <ingredient quantite=1>moules</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. arroser le <ingredient quantite=1>calamar</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient>, poser les rondelles de <ingredient quantite=1>tomate</ingredient>, le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient>. mettre au <recipient>four</recipient> 1 h 30 à 180 ° c (thermostat 6). <operation temps=6.86min espace=14>servir avec du riz ou de la semoule de couscous</operation>. un <ingredient quantite=1>vin</ingredient> banc sec
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93933">
+ <titre>Tarte aux mirablles à la crème</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 cuillères à café de maïzena</p>
+ <p>1 barquette de mirabelles</p>
+ <p>2 jaunes d’ œufs</p>
+ <p>100 gr de sucre</p>
+ <p>100 gr de crème fraiche</p>
+ <p>1 cuillères à soupe de semoule</p>
+ <p>1 cuillères à soupe de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- garnissez le <recipient>moule</recipient> de la <ingredient quantite=1>pâte</ingredient> feuilletée. piquez - la à la fourchette. saupoudrer - la de la <ingredient quantite=1>semoule</ingredient> mélangée avec une <ingredient quantite=1>cuillère à soupe</ingredient> de <ingredient quantite=1>sucre</ingredient>. - <operation temps=6.86min espace=11>disposez les abricots dénoyautés</operation>. <operation temps=6.86min espace=11>sucrez</operation>. - <operation temps=6.86min espace=11>prélevez 1 càc de <ingredient quantite=1>jaune</ingredient> d’</operation> oeuf. mouillez - la avec une <ingredient quantite=1>cuillère à soupe de lait</ingredient> pour dorer les bords de la tarte. - <operation temps=6.86min espace=11>mettez la tarte à</operation> cuire à <recipient>four</recipient> chaud (thermostat 6/7) pendant 15 mn. pendant ce temps: <operation temps=6.86min espace=11>mélangez la <ingredient quantite=1>crème</ingredient>, les <ingredient quantite=2>jaunes</ingredient>, la càc à peine rase de fécule</operation>. <operation temps=6.86min espace=11>couvrez -en les abricots</operation>. <operation temps=6.86min espace=11>sucrez</operation> abondamment. remettez au <recipient>four</recipient> 15 à 20 mn.
+]]>
+ </preparation>
+</recette>

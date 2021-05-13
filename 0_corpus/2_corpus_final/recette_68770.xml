@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68770">
+ <titre>Corbeille de pamplemousse à l’ avocat</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 pamplemousses</p>
+ <p>3 avocats</p>
+ <p>1 pomme</p>
+ <p>2 blancs de poulet</p>
+ <p>2 boules de mozzarella</p>
+ <p>Pour la sauce: </p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>1 cuillère à café de miel, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, préparer la <ingredient quantite=1>sauce</ingredient>. couper les <ingredient quantite=3>pamplemousses</ingredient> en 2, les vider et les réserver. couper la chair des <ingredient quantite=3>pamplemousses</ingredient>, des <ingredient quantite=3>avocats</ingredient>, de la <ingredient quantite=1>pomme</ingredient> ainsi que la <ingredient quantite=2>mozzarella</ingredient> en petits dés ; mettre le tout dans le <recipient>saladier</recipient>. <operation temps=6.86min espace=11>faites revenir les blancs de <ingredient quantite=2>poulet</ingredient> dans un peu d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient></operation>. une fois tiède les couper en petits dés puis les ajouter à la préparation, mélanger et <operation temps=6.86min espace=11>remplir les demi-pamplemousses de la préparation</operation>. ajouter quelques brins de ciboulette pour la déco et voilà: bon appétit! vous pouvez ajouter quelques champignons frais et flamber les blancs de <ingredient quantite=2>poulet</ingredient> au whisky! un vin blanc fumé.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15915">
+ <titre>Pain d’ épices facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de miel (d’ un goût assez fort, bruyère par exemple) </p>
+ <p>10 cl de lait chaud</p>
+ <p>100 g de beurre fondu</p>
+ <p>200 g de farine</p>
+ <p>1/2 sachet de levure</p>
+ <p>50 g de cassonade</p>
+ <p>1 oeuf</p>
+ <p>1 pincée de sel</p>
+ <p>cannelle, gingembre, clou de girofle, noix de muscade...</p>
+ <p>noix, noisettes, amandes, noix de coco, écorces d’ oranges</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer le <ingredient quantite=1>miel</ingredient> dans le lait <ingredient quantite=1>chaud</ingredient>. ajouter le beurre <ingredient quantite=1>fondu</ingredient>, puis la <ingredient quantite=1>farine</ingredient> en mélangeant énergiquement en cas de grumeaux. incorporer alors la <ingredient quantite=1>levure</ingredient>, la <ingredient quantite=1>cassonade</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>sel</ingredient>. ajouter les épices et les <ingredient quantite=1>noix</ingredient>, selon les goûts. <operation temps=6.86min espace=12>faire cuire dans un <recipient>moule</recipient> à cake (ou à pain) pendant 30 à 35 min, à <recipient>four</recipient> <ingredient quantite=1>chaud</ingredient> (180 - 200 ° c</operation>). cette recette est une base que l’ on peut adapter à ses envies (plus ou moins d’ épices, de <ingredient quantite=1>noix</ingredient>...). un chocolat <ingredient quantite=1>chaud</ingredient> épicé ou un thé
+]]>
+ </preparation>
+</recette>

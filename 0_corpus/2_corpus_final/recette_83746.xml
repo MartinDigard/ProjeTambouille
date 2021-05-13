@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83746">
+ <titre>Pintades farcies sauce au Porto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pintades farcies</p>
+ <p>1 petite boite de champignons de Paris</p>
+ <p>45 cl de Porto rouge</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>1 verre d’ eau</p>
+ <p>quelques lardons fumés</p>
+ <p>Sel et poivre</p>
+ <p>2 oignons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir vos pintade dans une <recipient>cocotte</recipient> avec de l’ huile et les</operation> <operation temps=6.86min espace=10>faire dorer de chaque côté</operation>. ensuite ajouter les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=2>oignons</ingredient>, mélanger, mettre la <ingredient quantite=1>maïzena</ingredient> et mélanger. mettre le <ingredient quantite=1>porto</ingredient> pour que ça épaississe, <operation temps=10.0min espace=10>laisser cuire 10 minutes</operation> et ajouter le <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>eau</ingredient> remélanger, et mettez les <ingredient quantite=1>champignons de paris</ingredient> et <operation temps=6.86min espace=10>laisser cuire 2 heures à feu doux</operation>, surveiller de temps en temps que ça n’ accroche pas au fond de la <recipient>cocotte</recipient> et <operation temps=6.86min espace=10>servir avec un gratin dauphinois</operation>.
+]]>
+ </preparation>
+</recette>

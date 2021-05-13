@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23943">
+ <titre>Tarte au roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>100 g de roquefort</p>
+ <p>2 tasses de crème (soit 40 cl) </p>
+ <p>2 oeufs</p>
+ <p>50 g de gruyère râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> sur un <recipient>plat</recipient>. emietter le <ingredient quantite=1>roquefort</ingredient> au fond sur la <ingredient quantite=1>pâte</ingredient>. ajouter la crème mélangée à 2 <ingredient quantite=2>oeufs</ingredient> + <ingredient quantite=1>sel</ingredient> + poivre + <ingredient quantite=1>gruyère</ingredient>. cuire jusqu’ à ce que ça soit bien doré. /! \ <recipient>plat</recipient> végétarien!:)
+]]>
+ </preparation>
+</recette>

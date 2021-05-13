@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59588">
+ <titre>Brochettes veau et champignon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de noix de veau</p>
+ <p>300 g de champignons</p>
+ <p>1 citron</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 botte de ciboulette</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez la <ingredient quantite=1>noix de veau</ingredient> en cube réguliers. <operation temps=6.86min espace=7>faites - les</operation> dorer à la <recipient>poêle</recipient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> bien chaude, pendant environ 10 minutes. <operation temps=0.25min espace=7>retirez</operation> - les et remplacez - les par les <ingredient quantite=1>champignons</ingredient> de paris coupés en deux (<operation temps=6.86min espace=7>laissez - les entiers s’ ils sont petits</operation>). <operation temps=0.25min espace=7>salez</operation> et <operation temps=0.5min espace=7>poivrez</operation>. alternez les cubes de viande et les <ingredient quantite=1>champignons</ingredient> sur des brochettes. parsemez de <ingredient quantite=1>ciboulette</ingredient>.
+]]>
+ </preparation>
+</recette>

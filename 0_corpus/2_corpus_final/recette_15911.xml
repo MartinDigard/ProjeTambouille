@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15911">
+ <titre>Soupe au riz</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros oignon</p>
+ <p>1 branche de thym, </p>
+ <p>1 feuille de laurier</p>
+ <p>1 tasse de riz blanc</p>
+ <p>1 cuillère à soupe de beurre</p>
+ <p>sel, poivre</p>
+ <p>1 petite boîte de concentré de tomates</p>
+ <p>1 l de bouillon de volaille</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper l’ <ingredient quantite=1>oignon</ingredient> en morceaux, le <operation temps=6.86min espace=9>faire revenir dans le <ingredient quantite=1>beurre</ingredient> fondu</operation>. lorsqu’ il commence à <operation temps=6.86min espace=9>devenir transparent</operation>, ajouter le <ingredient quantite=1>riz</ingredient>. bien mélanger. ajouter le <ingredient quantite=1>bouillon</ingredient>, le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient>. poivrer. diluer le <ingredient quantite=1>concentré de tomates</ingredient> et <operation temps=6.86min espace=9>laisser cuire une vingtaine de minutes</operation>. saler. <operation temps=6.86min espace=9>garnir les bols de pluches de <ingredient quantite=1>persil</ingredient></operation>. c’ est une <ingredient quantite=1>soupe</ingredient> que me <operation temps=6.86min espace=9>faisait ma grand-mère</operation>. nourrissante en hiver et peu onéreuse.
+]]>
+ </preparation>
+</recette>

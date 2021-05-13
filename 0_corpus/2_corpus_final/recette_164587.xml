@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164587">
+ <titre>Madeleines au chocolat blanc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 plaquettes de chocolat blanc pour patisserie (360 g) </p>
+ <p>3 oeufs</p>
+ <p>un demi sachet de levure</p>
+ <p> 20 cl de crème fraiche (allégée convient très bien) </p>
+ <p>75 g de farine</p>
+ <p>75 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire fondre le <ingredient quantite=2>chocolat blanc</ingredient> verser tous les ingrédients dans un <recipient>saladier</recipient>: <ingredient quantite=2>chocolat</ingredient> fondu, <ingredient quantite=3>oeufs</ingredient>, <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>levure</ingredient>. bien mélanger. verser la pate dans des petits moules en silicone. <operation temps=6.86min espace=8>faire cuire à 180 degrés, 15</operation> mn pour une <recipient>four</recipient> à chaleur tournante. meilleur quand ce n’ est pas trop cuit
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56210">
+ <titre>Crumble champignon jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de champignons de Paris </p>
+ <p>150 g jambon d’ york </p>
+ <p>2 échalotes</p>
+ <p>100 g de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>Pour le crumble: </p>
+ <p>100 g de farine</p>
+ <p>60 à 70 g de parmesan</p>
+ <p>100 g de beurre</p>
+ <p>sel (peu car jambon et parmesan salés) </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire</operation> " suer " les <ingredient quantite=1>champignons</ingredient> lavés et effilés dans une <recipient>poêle</recipient> dans un peu de matière grasse. au deux tiers de la cuisson y ajouter les <ingredient quantite=2>échalotes</ingredient> hachées, <operation temps=6.86min espace=14>laisser sécher</operation>. hors du feu ajouter des petits dés de jambons et la <ingredient quantite=1>crème fraîche</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. remettre sur feu doux pour <operation temps=6.86min espace=14>faire épaissir la</operation> <ingredient quantite=1>crème</ingredient> puis disposer dans un <recipient>plat</recipient> à <recipient>four</recipient>. préparation <ingredient quantite=1>crumble</ingredient>: travailler du bout des doigts la farine, le <ingredient quantite=1>parmesan</ingredient>, le beurre froid, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> jusqu’ à l’ obtention d’ une pâte sableuse (<ingredient quantite=1>crumble</ingredient>). etaler ce " sable " sur la préparation précédente et enfourner (180 ° c - thermostat 6) jusqu’ à coloration du crumble (environ 40 minutes). peut également <operation temps=6.86min espace=14>faire l’ objet d’ un accompagnement ou d’ une entrée</operation>.
+]]>
+ </preparation>
+</recette>

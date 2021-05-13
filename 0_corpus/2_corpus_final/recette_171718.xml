@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171718">
+ <titre>Spaghettis au chorizo et à l’ anis étoilée</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de spaghettis</p>
+ <p>10 tomates mûres</p>
+ <p>8 tranches de chorizo</p>
+ <p>8 étoiles d’ anis</p>
+ <p>3 gousses d’ ail</p>
+ <p>2 échalotes </p>
+ <p>huile d’ olive</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>basilic frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+a votre convenance, <operation temps=3.0min espace=12>pelez</operation> et <operation temps=6.86min espace=12>épépinez ou non les <ingredient quantite=1>tomates</ingredient></operation>. <operation temps=6.86min espace=12>coupez - les en deux</operation> et <operation temps=6.86min espace=12>faites les</operation> cuire pendant 1h au <recipient>four</recipient>, à 180 ° c (thermostat 6), arrosées d’ huile d’ <ingredient quantite=1>olive</ingredient>. une fois cela fait, <operation temps=6.86min espace=12>découpez - les en lamelles</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=12>faites revenir l’ <ingredient quantite=3>ail</ingredient> et les <ingredient quantite=2>échalotes</ingredient> avec de l’ huile d’</operation> <ingredient quantite=1>olive</ingredient> puis <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=1>tomates</ingredient></operation>. <operation temps=15.0min espace=12>laissez mijoter 15 min</operation> puis ajoutez les <ingredient quantite=8>tranches de chorizo</ingredient> découpées en 4, l’ <ingredient quantite=8>anis</ingredient> étoilé et le <ingredient quantite=1>basilic</ingredient> ciselé. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation> et <operation temps=6.86min espace=12>faites encore</operation> mijoter pendant 30 min en ajoutant un filet d’ huile d’ <ingredient quantite=1>olive</ingredient> de temps en temps.10 min avant la fin, <operation temps=6.86min espace=12>faites cuire vos pâtes à votre convenance, les servir dans les assiettes</operation> et <operation temps=6.86min espace=12>recouvrir avec la sauce</operation>.
+]]>
+ </preparation>
+</recette>

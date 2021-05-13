@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19091">
+ <titre>Feuilleté au jambon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 tranches de jambon</p>
+ <p>2 pâtes feuilletées prêtes à l’ emploi</p>
+ <p>1 gros pot de crème</p>
+ <p>500 g de gruyère râpé</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer une <ingredient quantite=1>pâte</ingredient> sur une plaque allant au <recipient>four</recipient>. mettre les 5 <ingredient quantite=5>tranches de jambon</ingredient> (sans les couper) de manière à <operation temps=6.86min espace=7>couvrir entièrement la <ingredient quantite=1>pâte</ingredient></operation>. mettre la crème. mettre le <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=7>couvrir avec l’ autre <ingredient quantite=1>pâte</ingredient> (astuce</operation>: <operation temps=6.86min espace=7>passez la <ingredient quantite=1>pâte</ingredient> du dessus sous la <ingredient quantite=1>pâte</ingredient> du dessous lors de la fermeture du <ingredient quantite=1>feuilleté</ingredient> pour ainsi</operation> former des boudins et empêcher les fuites!). a l’ aide d’ un pinceau, étaler le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> mouillé d’ un peu d’ eau sur le <ingredient quantite=1>feuilleté</ingredient>. mettre au <recipient>four</recipient> (180 ° c) peut se manger à l’ apéritif chaud ou froid.
+]]>
+ </preparation>
+</recette>

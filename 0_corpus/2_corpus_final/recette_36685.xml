@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36685">
+ <titre>Tarte amandine aux myrtilles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée pur beurre</p>
+ <p>un peu de farine pour le plan de travail</p>
+ <p>250 g de myrtilles (fraîches ou surgelées) </p>
+ <p>80 g de sucre</p>
+ <p>60 g de poudre d’ amandes</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>20 cl de crème fraîche (normale ou légère, selon votre goût) </p>
+ <p>un peu de sucre glace, pour décorer</p>
+ <p>un peu de beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>etalez la <ingredient quantite=1>pâte</ingredient></operation> décongelée sur un <ingredient quantite=1>plan de travail</ingredient> fariné et <operation temps=6.86min espace=14>tapissez -en un <ingredient quantite=1><recipient>moule</recipient></ingredient> à tarte préalablement beurré</operation>. <operation temps=6.86min espace=14>posez les <ingredient quantite=1>myrtilles</ingredient> sur le fond de <ingredient quantite=1>pâte</ingredient> (si elles sont</operation> surgelées, posez - les telles quelles). <operation temps=6.86min espace=14>cassez les <ingredient quantite=2>oeufs</ingredient> dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=14>ajoutez la</operation> maïzena délayée dans 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ eau, ainsi que la <ingredient quantite=1>crème</ingredient> fraiche, le <ingredient quantite=1>sucre</ingredient> en <ingredient quantite=1>poudre</ingredient> et la <ingredient quantite=1>poudre</ingredient> d’ amande. <operation temps=6.86min espace=14>mélangez bien le tout</operation>. <operation temps=6.86min espace=14>versez cette préparation sur les <ingredient quantite=1>myrtilles</ingredient></operation>. <operation temps=35.0min espace=14>faites cuire à <recipient>four</recipient> chaud (230 ° c, soit thermostat 7/8) pendant 30 à 35 min</operation>. <operation temps=25.0min espace=14>surveillez bien la cuisson dès 20/25 min</operation>! <operation temps=6.86min espace=14>saupoudrez de <ingredient quantite=1>sucre</ingredient></operation> glace dès la sortie du <recipient>four</recipient>. <operation temps=2.0min espace=14>servez</operation> tiède ou froide.
+]]>
+ </preparation>
+</recette>

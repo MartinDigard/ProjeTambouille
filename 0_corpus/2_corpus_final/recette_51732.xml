@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51732">
+ <titre>Escalope à la normande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde</p>
+ <p>20 cl cidre (brut de préférence sinon le sucre ressort à la cuisson) </p>
+ <p>50 cl de crème d’ Isigny</p>
+ <p>1 cuillère à soupe de fond de veau</p>
+ <p>500 g de champignons</p>
+ <p>4 cl de calvados</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=4>escalopes de dinde</ingredient> et les <operation temps=6.86min espace=8>faire flamber au <ingredient quantite=1>calvados</ingredient></operation>. dans une <recipient>casserole</recipient>, porter à ébullition le cidre et y jouter une <ingredient quantite=1>cuillère à soupe de fond de veau</ingredient>. <operation temps=6.86min espace=8>laisser réduire de moitié</operation>. eplucher les <ingredient quantite=1>champignons</ingredient> et les <operation temps=6.86min espace=8>faire revenir dans une <recipient>poêle</recipient></operation>. y ajouter le cidre et le <ingredient quantite=1>fond de veau</ingredient> ainsi que la <ingredient quantite=1>crème</ingredient>. incorporer les <ingredient quantite=4>escalopes</ingredient> à l’ ensemble et <operation temps=5.0min espace=8>laisser réduire la sauce 5 minutes</operation>. <operation temps=6.86min espace=8>servir avec un bon cidre</operation>. cidre
+]]>
+ </preparation>
+</recette>

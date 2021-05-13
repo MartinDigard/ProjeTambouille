@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52306">
+ <titre>Tomates à l’ italienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 tomates</p>
+ <p>1 gros oignon blanc</p>
+ <p>2 pommes de terre de la grosseur du poing</p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>1 cuillère à cafré de pulpe de basilic (ou basilic mixé) </p>
+ <p>50 g de margarine végétale</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire chauffer la margarine et l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>cocotte</recipient> pour y</operation> <operation temps=6.86min espace=10>faire blondir l’ <ingredient quantite=1>oignon</ingredient></operation> tranché en très fines lamelles. laver et couper en morceaux les 6 <ingredient quantite=6>tomates</ingredient>. les ajouter aux <ingredient quantite=1>oignons</ingredient> déjà dorés et <operation temps=10.0min espace=10>laisser cuire ensemble 10 minutes à feu assez vif</operation>. pendant ce temps éplucher les 2 <ingredient quantite=2>pommes de terre</ingredient>, les couper en <ingredient quantite=1>gros</ingredient> dés. laver <ingredient quantite=1>thym</ingredient> et <ingredient quantite=1>laurier</ingredient> pour les déposer sur les <ingredient quantite=6>tomates</ingredient> et ensuite incorporer les cubes de <ingredient quantite=2>pommes de terre</ingredient>. saler et poivrer. <operation temps=15.0min espace=10>laisser cuire à feu moyen pendant 15 minutes</operation> puis ajouter le <ingredient quantite=1>basilic</ingredient>. réduire la source de chaleur et <operation temps=15.0min espace=10>laisser cuire encore 15 minutes</operation>. pour le vin, je ne m’ y connais pas suffisamment pour donner un conseil mais j’ aurais <operation temps=6.86min espace=10>mis un vin rouge léger</operation>.
+]]>
+ </preparation>
+</recette>

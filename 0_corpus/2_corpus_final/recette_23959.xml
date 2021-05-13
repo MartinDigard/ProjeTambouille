@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23959">
+ <titre>Cassolettes de pétoncles gratinées</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>24 noix de pétoncles avec leur corail</p>
+ <p>100 g de mie de pain rassis</p>
+ <p>10 cl de lait</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 bouquet de persil</p>
+ <p>30 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites tremper le <ingredient quantite=1>pain</ingredient> dans le lait</operation>. <operation temps=6.86min espace=11>pilez l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>persil</ingredient>,</operation> puis <operation temps=6.86min espace=11>mixez - les avec le <ingredient quantite=1>pain</ingredient></operation> essoré. mélangez avec le beurre mou, la <ingredient quantite=2>crème fraîche</ingredient> et le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>déposez les <ingredient quantite=1>pétoncles</ingredient> dans 4 cassolettes</operation> beurrées allant au <recipient>four</recipient>. répartissez la préparation dessus. passez au <recipient>four</recipient> à 210 ° c (thermostat 7) pendant 10 minutes.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20711">
+ <titre>Moules sauce piquante</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de moules</p>
+ <p>1 grosse boîte de tomate pelées</p>
+ <p>1 blanc de poireau</p>
+ <p>1 carotte</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à soupe de graines de coriandre</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>1 bouquet garni</p>
+ <p>1 piment fort</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>1 pincée de sucre</p>
+ <p>1 pointe de piment de cayenne</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez et hachez les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. <operation temps=6.86min espace=17>faites les</operation> <operation temps=2.0min espace=17>revenir 2 mn dans l’</operation> huile avec le <ingredient quantite=1>piment</ingredient>. ajoutez les <ingredient quantite=1>tomates</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, 15 cl de <ingredient quantite=1>vin</ingredient>, les <ingredient quantite=1>graines de coriandre</ingredient>, le <ingredient quantite=1>sucre</ingredient>, sel et poivre. <operation temps=6.86min espace=17>laissez cuire 15</operation> mn. entre temps, nettoyez le <ingredient quantite=1>poireau</ingredient> et <operation temps=6.86min espace=17>épluchez la <ingredient quantite=1>carotte</ingredient></operation>. les émincer et les mettre dans un <recipient>faitout</recipient> avec 5 cl de <ingredient quantite=1>vin</ingredient>, 5 cl d’ eau et le <ingredient quantite=1>vinaigre</ingredient>. <operation temps=6.86min espace=17>faites cuire jusqu’ à ce qu’ il</operation> reste la valeur de 2 <ingredient quantite=1>cuillères à soupe</ingredient> de liquide. <operation temps=6.86min espace=17>ajoutez les <ingredient quantite=1>moules</ingredient></operation> nettoyées. <operation temps=0.25min espace=17>couvrez</operation> et <operation temps=5.0min espace=17>laissez cuire 4 - 5 mn</operation>. <operation temps=6.86min espace=17>filtrez le jus de cuisson</operation>. <operation temps=6.86min espace=17>ajoutez - le à la sauce <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=5.0min espace=17>poursuivez la cuisson 5 mn</operation>. retirez le <ingredient quantite=1>bouquet garni</ingredient> et le <ingredient quantite=1>piment</ingredient>. relevez d’ une <ingredient quantite=1>pointe de cayenne</ingredient> et d’ un filet de <ingredient quantite=1>citron</ingredient>. <operation temps=6.86min espace=17>mettez les <ingredient quantite=1>moules</ingredient> dans un grand <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=17>arrosez - les de la sauce et des légumes si vous le</operation> <operation temps=6.86min espace=17>désirez</operation>. <operation temps=6.86min espace=17>servir chaud ou froid</operation>.
+]]>
+ </preparation>
+</recette>

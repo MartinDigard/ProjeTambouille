@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55237">
+ <titre>Gâteau à la confiture et à la crème</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la génoise: </p>
+ <p>3 Oeufs</p>
+ <p>140 g de sucre en poudre</p>
+ <p>75 g de farine</p>
+ <p>Pour la fourrer: </p>
+ <p>1 pot moyen de crème fraiche épaisse</p>
+ <p>Sucre</p>
+ <p>450 g de confiture de fraise (ou au choix) </p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>beurrez un <recipient>moule</recipient> de 23 cm de</operation> diamètre et <operation temps=6.86min espace=12>faire préchauffer le <recipient>four</recipient> 190 ° c (thermostat 6 - 7</operation>). <operation temps=6.86min espace=12>fouettez les <ingredient quantite=1>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans une jatte au batteur jusqu’ à ce qu’ ils soient</operation> épais, <operation temps=6.86min espace=12>incorporez peu à peu la farine</operation>. <operation temps=6.86min espace=12>versez la pâte dans le <recipient>moule</recipient></operation> et <operation temps=35.0min espace=12>faites cuire 30 à 35 min</operation>. <operation temps=6.86min espace=12>démoulez sur une grille</operation> et <operation temps=20.0min espace=12>laisser refroidir</operation>. <operation temps=6.86min espace=12>faites une deuxième <ingredient quantite=1>génoise</ingredient></operation>. <operation temps=6.86min espace=12>coupez les gâteaux en deux dans l’ épaisseur</operation>. <operation temps=6.86min espace=12>faire la chantilly</operation>: mettre le <ingredient quantite=1>pot de crème</ingredient> fraîche dans une jatte, ajouter du <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=12>faites monter la chantilly au batteur</operation>, <operation temps=6.86min espace=12>goûtez pour</operation> savoir si c’ est assez sucré, rajouter si besoin. battez jusqu’ à épaississement. superposez les couches: <ingredient quantite=1>génoise</ingredient>, <ingredient quantite=1>confiture</ingredient>, génoise, chantilly, génoise, <ingredient quantite=1>confiture</ingredient>, génoise, <ingredient quantite=1>sucre glace</ingredient>. ce gâteau fait une très bonne impression lors de repas de famille. mais il est très simple à réaliser.
+]]>
+ </preparation>
+</recette>

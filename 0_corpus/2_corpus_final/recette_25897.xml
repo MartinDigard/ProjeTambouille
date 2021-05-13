@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25897">
+ <titre>Taboulé au thon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de semoule de blé fine</p>
+ <p>1 grosse boîte de miettes de thon</p>
+ <p>3 tomates</p>
+ <p>4 oeufs</p>
+ <p>50 g d’ olives vertes ou noires dénoyautées</p>
+ <p>1 citron</p>
+ <p>1 grosse poignée de persil ciselé</p>
+ <p>1 grosse poignée de menthe ciselée</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=10>laissez gonfler la semoule dans 1, 5 fois son volume d’ eau pendant 30 min</operation>. <operation temps=6.86min espace=10>faites cuire les <ingredient quantite=4>oeufs</ingredient> durs</operation>. <operation temps=6.86min espace=10>ecalez</operation> - les et <operation temps=6.86min espace=10>coupez - les en quartiers</operation>. <operation temps=6.86min espace=10>ebouillantez les</operation> <ingredient quantite=3>tomates</ingredient>, <operation temps=6.86min espace=10>épépinez - les</operation> et <operation temps=6.86min espace=10>coupez - les en morceaux</operation>. <operation temps=6.86min espace=10>egouttez le <ingredient quantite=1>thon</ingredient></operation>. <operation temps=6.86min espace=10>coupez les <ingredient quantite=1>olives</ingredient> en 2 ou hachez - les</operation> grossièrement. <operation temps=6.86min espace=10>mélangez tous les ingrédients avec la semoule</operation>, <operation temps=6.86min espace=10>ajoutez le jus du <ingredient quantite=1>citron</ingredient>, les herbes et 6 belles cuillères à soupe d’</operation> huile. mélangez et <operation temps=6.86min espace=10>laissez reposer au frais au moins 2 h</operation>.
+]]>
+ </preparation>
+</recette>

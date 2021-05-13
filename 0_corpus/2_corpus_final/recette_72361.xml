@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72361">
+ <titre>Tarte aux pomme de terre et au chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>1 briquette de purée de tomate</p>
+ <p>1 bûche de chèvre</p>
+ <p>3 pommes de terre</p>
+ <p>fromage râpé (gruyère, comté ou autre) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=3>pommes de terre</ingredient> 20 min à l’ eau, à la vapeur ou au <recipient>four</recipient> en laissant la peau. pendant ce temps, mettre la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> puis la piquer avec une fourchette. napper la <ingredient quantite=1>pâte</ingredient> de <ingredient quantite=1>purée de tomate</ingredient> (pas trop sinon elle serait détrempée). ensuite, disposer des rondelles de <ingredient quantite=1>fromage</ingredient> de <ingredient quantite=1>chèvre</ingredient> sur toute la tarte. eplucher les <ingredient quantite=3>pommes de terre</ingredient>, les couper en fines rondelles et les mettre sur le <ingredient quantite=1>chèvre</ingredient>. saler, poivrer et parsemer le tout de <ingredient quantite=1>fromage râpé</ingredient>. enfourner pendant 20 min à 200 ° c (thermostat 6 - 7). bon appétit! on peu rajouter un peu de crème fraîche sur les <ingredient quantite=3>pommes de terre</ingredient> pour plus de moelleux, ainsi que des herbes de provence dans la <ingredient quantite=1>purée de tomates</ingredient> ou sur la couche de <ingredient quantite=1>chèvre</ingredient>.
+]]>
+ </preparation>
+</recette>

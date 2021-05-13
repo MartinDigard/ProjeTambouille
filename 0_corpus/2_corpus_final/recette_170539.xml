@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170539">
+ <titre>Brochettes de poulet tikka</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de yaourt allégé</p>
+ <p>2 cuillères à soupe de pâte de curry</p>
+ <p>4 filets de poulet</p>
+ <p>250 g de tomates cerises</p>
+ <p>1 demi concombre</p>
+ <p>1 oignon rouge</p>
+ <p>Quelques feuilles de coriandre hachées</p>
+ <p>Le jus d’ 1 citron</p>
+ <p>50 g de mesclun</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>mettez 8 brochettes en bois à</operation> tremper dans un bol d’ eau. mélangez le <ingredient quantite=1>yaourt</ingredient> et la <ingredient quantite=2>pâte de curry</ingredient> dans un bol, puis ajouter le <ingredient quantite=4>poulet</ingredient> découpé en cubes. <operation temps=6.86min espace=10>laissez mariner pendant une heure environ</operation>. dans un grand bol, <operation temps=6.86min espace=10>mélangez le <ingredient quantite=1>concombre</ingredient></operation> épépiné et coupé en morceaux, l’ <ingredient quantite=1>oignon rouge</ingredient> émincé, la <ingredient quantite=1>coriandre</ingredient> et le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. <operation temps=6.86min espace=10>réfrigérez</operation> jusqu’ au moment de <operation temps=2.0min espace=10>servir</operation>. <operation temps=6.86min espace=10>secouez les surplus de marinade,</operation> puis enfilez les morceaux de <ingredient quantite=4>poulet</ingredient> et de <ingredient quantite=1>tomates cerises</ingredient> sur les brochettes. <operation temps=20.0min espace=10>mettez sous le grill ou le <recipient>barbecue</recipient> pendant 15 - 20 min en les retournant de temps en temps, jusqu’ à cuisson complète et bien</operation> dorée. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>mesclun</ingredient> dans la salade de <ingredient quantite=1>concombre</ingredient>,</operation> puis <operation temps=6.86min espace=10>divisez entre les 4 assiettes</operation>. garnissez chaque portion de 2 brochettes de <ingredient quantite=4>poulet</ingredient> tikka et servir avec des chapatis chauds.
+]]>
+ </preparation>
+</recette>

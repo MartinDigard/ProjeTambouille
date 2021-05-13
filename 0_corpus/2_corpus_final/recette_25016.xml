@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25016">
+ <titre>Coq au vin d’ Alsace</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 coq découpé en 8 morceaux + les chutes</p>
+ <p>50 cl de Riesling (Vin blanc d’ Alsace) </p>
+ <p>200 g de champignons</p>
+ <p>1 échalote</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à soupe d’ estragon haché</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>20 cl de crème fraîche</p>
+ <p>farine</p>
+ <p>beurre, huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>chutes</ingredient> du <ingredient quantite=1>coq</ingredient> dans une <recipient>casserole</recipient> avec l’ <ingredient quantite=1>échalote</ingredient> et 25 cl d’ eau salée. porter à ébullition et <operation temps=20.0min espace=16>laisser bouillir 20 min</operation>. <operation temps=6.86min espace=16>faire dorer les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>coq</ingredient> dans un mélange <ingredient quantite=1>beurre</ingredient> - <ingredient quantite=1>huile</ingredient> dans une <recipient>cocotte</recipient></operation>. ajouter les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> et les herbes <ingredient quantite=1>hachées</ingredient>. mouiller avec le bouillon préparé au début et filtré et le vin. <operation temps=30.0min espace=16>laisser mijoter 30 min</operation>. nettoyer et émincer les <ingredient quantite=1>champignons</ingredient>. les <operation temps=6.86min espace=16>faire sauter au beurre</operation> et saupoudrer de <ingredient quantite=1>farine</ingredient>. ajouter ces <ingredient quantite=1>champignons</ingredient> au <ingredient quantite=1>coq</ingredient> et <operation temps=15.0min espace=16>laisser mijoter encore 15 min</operation>. retirer les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>coq</ingredient> de la <recipient>cocotte</recipient>, les disposer sur un <recipient>plat</recipient> chaud. ajouter la <ingredient quantite=1>crème fraîche</ingredient> dans la <recipient>cocotte</recipient>, rectifier l’ assaisonnement et napper les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>coq</ingredient>. <operation temps=2.0min espace=16>servir aussitôt</operation>. pour accompagner vous n’ <operation temps=6.86min espace=16>avez que l’ embarras</operation> su choix: pâtes fraîches, spätzle, riz, purée ou pommes dauphines, ravioles au fromage...
+]]>
+ </preparation>
+</recette>

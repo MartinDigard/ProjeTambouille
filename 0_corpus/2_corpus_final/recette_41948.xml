@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41948">
+ <titre>Tourte pomme grenade croustillante</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes à cuire</p>
+ <p>1 grenade</p>
+ <p>sucre ou cassonade</p>
+ <p>pâte filo</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=4>pommes</ingredient> et couper les grossièrement en quartiers. égrener la <ingredient quantite=1>grenade</ingredient>. dans un <recipient>plat</recipient> à tarte, préalablement beurré, étaler 6 feuilles de <ingredient quantite=1>pâte filo</ingredient>. mettre les fruits dans le <recipient>plat</recipient>, saupoudrer de <ingredient quantite=1>sucre</ingredient>, recouvrir à nouveau de 6 feuilles de <ingredient quantite=1>pâte filo</ingredient>. mettre quelques noisettes de beurre. enfourner 25 min au <recipient>four</recipient> à 250 ° c (thermostat 8 - 9).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171300">
+ <titre>Milhassou Corrézien</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre (à chair ferme) </p>
+ <p>1 œuf</p>
+ <p>2 à 3 gousses d’ ail</p>
+ <p>1 gros oignon</p>
+ <p>1 bouquet de persil plat</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>2 cuillères à soupe d’ huile ou de la graisse d’ oie</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- éplucher les <ingredient quantite=1>pommes de terre</ingredient>, les nettoyer à l’ eau froide, les essuyer puis les râper. <operation temps=6.86min espace=10>mettez - les dans une <recipient>passoire</recipient></operation> et <operation temps=6.86min espace=10>laissez - les s’</operation> égoutter. - hacher les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> pelées, l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>persil</ingredient>. les ajouter aux <ingredient quantite=1>pommes de terre</ingredient> râpées. - ajouter l’ <ingredient quantite=1>œuf</ingredient> et bien mélanger. saler et poivrer. - verser le mélange dans une <recipient>poêle</recipient> huilée chaude et <operation temps=10.0min espace=10>laisser cuire 10 minutes à feu moyen</operation>. - retourner ensuite le milhassou et le <operation temps=15.0min espace=10>laisser cuire 10 à 15 minutes</operation>.
+]]>
+ </preparation>
+</recette>

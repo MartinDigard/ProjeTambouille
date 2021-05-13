@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55863">
+ <titre>Pastis landais rapide</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>1 verre de lait</p>
+ <p>10 g de levure de boulanger</p>
+ <p>100 g de sucre</p>
+ <p>3 cuillères à soupe de pastis ou autre alcool anisé</p>
+ <p>100 g de beurre</p>
+ <p>3 œufs</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emiettez la <ingredient quantite=1>levure de boulanger</ingredient> dans le <ingredient quantite=1>verre de lait</ingredient> tiède. <operation temps=6.86min espace=10>laissez ramollir une dizaine de minutes,</operation> puis <operation temps=5.0min espace=10>mélangez</operation>. <operation temps=6.86min espace=10>incorporez alors à la farine</operation> puis ajouter le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=3>alcool</ingredient> à l’ anis. <operation temps=6.86min espace=10>pétrissez la pâte</operation> puis ajouter le beurre fondu et les oeufs. <operation temps=5.0min espace=10>mélangez</operation> bien la pâte (elle doit être un peu liquide) puis <operation temps=6.86min espace=10>versez - la dans un <recipient>moule</recipient> à bords hauts</operation>. <operation temps=6.86min espace=10>laissez reposer la pâte environ une heure dans un endroit</operation> tiède à l’ abri des courants d’ air. ne vous <operation temps=6.86min espace=10>inquiétez pas si elle ne</operation> lève pas tout de suite, ce sera le cas à la cuisson. 10 minutes avant la fin du temps de levée, <operation temps=6.86min espace=10>préchauffez votre <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=10>faire cuire environ trente-cinq minutes</operation>. cette brioche à mie dense peut se déguster accompagnée de crème anglaise. un grand <ingredient quantite=1>verre de lait</ingredient>, un chocolat chaud ou un café.
+]]>
+ </preparation>
+</recette>

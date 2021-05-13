@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68040">
+ <titre>Gratin de bar</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 bars</p>
+ <p>10 échalotes</p>
+ <p>30 cl de crème fraîche épaisse</p>
+ <p>1 verre de muscadet</p>
+ <p>20 g de farine</p>
+ <p>100 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire les <ingredient quantite=2>bars</ingredient> au court bouillon</operation>. les dépioter (garder les morceaux sans arretes). les mettre dans le fond d’ une <recipient>terrine</recipient> sauce: dans une <recipient>casserole</recipient> mettre de la <ingredient quantite=1>crème fraîche</ingredient>, les échalottes emincées, le <ingredient quantite=1>muscadet</ingredient>, et la farine + sel + poivre. la sauce doit avoir une consistance de béchamel. <operation temps=6.86min espace=9>recouvrir de la sauce les morceaux de poisson dans la <recipient>terrine</recipient></operation>. <operation temps=6.86min espace=9>recouvrir de <ingredient quantite=1>gruyère</ingredient> rapé</operation>. on peut aussi ajouter du citron dans la sauce. a savourer chaud, accompagné de pommes de terre ou de riz. un bon riesling.
+]]>
+ </preparation>
+</recette>

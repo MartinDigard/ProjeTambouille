@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47881">
+ <titre>Feuilleté au brie et lardons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de pâte feuilletée</p>
+ <p>6 grosses pommes de terre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>125 g de brie</p>
+ <p>25 cl crème liquide</p>
+ <p>150 g de lardons</p>
+ <p>1 petit oignon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=6>pommes de terre</ingredient> et les <operation temps=25.0min espace=13>faire cuire à la vapeur 25 min</operation>. préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 7). etaler la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient>plat</recipient> à tarte beurré. piquer la <ingredient quantite=1>pâte</ingredient> à l’ aide d’ une fourchette et <operation temps=8.0min espace=13>faire précuire la <ingredient quantite=1>pâte</ingredient> 7 à 8 min à <recipient>four</recipient> chaud</operation>. <operation temps=6.86min espace=13>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>poêle</recipient></operation>. lorsque les <ingredient quantite=6>pommes de terre</ingredient> sont cuites, les écraser dans un <recipient>plat</recipient>, ajouter la crème, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=1>brie</ingredient> coupé en morceaux, les <ingredient quantite=1>lardons</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. mélanger. verser la préparation sur la <ingredient quantite=1>pâte</ingredient>, enfourner et <operation temps=20.0min espace=13>faire cuire 15 à 20 min</operation>. <operation temps=2.0min espace=13>servir avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

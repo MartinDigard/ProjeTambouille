@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23019">
+ <titre>Tiramisu à l’ ananas</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de boudoirs ou de biscuits à la cuillère</p>
+ <p>250 g de Mascarpone</p>
+ <p>2 oeufs</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>une boîte d’ ananas au sirop (ou un ananas frais) </p>
+ <p>vermicelles au chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer les <ingredient quantite=1>biscuits</ingredient> au fond d’ un <recipient>plat</recipient> carré ou rectangulaire. mettre par dessus l’ <ingredient quantite=1>ananas</ingredient> coupé en petits morceaux, et verser un peu de jus d’ <ingredient quantite=1>ananas</ingredient> sur le tout (3 à 4 <ingredient quantite=1>cuillères à soupe</ingredient>). mélanger le <ingredient quantite=1>mascarpone</ingredient>, le <ingredient quantite=2>sucre</ingredient>, et les jaunes d’ <ingredient quantite=2>oeufs</ingredient>. monter les blancs en neige, et les rajouter délicatement au mélange précédent. <operation temps=6.86min espace=7>couvrir les <ingredient quantite=1>biscuits</ingredient> et l’ <ingredient quantite=1>ananas</ingredient> avec la préparation</operation>. mettre au frais au moins 2 heures, et parsemer de <ingredient quantite=1>vermicelles au chocolat</ingredient> au moment de <operation temps=2.0min espace=7>servir</operation>. ce tiramisu est très agréable car très frais. par contre, il ne faut pas le conserver trop longtemps car les <ingredient quantite=2>oeufs</ingredient> sont crus.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22063">
+ <titre>Gigot Brissac (restes de gigot) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 reste de gigot d’ agneau</p>
+ <p>15 g de beurre pour la cuisson</p>
+ <p>4 échalotes</p>
+ <p>persil frais</p>
+ <p>vin (blanc sec ou rouge ordinaire) </p>
+ <p>1 cuillerée à soupe rase de farine</p>
+ <p>1 cuillère à soupe d’ huile d’ olive (facultatif) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et hachez les <ingredient quantite=4>échalotes</ingredient>. <operation temps=6.86min espace=10>préparez et hachez le <ingredient quantite=1>persil</ingredient></operation>. <operation temps=6.86min espace=10>découpez la viande de <ingredient quantite=1>gigot</ingredient></operation> restant sur l’ os en lamelles peu épaisses. <operation temps=6.86min espace=10>faites dorer ces lamelles de viande dans une <recipient>poêle</recipient>, avec un peu de beurre</operation>. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=4>échalotes</ingredient> et le <ingredient quantite=1>persil</ingredient></operation> haché (ne <operation temps=6.86min espace=10>lésinez pas trop sur le</operation> <ingredient quantite=1>persil</ingredient>). <operation temps=6.86min espace=10>laissez à feu pas trop vif pendant 5 mn, en</operation> remuant de temps en temps. <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=1>cuillère</ingredient> de farine en saupoudrant sur la viande</operation>, <operation temps=5.0min espace=10>mélangez</operation>. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>vin</ingredient> (blanc ou rouge, selon votre goût ; la quantité</operation> dépend de la viande: en gros entre la moitié et les 3/4 de la hauteur de viande dans la <recipient>poêle</recipient>). <operation temps=5.0min espace=10>mélangez</operation> à la spatule de bois. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>laissez mijoter à couvert, à feu doux, pendant 10 à 15</operation> mn. <operation temps=6.86min espace=10>surveillez pour</operation> éviter de’ sécher’ le <ingredient quantite=1>vin</ingredient>, qui doit cependant réduire un peu (vous devez <operation temps=6.86min espace=10>obtenir une sauce onctueuse au terme de la</operation> <ingredient quantite=1>cuisson</ingredient>). facultatif: <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> en fin de <ingredient quantite=1>cuisson</ingredient></operation>. <operation temps=6.86min espace=10>servir bien chaud</operation>. cette recette permet d’ utiliser la fin d’ un <ingredient quantite=1>gigot</ingredient>, qui n’ est pas toujours très présentable quand on doit découper près de l’ os. accompagnement suggéré: pommes sautées ou flageolets. rouge léger
+]]>
+ </preparation>
+</recette>

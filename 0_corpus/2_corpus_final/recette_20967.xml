@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20967">
+ <titre>Pâtes sauce endiablée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de pâtes</p>
+ <p>500 g de tomates pelées</p>
+ <p>150 g de poitrine fumée</p>
+ <p>3 filets d’ anchois à l’ huile</p>
+ <p>3 petits piments rouges séchés</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper la <ingredient quantite=1>poitrine</ingredient> en lardons. <operation temps=6.86min espace=7>faire chauffer l’ <ingredient quantite=3>huile</ingredient> et y</operation> <operation temps=6.86min espace=7>faire dorer les lardons, les <ingredient quantite=3>filets</ingredient> d’ <ingredient quantite=3>anchois</ingredient>, les gousses d’ ail</operation> écrasées et les <ingredient quantite=3>petits piments</ingredient> émincés. rajouter les <ingredient quantite=1>tomates</ingredient> (égouttées si en boîte) découpées en morceaux. <operation temps=6.86min espace=7>laisser mijoter, saler</operation>, poivrer. pendant ce temps, <operation temps=6.86min espace=7>faire cuire les <ingredient quantite=1>pâtes</ingredient> dans un grand volume d’ eau bouillante</operation> salée. egoutter les <ingredient quantite=1>pâtes</ingredient>, les mélanger à la sauce et servir.
+]]>
+ </preparation>
+</recette>

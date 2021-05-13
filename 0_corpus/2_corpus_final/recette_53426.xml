@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53426">
+ <titre>Salade de légumes croquants</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tomates</p>
+ <p>1 poivron rouge</p>
+ <p>2 carottes</p>
+ <p>4 champignons de paris frais</p>
+ <p>1 pomme sucrée et croquante</p>
+ <p>6 bâtons de surimi (facultatif) </p>
+ <p>1/2 oignon rouge</p>
+ <p>vinaigre balsamique</p>
+ <p>huile d’ olive et mélange de 4 huiles bien connu</p>
+ <p>levure de bière</p>
+ <p>sel et 5 baies du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez les <ingredient quantite=2>tomates</ingredient> en dés</operation>. epluchez les <ingredient quantite=2>carottes</ingredient> et <operation temps=6.86min espace=13>taillez - les en lanières avec un économe</operation>. <operation temps=6.86min espace=13>coupez le <ingredient quantite=1>poivron</ingredient> finement</operation>. epluchez et <operation temps=6.86min espace=13>coupez la <ingredient quantite=1>pomme</ingredient> en triangle</operation>. epluchez les <ingredient quantite=4>champignons</ingredient> et <operation temps=6.86min espace=13>coupez - les en lamelles</operation>. coupez les <ingredient quantite=6>bâtons de surimi</ingredient> en rondelles. emincez très finement l’ <ingredient quantite=1>oignon</ingredient>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=13>mélangez tous les légumes avec les ingrédients de la sauce, le <ingredient quantite=1>sel</ingredient> et le 5 <ingredient quantite=1>baies</ingredient></operation>. <operation temps=6.86min espace=13>laissez au <recipient>réfrigérateur</recipient> pendant 1/4 d’ heure</operation>. au moment de <operation temps=2.0min espace=13>servir</operation>, saupoudrez de <ingredient quantite=1>levure de bière</ingredient>. accompagnée de mâche et de pain aux noix, cette salade peut <operation temps=6.86min espace=13>faire office de repas complet</operation>. vin rosé <ingredient quantite=1>bien</ingredient> glacé
+]]>
+ </preparation>
+</recette>

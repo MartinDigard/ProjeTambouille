@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27967">
+ <titre>Courgette farcie légère (micro-ondes) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 courgette moyenne</p>
+ <p>1 tranche de jambon de poulet</p>
+ <p>citron</p>
+ <p>sel, poivre</p>
+ <p>ciboulette (ou autre herbe ou épice selon le goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver la courgette et la couper en 2 dans le sens de la longueur. la <operation temps=3.0min espace=7>faire cuire ainsi environ 3 mn au <recipient>micro-onde</recipient></operation>. il faut qu’ elle soit plus ramollie au milieu mais qu’ elle reste croquante. l’ évider et mettre ce qui est retiré dans un <recipient>mixeur</recipient> avec la <ingredient quantite=1>tranche de jambon de poulet</ingredient> + <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>ciboulette</ingredient>. bien mixer le tout. <operation temps=6.86min espace=7>farcir la courgette avec cette sorte de crème</operation> et rajouter le jus d’ environ 1/2 <ingredient quantite=1>citron</ingredient> (en garder un peu.). réchauffer le tout 2 mn au micro-ondes. <operation temps=6.86min espace=7>sortir</operation>, remettre un peu de <ingredient quantite=1>citron</ingredient> et c’ est prêt. recette légère et toute simple
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19265">
+ <titre>Pain de châtaignes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de crème de marron</p>
+ <p>50 g de farine + 10 g pour le moule</p>
+ <p>100 g de beurre mou + 10 g pour le moule</p>
+ <p>4 oeufs</p>
+ <p>60 g de marrons glacés (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélangez au fouet la <ingredient quantite=1>crème de marron</ingredient> et le <ingredient quantite=1>beurre mou</ingredient>. <operation temps=6.86min espace=12>séparez les blancs des jaunes d’ <ingredient quantite=4>oeufs</ingredient></operation>. <operation temps=6.86min espace=12>ajoutez ces derniers à la préparation avec la farine tamisée et une pincée de sel</operation>. préchauffez le <recipient>four</recipient> à th 5 - 6 (170 ° c). beurrez et <operation temps=6.86min espace=12>farinez un <ingredient quantite=1><recipient>moule</recipient></ingredient> à cake ou utilisez simplement un <ingredient quantite=1><recipient>moule</recipient></ingredient></operation> souple anti-adhérent. <operation temps=6.86min espace=12>emiettez grossièrement les <ingredient quantite=1>marrons</ingredient> glacés sur un papier</operation> sulfurisé (faculatif). <operation temps=6.86min espace=12>montez les blancs en neige ferme,</operation> puis <operation temps=6.86min espace=12>incorporez - les à la préparation</operation>. <operation temps=6.86min espace=12>versez dans le</operation> <ingredient quantite=1><recipient>moule</recipient></ingredient> et <operation temps=6.86min espace=12>saupoudrez des <ingredient quantite=1>marrons</ingredient> émiettés</operation>. <operation temps=6.86min espace=12>enfournez 1 h20 environ</operation>. <operation temps=6.86min espace=12>démoulez tiède</operation>, <operation temps=6.86min espace=12>coupez le cake une fois refroidi</operation>. vous pouvez accompagner de boules de glace au chocolat et chantilly. a défaut de <ingredient quantite=1>marrons</ingredient> glacés, <operation temps=6.86min espace=12>émiettez des châtaignes préalablement cuites et saupoudrées de sucre glace</operation>.
+]]>
+ </preparation>
+</recette>

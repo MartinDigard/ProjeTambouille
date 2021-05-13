@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15907">
+ <titre>Cassolette d’ escargots et de cèpes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 boite 4/4 d’ achatines ou escargots</p>
+ <p>1 bocal de cèpes</p>
+ <p>1 brique de crème fraiche</p>
+ <p>1 bouteille de vin rouge</p>
+ <p>1 oignon</p>
+ <p>10 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans le beurre mousseux. ajouter ensuite les <ingredient quantite=1>cèpes</ingredient> coupés en lamelles. ajouter les <ingredient quantite=1>escargots</ingredient> et <operation temps=6.86min espace=8>faire cuire quelques minutes</operation>. verser le jus du <ingredient quantite=1>bocal des cèpes</ingredient> et <operation temps=6.86min espace=8>laissez réduire</operation>, <operation temps=6.86min espace=8>ajoutez ensuite 2 cuillères à soupe de <ingredient quantite=1>vin</ingredient> environ</operation>. verser la <ingredient quantite=1>crème</ingredient> fraîche et <operation temps=30.0min espace=8>laisser cuire à feu doux 30 mn environ</operation>. saler et poivrer. vous pouvez <operation temps=6.86min espace=8>servir cette cassolette dans des vols au vent préalablement</operation> passés au <recipient>four</recipient>. le nom de cassolette provient du type de <recipient>cocotte</recipient> utilisée. elle est à fond épais et plutot petite ce qui évite à la <ingredient quantite=1>crème</ingredient> de sécher. châteauneuf
+]]>
+ </preparation>
+</recette>

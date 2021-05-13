@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84186">
+ <titre>Courgettes au Neufchâtel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 courgettes</p>
+ <p>2 cœurs de Neuchâtel (fromage en forme de cœur) </p>
+ <p>4 cuillères à soupe de crème fraiche</p>
+ <p>5/6 tranches de pain de mie sans croute</p>
+ <p>10 cl de lait</p>
+ <p>10 cl de cidre</p>
+ <p>2 échalotes</p>
+ <p>Persil, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+évider les <ingredient quantite=4>courgettes</ingredient> et les <operation temps=10.0min espace=10>faire précuire au cuit - vapeur 10 minutes environ</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=10>faire revenir dans un peu d’ huile d’</operation> olive: les <ingredient quantite=2>échalotes</ingredient> et le fromage coupé en morceaux (avec la peau) pendant 5 minutes puis ajouter le <ingredient quantite=1>cidre</ingredient>. dans un bol, mélanger le <ingredient quantite=1>pain de mie</ingredient> et le lait puis verser le tout dans la <recipient>poêle</recipient>. ajouter le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et la <ingredient quantite=4>crème</ingredient>. <operation temps=6.86min espace=10>laisser cuire quelques instants en</operation> remuant et <operation temps=6.86min espace=10>laisser un peu</operation> <operation temps=6.86min espace=10>refroidir avant de</operation> mettre le mélange dans les <ingredient quantite=4>courgettes</ingredient>. enfourner pendant 25/30 minutes à 210 ° c (thermostat 7). <ingredient quantite=1>cidre</ingredient>
+]]>
+ </preparation>
+</recette>

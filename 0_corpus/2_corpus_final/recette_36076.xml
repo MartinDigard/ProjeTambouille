@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36076">
+ <titre>Bananes flambées à la confiture de lait</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 banane</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>2 cuillères à soupe de confiture de lait</p>
+ <p>1 boule de glace noix de coco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>bananes</ingredient> en deux dans le sens de la longueur. les <operation temps=6.86min espace=5>faire revenir à feu vif dans une <recipient>poêle</recipient> beurrée,</operation> puis rajouter un peu de <ingredient quantite=1>rhum</ingredient> pour les flamber. baisser le feu et rajouter la <ingredient quantite=2>confiture de lait</ingredient>. quand la <ingredient quantite=2>confiture</ingredient> est liquide, retirer du feu. présenter les <ingredient quantite=1>bananes</ingredient> avec une <ingredient quantite=1>boule de glace</ingredient> à la <ingredient quantite=1>noix de coco</ingredient> (ou plusieurs!).
+]]>
+ </preparation>
+</recette>

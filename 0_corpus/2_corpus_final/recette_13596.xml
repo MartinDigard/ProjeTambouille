@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13596">
+ <titre>Salade liégeoise simple</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de haricots verts</p>
+ <p>5 belles pommes de terre </p>
+ <p>50 g de bacon fumé (1/2 paquet) </p>
+ <p>6 œufs</p>
+ <p>Pour la vinaigrette: </p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>haricots verts</ingredient>, les <operation temps=6.86min espace=14>faire cuire à la vapeur, puis les</operation> mettre dans un grand <recipient>saladier</recipient>. même chose pour les <ingredient quantite=5>pommes de terre</ingredient>, qu’ on ajoute au <recipient>saladier</recipient>. <operation temps=6.86min espace=14>faire revenir le <ingredient quantite=1>bacon</ingredient>, puis en</operation> éponger la graisse avec du sopalin avant d’ ajouter au <recipient>saladier</recipient>. préparer la <ingredient quantite=1>vinaigrette</ingredient>, bien relevée, avec <ingredient quantite=1>vinaigre</ingredient> balsamique, <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, <ingredient quantite=1>moutarde</ingredient>, herbes de provence et / ou échalotes hachées menu. saler, poivrer, ajouter au <recipient>saladier</recipient> et bien mélanger le tout. <operation temps=3.0min espace=14>faire cuire les <ingredient quantite=6>œufs</ingredient> mollets, 3 min 1/2 à l’ eau bouillante, les</operation> passer à l’ eau froide et les écailler. les poser délicatement dans le <recipient>saladier</recipient>. servir tout de suite. c’ est une salade à <operation temps=6.86min espace=14>servir chaude</operation> ou tiède, que nous mangeons surtout l’ hiver, facile et rapide à préparer, copieuse, et nos enfants adorent!
+]]>
+ </preparation>
+</recette>

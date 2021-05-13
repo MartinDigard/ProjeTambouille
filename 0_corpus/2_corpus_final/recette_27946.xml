@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27946">
+ <titre>Le baba au rhum traditionnel</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le baba: </p>
+ <p>20 g de levure de boulanger</p>
+ <p>20 cl de lait</p>
+ <p>350 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>125 g de beurre</p>
+ <p>15 g de sucre en poudre</p>
+ <p>4 oeufs</p>
+ <p>Pour le sirop: </p>
+ <p>350 g de sucre</p>
+ <p>10 cl rhum</p>
+ <p>1 citron</p>
+ <p>50 cl d’ eau</p>
+ <p>Pour la garniture: </p>
+ <p>confiture d’ abricot</p>
+ <p>fruits selon les goûts (macédoine en boîte, fruits confits...) </p>
+ <p>crème chantilly (ou crème anglaise) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=19>faire tiédir le lait</operation>. délayer la <ingredient quantite=1>levure</ingredient> dans 3 cuillères à soupe du lait tiédi, puis ajouter le reste du lait. tamiser la farine dans un <recipient>saladier</recipient>. ajouter le <ingredient quantite=1>sel</ingredient>, verser le lait et travailler la pâte à la main. former une boule et déposer sur la surface le beurre ramolli et coupé en petits morceaux. <operation temps=6.86min espace=19>couvrir d’ un torchon</operation> et réserver dans un endroit chaud à l’ abri des courants d’ air. <operation temps=30.0min espace=19>laisser lever 30 min</operation>. ajouter le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=4>oeufs</ingredient> battus en omelette, <operation temps=6.86min espace=19>pétrir pour bien</operation> incorporer à la pâte le beurre, les <ingredient quantite=4>oeufs</ingredient> battus et le <ingredient quantite=1>sucre</ingredient>. verser dans un <recipient>moule</recipient> à <ingredient quantite=1>baba</ingredient> beurré, au tiers de la hauteur. <operation temps=30.0min espace=19>faire cuire 30 minutes à 180 ° c (thermostat 6</operation>). <operation temps=20.0min espace=19>laisser refroidir</operation> puis démouler sur une grille. <operation temps=6.86min espace=19>laisser le <ingredient quantite=1>baba</ingredient></operation> reposer toute la nuit. le lendemain, chauffer le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>eau</ingredient> à feu doux. hors du feu, ajouter le jus du <ingredient quantite=1>citron</ingredient> puis le rhum. verser le <ingredient quantite=1>sirop</ingredient> chaud, peu à peu, sur le <ingredient quantite=1>baba</ingredient> pour l’ imbiber. récupérer le <ingredient quantite=1>sirop</ingredient> tombé dans l’ assiette et le reverser sur le <ingredient quantite=1>baba</ingredient>. délayer un peu de <ingredient quantite=1>confiture</ingredient> d’ <ingredient quantite=1>abricot</ingredient> avec de l’ <ingredient quantite=1>eau</ingredient> chaude, en badigeonner le <ingredient quantite=1>baba</ingredient> à l’ aide d’ un pinceau. garnir le centre de <ingredient quantite=1>crème chantilly</ingredient> et macédoine de <ingredient quantite=1>fruits</ingredient> ou <ingredient quantite=1>fruits</ingredient> confits.
+]]>
+ </preparation>
+</recette>

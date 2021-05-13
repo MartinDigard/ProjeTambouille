@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80051">
+ <titre>Ananas mikado chocolat blanc fraise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 ananas</p>
+ <p>1 paquet de mikado chocolat blanc</p>
+ <p>des fraises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>coupez votre ananas en 2</operation>. <operation temps=6.86min espace=4>prenez un couteau, une moitié de votre ananas</operation> et <operation temps=6.86min espace=4>coupez la chair en carrés</operation>. <operation temps=6.86min espace=4>faites pareil avec l’ autre moitié</operation>. <operation temps=6.86min espace=4>prenez vos</operation> <ingredient quantite=1>fraises</ingredient> et <operation temps=3.0min espace=4>coupez - les en rondelles</operation> et <operation temps=6.86min espace=4>enfilez - les sur chaque bâtonnet de <ingredient quantite=1>mikado</ingredient></operation>. ensuite, <operation temps=6.86min espace=4>piquez les <ingredient quantite=1>mikados</ingredient> dans la chair d’</operation> <ingredient quantite=1>ananas</ingredient> et <operation temps=6.86min espace=4>présentez - les sur un <recipient>plat</recipient></operation>.
+]]>
+ </preparation>
+</recette>

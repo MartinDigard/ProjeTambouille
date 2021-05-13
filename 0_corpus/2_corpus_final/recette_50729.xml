@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50729">
+ <titre>Tarte chocolat blanc et spéculoos</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>1/2 cuillère à café de levure</p>
+ <p>1 petite cuillère à café d’ extrait de vanille</p>
+ <p>10 cl d’ huile</p>
+ <p>10 cl d’ eau chaude</p>
+ <p>250 g de crème fraîche épaisse</p>
+ <p>400 g de chocolat blanc</p>
+ <p>2 oeufs</p>
+ <p>quelques spéculos</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). mélanger la farine avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>levure</ingredient>, puis y ajouter l’ <ingredient quantite=1>huile</ingredient>, l’ <ingredient quantite=1>eau chaude</ingredient> et l’ <ingredient quantite=1>extrait de vanille</ingredient>. travailler la pâte avec les mains puis l’ étaler dans un <recipient><recipient>moule</recipient> à tarte</recipient> huilé. piquer le fond avec une fourchette. ecraser les spéculoos et disposer les miettes sur le fond de tarte. faire fondre à feu doux le <ingredient quantite=1>chocolat blanc</ingredient> coupé en <ingredient quantite=1>petit</ingredient> morceaux et la <ingredient quantite=1>crème</ingredient> fraîche jusqu’ à l’ obtention d’ une <ingredient quantite=1>crème épaisse</ingredient>. hors du feu y ajouter les <ingredient quantite=2>oeufs</ingredient> puis verser sur le fond de tarte. enfourner dans le <recipient>four</recipient> et baisser le thermostat à 140 ° c (thermostat 4 - 5). <operation temps=50.0min espace=14>laisser cuire 45 à 50 minutes</operation> puis <operation temps=6.86min espace=14>laisser refroidir à température ambiante avant de</operation> placer au <recipient>réfrigérateur</recipient> pendant au moins 1 heure avant de <operation temps=2.0min espace=14>servir</operation>. lorsque l’ on verse le mélange, les miettes de <ingredient quantite=1>spéculos</ingredient> risquent de remonter un peu. vous pouvez monter les <ingredient quantite=1>blancs</ingredient> en neige, elle est alors encore meilleure.
+]]>
+ </preparation>
+</recette>

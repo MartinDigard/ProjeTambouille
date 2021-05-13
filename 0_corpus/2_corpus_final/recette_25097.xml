@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25097">
+ <titre>Consommé de volaille au porto</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 l de bouillon de volaille (en tablettes ou maison) </p>
+ <p>2 petites branches de céleri</p>
+ <p>2 cuillères à soupe de concentré de tomate</p>
+ <p>2 cuillères à soupe de tapioca</p>
+ <p>10 cl de crème fraîche</p>
+ <p>8 cl de porto</p>
+ <p>40 g de beurre</p>
+ <p>1 pincée de poivre de Cayenne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=10>émincez le <ingredient quantite=2>céleri</ingredient></operation>. <operation temps=6.86min espace=10>faites - les</operation> fondre dans le beurre cahud dans une grande <recipient>cocotte</recipient>, pendant une dizaine de minutes. <operation temps=6.86min espace=10>versez le <ingredient quantite=1>bouillon</ingredient> dessus</operation>. délayez le <ingredient quantite=2>concentré de tomates</ingredient> avec 1 louche de <ingredient quantite=1>bouillon</ingredient> et <operation temps=6.86min espace=10>reversez dans la <recipient>marmite</recipient> en</operation> mélangeant bien. <operation temps=10.0min espace=10>laissez frémir 10 min</operation> puis <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=2>tapioca</ingredient></operation>. <operation temps=6.86min espace=10>laissez épaissir en</operation> remuant pendant 10 min. <operation temps=5.0min espace=10>mélangez</operation> la <ingredient quantite=1>crème</ingredient> avec le</operation> <ingredient quantite=1>porto</ingredient>, <operation temps=6.86min espace=10>versez dans la</operation> <ingredient quantite=2>soupe</ingredient> et <operation temps=5.0min espace=10>mélangez</operation>. <operation temps=6.86min espace=10>laissez chauffer quelques minutes à feu très doux</operation>, <operation temps=6.86min espace=10>ajoutez une pointe de</operation> <ingredient quantite=1>cayenne</ingredient> et <operation temps=2.0min espace=10>servez bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33610">
+ <titre>Gambas grillées à la crème aux échalotes et fondue de poireaux</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>16 gambas moyennes surgelées crues (surtout pas surgelées cuites, c’ est vraiment pas bon... au pire, si vous ne trouvez pas de gambas crues, achetez des grosses crevettes roses cuites chez le poissonnier) </p>
+ <p>1 gros pot de crème fraîche</p>
+ <p>5 poireaux dont on ne garde que le blanc et le vert pâle</p>
+ <p>sel, poivre</p>
+ <p>paprika</p>
+ <p>piment d’ espelette</p>
+ <p>une ou deux cuillers à soupe de wisky ou de cognac (pour flamber les gambas) </p>
+ <p>huile d’ olive</p>
+ <p>8 échalotes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faites cuire les gambas dans une <recipient>poêle</recipient> ou une <recipient>casserole</recipient>, jusqu’ à ce <ingredient quantite=1>qu</ingredient>’ elles soient toutes bien roses (sans plus) et les</operation> décortiquer en laissant la queue pour <operation temps=6.86min espace=12>faire plus joli</operation>. <operation temps=6.86min espace=12>réservez les têtes à part</operation>. coupez le <ingredient quantite=5>blanc</ingredient> de <ingredient quantite=1>poireau</ingredient> (et <ingredient quantite=5>le vert pâle</ingredient> aussi) en petites rondelles et <operation temps=6.86min espace=12>faites cuire à feu très doux dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=35.0min espace=12>laissez cuire le <ingredient quantite=1>poireau</ingredient> au moins 35 mn</operation>. il doit <operation temps=6.86min espace=12>devenir</operation> fondant et pourtant ne pas être en purée (c’ est pour ça <ingredient quantite=1>qu</ingredient>’ il faut le cuire à feu très doux). <operation temps=6.86min espace=12>videz les têtes de gambas (c’ est ce <ingredient quantite=1>qu</ingredient>’ on</operation> appelle le corail, et ça donne un très bon goût à la sauce) dans une <recipient>poêle</recipient> avec une <ingredient quantite=1>cuiller à soupe</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient>, et les 8 <ingredient quantite=8>échalotes</ingredient> coupées en petites rondelles. <operation temps=6.86min espace=12>faites fondre ces <ingredient quantite=8>échalotes</ingredient> lentement (à feu doux aussi)</operation> et ajouter deux bonnes cuillerées de <ingredient quantite=1>crème fraîche</ingredient>. ajouter une pincée de <ingredient quantite=1>sel</ingredient>, un peu de poivre, du <ingredient quantite=1>paprika</ingredient> et du <ingredient quantite=1>piment</ingredient> à volonté. faites fondre la <ingredient quantite=1>crème fraîche</ingredient> et y ajouter les gambas décortiquées. ajouter une petite cuillerée de <ingredient quantite=1>crème fraîche</ingredient> dans la fondue de <ingredient quantite=5>poireaux</ingredient>. saler et poivrer. disposer le <ingredient quantite=1>poireau</ingredient> au milieu de l’ assiette, les gambas autour, et ensuite verser un peu de sauce dessus. pour <operation temps=6.86min espace=12>parfaire la décoration</operation>, <operation temps=6.86min espace=12>ajoutez une pincée de <ingredient quantite=1>piment</ingredient> et de <ingredient quantite=1>paprika</ingredient> dessus, ça</operation> met une jolie note de couleur... cette recette est délicieuse aussi en remplaçant les gambas par des noix de saint jacques... vin <ingredient quantite=5>blanc</ingredient> sec
+]]>
+ </preparation>
+</recette>

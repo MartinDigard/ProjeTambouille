@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164831">
+ <titre>Pommes de terre au corned beef</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Environ 8 belles pommes de terre. </p>
+ <p>1 boite de cornet de beef (250g ou 350g). </p>
+ <p>1 gousse d’ échalote. </p>
+ <p>Sel, poivre. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>pommes de terre</ingredient> et les couper en quartier. <operation temps=6.86min espace=6>faites chauffer de l’</operation> huile dans une <recipient>cocotte</recipient>, mettre les <ingredient quantite=1>pommes de terre</ingredient>, salé, poivré. <operation temps=10.0min espace=6>laisser cuir pendant 10 minutes en</operation> remuant, pour ne pas que sa colle et couvrez. pendant de ce temps, couper le <ingredient quantite=1>cornet de beef</ingredient> en cubes, le mettre dans la <recipient>cocotte</recipient> avec les <ingredient quantite=1>pommes de terre</ingredient> et remuer encore. rajouter l’ <ingredient quantite=1>échalote</ingredient> et remuer. laissé <operation temps=20.0min espace=6>cuir 15 à 20 minutes</operation>. a <operation temps=2.0min espace=6>servir avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

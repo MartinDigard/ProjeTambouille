@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67902">
+ <titre>Lasagnes rouge et blanche</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>plaques de lasagnes</p>
+ <p>500 à 600 grammes de viande haché</p>
+ <p>une grosse courgette</p>
+ <p>deux tomates</p>
+ <p>une petite boite de concentré de tomate</p>
+ <p>une grosse boite de tomate pelée</p>
+ <p>fromage râpé</p>
+ <p>un petite bûche de chèvre</p>
+ <p>sel, poivre, basilic</p>
+ <p>un oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par préparer la sauce <ingredient quantite=1>tomate</ingredient>: emincer les <ingredient quantite=1>oignons</ingredient> et les <operation temps=6.86min espace=12>faire revenir dans de l’ huile d’ olive</operation>, ajouter le <ingredient quantite=1>concentré de tomate</ingredient>, mixer les <ingredient quantite=1>tomates pelées</ingredient> avec les deux <ingredient quantite=1>tomates</ingredient> fraîches, et les ajouter dans votre <recipient>sauteuse</recipient>. saler, poivrer, rajouter une touche de <ingredient quantite=1>basilic</ingredient>. <ingredient quantite=1>lasagnes</ingredient>: emincer les <ingredient quantite=1>courgettes</ingredient> et les faire revenir avec la <ingredient quantite=1>viande haché</ingredient>, préparer une béchamelle dans votre <recipient>plat</recipient>, poser une base de <ingredient quantite=1>tomate</ingredient> et mettre les premières <ingredient quantite=1>plaques</ingredient>. après vous monter selon vos goûts, personnellement, j’ ai mis: sauce <ingredient quantite=1>tomate</ingredient>, <ingredient quantite=1>viande</ingredient> et légumes un peu de <ingredient quantite=1>chèvre</ingredient> et de <ingredient quantite=1>fromage râpé</ingredient> et un soupçon de béchamel, et re <ingredient quantite=1>plaque</ingredient>... <operation temps=35.0min espace=12>faire cuire 35 min à 220 ° (thermostat 7/8</operation>)
+]]>
+ </preparation>
+</recette>

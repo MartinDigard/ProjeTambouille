@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24152">
+ <titre>Pizza aux oignons à l’ ancienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>Pour la garniture: </p>
+ <p>5 gros oignons</p>
+ <p>50 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>4 oeufs</p>
+ <p>2 cuillères à soupe de crème fraîche épaisse </p>
+ <p>60 g de parmesan râpé</p>
+ <p>sel et poivre</p>
+ <p>100 g d’ olives noires</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 240 ° c (thermostat 8). <operation temps=6.86min espace=12>etalez la pâte sur la plaque du <recipient>four</recipient> recouverte de papier</operation> sulfurisé. pelez et émincez les <ingredient quantite=5>oignons</ingredient>, puis <operation temps=6.86min espace=12>faites les</operation> <operation temps=6.86min espace=12>revenir dans le beurre</operation> chaud à feu très doux! <operation temps=6.86min espace=12>battez les <ingredient quantite=4>oeufs</ingredient> entiers avec la <ingredient quantite=2>crème</ingredient> et le fromage</operation>. <operation temps=6.86min espace=12>disposez ensuite les <ingredient quantite=5>oignons</ingredient> sur la pâte</operation>, <operation temps=0.25min espace=12>salez</operation> et <operation temps=6.86min espace=12>poivrez,</operation> puis <operation temps=6.86min espace=12>versez le mélange aux <ingredient quantite=4>oeufs</ingredient> dessus</operation>. <operation temps=6.86min espace=12>répartissez aussi les <ingredient quantite=1>olives</ingredient></operation>. <operation temps=6.86min espace=12>laissez reposer 20 min,</operation> puis <operation temps=30.0min espace=12>enfournez pendant 30 min</operation>.
+]]>
+ </preparation>
+</recette>

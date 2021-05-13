@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47255">
+ <titre>Beignets de carnaval moelleux d’ Isa</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de farine</p>
+ <p>50 g de beurre fondu</p>
+ <p>2 oeufs entiers</p>
+ <p>30 g de levure de boulangerie (en cube) </p>
+ <p>50 g de sucre</p>
+ <p>1 demi verre de lait (10 cl) </p>
+ <p>arôme au choix selon les goûts (zeste d’ orange ou de citron) </p>
+ <p>huile de friture</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=12>faire fondre le beurre</operation>. dans un bol, <operation temps=6.86min espace=12>faire tiédir le <ingredient quantite=1>lait</ingredient> et y</operation> ajouter la <ingredient quantite=1>levure de boulangerie</ingredient> émiettée et la moitié du <ingredient quantite=1>sucre</ingredient>. mélanger délicatement et <operation temps=10.0min espace=12>laisser monter 10 minutes</operation>. (j’ insiste sur le fait d’ utiliser de la <ingredient quantite=1>levure de boulangerie</ingredient> sinon vous n’ <operation temps=6.86min espace=12>obtiendrez pas le résultat</operation> escompté). dans un <recipient>saladier</recipient>, former un puits avec la farine, y casser les 2 <ingredient quantite=2>oeufs</ingredient> et y ajouter le <ingredient quantite=1>sucre</ingredient>, le beurre, la <ingredient quantite=1>levure</ingredient> montée et un <ingredient quantite=1>arôme</ingredient> si vous le souhaitez (personnellement, je les aime nature). mélanger le tout de façon à <operation temps=8.0min espace=12>obtenir une pâte homogène</operation>. ajouter un peu de farine si la pâte colle aux doigts et la retravailler. <operation temps=6.86min espace=12>couvrir le <recipient>saladier</recipient> d’ un linge propre et le placer dans un endroit</operation> tempéré, à l’ abri des courants d’ air. <operation temps=6.86min espace=12>laisser monter la pâte 2 ou 3 heures</operation>. passé ce temps, étaler la pâte au rouleau à pâtisserie sur une épaisseur de 1 ou 2 millimètres et découper les beignets selon la ou les formes choisies. ne pas oublier de <operation temps=6.86min espace=12>faire quelques petites entailles au milieu de chaque beignet</operation>. faire chauffer un bain d’ <ingredient quantite=1>huile de friture</ingredient> et y plonger les beignets par 4 ou 5 à la fois jusqu’ à ce qu’ ils soient juste dorés. les déposer dans un <recipient>plat</recipient> en les saupoudrant de <ingredient quantite=1>sucre</ingredient> glace. on peut les conserver dans une boîte hermétique, ils sont excellents au petit déjeuner. si vous utilisez de la <ingredient quantite=1>levure</ingredient> chimique ou de la <ingredient quantite=1>levure de boulangerie</ingredient> en sachet, les beignets seront plus secs. cidre doux, un poiré, un <ingredient quantite=1>verre de lait</ingredient> ou encore un chocolat chaud
+]]>
+ </preparation>
+</recette>

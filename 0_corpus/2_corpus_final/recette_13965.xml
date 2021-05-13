@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13965">
+ <titre>Gâteau chocolat et figues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de chocolat noir</p>
+ <p>350 g de figues</p>
+ <p>350 g de beurre + 20 g pour le moule</p>
+ <p>6 oeufs</p>
+ <p>150 g de sucre glace</p>
+ <p>100 g de farine</p>
+ <p>1 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>allumez le <recipient>four</recipient> a thermostat 6 (180 ° c</operation>). <operation temps=6.86min espace=11>faites fondre le <ingredient quantite=1>beurre</ingredient> et le <ingredient quantite=1>chocolat</ingredient> coupés en morceaux au <recipient>bain - marie</recipient> ou au micro-ondes</operation>. <operation temps=6.86min espace=11>cassez les <ingredient quantite=6>oeufs</ingredient> en</operation> séparant les jaunes des blancs. mélangez les jaunes au <ingredient quantite=1>chocolat</ingredient> fondu avec le <ingredient quantite=1>sucre glace</ingredient>, la farine et la <ingredient quantite=1>levure</ingredient>. battez les blancs en neige ferme et <operation temps=6.86min espace=11>incorporez - les délicatement au mélange précédent</operation>. <operation temps=6.86min espace=11>tapissez un <ingredient quantite=1><recipient>moule</recipient></ingredient> à</operation> manqué ou rectangulaire de papier sulfurisé beurré. <operation temps=6.86min espace=11>versez la moitié de la préparation dedans</operation>, <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=1>figues</ingredient></operation> coupées en deux au <ingredient quantite=1>chocolat</ingredient> et <operation temps=6.86min espace=11>couvrez avec le reste de la préparation</operation>. enfournez pour 40 mn en baissant le thermostat à 5 (150 ° c) à mi-cuisson. <operation temps=6.86min espace=11>servez bien froid</operation>.
+]]>
+ </preparation>
+</recette>

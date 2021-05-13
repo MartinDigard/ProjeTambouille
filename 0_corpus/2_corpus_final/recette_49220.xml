@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49220">
+ <titre>Gâteau au yaourt et pralin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt nature</p>
+ <p>3 œufs entiers</p>
+ <p>1 pot 1/2 de sucre</p>
+ <p>1 pot de farine</p>
+ <p>1 pot de maïzena</p>
+ <p>1 sachet de levure</p>
+ <p>1/4 pot d’ huile</p>
+ <p>50 g de pralin en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger dans un <recipient>saladier</recipient>, les <ingredient quantite=3>œufs</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu’ à blanchiment de l’ appareil. mélanger dans un autre récipient la farine, la maïzena et la <ingredient quantite=1>levure</ingredient>. l’ intégrer peu à peu dans la première préparation, en touillant bien pour qu’ il n’ y ai pas de grumeaux. ajouter le <ingredient quantite=1>yaourt</ingredient>, l’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=1>pralin</ingredient>. remuer. verser le tout dans un <recipient>moule</recipient> préalablement beurré et <operation temps=6.86min espace=10>laisser cuire environ 30min à 180 ° c (thermostat 6), en</operation> surveillant la cuisson. déguster. vous <operation temps=6.86min espace=10>obtiendrez un gâteau (une base) au <ingredient quantite=1>yaourt</ingredient> avec un goût praliné</operation>... vous pouvez alors le fourré comme bon vous semble: crême anglaise pour mon cas, chocolat, fruits etc...
+]]>
+ </preparation>
+</recette>

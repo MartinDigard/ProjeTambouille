@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25952">
+ <titre>Biscuit roulé à la confiture</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>50 g de sucre</p>
+ <p>50 g de farine</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de rhum ou de jus de citron</p>
+ <p>1/2 pot de confiture de framboise</p>
+ <p>100 g crème fraîche épaisse</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=10>fouettez les jaunes d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>rhum</ingredient> jusqu’ à ce que le mélange blanchisse. <operation temps=6.86min espace=10>incorporez la moitié de la farine, un peu de blancs d’</operation> oeufs montés en neige ferme puis le reste de la farine et des blancs. <operation temps=6.86min espace=10>versez la pâte sur une plaque à <recipient>four</recipient> recouverte d’ un papier</operation> sulfurisé beurré. enfournez pour 15 - 20 minutes de cuisson. a la sortie du <recipient>four</recipient>, <operation temps=6.86min espace=10>retournez le biscuit délicatement</operation> et <operation temps=6.86min espace=10>roulez - le immédiatement sur lui-même à l’</operation> aide du papier beurré. <operation temps=20.0min espace=10>laissez refroidir</operation>. <operation temps=6.86min espace=10>mélangez la <ingredient quantite=1>confiture</ingredient> et la crème</operation>. <operation temps=6.86min espace=10>déroulez le biscuit et recouvrez - le de</operation> crème à la <ingredient quantite=1>confiture</ingredient>. <operation temps=6.86min espace=10>roulez - le à nouveau et placez au <ingredient quantite=1>frais</ingredient></operation>. saupoudrez de <ingredient quantite=1>sucre glace</ingredient> avant de <operation temps=2.0min espace=10>servir</operation>.
+]]>
+ </preparation>
+</recette>

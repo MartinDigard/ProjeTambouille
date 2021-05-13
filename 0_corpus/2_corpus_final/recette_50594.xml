@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50594">
+ <titre>Salade de pâtes au cervelas et au gruyère</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 cervelas</p>
+ <p>40 g de gruyère</p>
+ <p>500 g de pâtes cuites</p>
+ <p>1 cuillère à soupe de moutarde de Dijon</p>
+ <p>sel et poivre</p>
+ <p>ciboulettte et persil</p>
+ <p>5 cuillères à soupe d’ huile</p>
+ <p>3 cuillères à soupe de vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emulsionnez l’ huile avec le vianigre, du <ingredient quantite=1>sel</ingredient>, du poivre et les herbes ciselées. <operation temps=6.86min espace=8>coupez les cervelas en rondelles et le gruyère en cubes</operation>. <operation temps=6.86min espace=8>mélangez les <ingredient quantite=1>pâtes</ingredient> avec le cervelas, le gruyère et la vinaigrette</operation>.
+]]>
+ </preparation>
+</recette>

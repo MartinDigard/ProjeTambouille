@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16228">
+ <titre>Escalopes de poulet au pesto rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 boule de Mozzarella</p>
+ <p>sauce tomates</p>
+ <p>Pour le Pesto: </p>
+ <p>2 tomates séchées à l’ huile</p>
+ <p>1 poivron rouge</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 gousses d’ aïl</p>
+ <p>4 cuillères à soupe de coulis de tomates</p>
+ <p>24 feuilles de basilic</p>
+ <p>4 cuillères à soupe de Pecorino râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=18>faire le</operation> <ingredient quantite=1>pesto</ingredient>: égoutter les <ingredient quantite=1>tomates séchées</ingredient> et les hâcher. couper le <ingredient quantite=1>poivron</ingredient> en dés et le <operation temps=10.0min espace=18>faire revenir 10 mn dans l’ <ingredient quantite=4>huile</ingredient> chaude</operation>. ajouter l’ ail écrasé, le <ingredient quantite=1>coulis de tomates</ingredient> et les <ingredient quantite=1>tomates séchées</ingredient>. saler et poivrer. <operation temps=6.86min espace=18>laisser mijoter 5 mn,</operation> puis <operation temps=20.0min espace=18>laisser refroidir</operation>. verser dans le bol d’ un robot ménager, ajouter le <ingredient quantite=1>basilic</ingredient>, le <ingredient quantite=1>pecorino</ingredient> et mixer en une purée épaisse. <operation temps=6.86min espace=18>faire les escalopes</operation>: beurrer un <recipient>plat</recipient> à gratin. inciser les blancs de <ingredient quantite=4>poulet</ingredient> dans le sens de la longueur. ecarter la chair et <operation temps=6.86min espace=18>farcir les blancs avec le <ingredient quantite=1>pesto</ingredient></operation>. les placer dans le <recipient>plat</recipient> à gratin, les enduire d’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>. saler et poivrer. cuire 45 mn à 200 ° c (dans un <recipient>four</recipient> non préchauffé) en recouvrant le <recipient>plat</recipient> de papier aluminium. surveiller la cuisson pour que la viande ne <ingredient quantite=1>sèche</ingredient> pas. détailler la <ingredient quantite=1>mozzarella</ingredient> en tranches. les <operation temps=6.86min espace=18>répartir sur les blancs de</operation> <ingredient quantite=4>poulet</ingredient> et terminer la cuisson 5 mn sous le grill du <recipient>four</recipient>. servir accompagné de riz et de sauce tomates à laquelle on aura ajouté quelques cuillerées de <ingredient quantite=1>pesto</ingredient>. <recipient>plat</recipient> un peu long à préparer, mais le <ingredient quantite=1>pesto</ingredient> peut être congelé.
+]]>
+ </preparation>
+</recette>

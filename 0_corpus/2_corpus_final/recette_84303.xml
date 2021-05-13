@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84303">
+ <titre>Gratin aux pruneaux</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de pommes de terre</p>
+ <p>20 pruneaux dénoyautés </p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>4 oeufs</p>
+ <p>125 g de beurre</p>
+ <p>4 cuillères à soupe de sucre en poudre</p>
+ <p>25 cl de lait</p>
+ <p>25 cl de rhum</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites tremper les <ingredient quantite=1>pruneaux</ingredient> dans le <ingredient quantite=1>rhum</ingredient></operation> additionné d’ eau tiède pendant 2h (pas plus d’ 1/4 de volume d’ eau sinon le <ingredient quantite=1>rhum</ingredient> ne se sentira pas). epluchez les <ingredient quantite=1>pommes de terre</ingredient> et <operation temps=30.0min espace=11>cuisez - les à la vapeur pendant environ 30 min (selon grosseur</operation>). passez - les au presse - purée. <operation temps=4.0min espace=11>incorporez</operation> 3 <ingredient quantite=2>cuillères à soupe de sucre</ingredient>, 90 g de beurre et le lait pour <operation temps=6.86min espace=11>obtenir une purée lisse</operation>. <operation temps=6.86min espace=11>ajoutez une pincée de <ingredient quantite=1>sel</ingredient></operation>. egouttez et <operation temps=6.86min espace=11>farinez les <ingredient quantite=1>pruneaux</ingredient></operation>. <operation temps=6.86min espace=11>ajoutez - les à la préparation</operation>. <operation temps=4.0min espace=11>incorporez</operation> progressivement les <ingredient quantite=4>oeufs</ingredient> et <operation temps=8.0min espace=11>mélangez bien</operation>. <operation temps=6.86min espace=11>beurrez le <recipient>plat</recipient> à gratin</operation> et <operation temps=6.86min espace=11>remplissez - le de la préparation</operation>. <operation temps=6.86min espace=11>saupoudrez du <ingredient quantite=4>sucre</ingredient></operation> restant et parsemez de petits morceaux de beurre. <operation temps=25.0min espace=11>laissez cuire 20 à 25 min à 180 ° (thermostat 6</operation>). a la fin de la cuisson, <operation temps=5.0min espace=11>faites caraméliser sous le <recipient>gril</recipient> pendant 5 min</operation> et <operation temps=6.86min espace=11>servez immédiatement</operation>. recette originale pour petits et grands. egalement très bon froid.
+]]>
+ </preparation>
+</recette>

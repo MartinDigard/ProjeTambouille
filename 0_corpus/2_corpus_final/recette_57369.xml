@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57369">
+ <titre>Crumble pommes vertes, bananes et aux spéculoos</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes vertes granny</p>
+ <p>3 bananes</p>
+ <p>120 g de beurre</p>
+ <p>120 g de sucre</p>
+ <p>120 g de farine</p>
+ <p>10 spéculoos environ</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=8>ecrasez les <ingredient quantite=1>spéculoos</ingredient> avec un rouleau à pâtisserie</operation>. <operation temps=6.86min espace=8>coupez le beurre en petits morceaux, placez - les dans un bol avec la farine, le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=1>spéculoos</ingredient> et une pincée de sel</operation>. malaxez le tout avec les doigts, le résultat doit être granuleux. <operation temps=3.0min espace=8>pelez les</operation> <ingredient quantite=4>pommes</ingredient>, <operation temps=6.86min espace=8>coupez - les en quartiers puis en petits dés</operation>. <operation temps=6.86min espace=8>coupez les <ingredient quantite=3>bananes</ingredient> en rondelles</operation>. <operation temps=6.86min espace=8>disposez les fruits dans un <recipient>plat</recipient> ou dans des ramequins type " crème brûlée "</operation> puis <operation temps=6.86min espace=8>recouvrez - les du mélange à crumble</operation>. enfournez pour environ 30 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

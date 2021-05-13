@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51001">
+ <titre>Soupe de poisson au lait de coco</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 oignons finement hachés</p>
+ <p>3 gouses d’ ail écrasées</p>
+ <p>4 piments verts finement hachés</p>
+ <p>125 g de crevettes séchées finement hachées</p>
+ <p>250 g de cacahuètes grillées écrasées</p>
+ <p>75 g de semoule de maïs (jaune, pas fécule) </p>
+ <p>65 cl d’ eau</p>
+ <p>1 cuillère à café de sel, poivre</p>
+ <p>60 g de beurre</p>
+ <p>500 g de filets de poisson de mer genre mulet</p>
+ <p>500 g de crevettes roses ou grises décortiquées</p>
+ <p>1 l de lait de coco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>poisson</ingredient> en dés de 2 à 3 cm de côté. <operation temps=6.86min espace=14>faire revenir l’ <ingredient quantite=3>ail</ingredient>, les <ingredient quantite=3>oignons</ingredient> et les <ingredient quantite=4>piments</ingredient> dans l’ <ingredient quantite=4>huile</ingredient> pendant 5 à 7 minutes, en</operation> tournant souvent. les <ingredient quantite=3>oignons</ingredient> doivent être transparents, non roussis. ajouter les <ingredient quantite=1>crevettes séchées</ingredient>, les <ingredient quantite=1>cacahuètes</ingredient> et la semoule de <ingredient quantite=1>maïs</ingredient>. verser progressivement le lait de <ingredient quantite=1>coco</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre en tournant constamment. porter à ébullition puis réduire le feu, <operation temps=0.25min espace=14>couvrir</operation> et <operation temps=15.0min espace=14>laisser mijoter durant 15 minutes</operation>. <operation temps=6.86min espace=14>faire fondre le beurre à part, y</operation> <operation temps=5.0min espace=14>faire revenir le <ingredient quantite=1>poisson</ingredient> et les <ingredient quantite=1>crevettes</ingredient> pendant 5 minutes en</operation> remuant constamment. retirer du feu et transférer dans la <ingredient quantite=4>soupe</ingredient> avec une écumoire. poursuivre la cuisson encore 20 minutes. <operation temps=6.86min espace=14>servir immédiatement dans une soupière chaude</operation>. avec du riz à part, cela peut <operation temps=6.86min espace=14>faire un <recipient>plat</recipient> principal léger</operation>. on peut réduire le nombre de <ingredient quantite=4>piments</ingredient>.
+]]>
+ </preparation>
+</recette>

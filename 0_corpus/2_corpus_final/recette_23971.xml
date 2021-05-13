@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23971">
+ <titre>Brioche escargot farcie aux saveurs du Sud</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>300 g de farine</p>
+ <p>15 g de levure fraîche</p>
+ <p>2, 5 cl de lait</p>
+ <p>4 oeufs (3 entiers + 1 jaune) </p>
+ <p>75 g de sucre</p>
+ <p>75 g de beurre</p>
+ <p>le zeste d’ 1/2 citron</p>
+ <p>1/2 cuillère à soupe de rhum</p>
+ <p>5 cl de rhum</p>
+ <p>sel</p>
+ <p>Pour la garniture: </p>
+ <p>50 g de raisins secs</p>
+ <p>75 g de cerneaux de noix</p>
+ <p>25 g de pignons</p>
+ <p>35 g d’ orange et de cédrat confits</p>
+ <p>1/2 cuillère à soupe de chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=20>faire chauffer le lait et y</operation> délayer la <ingredient quantite=1>levure</ingredient>. incorporer 100 g de farine et <operation temps=1.0min espace=20>pétrir à la main pendant 1 min</operation>. ajouter le reste de farine, le <ingredient quantite=1>sucre</ingredient>, 2 <ingredient quantite=4>oeufs</ingredient>, 65 g <ingredient quantite=1>beurre</ingredient>, le <ingredient quantite=1>zeste</ingredient> du <ingredient quantite=1>citron</ingredient> et le <ingredient quantite=1>rhum</ingredient>. saler puis <operation temps=50.0min espace=20>laisser monter la <ingredient quantite=1>pâte</ingredient> 50 min dans un endroit entre 22 ° c et 25 ° c</operation>. imbiber les <ingredient quantite=1>raisins</ingredient> de <ingredient quantite=1>rhum</ingredient>, concasser les <ingredient quantite=1>noix</ingredient> et découper l’ <ingredient quantite=1>orange</ingredient> et le <ingredient quantite=1>cédrat confits</ingredient>. dans une <recipient>poêle</recipient>, chauffer le reste de beurre (10 g) et y <operation temps=6.86min espace=20>faire revenir la <ingredient quantite=1>chapelure</ingredient></operation>. la mélanger dans un bol avec les <ingredient quantite=1>raisins</ingredient>, les <ingredient quantite=1>noix</ingredient> et les autres fruits <ingredient quantite=1>confits</ingredient>. ajouter les <ingredient quantite=1>pignons</ingredient>, 1 <ingredient quantite=1>oeuf</ingredient> et un peu de <ingredient quantite=1>sucre</ingredient>. bien mélanger. préchauffer le <recipient>four</recipient> à 190 ° c (thermostat 6/7). etaler la <ingredient quantite=1>pâte</ingredient> en un long ruban et la fourrer de farce. rouler et replier la <ingredient quantite=1>pâte</ingredient> sur elle-même à la manière d’ un pain au <ingredient quantite=1>raisin</ingredient>. placer le tout dans un <recipient>moule</recipient> rond beurré et fariné. dorer la <ingredient quantite=1>pâte</ingredient> avec le jaune d’ <ingredient quantite=1>oeuf</ingredient>. enfourner pour 45 min.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55068">
+ <titre>Cake aux foies de volaille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 échalote</p>
+ <p>200 g de foies de volaille</p>
+ <p>60 g de beurre</p>
+ <p>1 cuillère à soupe de porto</p>
+ <p>50 g de pignons de pin</p>
+ <p>3 feuilles de basilic</p>
+ <p>2 feuilles de menthe</p>
+ <p>2 pincées de sel et de poivre</p>
+ <p>150 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>3 oeufs</p>
+ <p>12, 5 cl de lait</p>
+ <p>100 g de gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=16>faire rissoler 5 minutes une <ingredient quantite=1>échalote</ingredient> et 200 g de <ingredient quantite=1>foies</ingredient> coupés en morceaux dans 20 g de beurre</operation>. verser une <ingredient quantite=1>cuillère à soupe de porto</ingredient> et <operation temps=6.86min espace=16>faire réduire à feu moyen</operation>. hors du feu, ajouter 50 g de <ingredient quantite=1>pignons de pin</ingredient>, 3 <ingredient quantite=3>feuilles de basilic</ingredient> et 2 <ingredient quantite=3>feuilles de menthe</ingredient> ciselées, 2 pincées de <ingredient quantite=2>sel et de poivre</ingredient>. dans un <recipient>saladier</recipient>, mélanger 150 g de farine, 1 <ingredient quantite=1>sachet de levure</ingredient>, 3 <ingredient quantite=3>oeufs</ingredient>, 40 g de beurre et les 12, 5 cl de lait tiédi. ajouter ensuite 100 g de <ingredient quantite=1>gruyère</ingredient> râpé sur les <ingredient quantite=1>foies</ingredient> préparés. verser le tout dans un <recipient>moule</recipient> à cake et mettre au <recipient>four</recipient> pendant 45 minutes à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

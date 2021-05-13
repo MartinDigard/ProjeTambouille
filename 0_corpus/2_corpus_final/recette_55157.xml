@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55157">
+ <titre>Linguine aux oignons rouges</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de linguine (ou des pâtes que vous préférez) </p>
+ <p>3 beaux oignons rouges</p>
+ <p>5 tranches de jambon de parme</p>
+ <p>vinaigre balsamique</p>
+ <p>sel poivre</p>
+ <p>sucre en poudre (facultatif) </p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire les pâtes</operation>. couper les <ingredient quantite=3>oignons rouges</ingredient> et les <ingredient quantite=5>tranches de jambon</ingredient> en fines lamelles. <operation temps=6.86min espace=8>faire revenir les <ingredient quantite=3>oignons</ingredient> dans l’</operation> huile jusqu’ à ce qu’ ils deviennent translucides (on peut ajouter un peu de <ingredient quantite=1>sucre</ingredient> à ce moment là pour que les <ingredient quantite=3>oignons</ingredient> soient confits). ajouter le <ingredient quantite=5>jambon</ingredient>. réserver. déglacer la <recipient>poêle</recipient> avec le <ingredient quantite=1>vinaigre balsamique</ingredient> quelques minutes. ajouter les pâtes une fois cuites dans le <ingredient quantite=1>vinaigre</ingredient> et bien les imprégner. servir garnies du <ingredient quantite=5>jambon</ingredient> et des <ingredient quantite=3>oignons</ingredient>.
+]]>
+ </preparation>
+</recette>

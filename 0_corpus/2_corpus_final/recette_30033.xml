@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30033">
+ <titre>Crêpe italienne</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à crêpes: </p>
+ <p>100 g de farine </p>
+ <p>1 œuf entier </p>
+ <p>1 paquets de sucre vanillé (11 g) </p>
+ <p>1 pincée de sel</p>
+ <p>25 cl de lait</p>
+ <p>Pour la décoration: </p>
+ <p>8 noix</p>
+ <p>8 cuillères à soupe de ricotta</p>
+ <p>8 cuillères à soupe de miel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la farine, l’ <ingredient quantite=1>œuf</ingredient>, le <ingredient quantite=1>paquet de sucre</ingredient> vanillé et la pincée de <ingredient quantite=1>sel</ingredient> dans un <recipient>saladier</recipient>, puis battre le tout en ajoutant le lait petit à petit. mélanger jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit homogène. <operation temps=6.86min espace=11>faire cuire les crêpes (il y</operation> a de la <ingredient quantite=1>pâte</ingredient> pur 4 grosses crêpes environ), puis sur chacune, étaler une <ingredient quantite=8>cuillère à soupe de ricotta</ingredient>, 2 <ingredient quantite=8>noix</ingredient> cassées réduites en brisures et ajouter 2 <ingredient quantite=8>cuillères à soupe de miel</ingredient> que vous <operation temps=6.86min espace=11>faites couler sur le tout</operation>. la replier en deux et le tour est joué!
+]]>
+ </preparation>
+</recette>

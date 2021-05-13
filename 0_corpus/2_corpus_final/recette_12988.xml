@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12988">
+ <titre>Gâteau de farine de châtaigne et de blé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine de châtaignes</p>
+ <p>250 g de farine de blé</p>
+ <p>250 g de sucre</p>
+ <p>15 cl de lait</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>11 g de levure</p>
+ <p>3 oeufs</p>
+ <p>vanille</p>
+ <p>raisins secs</p>
+ <p>amandes</p>
+ <p>noisettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les deux farines et la <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=13>faire un puits y</operation> mettre tous les ingrédients. bien mélanger. verser dans un grand <recipient>moule</recipient> et cuire à <recipient>four</recipient> doux.
+]]>
+ </preparation>
+</recette>

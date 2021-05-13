@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16936">
+ <titre>Coupes tiramisu express</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>18 biscuits à la cuillère (ou 6 tranches de pain de mie briochée) </p>
+ <p>500 g de fromage blanc (à défaut de mascarpone!) </p>
+ <p>15 cl de crème Chantilly (en bombe pour les + pressés) </p>
+ <p>30 cl de café très fort</p>
+ <p>2 cuillères à soupe d’ Amaretto (ou de cognac, à défaut) </p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>60 g de chocolat noir ou de cacao</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>répartissez 3 biscuits coupés en morceaux (ou 1 tranche de brioche émiettée) dans chaque coupe</operation>. mélangez le <ingredient quantite=1>café</ingredient> chaud avec 1 <ingredient quantite=1>cuillère à soupe de sucre</ingredient> et le cognac. <operation temps=6.86min espace=7>versez sur les biscuits</operation>. fouttez le <ingredient quantite=1>fromage blanc</ingredient> avec le reste du sure et <operation temps=6.86min espace=7>incorporez la <ingredient quantite=1>crème</ingredient> liquide <ingredient quantite=1>très</ingredient> froide battue en <ingredient quantite=1>chantilly</ingredient> (ou <ingredient quantite=1>chantilly</ingredient> en bombe!!</operation>). parsemez les biscuits de la moitié du <ingredient quantite=1>chocolat</ingredient> râpé, <operation temps=6.86min espace=7>recouvrez de</operation> crème puis du reste de <ingredient quantite=1>chocolat</ingredient>. <operation temps=30.0min espace=7>réfrigérez 30 mn avant de</operation> <operation temps=2.0min espace=7>servir</operation>. <ingredient quantite=1>très</ingredient> pratique quand arrivent des amis à la dernière min!!... et ressemble pas mal au vrai tiramisu!! nb: effet garanti servis dans des coupes ou verres transparents.
+]]>
+ </preparation>
+</recette>

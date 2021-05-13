@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45744">
+ <titre>Rôti de porc à la bière et aux baies de genièvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc d’ 1 kg dans le filet</p>
+ <p>1 gros oignon</p>
+ <p>2 canettes de bière de 33 cl</p>
+ <p>30 baies de genièvre</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille, <operation temps=6.86min espace=7>mettez votre rôti de porc dans un récipient et recouvrez - le de la <ingredient quantite=2>bière</ingredient> ainsi que des <ingredient quantite=1>baies</ingredient> de genevièvre écrasées</operation>, <operation temps=0.25min espace=7>salez</operation> et <operation temps=6.86min espace=7>poivrez cette marinade</operation>. le lendemain, <operation temps=6.86min espace=7>faites blondir l’ <ingredient quantite=1>oignon</ingredient> coupés en morceaux ainsi que le rôti de porc</operation>. dans une <recipient>cocotte</recipient> minute <operation temps=6.86min espace=7>mettez:</operation> <ingredient quantite=1>oignon</ingredient>, rôti de porc ainsi que la marinade. <operation temps=40.0min espace=7>laissez cuire pendant 40 minutes</operation>. après cuisson, si votre sauce est trop liquide, <operation temps=6.86min espace=7>ajoutez la <ingredient quantite=1>maïzena</ingredient></operation>. ce <recipient>plat</recipient> s’ accompagne très bien de riz, de polenta, de pâtes. <ingredient quantite=2>bière</ingredient> ou un bordeaux
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18128">
+ <titre>Pâte brisée légère</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de Farine</p>
+ <p>100 g de beurre</p>
+ <p>1 cuillère à café rase de sel</p>
+ <p>1 cuillère à café rase de levure</p>
+ <p>10cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>mélangez la farine, le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=1>levure</ingredient> dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=7>faites fondre le beurre dans une <recipient>casserole</recipient></operation>. <operation temps=6.86min espace=7>versez l’ <ingredient quantite=1>eau</ingredient> et le beurre au milieu de la farine</operation> et <operation temps=6.86min espace=7>mélangez avec une <ingredient quantite=1>cuillère</ingredient> en bois</operation>. quand ceci devient dificile, <operation temps=6.86min espace=7>faites une boule</operation> et <operation temps=6.86min espace=7>laissez - la</operation> reposer au frigo pendant 1 demi-heure. votre pâte est prête et avec cette méthode elle est légère. si vous ne voulez pas vous salire les doigts, au moment de tout mélanger, <operation temps=6.86min espace=7>métez tout dans une boite hermetique</operation> et secouer.
+]]>
+ </preparation>
+</recette>

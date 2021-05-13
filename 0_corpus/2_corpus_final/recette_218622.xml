@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218622">
+ <titre>Courge spaghetti façon carbonara (enchantement des enfants) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 courge spaghetti</p>
+ <p>1 barquette de lardons (nature ou fumés selon les goûts) </p>
+ <p>1 oignon</p>
+ <p>2 cuillères à soupe de crème fraiche épaisse</p>
+ <p>emmental râpé</p>
+ <p>sel </p>
+ <p>poivre </p>
+ <p>muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffe le <recipient>four</recipient> à 180 ° c (thermostat 6). couper la <ingredient quantite=1>courge</ingredient> en gros morceaux, en l’ égrainant (garder la peau), la <operation temps=6.86min espace=12>faire blanchir à la <recipient>cocotte</recipient></operation>. une fois cuite <operation temps=6.86min espace=12>répartir la chair dans un <recipient>plat</recipient> à gratin</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=12>faire blondir l’</operation> <ingredient quantite=1>oignon</ingredient> puis mettre les <ingredient quantite=1>lardons</ingredient>. une fois saisis les ajouter à la <ingredient quantite=1>courge</ingredient>. incorporer la <ingredient quantite=2>crème</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>muscade</ingredient>. mélanger le tout y ajouter l’ <ingredient quantite=1>emmental</ingredient>. enfourner à 180 ° c pendant 30 min. lorsque la <ingredient quantite=1>courge spaghetti</ingredient> est cuite sa chair ressemble à des vermicelles, les enfants se prennent au jeu et pense manger des pâtes carbonara. ils se régalent!
+]]>
+ </preparation>
+</recette>

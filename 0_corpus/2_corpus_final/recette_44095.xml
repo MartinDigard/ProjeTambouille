@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44095">
+ <titre>Marmelade de lapin (35ème rencontre) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gros lapin couper en morceaux (sans les abats) </p>
+ <p>5 oignons émincés </p>
+ <p>1/2 l de vin blanc </p>
+ <p>1/2 l d’ eau </p>
+ <p>3 gousses d’ ail en chemise (avec la peau) </p>
+ <p> thym, laurier, poivre du moulin, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir le <ingredient quantite=1>lapin</ingredient>, sans qu’ il ne soit trop</operation> doré. assaisonner, retirer, et réserver. ajouter les <ingredient quantite=5>oignons</ingredient>, et <operation temps=10.0min espace=8>faire suer 10 min</operation>. ajouter l’ <ingredient quantite=3>ail</ingredient>, le <ingredient quantite=1>thym</ingredient>, et le <ingredient quantite=1>laurier</ingredient>. ajouter les liquides, puis remettre le <ingredient quantite=1>lapin</ingredient> qui doit étre entièremnt recouvert. si ça n’ est pas le cas, rajouter du <ingredient quantite=1>vin blanc</ingredient>. porter à ébullition, et <operation temps=6.86min espace=8>laisser cuire tranquillement, jusqu’ à ce que le <ingredient quantite=1>lapin</ingredient> se</operation> détache des os (1 h 30 environ). retirer le <ingredient quantite=1>lapin</ingredient>, et le disposer dans un <recipient>plat</recipient>. <operation temps=6.86min espace=8>laisser refroidir, et l</operation>’ émietter en retirant tout les os (attention aux petits!). pendant ce temps, <operation temps=6.86min espace=8>faire réduire le jus de cuisson de moitié, de façon à</operation> <operation temps=6.86min espace=8>obtenir un bon 1/4 de litre</operation>. une fois émietté correctement, ajouter le jus, en veillant de ne pas trop détrempé. mettre en <recipient>terrine</recipient>, et au frigo pendant 24 h.
+]]>
+ </preparation>
+</recette>

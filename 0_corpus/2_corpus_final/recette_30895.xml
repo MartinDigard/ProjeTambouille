@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30895">
+ <titre>Bûche glacée aux biscuits roses, chocolat et crème de marrons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 biscuits de Reims roses </p>
+ <p>30 g de sucre en poudre </p>
+ <p>1 cuillères à soupe de kirsch </p>
+ <p>5 cl d’ eau </p>
+ <p>2 oeufs</p>
+ <p>130 g de beurre</p>
+ <p>70 g de chocolat pâtissier</p>
+ <p>25 g de sucre glace </p>
+ <p>125 g de purée de marrons au naturel </p>
+ <p>125 g de crème de marrons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émietter les <ingredient quantite=1>biscuits de reims</ingredient> et les mélanger avec le <ingredient quantite=1>sucre en poudre</ingredient>, 1 jaune d’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=1>kirsch</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. ajouter 45 g de beurre et réserver au frais. <operation temps=6.86min espace=15>faire fondre le <ingredient quantite=1>chocolat</ingredient></operation> concassé au <recipient>bain - marie</recipient> avec le café. hors du feu, ajouter le jaune d’ <ingredient quantite=1>oeuf</ingredient> restant et le <ingredient quantite=1>sucre glace</ingredient>. <operation temps=20.0min espace=15>laisser refroidir</operation> et ajouter 50 g de beurre mou. incorporer délicatement les blancs d’ oeufs montés en neige. réserver au <recipient>réfrigérateur</recipient>. mélanger la <ingredient quantite=1>purée de marrons</ingredient>, la <ingredient quantite=1>crème de marrons</ingredient> et le reste de beurre. beurrer et fariner un <recipient>moule</recipient> à cake et y verser la pâte aux <ingredient quantite=1>marrons</ingredient>. <operation temps=6.86min espace=15>recouvrir de la première préparation, suivie de la pâte au <ingredient quantite=1>chocolat</ingredient></operation>. placer le <recipient>moule</recipient> au <recipient>réfrigérateur</recipient> pendant une nuit. démouler et saupoudrer de <ingredient quantite=1>sucre glace</ingredient>.
+]]>
+ </preparation>
+</recette>

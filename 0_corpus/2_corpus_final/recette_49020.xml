@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49020">
+ <titre>Boeuf en sauce à l’ irlandaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de bœuf (pour bourguignon ou un steak) coupé en dé de 3 cm par 3 cm</p>
+ <p>1 oignon finement haché (ou plus selon les goûts) </p>
+ <p>6 carottes coupées en morceaux de 3 cm</p>
+ <p>une branche de céleri finement haché</p>
+ <p>100g de petits champignons</p>
+ <p>1 boîte de tomates en morceaux (400g) </p>
+ <p>1 bouillon de bœuf</p>
+ <p>2 cuillères à soupe sauce Worcestershire</p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>ail (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 130 ° c (thermostat 4/5). dans une <recipient>marmite</recipient> pouvant aller au <recipient>four</recipient>, <operation temps=6.86min espace=14>faire colorer les <ingredient quantite=1>oignons</ingredient> dans de l’ huile d’ olive</operation>. <operation temps=6.86min espace=14>faire frire la viande séparément pour la dorer ; ne pas la</operation> cuire complètement. ajouter la viande aux <ingredient quantite=1>oignons</ingredient> puis les <ingredient quantite=1>champignons</ingredient>, le <ingredient quantite=1>céleri</ingredient> et les <ingredient quantite=6>carottes</ingredient>. ajouter les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>bouillon de bœuf</ingredient> (suffisamment pour <operation temps=6.86min espace=14>recouvrir le tout</operation>). ajouter <ingredient quantite=1>laurier</ingredient>, <ingredient quantite=1>thym</ingredient>, <ingredient quantite=2>worcestershire sauce</ingredient>, sel, poivre et enfourner pendant 4 heures pour une viande confite et tendre. <operation temps=6.86min espace=14>servir avec une purée de <ingredient quantite=1>céleri</ingredient>, de <ingredient quantite=1>carotte</ingredient> ou de pomme de terre maison</operation>.
+]]>
+ </preparation>
+</recette>

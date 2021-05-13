@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62605">
+ <titre>Pancakes minceur</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oeuf</p>
+ <p>1 sachet de sucre vanillé ou 2 cuillères à soupe d’ édulcorant ou de fructose</p>
+ <p>30 cl de lait</p>
+ <p>150 g de farine</p>
+ <p>2 cuillères à soupe de rhum ou eau de fleur d’ oranger (facultatif) </p>
+ <p>1/2 sachet de levure chimique </p>
+ <p>huile pour la poêle (très peu) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>mélangez la farine, le lait, l’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=2>rhum</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. battez jusqu’ à l’ obtention d’ une pâte bien lisse. <operation temps=30.0min espace=8>laissez reposer 30 min si possible</operation>. graissez la <ingredient quantite=1><recipient>poêle</recipient></ingredient> avec un papier absorbant imbibé d’ <ingredient quantite=1>huile</ingredient>. <operation temps=2.0min espace=8>comptez 2 min de cuisson de chaque côté environ</operation>. ces pancakes sont + diététiques que les " vrais " car il y a très peu de <ingredient quantite=1>sucre</ingredient> et de matières grasses. (ils peuvent aussi se <operation temps=6.86min espace=8>faire avec du lait écrémé</operation>). a déguster chaud accompagné d’ un peu de sirop d’ érable ou <ingredient quantite=1>de sucre</ingredient>.
+]]>
+ </preparation>
+</recette>

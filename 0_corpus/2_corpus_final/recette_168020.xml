@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168020">
+ <titre>Blondie au chocolat blanc et caramel maison</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre mou</p>
+ <p>280 g de sucre brun compact </p>
+ <p>2 cuillères à café de café solube</p>
+ <p>1 cuillère à café d’ extrait de vanille</p>
+ <p>2 oeufs</p>
+ <p>150 g de farine</p>
+ <p>130 d’ amandes effilées </p>
+ <p>180 g de chocolat blanc cassé en petits morceaux</p>
+ <p>1 pincée de sel</p>
+ <p>Pour le caramel: </p>
+ <p>100 g de sucre brun</p>
+ <p>70 g de beurre</p>
+ <p>4 de crème épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=2>oeufs</ingredient> le <ingredient quantite=1>sucre</ingredient> la poudre de <ingredient quantite=2>café</ingredient>, l’ <ingredient quantite=1>extrait</ingredient> de vanille et battre en mousse ajouter le <ingredient quantite=1>chocolat</ingredient> et les <ingredient quantite=1>amandes</ingredient>, le <ingredient quantite=1>sel</ingredient> bien mélanger incorporer doucement la farine et verser le tout dans un <recipient>plat</recipient> à gratin beurré, enfourner et <operation temps=40.0min espace=16>laisser cuire à 180 ° c (thermostat 6) 35 à 40 minutes</operation>. <operation temps=3.0min espace=16>sortir du <recipient>four</recipient></operation> couper en <ingredient quantite=1>petits</ingredient> cubes directement dans le <recipient>plat</recipient>. <operation temps=6.86min espace=16>faire le</operation> <ingredient quantite=1>caramel</ingredient>: <operation temps=6.86min espace=16>laisser fondre le <ingredient quantite=1>beurre</ingredient> et le <ingredient quantite=1>sucre</ingredient> à feu moyen</operation> puis <operation temps=6.86min espace=16>faire frémir jusqu’ à ce que le <ingredient quantite=1>sucre</ingredient> soit</operation> fondu. ajouter <ingredient quantite=1>petit</ingredient> à <ingredient quantite=1>petit</ingredient> la <ingredient quantite=4>crème</ingredient> en remuant <operation temps=6.86min espace=16>laisser frémir encore quelques minutes jusqu’ à ce que le <ingredient quantite=1>caramel</ingredient> soit</operation> coulant. ajouter le <ingredient quantite=1>caramel</ingredient> avec une <ingredient quantite=1>cuillère</ingredient> en zigzag sur les cubes de biscuits. <operation temps=20.0min espace=16>laisser refroidir</operation>. vin de sauternes ou vendanges tardives
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44454">
+ <titre>Frites au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de frites</p>
+ <p>200 g de chocolat</p>
+ <p>30 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire cuire les <ingredient quantite=1>frites</ingredient> dans de l’ huile neuve ou à la <recipient>friteuse</recipient> électrique</operation>. les sucrer legerement. <operation temps=6.86min espace=5>faire fondre le <ingredient quantite=1>chocolat</ingredient> à feu doux, en touillant doucement jusqu’ à</operation> <operation temps=6.86min espace=5>obtenir un ruban lisse</operation>. sucrer à votre goût. verser le <ingredient quantite=1>chocolat</ingredient> dans un joli <recipient>plat</recipient> et les <ingredient quantite=1>frites</ingredient> dans un autre... tremper les <ingredient quantite=1>frites</ingredient> dans le <ingredient quantite=1>chocolat</ingredient> fondu... et <operation temps=6.86min espace=5>régalez vous! on</operation> peut aussi <operation temps=6.86min espace=5>enroulez les <ingredient quantite=1>frites</ingredient> dans une crêpe au <ingredient quantite=1>chocolat</ingredient>, c’ est encore meilleur!!</operation>!
+]]>
+ </preparation>
+</recette>

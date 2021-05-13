@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55777">
+ <titre>Rôti de Dinde sauce tomate oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de dinde (environ 800 g) </p>
+ <p>3 cuillères de farine</p>
+ <p>2 boîtes de tomates pelées</p>
+ <p>2 gros oignons</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>Sel et Poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tremper le rôti dans la farine afin de le <operation temps=6.86min espace=7>recouvrir entièrement</operation>. mettre dans une <recipient>cocotte</recipient> les 3 <ingredient quantite=3>cuillères</ingredient> d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et y <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=2>oignons</ingredient> simplement coupés en tranches fines (ne pas</operation> <operation temps=6.86min espace=7>faire colorer les <ingredient quantite=2>oignons</ingredient>, juste</operation> suer quelques minutes). <operation temps=6.86min espace=7>faire revenir le rôti sur les deux faces dans les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient></operation>. y ajouter les <ingredient quantite=2>tomates pelées</ingredient> et 2 verres d’ eau. <operation temps=35.0min espace=7>laisser cuire pendant 35 minutes à couvert</operation>.
+]]>
+ </preparation>
+</recette>

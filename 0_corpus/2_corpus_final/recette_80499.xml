@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80499">
+ <titre>Gâteau aux pommes façon Paulette</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>375 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>250 g de beurre</p>
+ <p>6 jaunes d’ oeufs + 1 pour dorer</p>
+ <p>2 belles pommes</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients en respectant l’ ordre donné dans la liste d’ ingrédients: farine, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>beurre</ingredient>, <ingredient quantite=6>jaunes</ingredient> d’ <ingredient quantite=6>oeufs</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=2>pommes</ingredient>. malaxer le tout et mettre dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. enfourner au moins 45 min à 180 - 200 °, thermostat 6 - 7, en surveillant la cuisson avec la pointe d’ un couteau.
+]]>
+ </preparation>
+</recette>

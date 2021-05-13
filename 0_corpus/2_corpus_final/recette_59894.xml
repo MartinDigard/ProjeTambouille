@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59894">
+ <titre>Tagliatelles aux crevettes, poires et safran</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>375 g de tagliatelles</p>
+ <p>500 g de crevettes décortiquées ou scampis</p>
+ <p>2 poires</p>
+ <p>1 "dose" de safran</p>
+ <p>10 cl de crème fraîche</p>
+ <p>huile d’ olive</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites bouillir un grand volume d’ eau</operation> salée, <operation temps=6.86min espace=10>faites - y</operation> cuire les pâtes " al dente ". <operation temps=6.86min espace=10>faites cuire les <ingredient quantite=2>poires</ingredient> pelées</operation> et coupées en petits dés, dans une <recipient>poêle</recipient> chaude avec du beurre et une cuillère à soupe de sucre. <operation temps=6.86min espace=10>faites sauter les <ingredient quantite=1>crevettes</ingredient> au <recipient>wok</recipient> avec un filet d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. ajoutez le <ingredient quantite=1>safran</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=3.0min espace=10>ajoutez les</operation> <ingredient quantite=2>poires</ingredient>, <operation temps=6.86min espace=10>mélangez délicatement</operation>. <operation temps=6.86min espace=10>versez la sauce dans les pâtes</operation>, <operation temps=5.0min espace=10>mélangez</operation> et <operation temps=2.0min espace=10>servez</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25847">
+ <titre>Soupe au chou rouge à la marmite</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1/2 petit chou rouge bien serré</p>
+ <p>200 g de poitrine de lard fumé</p>
+ <p>2 cuillères à soupe de saindoux (ou 40 g de beurre) </p>
+ <p>1 cube de bouillon</p>
+ <p>2 l d’ eau chaude</p>
+ <p>1 pincée de noix de muscade râpée (ou plus) </p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>1 cuillère à soupe de cassonade</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer le <ingredient quantite=1>chou</ingredient>, lui ôter le trognon et les grosses côtes, puis le détailler en fines lanières. dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=12>faire rissoler les lardons dans le <ingredient quantite=2>saindoux</ingredient></operation>. ajouter ensuite le <ingredient quantite=1>chou</ingredient> en remuant, puis <operation temps=0.25min espace=12>couvrir</operation> et <operation temps=8.0min espace=12>laisser étuver 8 min à feu très doux</operation>. délayer le <ingredient quantite=1>cube de bouillon</ingredient> dans les 2 litres d’ <ingredient quantite=1>eau chaude</ingredient>, le verser dans la <recipient>marmite</recipient>. assaisonner de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>muscade râpée</ingredient> à votre goût. ajouter enfin le <ingredient quantite=2>vinaigre</ingredient> et le sucre, puis <operation temps=6.86min espace=12>laisser cuire à couvert encore quelques minutes en</operation> surveillant. mettre en soupière, puis ajouter la <ingredient quantite=2>crème fraîche</ingredient> pour lier. servir et déguster <ingredient quantite=1>bien</ingredient> chaud.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25034">
+ <titre>Velouté de poireaux pommes de terre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 poireaux</p>
+ <p>1 kg de pommes de terre</p>
+ <p>30 g de beurre</p>
+ <p>1, 5 l de bouillon de poule</p>
+ <p>1 bouquet garni</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>quelques croûtons selon les goûts</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et coupez les <ingredient quantite=1>pommes de terre</ingredient> en dés. <operation temps=6.86min espace=9>lavez et émincez les <ingredient quantite=4>poireaux</ingredient></operation>. <operation temps=6.86min espace=9>faites chauffer le beurre dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=9>mettez - y les</operation> <ingredient quantite=4>poireaux</ingredient> et <operation temps=6.86min espace=9>laissez suer</operation>. ajoutez les <ingredient quantite=1>pommes de terre</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=9>mouillez avec le</operation> <ingredient quantite=1>bouillon</ingredient>, <operation temps=0.25min espace=9>couvrez</operation> et <operation temps=45.0min espace=9>laissez cuire 45 min</operation>. mixez et <operation temps=6.86min espace=9>rajoutez la <ingredient quantite=2>crème</ingredient></operation>. <operation temps=6.86min espace=9>servez bien chaud avec les <ingredient quantite=1>croûtons</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

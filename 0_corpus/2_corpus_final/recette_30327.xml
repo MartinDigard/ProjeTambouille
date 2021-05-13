@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30327">
+ <titre>Saumon moelleux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 saumon entier</p>
+ <p>16 tranches de pain de mie</p>
+ <p>1 bouquet de persil plat</p>
+ <p>20 cl de lait</p>
+ <p>100 g de beurre </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° (thermostat 6). dans un <recipient>saladier</recipient>, émietter le <ingredient quantite=1>pain de mie</ingredient> et le <operation temps=6.86min espace=11>faire imbiber de lait</operation>. assaisonner et parsemer de <ingredient quantite=1>persil</ingredient> haché. malaxer et en <operation temps=6.86min espace=11>recouvrir le fond d’ un <ingredient quantite=1><recipient>plat</recipient></ingredient> à <recipient>four</recipient></operation>. <operation temps=6.86min espace=11>faire des entailles dans le poisson et y</operation> insérer des morceaux de beurre. saupoudrer de <ingredient quantite=1>sel</ingredient> et de poivre. déposer le <ingredient quantite=1>saumon</ingredient> dans le <ingredient quantite=1><recipient>plat</recipient></ingredient> et le parsemer dessus le reste du beurre. enfourner pour 45 minutes de cuisson en arrosant fréquemment le poisson.
+]]>
+ </preparation>
+</recette>

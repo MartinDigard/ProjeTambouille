@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218199">
+ <titre>Tiramisu rhubarbe et speculoos</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 tiges de rhubarbe</p>
+ <p>140 g de sucre</p>
+ <p>1 gousse de vanille</p>
+ <p>250 g de mascarpone</p>
+ <p>20 spéculoos</p>
+ <p>3 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez et <operation temps=6.86min espace=8>coupez la <ingredient quantite=8>rhubarbe</ingredient> en tronçons</operation>. <operation temps=1.0min espace=8>mettez</operation> - les dans une <recipient>casserole</recipient> avec 60 g de <ingredient quantite=1>sucre</ingredient>, la gousse de <ingredient quantite=1>vanille</ingredient> fendue dans la longueur et 3 cuillères à soupe d’ eau. <operation temps=35.0min espace=8>laissez cuire à feu doux 35 minutes en</operation> mélangeant de temps en temps. <operation temps=6.86min espace=8>séparez les jaunes d’ <ingredient quantite=3>œufs</ingredient> des blancs</operation>. battez les jaunes avec 80 g de <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse puis <operation temps=6.86min espace=8>ajoutez le</operation> <ingredient quantite=1>mascarpone</ingredient> et <operation temps=2.0min espace=8>fouettez encore 2 minutes afin d’</operation> <operation temps=6.86min espace=8>obtenir un mélange lisse et sans grumeaux</operation>. battez les blancs d’ <ingredient quantite=3>œufs</ingredient> en neige ferme et <operation temps=6.86min espace=8>ajoutez - les délicatement au mélange au <ingredient quantite=1>mascarpone</ingredient></operation>. <operation temps=6.86min espace=8>émiettez les spéculos</operation>. répartissez la poudre de biscuits, la compote de <ingredient quantite=8>rhubarbe</ingredient> et la mousse de <ingredient quantite=1>mascarpone</ingredient> en alternance dans des verrines. <operation temps=6.86min espace=8>laissez reposer 3 heures au <recipient>réfrigérateur</recipient> (4h maxi pas plus, sinon les biscuits ramollissent!</operation>)
+]]>
+ </preparation>
+</recette>

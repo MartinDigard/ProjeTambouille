@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18814">
+ <titre>Clafoutis minceur</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>100 g de farine</p>
+ <p>200 g de lait concentré demi-écrémé</p>
+ <p>1/2 cuillères à soupe d’ édulcorant liquide résistant à la cuisson (marque: Hermesetas) </p>
+ <p>12 cuillères à café d’ eau (60 ml) </p>
+ <p>1 pincée de sel</p>
+ <p>extrait de vanille</p>
+ <p>des fruits au choix: pommes, bananes, kiwis, cerises, poires...</p>
+ <p>une cuillère à café de margarine allégée et une cuillère à soupe de farine pour le plat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+graisser et fariner un <ingredient quantite=1><recipient>plat</recipient></ingredient> à <recipient>four</recipient>. couper les <ingredient quantite=1>fruits</ingredient> en morceaux et les disposer dans le <ingredient quantite=1><recipient>plat</recipient></ingredient>. mélanger les <ingredient quantite=2>oeufs</ingredient>, la <ingredient quantite=1>farine</ingredient>, le <ingredient quantite=1>sel</ingredient>, la <ingredient quantite=1>vanille</ingredient> et l’ <ingredient quantite=1>édulcorant</ingredient>. ajouter le lait et l’ <ingredient quantite=1>eau</ingredient>, bien mélanger. verser la pâte sur les <ingredient quantite=1>fruits</ingredient>. <operation temps=30.0min espace=12>faire cuire 30 mn à 180 ° c</operation>.
+]]>
+ </preparation>
+</recette>

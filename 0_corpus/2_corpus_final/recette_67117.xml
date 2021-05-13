@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67117">
+ <titre>Plumes (penne) à la milanaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de jambon cuit</p>
+ <p>100 g de dés lardons fumés</p>
+ <p>250 g de champignons</p>
+ <p>100 g de beurre</p>
+ <p>40 cl de jus de veau</p>
+ <p>2 cuillères à soupe de farine fluide</p>
+ <p>4 cuillères à soupe de concentré de tomates</p>
+ <p>375 g de penne rigate</p>
+ <p>sel et poivre</p>
+ <p>100 g de parmesan ou pecorino râpé</p>
+ <p>100 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez le <ingredient quantite=1>jambon</ingredient> en lanières</operation>. <operation temps=6.86min espace=11>coupez les <ingredient quantite=1>champignons</ingredient> en fines lamelles</operation>. <operation temps=6.86min espace=11>faites fondre du beurre</operation>, <operation temps=6.86min espace=11>saupoudrez - le de farine</operation> et <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>jambon</ingredient>, les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=1>champignons</ingredient></operation>. <operation temps=6.86min espace=11>arrosez l’</operation> ensemble avec le <ingredient quantite=1>jus de veau</ingredient> et <operation temps=6.86min espace=11>ajoutez le concentré de <ingredient quantite=4>tomates</ingredient></operation>. <operation temps=6.86min espace=11>retirez le tout du feu</operation> et <operation temps=6.86min espace=11>ajoutez les fromages à la sauce</operation>. <operation temps=6.86min espace=11>faites bouillir de l’ eau salée et <ingredient quantite=1>cuisez</ingredient> - y les pâtes jusqu’ à ce qu’ elles soient</operation> " al dente ". <operation temps=6.86min espace=11>mélangez la sauce aux pâtes</operation>, <operation temps=5.0min espace=11>dégustez</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

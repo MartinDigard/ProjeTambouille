@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172010">
+ <titre>Sorbet aux pommes allégé en sucre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes </p>
+ <p>100 g de sucre</p>
+ <p>le jus d’ 1/2 citron</p>
+ <p>1/2 verre d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=1>pommes</ingredient>, les découper en morceaux. faire cuire 15 min avec 100 g de <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>1/2 citron 1/2 verre</ingredient> d’ <ingredient quantite=1>eau</ingredient>. <operation temps=6.86min espace=8>laisser bien refroidir</operation>, mettre au <recipient>réfrigérateur</recipient>, puis mettre dans la <recipient>sorbetière</recipient> pour 30 min. vous pouvez déguster tel que ou mettre au <recipient>congélateur</recipient> pour <operation temps=6.86min espace=8>faire prendre en glace</operation>. il faut une <recipient>sorbetière</recipient>.
+]]>
+ </preparation>
+</recette>

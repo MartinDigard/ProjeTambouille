@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60145">
+ <titre>Crème bulgare pomme noisette</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 pommes</p>
+ <p>4 yaourts nature</p>
+ <p>le jus d’ 1 citron</p>
+ <p>100 g de noisettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=6>pommes</ingredient>, puis les râper. mélanger avec les <ingredient quantite=4>yaourts</ingredient>, le <ingredient quantite=1>jus</ingredient> du <ingredient quantite=1>citron</ingredient> et les <ingredient quantite=1>noisettes</ingredient>. mettre au <recipient>réfrigérateur</recipient> pendant environ 15 à 20 minutes. c’ est prêt.
+]]>
+ </preparation>
+</recette>

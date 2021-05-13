@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69531">
+ <titre>Tiramisu aux fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 œufs</p>
+ <p>150 g de sucre + 100 g pour les fruits</p>
+ <p>250 g de mascarpone</p>
+ <p>10 cl de marsala </p>
+ <p>36 biscuits à la cuillère (ou +, suivant le plat utilisé) </p>
+ <p>60 cl de café froid (= ou - en fonction du nombre de biscuits) </p>
+ <p>300 gr de fruits rouges surgelés</p>
+ <p>1 cuillère à soupe de cacao non sucré</p>
+ <p>15 cl de jus de fruits rouges (ex: framboise, fraise...) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>séparez les jaunes d’ <ingredient quantite=3>œufs</ingredient> des blancs</operation>. <operation temps=6.86min espace=13>battez les jaunes avec le <ingredient quantite=1>sucre</ingredient> (150 g) jusqu’ à ce que le mélange blanchisse</operation>. <operation temps=6.86min espace=13>ajoutez alors le <ingredient quantite=1>mascarpone</ingredient> et le <ingredient quantite=1>marsala</ingredient></operation>. <operation temps=6.86min espace=13>battez les blancs en neige,</operation> puis <operation temps=6.86min espace=13>incorporez les <ingredient quantite=1>à</ingredient> la préparation</operation>. <operation temps=6.86min espace=13>versez les <ingredient quantite=1>fruits</ingredient> dans un récipient creux</operation>. <operation temps=6.86min espace=13>ajoutez - y 100 g de <ingredient quantite=1>sucre</ingredient> et du <ingredient quantite=1>jus</ingredient> jusqu’ à ce que le mélange soit ni trop liquide (il se</operation> formerait du <ingredient quantite=1>jus</ingredient> dans le <recipient>plat</recipient>), ni trop pâteux. l’ idéal étant d’ <operation temps=6.86min espace=13>obtenir une couche de <ingredient quantite=1>fruits</ingredient> dans le tiramisu</operation>. trempez les biscuits dans le café refroidi. disposez - les au fond d’ un <recipient>moule</recipient> de 5 cm de haut environ. nappez - les d’ une couche de mélange au <ingredient quantite=1>mascarpone</ingredient>. <operation temps=6.86min espace=13>versez la moitié des <ingredient quantite=1>fruits</ingredient></operation>. <operation temps=6.86min espace=13>rangez une nouvelle couche de biscuits</operation> trempés dans le café puis <operation temps=6.86min espace=13>versez l’ autre moitié des <ingredient quantite=1>fruits</ingredient></operation>. terminez en étalant le reste de mélange au <ingredient quantite=1>mascarpone</ingredient>. placez le tiramisu au <recipient>réfrigérateur</recipient> pendant 2h au moins. avant de <operation temps=2.0min espace=13>servir</operation>, saupoudrez le dessus avec du <ingredient quantite=1>cacao non sucré</ingredient>.
+]]>
+ </preparation>
+</recette>

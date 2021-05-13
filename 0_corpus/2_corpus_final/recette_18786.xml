@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18786">
+ <titre>Poulet exotique</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet (ou crevettes + blancs de calmars) </p>
+ <p>1 oignon en tranches</p>
+ <p>1 poivron rouge en lamelles</p>
+ <p>3 carottes en lamelles</p>
+ <p>farine de manioc</p>
+ <p>1 boîte de tomates pelées en dés</p>
+ <p>1 boîte de lait de coco</p>
+ <p>1 grosse poignée de raisins secs trempés dans de l’ eau tiède</p>
+ <p>poudre d’ amande</p>
+ <p>sauce soja</p>
+ <p>gingembre frais en lamelles (1 cuillère à soupe) </p>
+ <p>curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1- mariner les blancs de <ingredient quantite=4>poulet</ingredient> coupés en morceaux avec le <ingredient quantite=1>manioc</ingredient>. 2- <operation temps=6.86min espace=12>faire revenir <ingredient quantite=1>oignons</ingredient>, gingembre, <ingredient quantite=1>poivron</ingredient> et <ingredient quantite=3>carottes</ingredient></operation>. réserver. 3- <operation temps=6.86min espace=12>faire revenir la viande avec le <ingredient quantite=1>curry</ingredient></operation>. 4- ajouter les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>lait de coco</ingredient>. bien remuer et ajouter les <ingredient quantite=1>raisins secs</ingredient> égouttés. ajouter les légumes. 5- assaisonner à nouveau avec <ingredient quantite=1>curry</ingredient>, sauce <ingredient quantite=1>soja</ingredient>. 6- <operation temps=6.86min espace=12>laisser mijoter à feu moyen en</operation> remuant de temps en temps. 7- au moment de <operation temps=2.0min espace=12>servir</operation>, saupoudrer de <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>. <operation temps=3.0min espace=12>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

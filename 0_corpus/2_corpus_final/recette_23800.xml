@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23800">
+ <titre>Crèpes aux blettes et leurs tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de blettes dont on ne garde que les feuilles</p>
+ <p>150 g de petit salé émincé ou de lardons fins</p>
+ <p>3 oeufs</p>
+ <p>150 g de farine</p>
+ <p>1/4 de litre de lait</p>
+ <p>un peu d’ huile</p>
+ <p>sel, poivre, ciboulette et persil</p>
+ <p>Pour les tomates: </p>
+ <p>400 g de tomates (vriété à votre convenance) </p>
+ <p>1 gousse d’ ail écrasée</p>
+ <p>huile, vinaigre, persil, ciboulette et aromate liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la pâte à crèpes en mélangeant la farine, les <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>lait</ingredient>, une pincée de <ingredient quantite=1>sel</ingredient> et de poivre. <operation temps=6.86min espace=13>faire blanchir les <ingredient quantite=1>feuilles</ingredient> de <ingredient quantite=1>blettes</ingredient></operation> coupées en lamelles 10 mn à l’ eau bouillante salée. <operation temps=6.86min espace=13>faire revenir les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient></operation>. incorporer blettes, <ingredient quantite=1>lardons</ingredient>, <ingredient quantite=1>persil et ciboulette</ingredient> dans la pâte à crèpe et <operation temps=6.86min espace=13>faire vos crèpes</operation>. préparer les <ingredient quantite=1>tomates</ingredient>: les couper en 2 (<ingredient quantite=1>tomates</ingredient> cerises) ou en rondelles (grosses <ingredient quantite=1>tomates</ingredient>). mélanger tous les ingrédients de la vinaigrette dans un <recipient>saladier</recipient> et y plonger les <ingredient quantite=1>tomates</ingredient>. <operation temps=6.86min espace=13>servir les <ingredient quantite=1>tomates</ingredient> sur les crèpes chaudes</operation>. utiliser une crèpière - party pour 6, c’ est plus sympa.
+]]>
+ </preparation>
+</recette>

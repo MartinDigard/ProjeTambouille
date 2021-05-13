@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23522">
+ <titre>Bouillabaisse comme à Marseille</titre>
+ <type>Plat principal</type>
+ <niveau>Difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>Pour les poissons écaillés mais non vidés: </p>
+ <p>600 g de lotte</p>
+ <p>600 g de rascasse</p>
+ <p>600 g de congre</p>
+ <p>600 g de Saint-Pierre</p>
+ <p>600 g de vive</p>
+ <p>600 g de grondin rouge</p>
+ <p>600 g de cigales de mer ou de langoustines</p>
+ <p>Pour les légumes: </p>
+ <p>10 belles tomates mûres</p>
+ <p>8 oignons moyens</p>
+ <p>2 gros poireaux</p>
+ <p>2 bulbes de fenouil</p>
+ <p>2 grosses têtes d’ ail</p>
+ <p>10 brins de persil simple</p>
+ <p>1 à 2 cuillères à café de safran en filaments</p>
+ <p>8 brins de thym</p>
+ <p>1/2 feuille de laurier</p>
+ <p>25 cl d’ huile d’ olive</p>
+ <p>3/4 de cuillerée à soupe de gros sel</p>
+ <p>15 grains de poivre noir</p>
+ <p>1/4 de la peau d’ une orange séchée</p>
+ <p>Pour la rouille: </p>
+ <p>8 gousses d’ ail</p>
+ <p>2 petits piments rouges</p>
+ <p>25 cl de lait</p>
+ <p>20 cl d’ huile d’ olive</p>
+ <p>1 tranche de pain de mie</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer les <ingredient quantite=1>légumes</ingredient>: peler, épépiner et concasser les <ingredient quantite=1>tomates</ingredient>. hacher les <ingredient quantite=1>oignons</ingredient>, écraser l’ <ingredient quantite=2>ail</ingredient>. emincer les blancs de <ingredient quantite=2>poireaux</ingredient>. mettre tous ces <ingredient quantite=1>légumes</ingredient> dans une grande <recipient>marmite</recipient>. <ingredient quantite=1>vider les poissons</ingredient>, réserver les foies que l’ on hachera. couper les <ingredient quantite=2>têtes</ingredient> et les queues, couper les pattes des <ingredient quantite=1>cigales de mer</ingredient>. ajouter les déchets des <ingredient quantite=1>poissons</ingredient> (<ingredient quantite=2>têtes</ingredient> et queues) et les <ingredient quantite=1>cigales</ingredient> dans la <recipient>marmite</recipient>, ajouter 25 cl d’ huile d’ <ingredient quantite=1>olive</ingredient>. mettre également le <ingredient quantite=2>fenouil</ingredient>, le <ingredient quantite=1>laurier</ingredient>, le <ingredient quantite=1>persil</ingredient>, les <ingredient quantite=1>poivre</ingredient> en <ingredient quantite=1>grains</ingredient> et la <ingredient quantite=1>peau</ingredient> d’ <ingredient quantite=1>orange séchée</ingredient>. <operation temps=0.25min espace=32>couvrir</operation> et <operation temps=15.0min espace=32>faire cuire 15 min à feu <ingredient quantite=1>moyen</ingredient> en</operation> remuant de temps en temps. <operation temps=6.86min espace=32>faire bouillir 5 l d’ eau à part</operation>. mettre la <recipient>marmite</recipient> de <ingredient quantite=1>légumes</ingredient> à <ingredient quantite=1>vif</ingredient> et y verser l’ eau bouillante. saler, porter à ébullition et baisser le feu. <operation temps=20.0min espace=32>laisser mijoter 20 min</operation>. au bout de ce temps, écumer passer la <ingredient quantite=1>soupe</ingredient> au <recipient>chinois</recipient> en écrasant bien les <ingredient quantite=1>légumes</ingredient> et morceaux de <ingredient quantite=1>poisson</ingredient>. rajouter le <ingredient quantite=1>safran</ingredient>. couper les <ingredient quantite=1>poissons</ingredient> en tronçons égaux, ou couper les plus <ingredient quantite=2>gros</ingredient> en 2 ou 3.les <operation temps=3.0min espace=32>faire cuire successivement dans la préparation précédente portée à ébullition sur feu <ingredient quantite=1>vif</ingredient>: le <ingredient quantite=1>congre</ingredient> cuit environ 10 min, le <ingredient quantite=1>saint-pierre</ingredient> 6 min, la <ingredient quantite=1>lotte</ingredient> 4 min, la rascasse 4 min, le <ingredient quantite=1>grondin</ingredient> 3 min et la vive 3 min</operation>. les <ingredient quantite=1>poissons</ingredient> ne doivent pas être complètement cuits, mais juste à point. les <operation temps=6.86min espace=32>sortir du bouillon</operation> et réserver dès qu’ ils sont cuits. préparer la <ingredient quantite=1>rouille</ingredient>: <operation temps=6.86min espace=32>faire tremper le <ingredient quantite=1>pain</ingredient> dans le lait</operation>. eplucher, dégermer et piler l’ <ingredient quantite=2>ail</ingredient> avec les <ingredient quantite=1>piments rouges</ingredient> épépinés. rajouter la <ingredient quantite=1>mie de pain</ingredient> trempée et essorée puis l’ <ingredient quantite=1>huile</ingredient>, sans cesser de piler. saler, poivrer et délayer avec 1 <ingredient quantite=1>cuillère</ingredient> à <ingredient quantite=1>soupe</ingredient> de bouillon. pour <operation temps=6.86min espace=32>servir la bouillabaisse: lier le bouillon avec les foies hachés des <ingredient quantite=1>poissons</ingredient> en</operation> fouettant bien. servir le bouillon lié dans les assiettes, et <operation temps=6.86min espace=32>répartir les morceaux de <ingredient quantite=1>poissons</ingredient></operation>. accompagner de <ingredient quantite=1>tranches de pain</ingredient> de campagne frottées à l’ <ingredient quantite=2>ail</ingredient> et à l’ huile et grillées, et de la <ingredient quantite=1>rouille</ingredient>. vous pouvez changer les <ingredient quantite=1>poissons</ingredient> selon vos goûts, la bouillabaisse se <operation temps=6.86min espace=32>faisait traditionnellement avec la pêche du jour,</operation> et ajouter 1/2 verre de <operation temps=6.86min espace=32>pastis dans la bouillabaisse pour</operation> accentuer le goût anisé. vous pouvez également ajouter 1 pomme de terre par personne.
+]]>
+ </preparation>
+</recette>

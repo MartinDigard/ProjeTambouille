@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25449">
+ <titre>Chausson au potiron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte brisée: </p>
+ <p>300 g de farine</p>
+ <p>150 g de beurre</p>
+ <p>1 pincée de sel</p>
+ <p>15 cl d’ eau</p>
+ <p>Pour la garniture: </p>
+ <p>1 kg de potiron</p>
+ <p>3 gousses d’ ail</p>
+ <p>15 cl de crème fraîche</p>
+ <p>1/2 botte de persil haché</p>
+ <p>1 jaune d’ oeuf pour dorer</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille, <operation temps=3.0min espace=14>pelez</operation> et <operation temps=6.86min espace=14>coupez le <ingredient quantite=1>potiron</ingredient> en gros dés</operation>. <operation temps=1.0min espace=14>mettez</operation> - les sur une grille au-dessus d’ un grand <recipient>plat</recipient> et <operation temps=6.86min espace=14>saupoudrez de <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=14>laissez reposer ainsi toute la nuit pour que le <ingredient quantite=1>potiron</ingredient> rende son jus</operation>. préparez la <ingredient quantite=1>pâte brisée</ingredient>: <operation temps=6.86min espace=14>travaillez le beurre et la farine du bout des doigts</operation>, <operation temps=0.25min espace=14>salez</operation> et <operation temps=6.86min espace=14>ajoutez l’ <ingredient quantite=1>eau</ingredient> peu à peu</operation>. <operation temps=6.86min espace=14>amalgamez le tout</operation> et <operation temps=6.86min espace=14>formez une boule</operation>. <operation temps=6.86min espace=14>laissez reposer au moins 1h au frais</operation>. <operation temps=6.86min espace=14>etalez la <ingredient quantite=1>pâte</ingredient> en un grand rectangle</operation>. posez - le sur une plaque à pâtisserie recouverte de papier sulfurisé. répartissez les cubes de <ingredient quantite=1>potiron</ingredient> sur la moitié, <operation temps=0.25min espace=14>salez</operation>, <operation temps=6.86min espace=14>poivrez et parsemez de <ingredient quantite=1>persil</ingredient> et d’ <ingredient quantite=3>ail</ingredient> hachés</operation>. humidifiez les bords, <operation temps=6.86min espace=14>repliez pour formez le chausson et pincez les bords pour les</operation> souder. badigeonnez de <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> délayé dans un peu d’ <ingredient quantite=1>eau</ingredient>. <operation temps=6.86min espace=14>faites une cheminée au centre du chausson</operation> (<operation temps=6.86min espace=14>maintenez le trou avec un tube en carton ou un canneloni), et enfournez à mi-hauteur, dans le <recipient>four</recipient> préchauffé à 250 ° c (thermostat 8 - 9</operation>). <operation temps=10.0min espace=14>baissez la température à 180 ° c (thermostat 6) au bout de 10 min</operation> et <operation temps=6.86min espace=14>lalissez</operation> cuire 35 min. <operation temps=6.86min espace=14>versez la <ingredient quantite=1>crème</ingredient> dans le chausson par la cheminée</operation>, <operation temps=5.0min espace=14>laissez cuire encore 5 min</operation> et <operation temps=2.0min espace=14>servez bien chaud</operation>. on peut <operation temps=6.86min espace=14>faire une <ingredient quantite=1>pâte</ingredient></operation> brisée à l’ huile: avec les même proportions de farine, <operation temps=6.86min espace=14>ajoutez 20 cl d’ huile et 10 cl d’ <ingredient quantite=1>eau</ingredient> chaude</operation> et mélanger très rapidement pour former une boule. ce chausson fait un repas complet avec une salade composée aux lardons, tomates et fromage.
+]]>
+ </preparation>
+</recette>

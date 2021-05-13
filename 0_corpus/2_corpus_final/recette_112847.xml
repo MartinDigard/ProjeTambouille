@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112847">
+ <titre>Fondant au chocolat, ou plutôt, fondant au toblerone</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 œuf</p>
+ <p>25 g de sucre </p>
+ <p>20 g de farine</p>
+ <p>25 g de beurre </p>
+ <p>50 g de toblerone</p>
+ <p>20 g de chocolat noir 70% </p>
+ <p>10 g de beurre pour beurrer les ramequins</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre l’ <ingredient quantite=1>œuf</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange devienne onctueux. ajouter la farine et continuer à battre. faire fondre le <ingredient quantite=1>toblerone</ingredient> et le <ingredient quantite=1>chocolat noir 70</ingredient> % au <recipient>bain marie</recipient>, ajouter le beurre et remuer doucement jusqu’ à ce que le mélange devienne homogène. préchauffer le <recipient>four</recipient> à 200 ° c. verser le <ingredient quantite=1>chocolat</ingredient> dans le mélange <ingredient quantite=1>œuf</ingredient> - <ingredient quantite=1>sucre</ingredient> - <ingredient quantite=1>farine</ingredient> et mélanger jusqu’ à ce que le mélange soit homogène. <ingredient quantite=1>beurrer</ingredient> des <ingredient quantite=1>ramequins</ingredient> et y verser cette pâte. <operation temps=10.0min espace=10>faire cuire 10 minutes</operation>. démouler dès la sortie du <recipient>four</recipient>. et on peut accompagner d’ une crème anglaise
+]]>
+ </preparation>
+</recette>

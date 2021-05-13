@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221118">
+ <titre>Riz au lait saveur mangue/orange</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>120 g de riz rond ou riz de votre choix</p>
+ <p>quelques morceaux de mangue séchée</p>
+ <p>1 orange</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>2 jaunes d’ œufs</p>
+ <p>50 cl de lait de riz</p>
+ <p>2 gouttes d’ huile essentielle d’ orange douce</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=7>précuisez le <ingredient quantite=1>riz</ingredient> à l’ eau 20 min</operation>. <operation temps=6.86min espace=7>mélangez les 2 <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>œufs</ingredient> avec le <ingredient quantite=3>sucre</ingredient> pour</operation> <operation temps=6.86min espace=7>faire blanchir</operation>. mettez le lait de <ingredient quantite=1>riz</ingredient> à chauffer à feu doux avec les <ingredient quantite=1>morceaux de mangue séchée</ingredient> et le zeste de l’ <ingredient quantite=1>orange</ingredient>. <operation temps=6.86min espace=7>ajoutez le <ingredient quantite=1>riz</ingredient> précuit au lait de</operation> <ingredient quantite=1>riz</ingredient> et terminer la cuisson jusqu’ à ce que le <ingredient quantite=1>riz</ingredient> ait absorbé une bonne part du lait. hors du feu, ajoutez à la préparation le mélange <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=2>œufs</ingredient> et sucre et l’ <ingredient quantite=2>huile essentielle</ingredient> d’ <ingredient quantite=1>orange douce</ingredient>. <operation temps=8.0min espace=7>mélangez bien</operation> et <operation temps=6.86min espace=7>laissez encore quelques minutes sur le feu doux, la préparation</operation> doit rester onctueuse. <operation temps=6.86min espace=7>disposez dans 4 ramequins ou coupes à dessert</operation> et <operation temps=20.0min espace=7>laisser refroidir</operation>, <operation temps=6.86min espace=7>servir bien frais</operation>!
+]]>
+ </preparation>
+</recette>

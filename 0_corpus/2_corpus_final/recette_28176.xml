@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28176">
+ <titre>Boeuf haché au curry simple</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de viande hachée</p>
+ <p>1 oignon haché</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>1 boîte de tomates</p>
+ <p>gingembre (facultatif) </p>
+ <p>curry</p>
+ <p>persil</p>
+ <p>pignons de pins (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire chauffer 1 cuillère à soupe d’</operation> huile dans une <recipient>poêle</recipient> et <operation temps=6.86min espace=10>faire fondre l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=2>ail</ingredient></operation>. ajouter le boeuf <ingredient quantite=1>haché</ingredient> et <operation temps=6.86min espace=10>faire cuire,</operation> puis ajouter les <ingredient quantite=1>pignons</ingredient> si desiré, ensuite le <ingredient quantite=1>curry</ingredient> et deux pincées de gingembre, sel, poivre et <ingredient quantite=1>tomates</ingredient> pelées avec leur jus. porter à ébullition, puis réduire le feu et <operation temps=5.0min espace=10>laisser mijoter jusqu’ à ce que le mélange épaississe légèrement, environ 5 mn</operation>. juste avant de <operation temps=2.0min espace=10>servir</operation>, ajouter le <ingredient quantite=1>persil haché</ingredient> (facultatif). <operation temps=6.86min espace=10>servir avec du riz ou des carrés de pommes de terre</operation>. on peut en plus proposer à côté de ce <recipient>plat</recipient> des raisins secs, noix de cajou, noix de coco.
+]]>
+ </preparation>
+</recette>

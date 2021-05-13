@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10539">
+ <titre>Tarte aux oignons et carré frais</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>2 oeufs</p>
+ <p>5 gros oignons</p>
+ <p>2 cuillers à café de miel</p>
+ <p>sel, poivre</p>
+ <p>3 carrés frais</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient>plat</recipient> à tarte et la <operation temps=20.0min espace=11>faire cuire à blanc (avec des haricots éventuellement) pendant 20 minutes à 200 ° c</operation>. emincer les <ingredient quantite=5>oignons</ingredient>. mettre l’ huile à chauffer dans une <recipient>sauteuse</recipient> puis <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=5>oignons</ingredient></operation>. ajouter un peu de <ingredient quantite=2>miel</ingredient>, saler, poivrer puis <operation temps=0.25min espace=11>couvrir</operation>. <operation temps=6.86min espace=11>laisser mijopter à feu doux</operation>. attention, les <ingredient quantite=5>oignons</ingredient> ne doivent pas <operation temps=6.86min espace=11>noircir</operation>. mélanger dans un <recipient>saladier</recipient> la <ingredient quantite=1>crème fraîche</ingredient>, les <ingredient quantite=3>carrés frais</ingredient>, et les <ingredient quantite=2>oeufs</ingredient>. ajouter <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. ensuite, <operation temps=6.86min espace=11>garnir la <ingredient quantite=1>pâte</ingredient> avec les</operation> <ingredient quantite=5>oignons</ingredient> puis verser le mélange à base <ingredient quantite=1>crème</ingredient>. passer au <recipient>four</recipient> à 200 ° c pendant 30 minutes.
+]]>
+ </preparation>
+</recette>

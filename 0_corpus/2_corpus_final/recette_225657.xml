@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225657">
+ <titre>Lasagnes poulet et poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de pâtes à lasagnes</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>2 oignons</p>
+ <p>4 blancs de poulet</p>
+ <p>1 petite boite de concentré de tomate</p>
+ <p>1 verre d’ eau </p>
+ <p>1 cuillère à café de curry (facultatif) </p>
+ <p>150 g de gruyère râpé</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les blancs de <ingredient quantite=4>poulet</ingredient> en dés et les <operation temps=6.86min espace=16>faire revenir dans une <recipient>poêle</recipient> huilée</operation>. emincer les <ingredient quantite=2>oignons</ingredient>, couper les <ingredient quantite=1>poivrons</ingredient> en dés et <operation temps=6.86min espace=16>faire revenir le tout dans une <recipient>sauteuse</recipient> sans les</operation> <operation temps=6.86min espace=16>faire colorer</operation>. mélanger le <ingredient quantite=4>poulet</ingredient> et les légumes, ajouter le <ingredient quantite=1>concentré de tomates</ingredient>, le <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>eau</ingredient> et les épices. beurrer un <recipient>plat</recipient> allant au <recipient>four</recipient> y disposer des plaques à <ingredient quantite=1>lasagne</ingredient>. <operation temps=6.86min espace=16>recouvrir avec la préparation</operation> <ingredient quantite=4>poulet</ingredient> et <ingredient quantite=1>poivrons</ingredient>, recommencer l’ opération en terminant par une couche des plaques à <ingredient quantite=1>lasagne</ingredient> et recouvrir de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=30.0min espace=16>faire cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant environ 30 minutes</operation>. un vin rosé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95416">
+ <titre>Mélange de légumes façon tagine! </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes de terre</p>
+ <p>1 carotte</p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>Ajoutez ou retirez des légumes selon vos goûts et vos réserves dans le frigo! </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>prenez tous les <ingredient quantite=1>légumes</ingredient> que vous</operation> souhaitez utiliser, comme des <ingredient quantite=4>pommes de terre</ingredient>, des <ingredient quantite=1>courgettes</ingredient>, des <ingredient quantite=1>aubergines</ingredient>, des <ingredient quantite=1>carottes</ingredient>,... epluchez tous les <ingredient quantite=1>légumes</ingredient> qu’ il faut (<ingredient quantite=4>pommes de terre</ingredient>, <ingredient quantite=1>carottes</ingredient>,...). <operation temps=6.86min espace=7>coupez - les grossièrement en cube</operation>. faîtes chauffer de l’ huile dans un <recipient>wok</recipient>. dès que celle-ci est chaude, <operation temps=6.86min espace=7>mettez les <ingredient quantite=1>légumes</ingredient> du plus</operation> consistant au moins consistant. par exemple, les <ingredient quantite=4>pommes de terre</ingredient> seront les plus en dessous, <operation temps=6.86min espace=7>suivis en</operation> remontant des <ingredient quantite=1>carottes</ingredient>, puis des <ingredient quantite=1>aubergines</ingredient> et des <ingredient quantite=1>courgettes</ingredient>. <operation temps=6.86min espace=7>mettez de l’ oignon (environ 1/2</operation>) découpé en petites lamelles par dessus le tout. <operation temps=6.86min espace=7>versez 2 verres d’ eau</operation> plein dans le <recipient>wok</recipient> par dessus les <ingredient quantite=1>légumes</ingredient>. <operation temps=6.86min espace=7>mettez le couvercle</operation> et <operation temps=6.86min espace=7>laissez couire pendant environ une demi-heure</operation>. pendant ce temps, vous pouvez <operation temps=6.86min espace=7>faire cuire de la semoule pour</operation> accompagner, cela se marie très bien! dès que c’ est cuit, vous pouvez <ingredient quantite=1>ajouter</ingredient> des herbes selon <ingredient quantite=1>vos goûts</ingredient>, par exemple, des herbes de provence. c’ est prêt!
+]]>
+ </preparation>
+</recette>

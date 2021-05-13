@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29500">
+ <titre>Cuisses de grenouilles à la coriandre fraîche</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 douzaines de cuisses de grenouilles</p>
+ <p>50 g de beurre</p>
+ <p>50 g de farine</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 citron</p>
+ <p>1/2 bouquet de coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+essuyez les <ingredient quantite=2>cuisses de grenouille</ingredient>, passez - les dans la farine puis <operation temps=6.86min espace=7>faites - les dorer dans le beurre chaud</operation>. <operation temps=6.86min espace=7>ajoutez l’ <ingredient quantite=2>ail</ingredient></operation> haché, du sel et du poivre. les <ingredient quantite=2>cuisses</ingredient> sont cuites lorsqu’ elles sont blondes et que les <ingredient quantite=2>cuisses</ingredient> se rétractent. déposez - les dans un <recipient>plat</recipient> préchauffé, <operation temps=6.86min espace=7>saupoudrez de <ingredient quantite=1>coriandre</ingredient> et accompagnez de quartiers de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=2.0min espace=7>servez bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

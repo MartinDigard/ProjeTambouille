@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68616">
+ <titre>Gâteau micro-ondes aux marrons et aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de crème de marron</p>
+ <p>100 g d’ amandes en poudre</p>
+ <p>100 g de beurre fondu</p>
+ <p>100 g de sucre en poudre</p>
+ <p>70 g de farine</p>
+ <p>20 cl crème fraîche</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans le mixer, battre les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> pour les blanchir. ajouter ensuite les ingrédients un à un en mixant. beurrer un <recipient>plat</recipient> pour le micro-ondes, y verser la préparation. <operation temps=14.0min espace=8>faire cuire au micro-ondes pendant 14 minutes</operation>. démouler et <operation temps=20.0min espace=8>laisser refroidir</operation>. accompagner d’ une <ingredient quantite=1>crème</ingredient> anglaise.
+]]>
+ </preparation>
+</recette>

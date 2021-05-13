@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230173">
+ <titre>Soupe façon Chinoise vegan</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cube de bouillon</p>
+ <p>1 carotte</p>
+ <p>1/2 oignon</p>
+ <p>1 échalote</p>
+ <p>50 g de vermicelles de soja</p>
+ <p>12 champignons noirs (environ) </p>
+ <p>1 filet de sauce soja</p>
+ <p>1 filet d’ huile de sésame (facultative) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire bouillir une <recipient>casserole</recipient> d’ eau avec un <ingredient quantite=1>cube de bouillon</ingredient>. y ajouter les <ingredient quantite=1>champignons noirs</ingredient>. couper l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et la <ingredient quantite=1>carotte</ingredient>. les ajouter dans la <recipient>casserole</recipient>. <operation temps=6.86min espace=10>laisser cuire environ une dizaine de minutes le tout</operation> puis ajouter les <ingredient quantite=1>vermicelles</ingredient> de <ingredient quantite=1>soja</ingredient>, une cuillère à soupe de <ingredient quantite=1>sauce soja</ingredient> et une cuillère à soupe d’ <ingredient quantite=1>huile de sésame</ingredient>. <operation temps=10.0min espace=10>laisser mijoter 5 à 10 min de plus</operation>. <operation temps=6.86min espace=10>servir dans des bols ou assiettes creuses</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

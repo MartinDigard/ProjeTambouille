@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13643">
+ <titre>Mousse au chocolat à la Chartreuse</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de chocolat noir à plus de 70 % de cacao</p>
+ <p>7-8 œufs</p>
+ <p>chartreuse verte</p>
+ <p>1 cuillère à soupe de café non sucré </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain marie</recipient></operation>. ajoutez une <ingredient quantite=1>cuillère</ingredient> de <ingredient quantite=1>chartreuse verte</ingredient> et le <ingredient quantite=1>café</ingredient> dans la <recipient>casserole</recipient> de <ingredient quantite=1>chocolat</ingredient>. <operation temps=6.86min espace=8>séparez les jaunes des blancs</operation>. <operation temps=6.86min espace=8>mélangez les jaunes d’ oeufs au <ingredient quantite=1>chocolat</ingredient></operation>. <operation temps=6.86min espace=8>ajoutez une pincée de <ingredient quantite=1>sel</ingredient> et deux <ingredient quantite=1>cuillères</ingredient> d’ eau fraîche aux blancs d’ oeufs et montez - les en neige</operation>. <operation temps=4.0min espace=8>incorporez</operation> délicatement le <ingredient quantite=1>chocolat</ingredient> aux oeufs en neige. <operation temps=6.86min espace=8>remplissez des ramequins ou un <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=8>gardez au frais jusqu’ à dégustation</operation>. attention, ce dessert est reserve aux amateurs de <ingredient quantite=1>chocolat</ingredient> très fort en <ingredient quantite=1>cacao</ingredient>. vous pouvez remplacer la <ingredient quantite=1>chartreuse verte</ingredient> par du zest d’ orange selon les goûts. (ca devient alors de la mousse au <ingredient quantite=1>chocolat</ingredient> et orange.
+]]>
+ </preparation>
+</recette>

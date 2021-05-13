@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94064">
+ <titre>Gratin de pommes de terre à la viande hâchée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>-1kg de pommes de terre</p>
+ <p>-500g de viande hachée</p>
+ <p>-100g de parmesan râpé</p>
+ <p>-3 oignons</p>
+ <p>-25g de persil</p>
+ <p>-1/4L de lait</p>
+ <p>-1 cuillère à café de sel, de poivre et de piment doux</p>
+ <p>-1/2 verre d’ huile d’ olive</p>
+ <p>-1 noisette de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> en rondelles dans une <recipient>casserole</recipient> avec de l’ eau bouillante. faire cuire la <ingredient quantite=1>viande hachée</ingredient> dans une autre <recipient>casserole</recipient> avec le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=1>piment doux</ingredient>, les <ingredient quantite=1>oignons</ingredient> coupés en dés, l’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=1>persil</ingredient>. beurrer un <recipient>plat</recipient> à gratin. disposer la moitié de la quantité des <ingredient quantite=1>pommes de terre</ingredient> dans le <recipient>plat</recipient>. verser le <ingredient quantite=1>lait</ingredient> sur la première couche de <ingredient quantite=1>pommes de terre</ingredient>. verser ensuite la <ingredient quantite=1>viande hachée</ingredient> (toute la quantité de la <ingredient quantite=1>viande hachée</ingredient>), puis verser la deuxième et dernière couche de <ingredient quantite=1>pommes de terre</ingredient> par - dessus. rajouter ensuite le <ingredient quantite=1>parmesan râpé</ingredient> et mettre au <recipient>four</recipient>. cuisson: environ 35 min
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42699">
+ <titre>Moules à l’ andouille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 gros oignons</p>
+ <p>1 kg de moules</p>
+ <p>6 tranches d’ andouille</p>
+ <p>3 verres de vin blanc gros plan du pays nantais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez et rincez les <ingredient quantite=1>moules</ingredient>. <operation temps=6.86min espace=5>faites revenir les <ingredient quantite=2>oignons</ingredient></operation> hachés avec un peu d’ huile dans une <recipient>marmite</recipient>. rajoutez l’ <ingredient quantite=6>andouille</ingredient>, les <ingredient quantite=1>moules</ingredient> et le <ingredient quantite=3>vin blanc</ingredient>. <operation temps=6.86min espace=5>laissez cuire quelques minutes</operation> et <operation temps=2.0min espace=5>servez</operation>. vielle recette bretonne qui se transmet de génération en génération. idéale pour un repas convivial surtout si on l’ accompagne de <ingredient quantite=2>grosse tranches</ingredient> de pain beurré. <ingredient quantite=2>gros plan du pays nantais</ingredient>
+]]>
+ </preparation>
+</recette>

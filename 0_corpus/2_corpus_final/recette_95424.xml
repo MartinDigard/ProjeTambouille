@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95424">
+ <titre>Ravioles du Valgaudemar (Hautes Alpes) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pomme de terre à purée</p>
+ <p>50 de beurre ramolli </p>
+ <p>20 cl de crème épaisse</p>
+ <p>2 oeufs</p>
+ <p>3 St Marcellin ou une tomme fraîche. </p>
+ <p>Farine </p>
+ <p>huile pour la friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> dans de l’ eau un peu salée. les égoutter puis les réduire en <ingredient quantite=1>purée</ingredient>. <operation temps=20.0min espace=9>laisser refroidir</operation>. dans un <recipient>saladier</recipient>, mettre la <ingredient quantite=1>purée</ingredient> refroidie, le <ingredient quantite=1>beurre ramolli</ingredient>, la <ingredient quantite=1>crème</ingredient> fraîche, le fromage en petits bouts, les œufs. travailler le tout à la spatule. ajouter un peu de farine pour donner un peu plus de consistance (la pâte ne doit pas coller aux doigts). travailler la pâte à la main comme une pâte à pain. former des " petites quenelles ", bien roulées dans la farine. <operation temps=6.86min espace=9>faire frire les ravioles (elles sont</operation> cuites quand elles sont bien dorées, l’ intérieur restant moelleux). déposer dans un <recipient>plat</recipient> sur papier absorbant, saler, et servir de suite.
+]]>
+ </preparation>
+</recette>

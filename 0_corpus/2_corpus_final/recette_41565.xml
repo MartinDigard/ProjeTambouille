@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41565">
+ <titre>Crumble express figues et miel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>9 figues fraîches (des noires de préférence), 2 par personne + 1 pour le plat</p>
+ <p>1 belle cuillère à soupe de miel </p>
+ <p>150 g de farine</p>
+ <p>75 g de beurre</p>
+ <p>100 g de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> à 200 ° c (therm.6 - 7). couper les <ingredient quantite=9>figues</ingredient> en 4, retirer la tige, les étaler dans un <ingredient quantite=1><recipient>plat</recipient></ingredient> (attention votre <ingredient quantite=1><recipient>plat</recipient></ingredient> de cuisson doit pouvoir supporter le micro-ondes), peau en dessous, et <operation temps=3.0min espace=10>répartir</operation> dessus la <ingredient quantite=1>cuillère de miel</ingredient>. <operation temps=3.0min espace=10>faire cuire 3 min au micro-ondes</operation>. mélanger la <ingredient quantite=1>cassonade</ingredient> et la farine dans une <recipient>terrine</recipient>, ajouter le beurre en petits morceaux, et malaxer à la main pour former la pâte sablée. <operation temps=3.0min espace=10>répartir</operation> la pâte sablée sur les <ingredient quantite=9>figues</ingredient>, et cuire 10 à 12 min au <recipient>four</recipient>, à 200 ° c (therm.6 - 7).
+]]>
+ </preparation>
+</recette>

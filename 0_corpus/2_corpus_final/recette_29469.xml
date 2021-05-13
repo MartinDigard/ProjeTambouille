@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29469">
+ <titre>Poulet basquaise à l’ armagnac</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet d’ 1, 2 kg environ</p>
+ <p>1 tranche de jambon de Bayonne</p>
+ <p>2 poivrons rouges</p>
+ <p>3 grosses tomates ou 4 petites</p>
+ <p>12 petits oignons blancs</p>
+ <p>8 cl d’ Armagnac</p>
+ <p>50 g de beurre ou 4 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découpez le <ingredient quantite=1>jambon de bayonne</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux. <operation temps=3.0min espace=10>pelez</operation>, <operation temps=6.86min espace=10>épépinez</operation> et <operation temps=6.86min espace=10>découpez les <ingredient quantite=3>tomates</ingredient> en 4</operation>. <operation temps=6.86min espace=10>découpez les <ingredient quantite=2>poivrons</ingredient> en lanières</operation> et <operation temps=6.86min espace=10>épépinez - les</operation>. <operation temps=6.86min espace=10>faites chauffer la matière grasse dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=10>faites - y</operation> revenir le poulet sur toutes ses faces avec le <ingredient quantite=1>jambon</ingredient> et les <ingredient quantite=1>petits oignons</ingredient> pelés. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. une fois le poulet doré, <operation temps=6.86min espace=10>flambez à l’</operation> <ingredient quantite=1>armagnac</ingredient> et <operation temps=6.86min espace=10>rajoutez les <ingredient quantite=2>poivrons</ingredient> et les <ingredient quantite=3>tomates</ingredient></operation>. <operation temps=0.25min espace=10>couvrez</operation> et <operation temps=45.0min espace=10>laissez cuire 45 min à feu moyen</operation>. <operation temps=6.86min espace=10>retirez le poulet</operation> et <operation temps=6.86min espace=10>découpez - le en morceaux</operation>. <operation temps=6.86min espace=10>faites réduire le jus dans la <recipient>cocotte</recipient> quelques minutes</operation> et <operation temps=2.0min espace=10>servez</operation>. accompagnez de gnocchis poêlés ou de polenta pour changer du riz et des pâtes.
+]]>
+ </preparation>
+</recette>

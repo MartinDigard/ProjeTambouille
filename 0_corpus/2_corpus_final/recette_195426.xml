@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195426">
+ <titre>Soupe Panade</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 l de lait</p>
+ <p>50 cl d’ eau</p>
+ <p>1 bonne pincée de noix de muscade moulue</p>
+ <p>sel et poivre</p>
+ <p>300 g de pain rassis</p>
+ <p>6 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le lait, l’ <ingredient quantite=1>eau</ingredient>, la <ingredient quantite=1>muscade</ingredient>, le poivre et le <ingredient quantite=1>sel</ingredient>. mettre le tout à chauffer, pendant ce temps, couper en morceaux le <ingredient quantite=1>pain</ingredient> rassis et l’ ajouter au mélange. une fois le <ingredient quantite=1>pain</ingredient> ramolli et le mélange de tous les ingrédients bien chaud, séparer les jaunes des blancs d’ <ingredient quantite=6>œufs</ingredient> pour ensuite incorporer les blancs dans la soupe. la soupe est prête quand les blancs ont <operation temps=6.86min espace=6>pris</operation>. au moment de <operation temps=2.0min espace=6>servir</operation> ajouter le jaune d’ <ingredient quantite=1>œuf</ingredient> en mélangeant bien. <ingredient quantite=1>bon</ingredient> appétit!!! recette plutôt pour les soirs d’ hiver.
+]]>
+ </preparation>
+</recette>

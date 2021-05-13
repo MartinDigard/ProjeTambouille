@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52690">
+ <titre>Champignon farci à la noix de saint jacques</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gros champignon de Paris à farcir</p>
+ <p>1 girolle</p>
+ <p>1 petite échalote</p>
+ <p>1 noix de saint-jacques</p>
+ <p>1 cuillère à café de persil</p>
+ <p>1 cuillère à soupe de crème liquide</p>
+ <p>sel, poivre, huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 220 ° c (th 7 - 8), à chaleur tournante. nettoyez le <ingredient quantite=1>champignons</ingredient> sous l’ eau, et séchez - le enlevez le pied et creusez légèrement l’ intérieur du <ingredient quantite=1>champignon</ingredient> avec une <ingredient quantite=1>petite cuillère</ingredient>. <operation temps=10.0min espace=10>eduisez d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> l’ intérieur du <ingredient quantite=1>champignon</ingredient> (avec un pinceau) et placez - le au <recipient>four</recipient> 10 min</operation>. <operation temps=6.86min espace=10>mettez le pied et les <ingredient quantite=1>petits</ingredient> morceaux de champigon dans un robot</operation>. ajoutez la girolle, le <ingredient quantite=1>persil</ingredient>, la noix de saint - <ingredient quantite=1>jacques</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> et <operation temps=6.86min espace=10>mixez le tout</operation>. liez le mélange avec la <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=10>assaisonnez à votre goût</operation>. <operation temps=6.86min espace=10>sortez le <ingredient quantite=1>champignon</ingredient> du <recipient>four</recipient></operation> et <operation temps=6.86min espace=10>remplissez - le du mélange</operation>. <operation temps=15.0min espace=10>enfournez pendant environ 15 min</operation>. n’ hésitez pas à poivrer et à saler.
+]]>
+ </preparation>
+</recette>

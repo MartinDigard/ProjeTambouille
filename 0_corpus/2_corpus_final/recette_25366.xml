@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25366">
+ <titre>Côtes de porc panées, sauce au raifort</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 côtes de porc</p>
+ <p>15 cl de bouillon </p>
+ <p>15 cl de vin blanc sec</p>
+ <p>60 g de beurre</p>
+ <p>100 g de raifort râpé</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 tasse de chapelure</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faites fondre 30 g de beurre dans une <recipient>casserole</recipient></operation>, <operation temps=6.86min espace=12>saupoudrez la farine</operation>. remuez et mouillez avec le <ingredient quantite=1>bouillon</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=12>faites épaissir à feu doux en</operation> remuant. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation> et <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>raifort</ingredient></operation>. <operation temps=6.86min espace=12>laissez cuire quelques minutes</operation>. battez l’ <ingredient quantite=1>oeuf</ingredient> avec l’ <ingredient quantite=1>huile</ingredient>. trempez les <ingredient quantite=4>côtes</ingredient> dedans et passez - les dans la <ingredient quantite=1>chapelure</ingredient>. <operation temps=6.86min espace=12>faites - les</operation> cuire à la <recipient>poêle</recipient> avec 30 g de beurre. une fois cuites, <operation temps=6.86min espace=12>servez les <ingredient quantite=4>côtes</ingredient></operation> nappées de sauce au <ingredient quantite=1>raifort</ingredient>.
+]]>
+ </preparation>
+</recette>

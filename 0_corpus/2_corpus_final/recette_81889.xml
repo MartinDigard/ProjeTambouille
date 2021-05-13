@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81889">
+ <titre>Biscuit à la farine de coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de sucre</p>
+ <p>90 g de farine de coco</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). ajouter la farine avec le <ingredient quantite=1>sucre</ingredient>. battre les <ingredient quantite=2>oeufs</ingredient> en neige jusqu’ à ce qu’ ils deviennent fermes et les ajouter délicatement au mélange <ingredient quantite=1>farine</ingredient> / <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=4>faire des petits tas sur un papier à papillote</operation> et enfourner pendant 20 minutes.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80230">
+ <titre>RIZ AU LAIT A L’ ORANGE</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>180 g de riz rond</p>
+ <p>1 L de lait</p>
+ <p>150 g de sucre en poudre</p>
+ <p>1 oeuf</p>
+ <p>1 orange</p>
+ <p>écorces d’ orange confite (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=8>faire cuire le <ingredient quantite=1>riz</ingredient> dans de l’ eau bouillante pendant 3 min</operation>. pendant ce temps, prélever le zeste de l’ <ingredient quantite=1>orange</ingredient> et la presser. egoutter le <ingredient quantite=1>riz</ingredient> et le <operation temps=6.86min espace=8>faire cuire dans une <recipient>casserole</recipient></operation> contenant le <ingredient quantite=1>lait</ingredient>, le jus d’ <ingredient quantite=1>orange</ingredient> et le zeste coupé très finement (environ 45 min). lorsque le <ingredient quantite=1>riz</ingredient> a absorbé tout le <ingredient quantite=1>lait</ingredient>, <operation temps=6.86min espace=8>sortir la <recipient>casserole</recipient> du feu</operation> et ajouter le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> battu et les <ingredient quantite=1>écorces</ingredient> d’ <ingredient quantite=1>orange</ingredient> confites coupées en petits morceaux. bien mélanger et verser dans des ramequins. a consommer bien froid, à la sortie du frigo.
+]]>
+ </preparation>
+</recette>

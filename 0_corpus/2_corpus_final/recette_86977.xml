@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86977">
+ <titre>Pommes de terre aux aromates</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre (calibre grenaille) </p>
+ <p>200 g de carottes</p>
+ <p>3 échalotes</p>
+ <p>1 oignon de Roscoff</p>
+ <p>3 feuilles de laurier</p>
+ <p>thym</p>
+ <p>1 tête d’ ail</p>
+ <p>gros sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+brossez et lavez les <ingredient quantite=1>pommes de terre</ingredient>. les déposer avec leur peau dans l’ eau froide, puis ajouter l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=3>échalotes</ingredient>, le <ingredient quantite=3>laurier</ingredient>, le <ingredient quantite=1>thym</ingredient> et l’ <ingredient quantite=1>ail</ingredient> hachés grossièrement. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=1>carottes</ingredient></operation> coupées en petits dés. <operation temps=20.0min espace=10>portez à ébullition</operation> et <operation temps=15.0min espace=10>laissez cuire pendant 15 min</operation>. <operation temps=6.86min espace=10>egouttez le tout à l’</operation> aide d’ une <recipient>passoire</recipient>. dans une <recipient>sauteuse</recipient>, <operation temps=1.0min espace=10>faire fondre le beurre</operation> puis <operation temps=6.86min espace=10>faire colorer le tout à feu doux</operation>. salez au <ingredient quantite=1>gros sel</ingredient> et <operation temps=6.86min espace=10>poivrez au dernier moment</operation>. <operation temps=2.0min espace=10>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

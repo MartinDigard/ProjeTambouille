@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220609">
+ <titre>Lingots aux poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de haricots lingots blancs</p>
+ <p>500 g de blancs de poireaux</p>
+ <p>300 g de lardons</p>
+ <p>1 oignon</p>
+ <p>25 cl de crème fraîche en pot</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>ciboulette</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>lingots</ingredient> blanc à tremper 12h au minimum. <operation temps=6.86min espace=12>faire cuire les <ingredient quantite=1>lingots</ingredient> dans de l’ eau</operation> salée pendant 1h15.émincer séparément les blancs de <ingredient quantite=1>poireaux</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. mettre l’ <ingredient quantite=1>oignon</ingredient> à dorer dans une <recipient>poêle</recipient> avec une noisette de beurre. quand l’ <ingredient quantite=1>oignon</ingredient> est doré, ajouter les <ingredient quantite=1>lardons</ingredient>. enlever le surplus de gras des <ingredient quantite=1>lardons</ingredient> et ajouter dans la <recipient>poêle</recipient> les <ingredient quantite=1>poireaux</ingredient> avec un petit fond d’ eau. <operation temps=20.0min espace=12>laisser fondre les <ingredient quantite=1>poireaux</ingredient> 20 min</operation>. ajouter la <ingredient quantite=1>crème fraîche</ingredient> et assaisonner avec <ingredient quantite=1>moutarde</ingredient>, <ingredient quantite=1>ciboulette</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. ajouter enfin les <ingredient quantite=1>lingots</ingredient> cuits et mélanger le tout. attention au salage du <recipient>plat</recipient> car les <ingredient quantite=1>lingots</ingredient> retiennent le <ingredient quantite=1>sel</ingredient> de l’ eau de cuisson.
+]]>
+ </preparation>
+</recette>

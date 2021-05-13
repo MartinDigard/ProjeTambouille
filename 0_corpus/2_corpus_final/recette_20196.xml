@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20196">
+ <titre>Poulet aux épices d’ Orient</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>1 cube de bouillon de poule</p>
+ <p>1 ou 2 oignons</p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>1 cuillère à soupe de gingembre râpé</p>
+ <p>1 cuillère à soupe de cannelle</p>
+ <p>2 cuillères à soupe de coriandre en grains</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez en dés les blancs de <ingredient quantite=4>poulet</ingredient></operation>. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>oignons</ingredient> dans un peu d’ huile d’ olive</operation>. ajouter le <ingredient quantite=4>poulet</ingredient> avec le <ingredient quantite=1>bouillon de poule</ingredient> ainsi qu’ un verre d’ eau. au bout de 10 min, quand le <ingredient quantite=4>poulet</ingredient> est presque cuit, ajouter les épices, saler et poivrer. <operation temps=20.0min espace=9>couvrir à demi pendant 20 min environ</operation>. <operation temps=6.86min espace=9>servir avec du riz bien chaud</operation>. ce <recipient>plat</recipient> peut aussi se <operation temps=6.86min espace=9>faire avec du porc</operation> coupé en dés.
+]]>
+ </preparation>
+</recette>

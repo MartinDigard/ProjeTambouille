@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19552">
+ <titre>Saucisson Chaud, Pommes à l’ Huile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 saucisson de Lyon de 800 g</p>
+ <p>600 g de pommes de terre nouvelles</p>
+ <p>Pour la vinaigrette: </p>
+ <p>3 cuillerées à soupe d’ huile d’ olive ou d’ arachide</p>
+ <p>1, 5 cuillerée à soupe de vinaigre de vin</p>
+ <p>1, 5 cuillerée à soupe de vin blanc</p>
+ <p>2 échalotes </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver avec soin les <ingredient quantite=1>pommes de terre</ingredient> et les <operation temps=30.0min espace=11>faire cuire à l’ anglaise avec la peau pendant 30 min</operation>. (cuisson = départ eau froide). piquer le <ingredient quantite=1>saucisson</ingredient> de quelques coups de fourchette, le placer dans une <recipient>casserole</recipient> contenant de l’ eau froide. saler légèrement. porter à ébullition. dès le début de l’ ébullition, baisser le feu et <operation temps=25.0min espace=11>laisser cuire 25 min à frémissement</operation>. pendant ce temps, hacher finement les <ingredient quantite=2>échalotes</ingredient> et <operation temps=6.86min espace=11>faire une <ingredient quantite=1>vinaigrette</ingredient> avec les ingrédients</operation> cités ci - contre. ajouter les <ingredient quantite=2>échalotes</ingredient> dans la <ingredient quantite=1>vinaigrette</ingredient>. dès que les <ingredient quantite=1>pommes de terre</ingredient> sont cuites, les égoutter et les peler. les couper en rondelles de 1 cm environ et les disposer dans un <recipient>saladier</recipient>. ajouter la <ingredient quantite=1>vinaigrette</ingredient> sur les <ingredient quantite=1>pommes de terre</ingredient> chaudes. mélanger avec précaution, pour éviter de briser les <ingredient quantite=1>pommes de terre</ingredient>. poser le <ingredient quantite=1>saucisson</ingredient> découpé en tranches épaisses, sur un <recipient>plat</recipient> de service, accompagné de la salade tiède.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20449">
+ <titre>Lasagne bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de haché porc/boeuf</p>
+ <p>plaques de lasagnes précuites</p>
+ <p>beurre</p>
+ <p>mélange de fromages pour gratin</p>
+ <p>1 boîte de tomates pelées (+/- 800 g) </p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>250 g de mozzarella</p>
+ <p>1 petit verre de vin rouge</p>
+ <p>1 carotte</p>
+ <p>1 demi poivron rouge</p>
+ <p>1 petite boîte de champignons de Paris</p>
+ <p>2 échalotes, 2 gousses d’ ail</p>
+ <p>sel, poivre, basilic, herbes de Provence, paprika doux, pili-pili, piment de Cayenne,...</p>
+ <p>sauce béchamel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faites revenir les <ingredient quantite=2>échalotes</ingredient> dans le beurre</operation>, <operation temps=6.86min espace=16>laisser fondre</operation>. ajouter le haché et <operation temps=6.86min espace=16>laisser cuire à feu moyen</operation>. quand le haché à blanchi, ajouter la <ingredient quantite=1>boîte de tomates pelées</ingredient> ainsi que le <ingredient quantite=1>concentré de tomates</ingredient>, remuer et bien mélanger. ajouter ensuite le <ingredient quantite=1>poivron rouge</ingredient> coupé en dés, la <ingredient quantite=1>carotte</ingredient> en dés, les <ingredient quantite=1>champignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> pressée. ajouter les épices selon votre goût ainsi que le <ingredient quantite=1>vin</ingredient>, <operation temps=6.86min espace=16>laisser s’</operation> évaporer. <operation temps=45.0min espace=16>laisser mijoter à feux moyen durant 45 min en</operation> mélangeant de temps en temps. préparer la sauce <ingredient quantite=1>béchamel</ingredient>. couper la mozzarella en rondelles très fines. dans un <recipient>plat</recipient> à <ingredient quantite=1>gratin</ingredient>, disposer une couche de <ingredient quantite=1>béchamel</ingredient>, une <ingredient quantite=1>plaque</ingredient>, une couche de sauce bolognaise, une couche de <ingredient quantite=1>béchamel</ingredient>, une couche de mozzarella, ainsi de suite... terminer par de la <ingredient quantite=1>béchamel</ingredient>. parsemer de gruyère, de parmesan et de <ingredient quantite=1>petits</ingredient> morceaux de beurre. <operation temps=30.0min espace=16>laisser gratiner au <recipient>four</recipient> à 200 ° c durant + /- 30 min</operation>. dès que le dessus est bien doré, servir vous pouvez ajouter à la sauce quelques gouttes de tabasco pour ceux qui aiment " épicé " chianti
+]]>
+ </preparation>
+</recette>

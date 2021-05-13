@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35035">
+ <titre>Assiette jambon et saumon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>8 tranches de saumon fumé</p>
+ <p>6 tranches de jambon de Bayonne</p>
+ <p>50 g d’ oeufs de saumon</p>
+ <p>1 poire</p>
+ <p>quelques feuilles de laitue</p>
+ <p>Pour la sauce: </p>
+ <p>20 cl de crème légèrement fouettée</p>
+ <p>3 cl de vodka</p>
+ <p>ciboulette ciselée</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler la <ingredient quantite=1>poire</ingredient>, la couper en quartiers et la citronner. sur des assiettes individuelles, intercaler les <ingredient quantite=8>tranches de saumon fumé</ingredient>, de <ingredient quantite=6>jambon</ingredient> de bayonne et les quartiers de <ingredient quantite=1>poire</ingredient>. préparer la <ingredient quantite=1>sauce</ingredient>, en mélangeant les ingrédients. sur chaque assiette, faire un petit tas de <ingredient quantite=1>sauce</ingredient> sur quelques <ingredient quantite=1>feuilles de laitue</ingredient> et mettre des <ingredient quantite=8>oeufs de saumon</ingredient> par - dessus. cette entrée est très bien présentée et ravit les palais.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63452">
+ <titre>Pizza Thon Mascarpone de Vincent</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza toute faite</p>
+ <p>1 petite boîte de thon au naturel</p>
+ <p>125 g de mascarpone</p>
+ <p>1 petite boîte de coulis de tomate</p>
+ <p>1 citron</p>
+ <p>persil haché</p>
+ <p>comté râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 230 ° c (thermostat 7 - 8). <operation temps=6.86min espace=11>étalez la pâte à <ingredient quantite=1>pizza</ingredient> sur un <recipient>moule</recipient> ou directement sur la grille du <recipient>four</recipient></operation>. étalez le <ingredient quantite=1>coulis de tomate</ingredient> sur la pâte. mélanger (avec les doigts c’ est plus facile) le <ingredient quantite=1>thon</ingredient> et le <ingredient quantite=1>mascarpone</ingredient> afin de <operation temps=6.86min espace=11>faire une préparation uniforme</operation>. étalez cette préparation sur le <ingredient quantite=1>coulis de tomate</ingredient>, recouvrez le tout du <ingredient quantite=1>comté râpé</ingredient> et parsemez de <ingredient quantite=1>persil haché</ingredient>. enfournez pour environ 15 - 20 min de cuisson. <operation temps=6.86min espace=11>sortez du <recipient>four</recipient> lorsque le fromage est bien fondu</operation>, <operation temps=6.86min espace=11>arrosez d’ un 1/2 <ingredient quantite=1>citron</ingredient></operation> pressé et <operation temps=5.0min espace=11>dégustez</operation>. blanc type chardonnay, pas trop sec
+]]>
+ </preparation>
+</recette>

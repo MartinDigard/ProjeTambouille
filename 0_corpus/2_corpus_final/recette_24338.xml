@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24338">
+ <titre>Poisson au gingembre et lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 beaux filets de poissons blanc (lotte de préférence) </p>
+ <p>2 courgettes</p>
+ <p>3 carottes</p>
+ <p>un peu de gingembre frais haché</p>
+ <p>2 boîtes de lait de coco</p>
+ <p>curry</p>
+ <p>ail, oignon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>poêle</recipient> profonde émincez l’ <ingredient quantite=1>ail</ingredient> et l’ oigon et y <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>courgettes</ingredient> et les <ingredient quantite=3>carottes</ingredient></operation> coupées en fines lamelles. y ajouter le <ingredient quantite=1>curry</ingredient>, le <ingredient quantite=1>gingembre</ingredient>, le <ingredient quantite=2>lait de coco</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=6.86min espace=11>couvrir la <recipient>poêle</recipient></operation> et</operation> <operation temps=6.86min espace=11>laissez mijoter quelques minutes</operation>. <operation temps=6.86min espace=11>déposez les <ingredient quantite=4>filets</ingredient> sur la préparation</operation>, <operation temps=6.86min espace=11>couvrir la <recipient>poêle</recipient></operation> et</operation> <operation temps=6.86min espace=11>laisser cuire ainsi les <ingredient quantite=4>filets</ingredient> pendant 10</operation> mn. <operation temps=6.86min espace=11>servir avec du riz <ingredient quantite=4>blanc</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

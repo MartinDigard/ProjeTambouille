@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36753">
+ <titre>Linguini (spaghettis plats) aux brocolis et courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de brocolis</p>
+ <p>300 g de courgettes</p>
+ <p>300 g de saucisse italienne</p>
+ <p>huile d’ olive</p>
+ <p>origan</p>
+ <p>sel et poivre</p>
+ <p>2 gousses d’ ail</p>
+ <p>parmesan râpé frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les brocolis et les débiter en petits bouquets. laver les <ingredient quantite=1>courgettes</ingredient>, les couper en cubes. mettre le tout dans une <recipient>sauteuse</recipient> avec un fond d’ eau salée, <operation temps=0.25min espace=11>couvrir</operation> et <operation temps=25.0min espace=11>laisser cuire 25 min environ</operation>. retirer après cuisson, réserver l’ eau de cuisson que l’ on versera dans l’ eau de cuisson des pâtes. mettre la <ingredient quantite=1>saucisse</ingredient> dans la <recipient>sauteuse</recipient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient>, la <operation temps=6.86min espace=11>faire revenir bien</operation> dorée, saler, poivrer, puis ajouter l’ <ingredient quantite=2>ail</ingredient> haché, une pincée d’ <ingredient quantite=1>origan</ingredient> et les légumes. <operation temps=15.0min espace=11>laisser mijoter à feu doux 15 min</operation>. pendant ce temps, cuire les pâtes. quand elles sont cuites, les verser dans la <recipient>sauteuse</recipient> et remuer sur le feu 2 min. soupoudrer de <ingredient quantite=1>parmesan râpé</ingredient> frais et bon appétit! les brocolis et les <ingredient quantite=1>courgettes</ingredient> peuvent garder un petit croquant, suivant votre goût, sinon vérifier et allonger si nécessaire la cuisson. un bon rosé bien frais
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20321">
+ <titre>Crème de carottes à l’ orange et aux pétoncles</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de carottes</p>
+ <p>20 noix de pétoncles</p>
+ <p>1 oignon</p>
+ <p>2 pincées de sucre</p>
+ <p>1 orange</p>
+ <p>75 cl de bouillon de légumes</p>
+ <p>10 cl de crème</p>
+ <p>40 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ <p>muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>carottes</ingredient> en dés et <ingredient quantite=1>oignon</ingredient></operation> haché dans l’ <ingredient quantite=1>huile</ingredient> et 20 g de beurre. arroser avec le <ingredient quantite=1>bouillon</ingredient> et cuire 12 mn. mixer les <ingredient quantite=1>légumes</ingredient> et le <ingredient quantite=1>bouillon</ingredient>. ajouter le jus d’ orange, la <ingredient quantite=1>muscade</ingredient>, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=2>sucre</ingredient>. <operation temps=6.86min espace=11>faire dorer les <ingredient quantite=1>pétoncles</ingredient> dans le reste de beurre</operation>. saler et poivrer. <operation temps=6.86min espace=11>faire chauffer sans</operation> <operation temps=6.86min espace=11>bouillir la <ingredient quantite=1>crème</ingredient> de <ingredient quantite=1>carottes</ingredient></operation>. <operation temps=6.86min espace=11>servir dans les assiettes</operation>, ajouter les <ingredient quantite=1>noix de pétoncles</ingredient> et du cerfeuil. a défaut de <ingredient quantite=1>pétoncles</ingredient>, j’ utilise des crevettes décortiquées que je <operation temps=6.86min espace=11>fais revenir de la même manière dans le beurre</operation>.
+]]>
+ </preparation>
+</recette>

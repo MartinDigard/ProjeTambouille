@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227698">
+ <titre>Tarte au fromage blanc</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>250 g de farine</p>
+ <p>120 g de sucre</p>
+ <p>2 petits œufs</p>
+ <p>120 g de beurre</p>
+ <p>1 pincée de sel</p>
+ <p>1 sachet de sucre vanillé (facultatif) Pour la garniture: </p>
+ <p>4 œufs</p>
+ <p>200 g de sucre</p>
+ <p>60 g de beurre fondu</p>
+ <p>50 g de Maïzena</p>
+ <p>25 cl de lait</p>
+ <p>1kg de fromage blanc (de préférence à 40%/50%) </p>
+ <p>1 citron (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte: mélanger tous les ingrédients, <operation temps=6.86min espace=16>laisser reposer 1/2h</operation>. (pour info, la <ingredient quantite=1>pâte</ingredient> se déchire quand on la met dans le <recipient>moule</recipient>, il faut <operation temps=6.86min espace=16>garnir le <recipient>moule</recipient> morceaux par morceaux</operation>). ne pas oublier de piquer le fond de quelques trous (pas trop, sinon, la <ingredient quantite=1>garniture</ingredient> va couler). <ingredient quantite=1>garniture</ingredient>: battre les 4 jaunes avec le <ingredient quantite=1>sucre</ingredient> (mélanger le jaune tout clair), ajouter le beurre <ingredient quantite=1>fondu</ingredient> (<operation temps=6.86min espace=16>faire fondre tout doucement, le beurre ne</operation> doit pas cuire), la <ingredient quantite=1>maïzena</ingredient>, le zeste de <ingredient quantite=1>citron</ingredient> puis <ingredient quantite=1>petit</ingredient> à <ingredient quantite=1>petit</ingredient> le lait et enfin le <ingredient quantite=1>fromage blanc</ingredient>. battre les <ingredient quantite=1>blancs</ingredient> en neige ferme et ajouter les <ingredient quantite=1>blancs</ingredient> délicatement au mélange en soulevant bien. verser le mélange doucement sur la <ingredient quantite=1>pâte</ingredient> et <operation temps=30.0min espace=16>faire cuire</operation>. bon appétit! très bonne recette! faite par un enfant de 12 ans.
+]]>
+ </preparation>
+</recette>

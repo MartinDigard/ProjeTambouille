@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224555">
+ <titre>Wok fried chicken: wok de poulet frit</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 jaunes d’ oeufs </p>
+ <p>2 cuillères à soupe de fécule de maïs</p>
+ <p>2 cuillères à soupe de chapelure </p>
+ <p>1 cuillère à café de curry en poudre</p>
+ <p>4 blancs de poulet</p>
+ <p>2 cuillères à soupe de concentré de tomates</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1 cuillère à café de sucre en poudre</p>
+ <p>1 cuillère à soupe de vinaigre de riz</p>
+ <p>poivre</p>
+ <p>huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeufs</ingredient>, la <ingredient quantite=2>fécule de maïs</ingredient>, la <ingredient quantite=2>chapelure</ingredient>, le <ingredient quantite=1>curry</ingredient> et une pincée de poivre dans un <recipient>saladier</recipient>. découper les blancs de <ingredient quantite=4>poulets</ingredient> en morceaux puis les tremper dans les œufs battus. faire chauffer de l’ <ingredient quantite=1>huile de friture</ingredient> dans un <recipient>wok</recipient>. <operation temps=6.86min espace=15>faire frire le <ingredient quantite=4>poulet</ingredient> en plusieurs fournées</operation>. vider l’ huile du <recipient>wok</recipient>. réchauffer le <ingredient quantite=4>poulet</ingredient> dans le <recipient>wok</recipient> avec le concentré de <ingredient quantite=2>tomates</ingredient>, la <ingredient quantite=3>sauce soja</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>vinaigre</ingredient>. <operation temps=6.86min espace=15>servir lorsque les morceaux sont chauds et bien enrobés de <ingredient quantite=3>sauce</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

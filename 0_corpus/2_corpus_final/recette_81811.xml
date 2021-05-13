@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81811">
+ <titre>Riz à la Mulan</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de steack haché </p>
+ <p>4 verre à moutarde de riz</p>
+ <p>3 oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>6 cuillères à soupe de sauce soja</p>
+ <p>poivre moulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir la viande dans une <recipient>marmite</recipient> (sans graisse), quand la viande est presque</operation> cuite, ajouter les <ingredient quantite=3>oignons</ingredient> et l’ <ingredient quantite=4>ail</ingredient> hachés, <operation temps=6.0min espace=8>laisser cuire 5 à 6 min (les <ingredient quantite=3>oignons</ingredient> et l’ <ingredient quantite=4>ail</ingredient> de</operation> doivent prendre de la couleur). ajouter le <ingredient quantite=4>riz</ingredient>, bien mélanger pour que le <ingredient quantite=4>riz</ingredient> absorbe la <ingredient quantite=6>sauce</ingredient> de viande, ensuite verser la <ingredient quantite=6>sauce</ingredient> de soja et mélanger à nouveau. poivrer, ne pas mettre de sel, la <ingredient quantite=6>sauce soja</ingredient> est salée. 1ère solution: si vous <operation temps=6.86min espace=8>possédez</operation> un <ingredient quantite=4>riz</ingredient> cooker</operation>: mettre la préparation dedans, ajouter 5 <ingredient quantite=4>verres à moutarde</ingredient> d’ eau et <operation temps=30.0min espace=8>faire cuire</operation>. 2ème solution si vous ne <operation temps=6.86min espace=8>possédez</operation> ppas de <ingredient quantite=4>riz</ingredient> cooker: ajouter 5 mesures d’ eau dans la <recipient>marmite</recipient> <operation temps=0.25min espace=8>couvrir</operation>, <operation temps=30.0min espace=8>faire cuire</operation> à petit feu en remuant de temps en temps ; le <ingredient quantite=4>riz</ingredient> est cuit quand il n’ y a plus d’ eau.
+]]>
+ </preparation>
+</recette>

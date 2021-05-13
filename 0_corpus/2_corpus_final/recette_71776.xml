@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71776">
+ <titre>Quiche aux fruits de mer et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte feuilletée ou pâte à pain</p>
+ <p>300 g de mélange de fruits de mer surgelés (crevettes, calamar, pétoncles, moules, surimi) </p>
+ <p>300 g de mélange de champignons surgelés</p>
+ <p>500 g de crème fraîche entière</p>
+ <p>3 oeufs</p>
+ <p>1 à 2 cuillères à café de curry</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>gruyère rapé</p>
+ <p>salade (frisée) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites revenir les <ingredient quantite=1>fruits de mer</ingredient> et les <ingredient quantite=1>champignons</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient>, à feu doux dans une <recipient>sauteuse</recipient> couverte, pendant 5 min puis 5 à 10 min à découvert, feu plus vif, pour évaporer l’ eau. dans une jatte, <operation temps=6.86min espace=16>mélangez <ingredient quantite=1>crème</ingredient>, <ingredient quantite=3>oeufs</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>curry</ingredient></operation>. vous <operation temps=6.86min espace=16>assaisonnez à votre goût, mais n’</operation> <operation temps=6.86min espace=16>ayez pas la main trop lourde en <ingredient quantite=1>curry</ingredient></operation>. le goût doit rester léger et subtil. disposez le <ingredient quantite=1>mélange fruits de mer</ingredient> / <ingredient quantite=1>champignons</ingredient> dans le fond de <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, <operation temps=6.86min espace=16>versez la <ingredient quantite=1>crème</ingredient> dessus</operation>. un peu de fromage râpé dessus, pour le goût et le doré... <operation temps=20.0min espace=16>enfournez 20 min à <recipient>four</recipient> chaud (210 °, thermostat 7), en bas du <recipient>four</recipient> pour que la <ingredient quantite=1>pâte</ingredient> soit bien cuite</operation>. <operation temps=6.86min espace=16>servez avec une <ingredient quantite=1>salade</ingredient></operation>. c’ est un <recipient>plat</recipient> principal pour 3 ou une belle entrée pour 4 (moi j’ en mange 1/4 en <recipient>plat</recipient> le soir). vin blanc - quincy par exemple
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72979">
+ <titre>Coupe de groseilles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>90 g de sucre</p>
+ <p>3 jaunes d’ oeuf</p>
+ <p>500 g de groseille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+equeuter les <ingredient quantite=1>groseilles</ingredient> et bien les rincer. préparer la crème anglaise: <operation temps=6.86min espace=5>faire blanchir les <ingredient quantite=3>jaunes</ingredient> d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=5>faire bouillir le lait</operation> et verser sur la préparation sucre - <ingredient quantite=3>oeuf</ingredient> puis remettre le tout dans la <recipient>casserole</recipient>. cuire encore 2 min. la crème anglaise est à point quand elle nappe la cuillère en bois. partager les <ingredient quantite=1>groseilles</ingredient> au fond de 4 coupes puis <operation temps=6.86min espace=5>couvrir avec la crème anglaise</operation>. mettre au frigo plusieurs heures. a déguster bien frais! vin blanc moelleux sucré
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29143">
+ <titre>Filets de dinde aux tagliatelles paysannes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 filets de dinde</p>
+ <p>350 g de tagliatelles fraîches</p>
+ <p>250 g de champignons de Paris</p>
+ <p>1 blanc de poireau</p>
+ <p>25 cl de crème liquide</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>1 cuillère à café de fond de volaille déshydraté</p>
+ <p>30 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer le <ingredient quantite=1>blanc de poireau</ingredient> et le <operation temps=6.86min espace=13>faire fondre à couvert avec 15 g de beurre</operation>. <operation temps=6.86min espace=13>faire de même avec les <ingredient quantite=1>champignons</ingredient> en lamelles dans le reste du beurre</operation>. saler et poivrer. couper les <ingredient quantite=2>filets</ingredient> en deux dans la longueur et les <operation temps=6.86min espace=13>faire cuire à la <recipient>poêle</recipient> dans l’ <ingredient quantite=2>huile</ingredient></operation>. déglacer la <recipient>poêle</recipient> avec le <ingredient quantite=1>vin</ingredient>, ajouter le <ingredient quantite=1>fond</ingredient> de volaille, la <ingredient quantite=1>crème</ingredient>, les <ingredient quantite=1>champignons</ingredient>, les <ingredient quantite=1>poireaux</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=13>laisser épaissir légèrement</operation>. <operation temps=5.0min espace=13>faire cuire les pâtes 5 mn environ</operation>. couper les <ingredient quantite=2>filets</ingredient> en petites tranches et les poser sur un <recipient>plat</recipient> chaud (ou direct dans les assiettes). entourer avec les pâtes. verser la sauce sur le tout ou à part.
+]]>
+ </preparation>
+</recette>

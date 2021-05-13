@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66869">
+ <titre>Jarret de porc braisé au cidre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 jarret de porc</p>
+ <p>3 oignons</p>
+ <p>50 cl de cidre doux</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>jarret</ingredient> dans un torchon (pour éviter qu’ il ne se décompose) et le <operation temps=6.86min espace=8>faire cuire dans de l’ eau bouillante</operation> assaisonnée pendant 1 heure. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). couper en rondelles 3 <ingredient quantite=3>oignons</ingredient> et les <operation temps=6.86min espace=8>faire revenir à la <recipient>poêle</recipient> avec un peu de beurre</operation>. poser ces <ingredient quantite=3>oignons</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et y poser le <ingredient quantite=1>jarret</ingredient> pré-cuit. <operation temps=6.86min espace=8>faire cuire jusqu’ à coloration du <ingredient quantite=1>jarret</ingredient> en</operation> arrosant régulièrement avec le <ingredient quantite=1>cidre</ingredient>. accompagné avec des pommes de terre vapeur.
+]]>
+ </preparation>
+</recette>

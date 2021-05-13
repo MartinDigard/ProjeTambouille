@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55449">
+ <titre>Dinde à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 escalopes de dinde</p>
+ <p>1 boîte d’ ananas dans son jus (garder le jus) </p>
+ <p>1 cuillère à café d’ ail écrasé</p>
+ <p>1 cuillère à café de gingembre en poudre</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1 cuillère à soupe de sauce nuoc nam</p>
+ <p>1 cuillère à café d’ huile de sésame</p>
+ <p>2 cuillères à café de coriandre en poudre</p>
+ <p>1/2 cuillère à café de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>escalopes</ingredient> en dés. <operation temps=6.86min espace=10>faire mariner la viande (15 à 20 minutes) avec la <ingredient quantite=3>sauce</ingredient> de</operation> soja, l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>gingembre</ingredient>, la <ingredient quantite=1>maïzena</ingredient>. dans un <recipient>wok</recipient>, faire chauffer une <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient>, <operation temps=6.86min espace=10>faire revenir la viande à feu vif pendant quelques minutes</operation>, mettre la <ingredient quantite=3>sauce nuoc nam</ingredient> et l’ <ingredient quantite=1>huile de sésame</ingredient>. mélanger et ajouter l’ ananas. ajouter le <ingredient quantite=1>jus</ingredient> de l’ ananas. <operation temps=20.0min espace=10>faire mijoter pendant 20 minutes sur feu moyen</operation>. remuer de temps en temps. ajouter la <ingredient quantite=2>coriandre</ingredient> 5 minutes avant d’ éteindre. <operation temps=6.86min espace=10>servir avec du riz ou des nouilles chinoises</operation>. pour ceux qui aiment, on peut rajouter quelques goutes de tabasco dans la marinade...
+]]>
+ </preparation>
+</recette>

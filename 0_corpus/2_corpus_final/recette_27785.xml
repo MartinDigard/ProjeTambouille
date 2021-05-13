@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27785">
+ <titre>Boudin noir poêlé aux pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de boudin noir à l’ oignon (ou nature) </p>
+ <p>3 pommes reinettes ou golden</p>
+ <p>1 citron</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=6>pelez les</operation> <ingredient quantite=3>pommes</ingredient> et <operation temps=6.86min espace=6>coupez - les en 4</operation>. trempez les quartiers dans le jus du <ingredient quantite=1>citron</ingredient> et <operation temps=6.86min espace=6>réservez le jus que vous</operation> <operation temps=6.86min espace=6>agrémenterez de sucre</operation>. <operation temps=6.86min espace=6>coupez les quartiers encore en 2</operation>. <operation temps=6.86min espace=6>faites revenir les quartiers dans 15 g de beurre</operation> et <operation temps=6.86min espace=6>couvrez la <recipient>poêle</recipient> (pour ne pas les</operation> dessécher et qu’ ils collent). <operation temps=6.86min espace=6>laissez dorer</operation> et <operation temps=6.86min espace=6>retournez assez souvent</operation>. lorsque les quartiers commencent vraiment à se dessécher, verser petit à petit le jus de <ingredient quantite=1>citron</ingredient> sucré (les <ingredient quantite=3>pommes</ingredient> vont achever leur cuisson en caramélisant!). <operation temps=6.86min espace=6>retournez les <ingredient quantite=3>pommes</ingredient> pour</operation> <operation temps=6.86min espace=6>obtenir une couche des 2 côtés</operation> et <operation temps=6.86min espace=6>laisser cuire encore quelques minutes</operation>. <operation temps=0.5min espace=6>réservez au chaud</operation>. pendant ce temps, dans une autre <recipient>poêle</recipient>, <operation temps=6.86min espace=6>faites revenir dans le reste du beurre, vos 2 morceaux de <ingredient quantite=1>boudin</ingredient></operation>. il faut le saisir (feu fort) mais attention à la suite de la cuisson qui doit rester douce pour ne pas rompre le boyau. <operation temps=6.86min espace=6>faites cuire le <ingredient quantite=1>boudin</ingredient> de tous les côtés</operation>. lorsque le boyau s’ est rétracté (aux extrémités) et que la surface est bien <ingredient quantite=1>noire</ingredient>, <operation temps=6.86min espace=6>servez le</operation> <ingredient quantite=1>boudin</ingredient>, accompagné des <ingredient quantite=3>pommes</ingredient>. côtes-du-rhône rasteau, bourgogne ou cahors
+]]>
+ </preparation>
+</recette>

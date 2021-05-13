@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19339">
+ <titre>Raviolis forestiers</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de raviolis à la viande</p>
+ <p>150 g de girolles</p>
+ <p>150 g de cèpes</p>
+ <p>1 échalote</p>
+ <p>40 de beurre</p>
+ <p>sel, poivre</p>
+ <p>cerfeuil</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez les pieds des champignons</operation> et <operation temps=6.86min espace=10>ôtez la partie mousseuse qui se</operation> trouve sous les chapeaux dse <ingredient quantite=1>cèpes</ingredient>. essuyez - les minutieusement et <operation temps=6.86min espace=10>coupez - les en 2 ou en 4 selon leur grosseur</operation>. pelez et <operation temps=6.86min espace=10>émincez finement l’ <ingredient quantite=1>échalote</ingredient></operation>. <operation temps=6.86min espace=10>portez à ébullition une grande quantité d’ eau</operation> salée, <operation temps=6.86min espace=10>ajoutez les raviolis</operation> et <operation temps=6.86min espace=10>laissez cuire 5 à 10</operation> mn. <operation temps=10.0min espace=10>egouttez</operation> et <operation temps=0.5min espace=10>réservez au chaud</operation>. pendant ce temps, <operation temps=6.86min espace=10>faites suer les champigons à</operation> sec dans une <recipient>poêle</recipient>. lorsqu’ ils ont perdu toute leur eau, <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=1>échalote</ingredient> et le</operation> <ingredient quantite=1>beurre</ingredient> et <operation temps=5.0min espace=10>faites revenir 5 mn à feu moyen</operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation> et <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=10>dressez les raviolis sur un <recipient>plat</recipient> de service, nappez - les de champignons à la <ingredient quantite=1>crème</ingredient> et parsemez de <ingredient quantite=1>cerfeuil</ingredient></operation> ciselé.
+]]>
+ </preparation>
+</recette>

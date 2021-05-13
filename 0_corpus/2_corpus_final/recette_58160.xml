@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58160">
+ <titre>Mille-feuille de galettes aux saumons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 galettes de blé noir</p>
+ <p>20 cl de crème fleurette</p>
+ <p>1 pavé de saumon ou une boite de saumon</p>
+ <p>2 tranches de saumon fumé</p>
+ <p>aneth</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>superposez les 3 <ingredient quantite=3>galettes</ingredient> et y</operation> découper quatre ronds. couper le <ingredient quantite=1>saumon fumé</ingredient> en dés. <operation temps=6.86min espace=7>emiettez le <ingredient quantite=1>saumon</ingredient></operation> frais. <operation temps=6.86min espace=7>mélangez ces deux <ingredient quantite=1>saumons</ingredient></operation>. faites monter la <ingredient quantite=1>crème fleurette</ingredient> (préalablement placée au <recipient>congélateur</recipient> 15 min). y ajouter le <ingredient quantite=1>sel</ingredient>, le poivre, l’ <ingredient quantite=1>aneth</ingredient> et les deux <ingredient quantite=1>saumons</ingredient>. <operation temps=6.86min espace=7>etalez cette préparation sur les ronds de <ingredient quantite=3>galettes</ingredient> (deux superpositions</operation>). le mille - feuille est prêt. <operation temps=6.86min espace=7>servir avec une mâche et vinaigre balsamique</operation>. pouilly <ingredient quantite=2>fumé</ingredient> - pinot gris
+]]>
+ </preparation>
+</recette>

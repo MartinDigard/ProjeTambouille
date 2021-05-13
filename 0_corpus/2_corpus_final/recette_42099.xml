@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42099">
+ <titre>Rafourrée (recette belge) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 pommes de terre (type bintje) </p>
+ <p>1 grosse scarole avec un coeur bien blanc. (ou achetez-en deux) </p>
+ <p>1 belle gousse d’ ail</p>
+ <p>1 petit oignon (facultatif) </p>
+ <p>huile et vinaigre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez, <operation temps=6.86min espace=9>lavez</operation> et coupez les <ingredient quantite=8>pommes de terre</ingredient> en morceaux. <operation temps=1.0min espace=9>mettez</operation> - les à cuire dans de l’ eau bouillante salée (attention à la cuisson, elles ne doivent pas trop se <operation temps=6.86min espace=9>défaire</operation>). pendant ce temps, <operation temps=6.86min espace=9>lavez le <ingredient quantite=1>coeur</ingredient> de la scarolle (vous</operation> pouvez mettre un peu de vert), <operation temps=6.86min espace=9>essorez - le</operation> et <operation temps=6.86min espace=9>coupez les feuilles en morceaux de + /-3 cm</operation>. <operation temps=6.86min espace=9>déposez la salade dans un <recipient>plat</recipient> et émincez l’ <ingredient quantite=1>ail</ingredient> (et l’ <ingredient quantite=1>oignon</ingredient>) dessus</operation>. <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. egouttez les <ingredient quantite=8>pommes de terre</ingredient> et <operation temps=6.86min espace=9>laissez - les</operation> <operation temps=6.86min espace=9>tiédir</operation>. déposez - les sur la salade et <operation temps=6.86min espace=9>arrosez d’ huile et de <ingredient quantite=1>vinaigre</ingredient></operation> suivant le goût. <operation temps=5.0min espace=9>mélangez le tout</operation>. c’ est prêt! <operation temps=6.86min espace=9>servez ce <recipient>plat</recipient> avec des oeufs mollets encore chauds (ou des oeufs sur le <recipient>plat</recipient>) pour que le jaune s’</operation> écoule sur le mélange <ingredient quantite=8>pommes de terre</ingredient> / salade. bon appétit. le vert de scarolle vous servira, le lendemain, pour <operation temps=6.86min espace=9>faire une ratatouille</operation> servie avec de la saucisse de campagne. une pils (belgique oblige!)
+]]>
+ </preparation>
+</recette>

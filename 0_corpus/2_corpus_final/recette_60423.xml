@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60423">
+ <titre>Salade Poulet Mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boule de mozzarella</p>
+ <p>2 tomates</p>
+ <p>2 filets de Poulet</p>
+ <p>1 courgettes</p>
+ <p>1 échalote</p>
+ <p>1 salade verte</p>
+ <p>Pour la vinaigrette</p>
+ <p>huile d’ olive</p>
+ <p>citron</p>
+ <p>vinaigre balsamique</p>
+ <p>sel, poivre</p>
+ <p>basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=1>échalote</ingredient> et la <operation temps=6.86min espace=12>faire dorer avec un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter la <ingredient quantite=1>courgette</ingredient> en petits cubes. lorsque la <ingredient quantite=1>courgette</ingredient> est presque cuite, ajouter les <ingredient quantite=1>filet de poulet</ingredient> émincés, saler, poivrer. pendant ce temps, couper la <ingredient quantite=1>mozzarella</ingredient> et les <ingredient quantite=2>tomates</ingredient> en très petits cubes. <operation temps=6.86min espace=12>répartir la salade dans de grandes assiettes creuses</operation>, ajouter les cubes de <ingredient quantite=2>tomates</ingredient> et de <ingredient quantite=1>mozzarella</ingredient>, puis arroser de <ingredient quantite=1>vinaigrette</ingredient>. enfin, ajouter la préparation de <ingredient quantite=1>poulet</ingredient> et <ingredient quantite=1>courgettes</ingredient> chaude sur la salade. servir. c’ est un régal!
+]]>
+ </preparation>
+</recette>

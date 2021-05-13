@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24712">
+ <titre>Filet de boeuf en croûte et sauce au madère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rôti de boeuf de 800 g</p>
+ <p>1 bloc de pâte feuilletée</p>
+ <p>70 g de beurre</p>
+ <p>100 g de jambon blanc</p>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>13 cl de Madère</p>
+ <p>1 bouquet garni</p>
+ <p>1 petite boîte de pelure de truffes</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faites dorer la viande dans 30 <ingredient quantite=1>g</ingredient> de beurre sur toutes les faces</operation> puis <operation temps=6.86min espace=15>mouillez de 3 cl de madère et autant d’ eau</operation>. <operation temps=5.0min espace=15>laissez mijoter 5 minutes</operation>. <operation temps=6.86min espace=15>retirez la viande de la <recipient>cocotte</recipient></operation> et <operation temps=20.0min espace=15>laissez refroidir</operation>. verser le jus de cuisson dans un bol à part. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=15>préparez la sauce</operation>: <operation temps=6.86min espace=15>faites revenir dans le reste de beurre le <ingredient quantite=1>jambon</ingredient></operation> coupé en dés avec l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> hachés. <operation temps=0.25min espace=15>salez</operation>, <operation temps=0.5min espace=15>poivrez</operation>, <operation temps=6.86min espace=15>rajoutez le reste de madère et le jus de cuisson du rôti</operation>. <operation temps=6.86min espace=15>posez</operation> dessus le <ingredient quantite=1>bouquet garni</ingredient>, versez le contenu de la <ingredient quantite=1>boîte de pelures de truffes</ingredient> avec son jus. <operation temps=6.86min espace=15>faites bouillir</operation> et <operation temps=6.86min espace=15>laissez réduire de moitié</operation>. <operation temps=0.5min espace=15>réservez</operation>. <operation temps=6.86min espace=15>etalez la <ingredient quantite=1>pâte</ingredient> feuilletée</operation>, <operation temps=6.86min espace=15>posez</operation> le rôti dessus et <operation temps=6.86min espace=15>enveloppez - le dans la <ingredient quantite=1>pâte</ingredient></operation>. <operation temps=6.86min espace=15>dorez au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> battu</operation>. déposez le rôti ainsi préparé dans un <recipient>plat</recipient> à <recipient>four</recipient> beurré et <operation temps=20.0min espace=15>enfournez 20 minutes</operation>. <operation temps=6.86min espace=15>servez avec la sauce aux <ingredient quantite=1>truffes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

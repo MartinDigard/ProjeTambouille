@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40544">
+ <titre>Marbré aux deux chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de farine</p>
+ <p>4 oeufs moyens </p>
+ <p>200 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>100 g de chocolat noir dessert</p>
+ <p>75 g de chocolat au lait</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 yaourt nature</p>
+ <p>1/4 du pot de yaourt rempli d’ huile de tournesol</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>mélangez les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>yaourt</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, le <ingredient quantite=1>sucre</ingredient>, et la <ingredient quantite=1>levure</ingredient>, avec un batteur électrique</operation>. <operation temps=6.86min espace=11>incorporez la farine à la cuillère,</operation> puis <operation temps=6.86min espace=11>séparez la pâte en 3 parties égales</operation>. dans le premier tiers, <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>sucre</ingredient></operation> vanillé. dans le second, le <ingredient quantite=1>chocolat noir</ingredient> fondu, et dans le troisième, le <ingredient quantite=1>chocolat au lait</ingredient> fondu. dans un <recipient>moule</recipient> à cake, superposer une couche de pâte vanillée, une couche de pâte <ingredient quantite=1>chocolat noir</ingredient>, et une couche de pâte <ingredient quantite=1>chocolat au lait</ingredient>, sur plusieurs niveaux. cuire au <recipient>four</recipient> à 150 ° c (thermostat 5).
+]]>
+ </preparation>
+</recette>

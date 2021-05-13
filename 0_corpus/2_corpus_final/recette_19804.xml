@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19804">
+ <titre>Bûche de Noël à la mousse au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le biscuit: </p>
+ <p>140 g de sucre</p>
+ <p>150 g de farine</p>
+ <p>3 oeufs</p>
+ <p>1/2 jus de citron</p>
+ <p>1/2 paquet de levure</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>1, 5 cl de liqueur de fruit Pour la mousse au chocolat: </p>
+ <p>100 g de chocolat</p>
+ <p>3 oeufs</p>
+ <p>Pour la crème au beurre (pour le nappage): </p>
+ <p>120 g de beurre mou</p>
+ <p>100 g de sucre glace</p>
+ <p>1 oeuf entier</p>
+ <p>2 cuillères à café de café soluble (ou chocolat fondu ou grand marnier, selon le parfum souhaité) </p>
+ <p>2 cuillères à soupe de liqueur de fruit pour le parfum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+biscuit: battre le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=3>oeufs</ingredient> jusqu’ à blanchiment, ajouter le <ingredient quantite=1>jus de citron</ingredient>. ajouter la <ingredient quantite=1>levure</ingredient>, une pincée de sel, le <ingredient quantite=1>sucre vanillé</ingredient>, la farine et les blancs battus en neige. huiler une plaque à <ingredient quantite=1>biscuit</ingredient>. cuire au <recipient>four</recipient> (thermostat 7/210 ° c) pendant 10 petites minutes. <operation temps=6.86min espace=22>faire cuire sur la partie supérieure du <recipient>four</recipient></operation>. <operation temps=6.86min espace=22>faire refroidir le <ingredient quantite=1>biscuit</ingredient> sur sa plaque</operation>. <ingredient quantite=1>mousse au chocolat</ingredient>: <operation temps=6.86min espace=22>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. casser les <ingredient quantite=3>oeufs</ingredient> en séparant les jaunes des blancs. ajouter une pincée de sel aux blancs et les battre en neige. verser peu à peu le <ingredient quantite=1>chocolat</ingredient> fondu sur les jaunes en remuant énergiquement. incorporer les blancs avec une spatule. mettre la préparation au <recipient>réfrigérateur</recipient>. une fois le <ingredient quantite=1>biscuit</ingredient> refroidi, le démouler sur un torchon (qui aura été lavé sans adoucissant pour ne pas donner l’ odeur au gâteau!!!). découper la croûte du dessus du <ingredient quantite=1>biscuit</ingredient>. diluer la <ingredient quantite=1>liqueur</ingredient> dans 3 cl d’ eau tiède et imbiber le <ingredient quantite=1>biscuit</ingredient> avec le mélange. tartiner alors le <ingredient quantite=1>biscuit</ingredient> avec la <ingredient quantite=1>mousse au chocolat</ingredient>. ensuite rouler très délicatement le <ingredient quantite=1>biscuit</ingredient> tartiné et envelopper le tout dans le torchon. déposer la préparation au <recipient>réfrigérateur</recipient> pendant au moins 2 ou 3 heures pour que la <ingredient quantite=1>mousse</ingredient> soit bien prise. <ingredient quantite=1>crème au beurre</ingredient>: faire mousser le <ingredient quantite=1>beurre</ingredient> et le <ingredient quantite=1>sucre glace</ingredient>, ajouter l’ <ingredient quantite=1>oeuf</ingredient> puis le <ingredient quantite=2>café</ingredient> (dilué dans un fond d’ eau) et la <ingredient quantite=1>liqueur de fruit</ingredient>. <operation temps=6.86min espace=22>recouvrir le <ingredient quantite=1>biscuit</ingredient></operation> roulé sorti du torchon de la <ingredient quantite=1>crème au beurre</ingredient>. placer la bûche au <recipient>réfrigérateur</recipient> toute une nuit.
+]]>
+ </preparation>
+</recette>

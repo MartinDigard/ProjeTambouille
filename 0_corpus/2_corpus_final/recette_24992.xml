@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24992">
+ <titre>Filets de cabillaud à la sauce tartare</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la sauce tartare: </p>
+ <p>3 oeufs</p>
+ <p>1 cuillère à soupe de vinaigre à l’ estragon</p>
+ <p>cerfeuil frais</p>
+ <p>sel, poivre</p>
+ <p>ciboulette fraîche</p>
+ <p>persil frais</p>
+ <p>12 cl d’ huile</p>
+ <p>Pour le poisson: </p>
+ <p>4 filets de cabillaud</p>
+ <p>1 cube de bouillon</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour <ingredient quantite=1>la sauce tartare</ingredient>: <operation temps=10.0min espace=15>faire cuire 2 <ingredient quantite=3>oeufs</ingredient> durs (10 minutes dans une <recipient>casserole</recipient> d’ eau bouillante</operation>). les écaler et les écraser à la fourchette. casser le 3e <ingredient quantite=1>oeuf</ingredient> et battre le jaune seulement avec les 2 <ingredient quantite=3>oeufs</ingredient> durs écrasés dans un bol. ajouter le <ingredient quantite=1>vinaigre</ingredient>, l’ <ingredient quantite=1>estragon</ingredient>, l’ huile, le <ingredient quantite=1>sel</ingredient> et le poivre. a l’ aide d’ un <recipient>mixeur</recipient>, hacher la <ingredient quantite=1>ciboulette</ingredient>, le <ingredient quantite=1>persil</ingredient> et le <ingredient quantite=1>cerfeuil frais</ingredient> puis les incorporer à la préparation. bien mélanger le tout et réserver au <ingredient quantite=1>frais</ingredient>. pour <ingredient quantite=1>le poisson</ingredient>: délayer un <ingredient quantite=1>cube de bouillon</ingredient> dans de l’ eau chaude. faire pocher les 4 <ingredient quantite=4>filets de cabillaud</ingredient> dans le court-bouillon entre 10 à 15 minutes. l’ égoutter et le napper de la <ingredient quantite=1>sauce tartare</ingredient>. rajouter quelques rondelles de <ingredient quantite=1>citron</ingredient> jaune pour décorer le dessus du <recipient>plat</recipient>.
+]]>
+ </preparation>
+</recette>

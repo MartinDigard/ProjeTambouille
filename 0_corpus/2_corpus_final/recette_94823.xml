@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94823">
+ <titre>Poulet fumé au curry de madras</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet fumé</p>
+ <p>2 gros oignons ou 3 petits</p>
+ <p>3 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>500 g de pommes de terre</p>
+ <p>2 courgettes</p>
+ <p>2 carottes</p>
+ <p>2 cuillères à café de curry de madras</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>100 g de beurre</p>
+ <p>sel, poivre</p>
+ <p>environ 1 l d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- eplucher <ingredient quantite=2>oignons</ingredient>, <ingredient quantite=2>ail</ingredient> et <ingredient quantite=3>échalotes</ingredient> et hacher finement couper le <ingredient quantite=1>poulet</ingredient> en morceau dans une très grande <recipient>casserole</recipient> à bords hauts ou une <recipient>marmite</recipient>, mettre l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et le beurre. <operation temps=1.0min espace=15>faire fondre</operation>. ajouter les <ingredient quantite=2>oignons</ingredient>, <ingredient quantite=3>échalotes</ingredient> et <ingredient quantite=2>ail</ingredient> hachés et <operation temps=1.0min espace=15>faire fondre</operation> 3 minutes environ ajouter le <ingredient quantite=1>poulet</ingredient>. répartir le <ingredient quantite=2>curry de madras</ingredient> sur la préparation puis rajouter de l’ <ingredient quantite=1>eau</ingredient> (le <ingredient quantite=1>poulet</ingredient> ne doit pas être entièrement couvert.) eplucher et couper les légumes en morceaux assez <ingredient quantite=2>gros</ingredient>. rajouter à la préparation puis mettre un couvercle. <operation temps=6.86min espace=15>faire cuire à feu moyen pendant une heure afin que la sauce se</operation> réduise. saler et poivrer en fin de cuisson. personnellement j’ ai l’ habitude de le préparer avant et de le réchauffer. nous trouvons cela meilleur. <recipient>plat</recipient> moyennement épicé.
+]]>
+ </preparation>
+</recette>

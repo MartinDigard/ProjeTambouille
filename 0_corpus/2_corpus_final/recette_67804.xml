@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67804">
+ <titre>Cheese cake italien au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>200g de farine</p>
+ <p>150g de beurre pas trop froid</p>
+ <p>1 cuillère à soupe de lait</p>
+ <p>1 petit jaune d’ oeuf</p>
+ <p>30 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 bonne pincée de cannelle</p>
+ <p>1 pincée de sel fin</p>
+ <p>Pour la garniture: </p>
+ <p>600g de ricotta</p>
+ <p>100g de mascarpone</p>
+ <p>2 oeufs entiers + 3 jaunes</p>
+ <p>90 g de sucre en poudre</p>
+ <p>90g de chocolat noir</p>
+ <p>1 cuillère à café d’ extrait de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=23>préparez la <ingredient quantite=1>pâte</ingredient> (un peu à l’</operation> avance si possible): dans un <recipient>saladier</recipient>, <operation temps=5.0min espace=23>mélangez</operation> la farine, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, la <ingredient quantite=1>cannelle</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=23>ajoutez le beurre en morceaux</operation> et <operation temps=6.86min espace=23>travaillez du bout des doigts jusqu’ à l’ obtention d’ un sable homogène</operation>. <operation temps=6.86min espace=23>délayez le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> avec le</operation> <ingredient quantite=1>lait</ingredient> et <operation temps=6.86min espace=23>versez dans le <recipient>saladier</recipient> en</operation> mélangeant rapidement pour lier le tout. <operation temps=6.86min espace=23>etalez la <ingredient quantite=1>pâte</ingredient> sur une <recipient>planche</recipient></operation> farinée et foncez -en un <recipient>moule</recipient> beurré. <operation temps=6.86min espace=23>coupez l’</operation> excédent de <ingredient quantite=1>pâte</ingredient> qui dépasse du haut des parois et <operation temps=30.0min espace=23>réservez au frigo pendant 30 min</operation>. préchauffez le <recipient>four</recipient> à 180 ° c. <operation temps=6.86min espace=23>préparez la <ingredient quantite=1>garniture</ingredient>: hâchez le <ingredient quantite=1>chocolat</ingredient> en copeaux</operation>. dans un <recipient>saladier</recipient>, <operation temps=5.0min espace=23>mélangez</operation> la ricotta et le <ingredient quantite=1>mascarpone</ingredient>, les <ingredient quantite=1>oeufs entiers</ingredient> et les <ingredient quantite=1>jaunes</ingredient>, l’ <ingredient quantite=1>extrait de vanille</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=8.0min espace=23>mélangez bien</operation> et <operation temps=6.86min espace=23>incorporez enfin les copeaux de <ingredient quantite=1>chocolat</ingredient></operation>. <operation temps=5.0min espace=23>mélangez</operation>. <operation temps=6.86min espace=23>sortez le <recipient>moule</recipient> du frigo</operation>, <operation temps=6.86min espace=23>versez la <ingredient quantite=1>garniture</ingredient> sur la <ingredient quantite=1>pâte</ingredient> et enfournez pour 1h15 à 1h30 jusqu’ à ce que la <ingredient quantite=1>garniture</ingredient> soit bien prise au milieu</operation> (<operation temps=6.86min espace=23>vérifiez avec une pointe de couteau</operation>). <operation temps=0.25min espace=23>couvrez</operation> éventuellement le dessus du g$ateau d’ une feuille de papier sulfurisé ou d’ aluminium, s’ il dore <ingredient quantite=1>trop</ingredient>. <operation temps=6.86min espace=23>laissez refroidir avant de</operation> déguster.
+]]>
+ </preparation>
+</recette>

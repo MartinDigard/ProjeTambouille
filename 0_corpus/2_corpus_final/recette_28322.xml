@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28322">
+ <titre>Risotto parfumé à la sauge</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de riz rond</p>
+ <p>1 oignon </p>
+ <p>100 g de beurre</p>
+ <p>200 g de chair à saucisse </p>
+ <p>4 feuilles de sauge</p>
+ <p>20 cl de vin blanc sec </p>
+ <p>250 g de tomates concassées</p>
+ <p>sel, poivre</p>
+ <p>1 l de bouillon</p>
+ <p>100 g de parmesan râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer finement l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=4>feuilles de sauge</ingredient>. <operation temps=6.86min espace=11>faire chauffer une grosse noix de beurre dans une <recipient>casserole</recipient> à fond épais et y</operation> <operation temps=6.86min espace=11>faire dorer l’ <ingredient quantite=1>oignon</ingredient>,</operation> puis ajouter la <ingredient quantite=4>sauge</ingredient> et la <ingredient quantite=1>chair à saucisse</ingredient>. au bout de 2 min, ajouter le <ingredient quantite=1>riz</ingredient> et le <operation temps=6.86min espace=11>faire revenir jusqu’ à ce qu’ il</operation> devienne translucide. mouiller alors de <ingredient quantite=1>vin</ingredient>, mélanger et <operation temps=6.86min espace=11>laisser évaporer</operation>. lorsqu’ il n’ y a plus de liquide, verser la <ingredient quantite=1>tomate</ingredient> puis ajouter le <ingredient quantite=1>bouillon</ingredient> louche après louche. attendre que le <ingredient quantite=1>riz</ingredient> ait absorbé le liquide entre chaque louche. procéder ainsi jusqu’ à la cuisson complète du <ingredient quantite=1>riz</ingredient>, environ 20 min, sans cesser de remuer hors du feu, ajouter le beurre restant, le <ingredient quantite=1>parmesan râpé</ingredient>, saler et poivrer.
+]]>
+ </preparation>
+</recette>

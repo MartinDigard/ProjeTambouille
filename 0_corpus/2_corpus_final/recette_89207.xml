@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89207">
+ <titre>Carpaccio d’ Amore: boeuf mangue</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de carpaccio de boeuf</p>
+ <p>1 mangue bien mûre</p>
+ <p>1 morceau de gingembre frais</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>découpez la <ingredient quantite=1>mangue</ingredient> en tranches très fines (comme la viande</operation>). placez sur une belle assiette 1 tranche de viande, 1 tranche de <ingredient quantite=1>mangue</ingredient>, 1 tranche de viande, etc.. en se chevauchant à moitié. râpez du <ingredient quantite=1>gingembre frais</ingredient> dessus selon votre goût, <operation temps=0.25min espace=6>salez</operation> et <operation temps=0.5min espace=6>poivrez</operation>. <operation temps=6.86min espace=6>versez un filet d’ huile d’</operation> <ingredient quantite=1>olive</ingredient> et <operation temps=2.0min espace=6>servez aussitôt</operation>. bon appétit. peut aussi se <operation temps=6.86min espace=6>servir en <recipient>plat</recipient> principal en plus grande quantité</operation>. le mélange des couleurs est fabuleux pour les yeux et le mélange des saveurs exceptionnel pour le palais.
+]]>
+ </preparation>
+</recette>

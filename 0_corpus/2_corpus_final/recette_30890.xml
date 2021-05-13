@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30890">
+ <titre>Rôti de veau aux oignons et au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de rôti de veau</p>
+ <p>2 tomates</p>
+ <p>1 oignon </p>
+ <p>50 cl de vin blanc </p>
+ <p>500 g de petits oignons</p>
+ <p>1 pincée de sucre en poudre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la viande à dorer sur chaque côté dans une <recipient>casserole</recipient> avec du beurre. ajouter l’ <ingredient quantite=1>oignon</ingredient> émincé et les <ingredient quantite=2>tomates</ingredient> mondées et en morceaux. assaisonner et verser un peu d’ eau et le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=30.0min espace=9>laisser mijoter 30 min à feu doux</operation>. éplucher les <ingredient quantite=1>petits oignons</ingredient> et les <operation temps=6.86min espace=9>faire revenir dans une <recipient>casserole</recipient> avec du beurre et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=9>laisser mijoter à feu doux jusqu’ à ce qu’ ils</operation> dorent. déglacer le jus avec du <ingredient quantite=1>vin blanc</ingredient> et verser cette sauce sur la viande finement tranchée. servir avec les <ingredient quantite=1>petits oignons</ingredient>.
+]]>
+ </preparation>
+</recette>

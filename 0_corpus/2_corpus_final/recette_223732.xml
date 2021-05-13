@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223732">
+ <titre>Parmentier de brocolis aux quatres épices</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la purée : </p>
+ <p>2 brocolis</p>
+ <p>8 pommes de terre</p>
+ <p>20 cl de lait ou de crème liquide</p>
+ <p>muscade</p>
+ <p>Pour le mélange 4 épices : </p>
+ <p>1/2 cuillère de muscade </p>
+ <p>1/2 cuillère à café de cumin </p>
+ <p>1/2 cuillère à café de gingembre</p>
+ <p>2 clous de girofle</p>
+ <p>Pour la suite: </p>
+ <p>350 g de viande hachée</p>
+ <p>2 carottes</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1/2 piment oiseau</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>gruyère râpé</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer une <ingredient quantite=1>purée</ingredient> 50 % de brocolis et 50 % de <ingredient quantite=8>pommes de terre</ingredient>. monter la <ingredient quantite=1>purée</ingredient> au lait et assaisonner à la <ingredient quantite=1>muscade</ingredient>. dans un <recipient>mortier</recipient> préparer le <ingredient quantite=1>mélange 4 épices</ingredient> en écrasant les clous de <ingredient quantite=2>girofle</ingredient> à l’ aide d’ un <recipient>pilon</recipient> et en mélangeant avec les 3 autres <ingredient quantite=1>épices</ingredient> (les proportions seront à ajuster selon les gouts de chacun). <operation temps=6.86min espace=23>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé. ajouter la <ingredient quantite=1>viande hachée</ingredient>. incorporer le <ingredient quantite=1>mélange 4 épices</ingredient> et le 1/2 piment émincé. en fin de cuisson ajouter l’ <ingredient quantite=1>ail</ingredient> écrasé et les <ingredient quantite=2>carottes</ingredient> râpées. <operation temps=10.0min espace=23>laisser cuire 10 min en</operation> remuant de temps en temps monter le <recipient>plat</recipient> en déposant la <ingredient quantite=1>viande</ingredient> au fond et ajoutant la <ingredient quantite=1>purée</ingredient> sur le dessus. parsemer de <ingredient quantite=1>gruyère râpé</ingredient> et déposer quelques noix de beurre. enfourner et <operation temps=10.0min espace=23>laisser griller 10 min</operation>.
+]]>
+ </preparation>
+</recette>

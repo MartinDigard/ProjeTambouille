@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43954">
+ <titre>Salade de chou aux crevettes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un chou moyen pommé</p>
+ <p>200 g de crevettes décortiquées (surgelées) </p>
+ <p>une petite boîte de maïs</p>
+ <p>2 carottes rapées </p>
+ <p>mayonnaise citronnée et aillée</p>
+ <p>un pamplemousse rose pelé </p>
+ <p>quelques gouttes de tabasco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire les <ingredient quantite=1>crevettes</ingredient></operation>. eteindre au premier bouillon. emincer finement le <ingredient quantite=1>chou</ingredient>, et <ingredient quantite=1>raper</ingredient> les <ingredient quantite=2>carottes</ingredient>. dans un grand <recipient>saladier</recipient>, mélanger le <ingredient quantite=1>chou</ingredient>, les <ingredient quantite=1>crevettes</ingredient> refroidies, les <ingredient quantite=2>carottes</ingredient> et le <ingredient quantite=1>maïs</ingredient>. ajouter la <ingredient quantite=1>mayonnaise</ingredient> et 3 <ingredient quantite=1>gouttes de tabasco</ingredient>. bien mélanger. décorer avec les quatiers de <ingredient quantite=1>pamplemousse pelés</ingredient> à vif. servir bien frais. possibilité de décorer avec des demi tranches de tomates, s’ il n’ y a pas de <ingredient quantite=1>pamplemousse</ingredient>. rosé
+]]>
+ </preparation>
+</recette>

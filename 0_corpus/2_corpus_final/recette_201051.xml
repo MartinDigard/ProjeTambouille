@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201051">
+ <titre>Roulé de saumon fumé filet de sole</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 filets de sole</p>
+ <p>4 tranches de saumon fumé</p>
+ <p>20 cl de fumet</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 jaune d’ œuf</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). couper les <ingredient quantite=4>tranches de saumon</ingredient> en 2.faire des roulés avec les <ingredient quantite=8>filets</ingredient> et une bande de <ingredient quantite=4>saumon fumé</ingredient> à l’ interieur, puis les attacher avec un pic. les disposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, les mouiller avec le <ingredient quantite=1>fumet</ingredient> froid. les mettre au <recipient>four</recipient> 10 minutes puis les réserver. <operation temps=6.86min espace=11>faire réduire le <ingredient quantite=1>fumet</ingredient> à 10 cl</operation>, ajouter la <ingredient quantite=2>crème</ingredient>, assaisonner, puis ajouter le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient>, bien mélanger. napper les roulés, servir chaud. <recipient>plat</recipient> léger, peut <operation temps=6.86min espace=11>servir d’ entrée</operation> rosé
+]]>
+ </preparation>
+</recette>

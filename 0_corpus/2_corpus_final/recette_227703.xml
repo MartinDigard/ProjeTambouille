@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227703">
+ <titre>Entremet au chocolat au micro-ondes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 litre de lait</p>
+ <p>100 g de chocolat noir</p>
+ <p>3 œufs</p>
+ <p>1 cuillère à café bombée de maïzena</p>
+ <p>3 cuillères à café de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>cassez le <ingredient quantite=1>chocolat</ingredient> dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=6>ajoutez le</operation> <ingredient quantite=1>lait</ingredient> et <operation temps=5.0min espace=6>faites fondre le tout au micro-ondes à 400 watts pendant 5 min</operation>. <operation temps=6.86min espace=6>mélangez au fouet les <ingredient quantite=3>œufs</ingredient>, la</operation> maïzena et le <ingredient quantite=3>sucre</ingredient>. <operation temps=6.86min espace=6>fouettez le mélange</operation> <ingredient quantite=1>chocolat</ingredient> et lait plusieurs fois jusqu’ à ce que le <ingredient quantite=1>chocolat</ingredient> soit complètement fondu. <operation temps=6.86min espace=6>ajoutez - y la préparation tout en</operation> fouettant le tout et <operation temps=2.0min espace=6>refaites chauffer au micro-ondes à 250 watts par étape de 2 min (fouet / cuisson) jusqu’ à ce que le mélange épaississe</operation>. <operation temps=6.86min espace=6>versez dans des ramequins</operation> et <operation temps=6.86min espace=6>laissez refroidir au frigo</operation>.
+]]>
+ </preparation>
+</recette>

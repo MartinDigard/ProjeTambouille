@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90076">
+ <titre>Pudding au lait de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pains rassis coupés en morceaux. </p>
+ <p>100 g de raisins secs. </p>
+ <p>125 g de pruneaux (sans noyaux). </p>
+ <p>30 g de beurre. </p>
+ <p>300 g de sucre. </p>
+ <p>40 cl de lait de coco. </p>
+ <p>10 cl de rhum. </p>
+ <p>1 zeste de citron. </p>
+ <p>1 pincée de sel. </p>
+ <p>4 oeufs. </p>
+ <p>1 cuillère à café d’ amande amère. </p>
+ <p>1 cuillère à café de vanille. </p>
+ <p>1 cuillère de muscade. </p>
+ <p>3 cuillères à café de caramel liquide. </p>
+ <p>3 cuillères à café de cannelle. </p>
+ <p>4 cuillères à soupe de noix de coco râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tremper le <ingredient quantite=1>pain</ingredient> dans l’ eau froide durant 2 heures. tremper les <ingredient quantite=1>raisins</ingredient> dans le <ingredient quantite=1>rhum</ingredient>. <operation temps=1.0min espace=18>faire fondre le beurre</operation> et réserver. presser le <ingredient quantite=1>pain</ingredient> pour enlever l’ eau. le passer ensuite au moulin à légumes (grille fine) ou au mixer. verser le sucre dans la pâte obtenue. ajouter la <ingredient quantite=3>cannelle</ingredient>, la <ingredient quantite=1>muscade</ingredient>, le <ingredient quantite=1>zeste de citron</ingredient>. mélanger. ajouter le lait de <ingredient quantite=1>coco</ingredient>. remuer. mettre les œufs, le beurre et le <ingredient quantite=1>sel</ingredient>. mélanger. égoutter les <ingredient quantite=1>raisins</ingredient> et les pruneaux. verser le <ingredient quantite=1>rhum</ingredient> dans la préparation. ajouter le <ingredient quantite=3>caramel</ingredient>, la <ingredient quantite=1>vanille</ingredient>, l’ <ingredient quantite=1>amande amère</ingredient>. mélanger jusqu’ à obtention d’ une pâte homogène. beurrer le <recipient>moule</recipient> et y verser la préparation. <operation temps=6.86min espace=18>faire cuire à 160 ° c (thermostat 6) durant 1 h</operation>. <operation temps=20.0min espace=18>laisser refroidir</operation> puis mettre au <recipient>réfrigérateur</recipient>.
+]]>
+ </preparation>
+</recette>

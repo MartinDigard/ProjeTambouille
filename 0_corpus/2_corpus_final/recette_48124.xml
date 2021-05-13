@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48124">
+ <titre>Chocolate chip cookies</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>67 g de beurre ramolli (non fondu) </p>
+ <p>88 g de sucre de canne</p>
+ <p>1 oeuf</p>
+ <p>83 g de farine</p>
+ <p>1/2 sachet de levure</p>
+ <p>1 pincée de sel</p>
+ <p>68 g de noix hachées grossièrement</p>
+ <p>100 g de pépites de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 190 ° c (th 6 - 7). mélanger le beurre <ingredient quantite=1>ramolli</ingredient>, le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>oeuf</ingredient> entier. ajouter la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sel</ingredient>. ajouter les <ingredient quantite=1>noix</ingredient> et les <ingredient quantite=1>pépites de chocolat</ingredient>. former de petites boules de pâte avec une cuillère à café, et les disposer sur une plaque recouverte de papier sulfurisé (ou bien de l’ alu un peu beurré). les boules doivent être séparées de 5 cm les unes des autres. les mettre à mi-hauteur du <recipient>four</recipient>, et <operation temps=6.86min espace=11>laisser cuire jusqu’ à ce que les cookies soient</operation> dorés (8 min). <operation temps=6.86min espace=11>sortir la plaque du <recipient>four</recipient></operation>, <operation temps=5.0min espace=11>laisser refroidir 5 min</operation>. décoller les cookies, les mettre sur une grille et les <operation temps=10.0min espace=11>laisser refroidir 10 min</operation>. le coeur des cookies doit être moelleux... les proportions sont étranges mais c’ est parce que je tiens cette recette des etats-unis où ils parlent de " cups ", de " teaspoons " et d’ " ounces "...
+]]>
+ </preparation>
+</recette>

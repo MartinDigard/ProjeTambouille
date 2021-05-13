@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23024">
+ <titre>Taboulé au boeuf, vermicelles et coriandre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de céréales ou de boulgour</p>
+ <p>75 g de vermicelles au soja</p>
+ <p>1 concombre</p>
+ <p>2 avocats</p>
+ <p>400 g de rumsteak en fines tranches</p>
+ <p>1 bouquet de coriandre</p>
+ <p>2 branches de menthe</p>
+ <p>3 cuillères à soupe de sauce de soja</p>
+ <p>3 cuillères à soupe de jus de citron vert</p>
+ <p>1 gousse d’ ail écrasée</p>
+ <p>une poignée de cacahuètes</p>
+ <p>Pour la sauce: </p>
+ <p>6 cuillères à soupe de sauce de soja</p>
+ <p>4 cuillères à soupe de jus de citron</p>
+ <p>3 cuillères à café de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faire cuire les <ingredient quantite=1>céréales</ingredient> (</operation> ou tremper le <ingredient quantite=1>boulgour</ingredient>). une fois refroidies les mettre dans un <recipient>saladier</recipient>. y ajouter le comcombre (râpé avec la peau ou en petits dés), la <ingredient quantite=1>coriandre</ingredient> et la <ingredient quantite=2>menthe</ingredient> ciselées, la chair d’ <ingredient quantite=1>avocat</ingredient>. <operation temps=6.86min espace=17>arrosez de</operation> <ingredient quantite=3>sauce</ingredient>, mélanger et placer 1 h au frais. dans un bol mélanger la <ingredient quantite=1>sauce de soja</ingredient>, l’ <ingredient quantite=1>ail écrasé</ingredient> et le <ingredient quantite=3>jus de citron</ingredient>. verser sur les <ingredient quantite=1>rumsteak</ingredient> et <operation temps=6.86min espace=17>laisser mariner 10</operation> mn. <operation temps=1.0min espace=17>faire saisir la viande 1 mn de chaque côté sans matière grasse</operation>. découper le boeuf en <ingredient quantite=1>fines</ingredient> lamelles, les déposer sur le taboulé et parsemer de <ingredient quantite=1>cacahuètes</ingredient>. idéal pour l’ été en entrée ou en <recipient>plat</recipient> unique
+]]>
+ </preparation>
+</recette>

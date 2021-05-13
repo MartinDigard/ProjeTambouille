@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81902">
+ <titre>Quiche lorraine au fromage blanc légère</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>400 g de fromage blanc à 0%</p>
+ <p>200 g de dés de jambon</p>
+ <p>200 g d’ emmental râpé</p>
+ <p>3 oeufs</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>1 oignon</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>sortir la <ingredient quantite=1>pâte</ingredient> puis la</operation> dérouler dans un <recipient>moule</recipient>. préchauffer votre <recipient>four</recipient> à 180 ° c (thermostat 6). dans une <recipient>poêle</recipient>, faire revenir l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=1>dés de jambon</ingredient> et 100 g de <ingredient quantite=1>fromage blanc</ingredient> pendant 15 minutes. pendant ce temps, mélanger dans un <recipient>saladier</recipient> les <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>fromage blanc</ingredient>, la <ingredient quantite=1>moutarde</ingredient> et y ajouter l’ <ingredient quantite=1>emmental</ingredient>. incorporer le premier mélange au second puis mélanger et verser dans le <recipient>moule</recipient>. enfourner pendant 30 minutes. vous pouvez aussi remplacer les <ingredient quantite=1>dés de jambon</ingredient> par des <ingredient quantite=1>dés</ingredient> de poulet pour alléger la recette. vous pouvez l’ accompagner d’ une salade au vinaigre de noix. du cidre doux
+]]>
+ </preparation>
+</recette>

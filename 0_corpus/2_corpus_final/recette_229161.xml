@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229161">
+ <titre>Cake au carrés de chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de farine</p>
+ <p>30 cl de crème fraiche</p>
+ <p>4 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ <p>50 g de chocolat noir</p>
+ <p>125 g de sucre</p>
+ <p>3 cuillères à soupe de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). dans un <recipient>saladier</recipient> <operation temps=6.86min espace=10>mélangez la farine et la <ingredient quantite=1>levure</ingredient></operation>. puis <operation temps=6.86min espace=10>incorporez les œufs, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>crème</ingredient> fraîche et le <ingredient quantite=3>cacao</ingredient></operation>. <operation temps=6.86min espace=10>versez la pâte dans un <recipient>moule</recipient> préalablement beurré</operation>. <operation temps=40.0min espace=10>disposez les carreaux de <ingredient quantite=1>chocolats</ingredient> sur le dessus de la pâte et enfournez pour 40 minutes de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

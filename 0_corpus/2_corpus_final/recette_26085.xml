@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26085">
+ <titre>Cannelloni aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>champignons surgelés (genre "mélange forestier" qu’ on trouve dans tous les hypers) d’ environ 500 g</p>
+ <p>cannelloni prêts à farcir (3-4 par personne) qu’ on trouve également en hypermarché</p>
+ <p>béchamel préparée avec votre recette préférée</p>
+ <p>mie de pain</p>
+ <p>gruyère râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites revenir les <ingredient quantite=1>champignons</ingredient> à la <recipient>poêle</recipient>, en n’</operation> oubliant pas d’ égoutter l’ eau régulièrement. <operation temps=0.25min espace=10>salez</operation> et <operation temps=6.86min espace=10>poivrez en fin de cuisson</operation>. ajoutez la <ingredient quantite=1>mie de pain</ingredient> et mixez. <operation temps=6.86min espace=10>beurrez un <recipient>plat</recipient> à gratin</operation> et <operation temps=6.86min espace=10>préchauffez le <recipient>four</recipient> à 220 ° c</operation>. <ingredient quantite=1>farcissez</ingredient> les canelloni avec ce mélange, puis <operation temps=6.86min espace=10>badigeonnez chacun d’ entre eux avec la <ingredient quantite=1>béchamel</ingredient></operation>. <operation temps=1.0min espace=10>mettez</operation> - les dans le <recipient>plat</recipient> et <operation temps=6.86min espace=10>recouvrez du reste de <ingredient quantite=1>béchamel</ingredient></operation>. saupoudrez de <ingredient quantite=1>gruyère râpé</ingredient> à votre goût. <operation temps=20.0min espace=10>enfournez environ 20 mn</operation>. si vous <operation temps=6.86min espace=10>avez une fonction’ grill’</operation>, utilisez - la sur la dernière minutes de cuisson. servez accompangné d’ une salade verte. vous pouvez ajouter des lardons au mélange forestier (je n’ ai pas essayé) et remplacer le gruyère par du parmesan. j’ ai improvisé cette <ingredient quantite=1>recette</ingredient> hier soir en me souvenant d’ une émission culinaire vue quelques semaines avant.
+]]>
+ </preparation>
+</recette>

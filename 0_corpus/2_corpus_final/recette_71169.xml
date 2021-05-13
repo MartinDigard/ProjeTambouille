@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71169">
+ <titre>Pot-au-feu du ch’ nord</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filets de poissons fermes (mérou, cabillaud, etc.) </p>
+ <p>200 g de crevettes décortiquées</p>
+ <p>Pour le bouillon: </p>
+ <p>4 pommes de terre</p>
+ <p>2 carottes</p>
+ <p>2 petits poireaux</p>
+ <p>2 oignons</p>
+ <p>30 cl de vin blanc</p>
+ <p>5 cuillères à soupe de fumet de poisson en poudre</p>
+ <p>1 bouquet garni</p>
+ <p>4 brins de persil</p>
+ <p>30 g de beurre</p>
+ <p>150 g de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher puis nettoyer les <ingredient quantite=2>carottes</ingredient>, les <ingredient quantite=4>pommes de terre</ingredient> et les <ingredient quantite=2>poireaux</ingredient>. les détailler en morceaux. emincer les <ingredient quantite=2>oignons</ingredient>. les <operation temps=6.86min espace=15>faire revenir dans le beurre</operation> chaud dans une grande <recipient>cocotte</recipient>. mélanger quelques instants, puis verser le <ingredient quantite=1>vin blanc</ingredient>. dès l’ ébullition, ajouter 1 litre d’ eau et la <ingredient quantite=5>poudre de fumet</ingredient>. mélanger et attender l’ ébullition avant d’ y verser les légumes et le <ingredient quantite=1>bouquet garni</ingredient>. saler légèrement (le <ingredient quantite=5>fumet</ingredient> est déjà très salé) et poivrer à votre goût. laisser cuire 25 min à <ingredient quantite=1>petits bouillons</ingredient> à découvert. entre temps, couper les <ingredient quantite=1>filets de poissons</ingredient> en <ingredient quantite=2>petits</ingredient> cubes de 4 à 5 cm de côté. plongez les morceaux de <ingredient quantite=5>poisson</ingredient> dans le pot-au-feu et <operation temps=10.0min espace=15>laisser cuire pendant 10 min à <ingredient quantite=2>petits</ingredient> frémissements</operation>. retirer le <ingredient quantite=1>bouquet garni</ingredient> du <ingredient quantite=1>bouillon</ingredient> et incorporer la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=15>mélangez délicatement</operation> et ajouter les <ingredient quantite=1>crevettes</ingredient> pour les <operation temps=15.0min espace=15>faire chauffer</operation>. retirer du feu aussitôt et parsemer de <ingredient quantite=4>persil</ingredient> avant de <operation temps=2.0min espace=15>servir</operation>.
+]]>
+ </preparation>
+</recette>

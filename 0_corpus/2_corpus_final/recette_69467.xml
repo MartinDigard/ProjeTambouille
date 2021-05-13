@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69467">
+ <titre>Magret aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 beaux magrets</p>
+ <p>2 gros oignons</p>
+ <p>10 olives vertes dénoyautées</p>
+ <p>15 cl environ de crème fraiche</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>oignons</ingredient> en rondelles fines et les faire revenir dans une <recipient>poêle</recipient> avec 2 <ingredient quantite=2>cuillères à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient>, à feu doux. couper les <ingredient quantite=1>olives</ingredient> en rondelles et les rajouter aux <ingredient quantite=2>oignons</ingredient>. <operation temps=30.0min espace=9>laisser mijoter 30 minutes en</operation> remuant souvent. pendant ce temps dégraisser très légérement les <ingredient quantite=2>magrets</ingredient> ne pas enlever entièrement la graisse. les <operation temps=6.86min espace=9>faire cuire dans une <recipient>poêle</recipient> d’ abord coté peau puis les</operation> tourner. 3 minutes avant la fin de la cuisson ajouter aux <ingredient quantite=2>oignons</ingredient> la <ingredient quantite=1>crème fraiche</ingredient>, saler et poivrer. si vous en <operation temps=6.86min espace=9>avez la possibilité</operation>, <operation temps=6.86min espace=9>faites cuire vos <ingredient quantite=2>magrets</ingredient> au <recipient>barbecue</recipient></operation>. <operation temps=6.86min espace=9>servir les <ingredient quantite=2>magrets</ingredient> à l’</operation> assiette en les couvrant du mélange. cotes du rhone
+]]>
+ </preparation>
+</recette>

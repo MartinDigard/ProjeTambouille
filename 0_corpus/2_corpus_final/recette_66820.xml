@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66820">
+ <titre>Risotto de Maya</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches de jambon cuit (épaisse) </p>
+ <p>1 verre d’ huile d’ olive</p>
+ <p>3 oignons</p>
+ <p>3 tomates pelées</p>
+ <p>2 tasses de riz</p>
+ <p>1 verre de vin blanc</p>
+ <p>1 tasse de petit pois (cuits) </p>
+ <p>100 g de parmesan râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez les <ingredient quantite=2>tranches de jambon</ingredient> en dés réguliers. <operation temps=6.86min espace=10>faites blondir les <ingredient quantite=3>oignons</ingredient></operation> émincés dans 3 cuillères à soupe d’ <ingredient quantite=1>huile</ingredient>. coupez les <ingredient quantite=3>tomates pelées</ingredient> en dés. <operation temps=6.86min espace=10>faites chauffer le reste de l’ <ingredient quantite=1>huile</ingredient> dans une <recipient>sauteuse</recipient></operation>, <operation temps=6.86min espace=10>jetez - y le <ingredient quantite=2>riz</ingredient> non lavé</operation>. <operation temps=6.86min espace=10>faites - le</operation> <operation temps=6.86min espace=10>revenir sans</operation> cesser de remuer, mouillez avec le bouillon et le <ingredient quantite=1>vin blanc</ingredient>. ajoutez les <ingredient quantite=3>oignons</ingredient>, le <ingredient quantite=2>jambon</ingredient>, les <ingredient quantite=3>tomates</ingredient> et les <ingredient quantite=1>petit pois</ingredient>. <operation temps=20.0min espace=10>portez à ébullition</operation>, <operation temps=6.86min espace=10>réduisez alors le feu</operation>, <operation temps=0.25min espace=10>couvrez</operation> et <operation temps=15.0min espace=10>laisser cuire à feu doux durant 15 min</operation>. rosé
+]]>
+ </preparation>
+</recette>

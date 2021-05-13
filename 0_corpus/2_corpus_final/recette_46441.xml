@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46441">
+ <titre>Emincé de poulet au miel et aux amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 escalopes de poulet (ou de dinde) </p>
+ <p>1 poivron vert</p>
+ <p>50 g d’ amandes effilées</p>
+ <p>1 grosse cuillère à soupe de miel (toutes fleurs) </p>
+ <p>1/2 verre de vin blanc</p>
+ <p>20 cl de crème fraîche semi-épaisse</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=5>escalopes</ingredient> en émincé. laver et couper le <ingredient quantite=1>poivron</ingredient>, lui ôter soigneusement les graines, et le couper en morceaux assez fins. mettre viande et <ingredient quantite=1>poivron</ingredient> dans un <recipient>plat</recipient> avec les <ingredient quantite=1>amandes</ingredient>, le <ingredient quantite=1>miel</ingredient>, <ingredient quantite=1>sel et poivre</ingredient> et <operation temps=6.86min espace=9>laisser macérer 1/4 d’ heure</operation>. <operation temps=6.86min espace=9>saisir dans une <recipient>poêle</recipient> bien</operation> chaude la préparation macérée, ajouter le <ingredient quantite=1>vin blanc</ingredient>, et <operation temps=15.0min espace=9>laisser mijoter environ 15 min à couvert</operation>. en fin de cuisson, ajouter la <ingredient quantite=1>crème</ingredient>, et <operation temps=6.86min espace=9>servir aussitôt avec un riz thaï ou basmati</operation>. j’ aime bien remplacer le <ingredient quantite=1>poivron vert</ingredient> par du jaune voire du rouge, ils sont plus doux au goût, les enfants préfèrent.
+]]>
+ </preparation>
+</recette>

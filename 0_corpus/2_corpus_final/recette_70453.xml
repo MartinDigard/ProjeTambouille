@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70453">
+ <titre>Gâteau caramélisé à l’ ananas frais</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tranches d’ ananas frais</p>
+ <p>330 g de sucre</p>
+ <p>4 oeufs</p>
+ <p>100 g de beurre</p>
+ <p>170 g de farine</p>
+ <p>3/4 de sachet levure chimique </p>
+ <p>caramel liquide tout près</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>répartir une bonne couche de <ingredient quantite=1>caramel</ingredient> dans le fond d’ un <recipient>plat</recipient> (28 cm</operation>). déposer les <ingredient quantite=6>tranches</ingredient> d’ <ingredient quantite=6>ananas</ingredient> sur le <ingredient quantite=1>caramel</ingredient>. mélanger le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=4>oeufs</ingredient>, <operation temps=6.86min espace=10>faire blanchir le mélange</operation>. incorporer la farine et la levure au mélange (<ingredient quantite=1>sucre</ingredient> - <ingredient quantite=4>oeufs</ingredient>) avec un tamis. <operation temps=6.86min espace=10>faire fondre le beurre au <recipient>micro-onde</recipient>, puis l’</operation> incorporer à la préparation. verser la pâte dans le <recipient>plat</recipient>. <operation temps=40.0min espace=10>faire cuire durant 40 min à thermostat 6 ou 180 ° c</operation>. démouler le gâteau, et arroser le du jus des ananas, 20 cl de jus est la bonne quantité. bonne dégustation. cotteau du layon
+]]>
+ </preparation>
+</recette>

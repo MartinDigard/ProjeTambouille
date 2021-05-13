@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20897">
+ <titre>Omelette aux fraises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>75 g de sucre en poudre</p>
+ <p>50 g de beurre</p>
+ <p>300 g de fraises</p>
+ <p>9 cl d’ eau-de-vie de mirabelle</p>
+ <p>2 cuillères à soupe de confiture de fraises liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la <ingredient quantite=2>confiture</ingredient> avec 6 cl d’ eau de vie et y <operation temps=6.86min espace=8>faire macérer les <ingredient quantite=1>fraises</ingredient></operation>. battre les <ingredient quantite=4>oeufs</ingredient> en omelette avec le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=8>faire cuire les <ingredient quantite=4>oeufs</ingredient> en omelette à la <recipient>poêle</recipient> dans du beurre fondu bien chaud</operation>. glisser l’ omelette sur le <recipient>plat</recipient> de service, la <operation temps=6.86min espace=8>garnir de <ingredient quantite=1>fraises</ingredient> puis la</operation> plier en 2. réchauffer l’ eau de vie à la <ingredient quantite=2>confiture</ingredient>, en arroser l’ omelette et flamber. pour une omelette plus légère, <operation temps=6.86min espace=8>battez 2 des blancs d’ <ingredient quantite=1>oeuf</ingredient> en neige</operation> et <operation temps=6.86min espace=8>incorporez - les</operation> délicatement aux <ingredient quantite=4>oeufs</ingredient> battus juste avant la cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32256">
+ <titre>Calamars à l’ armoricaine facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de blanc de seiche</p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>4 gros oignons</p>
+ <p>1/2 litre de vin blanc</p>
+ <p>1 pincée de piment de Cayenne</p>
+ <p>whisky ou cognac pour flamber</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire colorer les calamars dans l’ huile d’</operation> olive bien chaude. <operation temps=6.86min espace=6>faire <ingredient quantite=1>flamber</ingredient> au <ingredient quantite=1>whisky</ingredient> ou au <ingredient quantite=1>cognac</ingredient></operation>. ajouter les <ingredient quantite=4>oignons</ingredient> hachés, 1 <ingredient quantite=1>boîte de concentré de tomates</ingredient>. 0, 5 <ingredient quantite=1>litre de vin blanc</ingredient> sec et le <ingredient quantite=1>piment de cayenne</ingredient>. <operation temps=30.0min espace=6>laisser mijoter 20/30 mn</operation>. <operation temps=3.0min espace=6>servir avec du riz</operation>. <ingredient quantite=1>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

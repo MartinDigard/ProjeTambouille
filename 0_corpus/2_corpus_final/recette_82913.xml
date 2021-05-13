@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82913">
+ <titre>Filets de poisson à la sauce créole</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poisson de 250 g</p>
+ <p>6 tomates</p>
+ <p>2 oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>15 g de gingembre</p>
+ <p>1 bouquet de thym et persil</p>
+ <p>1 bouquet de coriandre</p>
+ <p>2 gros piments</p>
+ <p>5 cuillères à soupe d’ huile </p>
+ <p>sel et poivre (ou piments) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire chauffer 5 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=5>huile</ingredient> et y <operation temps=6.86min espace=11>faire dorer les <ingredient quantite=2>oignons</ingredient></operation> émincés. ajouter l’ <ingredient quantite=4>ail</ingredient> et le gingembre pilés. <operation temps=1.0min espace=11>faire cuire 1 minute en</operation> tournant constamment. mettre les <ingredient quantite=6>tomates</ingredient> coupées en dés, le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>persil</ingredient>. saler, poivrer. <operation temps=6.86min espace=11>laisser mijoter jusqu’ à obtention d’ une purée</operation>. réserver. assaisonner les <ingredient quantite=4>filets de poisson</ingredient> avec du <ingredient quantite=1>sel</ingredient> et du poivre. les <operation temps=6.86min espace=11>faire revenir dans de l’ <ingredient quantite=5>huile</ingredient> jusqu’ à coloration</operation>. dégraisser la <recipient>poêle</recipient>, ajouter la sauce et le <ingredient quantite=4>poisson</ingredient> et <operation temps=5.0min espace=11>laisser mijoter à feu doux 5 minutes</operation>. <operation temps=6.86min espace=11>servir avec du riz blanc</operation>. décorer de feuilles de <ingredient quantite=1>coriandres</ingredient>. pour le vin blanc prendre un vin qui accompagne les fruits de mer. un bon vin blanc
+]]>
+ </preparation>
+</recette>

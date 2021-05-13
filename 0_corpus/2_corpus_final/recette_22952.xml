@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22952">
+ <titre>Tranches de viande cuites marinées</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 tranches de viande cuite</p>
+ <p>2 oignons</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe bombée de fines herbes hachées (persil, cerfeuil, sauge, romarin et/ou basilic) </p>
+ <p>1 cuillère à soupe de vinaigre de vin</p>
+ <p>15 cl de vin blanc</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>15 cl de bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=10>faites - les blondir <ingredient quantite=2>oignons</ingredient> hachés dans l’ huile</operation>. puis ajoutez les <ingredient quantite=1>herbes</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>vin blanc</ingredient> et le <ingredient quantite=1>vinaigre</ingredient>. <operation temps=6.86min espace=10>laissez réduire jusqu’ à ce que le mélange ait la consistance d’ un sirop</operation>. <operation temps=6.86min espace=10>mouillez avec le</operation> <ingredient quantite=1>bouillon</ingredient> et <operation temps=5.0min espace=10>laissez mijoter 5 minutes</operation>. <operation temps=6.86min espace=10>réchauffez la</operation> <ingredient quantite=8>viande</ingredient> et <operation temps=6.86min espace=10>déposez - la dans un <recipient>plat</recipient> creux</operation>. <operation temps=6.86min espace=10>arrosez de la sauce</operation>. <operation temps=6.86min espace=10>laissez mariner pendant 12 heures</operation>. <operation temps=6.86min espace=10>egouttez et servir avec des cornichons, des <ingredient quantite=3>olives</ingredient> et autres pickles</operation> conservés au <ingredient quantite=1>vinaigre</ingredient>.
+]]>
+ </preparation>
+</recette>

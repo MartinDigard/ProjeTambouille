@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26064">
+ <titre>Poulet au poivron, paprika et pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 belles cuisses de poulet</p>
+ <p>1 poivron rouge</p>
+ <p>2 tomates</p>
+ <p>1 gros oignon</p>
+ <p>2-3 cuillères à soupe de crème fraîche allégée</p>
+ <p>4 ou 5 pommes de terre</p>
+ <p>huile</p>
+ <p>paprika (selon votre goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir le <ingredient quantite=2>poulet</ingredient> à l’</operation> huile (dans une <recipient>cocotte</recipient> en fonte par exemple), saler, poivrer. le <operation temps=6.86min espace=9>laisser cuire environ 1 heure</operation>. pendant ce temps: faire cuire à la vapeur les <ingredient quantite=4>pommes de terre</ingredient>. couper l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>poivron</ingredient> en fines lanières et les <ingredient quantite=2>tomates</ingredient> en quartier. quand le <ingredient quantite=2>poulet</ingredient> est cuit, ajouter l’ <ingredient quantite=1>oignon</ingredient>, le <operation temps=6.86min espace=9>faire dorer,</operation> et procéder de même avec le <ingredient quantite=1>poivron</ingredient>, puis les <ingredient quantite=2>tomates</ingredient>. au bout de 5 - 10 mn, intégrer les <ingredient quantite=4>pommes de terre</ingredient> coupées. <operation temps=6.86min espace=9>finir en</operation> incorporant la <ingredient quantite=4>crème</ingredient> fraîche mélangée au <ingredient quantite=1>paprika</ingredient>.
+]]>
+ </preparation>
+</recette>

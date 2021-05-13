@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224034">
+ <titre>Soupe de tomate aigre-douce</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 tomates ou 350 g de purée de tomate</p>
+ <p>2 carottes</p>
+ <p>1 pomme de terre</p>
+ <p>3 échalotes</p>
+ <p>2 cuillerées à soupe de vinaigre de vin</p>
+ <p>1 cuillerée à soupe de sucre</p>
+ <p>2 feuilles de laurier</p>
+ <p>persil</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>tabasco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>tomates</ingredient> en tranches. découper les <ingredient quantite=2>carottes</ingredient> et <ingredient quantite=1>pommes de terre</ingredient> en petits morceaux. <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=3>échalotes</ingredient></operation> émincées dans de l’ huile d’ olive pour les <operation temps=6.86min espace=11>faire blondir</operation>. déglacer avec le <ingredient quantite=2>vinaigre</ingredient>, ajouter le <ingredient quantite=1>sucre</ingredient>, puis <ingredient quantite=1>tomates</ingredient>, <ingredient quantite=2>carottes</ingredient> et <ingredient quantite=1>pommes de terre</ingredient>. assaisonner (poivre, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>tabasco</ingredient>) et <operation temps=5.0min espace=11>laisser cuire à feux moyen 5 min en</operation> remuant de temps en temps. <operation temps=2.0min espace=11>couvrir d’ eau</operation>, <operation temps=20.0min espace=11>laisser cuire 20 min à feu moyen</operation>. retire le <ingredient quantite=2>laurier</ingredient>, mixer, ajuster l’ assaisonnement. saupoudrer de <ingredient quantite=1>persil</ingredient> haché et servir.
+]]>
+ </preparation>
+</recette>

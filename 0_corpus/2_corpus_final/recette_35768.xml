@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35768">
+ <titre>Tarte à la crème de fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée sucrée (maison, de préférence) </p>
+ <p>150 g de beurre</p>
+ <p>50 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>700 g de fruits rouges surgelés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire votre pate sablée et la</operation> réserver. décongeler environs 350 g de <ingredient quantite=1>fruits rouges</ingredient> et les mixer. mélanger le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=3>oeufs</ingredient>. une fois le mélange blanchi, mettre a fondre le beurre doucement dans une <recipient>casserole</recipient> avec les <ingredient quantite=1>fruits</ingredient> mixés, <operation temps=5.0min espace=7>laisser fondre 5 minutes</operation> puis rajouter les <ingredient quantite=3>oeufs</ingredient>. <operation temps=6.86min espace=7>laisser alors</operation> cuire doucement. quand le mélange <ingredient quantite=1>fruits</ingredient> + <ingredient quantite=3>oeufs</ingredient> a épaissi, le retirer du feu et le <operation temps=20.0min espace=7>laisser refroidir</operation>. etaler la pâte <ingredient quantite=1>sablée</ingredient>, la cuire à blanc. etaler sur la pâte cuite la crème refroidie, puis y disposer le reste des <ingredient quantite=1>fruits rouges</ingredient> encore congelés. <operation temps=6.86min espace=7>laisser reposer au <recipient>réfrigérateur</recipient> 2 à 3 heures, c’ est prêt</operation>! champagne rosé
+]]>
+ </preparation>
+</recette>

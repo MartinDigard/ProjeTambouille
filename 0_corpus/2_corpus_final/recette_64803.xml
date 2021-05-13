@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64803">
+ <titre>Poulet aux courgettes sauce chutney</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>8 petites courgettes</p>
+ <p>2 oignons</p>
+ <p>2 cuillères à soupe de chutney</p>
+ <p>2 cuillères à soupe de moutarde</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=4>cuisses de poulet</ingredient> dans une <recipient>cocotte</recipient> en fonte avec les <ingredient quantite=2>oignons</ingredient> émincés. ajouter deux <ingredient quantite=2>cuillères à soupe de chutney</ingredient>, deux <ingredient quantite=2>cuillères à soupe de moutarde</ingredient>, un peu d’ eau, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=0.25min espace=7>couvrir</operation> et <operation temps=30.0min espace=7>laisser cuire à feu doux pendant 30 min environ</operation>. quand le <ingredient quantite=4>poulet</ingredient> est presque cuit, ajouter les <ingredient quantite=8>courgettes</ingredient> en morceaux. <operation temps=6.86min espace=7>faire cuire à</operation> découvert à feu vif jusqu’ à ce que les <ingredient quantite=8>courgettes</ingredient> soient cuites mais croquantes. <operation temps=6.86min espace=7>servir aussitôt! vin rouge pic</operation> saint loup - château valcyre
+]]>
+ </preparation>
+</recette>

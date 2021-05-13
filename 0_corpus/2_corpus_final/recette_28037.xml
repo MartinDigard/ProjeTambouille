@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28037">
+ <titre>Tarte aux pignons et aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le biscuit à l’ amande: </p>
+ <p>175 g de farine</p>
+ <p>1 oeuf</p>
+ <p>125 g de beurre mou</p>
+ <p>50 g d’ amandes en poudre</p>
+ <p>100 g de sucre glace</p>
+ <p>Pour la crème: </p>
+ <p>100 g de beurre mou</p>
+ <p>100 g d’ amandes en poudre</p>
+ <p>100 g de sucre glace</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>2 oeufs</p>
+ <p>100 g de pignons de pin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+le <ingredient quantite=1>biscuit à</ingredient> l’ <ingredient quantite=1>amande</ingredient>: mélangez tous les ingrédients secs: farine, <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> et <ingredient quantite=1>sucre glace</ingredient>. puis <operation temps=6.86min espace=16>ajoutez l’ <ingredient quantite=1>oeuf</ingredient> et le</operation> <ingredient quantite=1>beurre</ingredient> et <operation temps=6.86min espace=16>formez une boule de pâte homogène</operation>. <operation temps=6.86min espace=16>laissez reposer la pâte 1 h au <recipient>réfrigérateur</recipient></operation>. au bout de ce temps, <operation temps=6.86min espace=16>étalez la pâte et en</operation> <operation temps=6.86min espace=16>garnir un <recipient><recipient>moule</recipient> à tarte</recipient> à bords haut</operation>. la <ingredient quantite=1>crème</ingredient>: <operation temps=6.86min espace=16>travaillez le <ingredient quantite=1>beurre</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse</operation>. ajoutez l’ <ingredient quantite=1>amande en poudre</ingredient> et les <ingredient quantite=1>oeufs</ingredient> un par un. <operation temps=6.86min espace=16>terminez par le <ingredient quantite=2>miel</ingredient> et la moitié des <ingredient quantite=1>pignons</ingredient></operation>. cuisson: répartissez la <ingredient quantite=1>crème</ingredient> sur le fond de tarte et saupoudrez de <ingredient quantite=1>pignons de pin</ingredient> restant. <operation temps=6.86min espace=16>glissez le gâteau dans le <recipient>four</recipient></operation> chaud à 180 °, thermostat 6 et <operation temps=45.0min espace=16>laisser dorer 45 min</operation>.
+]]>
+ </preparation>
+</recette>

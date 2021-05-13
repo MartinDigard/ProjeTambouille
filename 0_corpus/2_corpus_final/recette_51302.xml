@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51302">
+ <titre>Marmite de curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de viande (porc, boeuf, poulet ou encore gros scampi) </p>
+ <p>15 cl lait de coco</p>
+ <p>100 g pousses de bambou en boîte en lamelles</p>
+ <p>5 petites aubergine blanches rondes ou normales</p>
+ <p>10 g poivre vert frais</p>
+ <p>facultatif: 50 g aubergines thaïlandaises vertes</p>
+ <p>facultatif: 4 feuilles de citronnier </p>
+ <p>1 cuillère à soupe de pâte de curry Thaï rouge ou vert</p>
+ <p>1 petit piment rouge</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 cuillère à soupe de sauce poisson (nuoc mam) </p>
+ <p>1 sachet de riz Basmati Uncle Ben</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>lavez les légumes à l’ eau</operation> froide, <operation temps=6.86min espace=14>égouttez les pousses de <ingredient quantite=1>bambou</ingredient></operation>. <operation temps=6.86min espace=14>coupez les aubergnes <ingredient quantite=5>rondes</ingredient> en 4, hachez le</operation> <ingredient quantite=1>piment</ingredient>, ciselez les <ingredient quantite=1>feuilles de citronnier</ingredient>, <operation temps=6.86min espace=14>coupez la <ingredient quantite=1>viande</ingredient> en fines tranches</operation>. dans une <recipient>cocotte</recipient> en terre cuite, délayez la <ingredient quantite=1>pâte de curry</ingredient> et le <ingredient quantite=1>sucre</ingredient> avec le nuoc mam et le lait de <ingredient quantite=1>coco</ingredient> puis <operation temps=6.86min espace=14>ajoutez tous les autres ingrédients</operation>. mélangez et <operation temps=20.0min espace=14>faites cuire 15 à 20 minutes</operation>. <operation temps=6.86min espace=14>servez bien chaud avec du <ingredient quantite=1>riz</ingredient> cuit selon les instructions sur la <ingredient quantite=1>boîte</ingredient></operation>. ce <recipient>plat</recipient> est original, aussi pratique comme repas amoureux que pour inviter du monde. mais attention, ça met le feu en bouche et si vous le <operation temps=6.86min espace=14>faites pour les enfants alors</operation> supprimer le poivre, le <ingredient quantite=1>piment</ingredient>, le <ingredient quantite=1>curry</ingredient> fort et remplacer par le <ingredient quantite=1>curry</ingredient> jaune tout doux sans <ingredient quantite=1>piment</ingredient>... vous <operation temps=6.86min espace=14>trouverez les ingrédients dans un supermarché asiatique</operation>. bon appétit. vin <ingredient quantite=1>rouge</ingredient> corsé
+]]>
+ </preparation>
+</recette>

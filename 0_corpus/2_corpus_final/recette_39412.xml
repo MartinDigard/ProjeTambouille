@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39412">
+ <titre>Lentilles au curry avec des bananes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oignons</p>
+ <p>2 pommes</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>200 g de lentilles rouges</p>
+ <p>50 cl de bouillon de légumes</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>1 pincée de coriandre</p>
+ <p>crème fraîche</p>
+ <p>4 bananes</p>
+ <p>30 g de beurre</p>
+ <p>riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire cuire les <ingredient quantite=3>oignons</ingredient> dans une grande <recipient>poêle</recipient>, avec un peu d’</operation> huile bien chaude. couper les <ingredient quantite=2>pommes</ingredient> en petits morceaux et écraser l’ <ingredient quantite=3>ail</ingredient>. ajouter les morceaux de <ingredient quantite=2>pommes</ingredient>, l’ <ingredient quantite=3>ail</ingredient> et le <ingredient quantite=1>curry</ingredient> aux <ingredient quantite=3>oignons</ingredient>. <operation temps=5.0min espace=14>faire cuire environ 5 minutes avant d’ y</operation> ajouter le <ingredient quantite=1>bouillon de légume</ingredient>, puis les <ingredient quantite=1>lentilles</ingredient>. <operation temps=6.86min espace=14>laisser le tout</operation> mijoter, jusqu’ à ce que le <ingredient quantite=1>bouillon</ingredient> soit absorbé par les <ingredient quantite=1>lentilles</ingredient> (15 - 20 min.) saler, poivrer, et ajouter la <ingredient quantite=1>coriandre</ingredient>. mélanger à de la <ingredient quantite=1>crème</ingredient> fraiche (quantité selon votre goût) eplucher les <ingredient quantite=4>bananes</ingredient> et les <operation temps=6.86min espace=14>faire " griller " dans du beurre chaud, jusqu’ à ce qu’ elles</operation> deviennent dorées et les disposer sur les <ingredient quantite=1>lentilles</ingredient> au <ingredient quantite=1>curry</ingredient>. <operation temps=6.86min espace=14>servir avec du <ingredient quantite=1>riz</ingredient></operation>. on peut, selon le goût, mettre des raisins secs ou des noix.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229709">
+ <titre>Tartelettes aux poires et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>60 g de chocolat</p>
+ <p>10 cl de crème</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>1 œuf</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 poire</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). découper des ronds de pâte et les mettre dans les moules à tartelettes. au micro-ondes, <operation temps=6.86min espace=8>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec la <ingredient quantite=1>crème</ingredient></operation>. ajouter la <ingredient quantite=1>cuillère à soupe de maïzena</ingredient>, l’ <ingredient quantite=1>œuf</ingredient> puis le <ingredient quantite=1>sachet de sucre vanillé</ingredient>. <operation temps=6.86min espace=8>remplir les moules à tartelettes de la préparation</operation> chocolatée. découper les <ingredient quantite=1>poires</ingredient> en fines lamelles et les <operation temps=6.86min espace=8>répartir sur les tartelettes</operation>. enfourner et <operation temps=15.0min espace=8>faire cuire 15 min</operation>. thé, café, <ingredient quantite=1>chocolat</ingredient> chaud
+]]>
+ </preparation>
+</recette>

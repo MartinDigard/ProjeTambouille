@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70388">
+ <titre>Omelette d’ endives aux fines herbes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs </p>
+ <p>250g de lardons </p>
+ <p>3 endives de terre </p>
+ <p>Fines herbes</p>
+ <p>Sel, poivre</p>
+ <p>Beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=2.0min espace=7>faites revenir les <ingredient quantite=3>endives</ingredient> dans une <recipient>poêle</recipient> pendant 2 min</operation> et ajouter les <ingredient quantite=1>lardons</ingredient> (non salés). <operation temps=6.86min espace=7>laissez mijoter encore une min</operation>. puis casser 4 <ingredient quantite=4>oeufs</ingredient> et mélangez le tout avec les <ingredient quantite=1>fines herbes</ingredient>. <operation temps=0.25min espace=7>salez</operation>, <operation temps=0.5min espace=7>poivrez</operation>. a déguster chaud, ou froid sur une tranche de pain de campagne. bon appétit! peut <operation temps=6.86min espace=7>servir aussi d’ amuse - gueule, servie froid sur une tranche de pain de campagne ou de mie</operation> et découpée en petits morceaux. côte du rhône
+]]>
+ </preparation>
+</recette>

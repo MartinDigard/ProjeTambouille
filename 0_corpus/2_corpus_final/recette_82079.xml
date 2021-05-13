@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82079">
+ <titre>Escalope de veau à la normande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de veau d’ environ 150 g</p>
+ <p>50 g de margarine</p>
+ <p>2 pommes</p>
+ <p>1 verre de calvados</p>
+ <p>12, 5 cl de crème fraîche</p>
+ <p>sel et poivre</p>
+ <p>croutons frits au beurre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire fondre la margarine dans une <recipient>poêle</recipient></operation> et dorer les <ingredient quantite=2>pommes</ingredient> coupées en lamelles. réserver. <operation temps=6.86min espace=8>faire cuire les <ingredient quantite=4>escalopes</ingredient> à point, saler</operation> et poivrer. réserver au chaud. déglacer les sucs de cuisson avec le <ingredient quantite=1>calvados</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>, <operation temps=6.86min espace=8>laisser réduire à souhait</operation>. disposer les <ingredient quantite=4>escalopes</ingredient> sur des assiettes chaudes, les napper de sauce, servir avec des croquettes de <ingredient quantite=2>pommes</ingredient> de terre et des <ingredient quantite=1>croutons</ingredient> de pain <ingredient quantite=1>frits au beurre</ingredient>. vouvray
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49122">
+ <titre>Farfallone à la niçoise</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farfallone (pâtes) </p>
+ <p>350 g de haricots verts</p>
+ <p>60 g de filets d’ anchois</p>
+ <p>250 g de tomates cerise</p>
+ <p>2 gousses d’ ail</p>
+ <p>8 cl d’ huile d’ olive</p>
+ <p>parmesan râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites cuire les pâtes «</operation> al dente » dans une grande quantité d’ eau bouillante salée. <operation temps=10.0min espace=11>egouttez</operation> - les et <operation temps=6.86min espace=11>remettez les dans la <recipient>casserole</recipient></operation>. pendant ce temps, mettez les <ingredient quantite=1>haricots verts</ingredient> équeutés dans un grand <recipient>saladier</recipient> résistant à la chaleur et couvrez d’ eau bouillante. <operation temps=5.0min espace=11>laissez reposer 5 min</operation>. <operation temps=10.0min espace=11>egouttez</operation> - les, plongez - les dans de l’ eau glacée et <operation temps=6.86min espace=11>égouttez - les à nouveau</operation>. <operation temps=10.0min espace=11>faites chauffer l’</operation> huile dans une <recipient>poêle</recipient> et faites sauter les <ingredient quantite=1>haricots verts</ingredient> et les <ingredient quantite=1>anchois</ingredient> 3min en remuant. <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> écrasées</operation> et <operation temps=2.0min espace=11>prolongez la cuisson de 2 min</operation>. <operation temps=6.86min espace=11>incorporez les</operation> <ingredient quantite=1>tomates</ingredient> et <operation temps=8.0min espace=11>mélangez bien</operation>. <operation temps=6.86min espace=11>versez la sauce sur les pâtes</operation> et <operation temps=6.86min espace=11>faites réchauffer le tout</operation>. saupoudrer de <ingredient quantite=1>parmesan râpé</ingredient> et <operation temps=5.0min espace=11>dégustez</operation>.
+]]>
+ </preparation>
+</recette>

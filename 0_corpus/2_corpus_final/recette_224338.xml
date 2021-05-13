@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224338">
+ <titre>Poulet aux amandes et à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 blancs de poulet</p>
+ <p>125 g d’ amandes mondées</p>
+ <p>500 g de petites tomates</p>
+ <p>12 échalotes</p>
+ <p>2 cubes de bouillon de volaille</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1/2 cuillère à café de cannelle en poudre</p>
+ <p>1/2 cuillère à café de cumin en poudre</p>
+ <p>huile d’ olive</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=16>pelez</operation> et <operation temps=6.86min espace=16>coupez les <ingredient quantite=1>échalotes</ingredient> en deux</operation>. <operation temps=6.86min espace=16>coupez les blancs de <ingredient quantite=5>poulet</ingredient> en gros morceaux</operation>. lavez et <operation temps=6.86min espace=16>coupez les <ingredient quantite=1>tomates</ingredient> en deux</operation>. émiettez les <ingredient quantite=2>cubes de bouillon</ingredient> dans 30 cl d’ eau chaude. faites chauffer 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ huile dans une <recipient>cocotte</recipient>. <operation temps=6.86min espace=16>faites dorer les morceaux de <ingredient quantite=5>poulet</ingredient>,</operation> puis <operation temps=6.86min espace=16>retirez - les de la <recipient>cocotte</recipient> avec une écumoire</operation>. essuyez la <recipient>cocotte</recipient>, <operation temps=6.86min espace=16>ajoutez un filet d’ huile d’</operation> <ingredient quantite=1>olive</ingredient> et <operation temps=6.86min espace=16>faites dorer les <ingredient quantite=1>échalotes</ingredient> à feu moyen</operation>. quand les <ingredient quantite=1>échalotes</ingredient> sont bien colorées, <operation temps=6.86min espace=16>remettez les morceaux de</operation> <ingredient quantite=5>poulet</ingredient> et <operation temps=6.86min espace=16>ajoutez les <ingredient quantite=1>amandes</ingredient></operation>. <operation temps=6.86min espace=16>saupoudrez de <ingredient quantite=1>cannelle</ingredient> et de</operation> <ingredient quantite=1>cumin</ingredient>, <operation temps=6.86min espace=16>arrosez de <ingredient quantite=1>miel</ingredient></operation>. <operation temps=0.25min espace=16>salez</operation> et <operation temps=0.5min espace=16>poivrez</operation>, <operation temps=6.86min espace=16>baissez le feu</operation> et <operation temps=6.86min espace=16>mélangez jusqu’ à ce que les morceaux de <ingredient quantite=5>poulets</ingredient> et les <ingredient quantite=1>échalotes</ingredient> soient bien enrobés de <ingredient quantite=1>miel</ingredient></operation>. <operation temps=6.86min espace=16>versez le <ingredient quantite=2>bouillon</ingredient> dans la <recipient>cocotte</recipient>, couvrez</operation> et <operation temps=6.86min espace=16>faites mijoter 1h en</operation> mélangeant régulièrement. <operation temps=15.0min espace=16>ajoutez un peu d’ eau en cours de cuisson si nécessaire.15 min avant la fin de la cuisson</operation>, <operation temps=3.0min espace=16>ajoutez les</operation> <ingredient quantite=1>tomates</ingredient> et <operation temps=6.86min espace=16>terminez la cuisson à découvert</operation>. bon appétit! accompagner de pomme de terre au <recipient>four</recipient> avec une sauce basilique ou d’ une semoule fine.
+]]>
+ </preparation>
+</recette>

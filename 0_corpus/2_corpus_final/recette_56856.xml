@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56856">
+ <titre>Olives farcies all’ ascolana</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>25 olives vertes dénoyautées les plus grosses possibles</p>
+ <p>100 g de viande de boeuf hachée</p>
+ <p>30 g de jambon coupé en petits morceaux</p>
+ <p>25 g d’ oignons hachés</p>
+ <p>1 sachet de parmesan râpé</p>
+ <p>2 oeufs</p>
+ <p>farine</p>
+ <p>chapelure</p>
+ <p>huile pour frire</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation de la farce: <operation temps=5.0min espace=9>faire <ingredient quantite=1>frire</ingredient> pendant 5 minutes la <ingredient quantite=1>viande</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>jambon</ingredient> dans un peu d’ <ingredient quantite=1>huile</ingredient>, ensuite</operation> hacher finement le tout à l’ aide d’ un robot de cuisine. rajouter 1 <ingredient quantite=1>oeuf</ingredient>, tout le <ingredient quantite=1>parmesan</ingredient>, un peu de sel, poivre, <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>chapelure</ingredient> et mélanger jusqu’ à <operation temps=6.86min espace=9>obtenir une pâte assez compacte</operation>. egoutter les <ingredient quantite=1>olives</ingredient>, les <ingredient quantite=1>couper</ingredient> en deux par la longueur, les <operation temps=6.86min espace=9>remplir avec un peu de farce et les</operation> recomposer: la farce sert de " ciment " entre les deux moitiés de chaque <ingredient quantite=1>olive</ingredient>, on peut très bien <operation temps=6.86min espace=9>laisser un peu de farce à l’</operation> exterieur des deux bords de l’ <ingredient quantite=1>olive</ingredient>, l’ important c’ est que le tout tienne bien ensemble. après avoir farci toutes les <ingredient quantite=1>olives</ingredient>, les passer d’ abord dans la farine, ensuite presque une à une dans l’ <ingredient quantite=1>oeuf</ingredient> et dans la <ingredient quantite=1>chapelure</ingredient>. une technique rapide et efficace, c’ est de les <operation temps=6.86min espace=9>faire sauter quatre ou cinq fois dans une assiette plate couverte de <ingredient quantite=1>chapelure</ingredient></operation>. c’ est important que chaque <ingredient quantite=1>olive</ingredient> soit bien panée sur toute sa surface. il ne reste plus qu’ à les frire pendant trois ou quatre minutes dans l’ huile chaude. celle-ci est une version simplifiée de la recette la plus surprenante et typique d’ ascoli piceno, une ville des marches en italie centrale. c’ est une recette pas très connue dans les autres régions italiennes et pas connue du tout en france. si c’ est bien fait, c’ est quelque chose de vraiment délicieux. ca peut se <operation temps=6.86min espace=9>servir en entrée (5 ou 6 <ingredient quantite=1>olives</ingredient> par personne</operation>) accompagné d’ une <ingredient quantite=1>petite</ingredient> salade et d’ une <ingredient quantite=1>petite</ingredient> tranche de fromage pecorino avec une goutte de miel dessus. vin blanc sec
+]]>
+ </preparation>
+</recette>

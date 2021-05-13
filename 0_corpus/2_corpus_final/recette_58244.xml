@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58244">
+ <titre>Sauté de dinde aux salsifis</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 escalopes de dinde</p>
+ <p>1 boîte de petits salsifis</p>
+ <p>1 gros oignon</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel, poivre. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez finement les <ingredient quantite=6>escalopes</ingredient> ainsi que les <ingredient quantite=1>oignons</ingredient>, <operation temps=0.25min espace=6>salez</operation> et <operation temps=0.5min espace=6>poivrez</operation>. <operation temps=6.86min espace=6>egouttez les</operation> <ingredient quantite=1>salsifis</ingredient> et <operation temps=6.86min espace=6>réservez de côté</operation>. chauffez l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> dans un wook, une fois l’ <ingredient quantite=1>huile</ingredient> chaude <operation temps=6.86min espace=6>faites - y</operation> dorer les <ingredient quantite=1>oignons</ingredient> à feu moyen. <operation temps=6.86min espace=6>ajoutez la viande</operation>, <operation temps=6.86min espace=6>laissez dorer légèrement</operation>. <operation temps=3.0min espace=6>ajoutez les</operation> <ingredient quantite=1>salsifis</ingredient> et <operation temps=6.86min espace=6>laissez cuire à feu doux</operation>. <operation temps=2.0min espace=6>servez</operation> chaud. <recipient>plat</recipient> rapide et peu cher. pour les plus gourmand, rajouter de la crème fraîche avec du curry, porter à ébulition puis <operation temps=2.0min espace=6>servir</operation>. acompagner d’ un riz de préférence.
+]]>
+ </preparation>
+</recette>

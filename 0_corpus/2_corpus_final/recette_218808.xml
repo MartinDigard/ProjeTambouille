@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218808">
+ <titre>Langue de boeuf façon blanquette</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 langue de bœuf (ou de veau) </p>
+ <p>2 beaux poireaux entiers</p>
+ <p>4 carottes</p>
+ <p>15 cl de vin blanc type Riesling ou Sylvaner</p>
+ <p>20 cl de crème fleurette</p>
+ <p>1 jaune d’ œuf</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 clous de girofle</p>
+ <p>1 feuille de laurier</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faire chauffer dans une grande <recipient>casserole</recipient> une grande quantité d’ eau</operation> salée. rincer pendant ce temps la <ingredient quantite=1>langue de bœuf</ingredient>. éplucher l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. planter les clous de <ingredient quantite=2>girofle</ingredient> dans l’ <ingredient quantite=1>oignon entier</ingredient>. la plonger dans l’ eau bouillante avec l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et la feuille de <ingredient quantite=1>laurier</ingredient>. <operation temps=6.86min espace=16>laisser cuire durant 2h30.pendant ce temps</operation> éplucher et découper les <ingredient quantite=4>carottes</ingredient> en rondelle de 1 cm environ. nettoyer les poireaux et les couper tout d’ abord dans la sens de la longueur puis en gros tronçon de 10 cm environ. une fois la cuisson de la <ingredient quantite=1>langue</ingredient> terminée, la retirer de la <recipient>casserole</recipient> et la <operation temps=10.0min espace=16>laisser tiédir</operation> (conserver l’ eau de cuisson). une fois la <ingredient quantite=1>langue</ingredient> refroidie suffisamment, l’ éplucher. dans une <recipient>cocotte</recipient>, verser 1 bon litre d’ eau de cuisson. y remettre la <ingredient quantite=1>langue</ingredient> épluchée, ainsi que le poireau et les <ingredient quantite=4>carottes</ingredient>. ajouter le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=0.25min espace=16>couvrez</operation> et <operation temps=6.86min espace=16>laisser cuire à feux doux 1h</operation>. dans un bol, verser les 20 cl de <ingredient quantite=1>crème fleurette</ingredient> et la mélanger à 1 <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient>. lorsque la cuisson est terminée, verser le mélanger <ingredient quantite=1>œuf</ingredient> / crème dans la <recipient>casserole</recipient>. mélanger. rectifier l’ assaisonnement à votre goût (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>). juste avant de <operation temps=2.0min espace=16>servir</operation>, couper la <ingredient quantite=1>langue</ingredient> en tranche et la remettre dans sa sauce. c’ est une recette que je ne retrouve nulle part ailleurs, et c’ est ainsi qu’ on la prépare dans ma famille. on la déguste habituellement avec du riz, tout simplement délicieux!
+]]>
+ </preparation>
+</recette>

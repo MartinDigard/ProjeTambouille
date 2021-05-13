@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18667">
+ <titre>Spaghettis al vino</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de spaghettis</p>
+ <p>2 oignons</p>
+ <p>800 g d’ échine de porc (ou de boeuf haché, je compte 200 g par personne) </p>
+ <p>1 kg de tomates préparées (ou en boîte) </p>
+ <p>35 g de concentrée de tomate</p>
+ <p>600 g d’ olives noires (dénoyautées, de préférence) </p>
+ <p>75 cl de vin rouge (pas un gigondas mais pas de la piquette non plus) </p>
+ <p>sel, poivre</p>
+ <p>bouquet garni</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer l’ <ingredient quantite=1>oignon</ingredient>, couper la viande, <operation temps=6.86min espace=11>faire revenir le tout dans 2 cuillères à soupe d’ <ingredient quantite=1>huile</ingredient> (attention, si on</operation> utilise l’ <ingredient quantite=1>échine</ingredient> - plus goûteuse mais plus grasse - l’ émincer grossièrement et la <operation temps=6.86min espace=11>faire dorer sans matière grasse avant d’</operation> ajouter <ingredient quantite=1>huile</ingredient> et <ingredient quantite=2>oignons</ingredient>). une fois que ces ingrédients commencent à se colorer, ajouter le concentré de <ingredient quantite=1>tomate</ingredient>, baisser le feu au besoin pour <operation temps=6.86min espace=11>faire compoter légèrement le tout</operation>, ajouter les <ingredient quantite=1>olives</ingredient> qui vont rendre un peu de leur eau, continuer à <operation temps=5.0min espace=11>laisser compoter 5 mn en</operation> remuant régulièrement. ajouter enfin les <ingredient quantite=1>tomates</ingredient> (soit pelées en boîte -gaffe alors aux ingrédients, privilégier le contenu tomates + jus de <ingredient quantite=1>tomates</ingredient> aux contenus bourrés d’ acide citrique et de conservateurs inutiles et pas forcément moins chers), y joindre <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>bouquet garni</ingredient> (laurier, thym...), <operation temps=5.0min espace=11>laisser chauffer 5 mn</operation> et ajouter le <ingredient quantite=1>vin</ingredient> (1 bouteille = 75 cl). <operation temps=45.0min espace=11>laisser mijoter à couvert et à feu moyen (45 mn</operation>). parallèlement, <operation temps=6.86min espace=11>faire bouillir les pâtes’ al dente’</operation>. <operation temps=6.86min espace=11>servir en assiette</operation>, nappées de sauce, accompagnées de parmesan (emmenthal à défaut). attention, pour que le <recipient>plat</recipient> soit réussi, il faut que la sauce (d’ abord très liquide) épaississe: le <ingredient quantite=1>vin</ingredient> doit perdre en alcool pour ne garder que son parfum, intimement mêlé à celui des <ingredient quantite=1>olives noires</ingredient>... <ingredient quantite=1>rouge</ingredient> rond et puissant d’ italie, de languedoc ou de côtes-du-rhône
+]]>
+ </preparation>
+</recette>

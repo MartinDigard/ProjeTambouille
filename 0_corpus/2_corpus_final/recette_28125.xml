@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28125">
+ <titre>Gâteau chocolat’ losanges’ </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de beurre</p>
+ <p>150 g de chocolat noir</p>
+ <p>150 g de sucre</p>
+ <p>150 g de farine</p>
+ <p>1 pincée de levure chimique</p>
+ <p>4 oeufs entiers</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=4>oeufs</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>beurre</ingredient> fondu, puis le <ingredient quantite=1>chocolat</ingredient> fondu. ensuite ajouter la farine et la <ingredient quantite=1>levure</ingredient>. verser dans un <recipient><recipient>moule</recipient> à tarte</recipient> garni de papier sulfurisé. enfourner 30 à 45 mn, thermostat 180 degrés. une fois refroidi, démouler et couper en losanges. excellent pour les anniversaires chez les enfants, et pour emmener en pique-nique! crémant
+]]>
+ </preparation>
+</recette>

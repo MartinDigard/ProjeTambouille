@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42351">
+ <titre>Tarte thon et roquefort</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée ou feuilletée</p>
+ <p>1 grosse boîte de thon au naturel</p>
+ <p>100 g de roquefort</p>
+ <p>1/2 gros pot de crème fraîche</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>herbes de provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). dérouler la <ingredient quantite=1>pâte</ingredient>, et la piquer avec une fourchette. <operation temps=6.86min espace=10>emiettez le <ingredient quantite=1>thon</ingredient> sur le fond de <ingredient quantite=1>pâte</ingredient></operation>. dans un petit <recipient>saladier</recipient>, mélanger crème + <ingredient quantite=1>roquefort</ingredient> + <ingredient quantite=1>moutarde</ingredient> + <ingredient quantite=1>herbes de provence</ingredient>. verser cette préparation sur le <ingredient quantite=1>thon</ingredient>. vous pouvez <operation temps=6.86min espace=10>recouvrir d’ un peu de gruyère râpé</operation>. enfourner pdt 35 min selon votre <recipient>four</recipient>. a déguster en entrée ou en <recipient>plat</recipient> principal, avec une salade. le <ingredient quantite=1>roquefort</ingredient> appelle un vin rouge
+]]>
+ </preparation>
+</recette>

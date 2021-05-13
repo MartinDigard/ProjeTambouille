@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45880">
+ <titre>Pintade exotique</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pintades coupées en 8 morceaux</p>
+ <p>3 verres de lait de coco</p>
+ <p>1 tomate</p>
+ <p>1 oignon</p>
+ <p>1 carotte</p>
+ <p>1 poivron rouge</p>
+ <p>1/2 chou chinois</p>
+ <p>1 courgette</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>4 cuillères à café de curcuma</p>
+ <p>12 brins de cerfeuil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>pelez l’ <ingredient quantite=1>oignon</ingredient></operation>. <ingredient quantite=1>coupez</ingredient> - le en fines rondelles. <operation temps=6.86min espace=15>pelez la <ingredient quantite=1>tomate</ingredient></operation>. <ingredient quantite=1>coupez</ingredient> - la en <ingredient quantite=2>morceaux</ingredient>. <operation temps=6.86min espace=15>ouvrez le</operation> <ingredient quantite=1>poivron</ingredient>, <operation temps=6.86min espace=15>ôtez les graines et <ingredient quantite=1>coupez</ingredient> - le en lanières</operation>. chauffez l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=15>mettez - y l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=2>morceaux</ingredient> de <ingredient quantite=1>pintade</ingredient></operation>. <operation temps=10.0min espace=15>faites - les dorer 10 min en les retournant</operation>. <operation temps=6.86min espace=15>jetez la graisse</operation>, <operation temps=6.86min espace=15>ajoutez la <ingredient quantite=1>tomate</ingredient>, le <ingredient quantite=1>poivron</ingredient> et le <ingredient quantite=4>curcuma</ingredient></operation>. <operation temps=0.25min espace=15>salez</operation>, <operation temps=0.5min espace=15>poivrez</operation> et <operation temps=8.0min espace=15>mélangez bien</operation>. ajoutez le <ingredient quantite=3>lait de coco</ingredient>. <operation temps=10.0min espace=15>laissez cuire 10 min à feu moyen après le début de l’ ébulition</operation>. pendant ce temps, <operation temps=6.86min espace=15>pelez la</operation> <ingredient quantite=1>carotte</ingredient>, lavez - la ainsi que la <ingredient quantite=1>courgette</ingredient> et le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient>. <ingredient quantite=1>coupez</ingredient> ces légumes en fins bâtonnets et <operation temps=6.86min espace=15>ajoutez - les dans la <recipient>cocotte</recipient></operation>. <operation temps=12.0min espace=15>pousuivez la cuisson 10 à 12 min</operation>. <operation temps=6.86min espace=15>servez après avoir</operation> parsemé de <ingredient quantite=1>brins de cerfeuil</ingredient>. peut aussi se <operation temps=6.86min espace=15>faire avec du poulet</operation>.
+]]>
+ </preparation>
+</recette>

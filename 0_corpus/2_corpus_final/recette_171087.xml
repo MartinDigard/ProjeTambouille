@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171087">
+ <titre>Cake à la merguez</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 merguez ou 3 chipolatas déjà cuites au barbecue</p>
+ <p>1 pot de yaourt nature (qui servira de mesure) </p>
+ <p>2 pots de farine (soit blé, soit châtaigne) </p>
+ <p>1 cuillère à soupe de coulis de tomate</p>
+ <p>des herbes de Provence</p>
+ <p>1/4 de pot d’ huile </p>
+ <p>2 œufs</p>
+ <p>sel et poivre</p>
+ <p>une pincée de bicarbonate de sodium (ou de la levure) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6</operation>). dans un <recipient>saladier</recipient>, mélanger tous les ingrédients sauf les <ingredient quantite=3>merguez</ingredient>. dans un <recipient>moule</recipient> à six cakes, mettre une moitié de saucisse découpée en petits morceaux par <recipient>moule</recipient>, <operation temps=6.86min espace=15>recouvrir chaque <recipient>moule</recipient> de pâte</operation>. enfourner pendant 15 min. <operation temps=3.0min espace=15>sortir du <recipient>four</recipient></operation> et <operation temps=20.0min espace=15>laisser refroidir</operation>. parfait en entrée ou apéro dinatoire.
+]]>
+ </preparation>
+</recette>

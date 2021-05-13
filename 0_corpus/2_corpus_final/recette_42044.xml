@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42044">
+ <titre>Saint-jacques aux asperges et coriandre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 kg de noix de St-Jacques</p>
+ <p>1 boîte de tomates pelées</p>
+ <p>1 bocal d’ asperges vertes</p>
+ <p>2 cuillères à soupe de crème liquide</p>
+ <p>2 branches de coriandre fraîche</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 pincée de curry</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+décortiquer, et rincer les <ingredient quantite=1>noix de st</ingredient> - <ingredient quantite=1>jacques</ingredient> (si le poissonnier ne l’ a pas déjà fait). dans une <recipient>sauteuse</recipient> ou un <recipient>wok</recipient>, <operation temps=6.86min espace=12>faire revenir à l’ huile d’ <ingredient quantite=1>olive</ingredient>, les <ingredient quantite=1>tomates</ingredient> et les</operation> <ingredient quantite=1>asperges</ingredient>, ajouter l’ <ingredient quantite=1>ail</ingredient> écrasé, puis la <ingredient quantite=2>crème</ingredient>. <operation temps=45.0min espace=12>laisser mijoter</operation>, ajouter le <ingredient quantite=1>curry</ingredient>, le <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> et la <ingredient quantite=2>coriandre</ingredient>. <operation temps=6.86min espace=12>saisir à feu</operation> vif les <ingredient quantite=1>noix</ingredient> dans une autre <recipient>poêle</recipient>, les ajouter à la sauce, et <operation temps=6.86min espace=12>laisser mijoter encore quelques minutes</operation>. rectifier l’ assaisonnement. <operation temps=6.86min espace=12>servir avec un bon riz basmati, ou des tagliatelles <ingredient quantite=2>fraîches</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

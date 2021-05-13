@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21553">
+ <titre>Osso Bucco à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 rondelles de jarret de veau</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 cuillerées à soupe de moutarde</p>
+ <p>1 cuillerée à soupe de concentré de tomate</p>
+ <p>1 bouquet garni</p>
+ <p>50 cl de bouillon de volaille</p>
+ <p>1 à 2 cuillerées à soupe de farine</p>
+ <p>1 cuillerée à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+farinez légèrement les tranches de <ingredient quantite=6>jarret</ingredient> sur les deux faces. <operation temps=6.86min espace=14>faites - les</operation> colorer de chaque côté dans une <recipient>poêle</recipient> avec l’ <ingredient quantite=1>huile</ingredient> puis posez - les dans une <recipient>cocotte</recipient>. <operation temps=6.86min espace=14>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> haché dans la <recipient>poêle</recipient>. <operation temps=6.86min espace=14>ajoutez l’ <ingredient quantite=1>ail</ingredient></operation> haché, la <ingredient quantite=2>moutarde</ingredient> et le <ingredient quantite=1>concentré de tomate</ingredient>. <operation temps=6.86min espace=14>laissez cuire 30 secondes en</operation> remuant, <operation temps=6.86min espace=14>délayez avec le <ingredient quantite=1>bouillon</ingredient></operation>. <operation temps=6.86min espace=14>versez dans la <recipient>cocotte</recipient></operation>. ajoutez <ingredient quantite=1>bouquet garni</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=14>laissez mijoter à couvert 1 h10</operation>. <operation temps=6.86min espace=14>servez avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

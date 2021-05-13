@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26420">
+ <titre>Carottes au vin doux et à la coriandre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de jeunes carottes</p>
+ <p>50 cl de vin blanc doux</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>20 cl d’ eau</p>
+ <p>3 pincées de coriandre en grains</p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+gratter et peler les <ingredient quantite=1>carottes</ingredient>, les couper en rondelles. les mettre dans une <recipient>cocotte</recipient> avec le <ingredient quantite=1>vin blanc</ingredient> mélangé à l’ <ingredient quantite=1>eau</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. saler, poivrer et ajouter le <ingredient quantite=1>bouquet garni</ingredient> et la <ingredient quantite=3>coriandre</ingredient>. <operation temps=30.0min espace=9>faire cuire 20 à 30 min</operation>. <operation temps=6.86min espace=9>sortir les <ingredient quantite=1>carottes</ingredient> de la <recipient>cocotte</recipient> à l’</operation> aide d’ une écumoire. <operation temps=6.86min espace=9>faire réduire le jus de cuisson quelques minutes à feu vif et le</operation> filtrer. verser le jus réduit sur les <ingredient quantite=1>carottes</ingredient>, réserver au frais jusqu’ au moment de <operation temps=2.0min espace=9>servir</operation>.
+]]>
+ </preparation>
+</recette>

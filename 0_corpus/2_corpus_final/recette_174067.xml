@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174067">
+ <titre>Filet de cabillaud à l’ indienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 beaux filets de cabillaud (ou autre poisson selon vos goûts) </p>
+ <p>1 oignon</p>
+ <p>1 morceau de gingembre frais (plus ou moins gros selon vos goûts) </p>
+ <p>1 ou 2 cuillères à café de curry</p>
+ <p>1 grosse pomme</p>
+ <p>2 tomates</p>
+ <p>4 bulbes de fenouil</p>
+ <p>huile d’ olives</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>détaillez le <ingredient quantite=4>fenouil</ingredient> en petits dés ainsi que les <ingredient quantite=2>tomates</ingredient> et la <ingredient quantite=1>pomme</ingredient></operation>. hachez l’ <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=10>râpez le <ingredient quantite=1>gingembre</ingredient></operation>. <operation temps=6.86min espace=10>faites revenir dans une <recipient>poêle</recipient> avec un <ingredient quantite=1>filet</ingredient> d’ huile d’ <ingredient quantite=1>olives</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>gingembre</ingredient> et le <ingredient quantite=1>curry</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez ensuite le <ingredient quantite=4>fenouil</ingredient> et les dés de</operation> <ingredient quantite=1>pommes</ingredient>, <operation temps=6.86min espace=10>faites les</operation> sauter quelques minutes, <operation temps=6.86min espace=10>salez,</operation> puis <operation temps=6.86min espace=10>versez un petit verre d’ eau</operation>. <operation temps=0.25min espace=10>couvrir et</operation> <operation temps=10.0min espace=10>laissez cuire 10 min</operation>. <operation temps=6.86min espace=10>ajoutez ensuite les dés de <ingredient quantite=2>tomates</ingredient></operation>. poursuivre la cuisson 5 min. salez les <ingredient quantite=4>filets de cabillaud</ingredient> puis posez - les sur les légumes. <operation temps=0.25min espace=10>couvrir et</operation> <operation temps=5.0min espace=10>laissez cuire 5 min</operation>. <operation temps=6.86min espace=10>servir avec un riz basmati</operation>.
+]]>
+ </preparation>
+</recette>

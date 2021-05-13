@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50051">
+ <titre>Poulet au curry et au philadelphia</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poivron vert et 1 poivron rouge</p>
+ <p>1 carotte</p>
+ <p>100 g de pousses de soja</p>
+ <p>2 oignons</p>
+ <p>400 g de filets de poulet</p>
+ <p>2 cuillères à soupe d’ huile de sésame</p>
+ <p>25 cl de bouillon de légumes</p>
+ <p>200 g de Philadelphia nature ou ail et fines herbes</p>
+ <p>sel, poivre et curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et laver les <ingredient quantite=1>légumes</ingredient>. couper les <ingredient quantite=1>poivrons</ingredient>, les <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=2>oignons</ingredient> ; couper le <ingredient quantite=1>poulet</ingredient> en lamelles de 5 cm. <operation temps=10.0min espace=10>faire chauffer l’</operation> huile dans une <recipient>poêle</recipient>, et y <operation temps=6.86min espace=10>faire cuire la viande</operation>. ajouter les <ingredient quantite=1>légumes</ingredient>, à l’ exception des <ingredient quantite=1>pousses de soja</ingredient>, et les <operation temps=6.86min espace=10>faire étuver rapidement ; ils</operation> doivent rester croquants. ajouter le <ingredient quantite=1>bouillon</ingredient> et <operation temps=6.86min espace=10>laisser mijoter le tout</operation>. ajouter le philadelphia, et <operation temps=6.86min espace=10>laisser fondre à feu doux sans</operation> cesser de remuer. ajouter les <ingredient quantite=1>pousses de soja</ingredient> avec précaution, saler, poivrer et ajouter le <ingredient quantite=1>curry</ingredient>. accompagner de tagliatelles. en milieu de cuisson, <operation temps=6.86min espace=10>saupoudrez une pincée de poudre d’ <ingredient quantite=1>ail</ingredient></operation>. un délice!
+]]>
+ </preparation>
+</recette>

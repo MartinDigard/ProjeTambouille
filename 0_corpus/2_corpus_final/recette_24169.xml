@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24169">
+ <titre>Boeuf et pommes de terre au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de boeuf à braiser coupé en cubes</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>2 oignons hachés</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>1 cuillère à soupe de curry en poudre</p>
+ <p>2 cm de gingembre haché</p>
+ <p>2 cuillères à soupe de concentré de tomates</p>
+ <p>350 g de pommes de terre nouvelles</p>
+ <p>1 piment vert</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et <ingredient quantite=1>couper</ingredient> les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>pommes de terre</ingredient>. ecraser l’ <ingredient quantite=2>ail</ingredient>. <operation temps=6.86min espace=9>faire fondre les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=2>gingembre</ingredient> dans l’ <ingredient quantite=4>huile</ingredient> d’ olive</operation>. ajouter le <ingredient quantite=1>curry</ingredient>, <operation temps=6.86min espace=9>laisser chauffer quelques instants</operation>. ajouter le <ingredient quantite=1>boeuf</ingredient> et le <operation temps=6.86min espace=9>faire dorer sur toutes ses faces</operation>. mouiller d’ eau à hauteur, incorporer le concentré de <ingredient quantite=1>tomate</ingredient>, du sel et <operation temps=0.25min espace=9>couvrir</operation>. <operation temps=6.86min espace=9>laisser mijoter à frémissement durant 1 heure</operation>. ajouter les <ingredient quantite=1>pommes de terre coupées</ingredient> en 4 ainsi que le <ingredient quantite=1>piment vert</ingredient>. poursuivre la cuisson jusqu’ à ce que les <ingredient quantite=1>pommes de terre</ingredient> soient cuites. vous pouvez mettre plus de <ingredient quantite=1>curry</ingredient> pour plus de goût.
+]]>
+ </preparation>
+</recette>

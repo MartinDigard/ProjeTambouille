@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46634">
+ <titre>Goulgoumiche</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>9 huitres fines de claires 3</p>
+ <p>1 pâte sablée surgelée</p>
+ <p>gros sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+étaler la pâte sur la plaque à <operation temps=6.86min espace=7>rôtir du <recipient>four</recipient></operation>, mettre le <ingredient quantite=1>gros sel</ingredient> et les huîtres fermées par dessus. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7) pendant 5 min. mettre la tarte au <recipient>four</recipient>, et <operation temps=5.0min espace=7>laisser cuire environ 5 min jusqu’ à ce que les huîtres s’ ouvrent</operation>. <operation temps=6.86min espace=7>servir aussi tôt avec un beurre d’ escargots et du vin blanc</operation>. <recipient>plat</recipient> typique du pas de calais. blanc sec d’ alsace
+]]>
+ </preparation>
+</recette>

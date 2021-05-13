@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30724">
+ <titre>Boeuf émincé à la chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de filet de boeuf</p>
+ <p>12 brins de coriandre ou de persil</p>
+ <p>1 citron vert (zeste et jus) </p>
+ <p>5 gousses d’ ail</p>
+ <p>sucre</p>
+ <p>sauce nuoc mam</p>
+ <p>5 petits poivrons</p>
+ <p>2 piments rouges longs hachés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 170 ° c (thermostat 5 - 6) puis <operation temps=6.86min espace=10>enfournez le <ingredient quantite=1>boeuf</ingredient> pour 45 minutes, cuisson saignant</operation>. une fois la viande refroidie, <operation temps=6.86min espace=10>coupez des tranches très fines</operation> et <operation temps=6.86min espace=10>disposez - les dans un grand <recipient>plat</recipient></operation>. parsemez de la moitié des feuilles de <ingredient quantite=1>coriandre</ingredient> hachées et du zeste de <ingredient quantite=1>citron vert</ingredient>. hachez l’ <ingredient quantite=5>ail</ingredient> et <operation temps=6.86min espace=10>mixez les <ingredient quantite=5>poivrons</ingredient></operation>. mélangez les <ingredient quantite=5>poivrons</ingredient> avec l’ <ingredient quantite=5>ail</ingredient>, le jus de <ingredient quantite=1>citron vert</ingredient> et le <ingredient quantite=1>nuoc mam</ingredient>. <operation temps=6.86min espace=10>versez la sauce sur le</operation> <ingredient quantite=1>boeuf</ingredient>, décorez de feuilles de <ingredient quantite=1>coriandre</ingredient> et des <ingredient quantite=2>piments hachés</ingredient>. <operation temps=6.86min espace=10>servez froid</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83297">
+ <titre>Soupe au lait pour enfants</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de lait</p>
+ <p>1 pincée de sel</p>
+ <p>un peu de cannelle ou de vanille</p>
+ <p>2 cuillères à soupe de sucre fin</p>
+ <p>4 tranches de pain rassis ou des biscuits</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter le <ingredient quantite=1>lait</ingredient> à ébullition. saler dès les premiers bouillons, ajouter la <ingredient quantite=1>cannelle</ingredient> ou la <ingredient quantite=1>vanille</ingredient>, ainsi que le <ingredient quantite=2>sucre fin</ingredient>. mélanger le tout. ajouter des <ingredient quantite=4>tranches de pains</ingredient> ou quelques <ingredient quantite=4>biscuits</ingredient> et <operation temps=2.0min espace=5>servir aussitôt</operation>. bon appétit. il s’ agit d’ une préparation très simple et qui ne peut <operation temps=6.86min espace=5>faire qu’ un repas heureux pour les bambins</operation>.
+]]>
+ </preparation>
+</recette>

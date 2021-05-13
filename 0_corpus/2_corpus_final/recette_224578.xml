@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224578">
+ <titre>Petits gâteaux au cacao</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de sucre</p>
+ <p>30 g de farine</p>
+ <p>20 g de maïzena</p>
+ <p>5 g de levure chimique (1/2 sachet) </p>
+ <p>20 g de beurre</p>
+ <p>1 œuf</p>
+ <p>3 cuillères à soupe de cacao amer</p>
+ <p>10 cl de crème fraîche liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire chauffer le <recipient>four</recipient> à 200 ° c (thermostat 7</operation>). mélanger les <ingredient quantite=1>œufs</ingredient>, les <ingredient quantite=1>sucre</ingredient> et le beurre fondu de manière à avoir une pâte homogène. ajouter la farine, la <ingredient quantite=1>maïzena</ingredient>, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=3>cacao</ingredient>. beurrer les petits moules et les <operation temps=6.86min espace=9>remplir au</operation> <operation temps=15.0min espace=9>3/4.faire cuire environ 15 min</operation> et <operation temps=20.0min espace=9>laisser refroidir</operation>.
+]]>
+ </preparation>
+</recette>

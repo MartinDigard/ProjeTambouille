@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194688">
+ <titre>Cake cardamome chocolat et pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine de blé</p>
+ <p>100 g de farine 5 céréales</p>
+ <p>75 g de poudre d’ amandes</p>
+ <p>25 g de poudre de noisettes</p>
+ <p>75 g de cassonade</p>
+ <p>1/2 sachet de levure</p>
+ <p>1 pincée de sel</p>
+ <p>2 cuillères à café de poudre de cardamome (disponible en épicerie asiatique) </p>
+ <p>1 compote de pommes</p>
+ <p>2 barres d’ une plaque de chocolat pâtissier</p>
+ <p>150 ml de lait d’ amandes (ou autre lait végétal) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). mélangez tous les ingrédients secs (farines, <ingredient quantite=1>poudres</ingredient> d’ <ingredient quantite=1>amandes</ingredient> et de <ingredient quantite=1>noisettes</ingredient>, <ingredient quantite=1>cassonade</ingredient>, <ingredient quantite=1>levure</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poudre de cardamome</ingredient>) ajoutez la <ingredient quantite=1>compote de pommes</ingredient>, <operation temps=6.86min espace=13>coupez le <ingredient quantite=2>chocolat</ingredient> en pépites (au couteau)</operation> et <operation temps=6.86min espace=13>liez la préparation avec le lait d’ <ingredient quantite=1>amandes</ingredient></operation>. si le résultat est trop sec, <operation temps=6.86min espace=13>rajoutez un peu de lait d’ <ingredient quantite=1>amandes</ingredient>, s’ il est trop liquide</operation>, <operation temps=6.86min espace=13>rajoutez un peu de <ingredient quantite=1>farine</ingredient></operation>. <operation temps=6.86min espace=13>versez dans un <recipient>moule</recipient> à cake</operation> et <operation temps=40.0min espace=13>laissez cuire entre 35 et 40 minutes à 180 ° c</operation>. <operation temps=6.86min espace=13>vérifiez la cuisson avec la lame d’ un couteau</operation>. vous pouvez varier les types de farine selon ce que vous <operation temps=6.86min espace=13>avez sous la main (<ingredient quantite=1>farine</ingredient> de petit épeautre, complète</operation>...) et n’ utilisez que de la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient> si vous n’ avez pas de <ingredient quantite=1>poudre de noisettes</ingredient> à disposition. un thé au lait
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84007">
+ <titre>Flan coco tout simple</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 boite 20 cl de lait de coco</p>
+ <p>1 boite 40 cl de lait concentré sucré</p>
+ <p>1 boite 40 cl de lait concentré (non sucré) </p>
+ <p>3 œufs</p>
+ <p>1 zeste de citron vert</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>1 cuillère à café d’ extrait de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire chauffer le <recipient>four</recipient> à 220 ° c (thermostat 7/8</operation>). battre les jaunes d’ <ingredient quantite=3>œufs</ingredient> en omelette. dans un <recipient>saladier</recipient>, mélanger les 3 laits. ajouter l’ omelette, le <ingredient quantite=1>zeste de citron</ingredient>, la <ingredient quantite=1>cannelle</ingredient> et la <ingredient quantite=1>vanille</ingredient>. battre les blancs en neige et les ajouter délicatement au mélange. verser la préparation dans un <recipient>moule</recipient> (à cake de préférence) ou dans des ramequins et <operation temps=30.0min espace=11>faire cuire au <recipient>bain marie</recipient> pendant 30 minutes</operation>. <operation temps=6.86min espace=11>laissez refroidir avant de</operation> déguster. recette antillaise: ti punch ou planteur
+]]>
+ </preparation>
+</recette>

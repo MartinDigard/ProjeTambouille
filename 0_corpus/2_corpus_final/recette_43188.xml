@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43188">
+ <titre>Pain d’ épices des apiculteurs</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine de seigle</p>
+ <p>250 g de farine blanche</p>
+ <p>700 g de miel </p>
+ <p>20 cl de lait</p>
+ <p>2 sachets de levure chimique</p>
+ <p>3 oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à café de gingembre en poudre</p>
+ <p>1 zeste de citron</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 cuillère à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire bouillir le lait avec les arômates (<ingredient quantite=1>gingembre</ingredient>, vanille,</operation> <ingredient quantite=1>citron</ingredient> et <ingredient quantite=1>cannelle</ingredient>). mélanger les farines ensemble, avec la <ingredient quantite=2>levure</ingredient>, le <ingredient quantite=1>miel</ingredient>, les 3 jaunes d’ <ingredient quantite=3>oeufs</ingredient>, et le lait arômatisé. battre les <ingredient quantite=1>blancs</ingredient> en neige fermes, et les incorparer délicatement à la préparation. mettre la pâte dans 2 moules à cake. cuire au <recipient>four</recipient> à 160 ° c (thermostat 5 - 6), pendant 45 min environ. le pain d’ épice peut se conserver plusieurs jours, dans une boîte métallique. le pain d’ épice est délicieux, tartiné de beurre... mais attention aux calories! si vous <operation temps=6.86min espace=13>avez du <ingredient quantite=1>miel</ingredient> un peu</operation> durcit, n’ hésitez pas à le <operation temps=6.86min espace=13>faire chauffer au <recipient>bain marie</recipient> our le</operation> rendre plus liquide et donc plus facile à le mélanger avec la préparation. et puis bon goûter à tous.
+]]>
+ </preparation>
+</recette>

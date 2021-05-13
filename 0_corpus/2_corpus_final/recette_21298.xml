@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21298">
+ <titre>Pêches pochées au vin et à la gelée de framboise</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pêches</p>
+ <p>50 cl de vin rouge léger</p>
+ <p>70 g de gelée de framboise</p>
+ <p>70 g de sucre</p>
+ <p>1 pincée de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=5>pelez les</operation> <ingredient quantite=4>pêches</ingredient>, <operation temps=6.86min espace=5>coupez - les en deux</operation> et <operation temps=6.86min espace=5>retirez les noyaux</operation>. <operation temps=1.0min espace=5>mettez</operation> - les dans le <ingredient quantite=1>vin</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>cannelle</ingredient>. <operation temps=20.0min espace=5>portez à ébullition</operation> et <operation temps=20.0min espace=5>laissez bouillonner environ 20 min</operation>. <operation temps=6.86min espace=5>egouttez les <ingredient quantite=4>pêches</ingredient>, disposez - les dans 4 coupelles</operation> et <operation temps=6.86min espace=5>faites réduire le <ingredient quantite=1>vin</ingredient></operation>. lorsqu’ il est sirupeux, ajoutez la <ingredient quantite=1>gelée de framboises</ingredient>, <operation temps=6.86min espace=5>délayez bien</operation> et <operation temps=6.86min espace=5>versez sur les <ingredient quantite=4>pêches</ingredient></operation>. <operation temps=6.86min espace=5>réservez au frais jusqu’ au service</operation>.
+]]>
+ </preparation>
+</recette>

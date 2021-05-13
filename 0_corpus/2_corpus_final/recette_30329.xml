@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30329">
+ <titre>Galettes sarrazines au cidre et à la fondue d’ oignon</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 cuillères à soupe bombées de farine de sarrasin </p>
+ <p>3 oeufs</p>
+ <p>50 cl de cidre brut </p>
+ <p>22.5 cl de lait </p>
+ <p>15 g de beurre fondu </p>
+ <p>30 cl de crème fraîche épaisse</p>
+ <p>600 g d’ oignons émincés </p>
+ <p>9 tomates</p>
+ <p>60 g de beurre </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger la <ingredient quantite=6>farine</ingredient> et le <ingredient quantite=1>sel</ingredient>. incorporer délicatement les <ingredient quantite=3>oeufs</ingredient>, le lait, 20 cl de <ingredient quantite=1>cidre</ingredient> et le beurre. <operation temps=6.86min espace=11>laisser reposer la pâte au frais pendant 1 heure</operation>. peler les <ingredient quantite=9>tomates</ingredient>, retirer les pépins et les couper en dés. emincer finement les <ingredient quantite=1>oignons</ingredient> et les <operation temps=6.86min espace=11>faire fondre dans le beurre</operation>. arroser de <ingredient quantite=1>cidre</ingredient> et <operation temps=6.86min espace=11>laisser cuire jusqu’ à ce que le liquide soit complètement évaporé</operation>. ajouter alors les <ingredient quantite=9>tomates</ingredient> et poursuivre la cuisson 2 minutes. <operation temps=6.86min espace=11>faire cuire les galettes et les</operation> <operation temps=6.86min espace=11>garnir de la fondue d’ <ingredient quantite=1>oignon</ingredient></operation>. arroser un filet de <ingredient quantite=1>crème</ingredient> et servir bien chaud.
+]]>
+ </preparation>
+</recette>

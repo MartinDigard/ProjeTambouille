@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67032">
+ <titre>Terrine de panga</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 beaux filets de panga</p>
+ <p>1 poivron vert, rouge et jaune</p>
+ <p>5 œufs</p>
+ <p>1 pot de crème fraîche épaisse</p>
+ <p>1 gros oignon</p>
+ <p>ail (suivant votre goût) </p>
+ <p>1 petit bouquet de persil (plus ou moins selon votre goût) </p>
+ <p>2 pincées de raz el hazout (ou autres épices au choix) </p>
+ <p>60 g de fromage râpé</p>
+ <p>sel et poivre</p>
+ <p>papier sulfurisé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=17>faire revenir doucement les <ingredient quantite=1>poivrons</ingredient> coupés en dés, l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>ail</ingredient></operation>. pendant ce temps, prendre un <recipient>saladier</recipient> et mélanger le <ingredient quantite=1>pot de crème fraîche</ingredient>, le <ingredient quantite=1>fromage râpé</ingredient>, le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=2>raz el hazout</ingredient>, le <ingredient quantite=1>persil</ingredient> et les <ingredient quantite=5>œufs</ingredient> entiers. bien mélanger le tout. prendre un <ingredient quantite=4>filet de panga</ingredient> et le mixer cru, puis le rajouter à la préparation. une fois que les <ingredient quantite=1>poivrons</ingredient> et <ingredient quantite=1>oignons</ingredient> deviennent tendres, les égoutter, puis les rajouter et les mélanger dans le <recipient>saladier</recipient>. prendre un <recipient>moule</recipient> à cake, y déposer une feuille de <ingredient quantite=1>papier sulfurisé</ingredient>. y verser un peu de préparation du <recipient>saladier</recipient>, puis un <ingredient quantite=4>filet de panga</ingredient> et recommencer l’ opération à deux reprises. <operation temps=6.86min espace=17>recouvrir avec le reste du mélange,</operation> puis décorer avec du <ingredient quantite=1>persil</ingredient>. mettre à <recipient>four</recipient> chaud et <operation temps=40.0min espace=17>laisser cuire environ 40 min</operation>. planter la pointe d’ un couteau pour juger de la cuisson (elle doit <operation temps=6.86min espace=17>ressortir propre</operation>). <operation temps=2.0min espace=17>servir chaud</operation>, tiède ou froid, avec une mayonnaise au piment et une salade, à votre convenance. c’ est une entrée originale et un régal pour les papilles.
+]]>
+ </preparation>
+</recette>

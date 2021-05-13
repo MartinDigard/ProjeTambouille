@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58688">
+ <titre>Pain au saumon très facile</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 boîtes de saumon (préférer celui sans peau et sans arêtes) </p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>au choix: piment de cayenne, ciboulette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les 2 <ingredient quantite=2>boîtes de saumon</ingredient>, les 3 <ingredient quantite=3>oeufs</ingredient> et la <ingredient quantite=1>crème</ingredient>. saler, poivrer. verser dans un <recipient>moule</recipient> à cake et <operation temps=40.0min espace=9>faire cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) au <recipient>bain - marie</recipient> pendant 35 à 40 minutes</operation>. <operation temps=6.86min espace=9>laisser refroidir et servir froid</operation>. ajouter à moitié du <recipient>moule</recipient> du <ingredient quantite=2>saumon</ingredient> fumé ou bien des crevettes fraîches. prendre du <ingredient quantite=2>saumon</ingredient> en <ingredient quantite=1>boîte</ingredient> car avec le <ingredient quantite=2>saumon</ingredient> frais, le pain ne tient pas bien lors de la coupe.
+]]>
+ </preparation>
+</recette>

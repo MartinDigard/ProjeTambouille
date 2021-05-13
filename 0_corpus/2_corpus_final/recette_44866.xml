@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44866">
+ <titre>Chou - saucisses façon picarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 chou vert</p>
+ <p>5 carottes</p>
+ <p>2 tomates</p>
+ <p>1 gousse d’ ail</p>
+ <p>4 saucisses fumées</p>
+ <p>4 saucisses de Francfort</p>
+ <p>3 tranches de poitrine fumée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>chou</ingredient> en petites lamelles, et les <operation temps=6.86min espace=8>faire revenir dans une <recipient>cocotte</recipient></operation>. ajouter les <ingredient quantite=5>carottes</ingredient> détaillées en rondelles. couper grossièrement les <ingredient quantite=2>tomates</ingredient>, et les ajouter. ajouter l’ <ingredient quantite=1>ail</ingredient>. ajouter ensuite les <ingredient quantite=4>saucisses</ingredient>, préalablement piquées, puis la <ingredient quantite=3>poitrine</ingredient> coupée en petits morceaux (préférez la <ingredient quantite=3>poitrine</ingredient> aux lardons). <operation temps=6.86min espace=8>laisser cuire à feu vif quelques instants,</operation> puis contuiner la cuisson pendant environ 30 min à feu doux. <operation temps=6.86min espace=8>régalez -vous! n</operation>. b.: on peut ajouter quelques pommes de terre, s’ il y a de gros mangeurs!
+]]>
+ </preparation>
+</recette>

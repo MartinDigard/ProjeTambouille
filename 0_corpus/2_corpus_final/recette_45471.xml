@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45471">
+ <titre>Abricotises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 abricots</p>
+ <p>10 cl de crème chantilly</p>
+ <p>6 framboises</p>
+ <p>20 g sucre roux ou cassonade</p>
+ <p>20 g d’ amandes grillées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>coupez les <ingredient quantite=3>abricots</ingredient> en 2</operation> et <operation temps=6.86min espace=5>dénoyautez - les</operation>. <operation temps=6.86min espace=5>remplissez - les de</operation> <ingredient quantite=1>chantilly</ingredient>, <operation temps=6.86min espace=5>posez dessus une <ingredient quantite=1>framboise</ingredient></operation>. <operation temps=6.86min espace=5>saupoudrez de sucre et des amandes <ingredient quantite=1>grillées</ingredient></operation>. vous pouvez remplacer la <ingredient quantite=1>chantilly</ingredient> par de la glace à la vanille, les <ingredient quantite=6>framboises</ingredient> par des fraises ou cerises, les amandes par des noisettes et même le sucre par du chocolat en poudre ou des vermicelles de couleur... il y a mille facons de transformer cette recette avec des touches personnelles. parfait pour un gouter d"enfants! limonade
+]]>
+ </preparation>
+</recette>

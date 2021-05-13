@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26661">
+ <titre>Étoiles au citron</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>100 g de beurre</p>
+ <p>70 g de sucre glace</p>
+ <p>250 g de farine</p>
+ <p>1/2 paquet de levure</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>1 zeste de citron râpé</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>Pour le glaçage: </p>
+ <p>125 g de sucre glace</p>
+ <p>1 blanc d’ oeuf</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ <p>1 cuillère à café d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la farine et la <ingredient quantite=1>levure</ingredient> dans une jatte, creuser un puits. au milieu, ajouter le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, le <ingredient quantite=1>sel</ingredient> fin, le <ingredient quantite=1>zeste de citron</ingredient>, le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=3>crème</ingredient> et former avec un peu de <ingredient quantite=1>farine</ingredient> un pâton. ajouter le beurre coupé en morceaux et former à <operation temps=6.86min espace=16>partir du milieu une <ingredient quantite=1>pâte</ingredient></operation>. bien <operation temps=6.86min espace=16>pétrir afin que le beurre se</operation> mélange bien. si la <ingredient quantite=1>pâte</ingredient> colle, mettre au frais pendant 30 min. abaisser la <ingredient quantite=1>pâte</ingredient> sur un demi-centimètre d’ épaisseur et découper des étoiles. placer sur une plaque beurrée et farinée et <operation temps=10.0min espace=16>faire cuire à <recipient>four</recipient> moyen (thermostat 6) pendant 10 min</operation>. <ingredient quantite=1>glaçage</ingredient>: mélanger le <ingredient quantite=1>sucre</ingredient> glace avec autant de <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>, de <ingredient quantite=1>jus de citron</ingredient> et d’ <ingredient quantite=1>eau</ingredient> qu’ il faut pour <operation temps=6.86min espace=16>faire un <ingredient quantite=1>glaçage</ingredient> qui ne</operation> coule pas. après complet refroidissement enduire les étoiles de <ingredient quantite=1>glaçage</ingredient>. <operation temps=6.86min espace=16>laisser durcir</operation>. idéal pour noël.
+]]>
+ </preparation>
+</recette>

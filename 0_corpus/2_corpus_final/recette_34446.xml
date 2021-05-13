@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34446">
+ <titre>Cailles aux champignons et aux olives de Nice</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 cailles</p>
+ <p>6 tranches de lard</p>
+ <p>2 échalotes</p>
+ <p>1 boîte de pulpe de tomate</p>
+ <p>1 boîte de sauce tomate cuisinée</p>
+ <p>1/2 verre d’ armagnac</p>
+ <p>cèpes séchés, ou morilles, ou girolles</p>
+ <p>1/2 verre de vin rouge</p>
+ <p>1, 5 cuillerée à café de Maïzena</p>
+ <p>1 bonne poignée d’ olives noires de Nice</p>
+ <p>sel, poivre</p>
+ <p>2 cuillerées à soupe d’ huile d’ olive</p>
+ <p>Pour agrémenter: </p>
+ <p>persil haché</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=21>bardez les <ingredient quantite=6>cailles</ingredient> de <ingredient quantite=6>lard</ingredient></operation>. dans une <recipient>sauteuse</recipient>, verser l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, <operation temps=6.86min espace=21>faire revenir les <ingredient quantite=6>cailles</ingredient> de chaque côté et les</operation> réserver dans une assiette. déglacez la <recipient>sauteuse</recipient> avec l’ <ingredient quantite=1>armagnac</ingredient>. ajoutez les <ingredient quantite=2>échalotes</ingredient> finement <ingredient quantite=1>hachées</ingredient>, puis la <ingredient quantite=1>pulpe de tomate</ingredient>, <operation temps=0.25min espace=21>salez</operation> et <operation temps=0.5min espace=21>poivrez</operation>. <operation temps=6.86min espace=21>laissez réduire pendant quelques minutes</operation>. ajoutez la <ingredient quantite=1>sauce cuisinée</ingredient>, dans un bol, versez le <ingredient quantite=1>vin rouge</ingredient> puis 1/2 <ingredient quantite=1>verre</ingredient> d’ eau tiède, la <ingredient quantite=1>maïzena</ingredient>, <operation temps=5.0min espace=21>mélangez</operation> et <operation temps=6.86min espace=21>versez le tout dans la <recipient>sauteuse</recipient></operation>. <operation temps=6.86min espace=21>rajoutez la préparation</operation>. <operation temps=10.0min espace=21>laissez mijoter 10 mn à feu moyen</operation> et <operation temps=6.86min espace=21>assaisonnez selon le goût</operation> désiré. ajoutez les <ingredient quantite=1>olives de nice</ingredient> ainsi que les champignons de votre choix, <operation temps=6.86min espace=21>laissez mijoter le tout un <ingredient quantite=1>bon</ingredient> 1/4 d’ heure, si la sauce épaissit</operation>, rajouter un peu d’ eau tiède. mettre les <ingredient quantite=6>cailles</ingredient> dans la <recipient>sauteuse</recipient> et <operation temps=6.86min espace=21>laissez mijoter 1/2</operation> heure en surveillant la cuisson. <operation temps=6.86min espace=21>accompagnez ce <recipient>plat</recipient> avec des tagliatelles fraîches ou de la polenta</operation>. <ingredient quantite=1>vin rouge</ingredient> de pays
+]]>
+ </preparation>
+</recette>

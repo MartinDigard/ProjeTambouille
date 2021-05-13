@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80392">
+ <titre>Poulet curry-noix de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet coupé en morceaux ou 1 kg de cuisses et de blancs</p>
+ <p>1 gros oignon</p>
+ <p>40 g de farine</p>
+ <p>3 cuillères à soupe de curry doux</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>3 cuillères à café de sel</p>
+ <p>2 feuilles de laurier</p>
+ <p>1 gousse d’ ail</p>
+ <p>50 g de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez l’ <ingredient quantite=1>oignon</ingredient> en petit morceaux</operation> et <operation temps=6.86min espace=10>faites - le</operation> <operation temps=6.86min espace=10>revenir à feu <ingredient quantite=3>doux</ingredient> dans une <recipient>casserole</recipient> avec l’ <ingredient quantite=3>huile</ingredient></operation>. quand l’ <ingredient quantite=1>oignon</ingredient> commence à <operation temps=6.86min espace=10>ramollir</operation>, <operation temps=6.86min espace=10>augmentez le feu</operation> et <operation temps=6.86min espace=10>ajoutez le poulet</operation>. remuez bien jusqu’ à ce que le poulet commence à dorer de tous les côtés. <operation temps=6.86min espace=10>ajoutez la farine en</operation> remuant toujours, puis <operation temps=6.86min espace=10>versez de l’ eau jusqu’ à</operation> <operation temps=6.86min espace=10>recouvrir le poulet</operation>. ajoutez le <ingredient quantite=3>sel</ingredient>, le <ingredient quantite=3>curry</ingredient>, les <ingredient quantite=2>feuilles de laurier</ingredient> et la gousse d’ <ingredient quantite=1>ail</ingredient> écrasée. a ébullition, <operation temps=6.86min espace=10>baissez le feu</operation> et <operation temps=6.86min espace=10>laissez cuire une bonne trentaine de minutes</operation>. avant de <operation temps=6.86min espace=10>servir, vérifiez l’ assaisonnement</operation> et ajoutez - y la <ingredient quantite=1>noix de coco</ingredient>. même si cela paraîit bizarre de mettre de la <ingredient quantite=1>noix de coco</ingredient> avec du poulet, c’ est délicieux!!
+]]>
+ </preparation>
+</recette>

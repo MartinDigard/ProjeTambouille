@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51510">
+ <titre>Spaghetti à la tomate crue</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti</p>
+ <p>5 tomates</p>
+ <p>1 gousse d’ ail</p>
+ <p>quelques olives noires</p>
+ <p>basilic</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez les <ingredient quantite=5>tomates</ingredient> en petits cubes</operation>. <operation temps=6.86min espace=8>pelez et pressez la gousse d’ <ingredient quantite=1>ail</ingredient></operation>. <operation temps=6.86min espace=8>dénoyautez les <ingredient quantite=1>olives</ingredient> et hachez - les grossièrement</operation>. hachez le <ingredient quantite=1>basilic</ingredient>. dans le fond d’ un <recipient>saladier</recipient>, <operation temps=6.86min espace=8>mettez les <ingredient quantite=5>tomates</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, les <ingredient quantite=1>olives</ingredient>, le <ingredient quantite=1>basilic</ingredient>, l’ <ingredient quantite=5>huile</ingredient> d’ <ingredient quantite=5>olive</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=6.86min espace=8>laissez macérer</operation>. <operation temps=6.86min espace=8>faites cuire les <ingredient quantite=1>spaghetti</ingredient> à l’ eau bouillante et salée</operation>. <operation temps=10.0min espace=8>egouttez</operation> - les et <operation temps=6.86min espace=8>ajoutez - les à la sauce</operation>. mélangez et <operation temps=6.86min espace=8>dégustez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

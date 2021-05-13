@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61739">
+ <titre>Fondant au chocolat ultra facile</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de chocolat</p>
+ <p>200 g sucre</p>
+ <p>8 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. pendant ce temps, mélanger les <ingredient quantite=8>oeufs</ingredient>, le sucre et <operation temps=6.86min espace=6>faire blanchir</operation>. quand le <ingredient quantite=1>chocolat</ingredient> est fondu, l’ incorporer au mélange <ingredient quantite=8>oeufs</ingredient> et sucre. beurrer un <recipient><recipient>moule</recipient> à manqué</recipient> ou des moules individuels (de préférence en silicone) et y verser la préparation. <operation temps=10.0min espace=6>faire cuire le fondant pendant environ 7 à 10 minutes</operation>. attention, vérifier la cuisson en plantant la pointe du couteau au milieu du fondant.
+]]>
+ </preparation>
+</recette>

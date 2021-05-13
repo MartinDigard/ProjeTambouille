@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83758">
+ <titre>Boeuf haché épicés aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de boeuf haché</p>
+ <p>500 g de petits pois</p>
+ <p>250 g de haricots verts</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à café de gingembre en poudre</p>
+ <p>1 pincée de muscade en poudre</p>
+ <p>1 brin de menthe fraîche (menthe poivrée de préférence) </p>
+ <p>8 brins de coriandre fraîche</p>
+ <p>4 cuillères à soupe d’ huile d’ arachide</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>coupez les <ingredient quantite=1>haricots</ingredient> en tronçons de 1 cm de longueur</operation>. <operation temps=6.86min espace=16>faites bouillir de l’ eau</operation> salée dans une grande <recipient>casserole</recipient> et plongez - y les <ingredient quantite=1>haricots verts</ingredient> et les <ingredient quantite=1>petits pois</ingredient> (cette opération est inutile si vous utilisez des légumes en conserves). pelez et émincez très finement les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=16>rincez la <ingredient quantite=1>menthe</ingredient> et la</operation> <ingredient quantite=8>coriandre</ingredient>, <operation temps=6.86min espace=16>essorez - les</operation> et <operation temps=6.86min espace=16>ciselez</operation> - les finement. versez 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>arachide</ingredient> dans un <recipient>wok</recipient>. une fois chaude, <operation temps=6.86min espace=16>faites revenir <ingredient quantite=2>ail</ingredient> et <ingredient quantite=2>oignons</ingredient> juste le temps de les</operation> <operation temps=6.86min espace=16>faire blondir,</operation> puis ajoutez les <ingredient quantite=1>petits pois</ingredient> et les <ingredient quantite=1>haricots</ingredient>. versez 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ eau chaude et 1 <ingredient quantite=1>cuillère à soupe de sauce soja</ingredient>. <operation temps=0.25min espace=16>couvrez</operation> et <operation temps=6.86min espace=16>laissez mijoter pendant une dizaine de minutes</operation>. pendant ce temps, <operation temps=6.86min espace=16>faites chauffer sur feu vif l’ <ingredient quantite=4>huile</ingredient> restante dans une <recipient>poêle</recipient></operation>, <operation temps=6.86min espace=16>ajoutez la viande</operation>, <operation temps=6.86min espace=16>mélangez rapidement</operation>, <operation temps=6.86min espace=16>saupoudrez de <ingredient quantite=1>gingembre</ingredient> et de</operation> <ingredient quantite=1>muscade</ingredient> puis arrosez avec la <ingredient quantite=2>sauce soja</ingredient> restante. <operation temps=6.86min espace=16>versez le contenu de la <recipient>poêle</recipient> dans le <recipient>wok</recipient></operation>, <operation temps=6.86min espace=16>mélangez rapidement</operation> et <operation temps=2.0min espace=16>laissez mijoter environ 2 minutes</operation>. vérifiez l’ assaisonnement. parsemez du hachis d’ herbes et <operation temps=2.0min espace=16>servez sans</operation> attendre.
+]]>
+ </preparation>
+</recette>

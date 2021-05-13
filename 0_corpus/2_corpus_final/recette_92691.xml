@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92691">
+ <titre>Diots entiers au vin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>7 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>50 cle de vin blanc</p>
+ <p>10 diots</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- émincer les <ingredient quantite=7>oignons</ingredient> et les <operation temps=6.86min espace=7>faire revenir dans une grande <recipient>poêle</recipient> ou dans un fait - tout</operation>. quand ils sont bien fondus et un peu dorés, rajouter l’ <ingredient quantite=3>ail</ingredient> pilé saupoudrer le tout avec la farine en mélangeant vivement ajouter le <ingredient quantite=1>vin</ingredient> petit à petit en tournant, vous <operation temps=6.86min espace=7>obtenez une sauce onctueuse</operation>. plongez les <ingredient quantite=1>diots</ingredient> dans cette sauce <operation temps=0.25min espace=7>couvrir</operation> et <operation temps=20.0min espace=7>laisser mijoter à feu doux pendant 20 min servir au choix avec des crozets, des pâtes, des pommes de terres à la vapeur, ou simplement en</operation> casse-croûte dans une baguette, avec la sauce aux <ingredient quantite=7>oignons</ingredient> qui s’ imprègne dans la mie, un régal!
+]]>
+ </preparation>
+</recette>

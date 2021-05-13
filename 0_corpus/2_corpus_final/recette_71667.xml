@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71667">
+ <titre>Préparation pour Blinis (farine blé et sarrasin) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de farine de blé</p>
+ <p>60 g de farine de sarrasin</p>
+ <p>10 g de levure de boulanger fraîche</p>
+ <p>12 cl de lait tiède</p>
+ <p>20 g de beurre</p>
+ <p>1 morceau de sucre</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+i/ <operation temps=6.86min espace=8>faire le levain</operation>: mélanger la <ingredient quantite=1>levure</ingredient>, 5 cl de lait <ingredient quantite=1>tiède</ingredient>, 50 g de farine de <ingredient quantite=1>blé</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=8>couvrir d’ un linge</operation> et <operation temps=6.86min espace=8>laisser lever 2 h</operation>. ii/ les blinis: ajouter au levain la farine de <ingredient quantite=1>sarrasin</ingredient>, le <ingredient quantite=1>sel</ingredient> et le reste de farine de <ingredient quantite=1>blé</ingredient>. séparer les blancs et jaunes d’ <ingredient quantite=1>oeuf</ingredient> ajouter les jaunes d’ <ingredient quantite=2>oeufs</ingredient> et le beurre fondu <ingredient quantite=1>tiède</ingredient>. ajouter le lait restant et et 10 cl d’ eau. <operation temps=30.0min espace=8>laisser reposer 30 min</operation>. ajouter les blancs en neige. iii/ la cuisson <operation temps=6.86min espace=8>faire cuire comme des crêpes: soit de grands blinis à</operation> découper, soit des plus petits selon votre goût.
+]]>
+ </preparation>
+</recette>

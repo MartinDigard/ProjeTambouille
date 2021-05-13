@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227635">
+ <titre>Tiramisu aux cerises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de mascarpone</p>
+ <p>80 g de sucre semoule</p>
+ <p>3 œufs</p>
+ <p>250 g de cerises en bocaux ou surgelées</p>
+ <p>50 g de beurre</p>
+ <p>2 cuillères à soupe de kirsch</p>
+ <p>3 cuillères à soupe de sirop de cerise</p>
+ <p>8 madeleines</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+égoutter les <ingredient quantite=1>cerises</ingredient> ou les <operation temps=6.86min espace=10>faire décongeler</operation>. <operation temps=6.86min espace=10>faire fondre dans une <recipient>casserole</recipient> le beurre</operation>, mettre les <ingredient quantite=1>cerises</ingredient> dedans, remuer et cuire 5 min. ajouter le <ingredient quantite=2>kirsch</ingredient> et <operation temps=20.0min espace=10>laisser refroidir</operation>. séparer les blancs des jaunes. battre les jaunes avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce qu’ ils blanchissent, incorporer le <ingredient quantite=1>mascarpone</ingredient> et le <ingredient quantite=3>sirop de cerise</ingredient>. battre les blancs en neige et les ajouter délicatement au mélange jaune - sucre - <ingredient quantite=1>mascarpone</ingredient> - <ingredient quantite=3>sirop de cerise</ingredient>. dresser dans un verre ou un <recipient>plat</recipient> en mettant au fond les <ingredient quantite=1>cerises</ingredient>, puis des tranches de <ingredient quantite=8>madeleines</ingredient> sur les bords, ensuite la préparation au <ingredient quantite=1>mascarpone</ingredient> dessus, mettre au froid plusieurs heures (idéalement 12 à 24 heures). <operation temps=6.86min espace=10>servir avec quelques <ingredient quantite=1>cerises</ingredient></operation> posées dessus et un trait de <ingredient quantite=3>sirop de cerise</ingredient>.
+]]>
+ </preparation>
+</recette>

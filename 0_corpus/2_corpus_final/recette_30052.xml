@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30052">
+ <titre>Tagine d’ agneau au miel et aux oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg d’ agneau (collier, côte désossée...) </p>
+ <p>500 g d’ oignons grelots</p>
+ <p>100 g de miel liquide</p>
+ <p>1 cuillère à café de gingembre en poudre</p>
+ <p>1 bâton de cannelle</p>
+ <p>1 pincée de safran en filaments</p>
+ <p>2 cuillerées à soupe d’ huile d’ olive</p>
+ <p>1 poignée d’ amandes mondées (facultatif) </p>
+ <p>2 poignées de raisins secs (facultatif) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>découpez la viande en gros cubes</operation>. pelez les <ingredient quantite=1>oignons grelots</ingredient> (<operation temps=6.86min espace=15>faites - les</operation> tremper dans un bol d’ eau froide 20 minutes avant pour les peler plus facilement). <operation temps=6.86min espace=15>faites chauffer l’ <ingredient quantite=2>huile</ingredient> dans un <recipient>plat</recipient> à tagine ou une <recipient>cocotte</recipient></operation> allant au <recipient>four</recipient> et sur le feu. <operation temps=6.86min espace=15>faites - y</operation> dorer les morceaux de viande avec 2 <ingredient quantite=1>oignons</ingredient>. <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=2>raisins</ingredient> si vous en</operation> <operation temps=6.86min espace=15>avez, le <ingredient quantite=1>miel</ingredient>, le <ingredient quantite=1>gingembre</ingredient>, la <ingredient quantite=1>cannelle</ingredient> et le <ingredient quantite=1>safran</ingredient></operation>. <operation temps=0.25min espace=15>salez</operation>, <operation temps=0.5min espace=15>poivrez</operation>. remuez et <operation temps=6.86min espace=15>couvrez d’ eau</operation>. <operation temps=0.25min espace=15>couvrez</operation> et <operation temps=6.86min espace=15>laissez mijoter 1 h environ à feu doux</operation>. <operation temps=6.86min espace=15>retirez la viande</operation> et <operation temps=6.86min espace=15>réservez - la</operation>. <operation temps=6.86min espace=15>faites réduire le jus de cuisson aux trois quarts,</operation> puis <operation temps=6.86min espace=15>remettez la viande</operation>. <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=1>oignons</ingredient> restants et couvrez</operation>. <operation temps=6.86min espace=15>glissez au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7)</operation> et <operation temps=45.0min espace=15>laissez cuire 45 min</operation>. au moment de <operation temps=6.86min espace=15>servir, parsemez d’ <ingredient quantite=1>amandes</ingredient></operation> grillées à <ingredient quantite=1>sec</ingredient>. <operation temps=6.86min espace=15>accompagnez de semoule de couscous ou de pommes de terre (que l’ on</operation> peut ajouter dans le <recipient>plat</recipient> avant d’ enfourner).
+]]>
+ </preparation>
+</recette>

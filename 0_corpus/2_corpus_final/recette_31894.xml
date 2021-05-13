@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31894">
+ <titre>Calamars à l’ armoricaine</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de calamars</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1/2 litre de vin blanc</p>
+ <p>2 boîtes de tomates concassées (celles de 425 ml) </p>
+ <p>1 petit verre de Cognac</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>éventuellement 1 cuillerée à soupe de bisque de homard concentrée (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer les calamars (c’ est vraiment meilleur avec des calamars frais!): arracher les tentacules puis couper la tête, vider l’ intérieur du corps, poche d’ encre et cartilage. enlever la fine peau qui recouvre le corps. couper les tentacules, couper le corps en rondelles. couper les <ingredient quantite=2>oignons</ingredient> en 2, puis en fines rondelles. hacher l’ <ingredient quantite=2>ail</ingredient>. dans une <recipient>cocotte</recipient>, <operation temps=10.0min espace=12>faire chauffer l’</operation> <ingredient quantite=1>huile</ingredient>, <operation temps=2.0min espace=12>faire revenir les calamars pendant 2 mn en</operation> remuant de temps en temps. les enlever de la <recipient>cocotte</recipient> puis, à feu doux, <operation temps=6.86min espace=12>faire fondre les <ingredient quantite=2>oignons</ingredient> sans qu’ ils</operation> prennent couleur. ajouter l’ <ingredient quantite=2>ail</ingredient> à la fin. remettre les calamars dans la <recipient>cocotte</recipient>, flamber avec le <ingredient quantite=1>cognac</ingredient>, ajouter les <ingredient quantite=2>tomates concassées</ingredient>. saler, poivrer, mouiller avec le <ingredient quantite=1>vin blanc</ingredient>. poursuivre la cuisson à feu doux pendant près d’ une heure en laissant le couvercle. un peu avant la fin on peut l’ enlever si on préfère une sauce un peu épaisse. on peut aussi à ce moment -là ajouter la <ingredient quantite=1>bisque de homard</ingredient> si l’ on veut un peu corser la sauce. je n’ ai jamais très bien compris ce que cette recette avait d’ armoricain! [ ndchristophe: je <operation temps=6.86min espace=12>crois que c’ est une dérive du terme " à l’ américaine " qui a été</operation> " bretonnisé "...: -) ] un <ingredient quantite=1>vin blanc</ingredient> sec mais c’ est très bon aussi avec un <ingredient quantite=1>vin</ingredient> rouge de provence.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19162">
+ <titre>Tajine de pintade aux abricots secs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pintade fermière coupée en morceaux</p>
+ <p>150 g d’ abricots secs</p>
+ <p>1/2 citron non traité</p>
+ <p>2 oignons</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>1/2 cuillère à café de gingembre</p>
+ <p>1/2 cuillère à café de cannelle (en poudre) </p>
+ <p>4 brins de coriandre</p>
+ <p>20 cl de bouillon de volaille</p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réhydratez les <ingredient quantite=1>abricots secs</ingredient> dans un bol d’ eau tiède. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=12>faites dorer les <ingredient quantite=1>morceaux</ingredient> de pintade</operation> poivrés et salés et les <ingredient quantite=1>oignons</ingredient> émincés dans l’ <ingredient quantite=4>huile</ingredient>. <operation temps=6.86min espace=12>ajoutez la <ingredient quantite=1>cannelle</ingredient> et le</operation> <ingredient quantite=1>gingembre</ingredient> et remuz le tout pendant une minute. <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=1>abricots</ingredient> après les avoir soigneusement</operation> égouttés, ainsi que le <ingredient quantite=1>citron</ingredient> finement émincé, la <ingredient quantite=4>coriandre</ingredient> ciselée et le <ingredient quantite=1>bouillon de volaille</ingredient>. <operation temps=0.25min espace=12>couvrez</operation> et <operation temps=6.86min espace=12>laissez cuire 15</operation> mn. découvrez et <operation temps=6.86min espace=12>poursuivez la cuisson pendant encore 5 mn, afin qu’ il n’ y ait presque plus de liquide dans le <recipient>plat</recipient></operation>. <operation temps=2.0min espace=12>servez bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

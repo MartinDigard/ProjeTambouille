@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27452">
+ <titre>Thon rôti au safran et confit de légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de thon frais</p>
+ <p>300 g de tomates</p>
+ <p>2 poivrons rouges</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 échalotes</p>
+ <p>1 citron</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>50 g de beurre</p>
+ <p>1 branche de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>1 capsule de safran</p>
+ <p>1/2 cuillère à café de sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>arrosez le <ingredient quantite=1>thon</ingredient> de jus de</operation> <ingredient quantite=1>citron</ingredient>, <operation temps=6.86min espace=16>salez - le</operation>, <operation temps=6.86min espace=16>poivrez - le</operation> et <operation temps=6.86min espace=16>saupoudrez - le de <ingredient quantite=1>safran</ingredient></operation>. <operation temps=6.86min espace=16>laissez reposer 3 heures au <ingredient quantite=1>frais</ingredient></operation>. pelez et hachez les <ingredient quantite=1>tomates</ingredient>, les <ingredient quantite=2>poivrons</ingredient>, l’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=2>échalotes</ingredient>. <operation temps=6.86min espace=16>faites chauffer 2 <ingredient quantite=1>cuillères</ingredient> à soupe d’</operation> <ingredient quantite=1>huile</ingredient>, <operation temps=6.86min espace=16>jetez - y les légumes</operation> et <operation temps=6.86min espace=16>laissez confire à feu doux pendant 1 h environ</operation>. <operation temps=0.25min espace=16>salez</operation>, <operation temps=0.5min espace=16>poivrez</operation>. <operation temps=6.86min espace=16>ajoutez le <ingredient quantite=1>thym</ingredient> et le</operation> <ingredient quantite=1>laurier</ingredient>, mouillez de <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=16>saupoudrez de <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=16>laissez réduire à feu moyen jusqu’ à ce que le liquide soit évaporé</operation>. <operation temps=1.0min espace=16>faites fondre le beurre</operation>, <operation temps=6.86min espace=16>enduisez le <ingredient quantite=1>thon</ingredient> de beurre fondu</operation> et <operation temps=6.86min espace=16>mettez - le dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. <operation temps=15.0min espace=16>faites cuire 15 minutes à 200 ° c (thermostat 6 - 7</operation>). <operation temps=6.86min espace=16>servez le <ingredient quantite=1>thon</ingredient> rôti</operation> et arrosé du reste de beurre chaud, accompagné des légumes confits.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27164">
+ <titre>Poulet rôti à l’ ail</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>le foie et le gésier du poulet</p>
+ <p>15 gousses d’ ail</p>
+ <p>250 g de mie de pain rassis</p>
+ <p>10 cl d’ huile d’ olive</p>
+ <p>1 bouquet de persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=1>gousses</ingredient> d’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>gésier</ingredient>, le <ingredient quantite=1>foie et</ingredient> la <ingredient quantite=1>mie de pain</ingredient>. <operation temps=6.86min espace=9>mélangez ces éléments</operation>, <operation temps=1.0min espace=9>assaisonnez</operation> et <operation temps=6.86min espace=9>ajoutez un peu d’ <ingredient quantite=1>huile</ingredient> pour</operation> former une boule de pâte. en farcir le <ingredient quantite=1>poulet</ingredient>. <operation temps=6.86min espace=9>recousez le</operation> <ingredient quantite=1>poulet</ingredient> et <operation temps=6.86min espace=9>massez - le avec un peu d’</operation> huile. <operation temps=6.86min espace=9>faites - le cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 1 h 15 min, en</operation> salant et poivrant l’ extérieur à mi-cuisson. <operation temps=2.0min espace=9>servez bien chaud</operation>. <operation temps=6.86min espace=9>accompagnez ce <ingredient quantite=1>poulet</ingredient> d’ une <recipient>poêle</recipient> de pommes de terre aux cèpes ou de fricassée d’ aubergines et poivrons</operation>.
+]]>
+ </preparation>
+</recette>

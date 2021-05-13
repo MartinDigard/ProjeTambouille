@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80389">
+ <titre>Gratin d’ aubergines et courgettes à la mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 petites aubergines</p>
+ <p>3 petites courgettes</p>
+ <p>3 boules de mozzarella</p>
+ <p>50 g de parmesan</p>
+ <p>75 g de gruyère râpé</p>
+ <p>fines herbes</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>courgettes</ingredient> et les <ingredient quantite=2>aubergines</ingredient> en rondelles assez épaisses, d’ environ 1/2 cm d’ épaisseur. mettre de l’ eau dans un <recipient>wok</recipient> (ou <recipient>poêle</recipient>, mais plus pratique dans le <recipient>wok</recipient>), 1 cm de hauteur à peu près (plus léger que l’ huile et ça cuit très bien). y <operation temps=20.0min espace=13>faire chauffer à feu doux les légumes pendant à peu près 20 min</operation>. rajouter du <ingredient quantite=1>sel</ingredient> et des <ingredient quantite=1>fines herbes</ingredient>, et de l’ eau au fur et à mesure, pour que ça n’ attache pas. pendant ce temps, couper la <ingredient quantite=3>mozzarella</ingredient> en rondelles assez épaisses, d’ environ 1/2 cm d’ épaisseur. quand les légumes sont cuits mais restent fermes, les <operation temps=6.86min espace=13>sortir et les</operation> égoutter sur du papier absorbant. dans un <recipient>plat</recipient> beurré (dans un <recipient>moule</recipient> à soufflé ça fait joli), mettre une couche d’ <ingredient quantite=2>aubergines</ingredient>, une couche de <ingredient quantite=3>mozzarella</ingredient>, une couche de <ingredient quantite=3>courgettes</ingredient> et un peu de gruyère, une couche d’ <ingredient quantite=2>aubergines</ingredient>... et ainsi de suite. terminer par de la <ingredient quantite=3>mozzarella</ingredient> saupoudrée de <ingredient quantite=1>parmesan</ingredient>. mettre dans le <recipient>four</recipient> chaud (200 °, thermostat 6 - 7) environ 20 min puis 10 min au grill. bon appétit! plutôt léger, pas de matière grasse ajoutée, <operation temps=6.86min espace=13>mis à part celle des fromages! et ça cale bien</operation>...
+]]>
+ </preparation>
+</recette>

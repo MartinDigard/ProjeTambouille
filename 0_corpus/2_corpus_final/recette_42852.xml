@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42852">
+ <titre>Crumble d’ automne mijoté</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes</p>
+ <p>4 ou 5 poires (selon la grosseur) </p>
+ <p>1 citron</p>
+ <p>figues sèches (mais moelleuses) </p>
+ <p>cerneaux de noix</p>
+ <p>quelques raisins secs</p>
+ <p>cannelle</p>
+ <p>vergeoise blonde</p>
+ <p>Pour la pâte à crumble: </p>
+ <p>250 g de farine</p>
+ <p>125 g de beurre </p>
+ <p>Entre 100 et 150 g de sucre (selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>sortir le beurre du frigo</operation>. peler, et couper, grossièrement tous les fruits. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=4>pommes</ingredient> avec le jus de <ingredient quantite=1>citron</ingredient>, et un peu de vergeoise, pour les</operation> <operation temps=6.86min espace=14>faire caraméliser</operation>. ajouter les <ingredient quantite=4>poires</ingredient>, puis les <ingredient quantite=1>figues</ingredient>, et les <ingredient quantite=1>cerneaux de noix</ingredient>. les fruits fondent, c’ est normal! au bout de 20 min, ça ressemble un peu à de la compote avec des gros morceaux. ajouter un peu de <ingredient quantite=1>cannelle</ingredient> pour le goût. quand le mélange de fruit est bien caramélisé, le verser dans un <recipient>plat</recipient> à gratin. préparer la <ingredient quantite=1>pâte</ingredient>, en mélangeant du bout des doigts, la farine et le beurre, et la cassonade... on doit <operation temps=6.86min espace=14>obtenir une <ingredient quantite=1>pâte</ingredient> sableuse, qui</operation> fait des petites boulettes mais pas trop. on peut aussi rajouter des petits bouts de <ingredient quantite=1>noix</ingredient>! on émiette tout ça sur les fruits, et on enfourne à 180 ° c-200 ° c (thermostat 6 - 7). c’ est cuit, lorsque le dessus est légèrement doré. avec des noisettes c’ est pas mal non plus.
+]]>
+ </preparation>
+</recette>

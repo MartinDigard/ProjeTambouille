@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89183">
+ <titre>Tomates farcies au quinoa</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 poivron rouge ou vert</p>
+ <p>1 morceau de sucre</p>
+ <p>8 tomates</p>
+ <p>350 g de viande hachée</p>
+ <p>250 g quinoa</p>
+ <p>1 brin de ciboulette ou persil</p>
+ <p>1 piment d’ Espelette (ou piment rouge) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+evider les <ingredient quantite=8>tomates</ingredient> et réserver la chair et le jus. découper la chair en petits cubes. <operation temps=20.0min espace=10>faire cuire le quinoa dans une grande <recipient>casserole</recipient> d’ eau pendant 20 minutes</operation>. <operation temps=6.86min espace=10>faire revenir dans l’ huile d’ olive l’ <ingredient quantite=1>oignon</ingredient> finement</operation> émincé avec le <ingredient quantite=1>poivron</ingredient> coupé en petits cubes à feu moyen pendant 5 à 10 minutes. ajouter la chair, le jus des <ingredient quantite=8>tomates</ingredient> et le <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=10>faire réduire</operation>. ajouter la <ingredient quantite=1>viande hachée</ingredient> et assaisonner de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>ciboulette</ingredient> et / ou <ingredient quantite=1>persil</ingredient>, piment d’ <ingredient quantite=1>espelette</ingredient> finement haché. egoutter le quinoa. une fois que la <ingredient quantite=1>viande</ingredient> est cuite, la mélanger au quinoa et en farcir les <ingredient quantite=8>tomates</ingredient>. saupoudrer de gruyère râpé. enfourner à 180 ° c (thermostat 6) pendant 20 minutes. lorsque les <ingredient quantite=8>tomates</ingredient> sont cuites, c’ est prêt! une recette légère et pleine de goût!
+]]>
+ </preparation>
+</recette>

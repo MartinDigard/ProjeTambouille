@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81235">
+ <titre>Gâteau renversé aux pêches</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pêches bien mures</p>
+ <p>180 g de farine</p>
+ <p>150 g de sucre en poudre</p>
+ <p>100 g de sucre roux</p>
+ <p>120 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>1 sachet de levure chimique (10 g) </p>
+ <p>15 cl de lait</p>
+ <p>1 pincée de sel</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>mettez la moitié du beurre dans un <recipient>saladier</recipient></operation> ; travaillez - le avec le <ingredient quantite=1>sucre roux</ingredient>. <operation temps=6.86min espace=16>etalez le mélange <ingredient quantite=1>beurre</ingredient> / <ingredient quantite=1>sucre</ingredient> dans le fond d’ un <recipient><recipient>moule</recipient> à tarte</recipient> de 3o cm de</operation> diamètre (de préférence en céramique). epluchez, <operation temps=6.86min espace=16>dénoyautez</operation> et <operation temps=6.86min espace=16>coupez les <ingredient quantite=4>pêches</ingredient> en tranches</operation> et <operation temps=6.86min espace=16>disposez - les soigneusement sur le mélange <ingredient quantite=1>beurre</ingredient> / <ingredient quantite=1>sucre</ingredient></operation>. mélangez la farine, le <ingredient quantite=1>sucre en poudre</ingredient>, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=16>battez le beurre</operation> restant en crème, puis <operation temps=6.86min espace=16>incorporez - lui le mélange de farine, le lait et le <ingredient quantite=1>sucre</ingredient></operation> vanillé. <operation temps=2.0min espace=16>battez cette crème 2 minutes au batteur électrique à moyenne vitesse,</operation> puis <operation temps=6.86min espace=16>ajoutez les <ingredient quantite=2>oeufs</ingredient> en</operation> continuant à battre. <operation temps=6.86min espace=16>versez cette préparation sur les</operation> <ingredient quantite=4>pêches</ingredient> et <operation temps=6.86min espace=16>faites cuire dans un <recipient>four</recipient> préchauffé à température chaude, 240 ° c (thermostat 8</operation>). <operation temps=10.0min espace=16>laissez refroidir le gâteau 10 minutes puis retournez - le sur le <recipient>plat</recipient> de service</operation> ; <operation temps=6.86min espace=16>laissez reposer quelques minutes avant de</operation> <operation temps=2.0min espace=16>servir</operation>. servez tiède. a <operation temps=2.0min espace=16>servir</operation> à l’ heure du thé ou pour le goûter des enfants. <operation temps=6.86min espace=16>pensez à</operation> mettre du papier d’ alu sous le <recipient>plat</recipient> car la préparation risque de couler et de brûler dans le <recipient>four</recipient>!
+]]>
+ </preparation>
+</recette>

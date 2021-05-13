@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30210">
+ <titre>Pâte à pizza de Rémi</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cube de levure de boulanger (40 g) </p>
+ <p>5 cl d’ eau tiède</p>
+ <p>60 g + 700 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>3 cuillères a soupes d’ huile d’ olive</p>
+ <p>30 cl d’ eau </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer le levain: diluer la <ingredient quantite=1>levure de boulanger</ingredient> dans l’ <ingredient quantite=1>eau tiède</ingredient>, ajouter 50 g de farine. mélanger et <operation temps=6.86min espace=7>laisser reposer une petite heure à l’ abris des courants d’ air</operation>. former une fontaine dans les 700 g de farine restants et y déposer le levain et 1 pincée de <ingredient quantite=1>sel</ingredient>. commencer a <operation temps=6.0min espace=7>pétrir</operation>. ajouter l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et les 30 cl d’ <ingredient quantite=1>eau</ingredient> (ajouter petit à petit). <operation temps=6.0min espace=7>pétrir</operation> pendant environ 10 minutes. en <operation temps=6.86min espace=7>faire une boule, la</operation> fariner, et la <operation temps=6.86min espace=7>laisser doubler de volume pendant 1h30 dans une jatte, à couvert, au chaud et à l’ abris des courants d’ air</operation>. la <operation temps=6.0min espace=7>pétrir</operation> alors pendant 1 minute, puis lui donner la forme voulue. avec cette pâte, vous pouvez réaliser pizza ou flammenkuche.
+]]>
+ </preparation>
+</recette>

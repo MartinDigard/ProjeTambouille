@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34192">
+ <titre>Canard farci aux marrons et aux fruits secs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 canard</p>
+ <p>sel, poivre</p>
+ <p>Pour la farce: </p>
+ <p>3 tranches de toast</p>
+ <p>1-2 cuillères à soupe de beurre</p>
+ <p>1 oignon</p>
+ <p>100 g de fruits secs (figues, abricots, prunes) </p>
+ <p>100 g de marrons pelés</p>
+ <p>25 g d’ amandes mondées</p>
+ <p>25 g de noix</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère de sirop (genre sirop d’ érable) </p>
+ <p>1 peu de piment de Cayenne</p>
+ <p>Pour agrémenter: </p>
+ <p>1 oignon</p>
+ <p>carottes</p>
+ <p>céleri</p>
+ <p>800 g de bouillon</p>
+ <p>4 cl de Porto</p>
+ <p>une branche de romarin pour la décoration</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver le <ingredient quantite=1>canard</ingredient>, l’ essuyer, et le frotter de <ingredient quantite=1>sel</ingredient> et de poivre à l’ intérieur et à l’ extérieur. couper le <ingredient quantite=3>toast</ingredient> en petits carrés et les <operation temps=6.86min espace=27>faire revenir dans du <ingredient quantite=2>beurre</ingredient></operation>. les mettre de côté. <operation temps=6.86min espace=27>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé tout petit dans le reste du <ingredient quantite=2>beurre</ingredient>. couper les <ingredient quantite=1>fruits secs</ingredient> en petits carrés, les ajouter à l’ <ingredient quantite=1>oignon</ingredient>, bien mélanger. puis enlever du feu. hacher les <ingredient quantite=1>marrons</ingredient>, <ingredient quantite=1>amandes</ingredient> et <ingredient quantite=1>noix</ingredient> dans un mixer, les ajouter à l’ <ingredient quantite=1>oignon</ingredient> et aux <ingredient quantite=1>fruits secs</ingredient>. mélanger. puis enlever du feu et ajouter les carrés de <ingredient quantite=3>toast</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=1>sirop</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>piment de cayenne</ingredient>. en <operation temps=6.86min espace=27>faire une masse</operation>. préchauffer le <recipient>four</recipient> à 200 ° c. <operation temps=6.86min espace=27>remplir le <ingredient quantite=1>canard</ingredient> de la <ingredient quantite=1>farce</ingredient></operation>. fermer l’ ouverture soit en la cousant, soit en prenant des cure - dents. poser le <ingredient quantite=1>canard</ingredient> sur un <recipient>plat</recipient> allant au <recipient>four</recipient>. <ingredient quantite=1>peler</ingredient> les légumes et les poser dans le <recipient>plat</recipient> et mettre dans le <recipient>four</recipient> préchauffé pour 30 mn. tourner le <ingredient quantite=1>canard</ingredient>, ajouter le <ingredient quantite=1>bouillon</ingredient> et <operation temps=60.0min espace=27>laisser encore une fois au <recipient>four</recipient> 40 à 60 mn (ca dépend de la grosseur du</operation> <ingredient quantite=1>canard</ingredient>). <operation temps=6.86min espace=27>sortir le <ingredient quantite=1>canard</ingredient>, le couper et le</operation> poser au chaud. filtrer la sauce avec une <recipient>passoire</recipient>, aromatiser avec le <ingredient quantite=1>porto</ingredient>, éventuellement le <ingredient quantite=1>piment</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. verser la sauce sur le <ingredient quantite=1>canard</ingredient>, décorer avec la <ingredient quantite=1>branche de romarin</ingredient> et <operation temps=6.86min espace=27>servir avec du chou-rouge</operation>. givry
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93499">
+ <titre>Rôti de porc à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600g de porc coupé en lamelles (soit environ 100g par personne) </p>
+ <p>2 à 3 oignons</p>
+ <p>1 poivron gros vert</p>
+ <p>1 poivron gros rouge</p>
+ <p>1 boite de pousses de soja</p>
+ <p>250g de champignons noirs (ou de Paris) </p>
+ <p>1 grosse boite d’ ananas avec son sirop (soit env. 800g poids net et 500g poids égoutté) </p>
+ <p>3 cuillères à soupe de maïzena</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1 verre de jus d’ orange</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=2>oignons</ingredient> dans 3 <ingredient quantite=3>cuillères à soupe</ingredient> d’ huile d’ olive et 3 <ingredient quantite=1>cuillère à soupe de sauce soja</ingredient>. ajouter les <ingredient quantite=1>poivrons</ingredient>, les <ingredient quantite=1>champignons</ingredient>, le <ingredient quantite=1>soja</ingredient>, l’ <ingredient quantite=1>ananas coupé</ingredient> en cube. réserver le <ingredient quantite=1>jus</ingredient> d’ ananas. dans une <recipient>poêle</recipient> <operation temps=6.86min espace=12>faire revenir le <ingredient quantite=1>porc</ingredient> dans un peu d’ huile d’ olive</operation>. mélanger avec les légumes le <ingredient quantite=1>porc</ingredient>. dans un <recipient>saladier</recipient>, mélanger 3 <ingredient quantite=3>cuillères de maïzena</ingredient> avec un <ingredient quantite=1>verre de jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> et le <ingredient quantite=1>jus</ingredient> d’ ananas. verser sur les légumes. <operation temps=6.86min espace=12>laisser mijoter le tout doucement</operation>.
+]]>
+ </preparation>
+</recette>

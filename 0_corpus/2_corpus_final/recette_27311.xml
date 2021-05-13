@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27311">
+ <titre>Rognons de veau à la crème de porto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 rognons de veau bien nettoyés</p>
+ <p>400 g de champignons</p>
+ <p>40 cl de porto</p>
+ <p>10 cl de crème</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+récupérer la graisse sur les <ingredient quantite=2>rognons de veau</ingredient>, la couper en dés et la mettre à fondre dans une <recipient>poêle</recipient>. la tamiser et l’ utiliser pour <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=2>rognons</ingredient></operation>. lorsqu’ ils sont <ingredient quantite=2>bien</ingredient> dorés, les réserver dans un <recipient>plat</recipient> au chaud. <operation temps=6.86min espace=7>faire rissoler les <ingredient quantite=1>champignons</ingredient> coupés en quatre dans le jus de cuisson des <ingredient quantite=2>rognons</ingredient></operation>. replacer les <ingredient quantite=2>rognons</ingredient> dans cette préparation et assaisonner. mouiller de <ingredient quantite=1>porto</ingredient> et <operation temps=10.0min espace=7>laisser mijoter 10 min</operation>. ajouter la <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=7>servir les <ingredient quantite=2>rognons</ingredient> avec la sauce et une purée maison</operation>.
+]]>
+ </preparation>
+</recette>

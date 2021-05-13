@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171858">
+ <titre>Gratin de cervelas</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 pommes de terre</p>
+ <p>2 oignons</p>
+ <p>500 g de cervelas</p>
+ <p>4 tomates</p>
+ <p>20 cl de crème fraiche</p>
+ <p>20 cl de lait</p>
+ <p>120 g de gruyère râpé</p>
+ <p>thym</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez et lavez les <ingredient quantite=6>pommes de terre</ingredient>, <operation temps=6.86min espace=12>pelez les <ingredient quantite=2>oignons</ingredient></operation>. coupez les <ingredient quantite=6>pommes de terre</ingredient> en tranche assez fines puis les <ingredient quantite=2>oignons</ingredient> en rondelles régulières. <operation temps=6.86min espace=12>pelez le cervelas</operation> et <operation temps=6.86min espace=12>coupez en rondelles de plus ou moins 1 cm</operation>. <operation temps=6.86min espace=12>coupez les <ingredient quantite=4>tomates</ingredient> en rondelles</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=12>beurrez un <recipient>plat</recipient> à gratin</operation> et intercalez les <ingredient quantite=6>pommes de terre</ingredient>, <ingredient quantite=2>oignons</ingredient>, <ingredient quantite=1>tomate</ingredient> et <ingredient quantite=1>cervelas</ingredient>. <operation temps=0.25min espace=12>salez</operation> et <operation temps=6.86min espace=12>poivrez a votre gout</operation>. dans une jatte, <operation temps=6.86min espace=12>fouettez la <ingredient quantite=1>crème</ingredient> avec le lait et le <ingredient quantite=1>thym</ingredient></operation>. <operation temps=6.86min espace=12>versez le mélange sur les légumes</operation> puis recouvrir de <ingredient quantite=1>gruyère râpé</ingredient>. enfournez pour environ 50 min. les <ingredient quantite=6>pommes de terre</ingredient> doivent être fondantes. ce gratin est apprécié par toute la famille!
+]]>
+ </preparation>
+</recette>

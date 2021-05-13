@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59041">
+ <titre>Paella valenciana (sans fruits de mer) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet en morceaux</p>
+ <p>500 g de lapin</p>
+ <p>200 g de haricots cocos</p>
+ <p>200 g de haricots blancs judions</p>
+ <p>1 poivron vert</p>
+ <p>3 tomates</p>
+ <p>600 g de riz rond</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>safran</p>
+ <p>sel et poivre</p>
+ <p>2, 5 litres de bouillon de poule (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire dorer dans une grande</operation> <recipient>poêle</recipient> les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> et de <ingredient quantite=1>lapin</ingredient> avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. ajouter les <ingredient quantite=1>haricots cocos</ingredient> coupés en tranches, les <ingredient quantite=1>haricots blancs</ingredient>, le <ingredient quantite=1>poivron</ingredient> émincé et <operation temps=5.0min espace=12>faire revenir 5 min</operation>. ajouter les <ingredient quantite=3>tomates</ingredient> coupées en <ingredient quantite=1>morceaux</ingredient> et <operation temps=5.0min espace=12>faire revenir 5 min</operation>. ajouter le <ingredient quantite=2>bouillon de poule</ingredient> (ou à défaut de l’ eau) bouillant et <operation temps=40.0min espace=12>laisser cuire à feu vif, puis à feu doux, pendant 40 min</operation>. ajouter le <ingredient quantite=1>safran</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. ajouter le <ingredient quantite=1>riz</ingredient> et <operation temps=6.86min espace=12>faire cuire jusqu’ à que le <ingredient quantite=1>riz</ingredient> ait</operation> absorbé toute l’ eau.
+]]>
+ </preparation>
+</recette>

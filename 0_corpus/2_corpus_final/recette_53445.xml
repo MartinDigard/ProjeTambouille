@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53445">
+ <titre>Gnocchi épinards boursin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 ou 400 g de gnocchi</p>
+ <p>600 g d’ épinards frais </p>
+ <p>200 g de champignons de Paris FRAIS</p>
+ <p>1/2 boursin</p>
+ <p>20 cl de crème liquide </p>
+ <p>1 poignée de pignons</p>
+ <p>poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre de l’ eau à <operation temps=20.0min espace=11>bouillir</operation>. <operation temps=6.86min espace=11>faire suer les <ingredient quantite=1>épinards</ingredient></operation> frais dans une <recipient>sauteuse</recipient> avec un peu d’ huile d’ olive. dans une autre petite <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire griller les <ingredient quantite=1>pignons</ingredient> à sec</operation>. dans la <recipient>sauteuse</recipient>, enlever les <ingredient quantite=1>épinards</ingredient> quand ils sont cuits (5 à 7 min), y mettre à la place les <ingredient quantite=1>champignons</ingredient> nettoyés et émincés puis les <operation temps=3.0min espace=11>faire sauter 3 min environ</operation>. remettre alors les <ingredient quantite=1>épinards</ingredient>, ajouter le demi <ingredient quantite=1>boursin</ingredient> et la <ingredient quantite=1>crème</ingredient>, puis <operation temps=6.86min espace=11>faire chauffer quelques minutes</operation>. plonger alors les <ingredient quantite=1>gnocchi</ingredient> dans l’ eau bouillante. lorsqu’ ils remontent à la surface, ils sont cuits. les égoutter et les mettre dans la <recipient>sauteuse</recipient>, on touille et c’ est prêt! quand les <ingredient quantite=1>gnocchi</ingredient> sont dressés, parsemer les <ingredient quantite=1>pignons</ingredient> grillés et servir de suite. on peut <operation temps=6.86min espace=11>faire plein de variantes: tomates cerises à la place des <ingredient quantite=1>épinards</ingredient>, noix au lieu des <ingredient quantite=1>pignons</ingredient>, etc</operation>... mais c’ est cette version que je préfère!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20401">
+ <titre>Soupe au pistou - soupe d’ été</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de lard maigre demi-sel</p>
+ <p>750 g de haricots blancs</p>
+ <p>400 g de haricots mange-tout</p>
+ <p>2 carottes</p>
+ <p>3 pommes de terre</p>
+ <p>1 tranche de potiron (facultatif) </p>
+ <p>2 tomates</p>
+ <p>100 g de gruyère rapê</p>
+ <p>15 grandes feuilles de basilic</p>
+ <p>2 gousses d’ ail</p>
+ <p>1/2 verre d’ huile d’ olive</p>
+ <p>125 g de coquillettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>ecossez les <ingredient quantite=1>haricots</ingredient> blancs</operation>. epluchez les <ingredient quantite=3>pommes de terre</ingredient>, les <ingredient quantite=2>carottes</ingredient>, les <ingredient quantite=1>haricots mange</ingredient> - tout. le <ingredient quantite=1>potiron</ingredient>. <operation temps=6.86min espace=15>coupez - les en dés</operation>. <operation temps=6.86min espace=15>passez le <ingredient quantite=1>lard</ingredient> sous l’ eau fraîche</operation>, <operation temps=6.86min espace=15>mettez le dans un <recipient>faitout</recipient> avec 3 litres d’ eau</operation>. amenez à ébullition et <operation temps=6.86min espace=15>jetez</operation> dedans les <ingredient quantite=1>haricots</ingredient> blancs et les <ingredient quantite=2>carottes</ingredient>. <operation temps=0.25min espace=15>couvrez</operation> et <operation temps=6.86min espace=15>laissez cuire 45</operation> mn. a ce moment ajoutez les <ingredient quantite=1>haricots mange</ingredient> - tout, les <ingredient quantite=3>pommes de terre</ingredient> et le <ingredient quantite=1>potiron</ingredient>. <operation temps=30.0min espace=15>comptez encore 30 mn de cuisson</operation>. <operation temps=6.86min espace=15>ajoutez alors les</operation> <ingredient quantite=1>coquillettes</ingredient>, <operation temps=6.86min espace=15>laissez cuire encore 10</operation> mn à découvert. dans un <recipient>mortier</recipient>, <operation temps=6.86min espace=15>pilez l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>basilic</ingredient>,</operation> puis <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=2>tomates</ingredient></operation> épluchées et épépinées. <operation temps=6.86min espace=15>travaillez cette pâte au <recipient>pilon</recipient> en</operation> ajoutant le <ingredient quantite=1>gruyère</ingredient> râpé et l’ <ingredient quantite=1>huile</ingredient> alternativement. <operation temps=6.86min espace=15>versez la pâte dans la soupière</operation>, <operation temps=6.86min espace=15>délayez - la peu à peu avec la soupe bouillante</operation>. <operation temps=5.0min espace=15>laissez infuser 5 mn avant de</operation> <operation temps=2.0min espace=15>servir</operation>. c’ est une soupe que l’ on prépare l’ été car on y trouve tous les légumes frais et à bon marché.
+]]>
+ </preparation>
+</recette>

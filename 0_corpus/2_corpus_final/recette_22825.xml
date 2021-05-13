@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22825">
+ <titre>Quiche au roquefort et aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rouleau de pâte brisée</p>
+ <p>du beurre pour le moule et faire frire les champignons</p>
+ <p>1 échalote</p>
+ <p>200 g de champignons de Paris frais</p>
+ <p>45 cl de crème fleurette</p>
+ <p>4 oeufs</p>
+ <p>200 g de Roquefort</p>
+ <p>1 pincée de muscade</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>chauffez le <recipient>four</recipient> à 210 ° c</operation>. <operation temps=6.86min espace=15>beurrez un <ingredient quantite=1><recipient>moule</recipient></ingredient> à tarte, y</operation> <operation temps=6.86min espace=15>étalez la</operation> <ingredient quantite=1>pâte</ingredient> puis mettre le tout au <recipient>réfrigérateur</recipient>. <operation temps=6.86min espace=15>lavez les <ingredient quantite=1>champignons</ingredient>, les</operation> <ingredient quantite=1><operation temps=6.86min espace=15>faire</ingredient> sautez dans une <recipient>poêle</recipient> avec un peu de <ingredient quantite=1>beurre</ingredient></operation>. <operation temps=0.5min espace=15>poivrez</operation>, <operation temps=6.86min espace=15>ajoutez l’ <ingredient quantite=1>échalote</ingredient> ciselée</operation> et <operation temps=20.0min espace=15>laissez refroidir</operation>. <operation temps=6.86min espace=15>coupez le <ingredient quantite=1>roquefort</ingredient> en cubes</operation>. <operation temps=6.86min espace=15>cassez les <ingredient quantite=4>oeufs</ingredient> dans un <recipient>saladier</recipient> et les battre en omelette</operation>. <operation temps=6.86min espace=15>ajoutez la <ingredient quantite=1>crème</ingredient> liquide, du poivre et la <ingredient quantite=1>muscade</ingredient></operation>. garnir la <ingredient quantite=1>pâte</ingredient> avec le <ingredient quantite=1>roquefort</ingredient> et <ingredient quantite=1>les champignons</ingredient>. <operation temps=40.0min espace=15>versez la <ingredient quantite=1>crème</ingredient> aux <ingredient quantite=4>oeufs</ingredient> et glissez au <recipient>four</recipient> pour 40 mn</operation>. <operation temps=5.0min espace=15>laissez reposez la tarte 5 mn avant de</operation> <operation temps=2.0min espace=15>servir</operation>. <operation temps=2.0min espace=15>servir</operation> avec une salade verte. attention pour ceux qui n’ ont pas le droit de consommer beaucoup de sel, cette recette en contient beaucoup. surtout ne pas <operation temps=6.86min espace=15>rajoutez de sel dans la recette</operation>. un gaillac rouge ou un cahors à 15 ° c
+]]>
+ </preparation>
+</recette>

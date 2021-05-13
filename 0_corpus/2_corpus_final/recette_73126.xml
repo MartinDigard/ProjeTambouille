@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73126">
+ <titre>Gâteau de pommes au caramel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>130 g de sucre en poudre</p>
+ <p>20 cl de vin blanc doux</p>
+ <p>15 cl d’ huile</p>
+ <p>250 g de farine</p>
+ <p>un paquet de levure</p>
+ <p>quelques gouttes de citron</p>
+ <p>5 pommes</p>
+ <p>caramel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=3>oeufs</ingredient> entiers et le <ingredient quantite=1>sucre en poudre</ingredient>. ajouter le <ingredient quantite=1>vin</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>citron</ingredient>. bien battre le tout. préparer les <ingredient quantite=5>pommes</ingredient>: les peler, les couper en quartiers. caraméliser un <recipient><recipient>moule</recipient> à manqué</recipient> (<ingredient quantite=1>sucre</ingredient> et eau) ou utiliser un <ingredient quantite=1>caramel</ingredient> déjà prêt du commerce. placer les <ingredient quantite=5>pommes</ingredient> sur le <ingredient quantite=1>caramel</ingredient> et verser la pâte. cuire à 200 °, thermostat 6 - 7, environ 30 min.
+]]>
+ </preparation>
+</recette>

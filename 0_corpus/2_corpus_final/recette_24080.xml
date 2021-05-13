@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24080">
+ <titre>Bar rôti à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 bar de 1, 2 kg</p>
+ <p>6 tomates</p>
+ <p>3 oignons moyens</p>
+ <p>1 gousse d’ ail</p>
+ <p>5 cuillerées à soupe d’ huile</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>chapelure</p>
+ <p>-sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=12>pelez</operation> et <operation temps=6.86min espace=12>concassez les <ingredient quantite=6>tomates</ingredient></operation>. <operation temps=6.86min espace=12>pelez l’ <ingredient quantite=1>ail</ingredient>, les <ingredient quantite=3>oignons</ingredient> et hachez - les</operation>. <operation temps=6.86min espace=12>faites - les</operation> revenir dans une <recipient>poêle</recipient> dans 2 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=5>huile</ingredient> chaude. <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=6>tomates</ingredient> pelées</operation> et concassées ainsi que l’ <ingredient quantite=1>ail haché</ingredient>. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation> et <operation temps=6.86min espace=12>laissez cuire jusqu’ à évaporation complète de l’ eau</operation> rejetée par les <ingredient quantite=6>tomates</ingredient>. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=12>ecaillez, videz, essuyez</operation> et <operation temps=6.86min espace=12>assaisonnez le poisson</operation>. <operation temps=6.86min espace=12>versez la purée de <ingredient quantite=1>tomate</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient> huilé</operation> et <operation temps=6.86min espace=12>déposez le <ingredient quantite=1>bar</ingredient> dessus</operation>. <operation temps=6.86min espace=12>arrosez d’</operation> <ingredient quantite=5>huile</ingredient> et <operation temps=6.86min espace=12>saupoudrez de <ingredient quantite=1>chapelure</ingredient></operation>. enfournez pour 20 minutes de cuisson. <operation temps=6.86min espace=12>saupoudrez de</operation> <ingredient quantite=2>persil</ingredient> et <operation temps=2.0min espace=12>servez</operation>.
+]]>
+ </preparation>
+</recette>

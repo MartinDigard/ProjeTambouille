@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30736">
+ <titre>Crevettes à l’ américaine</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>36 grosses crevettes</p>
+ <p>2 l de court-bouillon</p>
+ <p>4 échalotes</p>
+ <p>40 cl de vin blanc sec</p>
+ <p>2 branches de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>3 cuillères à soupe de persil haché</p>
+ <p>4 cuillères à soupe de ketchup</p>
+ <p>300 g de crème fraîche</p>
+ <p>3 cl de cognac</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=12>faire cuire les crevettes dans le <ingredient quantite=1>court-bouillon</ingredient> pendant 5 minutes puis les</operation> décortiquer. <ingredient quantite=1>hacher</ingredient> finement les <ingredient quantite=4>échalotes</ingredient>, puis les mettre à fondre dans une <recipient>sauteuse</recipient> avec le <ingredient quantite=1>vin blanc</ingredient>, le <ingredient quantite=3>persil</ingredient>, le <ingredient quantite=2>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient>. ajouter ensuite le <ingredient quantite=4>ketchup</ingredient> avec la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>cognac</ingredient> en remuant vivement. saler, poivrer. lorsque la sauce est chaude, y déposer les crevettes et <operation temps=6.86min espace=12>laisser réchauffer quelques minutes avant de</operation> <operation temps=2.0min espace=12>servir</operation>.
+]]>
+ </preparation>
+</recette>

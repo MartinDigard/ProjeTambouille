@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72221">
+ <titre>Salade de roquette aux tomates confites et copeaux de parmesan</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 sachet de salade roquette</p>
+ <p>1 bocal de tomates confites (attention pas tomates séchées) </p>
+ <p>100 à 150 g de parmesan en copeaux</p>
+ <p>olives noires</p>
+ <p>huile d’ olive</p>
+ <p>vinaigre balsamique</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, préparer une vinaigrette avec de l’ huile d’ <ingredient quantite=1>olive</ingredient> et du <ingredient quantite=1>vinaigre balsamique</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. ajouter la <ingredient quantite=1>salade de roquette</ingredient> et mélanger. disposer la <ingredient quantite=1>salade</ingredient> sur chaque assiette. couper les <ingredient quantite=1>tomates confites</ingredient> en petits morceaux et les disposer sur le <ingredient quantite=1>salade</ingredient> (7 à 8 par assiette, plus si vous en avez assez). parsemer de <ingredient quantite=1>copeaux</ingredient> de <ingredient quantite=1>parmesan</ingredient>, décorer le centre d’ une <ingredient quantite=1>olive noire</ingredient>. <operation temps=6.86min espace=8>servir sans</operation> attendre. gardez le <ingredient quantite=1>sachet de roquette</ingredient> au frais jusqu’ à préparation ainsi que les <ingredient quantite=1>tomates</ingredient> séchées et le <ingredient quantite=1>parmesan</ingredient>: <operation temps=6.86min espace=8>montez les assiettes au dernier moment</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165732">
+ <titre>Lapin façon "Tajine" aux fruits secs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 LAPIN ENTIER</p>
+ <p>Huile d’ olive</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>150 g de lardons</p>
+ <p>12 dattes</p>
+ <p>12 petites figues</p>
+ <p>8 pruneaux</p>
+ <p>1 verre de jus de fruit type smoothie (sans fruit rouge) </p>
+ <p>Cannelle</p>
+ <p>3 cuillères à soupe de miel</p>
+ <p>250 cl bouillon de poule</p>
+ <p>Pour la semoule: </p>
+ <p>_ 450 G semoule fine</p>
+ <p>_ 720 cl d’ eau</p>
+ <p>3 grosses poignées d’ amandes effilées</p>
+ <p>3 grosses poignées de raisins secs</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire tremper une 10aines de minutes les <ingredient quantite=1>fruits secs</ingredient> dans de l’ <ingredient quantite=1>eau</ingredient>. <operation temps=10.0min espace=18>faire dorer 10 min les morceaux de <ingredient quantite=1>lapin</ingredient> avec les 2 <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient>, sel et poivre</operation>. ajouter les <ingredient quantite=1>oignons</ingredient>, les <ingredient quantite=1>lardons</ingredient>, puis les <ingredient quantite=1>fruits secs</ingredient>. <operation temps=3.0min espace=18>laisser revenir 3 minutes</operation>. ajouter la <ingredient quantite=1>cannelle</ingredient> puis le <ingredient quantite=3>miel</ingredient>. au bout de 30 secondes, incorporer le <ingredient quantite=1>verre de jus de fruit</ingredient>. <operation temps=6.86min espace=18>laisser mijoter jusqu’ à ce que le <ingredient quantite=1>jus</ingredient> ressemble à du caramel</operation>. incorporer enfin le bouillon de <ingredient quantite=1>poule</ingredient>. <operation temps=15.0min espace=18>laisser mijoter à feu doux durant 15 minutes</operation>. pour <ingredient quantite=1>la semoule</ingredient>: mélanger la <ingredient quantite=1>semoule</ingredient> avec l’ <ingredient quantite=6>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=18>faire bouillir l’</operation> <ingredient quantite=1>eau</ingredient> et <operation temps=6.86min espace=18>recouvrir la <ingredient quantite=1>semoule</ingredient>,</operation> puis <operation temps=7.0min espace=18>laisser gonfler pendant 7 minutes</operation>. pendant ce temps, <operation temps=6.86min espace=18>faire revenir les amendes dans une poele sans matière grasse</operation> et faire tremper les <ingredient quantite=3>raisins sec</ingredient>. quand la <ingredient quantite=1>semoule</ingredient> a gonflé, la décoller avec une fourchette, la saler, puis mélanger les amendes et les <ingredient quantite=3>raisins</ingredient>. voilà c’ est pret à <operation temps=2.0min espace=18>servir</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26140">
+ <titre>Tourte au lapin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>deux pâtes brisées</p>
+ <p>2 kg de lapin</p>
+ <p>1 bouteille de bon vin rouge</p>
+ <p>2 gros oignons</p>
+ <p>100 g de lardons</p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>persil haché</p>
+ <p>2 gousses d’ ail</p>
+ <p>sel, poivre gris</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+le matin, détailler le <ingredient quantite=1>lapin</ingredient> en morceaux et le désosser, le <operation temps=6.86min espace=13>faire mariner plusieurs heures dans le <ingredient quantite=1>vin</ingredient> avec <ingredient quantite=1>thym</ingredient>, <ingredient quantite=1>laurier</ingredient>, <ingredient quantite=1>poivre</ingredient></operation>. la veille, au soir, <ingredient quantite=1>hacher</ingredient> finement le <ingredient quantite=1>persil</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=13>faire cuire le <ingredient quantite=1>lapin</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> avec le hachis et les <ingredient quantite=1>lardons</ingredient></operation>. rectifier l’ assaisonnement en <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. une fois cuit, mettre au frais. le lendemain, mettre une <ingredient quantite=1>pâte brisée</ingredient> au fond d’ une tourtière. étaler le <ingredient quantite=1>lapin</ingredient> cuit sur la <ingredient quantite=1>pâte</ingredient> en formant un monticule au milieu. poser la deuxième <ingredient quantite=1>pâte</ingredient>, souder les bords avec la première. dorer avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. décorer à la fourchette. mettre au <recipient>four</recipient> à 180 ° c pendant 30 mn.
+]]>
+ </preparation>
+</recette>

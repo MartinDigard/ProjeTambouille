@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169575">
+ <titre>Donuts light</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>9 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>30 g de beurre fondu</p>
+ <p>1 pincée de sel</p>
+ <p>30 g de sucre</p>
+ <p>260 g de farine</p>
+ <p>1 sachet de levure de boulanger</p>
+ <p>2 sachets de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients, bien <operation temps=6.0min espace=8>pétrir</operation> et <operation temps=10.0min espace=8>laisser reposer 10 min la pâte en boule</operation>, recouverte d’ un torchon. etaler la pâte, 1 cm d’ épaisseur, sur une surface farinée. <operation temps=6.86min espace=8>faire des cercles avec des emporte - pièces ronds, (ou bien bol et verre, un grand et un plus petit pour le trou du donuts</operation>). déposer par la suite sur une plaque huilée et <operation temps=6.86min espace=8>laisser lever 1 heure</operation>. enfourner le tout à 180 ° c, thermostat 6, pendant 15 min. pour plus de fantaisie, un glaçage est le bienvenue.
+]]>
+ </preparation>
+</recette>

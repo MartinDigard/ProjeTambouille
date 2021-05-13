@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83729">
+ <titre>Cacasse de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boites de boeuf</p>
+ <p>8 pommes de terres</p>
+ <p>1 boite de haricots à la tomate</p>
+ <p>1 oignon</p>
+ <p>Sel, poivre et thym</p>
+ <p>1/2 cuillères à café de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire dorer l’ <ingredient quantite=1>oignon</ingredient> avec de la margarine</operation>. éplucher et couper les <ingredient quantite=8>pommes de terre</ingredient> en longueur. mettre les <ingredient quantite=8>pommes de terre</ingredient> avec les <ingredient quantite=1>oignons</ingredient>, ajouter de l’ eau, les <operation temps=6.86min espace=6>recouvrir</operation>. ajouter le <ingredient quantite=1>sel</ingredient> le poivre et le <ingredient quantite=1>thym</ingredient>. ajouter la farine pour épaissir la sauce. laisser cuire 30 min environ, quand les <ingredient quantite=8>pommes de terres</ingredient> sont cuites, ajouter la viande et les <ingredient quantite=1>haricots</ingredient>, attention à ne pas <operation temps=6.86min espace=6>faire trop</operation> <operation temps=6.86min espace=6>bouillir sinon la viande se</operation> démonte. a déguster bien chaud avec des cornichons...
+]]>
+ </preparation>
+</recette>

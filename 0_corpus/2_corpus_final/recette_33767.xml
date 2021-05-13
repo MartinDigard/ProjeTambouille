@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33767">
+ <titre>Beignets florentins</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>4 cuillères à soupe d’ huil d’ olive</p>
+ <p>une cuillère à soupe de sucre en poudre</p>
+ <p>une cuillère à soupe de rhum</p>
+ <p>2 oeufs</p>
+ <p>1/2 verre d’ eau (type petit verre moutarde) </p>
+ <p>sucre glace</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, mélanger les <ingredient quantite=2>oeufs</ingredient> avec l’ huile d’ <ingredient quantite=4>olive</ingredient> et le demi <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>eau</ingredient> puis le <ingredient quantite=1>rhum</ingredient>. dans un <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=1>sucre</ingredient>, et la pincée de <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=9>faire un puits et y</operation> verser la première préparation (<ingredient quantite=2>oeufs</ingredient>, huile <ingredient quantite=1>rhum</ingredient> et <ingredient quantite=1>eau</ingredient>) <operation temps=6.0min espace=9>pétrir</operation>, <operation temps=6.86min espace=9>faire une boule</operation> et <operation temps=6.86min espace=9>laisser reposer une trentaine de minutes</operation>. <operation temps=6.86min espace=9>aplatir la pâte sur un demi centimètre d’ épaisseur</operation> puis découper des formes (ronds, carrés, losanges). <operation temps=6.86min espace=9>faire frire dans de l’</operation> huile (tournesol) puis <operation temps=6.86min espace=9>faire égoutter sur du papier</operation> absorbant. servir chaud, saupoudrés de <ingredient quantite=1>sucre glace</ingredient>. cette recette me vient de mon grand-père. la particularité c’ est l’ huile d’ <ingredient quantite=4>olive</ingredient> qui donne un super goût à ces beignets. on peut bien sûr la remplacer par une autre huile.
+]]>
+ </preparation>
+</recette>

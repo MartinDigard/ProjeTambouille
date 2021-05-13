@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67071">
+ <titre>Muffins aux petits suisses et au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre </p>
+ <p>150 g de sucre semoule </p>
+ <p>3 œufs</p>
+ <p>4 petits suisses (soit 120 g) </p>
+ <p>275 g de farine + 50 g de Maïzena</p>
+ <p>1 sachet de levure chimique</p>
+ <p>150 g de chocolat à pâtisser</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire fondre le beurre et le <ingredient quantite=1>chocolat</ingredient></operation>. ajouter le <ingredient quantite=1>sucre</ingredient> puis les <ingredient quantite=3>œufs</ingredient> un à un. verser la farine, la <ingredient quantite=1>maïzena</ingredient> et la <ingredient quantite=1>levure chimique</ingredient>, mélanger, puis ajouter enfin les <ingredient quantite=4>petits suisses</ingredient>. bien mélanger le tout jusqu’ à <operation temps=6.86min espace=9>obtenir un pâte bien lisse,</operation> puis verser cette préparation dans les moules à muffins préalablement beurré. parsemer d’ amandes effilées. cuire 12 min au <recipient>four</recipient> préchauffé à 200 ° c. vous pouvez <operation temps=6.86min espace=9>ajoutez 50 g de pépites de <ingredient quantite=1>chocolat</ingredient> dans la préparation, c’ est encore plus</operation> chocolaté!
+]]>
+ </preparation>
+</recette>

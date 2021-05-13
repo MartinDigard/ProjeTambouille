@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20168">
+ <titre>Chaud-froid de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 poulet de 3 livres</p>
+ <p>1 verre de vin blanc</p>
+ <p>3 belles carottes</p>
+ <p>1 navet</p>
+ <p>2 oignons piqués</p>
+ <p>persil, thym, laurier</p>
+ <p>2 fortes c à soupe de beurre</p>
+ <p>2 fortes c à soupe de farine</p>
+ <p>3/4 l de bouillon</p>
+ <p>1/2 citron</p>
+ <p>2 oeufs</p>
+ <p>1 c à soupe de lait</p>
+ <p>4 c à soupe de crème fraîche</p>
+ <p>1 petite boîte de truffes</p>
+ <p>-sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=19>recouvrez d’ eau</operation> froide le <ingredient quantite=1>poulet</ingredient>, ajoutez 1 <ingredient quantite=1>verre de vin blanc</ingredient>. au fur et à mesure que le <ingredient quantite=1>bouillon</ingredient> cuit, l’ écume se forme. <operation temps=6.86min espace=19>enlevez - la à l’ écumoire</operation>. quand elle ne monte plus, <operation temps=6.86min espace=19>jetez les <ingredient quantite=3>carottes</ingredient>, le <ingredient quantite=1>navet</ingredient>, les <ingredient quantite=2>oignons</ingredient>, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>thym</ingredient>, le</operation> <ingredient quantite=1>laurier</ingredient>, <operation temps=0.25min espace=19>salez</operation>, <operation temps=0.5min espace=19>poivrez</operation>. <operation temps=6.86min espace=19>fermez l’ <recipient>autocuiseur</recipient></operation> et <operation temps=20.0min espace=19>laissez cuire 20 min de pression (doux</operation>). puis <operation temps=6.86min espace=19>retirez le <ingredient quantite=1>poulet</ingredient> du <ingredient quantite=1>bouillon</ingredient> pour le</operation> <operation temps=6.86min espace=19>faire refroidir</operation>. <operation temps=6.86min espace=19>mettez dans une <recipient>casserole</recipient> le <ingredient quantite=2>beurre</ingredient> à chauffer, puis la farine</operation>, <operation temps=6.86min espace=19>mouillez avec le <ingredient quantite=1>bouillon</ingredient> chaud</operation>, <operation temps=6.86min espace=19>ajoutez le jus d’ 1/2 <ingredient quantite=1>citron</ingredient></operation>. <operation temps=5.0min espace=19>laissez cuire 5 min en</operation> tournant toujours. <operation temps=0.25min espace=19>retirez du feu</operation>, <operation temps=6.86min espace=19>ajoutez les jaunes d’</operation> oeufs délayés dans une cuillérée de <ingredient quantite=1>lait</ingredient> froid, puis la <ingredient quantite=4>crème</ingredient>. les beaux morceaux de <ingredient quantite=1>poulet</ingredient> seront disposés sur un <recipient>plat</recipient>, garnis de rondelles de <ingredient quantite=1>truffes</ingredient> et nappés de la sauce que vous aurez auparavant tournée jusqu’ à refroidissement. on peut employer une <ingredient quantite=1>belle</ingredient> poule, qui fournit plus de <ingredient quantite=1>blanc</ingredient>. <operation temps=6.86min espace=19>désossez les hauts de cuisse</operation> et <operation temps=6.86min espace=19>laissez seulement les pilons</operation>. la peau doit être enlevée. il est indispensable de napper le <recipient>plat</recipient> d’ un peu de sauce avant de placer les morceaux de <ingredient quantite=1>poulet</ingredient>.
+]]>
+ </preparation>
+</recette>

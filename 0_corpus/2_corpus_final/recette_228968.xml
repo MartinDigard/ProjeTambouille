@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228968">
+ <titre>Salade de riz façon chili con carne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de haricots rouges </p>
+ <p>150 g de riz</p>
+ <p>200 g de lardons fumés</p>
+ <p>100 g de cheddar</p>
+ <p>2 tomates </p>
+ <p>6 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>sel, poivre</p>
+ <p>Persil haché</p>
+ <p>2 pincées de piments de Cayenne</p>
+ <p>4 pincées de poudre de Chili</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites trempez les <ingredient quantite=1>haricots rouges</ingredient> pendant 12 heures. <operation temps=6.86min espace=13>faites cuire ceux - ci dans l’ eau bouillante</operation> salée pendant au moins 30 minutes. simultanément, <operation temps=10.0min espace=13>faites cuire le <ingredient quantite=1>riz</ingredient> basmati pendant 10 minutes</operation>. <operation temps=6.86min espace=13>laissez refroidir le tout</operation>. <operation temps=6.86min espace=13>faites frire les <ingredient quantite=1>lardons</ingredient> dans la <recipient>poêle</recipient> sans matière grasse</operation>. pendant le refroidissement des 3 ingrédients: <operation temps=6.86min espace=13>préparez la vinaigrette</operation>. <operation temps=5.0min espace=13>mélangez</operation> dans un bol, <ingredient quantite=6>huile</ingredient>, <ingredient quantite=2>vinaigre</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>piment de cayenne</ingredient>, <ingredient quantite=4>poudre de chili</ingredient> et <ingredient quantite=1>persil</ingredient>. <operation temps=5.0min espace=13>mélangez</operation>. <operation temps=6.86min espace=13>épépinez les <ingredient quantite=2>tomates</ingredient></operation>. <operation temps=6.86min espace=13>coupez - les en dés</operation>. <operation temps=6.86min espace=13>coupez le fromage en petits cubes</operation>. <operation temps=6.86min espace=13>mettez tous les ingrédients dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=13>versez la vinaigrette par dessus</operation>. <operation temps=5.0min espace=13>mélangez</operation> et <operation temps=2.0min espace=13>servez</operation>.
+]]>
+ </preparation>
+</recette>

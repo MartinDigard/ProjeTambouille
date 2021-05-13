@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50168">
+ <titre>Tarte à la Brandade de Morue de Nîmes et Pimientos del Piquillo</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 boîte de 200 g de Brandade de morue de Nîmes</p>
+ <p>1 pot de pimientos del piquillo (poivrons grillés marinés) </p>
+ <p>1 oignon</p>
+ <p>gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, la piquer à la fourchette et la précuire 5 à 10 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6). pendant ce temps, couper les <ingredient quantite=1>oignons</ingredient> et les <operation temps=6.86min espace=8>faire revenir dans très peu de lait</operation>. etaler sur la <ingredient quantite=1>pâte</ingredient> la brandade de <ingredient quantite=1>nîmes</ingredient>, puis les <ingredient quantite=1>oignons</ingredient>, puis les <ingredient quantite=1>pimientos</ingredient>, et enfin le <ingredient quantite=1>gruyère rapé</ingredient>. mettre au <recipient>four</recipient> et <operation temps=45.0min espace=8>laisser cuire 45 min</operation>. c’ est prêt!
+]]>
+ </preparation>
+</recette>

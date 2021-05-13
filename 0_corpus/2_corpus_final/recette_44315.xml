@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44315">
+ <titre>Pintade au curcuma et endives caramélisées</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pintade</p>
+ <p>10 petites endives</p>
+ <p>1 orange</p>
+ <p>1 citron vert</p>
+ <p>2 échalotes</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>5 cl de Noilly Prat</p>
+ <p>5 cl de crème liquide</p>
+ <p>2 cuillèes à soupe de sucre poudre</p>
+ <p>1 cuillèes à soupe de curcuma</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la pintade en morceaux et la soupoudrer de <ingredient quantite=1>curcuma</ingredient> et de <ingredient quantite=1>sel</ingredient>. dans une <recipient>cocotte</recipient>, la <operation temps=6.86min espace=15>faire revenir dans le beurre</operation>. verser le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=0.25min espace=15>couvrir</operation> et <operation temps=25.0min espace=15>faire cuire à feu doux 25 min</operation>. fendre les <ingredient quantite=1>endives</ingredient> en deux et dans une <recipient>sauteuse</recipient>, les <operation temps=6.86min espace=15>faire dorer dans le beurre</operation>. saler, poivrer et <operation temps=20.0min espace=15>laisser cuire à couvert environ 20 min</operation>. lorsqu’ elles sont presque tendres, les saupoudrer de <ingredient quantite=2>sucre</ingredient> et les <operation temps=6.86min espace=15>laisser caraméliser</operation>. réserver la pintade au chaud dans de l’ alu et mettre le jus de cuisson de côté. <operation temps=6.86min espace=15>faire revenir dans la <recipient>cocotte</recipient> les</operation> <ingredient quantite=2>échalotes</ingredient> puis verser le <ingredient quantite=1>noilly</ingredient> et <operation temps=3.0min espace=15>laisser cuire 3 min</operation>. ajouter les jus des fruits + jus de cuisson. <operation temps=6.86min espace=15>faire réduire de moitié</operation> puis ajouter la <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=15>servir la pintade et sa sauce</operation> entourée des <ingredient quantite=1>endives</ingredient>.
+]]>
+ </preparation>
+</recette>

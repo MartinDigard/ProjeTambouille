@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29671">
+ <titre>MARMELADE DE POMMES A LA CREME FRAÎCHE</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes</p>
+ <p>1 kg de sucre</p>
+ <p>250 g de crème fraîche</p>
+ <p>100 g d’ amandes grillées</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>25 cl d’ eau</p>
+ <p>5 cl de calvados</p>
+ <p>1 citron </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>pommes</ingredient> et les découper en lamelles, en jetant les pépins. les <operation temps=6.86min espace=9>faire revenir dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, le zeste râpé du <ingredient quantite=1>citron</ingredient>, le <ingredient quantite=1>calvados</ingredient> et la <ingredient quantite=1>cannelle</ingredient></operation>. lorsque les <ingredient quantite=1>pommes</ingredient> fondent, réduire le feu. <operation temps=6.86min espace=9>laisser dorer quelques instants en</operation> remuant sans cesse. verser la marmelade dans des ramequins, la <operation temps=6.86min espace=9>laisser refroidir et la</operation> recouvrir de <ingredient quantite=1>crème fraîche</ingredient> et d’ amandes <ingredient quantite=1>grillées</ingredient>.
+]]>
+ </preparation>
+</recette>

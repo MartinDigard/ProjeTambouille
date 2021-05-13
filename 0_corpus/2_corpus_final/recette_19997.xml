@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19997">
+ <titre>COMPOTE D’ AUTOMNE</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes reinettes</p>
+ <p>1 kg de poires</p>
+ <p>500 g de raisins noirs</p>
+ <p>250 g de sucre en poudre</p>
+ <p>1 clou de girofle</p>
+ <p>1 pointe de muscade</p>
+ <p>1 pointe de cannelle en poudre</p>
+ <p>20 cl d’ eau</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+récupérer et râper le zeste du <ingredient quantite=1>citron</ingredient>. nettoyer les <ingredient quantite=1>raisins</ingredient> et les épépiner. éplucher les <ingredient quantite=1>pommes</ingredient> et les <ingredient quantite=1>poires</ingredient>, et les évider. les découper en dés et les <operation temps=6.86min espace=10>recouvrir de jus de <ingredient quantite=1>citron</ingredient></operation>. verser les fruits dans une <recipient>casserole</recipient> avec la moitié du zeste de <ingredient quantite=1>citron</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>muscade</ingredient>, la <ingredient quantite=1>cannelle</ingredient>, l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>clou de girofle</ingredient>. porter le tout à ébullition et <operation temps=25.0min espace=10>laisser mijoter 25 min à feu doux</operation>. servir frais.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28096">
+ <titre>Gâteau à l’ alsacienne</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>100 g de beurre mou</p>
+ <p>1 œuf</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>1 grand pot de compote de pommes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <ingredient quantite=1>grand</ingredient> <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>beurre</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé et l’ oeuf. malaxer la pâte jusqu’ à <operation temps=6.86min espace=13>obtenir des petits granules</operation>. beurrer un <recipient><recipient>moule</recipient> à tarte</recipient> et <operation temps=6.86min espace=13>faire préchauffer le <recipient>four</recipient> à 190 ° c (th 5</operation>). placer la moitié des granules au fond du <recipient><recipient>moule</recipient> à tarte</recipient>. étaler ensuite la <ingredient quantite=1>compote de pommes</ingredient> sur tout la surface et enfin <operation temps=6.86min espace=13>recouvrir avec le reste de granules</operation>. <operation temps=30.0min espace=13>faire cuire au <recipient>four</recipient> pendant 30 min</operation>. c’ est largement meilleur quand c’ est servi bien frais.
+]]>
+ </preparation>
+</recette>

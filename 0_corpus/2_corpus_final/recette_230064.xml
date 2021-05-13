@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230064">
+ <titre>Choco cake sans cuisson</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de chocolat noir</p>
+ <p>5 cuillères à soupe de lait</p>
+ <p>1 paquet de biscuits (type petit beurre) </p>
+ <p>50 g de beurre</p>
+ <p>100 g de sucre glace</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> avec le <ingredient quantite=5>lait</ingredient></operation>. lorsqu’ il est fondu, ajouter le beurre coupé en morceaux. tout en remuant ajouter le <ingredient quantite=1>sucre glace</ingredient> et le <ingredient quantite=1>sucre</ingredient> vanillé. prendre les <ingredient quantite=1>biscuits</ingredient> 2 par 2 et les broyer au dessus de cette préparation. mélanger le tout et verser dans un <recipient>moule</recipient> à cake beurré (sauf si <recipient>moule</recipient> silicone). <operation temps=6.86min espace=11>laisser refroidir pendant 12 heures au <recipient>réfrigérateur</recipient></operation>. pour un démoulage plus facile tremper le fond du <recipient>moule</recipient> dans un fond d’ eau chaude.
+]]>
+ </preparation>
+</recette>

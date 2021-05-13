@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32597">
+ <titre>Quenelles à la semoule</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3/4 litre de lait</p>
+ <p>150 g de semoule moyenne</p>
+ <p>60 g de beurre</p>
+ <p>100 g de gruyère râpé</p>
+ <p>2 oeufs</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire bouillir le <ingredient quantite=1>lait</ingredient> avec le beurre</operation>. verser la semoule et <operation temps=6.86min espace=7>laisser cuire 10</operation> mn. ajouter le <ingredient quantite=1>gruyère</ingredient>. saler, poivrer. retirer la préparation du feu et incorporer les <ingredient quantite=2>oeufs</ingredient> battus en omelette. mettre la préparation à <operation temps=6.86min espace=7>refroidir une dizaine de minutes,</operation> puis modeler des quenelles de 5 cm de longueur sur 2 cm d’ épaisseur environ. les plonger dans l’ eau bouillante salée et attendre qu’ elles remontent à la surface (environ 2 mn). egoutter et déguster avec une sauce tomate. <recipient>plat</recipient> complet et rapide! ca marche aussi avec de la semoule fine.
+]]>
+ </preparation>
+</recette>

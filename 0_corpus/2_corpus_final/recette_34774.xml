@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34774">
+ <titre>Poulet au maroilles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>200 g de maroilles (fromage du nord de la France au goût très prononcé) </p>
+ <p>30 cl de crème fraîche</p>
+ <p>150 g de riz</p>
+ <p>curry (facultatif) </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire le <ingredient quantite=1>riz</ingredient></operation>. pendant ce temps, coupez les <ingredient quantite=4>escalopes de poulet</ingredient> en dés et les <operation temps=6.86min espace=9>faire revenir dans une <recipient>poêle</recipient> avec un peu d’</operation> huile. quand ils sont cuits, <operation temps=6.86min espace=9>saupoudrez d’ un peu de <ingredient quantite=1>curry</ingredient></operation>. <operation temps=8.0min espace=9>mélangez bien</operation>. <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>maroilles</ingredient> coupés en morceaux grossiers (et dont vous</operation> aurez préalablement retiré la croûte), <operation temps=6.86min espace=9>laissez - le fondre</operation> puis <operation temps=6.86min espace=9>remuez vivement afin qu’ il n’</operation> attache pas à la <recipient>poêle</recipient>. <operation temps=6.86min espace=9>incorporez la</operation> <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=9>mélangez le tout jusqu’ à l’ obtention d’ une <ingredient quantite=1>crème</ingredient> homogène</operation>. <operation temps=6.86min espace=9>laissez mijoter quelques minutes pour que le <ingredient quantite=4>poulet</ingredient> s’</operation> imprègne bien du fromage. servez accompagné du <ingredient quantite=1>riz</ingredient>. servir ce <recipient>plat</recipient> plutôt le midi, car il est riche et copieux. spécialement destiné aux amateurs de fromages très forts! un vin rouge corsé
+]]>
+ </preparation>
+</recette>

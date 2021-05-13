@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12964">
+ <titre>Tarte aux épinards et au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>1 tranche épaisse de jambon blanc (300g) </p>
+ <p>800 g d’ épinards en branche surgelés</p>
+ <p>2 oeufs</p>
+ <p>20 cl de crème fraiche liquide</p>
+ <p>emmental râpé</p>
+ <p>sel, poivre</p>
+ <p>noix de muscade râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à thermostat <operation temps=6.86min espace=9>6.etalez la <ingredient quantite=1>pâte</ingredient>, piquez - la</operation> et <operation temps=6.86min espace=9>faites la</operation> cuire 10 mn à <ingredient quantite=1>blanc</ingredient>. <operation temps=6.86min espace=9>décongelez les <ingredient quantite=1>épinards</ingredient></operation>. battez les <ingredient quantite=2>oeufs</ingredient> avec la <ingredient quantite=1>crème</ingredient> fraîche, <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation> et ajoutez la <ingredient quantite=1>noix de muscade</ingredient>. <operation temps=6.86min espace=9>coupez le <ingredient quantite=1>jambon</ingredient> en cubes</operation>. répartissez les <ingredient quantite=1>épinards</ingredient> sur la <ingredient quantite=1>pâte</ingredient> puis le melange <ingredient quantite=1>crème</ingredient> - <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>jambon</ingredient> et parsemez d’ <ingredient quantite=1>emmental râpé</ingredient>. enfournez pendant 30 minutes.
+]]>
+ </preparation>
+</recette>

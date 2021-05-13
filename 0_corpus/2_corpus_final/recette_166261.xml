@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166261">
+ <titre>Emincé de porc à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon de porc 400g environ</p>
+ <p>50 cl de crème liquide</p>
+ <p>2 cuilleres à soupe de moutarde douce</p>
+ <p>-1 oignon</p>
+ <p>-2 carottes</p>
+ <p>-1 blanc de poireau</p>
+ <p>-1 feuille de laurier</p>
+ <p>-25 g de beurre</p>
+ <p>-250g de riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincé le filet migon en petit morceaux. laver, éplucher et découper vos légumes en petits dés puis les réservés dans un <recipient>plat</recipient>. <operation temps=3.0min espace=10>saisir la viande pendant 3 minutes</operation>, ajouter les légumes puis <operation temps=20.0min espace=10>laisser mijoter pendant 20 minutes à feu doux</operation>. -porté de l’ eau à ébullition pour le <ingredient quantite=1>riz</ingredient>. dans un récipient mélanger la <ingredient quantite=1>crème</ingredient> et la <ingredient quantite=2>moutarde</ingredient> puis rajouter à la viande pendant 10 minute.  a <operation temps=6.86min espace=10>servir avec le <ingredient quantite=1>riz</ingredient> chaud bordeaux rouge</operation>.
+]]>
+ </preparation>
+</recette>

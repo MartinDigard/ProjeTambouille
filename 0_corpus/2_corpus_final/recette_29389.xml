@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29389">
+ <titre>Poulet à la noix de coco fraîche</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet découpé en morceaux</p>
+ <p>60 g de beurre</p>
+ <p>1 noix de coco</p>
+ <p>1 oignon</p>
+ <p>2 petits piments</p>
+ <p>1 cuillère à café de curry</p>
+ <p>1 pincée de safran</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 bonne pincée de sel</p>
+ <p>1 bonne pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faites dorer les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> dans le beurre chaud, dans une <recipient>cocotte</recipient></operation> allant sur le feu et au <recipient>four</recipient>. <operation temps=6.86min espace=17>ajoutez l’ <ingredient quantite=1>oignon</ingredient></operation> haché, <operation temps=6.86min espace=17>laissez - le fondre et saupoudrez de farine, <ingredient quantite=1>curry</ingredient>, <ingredient quantite=1>safran</ingredient>, <ingredient quantite=1>sel</ingredient>, poivre et sucre</operation>. ecrasez et hachez les <ingredient quantite=2>piments</ingredient>, <operation temps=6.86min espace=17>ajoutez - les</operation> et <operation temps=6.86min espace=17>couvrez la <recipient>cocotte</recipient></operation>. <operation temps=25.0min espace=17>enfournez 25 min dans le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>). cassez la <ingredient quantite=1>noix de coco</ingredient> et <operation temps=6.86min espace=17>recueillez le jus</operation>. <operation temps=6.86min espace=17>ajoutez - le dans la <recipient>cocotte</recipient> avec 10 cl d’ eau chaude</operation>. <operation temps=20.0min espace=17>laissez cuire encore 20 min</operation>. râpez la pulpe de la <ingredient quantite=1>noix de coco</ingredient>. <operation temps=6.86min espace=17>mettez - la dans la <recipient>cocotte</recipient></operation>, <operation temps=10.0min espace=17>laissez cuire encore 5 - 10 min</operation> et <operation temps=2.0min espace=17>servez</operation>. vous pouvez mettre du lait de <ingredient quantite=1>coco</ingredient> en brique directement, et ajouter des herbes et épices selon vos goûts: gingembre, coriandre, <ingredient quantite=1>piment</ingredient>, cannelle...
+]]>
+ </preparation>
+</recette>

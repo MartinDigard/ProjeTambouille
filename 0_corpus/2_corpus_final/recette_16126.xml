@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16126">
+ <titre>Flan traditionnel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>100 g de farine</p>
+ <p>250 g de sucre en poudre</p>
+ <p>6 oeufs</p>
+ <p>1 l de lait</p>
+ <p>1 gousse de vanille ou 1 à 2 gouttes d’ extrait de vanille</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à soupe de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire bouillir le lait avec la gousse de <ingredient quantite=1>vanille</ingredient></operation>. le <operation temps=6.86min espace=13>laisser refroidir ensuite</operation> tapisser un <recipient>moule</recipient> de 28 cm préalablement beurré (ou utiliserle papier sulfurisé) de diamètre avec la <ingredient quantite=1>pâte</ingredient> brisée. <operation temps=6.86min espace=13>piquez la <ingredient quantite=1>pâte</ingredient> avec une fourchette en divers endroits</operation>. préchauffer le <recipient>four</recipient> à 200 ° c. mélanger dans une <recipient>terrine</recipient> la farine avec le <ingredient quantite=1>sucre en poudre</ingredient>. ajouter les <ingredient quantite=6>oeufs</ingredient> préalablement battus. incorporer ensuite le lait (il faut retirer la gousse de <ingredient quantite=1>vanille</ingredient>) en filet. mélanger bien jusqu’ à l’ obtention d’ un appareil lisse et homogène. verser cette préparation sur la <ingredient quantite=1>pâte</ingredient> brisée. <operation temps=35.0min espace=13>faire cuire au <recipient>four</recipient> à mi-hauteur pendant 30 à 35 mn à 200 ° c</operation>. a la sortie du <recipient>four</recipient>, le saupoudrer de <ingredient quantite=1>sucre glace</ingredient>. ce flan peut se manger tiède ou froid. il est très bon le lendemain. vous pouvez aussi incorporer des raisins secs dans le mélange. ceux - ci auront du être trempés 1h dans du rhum avant.
+]]>
+ </preparation>
+</recette>

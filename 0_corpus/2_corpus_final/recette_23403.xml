@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23403">
+ <titre>Soupe chinoise aux raviolis</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>3 oeufs</p>
+ <p>25 cl d’ eau</p>
+ <p>des restes de porc</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 oignon</p>
+ <p>1 bouillon de poulet</p>
+ <p>ciboulette hachée</p>
+ <p>2 feuilles de coriandre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher le <ingredient quantite=1>porc</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, et bien malaxer. dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=3>oeufs</ingredient> avec la farine et bien <operation temps=6.0min espace=10>pétrir</operation>. incorporer doucement l’ <ingredient quantite=1>eau</ingredient> et feuilleter la pâte en l’ abaissant de nombreuses fois avec un rouleau à pâtisserie. découper des carrés de 4 cm dans la pâte et déposer dans chacune 1 cuillère à café de farce. fermer hermétiquement les carrés avec un peu d’ <ingredient quantite=1>eau</ingredient> en formant des dômes. plonger les raviolis dans le <ingredient quantite=1>bouillon de poulet</ingredient> pendant 10 min. servir les raviolis en soupe avec du <ingredient quantite=1>bouillon</ingredient>, un œuf poché de la <ingredient quantite=1>ciboulette</ingredient> et les <ingredient quantite=2>feuilles de coriandre</ingredient>.
+]]>
+ </preparation>
+</recette>

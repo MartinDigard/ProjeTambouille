@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60675">
+ <titre>Salade tunisienne (carottes-pommes de terre) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 carottes</p>
+ <p>2-3 pommes de terre (selon la grosseur) </p>
+ <p>huile d’ olive</p>
+ <p>sel</p>
+ <p>cumin, carvi, piment</p>
+ <p>coriandre fraîche ciselée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et laver les <ingredient quantite=4>carottes</ingredient> et les <ingredient quantite=4>pommes de terre</ingredient>. les couper en petits dés. les faire cuire dans de l’ eau bouillante (attention, les <ingredient quantite=4>carottes</ingredient> cuisent plus lentement que les <ingredient quantite=4>pommes de terre</ingredient>). lorsqu’ elles sont cuites, mais encore fermes, les mettre à égoutter dans une <recipient>passoire</recipient> et <operation temps=20.0min espace=7>laisser refroidir</operation>. préparer l’ assaisonnement: huile d’ <ingredient quantite=1>olive</ingredient>, <ingredient quantite=1>sel</ingredient> et épices. y mettre les légumes froids ou tièdes et mélanger. on peut ajouter de la <ingredient quantite=1>coriandre fraîche</ingredient> si l’ on aime. on peut <operation temps=6.86min espace=7>faire la même salade avec seulement des <ingredient quantite=4>carottes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

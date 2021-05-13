@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88913">
+ <titre>Crème brûlée à la crème de riz</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 cl de lait</p>
+ <p>25 cl de crème de riz</p>
+ <p>80 g de sucre</p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>30 g de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire bouillir le lait</operation>. dans un <recipient>saladier</recipient>, mélanger le <ingredient quantite=1>sucre</ingredient> avec la <ingredient quantite=1>crème de riz</ingredient>. mélanger le lait bouillant avec la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>sucre</ingredient>. bien mélanger. <operation temps=20.0min espace=8>laisser refroidir</operation> puis ajouter les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeufs</ingredient>. passer la préparation au <recipient>chinois</recipient> puis verser dans un <recipient>moule</recipient> et enfourner 30 minutes à 180 ° c (thermostat 6). une fois la <ingredient quantite=1>crème</ingredient> cuite verser de la <ingredient quantite=1>cassonade</ingredient> et <operation temps=6.86min espace=8>faire carameliser au grill ou au chalumeau</operation>.
+]]>
+ </preparation>
+</recette>

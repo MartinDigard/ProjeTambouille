@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82142">
+ <titre>Velouté de potiron au cumin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de potiron</p>
+ <p>3 pommes de terre</p>
+ <p>1 noix de beurre</p>
+ <p>2 oignons</p>
+ <p>sel, poivre</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>1 cuillère à soupe de cumin (facultatif) </p>
+ <p>5 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler le <ingredient quantite=1>potiron</ingredient> et les <ingredient quantite=3>pommes de terre</ingredient> et les couper en gros dés. emincer les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=8>faire revenir avec du <ingredient quantite=1>beurre</ingredient> ou de l’ huile d’ olive</operation>. une fois les <ingredient quantite=2>oignons</ingredient> revenus, ajouter le <ingredient quantite=1>potiron</ingredient> et les <ingredient quantite=3>pommes de terre</ingredient>, ainsi qu’ un demi litre d’ eau (l’ eau ne doit pas <operation temps=6.86min espace=8>recouvrir entièrement les légumes)</operation> ; mélanger. <operation temps=30.0min espace=8>laisser cuire 25 à 30 minutes à feu doux, en</operation> mélangeant de temps à temps. mixer jusqu’ à <operation temps=6.86min espace=8>obtenir une texture homogène</operation>, incorporer petit à petit la <ingredient quantite=1>crème liquide</ingredient>. assaisonner (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>cumin</ingredient>) à votre convenance. le <ingredient quantite=1>potiron</ingredient> étant un légume assez fade, ne pas hésiter sur le <ingredient quantite=1>sel</ingredient>!
+]]>
+ </preparation>
+</recette>

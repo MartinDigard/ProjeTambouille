@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58629">
+ <titre>Pizza de la mamma</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée tout prête</p>
+ <p>2 oignons</p>
+ <p>120 g de lardons</p>
+ <p>120 g de jambons en alumettes</p>
+ <p>200 g de coulis de tomate</p>
+ <p>1 petite boite de champignons émincés</p>
+ <p>gruyère râpé</p>
+ <p>origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6) et <operation temps=20.0min espace=10>faire cuire la <ingredient quantite=1>pâte</ingredient> à blanc (sans garniture) pendant environ 20 minutes</operation>. elle doit être légèrement colorée. eplucher les <ingredient quantite=2>oignons</ingredient> en lamelles et les <operation temps=6.86min espace=10>faire revenir dans de l´huile d´olive</operation>. lorsqu´ils sont <operation temps=6.86min espace=10>ramollis</operation> ajouter les <ingredient quantite=1>lardons</ingredient>, mélanger et <operation temps=6.86min espace=10>laisser cuire un peu</operation>. ajouter le <ingredient quantite=1>coulis de tomate</ingredient> puis les <ingredient quantite=1>champignons</ingredient>. <operation temps=6.86min espace=10>finir par le <ingredient quantite=1>jambon</ingredient></operation>. <operation temps=6.86min espace=10>laisser cuire quelques instants afin que tous les ingrédients se mélangent bien</operation>. retirer du feu et verser sur la <ingredient quantite=1>pâte</ingredient>. parsemer d`origan et de gruyère avant d´enfourner 15 minutes à <recipient>four</recipient> chaud. vous pouvez décorer la pizza avec des olives noires ou des anchois si vous aimez. cette recette me vient de ma maman, à chaque fois qu´elle la réalise c´est un véritable succès!
+]]>
+ </preparation>
+</recette>

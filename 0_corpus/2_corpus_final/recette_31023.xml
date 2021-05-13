@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31023">
+ <titre>Toasts chèvre et pomme</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 tranches de pain</p>
+ <p>10 petits fromages de chèvre frais </p>
+ <p>1 pomme</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer légèrement les <ingredient quantite=1>tranches de pain</ingredient>. couper la <ingredient quantite=1>pomme</ingredient> en fines lamelles. déposer les lamelles sur les <ingredient quantite=1>tranches de pain</ingredient>, recouvrir de <ingredient quantite=1>fromage de chèvre</ingredient>. mettre au <recipient>four</recipient> 5 à 10 mn th 6. <operation temps=6.86min espace=5>dégustez sur un lit de salade! on</operation> peut aussi rajouter des lamelles de jambon!
+]]>
+ </preparation>
+</recette>

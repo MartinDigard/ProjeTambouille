@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30798">
+ <titre>Quiche tomates-féta à la menthe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>3 oeufs</p>
+ <p>400 g de féta</p>
+ <p>200 g de tomates séchées à l’ huile (en grande surface, rayon italien) </p>
+ <p>10 feuilles de menthe fraîche</p>
+ <p>200 cl de crème fraîche épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+égoutter les <ingredient quantite=1>tomates</ingredient> et les couper très finement. ciseler la <ingredient quantite=1>menthe</ingredient>. émietter la <ingredient quantite=1>féta</ingredient>. battre les 3 <ingredient quantite=3>oeufs</ingredient> entiers et y ajouter les <ingredient quantite=1>tomates</ingredient>, la <ingredient quantite=1>menthe</ingredient> et la <ingredient quantite=1>féta</ingredient>. ajouter la <ingredient quantite=1>crème</ingredient>, mélanger le tout et poivrer. verser l’ appareil sur la <ingredient quantite=1>pâte brisée</ingredient> étaler. <operation temps=30.0min espace=7>faire cuire 30 mn au <recipient>four</recipient> th 5 - 6</operation>. servir tiède ou froid. rosé
+]]>
+ </preparation>
+</recette>

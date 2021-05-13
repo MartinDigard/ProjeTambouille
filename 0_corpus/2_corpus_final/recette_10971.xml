@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10971">
+ <titre>Soupe à la farine rôtie (Bâle, Suisse) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 cuillères à soupe de farine</p>
+ <p>60 g de beurre ou de margarine</p>
+ <p>1 oignon coupé en lanières</p>
+ <p>1 l de bouillon de viande froid</p>
+ <p>100 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=6>faites rôtir la farine en</operation> remuant jusqu’ à couleur noisette, <operation temps=6.86min espace=6>laissez refroidir un peu</operation>. <operation temps=6.86min espace=6>ajoutez le beurre (margarine)</operation>, <operation temps=6.86min espace=6>mélangez à la farine</operation>. <operation temps=6.86min espace=6>ajoutez l’</operation> <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=6>faites revenir quelques minutes</operation> <operation temps=0.5min espace=6>ajoutez</operation> et <operation temps=6.86min espace=6>portez à ébullition en</operation> remuant le <ingredient quantite=1>bouillon de viande</ingredient>. <operation temps=6.86min espace=6>laissez mijoter 20 min, en</operation> remuant de temps en temps. présentation: <operation temps=6.86min espace=6>versez la <ingredient quantite=5>soupe</ingredient> dans des assiettes chaudes</operation> et <operation temps=6.86min espace=6>saupoudrez de fromage râpé ou le servir à part</operation>. conseil: juste avant de <operation temps=2.0min espace=6>servir</operation>, <operation temps=6.86min espace=6>ajoutez un peu de vin</operation> rouge à la <ingredient quantite=5>soupe</ingredient>.
+]]>
+ </preparation>
+</recette>

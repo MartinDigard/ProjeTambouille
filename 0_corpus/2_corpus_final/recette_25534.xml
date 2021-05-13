@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25534">
+ <titre>Mafé facile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de poitrine de mouton (ou poulet, boeuf, boulettes de mouton) </p>
+ <p>3 cuillères à soupe de pâte d’ arachide</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 tomates</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la viande en petits morceaux. délayer la <ingredient quantite=3>pâte</ingredient> d’ <ingredient quantite=3>arachide</ingredient> dans 50 cl d’ eau tiède et verser le mélange dans une <recipient>casserole</recipient>. <operation temps=20.0min espace=11>faire cuire à feu doux pendant environ 20 mn en tournant de temps en temps</operation> puis <operation temps=20.0min espace=11>laisser refroidir</operation>. eliminer la matière grasse qui remonte à la surface. pendant ce temps: peler et émincer les <ingredient quantite=2>oignons</ingredient>. peler et écraser l’ <ingredient quantite=2>ail</ingredient>. plonger les <ingredient quantite=4>tomates</ingredient> 1 mn dans l’ eau bouillante, les peler, les épépiner puis les concasser. <operation temps=6.86min espace=11>faire chauffer l’ <ingredient quantite=3>huile</ingredient> dans une <recipient>cocotte</recipient>, y</operation> <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>oignons</ingredient> et le <ingredient quantite=1>mouton</ingredient> 10</operation> mn en remuant. ajouter l’ <ingredient quantite=2>ail</ingredient>. saler, poivrer, mettre les <ingredient quantite=4>tomates</ingredient> et le <ingredient quantite=1>thym</ingredient> dans la <recipient>cocotte</recipient>, mélanger. <operation temps=0.25min espace=11>couvrir</operation> et <operation temps=30.0min espace=11>faire cuire à feu doux pendant 30 mn</operation>. ajouter la <ingredient quantite=3>pâte</ingredient> d’ arachide délayée et prolonger la cuisson 20 mn. c’ est prêt!! <operation temps=6.86min espace=11>servir avec du riz ou des pommes de terre</operation>.
+]]>
+ </preparation>
+</recette>

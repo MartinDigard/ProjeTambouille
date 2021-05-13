@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169869">
+ <titre>Salade de fruits aux amandes et fleur d’ oranger</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 ou 6 oranges</p>
+ <p>2 pommes</p>
+ <p>5 cuillères à soupe de miel</p>
+ <p>1 cuillère à soupe d’ eau de fleur d’ oranger</p>
+ <p>15 amandes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>chauffez le <ingredient quantite=5>miel</ingredient> et la <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> dans une <recipient>casserole</recipient> pour</operation> <operation temps=6.86min espace=8>obtenir un mélange bien liquide</operation> et <operation temps=20.0min espace=8>laissez refroidir</operation>. <operation temps=6.86min espace=8>faites griller les <ingredient quantite=1>amandes</ingredient> et hachez - les grossièrement</operation>. <operation temps=6.86min espace=8>pelez les <ingredient quantite=5>oranges</ingredient> à vif (en</operation> enlevant la peau blanche) et <operation temps=6.86min espace=8>épluchez les <ingredient quantite=2>pommes</ingredient></operation>. <operation temps=6.86min espace=8>coupez les fruits en petits morceaux</operation>. <operation temps=6.86min espace=8>mélangez le tout dans un <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=8>laissez au <recipient>réfrigérateur</recipient> au moins 1/2 h</operation>. on peut varier les fruits, remplacer les <ingredient quantite=1>amandes</ingredient> par des noix, l’ <ingredient quantite=1>eau de fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> par de l’ <ingredient quantite=1>eau</ingredient> de rose... un blanc sec et frais
+]]>
+ </preparation>
+</recette>

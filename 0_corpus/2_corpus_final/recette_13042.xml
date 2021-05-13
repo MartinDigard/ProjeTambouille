@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13042">
+ <titre>Goulash</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g d’ oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 kg de boeuf dans le gite</p>
+ <p>3 cuillers à soupe de saindoux ou de beurre</p>
+ <p>bouillon de boeuf</p>
+ <p>3 cuillères à soupe de paprika doux</p>
+ <p>1 cuillère à café de paprika fort</p>
+ <p>1 cuillère à café de cumin entier</p>
+ <p>1 cuillère à soupe de marjolaine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper la viande en cubes de 5 cm de côté environ. couper les <ingredient quantite=1>oignons</ingredient> en fines lamelles. ecraser les 3 <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient>. <operation temps=6.86min espace=11>faire fondre le <ingredient quantite=3>saindoux</ingredient> ou le <ingredient quantite=3>beurre</ingredient> à feu doux</operation>. ajouter les <ingredient quantite=1>oignons</ingredient> et l’ <ingredient quantite=3>ail</ingredient> et remuer jusqu’ à ce que les <ingredient quantite=1>oignons</ingredient> prennent une belle couleur dorée. retirer du feu. <operation temps=6.86min espace=11>faire revenir à feu</operation> vif les morceaux de viande. quand ils sont bien revenus, ajouter les <ingredient quantite=1>oignons</ingredient>, mélanger. saupoudrer le <ingredient quantite=3>paprika</ingredient>, mélanger, et mouiller avec le <ingredient quantite=1>bouillon de boeuf</ingredient> (on peut mettre de l’ eau, mais c’ est moins bon). bien mélanger. ajouter ensuite le <ingredient quantite=1>cumin</ingredient> et la <ingredient quantite=1>marjolaine</ingredient>. saler. <operation temps=6.86min espace=11>faire mijoter 3 heures au minimum</operation>. plus le <recipient>plat</recipient> est mijoté, meilleur il est. a la place du <ingredient quantite=1>bouillon</ingredient>, on peut utiliser de la bière. le <recipient>plat</recipient> peut être ensuite agrémenté de poivrons verts et rouges coupés en fines lamelles. vin rouge ou surtout bière blonde
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44221">
+ <titre>Chapon farci aux marrons et foie gras</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 chapon de 3, 5 kg avec foie et gésier</p>
+ <p>un peu d’ ail</p>
+ <p>1 petit oignon</p>
+ <p>persil</p>
+ <p>quelques marrons cuits</p>
+ <p>1 lobe entier de foie gras frais</p>
+ <p>1 tranche de jambon de Bayonne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez le <ingredient quantite=1>jambon</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>persil</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>foie</ingredient> et le <ingredient quantite=1>gésier</ingredient> pour <operation temps=6.86min espace=8>obtenir une farce</operation> et <operation temps=6.86min espace=8>incorporez les <ingredient quantite=1>marrons</ingredient> au dernier moment pour qu’ ils</operation> restent <ingredient quantite=1>entiers</ingredient>. au milieu de cette farce, ajoutez le <ingredient quantite=1>lobe entier de foie gras frais</ingredient>. <operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez le tout</operation>. <operation temps=6.86min espace=8>remplissez le chapon avec la farce</operation> puis coudre l’ ouverture. <operation temps=6.86min espace=8>badigeonnez - le d’ un mélange de beurre et d’</operation> huile. enfournez à 175 ° c (thermostat 5 - 6) au moins 2 heures avant de <operation temps=2.0min espace=8>servir</operation>. <operation temps=6.86min espace=8>arrosez souvent de manière à</operation> <operation temps=6.86min espace=8>obtenir une chair plus tendre et fondante et n’ oubliez pas de le</operation> retourner. lorsque la cuisson est terminée, <operation temps=6.86min espace=8>découpez le chapon</operation> et <operation temps=6.86min espace=8>reconstituez - le en</operation> disposant la farce coupée en <ingredient quantite=1>tranches</ingredient> au milieu du <recipient>plat</recipient>. <operation temps=6.86min espace=8>arrosez - le du jus de cuisson avant de</operation> <operation temps=2.0min espace=8>servir</operation> chaud. bordeaux blanc
+]]>
+ </preparation>
+</recette>

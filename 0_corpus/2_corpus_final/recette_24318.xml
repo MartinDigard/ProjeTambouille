@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24318">
+ <titre>Coquilles Saint Jacques à l’ ancienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de coquilles saint-Jacques congelées (sans corail) </p>
+ <p>1/4 litre de vin blanc sec</p>
+ <p>250 g de crème fraîche</p>
+ <p>2 échalotes</p>
+ <p>30 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>1 demi citron</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>chapelure</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>laissez décongeler les <ingredient quantite=1>coquilles</ingredient> la veille de la préparation dans une moitié de lait et une moitié d’ eau</operation>. mettez les <ingredient quantite=1>coquilles</ingredient> dans le <ingredient quantite=1>vin blanc</ingredient> avec <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> et <operation temps=2.0min espace=15>amenez à ébullition pendant 2 min</operation>. <operation temps=6.86min espace=15>laissez tiédir hors du feu</operation> et <operation temps=6.86min espace=15>retirez les <ingredient quantite=1>coquilles</ingredient> pour les</operation> mettre dans un <recipient>plat</recipient>. ajoutez deux petites <ingredient quantite=2>échalotes</ingredient> (ou <ingredient quantite=1>échalote congelée</ingredient>) à la cuisson et <operation temps=6.86min espace=15>faites - la réduire</operation>. dans une autre <recipient>casserole</recipient>, <operation temps=1.0min espace=15>faites fondre le beurre</operation>. <operation temps=6.86min espace=15>ajoutez la farine</operation> et <operation temps=6.86min espace=15>faites - la blondir</operation>. <operation temps=6.86min espace=15>rajoutez y la <ingredient quantite=1>crème</ingredient> et la cuisson aux <ingredient quantite=2>échalotes</ingredient></operation>. rectifiez l’ assaisonnement, <operation temps=6.86min espace=15>ajoutez le <ingredient quantite=1>citron</ingredient> et, hors du feu, les jaunes d’</operation> oeufs en les fouettant. <operation temps=6.86min espace=15>nappez les <ingredient quantite=1>coquilles</ingredient> avec la sauce</operation> et <operation temps=6.86min espace=15>saupoudrez le <recipient>plat</recipient> avec la <ingredient quantite=1>chapelure</ingredient></operation>. <operation temps=6.86min espace=15>mettez le <recipient>plat</recipient> au <recipient>four</recipient> pour le</operation> <operation temps=6.86min espace=15>faire dorer et le réchauffer</operation>. <ingredient quantite=1>vin blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

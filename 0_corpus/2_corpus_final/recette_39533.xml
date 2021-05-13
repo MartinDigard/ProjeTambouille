@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39533">
+ <titre>Far aux cerises de Mijo</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine de blé noir</p>
+ <p>100 g de farine ordinaire </p>
+ <p>100 g de sucre </p>
+ <p>8 oeufs entiers </p>
+ <p>40 cl de lait </p>
+ <p>80 g de beurre demi-sel (impératif) </p>
+ <p>3 cuillères à soupe de sirop de cerise </p>
+ <p>400 g de cerises </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+confectionner une pâte, un peu plus épaisse que la pate à crêpes, avec tous les ingrédients, sauf les <ingredient quantite=3>cerises</ingredient>! beurrer un <recipient>plat</recipient> en terre, avec le beurre demi sel. disposer les <ingredient quantite=3>cerises</ingredient> dans le fond, de façon à le <operation temps=6.86min espace=9>recouvrir complètement</operation> ; verser la pate dessus. enfourner à 180 ° c (thermostat 6), pendant 35 min environ. servir tiède, et saupoudré de <ingredient quantite=1>sucre</ingredient> glace.
+]]>
+ </preparation>
+</recette>

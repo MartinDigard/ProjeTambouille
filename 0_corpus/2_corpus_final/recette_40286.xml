@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40286">
+ <titre>Lentilles corail au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de lentilles corail</p>
+ <p>1 tomate</p>
+ <p>1 oignon</p>
+ <p>2 ou 3 gousses d’ ail</p>
+ <p>huile (olive ou autre) </p>
+ <p>1 piment oiseau</p>
+ <p>curry</p>
+ <p>sel, poivre</p>
+ <p>coriandre fraîche pour garnir (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=2>ail</ingredient></operation> émincés dans l’ huile. ajouter la <ingredient quantite=1>tomate</ingredient> épépinée détaillée en petits cubes, le <ingredient quantite=1>piment oiseau</ingredient> émincé, les <ingredient quantite=1>lentilles</ingredient> lavées et égouttées, le <ingredient quantite=1>curry</ingredient> selon votre goût (environ une cuillèrée à café), <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=9>couvrir d’ eau jusqu’ à</operation> dépasser les <ingredient quantite=1>lentilles</ingredient> de 1 ou 2 cm. porter à ébullition, <operation temps=0.25min espace=9>couvrir</operation> et <operation temps=15.0min espace=9>laisser cuire environ 15 minutes</operation>. les <ingredient quantite=1>lentilles corail</ingredient> cuisent vite: il vaut mieux surveiller de près si vous préférez qu’ elles gardent leur forme. sinon, on obtient une purée qui n’ est pas désagréable non plus. servir saupoudré d’ un peu de <ingredient quantite=1>coriandre fraîche</ingredient> émincée, avec du riz et une salade cela fait un repas végétarien complet.
+]]>
+ </preparation>
+</recette>

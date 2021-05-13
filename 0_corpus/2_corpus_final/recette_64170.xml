@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64170">
+ <titre>Gâteau compote de pommes aux biscottes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de 17 biscottes</p>
+ <p>100 g de sucre</p>
+ <p>100 g de beurre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>3 oeufs</p>
+ <p>50 cl de lait</p>
+ <p>Pour la compote: </p>
+ <p>6 pommes</p>
+ <p>50 g de sucre</p>
+ <p>1 pincée de cannelle</p>
+ <p>50 ml d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=6>pommes</ingredient>, ôter le coeur, les couper en quartiers et les <operation temps=15.0min espace=15>faire fondre à feu moyen 15 min environ dans une <recipient>casserole</recipient> avec l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>sucre</ingredient> et une pincée de <ingredient quantite=1>cannelle</ingredient></operation>. remuer régulièrement. préchauffer le <recipient>four</recipient> à 180 ° c (th 6) <operation temps=6.86min espace=15>faire chauffer le lait</operation>. dans un <recipient>saladier</recipient>, écraser les <ingredient quantite=1>biscottes</ingredient> à la main, ajouter le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé et le beurre en petits morceaux. verser sur le tout le lait bouillant et remuer aussitôt jusqu’ à obtention d’ une pâte. dès qu’ elle est tiédie, y ajouter les jaunes d’ <ingredient quantite=3>oeufs</ingredient>, bien remuer. incorporer ensuite les blancs montés en neige. dans un <recipient><recipient>moule</recipient> à manqué</recipient> préalablement beurré, verser les 3/4 de la pâte, la <ingredient quantite=1>compote</ingredient> de <ingredient quantite=6>pommes</ingredient>, puis le reste de la pâte afin qu’ elle recouvre le tout. enfourner pour 45 min. démouler et servir tiède.
+]]>
+ </preparation>
+</recette>

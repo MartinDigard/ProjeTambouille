@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14672">
+ <titre>Pain (rapide) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine type 55</p>
+ <p>1 sachet de levure de boulangerie en granulés à temps de levée réduite</p>
+ <p>1, 5 verre d’ eau chaude</p>
+ <p>1 cuillère à café pleine de sel</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez la farine, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=1>sachet de levure</ingredient>, le <ingredient quantite=1>sel</ingredient> et <operation temps=6.86min espace=8>ajoutez l’ <ingredient quantite=1>eau</ingredient></operation>. malaxez jusqu’ à l’ obstention d’ une pâte homogène. le geste est important: <operation temps=6.86min espace=8>faites comme si vous</operation> <operation temps=6.86min espace=8>étiez en train de</operation> plier un mouchoir avec la pâte. attention la pâte ne doit pas coller à la paroi! <operation temps=6.86min espace=8>rajoutez de la farine si elle colle, ou de l’ <ingredient quantite=1>eau</ingredient> si elle est trop sèche</operation>. <operation temps=6.86min espace=8>prenez un <recipient>moule</recipient> à cake</operation> et <operation temps=6.86min espace=8>tapissez de papier cuisson</operation>, <operation temps=6.86min espace=8>mettez le pain</operation>, <operation temps=6.86min espace=8>faites les croisillons avec un couteau pointu</operation>. <operation temps=6.86min espace=8>prenez un torchon propre</operation>, <operation temps=6.86min espace=8>mouillez - le</operation> et <operation temps=6.86min espace=8>mettez - le sur le pain</operation>. <operation temps=6.86min espace=8>attendez une heure que la pâte soit <ingredient quantite=1>levée</ingredient></operation>. pendant ce <ingredient quantite=1>temps</ingredient> -là, <operation temps=20.0min espace=8>préchauffez le <recipient>four</recipient> à thermostat 7 ou à 220 ° c pendant 20 mn environ</operation>. enfournez pendant 40 mn. pour que la pâte lève bien, je la place sur le dessus ma gazinière pendant qu’ elle préchauffe, ou sur un radiateur. avec un <recipient>four</recipient> électrique, je mets une coupelle d’ <ingredient quantite=1>eau</ingredient> dessous pour éviter que le pain ne se déssèche. pour un pain plus joli: avec un pinceau, je le mouille de lait.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27958">
+ <titre>Flan aux tomates et au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches de jambon assez épaisses coupées en petits dés (400 g) </p>
+ <p>1 boîte 4/4 de tomates pelées (476 g égouttées) </p>
+ <p>30 g de beurre fondu</p>
+ <p>25 g de farine</p>
+ <p>6 oeufs</p>
+ <p>125 ml de gruyère râpé</p>
+ <p>2 cuillerées à soupe de crème épaisse (30 ml) </p>
+ <p>1 branche d’ estragon haché</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>passoire</recipient>, égouttez la <ingredient quantite=1>boîte de tomates pelées</ingredient>. pendant ce temps, <operation temps=6.86min espace=13>battez les <ingredient quantite=6>oeufs</ingredient> en omelette dans un récipient</operation>, ajoutez le lait, la farine, le beurre, le <ingredient quantite=1>gruyère râpé</ingredient>, la <ingredient quantite=2>crème</ingredient>, l’ <ingredient quantite=1>estragon haché</ingredient> et le <ingredient quantite=2>jambon coupé en dés</ingredient>, <operation temps=0.25min espace=13>salez</operation> et <operation temps=0.5min espace=13>poivrez</operation>. <operation temps=6.86min espace=13>versez le mélange dans un <recipient>plat</recipient></operation>. <operation temps=40.0min espace=13>disposez les <ingredient quantite=1>tomates</ingredient> et les dés de <ingredient quantite=2>jambon</ingredient> dans la pâte et glissez au <recipient>four</recipient> préchauffé pendant 40 mn environ th 6 ou 180 ° c</operation>. servez chaud dans le <recipient>plat</recipient> de cuisson. vous pouvez <operation temps=6.86min espace=13>remplacez le <ingredient quantite=2>jambon</ingredient> par un reste de poulet cuit et l’ <ingredient quantite=1>estragon</ingredient> par du basilic</operation>.
+]]>
+ </preparation>
+</recette>

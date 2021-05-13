@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80068">
+ <titre>Salade de riz tomates séchées / petits oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de riz </p>
+ <p>1 boîte de thon au naturel</p>
+ <p>tomates séchées en bocal</p>
+ <p>oignons blancs</p>
+ <p>cornichons</p>
+ <p>câpres</p>
+ <p>olives noires à la grecque</p>
+ <p>mayonnaise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découpez les <ingredient quantite=1>tomates séchées</ingredient> en petits tronçons, les <ingredient quantite=1>cornichons</ingredient> et les <ingredient quantite=1>olives</ingredient> en petits morceaux, <operation temps=6.86min espace=8>émiettez le</operation> <ingredient quantite=1>thon</ingredient>, <operation temps=6.86min espace=8>mélangez tous les ingrédients et voilà! vous</operation> pouvez également remplacer le <ingredient quantite=1>thon</ingredient> par des petits lardons de pancetta grillés.
+]]>
+ </preparation>
+</recette>

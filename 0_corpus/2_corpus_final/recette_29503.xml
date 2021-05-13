@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29503">
+ <titre>Onctueuse purée de châtaigne au lait</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de châtaignes</p>
+ <p>25 cl de lait</p>
+ <p>25 cl de crème liquide</p>
+ <p>150 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>50 g de beurre</p>
+ <p>1 pincée de sel </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer d’ abord les <ingredient quantite=1>châtaignes</ingredient>: les fendre 1 à 1 en s’ assurant de bien transpercer les 2 peaux l’ enveloppant. les plonger ensuite dans un bain d’ eau bouillante salée, puis les <operation temps=6.86min espace=8>laisser 15 minutes, jusqu’ à ce qu’ elles</operation> s’ ouvrent. les égoutter, puis les éplucher en s’ assurant d’ avoir retiré les 2 peux qui l’ entourent. une fois pelées, porter le lait et la <ingredient quantite=1>crème</ingredient> à ébullition, puis y mettre les <ingredient quantite=1>châtaignes</ingredient> à cuire pendant 40 minutes environ. les égoutter, puis les passer au <recipient>mixeur</recipient> et les remettre dans le lait chaud en fouettant le tout. saupoudrer de <ingredient quantite=1>sucre</ingredient>, puis parsemer de noisettes de beurre et bien mélanger pour <operation temps=6.86min espace=8>obtenir une purée parfaitement homogène</operation>. servir bien chaud.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21930">
+ <titre>La tambouille ou risotto aux légumes du soleil</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 verre et demi à whisky de riz (variété à souhait) </p>
+ <p>500 g de courgettes</p>
+ <p>2 tomates mûres</p>
+ <p>200 g d’ oignon</p>
+ <p>8 merguez bien épicées</p>
+ <p>huile d’ olives</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>courgettes</ingredient> et les <ingredient quantite=1>oignons</ingredient> dans une <recipient>casserole</recipient> avec une cuillère à soupe d’ huile d’ <ingredient quantite=1>olives</ingredient></operation>. ajouter ensuite les <ingredient quantite=2>tomates</ingredient> coupées en quartiers. lorsque le tout à roussi y ajouter le <ingredient quantite=1>riz</ingredient> et <operation temps=6.86min espace=7>couvrir le tout de 3 <ingredient quantite=1>verres</ingredient> d’ eau</operation>. <operation temps=20.0min espace=7>laisser cuire 20 mn et y</operation> ajouter les merguez: percer de part et d’ autres pour que le piment de celle ci se mélange au <ingredient quantite=1>riz</ingredient>. <operation temps=10.0min espace=7>laisser cuire 10 mn et servir très chaud</operation>. si les merguez ne sont pas assez relevées on peut y ajouter du paprika ou autre piment mais surtout pas du curry.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33852">
+ <titre>La quiche oignons / comté diététique</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>150 g de farine</p>
+ <p>80 g de fromage blanc 0% en faisselle</p>
+ <p>levure chimique (j’ ai mis le sachet entier, j’ aime bien les pâtes gonflées) Pour la garniture: </p>
+ <p>2 œufs</p>
+ <p>2 gros oignons</p>
+ <p>100 g de comté</p>
+ <p>200 g de fromage blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés dans une <recipient>poêle</recipient> antiadhésive, puis, dans un <recipient>saladier</recipient> casser deux <ingredient quantite=2>œufs</ingredient>, ajouter le <ingredient quantite=1>fromage blanc</ingredient>, 80 g de <ingredient quantite=1>comté</ingredient> râpé et les <ingredient quantite=2>oignons</ingredient>. préparer la <ingredient quantite=1>pâte</ingredient> puis l’ étaler, la <operation temps=6.86min espace=11>garnir de la préparation</operation>, rajouter les 20 g de <ingredient quantite=1>comté</ingredient> râpé sur le dessus de la <ingredient quantite=1>garniture</ingredient> et enfourner 35 à 40 min à 200 ° c. <operation temps=6.86min espace=11>servir avec une salade verte si vous</operation> <operation temps=6.86min espace=11>avez un appétit d’ oiseau ou des haricots verts vapeur si vous</operation> êtes comme moi, et que ce genre de met vous ouvre l’ appétit. <recipient>plat</recipient> diététique, moderne et équilibré. 325 calories / personne
+]]>
+ </preparation>
+</recette>

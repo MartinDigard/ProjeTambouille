@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83589">
+ <titre>Gateau crème de marrons (et glaçage au chocolat noir) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le gâteau: </p>
+ <p>1 verre et demi de farine fluide</p>
+ <p>1 verre de sucre en poudre</p>
+ <p>1 sachet de levure chimique</p>
+ <p>150 g de beurre</p>
+ <p>150 g de crème de marron</p>
+ <p>1 yaourt nature</p>
+ <p>3 œufs</p>
+ <p>Pour le glaçage: </p>
+ <p>150 g de chocolat noir</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser dans un <recipient>saladier</recipient> la farine, le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>levure chimique</ingredient>, remuer, <operation temps=6.86min espace=15>faire une fontaine</operation>. verser au centre de la fontaine, le beurre fondu, les jaunes d’ <ingredient quantite=3>œufs</ingredient>, le <ingredient quantite=1>yaourt</ingredient> et la <ingredient quantite=1>crème de marron</ingredient>. remuer. monter les blancs en neige et les incorporer délicatement au mélange. huiler un <recipient>moule</recipient> à <ingredient quantite=1>gâteau</ingredient> et y verser la préparation. mettre au <recipient>four</recipient> et <operation temps=60.0min espace=15>laisser cuire 60 minutes à 180 ° (thermostat 6</operation>). pendant la cuisson préparer le <ingredient quantite=1>glaçage</ingredient>. dans une <recipient>casserole</recipient> mettre le <ingredient quantite=1>chocolat</ingredient> coupé en morceaux et la <ingredient quantite=1>crème fraîche</ingredient>, <operation temps=6.86min espace=15>laisser fondre à feu doux sans</operation> cesser de remuer, jusqu’ à <operation temps=6.86min espace=15>obtenir un mélange totalement homogène</operation>. le mélange doit garder une certaine consistance et ne pas être trop liquide. une fois cuit, démouler le <ingredient quantite=1>gâteau</ingredient> et verser dessus le <ingredient quantite=1>glaçage</ingredient> chaud. <operation temps=20.0min espace=15>laisser refroidir</operation>. pour une touche de déco, vous pouvez mettre une fois le <ingredient quantite=1>glaçage</ingredient> refroidi, des vermicelles en <ingredient quantite=1>chocolat</ingredient> multicolores.
+]]>
+ </preparation>
+</recette>

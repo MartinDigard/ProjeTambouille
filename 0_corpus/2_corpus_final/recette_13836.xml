@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13836">
+ <titre>Soupe piquante à l’ ail (Algérie) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1/2 poulet</p>
+ <p>2 cuillerées à soupe d’ huile</p>
+ <p>1 Cuillerée de beurre</p>
+ <p>1 oignon</p>
+ <p>1 poignée de pois chiches trempés la veille</p>
+ <p>4 Gousses d’ ail</p>
+ <p>1/2 cuillerées à café de poivre rouge</p>
+ <p>sel</p>
+ <p>Hror (ensemble d’ épices mélangées et pilées. A défaut mettre de l’ harissa) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez le <ingredient quantite=1>poulet</ingredient> en morceaux</operation>. <operation temps=6.86min espace=10>mettez les morceaux dans une <recipient>marmite</recipient></operation>. pilez ensemble l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=4>ail</ingredient>, le <ingredient quantite=1>poivre rouge</ingredient>, le <ingredient quantite=1>hror</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=10>diluez avec 1/2 verre d’ eau</operation>. <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=2>huile</ingredient> et le <ingredient quantite=1>beurre</ingredient></operation>. <operation temps=6.86min espace=10>faites revenir à petit feu</operation>. <operation temps=6.86min espace=10>mouillez avec 1 litre d’ eau</operation>. plongez les poids <ingredient quantite=1>chiches</ingredient> dans le bouillon. <operation temps=0.25min espace=10>couvrez</operation> et <operation temps=6.86min espace=10>laissez cuire,</operation> puis <operation temps=2.0min espace=10>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

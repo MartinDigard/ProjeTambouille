@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33062">
+ <titre>Croustillant de camembert au bacon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 camembert ou 1/2 camembert </p>
+ <p>1 oeuf</p>
+ <p>de la chapelure</p>
+ <p>4 tranches de bacon</p>
+ <p>de la salade</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>sel et poivre</p>
+ <p>persil</p>
+ <p>1 tomate en quartiers</p>
+ <p>1 cuillère à soupe de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer la <ingredient quantite=1>salade</ingredient> et la disposer sur 2 assiettes. battre l’ <ingredient quantite=1>oeuf</ingredient> ajouter le <ingredient quantite=1>lait</ingredient>, saler et poivrer. découper le fromage en deux dans le sens horizontal, le plonger dans l’ <ingredient quantite=1>oeuf</ingredient> et ensuite dans la <ingredient quantite=1>chapelure</ingredient>. dans une <recipient>poêle</recipient> mettre une quantitée d’ <ingredient quantite=1>huile</ingredient> équivalent à la moitié du fromage et le <operation temps=6.86min espace=12>faire frire en le retournant dès qu’ il gonfle</operation>. sur la <ingredient quantite=1>salade</ingredient> disposer 2 <ingredient quantite=4>tranches de bacon</ingredient> poser le camenbert doré dessus, disposer la <ingredient quantite=1>tomate</ingredient> autour et arroser la <ingredient quantite=1>salade</ingredient> d’ <ingredient quantite=1>huile</ingredient> et de <ingredient quantite=1>vinaigre</ingredient> et servir chaud.
+]]>
+ </preparation>
+</recette>

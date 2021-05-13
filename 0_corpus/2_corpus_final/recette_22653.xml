@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22653">
+ <titre>Rillettes de porc au cognac</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ échine de porc dégraissée</p>
+ <p>1 kg de lard gras</p>
+ <p>1 branche de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>1 cuillère à soupe de cognac</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez la viande et le <ingredient quantite=1>lard</ingredient> en petits morceaux</operation>. <operation temps=1.0min espace=8>mettez</operation> le tout dans une <recipient>cocotte</recipient> avec le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient> du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=6.86min espace=8>mouillez d’ un verre d’ eau</operation>. <operation temps=6.86min espace=8>faites cuire à feu doux environ 3 h, remuez de temps en temps la préparation</operation>. a la fin, la viande doit s’ effilocher à la fourchette. <operation temps=6.86min espace=8>ajoutez le</operation> <ingredient quantite=1>cognac</ingredient>, <operation temps=5.0min espace=8>laissez cuire encore 5 minutes</operation> et <operation temps=6.86min espace=8>travaillez à la fourchettes pour</operation> <operation temps=6.86min espace=8>obtenir des rillettes plus ou moins fines selon les goûts</operation>. <operation temps=1.0min espace=8>mettez</operation> - les en pots ou dans une <recipient>terrine</recipient>, <operation temps=20.0min espace=8>laissez refroidir</operation> et <operation temps=0.5min espace=8>réservez au frais</operation>.
+]]>
+ </preparation>
+</recette>

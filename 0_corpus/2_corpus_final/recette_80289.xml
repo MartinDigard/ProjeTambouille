@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80289">
+ <titre>Tarte pommes-chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes</p>
+ <p>80 g de chocolat à dessert</p>
+ <p>90 g de sucre</p>
+ <p>70 g de farine</p>
+ <p>3 oeufs</p>
+ <p>50 cl de lait</p>
+ <p>1 pâte brisée ou feuilletée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=4>pommes</ingredient> puis les couper en petites tranches ; réserver. porter le lait à ébulition puis incorporer le <ingredient quantite=1>chocolat</ingredient> en carreaux. pendant que le <ingredient quantite=1>chocolat</ingredient> fond, battre les <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient>, ajouter la farine. verser dessus le lait chaud. remettre à feu doux pour <operation temps=6.86min espace=8>faire épaissir en</operation> remuant très soigneusement pendant 5 à 10 min. arrêter la cuisson dès les premiers bouillonnements. percer le fond de tarte a l’ aide d’ une fourchette afin que le mélange adhère bien, verser la crème, l’ étaler. disposer ensuite les tranche de <ingredient quantite=4>pommes</ingredient>. mettre au <recipient>four</recipient> pendant environ 30 min à 180 - 200 °, thermostat 6 - 7.
+]]>
+ </preparation>
+</recette>

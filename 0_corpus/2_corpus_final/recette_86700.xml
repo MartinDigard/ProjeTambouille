@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86700">
+ <titre>Pâtes aux noix, roquefort et brocolis</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pâtes (type pipe, penne...) - 100 g de noix (plus ou moins selon votre goût) - 150 g de roquefort- 250 g de brocoli- 2 à 3 cuillères à soupe de crème fraîche- poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>pâtes</ingredient> selon indications. pendant ce temps, laver puis détacher par petites têtes le brocoli. le <operation temps=5.0min espace=4>faire cuire 5 min dans de l’ eau bouillante</operation>. décortiquer les noix et les casser grossièrement (à l’ aide d’ un <recipient>mortier</recipient> par exemple). dans une petite <recipient>casserole</recipient>, <operation temps=6.86min espace=4>faire fondre à feu doux le roquefort avec la crème fraîche, sans</operation> <operation temps=20.0min espace=4>faire bouillir</operation>. y ajouter les morceaux de noix. dans une assiette, disposer dans l’ ordre les <ingredient quantite=1>pâtes</ingredient>, puis par dessus les brocolis, et enfin la sauce roquefort aux noix. légèrement poivrer, c’ est prêt! pour que la sauce soit moins liquide vous pouvez ajouter 1 cuillère à soupe de maïzena... <recipient>plat</recipient> inventé avec ma colocataire delphine!
+]]>
+ </preparation>
+</recette>

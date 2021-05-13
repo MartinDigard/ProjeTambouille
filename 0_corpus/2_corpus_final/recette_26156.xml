@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26156">
+ <titre>Carottes forestières en cocotte</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de carottes nouvelles</p>
+ <p>75 g de beurre</p>
+ <p>75 cl de bouillon de légumes</p>
+ <p>2 cuillères à café de persil haché</p>
+ <p>450 g de champignons</p>
+ <p>3 morceaux de sucre</p>
+ <p>sel, poivre du moulin </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver, éplucher et essuyer les <ingredient quantite=1>champignons</ingredient>. les couper en fines lamelles, puis les <operation temps=10.0min espace=9>faire revenir 10 min dans une <recipient>sauteuse</recipient> beurrée, à feu doux</operation>. gratter, peler et détailler les <ingredient quantite=1>carottes</ingredient> en grosses rondelles, puis les incorporer aux <ingredient quantite=1>champignons</ingredient> avec le reste du beurre, le <ingredient quantite=3>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. mouiller le tout avec le <ingredient quantite=1>bouillon</ingredient>, porter à ébullition et <operation temps=6.86min espace=9>laisser cuire jusqu’ à évaporation quasi-complète du <ingredient quantite=1>bouillon</ingredient></operation>. rectifier l’ assaisonnement, puis <operation temps=5.0min espace=9>faire sauter encore 5 min à feu vif</operation>. dresser les <ingredient quantite=1>carottes</ingredient> forestières dans un <recipient>plat</recipient> de service puis saupoudrer le tout de <ingredient quantite=2>persil haché</ingredient>. déguster aussitôt.
+]]>
+ </preparation>
+</recette>

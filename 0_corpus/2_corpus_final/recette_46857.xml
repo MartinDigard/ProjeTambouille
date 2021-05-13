@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46857">
+ <titre>Gigot à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gigot d’ agneau</p>
+ <p>beurre</p>
+ <p>10 cl de calvados</p>
+ <p>2 cubes de bouillon de boeuf</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>gigot</ingredient> au <recipient>four</recipient> enduit de beurre, de sel et poivre. prévoir 15 min par livre. <operation temps=6.86min espace=6>faire dorer le</operation> <ingredient quantite=1>gigot</ingredient> et arroser de temps à autre. quand il est doré, diluer les <ingredient quantite=2>cubes</ingredient> dans de l’ eau, ajouter le <ingredient quantite=1>calvados</ingredient> au <ingredient quantite=2>bouillon</ingredient> et verser le tout sur le <ingredient quantite=1>gigot</ingredient>. <operation temps=6.86min espace=6>finir la cuisson</operation> puis ajouter à la sauce la <ingredient quantite=3>crème fraîche</ingredient> (on peut ajouter un de maïzena pour avoir une sauce onctueuse). <operation temps=6.86min espace=6>servir avec des croquettes de pomme de terre et des haricots</operation>. garder la viande au chaud car elle refroidit rapidement! saint-emilon
+]]>
+ </preparation>
+</recette>

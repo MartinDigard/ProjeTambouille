@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40027">
+ <titre>Poisson au lait de coco de ma belle-soeur brésilienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poisson (Perche du Nil, par exemple) </p>
+ <p>1 boîte de lait de coco </p>
+ <p>1 citron</p>
+ <p>1 poivron</p>
+ <p>1 oignon</p>
+ <p>1 tomate</p>
+ <p>2 gousses d ail</p>
+ <p>2 cuillères à soupe de coulis de tomate</p>
+ <p>coriandre fraîche (on en trouve au marché) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser le jus de <ingredient quantite=1>citron</ingredient> sur les <ingredient quantite=4>filets</ingredient>, saler et poivrer, de chaque coté. couper la moitiée de l’ <ingredient quantite=1>oignon</ingredient> en tranches fines, et <operation temps=6.86min espace=12>faire de même avec la moitié du <ingredient quantite=1>poivron</ingredient>, et la <ingredient quantite=1>tomate</ingredient></operation>. le tout, très finement. mettre de l’ huile dans un <recipient>faitout</recipient> (ou une <recipient>cocotte</recipient>). <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>oignons</ingredient>, et l’ <ingredient quantite=2>ail</ingredient> en robe de chambre, juste</operation> ecrasé par le manche du couteau. rajouter les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>poivron</ingredient>. attendre 5 minutes, en remuant, avant de rajouter par dessus, les <ingredient quantite=4>filets de poisson</ingredient>. ajouter un demi verre d’ eau. <operation temps=6.86min espace=12>couvrir pendant 5 minutes, à feu tout doux</operation>. rajouter ensuite le <ingredient quantite=1>lait de coco</ingredient>, et le <ingredient quantite=1>coulis de tomate</ingredient>. ne pas remuer. <operation temps=6.86min espace=12>couvrir,</operation> et <operation temps=5.0min espace=12>laisser mijoter 5 min</operation>. pour <operation temps=6.86min espace=12>finir</operation>, rajouter 2 très fines tranches d’ <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>coriandre</ingredient>, et poivrer. <operation temps=6.86min espace=12>servez avec du riz, c’ est ce que je</operation> préfère... ce <recipient>plat</recipient> est très bon, et pas du tout calorique, c’ est génial!!!
+]]>
+ </preparation>
+</recette>

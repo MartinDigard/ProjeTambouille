@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14806">
+ <titre>Poulet aux écrevisses facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de blanc de poulet</p>
+ <p>1 fond de poisson</p>
+ <p>1 boîte de bisque de homard</p>
+ <p>1 capsule de safran</p>
+ <p>écrevisses en garniture</p>
+ <p>riz en accompagnement</p>
+ <p>1 boite de cerises ou de poires</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire dorer les <ingredient quantite=4>blancs de poulet</ingredient> dans une <recipient>marmite</recipient> préalablement passés dans la farine. les mettre dans une casserolle, ajouter la <ingredient quantite=1>boîte de bisque de homard</ingredient>, le <ingredient quantite=1>fond de poisson</ingredient> ainsi que la capsule de <ingredient quantite=1>safran</ingredient>. assaisonner de sel et de poivre et <operation temps=45.0min espace=10>laisser mijoter à feu doux 45 mn environ</operation>. servir sur un <recipient>plat</recipient> en garnissant avec les <ingredient quantite=1>écrevisses</ingredient>. servir avec du <ingredient quantite=1>riz</ingredient> et des <ingredient quantite=1>cerises ou des poires</ingredient> chaudes. vin <ingredient quantite=4>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

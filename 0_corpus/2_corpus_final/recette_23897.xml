@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23897">
+ <titre>Gratin d’ aubergines à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 aubergines (environ 750 g) </p>
+ <p>1 gros oignon émincé</p>
+ <p>1 gousse d’ ail</p>
+ <p>400 g de tomates (1 boîte) </p>
+ <p>1 cuillère à soupe de concentré de tomates</p>
+ <p>1 cuillère à café d’ origan</p>
+ <p>1/2 cuillère à café de sucre</p>
+ <p>20 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile d’ olive </p>
+ <p>15 cl de yaourt nature</p>
+ <p>25 g de parmesan râpé</p>
+ <p>25 g de chapelure</p>
+ <p>gros sel, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=20>coupez les <ingredient quantite=2>aubergines</ingredient> en tranches, déposez - les dans une <recipient>passoire</recipient></operation> et saupoudrez de <ingredient quantite=1>gros sel</ingredient>. <operation temps=30.0min espace=20>laissez dégorger 30 minutes puis rincez et séchez - les</operation>. <operation temps=6.86min espace=20>faites chauffer la moitié du beurre et de l’ <ingredient quantite=2>huile</ingredient> dans une grande <recipient>poêle</recipient></operation>. quand le mélange mousse, <operation temps=6.86min espace=20>dorez les <ingredient quantite=2>aubergines</ingredient> sur chaque face</operation> puis <operation temps=6.86min espace=20>égouttez - les sur du papier</operation> absorbant. <operation temps=6.86min espace=20>faites revenir toutes les tranches de cette manière, en</operation> rajoutant du beurre et de l’ <ingredient quantite=2>huile</ingredient> au fur et à mesure. <operation temps=6.86min espace=20>faites revenir l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient> dans la même <recipient>poêle</recipient>, jusqu’ à ce qu’ ils soient</operation> dorés. <operation temps=6.86min espace=20>ajoutez les <ingredient quantite=1>tomates</ingredient> moulinées, le concentré de <ingredient quantite=1>tomates</ingredient>, l’ <ingredient quantite=1>origan</ingredient>, le <ingredient quantite=1>sucre</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=20.0min espace=20>portez à ébullition</operation>, <operation temps=6.86min espace=20>baissez le feu</operation> et <operation temps=5.0min espace=20>laissez frémir pendant 5 minutes pour que la sauce réduise légèrement</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6) et <operation temps=6.86min espace=20>beurrez un <recipient>plat</recipient> à gratin</operation>. <operation temps=6.86min espace=20>divisez les <ingredient quantite=2>aubergines</ingredient> en trois parts</operation>, <operation temps=6.86min espace=20>posez la première au fond du <recipient>plat</recipient></operation>. <operation temps=1.0min espace=20>versez</operation> dessus la moitié de la sauce <ingredient quantite=1>tomate</ingredient> puis la moitié du <ingredient quantite=1>yaourt</ingredient>. <operation temps=6.86min espace=20>répétez l’ opération</operation> et <operation temps=6.86min espace=20>terminez par une couche d’ <ingredient quantite=2>aubergines</ingredient></operation>. saupoudrez le dessus du <recipient>plat</recipient> de <ingredient quantite=1>parmesan râpé</ingredient> et de <ingredient quantite=1>chapelure</ingredient>. enfournez pour 30 minutes de cuisson, le gratin doit être bien doré.
+]]>
+ </preparation>
+</recette>

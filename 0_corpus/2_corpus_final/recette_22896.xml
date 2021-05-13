@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22896">
+ <titre>Poêlée de pâtes aux cèpes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de pâtes</p>
+ <p>3 cèpes</p>
+ <p>1 échalote</p>
+ <p>1 gousse d’ ail</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faites revenir les <ingredient quantite=3>cèpes</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> hachés dans un peu de beurre</operation>. <operation temps=0.25min espace=6>salez</operation> et <operation temps=0.5min espace=6>poivrez</operation>. <operation temps=6.86min espace=6>faites cuire les <ingredient quantite=1>pâtes</ingredient> al dente</operation>, <operation temps=4.0min espace=6>égouttez - les</operation>. <operation temps=6.86min espace=6>videz l’ eau</operation> rendu par les <ingredient quantite=3>cèpes</ingredient>, <operation temps=6.86min espace=6>remettez du beurre</operation> et <operation temps=6.86min espace=6>rajoutez les <ingredient quantite=1>pâtes</ingredient></operation>. <operation temps=6.86min espace=6>laissez revenir quelques minutes</operation> et <operation temps=2.0min espace=6>servez</operation>.
+]]>
+ </preparation>
+</recette>

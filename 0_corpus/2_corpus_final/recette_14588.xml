@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14588">
+ <titre>Couronne à l’ anis (Catalogne) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le levain: </p>
+ <p>20 g de levure de boulanger</p>
+ <p>50 g de farine</p>
+ <p>4 à 5 cuillerées à soupe d’ eau tiède. </p>
+ <p>Pour la pâte: </p>
+ <p>500 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>1 pincée de sel</p>
+ <p>10 cl de lait</p>
+ <p>200 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>20 g d’ anis en grains</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>préparez le <ingredient quantite=1>levain</ingredient> en</operation> délayant la <ingredient quantite=1>levure</ingredient> avec un peu d’ <ingredient quantite=4>eau tiède</ingredient>. <operation temps=6.86min espace=13>ajoutez 50 g de farine</operation>. <operation temps=6.86min espace=13>laissez reposer pendant au moins 1 heure dans un endroit <ingredient quantite=4>tiède</ingredient></operation>. disposez la farine en fontaine, <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient>, le lait et le <ingredient quantite=1>levain</ingredient></operation>. <operation temps=6.86min espace=13>travaillez la <ingredient quantite=1>pâte</ingredient>,</operation> puis <operation temps=6.86min espace=13>incorporez un à un les <ingredient quantite=2>oeufs</ingredient>, puis le beurre ramolli</operation>. <operation temps=6.86min espace=13>ajoutez enfin l’ <ingredient quantite=1>anis</ingredient>, formez une boule</operation> et <operation temps=6.86min espace=13>laissez reposer au moins 4 heures</operation>. <operation temps=6.86min espace=13>disposez sur une plaque</operation> beurrée en formant une couronne. <operation temps=6.86min espace=13>dorez à l’</operation> œuf. <operation temps=35.0min espace=13>cuisez à <recipient>four</recipient> chaud (th 6/7, 230 ° c) pendant 35 mn environ</operation>. <operation temps=6.86min espace=13>décorez de fruits confits avant de</operation> <operation temps=2.0min espace=13>servir</operation>.
+]]>
+ </preparation>
+</recette>

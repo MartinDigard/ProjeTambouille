@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42109">
+ <titre>Crumble aux prunes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre</p>
+ <p>125 g de farine</p>
+ <p>100 g de sucre</p>
+ <p>400 g de prunes (tout dépend de leur taille et du plat) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le beurre et la farine du bout des doigts (ou à la fourchette), de façon à <operation temps=6.86min espace=6>faire une sorte de sable</operation>. ajouter le <ingredient quantite=1>sucre</ingredient> et mélanger. <operation temps=6.86min espace=6>faire chauffer le <recipient>four</recipient>, à 180 ° c (thermostat 6</operation>). mettre les <ingredient quantite=1>prunes</ingredient> denoyautées et coupées en 2 au fond du <recipient>plat</recipient>, et <operation temps=6.86min espace=6>recouvrir avec la pâte</operation>. pour des invités, il est plus judicieux de <operation temps=6.86min espace=6>faire des ramequins ou des portions, plus faciles à</operation> <operation temps=2.0min espace=6>servir</operation>. quand le dessus est doré, c’ est cuit.
+]]>
+ </preparation>
+</recette>

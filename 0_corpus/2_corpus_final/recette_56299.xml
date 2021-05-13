@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56299">
+ <titre>Feuilleté au jambon et au Saint-Moret</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>1 oignon</p>
+ <p>1 boîte de St Moret</p>
+ <p>sel, poivre</p>
+ <p>200 g de jambon en dés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez l’ <ingredient quantite=1>oignon</ingredient> en lamelles</operation> et <operation temps=6.86min espace=8>mettez le à</operation> <operation temps=6.86min espace=8>revenir dans une <recipient>poêle</recipient> un peu</operation> huilée. <operation temps=6.86min espace=8>ajoutez y les dés de <ingredient quantite=1>jambon</ingredient>,</operation> et <operation temps=6.86min espace=8>laissez les un peu griller</operation>. <operation temps=6.86min espace=8>coupez la <ingredient quantite=1>pâte</ingredient> en 4</operation> et étalez au centre de chaque quart une cuillère à soupe environ de <ingredient quantite=1>st moret</ingredient>. déposez le mélange <ingredient quantite=1>jambon</ingredient> + <ingredient quantite=1>oignon</ingredient> par dessus et remettez un peu de <ingredient quantite=1>st moret</ingredient>. <operation temps=6.86min espace=8>repliez la <ingredient quantite=1>pâte</ingredient> en</operation> regroupant les coins, pour <operation temps=6.86min espace=8>faire une sorte d’ aumonière</operation>. <operation temps=6.86min espace=8>déposez les feuilletés dans un <recipient>plat</recipient> anti-adhésif avec la feuille de papier</operation> sulfurisé de la <ingredient quantite=1>pâte</ingredient>. mettre à <recipient>four</recipient> chaud 210 ° c (thremostat 7) pendant 20 minutes environ, la <ingredient quantite=1>pâte</ingredient> doit être dorée. peut être servi avec une salade verte.
+]]>
+ </preparation>
+</recette>

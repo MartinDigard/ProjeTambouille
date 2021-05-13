@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38107">
+ <titre>Tiramisu à l’ orange</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de mascarpone</p>
+ <p>100 g de sucre blanc</p>
+ <p>3 oeufs</p>
+ <p>jus de 2 oranges</p>
+ <p>zeste d’ une orange (non traitée si possible) </p>
+ <p>250 g de biscuit à la cuillère</p>
+ <p>2 cuillères à soupe de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les jaunes d’ oeufs avec le <ingredient quantite=1>sucre</ingredient> en <ingredient quantite=2>poudre</ingredient>. ajouter le <ingredient quantite=1>mascarpone</ingredient> à l’ aide d’ un batteur électrique, ainsi que le <ingredient quantite=1>zeste</ingredient> d’ une <ingredient quantite=1>orange</ingredient>. battre les <ingredient quantite=1>blancs</ingredient> en neige et les ajouter délicatement au mélange. disposer dans le <recipient>plat</recipient>: une couche de <ingredient quantite=1>biscuits</ingredient> imbibés de <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> une couche du mélange mascarpone - <ingredient quantite=3>oeufs</ingredient> - <ingredient quantite=1>sucre</ingredient> une couche de <ingredient quantite=1>biscuits</ingredient> imbibés de <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> et terminer par une couche du mélange mascarpone. réfrigérer plusieurs heures et, au moment de <operation temps=2.0min espace=8>servir</operation>, saupoudrer de <ingredient quantite=2>cacao</ingredient>. attention à bien imbiber les <ingredient quantite=1>biscuits</ingredient> de <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient>, pour qu’ ils ne soient pas secs à la dégustation.
+]]>
+ </preparation>
+</recette>

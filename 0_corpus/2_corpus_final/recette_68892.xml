@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68892">
+ <titre>Truites en papillottes aux petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 truites vidées</p>
+ <p>2 petites tomates</p>
+ <p>2 courgettes moyennes</p>
+ <p>50 cl de crème fraiche épaisse</p>
+ <p>1 toute petite noisette de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>tomates</ingredient>, les <ingredient quantite=2>courgettes</ingredient> en <ingredient quantite=1>petits</ingredient> dés, et émincer le poireau. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=8>faire dorer les légumes dans un peu de <ingredient quantite=1>beurre</ingredient>, y</operation> incorporer la <ingredient quantite=1>crème fraiche</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=7.0min espace=8>laisser mijoter environ 5 à 7 min</operation>. ensuite, poser les <ingredient quantite=4>truites</ingredient> dans les papillotes, mettre de la préparation de légumes à l’ intérieur, refermer les papillotes et mettre dans un <recipient>four</recipient> chaud (thermostat 6 ou 180 ° c) pendant environ 20 à 25 min. <operation temps=6.86min espace=8>servir avec une <ingredient quantite=1>petite</ingredient> timbale de riz</operation>. bon appétit.
+]]>
+ </preparation>
+</recette>

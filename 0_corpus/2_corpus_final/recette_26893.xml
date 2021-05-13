@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26893">
+ <titre>Rôti de veau Orloff</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de rôti de veau</p>
+ <p>16 tranches de gruyère </p>
+ <p>8 tranches de jambon cru </p>
+ <p>8 tranches de lard fumé </p>
+ <p>1 barde de lard </p>
+ <p>40 g de beurre </p>
+ <p>4 cuillerées à soupe d’ huile </p>
+ <p>4 carottes </p>
+ <p>2 oignons </p>
+ <p>4 gousses d’ ail </p>
+ <p>50 cl de vin blanc sec </p>
+ <p>300 g de champignons de Paris </p>
+ <p>1 jaune d’ œuf </p>
+ <p>20 cl de crème fraîche </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+entailler le rôti en laissant 5 cm au niveau de la base. disposer entre chaque entaille une lamelle de <ingredient quantite=1>gruyère</ingredient>, une <ingredient quantite=8>tranche de jambon</ingredient> de pays et une de <ingredient quantite=8>lard fumé</ingredient>. reformer le rôti, le recouvrir d’ une <ingredient quantite=8>barde de lard</ingredient> et le <operation temps=6.86min espace=15>maintenir avec du fil de cuisine</operation>. mettre la viande à dorer dans une <recipient>cocotte</recipient> avec du beurre et de l’ <ingredient quantite=4>huile</ingredient>. remplacer la viande par les <ingredient quantite=4>carottes</ingredient> et les <ingredient quantite=2>oignons</ingredient>. le <operation temps=25.0min espace=15>faire dorer</operation> et replacer la viande. ajouter l’ <ingredient quantite=4>ail</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>, et <operation temps=6.86min espace=15>laisser mijoter pendant 1 h à feu doux</operation>. tamiser le jus de cuisson. a part, <operation temps=6.86min espace=15>faire revenir les <ingredient quantite=1>champignons</ingredient> à feu doux dans du beurre</operation>. incorporer le jus de cuisson du rôti, le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. servir le rôti avec cette sauce.
+]]>
+ </preparation>
+</recette>

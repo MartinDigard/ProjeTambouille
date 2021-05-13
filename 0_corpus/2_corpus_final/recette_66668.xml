@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66668">
+ <titre>Spaghetti au coulis de poivron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti</p>
+ <p>400 g de poivrons surgelés</p>
+ <p>2 échalotes</p>
+ <p>4 gousses d’ ail</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>70 g de concentré de tomates</p>
+ <p>2 dl de bouillon de poule</p>
+ <p>sel, poivre</p>
+ <p>noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire chauffer l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient> dans une grande <recipient>sauteuse</recipient></operation>. y <operation temps=6.86min espace=10>faire rissoler les <ingredient quantite=2>échalotes</ingredient> et l’ <ingredient quantite=4>ail</ingredient> finement</operation> émincés. ajouter les <ingredient quantite=1>poivrons</ingredient>. saler. les <operation temps=6.86min espace=10>laisser fondre</operation>. ajouter 1 dl de <ingredient quantite=1>bouillon</ingredient>. ajouter <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>noix de muscade</ingredient>. <operation temps=25.0min espace=10>laisser mijoter 25 minutes</operation>, ajouter du <ingredient quantite=1>bouillon</ingredient> si nécessaire. 10 minutes avant la fin de la cuisson, <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>spaghetti</ingredient> comme</operation> indiqué sur le paquet.
+]]>
+ </preparation>
+</recette>

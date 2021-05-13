@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53765">
+ <titre>Salade de pois chiches pimentée</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte de pois chiches (ou pois chiches cuits au préalable) </p>
+ <p>1 tomate</p>
+ <p>1 oignon (blanc ou cébette de préférence) </p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>huile d’ olive</p>
+ <p>piment de cayenne en poudre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>ouvrir</operation> et égoutter la <ingredient quantite=1>boîte de pois chiches</ingredient> et la mettre dans un <recipient>saladier</recipient>. hacher l’ <ingredient quantite=1>oignon</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux. couper la <ingredient quantite=1>tomate</ingredient> en deux, l’ épépiner et la couper en <ingredient quantite=1>petits</ingredient> morceaux également. verser la <ingredient quantite=1>tomate</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> dans le <recipient>saladier</recipient> contenant les <ingredient quantite=1>pois chiches</ingredient>. ajouter 1 ou 2 cuillère à café de <ingredient quantite=1>concentré de tomate</ingredient> (selon le goût). <operation temps=6.86min espace=9>couvrir les lentilles d’ huile d’</operation> <ingredient quantite=1>olive</ingredient> ; mélanger et saler. ajouter le <ingredient quantite=1>piment de cayenne en poudre</ingredient> (attention: mieux vaut en mettre un peu et rectifier l’ assaisonnement par la suite). mélanger et mettre au frigo. <operation temps=30.0min espace=9>sortir environ 20 à 30 min avant de</operation> <operation temps=2.0min espace=9>servir</operation>. excellent, en apéritif ou en entrée.
+]]>
+ </preparation>
+</recette>

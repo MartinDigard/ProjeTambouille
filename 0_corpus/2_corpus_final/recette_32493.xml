@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32493">
+ <titre>Crêpes au jambon et bleu d’ Auvergne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 crêpes salées</p>
+ <p>50 g de beurre</p>
+ <p>80 g de farine</p>
+ <p>3 tranches de jambon</p>
+ <p>100 g de bleu d’ Auvergne (ou de votre bleu préféré...) </p>
+ <p>sel, poivre</p>
+ <p>muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>préparez une béchamel</operation>: <operation temps=6.86min espace=7>faites fondre le beurre sur feu doux</operation>. <operation temps=6.86min espace=7>ajoutez - y la farine</operation>, <operation temps=5.0min espace=7>mélangez</operation>, <operation temps=0.25min espace=7>salez</operation> <operation temps=0.5min espace=7>poivrez</operation>, <operation temps=6.86min espace=7>muscadez</operation>. <operation temps=6.86min espace=7>ajoutez le lait très progressivement, tout en</operation> remuant, jusqu’ à obtention d’ une sauce onctueuse. <operation temps=6.86min espace=7>coupez le <ingredient quantite=3>jambon</ingredient> en petits carrés</operation> et <operation temps=6.86min espace=7>incorporez - le à la béchamel</operation>. <operation temps=6.86min espace=7>etalez une large bande de ce mélange au centre de chaque <ingredient quantite=1>crêpe</ingredient>, parsemez de <ingredient quantite=1>bleu</ingredient> d’ <ingredient quantite=1>auvergne</ingredient></operation> coupé en dés, puis <operation temps=6.86min espace=7>repliez les bords de la <ingredient quantite=1>crêpe</ingredient></operation>. <operation temps=6.86min espace=7>servez immédiatemment</operation>.
+]]>
+ </preparation>
+</recette>

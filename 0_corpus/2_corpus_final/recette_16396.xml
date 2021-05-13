@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16396">
+ <titre>Jambon braisé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tranche de jambon cuit épaisse</p>
+ <p>1 petit pot de crème fraîche</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>poivre</p>
+ <p>vin blanc (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la <ingredient quantite=1>tranche de jambon</ingredient> à braiser dans une poele avec une noisette de beurre ou une <ingredient quantite=1>cuillère à soupe</ingredient> d’ huile. lorsqu’ elle a doré, la retirer. déposer dans la <recipient>poêle</recipient> (le <ingredient quantite=1>jambon</ingredient> étant dans un <recipient>plat</recipient>) une <ingredient quantite=1>cuillère à soupe de moutarde</ingredient>, la <ingredient quantite=1>crème</ingredient> fraiche, le <ingredient quantite=1>vin blanc</ingredient>, <operation temps=0.5min espace=8>poivrez</operation>. servir la <ingredient quantite=1>tranche de jambon</ingredient> chaude, avec la sauce dessus. pour décorer, on peut disposer des rondelles de cornichons. <operation temps=6.86min espace=8>servir avec du riz complet</operation>. <recipient>plat</recipient> peu cher, pour étudiant à <ingredient quantite=1>petit</ingredient> budget, par exemple, ou citadin stressé. un <ingredient quantite=1>vin</ingredient> léger du gard (costières)
+]]>
+ </preparation>
+</recette>

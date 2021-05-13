@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195805">
+ <titre>Génoise aux fraises très facile</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 œufs</p>
+ <p>120 g de farine</p>
+ <p>120 g de sucre</p>
+ <p>barquette de fraises </p>
+ <p>1 cuillère à café de levure</p>
+ <p>1 pincée de sel</p>
+ <p>deux petits pots de fromage blanc sucré</p>
+ <p>chantilly maison ou en aérosol</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). mélanger les <ingredient quantite=4>œufs</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce qu’ ils doublent de volume. ajouter une pincée de <ingredient quantite=1>sel</ingredient>, et progressivement, ajouter la farine et la <ingredient quantite=1>levure</ingredient>. mettre le mélange dans le <recipient>moule</recipient> et <operation temps=30.0min espace=10>faire cuire pendant 30 min</operation>. <operation temps=20.0min espace=10>laisser refroidir</operation> puis couper en 2 dans la hauteur. mettre une couche de <ingredient quantite=1>fromage blanc sucré</ingredient>, puis une couche de <ingredient quantite=1>fraises</ingredient>, puis une grosse couche de <ingredient quantite=1>chantilly</ingredient>. réserver au frais minimum une heure avant de <operation temps=2.0min espace=10>servir</operation>.
+]]>
+ </preparation>
+</recette>

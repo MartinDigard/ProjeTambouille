@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23513">
+ <titre>Brochettes d’ agneau</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g d’ agneau (épaule) </p>
+ <p>3 oignons</p>
+ <p>3 tomates</p>
+ <p>1 poivron</p>
+ <p>1/2 verre d’ huile d’ olive</p>
+ <p>1 citron (pour son jus) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>versez l’ <ingredient quantite=1>huile</ingredient>, le jus de <ingredient quantite=1>citron</ingredient> dans 1 <recipient>saladier</recipient></operation>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>coupez la viande et le <ingredient quantite=1>poivron</ingredient> en gros dés, les <ingredient quantite=3>tomates</ingredient> en quartiers</operation>. emincez les <ingredient quantite=3>oignons</ingredient>. <operation temps=6.86min espace=10>laisser le tout</operation> mariner 1 h dans le <recipient>saladier</recipient>. garnissez les piques à brochettes. <operation temps=6.86min espace=10>alternez les morceaux de viande, les lamelles d’ <ingredient quantite=3>oignons</ingredient>, les morceaux de <ingredient quantite=3>tomates</ingredient> et de <ingredient quantite=1>poivron</ingredient></operation>. <operation temps=6.86min espace=10>faites cuire les brochettes sur le <recipient>gril</recipient></operation>. <operation temps=6.86min espace=10>parsemez les brochettes de persil, elles n’ en seront que meillleures!!</operation>!
+]]>
+ </preparation>
+</recette>

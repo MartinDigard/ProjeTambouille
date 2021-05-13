@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18139">
+ <titre>Crème de lait (Portugal) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 dl lait</p>
+ <p>100 g + 4 à 5 cuillères à soupe sucre</p>
+ <p>1 cuillère à soupe farine</p>
+ <p>le zeste d’ un citron</p>
+ <p>4 jaunes d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=4>jaunes</ingredient> avec les 4 càs de sucre et la farine pour <operation temps=8.0min espace=7>obtenir un mélange homogène</operation>. <operation temps=6.86min espace=7>faire bouillir le lait avec le <ingredient quantite=1>zeste</ingredient> de <ingredient quantite=1>citron</ingredient></operation>. ajouter le mélange d’ <ingredient quantite=4>oeufs</ingredient> et <operation temps=6.86min espace=7>laisser cuire à feu doux, jusqu’ à épaississement</operation>. mettre dans un <recipient>moule</recipient> ou des ramequins et <operation temps=20.0min espace=7>laisser refroidir</operation>. saupoudrer de sucre et <operation temps=6.86min espace=7>faire griller</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18790">
+ <titre>Gaspacho andalou</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de grosses tomates</p>
+ <p>350 g de concombre</p>
+ <p>100 g gros oignon</p>
+ <p>40 g d’ ail</p>
+ <p>100 g de poivron vert</p>
+ <p>20 g huile d’ olive</p>
+ <p>1 fond de volaille déshydraté</p>
+ <p>10 cl de vinaigre</p>
+ <p>Pour la garniture: </p>
+ <p>1 concombre</p>
+ <p>2 tomates (bien rouges) </p>
+ <p>1 poivron</p>
+ <p>Pour l’ assaisonnements: </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher et laver les légumes, les couper grossièrement, les mettre à mariner au frais avec l’ huile d’ <ingredient quantite=1>olive</ingredient> et l’ <ingredient quantite=1>assaisonnement</ingredient> (au moins 2 h). broyer l’ ensemble des légumes au cutter ou au mixer. ajouter <ingredient quantite=1>vinaigre</ingredient> et <ingredient quantite=1>fond</ingredient> blanc. rectifier l’ assaisonnement: il doit être relevé. passer la préparation à la <recipient>passoire</recipient> <operation temps=6.86min espace=15>tamis</operation>. réserver au frais, couvert. cette préparation peut être réalisée 24 h à l’ avance. <ingredient quantite=1>garniture</ingredient> pour <operation temps=2.0min espace=15>servir</operation>: eplucher les <ingredient quantite=1>concombres</ingredient> monder les <ingredient quantite=1>tomates</ingredient> et les <ingredient quantite=1>poivrons</ingredient>. enlever les pépins. détailler en petits dés. réserver au frais
+]]>
+ </preparation>
+</recette>

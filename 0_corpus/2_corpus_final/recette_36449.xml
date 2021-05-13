@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36449">
+ <titre>Pates au tomates séchées et à la mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pates (torsettes, penne ou autre selon vos préférences) </p>
+ <p>6-8 tomates séchées marinées à l’ huile (d’ olive de préférence) </p>
+ <p>une boule de mozzarella</p>
+ <p>1 à 2 cuillères à soupe de pesto (au basilic) </p>
+ <p>1 à 2 cuillères à soupe d’ huile d’ olive</p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire cuire les pâtes dans un grand volume d’ eau</operation> salée. pendant ce temps, découpez les <ingredient quantite=1>tomates séchées</ingredient> et la <ingredient quantite=1>mozzarella</ingredient> en petits dés. les mélanger dans un bol avec le <ingredient quantite=1>pesto</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. egoutter les pâtes quand elles sont cuites, puis les remettre dans la <recipient>casserole</recipient> et ajouter le mélange <ingredient quantite=1>tomate</ingredient> / <ingredient quantite=1>pesto</ingredient> / <ingredient quantite=1>mozzarella</ingredient>. bien mélanger en réchauffant à feu doux 1 - 2 minutes. <operation temps=2.0min espace=7>servir</operation> saupoudré de <ingredient quantite=1>parmesan</ingredient>. le <ingredient quantite=1>pesto</ingredient> est souvent très salé, ne <operation temps=6.86min espace=7>salez pas trop les <ingredient quantite=1>pates</ingredient></operation>. la mozarella doit commencer à fondre... accompagner éventuellement de jambon de parme.
+]]>
+ </preparation>
+</recette>

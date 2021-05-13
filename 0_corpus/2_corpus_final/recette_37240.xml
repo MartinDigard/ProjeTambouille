@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37240">
+ <titre>Crumble au poulet à l’ indienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de blancs de poulet en lanières</p>
+ <p>200 g de champignons de Paris émincés</p>
+ <p>5 oignons</p>
+ <p>1 carottes coupée en rondelles</p>
+ <p>15 cl de lait de coco</p>
+ <p>2 cuillères à café de curry</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>Pour le crumble: </p>
+ <p>100 g de farine</p>
+ <p>80 g de beurre</p>
+ <p>80 g de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire revenir les <ingredient quantite=5>oignons</ingredient> dans l’</operation> <ingredient quantite=2>huile</ingredient> puis ajouter la viande, la <ingredient quantite=1>carotte coupée en rondelles</ingredient> et les <ingredient quantite=1>champignons émincés</ingredient>. <operation temps=25.0min espace=15>faire dorer</operation>. ajouter le <ingredient quantite=2>curry</ingredient> et le lait de <ingredient quantite=1>coco</ingredient>. saler et poivrer. <operation temps=15.0min espace=15>laisser mijoter pendant 15 minutes</operation>. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). préparer le <ingredient quantite=1>crumble</ingredient> en mélangeant la farine, le beurre mou et la <ingredient quantite=1>noix de coco râpée</ingredient>. verser la préparation dans un <recipient>plat</recipient> à <recipient>four</recipient> et saupoudrer de crumble. <operation temps=25.0min espace=15>faire cuire au <recipient>four</recipient> pendant 20 à 25 minutes et servir chaud</operation>.
+]]>
+ </preparation>
+</recette>

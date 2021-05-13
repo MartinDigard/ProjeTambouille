@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14133">
+ <titre>Boeuf à la beaucairoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de paleron</p>
+ <p>200 g de lard en tranches épaisses</p>
+ <p>1 verre de vinaigre de vin</p>
+ <p>1 bouquet garni</p>
+ <p>1 verre à liqueur d’ eau de vie</p>
+ <p>3 ou 4 clous de girofle</p>
+ <p>2 oignons</p>
+ <p>1 verre à liqueur de cognac</p>
+ <p>1 petit pot de câpres</p>
+ <p>3 ou 4 anchois écrasés</p>
+ <p>1 grand verre d’ huile d’ olive</p>
+ <p>1 bouteille de bon vin rouge</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire découper le <ingredient quantite=1>paleron</ingredient> en <ingredient quantite=1>tranches</ingredient> très fines</operation>. dans un <ingredient quantite=1>grand</ingredient> <recipient>plat</recipient> creux, préparer la marinade: disposer le <ingredient quantite=1>lard</ingredient> et les <ingredient quantite=1>tranches</ingredient> de <ingredient quantite=1>paleron</ingredient>. frictionner bien avec l’ <ingredient quantite=1>eau de vie</ingredient>. verser le <ingredient quantite=1>vinaigre</ingredient>, ajouter le <ingredient quantite=1>bouquet garni</ingredient>, l’ ail et l’ <ingredient quantite=1>oignon</ingredient> hachés, 1 <ingredient quantite=3>clou de girofle</ingredient>, le <ingredient quantite=1>verre de cognac</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=15>laisser mariner 24 heures</operation>. disposer les <ingredient quantite=1>tranches</ingredient> de <ingredient quantite=1>lard</ingredient> au fond d’ une <recipient>cocotte</recipient>. <operation temps=6.86min espace=15>répartir l’ ail et l’ <ingredient quantite=1>oignon</ingredient></operation> hachés en couches successives avec les <ingredient quantite=1>tranches</ingredient> de <ingredient quantite=1>paleron</ingredient>, sans oublier de saler et poivrer légèrement. verser la marinade et cuire à feu très doux pendant 2 heures. ajouter ensuite 1 <ingredient quantite=1>oignon</ingredient> piqué de clous de <ingredient quantite=3>girofle</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, 1 cuillerée de <ingredient quantite=1>câpres</ingredient>. verser le <ingredient quantite=1>vin rouge</ingredient>. <operation temps=6.86min espace=15>laisser cuire encore 2 heures</operation>. en fin de cuisson, lier la sauce avec un peu de farine, les <ingredient quantite=3>anchois écrasés</ingredient> et quelques <ingredient quantite=1>câpres</ingredient> supplémentaires. avant le service, retirer l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. lirac <ingredient quantite=1>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

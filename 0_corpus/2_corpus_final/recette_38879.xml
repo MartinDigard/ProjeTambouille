@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38879">
+ <titre>Velouté de basilic délicieux</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros bouquet de basilic</p>
+ <p>1 oignon</p>
+ <p>50 cl de bouillon de volaille</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>Sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>pelez l’ <ingredient quantite=1>oignon</ingredient> et émincez - le</operation>. <operation temps=6.86min espace=7>faites le</operation> <operation temps=6.86min espace=7>revenir dans une <recipient>casserole</recipient></operation>. ajoutez le <ingredient quantite=1>bouillon de volaille</ingredient> et <operation temps=20.0min espace=7>portez à ébullition</operation>. lorsque les <ingredient quantite=1>oignons</ingredient> sont tendres, <operation temps=6.86min espace=7>ajoutez les feuilles de <ingredient quantite=1>basilic</ingredient>, préalablement lavées,</operation> et <operation temps=3.0min espace=7>laissez cuire 2 à 3 minutes</operation>. <operation temps=6.86min espace=7>versez le tout dans un <recipient>mixeur</recipient></operation> et <operation temps=6.86min espace=7>mixez jusqu’ à</operation> <operation temps=6.86min espace=7>obtenir un mélange, à peu près homogène</operation>. ajoutez la <ingredient quantite=3>crème fraîche</ingredient> et <operation temps=6.86min espace=7>mixez à nouveau</operation>, brièvement. <operation temps=6.86min espace=7>assaisonnez à votre convenance</operation>. <operation temps=6.86min espace=7>dégustez!!! ce potage est un vrai délice, à condition bien sûr d’</operation> aimer le <ingredient quantite=1>basilic</ingredient> car le goût est très prononcé!
+]]>
+ </preparation>
+</recette>

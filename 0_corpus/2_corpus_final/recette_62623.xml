@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62623">
+ <titre>Poulet boulangère (cuit sur un lit de pommes de terre) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet entier, si possible fermier</p>
+ <p>1 kg de pommes de terre</p>
+ <p>6 gousses d’ ail</p>
+ <p>huile</p>
+ <p>sel, poivra</p>
+ <p>beurre</p>
+ <p>1 feuille de laurier</p>
+ <p>1 branche de thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=3.0min espace=11>coupez - les en rondelles</operation> et <operation temps=6.86min espace=11>disposez - les dans un grand <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. placez votre <ingredient quantite=1>poulet</ingredient> dessus. <operation temps=6.86min espace=11>farcissez votre volaille avec le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient> et 2 <ingredient quantite=6>gousses</ingredient> d’ <ingredient quantite=6>ail</ingredient></operation>. <operation temps=6.86min espace=11>ajoutez un filet d’ huile et quelques noix de beurre</operation>. répartissez les dernières <ingredient quantite=6>gousses</ingredient> d’ <ingredient quantite=6>ail</ingredient> sur les <ingredient quantite=1>pommes de terre</ingredient>. <operation temps=6.86min espace=11>enfournez le tout à <recipient>four</recipient> chaud (220 ° c - thermostat 7 - 8 environ) pendant la cuisson</operation>, ajoutez un peu d’ eau (2 cuillères à soupe) à 2 ou trois reprises, de telle sorte que les <ingredient quantite=1>pommes de terres</ingredient> n’ attachent pas. après 1 h 15 de cuisson, <operation temps=0.5min espace=11>sortez</operation> et <operation temps=6.86min espace=11>découpez votre</operation> <ingredient quantite=1>poulet</ingredient>, replacez les morceaux sur les <ingredient quantite=1>pommes de terre</ingredient> et <operation temps=2.0min espace=11>servez</operation>. vous pouvez appliquer cette même recette avec une épaule, un gigot ou une selle d’ ageau. c’ est simple, économique et délicieux! mâcon village
+]]>
+ </preparation>
+</recette>

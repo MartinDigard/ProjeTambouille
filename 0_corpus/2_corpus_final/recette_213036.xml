@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="213036">
+ <titre>Roulé d’ aubergine au lard et au jambon cru</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 aubergine</p>
+ <p>6 tranches de lard</p>
+ <p>6 tranches de jambon cru</p>
+ <p>mozzarella </p>
+ <p>6 tranches épaisses de gruyère</p>
+ <p>1 sauce tomate</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire une <ingredient quantite=1>sauce tomate</ingredient> (oignons, coulis de <ingredient quantite=1>tomates</ingredient>, bouillon de bœuf, sel, poivre,...). couper 6 <ingredient quantite=6>tranches</ingredient> d’ <ingredient quantite=1>aubergine</ingredient> sur la longueur d’ environs 0.5 cm d’ épaisseur. mettre sur l’ <ingredient quantite=1>aubergine</ingredient>, une <ingredient quantite=6>tranche de lard</ingredient>, une <ingredient quantite=6>tranche de jambon</ingredient> cru, une <ingredient quantite=1>tranche</ingredient> épaisse de <ingredient quantite=6>gruyère</ingredient> et de la mozzarella. <operation temps=6.86min espace=6>roulez l’ <ingredient quantite=1>aubergine</ingredient> et la</operation> <operation temps=6.86min espace=6>faire tenir avec de la ficelle alimentaire (ou cure - dent mais plus difficile à</operation> <operation temps=6.86min espace=6>faire tenir</operation>). plonger l’ <ingredient quantite=1>aubergine</ingredient> roulée dans la sauce tomate et la <operation temps=25.0min espace=6>laisser cuire entre 20 et 25 min à feu doux</operation>. <operation temps=6.86min espace=6>servir avec du riz ou des pâtes</operation>.
+]]>
+ </preparation>
+</recette>

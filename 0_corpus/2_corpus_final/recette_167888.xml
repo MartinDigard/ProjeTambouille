@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167888">
+ <titre>Verrine riz au lait et mangue</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 cl de lait entier</p>
+ <p>20cl de crème liquide</p>
+ <p>150g de riz rond</p>
+ <p>120g de sucre</p>
+ <p>1 gousse de vanille</p>
+ <p>1 mangue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, mettez le lait à chauffer avec la <ingredient quantite=1>crème liquide</ingredient> et la moitié du <ingredient quantite=1>sucre</ingredient>, à feu moyen. <operation temps=6.86min espace=8>rincez rapidement le <ingredient quantite=1>riz</ingredient> à l’ eau froide</operation> et <operation temps=6.86min espace=8>égouttez - le</operation>. <operation temps=6.86min espace=8>ajoutez le <ingredient quantite=1>riz</ingredient> à la préparation <ingredient quantite=1>lait</ingredient> - <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=8>fendez la gousse de <ingredient quantite=1>vanille</ingredient> en deux dans le sens de la longueur, avec une petite cuillère</operation> <operation temps=6.86min espace=8>grattez les grains au dessus de la <recipient>casserole</recipient></operation>. <operation temps=6.86min espace=8>ajoutez aussi la gousse</operation>. <operation temps=30.0min espace=8>laissez cuire à feu doux 30 minutes</operation>. puis <operation temps=20.0min espace=8>laissez refroidir</operation>. <operation temps=6.86min espace=8>laissez le <ingredient quantite=1>riz</ingredient> au moins 1 heure au frais avant de</operation> monter les verrines. <operation temps=6.86min espace=8>montez les verrines</operation>: <operation temps=6.86min espace=8>mettez un fond de <ingredient quantite=1>mangue</ingredient>, remplissez - les aux 3/4 de <ingredient quantite=1>riz</ingredient> au lait</operation>. <operation temps=6.86min espace=8>recouvrez avec des petis morceaux de <ingredient quantite=1>mangue</ingredient></operation>
+]]>
+ </preparation>
+</recette>

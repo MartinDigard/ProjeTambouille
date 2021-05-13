@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18224">
+ <titre>Croustillant de crabe à la tomate et au basilic</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pinces de crabe (ou chair de crabe en boîte) </p>
+ <p>300 g de mayonnaise fraîche</p>
+ <p>1 saladier de coeurs de laitue </p>
+ <p>1 bouquet de basilic</p>
+ <p>6 feuilles de brick (ou 6 crêpes de blé noir au choix) </p>
+ <p>1 coulis de tomate</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre</p>
+ <p>tabasco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+décortiquez les <ingredient quantite=1>pinces de crabes</ingredient>. <operation temps=6.86min espace=10>coupez les <ingredient quantite=6>feuilles</ingredient> de <ingredient quantite=1>laitue</ingredient> ainsi que les 3/4 du <ingredient quantite=1>basilic</ingredient> en chiffonnade</operation> et <operation temps=6.86min espace=10>mélangez - les à la chair de <ingredient quantite=1>crabe</ingredient></operation>. <operation temps=6.86min espace=10>conservez au froid le mélange</operation>. <operation temps=1.0min espace=10>faites fondre le beurre</operation>. coupez les <ingredient quantite=6>feuilles de brick</ingredient> (ou les crêpes de blé noir) en carrés de 5 cm. badigeonnez de beurre et passez au <recipient>four</recipient> quelques minutes. <operation temps=20.0min espace=10>laissez refroidir</operation>. au moment de <operation temps=2.0min espace=10>servir</operation>, <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=1>mayonnaise</ingredient> et 3 gouttes de <ingredient quantite=1>tabasco</ingredient> au mélande de <ingredient quantite=1>crabe</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. sur chaque assiette, <operation temps=6.86min espace=10>posez 1 carré de <ingredient quantite=6>brick</ingredient>,</operation> puis <operation temps=6.86min espace=10>montez le croustillant en</operation> alternant le mélange salade - <ingredient quantite=1>crabe</ingredient> et les carrés de <ingredient quantite=6>brick</ingredient> (4 carrés par personne). entourez d’ un <ingredient quantite=1>coulis de tomate</ingredient> et <operation temps=6.86min espace=10>décorez de <ingredient quantite=6>feuilles</ingredient> de <ingredient quantite=1>basilic</ingredient></operation>. <operation temps=6.86min espace=10>servez très <ingredient quantite=1>frais</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

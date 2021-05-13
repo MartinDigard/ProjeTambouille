@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27093">
+ <titre>Purée de haricots verts en croquettes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de haricots verts</p>
+ <p>125 g de fromage blanc</p>
+ <p>2 oeufs</p>
+ <p>50 g de farine</p>
+ <p>2 cuillères à soupe de ciboulette ciselée</p>
+ <p>4 cuillères à soupe de chapelure</p>
+ <p>sel, poivre</p>
+ <p>huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=8>faites cuire les <ingredient quantite=1>haricots</ingredient> verts 20 min à l’ eau bouillante</operation> salée puis réduisez - les en purée. incorporez la farine, le <ingredient quantite=1>fromage blanc</ingredient>, 1 <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=2>ciboulette</ingredient> et <operation temps=1.0min espace=8>assaisonnez</operation>. <operation temps=6.86min espace=8>rajoutez un peu de farine si nécessaire pour</operation> pouvoir façonner des croquettes. <operation temps=10.0min espace=8>faites chauffer l’</operation> huile de <ingredient quantite=1>friture</ingredient>. <operation temps=6.86min espace=8>passez les croquettes successivement dans l’ <ingredient quantite=1>oeuf</ingredient> battu et dans la <ingredient quantite=4>chapelure</ingredient></operation>. <operation temps=6.86min espace=8>jetez</operation> - les dans l’ huile et <operation temps=6.86min espace=8>faites - les dorer</operation>.
+]]>
+ </preparation>
+</recette>

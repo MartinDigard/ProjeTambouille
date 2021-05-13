@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12015">
+ <titre>Jalousie aux pommes facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée pur beurre </p>
+ <p>150 g de gelée d’ abricot</p>
+ <p>4 pommes à chair ferme</p>
+ <p>50 g de sucre</p>
+ <p>50 g de raisin secs</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>50 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+abaissez 2 bandes de <ingredient quantite=1>pâte</ingredient> feuillettée de 40 cm sur 10 cm. sur la premiere abaisse, <operation temps=6.86min espace=8>étalez la <ingredient quantite=1>gelée</ingredient> d’ <ingredient quantite=1>abricot</ingredient>,</operation> puis <operation temps=6.86min espace=8>disposez 8 demi-pommes</operation> coupées en fines lamelles, en laissant un cm autour. répartissez les <ingredient quantite=1>raisins secs</ingredient>, puis <operation temps=6.86min espace=8>saupoudrez de <ingredient quantite=1>sucre</ingredient></operation> semoule. <operation temps=6.86min espace=8>dorez le pourtour de la <ingredient quantite=1>pâte</ingredient> au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient></operation>. disposez la deuxième abaisse par - dessus. <operation temps=6.86min espace=8>faites adhérer</operation>. <operation temps=6.86min espace=8>dorez la surface</operation> et <operation temps=6.86min espace=8>pratquez des incisions dans la <ingredient quantite=1>pâte</ingredient> dans le sens de la largeur</operation>. <operation temps=30.0min espace=8>cuisez le tout à <recipient>four</recipient> chaud (thermostat 7/210 ° c) pendant 30 mn</operation>. après cuisson, saupoudrez de <ingredient quantite=1>sucre glace</ingredient>. <operation temps=6.86min espace=8>servez tiède</operation>. mousseux
+]]>
+ </preparation>
+</recette>

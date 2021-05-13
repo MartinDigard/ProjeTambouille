@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212989">
+ <titre>Saint-Jacques poêlées et leur fondue de poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 coquilles saint-jacques</p>
+ <p>150 g de lardons</p>
+ <p>3 blancs de poireaux</p>
+ <p>10 cl de vin blanc</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel </p>
+ <p>poivre</p>
+ <p>muscade</p>
+ <p>20 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=3>blancs</ingredient> de <ingredient quantite=3>poireaux</ingredient> et les couper finement. les <operation temps=6.86min espace=14>faire revenir dans une <recipient>cocotte</recipient> ou <recipient>poêle</recipient> un peu creuse avec un peu d’</operation> huile. <operation temps=6.86min espace=14>laisser mijoter puis, à mi-cuisson</operation>, ajouter l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. mouiller avec le <ingredient quantite=1>vin blanc</ingredient> (légèrement). puis assaisonner, et ajouter une pincée de <ingredient quantite=1>muscade</ingredient>. continuer de cuire les <ingredient quantite=3>poireaux</ingredient> jusqu’ à ce qu’ ils soient fondus (très tendres). <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient> afin de les</operation> <operation temps=6.86min espace=14>faire griller</operation>. les ajouter aux <ingredient quantite=3>poireaux</ingredient>. mettre la <ingredient quantite=1>crème</ingredient> et ajuster l’ assaisonnement. <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=1>saint-jacques</ingredient> dans une <recipient>poêle</recipient> chaude à feu moyen avec un peu de matière grasse</operation>. les ajouter aux <ingredient quantite=3>poireaux</ingredient> et servir bien chaud.
+]]>
+ </preparation>
+</recette>

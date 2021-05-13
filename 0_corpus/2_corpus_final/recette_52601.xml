@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52601">
+ <titre>Velouté d’ automne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 grosse tranche de potiron bien mûr</p>
+ <p>4 à 5 cèpes</p>
+ <p>300 à 400 g de châtaignes péalablement cuites à l’ eau bouillante (attention: c’ est un peu long!) </p>
+ <p>5 à 6 pommes de terre</p>
+ <p>50 cl de crème fraîche</p>
+ <p>beurre</p>
+ <p>1 ou 2 gousses d’ ail</p>
+ <p>branche de thym, feuille de laurier, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher le <ingredient quantite=1>potiron</ingredient>, les <ingredient quantite=5>pommes de terre</ingredient>, et les couper en morceaux. enlever la peau des <ingredient quantite=1>châtaignes</ingredient> bouillies. laver les <ingredient quantite=4>cèpes</ingredient> (sans trop les <operation temps=6.86min espace=11>laisser s’</operation> imbiber d’ <ingredient quantite=1>eau</ingredient>!). les émincer grossièrement et les <operation temps=6.86min espace=11>faire revenir dans une <recipient>poêle</recipient>, sans matière grasse, pour leur</operation> <operation temps=6.86min espace=11>faire rendre l’ <ingredient quantite=1>eau</ingredient> qu’ ils</operation> contiennent. ajouter un peu de beurre dans la <recipient>poêle</recipient> et <operation temps=7.0min espace=11>faire revenir</operation> ; ajouter à la fin les <ingredient quantite=1>gousses</ingredient> d’ <ingredient quantite=1>ail</ingredient> hachées. mettre le <ingredient quantite=1>potiron</ingredient>, les <ingredient quantite=5>pommes de terre</ingredient>, les <ingredient quantite=1>châtaignes</ingredient>, ainsi que le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient> dans une grande <recipient>cocotte</recipient> ; <operation temps=6.86min espace=11>couvrir d’</operation> <ingredient quantite=1>eau</ingredient> et <operation temps=30.0min espace=11>laisser cuire environ 30 min</operation>. rajouter les <ingredient quantite=4>cèpes</ingredient>, puis mixer le tout. ajouter la <ingredient quantite=1>crème fraîche</ingredient>, saler et poivrer.
+]]>
+ </preparation>
+</recette>

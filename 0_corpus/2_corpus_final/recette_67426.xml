@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67426">
+ <titre>Madeleine à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine </p>
+ <p>120 g de sucre </p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à café de levure chimique </p>
+ <p>3 oeufs</p>
+ <p>100 g de beurre fondu </p>
+ <p>1 cuillère à soupe d’ eau de fleur d’ oranger </p>
+ <p>1 banane mixée </p>
+ <p>10 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient>, les <ingredient quantite=3>oeufs</ingredient> et le beurre <ingredient quantite=1>fondu</ingredient> refroidi. incorporer la <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> et la banane <ingredient quantite=1>mixée</ingredient>. <operation temps=5.0min espace=12>laisser reposer 5 minute au <recipient>réfrigérateur</recipient></operation>. préchauffer le <recipient>four</recipient> à 220 ° c (thermostat 7 - 8). après ce repos, ajouter le lait à la pâte. mettre l’ équivalent d’ une <ingredient quantite=1>cuillère à café</ingredient> de pâte dans les moules adaptés (moi je préfère les moules en silicones, ils n’ adhèrent pas). enfourner et baisser le <recipient>four</recipient> à 160 ° c (thermostat 5 - 6), <operation temps=10.0min espace=12>laisser cuire 10 minute</operation>. bon appétit!!! pour <operation temps=6.86min espace=12>faire des madeleine nature, c’ est la même recette, sans la banane et 1/4 de verre de lait</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27859">
+ <titre>Paupiettes de veau cordon bleu</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes assez minces</p>
+ <p>80 g de beurre</p>
+ <p>2 tranches de jambon de Paris</p>
+ <p>4 lamelles de gruyère</p>
+ <p>un peu de moutarde forte</p>
+ <p>1 cuillerée à soupe d’ huile</p>
+ <p>2 oignons</p>
+ <p>1 carotte</p>
+ <p>1 bouquet garni</p>
+ <p>1/2 verre de vin blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=0.25min espace=15>salez et</operation> <operation temps=0.5min espace=15>poivrez</operation> les deux faces de chaque <ingredient quantite=1>escalope</ingredient></operation>. tartinez un côté avec du beurre recouvrez d’ 1/2 <ingredient quantite=2>tranche de jambon</ingredient> et d’ une <ingredient quantite=4>lamelle de gruyère</ingredient>. <operation temps=6.86min espace=15>etalez la <ingredient quantite=1>moutarde</ingredient></operation>. <operation temps=6.86min espace=15>roulez en paupiette</operation> et <operation temps=6.86min espace=15>ficelez la viande en croix</operation>. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=15>faites chauffer l’ <ingredient quantite=1>huile</ingredient> et une noix de beurre</operation>. y mettre les paupiettes à dorer de tous les côtés. puis les retirer. emincez les <ingredient quantite=2>oignons</ingredient>, <operation temps=6.86min espace=15>coupez la <ingredient quantite=1>carotte</ingredient> en rondelles</operation>. <operation temps=6.86min espace=15>ajoutez 2 noix de beure dans la <recipient>cocotte</recipient>,</operation> et <operation temps=6.86min espace=15>faites blondir les <ingredient quantite=2>oignons</ingredient>, puis les rondelles de <ingredient quantite=1>carottes</ingredient></operation>. <operation temps=6.86min espace=15>remettez dedans les paupiettes</operation>. ajoutez le <ingredient quantite=1>bouquet garni</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=0.25min espace=15>salez et</operation> <operation temps=0.5min espace=15>poivrez</operation>. <operation temps=0.25min espace=15>couvrez</operation> et <operation temps=30.0min espace=15>laissez cuire à feu moyen pendant 30 mn environ</operation>. <operation temps=6.86min espace=15>déficelez les paupiettes avant de les</operation> présenter. <operation temps=6.86min espace=15>passez la sauce de cuisson</operation> et <operation temps=6.86min espace=15>versez - la dessus</operation>. les <ingredient quantite=4>escalopes</ingredient> de dinde s’ accommodent de la même façon. vous pouvez aussi paner vos paupiettes. les paupiettes sont encore meiux réussies si vous les <operation temps=6.86min espace=15>faites très doucement</operation> mijoter dans la <recipient>cocotte</recipient> à <recipient>four</recipient> moyen au lieu de les <operation temps=6.86min espace=15>laisser sur le feu</operation>. vous pouvez commencer ce mijotage à la moitié de la cuisson un chiroubles
+]]>
+ </preparation>
+</recette>

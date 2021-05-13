@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13265">
+ <titre>Filet mignon en croûte au lard fumé</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets mignons</p>
+ <p>3 gros oignons</p>
+ <p>4 tranches de lard fumé ou de jambon de Parme</p>
+ <p>2 pâtes feuilletées</p>
+ <p>5 cl de cognac</p>
+ <p>sel et poivre</p>
+ <p>2 blancs d’ oeuf</p>
+ <p>sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>rôtir les <ingredient quantite=3>oignons</ingredient>, puis les</operation> caraméliser avec un peu de <ingredient quantite=1>sucre</ingredient> (à peine). les mettre de côté. cuire les <ingredient quantite=4>filets mignons</ingredient> 60 min. les <operation temps=25.0min espace=9>faire dorer</operation>, saler, poivrer, puis les <operation temps=6.86min espace=9>faire flamber au <ingredient quantite=1>cognac</ingredient></operation>. les <operation temps=6.86min espace=9>couvrir un peu d’ <ingredient quantite=3>oignons</ingredient></operation>. envelopper les <ingredient quantite=4>filets</ingredient> des <ingredient quantite=4>tranches de jambon ou de lard fumé</ingredient>. les envelopper de <ingredient quantite=1>pâte feuilletée</ingredient> (éventuellement reconstituer des formes, comme de petits cochons). badigeonner de jaune d’ <ingredient quantite=2>oeuf</ingredient>. mettre au <recipient>four</recipient> 15 min pour <operation temps=25.0min espace=9>faire dorer</operation>. <operation temps=6.86min espace=9>servir avec le reste d’ <ingredient quantite=3>oignons</ingredient></operation>. ne pas oublier d’ arroser pendant la cuisson des <ingredient quantite=4>filets</ingredient> avant de les dorer. cotes du rhône
+]]>
+ </preparation>
+</recette>

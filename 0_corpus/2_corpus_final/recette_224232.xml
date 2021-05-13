@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224232">
+ <titre>Omelette à la farine</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 œufs</p>
+ <p>6 cuillerées à soupe bombées de farine</p>
+ <p>15 cl de lait</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>huile</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation de la pâte: <operation temps=6.86min espace=9>versez la farine dans un <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=9>ajoutez le lait petit à petit en</operation> remuant jusqu’ à l’ obtention d’ une pâte homogène. <operation temps=6.86min espace=9>incorporez les <ingredient quantite=3>œufs</ingredient> l’ un après l’ autre en</operation> mélangeant. <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation>. cuisson: dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faites chauffer à feu moyen une noix de beurre et une cuillère à <ingredient quantite=6>soupe</ingredient> d’</operation> huile. lorsque la matière grasse est bien chaude, <operation temps=6.86min espace=9>versez toute la préparation</operation> et <operation temps=0.25min espace=9>couvrez</operation>. dès que la pâte a gonflé, la retourner pour cuire l’ autre coté. <operation temps=2.0min espace=9>servez bien chaud</operation>. recette de ma grand-mère ardéchoise, que l’ on appelait " bugne ".
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227787">
+ <titre>Crêpes jambon - emmental</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 petites crêpes (ou 4 grandes crêpes) </p>
+ <p>1 oignon</p>
+ <p>3 tranches de jambon</p>
+ <p>100 g d’ emmental</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer à éplucher les <ingredient quantite=1>oignons</ingredient>. ensuite les couper en lamelles. les <operation temps=3.0min espace=5>faire revenir dans une <recipient>poêle</recipient> pendant 3 min</operation>. pendant ce temps couper le <ingredient quantite=3>jambon</ingredient> en dés. ensuite, ajouter le <ingredient quantite=3>jambon</ingredient> aux <ingredient quantite=1>oignons</ingredient>. <operation temps=2.0min espace=5>faire cuire le <ingredient quantite=3>jambon</ingredient> pendant 2 min avec les <ingredient quantite=1>oignons</ingredient></operation>. pendant ce temps mettre l’ <ingredient quantite=1>emmental</ingredient> sur les <ingredient quantite=8>crêpes</ingredient>. puis mettre les <ingredient quantite=8>crêpes</ingredient> pendant 1 min au micro-ondes. ajouter les <ingredient quantite=1>oignons</ingredient> et le <ingredient quantite=3>jambon</ingredient> aux <ingredient quantite=8>crêpes</ingredient>. bon appétit!
+]]>
+ </preparation>
+</recette>

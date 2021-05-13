@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84771">
+ <titre>Poulet sauté à la chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de blancs de poulet taillés en lanières</p>
+ <p>2 bocaux de légumes variés (mélange à la chinoise Suzy Wan) </p>
+ <p>1 morceau de piment (selon le goût) </p>
+ <p>4 oignons fins</p>
+ <p>2 cm de gingembre frais</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 cuillères à café de maïzena</p>
+ <p>sauce soja </p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 ou 2 citrons verts </p>
+ <p>coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>émincez</operation> finement le <ingredient quantite=1>piment</ingredient> épépiné et les <ingredient quantite=4>oignons fins</ingredient>. hachez l’ <ingredient quantite=1>ail</ingredient> et <operation temps=6.86min espace=12>râpez le <ingredient quantite=2>gingembre</ingredient></operation>. <operation temps=6.86min espace=12>mélangez la <ingredient quantite=2>maïzena</ingredient> avec le jus du <ingredient quantite=1>citron</ingredient>, deux <ingredient quantite=2>cuillères</ingredient> d’ eau et deux <ingredient quantite=2>cuillères</ingredient> de sauce <ingredient quantite=1>soja</ingredient></operation>. <operation temps=0.5min espace=12>réservez</operation>. <operation temps=6.86min espace=12>faites revenir au <recipient>wok</recipient> le <ingredient quantite=1>poulet</ingredient> à feu vif avec l’ <ingredient quantite=2>huile</ingredient></operation>. <operation temps=0.25min espace=12>retirez</operation> et <operation temps=0.5min espace=12>réservez</operation>. <operation temps=6.86min espace=12>saisissez 20 secondes sur feu vif l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=2>gingembre</ingredient></operation>. <operation temps=0.5min espace=12>ajoutez</operation> <ingredient quantite=4>oignons</ingredient> et piment. <operation temps=6.86min espace=12>faites revenir 20 secondes sans</operation> <operation temps=6.86min espace=12>laisser dorer</operation>. ajoutez la sauce au <ingredient quantite=1>citron vert</ingredient>. mélangez. <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>poulet</ingredient> et les <ingredient quantite=2>légumes</ingredient> bien égouttés</operation>. mélangez et <operation temps=3.0min espace=12>laisser cuire environ 3 min</operation>. <operation temps=6.86min espace=12>saupoudrez de <ingredient quantite=1>coriandre</ingredient> hachée</operation>. les quantités de sauce <ingredient quantite=1>soja</ingredient> et de <ingredient quantite=1>citron</ingredient> sont à <ingredient quantite=1>varier</ingredient> selon les goûts. riesling ou bière chinoise
+]]>
+ </preparation>
+</recette>

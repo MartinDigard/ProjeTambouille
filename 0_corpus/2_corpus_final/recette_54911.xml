@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54911">
+ <titre>Magret sauce au pineau</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 petits magrets de canard</p>
+ <p>30 cl de pineau</p>
+ <p>1 oignon</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>1 cuillère à café de farine</p>
+ <p>1 cuillère à café de bouillon de volaille en poudre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=4>magrets de canard</ingredient> sur le grill puis réservé. emincer l’ <ingredient quantite=1>oignon</ingredient> finement. dans une <recipient>casserole</recipient>, verser l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et y <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation>. quand les <ingredient quantite=1>oignons</ingredient> sont bien dorés, déglacer le tout avec le <ingredient quantite=1>pineau</ingredient>. ajouter la <ingredient quantite=1>cuillère à café de bouillon de volaille en poudre</ingredient>. <operation temps=5.0min espace=10>laisser mijoter 5 minutes à couvert</operation>. ensuite ajouter la farine pour épaissir le tout. délayer une <ingredient quantite=2>cuillère à soupe de crème fraîche</ingredient> dans la sauce. <operation temps=5.0min espace=10>laisser mijoter 5 minutes</operation>. <operation temps=6.86min espace=10>servir la sauce sur les <ingredient quantite=4>magrets</ingredient></operation>. c’ est un bon <recipient>plat</recipient> sucré salé. un bordeaux
+]]>
+ </preparation>
+</recette>

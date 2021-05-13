@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57294">
+ <titre>Compotée de légumes au chorizo et aux pois chiches</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 poivron</p>
+ <p>1 chorizo</p>
+ <p>1 courgette</p>
+ <p>1 aubergine</p>
+ <p>2 tomates</p>
+ <p>400 g de pois chiches</p>
+ <p>200 g de semoule crue</p>
+ <p>huile d’ olive, cumin en poudre, sucre, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>wok</recipient>, <operation temps=6.86min espace=10>faire revenir dans 2 cuillères à soupe d’ <ingredient quantite=1>huile</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> grossièrement</operation> haché, puis ajouter, en laissant <operation temps=6.86min espace=10>revenir à chaque nouvel ingrédient, le <ingredient quantite=1>poivron</ingredient> en morceaux, le <ingredient quantite=1>chorizo</ingredient> en rondelles (si possible sans la peau), la <ingredient quantite=1>courgette</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient> en petits cubes et enfin la <ingredient quantite=1>tomate</ingredient>, également en cubes</operation>. assaisonner de <ingredient quantite=1>sel</ingredient>, de poivre (attention si le <ingredient quantite=1>chorizo</ingredient> est déjà piquant...), de <ingredient quantite=1>cumin</ingredient> (ne pas hésiter, ça parfume bien...) et une pincée de <ingredient quantite=1>sucre</ingredient> (à cause de la <ingredient quantite=1>tomate</ingredient>). <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=6.86min espace=10>laisser mijoter à feu doux jusqu’ à ce que les légumes soient</operation> cuits. pendant ce temps, <operation temps=6.86min espace=10>faire gonfler la semoule (normalement, un verre d’ eau chaude pour un verre de semoule</operation>). lorsque la ratatouille est cuite, ajouter la semoule cuite et les <ingredient quantite=1>pois chiches</ingredient>. servir bien chaud.
+]]>
+ </preparation>
+</recette>

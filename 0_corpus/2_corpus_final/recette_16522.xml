@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16522">
+ <titre>Soupe à l’ ail</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 gousses d’ ail</p>
+ <p>1, 5 l de bouillon</p>
+ <p>4 oeufs</p>
+ <p>huile</p>
+ <p>sel, poivre</p>
+ <p>piment d’ Espelette</p>
+ <p>thym </p>
+ <p>laurier</p>
+ <p>4 tranches de pain rassis</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=6>gousses</ingredient> d’ <ingredient quantite=6>ail</ingredient> et les <operation temps=7.0min espace=10>faire revenir dans l’</operation> huile à feu doux jusqu`a ce qu’ elles blondissent. incoporer le <ingredient quantite=1>bouillon</ingredient> et porter à ébullition. saler, poivrer, ajouter le <ingredient quantite=1>piment</ingredient>, <ingredient quantite=1>thym</ingredient> et <ingredient quantite=1>laurier</ingredient>. <operation temps=30.0min espace=10>laisser cuire 30 mn à couvert</operation>. a la fin de la cuisson, incorporer les <ingredient quantite=4>oeufs</ingredient>. les <ingredient quantite=4>tranches de pain</ingredient> seront’ aillées’ avant d’ ètre passées dans un <recipient>poêle</recipient> avec un peu d’ huile. au moment de <operation temps=2.0min espace=10>servir</operation>, disposer les croûtons dans une soupière avant d’ y verser le potage.
+]]>
+ </preparation>
+</recette>

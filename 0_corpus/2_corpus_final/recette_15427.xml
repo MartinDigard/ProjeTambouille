@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15427">
+ <titre>Jambon à la bourguignonne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tranches de jambon</p>
+ <p>2 échalotes</p>
+ <p>20 cl de vin blanc</p>
+ <p>1 grand pot de creme fraiche</p>
+ <p>sel, poivre, muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire suer les <ingredient quantite=2>échalotes</ingredient></operation> hachées et le beurre à feu doux (sans coloration). ajouter le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=7>faire réduire</operation> ajouter la crème fraîche et assaisonner. dans un <recipient>plat</recipient>, disposer les <ingredient quantite=4>tranches de jambon</ingredient> et verser la préparation dessus. cuire au <recipient>four</recipient> à 200 ° c pendant 45 min. vous pouvez servir le <ingredient quantite=1>vin blanc</ingredient> utilisé pourla recette. <ingredient quantite=1>vin blanc</ingredient> sec et fruité type chablis
+]]>
+ </preparation>
+</recette>

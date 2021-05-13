@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18300">
+ <titre>Cailles aux raisins</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cailles prêtes à rôtir</p>
+ <p>2 grappes de raisin noir et blanc</p>
+ <p>1 bouquet garni</p>
+ <p>2 cuil à soupe de fond de volaille</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>100 g de beurre mou</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>pelez les grains de <ingredient quantite=2>raisin</ingredient></operation>. placez une noisette de <ingredient quantite=1>beurre</ingredient> salé et poivré dans les <ingredient quantite=4>cailles</ingredient>. <operation temps=6.86min espace=10>faites - les</operation> <operation temps=6.86min espace=10>revenir avec 20 g de <ingredient quantite=1>beurre</ingredient> dans une <recipient>cocotte</recipient> minute</operation> puis ajoutez <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=2>raisin</ingredient>, <ingredient quantite=2>fond de volaille</ingredient> et <ingredient quantite=1>bouquet garni</ingredient>. mouillez avec le <ingredient quantite=2>vin blanc</ingredient>. <operation temps=6.86min espace=10>fermez l’ <recipient>autocuiseur</recipient></operation> et <operation temps=10.0min espace=10>laissez cuire 9/10 min après</operation> chuchotement. dès que la pression est retombée, <operation temps=6.86min espace=10>ouvrir</operation> et <operation temps=6.86min espace=10>déposez les <ingredient quantite=4>cailles</ingredient> sur un <recipient>plat</recipient> et les</operation> réserver au chaud. <operation temps=6.86min espace=10>mettez les <ingredient quantite=4>cailles</ingredient> dans la sauce</operation> et <operation temps=6.86min espace=10>faites réchauffer sur feu plus vif</operation>. lorsque le jus est sirupeux <operation temps=6.86min espace=10>incorporez le reste de <ingredient quantite=1>beurre</ingredient> en</operation> remuant avec une cuillère en bois. vérifiez l’ assaisonnement. nappez et servir. on peut bien sûr remplacer le <ingredient quantite=1>beurre</ingredient> par de l’ huile. on peut aussi acheter des grains de <ingredient quantite=2>raisins</ingredient> épépinés. si vous voulez donner un air de fête à ces <ingredient quantite=4>cailles</ingredient>, et accentuer le côté sucré - salé, vous remplacez le <ingredient quantite=2>vin blanc</ingredient> par du pineau des charentes (<ingredient quantite=2>blanc</ingredient> ou rosé). un pinot <ingredient quantite=2>noir</ingredient> d’ alsace, servi vers 16 ° c
+]]>
+ </preparation>
+</recette>

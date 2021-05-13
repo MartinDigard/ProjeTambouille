@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222847">
+ <titre>Velouté de champignons au chaource</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de champignons blancs</p>
+ <p>1 carotte</p>
+ <p>1 gros poireau ou 2 petits</p>
+ <p>4 pommes de terre</p>
+ <p>1/2 chaource</p>
+ <p>2 échalotes</p>
+ <p>ail</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir les <ingredient quantite=2>échalotes</ingredient> avec du beurre dans la <recipient>cocotte</recipient> minute ; y</operation> <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>champignons</ingredient> coupés en lamelles avec du <ingredient quantite=1>persil</ingredient> et de l’ <ingredient quantite=1>ail</ingredient>, puis y</operation> ajouter la <ingredient quantite=1>carotte</ingredient> coupée en rondelles et le <ingredient quantite=1>poireau</ingredient>. quand tout a <operation temps=6.86min espace=10>pris une belle couleur</operation>, ajouter les <ingredient quantite=4>pommes de terre</ingredient>. <operation temps=6.86min espace=10>couvrir d’ eau ou de bouillon</operation>, fermer la <recipient>cocotte</recipient> et <operation temps=20.0min espace=10>faire cuire 15 ou 20 min</operation>. ensuite, mixer le tout en y ajoutant le <ingredient quantite=1>chaource</ingredient>. (vous pouvez servir décoré de quelques lamelles de <ingredient quantite=1>champignons</ingredient>).
+]]>
+ </preparation>
+</recette>

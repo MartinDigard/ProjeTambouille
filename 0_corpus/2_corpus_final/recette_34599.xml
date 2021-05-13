@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34599">
+ <titre>Poulet au champagne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>2 échalotes</p>
+ <p>un peu d’ huile</p>
+ <p>5 cl de concentré de tomates</p>
+ <p>1 verre à liqueur de cognac</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1/2 bouteille de champagne brut</p>
+ <p>sel et poivre</p>
+ <p>Pour la sauce: </p>
+ <p>75 g de beurre</p>
+ <p>50 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient> en morceaux et <operation temps=15.0min espace=13>faire dorer dans un <ingredient quantite=1>peu</ingredient> d’ <ingredient quantite=1>huile</ingredient> dans une <recipient>cocotte</recipient> pendant 15 min environ</operation>. hacher les <ingredient quantite=2>échalotes</ingredient>. lorsque les morceaux de <ingredient quantite=1>poulet</ingredient> sont bien dorés, ajouter les <ingredient quantite=2>échalotes</ingredient> et le concentré de <ingredient quantite=1>tomates</ingredient>. verser le <ingredient quantite=1>cognac</ingredient> et flamber aussitôt. verser le <ingredient quantite=1>champagne</ingredient> et terminer la cuisson sur feu doux environ 40 min. retirer la viande, la dresser sur un <recipient>plat</recipient> tenu au chaud. passer la <ingredient quantite=1>sauce</ingredient> au <operation temps=6.86min espace=13>tamis</operation>. d’ autre part, <operation temps=6.86min espace=13>faire un beurre</operation> manié en mélangeant le beurre avec la farine. lorsqu’ il est bien lisse, incorporer la <ingredient quantite=1>crème</ingredient>. verser le tout dans la <ingredient quantite=1>sauce</ingredient>. napper le <ingredient quantite=1>poulet</ingredient>. vous pouvez accompagner de riz créole.
+]]>
+ </preparation>
+</recette>

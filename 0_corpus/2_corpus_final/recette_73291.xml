@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73291">
+ <titre>Petites crêpes aux courgettes et coulis tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de courgettes</p>
+ <p>pâte à crêpes salée</p>
+ <p>1 boîte de sauce tomate</p>
+ <p>2 cuillères à soupe de persil frais</p>
+ <p>facultatif: comté râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper la chair des <ingredient quantite=1>courgettes</ingredient> en dés (ôter les pépins). <operation temps=5.0min espace=8>faire bouillir 5 min</operation> et égoutter. pendant ce temps préparer une pâte à crêpe <ingredient quantite=1>salée</ingredient> et poivrée, ajouter du <ingredient quantite=1>comté râpé</ingredient>. vérifier que la pâte soit assez épaisse. ensuite dans une <recipient>crêpière</recipient>, <operation temps=6.86min espace=8>faire deux ou trois petits tas et y</operation> ajouter les dés de <ingredient quantite=1>courgettes</ingredient>, retourner chaque crêpe de façon à ce qu’ elle cuise des 2 côtés. c’ est prêt! <operation temps=6.86min espace=8>agrémentez d’ une sauce <ingredient quantite=1>tomate</ingredient></operation> persillée! <operation temps=6.86min espace=8>dégustez ces crêpes</operation> peuvent être servies en <recipient>plat</recipient> principal, accompagnées de riz, d’ une salade ou autre.... un pinot noir du château l’ ange gardien à ladoix (21)
+]]>
+ </preparation>
+</recette>

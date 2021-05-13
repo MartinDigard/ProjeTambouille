@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13059">
+ <titre>Tarte poire-chocolat facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pâte feuilletée</p>
+ <p>1, 5 boite de poires</p>
+ <p>au sirop</p>
+ <p>1, 5 tablette de chocolat noir</p>
+ <p>1 petit pot de crème fraîche épaisse</p>
+ <p>50 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la pate dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. <operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>chocolat</ingredient>, le</operation> mettre sur le fond de tarte. disposer les morceaux de <ingredient quantite=1>poire</ingredient> sur le <ingredient quantite=1>chocolat</ingredient> brasser avec une fourchette la <ingredient quantite=1>crème</ingredient> fraiche et le <ingredient quantite=1>sucre</ingredient>. etaler sur les <ingredient quantite=1>poires</ingredient>. mettre au <recipient>four</recipient> pendant 45 mn.
+]]>
+ </preparation>
+</recette>

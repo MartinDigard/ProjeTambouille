@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23143">
+ <titre>Tagliatelles vertes aux olives et au fenouil</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de tagliatelles vertes</p>
+ <p>2 bulbes de fenouil</p>
+ <p>100 g d’ olives noires</p>
+ <p>1 poivron rouge</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1 cuillère à soupe de pastis</p>
+ <p>du parmesan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites cuire les pâtes al dente</operation>. nettoyez le <ingredient quantite=2>fenouil</ingredient> et le <ingredient quantite=1>poivron</ingredient>, ébouillantez - les 5 min, <operation temps=6.86min espace=8>égouttez et émincez - les en fines lamelles</operation>. <operation temps=10.0min espace=8>faites chauffer la <ingredient quantite=1>crème</ingredient> avec les lamelles de <ingredient quantite=2>fenouil</ingredient>, le <ingredient quantite=1>pastis</ingredient>, environ 10 min</operation>. <operation temps=1.0min espace=8>assaisonnez</operation>. <operation temps=6.86min espace=8>egouttez les pâtes</operation>, <operation temps=6.86min espace=8>mélangez - les à la sauce au</operation> <ingredient quantite=2>fenouil</ingredient>, <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>olives</ingredient> et les lamelles de <ingredient quantite=1>poivron</ingredient></operation>. <operation temps=6.86min espace=8>accompagnez de <ingredient quantite=1>parmesan</ingredient> en copeaux ou fraîchement râpé</operation>.
+]]>
+ </preparation>
+</recette>

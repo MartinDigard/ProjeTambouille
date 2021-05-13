@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40709">
+ <titre>Foie gras au pain noir et vinaigrette de truffe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 bloc de foie gras mi-cuit</p>
+ <p>1 pain noir russe (épiceries spécialisées) </p>
+ <p>roquette</p>
+ <p>huile de truffe</p>
+ <p>vinaigre de framboises</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparez une vinaigrette avec l’ huile de <ingredient quantite=1>truffe</ingredient> et le <ingredient quantite=1>vinaigre de framboises</ingredient>. <operation temps=6.86min espace=7>faites - la assez légère, afin de ne pas</operation> masquer les saveurs du <ingredient quantite=1>foie gras</ingredient>... <operation temps=6.86min espace=7>faites griller</operation> légèrement les tranches de <ingredient quantite=1>pain noir</ingredient>. recouvrez les assiettes d’ un lit de <ingredient quantite=1>roquette</ingredient>, et placez dessus vos toasts au <ingredient quantite=1>foie gras</ingredient>. <operation temps=6.86min espace=7>arrosez le tout avec la vinaigrette à l’ huile de <ingredient quantite=1>truffe</ingredient> (légèrement!),</operation> ou <operation temps=6.86min espace=7>laissez vos convives se</operation> <operation temps=2.0min espace=7>servir</operation>. c’ est un délice... vous trouverez le fameux <ingredient quantite=1>pain <recipient>russe</recipient></ingredient> dans des épiceries spécialisées, notamment " gastronome " à paris (évitez le <ingredient quantite=1>pain noir</ingredient> vendu en supermarché). il est légèrement sucré et se marie à la perfection avec le <ingredient quantite=1>foie gras</ingredient>!
+]]>
+ </preparation>
+</recette>

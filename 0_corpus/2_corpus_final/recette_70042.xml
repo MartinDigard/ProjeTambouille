@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70042">
+ <titre>Pavé de saumon au chèvre, fines herbes et moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pavés de saumon</p>
+ <p>1 bûche de fromage de chèvre ou du fromage de chèvre frais</p>
+ <p>moutarde</p>
+ <p>thym, herbes de Provence</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). rincez les pavés de <ingredient quantite=4>saumon</ingredient> à l’ eau. <operation temps=6.86min espace=9>séchez - les bien</operation>! <operation temps=6.86min espace=9>déposez les pavés dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient> recouvert de papier sulfurisé. <operation temps=6.86min espace=9>entaillez chaque pavé à 5/6 endroits</operation> et <operation temps=6.86min espace=9>remplissez - les de <ingredient quantite=1>chèvre</ingredient></operation>. etalez une fine couche de <ingredient quantite=1>moutarde</ingredient> sur le dessus et parsemez de <ingredient quantite=1>thym</ingredient> et d’ <ingredient quantite=1>herbes de provence</ingredient>. <operation temps=6.86min espace=9>assaisonnez le tout</operation> suivant vos préférences! <operation temps=15.0min espace=9>faites cuire 15 minutes au <recipient>four</recipient></operation>. servir chaud... miam... c’ est une jolie et bonne façon de déguster le <ingredient quantite=4>saumon</ingredient>! <operation temps=6.86min espace=9>servez les pavés avec du riz, de préférence basmati bon appétit</operation>!
+]]>
+ </preparation>
+</recette>

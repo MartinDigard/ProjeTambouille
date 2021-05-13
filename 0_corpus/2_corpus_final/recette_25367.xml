@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25367">
+ <titre>Coleslaw au ketchup</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 chou blanc</p>
+ <p>2 carottes</p>
+ <p>10 cl de mayonnaise</p>
+ <p>2 cuillères à soupe de ketchup</p>
+ <p>2 cl de Cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez très finement le <ingredient quantite=1>chou</ingredient>, <operation temps=6.86min espace=5>râpez les <ingredient quantite=2>carottes</ingredient> de la même grosseur</operation> ; <operation temps=6.86min espace=5>mélangez la <ingredient quantite=1>mayonnaise</ingredient>, le <ingredient quantite=2>ketchup</ingredient> et le <ingredient quantite=1>cognac</ingredient> pour</operation> <operation temps=6.86min espace=5>faire une sauce cocktail</operation> ; <operation temps=6.86min espace=5>mélangez la sauce et les légumes ensemble</operation>. <operation temps=6.86min espace=5>mettez au frais avant de</operation> <operation temps=6.86min espace=5>servir! le céleri rave</operation> peut remplacer le <ingredient quantite=1>chou</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33246">
+ <titre>Songe</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte 4/4 de poires au sirop</p>
+ <p>1 boîte 4/4 d’ abricots au sirop (ou pêches) </p>
+ <p>200 ml de lait de coco</p>
+ <p>1 demi-verre d’ alcool de lychee (type Soho) </p>
+ <p>10 feuilles de gélatine</p>
+ <p>10 cl de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer les fruits avec le <ingredient quantite=1>sirop</ingredient> d’ une des <ingredient quantite=1>boîtes</ingredient>, l’ <ingredient quantite=1>alcool de lychee</ingredient> et le lait de <ingredient quantite=1>coco</ingredient>. dissoudre les <ingredient quantite=1>feuilles de gélatine</ingredient> dans un fond d’ eau chaude et le <ingredient quantite=1>jus de citron</ingredient>. ajouter la <ingredient quantite=1>gélatine</ingredient> aux fruits, et mélanger au <recipient>mixeur</recipient>. mettre au frigo pendant 4 heures (une nuit, c’ est encore mieux). le dessert est léger (peu sucré) et idéal pour un soir d’ été. pour être parfait, la gelée doit avoir bien <operation temps=6.86min espace=7>pris en masse</operation>. on peut décorer la surface avec des fruits rouges.
+]]>
+ </preparation>
+</recette>

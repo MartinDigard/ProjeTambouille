@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20883">
+ <titre>Pintade aux figues</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pintade prête à cuire de 1, 3 kg</p>
+ <p>2 échalotes</p>
+ <p>20 cl de Porto rouge</p>
+ <p>15 cl d’ eau</p>
+ <p>120 g de beurre</p>
+ <p>8 figues sèches</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans la <recipient>cocotte</recipient> minute, mettre le beurre. <operation temps=6.86min espace=9>faire colorer</operation> légèrement la pintade. ajouter les <ingredient quantite=2>échalotes</ingredient>, le <ingredient quantite=1>porto rouge</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, les <ingredient quantite=8>figues</ingredient>. assaisonner. fermer la <recipient>cocotte</recipient> et <operation temps=16.0min espace=9>laisser <ingredient quantite=1>cuire</ingredient> 16 mn</operation>. découper la viande. <operation temps=6.86min espace=9>servir avec les <ingredient quantite=8>figues</ingredient> et la sauce</operation>.
+]]>
+ </preparation>
+</recette>

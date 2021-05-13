@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45575">
+ <titre>Pancakes à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>50 cl de lait </p>
+ <p>1 banane très mûre</p>
+ <p>3 oeufs</p>
+ <p>1 cuillères à soupe de levure</p>
+ <p>1 pincée de sucre</p>
+ <p>30 g de beurre fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>blender</recipient>, mélanger rapidement les <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=1>banane</ingredient>, la farine, 2 pincées de sel, la <ingredient quantite=1>levure</ingredient>, le lait et le beurre <ingredient quantite=1>fondu</ingredient>. <operation temps=30.0min espace=9>laisser reposer 30 min</operation>. <operation temps=6.86min espace=9>faites chauffer une <recipient>poêle</recipient> à crêpes</operation>. verser des petites louches de pâte, dès que les bulles apparaissent, retourner le pancake et <operation temps=6.86min espace=9>laisser le</operation> cuire quelques secondes. servir tiède, accompagné de sirop d’ érable ou de beurre.
+]]>
+ </preparation>
+</recette>

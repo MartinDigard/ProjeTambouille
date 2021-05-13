@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81265">
+ <titre>Tarte aux pommes et au pralin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>6 pommes </p>
+ <p>25cl de crème liquide</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>1 oeuf</p>
+ <p>15 g de beurre</p>
+ <p>50 g de cassonade</p>
+ <p>3 cuillères à soupe de pralin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte dans un <recipient>plat</recipient> à tarte. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire fondre le beurre, y</operation> mettre les <ingredient quantite=6>pommes</ingredient> découpées en morceaux et soupoudrer avec la <ingredient quantite=1>cassonade</ingredient>. <operation temps=5.0min espace=11>faire cuire à feu vif pendant 5 minutes en</operation> remuant puis <operation temps=6.86min espace=11>laisser les <ingredient quantite=6>pommes</ingredient> se</operation> caraméliser à feu doux pendant 20/25 min. les étaler ensuite sur la pâte et verser dessus la <ingredient quantite=1>crème</ingredient> fraîche mélangée avec le <ingredient quantite=2>sucre</ingredient> vanillé et l’ <ingredient quantite=1>oeuf</ingredient>. saupoudrer de <ingredient quantite=3>pralin</ingredient>. mettre au <recipient>four</recipient> à 175 ° c (thermostat 5 - 6) pendant 25 à 30 min. délicieux avec le café!
+]]>
+ </preparation>
+</recette>

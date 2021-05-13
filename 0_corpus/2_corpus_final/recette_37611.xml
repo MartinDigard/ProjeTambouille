@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37611">
+ <titre>Navarin toulousain</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g d’ épaule d’ agneau (ou collier) </p>
+ <p>8 morceaux de saucisses de Toulouse</p>
+ <p>400 g de haricots blancs déjà à moitié cuits</p>
+ <p>1 oignon</p>
+ <p>4 carottes</p>
+ <p>1 navet</p>
+ <p>3 gousses d’ ail écrasées</p>
+ <p>2 cuillerées de concentré de tomate</p>
+ <p>1 pincée de sucre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+a préparer la veille: dans une <recipient>cocotte</recipient> <operation temps=6.86min espace=11>faire rissoler l’ <ingredient quantite=1>agneau</ingredient> avec de la graisse d’ oie (y</operation> ajouter l’ <ingredient quantite=3>ail</ingredient>). mouiller la viande d’ eau. <operation temps=0.25min espace=11>couvrir et</operation> attendre que l’ eau soit chaude pour ajouter le <ingredient quantite=2>concentré de tomate</ingredient>, la pincée de <ingredient quantite=1>sucre</ingredient> et les morceaux de <ingredient quantite=1>saucisse de toulouse</ingredient>. <operation temps=0.25min espace=11>couvrir et</operation> <operation temps=6.86min espace=11>faire cuire doucement pendant 1 heure</operation>. mettre les <ingredient quantite=1>haricots</ingredient> blancs à tremper. <operation temps=6.86min espace=11>faire refroidir la viande une nuit</operation> et enlever le trop de gras. le lendemain, <operation temps=6.86min espace=11>faire réchauffer</operation> puis ajouter l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=4>carottes</ingredient>, le <ingredient quantite=1>navet</ingredient> coupé en dés et les <ingredient quantite=1>haricots</ingredient> blancs et <ingredient quantite=1>déjà cuits à moitié</ingredient>. couvrir et <operation temps=6.86min espace=11>laisser cuire doucement 2 heures</operation>. saler et poivrer et servir.
+]]>
+ </preparation>
+</recette>

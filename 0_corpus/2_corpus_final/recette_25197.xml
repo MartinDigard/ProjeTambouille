@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25197">
+ <titre>Cake à la banane et au sucre brun</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre</p>
+ <p>100 g de sucre brun</p>
+ <p>1 oeuf</p>
+ <p>250 g de farine</p>
+ <p>1 cuiller à café de levure chimique</p>
+ <p>2 grosses bananes mûres</p>
+ <p>100 g de raisins secs</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) battre le beurre et le <ingredient quantite=1>sucre brun</ingredient> en crème et ajouter l’ <ingredient quantite=1>oeuf</ingredient> en remuant bien. 2) mélanger la farine avec la <ingredient quantite=1>levure</ingredient> et une pincée de <ingredient quantite=1>sel</ingredient>. 3 au mélange 1, ajouter alternativement une cuillerée de farine et une cuillerée de <ingredient quantite=2>bananes</ingredient> écrasées. 4) ajouter les <ingredient quantite=1>raisins secs</ingredient>. 5) verser le tout dans un <recipient>moule</recipient> à cake. 6) <operation temps=6.86min espace=10>faire cuire à <recipient>four</recipient> moyen jusqu’ à ce que le couteau</operation> ressorte <ingredient quantite=1>sec</ingredient>.
+]]>
+ </preparation>
+</recette>

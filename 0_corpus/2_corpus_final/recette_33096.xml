@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33096">
+ <titre>Tatin de pomme au camembert</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 pommes (fruits) </p>
+ <p>1 pâte feuilletée</p>
+ <p>100 g de beurre + 20 g pour le moule</p>
+ <p>un camembert (pas trop fait) </p>
+ <p>une pointe d’ estragon</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> thermostat 7 (210 ° c). eplucher les <ingredient quantite=8>pommes</ingredient> et les couper en lamelles épaisses. <operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>beurre</ingredient> dans une <recipient>sauteuse</recipient> et y</operation> <operation temps=6.86min espace=10>faire dorer les <ingredient quantite=8>pommes</ingredient></operation>. beurrer un <ingredient quantite=1><recipient>moule</recipient></ingredient>. couper le fromage en tranche. disposer les <ingredient quantite=8>pommes</ingredient> en rosace, poivrer et poser le <ingredient quantite=1>camembert</ingredient> par dessus. poser la <ingredient quantite=1>pâte</ingredient> et rentrer les bords, piquer la <ingredient quantite=1>pâte</ingredient>. <operation temps=25.0min espace=10>faire cuire 25 mn</operation>. <operation temps=6.86min espace=10>sortir la tarte</operation> et démouler immédiatemant.
+]]>
+ </preparation>
+</recette>

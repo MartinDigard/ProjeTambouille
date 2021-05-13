@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22423">
+ <titre>Pommes au four</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 pommes à cuire</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 cuiller à soupe bombée de raisins secs</p>
+ <p>fructose, cannelle</p>
+ <p>1 tasse de thé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites gonfler les <ingredient quantite=1>raisins secs</ingredient> dans le <ingredient quantite=1>thé</ingredient> brûlant. pendant ce temps, <operation temps=6.86min espace=8>lavez</operation> et <operation temps=6.86min espace=8>évidez les <ingredient quantite=6>pommes</ingredient></operation>. <operation temps=6.86min espace=8>disposez les <ingredient quantite=6>pommes</ingredient> dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. répartissez les <ingredient quantite=1>raisins</ingredient> dans les <ingredient quantite=6>pommes</ingredient>, <operation temps=6.86min espace=8>conservez le <ingredient quantite=1>thé</ingredient></operation>. mélangez le <ingredient quantite=1>sucre vanillé</ingredient> avec 2 <ingredient quantite=1>cuillers</ingredient> à café de <ingredient quantite=1>fructose</ingredient> et un peu de <ingredient quantite=1>cannelle</ingredient> (selon votre goût). <operation temps=6.86min espace=8>arrosez du <ingredient quantite=1>thé</ingredient> ayant</operation> servi pour les <ingredient quantite=1>raisins</ingredient>. enfournez à <recipient>four</recipient> chaud pour 30 à 40 mn. dégustez chaud ou froid. un dessert " light " pour les régimes du début d’ été. en plus, c’ est délicieux. pour les gourmands (et les convives qui ne sont pas au régime), vous pouvez mettre plus de <ingredient quantite=1>raisins secs</ingredient>.
+]]>
+ </preparation>
+</recette>

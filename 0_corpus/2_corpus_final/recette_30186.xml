@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30186">
+ <titre>Fondant châtaigne et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>environ 1 kg de châtaignes</p>
+ <p>120 g de beurre mou</p>
+ <p>150 g de sucre</p>
+ <p>280 g de chocolat</p>
+ <p>4 marrons glacés</p>
+ <p>1 cuillère à soupe d’ extrait de vanille</p>
+ <p>2 cuillères à soupe de cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>incisez les <ingredient quantite=1>châtaignes</ingredient>,</operation> puis <operation temps=6.86min espace=8>faites - les</operation> cuire 20 mn à l’ eau bouillante. <operation temps=6.86min espace=8>pelez - les</operation>. passez - les au moulin. battez le <ingredient quantite=1>beurre mou</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. incorporez le <ingredient quantite=1>chocolat</ingredient> fondu, la purée de chataignes, les <ingredient quantite=4>marrons glacées</ingredient>, la <ingredient quantite=1>vanille</ingredient> et le <ingredient quantite=2>cognac</ingredient>. <operation temps=6.86min espace=8>versez dans un <recipient>moule</recipient></operation>, tapissé de film étirable et placez 12h au frais.
+]]>
+ </preparation>
+</recette>

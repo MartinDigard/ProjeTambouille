@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16806">
+ <titre>Foie de veau au vinaigre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 belles tranches de foie de veau</p>
+ <p>3 échalotes</p>
+ <p>vinaigre de vin</p>
+ <p>fond de veau </p>
+ <p>sel, poivre, huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire dans un mélange de beurre et d’ <ingredient quantite=1>huile</ingredient> les <ingredient quantite=2>tranches de foie</ingredient>. quand elles sont bien dorées, <operation temps=0.25min espace=5>salez</operation>, <operation temps=0.5min espace=5>poivrez</operation> et <operation temps=6.86min espace=5>ajoutez le <ingredient quantite=1>vinaigre</ingredient>, selon vos goûts</operation>. <operation temps=6.86min espace=5>laissez mijoter selon la cuisson de la viande que vous</operation> <operation temps=6.86min espace=5>désirez,</operation> puis <operation temps=6.86min espace=5>mettez la viande de côté, en la</operation> gardant au chaud. dans le jus de cuisson, <operation temps=6.86min espace=5>faites fondre les <ingredient quantite=3>échalotes</ingredient></operation> émincées, puis ajoutez un peu de <ingredient quantite=2>fond de veau</ingredient>. <operation temps=6.86min espace=5>nappez les <ingredient quantite=2>tranches</ingredient> de voie de cette sauce</operation>. accompagner de spätzles (pâtes alsaciennes). on peut remplacer le <ingredient quantite=1>vinaigre de vin</ingredient> par du <ingredient quantite=1>vinaigre</ingredient> balsamique pour une version plus douce et sucrée. pour éviter que les spätzles ne soient trop sèches, on peut préparer plus d’ échalottes, et être plus généreux avec le <ingredient quantite=2>fond de veau</ingredient>. bourgogne aligoté
+]]>
+ </preparation>
+</recette>

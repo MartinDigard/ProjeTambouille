@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18030">
+ <titre>Coca de pignons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de farine</p>
+ <p>4 oeufs</p>
+ <p>125 g de sucre</p>
+ <p>150 g de beurre</p>
+ <p>10 cl de lait</p>
+ <p>15g de levure de boulanger</p>
+ <p>15g de gaines d’ anis</p>
+ <p>1/2 citron (zeste râpé) </p>
+ <p>50 g de pignons de pin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la farine en fontaine et y ajouter tous les ingrédients, sauf les <ingredient quantite=1>pignons</ingredient> ni les fruits confits (si vous en <operation temps=1.0min espace=10>mettez</operation>). travailler jusqu’ à ce que la pâte soit lisse et ne colle plus aux doigts. continuer à travailler pour qu’ elle soit fine et souple. <operation temps=6.86min espace=10>faire une boule</operation> et <operation temps=20.0min espace=10>laisser reposer 20 min</operation>. étirer la pâte en lui donnant une forme allongée d’ une épaisseur de 1 ou 1.5 cm. badigeonner avec du lait, saupoudrer de <ingredient quantite=1>sucre</ingredient> et répandre les <ingredient quantite=1>pignons</ingredient> préalablement trempés, en appuyant pour qu’ ils collent (<operation temps=6.86min espace=10>faire de même avec les fruits confits</operation>). <operation temps=6.86min espace=10>laisser reposer la coca le temps de</operation> préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). cuire pendant 20 ou 25 min (mais il vaut mieux surveiller) le système de l’ aiguille à tricoter est de mise. cette’ coca’ est typique de la catalogne et c’ est de tradition de la manger pendant la nuit de la saint jean lors du réveillon du solstice d’ eté. on peut y ajouter des fruits confits. mousseux ou muscadet
+]]>
+ </preparation>
+</recette>

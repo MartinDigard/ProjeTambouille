@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50888">
+ <titre>Gâteau au yaourt façon zazou</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pots de yaourts nature </p>
+ <p>250 g de sucre roux </p>
+ <p>250 g de farine</p>
+ <p>3 oeufs</p>
+ <p>50 g de beurre fondu</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=11>versez les <ingredient quantite=2>yaourts</ingredient> dans le <recipient>saladier</recipient>,</operation> et <operation temps=6.86min espace=11>gardez les <ingredient quantite=2>pots</ingredient></operation>. remplissez - les de <ingredient quantite=1>sucre</ingredient>, et <operation temps=6.86min espace=11>versez - les aussi</operation>. <operation temps=6.86min espace=11>faites de même avec la farine</operation>. <operation temps=6.86min espace=11>cassez les trois <ingredient quantite=3>oeufs</ingredient> dans le <recipient>saladier</recipient></operation> et ajoutez le beurre et le <ingredient quantite=1>sachet de levure</ingredient>. <operation temps=6.86min espace=11>mélangez avec le fouet de façon à</operation> <operation temps=6.86min espace=11>faire une pâte lisse</operation>. <operation temps=6.86min espace=11>beurrez le <recipient>moule</recipient>,</operation> puis <operation temps=6.86min espace=11>versez - y le liquide</operation>. <operation temps=45.0min espace=11>mettez au <recipient>four</recipient> pour 45 minutes</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18274">
+ <titre>Salade de courgettes à la feta</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses courgettes </p>
+ <p>200 g de feta (sans huile) </p>
+ <p>2 gros oignons</p>
+ <p>4 tomates</p>
+ <p>olives noires</p>
+ <p>basilic</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>courgettes</ingredient> en fines rondelles, et les faire dégorger avec du <ingredient quantite=2>gros sel</ingredient> dans une <recipient>passoire</recipient> environ 30 min (jusqu’ à ce qu’ elles soient tendres). pendant ce temps, couper la <ingredient quantite=1>feta</ingredient> en petits cubes, couper les <ingredient quantite=4>tomates</ingredient> en petits quartiers, couper les <ingredient quantite=2>oignons</ingredient> en petit quartier et <operation temps=6.86min espace=10>faites les blanchir à l’ eau</operation> salée 2 min. mettre les <ingredient quantite=2>courgettes</ingredient> avec la <ingredient quantite=1>feta</ingredient>, les <ingredient quantite=4>tomates</ingredient>, les <ingredient quantite=2>oignons</ingredient>, les <ingredient quantite=1>olives</ingredient> dans un <recipient>saladier</recipient>, ajouter le <ingredient quantite=1>basilic</ingredient>. mélanger avec une vinaigrette maison (huile d’ <ingredient quantite=1>olive</ingredient> + vinaigre de vin + moutarde). peut se <operation temps=6.86min espace=10>servir en <recipient>plat</recipient> principal</operation>, accompagné de jambon. côtes de provence rosé
+]]>
+ </preparation>
+</recette>

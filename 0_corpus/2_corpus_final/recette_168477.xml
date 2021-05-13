@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168477">
+ <titre>Glace au citron meringuée</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 cl de crème</p>
+ <p>25 cl de lait</p>
+ <p>Le jus de 3 citrons</p>
+ <p>130gr de sucre</p>
+ <p>des meringues toutes faites du commerce</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>jus des citron</ingredient> ajouter la <ingredient quantite=1>crème</ingredient> puis le lait réserver au frais jusqu’ au moment de passer à table lancer la <recipient>sorbetière</recipient>, verser le mélange, et patienter 40 min minimum. pendant ce temps là profiter de votre repas. au moment de <operation temps=2.0min espace=6>servir</operation>, casser la <ingredient quantite=1>meringue</ingredient> en petit morceau et mélanger la à la glace. bon appétit!
+]]>
+ </preparation>
+</recette>

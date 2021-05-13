@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44718">
+ <titre>Roulades de boeuf au porto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tranches de boeuf</p>
+ <p>persil</p>
+ <p>2 gros oignons</p>
+ <p>2 cuillères à soupe de moutarde forte</p>
+ <p>emmental râpé (optionnel) </p>
+ <p>sel, poivre</p>
+ <p>ficelle alimentaire</p>
+ <p>1 noix de beurre</p>
+ <p>4 cl de Porto</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez le <ingredient quantite=1>persil</ingredient> et les <ingredient quantite=2>oignons</ingredient> en petits morceaux,</operation> puis <operation temps=6.86min espace=10>mélangez - les ensemble</operation>. <operation temps=6.86min espace=10>etalez les morceaux de viande,</operation> et <operation temps=6.86min espace=10>saupoudrez - les de <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=10>disposez un peu de mélange <ingredient quantite=1>persil</ingredient> - <ingredient quantite=2>oignons</ingredient> sur chaque morceau de viande,</operation> et <operation temps=6.86min espace=10>ajoutez aussi un peu d’ <ingredient quantite=1>emmental</ingredient></operation>. <operation temps=6.86min espace=10>roulez le morceau de <ingredient quantite=4>boeuf</ingredient>, de façon à</operation> garder le mélange à l’ intérieur, et <operation temps=6.86min espace=10>fermez avec la ficelle <ingredient quantite=1>alimentaire</ingredient></operation>. dans une <recipient>cocotte</recipient> en fonte, <operation temps=6.86min espace=10>faites fondre le <ingredient quantite=1>beurre</ingredient>,</operation> et <operation temps=10.0min espace=10>faites dorer les roulades 10 min</operation>. <operation temps=6.86min espace=10>ajoutez ensuite le reste du mélanges <ingredient quantite=1>persil</ingredient> -</operation> <ingredient quantite=2>oignons</ingredient> (<operation temps=6.86min espace=10>refaites -en au besoin),</operation> et <operation temps=6.86min espace=10>laissez mijoter</operation>. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>porto</ingredient> à mi cuisson</operation>. environ 1/4 d’ heure plus tard, <operation temps=6.86min espace=10>incorporez la <ingredient quantite=2>moutarde</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>laissez mijoter, jusqu’ à ce que la viande soit bien tendre (il</operation> faut compter 1 h30 de cuisson en tout). vin rouge
+]]>
+ </preparation>
+</recette>

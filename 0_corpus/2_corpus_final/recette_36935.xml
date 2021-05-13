@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36935">
+ <titre>Poivrons marinés au vinaigre balsamique</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 poivrons rouges</p>
+ <p>la moitié d’ un bouquet de persil</p>
+ <p>4 gousses d’ ails</p>
+ <p>3 cuillères à soupe de vinaigre balsamique</p>
+ <p>le jus d’ un citron</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=10>faire griller les <ingredient quantite=4>poivrons</ingredient> 30 min à mi-hauteur dans le <recipient>four</recipient></operation>. préparer une vinaigrette avec le <ingredient quantite=3>vinaigre</ingredient>, l’ <ingredient quantite=5>huile</ingredient> d’ <ingredient quantite=5>olive</ingredient>, la <ingredient quantite=1>moitié</ingredient> de l’ <ingredient quantite=1>ail</ingredient> écrasé et le <ingredient quantite=1>citron</ingredient>. lorsque les <ingredient quantite=4>poivrons</ingredient> sont bien cuits, <operation temps=10.0min espace=10>laisser tiédir</operation> et enlever la peau. couper les <ingredient quantite=4>poivrons</ingredient> en fines lamelles et les mettre dans un <recipient>plat</recipient> creux. mettre beaucoup de poivre, du <ingredient quantite=1>sel</ingredient> le reste d’ <ingredient quantite=1>ail</ingredient> et la vinaigrette puis rajouter le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=10>laisser macérer au minimum 2 heures, en</operation> mélangant à la fourchette de temps en temps. ce <recipient>plat</recipient> peut se garder plusieurs jours à température ambiante. bon appétit à tous!!!
+]]>
+ </preparation>
+</recette>

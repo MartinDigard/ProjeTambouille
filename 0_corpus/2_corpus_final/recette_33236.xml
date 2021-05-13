@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33236">
+ <titre>Roulés de jambon au potiron gratinés</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de jambon blanc</p>
+ <p>une belle tranche de potiron (de la citrouille ou courge) </p>
+ <p>150 g de gruyère râpé</p>
+ <p>50 g de beurre</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>500 ml de lait</p>
+ <p>3 cuillères à soupes d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>noix de muscade râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>potiron</ingredient> en petits cubes et les <operation temps=6.86min espace=13>faire revenir dans une <recipient>poêle</recipient> avec l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> pendant environ 10 bonnes minutes à feu moyen</operation>. <operation temps=6.86min espace=13>faire la béchamel en</operation> <operation temps=6.86min espace=13>faisant fondre le beurre dans une <recipient>casserole</recipient>, y</operation> ajouter la farine, bien mélanger et ajouter progressivement le lait et <operation temps=6.86min espace=13>faire épaissir</operation>. saler, poivrer et ajouter deux pincées de <ingredient quantite=1>noix de muscade</ingredient>. dans un <recipient>plat</recipient> à gratin, rouler les <ingredient quantite=4>tranches de jambon</ingredient> avec la chair du <ingredient quantite=1>potiron</ingredient> cuite (de la même manière que vous <operation temps=6.86min espace=13>rouleriez des endives au <ingredient quantite=4>jambon</ingredient></operation>...). parsemer de <ingredient quantite=1>gruyère râpé</ingredient>, et verser dessus la béchamel. mettre à gratiner au <recipient>four</recipient> th 6/7 pendant environ 20 mn. si vous ne <operation temps=6.86min espace=13>mangez pas de porc</operation>, remplacez le <ingredient quantite=4>jambon</ingredient> par des <ingredient quantite=4>tranches de blanc</ingredient> de dinde.
+]]>
+ </preparation>
+</recette>

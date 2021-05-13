@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45460">
+ <titre>Tagliatelles sauce corneed beef</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de tagliatelles</p>
+ <p>1 boîte de corned beef (200 g) </p>
+ <p>10 cl de crème liquide </p>
+ <p>une poignée d’ oignons émincés</p>
+ <p>2 tomates mûres</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire bouillir l’ eau, avec un filet d’ huile et une pincée de sel pour les pâtes</operation>. quand l’ eau bout, plongez les pâtes et les <operation temps=6.86min espace=6>faire cuire le temps</operation> indiqué sur le paquet. c’ est à ce moment précis que tout commence... dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=6>faire fondre les</operation> <ingredient quantite=1>oignons</ingredient>, ajouter le corneed <ingredient quantite=1>beef</ingredient> (sans sa <ingredient quantite=1>boîte</ingredient>, bien sûr!), et le <operation temps=6.86min espace=6>faire fondre en</operation> remuant. rajouter la <ingredient quantite=1>crème liquide</ingredient>, et <operation temps=6.86min espace=6>laisser mijoter le temps que les pâtes finissent de</operation> cuire. vous pouvez rajouter, à mi-cuisson des pâtes, les <ingredient quantite=2>tomates</ingredient> coupées en morceaux dans la sauce (si vous aimez!). <operation temps=6.86min espace=6>régalez vous, c’ est</operation> facile, pas cher et super pour les étudiants désirant accomoder leurs pâtes autrement qu’ avec leur fromage râpé! recette inventée par mon futur beau-frère, qui fait ça avec de la sauce italienne à la place des <ingredient quantite=2>tomates</ingredient>!
+]]>
+ </preparation>
+</recette>

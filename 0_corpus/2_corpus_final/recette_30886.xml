@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30886">
+ <titre>Cannellonis aux fruits de mer</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>Pour la farce: </p>
+ <p>8 cannellonis (compter 1 cannelloni/personne lorsque c’ est servi en entrée) </p>
+ <p>300 g de colin d’ Alaska (ou tout autre poisson du même type) </p>
+ <p>2 blancs d’ oeuf</p>
+ <p>10 cl de crème fraîche</p>
+ <p>20 scampis</p>
+ <p>poivre, sel</p>
+ <p>poivre de cayenne</p>
+ <p>Pour la sauce: </p>
+ <p>100 g de crevettes roses</p>
+ <p>100 g de crevettes grises</p>
+ <p>5 à 6 scampis par personne</p>
+ <p>1 boîte de bisque de homard</p>
+ <p>25 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>scampis</ingredient> dans de l’ eau bouillante, salée et poivrée. <operation temps=20.0min espace=17>laisser refroidir</operation> et décortiquer. garder 20 <ingredient quantite=1>scampis</ingredient> pour <ingredient quantite=1>la farce</ingredient> et le reste pour <ingredient quantite=1>la sauce</ingredient>. faie cuire la pâte pour <ingredient quantite=1>pour</ingredient> les <operation temps=6.86min espace=17>cannellonis dans l’ eau bouillante</operation> salée (j’ utilise des feuilles pour lasagne. n’ hésitez pas à recouper un morceau sur la longueur si elles sont un peu trop longue). passer le poisson et les <ingredient quantite=1>scampis</ingredient> dans le mixer en y ajoutant petit à petit les blanc d’ <ingredient quantite=2>oeuf</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. assaisonner avec le <ingredient quantite=1>sel</ingredient> et le poivre de <ingredient quantite=1>cayenne</ingredient>. placer la préparation sur les feuilles de pâte et les rouler avec soin. enrouler ensuite chaque cannelloni dans une feuille de papier aluminium beurrée. fermer les extrémités, placer dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et <operation temps=15.0min espace=17>faire cuire au <recipient>four</recipient> pendant 15 mn à 180 ° c</operation>. pendant la cuisson, préparer la <ingredient quantite=1>sauce</ingredient>. <operation temps=6.86min espace=17>faire chauffer la <ingredient quantite=1>bisque</ingredient> et la</operation> diluer avec la <ingredient quantite=1>crème</ingredient> fraîche jusqu’ à obtention de la consistance désirée (elle ne doit pas être trop liquide). y incorporer ensuite les scampis et les <ingredient quantite=1>crevettes</ingredient>. <operation temps=6.86min espace=17>laisser chauffer</operation>. placer ensuite les cannellonis dans des assiettes et les napper ensuite de <ingredient quantite=1>sauce</ingredient>. n’ hésitez pas à augmenter les proportions si de gros mangeurs sont à votre table. vin blanc pas trop sec
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31190">
+ <titre>Gâteau Banane de Stéph</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>150 g de farine</p>
+ <p>100 g de sucre</p>
+ <p>1/2 paquet de levure</p>
+ <p>125 g de beurre</p>
+ <p>4 petites bananes ou 2 grandes</p>
+ <p>rhum</p>
+ <p>vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient>. ajouter le beurre fondu, puis la farine et la <ingredient quantite=1>levure</ingredient>. couper les <ingredient quantite=4>bananes</ingredient> en tous <ingredient quantite=1>petits</ingredient> morceaux (ou les écraser au choix), et les ajouter au mélange. aromatiser avec le <ingredient quantite=1>rhum</ingredient> et la <ingredient quantite=1>vanille</ingredient> selon les goûts.... verser le tout dans un <recipient>moule</recipient> à cake beurré et fariné, et <operation temps=30.0min espace=10>laisser cuire environ 30 mn à <recipient>four</recipient> thermostat 6</operation>. je <operation temps=6.86min espace=10>fais cette recette avec les <ingredient quantite=4>bananes</ingredient> que l’ on</operation> a à tahiti, <ingredient quantite=4>petites</ingredient> et très goûteuses, mon homme m’ en redemande toutes les semaines! les amis à qui j’ ai passé cette recette s’ en régalent aussi... varier le thermostat selon qu’ on aime une pâte à peine cuite (et donc moelleuse: th 6) ou bien cuite.
+]]>
+ </preparation>
+</recette>

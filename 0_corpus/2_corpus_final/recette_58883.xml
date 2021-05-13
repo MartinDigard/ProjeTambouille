@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58883">
+ <titre>Super moelleux au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat noir</p>
+ <p>100 g de sucre</p>
+ <p>75 g de beurre en plaquette demi-sel</p>
+ <p>75 g de farine + 1 sachet de levure</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>micro-onde</recipient> dans un bol avec 2 cuillères à soupe d’ eau</operation>. une fois fondu ajouter le beurre découpé en morceaux et <operation temps=6.86min espace=9>laisser fondre dans le <ingredient quantite=1>chocolat</ingredient></operation>. en attendant, séparer les blancs des jaunes. ajouter le <ingredient quantite=1>sucre</ingredient> aux jaunes et mélanger pour <operation temps=8.0min espace=9>obtenir un mélange homogène</operation>. ajouter le mélange <ingredient quantite=1>chocolat beurre</ingredient>. puis monter les blancs en neige, ajouter les, remuer de façon à ne pas trop les écraser. enfin terminer par ajouter la farine et la <ingredient quantite=1>levure</ingredient>. beurrer un <recipient>moule</recipient>, verser le mélange et mettre au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7), <operation temps=6.86min espace=9>laisser bien</operation> cuire 1/4 d’ heure puis planter le couteau jusqu’ à n’ avoir qu’ une fine trace de <ingredient quantite=1>chocolat</ingredient> fondu. c’ est cuit! a déguster chaud ou froid.
+]]>
+ </preparation>
+</recette>

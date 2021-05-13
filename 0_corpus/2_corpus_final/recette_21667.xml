@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21667">
+ <titre>Oeufs cocotte au cantal</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 gros oeufs</p>
+ <p>100 g de Cantal jeune</p>
+ <p>20 cl de crème fluide</p>
+ <p>30 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 240 ° c (th 8). <operation temps=6.86min espace=8>beurrez 4 ramequins</operation>. <operation temps=6.86min espace=8>découpez le fromage en fines lamelles</operation>. répartissez la <ingredient quantite=1>crème</ingredient> dans les ramequins. <operation temps=6.86min espace=8>cassez un <ingredient quantite=1>oeuf</ingredient> dans chacun d’ eux</operation>. <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation>. répartissez dessus les lamelles de fromage et le beurre restant coupé en petits dés. placez les ramequins dans un <recipient>plat</recipient> à <recipient>four</recipient> contenant quelques centimètres d’ eau chaude. enfournez pour 10 mn. <operation temps=6.86min espace=8>servez avec des mouillettes de pain de campagne que vous</operation> aurez préalablement grillées. cette recette peut se <operation temps=6.86min espace=8>faire aussi avec de la fourme d’ ambert ou du roquefort émietté, du comté ou de l’ emmental</operation> râpés.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16955">
+ <titre>Brownies caramélisés</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>325 g de sucre</p>
+ <p>200 g de margarine (ou de beurre) </p>
+ <p>125 g de chocolat</p>
+ <p>175 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>terrine</recipient>, <operation temps=6.86min espace=10>cassez les</operation> <ingredient quantite=3>oeufs</ingredient>, <operation temps=6.86min espace=10>ajoutez le</operation> <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=10>battez bien l’ ensemble</operation>. <operation temps=6.86min espace=10>cassez le <ingredient quantite=1>chocolat</ingredient> en moreaux</operation> et <operation temps=6.86min espace=10>faites - le fondre dans la margarine à feu doux</operation>. <operation temps=6.86min espace=10>mélangez les <ingredient quantite=3>oeufs</ingredient></operation> battus avec le <ingredient quantite=1>chocolat</ingredient> fondu. mélangez la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre vanillé</ingredient> avec la farine et <operation temps=6.86min espace=10>incorporez le mélange dans la pâte avec une cuillère en bois</operation>. <operation temps=6.86min espace=10>mettez la pâte dans un grand <recipient>plat</recipient> (35 - 40 cm)</operation> et <operation temps=20.0min espace=10>faites cuire à <recipient>four</recipient> moyen (thermostat 6/180 ° c) 15 à 20 mn</operation>. vous pouvez le mettre dans des petites barquettes en allu sa fait des parts individuel
+]]>
+ </preparation>
+</recette>

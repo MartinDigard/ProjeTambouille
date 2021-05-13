@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27611">
+ <titre>Tarte à la banane simplissisme</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée préparée au sucre roux et avec une pointe de cannelle</p>
+ <p>4 bananes un peu molles</p>
+ <p>3 oeufs</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>1 pincée de cannelle</p>
+ <p>sucre roux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler <ingredient quantite=1>pâte brisée</ingredient> dans <recipient><recipient>moule</recipient> à tarte</recipient>. couper en rondelles les 4 <ingredient quantite=4>bananes</ingredient>. dans un <recipient>saladier</recipient>, mélanger <ingredient quantite=3>oeufs</ingredient>, <ingredient quantite=3>crème</ingredient>, <ingredient quantite=1>sucre roux et cannelle</ingredient>. ajouter cette préparation sur les <ingredient quantite=4>bananes</ingredient> et mettre au <recipient>four</recipient> 3/4 d’ heure à 180 ° c. dessert idéal quand les <ingredient quantite=4>bananes</ingredient> commencent à <operation temps=6.86min espace=9>flétrir un peu</operation>.
+]]>
+ </preparation>
+</recette>

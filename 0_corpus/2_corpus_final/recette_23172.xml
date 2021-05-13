@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23172">
+ <titre>Wok de porc aux germes de soja</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de filet de porc</p>
+ <p>500 g de germes de soja frais</p>
+ <p>10 g de champignons noirs </p>
+ <p>1 gros oignon</p>
+ <p>huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire tremper les <ingredient quantite=1>champignons noirs</ingredient>. emincer la viande et l’ <ingredient quantite=1>oignon</ingredient> en lamelles. <operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>oignon</ingredient> au <recipient>wok</recipient> ou à la <recipient>poêle</recipient> avec de l’</operation> <ingredient quantite=1>huile</ingredient>, ajouter le <ingredient quantite=1>porc</ingredient> et mélanger. saler, poivrer, et mouiller d’ un verre d’ eau. <operation temps=10.0min espace=9>laisser cuire 10 min à feu moyen</operation>. rajouter les <ingredient quantite=1>germes de soja frais</ingredient> te les <ingredient quantite=1>champignons noirs</ingredient> égoutté et coupés en morceaux. <operation temps=10.0min espace=9>laisser revenir 10 min et servir</operation>. on peut ajouter 3 g de glutamate pour renforcer l’ accent asiatique mais ce n’ est pas indispensable. <operation temps=6.86min espace=9>ajoutez des nouilles sautées et vous</operation> aurez un <recipient>plat</recipient> bien complet.
+]]>
+ </preparation>
+</recette>

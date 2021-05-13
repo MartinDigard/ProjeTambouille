@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48994">
+ <titre>Soufflé à l’ orange au fromage blanc</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à soupe de sucre semoule</p>
+ <p>2 oranges</p>
+ <p>2 oeufs</p>
+ <p>4 cerises confites</p>
+ <p>400 g de fromage blanc</p>
+ <p>4 ramequins</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>fromage</ingredient> dans un <recipient>saladier</recipient> avec les 2 <ingredient quantite=2>cuillères à soupe de sucre</ingredient>. battre le <ingredient quantite=1>fromage</ingredient> au fouet. presser le jus des <ingredient quantite=2>oranges</ingredient> et verser le jus dans le <recipient>saladier</recipient> de la préparation fromage / <ingredient quantite=2>sucre</ingredient>. mélanger le tout. casser les <ingredient quantite=2>oeufs</ingredient> et séparer les jaunes des <ingredient quantite=1>blancs</ingredient>. battre les <ingredient quantite=1>blancs</ingredient> en neige, bien ferme (ajouter une petite pincée de sel). verser les <ingredient quantite=1>blancs</ingredient> dans la préparation (<ingredient quantite=1>fromage</ingredient>, <ingredient quantite=2>sucre</ingredient>, jus) puis mélanger délicatement le tout à l’ aide d’ une spatule. <operation temps=6.86min espace=10>remplir 4 <ingredient quantite=4>ramequins</ingredient> avec la préparation</operation> et déposer une <ingredient quantite=1>cerise</ingredient> confite sur le dessus. réserver les <ingredient quantite=4>ramequins</ingredient> pendant 1 h au <recipient>réfrigérateur</recipient>. déguster très frais. vous pouvez battre les jaunes qui ne servent à rien, les congeler et les <operation temps=6.86min espace=10>ressortir pour un prochain <recipient>plat</recipient></operation>.
+]]>
+ </preparation>
+</recette>

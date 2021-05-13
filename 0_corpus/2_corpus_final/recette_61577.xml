@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61577">
+ <titre>L’ aigo boulido de ma mère</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 gousses d’ ail</p>
+ <p>3 feuilles de sauge</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ <p>50 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire bouillir l’ <ingredient quantite=1>eau</ingredient></operation>. pendant ce temps, éplucher l’ <ingredient quantite=4>ail</ingredient>, le dégermer, et l’ écraser dans une assiette creuse. rajouter la <ingredient quantite=3>sauge</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et verser l’ <ingredient quantite=1>eau</ingredient> bouillie sur la préparation. <operation temps=0.25min espace=5>couvrir</operation> et <operation temps=6.86min espace=5>laisser infuser quelques minutes</operation>. déguster avec un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. excellent après un repas très lourd.
+]]>
+ </preparation>
+</recette>

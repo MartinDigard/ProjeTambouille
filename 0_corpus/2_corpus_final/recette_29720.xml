@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29720">
+ <titre>Gratin de pomme de terre à la rillette d’ oie</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes de terre nouvelles de taille moyenne</p>
+ <p>200 g de rillettes d’ oie</p>
+ <p>40 cl de lait</p>
+ <p>20 cl de crème liquide</p>
+ <p>30 g de gruyère râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez et découpez les <ingredient quantite=1>pommes de terre</ingredient> en rondelles. assaisonnez- les. dressez dans un <recipient>plat</recipient> creux (allant au <recipient>four</recipient> et sur la cuisinière) une couche comprenant la moitié des <ingredient quantite=1>pommes de terre</ingredient>. étalez la rillette sur les <ingredient quantite=1>pommes de terre</ingredient> avec une cuillère. recouvrez avec le reste des <ingredient quantite=1>pommes de terre</ingredient>. <operation temps=6.86min espace=9>versez le lait</operation> et <operation temps=6.86min espace=9>mettez sur la cuisinière à feu vif</operation>. a ébullition, <operation temps=6.86min espace=9>rajoutez la <ingredient quantite=1>crème</ingredient>,</operation> puis couvrez avec le <ingredient quantite=1>gruyère râpé</ingredient>. cuisez à <recipient>four</recipient> chaud 200 ° c 20 minutes environ (et jusqu’ à ce que les <ingredient quantite=1>pommes de terre</ingredient> soient cuites). <operation temps=6.86min espace=9>servez avec une salade</operation>.
+]]>
+ </preparation>
+</recette>

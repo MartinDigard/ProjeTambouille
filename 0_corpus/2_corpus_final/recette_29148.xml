@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29148">
+ <titre>Oeuf cocotte au Saint-Nectaire</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>200 g de Saint-Nectaire</p>
+ <p>lanières de jambon blanc</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>répartir la <ingredient quantite=1>crème</ingredient> et le saint-nectaire dans 2 ramequins</operation> allant au <recipient>four</recipient>. les enfourner à <recipient>four</recipient> moyen pendant 15 mn en remuant de temps en temps pour que le fromage fonde uniformément. quand le mélange <ingredient quantite=1>crème</ingredient> / fromage est bien lisse, rajouter les <ingredient quantite=1>lanières de jambon blanc</ingredient> et casser deux <ingredient quantite=4>oeufs</ingredient> dans chaque ramequin. <operation temps=6.86min espace=8>laisser cuire 5 bonnes minutes</operation>. <operation temps=6.86min espace=8>savourez avec des dés de pain de campagne</operation>. je le considère comme un <recipient>plat</recipient> principal car c’ est bien nourrissant! ce n’ est certes pas très régime, mais il faut bien se <operation temps=6.86min espace=8>faire plaisir</operation>... un vin rouge frais
+]]>
+ </preparation>
+</recette>

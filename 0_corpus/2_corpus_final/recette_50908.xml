@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50908">
+ <titre>Nouilles aux champignons et coeurs de palmier</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de nouilles</p>
+ <p>400 g de champignons de Paris en boîte</p>
+ <p>1 petite boîte de coeurs de palmier</p>
+ <p>1 petit piment doux</p>
+ <p>100 g d’ oignons blancs</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>20 cl de bouillon de viande</p>
+ <p>2 cuillères à soupe de persil ciselé</p>
+ <p>sel fin, poivre blanc du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>pelez les <ingredient quantite=1>oignons</ingredient> et la gousse d’ <ingredient quantite=1>ail</ingredient>, puis hachez - les</operation>. <operation temps=6.86min espace=12>egouttez les</operation> <ingredient quantite=1>champignons</ingredient> et <operation temps=6.86min espace=12>coupez - les en lamelles</operation>. <operation temps=10.0min espace=12>egouttez</operation> les <ingredient quantite=1>coeurs de palmier</ingredient> et émincez - les en julienne. <operation temps=6.86min espace=12>faites revenir les <ingredient quantite=1>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient> dans l’ <ingredient quantite=2>huile</ingredient></operation>. mouillez avec le <ingredient quantite=1>bouillon de viande</ingredient> chaud. <operation temps=10.0min espace=12>faites cuire à couvert, sur feu <ingredient quantite=1>doux</ingredient>, pendant 10 minutes</operation>. ajoutez les <ingredient quantite=1>champignons</ingredient> et la julienne de <ingredient quantite=1>coeurs de palmier</ingredient> à la sauce ainsi que le <ingredient quantite=1>piment</ingredient> coupé en <ingredient quantite=1>fines</ingredient> lamelles. <operation temps=5.0min espace=12>prolongez la cuisson pendant 5 minutes</operation>. <operation temps=0.25min espace=12>salez</operation> et <operation temps=0.5min espace=12>poivrez</operation>. <operation temps=6.86min espace=12>portez à ébullition 4 litres d’ eau</operation> additionnée de 2 <ingredient quantite=2>cuillères</ingredient> à café de <ingredient quantite=1>sel</ingredient>. plongez - y les <ingredient quantite=1>nouilles</ingredient>, <operation temps=6.86min espace=12>défaites - les</operation> délicatement à la fourchette et <operation temps=6.86min espace=12>faites - les</operation> cuire pendant 8 minutes environ. <operation temps=10.0min espace=12>egouttez</operation> - les ensuite dans une <recipient>passoire</recipient> et déposez - les dans un <recipient>plat</recipient> creux. <operation temps=6.86min espace=12>incorporez le mélange aux <ingredient quantite=1>champignons</ingredient></operation>. parsemez de <ingredient quantite=2>persil</ingredient> et <operation temps=2.0min espace=12>servez aussitôt</operation>. pour une version végétarienne, utilisez du <ingredient quantite=1>bouillon</ingredient> de légumes.
+]]>
+ </preparation>
+</recette>

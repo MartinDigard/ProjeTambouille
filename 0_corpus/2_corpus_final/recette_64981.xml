@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64981">
+ <titre>Spaghetti aux asperges et tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 botte d’ asperges vertes</p>
+ <p>1/2 paquet de spaghetti de qualité (250 g) </p>
+ <p>2 tomates bien mûres</p>
+ <p>1 bouillon de poule</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>ciboulette</p>
+ <p>Sel, poivre</p>
+ <p>restes de fromages à raper ou gruyère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper les <ingredient quantite=1>asperges</ingredient> en petit tronçons. les mettre dans une <recipient>casserole</recipient> d’ eau et <operation temps=10.0min espace=12>faire cuire pendant 10 minutes</operation>. les égoutter à l’ aide d’ une <recipient>passoire</recipient>. pendant ce temps, faire bouillir de l’ eau dans une <recipient>casserole</recipient> avec un <ingredient quantite=1>bouillon de poule</ingredient>. y ajouter les pâtes quand l’ eau est bouillante. découper les <ingredient quantite=2>tomates</ingredient> en petits dés. egoutter les pâtes en gardant un peu d’ eau, saler, poivrer, ajouter la <ingredient quantite=1>ciboulette</ingredient> ciselée avec deux <ingredient quantite=2>cuillères à soupe de crème fraîche</ingredient>. <ingredient quantite=2>bien</ingredient> mélanger. disposer dans une assiette les pâtes, avec les <ingredient quantite=1>asperges</ingredient> cuites et égoutées, les dés de <ingredient quantite=2>tomates</ingredient> et éventuellement le <ingredient quantite=1>fromage</ingredient> râpé. un <recipient>plat</recipient> facile, rapide et bon marché.
+]]>
+ </preparation>
+</recette>

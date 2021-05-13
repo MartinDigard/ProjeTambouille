@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195533">
+ <titre>Arrosto all’ italiana (rôti de veau) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rôti de veau </p>
+ <p>sauge, laurier, persil</p>
+ <p>1 carotte, 1 céleri, 1 oignon, 1 gousse d’ ail</p>
+ <p>huile d’ olive (ou tournesol) </p>
+ <p>vin blanc de cuisine</p>
+ <p>1 bouillon de volaille</p>
+ <p>1 cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en dés l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>carotte</ingredient> et le <ingredient quantite=1>céleri</ingredient> en rondelles. mettre un peu d’ huile dans un <recipient>wok</recipient> ou une <recipient>poêle</recipient> à bord haut. <operation temps=6.86min espace=9>faire revenir d’ abord l’ <ingredient quantite=1>oignon</ingredient> jusqu’ à ce qu’ il</operation> devienne transparent y ajouter le rôti quelques minutes jusqu’ à <operation temps=6.86min espace=9>obtenir une couleur dorée</operation>. ajouter les légumes, le <ingredient quantite=1>laurier</ingredient>, la sauge. arroser le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=9>laisser évaporer</operation>. arroser avec le <ingredient quantite=1>bouillon de volaille</ingredient> petit à petit (bouillant pour ne pas stopper la cuisson!) ajouter après 45 minutes de cuisson, ajouter une cuillerée à <ingredient quantite=1>soupe</ingredient> de farine pour épaissir la sauce. lorsque la sauce est bien épaisse et la viande tendre, c’ est prêt! la cuisson doit se <operation temps=6.86min espace=9>faire à feu moyen pour une viande plus tendre et goûteuse! un <ingredient quantite=1>vin</ingredient> rouge</operation> charpenté, type chianti, ou lacryma de christi
+]]>
+ </preparation>
+</recette>

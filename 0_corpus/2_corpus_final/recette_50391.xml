@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50391">
+ <titre>Papillote de saumon à la Annick: citron fenouil</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de saumon sans la peau</p>
+ <p>1 citron</p>
+ <p>graines de fenouil</p>
+ <p>baies roses</p>
+ <p>sel, poivre, huile d´olive</p>
+ <p>4 feuilles de papier aluminium en carré (de la longueur du rouleau) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). enlever les arêtes du <ingredient quantite=4>saumon</ingredient> (en rebroussant le <ingredient quantite=1>filet</ingredient>, il est plus facile de les retirer) puis <operation temps=0.25min espace=7>salez</operation> et <operation temps=6.86min espace=7>poivrez les <ingredient quantite=4>filets</ingredient></operation>. <operation temps=6.86min espace=7>posez les <ingredient quantite=4>filets</ingredient> sur les <ingredient quantite=4>feuilles</ingredient> d´aluminium</operation>, <operation temps=6.86min espace=7>arrosez de jus de</operation> <ingredient quantite=1>citron</ingredient>, saupoudrez de <ingredient quantite=1>baies</ingredient> et de <ingredient quantite=1>graines de fenouil</ingredient>, plus ou moins en fonction du goût. <operation temps=6.86min espace=7>arrosez d’ un <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ olive</operation> et <operation temps=6.86min espace=7>fermez hermétiquement les papillotes</operation>. enfournez pour 25 minutes de cuisson. <operation temps=6.86min espace=7>servez avec une bonne salade</operation> composée. succès garanti, enfin un <ingredient quantite=4>saumon</ingredient> moelleux! vin blanc sec tel un chablis
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16132">
+ <titre>Ajoatao (Andalousie) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre campagnardes</p>
+ <p>1/4 l d’ huile de la Sierra de Segura</p>
+ <p>2 oeufs</p>
+ <p>1/2 citron</p>
+ <p>1 ou 2 gousses d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>pommes de terre</ingredient> et <operation temps=6.86min espace=6>faites cuire,</operation> puis <operation temps=6.86min espace=6>faites une purée</operation>. placez la purée dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=6>ajoutez l’</operation> huile, le <ingredient quantite=1>citron</ingredient> haché, l’ <ingredient quantite=1>ail</ingredient> et les <ingredient quantite=2>oeufs</ingredient>. remuez et <operation temps=8.0min espace=6>mélangez bien</operation>. se mange chaud. valdepeñas
+]]>
+ </preparation>
+</recette>

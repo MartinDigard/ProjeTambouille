@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15498">
+ <titre>Tarte aux riwele / riwelekueche</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 pommes coupées, pelées et épépinées</p>
+ <p>100 g de beurre (ou de margarine) </p>
+ <p>150 g de sucre fin</p>
+ <p>350 g de farine</p>
+ <p>1 oeuf</p>
+ <p>7.5 g de sucre vanillé</p>
+ <p>1 cuillerée de Kirsch (facultatif) </p>
+ <p>5.5 g de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger le beurre ramolli, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé, l’ <ingredient quantite=1>oeuf</ingredient>, la farine et la <ingredient quantite=1>levure chimique</ingredient>. bien mélanger le tout et rouler la pâte obtenue entre les doigts pour former des quenelles <ingredient quantite=1>fines</ingredient> de pâte (riwele). disposer les 3/4 des riwele dans un beau <recipient>plat</recipient> beurré pouvant aller au <recipient>four</recipient>. ajouter les <ingredient quantite=3>pommes coupées</ingredient> et saupoudrer du restant des quenelles. cuire à <recipient>four</recipient> moyen 30 mn environ (surveiller). <operation temps=6.86min espace=12>laisser refroidir après cuisson</operation>.
+]]>
+ </preparation>
+</recette>

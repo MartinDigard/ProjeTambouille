@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13010">
+ <titre>La mique de pain</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 choux</p>
+ <p>carotte, poireau, céleri</p>
+ <p>1 gousse d’ ail </p>
+ <p>petit salé</p>
+ <p>pain rassis (de quoi remplir une assiette à chabrot) </p>
+ <p>farine de maïs</p>
+ <p>1 morceau de fond de jambon cru</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans l’ <recipient>autocuiseur</recipient>, faire cuire le <ingredient quantite=1>petit salé</ingredient> que vous aurez déssalé pendant la nuit. arrêter trois quarts d’ heure après rotation de la soupape. je vous conseille de mettre au froid et de dégraisser le lendemain (à la cuillère). remettre à chauffer et ajouter les légumes. remplir une assiette à chabrot (assiette bien creuse) de <ingredient quantite=1>petits</ingredient> dés de mie de <ingredient quantite=1>pain rassis</ingredient>. ajouter deux ou trois œufs, de la levure boulangère. bien mélanger, épaissir avec un peu de farine de <ingredient quantite=1>maïs</ingredient>. au centre, mettre quelques <ingredient quantite=1>morceaux de fond de jambon</ingredient>. <operation temps=6.86min espace=11>laisser de côté cette’</operation> pâte’ en boule. les légumes à l’ <recipient>autocuiseur</recipient> ne demandent que 20 minutes. <operation temps=6.86min espace=11>ouvrir la <recipient>cocotte</recipient> après 1/4 d’ heure</operation> et rajouter la boule de mique. <operation temps=6.86min espace=11>laisser cuire dix minutes après rotation</operation>. on mange d’ abord la soupe, on fait chabrot, et après ça, on peut attaquer le <ingredient quantite=1>petit salé</ingredient> entouré de ses légumes, la mique coupée en tranches accompagnant le tout. <recipient>plat</recipient> d’ hiver! vin rouge du sud ouest
+]]>
+ </preparation>
+</recette>

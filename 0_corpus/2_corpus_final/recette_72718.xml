@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72718">
+ <titre>VIVANEAU A LA CONFITURE DE MANGUE (au four) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 darnes de vivaneau</p>
+ <p>2 cuillères à soupe de confiture de mangue</p>
+ <p>le jus d’ 1 citron vert</p>
+ <p>1/2 oignon émincé </p>
+ <p>1 cuillère à café de coriandre </p>
+ <p>sel et poivre, selon votre goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 °, thermostat 6. mélangez la <ingredient quantite=2>confiture de mangue</ingredient>, le <ingredient quantite=1>jus</ingredient> des <ingredient quantite=1>citron vert</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>coriandre</ingredient> et le poivre. <operation temps=6.86min espace=10>versez cette préparation sur les <ingredient quantite=2>darnes</ingredient> de poisson</operation> et <operation temps=30.0min espace=10>laissez mariner le poisson couvert, pendant 30 min au <recipient>réfrigérateur</recipient></operation>. la marinade doit bien <operation temps=6.86min espace=10>recouvrir le poisson</operation>. placez le <ingredient quantite=2>vivaneau</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et <operation temps=6.86min espace=10>versez au fond 2 tasses d’ eau</operation>. <operation temps=20.0min espace=10>couvrez d’ une feuille d’ aluminium et enfournez pendant 20 min</operation>. <operation temps=6.86min espace=10>laissez cuire encore 15 à 20 min, tout en</operation> surveillant la cuisson selon le poids du poisson et la fermeté. saler et poivrer selon <ingredient quantite=1>votre goût</ingredient>. <operation temps=3.0min espace=10>servir avec du riz</operation>. vin blanc
+]]>
+ </preparation>
+</recette>

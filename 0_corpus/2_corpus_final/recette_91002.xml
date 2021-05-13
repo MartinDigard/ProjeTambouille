@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91002">
+ <titre>Gratin réconfort (pommes de terre, tomates, mozza) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 x 250 g de mozzarella</p>
+ <p>2 grosses tomates</p>
+ <p>2 grosses pommes de terre</p>
+ <p>Basilic (quelques feuilles fraiches ou bien quelques pincées de basilic séché) </p>
+ <p>Huile d’ olive</p>
+ <p>Sel</p>
+ <p>Poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+au fond d’ un <recipient>plat</recipient> à gratin, mettre de l’ huile d’ <ingredient quantite=1>olive</ingredient>, du <ingredient quantite=1>gros sel</ingredient> et du poivre. ebouillantez et <operation temps=6.86min espace=12>pelez les <ingredient quantite=2>tomates</ingredient>, les</operation> couper en rondelles et les disposer au fond du <recipient>plat</recipient>. <operation temps=6.86min espace=12>coupez 250 g de mozzarella en tranches et les</operation> disposer au dessus des <ingredient quantite=2>tomates</ingredient>. c’ est à ce moment là que vous pouvez ajouter les feuilles de <ingredient quantite=1>basilic</ingredient> ciselées ou un peu de <ingredient quantite=1>basilic</ingredient> séché. epluchez et <operation temps=15.0min espace=12>faites bouillir (15 minutes environ, elles</operation> doivent êtres cuites mais fermes) deux grosses <ingredient quantite=2>pommes de terre</ingredient>. une fois qu’ elles sont cuites <operation temps=6.86min espace=12>coupez - les en tranches</operation> et <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir à la <recipient>poêle</recipient> avec de l’ <ingredient quantite=1>huile</ingredient> pour bien les dorer</operation>. <operation temps=6.86min espace=12>disposez ensuite ses tranches sur la mozzarella dans le <recipient>plat</recipient> à gratin</operation>. coupez en rondelles 250 g la mozzarella et posez - la sur les <ingredient quantite=2>pommes de terre</ingredient>. préchauffez votre <recipient>four</recipient> à 210 ° c (thermostat 7), <operation temps=10.0min espace=12>enfournez 10 minutes à cette température</operation> puis <operation temps=6.86min espace=12>terminez la cuisson par deux minutes au grill</operation>. simple et de bon goût!
+]]>
+ </preparation>
+</recette>

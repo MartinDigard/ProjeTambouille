@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24078">
+ <titre>Pâtes au thon et aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poivrons (rouge vert jaune) </p>
+ <p>200 g de thon en boîte</p>
+ <p>385 g de tomates concassées</p>
+ <p>huile d’ olive</p>
+ <p>1/2 verre de vin blanc</p>
+ <p>1 oignon émincé</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>500 g de pâtes comme accompagnement</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>poivrons</ingredient> en petits dés, les faire fondre dans l’ huile d’ <ingredient quantite=1>olive</ingredient> pendant 10 min avec l’ <ingredient quantite=1>oignon émincé</ingredient>. ajouter le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=10.0min espace=9>laisser mijoter 10 min</operation>. ajouter le <ingredient quantite=1>thon</ingredient> émietté, les <ingredient quantite=1>tomates concassées</ingredient> et <operation temps=10.0min espace=9>laisser cuire 10 min</operation>. ajouter <ingredient quantite=1>sel poivre</ingredient> et la <ingredient quantite=3>crème fraîche</ingredient>. cuire les <ingredient quantite=1>pâtes</ingredient> et les napper de la sauce <ingredient quantite=1>poivron</ingredient> / <ingredient quantite=1>thon</ingredient>. c’ est facile à <operation temps=6.86min espace=9>faire, très coloré</operation>. peut se manger chaud avec des <ingredient quantite=1>pâtes</ingredient> ou froid sur des toasts ou grillés sur toasts avec gruyère râpé pour l’ apéritif.
+]]>
+ </preparation>
+</recette>

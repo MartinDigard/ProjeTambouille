@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66404">
+ <titre>Paupiettes de dinde bourguignonne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 paupiettes de dinde</p>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>3 carottes</p>
+ <p>1 bouquet garni</p>
+ <p>10 cl de vin rouge</p>
+ <p>huile ou beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient>, l’ échalotte et les <ingredient quantite=3>carottes</ingredient></operation> coupées en rondelles de 5 mm. ajouter le <ingredient quantite=1>bouquet garni</ingredient>, 40 cl d’ eau, le <ingredient quantite=1>vin rouge</ingredient>, saler et poivrer. mettre les <ingredient quantite=4>paupiettes</ingredient> et <operation temps=30.0min espace=8>laisser mijoter 25 à 30 min</operation>. vérifier la cuisson des <ingredient quantite=4>paupiettes</ingredient> et des <ingredient quantite=3>carottes</ingredient> et prolonger la cuisson si nécessaire. <operation temps=6.86min espace=8>faites vos <ingredient quantite=4>paupiettes</ingredient> maison avec une escalope de dinde fine, de la chair à saucisse aux herbes</operation>, <operation temps=6.86min espace=8>roulez</operation> et <operation temps=6.86min espace=8>ficelez le tout</operation>.
+]]>
+ </preparation>
+</recette>

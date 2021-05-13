@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49119">
+ <titre>Lasagnes thon/mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>lasagnes </p>
+ <p>1 grosse boîte de thon (la plus grande) </p>
+ <p>1 grosse boîte de sauce préparée (sauce cuisinée à la tomate) </p>
+ <p>250 g de mozzarella</p>
+ <p>1 tomate</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=10>faire précuire les pâtes à <ingredient quantite=1>lasagnes</ingredient> 10 min dans l’ eau bouillante</operation> salée. dans le <recipient>plat</recipient> à gratin, déposer un filet d’ huile d’ olive et le répartir avec un essuie - tout (pour éviter l’ excès de matière grasse!). une fois les pâtes cuites, disposer une première couche de pâtes dans le fond du <recipient>plat</recipient>. trancher les boules de mozzarella en tranches et en diposer une couche. <operation temps=6.86min espace=10>ouvrir le <ingredient quantite=1>thon</ingredient> et l’</operation> émietter dans la <ingredient quantite=1>boîte</ingredient> à l’ aide d’ une fourchette. en disposer la moitié par dessus la mozzarella. mettre une couche de <ingredient quantite=1>sauce</ingredient> cuisinée par dessus le <ingredient quantite=1>thon</ingredient>, et terminer par du <ingredient quantite=1>gruyère râpé</ingredient>. recommencer l’ opération: 1 couche de pâtes, mozzarella, <ingredient quantite=1>thon</ingredient>, sauce tomate et <ingredient quantite=1>gruyère</ingredient>. mettre une dernière couche de pâtes à <ingredient quantite=1>lasagnes</ingredient> et disposer par dessus une bonne couche de gruyère, pour gratiner! couper la <ingredient quantite=1>tomate</ingredient> en rondelles et en mettre sur le dessus du <recipient>plat</recipient>, pour la décoration. enfourner le tout à 200 ° c (thermostat 6/7) pour 30 min. si le <recipient>plat</recipient> à gratin est plus grand, ou à l’ inverse, plus petit, adapter alors le nombre d’ étages des <ingredient quantite=1>lasagnes</ingredient>. rosé de provence
+]]>
+ </preparation>
+</recette>

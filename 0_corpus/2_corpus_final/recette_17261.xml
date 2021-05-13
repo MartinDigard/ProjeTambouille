@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17261">
+ <titre>Salade composée au riz</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un verre à moutarde de riz</p>
+ <p>un morceau de gruyère</p>
+ <p>un concombre</p>
+ <p>un morceau de jambon blanc</p>
+ <p>trois tomates</p>
+ <p>un oignon</p>
+ <p>une échalote</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ <p>huile et vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>riz</ingredient> dans de l’ eau</operation> salée. couper en cubee le <ingredient quantite=1>gruyère</ingredient>, le <ingredient quantite=1>concombre</ingredient>, le <ingredient quantite=1>jambon blanc</ingredient>, les <ingredient quantite=1>tomates</ingredient>. hacher l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et le <ingredient quantite=1>persil</ingredient>. mettre l’ ensemble des ingrédients dans un <recipient>saladier</recipient>. <operation temps=6.86min espace=11>faire une vinaigrette</operation>. mélanger le tout. servir bien frais vous pouvez <operation temps=6.86min espace=11>faire la salade avec d’ autre ingrédients: semoule, pomme, surimi, pamplemousse</operation>, poivron etc...
+]]>
+ </preparation>
+</recette>

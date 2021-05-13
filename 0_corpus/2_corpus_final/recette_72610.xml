@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72610">
+ <titre>TARTE AUX POMMES EXPRESS</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée épaisse</p>
+ <p>4 grosses pommes golden</p>
+ <p>25 g de beurre</p>
+ <p>cassonnade (30 à 50 g) </p>
+ <p>1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 °, thermostat 6. <operation temps=6.86min espace=7>déroulez la <ingredient quantite=1>pâte</ingredient> feuilletée et placez - la dans un <recipient>moule</recipient></operation>. <operation temps=6.86min espace=7>piquez -là à l’</operation> aide d’ une fourchette et <operation temps=0.5min espace=7>réservez</operation>. epluchez les <ingredient quantite=4>pommes</ingredient> et <operation temps=6.86min espace=7>coupez - les en quartiers puis en <ingredient quantite=1>gros</ingredient> dés</operation>. citronnez - les pour qu’ elles ne noircissent pas. <operation temps=6.86min espace=7>versez la moitié du sucre sur le fond de tarte puis placez les dés de <ingredient quantite=4>pommes</ingredient> en</operation> tassant bien. parsemez par - dessus les <ingredient quantite=4>pommes</ingredient> des lamelles de beurre et <operation temps=6.86min espace=7>saupoudrez du reste de la cassonnade</operation>. enfournez pour 45 min jusqu’ à ce que les <ingredient quantite=4>pommes</ingredient> se colorent et soient cuites mais pas fondues!!
+]]>
+ </preparation>
+</recette>

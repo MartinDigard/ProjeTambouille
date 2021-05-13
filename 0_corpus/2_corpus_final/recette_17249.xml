@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17249">
+ <titre>Tarte aux fromages (restes) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée prête à dérouler</p>
+ <p>restes de fromages (mimolette, chèvre, brie, camembert, emmenthal, comté, et même kiri...) coupés en petits morceaux</p>
+ <p>4 oeufs</p>
+ <p>lait</p>
+ <p>crème liquide</p>
+ <p>poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer et fariner un <recipient><recipient>moule</recipient> à tarte</recipient>, et y déposer la <ingredient quantite=1>pâte</ingredient> (ou utiliser son papier cuisson). disposer les <ingredient quantite=1>petits morceaux de fromage</ingredient> sur le fond de <ingredient quantite=1>pâte</ingredient>. (même s’ il peut surprendre, le mélange de plusieurs <ingredient quantite=1>fromages</ingredient> est délicieux et permet de " <operation temps=6.86min espace=8>finir " les restes!</operation>). battre les <ingredient quantite=4>oeufs</ingredient> avec un peu de lait et de <ingredient quantite=1>crème liquide</ingredient>, poivrer et verser ce mélange sur le <ingredient quantite=1>fromage</ingredient>. cuire à <recipient>four</recipient> moyen (180 ° c) environ 20 mn, jusqu’ à ce que la tarte soit bien dorée. accompagner d’ une salade verte aux noix ou d’ une salade de mâche aux pignons de pin.
+]]>
+ </preparation>
+</recette>

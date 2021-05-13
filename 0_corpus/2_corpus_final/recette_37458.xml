@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37458">
+ <titre>Soupe à l’ oseille</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses poignees d’ oseille épluchée (comme les épinards) </p>
+ <p>1 oeuf entier</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>1 verre de vermicelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>faire fondre l’ <ingredient quantite=2>oseille</ingredient> doucement dans du beurre</operation>. ajouter 1, 25 litre d’ eau, porter à ébullition et saler. ajouter le <ingredient quantite=1>vermicelle</ingredient> et le blanc d’ <ingredient quantite=1>oeuf</ingredient> (sans remuer) et <operation temps=6.86min espace=4>laisser cuire doucement</operation>. <operation temps=6.86min espace=4>laisser un peu refroidir</operation> et ajouter le jaune d’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=4>crème fraîche</ingredient>. c’ est encore meilleur réchauffé.
+]]>
+ </preparation>
+</recette>

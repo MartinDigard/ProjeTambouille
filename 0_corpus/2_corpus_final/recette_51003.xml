@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51003">
+ <titre>Gaspacho melon coco avocat</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 melon</p>
+ <p>1 avocat</p>
+ <p>3 tranches de pastèque</p>
+ <p>quelques gouttes de jus de citron</p>
+ <p>20 cl de lait de coco</p>
+ <p>1 ou 2 pincées de vanille en poudre</p>
+ <p>1 blender</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+une fois le <ingredient quantite=1>melon</ingredient> vidé, taillez - le en cubes puis <operation temps=6.86min espace=8>mixez - le avec les 20 cl de lait de <ingredient quantite=1>coco</ingredient> dans un <ingredient quantite=1><recipient>blender</recipient></ingredient></operation>. <operation temps=6.86min espace=8>laissez tourner même si c’ est finement</operation> mixé comme cela l’ appareil va bien s’ émulsionner et cela sera plus léger. <operation temps=6.86min espace=8>découpez l’ <ingredient quantite=1>avocat</ingredient> en petits dés</operation>, aspergez - les avec un peu de <ingredient quantite=1>jus de citron</ingredient> puis <operation temps=0.5min espace=8>réservez</operation>. découpez les <ingredient quantite=3>tranches de pastèque</ingredient> en dés comme pour l’ <ingredient quantite=1>avocat</ingredient>. dressez: <operation temps=6.86min espace=8>versez l’ appareil <ingredient quantite=1>coco</ingredient> - <ingredient quantite=1>melon</ingredient> dans une coupe</operation>, <operation temps=6.86min espace=8>rajoutez quelques dés d’ <ingredient quantite=1>avocats</ingredient> et de</operation> <ingredient quantite=3>pastèque</ingredient>, soupoudrez de <ingredient quantite=1>vanille en poudre</ingredient>. c’ est prêt! cela peut aussi bien se manger en entrée que en dessert. le manque de sucre n’ est pas un oubli, juste qu’ en pleine canicule, ce gaspacho donnera une sensation de fraîcheur. de plus, si vos fruits sont bons, leur sucre naturel sera amplement suffisant.
+]]>
+ </preparation>
+</recette>

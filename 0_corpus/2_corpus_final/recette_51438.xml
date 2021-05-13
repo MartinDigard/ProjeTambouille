@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51438">
+ <titre>Flan au soja pour bébé allergique au lait de vache</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>15 cl d’ eau</p>
+ <p>4 doses de lait de soja en poudre pour nourrissons</p>
+ <p>1 pincée d’ agar-agar</p>
+ <p>1 biscuit type "petit beurre"</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>biscuit</ingredient> émietté dans une <recipient>casserole</recipient>. porter à ébullition et ajouter la pincée d’ <ingredient quantite=1>agar</ingredient> - <ingredient quantite=1>agar</ingredient>. <operation temps=2.0min espace=6>laisser bouillir pendant 2 minutes en touillant régulièrement</operation>. retirer du feu. verser les <ingredient quantite=4>doses de lait</ingredient> dans la <recipient>casserole</recipient> et bien mélanger. verser dans un pot avec couvercle. attendre le refroidissement, puis mettre au frigo au moins 2 heures. les <ingredient quantite=4>doses</ingredient> peuvent être augmentées suivant l’ âge et l’ appétit du bébé.
+]]>
+ </preparation>
+</recette>

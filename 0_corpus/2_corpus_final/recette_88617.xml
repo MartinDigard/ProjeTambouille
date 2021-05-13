@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88617">
+ <titre>Brownies à la nougatine</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat noir</p>
+ <p>400 g de sucre</p>
+ <p>150 g de farine</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>4 oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>100 g de beurre</p>
+ <p>150 g de nougatine ou de pépites de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 200 ° c (thermostat 7). dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=11>faites fondre le <ingredient quantite=1>chocolat</ingredient> avec le beurre</operation>. a côté, <operation temps=6.86min espace=11>battez le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=4>oeufs</ingredient> ensemble jusqu’ à ce que le mélange</operation> blanchisse. incorporer la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sel</ingredient> puis le mélange <ingredient quantite=1>chocolat</ingredient> - <ingredient quantite=1>beurre</ingredient>. ajoutez la <ingredient quantite=1>nougatine</ingredient> ou les <ingredient quantite=1>pépites de chocolat</ingredient> selon les goûts. <operation temps=6.86min espace=11>versez le tout dans un <recipient>moule</recipient> beurré et fariné (carré de préférence</operation>). <operation temps=25.0min espace=11>enfournez 25 minutes à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

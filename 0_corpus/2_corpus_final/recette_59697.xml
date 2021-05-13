@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59697">
+ <titre>Gratin de tomate au poulet et mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>4 tranches de blanc de poulet</p>
+ <p>12 tranches de bacon</p>
+ <p>1 boule de mozzarella</p>
+ <p>du gruyère râpé</p>
+ <p>sel, poivre</p>
+ <p>ail en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> thermostat 7 (210 °). <operation temps=6.86min espace=10>ebouillantez les <ingredient quantite=4>tomates</ingredient> 1 min,</operation> puis <operation temps=6.86min espace=10>pelez - les</operation> et <operation temps=6.86min espace=10>coupez - les en <ingredient quantite=4>tranches</ingredient> pas trop épaisses</operation>. coupez également les <ingredient quantite=4>tranches de blanc de poulet</ingredient> en 4 et de <ingredient quantite=1>bacon</ingredient> en 2. dans un <recipient>plat</recipient> à gratin, intercallez <ingredient quantite=4>tranches</ingredient> de <ingredient quantite=4>tomates</ingredient>, <ingredient quantite=1>bacon</ingredient> et <ingredient quantite=4>poulet</ingredient>, <operation temps=6.86min espace=10>continuez jusqu’ à</operation> <operation temps=6.86min espace=10>remplir le <recipient>plat</recipient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation> et mettez un tout petit peu d’ <ingredient quantite=1>ail en poudre</ingredient>. <operation temps=6.86min espace=10>coupez la <ingredient quantite=1>mozzarella</ingredient> en cubes</operation> et mettre sur le gratin ainsi qu’ un peu de <ingredient quantite=1>gruyère râpé</ingredient>. enfournez pour 45 min. <operation temps=2.0min espace=10>servez</operation> chaud avec du riz <ingredient quantite=4>blanc</ingredient>.
+]]>
+ </preparation>
+</recette>

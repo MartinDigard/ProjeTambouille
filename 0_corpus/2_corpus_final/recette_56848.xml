@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56848">
+ <titre>Omelette au bœuf bourguignon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150-200 g de restes de bœuf bourguignon</p>
+ <p>4 œufs</p>
+ <p>4 pommes de terre</p>
+ <p>1 oignon</p>
+ <p>5 cl de crème liquide</p>
+ <p>5 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et faire cuire dans de l’ eau quelques belles <ingredient quantite=4>pommes de terre</ingredient>. <operation temps=6.86min espace=7>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans une <recipient>poêle</recipient> avec de l’ huile. mixer le reste de <ingredient quantite=1>bœuf bourguignon</ingredient>. lorsque les <ingredient quantite=1>oignons</ingredient> commencent à <operation temps=6.86min espace=7>roussir</operation>, égoutter les <ingredient quantite=4>pommes de terre</ingredient> (si elles sont cuites!), les découper et les <operation temps=6.86min espace=7>faire revenir avec les <ingredient quantite=1>oignons</ingredient></operation>. ajouter le boeuf <ingredient quantite=1>bourguignon</ingredient> mixé. dans un bol, casser 4 oeufs et les battre avec un peu de <ingredient quantite=1>crème</ingredient> fraîche <ingredient quantite=1>liquide</ingredient> et un peu de lait. ajouter les oeufs, la <ingredient quantite=1>crème</ingredient> fraîche et le lait à la préparation. <operation temps=30.0min espace=7>laisser cuire</operation> et mélanger lorsque ça commence à <operation temps=6.86min espace=7>sentir le grillé! ; -) je vous</operation> conseille de l’ accompagner d’ une salade avec une sauce à l’ huile d’ olive et au vinaigre balsamique.
+]]>
+ </preparation>
+</recette>

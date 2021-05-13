@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27665">
+ <titre>Tarte fondante aux 3 fromages</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>200 g beaufort</p>
+ <p>200 g fromage à raclette</p>
+ <p>200 g comté</p>
+ <p>3 oeufs</p>
+ <p>20 cl crème liquide</p>
+ <p>beurre</p>
+ <p>muscade</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à thermostat 7 (210 ° c). <operation temps=6.86min espace=11>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient></operation> et <operation temps=6.86min espace=11>piquez le fond</operation>. <operation temps=6.86min espace=11>coupez les fromages en lamelles et les</operation> <operation temps=6.86min espace=11>répartir sur la <ingredient quantite=1>pâte</ingredient></operation>. mélanger les <ingredient quantite=3>oeufs</ingredient> avec poivre et <ingredient quantite=1>muscade</ingredient> et <operation temps=6.86min espace=11>versez ce mélange sur le fromage</operation>. <operation temps=30.0min espace=11>faire cuire 30 min</operation>. servir très chaud. côtes du jura
+]]>
+ </preparation>
+</recette>

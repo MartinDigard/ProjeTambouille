@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168285">
+ <titre>Omelette aux moules</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 kg de moules</p>
+ <p>1 oignon</p>
+ <p>persil</p>
+ <p>8 gros oeufs</p>
+ <p>2 cuillères a soupe de crème épaisse</p>
+ <p>poivre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>moules</ingredient> dans une <recipient>cocotte</recipient> avec l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en rondelles et le <ingredient quantite=1>persil</ingredient>. lorsque les <ingredient quantite=1>moules</ingredient> sont bien ouvertes, les égouter et récupérer le jus de cuisson. décortiquer les <ingredient quantite=1>moules</ingredient> et réserver. passer le jus au <recipient>chinois</recipient> et le <operation temps=6.86min espace=10>faire réduire d’ un tiers dans une <recipient>casserole</recipient></operation>. pendant ce temps battre les <ingredient quantite=8>oeufs</ingredient>, les saler et poivrer et cuire l’ omelette dans une poèle avec une noix de beurre. dès que l’ omelette est bien baveuse, ajouter la moitié des <ingredient quantite=1>moules</ingredient>, la plier en deux et réserver au chaud. dans le jus réduit, mettre le reste des <ingredient quantite=1>moules</ingredient>, la <ingredient quantite=2>crème</ingredient> et deux tours de moulin à poivre. servir l’ omelette et la napper avec la sauce. attention de ne pas trop réduire le jus de cuisson des <ingredient quantite=1>moules</ingredient>, il risquerait de <operation temps=6.86min espace=10>devenir trop salé</operation>.
+]]>
+ </preparation>
+</recette>

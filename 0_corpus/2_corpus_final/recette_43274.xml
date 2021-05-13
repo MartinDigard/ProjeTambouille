@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43274">
+ <titre>Boulettes de viande aux pistaches</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de boeuf haché</p>
+ <p>50 g de pistaches natures, décortiquées</p>
+ <p>2 échalotes fraîches</p>
+ <p>3 cuillerées à soupe de crème liquide </p>
+ <p>2 cuillerées à soupe de chapelure fine </p>
+ <p>2 cuillerées à soupe d’ huile d’ arachide </p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>pelez les <ingredient quantite=2>échalotes</ingredient> et hachez - les</operation> finement. <operation temps=6.86min espace=11>rapez les <ingredient quantite=1>pistaches</ingredient> dans une râpe cylindrique munie de la grille à gros trous</operation>. <operation temps=6.86min espace=11>versez la <ingredient quantite=3>crème</ingredient> dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=11>ajoutez la <ingredient quantite=2>chapelure</ingredient>, <ingredient quantite=1>sel</ingredient>,</operation> <ingredient quantite=1>poivre</ingredient> et <operation temps=5.0min espace=11>mélangez</operation>. <operation temps=6.86min espace=11>ajoutez la viande, les <ingredient quantite=1>pistaches</ingredient> et les <ingredient quantite=2>échalotes</ingredient>,</operation> et <operation temps=5.0min espace=11>mélangez</operation> jusqu’ à <operation temps=6.86min espace=11>obtenir une préparation homogène</operation>. formez des boulettes de taille d’ une noix que vous <operation temps=6.86min espace=11>roulez dans vos mains</operation>. <operation temps=6.86min espace=11>faites chauffer l’ <ingredient quantite=2>huile</ingredient> dans une grande <recipient>poêle</recipient> antiadhésive</operation> et <operation temps=6.86min espace=11>faites - y</operation> cuire les boulettes 5 min sur feu modéré, en les <operation temps=6.86min espace=11>faisant rouler dans la <recipient>poêle</recipient> afin qu’ elles dorent de tous côtés</operation>. <operation temps=6.86min espace=11>servez les boulettes tièdes ou froides, parsemées de <ingredient quantite=1>pistache</ingredient></operation> concassée, en les enrobant de feuilles de salade. volnay
+]]>
+ </preparation>
+</recette>

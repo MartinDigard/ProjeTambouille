@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82459">
+ <titre>Chausson garni</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>5 oeufs </p>
+ <p>1/2 sachet de levure</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>75 cl de lait</p>
+ <p>une gousse d’ ail</p>
+ <p>5 feuilles de basilic</p>
+ <p>5 tranches de jambon</p>
+ <p>6 pommes de terre</p>
+ <p>cornichons, oignons nouveaux</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=5>oeufs</ingredient> dans un <recipient>saladier</recipient> avec la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient>. ajouter le lait et bien mélanger pour <operation temps=6.86min espace=12>obtenir une pâte liquide</operation>. <operation temps=15.0min espace=12>laisser reposer 15 minutes à température ambiante</operation>. pendant ce temps, faire cuire les <ingredient quantite=6>pommes de terre</ingredient> à feu doux jusqu’ à ébullition, hacher les <ingredient quantite=5>feuilles de basilic</ingredient> et la garniture, couper le <ingredient quantite=5>jambon</ingredient> en petits dés, et une fois les <ingredient quantite=6>pommes de terre</ingredient> cuites, les couper aussi. cuire les crêpes. couper la <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=1>ail</ingredient> en deux, et en enduire la crêpe. ajouter la garniture et replier la crêpe. <operation temps=6.86min espace=12>servir immédiatement car la crêpe</operation> doit être chaude et la garniture froide!!! très simple, et bon, même pour les " anti-crèpes "
+]]>
+ </preparation>
+</recette>

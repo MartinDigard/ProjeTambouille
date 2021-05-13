@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15151">
+ <titre>Bûche à la crème marronnée</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le biscuit: </p>
+ <p>3 oeufs</p>
+ <p>125 g de farine</p>
+ <p>125 g de sucre</p>
+ <p>Pour la mousse: </p>
+ <p>500 g de crème de marrons vanillée</p>
+ <p>180 g de beurre</p>
+ <p>40 cl de crème liquide </p>
+ <p>3 cl de rhum</p>
+ <p>50 g de brisures de marrons</p>
+ <p>Pour le décor: </p>
+ <p>1 cuillère à soupe de cacao en poudre</p>
+ <p>1 cuillère à soupe de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c. pour <ingredient quantite=1>le biscuit</ingredient>, battre les jaunes d’ œufs avec le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=14>blanchir</operation>. ajouter la farine puis les blancs montés en neige. etaler le mélange sur une plaque bien beurrée et enfourner pour 10 mn. retourner le <ingredient quantite=1>biscuit</ingredient> sur le plan de travail et le rouler sur lui - meme avec un torchon humide, puis <operation temps=20.0min espace=14>laisser refroidir</operation>. pour <ingredient quantite=1>la mousse</ingredient>, fouetter le beurre mou et la <ingredient quantite=1>crème de marrons</ingredient> pour <operation temps=6.86min espace=14>obtenir une <ingredient quantite=1>crème</ingredient> mousseuse</operation> et ajouter le <ingredient quantite=1>rhum</ingredient>. monter la <ingredient quantite=1>crème</ingredient> en chantilly et l’ ajouter délicatement à la <ingredient quantite=1>mousse</ingredient>. dérouler le <ingredient quantite=1>biscuit</ingredient> et mettre la moitié de la <ingredient quantite=1>mousse</ingredient> + les <ingredient quantite=1>brisures de marrons</ingredient>. rouler le tout, couper les extrémités en biais. <operation temps=6.86min espace=14>couvrir de <ingredient quantite=1>mousse</ingredient></operation>. strier à la fourchette, puis décorer avec du <ingredient quantite=1>cacao</ingredient>, du <ingredient quantite=1>sucre glace</ingredient> et des sujets de noël. mettre au frais. la <ingredient quantite=1>mousse</ingredient> est un peu délicate à étaler, car elle a tendance à <operation temps=6.86min espace=14>faire des petits morceaux, mais une fois la bûche refroidie, cela ne se</operation> voit plus.
+]]>
+ </preparation>
+</recette>

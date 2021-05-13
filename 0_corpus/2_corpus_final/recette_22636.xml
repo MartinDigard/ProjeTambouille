@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22636">
+ <titre>Avocats Tamaka</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 avocats</p>
+ <p>2 cuillerées à soupe de rhum</p>
+ <p>180 g de miettes de crabe</p>
+ <p>10 cl de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>avocats</ingredient> en deux. enlever les noyaux et évider (très délicatement) la chair des <ingredient quantite=2>avocats</ingredient> et la couper en petits dés. préparer une farce en mélangeant la chair des <ingredient quantite=2>avocats</ingredient>, le <ingredient quantite=1>crabe</ingredient>, le <ingredient quantite=2>rhum</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=5>emplir les <ingredient quantite=2>avocats</ingredient> de cette préparation</operation> et mettre au frais (1 heure) vous pouvez <operation temps=6.86min espace=5>servir ces <ingredient quantite=2>avocats</ingredient> sur des feuilles de laitue</operation>
+]]>
+ </preparation>
+</recette>

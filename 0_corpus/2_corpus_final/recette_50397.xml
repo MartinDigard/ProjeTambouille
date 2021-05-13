@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50397">
+ <titre>Pizza royale à la bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>1/2 pot de sauce bolognaise</p>
+ <p>3 pommes de terre</p>
+ <p>2 tranches de jambon</p>
+ <p>1 petites boîte de champignons</p>
+ <p>100 g de crevettes</p>
+ <p>3 tomates</p>
+ <p>100 g de gruyère</p>
+ <p>30 g d’ olives noires</p>
+ <p>1 oeuf</p>
+ <p>1 filet d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=3>pommes de terre</ingredient> à la vapeur, puis les couper en rondelles. etaler la pâte à <ingredient quantite=1>pizza</ingredient>, sur une plaque allant au <recipient>four</recipient>, puis la tartiner de <ingredient quantite=1>sauce bolognaise</ingredient>. disposer les rondelles de <ingredient quantite=3>pommes de terre</ingredient> par dessus, ainsi que les <ingredient quantite=3>tomates</ingredient> coupées en rondelles. mettre ensuite tout le reste, en gardant l’ <ingredient quantite=1>oeuf</ingredient> pour la fin. placer au <recipient>four</recipient> à 210 ° c (th 7), pendant 25 à 30 min ; à surveiller. bon appétit! réalisée le 13/08/06 par nos soins, avec tous les restes du frigo, et avec notre chef dada. on attend vos remarques! sauterne ou jurancon
+]]>
+ </preparation>
+</recette>

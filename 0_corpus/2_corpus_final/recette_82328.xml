@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82328">
+ <titre>Boeuf à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de boeuf </p>
+ <p>100 g de lardons allumettes</p>
+ <p>10 pommes de terre</p>
+ <p>5 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 bouteille de bon vin rouge</p>
+ <p>2 feuilles de laurier</p>
+ <p>1 branche de thym</p>
+ <p>2 grosses cuillères à soupe de vergeoise</p>
+ <p>1 peu de paprika</p>
+ <p>sel de celeri</p>
+ <p>1 noix de beurre </p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>boeuf</ingredient> en morceaux. <operation temps=6.86min espace=21>faire fondre un <ingredient quantite=1>gros</ingredient> morceau de <ingredient quantite=1>beurre</ingredient> avec un peu d’ <ingredient quantite=1>huile</ingredient> dans une <recipient>cocotte</recipient></operation>. y <operation temps=6.86min espace=21>faire dorer la viande</operation>. la réserver dans un récipient. <operation temps=6.86min espace=21>faire dorer les <ingredient quantite=1>lardons</ingredient> dans la <recipient>cocotte</recipient> sans ajout de matière grasse</operation>. réserver. remettre du <ingredient quantite=1>beurre</ingredient> dans la <recipient>cocotte</recipient>. y <operation temps=6.86min espace=21>faire revenir les <ingredient quantite=5>oignons</ingredient> et l’ <ingredient quantite=3>ail</ingredient></operation>. les réserver. remettre la viande dans la <recipient>cocotte</recipient>. ajouter du <ingredient quantite=1>beurre</ingredient> si besoin. saupoudrer des 2 <ingredient quantite=2>cuillères de vergeoise</ingredient> et bien mélanger. mettre les <ingredient quantite=1>lardons</ingredient>. ajouter un peu de farine pour épaissir la sauce. mettre alors les <ingredient quantite=5>oignons</ingredient> et l’ <ingredient quantite=3>ail</ingredient>, les 2 <ingredient quantite=2>feuilles de laurier</ingredient>, le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>paprika</ingredient> et le <ingredient quantite=1>sel</ingredient> de céleri. mélanger. enfin, ajouter le <ingredient quantite=1>vin rouge</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre. fermer la <recipient>cocotte</recipient> et <operation temps=6.86min espace=21>laisser cuire 1h dès le sifflet sur feu très doux</operation>. concernant les <ingredient quantite=1>pommes de terre</ingredient>, 2 solutions: soit vous les <operation temps=6.86min espace=21>faites cuire à part, soit vous les</operation> <operation temps=20.0min espace=21>ajoutez à la <recipient>cocotte</recipient> 20 minutes avant la fin de cuisson</operation>. <operation temps=6.86min espace=21>régalez -vous! le même <ingredient quantite=1>vin</ingredient> que celui</operation> utilisé pour la cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57242">
+ <titre>Gratiné de bananes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 gousse de vanille</p>
+ <p>10 g de beurre</p>
+ <p>4 bananes</p>
+ <p>4 cl de créme liquide entière (30%) </p>
+ <p>10 cl de sirop de sucre de canne</p>
+ <p>18 cl de rhum ambré</p>
+ <p>2 cuillères à soupe de jus d’ orange</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° (th7). <operation temps=6.86min espace=8>récupérez les graines contenues à l’ intérieur de la gousse de <ingredient quantite=1>vanille</ingredient> à l’</operation> aide de la pointe d’ un couteau, <operation temps=0.5min espace=8>réservez</operation>. <operation temps=6.86min espace=8>beurrez 4 plats à gratin</operation>. epluchez les <ingredient quantite=4>bananes</ingredient>, <operation temps=6.86min espace=8>taillez chacune d’ elles en 4 tronçons, disposez les côte à côte dans les plats</operation>. battez les oeufs en omelettes, incorperez la <ingredient quantite=1>créme</ingredient>, les graines de <ingredient quantite=1>vanilles</ingredient>, le <ingredient quantite=1>sirop de sucre de canne</ingredient>, le <ingredient quantite=1>rhum</ingredient> et le <ingredient quantite=2>jus</ingredient> d’ <ingredient quantite=2>orange</ingredient>, <operation temps=6.86min espace=8>versez cette préparation sur les <ingredient quantite=4>bananes</ingredient></operation>. enfournez et <operation temps=10.0min espace=8>faites cuire 10 min</operation>. c’ est délicieux.
+]]>
+ </preparation>
+</recette>

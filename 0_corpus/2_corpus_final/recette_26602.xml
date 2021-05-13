@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26602">
+ <titre>Langouste à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 petites langoustes cuites</p>
+ <p>3 cl de Xérès sec</p>
+ <p>1 cuillère à café rase de moutarde forte</p>
+ <p>1 pincée de poivre de Cayenne</p>
+ <p>1 cuillère à soupe de Worcestershire sauce</p>
+ <p>70 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>50 cl de lait</p>
+ <p>5 cuillères à soupe de crème</p>
+ <p>2 pincées de paprika</p>
+ <p>2 cuillères à soupe de parmesan râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>préparez la sauce</operation>: <operation temps=6.86min espace=13>mélangez la farine à 40 g de <ingredient quantite=1>beurre</ingredient> fondu sur feu moyen</operation> puis <operation temps=6.86min espace=13>mouillez avec le lait</operation>. <operation temps=6.86min espace=13>laissez épaissir sans</operation> cesser de remuer. lorsqu’ elle est bien épaisse, <operation temps=6.86min espace=13>incorporez la crème, du sel et du <ingredient quantite=1>poivre</ingredient></operation>. parfumez avec la <ingredient quantite=1>moutarde</ingredient>, le <ingredient quantite=1>xérès</ingredient>, la <ingredient quantite=1>worcestershire sauce</ingredient>, <operation temps=2.0min espace=13>laissez cuire encore 2 min</operation> puis <operation temps=0.25min espace=13>retirez du feu</operation>. <operation temps=6.86min espace=13>coupez les <ingredient quantite=4>langoustes</ingredient> en deux dans le sens de la longueur</operation>, <operation temps=6.86min espace=13>ôtez la carapace</operation> puis <operation temps=6.86min espace=13>coupez la chair en gros morceaux</operation>. <operation temps=6.86min espace=13>conservez la carapace</operation>. <operation temps=6.86min espace=13>déposez la <ingredient quantite=1>langouste</ingredient> dans la sauce</operation> puis <operation temps=6.86min espace=13>remplissez les carapaces de cette préparation</operation>. <operation temps=6.86min espace=13>saupoudrez de <ingredient quantite=2>parmesan</ingredient> et de <ingredient quantite=2>paprika</ingredient></operation>. <operation temps=6.86min espace=13>déposez sur le dessus le reste du beurre</operation> coupé en dés et passez sous le <recipient>gril</recipient> du <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

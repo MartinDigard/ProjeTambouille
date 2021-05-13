@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32656">
+ <titre>Cannellonis asperges / saucisses</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g d’ asperges vertes</p>
+ <p>450 g de chair à saucisse</p>
+ <p>60 cl de béchamel (de préférence assez liquide) </p>
+ <p>5 grandes feuilles à lasagne (les plus fines possible) </p>
+ <p>sel, poivre</p>
+ <p>noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>asperges</ingredient> dans l’ eau bouillante</operation>. faire revenir la <ingredient quantite=1>chair à saucisse</ingredient> dans un peu d’ huile, la <operation temps=6.86min espace=9>faire cuire 5 mn, le temps qu’ elle</operation> perde sa couleur rosée. hacher en petits morceaux (au couteau, car il doit s’ <operation temps=6.86min espace=9>agir de petits morceaux et non de vrai hachis</operation>). réserver. bien égoutter les <ingredient quantite=1>asperges</ingredient>, puis les couper en très petits morceaux. les <operation temps=6.86min espace=9>faire revenir quelques minutes dans la même <recipient>poêle</recipient> que celle</operation> utilisée pour la <ingredient quantite=1>chair à saucisse</ingredient>. mélanger saucisse et <ingredient quantite=1>asperges</ingredient>, saler et poivrer (ne pas hésiter avec le poivre). a feu doux, ajouter 10 cl de <ingredient quantite=1>béchamel</ingredient> et saupoudrer de <ingredient quantite=1>noix de muscade</ingredient>. il reste maintenant à préparer les canellonis. l’ idéal est d’ utiliser des <ingredient quantite=5>feuilles</ingredient> de <ingredient quantite=5>lasagne</ingredient> très fines et fraîches. si vous n’ en avez pas, utilisez des <ingredient quantite=5>feuilles</ingredient> de <ingredient quantite=5>lasagnes</ingredient> normales après les avoir cuites. couper les <ingredient quantite=5>feuilles</ingredient> en 2 (longueur). déposer un peu du mélange sur un côté de la <ingredient quantite=1>feuille</ingredient> et la rouler pour former un canelloni. tapisser le <recipient>plat</recipient> de <ingredient quantite=1>béchamel</ingredient>, déposer les canellonis (ils peuvent se toucher, mais il vaut mieux éviter de les superposer), les <operation temps=6.86min espace=9>recouvrir</operation> généreusement de <ingredient quantite=1>béchamel</ingredient>. mettre au <recipient>four</recipient> 30 mn à 160 ° c. c’ est beaucoup mieux si la <ingredient quantite=1>béchamel</ingredient> est très liquide afin que la pâte ne soit pas sèche.
+]]>
+ </preparation>
+</recette>

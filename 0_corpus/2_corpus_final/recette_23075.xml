@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23075">
+ <titre>Chili verde (poulet au citron et au maïs) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de blancs de poulet</p>
+ <p>4 citrons verts</p>
+ <p>300 g de maïs en grains</p>
+ <p>3 oignons blancs</p>
+ <p>2 poivrons rouges</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>cumin</p>
+ <p>tabasco</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient> en grosses lanières. les <operation temps=6.86min espace=11>faire mariner dans le jus des <ingredient quantite=4>citrons</ingredient> + 2 <ingredient quantite=5>cuillères</ingredient> d’ huile, du <ingredient quantite=1>sel</ingredient> et du poivre, pendant 2 h</operation>. peler et émincer les <ingredient quantite=3>oignons</ingredient> en rondelles. epépiner et détailler les <ingredient quantite=2>poivrons</ingredient> en lanières. rincer le <ingredient quantite=1>maïs</ingredient>. <operation temps=6.86min espace=11>faire chauffer le reste d’ <ingredient quantite=5>huile</ingredient> dans une <recipient>cocotte</recipient></operation>. y <operation temps=10.0min espace=11>faire revenir les <ingredient quantite=3>oignons</ingredient>, les morceaux de <ingredient quantite=1>poulet</ingredient> et les <ingredient quantite=2>poivrons</ingredient> environ 10 min en</operation> remuant bien. baisser le feu, rajouter le <ingredient quantite=1>maïs</ingredient> et arroser de <ingredient quantite=2>vinaigre</ingredient>. saler, poivrer et saupoudrer de <ingredient quantite=1>cumin</ingredient> et d’ un trait de <ingredient quantite=1>tabasco</ingredient>. couvrir et <operation temps=20.0min espace=11>laisser mijoter 15 - 20 min à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

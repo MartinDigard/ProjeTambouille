@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71270">
+ <titre>Soupe Finlandaise aux broccolis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pommes de terre coupées en dés</p>
+ <p>4 carottes coupées en dés</p>
+ <p>1 bouquet de brocoli</p>
+ <p>16 boulettes de boeuf</p>
+ <p>sel, poivre</p>
+ <p>100 g de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire bouillir dans un soupière les <ingredient quantite=2>pommes de terre</ingredient> et les <ingredient quantite=4>carottes</ingredient> pendant 20 min. ajouter les <ingredient quantite=1>brocolis</ingredient> coupes en fleurettes et les <ingredient quantite=1>boulettes de boeuf</ingredient>. <operation temps=20.0min espace=7>laisser cuire à feu doux pendant 20 min</operation>. saler, poivrer. servir et ajouter la <ingredient quantite=1>crème fraîche</ingredient> dans l’ assiette. ce <recipient>plat</recipient> complet, simple et économique est encore meilleur réchauffé. on peut mixer les légumes et remettre les <ingredient quantite=1>boulettes</ingredient> ensuite selon les goûts.
+]]>
+ </preparation>
+</recette>

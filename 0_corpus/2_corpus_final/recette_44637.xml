@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44637">
+ <titre>Mini-sandwichs au bacon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pousses d’ épinard</p>
+ <p>1 pomme Golden</p>
+ <p>2 tranches de bacon</p>
+ <p>fromage frais (St Moret) </p>
+ <p>pain de mie</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencez par <operation temps=6.86min espace=7>faire dorer le <ingredient quantite=2>bacon</ingredient>, 1 à 2 min, au <recipient>four</recipient> ou à la <recipient>poêle</recipient></operation>. coupez le <ingredient quantite=1>pain de mie</ingredient> en 2. tartinez - le de st moret. <operation temps=6.86min espace=7>coupez la <ingredient quantite=1>pomme</ingredient> en fines lamelles</operation>. disposez 2 lamelles de <ingredient quantite=1>pomme</ingredient> sur le <ingredient quantite=1>pain de mie</ingredient>, quelques <ingredient quantite=1>pousses</ingredient> d’ <ingredient quantite=1>épinard</ingredient>, le <ingredient quantite=2>bacon</ingredient> ; encore 2 lamelles de <ingredient quantite=1>pomme</ingredient> et quelques <ingredient quantite=1>pousses</ingredient> d’ <ingredient quantite=1>épinard</ingredient>. <operation temps=6.86min espace=7>refermez les sandwichs,</operation> et <operation temps=5.0min espace=7>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

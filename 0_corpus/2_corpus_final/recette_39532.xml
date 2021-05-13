@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39532">
+ <titre>Pâte à tartiner à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 cl de lait de coco</p>
+ <p>20 g de beurre</p>
+ <p>100 g de sucre, selon votre goût</p>
+ <p>3 oeufs</p>
+ <p>1 à 3 cuillères à café de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire chauffer le lait de <ingredient quantite=1>coco</ingredient>, le beurre et le sucre, dans une <recipient>casserole</recipient>, à feu doux, jusqu’ à ce que le beurre soit</operation> fondu. battre les <ingredient quantite=3>oeufs</ingredient> en omelette, dans un bol, puis les incorporer à la préparation, petit à petit, en fouettant continuellement. <operation temps=6.86min espace=6>faire cuire, en battant (pour</operation> éviter que les blancs d’ <ingredient quantite=3>oeufs</ingredient> ne forment des grumeaux), à feu doux, jusqu’ à épaississement. mettre dans un pot, et <operation temps=20.0min espace=6>laisser refroidir</operation>. chocolat, thé, <ingredient quantite=1>café</ingredient>,...
+]]>
+ </preparation>
+</recette>

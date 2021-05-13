@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46887">
+ <titre>Poires au vin et au Roquefort</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 poires type Hardy</p>
+ <p>1 citron non traité </p>
+ <p>150 g de roquefort</p>
+ <p>4 fines tranches de jambon fumé </p>
+ <p>12 cerneaux de noix</p>
+ <p>1 bouteille de vin rouge des Côtes du Rhône</p>
+ <p>150 g de sucre</p>
+ <p>1 cuillère à café de grains de poivre blanc</p>
+ <p>1 cuillère à café de graines de coriandre et muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>lavez le</operation> <ingredient quantite=1>citron</ingredient>, <operation temps=6.86min espace=10>prélevez le zeste,</operation> et <operation temps=2.0min espace=10>faites - le blanchir 2 min ;</operation> puis <operation temps=6.86min espace=10>égouttez</operation>. dans une <recipient>casserole</recipient> juste assez grande pour <operation temps=6.86min espace=10>contenir les <ingredient quantite=4>poires</ingredient> debout (ne pas les</operation> mettre maintenant), <operation temps=6.86min espace=10>portez le <ingredient quantite=1>vin</ingredient> à ébullition, avec le zeste et le jus de <ingredient quantite=1>citron</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>poivre</ingredient>, la <ingredient quantite=1>coriandre</ingredient> et 1</operation> pincée de <ingredient quantite=1>muscade</ingredient>. <operation temps=10.0min espace=10>laissez frémir 10 min</operation>. <operation temps=6.86min espace=10>pelez les <ingredient quantite=4>poires</ingredient> en les gardant entières et en</operation> conservant la queue. plongez - les dans le <ingredient quantite=1>vin</ingredient>, <operation temps=6.86min espace=10>couvrez aux trois quarts,</operation> et <operation temps=20.0min espace=10>laissez - les pochez 20 min à feu très doux</operation>. <operation temps=6.86min espace=10>laissez refroidir dans le <ingredient quantite=1>vin</ingredient>, au frais pendant 2 heures</operation>. <operation temps=6.86min espace=10>egouttez les</operation> <ingredient quantite=4>poires</ingredient>, <operation temps=6.86min espace=10>coupez les en deux,</operation> et <operation temps=6.86min espace=10>ôtez le cœur</operation>. garnissez chaque moitié de <ingredient quantite=1>roquefort</ingredient> en morceaux, de petits morceaux de <ingredient quantite=4>jambon</ingredient>, et de <ingredient quantite=1>cerneaux de noix</ingredient>. servez sur un lit de verdure avec de <ingredient quantite=4>fines tranches</ingredient> de pain de seigle aux raisins. encore meilleure, si on <operation temps=6.86min espace=10>laisse les <ingredient quantite=4>poires</ingredient> jusqu’ au lendemain</operation>.
+]]>
+ </preparation>
+</recette>

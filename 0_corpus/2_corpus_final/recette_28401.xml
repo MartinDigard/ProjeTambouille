@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28401">
+ <titre>Baekenofe (ragoût de viande alsacien) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g d’ épaule d’ agneau désossée</p>
+ <p>500 g d’ échine de porc désossée</p>
+ <p>500 g de poitrine de boeuf</p>
+ <p>1 kg de belles pommes de terre</p>
+ <p>2 oignons</p>
+ <p>4 carottes</p>
+ <p>2 beaux poireaux</p>
+ <p>1 feuille de laurier</p>
+ <p>15 cl de vin blanc d’ Alsace</p>
+ <p>1 cuillère à soupe de Saindoux</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1/2 bouquet de persil</p>
+ <p>2 clous de girofle</p>
+ <p>1 bouquet garni</p>
+ <p>50 cl de vin blanc d’ Alsace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille: <operation temps=6.86min espace=25>préparez la marinade: piquez 1 <ingredient quantite=1>oignon</ingredient> des clous de <ingredient quantite=2>girofle</ingredient></operation>. emincez l’ autre <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=2>ail</ingredient>. <operation temps=6.86min espace=25>coupez la viande en petits morceaux</operation>. <operation temps=6.86min espace=25>versez le <ingredient quantite=1>vin</ingredient> dans un <recipient>saladier</recipient></operation>. ajoutez les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient> et la viande. <operation temps=6.86min espace=25>laissez mariner pendant 12 heures</operation>. le jour même: <operation temps=6.86min espace=25>plongez une <recipient>cocotte</recipient> en <ingredient quantite=1>terre</ingredient> et son couvercle dans de l’ eau</operation> froide pendant 15 minutes. a défaut de <recipient>cocotte</recipient> en <ingredient quantite=1>terre</ingredient>, utilisez une <recipient>cocotte</recipient> en fonte - qui aille au <recipient>four</recipient> en somme! préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). coupez les <ingredient quantite=1>pommes de terre</ingredient>, les <ingredient quantite=4>carottes</ingredient>, les poireaux et les <ingredient quantite=2>oignons</ingredient> en rondelles. <operation temps=6.86min espace=25>egouttez la <recipient>cocotte</recipient> et enduisez l’ intérieur de <ingredient quantite=1>saindoux</ingredient></operation>. aternez couches de légumes et de viande. terminez par une couche de <ingredient quantite=1>pommes de terre</ingredient>. <operation temps=6.86min espace=25>ajoutez la feuille de</operation> <ingredient quantite=1>laurier</ingredient> et <operation temps=6.86min espace=25>arrosez de <ingredient quantite=1>vin</ingredient></operation>. <operation temps=6.86min espace=25>complétez d’ eau si besoin pour que l’ ensemble de la préparation soit recouverte de liquide</operation>. <operation temps=0.25min espace=25>couvrez</operation> et <operation temps=6.86min espace=25>laissez cuire 4 h au <recipient>four</recipient></operation>. <operation temps=6.86min espace=25>servez dans la <recipient>cocotte</recipient></operation>.
+]]>
+ </preparation>
+</recette>

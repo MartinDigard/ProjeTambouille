@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12111">
+ <titre>Sauces pour fondue chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la base: </p>
+ <p>5 cuillères à soupe de mayonnaise (ou yaourt nature ou crème) </p>
+ <p>Pour des sauces variées: </p>
+ <p>1.5 cuillères à soupe de moutarde forte</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>noix de Grenoble</p>
+ <p>1 oignon vert</p>
+ <p>2 cuillères à soupe de ketchup</p>
+ <p>100 g de cornichons</p>
+ <p>aneth</p>
+ <p>1 cuillère à soupe de câpres</p>
+ <p>ail</p>
+ <p>ciboulette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+à la <ingredient quantite=1>base</ingredient>, ajouter: de la <ingredient quantite=2>moutarde forte</ingredient> de la <ingredient quantite=1>sauce soja</ingredient>, des <ingredient quantite=1>noix de grenoble</ingredient> émiettées et des <ingredient quantite=1>oignons verts</ingredient> du <ingredient quantite=2>ketchup</ingredient>, des <ingredient quantite=1>cornichons</ingredient> à l’ <ingredient quantite=1>aneth</ingredient> et des <ingredient quantite=1>câpres</ingredient> de la poudre de cari et des <ingredient quantite=1>oignons verts</ingredient> de l’ <ingredient quantite=1>ail</ingredient> très finement haché et de la <ingredient quantite=1>ciboulette</ingredient> <ingredient quantite=1>varier</ingredient> à l’ infini en ajoutant les ingrédients qu’ on a au frais.
+]]>
+ </preparation>
+</recette>

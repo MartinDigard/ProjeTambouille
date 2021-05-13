@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23925">
+ <titre>Salade de thon à la banane (Tahiti) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de thon nature </p>
+ <p>300 g de thon germon cuit</p>
+ <p>3 bananes à peine mûres</p>
+ <p>100 g de riz</p>
+ <p>2 poivrons rouges</p>
+ <p>crème fraîche (selon le goût) </p>
+ <p>curry (selon le goût) </p>
+ <p>sel et poivre </p>
+ <p>huile et vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=1>riz</ingredient> (mais attention, il doit rester ferme). le <operation temps=20.0min espace=9>laisser refroidir</operation>. émietter le <ingredient quantite=1>thon</ingredient>. découper les <ingredient quantite=2>poivrons</ingredient> en petits dés et les <ingredient quantite=3>bananes</ingredient> en rondelles. mélanger le tout et verser la sauce composée d’ une grosse cuillerée de <ingredient quantite=1>crème</ingredient>, d’ une pincée de <ingredient quantite=1>sel</ingredient> et de poivre, de 5 cuillères à soupe d’ huile et de 2 de <ingredient quantite=1>vinaigre</ingredient>. saupoudrer de <ingredient quantite=1>curry</ingredient>. <operation temps=2.0min espace=9>servir très frais</operation>.
+]]>
+ </preparation>
+</recette>

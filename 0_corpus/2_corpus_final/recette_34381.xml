@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34381">
+ <titre>Bavarois aux trois chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>25 g chocolat noir</p>
+ <p>25 g chocolat blanc</p>
+ <p>25 g chocolat au lait</p>
+ <p>5 oeufs</p>
+ <p>60 g sucre poudre</p>
+ <p>30 g cacao</p>
+ <p>25 cl de lait</p>
+ <p>4 feuilles de gélatine</p>
+ <p>125 g crème fraîche</p>
+ <p>Pour la chantilly: </p>
+ <p>5 cl de crème liquide</p>
+ <p>50 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient> battre les jaunes d’ oeufs avec le <ingredient quantite=1>sucre</ingredient>. ajouter le cacao. dans le <ingredient quantite=1>lait</ingredient> que l’ on a fait <operation temps=20.0min espace=14>bouillir</operation>, ajouter les 3 chocolats en morceaux et <operation temps=6.86min espace=14>faire fondre en</operation> remuant. <operation temps=6.86min espace=14>faire ramollir la <ingredient quantite=4>gélatine</ingredient> dans de l’ eau</operation> froide, l’ égoutter. verser le <ingredient quantite=1>lait</ingredient> chocolaté sur le mélange <ingredient quantite=5>oeufs</ingredient> - <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=14>faire cuire à feu doux en</operation> remuant jusqu’ à ce que le mélange épaississe. ne pas faire <operation temps=20.0min espace=14>bouillir</operation>, attention. puis retirer du feu et introduire la <ingredient quantite=4>gélatine</ingredient>, remuer et <operation temps=10.0min espace=14>laisser tiédir</operation>. battre la <ingredient quantite=1>crème fraîche</ingredient> et ajouter à la préparation. verser dans un <recipient>moule</recipient> et <operation temps=6.86min espace=14>laisser au moins 12 h au frigo</operation>. avant de <operation temps=2.0min espace=14>servir</operation>, faire une <ingredient quantite=1>chantilly</ingredient> avec la <ingredient quantite=1>crème liquide</ingredient> et le <ingredient quantite=1>sucre glace</ingredient>. démouler le bavarois et le décorer de <ingredient quantite=1>chantilly</ingredient>. pour que la <ingredient quantite=1>chantilly</ingredient> soit bien " prise " je rajoute un sachet " spécial <ingredient quantite=1>chantilly</ingredient> " vendu dans le commerce et qui aide à rendre la <ingredient quantite=1>chantilly</ingredient> plus ferme.
+]]>
+ </preparation>
+</recette>

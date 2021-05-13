@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68720">
+ <titre>Empanadas mexicains</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 rouleaux de pâte brisée</p>
+ <p>350 g de boeuf haché</p>
+ <p>1 gros oignon émincé</p>
+ <p>2 gousses d’ ail pilées</p>
+ <p>1 piment rouge</p>
+ <p>20 cl de sauce tomate</p>
+ <p>2 cuillères à café de cumin moulu</p>
+ <p>20 cl de crême fraiche</p>
+ <p>1 petit sachet de gruyère râpé</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=15>faire chauffer l’ <ingredient quantite=2>huile</ingredient></operation>. y <operation temps=6.86min espace=15>faire fondre l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>piment</ingredient> mixés</operation>. ajouter le <ingredient quantite=1>boeuf</ingredient> émietté et cuire à grand feu, tout en remuant jusq’ à ce que la viande soit dorée. saler, poivrer. ajouter la sauce tomate et le <ingredient quantite=2>cumin</ingredient>, porter à ébullition. réduire le feu et <operation temps=5.0min espace=15>laisser mijoter 5 min jusqu’ à ce que le mélange épaississe</operation>. <operation temps=10.0min espace=15>laisser tiédir</operation>. ensuite dérouler les <ingredient quantite=4>pâtes brisées</ingredient> et sur chacune d’ entres elles découper 3 cercles à l’ aide d’ un bol. préchauffer le <recipient>four</recipient> à 190 ° c (thermostat 6 - 7). sur la plaque du <recipient>four</recipient> garnie de papier sulfurisé, déposer les 12 cercles (si la plaque est suffisament grande, sinon on cuira en 2 fournées). répartir une <ingredient quantite=1>cuillère</ingredient> de préparation à la viande sur un côté des cercles, une <ingredient quantite=2>cuillère à café</ingredient> de crème et un peu de <ingredient quantite=1>gruyère</ingredient>. saler, poivrer. ensuite plier les cercles en 2 pour former des chaussons, et presser les bords ensemble pour les sceller. badigeonner les chaussons de <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. enfourner et <operation temps=20.0min espace=15>faire cuire 20 min</operation>. servir chaud. <operation temps=2.0min espace=15>servir avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

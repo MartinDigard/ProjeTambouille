@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65293">
+ <titre>Spaghetti sautés aux poivrons et au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>spaghetti (dose pour 2) (cuisson longue) </p>
+ <p>1 poivron</p>
+ <p>2 échalotes ou petits oignons</p>
+ <p>1 oeuf</p>
+ <p>1 escalope de poulet</p>
+ <p>sauce aigre-douce</p>
+ <p>huile, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>spaghettis</ingredient> al dente</operation>. pendant ce temps, couper le <ingredient quantite=1>poivron</ingredient> en dés et les <ingredient quantite=2>échalotes</ingredient> en long. les mettre à frire dans une <recipient>poêle</recipient> couverte avec un filet d’ huile. saler et poivrer le <ingredient quantite=1>poulet</ingredient> puis le découper en <ingredient quantite=2>petits</ingredient> morceaux. egoutter les <ingredient quantite=1>spaghetti</ingredient> et les rajouter dans la <recipient>poêle</recipient>. mettre la sauce <ingredient quantite=1>aigre</ingredient> - <ingredient quantite=1>douce</ingredient> et bien la mélanger aux <ingredient quantite=1>spaghetti</ingredient>. ajouter le <ingredient quantite=1>poulet</ingredient>, et casser l’ <ingredient quantite=1>oeuf</ingredient> dessus. <operation temps=6.86min espace=10>recouvrir la <recipient>poêle</recipient></operation> et <operation temps=15.0min espace=10>laisser cuire 10 à 15 min en</operation> mélangeant de temps en temps.
+]]>
+ </preparation>
+</recette>

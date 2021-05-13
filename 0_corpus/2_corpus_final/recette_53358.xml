@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53358">
+ <titre>Farcement</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2, 5 kg de pommes de terre (vieilles) épluchées</p>
+ <p>50 cl crème</p>
+ <p>20 tranches de lard</p>
+ <p>1 sachet de pruneaux d’ Agen</p>
+ <p>4 oeufs</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 cuillère à café de poivre</p>
+ <p>1 petite cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+raper les <ingredient quantite=1>pommes de terre</ingredient> comme les carottes râpées. mettre dans une jatte, incorporer la crème, les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>poivre</ingredient> et la farine. <operation temps=6.86min espace=14>beurrez votre <recipient>moule</recipient></operation>. tapisser le <recipient>moule</recipient> des <ingredient quantite=1>tranches de lard</ingredient>. ajouter votre préparation en incorporant au fur et à mesure les <ingredient quantite=1>pruneaux</ingredient>. fermer le couvercle et <operation temps=6.86min espace=14>faire cuire doucement à la <recipient>cocotte</recipient> minute pendant 2h30</operation>. mettre le <recipient>moule</recipient> dans la <recipient>cocotte</recipient> et verser l’ eau aux 3/4 du <recipient>moule</recipient>. délicieux accompagné d’ une viande en sauce. bourgogne ou un beaujolais nouveau!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53791">
+ <titre>Cailles aux marrons et raisins blancs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 cailles</p>
+ <p>8 tranches de lard fumé (pour barder) </p>
+ <p>raisins blancs</p>
+ <p>1 boîte de marrons</p>
+ <p>1 pot de 4 épices (cannelle, gingembre, girofle) </p>
+ <p>cognac ou autre alcool pour flamber</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre 1 grain de <ingredient quantite=1>raisin</ingredient> dans chaque <ingredient quantite=1>caille</ingredient>, puis les barder de <ingredient quantite=8>lard</ingredient>. <operation temps=6.86min espace=9>faire fondre la margarine dans le <recipient>plat</recipient></operation> adapté au <recipient>four</recipient>, mettre les <ingredient quantite=8>cailles</ingredient> et les <operation temps=6.86min espace=9>faire revenir (une bonne demi heure)</operation> ; arroser régulièrement avec la graisse. lorsqu’ elles ont <operation temps=6.86min espace=9>pris " de la couleur " les <ingredient quantite=1>flamber</ingredient></operation>. saler, poivrer, puis saupoudrer de <ingredient quantite=1>4 épices</ingredient>. ajouter les <ingredient quantite=1>raisins</ingredient> dans le <recipient>plat</recipient> et <operation temps=30.0min espace=9>laisser cuire 15 à 30 min</operation>. 10 min avant la fin, ajouter les <ingredient quantite=1>marrons</ingredient>. il est important d’ arroser régulièrement la viande!
+]]>
+ </preparation>
+</recette>

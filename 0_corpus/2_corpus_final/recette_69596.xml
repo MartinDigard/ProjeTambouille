@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69596">
+ <titre>Cake aux noisettes et pépites pralinées</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de chocolat praliné dessert</p>
+ <p>200 g de farine</p>
+ <p>50 g de poudre de noisette</p>
+ <p>100 g de sucre roux</p>
+ <p>15 cl d’ huile (sans "goût" comme l’ huile de pépin de raisin) </p>
+ <p>3 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffes le <recipient>four</recipient> à 180 ° c (thermostat 6). tamisez la farine, la <ingredient quantite=1>poudre de noisette</ingredient> et la <ingredient quantite=1>levure chimique</ingredient>. cassez et <operation temps=6.86min espace=11>fouettez les <ingredient quantite=3>oeufs</ingredient> dans un <recipient>saladier</recipient>, ajoutea l’ huile et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=11>fouettez ce mélange pour le</operation> rendre homogène puis incorporez le mélange <ingredient quantite=1>farine</ingredient> - <ingredient quantite=1>poudre de noisette</ingredient> - <ingredient quantite=1>levure</ingredient>. coupez le <ingredient quantite=1>chocolat praliné</ingredient> en petits morceaux pour formez des pépites et <operation temps=6.86min espace=11>ajoutez à la pâte</operation>. <operation temps=6.86min espace=11>mélangez délicatement</operation>, <operation temps=6.86min espace=11>versez la pâte dans un <recipient>moule</recipient> à cake</operation>, <operation temps=30.0min espace=11>faites cuire 30 min</operation> puis <operation temps=6.86min espace=11>baissez le <recipient>four</recipient> 150 ° (thermostat 5)</operation> et <operation temps=30.0min espace=11>poursuivez la cuisson 30 minutes</operation>. <operation temps=6.86min espace=11>laissez tiédir avant de</operation> démouler. l’ <ingredient quantite=1>huile</ingredient>, qui rend le cake plus léger, peut être remplacée par 150 g de beurre. la <ingredient quantite=1>poudre de noisette</ingredient> renforce le goût <ingredient quantite=1>praliné</ingredient> mais peut être remplacée par de la farine ou de la fécule.
+]]>
+ </preparation>
+</recette>

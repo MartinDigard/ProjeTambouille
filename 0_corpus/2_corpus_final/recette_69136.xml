@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69136">
+ <titre>Blanquette de canard confit</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>6 cuisses de canard confites</p>
+ <p>2 carottes</p>
+ <p>1 brin de céleri</p>
+ <p>1 tablette de kub or</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>15 cl de crème fraîche</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=2>carottes</ingredient> <operation temps=6.86min espace=7>coupez les en rondelles</operation>, détailler le <ingredient quantite=1>céleri</ingredient>. <operation temps=6.86min espace=7>faire dorer dans 2 cuillères à soupe de graisse de <ingredient quantite=6>canard</ingredient></operation> prélevée sur les <ingredient quantite=6>cuisses</ingredient>. pendant ce temps dépecer les <ingredient quantite=6>cuisses</ingredient> en enlevant la peau et les os, en prenant soin d’ enlever au maximun la graisse. ajouter aux <ingredient quantite=2>carottes</ingredient> et <operation temps=5.0min espace=7>laisser dorer 5 min de plus a</operation> feu doux. <operation temps=2.0min espace=7>couvrir d’ eau</operation>. <operation temps=15.0min espace=7>laisser mijoter 15 min a</operation> feu doux puis prélever la moitié du bouillon. le <operation temps=20.0min espace=7>laisser refroidir</operation> puis ajouter 3 cuillères à soupe de farine, le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. bien mélanger et le rajouter au reste de la préparation. <operation temps=5.0min espace=7>laisser mijoter 5 min</operation> aprés la reprise de l’ ébullition. c’ est prêt. <operation temps=6.86min espace=7>servir avec du riz nature</operation>.
+]]>
+ </preparation>
+</recette>

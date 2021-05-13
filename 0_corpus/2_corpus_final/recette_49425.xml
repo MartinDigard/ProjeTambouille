@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49425">
+ <titre>Scampis aux câpres</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de scampis surgelés</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>4 grosses gousses d’ ail</p>
+ <p>30 g de câpres égoutté</p>
+ <p>le jus d’ 1 citron</p>
+ <p>10 cl d’ eau</p>
+ <p>1 cuillère de farine</p>
+ <p>1 cuillère à soupe de persil frais</p>
+ <p>Pour l’ accompagnement: </p>
+ <p>4 grosses pommes de terre</p>
+ <p>4 tranches d’ emmental</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=4>pommes de terre</ingredient> sans les éplucher et les mettre à cuire dans l’ <ingredient quantite=1>eau</ingredient>. pendant ce temps, décortiquer les scampis et les <operation temps=5.0min espace=16>faire cuire 5 min dans une <recipient>poêle</recipient></operation> huilée avec les 3 gousses d’ <ingredient quantite=4>ail</ingredient> pilées, le <ingredient quantite=1>sel</ingredient> et le poivre. incorporer ensuite les <ingredient quantite=1>câpres</ingredient>, le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient> et la <ingredient quantite=1>farine</ingredient> délayée dans un peu d’ <ingredient quantite=1>eau</ingredient>. bien mélanger le tout et <operation temps=6.86min espace=16>laisser mijoter encore quelques minutes</operation>. saupoudrer le tout de <ingredient quantite=1>persil</ingredient> haché puis réserver. préchauffer votre <recipient>four</recipient> à 220 ° c (thermostat 7/8). découper les <ingredient quantite=4>pommes de terre</ingredient> et les frotter avec la gousse d’ <ingredient quantite=4>ail</ingredient> restante. déposer les <ingredient quantite=4>pommes de terre</ingredient> sur la plaque du <recipient>four</recipient> huilée puis les <operation temps=6.86min espace=16>recouvrir de <ingredient quantite=4>tranches</ingredient> de fromage</operation>. les passer au <recipient>four</recipient> 10 à 15 min et les servir en accompagnement des scampis aux <ingredient quantite=1>câpres</ingredient>.
+]]>
+ </preparation>
+</recette>

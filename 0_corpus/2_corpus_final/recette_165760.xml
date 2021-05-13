@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165760">
+ <titre>Paupiette de dinde farcie</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde</p>
+ <p>250g de viande hachée (dinde) </p>
+ <p>1 poivron rouge</p>
+ <p>1 oignon</p>
+ <p>1 œuf</p>
+ <p>1 boite de champignons</p>
+ <p>150g de fromage râpé</p>
+ <p>2 gousses d’ ail</p>
+ <p>un peu de chapelure</p>
+ <p>du beurre et de l’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <recipient>four</recipient> à chauffer. dans un <recipient>saladier</recipient>, mélanger la <ingredient quantite=1>viande hachée</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient> émincé le <ingredient quantite=1>poivron</ingredient> coupé en petits morceaux, les <ingredient quantite=1>champignons</ingredient> égouttés, l’ <ingredient quantite=2>ail</ingredient> écrasé, la <ingredient quantite=1>chapelure</ingredient>, l’ <ingredient quantite=1>œuf</ingredient> et enfin le <ingredient quantite=1>fromage râpé</ingredient>. saler et poivrer. <operation temps=6.86min espace=15>farcir les paupiettes avec cette préparation et à l’</operation> aide de ficelle de cuisine former un gros saucisson. (pour que la <ingredient quantite=1>viande</ingredient> ne déborde pas en cuisant) <operation temps=6.86min espace=15>faire sauter dans une <recipient>cocotte</recipient></operation> allant au <recipient>four</recipient> avec le <ingredient quantite=1>beurre et</ingredient> l’ huile, enfourner en ajoutant des petits pois (à remplacer par des carottes coupés en rondelles)
+]]>
+ </preparation>
+</recette>

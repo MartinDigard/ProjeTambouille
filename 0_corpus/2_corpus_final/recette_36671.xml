@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36671">
+ <titre>Tarte à la salade</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 salade verte</p>
+ <p>1 pâte feuilletée</p>
+ <p>70 g de fromage râpé</p>
+ <p>200 g de viande de boeuf hachée</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cube de bouillon volaille ou boeuf</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1 oeuf entier</p>
+ <p>100 g de champignon de Paris</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=9>faire cuire les feuilles de salade dans de l’ eau 15 à 20 min</operation>. faire revenir dans un peu de beurre la <ingredient quantite=1>viande hachée</ingredient>, les <ingredient quantite=1>champignons</ingredient> en morceaux et les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> hachées en salant avec le <ingredient quantite=1>cube</ingredient> à <ingredient quantite=1>bouillon</ingredient> que vous <operation temps=6.86min espace=9>écraserez</operation>. ajoutez à cette preparation 1 <ingredient quantite=1>oeuf entier</ingredient>, du <ingredient quantite=1>fromage</ingredient> rapé et la <ingredient quantite=1>crème fraîche</ingredient>. etaler l’ ensemble sur la <ingredient quantite=1>pâte</ingredient> feuilletée et enfourner pendant 25 - 30 min à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

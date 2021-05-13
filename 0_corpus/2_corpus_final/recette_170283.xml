@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170283">
+ <titre>Ma première pizza</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza toute prête</p>
+ <p>200 g de coulis de tomates et olives</p>
+ <p>3 tomates</p>
+ <p>10 tranches de chorizo doux</p>
+ <p>10 olives vertes et noires</p>
+ <p>2 tranches de jambon blanc</p>
+ <p>10 petites tranches de gruyère</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte dans un <recipient><recipient>moule</recipient> à tarte</recipient>. enduire le fond du <ingredient quantite=1>coulis tomates olives</ingredient>. tapisser ensuite de rondelles de <ingredient quantite=1>tomates</ingredient> fines. saler et poivrer légèrement. disposer le <ingredient quantite=2>jambon</ingredient> coupé en lanières puis les <ingredient quantite=1>tranches de chorizo</ingredient> et les lamelles de gruyère. <operation temps=6.86min espace=11>finir avec les <ingredient quantite=1>olives</ingredient></operation>. mettre au <recipient>four</recipient> chaud à 240 ° c, thermostat 8, pendant 20 min.
+]]>
+ </preparation>
+</recette>

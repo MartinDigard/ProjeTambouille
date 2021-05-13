@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54486">
+ <titre>Poulet aux fruits secs et amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre + 20 g pour la cuisson</p>
+ <p>40 g d’ amandes en poudre</p>
+ <p>40 g d’ amandes effilées</p>
+ <p>40 g de pignons de pin</p>
+ <p>40 g de raisins de Corinthe</p>
+ <p>4 blancs de poulet ouverts en portefeuille</p>
+ <p>1/2 jus de citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+malaxer le <ingredient quantite=1>beurre</ingredient> ramolli avec les <ingredient quantite=1>amandes</ingredient> (<ingredient quantite=1>poudre</ingredient> + <ingredient quantite=1>effilées</ingredient>), les <ingredient quantite=1>pignons</ingredient> et les <ingredient quantite=1>raisins</ingredient>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>farcir les blancs de <ingredient quantite=4>poulet</ingredient> chacun avec 1/4 de la préparation</operation>. <operation temps=20.0min espace=10>faire cuire 20 minutes sur feu doux dans une <recipient>cocotte</recipient> à fond</operation> épais avec le <ingredient quantite=1>beurre</ingredient> et le <ingredient quantite=1>jus de citron</ingredient>, retourner à mi-cuisson. <operation temps=6.86min espace=10>servir avec un mélange de céréales (blé, semoule, épeautre) ou du boulgour</operation>. fitou ou minervois ou vin marocain
+]]>
+ </preparation>
+</recette>

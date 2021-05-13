@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31333">
+ <titre>Poulet mariné sur salade d’ avocats et d’ épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 morceaux de poulet fermier</p>
+ <p>1 citron</p>
+ <p>75 g d’ olives vertes</p>
+ <p>1 cuillère à soupe de câpres</p>
+ <p>1 feuille de laurier</p>
+ <p>4 brins de romarin</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>Pour la salade: </p>
+ <p>125 g d’ haricots verts</p>
+ <p>1 batavia ou laitue</p>
+ <p>1 avocat pelé</p>
+ <p>125 g de feuilles d’ épinards tendres</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=22>mettez tous les morceaux de <ingredient quantite=6>poulet</ingredient> à <recipient>plat</recipient> dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, <operation temps=6.86min espace=22>mélangez les ingrédients restants (jus de <ingredient quantite=1>citron</ingredient>, <ingredient quantite=1>olives</ingredient>, <ingredient quantite=1>câpres</ingredient>, huile d’ <ingredient quantite=1>olives</ingredient>, <ingredient quantite=4>romarin</ingredient>, <ingredient quantite=1>laurier</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>)</operation> et <operation temps=6.86min espace=22>versez le mélange sur le <ingredient quantite=6>poulet</ingredient></operation>. <operation temps=6.86min espace=22>laissez mariner au <recipient>réfrigérateur</recipient> au moins 30</operation> mn (1 h c’ est mieux). <operation temps=30.0min espace=22>faire cuire le <ingredient quantite=6>poulet</ingredient> au <recipient>four</recipient> pendant 30 mn</operation>. le passer au grill pendant 10 mn en le retournant. pour <ingredient quantite=1>la salade</ingredient>, faites blanchir les <ingredient quantite=1>haricots verts</ingredient> dans l’ eau bouillante et <operation temps=6.86min espace=22>refroidir dans l’ eau</operation> glacée. au moyen d’ une <ingredient quantite=1>cuillère</ingredient> à café, <operation temps=6.86min espace=22>prélevez des petites boules d’</operation> <ingredient quantite=1>avocat</ingredient> et mettez - les dans un <recipient>saladier</recipient> avec les <ingredient quantite=1>haricots verts</ingredient>, les <ingredient quantite=1>épinards</ingredient> et la <ingredient quantite=1>salade</ingredient>. <operation temps=6.86min espace=22>mélangez l’ huile et le <ingredient quantite=1>vinaigre</ingredient>, <ingredient quantite=1>sel</ingredient>,</operation> <ingredient quantite=1>poivre</ingredient>, <operation temps=6.86min espace=22>versez sur la <ingredient quantite=1>salade</ingredient></operation>. servir avec des pommes de terre nouvelles que vous pouvez ajouter avec le <ingredient quantite=6>poulet</ingredient> dans le <recipient>four</recipient> à la fin de la cuisson. pinot blanc d’ alsace
+]]>
+ </preparation>
+</recette>

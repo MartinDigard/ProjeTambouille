@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40886">
+ <titre>Moussaka facile au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 aubergines</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 gros oignons</p>
+ <p>500 g de haché de poulet</p>
+ <p>épices selon goût</p>
+ <p>500 g de purée de tomate</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>4 grosses pommes de terre</p>
+ <p>emmenthal rapé ou gruyère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper grossièrement les <ingredient quantite=2>aubergines</ingredient>, saler et <operation temps=30.0min espace=12>laisser dégorger 30 min</operation>. faire cuire les <ingredient quantite=4>pommes de terre</ingredient> à l’ eau ou à la vapeur. mettre l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> dans une <recipient>casserole</recipient> et ajouter les 2 <ingredient quantite=2>oignons</ingredient> coupés grossièrement, <operation temps=6.86min espace=12>laisser blondir</operation>. ajouter le haché aux <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=12>laisser mijoter jusqu’ à cuisson</operation>. cuire les <ingredient quantite=2>aubergines</ingredient> au micro-ondes 2 x 5min à 750w. ajouter la <ingredient quantite=1>purée de tomate</ingredient> et la <ingredient quantite=4>crème fraîche</ingredient> au haché, ajouter ensuite les <ingredient quantite=2>aubergines</ingredient> bien égouttées. mélanger les <ingredient quantite=4>pommes de terre</ingredient> coupées en dés au haché et transvaser dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. parsemer de <ingredient quantite=1>gruyère</ingredient> et <operation temps=6.86min espace=12>faire griller pour</operation> avoir une belle croûte. bon appetit!
+]]>
+ </preparation>
+</recette>

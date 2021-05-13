@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54978">
+ <titre>Roulé gratiné de jambon aux petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de jambon blanc</p>
+ <p>2 carottes</p>
+ <p>2 blancs de poireaux</p>
+ <p>1 oignon</p>
+ <p>20 g de beurre</p>
+ <p>20 g de farine</p>
+ <p>20 cl de lait</p>
+ <p>2 poignées de gruyère râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher, laver les légumes. couper grossièrement les <ingredient quantite=2>carottes</ingredient> en rondelles. mixer les avec l’ <ingredient quantite=1>oignon</ingredient> préalablement coupé en gros morceaux. couper les <ingredient quantite=4>blancs</ingredient> de <ingredient quantite=2>poireaux</ingredient> en julienne. <operation temps=6.86min espace=13>faire chauffer la <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=13>faire fondre une noisette de beurre, y</operation> mettre les légumes et <operation temps=20.0min espace=13>laisser cuire à feu doux jusqu’ à ce que les légumes soient tendres (environ 20 min</operation>). saler, poivrer. pendant ce temps, préparer une béchamel. <operation temps=6.86min espace=13>faire fondre les 20 g de beurre</operation>, ajouter la farine, mélanger et verser le lait. remuer jusqu’ à épaississement. saler, poivrer. hors du feu, verser la béchamel sur les légumes et mélanger. mettre une <ingredient quantite=4>tranche de jambon</ingredient> à <recipient>plat</recipient>, y déposer deux cuillères à soupe de la préparation de légumes, rabattre la <ingredient quantite=1>tranche</ingredient> et rouler. répéter l’ opération. déposer les roulés de <ingredient quantite=4>jambon</ingredient> dans un <recipient>plat</recipient> à gratin, parsemer de gruyère et enfourner pour 10 min (<recipient>four</recipient> à 210 ° c, thermostat 7).
+]]>
+ </preparation>
+</recette>

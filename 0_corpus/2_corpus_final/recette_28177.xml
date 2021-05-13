@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28177">
+ <titre>Salade de chou morvandelle</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit chou blanc bien pommé</p>
+ <p>200 g de lard fumé coupé en lardons</p>
+ <p>1 gousse d’ ail</p>
+ <p>moutarde</p>
+ <p>huile</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>chou</ingredient> en toutes fines lanières. <operation temps=6.86min espace=8>faire une vinaigrette <ingredient quantite=1>bien</ingredient></operation> moutardée mais pas trop vinaigrée et y ajouter la gousse d’ <ingredient quantite=1>ail</ingredient> émincée. verser la vinaigrette dans le <ingredient quantite=1>chou</ingredient>. <operation temps=6.86min espace=8>faire revenir des <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient> avec une cuillerée d’</operation> huile. quand les <ingredient quantite=1>lardons</ingredient> sont <ingredient quantite=1>bien</ingredient> chauds, les verser dans la salade de <ingredient quantite=1>chou</ingredient>. déglacer la <recipient>poêle</recipient> avec du <ingredient quantite=2>vinaigre</ingredient> et le <operation temps=6.86min espace=8>faire chauffer quelques instants</operation>. verser le <ingredient quantite=2>vinaigre</ingredient> chaud sur la salade et déguster tout de suite. cette salade doit être servie tiède.
+]]>
+ </preparation>
+</recette>

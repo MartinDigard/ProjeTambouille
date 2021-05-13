@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50042">
+ <titre>Endives aux lardons, tomates et citron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses endives</p>
+ <p>1 citron</p>
+ <p>2 à 3 tomates</p>
+ <p>1 paquet de lardons (fumés ou non) </p>
+ <p>sel et poivre</p>
+ <p>1 oignon</p>
+ <p>huile d’ olive</p>
+ <p>8 petites pommes de terre (ou 4 grosses) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans la <recipient>poêle</recipient> huilée, <operation temps=6.86min espace=9>faire revenir <ingredient quantite=1>oignons</ingredient> et <ingredient quantite=1>lardons</ingredient></operation>. ajouter ensuite les <ingredient quantite=4>endives</ingredient> coupées en rondelles, et les <ingredient quantite=2>tomates</ingredient> coupées en dés. citronner le tout et <operation temps=6.86min espace=9>laisser mijoter à feu doux (ça ne</operation> doit pas caraméliser). faire cuire les <ingredient quantite=8>pommes de terre</ingredient> à la vapeur. rectifier l’ assaisonnement. servir avec 2 <ingredient quantite=8>petites pommes de terre</ingredient> vapeur par personne ou 1 grosse <ingredient quantite=8>pomme de terre</ingredient>. c’ est délicieux, accompagné de moutarde. pour que ça soit moins calorique, vous pouvez au préalable <operation temps=6.86min espace=9>faire blanchir les <ingredient quantite=1>lardons</ingredient></operation>. même les plus récalcitrants aux <ingredient quantite=4>endives</ingredient> finissent par les apprécier.
+]]>
+ </preparation>
+</recette>

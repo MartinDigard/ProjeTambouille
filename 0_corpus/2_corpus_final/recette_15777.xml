@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15777">
+ <titre>Gâteau d’ Eve</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 pommes</p>
+ <p>60 g de farine</p>
+ <p>175 g de sucre</p>
+ <p>60 ml de lait</p>
+ <p>45 ml d’ huile</p>
+ <p>2 œufs</p>
+ <p>50 ml de crème fraîche</p>
+ <p>1 paquet de levure</p>
+ <p>1 poignée d’ amandes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>beurrez un <recipient>plat</recipient> et garnissez de quartiers de <ingredient quantite=5>pommes</ingredient></operation>. <operation temps=6.86min espace=12>versez la pâte: farine, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>lait</ingredient>, huile, <ingredient quantite=1>levure</ingredient> et un <ingredient quantite=1>œuf</ingredient></operation>. <operation temps=20.0min espace=12>glissez au <recipient>four</recipient> pendant 20 min à 180 ° c (thermostat 6</operation>). pendant ce temps, faire un gratin: 50 ml de <ingredient quantite=1>crème fraîche</ingredient>, 75 g de <ingredient quantite=1>sucre</ingredient>, 1 <ingredient quantite=1>œuf</ingredient>. <operation temps=6.86min espace=12>ajoutez le gratin, parsemez d’</operation> <ingredient quantite=1>amandes</ingredient> et <operation temps=15.0min espace=12>remettez le gâteau 15 min au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

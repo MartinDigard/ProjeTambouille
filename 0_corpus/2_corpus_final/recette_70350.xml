@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70350">
+ <titre>Porc au concombre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 gr de longe de porc</p>
+ <p>1 oignon</p>
+ <p>2 oeufs</p>
+ <p>1/2 concombre</p>
+ <p>1/2 poivron</p>
+ <p>2 c. à café de vin blanc</p>
+ <p>1 c. à café de sucre</p>
+ <p>1 c. à café d’ huile</p>
+ <p>2 c. à café de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez le <ingredient quantite=1>concombre</ingredient> en 2 dans la longueur</operation> et <operation temps=6.86min espace=10>ôtez ses graines à la petite cuillère</operation>. <operation temps=6.86min espace=10>détaillez - le ensuite en lamelles</operation>. <operation temps=6.86min espace=10>salez légérement</operation> puis <operation temps=5.0min espace=10>laissez reposer 5 min</operation>. <operation temps=6.86min espace=10>faites revenir l’ <ingredient quantite=1>oignon</ingredient> avec le <ingredient quantite=1>porc</ingredient> débité en fines lamelles</operation>. battez les <ingredient quantite=2>oeufs</ingredient> en omelette. rincez le <ingredient quantite=1>concombre</ingredient> et <operation temps=6.86min espace=10>coupez le <ingredient quantite=1>poivron</ingredient> en petit morceaux</operation>. <operation temps=6.86min espace=10>retirez le <ingredient quantite=1>porc</ingredient> et dans la même <recipient>sauteuse</recipient></operation>, <operation temps=6.86min espace=10>faites griller le <ingredient quantite=1>concombre</ingredient> et le <ingredient quantite=1>poivron</ingredient></operation>. dès que les légumes sont grillés, <operation temps=6.86min espace=10>rajoutez le <ingredient quantite=1>porc</ingredient> et les <ingredient quantite=2>oeufs</ingredient></operation> battus et remuez très vite. ajoutez le <ingredient quantite=2>vin blanc</ingredient>, le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=2>sauce</ingredient> au soja. <operation temps=6.86min espace=10>servez avec du riz</operation>
+]]>
+ </preparation>
+</recette>

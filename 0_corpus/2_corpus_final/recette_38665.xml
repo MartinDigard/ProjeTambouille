@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38665">
+ <titre>Restes de riz façon risotto</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 à 10 cuillères à soupe de riz complet cuit </p>
+ <p>2 belles tomates</p>
+ <p>1 petit poivron vert </p>
+ <p>1 gros oignon</p>
+ <p>1 ou 2 gousses d’ ail</p>
+ <p>1 verre de vin blanc</p>
+ <p>50 à 100 g de parmesan selon vos goûts</p>
+ <p>huile d’ olive</p>
+ <p>origan</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire fondre, sans</operation> colorer: <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=1>ail</ingredient> dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>. ajouter le <ingredient quantite=1>poivron</ingredient> émincé, saler, poivrer et continuer la cuisson encore quelques minutes. ajouter les <ingredient quantite=2>tomates</ingredient> pelées, grossièrement coupées, l’ <ingredient quantite=1>origan</ingredient> et mouiller ensuite avec le <ingredient quantite=1>vin</ingredient>. <operation temps=5.0min espace=12>laisser mijoter à découvert, environ 5 min</operation>. le liquide va commencer à réduire. mettre le <ingredient quantite=8>riz</ingredient> sur la préparation aux <ingredient quantite=2>tomates</ingredient>, bien mélanger et attendre que le <ingredient quantite=8>riz</ingredient> soit chaud. pendant ce temps, l’ évaporation du liquide va continuer. surveiller car le <recipient>plat</recipient> doit rester humide. en dernier lieu, ajouter le <ingredient quantite=1>parmesan</ingredient>, bien mélanger et servir dés qu’ il est fondu. variante océane: avant d’ ajouter le <ingredient quantite=8>riz</ingredient>, mettre dans la <recipient>casserole</recipient> crevettes crues décortiquées, anneaux de calamars, moules, etc. quelques filaments de safran donneront aussi une jolie couleur. pour cette recette, je préfère le <ingredient quantite=8>riz complet</ingredient> pour son gout et pour sa tenue. mais du <ingredient quantite=8>riz blanc</ingredient> peut très bien <operation temps=6.86min espace=12>faire l’</operation> affaire. il faudra alors le remuer avec douceur afin qu’ il ne tombe pas en bouillie.
+]]>
+ </preparation>
+</recette>

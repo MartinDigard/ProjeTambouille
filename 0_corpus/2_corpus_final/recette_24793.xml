@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24793">
+ <titre>Mousse rose à la betterave</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>700 g de betteraves crues</p>
+ <p>200 g de pommes de terre</p>
+ <p>1 cuillère à café de ciboulette hachée</p>
+ <p>15 cl de crème fraîche</p>
+ <p>1 pincée de noix de muscade râpée</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=40.0min espace=7>cuisez les <ingredient quantite=1>betteraves</ingredient> dans l’ eau bouillante pendant 40 minutes</operation>. pour savoir si elles sont cuites, piquez - les avec un couteau. on doit pouvoir retirer la lame facilement si elles sont bien tendres. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). epluchez les <ingredient quantite=1>betteraves</ingredient> et <operation temps=6.86min espace=7>enveloppez - les dans un papier aluminium</operation>. faites de même avec les <ingredient quantite=1>pommes de terre</ingredient> non pelées. <operation temps=6.86min espace=7>enfournez ces légumes pour 1 heure de cuisson</operation>. pelez les <ingredient quantite=1>pommes de terre</ingredient> encore chaudes. passez <ingredient quantite=1>betteraves</ingredient> et <ingredient quantite=1>pommes de terre</ingredient> au moulin à légumes. portez la <ingredient quantite=1>crème fraîche</ingredient> à ébullition puis <operation temps=6.86min espace=7>incorporez - la à la purée rose à l’</operation> aide d’ un fouet pour bien l’ aérer. ajoutez la <ingredient quantite=1>noix de muscade</ingredient>, rectifiez l’ assaisonnement puis parsemez de <ingredient quantite=1>ciboulette</ingredient>.
+]]>
+ </preparation>
+</recette>

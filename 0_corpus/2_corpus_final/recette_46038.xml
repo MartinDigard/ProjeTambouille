@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46038">
+ <titre>Palets bretons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 jaune d’ oeuf</p>
+ <p>60 g de beurre salé en pommade</p>
+ <p>lait</p>
+ <p>30 g de sucre</p>
+ <p>75 g de farine tamisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire blanchir le <ingredient quantite=1>jaune</ingredient> avec le</operation> <ingredient quantite=1>sucre</ingredient>, incorporer le beurre, et verser une lichette de lait. ajouter la farine, petit à petit, en mélangeant, et former une boule. <operation temps=30.0min espace=7>laisser reposer 30 min au <recipient>réfrigérateur</recipient></operation>. former un long bondin, et le <operation temps=6.86min espace=7>laisser reposer 1 h au <recipient>réfrigérateur</recipient></operation>. découper une dizaine de palets dans le boudin, et les déposer sur une plaque recouverte de papier sulfurisé. <operation temps=6.86min espace=7>aplatir les palets avec la paume de la main,</operation> et badigeonner chaque palet de lait. tracer des croisillons à la fourchette sur la surface des palets, et enfourner pendant 15 à 20 min environ à 200 ° c (th 6 - 7), de façon à ce que la surface des palets soit bien dorée.
+]]>
+ </preparation>
+</recette>

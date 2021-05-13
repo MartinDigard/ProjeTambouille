@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51087">
+ <titre>Riz aux poivrons et aubergines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>120 g de riz</p>
+ <p>1 poivron rouge ou jaune</p>
+ <p>1 aubergine</p>
+ <p>1 échalote</p>
+ <p>basilic</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=1>échalote</ingredient> puis la <operation temps=6.86min espace=7>faire revenir dans une <recipient>poêle</recipient> avec un peu d’ huile d’ olive</operation>. pendant ce temps, couper le <ingredient quantite=1>poivron</ingredient> en fines lamelles, puis l’ ajouter à l’ <ingredient quantite=1>échalote</ingredient>. couper enfin en petits cubes l’ <ingredient quantite=1>aubergine</ingredient> et l’ ajouter à la préparation. saler, poivrer, ajouter le <ingredient quantite=1>basilic</ingredient>. couvrir et <operation temps=6.86min espace=7>laisser cuire à feu moyen afin que les légumes</operation> caramélisent. <operation temps=6.86min espace=7>faire cuire le <ingredient quantite=1>riz</ingredient></operation>. quand le <ingredient quantite=1>riz</ingredient> est cuit, l’ ajouter à la préparation <ingredient quantite=1>poivron</ingredient> / <ingredient quantite=1>aubergine</ingredient>, jusqu’ à <operation temps=6.86min espace=7>obtenir un <ingredient quantite=1>riz</ingredient> doré</operation>. c’ est prêt! on peut ajouter une tomate coupée en dés.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49729">
+ <titre>Crevettes à la citronnelle et au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de crevettes crues (moyennes) </p>
+ <p>2 gousses d’ ail pressées</p>
+ <p>2 cuillères à soupe de curry</p>
+ <p>1 pincée de piment en poudre</p>
+ <p>50 cl de lait de coco</p>
+ <p>1 cuillère à soupe de concentré de tomates</p>
+ <p>4-5 bâtons de citronnelle</p>
+ <p>10 cl de crème</p>
+ <p>2-3 cuillères à soupe de Maïzena</p>
+ <p>1 cuillère à café de bouillon en poudre</p>
+ <p>2 pincées de thym</p>
+ <p>jus de citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=13>faire revenir l’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=1>crevettes</ingredient> saupoudrés de <ingredient quantite=2>curry</ingredient> et de <ingredient quantite=1>piment</ingredient> 5 minutes dans un peu d’</operation> huile. délayer le concentré de <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>bouillon</ingredient> dans le lait de <ingredient quantite=1>coco</ingredient> et verser sur les <ingredient quantite=1>crevettes</ingredient>, mélanger. ajouter les <ingredient quantite=7>bâtons</ingredient> de citronnelle fendus en longueur, <operation temps=0.25min espace=13>couvrir</operation> et <operation temps=15.0min espace=13>laisser cuire doucement 10 à 15 min en</operation> remuant de temps en temps. délayer la maïzena dans la <ingredient quantite=1>crème</ingredient> et ajouter un peu d’ eau si nécessaire, puis verser sur les <ingredient quantite=1>crevettes</ingredient>. porter brièvement à ébullition en remuant bien pour que le mélange épaississe. baisser le feu, ajouter le <ingredient quantite=2>thym</ingredient>, du poivre, un peu de <ingredient quantite=1>jus de citron</ingredient> et du <ingredient quantite=1>sel</ingredient> si nécessaire. <operation temps=3.0min espace=13>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

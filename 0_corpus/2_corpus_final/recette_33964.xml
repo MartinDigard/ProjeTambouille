@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33964">
+ <titre>Tomates monégasques</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 grosses tomates</p>
+ <p>1 boîte (200 g) de thon</p>
+ <p>2 oeufs durs</p>
+ <p>1 grosse boîte (4/4) de macédoine de légumes</p>
+ <p>mayonnaise</p>
+ <p>moutarde forte</p>
+ <p>ail</p>
+ <p>herbes de Provence</p>
+ <p>épices</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+evider les <ingredient quantite=8>tomates</ingredient>, les égoutter et les saler. mélanger dans un grand <recipient>plat</recipient> le <ingredient quantite=1>thon</ingredient>, les <ingredient quantite=2>oeufs durs</ingredient> écrasés avec une fourchette, la <ingredient quantite=1>macédoine de légumes</ingredient>, la <ingredient quantite=1>mayonnaise</ingredient> (~150 - 200 g), la <ingredient quantite=1>moutarde</ingredient> (~2 - 3 cc), l’ <ingredient quantite=1>ail</ingredient> (~2 - 3 gousses), les <ingredient quantite=1>herbes de provence</ingredient> et les différents <ingredient quantite=1>épices</ingredient> (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>... selon les goûts et les préférences). egoutter à nouveau les <ingredient quantite=8>tomates</ingredient>, les <operation temps=6.86min espace=12>remplir du mélange</operation> préparé auparavant et les mettre au <recipient>réfrigérateur</recipient>. les <operation temps=6.86min espace=12>sortir au moment de</operation> <operation temps=2.0min espace=12>servir</operation>. compter une <ingredient quantite=1>tomate</ingredient> par personne en accompagnement et 2 en repas complet. vin rosé très frais
+]]>
+ </preparation>
+</recette>

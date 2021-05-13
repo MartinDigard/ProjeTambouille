@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166995">
+ <titre>Amandier</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le gâteau sec en pâte: </p>
+ <p>250 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>125 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>Pour la garniture: </p>
+ <p>250 g d’ amandes (broyées ou effilées ou en poudre) </p>
+ <p>250 g de sucre</p>
+ <p>8 blancs d’ oeufs (montés en neige) </p>
+ <p>100 g amandes effilées pour recouvrir l’ amandier. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire le <ingredient quantite=1>gâteau sec en pâte</ingredient>: mélanger la farine, le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le beurre fondu. etaler la <ingredient quantite=1>pâte</ingredient> assez fin et la piquer avec une fourchette. <operation temps=6.86min espace=12>laisser en attente</operation>. préparer la <ingredient quantite=1>garniture</ingredient>: monter les 8 blancs d’ <ingredient quantite=1>oeufs</ingredient> en neige. mettre en attente. dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=1>amandes</ingredient> avec le <ingredient quantite=1>sucre</ingredient> puis incorporer les blancs en neige. etaler cette <ingredient quantite=1>garniture</ingredient> sur le <ingredient quantite=1>gâteau</ingredient> avec 1/2 cm de moins de chaque côté (afin que cela ne déborde pas). parsemer les <ingredient quantite=1>amandes</ingredient> effilées sur votre <ingredient quantite=1>amandier</ingredient> et mettre au <recipient>four</recipient> therm 5 - 6 pendant 1/2 à 3/4 d’ heure.
+]]>
+ </preparation>
+</recette>

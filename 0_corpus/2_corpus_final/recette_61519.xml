@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61519">
+ <titre>Lapin à la toscanaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin entier d’ 1, 5 kg</p>
+ <p>1 boîte de tomate pelée (800 g) </p>
+ <p>100 g d’ olives noires</p>
+ <p>100 g d’ olives vertes</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>200 g de champignons</p>
+ <p>1 branche de romarin</p>
+ <p>sel, poivre</p>
+ <p>thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez le <ingredient quantite=1>lapin</ingredient> en plusieurs morceaux</operation>, <operation temps=6.86min espace=9>faites - les</operation> <operation temps=6.86min espace=9>revenir avec l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> jusqu’ au moment ou la viande sera</operation> colorée. ajoutez les <ingredient quantite=1>tomate pelées</ingredient>, les <ingredient quantite=1>olives</ingredient>, les <ingredient quantite=1>champignons</ingredient>, le <ingredient quantite=1>romarin</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>thym</ingredient>. <operation temps=6.86min espace=9>laissez mijoter 1 h environ</operation>. un régal accompagné de frites! chianti
+]]>
+ </preparation>
+</recette>

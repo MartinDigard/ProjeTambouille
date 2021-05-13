@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59218">
+ <titre>Rôti de porc facile et fondant</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc de environ 1 kg</p>
+ <p>2 gousses d’ ail</p>
+ <p>15 cl de vin blanc</p>
+ <p>3 cuillères à soupe d’ huile ou 30 g de beurre</p>
+ <p>laurier, thym, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper l’ <ingredient quantite=2>ail</ingredient> en 2 ou 4 et l’ insérer dans le rôti. <operation temps=6.86min espace=7>faire dorer le rôti dans une <recipient>cocotte</recipient> minute avec de l’ huile ou du beurre</operation>. ajouter alors le <ingredient quantite=1>vin blanc</ingredient>, les herbes, du <ingredient quantite=1>sel</ingredient> et du poivre. fermer la <recipient>cocotte</recipient> - minute et mettre sur feu doux pendant environ 20 minutes. monter alors un peu en pression (feu moyen) et <operation temps=50.0min espace=7>faire cuire pendant environ 50 minutes</operation>. voilà, c’ est prêt. avec le délice de carottes à la crème, c’ est extra.
+]]>
+ </preparation>
+</recette>

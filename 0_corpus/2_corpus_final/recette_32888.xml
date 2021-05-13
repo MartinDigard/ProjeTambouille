@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32888">
+ <titre>Tarte aux fruits de la passion</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée toute prête</p>
+ <p>6 fruits de la passion</p>
+ <p>6 oeufs</p>
+ <p>250 g de sucre</p>
+ <p>100 g de beurre</p>
+ <p>1 grosse cuillère à café de maïzéna diluée dans un peu d’ eau</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire à blanc la pâte <ingredient quantite=1>sablée</ingredient></operation>. vider les <ingredient quantite=6>fruits de la passion</ingredient>. bien mélanger les <ingredient quantite=6>oeufs</ingredient>, la pincée de <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>maïzéna diluée</ingredient> et la pulpe des <ingredient quantite=6>fruits de la passion</ingredient> dans une <recipient>casserole</recipient>. <operation temps=6.86min espace=8>faire chauffer à feu doux en</operation> remuant constamment. quand le mélange épaissit, ajouter le beurre. une fois le beurre fondu, verser la garniture sur la pâte cuite à blanc. mettre au frigo.
+]]>
+ </preparation>
+</recette>

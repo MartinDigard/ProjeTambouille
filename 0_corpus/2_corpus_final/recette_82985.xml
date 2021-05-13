@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82985">
+ <titre>Boeuf à la tzigane</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poivron rouge émincé</p>
+ <p>250/300 g de viande bourguignonne émincée en lamelles par personne</p>
+ <p>2 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 oignon</p>
+ <p>3 gousses d’ ail émincées </p>
+ <p>1 à 2 cuillère à café de paprika</p>
+ <p>4 à 6 carottes émincées en petits carrés</p>
+ <p>1 cube bouillon de bœuf</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlever la peau des <ingredient quantite=1>poivrons</ingredient> (soit en les pelant à vif soit en les mettant sous la grille du <recipient>four</recipient>) et les couper en <ingredient quantite=1>lamelles</ingredient>. <operation temps=6.86min espace=12>faire revenir la <ingredient quantite=1>viande</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et la</operation> <operation temps=6.86min espace=12>sortir de la <recipient>casserole</recipient></operation>. remettre un peu d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et <operation temps=6.86min espace=12>faire revenir <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=3>ail</ingredient></operation>. ajouter le <ingredient quantite=1>paprika</ingredient> puis les <ingredient quantite=1>poivrons</ingredient>. ajouter un peu d’ eau si c’ est trop sec. <operation temps=5.0min espace=12>faire ramollir pendant environ 5 minutes</operation>. remettre la <ingredient quantite=1>viande</ingredient> et les <ingredient quantite=4>carottes</ingredient>. ajouter 4 grands verres d’ eau avec le <ingredient quantite=1>cube de bouillon</ingredient>. <operation temps=6.86min espace=12>laisser mijoter 2 heures sur feu doux</operation>. durant ce laps de temps vérifier l’ assaisonnement et rectifier au besoin. servir avec des pommes de terre nature qu’ on peut soit <operation temps=6.86min espace=12>faire cuire à part soit</operation> ajouter dans la <recipient>casserole</recipient> 30 minutes avant la fin de la cuisson.
+]]>
+ </preparation>
+</recette>

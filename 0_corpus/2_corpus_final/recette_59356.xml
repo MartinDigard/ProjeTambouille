@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59356">
+ <titre>Madeleines aux Carambars</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>90 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>100 g de sucre semoule</p>
+ <p>55 g de farine</p>
+ <p>55 g de maïzena</p>
+ <p>15 carambars</p>
+ <p>5 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=9>faire fondre le beurre au micro-ondes, pendant 1 min</operation>, <operation temps=20.0min espace=9>laisser refroidir</operation>. dans une <recipient>casserole</recipient>, mettre un fond de lait et les 15 <ingredient quantite=1>carambars</ingredient> à fondre, remuer de temps en temps. pendant ce temps, mélanger le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=3>oeufs</ingredient>, jusqu’ à ce que le mélange mousse. puis incorporer la farine et la fleur de maïs. bien mélanger. incorporer le beurre fondu à ce mélange. puis les carambars fondus. mettre dans le <recipient>moule</recipient> à madeleine sans trop <operation temps=6.86min espace=9>remplir</operation>. <operation temps=4.0min espace=9>faire cuire 4 min à 200 ° c (thermostat 6), puis 6 min 160 ° c (thermostat 5</operation>). démouler et servir froid bonne dégustation!!
+]]>
+ </preparation>
+</recette>

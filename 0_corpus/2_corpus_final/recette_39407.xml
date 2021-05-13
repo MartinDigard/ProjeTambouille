@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39407">
+ <titre>Fricassée de champignons et quinoa</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de champignons de Paris</p>
+ <p>2 verres de quinoa / 4 verres d´eau</p>
+ <p>ail</p>
+ <p>vin rouge</p>
+ <p>1 brique de sauce sauce tomate</p>
+ <p>1 pincée de paprika</p>
+ <p>huile d´olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites cuire le</operation> <ingredient quantite=2>quinoa</ingredient>: <operation temps=6.86min espace=9>versez une cuillère à soupe d´huile, dans une <recipient>casserole</recipient></operation>. <operation temps=6.86min espace=9>faites rissoler le <ingredient quantite=2>quinoa</ingredient>,</operation> et <operation temps=6.86min espace=9>ajoutez l´eau</operation>. <operation temps=6.86min espace=9>laissez mijoter à feu moyen, jusqu´à ce que les graines aient</operation> doublée de volume (15 min). pendant ce temps, émincez les <ingredient quantite=1>champignons</ingredient>. <operation temps=6.86min espace=9>faites les</operation> <operation temps=6.86min espace=9>revenir, dans une <recipient>poêle</recipient>, avec de l´huile <ingredient quantite=1>d´olive</ingredient></operation>. <operation temps=6.86min espace=9>ajoutez 3 à 4 gousses d´ail écrasées</operation>. <operation temps=5.0min espace=9>laissez mijoter 5 min</operation>. puis déglacer, avec un peu de <ingredient quantite=1>vin rouge</ingredient>. <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>paprika</ingredient>,</operation> puis verser la <ingredient quantite=1>sauce tomate</ingredient>. servir. bon appétit. le <ingredient quantite=2>quinoa</ingredient> est idéal pour les intolérants au gluten, qui ne tolèrent ni pâtes, ni semoule de blé.
+]]>
+ </preparation>
+</recette>

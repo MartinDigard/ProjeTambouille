@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36940">
+ <titre>Pain de thon facile</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de thon en boîte</p>
+ <p>3 oeufs</p>
+ <p>50 cl de crème fraîche</p>
+ <p>persil</p>
+ <p>3 cuillères à soupe de chapelure</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=3>oeufs</ingredient>, incorporer doucement la <ingredient quantite=1>crème</ingredient> fraiche jusqu’ à <operation temps=8.0min espace=7>obtenir un mélange homogène</operation>. ajouter le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=3>chapelure</ingredient>. avant d’ incorporer le <ingredient quantite=1>thon</ingredient> à la préparation, l’ émietter. beurrer un <recipient>moule</recipient> à cake et <operation temps=6.86min espace=7>faire cuire au bain</operation> marie la préparation pendant 1 heure à 200 ° c (thersmostat 6 - 7). a manger froid, accompagné de mayonnaise. bon appétit bien sûr! pour être sûr de la cuisson, <operation temps=6.86min espace=7>enfoncez un couteau et si vous le</operation> <operation temps=6.86min espace=7>ressortez chaud, c’ est prêt!!!!! vin blanc</operation>
+]]>
+ </preparation>
+</recette>

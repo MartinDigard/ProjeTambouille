@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14350">
+ <titre>Flan de courgettes aux herbes de Provence</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oignons</p>
+ <p>4 belles courgettes</p>
+ <p>ail, herbes de Provence</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>3 oeufs</p>
+ <p>sel et poivre</p>
+ <p>1 pot de crème fraîche</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=3>oignons</ingredient>, les émincer. peler 2 <ingredient quantite=4>courgettes</ingredient> sur les 4 puis les couper en petits tronçons. commencer à les <operation temps=6.86min espace=11>faire cuire dans une <recipient>poêle</recipient> avec les <ingredient quantite=3>oignons</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, les <ingredient quantite=1>herbes</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre</operation>. lorsque c’ est presque cuit, éteindre le feu et <operation temps=10.0min espace=11>laisser tiédir</operation>. pendant ce temps, battre 3 <ingredient quantite=3>oeufs</ingredient> entiers avec <ingredient quantite=1>crème fraîche</ingredient> y ajouter la farine et les <ingredient quantite=4>courgettes</ingredient>. bien mélanger. verser dans un <recipient>moule</recipient> cake et mettre au <recipient>four</recipient> préchauffé (à 180 ° c / thermostat 6) pendant 30 mn. <operation temps=6.86min espace=11>laisser refroidir pour</operation> démouler servir entouré d’ <ingredient quantite=3>oeufs</ingredient> durs, de rondellelles de tomates, de crevettes ou surimi, accompagné d’ une mayonnaise. peut être servi nature, mais toujours très frais.
+]]>
+ </preparation>
+</recette>

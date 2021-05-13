@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11372">
+ <titre>Tarte à la mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>1 pâte brisée</p>
+ <p>1 mozzarella</p>
+ <p>sel, poivre, aromates</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>coupez la mozzarella en tranches ainsi que les <ingredient quantite=4>tomates</ingredient></operation>. <operation temps=6.86min espace=7>etalez votre <ingredient quantite=1>pâte</ingredient> dans votre <recipient>moule</recipient></operation>, <operation temps=6.86min espace=7>faites chauffer votre <recipient>four</recipient> à</operation> <operation temps=6.86min espace=7>th7.rangez sur votre <ingredient quantite=1>pâte</ingredient> une tranche de <ingredient quantite=1>tomate</ingredient>, une tranche de mozzarella, une tranche de <ingredient quantite=1>tomate</ingredient>, une tranche de mozzarella, et ainsi de suite jusqu’ à la fin de votre tarte</operation>. <operation temps=0.25min espace=7>salez</operation> et <operation temps=0.5min espace=7>poivrez</operation>, <operation temps=6.86min espace=7>mettez des aromates</operation> (persil, herbes de provence...) <operation temps=6.86min espace=7>mettez un filet d’ huile d’ <ingredient quantite=1>olives</ingredient></operation>. <operation temps=30.0min espace=7>enfournez 30 minutes environs</operation> et <operation temps=6.86min espace=7>surveillez la cuisson</operation>. servir accompagné d’ une salade verte à l’ huile d’ <ingredient quantite=1>olives</ingredient> à peine vinaigrée. pour relever la tarte vous pouvez de temps en temps y ajouter une tranche de poivrons (toutes les 6 tranches consécutives minimum) ou mettre sur le fond de tarte un peu de moutarde.
+]]>
+ </preparation>
+</recette>

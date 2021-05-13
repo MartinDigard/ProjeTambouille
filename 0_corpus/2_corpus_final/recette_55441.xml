@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55441">
+ <titre>Chou vert à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou vert</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>lardons</p>
+ <p>1 boîte de tomates concassées</p>
+ <p>pommes de terre</p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>thym, laurier</p>
+ <p>40 cl de bière blonde</p>
+ <p>1/2 cube de bouillon de boeuf dégraissé</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre un <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> dans un <recipient>autocuiseur</recipient>, y verser les 2 <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient> préalablement épluchés et hachés ainsi que les <ingredient quantite=1>lardons</ingredient>, <operation temps=6.86min espace=14>faire revenir en</operation> remuant de temps en temps. pendant ce temps, couper le <ingredient quantite=1>chou</ingredient> en quartier et le laver. eplucher les <ingredient quantite=1>pommes de terre</ingredient>, les laver, et les couper en quartier aussi. réserver. ajouter les <ingredient quantite=1>tomates</ingredient> dans l’ <recipient>autocuiseur</recipient>, mélanger, mettre le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>laurier</ingredient>, la <ingredient quantite=1>bière</ingredient>, le <ingredient quantite=1>chou</ingredient>, les <ingredient quantite=1>pommes de terre</ingredient>, et <operation temps=6.86min espace=14>recouvrir d’ environ 50 cl d’ eau</operation>. mettre le demi-cube de <ingredient quantite=1>bouillon de boeuf</ingredient> et poivrer. fermer l’ <recipient>autocuiseur</recipient>, et <operation temps=15.0min espace=14>laisser cuire 10 à 15 mn</operation>.
+]]>
+ </preparation>
+</recette>

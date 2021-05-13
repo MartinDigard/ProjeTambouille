@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62641">
+ <titre>Poulet à la perpignanaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulets</p>
+ <p>3 tomates</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 poivrons rouge</p>
+ <p>2 poivrons jaune</p>
+ <p>6 cl de pastis</p>
+ <p>piment de Cayenne</p>
+ <p>purée de piment doux</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+monder et épépiner les <ingredient quantite=3>tomates</ingredient>, puis les couper en dés. emincer les <ingredient quantite=2>oignons</ingredient> finement. couper les <ingredient quantite=2>poivrons</ingredient> en lamelles et les épépiner. saler légèrement le <ingredient quantite=1>poulet</ingredient> et le placer au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 15 min pour une précuisson. <operation temps=6.86min espace=14>faire cuire les <ingredient quantite=2>poivrons</ingredient> à feu moyen dans une <recipient>casserole</recipient> avec un fond d’ huile d’</operation> <ingredient quantite=1>olive</ingredient>, saler. ajouter les <ingredient quantite=2>oignons</ingredient>. saler. ajouter les <ingredient quantite=3>tomates</ingredient>. saler. <operation temps=6.86min espace=14>laisser compoter le tout à feu <ingredient quantite=1>doux</ingredient></operation>. ajouter la <ingredient quantite=1>purée de piment doux</ingredient> et une pointe de <ingredient quantite=1>piment de cayenne</ingredient>, <operation temps=6.86min espace=14>laisser compoter quelques instants</operation> puis ajouter le <ingredient quantite=1>pastis</ingredient> et flamber. <operation temps=6.86min espace=14>sortir le <ingredient quantite=1>poulet</ingredient> du <recipient>four</recipient> et le</operation> déposer sur les <ingredient quantite=2>poivrons</ingredient>. couvrir et <operation temps=6.86min espace=14>laisser finir la cuisson pendant 1 h environ</operation>. ne pas hésiter à ajouter un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> lors de la cuisson de vos légumes. un vin <ingredient quantite=2>rouge</ingredient> un peu gaillard
+]]>
+ </preparation>
+</recette>

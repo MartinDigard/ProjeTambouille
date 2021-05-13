@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35312">
+ <titre>Gratin du boucher</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de viande hachée</p>
+ <p>4 pommes de terre</p>
+ <p>1 verrine de sauce tomate</p>
+ <p>300 g d’ oignons</p>
+ <p>2 échalotes</p>
+ <p>100 g de gruyère râpé</p>
+ <p>quelques olives vertes</p>
+ <p>quelques câpres</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 noix de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). peler et émincer les <ingredient quantite=1>oignons</ingredient> et les <ingredient quantite=2>échalotes</ingredient>. eplucher les <ingredient quantite=4>pommes de terre</ingredient>, les couper en rondelles et les faire revenir à la <recipient>poêle</recipient> dans une <ingredient quantite=1>noix de beurre</ingredient> environ 10 à 15 min. beurrer un <recipient>plat</recipient> allant au <recipient>four</recipient> et disposer une couche de rondelles de <ingredient quantite=4>pommes de terre</ingredient>, une couche de <ingredient quantite=1>viande</ingredient> crue et une couche d’ <ingredient quantite=1>oignons</ingredient>. napper de <ingredient quantite=1>sauce tomate</ingredient>, saupoudrer de <ingredient quantite=1>gruyère râpé</ingredient>, parsemer d’ <ingredient quantite=1>olives</ingredient> et de <ingredient quantite=1>câpres</ingredient>. <operation temps=6.86min espace=18>remplir le <recipient>plat</recipient> en</operation> alternant les couches et en salant et poivrant à chaque fois. parsemer le dessus du <recipient>plat</recipient> de noisettes de <ingredient quantite=1>beurre</ingredient>, arroser d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et <operation temps=30.0min espace=18>faire cuire au <recipient>four</recipient> 30 min</operation>.
+]]>
+ </preparation>
+</recette>

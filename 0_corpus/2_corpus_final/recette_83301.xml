@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83301">
+ <titre>Flan au coco au micro-ondes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 cl de lait concentré sucré </p>
+ <p>40 cl de lait demi écrémé</p>
+ <p>3 œufs entiers</p>
+ <p>80 g de noix de coco râpée</p>
+ <p>80 g de sucre en poudre</p>
+ <p>3 cuillères à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger le lait <ingredient quantite=1>concentré sucré</ingredient>, le lait <ingredient quantite=1>demi écrémé</ingredient>, les <ingredient quantite=3>œufs</ingredient>. ajouter la <ingredient quantite=1>noix de coco</ingredient>. dans un <recipient>plat</recipient> à tarte allant au micro-ondes (type pyrex), mettre le <ingredient quantite=1>sucre en poudre</ingredient>, mouiller avec 3 <ingredient quantite=3>cuillères à soupe</ingredient> d’ <ingredient quantite=3>eau</ingredient>. cuire à 850 w 4 à 5 minutes (selon la puissance de votre <recipient>four</recipient>). verser dans le <recipient>moule</recipient> le mélange précédent et cuire à 600 w pendant 15 minutes.
+]]>
+ </preparation>
+</recette>

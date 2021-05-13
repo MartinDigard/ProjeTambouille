@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10681">
+ <titre>Gouerre aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pommes</p>
+ <p>100 g de sucre</p>
+ <p>7 cl d’ eau de vie</p>
+ <p>50 cl de pâte à crêpe épaisse</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher, épépiner, émincer des <ingredient quantite=4>pommes</ingredient>. les <operation temps=6.86min espace=6>faire macérer avec <ingredient quantite=1>sucre</ingredient> et eau-de-vie</operation>. les incorporer à une pâte à <ingredient quantite=1>crêpe épaisse</ingredient>. verser dans une tourtière beurrée et cuire au <recipient>four</recipient> une heure à 160 ° c (thermostat 5 - 6). poudrer de <ingredient quantite=1>sucre</ingredient>. démouler une fois refroidie.
+]]>
+ </preparation>
+</recette>

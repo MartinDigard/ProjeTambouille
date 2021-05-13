@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112835">
+ <titre>Tartare de jambon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches épaisses de jambon blanc</p>
+ <p>2 tranches épaisses de jambon de pays</p>
+ <p>2 tranches épaisses de jambon blanc fumé</p>
+ <p>1 bocal de tomates confites (à l’ huile) </p>
+ <p>4 petits oignons blancs</p>
+ <p>1 bouquet de ciboulette</p>
+ <p>12 cornichons</p>
+ <p>2 cuillères à café de moutarde</p>
+ <p>2 cuillères à soupe d’ huile d’ olive. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- taillez les <ingredient quantite=2>tranches de jambon</ingredient> en tout <ingredient quantite=1>petit</ingredient> dés. epluchez et hachez les <ingredient quantite=4>oignons</ingredient>. <operation temps=6.86min espace=9>hachez également les <ingredient quantite=1>cornichons</ingredient></operation>. <operation temps=6.86min espace=9>détaillez les <ingredient quantite=1>tomates</ingredient> en <ingredient quantite=4>petits</ingredient> dés</operation>. lavez, séchez, et <operation temps=6.86min espace=9>ciselez la <ingredient quantite=1>ciboulette</ingredient></operation>. <operation temps=6.86min espace=9>mélangez les ingrédients,</operation> et <operation temps=6.86min espace=9>rajoutez l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et la <ingredient quantite=2>moutarde</ingredient></operation>. <operation temps=6.86min espace=9>moulez avec un emporte pièce</operation>, <operation temps=20.0min espace=9>couvrez et placez au frais au moins 20 minutes</operation>. <ingredient quantite=1>petit</ingredient> plus: gardez l’ <ingredient quantite=2>huile</ingredient> des <ingredient quantite=1>tomates confites</ingredient>, <operation temps=6.86min espace=9>mélangez la avec un vinaigre de noix</operation>. <operation temps=6.86min espace=9>posez le tartare</operation> moulé sur un mélange de salade croquante et <operation temps=6.86min espace=9>arrosez le tout avec la vinaigrette</operation>. n’ hésitez pas à <operation temps=6.86min espace=9>laissez plus longtemps le mélange au frigo, ainsi les saveurs se</operation> mélangeront mieux.
+]]>
+ </preparation>
+</recette>

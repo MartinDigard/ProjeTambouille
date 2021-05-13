@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60477">
+ <titre>Salade de poivrons grillés</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poivrons verts</p>
+ <p>1 poivron rouge</p>
+ <p>1 gros piment vert</p>
+ <p>1 tomate</p>
+ <p>5 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> à 280 ° c (thermostat 9). placer sur une plaque les <ingredient quantite=2>poivrons</ingredient>, le piment, la <ingredient quantite=1>tomate</ingredient> et mettre au <recipient>four</recipient> pour 30 minutes de cuisson. a mi-cuisson, retirer du <recipient>four</recipient> puis retourner les légumes, et ajouter l’ <ingredient quantite=5>ail</ingredient>. quand les légumes sont grillés, retirer du <recipient>four</recipient>. peler les légumes délicatement puis épépiner les <ingredient quantite=2>poivrons</ingredient>, le piment et la <ingredient quantite=1>tomate</ingredient>. ensuite mixer grossièrement le tout afin d’ <operation temps=8.0min espace=12>obtenir un mélange homogène</operation>. attention le mélange ne doit pas être totalement broyé. ajouter l’ huile d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. verser le tout dans un <recipient>plat</recipient> de présentation et placer au frais. cette salade peut être complétée par des <ingredient quantite=1>olives</ingredient> noires, du thon émietté et des oeufs durs.
+]]>
+ </preparation>
+</recette>

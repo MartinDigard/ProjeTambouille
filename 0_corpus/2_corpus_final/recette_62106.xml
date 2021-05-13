@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62106">
+ <titre>Tarte aux pommes et à la confiture de figues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>5 pommes</p>
+ <p>1 citron</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ <p>1 sachet de sucre vanillée</p>
+ <p>1 cuillère à soupe de confiture de figues</p>
+ <p>1 pincée de cannelle en poudre</p>
+ <p>1 petite cuillère à café de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=10>pelez</operation> et <operation temps=6.86min espace=10>coupez les <ingredient quantite=5>pommes</ingredient> en tranches moyennes</operation>. puis <operation temps=6.86min espace=10>mettez - les dans un récipient avec un jus de <ingredient quantite=1>citron</ingredient> et un zeste</operation> (<operation temps=6.86min espace=10>conservez le <ingredient quantite=1>citron</ingredient></operation> restant), du <ingredient quantite=1>rhum</ingredient>, du <ingredient quantite=1>sucre</ingredient> et de la <ingredient quantite=1>cannelle</ingredient> pour les <operation temps=6.86min espace=10>faire légèrement</operation> macérer. <operation temps=6.86min espace=10>étalez la <ingredient quantite=1>pâte</ingredient> et percez - la à l’</operation> aide d’ une fourchette. répandre dessus la <ingredient quantite=1>confiture de figues</ingredient>. puis <operation temps=6.86min espace=10>disposez les <ingredient quantite=5>pommes</ingredient> en forme de fleur</operation>. <operation temps=30.0min espace=10>enfournez 30 min dans un <recipient>four</recipient> préchauffé à 180 degrés, soit thermostat 6</operation>. une fois sorti du <recipient>four</recipient>, <operation temps=6.86min espace=10>faites un caramel</operation>: <operation temps=1.0min espace=10>mettez 1 min au micro-ondes 2 lamelles de <ingredient quantite=1>citron</ingredient> avec 4 <ingredient quantite=1>sucres</ingredient> et un peu d’ eau</operation>. utilisez la tranche les tranches de <ingredient quantite=1>citron</ingredient> pour décorer la tarte et <operation temps=6.86min espace=10>nappez les <ingredient quantite=5>pommes</ingredient> du caramel</operation>.
+]]>
+ </preparation>
+</recette>

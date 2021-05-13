@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55727">
+ <titre>Gâteau 8 minutes choco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt nature ou 1 petit pot de crème fraîche</p>
+ <p>125 g de farine (utiliser le pot de yaourt!) </p>
+ <p>125 g de sucre</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>3 oeufs</p>
+ <p>125 g de cacao en poudre</p>
+ <p>125 g de beurre</p>
+ <p>125 g de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients sauf le beurre. <operation temps=1.0min espace=11>faire fondre le beurre au micro-ondes 1 minute dans un <recipient>plat</recipient> à cake et bien</operation> beurrer le <recipient>plat</recipient>. verser le beurre fondu dans la préparation, bien mélanger et verser le tout dans le <recipient>plat</recipient>. passer 8 minutes au micro-ondes. <operation temps=20.0min espace=11>laisser refroidir</operation>.
+]]>
+ </preparation>
+</recette>

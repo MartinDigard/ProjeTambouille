@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40038">
+ <titre>Cake au miel et au café</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>300 g de miel</p>
+ <p>100 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>1 sachet de levure</p>
+ <p>20 cl de café fort</p>
+ <p>100 g de noix (amandes ou noisettes) hâchées</p>
+ <p>75 g de raisins secs (facultatif) </p>
+ <p>3 cuillères à café de cannelle</p>
+ <p>2 cuillères à café de muscade, de gingembre et de clous de girofle</p>
+ <p>Pour le glaçage: </p>
+ <p>10 cl de café fort</p>
+ <p>70 g de miel</p>
+ <p>70 g de crème épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faites chauffer le <ingredient quantite=1>miel</ingredient> avec le beurre</operation>. <operation temps=6.86min espace=15>ajoutez un <ingredient quantite=1>oeuf</ingredient> entier, deux jaunes</operation> (<operation temps=6.86min espace=15>réservez les blancs d’ <ingredient quantite=3>oeufs</ingredient>), et le <ingredient quantite=1>café</ingredient></operation>. ajoutez la farine tamisée, avec la <ingredient quantite=1>levure</ingredient>, les épices, puis les <ingredient quantite=1>noix</ingredient>, et les <ingredient quantite=1>raisins secs</ingredient>, si vous aimez... battez les blancs en neige ferme, et <operation temps=6.86min espace=15>incorporez - les</operation> délicatement à la préparation précédente. <operation temps=6.86min espace=15>versez la pâte dans un <recipient>moule</recipient> à cake beurré,</operation> et <operation temps=6.86min espace=15>faites cuire environ 40 min, à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=15>préparez le</operation> <ingredient quantite=1>glaçage</ingredient>: <operation temps=6.86min espace=15>faites fondre le <ingredient quantite=1>miel</ingredient> avec le <ingredient quantite=1>café</ingredient></operation>. hors du feu, <operation temps=6.86min espace=15>ajoutez la <ingredient quantite=1>crème</ingredient></operation>. servir froid.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59295">
+ <titre>Pâtes au poulet et aux légumes du soleil</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse aubergine</p>
+ <p>1 courgette</p>
+ <p>3 escalopes de poulet émincées</p>
+ <p>2 gousses d’ ail</p>
+ <p>300 g de petites pâtes (orechiettes...) </p>
+ <p>300 g de sauce tomate (maison si possible) </p>
+ <p>quelques feuilles de basilic</p>
+ <p>sel, poivre</p>
+ <p>parmesan (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir dans une <recipient>poêle</recipient> huilée l’ <ingredient quantite=1>aubergine</ingredient> et la <ingredient quantite=1>courgette</ingredient></operation> coupées en dés et l’ <ingredient quantite=2>ail</ingredient> haché. rajouter le <ingredient quantite=3>poulet émincé</ingredient>, <operation temps=6.86min espace=11>faire revenir quelques minutes</operation>. ajouter la sauce tomate puis <operation temps=20.0min espace=11>laisser mijoter environ 20 minutes</operation>. ajouter le <ingredient quantite=1>basilic</ingredient> un peu avant la fin de cuisson. si la sauce est trop liquide, <operation temps=6.86min espace=11>laisser la s’</operation> évaporer un peu. pendant ce temps, <operation temps=6.86min espace=11>faire cuire les <ingredient quantite=1>pâtes</ingredient></operation>. lorsqu’ elles sont cuites, les rajouter dans la préparation, mélanger et <operation temps=5.0min espace=11>laisser cuire encore 5 minutes</operation>. au moment de <operation temps=6.86min espace=11>servir, parsement de copaux de <ingredient quantite=1>parmesan</ingredient></operation>. c’ est un <recipient>plat</recipient> rapide à <operation temps=6.86min espace=11>faire, et équilibré (légumes, féculents & viande, sans matières grasses ou presque!</operation>).
+]]>
+ </preparation>
+</recette>

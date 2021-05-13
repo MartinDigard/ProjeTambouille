@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65348">
+ <titre>Paupiettes à la mérignicaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 paupiettes de dinde ou de veau</p>
+ <p>4 tomates</p>
+ <p>4 pommes de terre</p>
+ <p>100 g champignons de Paris émincés</p>
+ <p>50 cl de crème fraiche</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>sel, poivre</p>
+ <p>thym, persil, herbes de Provence</p>
+ <p>1 oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). dans un <recipient>plat</recipient> à <recipient>four</recipient>, disposer au fond les <ingredient quantite=4>tomates émincées</ingredient>, les <ingredient quantite=4>pommes de terre</ingredient> en dés et les champignons. assaisonner avec le <ingredient quantite=1>sel</ingredient>, le poivre, l’ <ingredient quantite=1>oignon émincé</ingredient> et les aromates. poser dessus les <ingredient quantite=4>paupiettes</ingredient> préalablement salées et poivrées. arroser de <ingredient quantite=1>vin blanc</ingredient> et de <ingredient quantite=1>crème fraiche</ingredient> mélangés. <operation temps=0.25min espace=13>couvrir</operation> et mettre à cuire au <recipient>four</recipient> chaud pendant 1 h.
+]]>
+ </preparation>
+</recette>

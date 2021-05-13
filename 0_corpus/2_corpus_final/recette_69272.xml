@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69272">
+ <titre>Thon à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 ou 2 cuillères à soupe d’ huile</p>
+ <p>2 tranche de thon ou d’ espadon (fraîches ou surgelées) </p>
+ <p>1 petite boîte de tomates pelées </p>
+ <p>2 gousses d’ ail hachées ou passées au presse-ail</p>
+ <p>1 morceau de gingembre râpé (tronçon d’ environ 2 cm) </p>
+ <p>sel et poivre</p>
+ <p>curcuma et/ou curry</p>
+ <p>piment facultatif</p>
+ <p>1 cuillères à soupe de sauce soja (ou plus) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir très rapidement (1 ou 2 minutes) dans l’ huile l’ <ingredient quantite=2>ail</ingredient> et le gingembre</operation>. ajouter épices <ingredient quantite=1>sel poivre</ingredient> (et piment le cas échéant) puis les <ingredient quantite=2>tranches</ingredient> de poisson. ajouter les <ingredient quantite=1>tomates</ingredient>. <operation temps=20.0min espace=9>faire cuire environ 20 minutes et en fin de cuisson</operation> ajouter la <ingredient quantite=1>sauce soja</ingredient>. c’ est prêt. <operation temps=3.0min espace=9>servir avec du riz</operation>. j’ utilise des <ingredient quantite=1>tomates</ingredient> en <ingredient quantite=1>boîte</ingredient>. c’ est ma vraie recette. mais on doit pouvoir la <operation temps=6.86min espace=9>faire avec des <ingredient quantite=1>tomates</ingredient> fraîches</operation>. certains diront que c’ est meilleur bien sûr.
+]]>
+ </preparation>
+</recette>

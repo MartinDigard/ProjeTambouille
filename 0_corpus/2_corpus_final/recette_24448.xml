@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24448">
+ <titre>Cabillaud au four à la provençale</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 filets de cabillaud</p>
+ <p>6 oignons</p>
+ <p>6 pommes de terre</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ <p>6 tomates</p>
+ <p>20 à 25 olives noires dénoyautées</p>
+ <p>2 branches de thym</p>
+ <p>2 feuilles de laurier</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=6>pommes de terre</ingredient> à l’ eau salée les peler et les couper en rondelles. réserver. laver les <ingredient quantite=6>tomates</ingredient> et les détailler en rondelles également, puis peler et couper finement les <ingredient quantite=6>oignons</ingredient>. dans une <recipient>poêle</recipient>, faire fondre les <ingredient quantite=6>oignons</ingredient> dans 3 <ingredient quantite=6>cuillères à soupe</ingredient> d’ <ingredient quantite=6>huile</ingredient> d’ <ingredient quantite=6>olive</ingredient> chaude. dans un <recipient>plat</recipient> à gratin huilé, déposer au fond les <ingredient quantite=6>pommes de terre</ingredient>, puis <operation temps=6.86min espace=12>recouvrir avec les <ingredient quantite=6>oignons</ingredient> et les <ingredient quantite=6>tomates</ingredient></operation>. ajouter ensuite les <ingredient quantite=6>filets</ingredient> de poisson par - dessus puis parsemer d’ <ingredient quantite=6>olives noires dénoyautées</ingredient>, de <ingredient quantite=2>thym</ingredient> et de <ingredient quantite=2>laurier</ingredient>. napper le dessus d’ <ingredient quantite=6>huile</ingredient> d’ <ingredient quantite=6>olive</ingredient> et <operation temps=30.0min espace=12>faire cuire au <recipient>four</recipient> à 210 ° c (thermostat 7) pendant 30 min</operation>.
+]]>
+ </preparation>
+</recette>

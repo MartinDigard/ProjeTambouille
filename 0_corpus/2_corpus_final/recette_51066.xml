@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51066">
+ <titre>Mousse au fruit de la passion</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 gros maracudjas (fruits de la passion) </p>
+ <p>4 jaunes d’ oeuf</p>
+ <p>100 g de sucre</p>
+ <p>300 g de crème fouettée (chantilly) </p>
+ <p>5 feuilles de gélatine</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>videz la pulpe des <ingredient quantite=1>maracudjas</ingredient> dans un bol à mixer</operation>, <operation temps=6.86min espace=9>ajoutez de l’ eau de façon à</operation> <operation temps=6.86min espace=9>obtenir 50 cl de pulpe</operation>, <operation temps=6.86min espace=9>mixez</operation> et <operation temps=6.86min espace=9>passez la pulpe au tamis (pour</operation> enlever les graines noires). <operation temps=6.86min espace=9>ajoutez un peu de <ingredient quantite=1>cannelle</ingredient> à la pulpe</operation>. <operation temps=6.86min espace=9>mélangez les <ingredient quantite=4>jaunes</ingredient> d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient>, y <operation temps=6.86min espace=9>ajoutez la pulpe</operation> et <operation temps=6.86min espace=9>faire cuire rapidement</operation>. dès l’ ébullition ajoutez les <ingredient quantite=5>feuilles de gélatine</ingredient> (préalablement ramollies dans l’ eau) et <operation temps=20.0min espace=9>laissez refroidir</operation>. quand l’ appareil est froid, ajoutez la <ingredient quantite=1>crème fouettée</ingredient>. <operation temps=6.86min espace=9>versez dans un <recipient>moule</recipient> ou un ramequin</operation>, <operation temps=6.86min espace=9>laissez prendre au moins 3 heures au <recipient>réfrigérateur</recipient> et servir avec des tuiles ou des biscuits à la cuillère</operation>. bonne dégustation! je conseille même de <operation temps=6.86min espace=9>laisser prendre une nuit au <recipient>réfrigérateur</recipient> pour une meilleure tenue</operation>. j’ ai servi cette mousse lors d’ un anniversaire et j’ ai remporté un franc succès! vin liquoreux
+]]>
+ </preparation>
+</recette>

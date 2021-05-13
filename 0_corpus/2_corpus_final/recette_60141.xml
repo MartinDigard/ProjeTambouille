@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60141">
+ <titre>Courgettes farcies à la viande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 courgettes</p>
+ <p>450 gr de viande hachée (boeuf, boeuf et porc) </p>
+ <p>1 oignon haché</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>1/2 bouquet de persil haché</p>
+ <p>1 cuillère à café de basilic seché et origan</p>
+ <p>2 tomates rouges pelées et coupées en quartiers</p>
+ <p>150 g de miettes de pain</p>
+ <p>100 g de parmesan râpé</p>
+ <p>du gruyère ou emmental râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). <ingredient quantite=1>couper</ingredient> les <ingredient quantite=4>courgettes</ingredient> en moitié sur le long, vider l’ intérieur et réserver. cuire la <ingredient quantite=1>viande</ingredient> et écraser avec une fourchette. ajouter le <ingredient quantite=1>persil</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et les épices. cuire ce mélange 5 minutes. dans une autre <recipient>casserole</recipient>, <operation temps=6.86min espace=14>faire fondre la chair des <ingredient quantite=4>courgettes</ingredient> et les <ingredient quantite=2>tomates</ingredient> dans 5 cl d’ eau</operation>. lorsque ce mélange est bien homogène, ajouter la <ingredient quantite=1>viande</ingredient>, les <ingredient quantite=1>miettes de pain</ingredient> ainsi que le <ingredient quantite=1>parmesan</ingredient>. <operation temps=6.86min espace=14>garnir les <ingredient quantite=4>courgettes</ingredient> et les</operation> saupoudrer de fromage, les placer dans un <recipient>plat</recipient> et les passer au <recipient>four</recipient> pendant 15 à 20 min (jusqu’ à ce qu’ elles soient bien gratinées). accompagner d’ une purée de pommes de terre.
+]]>
+ </preparation>
+</recette>

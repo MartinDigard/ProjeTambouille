@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80293">
+ <titre>Spaghetti aux anchois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de spaghetti</p>
+ <p>10 filets d’ anchois à l’ huile</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe de persil</p>
+ <p>3 cuillères à soupe de parmesan</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=10>faire dessaler les <ingredient quantite=1>filets</ingredient> d’ <ingredient quantite=1>anchois</ingredient> pendant 1 h: les</operation> retirer de l’ <ingredient quantite=1>huile</ingredient> et les tremper dans un bol d’ eau ; changer l’ eau 2 à 3 fois. <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>spaghettis</ingredient> (pas trop de sel dans l’ eau car les <ingredient quantite=1>anchois</ingredient> sont déjà salés!</operation>). pendant ce temps, hacher le <ingredient quantite=2>persil</ingredient> et l’ <ingredient quantite=2>ail</ingredient> ensemble. mettre les <ingredient quantite=1>filets</ingredient> d’ <ingredient quantite=1>anchois</ingredient> dans une <recipient>poêle</recipient> (prévoir une grande <recipient>poêle</recipient>) avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> à feu doux quelques minutes, puis <operation temps=6.86min espace=10>incorporez l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=2>persil</ingredient> (attention il ne</operation> faut pas que l’ <ingredient quantite=2>ail</ingredient> brûle). une fois cuits, mettre les <ingredient quantite=1>spaghettis</ingredient> dans la <recipient>poêle</recipient>, mélanger puis ajouter le <ingredient quantite=3>parmesan</ingredient> et mélanger à nouveau. servir, c’ est prêt!c’ est rapide, simple et il faut toujours avoir une boîte d’ <ingredient quantite=1>anchois</ingredient> chez soi pour <operation temps=6.86min espace=10>faire un <recipient>plat</recipient> original et rapide</operation>!
+]]>
+ </preparation>
+</recette>

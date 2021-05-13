@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82420">
+ <titre>Crème à la rose</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 cl de sirop de rose</p>
+ <p>8 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>100 g de sucre</p>
+ <p>30 g de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>sucre</ingredient> et les jaunes et fouetter énergiquement jusqu’ à ce que le mélange blanchisse. ajouter la <ingredient quantite=1>crème</ingredient>, le lait et le <ingredient quantite=1>sirop de rose</ingredient> puis bien mélanger. verser la préparation dans des moules et <operation temps=30.0min espace=8>faire cuire à <recipient>four</recipient> très doux au <recipient>bain - marie</recipient> pendant 30 minutes</operation>. avant de <operation temps=2.0min espace=8>servir</operation>, saupoudrer de <ingredient quantite=1>sucre cassonade</ingredient> et passer sous le <recipient>gril</recipient> très chaud.
+]]>
+ </preparation>
+</recette>

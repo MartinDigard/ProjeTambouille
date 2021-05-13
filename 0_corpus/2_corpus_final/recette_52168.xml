@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52168">
+ <titre>Brochettes de poulets marinées orange, miel, épices et citron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de filets de poulets coupés en dés</p>
+ <p>25 cl de jus d’ orange</p>
+ <p>le jus d’ 1 citron</p>
+ <p>1 cuillère à soupe de miel doux (miel de bruyère ou de romarin) </p>
+ <p>1 cuillère à café d’ ail en poudre</p>
+ <p>1 cuillère à café de mélange d’ épices (clous de girofle, anis, poivre, coriandre) </p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel</p>
+ <p>8 pics a brochettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>miel</ingredient> et je <ingredient quantite=1>jus</ingredient> d’ orange dans un <recipient>saladier</recipient>, mélanger bien. ajouter les <ingredient quantite=1>épices</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient> et l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, mélanger à nouveau. placer les dés de <ingredient quantite=1>poulets</ingredient> dans la marinade et <operation temps=20.0min espace=12>laisser mariner 20 minutes au moins</operation>. <operation temps=6.86min espace=12>sortir le <ingredient quantite=1>poulet</ingredient> de sa marinade</operation>, préparer les <ingredient quantite=8>brochettes</ingredient> et garder le <ingredient quantite=1>jus</ingredient>. pendant la cuisson des <ingredient quantite=8>brochettes</ingredient>, mettre le <ingredient quantite=1>jus</ingredient> de la marinade dans une petite <recipient>casserole</recipient> et <operation temps=10.0min espace=12>faire réduire 10 minutes à feu doux</operation>. lorsque les <ingredient quantite=8>brochettes</ingredient> sont prêtes, <operation temps=6.86min espace=12>servir avec du riz complet et la marinade " réduite " comme sauce d’</operation> accompagnement. c’ est prêt. ce type de marinade peut être utilisé avec du <ingredient quantite=1>poulet</ingredient> rôti, mariné entier puis cuit au <recipient>four</recipient> et arrosé de la marinade pendant la cuisson... vin blanc sec
+]]>
+ </preparation>
+</recette>

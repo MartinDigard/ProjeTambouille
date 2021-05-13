@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45311">
+ <titre>Ris de veau alla cacciatora</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de ris de veau</p>
+ <p>4 5 tomates bien mûres</p>
+ <p>100 g d’ olives noires</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 oignons moyens</p>
+ <p>quelques brins de romarin frais</p>
+ <p>1 carotte</p>
+ <p>1 pincée de muscade</p>
+ <p>3 baies de genièvre </p>
+ <p>éventuellement, 1 bâton de cannelle</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+retirer les cartilages des <ingredient quantite=1>ris de veau</ingredient>. les plonger dans un court bouillon froid, et les <operation temps=5.0min espace=12>faire blanchir 5 min à</operation> <operation temps=6.86min espace=12>partir de l’ ébullition</operation>. oter la membrane qui recouvre les <ingredient quantite=1>ris de veau</ingredient>, et les découper en morceaux. réserver. <operation temps=6.86min espace=12>faire blondir les <ingredient quantite=3>oignons</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter l’ <ingredient quantite=1>ail</ingredient>, la <ingredient quantite=1>carotte</ingredient> émincée, les <ingredient quantite=4>tomates</ingredient> pelées et épépinées, les <ingredient quantite=1>olives</ingredient>, le <ingredient quantite=1>romarin</ingredient> et les épices. si la sauce est trop épaisse, rajouter un coulis de <ingredient quantite=4>tomates</ingredient>. <operation temps=6.86min espace=12>laisser cuire à feu <ingredient quantite=1>moyen</ingredient> un bon 1/4 d’ heure</operation>. ajouter les <ingredient quantite=1>ris de veau</ingredient>, <operation temps=6.86min espace=12>couvrir,</operation> et <operation temps=30.0min espace=12>laisser mijoter à feu doux 30 min environ</operation>. chianti antinori, ménetou - salon rouge, etc. (vin rouge pas trop corsé)
+]]>
+ </preparation>
+</recette>

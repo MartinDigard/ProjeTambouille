@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81446">
+ <titre>Saumon à la mangue</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de filet (ou pavé) de saumon </p>
+ <p>1 mangue bien mûre</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>saumon</ingredient> en cubes et retirer les arêtes. <operation temps=6.86min espace=5>faire revenir le <ingredient quantite=1>saumon</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>sauteuse</recipient></operation>. saler et poivrer. une fois que le <ingredient quantite=1>saumon</ingredient> est <ingredient quantite=1>bien</ingredient> doré, incorporer la <ingredient quantite=1>mangue</ingredient> coupée en gros cubes et <operation temps=6.86min espace=5>faire mijoter jusqu’ à ce que les fruits soient presque en compote, soit une dizaine de minutes environ</operation>. servir <ingredient quantite=1>bien</ingredient> chaud! peut être servi seul ou accompagné d’ un riz au safran pour les gros mangeurs! vin blanc d’ alsace
+]]>
+ </preparation>
+</recette>

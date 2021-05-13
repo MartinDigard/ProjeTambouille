@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45853">
+ <titre>Lapin en croûte à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin découpé en morceaux</p>
+ <p>moutarde</p>
+ <p>beurre</p>
+ <p>2 gousses d’ ail</p>
+ <p>100 g de lard fumé en tranches</p>
+ <p>3 ou 4 pommes de terre</p>
+ <p>1 bouteille de riesling (ou autre vin du même type) </p>
+ <p>200 g de pâte feuilletée</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+badigeonner les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> de <ingredient quantite=1>moutarde</ingredient>. frotter l’ intérieur d’ une <recipient>terrine</recipient> avec de l’ <ingredient quantite=2>ail</ingredient> et l’ enduire de beurre. ranger dedans les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient>. saler, poivrer, ajouter le <ingredient quantite=1>thym</ingredient> le <ingredient quantite=1>laurier</ingredient>, les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> épluchées, les <ingredient quantite=3>pommes de terre</ingredient> coupées en <ingredient quantite=1>morceaux</ingredient> puis arroser avec le vin blanc. disposer les bardes de <ingredient quantite=1>lard</ingredient> au dessus. <operation temps=6.86min espace=14>recouvrir avec la <ingredient quantite=1>pâte</ingredient> feuilletée, la</operation> badigeonner de <ingredient quantite=1>jaune</ingredient> d’ ouef, <operation temps=6.86min espace=14>faire une cheminée au centre</operation>. mettre au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant environ 2 h (à surveiller). lorsqu’ en cours de cuisson, la <ingredient quantite=1>pâte</ingredient> est assez cuite (dorée), la couvrir de papier aluminium.
+]]>
+ </preparation>
+</recette>

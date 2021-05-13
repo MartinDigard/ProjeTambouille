@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43479">
+ <titre>Dessert léger aux fruits de la passion</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 mangue</p>
+ <p>8 à 9 fruits de la passion</p>
+ <p>1/2 litre de lait</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>4 oeufs</p>
+ <p>75 g de sucre</p>
+ <p>50 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>mangue</ingredient> en petits morceaux, et vider les <ingredient quantite=8>fruits de la passion</ingredient>. mélanger délicatement les <ingredient quantite=8>fruits</ingredient> ensemble, et les disposer dans le fond d’ un <recipient>plat</recipient> assez creux (type grand <recipient>saladier</recipient>). réserver. préparer une crème patissière: faire bouillir 1/2 l de <ingredient quantite=1>lait</ingredient> avec les 2 <ingredient quantite=2>sachets de sucre vanillé</ingredient>. pendant ce temps, mélanger 3 jaunes d <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=2>sucre</ingredient>. on doit <operation temps=6.86min espace=11>obtenir un mélange lisse</operation>. rajouter la farine, et remuer énergiquement (pâte onctueuse). incorporer le <ingredient quantite=1>lait</ingredient> et mélanger. remettre le tout sur le feu (feux doux), et <operation temps=6.86min espace=11>laisser epaissir la crème sans s’</operation> arrêter de tourner. <operation temps=20.0min espace=11>laisser refroidir</operation>. une fois que la crème pâtissière a refroidi, la mettre sur les <ingredient quantite=8>fruits</ingredient> dans le <recipient>saladier</recipient>. battre 4 blancs en neige, et en <operation temps=6.86min espace=11>recouvrir les <ingredient quantite=8>fruits</ingredient> et la crème patissière</operation>. mettre le <recipient>saladier</recipient> 3 min au grill, pour <operation temps=6.86min espace=11>faire dorer les blancs en neige</operation>. <operation temps=6.86min espace=11>laisser refroidir,</operation> et conserver au frigo avant de <operation temps=2.0min espace=11>servir</operation>.
+]]>
+ </preparation>
+</recette>

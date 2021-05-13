@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93922">
+ <titre>Courgettes et poulet épicés en chausson</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 rouleaux de pâte feuilletée</p>
+ <p>2 courgettes</p>
+ <p>150 g de restes de poulet cuit</p>
+ <p>1 yaourt</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cs de garam massala ou de curry</p>
+ <p>1 pomme</p>
+ <p>piment, sel, poivre (selon votre goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+moulinez ou <operation temps=6.86min espace=10>râpez les <ingredient quantite=2>courgettes</ingredient></operation>. les <operation temps=10.0min espace=10>faire cuire doucement dans une <recipient>poêle</recipient> 10 min</operation>. pendant ce temps, moulinez l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>poulet</ingredient>, la <ingredient quantite=1>pomme</ingredient>. <operation temps=3.0min espace=10>ajoutez les</operation> <ingredient quantite=2>courgettes</ingredient>, <operation temps=6.86min espace=10>mélangez pour</operation> <operation temps=6.86min espace=10>obtenir une farce grossière</operation>. <operation temps=6.86min espace=10>ajoutez les épices, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=1>yaourt</ingredient></operation>. <operation temps=6.86min espace=10>faire préchauffer votre <recipient>four</recipient> à 210 ° c</operation>. <operation temps=6.86min espace=10>étendez les <ingredient quantite=2>pâtes</ingredient> feuilletées</operation>, <operation temps=6.86min espace=10>découpez les en 4 triangles</operation>. <operation temps=6.86min espace=10>déposez une cuillère à soupe de farce au centre de chaque triangle,</operation> puis <operation temps=6.86min espace=10>rabattez les angles pour</operation> <operation temps=6.86min espace=10>obtenir des triangles</operation>. badigeonnez d’ œuf ou d’ huile. <operation temps=20.0min espace=10>enfournez 20 mn</operation>, <operation temps=6.86min espace=10>régalez vous</operation>
+]]>
+ </preparation>
+</recette>

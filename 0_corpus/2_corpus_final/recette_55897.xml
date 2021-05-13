@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55897">
+ <titre>Salade de courgettes et endives</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 petites courgettes</p>
+ <p>2 tomates</p>
+ <p>1 endive</p>
+ <p>3 cuillérées à soupe d’ huile d’ olive</p>
+ <p>1 cuillérée à soupe de vinaigre balsamique</p>
+ <p>une gousse d’ ail</p>
+ <p>sel, poivre vert, ciboulette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>pelez les <ingredient quantite=2>courgettes</ingredient> crues</operation> et <operation temps=6.86min espace=8>découpez les en rondelles d’ environ 3 mm d’ épaisseur</operation>. <operation temps=6.86min espace=8>emondez les</operation> <ingredient quantite=2>tomates</ingredient> et <operation temps=6.86min espace=8>découpez - les en <ingredient quantite=1>petits</ingredient> cubes</operation>. tranchez l’ endive en fines rondelles. dans un bol, <operation temps=6.86min espace=8>mélangez l’ huile, la <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=1>ail</ingredient></operation> écrasée, le <ingredient quantite=1>vinaigre balsamique</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre <ingredient quantite=1>vert</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. <operation temps=6.86min espace=8>laissez reposer dix minutes pour que l’ <ingredient quantite=3>huile</ingredient> s’</operation> imprègne bien des parfums. <operation temps=6.86min espace=8>mélangez le tout dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=8>servez frais</operation>. la recette peut se réaliser en utilisant seulement les <ingredient quantite=2>courgettes</ingredient>. c’ est une bonne façon de <operation temps=6.86min espace=8>faire apprécier ce légume à ceux qui ne l’</operation> aiment pas quand il est cuit. un vin rouge léger
+]]>
+ </preparation>
+</recette>

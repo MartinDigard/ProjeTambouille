@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50575">
+ <titre>Cappellini aux tomates confites</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de cappellini ou autres pâtes</p>
+ <p>1 boule de mozzarella</p>
+ <p>150 g de tomates confites à l’ huile d’ olive</p>
+ <p>4 tranches de jambon cru</p>
+ <p>2 gousses d’ ail</p>
+ <p>copeaux de parmesan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=7>faire cuire les <ingredient quantite=1>pâtes</ingredient> 3 min dans l’ eau bouillante</operation> salée. pendant ce temps, couper en cubes la <ingredient quantite=1>mozzarella</ingredient> et détailler en morceaux les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=4>jambon</ingredient> cru. presser l’ <ingredient quantite=2>ail</ingredient>. egoutter les <ingredient quantite=1>pâtes</ingredient> et incorporer une partie de l’ <ingredient quantite=1>huile</ingredient> des <ingredient quantite=1>tomates</ingredient> dedans. ajouter la <ingredient quantite=1>mozzarella</ingredient>, les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=4>jambon</ingredient> aux <ingredient quantite=1>pâtes</ingredient> et <operation temps=2.0min espace=7>servir aussitôt</operation> accompagné de l’ <ingredient quantite=2>ail</ingredient> et des <ingredient quantite=1>copeaux de parmesan</ingredient>.
+]]>
+ </preparation>
+</recette>

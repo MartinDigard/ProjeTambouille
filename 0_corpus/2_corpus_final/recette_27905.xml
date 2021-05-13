@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27905">
+ <titre>Riz pilaf</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de riz</p>
+ <p>3 cuillères à soupe d’ huile ou 40 g de beurre</p>
+ <p>50 cl de bouillon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=5>faire chauffer l’</operation> huile dans une <recipient>sauteuse</recipient>. y jeter le <ingredient quantite=1>riz</ingredient> et le <operation temps=6.86min espace=5>laisser devenir transparent puis doré, en</operation> remuant avec une spatule. saler, poivrer et verser le <ingredient quantite=1>bouillon</ingredient>. <operation temps=20.0min espace=5>faire bouillir</operation> puis <operation temps=0.25min espace=5>couvrir</operation> et baisser le feu au minimum. <operation temps=20.0min espace=5>laisser cuire ainsi environ 20 min</operation>. on appelle aussi cette recette " <ingredient quantite=1>riz</ingredient> au gras " car on peut le réaliser avec n’ importe quelle matière grasse. le <ingredient quantite=1>riz</ingredient> est très tendre et goûteux ainsi, pas sec du tout. on puet ajouter des oignons, des herbes et des tomates hachés au début de la préparation.
+]]>
+ </preparation>
+</recette>

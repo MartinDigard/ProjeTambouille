@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20908">
+ <titre>Caviar d’ aubergine à la tomate facile</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 aubergines</p>
+ <p>1 tomate</p>
+ <p>4 gousses d’ ail</p>
+ <p>5 cl d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le grill du <recipient>four</recipient>. <operation temps=6.86min espace=6>faire griller les <ingredient quantite=3>aubergines</ingredient> sous le grill en les</operation> retournant souvent jusqu’ à ce que la peau se boursouffle (environ 20 min). détacher la peau et passer la chair des <ingredient quantite=3>aubergines</ingredient> à la moulinette avec la <ingredient quantite=1>tomate</ingredient> pelée. battre le tout avec l’ <ingredient quantite=4>ail</ingredient> pilé, l’ huile d’ <ingredient quantite=1>olive</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=20.0min espace=6>laisser refroidir</operation>. <operation temps=6.86min espace=6>servir avec du pain</operation>.
+]]>
+ </preparation>
+</recette>

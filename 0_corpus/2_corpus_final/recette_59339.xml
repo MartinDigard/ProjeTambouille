@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59339">
+ <titre>Pommes tendres à la cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de jus de pomme</p>
+ <p>4 belles pommes</p>
+ <p>Une cuillère à soupe de cannelle</p>
+ <p>1 cuillère à soupe de sucre roux par portion</p>
+ <p>150 grammes d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>pommes</ingredient> et <operation temps=6.86min espace=9>mettez - les dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>jus</ingredient> et la <ingredient quantite=1>cannelle</ingredient></operation>. <operation temps=6.86min espace=9>mettez la <recipient>casserole</recipient> sur un feu doux et otez - la après ébullition</operation>. les <ingredient quantite=1>pommes</ingredient> doivent être amollies. <operation temps=6.86min espace=9>passez le contenu de la <recipient>casserole</recipient> dans une <recipient>passoire</recipient></operation> et disposez les <ingredient quantite=1>pommes</ingredient> sur des assiettes à dessert, sur un lit d’ <ingredient quantite=1>amandes effilées</ingredient>. <operation temps=6.86min espace=9>saupoudrez de <ingredient quantite=1>sucre</ingredient>, et mangez chaud!:</operation>)
+]]>
+ </preparation>
+</recette>

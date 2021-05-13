@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48504">
+ <titre>Gâteau roulé au pavot (Makotch) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>300 g de farine</p>
+ <p>2 œufs</p>
+ <p>85 g de sucre</p>
+ <p>75 g de beurre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>10 g de levure fraîche</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>50 g de crème fraîche</p>
+ <p>Pour la garniture: </p>
+ <p>150 g de graines de pavot</p>
+ <p>20 cl de lait</p>
+ <p>45 g de miel</p>
+ <p>45 g de sucre</p>
+ <p>30 g de beurre</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation de la <ingredient quantite=1>pâte</ingredient>: faire tiédir la <ingredient quantite=1>crème fraîche</ingredient>, ajouter - y la <ingredient quantite=1>levure</ingredient> et 50 g de farine. mettre le tout en boule et <operation temps=20.0min espace=20>laisser lever 20 min environ</operation>. ajouter le <ingredient quantite=1>sel</ingredient>, les <ingredient quantite=2>œufs</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le reste de la farine et le beurre fondu, puis <operation temps=6.0min espace=20>pétrir</operation>. mettre au <recipient>réfrigérateur</recipient> pour <operation temps=6.86min espace=20>raffermir la <ingredient quantite=1>pâte</ingredient></operation>. préparation de la <ingredient quantite=1>garniture</ingredient>: passer les <ingredient quantite=1>graines de pavot</ingredient> au moulin à <ingredient quantite=1>café</ingredient>. les mettre dans une <recipient>casserole</recipient>, verser dessus le lait bouillant et <operation temps=4.0min espace=20>faire bouillir 3 à 4 minutes en</operation> remuant, puis <operation temps=30.0min espace=20>laisser gonfler hors du feu pendant 30 minutes</operation>. ajouter au mélange le <ingredient quantite=1>miel</ingredient> et les <ingredient quantite=1>sucres</ingredient>. bien mélanger et porter à ébullition. puis <operation temps=6.86min espace=20>laisser cuire à feu doux jusqu’ à l’ évaporation du lait, tout en</operation> remuant pour éviter de brûler la préparation. hors du feu, ajouter le beurre et <operation temps=20.0min espace=20>laisser refroidir</operation>. sur un papier sulfurisé saupoudré de farine, abaisser la <ingredient quantite=1>pâte</ingredient> au rouleau en lui donnant la forme d’ un rectangle d’ une épaisseur de 1 cm. etaler dessus la préparation et rouler le tout à l’ aide du papier. déposer le rouleau avec le papier sulfurisé sur une plaque de cuisson et <operation temps=40.0min espace=20>laisser lever dans un endroit chaud pendant 30 à 40 min</operation>. badigeonner le gâteau avec un <ingredient quantite=1>œuf</ingredient> battu et <operation temps=25.0min espace=20>faire cuire dans un <recipient>four</recipient> préchauffé à 200 ° c (thermostat 6 - 7) pendant 25 min</operation>. servir. cette recette n’ est pas la vraie recette du makotch. j’ ai simplement essayé de retrouver la saveur de celui que j’ achète sur le marché, chez moi, dans le pas-de-calais. on peut aussi le <operation temps=6.86min espace=20>recouvrir d’ un glaçage</operation> fait avec un mélange de <ingredient quantite=1>sucre</ingredient> glace auquel on ajoute petit à petit de l’ eau chaude jusqu’ à <operation temps=6.86min espace=20>obtenir une consistance fondante</operation>.
+]]>
+ </preparation>
+</recette>

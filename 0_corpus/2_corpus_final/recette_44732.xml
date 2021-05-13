@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44732">
+ <titre>Capellini au prosciutto</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de capellini (ou spaghettis fins) </p>
+ <p>300 g de mozzarella</p>
+ <p>3 oeufs</p>
+ <p>100 g de prosciutto (jambon cru italien) </p>
+ <p>100 g de parmesan râpé</p>
+ <p>2 cuillères à soupe de chapelure</p>
+ <p>75 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire cuire les pâtes à l’ eau bouillante</operation> salée. pendant la cuisson, râper le fromage. couper la mozzarela et le jambon en fines lamelles. au terme de la cuisson des pâtes, les égoutter soigneusement, les remettre dans la <recipient>casserole</recipient>, et les mélanger avec 2/3 du beurre et un peu de <ingredient quantite=1>parmesan</ingredient>. beurrer un <recipient>plat</recipient> à gratin. allumer le <recipient>four</recipient> à température chaude. <operation temps=6.86min espace=13>faire 1 couche avec la moitié des pâtes</operation>, <operation temps=6.86min espace=13>couvrir avec la mozzarella et le <ingredient quantite=1>prosciutto</ingredient> également</operation> <operation temps=6.86min espace=13>répartis</operation>. battre les <ingredient quantite=3>oeufs</ingredient> avec le reste du <ingredient quantite=1>parmesan</ingredient>, saler et poivrer. verser le mélange sur le jambon / mozzarella. <operation temps=6.86min espace=13>couvrir avec le reste des pâtes</operation>. saupoudrer de <ingredient quantite=2>chapelure</ingredient>, et <operation temps=6.86min espace=13>répartir le 1/3 de beurre en copeaux sur tout le <recipient>plat</recipient></operation>. mettre au <recipient>four</recipient> 10 - 15 min, à 180 ° c (th 6), puis sur grill pendant 5 min.
+]]>
+ </preparation>
+</recette>

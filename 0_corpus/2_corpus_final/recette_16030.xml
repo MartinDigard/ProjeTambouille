@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16030">
+ <titre>Gâteau chocolat praliné</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat</p>
+ <p>100 g de pralin </p>
+ <p>3 oeufs</p>
+ <p>150 g de beurre</p>
+ <p>100 g de sucre en poudre</p>
+ <p>50 g de farine</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>1/2 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à thermostat 6 (180 ° c). <operation temps=6.86min espace=11>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> avec le beurre et l’ <ingredient quantite=2>eau</ingredient></operation>. <operation temps=6.86min espace=11>battez les <ingredient quantite=3>oeufs</ingredient></operation>. ajoutez le <ingredient quantite=1>sucre en poudre</ingredient>, le <ingredient quantite=1>pralin</ingredient>, la farine et la <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=11>versez le <ingredient quantite=1>chocolat</ingredient> fondu</operation>. <operation temps=5.0min espace=11>mélangez</operation> jusqu’ à l’ obtention d’ une pâte homogène. <operation temps=6.86min espace=11>versez la préparation dans un <recipient>moule</recipient> à</operation> manqué beurré. <operation temps=25.0min espace=11>faites cuire environ 25 mn</operation>. ne pas s’ étonner si le gâteau ne monte pas beaucoup, c’ est normal.
+]]>
+ </preparation>
+</recette>

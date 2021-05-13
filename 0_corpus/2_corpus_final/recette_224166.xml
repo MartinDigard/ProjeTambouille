@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224166">
+ <titre>Riz japonais au poulet au rice cooker</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 mesures de riz rond japonais</p>
+ <p>50 ml de sauce soja</p>
+ <p>20 g de sucre</p>
+ <p>4 cuillères à soupe de Mirin (vin de riz) </p>
+ <p>600 ml d’ eau</p>
+ <p>1 demie carotte</p>
+ <p>5 champignons</p>
+ <p>200 g de poulet</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver le <ingredient quantite=4>riz</ingredient> puis le <operation temps=15.0min espace=8>laisser tremper 15 minutes dans de l’ <ingredient quantite=1>eau</ingredient> froide</operation>. couper le <ingredient quantite=1>poulet</ingredient>, la <ingredient quantite=1>carotte</ingredient> et les <ingredient quantite=5>champignons</ingredient>. dans le rice cooker, ajouter le <ingredient quantite=4>riz</ingredient>, la sauce <ingredient quantite=1>soja</ingredient>, le <ingredient quantite=1>mirin</ingredient>, le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, les <ingredient quantite=5>champignons</ingredient> et la <ingredient quantite=1>carotte</ingredient>. mélanger. ajouter le <ingredient quantite=1>poulet</ingredient> sur le dessus sans mélanger. allumer le rice cooker.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47977">
+ <titre>Poulet Bonne Femme</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet fermier (à couper en morceaux) ou 6 morceaux de poulet (cuisse, haut de cuisse...) </p>
+ <p>150 g de lard fumé</p>
+ <p>300 g de champignons de Paris (en conserve) </p>
+ <p>1 gros oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl de vin blanc</p>
+ <p>1 cuillère à soupe de fond de veau</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>thym</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ <ingredient quantite=2>huile</ingredient> à chauffer dans une <recipient>cocotte</recipient>. <operation temps=6.86min espace=11>faire dorer à feu</operation> vif les morceaux de <ingredient quantite=1>poulet</ingredient> de tous les côtés pendant 6 à 7 min. <operation temps=6.86min espace=11>sortir</operation> et réserver. <operation temps=2.0min espace=11>faire revenir 2 min le <ingredient quantite=1>lard</ingredient> tranché</operation>. ajouter l’ <ingredient quantite=1>oignon</ingredient> émincé et <operation temps=3.0min espace=11>faire sauter 3 min</operation>. ajouter les <ingredient quantite=1>champignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> écrasé et <operation temps=6.86min espace=11>laisser colorer légèrement</operation>. verser le <ingredient quantite=1>vin blanc</ingredient> mélangé avec le <ingredient quantite=1>fond de veau</ingredient> et <operation temps=2.0min espace=11>laisser mijoter 2 min avant de</operation> baisser le feu. remettre les morceaux de <ingredient quantite=1>poulet</ingredient>. <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>thym</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient></operation>. <operation temps=45.0min espace=11>laisser cuire à couvert à feu très doux pendant 45 min</operation>. on peut rajouter des olives vertes dénoyautées 10 min avant la fin de la cuisson. <operation temps=6.86min espace=11>servir avec du riz ou des pâtes</operation>... un graves <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

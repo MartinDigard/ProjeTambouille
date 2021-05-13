@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23149">
+ <titre>Pain Catalan au Jambon Serrano</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>du pain de campagne traditionnel</p>
+ <p>1 ou 2 grosses tomates</p>
+ <p>1 gousse d’ ail</p>
+ <p>du jambon serrano tranché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>faites griller une tranche <ingredient quantite=1>pain</ingredient> selon votre goût</operation>. <operation temps=6.86min espace=4>grattez - le avec une demi <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=1>ail</ingredient></operation>. <operation temps=6.86min espace=4>faites de même avec une demi-tomate</operation>. puis <operation temps=6.86min espace=4>disposez le <ingredient quantite=1>jambon</ingredient></operation>. ne pas utiliser trop de <ingredient quantite=1>pain</ingredient> pour ne pas couper la faim. idéal en sandwich!!
+]]>
+ </preparation>
+</recette>

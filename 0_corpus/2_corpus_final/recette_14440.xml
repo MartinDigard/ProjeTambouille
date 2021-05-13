@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14440">
+ <titre>Capuns</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de farine</p>
+ <p>2 dl de lait coupé d’ eau (moitié lait, moitié eau) </p>
+ <p>4 oeufs</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>75 g d’ herbes hachées (persil, ciboulette, romarin, basilic) </p>
+ <p>2 salsiz doubles de Maienfeld (ou bien 200 g de viande des Grisons ou bien encore du jambon cru) </p>
+ <p>40 feuilles de blettes (les côtes de blette sont un légume estival) </p>
+ <p>40 Capuns (ou bien 40 feuilles de laitue saison froide) </p>
+ <p>50 g de Parmesan râpé</p>
+ <p>1 oignon</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>tamisez la farine dans une <recipient>terrine</recipient></operation> et <operation temps=6.86min espace=14>mélangez - la au lait <ingredient quantite=1>coupé</ingredient>, aux <ingredient quantite=4>oeufs</ingredient> et au <ingredient quantite=1>sel</ingredient>, brassez jusqu’ à</operation> <operation temps=6.86min espace=14>obtenir une pâte de’ spätzli’ homogène et onctueuse</operation>. <operation temps=30.0min espace=14>laissez reposer la pâte pendant 30 mn</operation>, ajoutez - y ensuite les <ingredient quantite=1>herbes hachées</ingredient>. <operation temps=6.86min espace=14>pelez la saucisse crue, <ingredient quantite=1>coupez</ingredient> - la en petits dés ou - si vous</operation> utilisez de la viande des grisons - <ingredient quantite=1>coupez</ingredient> en fines lamelles et incorporez - la à la pâte. etuvez les <ingredient quantite=1>feuilles de blette</ingredient> (ou de laitue), <operation temps=6.86min espace=14>laissez - les</operation> égoutter puis <operation temps=6.86min espace=14>étendez - les à <recipient>plat</recipient> sur la table de préparation</operation>. placez une boulette de pâte sur chaque <ingredient quantite=1>feuille</ingredient>, <operation temps=6.86min espace=14>rabattez les</operation> <ingredient quantite=1>feuilles</ingredient> puis <operation temps=6.86min espace=14>roulez</operation> - les pour former de petits paquets. <operation temps=20.0min espace=14>faites chauffer dans une grande <recipient>marmite</recipient> une grande quantité d’ <ingredient quantite=1>eau</ingredient> et lorsque l’ <ingredient quantite=1>eau</ingredient> frémit, plongez - y les <ingredient quantite=1>capuns</ingredient> par portions pendant 16 à 20 mn</operation>. <operation temps=0.5min espace=14>sortez</operation> - les avec une louche perforée, <operation temps=6.86min espace=14>laissez - les</operation> égoutter et, après les avoir saupoudrés de fromage râpé, <operation temps=6.86min espace=14>mettez - les au chaud</operation> et <operation temps=6.86min espace=14>ajoutez - y au fur et à mesure les autres portions</operation>. finalement, <ingredient quantite=1>coupez</ingredient> un <ingredient quantite=1>oignon</ingredient> en rondelles et <operation temps=6.86min espace=14>faites - les dorer dans du beurre chauffé</operation>. répartissez - les sur les <ingredient quantite=1>capuns</ingredient>. le <ingredient quantite=2>salsiz double de maienfeld</ingredient> peut être remplacé par n’ importe quelle saucisse crue de grischuna, par de la viande des grisons ou du jambon cru. si vous n’ <operation temps=6.86min espace=14>arrivez pas à</operation> éplucher la saucisse, maintenez - la quelques instants sous l’ <ingredient quantite=1>eau</ingredient> tièdedu robinet et vous pourrez peler facilement votre saucisse. cette spécialité grisonne est un repas complet, très savoureux et nourrissant et s’ accompagne d’ une salade de saison.
+]]>
+ </preparation>
+</recette>

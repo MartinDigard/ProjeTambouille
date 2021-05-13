@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25185">
+ <titre>Tarte aux noix et au sirop d’ érable</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée ou feuilletée (selon le goût) </p>
+ <p>2 oeufs + 1 jaune</p>
+ <p>100 g de sucre roux</p>
+ <p>15 cl de sirop d’ érable</p>
+ <p>30 g de beurre + en prévoir pour le moule</p>
+ <p>1/2 cuillère à café de vanille liquide</p>
+ <p>130 g de noix (ou un mélange noix-noisettes) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c. beurrer un <ingredient quantite=1><recipient>moule</recipient></ingredient> à tarte et y mettre la <ingredient quantite=1>pâte</ingredient>. <operation temps=6.86min espace=11>piquez le dessus à la fourchette</operation>. dans une <recipient>terrine</recipient>, battre les <ingredient quantite=2>oeufs</ingredient> et le <ingredient quantite=2>jaune</ingredient>. ajouter le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>beurre</ingredient> fondu puis le <ingredient quantite=1>sirop</ingredient> d’ érable et la <ingredient quantite=1>vanille</ingredient>. bien mélanger. <operation temps=6.86min espace=11>concassez grossièrement les <ingredient quantite=1>noix</ingredient> (ou le mélange noix-noisettes)</operation> et <operation temps=6.86min espace=11>disposez sur la <ingredient quantite=1>pâte</ingredient></operation>. ajouter le mélange au <ingredient quantite=1>sirop</ingredient> d’ érable et cuire à 180 ° c pendant 30 mn: la <ingredient quantite=1>pâte</ingredient> doit être dorée et le mélange doit avoir bien <operation temps=6.86min espace=11>pris (on</operation> peut vérifier avec un couteau, il doit <operation temps=6.86min espace=11>ressortir humide mais sans résidu</operation>). tarte idéale à l’ heure du goûter, elle se mange nature ou accompagnée d’ une crème anglaise à la <ingredient quantite=1>vanille</ingredient>, de <ingredient quantite=1>sirop</ingredient> d’ érable, ou d’ une crème fouettée aromatisée à la <ingredient quantite=1>vanille</ingredient>. un bon <ingredient quantite=1>café</ingredient>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30155">
+ <titre>Spaghetti au magret et aux poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de spaghettis</p>
+ <p>800 g de poireaux</p>
+ <p>250 g de magrets de canard séchés au poivre</p>
+ <p>150 g de fromage râpé (gruère, parmesan, selon votre goût...) </p>
+ <p>120 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel et poivre moulus</p>
+ <p>5 cl d’ eau chaude</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>eliminez les racines des <ingredient quantite=1>poireaux</ingredient> et les parties vertes trop dures</operation>, <operation temps=6.86min espace=12>fendez les en quatre dans le sens de la longueur</operation>. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=12>faites chauffer doucement 80 g de beurre</operation>, ajoutez les <ingredient quantite=1>poireaux</ingredient>, 5 cl d’ <ingredient quantite=1>eau chaude</ingredient> et un peu de <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=12>laissez cuire sans</operation> colorer doucement, à couvert, pendant 20 minutes. séparez les petites tranches de <ingredient quantite=1>magrets séchés</ingredient> et <operation temps=6.86min espace=12>réservez - les sur une assiette</operation>. <operation temps=6.86min espace=12>faites bouillir une grande <recipient>marmite</recipient> d’ <ingredient quantite=1>eau</ingredient> salée</operation> additionnée d’ une cuillerée à <ingredient quantite=1>soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, plongez - y les <ingredient quantite=1>spaghetti</ingredient> et <operation temps=6.86min espace=12>laissez - les</operation> cuire à gros bouillons sans couvercle pendant une dizaine de minutes (en fonction surtout de la marque de vos pâtes). <operation temps=10.0min espace=12>egouttez</operation> - les, <operation temps=6.86min espace=12>mettez - les dans un <recipient>plat</recipient> creux chaud</operation>, <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=1>poireaux</ingredient> étuvés, la viande, puis le restant de beurre</operation>. <operation temps=6.86min espace=12>poivrez et mélangez</operation>. <operation temps=6.86min espace=12>servez le <ingredient quantite=1>fromage</ingredient> à part</operation>. le jambon de bayonne peut remplacer les <ingredient quantite=1>magrets de canard</ingredient> pour un <recipient>plat</recipient> complet moins coûteux.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26855">
+ <titre>Flan rhum raisins</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de raisin noir</p>
+ <p>1 l de lait</p>
+ <p>6 oeufs</p>
+ <p>250 g de sucre</p>
+ <p>45 g de farine</p>
+ <p>10 cl de rhum</p>
+ <p>20 g de beurre</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=10>dégrappez le <ingredient quantite=1>raisin</ingredient></operation>. <operation temps=6.86min espace=10>faites macérer les grains avec le <ingredient quantite=1>rhum</ingredient> pendant la préparation</operation>. <operation temps=6.86min espace=10>fouettez 2 <ingredient quantite=6>oeufs</ingredient> avec la farine, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=6>oeufs</ingredient> restants un à un en fouettant, puis le lait</operation>. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=1>raisins</ingredient></operation> égouttés et <operation temps=6.86min espace=10>versez la pâte dans un <recipient>moule</recipient> à bords hauts beurré</operation>. parsemez le restant de beurre en parcelles. <operation temps=35.0min espace=10>faites cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) 30 - 35 min environ, en</operation> couvrant de papier aluminium à mi-cuisson pour éviter que le flan se dessèche. on peut également le <operation temps=6.86min espace=10>faire avec des <ingredient quantite=1>raisins</ingredient> secs qu’ on aura préalablement fait</operation> gonfler à l’ eau tiède et au <ingredient quantite=1>rhum</ingredient>.
+]]>
+ </preparation>
+</recette>

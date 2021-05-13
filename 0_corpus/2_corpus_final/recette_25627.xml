@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25627">
+ <titre>Moules au Pineau des Charentes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de moules par personnes (la recette est ici pour 4 personnes) </p>
+ <p>1 gros oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>un petit bouquet de persil</p>
+ <p>50 g de beurre demi-sel</p>
+ <p>2-3 verres de pineau blanc des Charentes</p>
+ <p>1 brique de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>lavez les <ingredient quantite=1>moules</ingredient></operation>. dans une <recipient>cocotte</recipient>, mettre l’ <ingredient quantite=1>oignon</ingredient> l’ <ingredient quantite=3>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> émincés dans le beurre <ingredient quantite=1>demi-sel</ingredient> fondu. <operation temps=6.86min espace=8>faire revenir quelques minutes</operation> puis ajouter les <ingredient quantite=1>moules</ingredient>. arrosez du <ingredient quantite=4>pineau des charentes</ingredient>. <operation temps=5.0min espace=8>faire ouvrir les <ingredient quantite=1>moules</ingredient> et 5 mn avant de</operation> <operation temps=2.0min espace=8>servir</operation>, ajouter la <ingredient quantite=1>crème liquide</ingredient>. <operation temps=6.86min espace=8>mélangez bien et bon appétit</operation>!
+]]>
+ </preparation>
+</recette>

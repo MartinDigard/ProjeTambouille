@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217394">
+ <titre>Gâteau choco-noisette (sans oeufs) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillères à soupe de noisette en poudre</p>
+ <p>5 cuillères à soupe de farine</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>125 g de beurre</p>
+ <p>100 g de chocolat noir</p>
+ <p>1 sachet de levure</p>
+ <p>25 cl de lait</p>
+ <p>1 cuillère à café d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=2.0min espace=11>faire fondre le beurre et le <ingredient quantite=1>chocolat</ingredient> au micro-ondes 2 minutes à forte puissance</operation> puis verser le mélange dans un grand <recipient>saladier</recipient>. mélanger pour <operation temps=8.0min espace=11>obtenir un mélange homogène</operation> puis ajouter les <ingredient quantite=4>noisettes</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=4>sucre</ingredient> et la farine. mélanger à nouveau puis ajouter l’ <ingredient quantite=1>huile</ingredient> - la consistance de la pâte doit être très pâteuse - puis ajouter le lait. mélanger jusqu’ à obtention d’ une pâte crémeuse (ça prend un peu de temps). beurrer le <recipient>moule</recipient> puis verser la pâte dans le <recipient>moule</recipient>. enfourner à 180 ° c pendant environ 20 min (vérifier la cuisson en enfonçant un couteau dedans, il doit <operation temps=6.86min espace=11>ressortir sec</operation>). démouler et servir froid. très bon et bien moelleux grâce au lait. pratique et rapide, besoin de peu d’ ingrédients. rien de particulier
+]]>
+ </preparation>
+</recette>

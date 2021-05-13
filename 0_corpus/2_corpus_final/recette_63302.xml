@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63302">
+ <titre>Gratiné de gnocchi et jambon cru</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de gnocchi</p>
+ <p>2 tranches de jambon cru</p>
+ <p>2 échalotes</p>
+ <p>huile d’ olive</p>
+ <p>15 cl de vin blanc (de cuisine) </p>
+ <p>3 cuillère à soupe de crème épaisse</p>
+ <p>poivre 5 baies</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=10.0min espace=10>faire revenir les <ingredient quantite=2>échalotes</ingredient> dans de l’ huile d’ <ingredient quantite=1>olive</ingredient> pendant 10 min à feu moyen</operation>. ajouter le <ingredient quantite=2>jambon cru</ingredient> en lamelles et <operation temps=5.0min espace=10>laisser 5 min à feu doux en</operation> remuant régulièrement. pendant ce temps, mettre les <ingredient quantite=1>gnocchi</ingredient> à cuire (quand ils sont remontés à la surface, ils sont prêts). déglacer les <ingredient quantite=2>échalotes</ingredient> et le <ingredient quantite=2>jambon</ingredient> au <ingredient quantite=1>vin blanc</ingredient> en augmentant le feu pour qu’ il évapore pendant 5 min. ajouter la <ingredient quantite=3>crème épaisse</ingredient> et les 5 <ingredient quantite=1>baies</ingredient>, baisser le feu et <operation temps=5.0min espace=10>laisser mijoter 5 min</operation>. mettre les <ingredient quantite=1>gnocchi</ingredient> dans un <recipient>plat</recipient> à gratin, napper de la sauce, mélanger délicatement, et soupoudrer de <ingredient quantite=1>gruyère</ingredient> rapé. enfourner pendant 15 min environ, le temps que le fromage gratine. pour réussir, bien suivre les étapes. recette très parfumée en <ingredient quantite=1>vin blanc</ingredient>.
+]]>
+ </preparation>
+</recette>

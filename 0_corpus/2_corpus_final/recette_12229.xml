@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12229">
+ <titre>Poulet au riesling</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>un gros poulet fermier</p>
+ <p>3 échalotes</p>
+ <p>1 petit verre de cognac 1 bouteille de vin blanc</p>
+ <p>500 g de champignons frais de pairs sel, </p>
+ <p>poivre crème fraiche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient>. <operation temps=6.86min espace=5>faire revenir les morceaux dans du beurre</operation>. les <operation temps=6.86min espace=5>sortir, saler</operation> et poivrer. <operation temps=6.86min espace=5>faire revenir les</operation> <ingredient quantite=3>échalotes</ingredient> et ajouter le <ingredient quantite=1>cognac</ingredient> dans la même poele. remettre le <ingredient quantite=1>poulet</ingredient> et le <ingredient quantite=1>vin</ingredient> et <operation temps=6.86min espace=5>faire mijoter une heure</operation>. pendant ce temps, <operation temps=6.86min espace=5>faire revenir les</operation> <ingredient quantite=1>champignons</ingredient>, saler, poivrer. quand le <ingredient quantite=1>poulet</ingredient> est cuit, le <operation temps=6.86min espace=5>sortir et le</operation> garder au chaud. préparer une béchamel avec le jus, la <ingredient quantite=1>crème</ingredient> et les champigons. <operation temps=6.86min espace=5>servir avec des nouilles</operation>. spécialité alsacienne. riesling
+]]>
+ </preparation>
+</recette>

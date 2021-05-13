@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93892">
+ <titre>Crème brûlée à la tomate</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 jaunes d’ œuf</p>
+ <p>6 dl de lait entier</p>
+ <p>1, 800 kg de tomate</p>
+ <p>600 g de sucre</p>
+ <p>1/2 jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émonder les <ingredient quantite=1>tomates</ingredient> et les épépiner. couper la chair en petits dès. placer les dès de <ingredient quantite=1>tomates</ingredient> dans un <recipient>faitout</recipient>. ajouter le <ingredient quantite=1>sucre</ingredient> et le 1/2 <ingredient quantite=1>jus de citron</ingredient>. cuire doucement en remuant souvent pendant 2 heures. <operation temps=20.0min espace=9>laisser refroidir</operation> complètement cette confiture de <ingredient quantite=1>tomates</ingredient></operation>. dans un <recipient>saladier</recipient> mélanger les <ingredient quantite=8>jaunes</ingredient> d’ <ingredient quantite=8>œuf</ingredient> et le lait avec 300 g de confiture de <ingredient quantite=1>tomates</ingredient>. bien battre ce mélange. <operation temps=6.86min espace=9>répartir le mélange dans de petits récipients</operation> et cuire au <recipient>four</recipient> à 90 ° (thermostat 3) durant une petite heure. <operation temps=20.0min espace=9>laisser refroidir</operation>. avant de <operation temps=2.0min espace=9>servir</operation> saupoudrer de <ingredient quantite=1>sucre</ingredient> et caraméliser au chalumeau ou sous le <recipient>gril</recipient>. à accompagner éventuellement d’ un sorbet de <ingredient quantite=1>tomates</ingredient> pour un contraste chaud-froid.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18492">
+ <titre>Tarte au pavot (Autriche) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de graines de pavot</p>
+ <p>1/3 l de lait</p>
+ <p>100 g de beurre</p>
+ <p>200 g de sucre</p>
+ <p>8 oeufs</p>
+ <p>120 g de chapelure de biscuit</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>2 cuillère à soupe de rhum</p>
+ <p>1 zeste de citron</p>
+ <p>confiture d’ abricots</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le beurre, la moitié du <ingredient quantite=1>sucre</ingredient> et les 8 jaunes d’ <ingredient quantite=8>oeufs</ingredient>. <operation temps=6.86min espace=11>faire bouillir le <ingredient quantite=1>pavot</ingredient> dans du lait et le</operation> <operation temps=6.86min espace=11>faire refroidir</operation>. battre les blancs en neige avec le reste du <ingredient quantite=1>sucre</ingredient> et bien mélanger le tout. <operation temps=6.86min espace=11>faire cuire dans un <recipient>moule</recipient> à</operation> manqué. <operation temps=20.0min espace=11>laisser refroidir</operation>, couper le gâteau au milieu, pour le fourrer avec la <ingredient quantite=1>confiture</ingredient>. napper de <ingredient quantite=2>rhum</ingredient>, puis saupoudrer avec du <ingredient quantite=1>sucre</ingredient> glace.
+]]>
+ </preparation>
+</recette>

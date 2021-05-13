@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23753">
+ <titre>Gâteau au chocolat fourré au nutella</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>2 grosses cuillères de maïzena</p>
+ <p>50 g de farine</p>
+ <p>4 carrés de chocolat</p>
+ <p>environ 150g de sucre en poudre</p>
+ <p>du nutella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+séparer les blancs d’ <ingredient quantite=3>oeufs</ingredient> des jaunes. dans un <recipient>plat</recipient>, mélanger les jaunes d’ <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient>. pendant ce temps, <operation temps=6.86min espace=9>faire fondre le <ingredient quantite=4>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=9>faire monter les blancs en neige</operation>. quand le <ingredient quantite=4>chocolat</ingredient> est fondu, le mélanger aux jaunes d’ <ingredient quantite=3>oeufs</ingredient> et au <ingredient quantite=1>sucre</ingredient>, puis rajouter les blancs en neige. mélanger tout, verser dans un <recipient>plat</recipient> que vous aurez d’ abord beurré et en fariné. <operation temps=30.0min espace=9>faire cuire 30 mn à thermostat 6 (180 ° c</operation>). quand le gâteau est cuit, attendre un peu pour le démouler, puis le découper horizontalement en deux parties et mettre du <ingredient quantite=1>nutella</ingredient> au milieu. malgré ce qu’ on pourrait croire, ce n’ est pas écoeurant du tout! aucun
+]]>
+ </preparation>
+</recette>

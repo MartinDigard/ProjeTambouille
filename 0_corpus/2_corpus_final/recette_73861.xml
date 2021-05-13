@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73861">
+ <titre>Alliance de la banane et du chocolat...</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>110 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>120 g de beurre</p>
+ <p>150 g de farine</p>
+ <p>2 bananes</p>
+ <p>un sachet de pépites de chocolat (ou une tablette de 100 g) </p>
+ <p>un sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- préchauffer le <recipient>four</recipient> à 180 °, thermostat 6. dans un <recipient>saladier</recipient>, mélanger le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=2>oeufs</ingredient>, la farine et la <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=11>faire ramolir le beurre et l’</operation> incorporer au mélange. bien mélanger. couper les <ingredient quantite=2>bananes</ingredient> en cubes et les ajouter à la préparation. mélanger. enfin ajouter les <ingredient quantite=1>pépites</ingredient> ou couper la tablette en petits dés. mélanger. beurrer un <recipient>moule</recipient> à cake, et verser la préparation dans le <recipient>moule</recipient>. <operation temps=40.0min espace=11>faire cuire pendant 30 à 40 min</operation>. astuce: <operation temps=6.86min espace=11>servez - le tiède avec une crème anglaise fraîche! bon miam!!</operation>!
+]]>
+ </preparation>
+</recette>

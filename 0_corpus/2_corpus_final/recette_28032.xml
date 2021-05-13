@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28032">
+ <titre>ROUELLE DE PORC AU CIDRE</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouelle de porc</p>
+ <p>3 beaux oignons</p>
+ <p>1 bouteille de cidre</p>
+ <p>1 bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient> en fonte, <operation temps=6.86min espace=8>faire revenir la viande</operation>. <operation temps=6.86min espace=8>sortir la <ingredient quantite=1>rouelle</ingredient> de la <recipient>cocotte</recipient>,</operation> puis <operation temps=1.0min espace=8>faire fondre</operation> légèrement les <ingredient quantite=3>oignons</ingredient> hachés dans la même matière grasse. remettre la viande dans la <recipient>cocotte</recipient>. mouiller avec le <ingredient quantite=1>cidre</ingredient> jusqu’ à mi-hauteur de la viande. saler et poivrer. mettre le <ingredient quantite=1>bouquet garni</ingredient>. cuire 1 heure dans un <recipient>four</recipient> à 200 ° c en ajoutant du <ingredient quantite=1>cidre</ingredient> si besoin en cours de cuisson. <ingredient quantite=1>cidre</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34993">
+ <titre>Oeufs au four</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>2 petites boîtes de champignons de Paris</p>
+ <p>8 petites cuillères de crème fraîche épaisse</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans des ramequins, déposer une couche de <ingredient quantite=2>champignons</ingredient>, casser l’ <ingredient quantite=1>oeuf</ingredient> sur les <ingredient quantite=2>champignons</ingredient>. déposer 2 <ingredient quantite=8>cuillères</ingredient> à café de <ingredient quantite=8>crème fraîche</ingredient> de chaque côte du jaune d’ <ingredient quantite=1>oeuf</ingredient>. pour <operation temps=6.86min espace=6>finir</operation> mettre du <ingredient quantite=1>râpé</ingredient>. selon votre <recipient>four</recipient>, <operation temps=8.0min espace=6>faire cuire (th 6/7) de 5 à 8 mn</operation>. c’ est surtout un <recipient>plat</recipient> pour les enfants qui aiment tremper leur pain dedans. les miens adorent.
+]]>
+ </preparation>
+</recette>

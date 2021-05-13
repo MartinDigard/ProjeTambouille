@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228094">
+ <titre>Porc à la sauce moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 2 kg de rôti de porc (compter environ 200 g par personne) </p>
+ <p>5 échalotes</p>
+ <p>10 cl de vin blanc</p>
+ <p>1 cube de bouillon de légumes</p>
+ <p>45 cl d’ eau chaude</p>
+ <p>25 cl de crème liquide</p>
+ <p>3 cuillères à soupe de moutarde forte</p>
+ <p>1 noix de beurre</p>
+ <p>1 branche de thym</p>
+ <p>1 branche de laurier</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ <p>farine (si vous souhaitez épaissir la sauce) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, faîtes <operation temps=6.86min espace=17>revenir les <ingredient quantite=5>échalotes</ingredient> grossièrement</operation> coupées avec un morceau de <ingredient quantite=1>beurre</ingredient>, faîtes dorer sur toutes les faces votre rôti de <ingredient quantite=1>porc</ingredient>. <operation temps=0.25min espace=17>salez</operation> et <operation temps=6.86min espace=17>poivrez légèrement</operation>. une fois votre rôti de <ingredient quantite=1>porc</ingredient> bien doré, dégraissez, et déglacez avec le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=17>remettez le <ingredient quantite=1>porc</ingredient> dans la <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=17>ajoutez votre <ingredient quantite=1>thym</ingredient> et une feuille de <ingredient quantite=1>laurier</ingredient></operation>. mélangez à votre <ingredient quantite=1>eau chaude</ingredient> le <ingredient quantite=1>bouillon de légumes</ingredient> et <operation temps=6.86min espace=17>ajoutez le dans la <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=17>laissez cuire deux bonnes heures voire trois selon la taille de votre viande</operation>. avant de <operation temps=2.0min espace=17>servir</operation>, mélangez la <ingredient quantite=1>crème liquide</ingredient> avec les 3 <ingredient quantite=3>cuillères à soupe de moutarde forte</ingredient>. <operation temps=6.86min espace=17>retirez votre rôti de la <recipient>cocotte</recipient></operation> et <operation temps=6.86min espace=17>incorporez à la sauce le mélange <ingredient quantite=1>crème</ingredient> - <ingredient quantite=3>moutarde</ingredient></operation>. faîtes réchauffer la sauce. passez à table et bon appétit!
+]]>
+ </preparation>
+</recette>

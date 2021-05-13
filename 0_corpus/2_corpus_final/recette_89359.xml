@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89359">
+ <titre>Fattoush à ma façon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 belles feuilles de batavia</p>
+ <p>1/2 concombre</p>
+ <p>2 petites tomates</p>
+ <p>1/2 botte de radis</p>
+ <p>8 branches de menthe</p>
+ <p>1 bouquet de persil plat</p>
+ <p>12 cl de jus de citron</p>
+ <p>10 cl d’ huile d’ olive</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver tous les légumes. eplucher le <ingredient quantite=1>concombre</ingredient> et le couper en <ingredient quantite=1>petits</ingredient> dés. découper en <ingredient quantite=1>petits</ingredient> morceaux également les <ingredient quantite=2>tomates</ingredient> et la salade. couper les <ingredient quantite=1>radis</ingredient> en rondelles. hacher menthe et <ingredient quantite=1>persil</ingredient>. mélanger le tout dans un <recipient>saladier</recipient> et réserver au frais. préparer l’ assaisonnement en mélangeant le <ingredient quantite=1>jus de citron</ingredient>, l’ huile d’ <ingredient quantite=1>olive</ingredient> et le <ingredient quantite=1>sel</ingredient>. verser la sauce sur la salade juste avant de <operation temps=2.0min espace=10>servir</operation>. on peut mettre plus de <ingredient quantite=8>menthe</ingredient> et remplacer le <ingredient quantite=1>persil</ingredient> par de la coriandre.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20542">
+ <titre>Daube de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de macreuse</p>
+ <p>1, 5 kg de carottes</p>
+ <p>250 g d’ échalotes</p>
+ <p>250 g de lard fumé en dés</p>
+ <p>50 g de beurre</p>
+ <p>75 cl de vin rouge (une bouteille) </p>
+ <p>5 cl de Madère</p>
+ <p>8 tomates bien mûres (ou une grosse boîte de tomates pelées) </p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre à votre convenance</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez la viande en cubes</operation>. les <ingredient quantite=1>carottes</ingredient> en rondelles et les <ingredient quantite=1>échalotes</ingredient> en dés. dans une <recipient>cocotte</recipient> <operation temps=1.0min espace=11>faites fondre le beurre</operation>. mettre la viande et la <operation temps=25.0min espace=11>faire dorer</operation> puis réserver. mettre les <ingredient quantite=1>échalotes</ingredient> et les lardons. <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=1>carottes</ingredient></operation>. <operation temps=6.86min espace=11>remettez la viande et le reste des ingrédients</operation>. amenez à ébullition. <operation temps=0.25min espace=11>couvrez</operation> <operation temps=6.86min espace=11>baissez la source de chaleur</operation> et <operation temps=6.86min espace=11>laissez cuire 3h avant de</operation> <operation temps=2.0min espace=11>servir</operation>. délicieux réchauffé
+]]>
+ </preparation>
+</recette>

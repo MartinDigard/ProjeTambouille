@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51227">
+ <titre>Figues confites au Moscatel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de figues noires fraîches</p>
+ <p>50 g de sucre de canne</p>
+ <p>2 cuillères à café de miel</p>
+ <p>50 cl de vin Moscatel</p>
+ <p>1 bâton de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer délicatement les <ingredient quantite=1>figues</ingredient> sous l’ eau, couper le petit bout de queue et fendre très légèrement chaque fruit au sommet (en forme de croix). dans une <recipient>casserole</recipient>, mettre le <ingredient quantite=1>vin</ingredient> de <ingredient quantite=1>moscatel</ingredient> avec le <ingredient quantite=1>sucre de canne</ingredient>, le <ingredient quantite=2>miel</ingredient> et la <ingredient quantite=1>cannelle</ingredient> puis porter à ébulition. déposer les <ingredient quantite=1>figues</ingredient> debout dans la <recipient>casserole</recipient> et <operation temps=15.0min espace=7>laisser cuire pendant 15 minutes à petits bouillons</operation>. egoutter les <ingredient quantite=1>figues</ingredient> et les réserver. réduire le <ingredient quantite=1>vin</ingredient> afin d’ <operation temps=6.86min espace=7>obtenir un sirop pas trop épais</operation>. <operation temps=6.86min espace=7>laisser reposer au frigo minimum 12 heures</operation>. <operation temps=6.86min espace=7>servir les <ingredient quantite=1>figues</ingredient> avec une glace à la vanille ou mieux, une glace aux dattes et raisins</operation>. on peut y ajouter un peu de crème fraîche. bon appétit! <ingredient quantite=1>moscatel</ingredient>
+]]>
+ </preparation>
+</recette>

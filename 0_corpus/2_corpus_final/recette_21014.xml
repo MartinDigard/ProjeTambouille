@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21014">
+ <titre>Filets de maquereaux marinés à la purée d’ ail de Provence</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de maquereaux</p>
+ <p>6 pommes de terre</p>
+ <p>15 têtes d’ ail</p>
+ <p>30 cl de crème fraîche</p>
+ <p>1 petit verre d’ huile d’ olive</p>
+ <p>2 branchettes de thym</p>
+ <p>2 feuilles de laurier</p>
+ <p>persil frais</p>
+ <p>3 branches de romarin frais</p>
+ <p>sel et poivre</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>plat</recipient> creux, verser l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et les herbes fraiches lavées avec un peu de <ingredient quantite=1>sel et poivre</ingredient>. y déposer les <ingredient quantite=4>maquereaux</ingredient> et les <operation temps=6.86min espace=15>laisser mariner 2 h</operation>. pendant ce temps, porter l’ eau salée à ébullition, puis y faire cuire les <ingredient quantite=6>pommes de terre</ingredient> pendant 15 min. dans une <ingredient quantite=1>petite</ingredient> <recipient>casserole</recipient> d’ eau salée vinaigrée, déposer les gousses d’ <ingredient quantite=1>ail</ingredient> non pelées et les blanchir 10 min. peler les <ingredient quantite=6>pommes de terre</ingredient> et les gousses d’ <ingredient quantite=1>ail</ingredient>, puis les écraser au presse - purée ou à la fourchette. déposer la purée de <ingredient quantite=6>pomme de terre</ingredient> aillée dans une <recipient>casserole</recipient> sur feu doux, puis incorporer la <ingredient quantite=1>crème</ingredient> en remuant vivement. saler, poivrer, puis <operation temps=10.0min espace=15>laisser mijoter 10 min à feu modéré en</operation> remuant régulièrement. poêler les <ingredient quantite=4>filets de maquereaux</ingredient> 5 min de chaque côté sur feu vif, puis saler et poivrer. les napper de marinade filtré. dresser les <ingredient quantite=4>filets de maquereaux</ingredient> sur un <recipient>plat</recipient> de service chaud et l’ entourer de <ingredient quantite=6>pommes de terre</ingredient> aillées écrasées.
+]]>
+ </preparation>
+</recette>

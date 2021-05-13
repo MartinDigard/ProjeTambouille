@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68544">
+ <titre>Salade au picodon chaud</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 mélange de 2-3 salades différentes (l’ équivalent d’ 1 salade en quantité) </p>
+ <p>4 picodons "grand mère" de préférence</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>100 g de chapelure</p>
+ <p>vinaigrette maison à la moutarde à l’ ancienne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>picodons</ingredient> en lamelles de 5 mm d’ épaisseur environ. tremper les lamelles dans le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et les rouler dans la <ingredient quantite=1>chapelure</ingredient>, individuellement. <operation temps=6.86min espace=6>répartir la salade lavée</operation> et essorée dans les 4 assiettes. <operation temps=6.86min espace=6>faire frire toutes les lamelles de <ingredient quantite=1>picodon</ingredient> dans une <recipient>poêle</recipient> très</operation> chaude avec un peu de beurre ou d’ huile, en les retournant, jusqu’ à la limite du suintement du fromage de la <ingredient quantite=1>chapelure</ingredient>. <operation temps=6.86min espace=6>répartir aussitôt sur les lits de salade</operation> et consommer immédiatement. présenter la <ingredient quantite=1>vinaigrette maison</ingredient> à côté. une autre approche du chèvre chaud. côte du rhône rouge type chateauneuf
+]]>
+ </preparation>
+</recette>

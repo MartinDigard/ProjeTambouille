@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19960">
+ <titre>Pot-au feu de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de viande de bœuf grasse</p>
+ <p>500 g de viande de bœuf maigre</p>
+ <p>500 g de viande de bœuf gélatineuse</p>
+ <p>1 os à moelle </p>
+ <p>4 poireaux</p>
+ <p>4 carottes</p>
+ <p>1 branche de céleri</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni (persil, thym, laurier) </p>
+ <p>2 clous de girofle</p>
+ <p>gros sel</p>
+ <p>poivre noir en grains</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>ficelez les morceaux de <ingredient quantite=1>viande</ingredient> pour qu’ ils se</operation> maintiennent en forme pendant la cuisson. <operation temps=6.86min espace=16>coupez la queue de <ingredient quantite=1>bœuf</ingredient> en tronçons</operation>. épluchez les <ingredient quantite=4>carottes</ingredient>, les <ingredient quantite=4>poireaux</ingredient> et la <ingredient quantite=1>branche de céleri</ingredient>, puis <operation temps=6.86min espace=16>lavez - les</operation>. <operation temps=6.86min espace=16>prenez la gousse d’ <ingredient quantite=1>ail</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=16>piquez -en un avec les clous de <ingredient quantite=2>girofle</ingredient></operation>. <operation temps=6.86min espace=16>faites dorer le second, à sec, au <recipient>four</recipient>: il</operation> colorera le bouillon (pour colorer le bouillon, ajouter ½ cuillerée à café d’ arôme patrelle). mettez dans un <recipient>faitout</recipient> tous les morceaux de <ingredient quantite=1>viande</ingredient> et l’ <ingredient quantite=1>os à moelle</ingredient>, préalablement enveloppé dan une mousseline pour éviter que la <ingredient quantite=1>moelle</ingredient> ne se répande. <operation temps=6.86min espace=16>mouillez avec 5 litres d’ eau froide</operation>. salez au <ingredient quantite=1>gros sel</ingredient>. <operation temps=20.0min espace=16>portez à ébullition</operation> et <operation temps=6.86min espace=16>laissez bouillir, en ayant soin d’</operation> écumer souvent, jusqu’ à ce qu’ il ne se forme plus d’ écume. <operation temps=6.86min espace=16>ajoutez - y les <ingredient quantite=2>oignons</ingredient>, les <ingredient quantite=4>carottes</ingredient>, les</operation> <ingredient quantite=4>poireaux</ingredient> (liés en botte), le <ingredient quantite=1>céleri</ingredient> branche, l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>, préalablement ficelé. <operation temps=6.86min espace=16>ajoutez 12 <ingredient quantite=1>grains</ingredient> de poivre</operation>. <operation temps=6.86min espace=16>portez de nouveau à ébullition,</operation> puis <operation temps=6.86min espace=16>laissez cuire, à couvert (la vapeur</operation> doit pouvoir s’ échapper sur le côté), sur feu très doux, pendant au moins 4 heures. n’ oubliez pas de dégraisser en cours de cuisson avec une petite louche. le bouillon du pot-au-feu se consomme chaud ou tiède, en précédant les <ingredient quantite=1>viandes</ingredient> et les légumes ou seul. il peut aussi être la base de divers potages. quant aux morceaux de <ingredient quantite=1>viande</ingredient> et aux légumes, <operation temps=6.86min espace=16>retirez - les du bouillon et dressez - les dans un <recipient>plat</recipient> chaud</operation>. servez - les aussitôt, avec des cornichons, du <ingredient quantite=1>gros sel</ingredient> et de la moutarde forte.
+]]>
+ </preparation>
+</recette>

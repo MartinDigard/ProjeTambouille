@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39033">
+ <titre>Jambon à la madrilène</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 tranches de jambon blanc</p>
+ <p>500 g de chair à saucisse</p>
+ <p>200 g de champignons</p>
+ <p>1 oignon</p>
+ <p>75 g de gruyère râpé</p>
+ <p>Farine</p>
+ <p>Beurre</p>
+ <p>1 verre à moutarde de madère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+sauce: <operation temps=6.86min espace=11>faire fondre une grosse noix de beurre</operation>, ajouter une cuillère à soupe de farine et verser un <ingredient quantite=1>verre à moutarde de madère</ingredient>. quand la sauce est homogène, insérer 75 g de <ingredient quantite=1>gruyère râpé</ingredient>. saler et poivrer. <ingredient quantite=1>jambon</ingredient>: <operation temps=6.86min espace=11>faire fondre une grosse noix de beurre</operation>. <operation temps=6.86min espace=11>faire dorer les <ingredient quantite=1>champignons</ingredient> hachés, l’ <ingredient quantite=1>oignon</ingredient></operation> émincé et la <ingredient quantite=1>chair à saucisse</ingredient>. mélanger, une partie de la sauce, au mélange <ingredient quantite=1>oignon</ingredient> - <ingredient quantite=1>champignons</ingredient> - <ingredient quantite=1>chair à saucisse</ingredient>. etaler les <ingredient quantite=1>tranches de jambon</ingredient>, déposer la préparation dessus, et rouler. disposer dans un <recipient>plat</recipient> au <recipient>four</recipient>, et verser le restant de sauce. mettre au <recipient>four</recipient> à feu moyen, pendant environ 20 minutes. <operation temps=6.86min espace=11>servir avec une petite purée de pommes de terre et une salade verte</operation>. rosé doux
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222721">
+ <titre>Mousse à la noix de coco et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de chocolat</p>
+ <p>10 cl de lait</p>
+ <p>10 cl de lait de coco</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 cuillère à café de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> et le lait au <recipient>bain - marie</recipient>, la mélange</operation> doit être lisse et brillant. le verser dans le fond des 2 verres dans lequel on va <operation temps=6.86min espace=6>servir par la suite</operation>. mettre dans un siphon le lait de <ingredient quantite=1>coco</ingredient>, la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>sucre</ingredient>. fermer et remuer le siphon, mettre le gaz et mettre au frais. quand le <ingredient quantite=1>chocolat</ingredient> est frais, ajouter la mousse <ingredient quantite=1>coco</ingredient> et décorer avec des copeaux de <ingredient quantite=1>chocolat</ingredient>, réalisés avec un économe par exemple.
+]]>
+ </preparation>
+</recette>

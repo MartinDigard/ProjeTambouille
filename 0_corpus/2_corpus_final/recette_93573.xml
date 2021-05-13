@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93573">
+ <titre>Salade vivie</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>-1 barquette de salade mesclun, </p>
+ <p>-2 boules de mozzarella, </p>
+ <p>-8 tranches de bacon, </p>
+ <p>-basilic, </p>
+ <p>-sel et poivre, </p>
+ <p>-5 c à soupe d’ huile d’ olive, </p>
+ <p>-2 c à soupe de vinaigre balsamique, </p>
+ <p>-2 belles tomates coupées en tranches. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille mettez la <ingredient quantite=1>mozzarella coupée</ingredient> en tranches à mariner dans la vinaigrette faite avec le <ingredient quantite=1>vinaigre balsamique</ingredient>, le sel, le poivre, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et le basilic. sur les assiettes <operation temps=6.86min espace=8>montez les <ingredient quantite=1>salades</ingredient> de la façon suivante</operation>: <operation temps=6.86min espace=8>mettez une <ingredient quantite=1>tranche</ingredient> de <ingredient quantite=1>tomate</ingredient>, une de <ingredient quantite=1>mozzarella</ingredient>, une de <ingredient quantite=1>bacon</ingredient>, à nouveau une de <ingredient quantite=1>tomate</ingredient>, une de <ingredient quantite=1>mozzarella</ingredient>, une de</operation> <ingredient quantite=1>bacon</ingredient> et <operation temps=6.86min espace=8>finissez avec le chapeau de la <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=6.86min espace=8>mettez de la <ingredient quantite=1>mesclun</ingredient> tout autour</operation> et <operation temps=6.86min espace=8>versez de la vinaigrette</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62424">
+ <titre>Ma mousse aux 2 chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de chocolat noir</p>
+ <p>150 g de chocolat blanc</p>
+ <p>6 oeufs (blancs et jaunes séparés) </p>
+ <p>cannelle selon les goûts</p>
+ <p>une pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites fondre les 2 <ingredient quantite=1>chocolats</ingredient> dans une <recipient>casserole</recipient></operation>. <operation temps=6.86min espace=8>ajoutez - y les jaunes d’</operation> oeufs hors du feu. dans un <recipient>saladier</recipient>, battez les <ingredient quantite=1>blancs</ingredient> en neige ferme avec une <ingredient quantite=1>pincée de sel</ingredient>. incorporez - les délicatement à la préparation <ingredient quantite=1>chocolat</ingredient> / jaunes d’ <ingredient quantite=6>oeufs</ingredient>. <operation temps=6.86min espace=8>mettez le <recipient>saladier</recipient> au frais pendant 1 à 3 h</operation>. comme ça on pourrait penser que ce n’ est pas sucré, <operation temps=6.86min espace=8>détrompez -vous: avec du sucre en plus ça le serait trop</operation>.
+]]>
+ </preparation>
+</recette>

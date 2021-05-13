@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4102">
+ <titre>Terrine de tomates au Carré Frais</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>7 grosses tomates</p>
+ <p>200 g de Carrés Frais</p>
+ <p>4 feuilles de gélatine</p>
+ <p>huile d’ olive (2 ou 3 cuillères à soupe) </p>
+ <p>basilic, persil, ciboulette, menthe fraîche, sel et poivre (à volonté selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tremper les <ingredient quantite=7>tomates</ingredient> dans l’ eau bouillante pour retirer la peau. les couper en lanières, et récupérer le jus. filtrer le jus. réserver. mettre les <ingredient quantite=4>feuilles de gélatine</ingredient> à tremper dans de l’ eau froide. <operation temps=6.86min espace=7>faire chauffer le jus de <ingredient quantite=1>tomate</ingredient>, y</operation> <operation temps=6.86min espace=7>faire fondre la <ingredient quantite=4>gélatine</ingredient> essorée</operation>, <operation temps=20.0min espace=7>laisser refroidir</operation>. ecraser les <ingredient quantite=1>carrés frais</ingredient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient> et les herbes <ingredient quantite=1>fraîches</ingredient> (si possible), ciselées, <ingredient quantite=1>sel et poivre</ingredient>. dans un <recipient>plat</recipient> à cake (ou <recipient>terrine</recipient>), tapissé d’ un film plastique, déposer un lit de lanières de <ingredient quantite=7>tomates</ingredient>, arroser d’ un peu de jus, et <operation temps=10.0min espace=7>laisser prendre 10 min au <ingredient quantite=1>frais</ingredient></operation>. quand ça a " figé ", déposer une couche de fromage, puis une autre couches de <ingredient quantite=7>tomates</ingredient>, etc. terminer par une couche de <ingredient quantite=7>tomates</ingredient>, arroser de jus de <ingredient quantite=1>tomate</ingredient>, et <operation temps=6.86min espace=7>laisser prendre au <ingredient quantite=1>frais</ingredient> quelques heures</operation>. a consommer très <ingredient quantite=1>frais</ingredient>, avec des tranches de pain de campagne grillées.
+]]>
+ </preparation>
+</recette>
