@@ -10,7 +10,7 @@ import spacy
 nlp = spacy.load('fr_core_news_sm')
 
 
-def reloutise(ligne, unite):
+def reloutise_un(ligne, unite):
     """
     Corrige les trucs relous qui ont un '+'.
     """
@@ -43,8 +43,8 @@ def liste_ingredients(liste_ingr, unites, orga_entete=None):
             if unite in line:
                 prepa = line.split(unite)[1]
                 if '+' in prepa and len(line.split('+')[1]) != 0:
-                    resultat = [reloutise(line.split('+')[0], unite),
-                                reloutise(line.split('+')[1], unite)]
+                    resultat = [reloutise_un(line.split('+')[0], unite),
+                                reloutise_un(line.split('+')[1], unite)]
                     orga_entete.extend(resultat)
                 else:
                     resultat = (line.split(unite)[0], unite,

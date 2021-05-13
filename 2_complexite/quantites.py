@@ -8,45 +8,69 @@ Attributs « quantite » pour les balises ingrédients.
 import re
 
 
+def moyenne_qtt(signe, qtt):
+    """
+    Fait les moyennes.
+    """
+    nb1, nb2 = qtt.split(signe)
+    if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
+        qtt = float(nb1) + float(nb2) / 2
+    return qtt
+
+
+def division_qtt(signe, qtt):
+    """
+    Fait les divisions.
+    """
+    nb1, nb2 = qtt.split(signe)
+    if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
+        qtt = float(nb1) / float(nb2)
+    return qtt
+
+
+def conc_add(qtt):
+    """
+    Concatène ou additionne en focntion du contexte
+    """
+    if ' ' in qtt:
+        nb1, nb2 = qtt.split(' ')
+        if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
+            qtt = float(nb1 + nb2)
+    if "+" in str(qtt):
+        nb1, nb2 = qtt.split('+')
+        if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
+            qtt = float(nb1) + float(nb2)
+    return qtt
+
+
 def nettoyage_qtt(qtt, unite):
     """
     Nettoyage qtt
     """
     qtt_ingr = 0
     if unite == 'null' and qtt != "null":
-        if ' ' in qtt:
-            nb1, nb2 = qtt.split(' ')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1 + nb2)
-        if "+" in str(qtt):
-            nb1, nb2 = qtt.split('+')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1) + float(nb2)
-        if "/" in str(qtt):
-            nb1, nb2 = qtt.split('/')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1) / float(nb2)
-        if "\\" in str(qtt):
-            nb1, nb2 = qtt.split('\\')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1) / float(nb2)
+        # Concaténation et addition
+        if re.search(r" |\+", str(qtt)):
+            qtt = conc_add(qtt)
+
+        # Mutliplication
         if ("x" or "X") in str(qtt):
             nb1, nb2 = qtt.lower().split('x')
             if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
                 qtt = float(nb1) * float(nb2)
-        if "-" in str(qtt):
-            nb1, nb2 = qtt.split('-')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1) + float(nb2) / 2
-        if "à" in str(qtt):
-            nb1, nb2 = qtt.split('à')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1) + float(nb2) / 2
-        if "|" in str(qtt):
-            nb1, nb2 = qtt.split('|')
-            if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
-                qtt = float(nb1) + float(nb2) / 2
-        if not re.search(r'^[0-9]+(.[0-9]+)?$', str(qtt)):
+
+        # Division
+        if re.search(r"/|\\", str(qtt)):
+            symbole = re.sub(r'[^/\\]', '', str(qtt))
+            qtt = division_qtt(symbole, qtt)
+
+        # Moyenne
+        if re.search(r"-|à|\|", str(qtt)):
+            symbole = re.sub('[^-à|]', '', str(qtt))
+            qtt = moyenne_qtt(symbole, qtt)
+
+        # Un ingrédient liquide, en poudre ou inconnu est égal à 1 unité
+        if not re.search(r'^[0-9]+(\.[0-9]+)?$', str(qtt)):
             qtt_ingr += 1
         else:
             if float(qtt) < 10:

@@ -42,7 +42,7 @@ def bouteille_a_la_mer(input_file, infos_ingredients, target_file):
         tsv.write('\n\n')
 
 
-def nettoyage_balises_ope(recette):
+def reloutise_deux(recette):
     """
     Debug des balises opérations
     """
@@ -108,7 +108,7 @@ def main():
                                  recette_annotee)
 
         # Debug annotations
-        recette_annotee = nettoyage_balises_ope(recette_annotee)
+        recette_annotee = reloutise_deux(recette_annotee)
 
         # Recoller le recette
         entete = ac.recoller(entete)
