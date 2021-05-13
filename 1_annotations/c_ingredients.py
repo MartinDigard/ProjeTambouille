@@ -62,7 +62,7 @@ def liste_ingredients(liste_ingr, unites, orga_entete=None):
                     resultat = ('null', 'null', line)
                 orga_entete.append(resultat)
         unites = [' cl ', ' ml ', ' l ', ' dl ', 'g ', ' kg ', ' kilogramme ',
-                    ' kilogrammes ', ' gramme ', ' grammes ', 'gr ']
+                  ' kilogrammes ', ' gramme ', ' grammes ', 'gr ']
         return liste_ingredients(liste_ingr[1:], unites, orga_entete)
     return orga_entete
 
