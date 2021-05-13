@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54198">
+ <titre>Potage au thon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de pommes de terre</p>
+ <p>1 boite de thon au naturel (200 g) </p>
+ <p>1 l de lait</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient>pommes de terre</ingredient> et <operation>coupez - les en morceaux</operation>. <operation>faites les</operation> cuire 20 minutes dans 50 cl d’ eau lègèrement salée. <operation>ajoutez le <ingredient>thon</ingredient> égoutté et le lait</operation>. <operation>faites cuire encore 10 minutes</operation>. passez au mixer et <operation>servez chaud</operation>, saupoudré de <ingredient>persil haché</ingredient>. bon appétit.
+]]>
+ </preparation>
+</recette>

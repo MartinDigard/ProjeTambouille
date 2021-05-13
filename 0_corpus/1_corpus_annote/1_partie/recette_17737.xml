@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17737">
+ <titre>Tarte Flambée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte à pizza</p>
+ <p>1 barquette de lardons</p>
+ <p>un oignon</p>
+ <p>1 pomme de terre (cuite à l’ eau) </p>
+ <p>2 cuillères à soupe de fromage blanc</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>du gruyère râpé (ou fromage à raclette...) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer la <ingredient>pâte à pizza</ingredient> sur une plaque. allumer le <recipient>four</recipient> th 8 <operation>faire revenir à la <recipient>poêle</recipient> les <ingredient>lardons</ingredient> et l’ <ingredient>oignon</ingredient> séparément jusqu’ à ce qu’ ils</operation> dorent légèrement. mélanger dans un <recipient>saladier</recipient> la <ingredient>crème fraîche</ingredient> et le <ingredient>fromage blanc</ingredient>, ajouter sel, poivre et muscade. napper la <ingredient>pâte</ingredient> de cette préparation. répartissez uniformément l’ <ingredient>oignon</ingredient>, les <ingredient>lardons</ingredient>, la <ingredient>pomme de terre</ingredient> coupée en morceaux et le <ingredient>fromage</ingredient>. mettre à <recipient>four</recipient> chaud 20 à 30 mn.
+]]>
+ </preparation>
+</recette>

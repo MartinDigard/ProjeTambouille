@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37906">
+ <titre>Lahmajin (petite pizza arménienne à la viande) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à pain: </p>
+ <p>1 kg de farine type 55 </p>
+ <p>sel</p>
+ <p>1 cube de levure de boulanger</p>
+ <p>Pour la garniture: </p>
+ <p>1 kg de viande hachée (basse côte par exemple) </p>
+ <p>6 à 7 gousses d’ ail réduites en purée, </p>
+ <p>sel et poivre</p>
+ <p>2 cuillères à soupe de concentré de tomate</p>
+ <p>500 g de tomates concassées égouttées en boîte</p>
+ <p>1 bouquet de persil finement haché (à la main et pas au robot) </p>
+ <p>1 cuillère à café de purée de piment ou moins suivant goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte à <ingredient>pain</ingredient>: mélanger la farine, la <ingredient>levure</ingredient> délayée dans un peu d’ eau tiède, et le <ingredient>sel</ingredient>, ajouter un peu d’ eau et <operation>pétrir jusqu’ à ce que la <ingredient>pâte</ingredient> soit lisse et ferme</operation>. <operation>laisser reposer la <ingredient>pâte</ingredient> 2 h recouverte d’ un torchon humide</operation>. mélanger intimement tous les ingrédients de la <ingredient>garniture</ingredient>: mélange homogène. montage: prendre de petites boulettes de <ingredient>pâte à pain</ingredient>: une grosse noix. les abaisser en un cercle de la grosseur d’ un <ingredient>pain</ingredient> pita par exemple (ou plus petit pour les buffets) les <operation>garnir de la préparation à la <ingredient>viande</ingredient> et bien</operation> appuyer dessus avec les doigts pour bien faire adhérer la <ingredient>garniture</ingredient> à <ingredient>la pâte</ingredient>. ranger les lahmajins sur des plaques à <recipient>four</recipient> légèrement farinées et <operation>faire cuire au <recipient>four</recipient> préchauffé à 200 ° c (thermostat 6 - 7</operation>). attention à ne pas trop <operation>faire cuire les lahmajins il</operation> faut que la <ingredient>pâte</ingredient> reste souple. les servir avec des poivrons ou des aubergines grillés au <recipient>four</recipient> et pelés et un filet de jus de citron.
+]]>
+ </preparation>
+</recette>

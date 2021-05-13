@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33004">
+ <titre>Mille feuilles</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>500 g de pâte feuilletée</p>
+ <p>Pour la crème pâtissière: </p>
+ <p>1 oeuf</p>
+ <p>1/4 de litre de lait</p>
+ <p>50 g de sucre</p>
+ <p>35 g de farine</p>
+ <p>un sachet de sucre vanilléPour le glacage: </p>
+ <p>sucre glace</p>
+ <p>un carreau de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+abaisser la <ingredient>pâte feuilletée</ingredient> sur environ 3 mm. la piquer à la fourchette pour qu’ elle ne gonfle pas puis la mettre au <recipient>four</recipient> sur 6, soit 180 ° c. pendant ce temps, préparer la <ingredient>crème pâtissière</ingredient>: mettre le <ingredient>lait</ingredient> à <operation>bouillir</operation>. pendant ce temps, mélanger dans un <recipient>saladier</recipient> l’ <ingredient>oeuf</ingredient>, le <ingredient>sucre</ingredient>, le <ingredient>sucre</ingredient> vanillé et la farine. lorsque le <ingredient>lait</ingredient> est à ébullition, le verser immédiatement dans le <recipient>saladier</recipient>. remettre à cuire dans la <recipient>casserole</recipient> pendant quelques minutes afin que le liquide prenne la consistance d’ une <ingredient>crème</ingredient>. lorsque la <ingredient>pâte feuilletée</ingredient> est cuite, et même désséchée, la couper en trois parties égales. etaler la <ingredient>crème pâtissière</ingredient> sur une première couche de <ingredient>pâte</ingredient>, puis <operation>faire de même avec une seconde</operation>. les assembler. attendre que le gâteau soit froid pour étaler au pinceau le <ingredient>glacage</ingredient>, fait avec beaucoup de <ingredient>sucre glace</ingredient> mélangé à un peu d’ eau. réaliser un dessin avec le reste du <ingredient>glacage</ingredient>, mélangé à un <ingredient>carreau de chocolat</ingredient> fondu. c’ est prêt!
+]]>
+ </preparation>
+</recette>

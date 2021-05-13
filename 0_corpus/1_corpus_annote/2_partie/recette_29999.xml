@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29999">
+ <titre>Gratin de bettes à la parmesane</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de bettes</p>
+ <p>2 cuillères à soupe d’ huile d’ olive </p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>80 g de parmesan râpé</p>
+ <p>30 g de beurre + beurre pour le moule</p>
+ <p>sel</p>
+ <p>Pour la béchamel: </p>
+ <p>40 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>2 pincées de noix de muscade râpée</p>
+ <p>50 cl de lait</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>séparez les côtes et les feuiles des <ingredient>bettes</ingredient></operation>. <operation>pelez les côtes à l’</operation> aide d’ un couteau économe, <operation>coulez en tronçons</operation>. <operation>faites - les</operation> cuire à l’ eau bouillante salée peandant 20 mn. <operation>egouttez</operation> - les. <operation>lavez les feuilles</operation>. <operation>ciselez</operation> - les. dans une <recipient>poêle</recipient>, <operation>faites - les</operation> fondre à feu moyen avec l’ <ingredient>huile</ingredient> et l’ <ingredient>ail</ingredient>. <operation>augmentez le feu pour fair évaporez l’ eau</operation>. <operation>réservez</operation>. préchauffez le <recipient>four</recipient> à 210 ° (thermostat 7). pour <ingredient>la béchamel</ingredient>, <operation>faites fondre le <ingredient>beurre</ingredient> dans une <recipient>casserole</recipient> à feu doux</operation>. <operation>ajoutez la farine et la <ingredient>muscade</ingredient></operation>. <operation>mélangez</operation>. <operation>versez le lait</operation>. <operation>faites épaissir</operation>. <operation>salez</operation>, <operation>poivrez</operation>. <operation>incorporez 40 g de <ingredient>parmesan</ingredient></operation>. dans un <recipient>plat</recipient> beurré, disposez la moitié de la <ingredient>béchamel</ingredient> puis le reste des côté. <operation>finissez par la <ingredient>béchamel</ingredient>, 40 g de <ingredient>parmesan</ingredient> puis 30 g de <ingredient>beurre</ingredient></operation>. <operation>enfournez 20 mn</operation>.
+]]>
+ </preparation>
+</recette>

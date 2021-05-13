@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29628">
+ <titre>Carpaccio de boeuf au basilic</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 kg de filet de boeuf</p>
+ <p>1 citron</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ <p>parmesan frais</p>
+ <p>basilic frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites trancher le <ingredient>boeuf</ingredient> en très fines lamelles par le</operation> boucher. vous pouvez aussi le couper vous - même à l’ aide d’ un couteau bien aiguisé, dans ce cas placez la viande au <recipient>congélateur</recipient> 30 min avant découpage. <operation>déposez les tranches sur de grandes assiettes</operation> et <operation>réservez</operation> au <recipient>réfrigérateur</recipient> durant 30 minutes</operation>. avant de <operation>servir</operation>, <operation>émulsionnez le jus du <ingredient>citron</ingredient> avec environ 10 cl d’ huile d’</operation> <ingredient>olive</ingredient>, <operation>salez</operation> et <operation>poivrez</operation>. <operation>arrosez le carpaccio de sauce, déposez quelques copeaux de <ingredient>parmesan</ingredient> et des feuilles de <ingredient>basilic</ingredient></operation> ciselées puis <operation>servez</operation>. accompagnez de salade verte assaisonnée et de pommes de terre sautées.
+]]>
+ </preparation>
+</recette>

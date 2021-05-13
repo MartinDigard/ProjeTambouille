@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57410">
+ <titre>Quiche au thon et au maïs</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de thon (+ou- 200g) </p>
+ <p>1 boîte de maïs (+ou- 150g) </p>
+ <p>3 oeufs</p>
+ <p>30 cl de crème fraîche</p>
+ <p>1 pâte feuilletée ou brisée</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>beurrez le <recipient>plat</recipient></operation> et <operation>étalez - y la <ingredient>pâte</ingredient> (ne pas</operation> oublier de <operation>faire des trous à la fourchette</operation>). dans un bol, <operation>mélangez la <ingredient>crème</ingredient>, les</operation> <ingredient>oeufs</ingredient>, <operation>salez</operation> et <operation>poivrez</operation>. sur la <ingredient>pâte</ingredient>: <operation>répartir le <ingredient>thon</ingredient> bien émietté puis le <ingredient>maïs</ingredient></operation>. <operation>versez ensuite la préparation du bol</operation>. <operation>enfournez un trentaine de minutes</operation>!
+]]>
+ </preparation>
+</recette>

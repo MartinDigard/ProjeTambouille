@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27540">
+ <titre>Sorbet de pêches</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pêches </p>
+ <p>50 cl de sirop de sucre de canne</p>
+ <p>le jus d’ 1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pocher les <ingredient>pêches</ingredient> 10 secondes dans de l’ eau bouillante, puis les rafraîchir dans l’ eau froide. les peler et les dénoyauter. mixer la chair et la mélanger au <ingredient>sirop de sucre</ingredient> et au <ingredient>jus</ingredient> de <ingredient>citron</ingredient>. verser la préparation dans un <recipient>moule</recipient> et <operation>faire glacer au freezer pendant 3 h</operation>.
+]]>
+ </preparation>
+</recette>

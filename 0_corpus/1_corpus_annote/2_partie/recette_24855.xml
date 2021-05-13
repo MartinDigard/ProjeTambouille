@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24855">
+ <titre>Pommes de terre façon forestière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses ou 12 petites pommes de terre</p>
+ <p>500 g de foies de volaille</p>
+ <p>200 g de champignons de Paris</p>
+ <p>150 g de fines herbes</p>
+ <p>sel et poivre</p>
+ <p>60 g de beurre + 50 g</p>
+ <p>50 g de fromage râpé</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient>pommes de terre</ingredient> au <recipient>four</recipient> et les évider. faire revenir les <ingredient>foies de volaille</ingredient> dans un mélange d’ <ingredient>huile</ingredient> et de <ingredient>beurre</ingredient> et les hacher. <operation>faire sauter les <ingredient>champignons</ingredient></operation> hachés dans 20 <ingredient>g</ingredient> de <ingredient>beurre</ingredient> et les mélanger à la pulpe, avec les <ingredient>foies</ingredient> et les <ingredient>fines herbes</ingredient> hachés. garnir les <ingredient>pommes de terre</ingredient>, saupoudrer de <ingredient>fromage râpé</ingredient> et arroser du reste de beurre fondu. <operation>faire gratiner au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

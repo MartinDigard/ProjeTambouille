@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56053">
+ <titre>Tortilla de pommes de terre au safran</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de pommes de terre au choix, en robe des champs ou épluchées, coupées en tranches </p>
+ <p>1 courgette coupée en rondelles</p>
+ <p>100 g de jambon, coupé en petits dés</p>
+ <p>1 oignon rouge, coupé en deux, puis en lamelles</p>
+ <p>10 cl de lait</p>
+ <p>2 cuillères à soupe d’ huile olive</p>
+ <p>4 oeufs</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>1 pochette de safran</p>
+ <p>Poivre</p>
+ <p>Cresson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer l’ <ingredient>huile</ingredient> dans une <recipient>poêle</recipient> antiadhésive</operation>. ajoutez les ingrédients des <ingredient>pommes de terre</ingredient> jusqu’ aux <ingredient>oignons</ingredient> inclus et <operation>laissez cuire tout en</operation> remuant. <operation>mélangez tous les ingrédients du lait au poivre compris</operation> et <operation>versez - les sur les légumes, couvrez</operation> et <operation>laissez prendre une quinzaine de minutes à tout <ingredient>petit</ingredient> feu</operation>. garnissez de <ingredient>cresson</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52805">
+ <titre>Steak d’ autruche aux baies roses</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 steacks d’ autruche</p>
+ <p>10 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de baies roses entières</p>
+ <p>1 bonne rasade de calvados</p>
+ <p>20 cl de fond de veau </p>
+ <p>10 cl de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>saisir la viande à feu vif dans le mélange <ingredient>beurre</ingredient> - <ingredient>huile</ingredient>, 2 min environ sur chaque face</operation>. il est impératif de ne pas trop cuire les steaks, pour ne pas qu’ ils se dessèchent! les enlever de la <recipient>poêle</recipient> et les conserver au chaud dans du papier aluminium. <operation>faire revenir les <ingredient>baies</ingredient></operation> roses dans la <recipient>poêle</recipient> ayant contenu les steaks, en grattant le <ingredient>fond</ingredient> avec une spatule pour bien décoller les sucs. arroser de <ingredient>calvados</ingredient> et flamber ; ajouter le <ingredient>fond de veau</ingredient> dilué et la <ingredient>crème</ingredient>, puis baisser le feu et <operation>laisser épaissir environ 5 min</operation>. saler, poivrer puis <operation>servir les steaks nappés de sauce</operation>. j’ ai servi ce <recipient>plat</recipient> avec des galettes de petits légumes surgelées. si vous <operation>achetez de la viande sous vide</operation>, <operation>sortez le sachet du frigo 30</operation> minavant la cuisson pour éviter le choc thermique qui pourrait <operation>faire durcir la viande</operation>. bourgueil
+]]>
+ </preparation>
+</recette>

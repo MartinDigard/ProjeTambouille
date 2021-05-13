@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28165">
+ <titre>Melon en sorbet</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>550 g de melon bien mûr</p>
+ <p>15 cl d’ eau</p>
+ <p>150 g de sucre</p>
+ <p>1 citron </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, diluer l’ <ingredient>eau</ingredient> et le <ingredient>sucre</ingredient>, et porter le tout à ébullition pendant 10 minutes puis <operation>laisser refroidir</operation>. mixer la chair des <ingredient>melons</ingredient>, ajouter le sirop et le jus de <ingredient>citron</ingredient> puis glacer en <recipient>sorbetière</recipient>.
+]]>
+ </preparation>
+</recette>

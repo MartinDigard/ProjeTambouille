@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20605">
+ <titre>Pot-au-feu de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de jarret de boeuf</p>
+ <p>1 langue de veau</p>
+ <p>500 g de queue de boeuf en bouquet</p>
+ <p>3 l d’ eau</p>
+ <p>1 os à moelle</p>
+ <p>1 gros oignon piqué d’ 1 clou de girofle</p>
+ <p>3 gousses d’ ail</p>
+ <p>500 g de poireaux</p>
+ <p>500 g de navets</p>
+ <p>3 carottes</p>
+ <p>2 branches de céleri</p>
+ <p>1 chou vert</p>
+ <p>3 grosses pommes de terre</p>
+ <p>1 bouquet garni</p>
+ <p>1 cuillère à soupe de poivre en grains</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passez la <ingredient>langue de veau</ingredient> sous l’ <ingredient>eau</ingredient> courante. ôter la peau et les parties hérissées. déposez les viandes (<ingredient>jarret de boeuf</ingredient> et <ingredient>langue de veau</ingredient>) dans une grande <recipient>cocotte</recipient>. <operation>couvrez de 3 litres d’</operation> <ingredient>eau</ingredient> et ajoutez le <ingredient>poivre</ingredient>, le <ingredient>bouquet garni</ingredient>, du sel, l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient> hachés. <operation>portez à ébullition</operation>, <operation>ôtez l’ écume qui s’ est</operation> formée à la surface puis <operation>laissez cuire à frémissement 2 heures</operation>. <operation>blanchissez les feuilles de <ingredient>chou</ingredient> dans l’ <ingredient>eau</ingredient> bouillante</operation>. <operation>lavez</operation> et <operation>pelez les légumes: <ingredient>navets</ingredient>, <ingredient>carottes</ingredient>, <ingredient>céleri</ingredient> et <ingredient>poireaux</ingredient></operation>. trente minutes avant la fin de la cuisson des viandes, ajoutez dans la <recipient>cocotte</recipient> les légumes et l’ <ingredient>os à moelle</ingredient>. <operation>laissez cuire 15 - 20 minutes</operation>. <operation>coupez les viandes en tranches</operation>. <operation>disposez - les dans un <recipient>plat</recipient> avec les légumes et pour</operation> <operation>finir</operation>, <operation>arrosez de bouillon</operation>. <operation>servez</operation> brûlant.
+]]>
+ </preparation>
+</recette>

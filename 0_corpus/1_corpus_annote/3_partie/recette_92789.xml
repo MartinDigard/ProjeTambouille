@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92789">
+ <titre>Thon massalé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de thon </p>
+ <p>6 petites tomates </p>
+ <p>3 oignons </p>
+ <p>1 tête d’ ail </p>
+ <p>3 cuillère à soupe de massalé (dans les épicerie asiatique) </p>
+ <p>1 cuillère à café de curcuma </p>
+ <p>1 branche de thym </p>
+ <p>piments </p>
+ <p>sel et huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez le <ingredient>thon</ingredient> en gros dés</operation> puis <operation>faites revenir les morceaux dans de l’ huile</operation> chaude pendant environ 5mn puis <operation>enlevez le tout</operation>. <operation>émincez les</operation> <ingredient>oignons</ingredient> et <operation>coupez les <ingredient>tomates</ingredient> en <ingredient>petits</ingredient> morceaux</operation> puis <operation>pilez le <ingredient>sel</ingredient>, l’ <ingredient>ail</ingredient> et les <ingredient>piments</ingredient></operation>. <operation>faites revenir les <ingredient>oignons</ingredient> 3mn</operation> puis <operation>ajoutez le mélange</operation> pilé ainsi que le <ingredient>curcuma</ingredient>. au bout de 2mn <operation>ajoutez les morceaux de <ingredient>tomates</ingredient>, le <ingredient>thym</ingredient> ainsi que le</operation> <ingredient>massalé</ingredient> puis <operation>faites cuire 3mn</operation>. <operation>ajoutez le <ingredient>thon</ingredient> ainsi qu’ un verre d’ eau</operation> et <operation>faites cuire à couvert 1/4</operation> heure environ. il faut que la sauce soit onctueuse. vous <operation>accompagnerez ce <recipient>plat</recipient> avec du riz blanc</operation>.
+]]>
+ </preparation>
+</recette>

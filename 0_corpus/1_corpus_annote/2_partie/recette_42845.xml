@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42845">
+ <titre>Quiche aux navets et champignons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisé</p>
+ <p>1 kg de navets</p>
+ <p>300 g de champignons de Paris</p>
+ <p>100 g de gruyère râpé</p>
+ <p>3 œufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel et poivre</p>
+ <p>noix de muscade (ou autre épice selon goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient>navets</ingredient>, les couper en tranches et les <operation>faire cuire à la vapeur</operation>. emincer les <ingredient>champignons</ingredient> et les <operation>faire revenir à la <recipient>poêle</recipient></operation>. etaler la <ingredient>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, la <operation>faire pré-cuire</operation> « à blanc » à 180 ° c (thermostat 6) pendant 10 minutes. battre les <ingredient>œufs</ingredient> et ajouter la <ingredient>crème</ingredient>, saler, poivrer, épicer. <operation>répartir les <ingredient>champignons</ingredient> sur la <ingredient>pâte</ingredient>, puis les</operation> <ingredient>navets</ingredient>, ajouter l’ appareil et saupoudrer de <ingredient>gruyère</ingredient> rapé. <operation>faire cuire environ 30 minutes au <recipient>four</recipient> à 220 - 240 ° c (thermostat 7 - 8</operation>).
+]]>
+ </preparation>
+</recette>

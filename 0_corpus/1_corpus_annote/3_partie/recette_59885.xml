@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59885">
+ <titre>Riz au lait pour machine à pain</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>95 cl de lait</p>
+ <p>100 g de sucre</p>
+ <p>20 g de beurre</p>
+ <p>2 cuillères à café de vanille liquide</p>
+ <p>180 g de riz rond pour dessert</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>riz</ingredient> à l’ eau bouillante</operation> salée 3 minutes. egoutter. <operation>faire fondre le beurre</operation>. dans la cuve de la <recipient>machine à pain</recipient> <operation>ajoutez dans l’ ordre: lait, <ingredient>beurre</ingredient>, <ingredient>vanille</ingredient>, <ingredient>sucre</ingredient> et le <ingredient>riz</ingredient></operation>. mettre la machine en programme confiture. a la fin du programme, vérifier la texture et remettre le programme cuisson sous surveillance si nécessaire. verser le <ingredient>riz</ingredient> encore chaud dans des ramequins. consommer bien frais. variante: <ingredient>riz</ingredient> exotique: rajouter 300 g de fruits coupés en morceaux (mangues, pêche, banane... selon saison) et remplacer une partie du lait par du lait de coco. avantage de la méthode en <recipient>machine à pain</recipient>: pas besoin de surveiller ni de remuer, le <ingredient>riz</ingredient> n’ accorche pas au fond. cidre
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70345">
+ <titre>Saint-Jacques au vinaigre de framboise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>6 noix de St Jacques</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 cuillère à soupe de vinaigre de framboise</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>sel/poivre</p>
+ <p>une noix de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire chauffer la <ingredient>crème fraîche</ingredient> à feu doux. pendant ce temps, <operation>faire fondre le <ingredient>beurre</ingredient> dans une <recipient>poêle</recipient>, y</operation> <operation>faire revenir les <ingredient>st</ingredient></operation> jacques rapidement. trop longtemps, elles deviendraient caoutchouteuses. dans la <ingredient>crème fraîche</ingredient>, ajouter la <ingredient>moutarde</ingredient> puis le <ingredient>vinaigre de framboise</ingredient>. <operation>salez -</operation> <operation>poivrez</operation>. au dernier moment, <operation>versez le mélange de</operation> crème sur les <ingredient>st</ingredient> jacques. servir chaud. il est possible de rajouter quelques herbes selon votre goût, du thym par exemple. ce <recipient>plat</recipient> peut être servi seul en entrée ou en <recipient>plat</recipient> principal, accompagné de tagliatelles fraîches par exemple. riesling
+]]>
+ </preparation>
+</recette>

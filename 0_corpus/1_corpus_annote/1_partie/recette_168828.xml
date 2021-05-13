@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168828">
+ <titre>Gâteau aux pommes "Ralitsa"</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 pommes </p>
+ <p>3 oeufs</p>
+ <p>200 g sucre en poudre</p>
+ <p>300 g de farine</p>
+ <p>60 g d’ huile de tournesol</p>
+ <p>1/2 cuillère à café de bicarbonate de sodium</p>
+ <p>50 gr de noix cassés</p>
+ <p>1 sucre vanille</p>
+ <p>2 cuillères à café de la cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>râpez les 3 <ingredient>pommes</ingredient></operation>. <operation>préchauffez le <recipient>four</recipient> à 180 ° c</operation>. dans un récipient <operation>mélangez les <ingredient>oeufs</ingredient>, le <ingredient>sucre</ingredient>, l’</operation> huile, le <ingredient>sucre vanille</ingredient>, le <ingredient>bicarbonate de sodium</ingredient> et la farine. <operation>ajoutez par la suite les <ingredient>pommes</ingredient></operation> râpées et les <ingredient>noix</ingredient> cassés. <operation>versez dans un <recipient>moule</recipient> à gâteau beurré et fariné</operation>. <operation>faire cuire au <recipient>four</recipient> pendant 30 - 40 min à 180 ° c (thermostat 6</operation>). <operation>démoulez quand le gâteau est</operation> tiède est <operation>saupoudrez</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

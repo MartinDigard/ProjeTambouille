@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20240">
+ <titre>Pain aux 2 poissons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 sortes de filet de poissons: dorade et saumon ou truite avec un poisson blanc (colin, limande...), à raison de 4 files de chaque</p>
+ <p>1/2 sachet de court bouillon</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>persil</p>
+ <p>2 cuillères à café rases de sel</p>
+ <p>1 cuillère à café rase de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient>filets de poisson</ingredient> ensemble dans le <ingredient>court bouillon</ingredient>. battre les <ingredient>oeufs</ingredient>, la <ingredient>crème</ingredient>, le <ingredient>persil</ingredient>, le <ingredient>sel</ingredient> et le <ingredient>poivre</ingredient>. ajouter le <ingredient>poisson</ingredient> en miette. beurrer un <recipient>moule</recipient> à cake, verser la préparation. <operation>laisser cuire 30 mn à <recipient>four</recipient> chaud: th 6 - 7 pour</operation> rester dans les couleurs et le goût, <operation>accompagnez le pain de <ingredient>poisson</ingredient> d’ une mayonnaise classique et d’ une à la tomate</operation> (ajouter 1 grosse c. à <ingredient>café</ingredient> de concentré de tomate)
+]]>
+ </preparation>
+</recette>

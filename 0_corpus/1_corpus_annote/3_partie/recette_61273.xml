@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61273">
+ <titre>Salade de riz au surimi et à la pomme</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz</p>
+ <p>12 bâtonnets de surimi</p>
+ <p>1 pomme</p>
+ <p>1 grosse tomate</p>
+ <p>100 g de gruyère</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>riz</ingredient> et le</operation> <operation>laisser refroidir</operation>. couper le <ingredient>surimi</ingredient> en petits morceaux, la <ingredient>tomate</ingredient>, le gruyère et la <ingredient>pomme</ingredient> en dés. mélanger le <ingredient>riz</ingredient> avec le <ingredient>surimi</ingredient>, la <ingredient>pomme</ingredient>, la <ingredient>tomate</ingredient> et le gruyère puis arroser d’ <ingredient>huile</ingredient> et de <ingredient>vinaigre</ingredient>.
+]]>
+ </preparation>
+</recette>

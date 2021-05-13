@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21060">
+ <titre>Nage de Saint-Jacques au vin blanc</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>16 noix de Saint-Jacques</p>
+ <p>30 cl de lait</p>
+ <p>30 cl de vin blanc</p>
+ <p>4 carottes</p>
+ <p>2 blancs de poireaux</p>
+ <p>2 navets</p>
+ <p>1 gros bulbe de fenouil</p>
+ <p>1/2 boule de céleri</p>
+ <p>2 oignons piqués de 2 clous de girofle</p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>versez le lait, le <ingredient>vin</ingredient> et 2 l d’ eau dans une grande <recipient>marmite</recipient></operation>. <operation>jetez - y les légumes pelés et finement</operation> émincés et les <ingredient>oignons</ingredient> entiers. ajoutez le <ingredient>bouquet garni</ingredient>, <operation>salez</operation>, <operation>poivrez</operation>. <operation>portez à ébullition</operation> et <operation>laissez bouillir 30 minutes</operation>. plongez les <ingredient>saint-jacques</ingredient> dans la <recipient>marmite</recipient> en ébullition, <operation>laissez cuire 5 minutes</operation>. <operation>egouttez</operation> - les et <operation>réservez au chaud</operation>. retirez les <ingredient>oignons</ingredient> et le <ingredient>bouquet garni</ingredient>. <operation>faites réduire le bouillon de cuisson de moitié</operation>. <operation>servez - le dans les assiettes</operation> et <operation>déposez les <ingredient>saint-jacques</ingredient></operation> dedans.
+]]>
+ </preparation>
+</recette>

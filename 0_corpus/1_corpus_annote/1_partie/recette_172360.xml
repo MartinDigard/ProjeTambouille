@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172360">
+ <titre>Magret de canard sauce framboise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 magrets de canard</p>
+ <p>4 grosses pommes de terre</p>
+ <p>2 cuillères à soupe de confiture de framboise</p>
+ <p>1 cuillère à soupe de miel liquide</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient>pommes de terre</ingredient>, les couper en dès et les <operation>faire revenir à la <recipient>poêle</recipient> dans un peu de beurre</operation>. entailler le <ingredient>magret</ingredient> côté gras. <operation>faire cuire le <ingredient>magret</ingredient> à la <recipient>poêle</recipient></operation>. au moment de <operation>servir</operation>, ajouter dans la <recipient>poêle</recipient> encore chaude la <ingredient>confiture</ingredient> et le <ingredient>miel</ingredient>. <operation>laisser fondre</operation>, verser sur le <ingredient>magret</ingredient> puis servir avec les <ingredient>pommes de terre</ingredient>.
+]]>
+ </preparation>
+</recette>

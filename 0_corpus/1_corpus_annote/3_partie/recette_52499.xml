@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52499">
+ <titre>Ma super soupe de légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pack de légumes pour pot-au-feu pour 2/3 personnes (carottes, céleri, navet, poireaux, bouquet garni, oignon) </p>
+ <p>4 ou 5 pommes de terre</p>
+ <p>quelques feuilles de choux vert (facultatif) </p>
+ <p>1 l de bouillon (2 cubes pot au feu, boeuf, arôme saveur...) </p>
+ <p>beurre</p>
+ <p>15 cl de vin blanc sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper les <ingredient>légumes</ingredient> en morceaux puis les <operation>faire revenir dans du beurre pendant environ 5 minutes en</operation> remuant. verser le <ingredient>vin blanc</ingredient> et <operation>laisser mijoter pendant 2 à 3 minutes avant d’</operation> ajouter le <ingredient>bouillon</ingredient>. <operation>faire cuire pendant environ 20 minutes à l’ <recipient>autocuiseur</recipient> (40 à 50 minutes à la <recipient>casserole</recipient></operation>). bien mouliner la soupe de manière à <operation>obtenir un velouté</operation>. saler si besoin, poivrer avec du poivre du moulin ou <ingredient>du</ingredient> 5 baies. servir bien chaud avec 1 cuillère de crème fraiche. vous pouvez utiliser les <ingredient>légumes</ingredient> de votre choix, le tout étant de les <operation>faire revenir dans du beurre et d’</operation> ajouter un peu de <ingredient>vin blanc</ingredient>. un vrai délice!
+]]>
+ </preparation>
+</recette>

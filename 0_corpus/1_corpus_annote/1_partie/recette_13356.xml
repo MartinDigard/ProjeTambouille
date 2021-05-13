@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13356">
+ <titre>Poulet aux arachides</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet de 1, 5 kg</p>
+ <p>6 tomates</p>
+ <p>2 oignons</p>
+ <p>125 g de pâte d’ arachides (en boîte dans les rayons exotiques) </p>
+ <p>3 aubergines</p>
+ <p>6 pommes de terre</p>
+ <p>1 piment bec d’ oiseau</p>
+ <p>sel, poivre</p>
+ <p>15 cl d’ huile d’ arachide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez le <ingredient>poulet</ingredient> en morceaux, les dorer dans une grande <recipient>cocotte</recipient> avec l’</operation> huile. epluchez les <ingredient>oignons</ingredient> et les ajouter coupés fins aux morceaux de <ingredient>poulet</ingredient> déjà dorés. <operation>laisser revenir quelques instants</operation>. <operation>pelez les <ingredient>tomates</ingredient> après les avoir</operation> ébouillantées et <operation>concassez les grossièrement ensuite</operation> <operation>coupez les <ingredient>aubergines</ingredient> en rondelles</operation> et <operation>ajoutez dans la <recipient>cocotte</recipient></operation>. <operation>laissez cuire 5 minutes environ à feu moyen en</operation> ajoutant 2 verres d’ eau et le piment. <operation>laissez mijoter 20 mn envirin à feu doux</operation>. <operation>délayez la pate d’ arachide</operation>, ajoutez les <ingredient>pommes de terre</ingredient> et <operation>laissez cuire</operation>. la cuisson sera terminée lorsque les <ingredient>pommes de terre</ingredient> seront cuites. dressez le <recipient>plat</recipient> de service avec le <ingredient>poulet</ingredient> au milieu et les <ingredient>pommes de terre</ingredient> autour, le tout nappé de la sauce très chaude. on peut remplacer les <ingredient>pommes de terre</ingredient> par des patates douces ou du riz blanc. faugeres rosé
+]]>
+ </preparation>
+</recette>

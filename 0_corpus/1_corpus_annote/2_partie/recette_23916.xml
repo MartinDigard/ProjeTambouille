@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23916">
+ <titre>Epinards sautés à l’ ail et au sésame</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 2 kg d’ épinards</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>6 ciboules hachées</p>
+ <p>2 cuillères à café de sauce soja</p>
+ <p>2 pincées de sucre</p>
+ <p>2 pincées de sel</p>
+ <p>3 gousses d’ ail écrasées</p>
+ <p>2 cuillères à café de graines de sésame grillées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les</operation> <ingredient>épinards</ingredient> et <operation>ôtez les queues</operation>. mettre de l’ <ingredient>huile</ingredient> à chauffer dans un grand <recipient>wok</recipient> ou une <recipient>sauteuse</recipient>, <operation>faites - y</operation> <operation>revenir les <ingredient>ciboules</ingredient> pendant 30 secondes avant d’ y</operation> jeter les <ingredient>épinards</ingredient>. <operation>laissez les <ingredient>épinards</ingredient></operation> fondre pendant 2 minutes en remuant sans arrêt. ajoutez la <ingredient>sauce soja</ingredient>, le <ingredient>sucre</ingredient>, le <ingredient>sel</ingredient>, l’ <ingredient>ail</ingredient> et <operation>poursuivez la cuisson 3 minutes en</operation> remuant. <operation>ôtez le jus de cuisson superflu</operation>. disposez dans un <recipient>plat</recipient> chaud et parsemez de <ingredient>graines de sésame</ingredient>.
+]]>
+ </preparation>
+</recette>

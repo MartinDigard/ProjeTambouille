@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14886">
+ <titre>Délice de chocolat aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de chocolat noir amer</p>
+ <p>175 g de beurre ramolli + 20 g pour le moule</p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>2 blancs d’ oeufs</p>
+ <p>125 g de noisettes décortiquées</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>cassez le <ingredient>chocolat</ingredient> en morceaux</operation>. <operation>faites les</operation> fondre à feu doux au <recipient>bain - marie</recipient> avec unecuillère à soupe d’ eau. lorsque le <ingredient>chocolat</ingredient> est fondu, <operation>retirez la <recipient>casserole</recipient> du feu</operation>. <operation>incorporez peu à peu le <ingredient>beurre</ingredient> ramolli en</operation> remuant avec une cuillère en bois jusqu’ à <operation>obtenir une pâte onctueuse</operation>. <operation>incorporez les <ingredient>jaunes</ingredient> d’</operation> oeufs un par un, puis <operation>ajoutez les <ingredient>noisettes</ingredient> grossièrement</operation> hachées. <operation>montez les blancs d’ <ingredient>oeufs</ingredient> en neige ferme avec la pincée de <ingredient>sel</ingredient></operation>. incorporez - les délicatement à la préparation. <operation>transvasez le mélange dans un <ingredient><recipient>moule</recipient></ingredient> à cake</operation> tapissé de papier sulfurisé beurré. <operation>mettez 8 heures au frigo</operation>. servir ce dessert en tranches de 1 cm avec un peu de crème anglaise.
+]]>
+ </preparation>
+</recette>

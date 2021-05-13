@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30559">
+ <titre>Fricassée de coquillages</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de moules</p>
+ <p>500 g de coques</p>
+ <p>500 g d’ amandes</p>
+ <p>1 à 2 branche de céleri</p>
+ <p>4 tomates</p>
+ <p>un petit piment ou du piment doux en poudre</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ <p>1/2 verre de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire tremper les <ingredient>coques</ingredient> et les <ingredient>amandes</ingredient> 1 heure pour les</operation> dessabler. laver les <ingredient>moules</ingredient>. <operation>coupez le <ingredient>céleri</ingredient>, <ingredient>branche</ingredient> et feuille en <ingredient>petits</ingredient> dés,</operation> et <operation>faites le</operation> <operation>revenir dans une <recipient>sauteuse</recipient> avec de l’ huile d’</operation> <ingredient>olive</ingredient>, ajouter les <ingredient>tomates</ingredient> coupez en <ingredient>petits</ingredient> dés, et le <ingredient>piment</ingredient> ou la <ingredient>poudre de piment</ingredient> (une ou deux pincées selon le goût). <operation>salez (avec précaution, car les coquillages sont déjà</operation> salés... eventuellement, <operation>attendez la fin pour goûter)</operation>, <operation>poivrez</operation> et <operation>laissez cuire trois minutes</operation>. pendant ce temps faites ouvrir les coquillages dans une grande <recipient>cocotte</recipient> (avec le <ingredient>vin blanc</ingredient>). une fois les coquillages ouverts <operation>filtrez le jus</operation> rendu à travers une <recipient>passoire</recipient> au-dessus de la <recipient>sauteuse</recipient> où mijoter votre <ingredient>céleri</ingredient> et <ingredient>tomates</ingredient>. <operation>laissez cuire encore 2 minutes</operation>. puis <operation>versez sur les coquillages</operation>, <operation>mélangez - les bien</operation> et <operation>laissez chauffer 3 minutes de plus</operation>.
+]]>
+ </preparation>
+</recette>

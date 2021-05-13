@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17391">
+ <titre>Cake au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de chocolat pâtissier</p>
+ <p>3 oeufs</p>
+ <p>100 g de sucre en poudre</p>
+ <p>60 g de farine</p>
+ <p>1 cuillère à café de levure</p>
+ <p>80 g de beurre</p>
+ <p>50 g de poudre d’ amandes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> (en morceaux) au <recipient>bain - marie</recipient> avec 5 <ingredient>cuillères</ingredient> à soupe d’ eau (ou le</operation> <operation>faire au micro-ondes</operation>). dans un <recipient>saladier</recipient>, battre les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient>, jusqu’ à ce que le mélange blanchisse. ajouter la farine, la <ingredient>levure</ingredient>, le beurre fondu, la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient>, et le <ingredient>chocolat</ingredient>. mélanger. verser la préparation jusqu’ à mi–hauteur d’ un <recipient>moule</recipient> à cake beurré. mettre à cuire dans un <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6) pendant 30 à 35 min. attendre 5 min avant de démouler. <operation>laisser refroidir</operation>. un vin blanc, ou un mousseux, ou champagne.
+]]>
+ </preparation>
+</recette>

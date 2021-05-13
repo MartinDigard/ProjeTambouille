@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22909">
+ <titre>Variation sur la salade tomate-mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 boules de mozzarella</p>
+ <p>3 tomates</p>
+ <p>250 g de pancetta</p>
+ <p>400 g de farfalle</p>
+ <p>1 sachet de roquette</p>
+ <p>1 boîte d’ olives noires dénoyautées</p>
+ <p>huile d’ olive</p>
+ <p>vinaigre balsamique</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites bouillir de l’ eau</operation> et <operation>salez - la</operation>. quand l’ eau bout, <operation>mettez - y les farfalles</operation>. pendant que les farfalles cuisent, <operation>coupez la <ingredient>mozzarella</ingredient> et les <ingredient>tomates</ingredient> en dés</operation>. hachez finement les <ingredient>olives</ingredient>. <operation>coupez grossièrement la <ingredient>roquette</ingredient></operation>. <operation>mettez tous ces ingrédients dans un <recipient>saladier</recipient></operation>. quand les farfalles sont cuites, <operation>faites - les refroidir à l’ eau froide</operation>. dès qu’ elles sont froides, <operation>mettez - les dans le <recipient>saladier</recipient> avec les autres ingrédients</operation>. <operation>arrosez</operation> généreusement d’ huile d’ <ingredient>olive</ingredient>, ajoutez du <ingredient>vinaigre balsamique</ingredient> et du poivre à votre goût. <operation>mélangez le tout, bon appétit</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60406">
+ <titre>Bruschetta tomates, aubergines et chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses tranches de pain</p>
+ <p>2 tomates bien mûres</p>
+ <p>1 grosse aubergine</p>
+ <p>1 gousse d’ ail</p>
+ <p>300 g lamelles de jambon cru</p>
+ <p>4 feuilles de basilic</p>
+ <p>8 palets de chèvre frais</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les</operation> <ingredient>aubergines</ingredient> et <operation>coupez - les en <ingredient>tranches</ingredient> épaisses de 1 cm</operation>. <operation>salez les <ingredient>tranches</ingredient> des 2 côtés</operation> et <operation>faites - les</operation> dégorger pendant 2 min environ. essuyez - les ensuite avec du papier abosorbant et <operation>faites - les</operation> <operation>revenir dans une <recipient>poêle</recipient> avec un peu d’ huile d’ <ingredient>olive</ingredient></operation>. plongez les <ingredient>tomates</ingredient> quelques secondes dans l’ eau bouillante, épluchez - les, puis <operation>découpez - les en petits dés</operation>. frottez ensuite les <ingredient>tranches de pain</ingredient> avec l’ <ingredient>ail</ingredient> et <operation>ajoutez - y quelques gouttes d’ huile d’ <ingredient>olive</ingredient></operation>. prenez une <ingredient>tranche de pain</ingredient>, posez 2 <ingredient>tranches</ingredient> d’ <ingredient>aubergine</ingredient> puis les dés <ingredient>tomates</ingredient>, 2 <ingredient>palets de chèvres</ingredient> et les lamelles de <ingredient>jambon</ingredient> crus. <operation>faites cuire au <recipient>four</recipient> à 180 ° c (thermostat 6), 10 minutes environ, jusqu’ à ce que le fromage soit</operation> fondu. avant de <operation>sevir</operation>, disposez une <ingredient>feuille de basilic</ingredient> sur la bruschetta et <operation>regalez -vous</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42848">
+ <titre>Risotto aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>450 g de riz à risotto (ex: arborio) </p>
+ <p>200 g de petits pois (je les préfère congelés, à défaut de frais) </p>
+ <p>1 paquet de lardons</p>
+ <p>1 gros oignon</p>
+ <p>50 cl de vin blanc sec </p>
+ <p>1 l de bouillon</p>
+ <p>parmesan</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>lardons</ingredient> dans une grande <recipient>casserole</recipient></operation>. couper l’ <ingredient>oignon</ingredient> en rondelles, et le <operation>faire revenir avec les <ingredient>lardons</ingredient></operation>. quand l’ <ingredient>oignon</ingredient> est transparent, ajouter le <ingredient>riz</ingredient>, et le <operation>faire revenir jusqu’ à ce qu’ il</operation> devienne translucide. déglacer alors au <ingredient>vin blanc</ingredient>... ne jamais cesser de remuer, à partir de maintenant! une fois que le <ingredient>vin blanc</ingredient> s’ est presque évaporé, ajouter le <ingredient>bouillon</ingredient> (préparé à l’ avance). en rajouter, à chaque fois qu’ il manque de liquide! au bout de 15 min environ, ajouter les <ingredient>petits pois</ingredient>. continuer de mouiller le <ingredient>risotto</ingredient>, jusqu’ à bonne cuisson. le retirer du feu, et ajouter du <ingredient>parmesan</ingredient> râpé. <operation>couvrir,</operation> et <operation>laisser reposer 5 min</operation>. présenter en assiette à soupe ou bol, recouvert de copeaux de <ingredient>parmesan</ingredient>. un <ingredient>vin</ingredient> rouge assez corsé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40428">
+ <titre>Tarte miellée aux pêches</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une abaisse de pâte (feuilletée ou brisée) </p>
+ <p>environ 6 à 7 pêches (selon grosseur) </p>
+ <p>2 oeufs </p>
+ <p>le jus d’ un demi-citron </p>
+ <p>10 cl de miel </p>
+ <p>20 cl de crème fraîche </p>
+ <p>pignons </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+foncez un <recipient>moule</recipient> avec la <ingredient>pâte</ingredient>. lavez et <operation>essuyez les</operation> <ingredient>pêches</ingredient>, <operation>enlevez la peau</operation> <operation>coupez les <ingredient>pêches</ingredient> en 4 quartiers</operation> et <operation>disposez les morceaux de <ingredient>pêches</ingredient> sur le fond de tarte</operation>. <operation>cassez les <ingredient>oeufs</ingredient> dans un <recipient>plat</recipient></operation>, ajoutez le <ingredient>jus</ingredient> de citron, le <ingredient>miel</ingredient> et la <ingredient>crème fraîche</ingredient>. <operation>mélangez bien la préparation</operation> et <operation>versez sur les <ingredient>pêches</ingredient>, parsemez de <ingredient>pignons</ingredient></operation>. <operation>faites cuire 30 à 35 minutes à <recipient>four</recipient> préchauffé à 210 ° c (thermostat 7</operation>). la <ingredient>crème</ingredient> doit être bien ferme... servez tiède ou froid.
+]]>
+ </preparation>
+</recette>

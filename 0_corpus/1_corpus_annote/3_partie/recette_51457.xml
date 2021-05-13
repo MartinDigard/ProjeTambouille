@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51457">
+ <titre>Rôti de porc aux herbes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 morceau de porc dans la noix, environ 800 g (désossé et ficelé comme un rôti) </p>
+ <p>1 gousse d’ ail</p>
+ <p>1 oignon</p>
+ <p>500 g de tomates</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>1 cuilère à soupe de crème fraîche</p>
+ <p>2 branches de sauge (ou 1 cuillère à soupe rase de sauge séchée) </p>
+ <p>3 branches de thym</p>
+ <p>1 petite branche de romarin</p>
+ <p>1 feuille de laurier</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ huile d’ <ingredient>olive</ingredient> dans une <recipient>cocotte</recipient></operation> et mettre le <ingredient>morceau de porc</ingredient> à dorer de tous les côtés. peler les <ingredient>tomates</ingredient> en les mettant 1 minute dans une grande <recipient>casserole</recipient> d’ eau chaude puis les couper en quartiers. peler la gousse d’ <ingredient>ail</ingredient> et l’ écraser. peler l’ <ingredient>oignon</ingredient> et l’ émincer finement. hâcher les feuilles de <ingredient>sauge</ingredient>. quand le rôti est doré, ajouter dans la <recipient>cocotte</recipient> l’ <ingredient>ail</ingredient>, l’ <ingredient>oignon</ingredient>, les <ingredient>tomates</ingredient>, les feuilles de <ingredient>sauge</ingredient>, les herbes, du <ingredient>sel</ingredient> et du poivre. <operation>couvrir la <recipient>cocotte</recipient></operation> et <operation>laisser cuire 1h15, en retournant de temps à autre le <ingredient>morceau</ingredient> de viande</operation>. a la fin de la cuisson, retirer le <ingredient>morceau de porc</ingredient>, ajouter la <ingredient>moutarde</ingredient> et la <ingredient>crème fraîche</ingredient>, bien remuer et continuer à chauffer. pendant ce temps, couper le rôti en tranches, le mettre dans un <recipient>plat</recipient>. verser la sauce sur la viande et <operation>servir aussitôt</operation>. accompagner de <ingredient>petites</ingredient> pommes de terre nouvelles, de <ingredient>petites</ingredient> courgettes ou de champignons.
+]]>
+ </preparation>
+</recette>

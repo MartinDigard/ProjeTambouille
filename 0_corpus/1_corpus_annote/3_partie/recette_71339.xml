@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71339">
+ <titre>Salade de fruits Juliette</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte d’ ananas en morceaux</p>
+ <p>2 pommes</p>
+ <p>250 g de fraises</p>
+ <p>1 boîte de salade de fruits</p>
+ <p>1/4 d’ un concombre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper en petits cubes le <ingredient>concombre</ingredient>. eplucher et couper les <ingredient>pommes</ingredient> en cubes. préparer les <ingredient>fraises</ingredient> en petits <ingredient>morceaux</ingredient>. mélanger l’ ensemble des ingrédients (bien mettre le sirop des <ingredient>boîtes</ingredient>) et <operation>laisser reposer 1 heure au <recipient>réfrigérateur</recipient></operation>. servir frais. vous pouvez utiliser des <ingredient>fruits</ingredient> frais et de saison mais pour l’ effet de surprise il faut garder le <ingredient>concombre</ingredient>.
+]]>
+ </preparation>
+</recette>

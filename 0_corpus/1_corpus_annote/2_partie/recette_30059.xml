@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30059">
+ <titre>Tarte à la piperade</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>200 g de courgettes</p>
+ <p>200 g de tomates</p>
+ <p>1/2 poivron jaune (ou rouge) </p>
+ <p>1 petit oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 oeufs</p>
+ <p>10 cl de lait</p>
+ <p>60 g de gruyère râpé</p>
+ <p>persil haché</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient>. <operation>coupez les <ingredient>courgettes</ingredient>, les <ingredient>tomates</ingredient> et le <ingredient>poivron</ingredient></operation>. <operation>faites dorer <ingredient>oignon</ingredient>, <ingredient>ail</ingredient> et <ingredient>courgettes</ingredient></operation>. ajoutez le <ingredient>poivron</ingredient>, les <ingredient>tomates</ingredient>, le <ingredient>persil</ingredient>, <ingredient>sel et poivre</ingredient>. <operation>laissez mijoter 10 mn</operation>. préchauffez le <recipient>four</recipient> à thermostat 7 (210 ° c). placez la <ingredient>pâte</ingredient> dans un <recipient>moule</recipient> et <operation>mettez à</operation> cuire 10 mi. battez les <ingredient>oeufs</ingredient> en omelette, puis <operation>ajoutez le lait, 20 g de <ingredient>râpé</ingredient> et les légumes</operation>. <operation>versez sur la tarte</operation>. placez au <recipient>four</recipient> pour 20 mn. parsemez du reste du <ingredient>râpé</ingredient> et <operation>achevez la cuisson pendant 8 à 10 mn</operation>.
+]]>
+ </preparation>
+</recette>

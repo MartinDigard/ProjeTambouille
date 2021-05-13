@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23508">
+ <titre>Poisson cru mariné aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ espadon</p>
+ <p>2 citrons</p>
+ <p>3 têtes d’ ail</p>
+ <p>gingembre frais</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>pâte de piment rouge (ex: piment oiseau) </p>
+ <p>2 ou 3 carottes</p>
+ <p>menthe ou coriandre fraîche</p>
+ <p>gros sel</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez la marinade: dans un <recipient>pilon</recipient></operation> faire une pâte avec l’ <ingredient>ail</ingredient>, un petit morceau de gingembre et une pincée de <ingredient>gros sel</ingredient>. pressez les <ingredient>citrons</ingredient>. dans un <recipient>saladier</recipient>, <operation>mélangez la pâte d’ <ingredient>ail</ingredient>, le jus et la pulpe des <ingredient>citrons</ingredient>, le <ingredient>cumin</ingredient>, la <ingredient>cannelle</ingredient>, un petit peu de pâte de <ingredient>piment</ingredient>, la <ingredient>coriandre</ingredient> (ou la <ingredient>menthe</ingredient>) et l’ huile d’ <ingredient>olive</ingredient></operation>. <operation>coupez l’ <ingredient>espadon</ingredient> en petit dés et les <ingredient>carottes</ingredient> en rondelles</operation>. mettre le tout à mariner 1 heure au <recipient>réfrigérateur</recipient>. n’ hésitez pas à varier les doses d’ épices selon votre goût, peut être servi en apéritif avec des piques, en entrée sur un lit de salade verte ou en <recipient>plat</recipient> principal accompagné de riz créole.
+]]>
+ </preparation>
+</recette>

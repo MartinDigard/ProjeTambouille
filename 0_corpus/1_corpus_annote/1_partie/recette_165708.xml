@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165708">
+ <titre>Salade tomates et pêches</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>-Pêches (blanches de préférence) </p>
+ <p>-Tomates</p>
+ <p>-Jus de citron</p>
+ <p>-feuilles de menthe</p>
+ <p>-Huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+simplissime! epluchez les pêches et <operation>coupez les en morceaux</operation> <operation>coupez les tomates en morceaux</operation> <operation>mettez le tout dans un <recipient>saladier</recipient> un tout petit peu d’</operation> huile du jus de <ingredient>citron</ingredient> des feuilles de <ingredient>menthe</ingredient> c’ est prêt!
+]]>
+ </preparation>
+</recette>

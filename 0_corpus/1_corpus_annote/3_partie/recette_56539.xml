@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56539">
+ <titre>Gambas aux bananes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>20 à 24 gambas crues (ou grosses crevettes) </p>
+ <p>2 bananes</p>
+ <p>1 cuillerée à soupe de rhum (antillais de préférence) </p>
+ <p>10 à 20 cl de crème fraîche liquide selon les goûts (ou lait de coco) </p>
+ <p>1 citron vert</p>
+ <p>beurre ou huile</p>
+ <p>sel, poivre</p>
+ <p>facultatif: gingembre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient>banane</ingredient> en dés. les <operation>faire dorer dans une <recipient>poêle</recipient> à feu doux et les</operation> réserver. râper le zeste de <ingredient>citron</ingredient> puis le presser pour en extraire son jus. dans la meme <recipient>poêle</recipient>, <operation>saisir les crevettes jusq’ à ce qu’ elles changent de couleur (elles</operation> deviennent roses!). remettre les <ingredient>bananes</ingredient>, saler, poivrer et ajouter la <ingredient>crème</ingredient>. verser le <ingredient>rhum</ingredient>, mélanger délicatement quelques minutes. servir chaud avec du riz blanc.
+]]>
+ </preparation>
+</recette>

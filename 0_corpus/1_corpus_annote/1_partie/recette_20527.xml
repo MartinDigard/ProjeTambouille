@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20527">
+ <titre>Côtes de porc au gruyère</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 côtes de porc</p>
+ <p>6 tranches de gruyère</p>
+ <p>50 cl de sauce tomate</p>
+ <p>1 noix de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient>côtes de porc</ingredient> à la <recipient>poêle</recipient> avec du <ingredient>beurre</ingredient> environ 7 min de chaque côté. <operation>salez</operation> et <operation>poivrez</operation>. <operation>mettez</operation> - les dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et déposez sur chaque <ingredient>côte</ingredient> une <ingredient>tranche de gruyère</ingredient>. <operation>faites gratiner 10 min au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>). réchauffez la <ingredient>sauce tomate</ingredient> pendant que le fromage dore et <operation>versez - la sur les <ingredient>côte</ingredient> au moment de</operation> <operation>servir</operation>. <operation>servir</operation> avec du riz, des frites ou des choux de bruxelles...
+]]>
+ </preparation>
+</recette>

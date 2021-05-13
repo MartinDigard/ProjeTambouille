@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12241">
+ <titre>Fondue au chocolat parfumée à l’ Armagnac</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de chocolat noir</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>2 cuillères à soupe d’ armagnac</p>
+ <p>1 ananas</p>
+ <p>2 poires</p>
+ <p>2 bananes</p>
+ <p>2 pommes</p>
+ <p>4 brioches individuelles</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez tous les fruits</operation> et <operation>coupez - les en gros cubes (ne</operation> <operation>faites pas cette opération trop tôt: les fruits noirciraient</operation>). dans le <recipient>poêlon</recipient> d’ un service à fondue, versez la <ingredient>crème fraîche</ingredient>. allumez et <operation>chauffez dans la position la plus basse</operation>. dès que la <ingredient>crème</ingredient> fond, <operation>ajoutez le <ingredient>chocolat</ingredient> cassé en petits morceaux</operation>. remuez jusqu’ à l’ obtention d’ un <ingredient>chocolat</ingredient> fondu homogène. <operation>incorporez alors l’ <ingredient>armagnac</ingredient></operation>. chaque convive trempera 1 morceau de fruit dans le <ingredient>chocolat</ingredient> au gré de sa fantaisie et le dégustera avec un morceau de <ingredient>brioche</ingredient>.
+]]>
+ </preparation>
+</recette>

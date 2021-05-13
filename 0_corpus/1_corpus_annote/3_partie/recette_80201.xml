@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80201">
+ <titre>Yaourt fraise et confiture de fraise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de lait concentré non sucré</p>
+ <p>1 dose (boîte de lait concentré) de lait 1/2 écréme</p>
+ <p>50 g de sucre</p>
+ <p>1 cuillère à café de maïzena</p>
+ <p>1 yaourt fruits mix à la fraise</p>
+ <p>7 cuillères à soupe de confiture de fraises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez les 2 <ingredient>laits</ingredient>, le <ingredient>yaourt</ingredient> et le <ingredient>sucre</ingredient></operation>. <operation>prélevez une tasse du mélange dans lequel vous</operation> <operation>mélangez la</operation> <ingredient>maïzena</ingredient> et <operation>ajoutez au reste</operation>. mettez 1 <ingredient>cuillère à soupe de confiture</ingredient> au fond de chaque pot, puis <operation>ajoutez le mélange</operation>. <operation>mettez en yaourtière environ 10 h</operation>. a consommer après quelques heures au <recipient>réfrigérateur</recipient>. vous pouvez changer le goût du <ingredient>yaourt</ingredient> et adapter avec la <ingredient>confiture</ingredient> assortie.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22192">
+ <titre>Travers de porc grillés à la sauce barbecue</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de travers de porc</p>
+ <p>10 cl de coulis de tomate</p>
+ <p>2 cuillerées à soupe de ketchup</p>
+ <p>2 cuillères à café de vinaigre de cidre</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>1 cuillerée à soupe d’ huile</p>
+ <p>1 cuillère à soupe de sucre ou de miel</p>
+ <p>sel, poivre</p>
+ <p>1 pincée de piment de Cayenne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez les <ingredient>travers</ingredient> en 4</operation>. <operation>mélangez tous les ingrédients</operation> et <operation>faites mariner la viande dedans au moins 30 min</operation>. <operation>egouttez</operation> et <operation>faites cuire les <ingredient>travers</ingredient> 45 min au <recipient>four</recipient> à 180 ° c (thermostat 6) ou au <recipient>barbecue</recipient> (ou grill) en</operation> arrosant de temps en temps avec la marinade. retournez - les à mi-cuisson. les " spare ribs " iront très bien avec des frites mais aussi du riz ou de la polenta.
+]]>
+ </preparation>
+</recette>

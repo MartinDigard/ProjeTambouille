@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194802">
+ <titre>Echine de porc aux lentilles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 échine de porc (ou 1 palette, ou 1 rouelle) </p>
+ <p>1 oignon piqué de 3 clous de girofles</p>
+ <p>25 cl de vin blanc sec</p>
+ <p>50 cl de bouillon de volaille</p>
+ <p>1 bouquet garni</p>
+ <p>30 g de beurre</p>
+ <p>400 g de lentilles</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir le <ingredient>porc</ingredient> dans une <recipient>cocotte</recipient> avec le beurre</operation>. quand il est bien doré, l’ assaisonner, puis ajouter dans le <recipient>cocotte</recipient> l’ <ingredient>oignon</ingredient>, le <ingredient>vin blanc</ingredient>, le <ingredient>bouillon</ingredient> et le <ingredient>bouquet garni</ingredient>. <operation>laisser mijoter 40 min</operation> puis ajouter les <ingredient>lentilles</ingredient>. bien mélanger et <operation>laisser mijoter 20 min à</operation> <operation>partir de la reprise de l’ ébullition</operation>. les <ingredient>lentilles</ingredient> doivent absorber une grande partie du liquide de cuisson.
+]]>
+ </preparation>
+</recette>

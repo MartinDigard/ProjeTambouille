@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24670">
+ <titre>Lapin aux champignons mariné au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>1 l de vin blanc sec</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 échalotes</p>
+ <p>1 citron</p>
+ <p>500 g de champignons</p>
+ <p>12 oignons grelots </p>
+ <p>30 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>10 cl de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille: découper le <ingredient>lapin</ingredient> en morceaux et le mettre à mariner dans le <ingredient>vin blanc</ingredient> avec l’ <ingredient>ail</ingredient>, l’ <ingredient>échalote</ingredient> et le jus de <ingredient>citron</ingredient>. le jour même: egoutter le <ingredient>lapin</ingredient> et le <operation>faire dorer dans le beurre et l’ huile</operation>. verser la marinade et cuire 1 heure à couvert. ajouter les <ingredient>champignons</ingredient> émincés et les <ingredient>oignons</ingredient> juste pelés. poursuivre la cuisson 15 minutes et incorporez la <ingredient>crème fraîche</ingredient> à la sauce au moment de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

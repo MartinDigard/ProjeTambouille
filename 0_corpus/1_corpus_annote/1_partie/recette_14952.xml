@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14952">
+ <titre>Petits gâteaux au safran</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>100 g de beurre fondu</p>
+ <p>150 g de sucre</p>
+ <p>zeste râpé d’ 1 citron non traité</p>
+ <p>125 g de yaourt velouté</p>
+ <p>200 g de farine</p>
+ <p>1 sachet de levure chimique </p>
+ <p>6 pincées de safran en poudre</p>
+ <p>2 cuillères à soupe de graines de pavot</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>allumez le <recipient>four</recipient></operation> a 120 ° c. <operation>fouettez les <ingredient>oeufs</ingredient> et le <ingredient>sucre</ingredient></operation>. <operation>ajoutez le <ingredient>zeste</ingredient> de <ingredient>citron</ingredient> et le <ingredient>safran</ingredient></operation>. <operation>mélangez bien</operation>. <operation>incorporez le beurre et le <ingredient>yaourt</ingredient> sans</operation> cesser de fouetter puis <operation>ajoutez la farine et la <ingredient>levure</ingredient> en les</operation> tamisant. beurrez 6 moules individuels et haut et parsemez le fond et les parois des 3/4 des <ingredient>graines de pavot</ingredient>. <operation>versez la pâte jusqu’ aux 2/3</operation> et recouvrez de <ingredient>graines de pavot</ingredient>. <operation>mettez les gâteaux au <recipient>four</recipient> jusqu’ a ce qu’ ils soient</operation> dorés et gonflés.
+]]>
+ </preparation>
+</recette>

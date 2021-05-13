@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64889">
+ <titre>Aubergine à la bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 steak haché</p>
+ <p>1 aubergine</p>
+ <p>1/2 poivron</p>
+ <p>1 oignon</p>
+ <p>350 g de purée de tomates</p>
+ <p>un peu d’ ail en poudre</p>
+ <p>1/2 bouillon-cube de boeuf</p>
+ <p>du gruyère râpé</p>
+ <p>de l’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, faire revenir le <ingredient>steak haché</ingredient>. lorsqu’ il commence à être cuit, le mettre à part. couper l’ <ingredient>aubergine</ingredient> en deux, puis en rondelles. la <operation>faire revenir dans la même <recipient>poêle</recipient> avec de l’ <ingredient>huile</ingredient> (d’ olive ou autre), à feu vif</operation>. lorsqu’ elle commence à colorer et accrocher, la mettre à part avec le <ingredient>steak</ingredient>. <operation>faire revenir les <ingredient>oignons</ingredient> et <ingredient>poivrons</ingredient></operation> émincés. lorsqu’ ils commencent à fondre, rajouter l’ <ingredient>aubergine</ingredient> et le <ingredient>steak</ingredient> émietté, ainsi que la <ingredient>purée de tomates</ingredient>. <operation>faire dissoudre le demi <ingredient>bouillon</ingredient> -</operation> <ingredient>cube</ingredient> et saupoudrer d’ <ingredient>ail</ingredient>. bien mélanger et <operation>laisser cuire encore une dizaine de minutes</operation>. servir avec du <ingredient>gruyère râpé</ingredient>.
+]]>
+ </preparation>
+</recette>

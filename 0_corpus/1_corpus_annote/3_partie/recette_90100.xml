@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90100">
+ <titre>Salade de melon et avocat</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 melon</p>
+ <p>2 avocats</p>
+ <p>10 g de tranches de magret de canard fumé</p>
+ <p>50 g de pignons de pin</p>
+ <p>50 g de mesclun ou de roquette</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 cuillères à soupe de vinaigre balsamique</p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites griller les <ingredient>pignons de pin</ingredient> à sec dans une <recipient>poêle</recipient>. <operation>retirez la peau et les pépins du</operation> <ingredient>melon</ingredient>, <operation>taillez - le en <ingredient>tranches</ingredient></operation>. <operation>ôtez la peau des</operation> <ingredient>avocats</ingredient> et <operation>coupez la chair en lamelles également</operation>. mélangez l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, le <ingredient>vinaigre balsamique</ingredient>, le <ingredient>sel</ingredient> et le poivre dans un bol. répartissez la salade dans le fond de 4 assiettes. disposez les <ingredient>tranches</ingredient> de <ingredient>melon</ingredient>, d’ <ingredient>avocat</ingredient> et de <ingredient>magret fumé</ingredient> dessus. parsemez de <ingredient>pignons de pin</ingredient> grillés. <operation>nappez le tout de vinaigrette</operation> et <operation>dégustez aussitôt</operation>. le <ingredient>magret de canard fumé</ingredient> peut très bien être remplacé un bouquet de crevettes roses.
+]]>
+ </preparation>
+</recette>

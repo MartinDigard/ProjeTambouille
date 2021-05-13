@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81192">
+ <titre>Pâtes à la brousse</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de pâtes (type spaghetti ou tagliatelles) </p>
+ <p>300 g de brousse</p>
+ <p>2 petites courgettes</p>
+ <p>4 à 5 tomates séchées</p>
+ <p>ail</p>
+ <p>3 cuillères à soupe de pignons</p>
+ <p>2 à 3 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez, épluchez et <operation>râpez les <ingredient>courgettes</ingredient></operation>. <operation>faire revenir l’ <ingredient>ail</ingredient></operation> écrasé dans une <ingredient>cuillère à soupe</ingredient> d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> puis <operation>rajoutez les <ingredient>courgettes</ingredient></operation> râpées. <operation>faire revenir 2 à 3 minutes</operation>, ajoutez les <ingredient>tomates séchées</ingredient> coupées en <ingredient>petits</ingredient> morceaux et <operation>réservez</operation>. il est inutile de saler car les <ingredient>tomates séchées</ingredient> sont salées par elles - mêmes. <operation>faire griller les <ingredient>pignons</ingredient> à la <recipient>poêle</recipient> et les</operation> réserver aussi. <operation>faire cuire les <ingredient>pâtes</ingredient> dans de l’ eau</operation> salée, lorsqu’ elles sont cuites, mélanger dans une <recipient>poêle</recipient>, à feu moyen, pendant une minute, la <ingredient>brousse</ingredient>, les <ingredient>courgettes</ingredient> et 1 à 2 <ingredient>cuillères à soupe</ingredient> d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. verser cette préparation sur les <ingredient>pâtes</ingredient> puis parsemez des <ingredient>pignons</ingredient> grillés. c’ est prêt!
+]]>
+ </preparation>
+</recette>

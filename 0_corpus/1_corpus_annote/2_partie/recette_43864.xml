@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43864">
+ <titre>Gâteau de semoule (à la casserole) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de lait</p>
+ <p>100 g de sucre en poudre</p>
+ <p>125 g de semoule</p>
+ <p>1 ou 2 poignées de raisins secs</p>
+ <p>1 poignée (15 g) de noix de coco râpée</p>
+ <p>1 cuillère à café de vanille liquide</p>
+ <p>2 cuillères à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le <ingredient>lait</ingredient> avec le <ingredient>sucre</ingredient>, la <ingredient>vanille</ingredient> et la <ingredient>cannelle</ingredient></operation>. verser ensuite la semoule, et <operation>laisser cuire jusqu’ à épaississement, soit 5 à 10 min sans</operation> cesser de remuer à feu moyen. lorsque la préparation se détache de la <recipient>casserole</recipient> (attention, elle accroche vite!), et que l’ on peut voir le fond, retirer du feu. ajouter alors les <ingredient>raisins</ingredient> et la <ingredient>noix de coco</ingredient>, mélanger. vous pouvez ajouter d’ autres fruits <ingredient>secs</ingredient> ou confits! ensuite, verser dans un <recipient>plat</recipient> (en pyrex par exemple), rond ou rectangulaire, ou dans des ramequins individuels ; et <operation>laisser refroidir à température ambiante</operation>. puis, placer au frigo, pendant au moins 1 h. je vous conseille de le déguster avec de la sauce au caramel, c’ est divin!
+]]>
+ </preparation>
+</recette>

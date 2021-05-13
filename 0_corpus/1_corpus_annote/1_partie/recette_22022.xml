@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22022">
+ <titre>Purée de courgette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 courgettes</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>6 gousses d’ ail</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient>courgettes</ingredient> et les couper en rondelles. <operation>faire fondre l’ <ingredient>ail</ingredient></operation> haché dans l’ <ingredient>huile</ingredient> puis ajouter les <ingredient>courgettes</ingredient>. <operation>laisser mijoter 30 minutes, les <ingredient>courgettes</ingredient></operation> doivent être bien tendres et le jus de cuisson évaporé. mixer, assaisonner de <ingredient>sel</ingredient> et de poivre. servir bien chaud avec un filet d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>.
+]]>
+ </preparation>
+</recette>

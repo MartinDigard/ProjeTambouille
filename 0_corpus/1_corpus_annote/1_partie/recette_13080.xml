@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13080">
+ <titre>Gnocchis à la courge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tranche de courge</p>
+ <p>2 oeufs entiers</p>
+ <p>200 g de farine</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>beurre</p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire la <ingredient>courge</ingredient> dans l’</operation> <recipient>autocuiseur</recipient> à la vapeur. bien écraser la pulpe dans un <recipient>saladier</recipient>, saler, poivrer. lorsqu’ elle est refroidie, ajouter 2 <ingredient>oeufs entiers</ingredient> à cette préparation. bien mélanger. ajouter ensuite la farine. <operation>faire bouillir de l’ eau</operation>. former avec une petite cuillère les petits paquets de pâte que l’ on <operation>laisse tomber dans l’ eau bouillante</operation>. lorsque les gnocchis remontent à la surface c’ est qu’ ils sont cuits. disposer les gnocchis dans les assiettes les arroser de beurre fondu et de <ingredient>parmesan</ingredient>. c’ est terminé, il ne reste plus qu’ à déguster!
+]]>
+ </preparation>
+</recette>

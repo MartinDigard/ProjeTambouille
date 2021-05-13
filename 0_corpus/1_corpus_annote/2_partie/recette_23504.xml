@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23504">
+ <titre>Gratin de pâtes au jambon, olives et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de pâtes de petite taille (coquillettes, macaronis...) </p>
+ <p>200 g jambon blanc</p>
+ <p>150 g de champignons de Paris</p>
+ <p>100 g d’ olives vertes</p>
+ <p>50 cl de coulis de tomates</p>
+ <p>150 g de gruyère râpé</p>
+ <p>80 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>ebouillantez les <ingredient>olives</ingredient> 5 mn à l’ eau bouillante</operation>. <operation>grattez et émincez les <ingredient>champignons</ingredient></operation>. <operation>faites - les</operation> <operation>revenir à la <recipient>poêle</recipient> avec 30 g de beurre pendant 10 min environ</operation>, <operation>salez</operation>, <operation>poivrez et remuez de temps en temps</operation>. faites chauffer le <ingredient>coulis de tomates</ingredient> dans une <recipient>casserole</recipient>. <operation>ajoutez le jambon</operation> coupé en dés puis 100 g de gruyère. <operation>rajoutez les</operation> <ingredient>champignons</ingredient>, <operation>mélangez</operation>. <operation>faites cuire les <ingredient>pâtes</ingredient> à l’ eau bouillante</operation> salée en les gardant " al dente ". <operation>egouttez</operation> - les et <operation>mettez - les dans un <recipient>plat</recipient> à gratin</operation>. mélangez - les avec le reste du beurre et <operation>versez la sauce dessus</operation>. <operation>saupoudrez le reste de fromage</operation> et <operation>faites gratiner au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 20 min</operation>.
+]]>
+ </preparation>
+</recette>

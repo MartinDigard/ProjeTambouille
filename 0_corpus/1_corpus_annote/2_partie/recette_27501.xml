@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27501">
+ <titre>Limandes panées à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 grosses limande</p>
+ <p>2 échalotes</p>
+ <p>100 g de beurre</p>
+ <p>20 cl de vin blanc</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>4 cuillères à soupe de lait</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>persil</p>
+ <p>citron</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer le poisson et l’ assaisonner. le tremper dans le <ingredient>lait</ingredient>, puis dans la farine. <operation>faire dorer le poisson dans une <recipient>poêle</recipient> avec du beurre pendant 5 min sur chaque face</operation>. hors du feu, ajouter les <ingredient>échalotes</ingredient> hachées, mouiller au <ingredient>vin blanc</ingredient> et <operation>laisser réduire</operation>. ajouter la <ingredient>crème</ingredient> et le <ingredient>persil</ingredient> haché.
+]]>
+ </preparation>
+</recette>

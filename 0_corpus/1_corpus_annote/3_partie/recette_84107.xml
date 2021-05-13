@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84107">
+ <titre>Pain de chou vert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou vert plat ou frisé</p>
+ <p>500 g de chair a saucisse</p>
+ <p>1 gros oignon</p>
+ <p>5 œufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>10 g de beurre</p>
+ <p>70 g de gruyère râpé</p>
+ <p>sel, poivre, persil</p>
+ <p>50 ou 100 g de pain sec (selon si il est très sec ou plutôt rassi) </p>
+ <p>20 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez le <ingredient>chou</ingredient> en quatre</operation> et <operation>plongez les morceaux dans de l’ eau bouillante pendant 15 min,</operation> puis <operation>égouttez - les dans une <recipient>passoire</recipient>, émincez - les</operation>. dans un <recipient>saladier</recipient>, écrasez le <ingredient>pain sec</ingredient> et imbibez le avec le lait, <operation>mélangez les 5 <ingredient>œufs</ingredient></operation> battus, l’ <ingredient>oignon</ingredient> émincé et étuvé dans du beurre, la <ingredient>crème</ingredient>, la <ingredient>chair</ingredient> à <ingredient>saucisse</ingredient>, le <ingredient>sel</ingredient>, le poivre, et le <ingredient>persil</ingredient> haché. <operation>ajoutez ensuite <ingredient>chou</ingredient> égoutté</operation> et émincé, <operation>mélangez bien,</operation> et <operation>versez l’ ensemble dans un <ingredient><recipient>plat</recipient></ingredient></operation> allant au <recipient>four</recipient> ; parsemez de <ingredient>gruyère râpé</ingredient>. <operation>comptez 45 min de cuisson, à 200 ° c (thermostat 7</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26650">
+ <titre>Pintade aux raisins secs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pintade de 1, 3 à 1, 5 kg</p>
+ <p>2-3 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>200 g de lardons</p>
+ <p>1 litre de vin blanc (muscadet) </p>
+ <p>125 g de raisins secs</p>
+ <p>1 à 2 carottes</p>
+ <p>1 bouquet garni</p>
+ <p>du thym</p>
+ <p>du beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez la <ingredient>pintade</ingredient> en morceaux</operation>. <operation>faites - la</operation> <operation>revenir dans une <recipient>cocotte</recipient> dans du <ingredient>beurre</ingredient> avec les <ingredient>échalotes</ingredient> et l’ <ingredient>ail</ingredient></operation> haché très fin. <operation>ajoutez les <ingredient>lardons</ingredient> et du <ingredient>thym</ingredient></operation>. bien <operation>faire revenir le tout</operation>. puis <operation>versez le muscadet de façon à ce que la <ingredient>pintade</ingredient> soit recouverte</operation>. quant ça bout, ajoutez les <ingredient>raisins</ingredient>, les <ingredient>carottes</ingredient> en dés, le <ingredient>bouquet garni</ingredient>, sel et poivre. <operation>laisser cuire sur feu doux 1h à 1h30</operation>. muscadet ou gamay
+]]>
+ </preparation>
+</recette>

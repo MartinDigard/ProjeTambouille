@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88591">
+ <titre>Pizza aux oeufs et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>3 oeufs durs</p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>500 g de lardons fumés</p>
+ <p>1 gros oignon</p>
+ <p>100 g de gruyère rapé</p>
+ <p>1 boule de mozzarella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+déplier la <ingredient>pâte</ingredient> puis la tapisser de <ingredient>concentré de tomates</ingredient>. couper les <ingredient>oeufs</ingredient> dans le sens de la longeur et les disposer en fines tranches sur la préparation. <operation>faire revenir les <ingredient>lardons</ingredient> et les <ingredient>oignons</ingredient></operation> hachés puis les disposer sur la préparation. ajouter du <ingredient>gruyère rapé</ingredient> selon le goût sur la pizza, couper la <ingredient>mozzarella</ingredient> en rondelles et la disposer sur le dessus. ajouter des herbes de provence pour donner une touche de goût. enfourner 5 à 7 minutes à 220 ° c (thermostat 8).
+]]>
+ </preparation>
+</recette>

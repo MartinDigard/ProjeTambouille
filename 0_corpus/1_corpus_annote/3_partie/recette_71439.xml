@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71439">
+ <titre>Les verrines aux pommes de Sandy</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pommes</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>1 cuillère à soupe de Calvados </p>
+ <p>un peu de cannelle</p>
+ <p>1 bombe de chantilly</p>
+ <p>4 verrines</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>pommes</ingredient> en petits morceaux</operation> et <operation>faites - les chauffer à la vapeur durant 5 minutes</operation>. <operation>mixez en</operation> ajoutant la <ingredient>crème fraîche</ingredient>, le <ingredient>sucre vanillé</ingredient>, le <ingredient>calvados</ingredient> et la <ingredient>cannelle</ingredient>. <operation>mettez la préparation dans les <ingredient>verrines</ingredient> ou petits bols et ensuite 1 petite heure au frigo</operation>. au moment de <operation>servir</operation>, <operation>rajoutez une touche de <ingredient>chantilly</ingredient></operation>. servir bien frais
+]]>
+ </preparation>
+</recette>

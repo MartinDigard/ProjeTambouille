@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58670">
+ <titre>Sorbet à la griotte</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de griottes dénoyautées (surgelées ou fraîches) </p>
+ <p>25 cl d’ eau</p>
+ <p>200 g de sucre</p>
+ <p>le jus d’ 1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>eau</ingredient> et le <ingredient>sucre</ingredient></operation>. lorsque le mélange bout, diminuer le feu, et <operation>laisser frémir 3 minutes</operation>. ajouter ensuite le <ingredient>jus</ingredient> du <ingredient>citron</ingredient> et les <ingredient>griottes</ingredient>. porter à nouveau à ébullition, et <operation>laisser frémir 4 minutes</operation>. retirer du feu, mixer et <operation>laisser refroidir</operation>. lorsque le mélange est bien froid, le placer dans une turbine à glace ou une <recipient>sorbetière</recipient> et <operation>faire prendre</operation>. servir le sorbet avec des petites meringues parfumées au zeste de <ingredient>citron</ingredient> confit. un verre d’ <ingredient>eau</ingredient>!
+]]>
+ </preparation>
+</recette>

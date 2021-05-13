@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11075">
+ <titre>Crème mic-mac (vanille et chocolat dans un même récipient) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>5 œufs</p>
+ <p>1 litre de lait</p>
+ <p>125 g de chocolat à cuire</p>
+ <p>50 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>150 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites bouillir le <ingredient>lait</ingredient></operation>. <operation>faites fondre le <ingredient>chocolat</ingredient> avec 2</operation> cuillerées à soupe d’ eau, au <recipient>bain - marie</recipient>. <operation>mélangez sans</operation> <operation>faire de grumeaux le <ingredient>sucre</ingredient>, la farine, 3 jaunes d’ oeufs et 2 oeufs entiers</operation>. <operation>délayez avec le <ingredient>lait</ingredient> chaud</operation>, <operation>remettez le tout dans la <recipient>casserole</recipient></operation> et <operation>faites chauffer jusqu’ au premier bouillon, en</operation> remuant. hors du feu, <operation>ajoutez le beurre par fractions, en</operation> remuant. <operation>réservez dans un récipient la moitié de la crème</operation>, <operation>ajoutez - y le <ingredient>sucre</ingredient></operation> vanillé et mélangez. dans l’ autre moitié, <operation>versez le <ingredient>chocolat</ingredient> fondu et mélangez</operation>. <operation>versez en même temps les deux crèmes dans une coupe en verre</operation>. elles ne se mélangent pas. <operation>servez froid mais non</operation> glacé.
+]]>
+ </preparation>
+</recette>

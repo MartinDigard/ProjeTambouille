@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53840">
+ <titre>Cake au chocolat et aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt liquide</p>
+ <p>3 pots à yaourt de farine</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 sachet de levure</p>
+ <p>1 pot et demi de sucre blanc</p>
+ <p>1 pot d’ huile</p>
+ <p>3 oeufs</p>
+ <p>1 pomme</p>
+ <p>1 plaquette de chocolat</p>
+ <p>1 peu de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez le <ingredient>yaourt</ingredient>, l’ <ingredient>huile</ingredient> et les 3 <ingredient>oeufs</ingredient> dans un petit <recipient>saladier</recipient></operation>. mélangez la farine, le <ingredient>sucre</ingredient>, le <ingredient>sucre vanillé</ingredient>, la <ingredient>levure</ingredient> dans un autre <recipient>plat</recipient> plus gros. <operation>mélangez les deux plats</operation>. <operation>ajoutez la <ingredient>pomme</ingredient> épluchée</operation> et coupée en petits bouts. <operation>ajoutez la moitié du <ingredient>chocolat</ingredient> fondu et l’ autre moitié</operation> découpée en petits morceaux (ou ne mettre que des petits morceaux). versez un peu <ingredient>de lait</ingredient>, si la pâte vous semble un peu épaisse. <operation>laissez cuire pendant 40 à 45 min, à 210 ° c (th 7</operation>). c’ est très simple à <operation>faire et vraiment délicieux</operation>... c’ est la recette de ma mamie!
+]]>
+ </preparation>
+</recette>

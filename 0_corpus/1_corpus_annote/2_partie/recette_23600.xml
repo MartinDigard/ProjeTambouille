@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23600">
+ <titre>Pâtes carbonara au canard</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pâtes</p>
+ <p>2 paquets de lardons de canard</p>
+ <p>un oignon</p>
+ <p>poivre</p>
+ <p>1 pot de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient>oignons</ingredient>, puis les <ingredient>lardons de canard</ingredient> dans de l’ huile d’ olive. pendant, ce temps <operation>faire cuire les <ingredient>pâtes</ingredient></operation>. ajouter la <ingredient>crème fraîche</ingredient> à la fin de la cuisson du <ingredient>canard</ingredient> et des <ingredient>oignons</ingredient>, <operation>laisser mijoter 5 mn à feux doux</operation>, poivrer. ne pas saler car les <ingredient>lardons de canard</ingredient> donnent un goût salé vous pouvez éventuellement ajouter une pointe de curry dans la sauce.
+]]>
+ </preparation>
+</recette>

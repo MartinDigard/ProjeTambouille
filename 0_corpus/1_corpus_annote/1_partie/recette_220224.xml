@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220224">
+ <titre>Poireaux aux oeufs brouillés</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 œufs</p>
+ <p>2 poireaux</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>tabasco (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation>coupez vos <ingredient>poireaux</ingredient> en rondelles</operation>. <operation>versez un verre d’ eau dans la <recipient>poêle</recipient></operation> et <operation>mettez y vos morceaux de <ingredient>poireaux</ingredient></operation>. en attendant que vos morceaux deviennent tendres, <operation>battez 2</operation> œufs en omelette, <operation>salez</operation> et <operation>poivrez</operation>. dès que toute l’ eau de la <recipient>poêle</recipient> est évaporée, <operation>versez y vos <ingredient>œufs</ingredient></operation> battus et remuez sans cesse. <operation>versez le tout dans une assiette</operation> et <operation>assaisonnez à votre goût</operation>. moi je l’ ai assaisonné avec beaucoup de <ingredient>tabasco</ingredient> mais vous pouvez y ajouter des aromates tel que du thym ou de l’ ail.
+]]>
+ </preparation>
+</recette>

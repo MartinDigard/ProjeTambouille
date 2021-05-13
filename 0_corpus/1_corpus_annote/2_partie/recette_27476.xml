@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27476">
+ <titre>Boulettes de riz au jambon et à la mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de riz</p>
+ <p>2 oeufs</p>
+ <p>1 boule de mozzarella</p>
+ <p>100 g de jambon cuit</p>
+ <p>100 g de chapelure</p>
+ <p>30 cl de bouillon boeuf</p>
+ <p>60 g de parmesan</p>
+ <p>10 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer le <ingredient>bouillon</ingredient></operation>. <operation>faites fondre le beurre dans une <recipient>casserole</recipient></operation>, <operation>jetez - y le</operation> <ingredient>riz</ingredient> et <operation>laissez colorer à feu</operation> vif quelques minutes. <operation>mouillez le <ingredient>riz</ingredient> de <ingredient>bouillon</ingredient> peu à peu</operation> et <operation>laissez <ingredient>cuire</ingredient> 15 min environ</operation>. le <ingredient>riz</ingredient> doit avoir absorbé le <ingredient>bouillon</ingredient>. <operation>ajoutez le</operation> <ingredient>parmesan</ingredient>, <operation>salez</operation>, <operation>poivrez</operation> et <operation>laissez refroidir</operation>. hachez le <ingredient>jambon</ingredient> et la <ingredient>mozzarella</ingredient>. <operation>mélangez le <ingredient>riz</ingredient> refroidi avec 1 <ingredient>oeuf</ingredient> battu</operation>, <operation>formez des boulettes de la taille d’ un <ingredient>oeuf</ingredient></operation>. <operation>insérez un peu de mélangez <ingredient>jambon</ingredient> - <ingredient>mozzarella</ingredient> dans chaque boulette</operation> et <operation>refermez - la</operation>. <operation>passez les boulettes dans l’ <ingredient>oeuf</ingredient> puis dans la</operation> <ingredient>chapelure</ingredient> et <operation>faites - les</operation> dorer à la <recipient>poêle</recipient> dans un fond d’ huile chaude.
+]]>
+ </preparation>
+</recette>

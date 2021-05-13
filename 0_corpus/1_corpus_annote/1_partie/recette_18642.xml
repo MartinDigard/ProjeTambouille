@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18642">
+ <titre>Tarte au potiron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de potiron</p>
+ <p>1 saucisse de Montbéliard</p>
+ <p>50 g de beurre</p>
+ <p>150 g de crème fraîche</p>
+ <p>3 oeufs</p>
+ <p>pâte brisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez le <ingredient>potiron</ingredient> en dés</operation> et <operation>mettez - les avec le beurre dans une <recipient>cocotte</recipient> sur feu doux</operation>. couvrez. quand la chair de <ingredient>potiron</ingredient> est fondue, <operation>ôtez le couvercle</operation> et <operation>montez le feu pour</operation> <operation>faire évaporer l’ eau</operation>. <operation>laissez refroidir</operation>. <operation>etalez la <ingredient>pâte</ingredient> et garnissez un <recipient>moule</recipient> beurré</operation>. <operation>battez la <ingredient>crème</ingredient>, les <ingredient>oeufs</ingredient> et le <ingredient>potiron</ingredient></operation> écrasé à la fourchette. <operation>ajoutez sel et poivre</operation>. <operation>versez sur la <ingredient>pâte</ingredient></operation>. <operation>découpez la <ingredient>saucisse</ingredient> en rondelles</operation> et <operation>disposez - les sur le pourtour de la tarte en les</operation> enfonçant légèrement. <operation>faire cuire 40</operation> mn au <recipient>four</recipient> thermostat 7.
+]]>
+ </preparation>
+</recette>

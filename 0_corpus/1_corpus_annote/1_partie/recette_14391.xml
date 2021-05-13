@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14391">
+ <titre>Potjevleesch</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une terrine en terre haute</p>
+ <p>300 g de poulet</p>
+ <p>300 g de veau (flanchet) </p>
+ <p>300 g de lapin</p>
+ <p>poitrine de lard</p>
+ <p>oignons</p>
+ <p>thym, laurier</p>
+ <p>sel, poivre</p>
+ <p>vin blanc ou vinaigre de vin</p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>oignons</ingredient> en rondelles</operation>. dans le fond de la <ingredient><recipient>terrine</recipient></ingredient>, diposez une couche de rondelles d’ <ingredient>oignon</ingredient>, du <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, <ingredient>thym</ingredient> et <ingredient>laurier</ingredient>. alternez ensuite les couches de viande (<ingredient>poulet</ingredient>, <ingredient>lapin</ingredient>, <ingredient>veau</ingredient> ou <ingredient>poitrine de lard</ingredient>). <operation>remettez une couches d’ <ingredient>oignon</ingredient> et de condiments</operation>. <operation>continuez ainsi en</operation> alternant <ingredient>oignons</ingredient> / viande. versez un mélange <ingredient>eau</ingredient> et <ingredient>vin blanc</ingredient> ou <ingredient>eau</ingredient> et <ingredient>vinaigre</ingredient> en proportions égales (la viande doit être entièrement recouverte). <operation>portez à ébullition</operation> et <operation>laisser cuire à feu doux</operation>. si besoin est, ajouter un peu de mélange <ingredient>eau</ingredient> / <ingredient>vin blanc</ingredient> ou <ingredient>eau</ingredient> / <ingredient>vinaigre de vin</ingredient>. <operation>laissez refroidir</operation>. placez ensuite la <ingredient><recipient>terrine</recipient></ingredient> au frigo pendant au minimum 12 h pour que la gelée puisse prendre convenablement. vous pouvez également utilisez le’ potjevleesch’ comme entrée ou sur des toats à l’ apéritif. une bière blonde bien fraîche convient à merveille à ce <recipient>plat</recipient>
+]]>
+ </preparation>
+</recette>

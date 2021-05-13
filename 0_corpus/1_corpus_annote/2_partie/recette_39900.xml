@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39900">
+ <titre>Porc à l’ ananas et aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>un rôti de porc de 1 kg</p>
+ <p>2 oignons</p>
+ <p>fécule de pomme de terre</p>
+ <p>2 boîte 1/4 d’ ananas </p>
+ <p>huile</p>
+ <p>4 poivrons verts</p>
+ <p>un demi-verre de whisky</p>
+ <p>un demi-verre de vinaigre de vin</p>
+ <p>un bol de purée de tomate</p>
+ <p>2 blancs d’ oeufs</p>
+ <p>sel, poivre, paprika, piment en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>porc</ingredient> en petits morceaux. passer les morceaux dans le blanc d’ <ingredient>oeuf</ingredient>, puis dans la <ingredient>fécule de pomme de terre</ingredient>. mettre de l’ huile à chauffer dans une <recipient>poêle</recipient>, et <operation>faire dorer les morceaux de <ingredient>porc</ingredient></operation>. une fois bien grillés, les mettre de côté. emincer les <ingredient>oignons</ingredient>, et couper les <ingredient>poivrons</ingredient> en petits morceaux. <operation>faire cuire à feu doux</operation>. lorsque les <ingredient>poivrons</ingredient> changent de couleur, ajouter la <ingredient>purée de tomate</ingredient> mélangée au <ingredient>vinaigre</ingredient> et au <ingredient>whisky</ingredient>, et les ananas en morceaux. egoutter. saler, poivrer, ajouter les épices. <operation>laisser mijoter 5 mn,</operation> puis ajouter le <ingredient>porc</ingredient>. <operation>laisser chauffer quelques minutes, puis servir</operation>.
+]]>
+ </preparation>
+</recette>

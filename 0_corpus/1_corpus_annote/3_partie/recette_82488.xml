@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82488">
+ <titre>Gâteau tarte tout chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le gâteau: </p>
+ <p>100 g chocolat noir à dessert</p>
+ <p>100 g de beurre</p>
+ <p>50 g de sucre en poudre</p>
+ <p>50 g de farine</p>
+ <p>3 oeufs</p>
+ <p>Pour le glaçage: </p>
+ <p>100 g de chocolat noir à dessert</p>
+ <p>10 g de beurre</p>
+ <p>1/2 brique de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation>faire fondre le <ingredient>chocolat</ingredient> et le beurre</operation>. y ajouter le <ingredient>sucre en poudre</ingredient>, les <ingredient>oeufs</ingredient> et enfin la farine. beurrer un <recipient><recipient>moule</recipient> à tarte</recipient> de 28 cm de diamètre environ. verser la pâte et <operation>laisser cuire 18 à 20 minutes à 180 ° c (thermostat 6</operation>). pendant ce temps, préparer le <ingredient>glaçage</ingredient>: <operation>faire fondre sur feu doux, le <ingredient>chocolat</ingredient>, le beurre</operation> puis incorporer la <ingredient>crème</ingredient> pour la <operation>faire chauffer</operation>. attention à ne pas <operation>laisser bouillir</operation>. une fois le <ingredient>gâteau</ingredient> cuit, napper celui-ci avec le <ingredient>glaçage</ingredient> tiède. <operation>laisser refroidir</operation> et déguster avec une <ingredient>crème</ingredient> anglaise.
+]]>
+ </preparation>
+</recette>

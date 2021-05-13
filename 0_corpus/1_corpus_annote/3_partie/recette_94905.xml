@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94905">
+ <titre>Gratin de pâtes aux herbes (dit gratin raviolé) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pâtes (gros coudes par exemple) </p>
+ <p>250 g de fromage de chèvre frais</p>
+ <p>100 g de gruyère râpé</p>
+ <p>1/2 l de lait de chèvre</p>
+ <p>2 œufs</p>
+ <p>2 cuil. à soupe de persil haché</p>
+ <p>1 cuil. à soupe de ciboulette hachée</p>
+ <p>1 pincée de noix de muscade râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation>faire cuire les <ingredient>pâtes</ingredient> à l’ eau bouillante</operation> salée ; les égoutter. dans un <recipient>saladier</recipient> mettre le <ingredient>lait</ingredient>, y ajouter le <ingredient>fromage de chèvre frais</ingredient>, le <ingredient>gruyère râpé</ingredient>, les <ingredient>œufs</ingredient>, le <ingredient>persil</ingredient> et la <ingredient>ciboulette</ingredient> ; saler, poivrer ; mettre une pincée de <ingredient>noix de muscade</ingredient> ; battre le tout pour <operation>obtenir un mélange homogène</operation>. beurrer un <recipient>plat</recipient> à gratin ; y étaler les <ingredient>pâtes</ingredient> ; verser dessus le mélange lait fromage et <operation>faire cuire au <recipient>four</recipient> (th-7) pendant 30 mn</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43350">
+ <titre>Glace stracciatella</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 cl de lait demi écrémé</p>
+ <p>20 cl de crème fraiche (pas allégée) </p>
+ <p>20 g de sucre vanillé</p>
+ <p>40 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>1/2 bâton de vanille </p>
+ <p>50 g de palets en chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer le lait avec la gousse de <ingredient>vanille</ingredient></operation>. lorsque la gousse à infusé (le temps que le lait soit prêt à <operation>bouillir)</operation>, <operation>fendez - la</operation> et <operation>retirez avec la pointe du couteau les petits grains et déposez - les dans le lait</operation>. <operation>mettez à</operation> <operation>refroidir le lait</operation>. pendant ce temps -là, mixez les <ingredient>palets en chocolat</ingredient> de manière à <operation>obtenir des brisures de <ingredient>chocolat</ingredient> plus ou moins grosses selon vôtre goût</operation>. ensuite, <operation>battez le <ingredient>sucre</ingredient> et les jaunes d’ <ingredient>oeuf</ingredient> dans un <recipient>plat</recipient></operation>. attention, ils doivent être mousseux mais encore jaunes. <operation>ajoutez - y le lait refroidi, la <ingredient>crème</ingredient> fraîche</operation>. <operation>mélangez pour que le tout soit</operation> uniforme. battez les blancs en neige ferme et intégrez - les ensuite délicatement à la préparation. quand le mélange est prêt, <operation>versez dans votre <recipient>sorbetière</recipient></operation>. <operation>laissez prendre 5 minutes,</operation> puis <operation>ajoutez délicatement et petit à petit les brisures de <ingredient>chocolat</ingredient></operation>. <operation>laissez tourner jusqu’ à</operation> <operation>obtenir la consistance voulue</operation>.
+]]>
+ </preparation>
+</recette>

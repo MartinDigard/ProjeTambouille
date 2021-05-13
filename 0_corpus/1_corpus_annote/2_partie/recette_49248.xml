@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49248">
+ <titre>Spaghetti sauce rose, crevettes et vodka</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de spaghetti ou linguine</p>
+ <p>200 g de crevettes décortiquées (au rayon frais, pas congelé) </p>
+ <p>de la crème fraîche liquide (1 pot) </p>
+ <p>de la purée de tomates (1 paquet) </p>
+ <p>des tomates séchées</p>
+ <p>1 petit oignon</p>
+ <p>du piment de Cayenne</p>
+ <p>de la vodka</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir l’ <ingredient>oignon</ingredient> avec le <ingredient>piment</ingredient> dans un peu d’ huile et de beurre</operation>. <operation>baissez le feu</operation> et rajoutez la <ingredient>crème fraîche</ingredient>, la <ingredient>purée de tomate</ingredient>, les <ingredient>tomates séchées</ingredient> coupées en lamelles, et 3 cuillères à soupe de <ingredient>vodka</ingredient>. <operation>chauffez sans</operation> <operation>laisser bouillir</operation>. pendant ce temps, <operation>faites cuire les pâtes</operation>. a la dernière minute de cuisson, <operation>rajoutez les <ingredient>crevettes</ingredient> (pas avant sinon elles</operation> deviennent caoutchouteuses). <operation>réservez de l’ eau de cuisson pour</operation> réhydrater les pâtes. <operation>egouttez les pâtes et les</operation> <ingredient>crevettes</ingredient>, <operation>rajoutez la sauce</operation> et <operation>servez</operation> chaud. au besoin, <operation>rajoutez de l’ eau de cuisson dans votre <recipient>plat</recipient> pour que les pâtes ne</operation> collent pas. vin blanc sec
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88517">
+ <titre>Berniques à la poêle</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de berniques</p>
+ <p>3 échalotes</p>
+ <p>1 brin de persil</p>
+ <p>Sel, Poivre</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prendre 1 kg de <ingredient>berniques</ingredient>, les retirer de leur coquille en enlevant l’ estomac. les taper (comme les ormeaux) afin de les <operation>attendrir</operation>. les cuire dans de l’ eau bouillante pendant 3 minutes. les <operation>sortir de l’ eau bouillante</operation>. les <operation>faire revenir dans une <recipient>poêle</recipient> avec les <ingredient>échalotes</ingredient>,</operation> puis incorporer le <ingredient>persil</ingredient>, le poivre, le <ingredient>sel</ingredient>, l’ <ingredient>ail</ingredient> et <operation>laisser mijoter à feu doux pendant environ 5 minutes</operation>. servir chaud.
+]]>
+ </preparation>
+</recette>

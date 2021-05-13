@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83654">
+ <titre>Crème anglaise au lait de coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 jaunes d’ oeufs</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>50 cl de lait de coco</p>
+ <p>1 pincée de pistils de safran</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le lait de <ingredient>coco</ingredient> et le <ingredient>safran</ingredient>, pendant ce temps</operation> mélanger les <ingredient>jaunes</ingredient> d’ <ingredient>oeufs</ingredient> et le <ingredient>sucre</ingredient>, hors du feu ajouter le mélange <ingredient>oeufs</ingredient> sucre au lait et le remettre à feu doux jusqu’ à ce que la préparation se transforme en crème. a <operation>servir en accompagnement d’ un moelleux au chocolat et de quelques fruits exotiques en décoration si la crème a tendance à</operation> former des grumeaux (cuite à trop haute température), la <operation>laisser tiédir et la</operation> secouer dans un shaker. un crémant bien frappé
+]]>
+ </preparation>
+</recette>

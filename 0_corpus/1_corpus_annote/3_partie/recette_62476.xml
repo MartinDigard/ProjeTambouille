@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62476">
+ <titre>Rougail de crevettes de Madagascar (recette Malgache) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>20 crevettes crues de madagascar</p>
+ <p>1 tomate</p>
+ <p>3 cives</p>
+ <p>1/2 cuillère à café de curry</p>
+ <p>1 pointe de couteau de purée de piment</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>10 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>chauffez le beurre dans une <recipient>poêle</recipient></operation>. <operation>faites revenir la <ingredient>cive</ingredient> et <ingredient>tomate</ingredient></operation> émincées, saupoudrer de <ingredient>maïzena</ingredient> et ajouter 20 cl d’ eau. saupoudrer de <ingredient>curry</ingredient> et assaisonner de <ingredient>purée de piment</ingredient>. ajouter les <ingredient>crevettes</ingredient> et <operation>laisser bouillir durant 5 minutes</operation>. a <operation>servir avec du riz blanc</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31123">
+ <titre>Poulet yakitori (japonais) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de blancs de poulet découpés en lanières</p>
+ <p>huile pour graisser</p>
+ <p>Pour la marinade: </p>
+ <p>6 cl de sauce teriyaki</p>
+ <p>6 cl de miel</p>
+ <p>1 gousse d’ ail pilée</p>
+ <p>1 pincée de gingembre moulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ustensiles: petites brochettes de bambou mettre le <ingredient>poulet</ingredient> dans un <recipient>saladier</recipient> en verre, <operation>mélangez les ingrédients de la</operation> <ingredient>marinade</ingredient> et <operation>nappez -en le <ingredient>poulet</ingredient></operation>. <operation>laissez marinez plusieurs heures, voire toute une nuit au <recipient>réfrigérateur</recipient></operation>. <operation>enfilez deux <ingredient>lanières</ingredient> de blanc de <ingredient>poulet</ingredient> sur chaque brochette selon un mouvement ondulatoire</operation>. <operation>huilez la grille du <recipient>barbecue</recipient></operation>, <operation>attendez qu’ elle soit bien chaude</operation> et <operation>disposez les brochettes dessus</operation>. <operation>laissez - les</operation> cuire pendant 2 mn de chaqus côté, en les badigeonnant de <ingredient>marinade</ingredient> pendant le temps de cuisson et en les retournant. a <operation>servir immédiatement et à</operation> déguster avec les doigts! bon appétit. la sauce teryiaki se trouve dans toutes les boutiques asiatiques. un alcool de prune japonais ou saké doux.
+]]>
+ </preparation>
+</recette>

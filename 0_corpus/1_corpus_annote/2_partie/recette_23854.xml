@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23854">
+ <titre>Risotto de brocolis aux amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon émincé</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>175 g de riz brun</p>
+ <p>75 cl de bouillon de volaille</p>
+ <p>2 cuillères à soupe d’ amandes grillées</p>
+ <p>500 g de brocolis divisés en petits bouquets</p>
+ <p>50 g de parmesan râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient> dans l’ <ingredient>huile</ingredient> pendant 3 minutes</operation>. ajouter le <ingredient>riz</ingredient> et remuer jusqu’ à ce qu’ il soit bien enduit d’ <ingredient>huile</ingredient>. ajouter progressivement le <ingredient>bouillon de volaille</ingredient>. porter à ébullition. saler et poivrer, puis ajouter les <ingredient>amandes</ingredient>. <operation>couvrir</operation> et <operation>laisser mijoter pendant 20 minutes</operation>. ajouter les <ingredient>brocolis</ingredient> et <operation>faire cuire encore 8 minutes, jusqu’ à ce que le <ingredient>bouillon</ingredient> soit</operation> absorbé. ajouter le <ingredient>parmesan</ingredient> et disposer le tout dans un <recipient>plat</recipient> de service (pour que ce soit plus joli). saupoudrer le <recipient>plat</recipient> avec les <ingredient>amandes grillées</ingredient> et servir très chaud. c’ est un <recipient>plat</recipient> basses calories. si vous le souhaitez, vous pouvez ne pas mettre d’ <ingredient>amandes</ingredient>.
+]]>
+ </preparation>
+</recette>

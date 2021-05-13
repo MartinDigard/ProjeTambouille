@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82422">
+ <titre>Curry de porc à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de porc dans l’ échine</p>
+ <p>2 oignons</p>
+ <p>3 tomates ou 1 boite de concentré</p>
+ <p>1 ananas frais ou 1 petite boite de conserve</p>
+ <p>1 poivron rouge</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 peu de gingembre en poudre</p>
+ <p>1 peu de curry en poudre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez la viande en morceaux</operation>. faites chauffer 2 à 3 <ingredient>cuillères à soupe</ingredient> d’ <ingredient>huile</ingredient> dans une <recipient>cocotte</recipient> et <operation>mettez - y à</operation> sauter les <ingredient>oignons</ingredient> pelés et hachés grossièrement. <operation>ajoutez la viande lorsque les <ingredient>oignons</ingredient> commencent à</operation> dorer. <operation>faites dorer le</operation> <ingredient>porc</ingredient> puis <operation>ajoutez les <ingredient>tomates</ingredient> (ou <ingredient>concentré</ingredient></operation> dilué avec de l’ eau), le <ingredient>poivron</ingredient> découpé en fines rondelles. <operation>salez</operation>, <operation>poivrez</operation> et <operation>laissez mijoter à couvert quelques minutes à feu doux</operation>. <operation>coupez l’</operation> ananas en cubes et <operation>récupérez le jus</operation>. <operation>ajoutez - le à la viande</operation>, <operation>versez le jus</operation> et <operation>laissez mijoter le tout pendant 45 minutes environ</operation>. en fin de cuisson, <operation>ajoutez du <ingredient>gingembre</ingredient> et du <ingredient>curry</ingredient> selon votre goût</operation>. vérifiez l’ assaisonnement. <operation>laissez cuire quelques instants</operation>. servez accompagné de semoule ou de riz. bon appétit! pour avoir une recette plus diététique, vous pouvez remplacer le <ingredient>porc</ingredient> par du poulet. la teneur en graisse du <ingredient>porc</ingredient> est de 37 %, celle du poulet est de 7 %!
+]]>
+ </preparation>
+</recette>

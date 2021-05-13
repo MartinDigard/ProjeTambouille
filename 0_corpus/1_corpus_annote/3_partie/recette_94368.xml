@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94368">
+ <titre>Poivrons farcis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 poivrons</p>
+ <p>250 g de chair à saucisse (du boucher, pas de l’ industriel) </p>
+ <p>250 g de boeuf haché</p>
+ <p>2 oignons</p>
+ <p>2 gousse d’ ails</p>
+ <p>1 branche de persil</p>
+ <p>1 œuf</p>
+ <p>thym, sel et poivre</p>
+ <p>3 tranches de pain de mie</p>
+ <p>20 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher finement <ingredient>oignons</ingredient>, <ingredient>ail</ingredient> ert <ingredient>persil</ingredient>. tremper le <ingredient>pain de mie</ingredient> dans du lait tiède pour le ramollir puis mélanger tous les ingrédients. laver les <ingredient>poivrons</ingredient> et évider par la queue. mettre tour dans un <recipient>plat</recipient> au <recipient>four</recipient> à 200 ° pendant 1h, retourner les <ingredient>poivrons</ingredient> à mi-cuisson.
+]]>
+ </preparation>
+</recette>

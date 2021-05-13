@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42608">
+ <titre>Risotto de viandes à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>600 g de carbonnades de porc</p>
+ <p>600 g de côtes de veau</p>
+ <p>4 tomates</p>
+ <p>5 carottes</p>
+ <p>1 ravier de champignons de paris</p>
+ <p>350 g de jambon fumé</p>
+ <p>3 gros oignons</p>
+ <p>300 ml de bouillon de boeuf</p>
+ <p>400 ml de Guiness (bière) </p>
+ <p>1 cuillère à café de sel de céleri</p>
+ <p>300 g de riz</p>
+ <p>75 g de beurre</p>
+ <p>un peu de persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre 45 g de beurre dans une <recipient>casserole</recipient>,</operation> et ajouter le <ingredient>riz</ingredient>, sur feu doux pendant 2 à 3 min, ains que le <ingredient>sel de céleri</ingredient>. ensuite, ajouter le <ingredient>bouillon de boeuf</ingredient>, ainsi que 300 ml de <ingredient>guiness</ingredient>. <operation>faire bouillir,</operation> et cuire plus ou moins 20 min, jusqu’ à ce que le <ingredient>riz</ingredient> absorbe tout le <ingredient>bouillon</ingredient>. pendant ce temps, couper les <ingredient>carottes</ingredient>, le <ingredient>jambon</ingredient>, les <ingredient>tomates</ingredient> en petits morceaux ; et les <ingredient>champignons</ingredient> en rondelles ; couper aussi les <ingredient>oignons</ingredient> en fines lamelles. mettre le reste de beurre dans une <recipient>casserole</recipient>, et <operation>faire brunir la viande 10 min</operation>. ajouter les <ingredient>tomates</ingredient>, les <ingredient>carottes</ingredient>, ainsi que les <ingredient>oignons</ingredient>. 20 min plus tard, ajouter le <ingredient>jambon</ingredient>, les <ingredient>champignons</ingredient>, ainsi que le reste de <ingredient>guiness</ingredient>. <operation>laisser cuire sur feu doux, pendant environ 1 h 10</operation>. parsemez le tout de <ingredient>persil</ingredient>, avant de <operation>servir</operation>. si vous <operation>avez un <recipient>poêle</recipient> chez vous, n’</operation> hésitez pas à cuire ce <recipient>plat</recipient> dessus ou à le réchauffer. si vous <operation>savez</operation> préparer ce <recipient>plat</recipient> le matin, il sera encore meilleur, au moment de le servir. un vin de bourgogne
+]]>
+ </preparation>
+</recette>

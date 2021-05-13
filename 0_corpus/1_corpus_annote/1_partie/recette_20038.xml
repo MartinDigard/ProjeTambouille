@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20038">
+ <titre>Artichauts farcis aux oeufs</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 artichauts</p>
+ <p>4 oeufs</p>
+ <p>50 g de crème fraîche</p>
+ <p>1 cuillerée à soupe de ciboulette hachée</p>
+ <p>1 échalote hachée</p>
+ <p>1 citron</p>
+ <p>sel, poivre, noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les</operation> <ingredient>artichauts</ingredient>, <operation>faites - les</operation> cuire dans de l’ eau bouillante salée pendant 30 à 45 min. <operation>vérifiez la cuisson en</operation> enfonçant la pointe d’ un couteau dans le fond des <ingredient>artichauts</ingredient>: la chair doit être tendre. <operation>faites cuire les <ingredient>oeufs</ingredient> durs 10 minutes à l’ eau bouillante</operation>. <operation>jetez les premières feuilles des</operation> <ingredient>artichauts</ingredient>, <operation>enlevez le foin</operation> et <operation>gardez les fonds</operation>, <operation>citronnez - les</operation>. (<operation>gardez les feuilles pour les</operation> manger avec une sauce vinaigrette). <operation>ecalez les <ingredient>oeufs</ingredient> durs, hachez - les avec la <ingredient>crème</ingredient>, la <ingredient>ciboulette</ingredient> et l’ <ingredient>échalote</ingredient></operation>. <operation>salez</operation>, <operation>poivrez</operation> et ajoutez une pincée de <ingredient>noix de muscade</ingredient>. garnissez les fonds d’ <ingredient>artichauts</ingredient> avec la préparation et <operation>réservez au frais avant de</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166304">
+ <titre>Blanquette de saumon et moules</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>850 g de filet de saumon</p>
+ <p>800 g de moules</p>
+ <p>100 cl de court bouillon</p>
+ <p>30 g de beurre</p>
+ <p>15 cl de crème épaisse</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>30 g de farine</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez les <ingredient>moules</ingredient> et <operation>faites - les</operation> ouvrir dans une <recipient>marmite</recipient> avec une louche de <ingredient>court bouillon</ingredient>. reversez ensuite le jus de cuisson dans le reste de <ingredient>court bouillon</ingredient> et <operation>décortiquez les <ingredient>moules</ingredient></operation>. <operation>détaillez le <ingredient>saumon</ingredient> en cubes</operation> et <operation>faites dorer ces derniers 3 minutes au beurre dans une <recipient>sauteuse</recipient></operation>. ensuite, farinez, mouillez avec le <ingredient>court bouillon</ingredient> et <operation>laissez mijotez 15 minutes</operation>. <operation>retirez le poisson</operation> cuit. battez le <ingredient>jaune</ingredient> d’ œuf avec la <ingredient>crème</ingredient> et 1 louche du <ingredient>court bouillon</ingredient>, puis <operation>versez le tout dans la <recipient>sauteuse</recipient></operation>. <operation>remettez le</operation> <ingredient>saumon</ingredient>, <operation>ajoutez les</operation> <ingredient>moules</ingredient>, <operation>salez</operation>, <operation>poivrez</operation> et <operation>poursuivez la cuisson 5 minutes sans</operation> <operation>bouillir</operation>. <operation>servez cette blanquette avec du riz</operation>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16482">
+ <titre>Crème à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 cl de crème fraîche (en fonction du nombre de bananes) </p>
+ <p>1 banane par personne</p>
+ <p>1/2 citron</p>
+ <p>7.5 g de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>passez les <ingredient>bananes</ingredient> au mixer</operation>. battez ensuite la <ingredient>crème fraîche</ingredient> avec le <ingredient>sucre</ingredient> vanillé, <operation>ajoutez - la aux <ingredient>bananes</ingredient></operation>. <operation>arrosez le tout du jus de <ingredient>citron</ingredient></operation>. <operation>mettez au frais 1 à 2 heures</operation>. dessert déconseillé si le repas était déjà copieux, mais c’ est tellement bon!!!
+]]>
+ </preparation>
+</recette>

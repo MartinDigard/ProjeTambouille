@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37639">
+ <titre>Curry de porc à la courgette et raisins</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de porc </p>
+ <p>4 petites courgettes</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>½ cuillère à café de gingembre râpé</p>
+ <p>1 cuillère de curcuma</p>
+ <p>1 cuillère de coriandre (poudre) </p>
+ <p>½ cuillère de curry</p>
+ <p>½ cuillère de cumin </p>
+ <p>½ cuillère de piment rouge</p>
+ <p>2 cuillères de jus de citron</p>
+ <p>2 feuilles de laurier</p>
+ <p>200 g de lait de coco</p>
+ <p>une poignée de raisins blonds</p>
+ <p>une poignée d’ amandes effilées grillées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir le <ingredient>porc</ingredient> en cubes</operation>, ajouter <ingredient>ail</ingredient>, <ingredient>oignon</ingredient>, gingembre et <operation>laisser colorer</operation>. ajouter ensuite les <ingredient>courgettes</ingredient> coupées en <ingredient>petits</ingredient> dés, les épices, le lait de <ingredient>coco</ingredient> et les <ingredient>raisins</ingredient>. <operation>laissez mijoter environ 30 min, jusqu’ à ce que les <ingredient>courgettes</ingredient> soient bien fondantes</operation>. ajouter les <ingredient>amandes effilées</ingredient> au moment de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

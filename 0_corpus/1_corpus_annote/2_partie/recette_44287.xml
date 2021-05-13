@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44287">
+ <titre>Salade de fruits chaude</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 gousse de vanille</p>
+ <p>1 cuillère de rhum</p>
+ <p>1 mangue</p>
+ <p>2 oranges</p>
+ <p>1 banane</p>
+ <p>le jus d’ 1 citron et d’ 1 orange</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez les <ingredient>jus</ingredient>, le <ingredient>sucre</ingredient></operation> vanillé et la gousse de <ingredient>vanille</ingredient> préalablement fendue dans sa longueur ainsi que le <ingredient>rhum</ingredient> dans une <recipient>casserole</recipient> suffisamment grande pour <operation>contenir les fruits en suppléments</operation>. <operation>coupez les fruits en morceaux identiques et les</operation> incorporer au <ingredient>jus</ingredient>. <operation>couvrez</operation> et <operation>laissez macérer 2 à 3 heures dans un endroit frais (surtout pas au <recipient>réfrigérateur</recipient></operation>). avant de <operation>servir</operation> <operation>faites chauffer à feu moyen pendant quelques minutes, en</operation> <operation>faisant attention à la préparation</operation>. <operation>retirez du feu lorsque le <ingredient>jus</ingredient></operation> frémit. dressez l’ assiette en y ajoutant pour les gourmandes 1 boule de glace à la <ingredient>vanille</ingredient> et 1 biscuit. pour vos repas entre intimes!
+]]>
+ </preparation>
+</recette>

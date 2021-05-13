@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35539">
+ <titre>Boules suédoises à la cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>150 g de beurre</p>
+ <p>5 dl de lait</p>
+ <p>150 g de sucre</p>
+ <p>50 g de levure de boulanger fraîche</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 kg de farine</p>
+ <p>facultatif: cardamome en poudre</p>
+ <p>facultatif: barquettes en papier</p>
+ <p>Pour la garniture: </p>
+ <p>beurre mou</p>
+ <p>cannelle en poudre</p>
+ <p>sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>beurre</ingredient> dans le lait</operation>. quand le tout a tiédi, verser sur la <ingredient>levure</ingredient> émiettée dans un grand <recipient>saladier</recipient>. ajouter le <ingredient>sucre</ingredient>, le <ingredient>sel</ingredient> et éventuellement la <ingredient>cardamome</ingredient>. incorporer la farine et travailler jusqu’ à ce que la <ingredient>pâte</ingredient> soit belle. <operation>laisser reposer 40 mn à température ambiante, sous un torchon</operation>. retravailler la <ingredient>pâte</ingredient>, la séparer en deux. etaler la première moitié au rouleau, pour former un rectangle long, d’ environ 7 mm d’ épaisseur. etaler le <ingredient>beurre mou</ingredient> dessus, puis saupoudrer généreusement de <ingredient>sucre</ingredient> et de <ingredient>cannelle</ingredient>. rouler la <ingredient>pâte</ingredient> pour former un boudin, et le couper en tranches d’ environ 3 cm. poser ces tranches dans les <ingredient>barquettes</ingredient> ou sur du <ingredient>papier</ingredient> sulfurisé en veillant à replacer chaque bout sous la tranche (pour former un dessous). <operation>faire de même avec la seconde moitié de la <ingredient>pâte</ingredient></operation>. <operation>laisser gonfler 30 mn</operation>. préchauffer le <recipient>four</recipient> à 220 ° c. <operation>faire cuire 20 mn</operation>. on peut dorer à l’ oeuf et décorer avec des amandes ou des grains de <ingredient>sucre</ingredient>.
+]]>
+ </preparation>
+</recette>

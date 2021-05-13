@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164941">
+ <titre>Pâtes aux poivrons et à la pancetta</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de casarecce </p>
+ <p>300 g de poivrons marinés en bocal</p>
+ <p>3 tomates moyennes pelées, épépinées et coupées en morceaux</p>
+ <p>150 g de fines tranches de pancetta coupées en morceaux</p>
+ <p>1 cuillère à soupe de petites câpres</p>
+ <p>1 gousse d’ ail pilée</p>
+ <p>persil plat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les pâtes dans une <recipient>casserole</recipient> d’ eau bouillante</operation> salée sans <operation>couvrir jusqu’ à ce qu’ elles soient</operation> al dente. pendant ce temps, <operation>faites chauffer l’</operation> huile des <ingredient>poivrons marinés</ingredient> dans une <recipient>poêle</recipient> et <operation>faites - y</operation> dorer la <ingredient>pancetta</ingredient>. <operation>ajoutez l’ <ingredient>ail</ingredient> hachée, les <ingredient>tomates</ingredient>, les <ingredient>poivrons</ingredient>, les <ingredient>câpres</ingredient></operation>. <operation>faites cuir quelques minutes</operation>. <operation>versez les pâtes dans cette préparation et remuez</operation>. <operation>ajoutez le <ingredient>persil</ingredient></operation> ciselé et <operation>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

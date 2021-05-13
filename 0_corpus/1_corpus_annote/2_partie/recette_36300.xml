@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36300">
+ <titre>Risotto light à l’ asiatique</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 verre de riz complet</p>
+ <p>2 verres d’ eau</p>
+ <p>2 blancs de poireau</p>
+ <p>1 poivron</p>
+ <p>2 tranches de jambon ou de filet de poulet</p>
+ <p>2 cuillères à soupe de pignons</p>
+ <p>1 pincée de raisins secs</p>
+ <p>10 cl de crème liquide</p>
+ <p>sauce soja</p>
+ <p>curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>riz</ingredient> dans une <recipient>sauteuse</recipient>, en</operation> ajoutant l’ <ingredient>eau</ingredient>. porter à ébullition, puis <operation>laisser cuire jusqu’ à absorption</operation>. réserver. <operation>faire sauter les rondelles de <ingredient>poireaux</ingredient> et les lanières de <ingredient>poivrons</ingredient> dans la sauce <ingredient>soja</ingredient></operation>. <operation>faire griller les <ingredient>pignons</ingredient> et la viande</operation>, coupée en lamelles. mélanger dans la <recipient>sauteuse</recipient>, le <ingredient>riz</ingredient>, les légumes et la viande. ajouter progressivement la <ingredient>crème</ingredient> pour que le <ingredient>riz</ingredient> reste moelleux. ajouter les <ingredient>raisins</ingredient> et les <ingredient>pignons</ingredient>. servir chaud.
+]]>
+ </preparation>
+</recette>

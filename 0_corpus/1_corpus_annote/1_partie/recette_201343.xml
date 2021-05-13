@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201343">
+ <titre>Salade de soja</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pousses de soja fraîches</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>2 cuillères à soupe d’ huile de sésame</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 cuillère à café de piment en poudre</p>
+ <p>2 gousses d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>portez une <recipient>casserole</recipient> d’ eau à ébullition</operation>. plongez - y les <ingredient>pousses de soja</ingredient> et <operation>faites - les</operation> cuire pendant 1 min. <operation>égouttez - les dans une <recipient>passoire</recipient> et passez - les sous l’ eau</operation> froide pour stopper leur cuisson. puis, <operation>égouttez - les à nouveau</operation>. épluchez l’ <ingredient>ail</ingredient> puis hachez - le au-dessus d’ un <recipient>saladier</recipient>. mélangez - y l’ <ingredient>huile de sésame</ingredient>, la <ingredient>sauce soja</ingredient>, le <ingredient>piment en poudre</ingredient> et le <ingredient>sucre</ingredient>. ajoutez ensuite les <ingredient>pousses de soja</ingredient> et <operation>mélangez bien</operation>. <operation>couvrez</operation> et <operation>laissez mariner au <ingredient>frais</ingredient> pendant 2 h</operation>. <operation>servez bien <ingredient>frais</ingredient></operation>. cette salade accompagne très bien les recettes de viande sautée.
+]]>
+ </preparation>
+</recette>

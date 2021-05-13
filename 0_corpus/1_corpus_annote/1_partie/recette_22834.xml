@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22834">
+ <titre>Risotto jaune aux moules</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de moules</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>1 oignon haché</p>
+ <p>400 g de riz</p>
+ <p>50 cl de bouillon de poule</p>
+ <p>1 g de safran en poudre</p>
+ <p>1 bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plonger les <ingredient>moules</ingredient> dans une <recipient>cocotte</recipient> d’ eau bouillante avec le <ingredient>vin blanc sec</ingredient>. assaisonner et ajouter le <ingredient>bouquet garni</ingredient>. une fois ouvertes, séparer la chair des coquilles. réserver le jus de cuisson. <operation>faire une fondue d’</operation> <ingredient>oignon</ingredient> et ajouter le <ingredient>riz</ingredient>. <operation>faire revenir 2 min en</operation> remuant. arroser de <ingredient>bouillon</ingredient> et de 25 cl de jus de cuisson des <ingredient><recipient>moule</recipient></ingredient>, ainsi que le <ingredient>safran</ingredient>. <operation>laisser cuire 20 min</operation> et ajouter les <ingredient>moules</ingredient>.
+]]>
+ </preparation>
+</recette>

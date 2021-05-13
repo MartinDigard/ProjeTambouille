@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95859">
+ <titre>Pizza (map) jambon raclette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à pizza: - 250g de farine </p>
+ <p>1 pincée de sel</p>
+ <p>4 cs d’ huile d’ olive</p>
+ <p>15cl d’ eau tiède</p>
+ <p>1 sachet de levure de boulanger sèche</p>
+ <p>Pour la garniture: - 6 tranches de raclette (env. 130g) </p>
+ <p>150g d’ allumettes de jambon </p>
+ <p>6 rondelles de tomates </p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>poivre (facultatif) </p>
+ <p>origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte à pizza: mettre les ingrédients dans la <recipient>machine à pain</recipient> dans l’ ordre suivant: l’ <ingredient>eau</ingredient>, l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, <ingredient>sel</ingredient>, la farine et la <ingredient>levure</ingredient>. mettre sur le programme pâte et <operation>laisser minimum une demi heure</operation>. passez ce temps, mettre la pâte sur un plan fariné et l’ <operation>aplatir doucement au rouleau en rectangle</operation>. sur un plaque rectangulaire, mettre du papier sulfurisé et déposer la pâte. <ingredient>garniture</ingredient>: poser les <ingredient>6 tranches de raclette</ingredient>, sans croûte, sur la pâte en les espaçant un peu (en 2 rangées de 3). <operation>poivrez légèrement</operation> et ajouter les <ingredient>allumettes de jambon</ingredient>, les <ingredient>rondelles de tomates</ingredient> sur chaque fromage, l’ <ingredient>origan</ingredient> et le <ingredient>filet</ingredient> d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. <operation>enfournez</operation> 15mn à 210 ° c. vous pouvez ajouter un oignon sur le fromage. attention à la cuisson car 15 min elle reste tendre et moelleuse mais à <operation>partir de 20 min elle</operation> <ingredient>sèche</ingredient>!
+]]>
+ </preparation>
+</recette>

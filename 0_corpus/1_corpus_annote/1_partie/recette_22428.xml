@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22428">
+ <titre>Salade Waldorf- Astoria</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 pommes rouges, non pelées, émincées</p>
+ <p>1 branche de céleri coupée en fins tronçons</p>
+ <p>3 cuillères à soupe de mayonnaise</p>
+ <p>1 citron (son jus) </p>
+ <p>4 cuillères à soupe de cerneaux de noix</p>
+ <p>1 laitue lavée et ciselée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+arroser les tranches de <ingredient>pommes</ingredient> du jus de <ingredient>citron</ingredient> pour qu’ elles ne s’ oxydent pas. mettre dans un <recipient>saladier</recipient> la <ingredient>laitue</ingredient> le <ingredient>céleri</ingredient>, la <ingredient>mayonnaise</ingredient>, les <ingredient>noix</ingredient>, les <ingredient>pommes</ingredient>. mélanger.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55970">
+ <titre>Lapin à la basquaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de découpe de lapin (cuisses, râbles, gigolettes, etc) </p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>6 tomates pelées ou 1 conserve de 400 g</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>2 courgettes</p>
+ <p>10 cl de vin blanc</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez les <ingredient>oignons</ingredient> et l’ <ingredient>ail</ingredient> en lamelles</operation>. mettez dans la <recipient>cocotte</recipient> les <ingredient>tomates pelées</ingredient>, les <ingredient>poivrons</ingredient> et les <ingredient>courgettes</ingredient> débités en morceaux. rajoutez les <ingredient>oignons</ingredient>, l’ <ingredient>ail</ingredient>, le <ingredient>vin blanc</ingredient>, une pincée de gros <ingredient>sel</ingredient> et une pincée d’ <ingredient>herbes de provence</ingredient>. <operation>laissez cuire 10 minutes à feu moyen</operation> <operation>rajoutez les morceaux de</operation> <ingredient>lapin</ingredient>, <operation>couvrez</operation> et <operation>laissez cuire 40 minutes environ</operation>. rectifier l’ assaisonnement selon votre goût en ajoutant <ingredient>sel</ingredient> et <ingredient>poivre</ingredient>.
+]]>
+ </preparation>
+</recette>

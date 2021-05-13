@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82230">
+ <titre>Potage de lentilles au cabillaud</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte de lentilles </p>
+ <p>4 filets de cabillaud</p>
+ <p>4 petites carottes</p>
+ <p>4 cuillères à soupe de crème fraîche </p>
+ <p>4 cuillères à soupe de ciboulette</p>
+ <p>2 feuilles de laurier</p>
+ <p>2 cuillères à soupe de ciboulette </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer de l’ eau dans le <recipient>cuit vapeur</recipient></operation>. epluchez et <operation>coupez les <ingredient>carottes</ingredient> en rondelles</operation>. qaund l’ eau bout, déposez le poisson et les rondelles de <ingredient>carottes</ingredient> dans le panier. <operation>laissez cuire 10 minutes</operation>. pendant ce temps, versez les lentilles dans une <recipient>casserole</recipient>, avec la <ingredient>feuille de laurier</ingredient> et un grand verre d’ eau. <operation>faites réchauffer doucement</operation>. <operation>ôtez le</operation> <ingredient>laurier</ingredient> puis mixer le tout. <operation>salez</operation>, <operation>poivrez</operation>, <operation>ajoutez la <ingredient>crème</ingredient> et les rondelles de <ingredient>carottes</ingredient></operation>. <operation>mélangez bien</operation> et <operation>servez dans une assiette creuse</operation>. détachez le poisson en miettes du bout des doigts, répartissez sur la <ingredient>soupe</ingredient>. parsemez de <ingredient>ciboulette</ingredient> et <operation>servez immédiatement</operation>. c’ est une recette propice à l’ automne! une <ingredient>soupe</ingredient> qui sert de <recipient>plat</recipient> unique, et qu’ il fait bon partager un soir pour se réchauffer le corps et les papilles. bon appétit! un vin rouge
+]]>
+ </preparation>
+</recette>

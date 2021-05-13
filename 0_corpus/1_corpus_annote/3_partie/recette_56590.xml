@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56590">
+ <titre>Poulet au persil</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>la moitié d’ une botte de persil</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 brique de crème liquide</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>poulet</ingredient> en morcaux et le <operation>faire revenir dans une <recipient>casserole</recipient> avec 2 cuillères à soupe d’</operation> huile. ciseler le <ingredient>persil</ingredient> très finement et couper les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> en petits morceaux. une fois le <ingredient>poulet</ingredient> bien doré, rajouter le <ingredient>persil</ingredient> et l’ <ingredient>ail</ingredient>. bien remuer. rajouter ensuite la <ingredient>crème</ingredient>, saler et poivrer. <operation>laisser ensuite</operation> mijoter et servir avec des pâtes fraîches.
+]]>
+ </preparation>
+</recette>

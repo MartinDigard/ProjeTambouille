@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="177195">
+ <titre>Lotte à la vanille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 queue de lotte</p>
+ <p>2 échalotes</p>
+ <p>1 cuillère à soupe de fond de veau</p>
+ <p>20 cl vin blanc sec</p>
+ <p>20 cl crème fraîche épaisse</p>
+ <p>4 cuillère à café d’ extrait pur de vanille</p>
+ <p>beurre</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer la <ingredient>lotte</ingredient></operation> coupée en cubes dans du beurre dans une <recipient>poêle</recipient> anti-adhésive, réserver couvert sous une feuille d’ aluminium. ciseler finement l’ <ingredient>échalote</ingredient>, la <operation>faire blondir dans la même <recipient>poêle</recipient></operation>, ajouter la <ingredient>vanille</ingredient>, <operation>laisser quelques secondes</operation> puis ajouter le <ingredient>fond de veau</ingredient> et déglacer au vin <ingredient>blanc</ingredient>. bien émulsionner au fouet pour éviter les grumeaux. ajouter la crème, bien remuer. ajouter le poisson, assaisonner si besoin et <operation>laisser mijoter quelques minutes</operation>. <operation>servir avec du riz <ingredient>blanc</ingredient> ou des champignons</operation> émincés ou une fondue de poireaux. cette recette est parfaite avec bon nombre de filets de poisson. un bon vin <ingredient>blanc</ingredient> type bouzeron
+]]>
+ </preparation>
+</recette>

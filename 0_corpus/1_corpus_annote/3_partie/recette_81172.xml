@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81172">
+ <titre>Soupe sucrée aux fruits</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>50 cl d’ eau</p>
+ <p>2 oranges</p>
+ <p>2 bananes</p>
+ <p>2 pommes</p>
+ <p>1 melon</p>
+ <p>1 barquette de fraise</p>
+ <p>3 kiwis</p>
+ <p>1 zeste de citron</p>
+ <p>1 pamplemousse</p>
+ <p>1 ananas</p>
+ <p>2 abricots</p>
+ <p>100 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez tous les fruits, <operation>enlevez les pépins et les noyaux</operation>. <operation>coupez tous les fruits en deux</operation>. <operation>faire cuire 15 min à la vapeur</operation>. <operation>ajoutez dans la <recipient>cocotte</recipient> l’ <ingredient>eau</ingredient> + le</operation> <ingredient>sucre</ingredient>, <operation>mélangez tout jusqu’ à ce que la soupe soit limpide</operation>. bon appétit!! vous pouvez la boire froide ou chaude. en sauce, en soupe ou en boisson.
+]]>
+ </preparation>
+</recette>

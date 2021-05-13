@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17328">
+ <titre>Croquets bourguignons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>225 g de farine</p>
+ <p>225 g de sucre</p>
+ <p>1 pincée de sel</p>
+ <p>1/2 sachet de levure (chimique) </p>
+ <p>100 g de noisettes décortiquées</p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire légèrement griller les <ingredient>noisettes</ingredient>, puis les hacher grossièrement</operation>. battre les <ingredient>oeufs</ingredient> en omelette dans une jatte avec le <ingredient>sucre</ingredient> et une pincée de <ingredient>sel</ingredient>. sans cesser de remuer, ajouter la farine en pluie fine ainsi que la <ingredient>levure</ingredient>. ajouter ensuite les <ingredient>noisettes</ingredient> et travailler soigneusement la préparation. beurrer généreusement un <ingredient><recipient>moule</recipient></ingredient> rectangulaire et le remplir de la préparation. mettre à <recipient>four</recipient> moyen préchauffé (th 6/180 ° c) durant 15 mn. surveiller la cuisson. <operation>sortir le</operation> <ingredient><recipient>moule</recipient></ingredient> et découper la pâte encore bien chaude en losanges. <operation>laisser les croquets</operation> sécher dans le <ingredient><recipient>moule</recipient></ingredient>. on peut aussi ajouter quelques amandes en <operation>faisant par exemple moitié - moitié amandes / <ingredient>noisettes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

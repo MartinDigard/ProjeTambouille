@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35358">
+ <titre>Salade paysanne au reste de pot-au-feu</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de reste de viande (style viande de pot au feu) </p>
+ <p>600 g de carottes</p>
+ <p>200 g de champignons</p>
+ <p>1 citron</p>
+ <p>2 échalotes</p>
+ <p>persil haché</p>
+ <p>3 oeufs durs</p>
+ <p>quelques olives farcies</p>
+ <p>Pour la vinaigrette: </p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>carottes</ingredient> dans de l’ eau</operation> salée, les <operation>laisser refroidir et les</operation> couper en fines rondelles. les mettre dans un <recipient>saladier</recipient> avec la <ingredient>vinaigrette</ingredient>. couper le boeuf en petits dés et l’ ajouter aux <ingredient>carottes</ingredient> en <ingredient>vinaigrette</ingredient>. ajouter les <ingredient>champignons</ingredient> lavés, émincés et arrosés de jus de <ingredient>citron</ingredient>, ainsi que les <ingredient>échalotes</ingredient> hachées et le <ingredient>persil</ingredient>. mélanger les ingrédients délicatement. décorer le <recipient>plat</recipient> avec les <ingredient>oeufs</ingredient> coupés en forme de tulipes ouvertes et les <ingredient>olives</ingredient> farcies.
+]]>
+ </preparation>
+</recette>

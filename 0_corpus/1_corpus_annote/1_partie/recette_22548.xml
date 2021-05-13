@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22548">
+ <titre>Toast-burger</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches de pain</p>
+ <p>1 hamburger (ou steak haché) </p>
+ <p>crudités, sauce, fromage, lard, champignons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>hamburger</ingredient> au beurre ou à l’ huile d’ olive dans une <recipient>poêle</recipient> ; le choix entre le beurre et l’ huile d’</operation> olive se fait selon la garniture choisie. <operation>rôtir 2 tartines</operation>. disposer entre les deux tartines rôties la viande, les <ingredient>crudités</ingredient>, le <ingredient>fromages</ingredient> et la sauce. on peut réchauffer quelques secondes au <recipient>micro-onde</recipient> pour <operation>ramollir le</operation> <ingredient>fromage</ingredient> ou <operation>attendrir les toasts</operation>. on peut <operation>faire des toats -</operation> burger béarnaise, <ingredient>champignons</ingredient> des bois, grecs (feta + tzatziki), piquants (poivrons) etc... <operation>laissez -</operation> aller votre imagination et celle de vos enfants. <recipient>plat</recipient> facile à réaliser, idéal pour des enfants. il ne nécessite pas d’ avoir d’ ingrédient spéciaux. il permet d’ accommoder des restes.
+]]>
+ </preparation>
+</recette>

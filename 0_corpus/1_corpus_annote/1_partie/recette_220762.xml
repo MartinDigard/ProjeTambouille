@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220762">
+ <titre>Salade à l’ américaine</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de choux rouge râpé</p>
+ <p>250 g de carottes râpées</p>
+ <p>250 g de salade verte</p>
+ <p>1/2 concombre</p>
+ <p>250 g de soja (facultatif) </p>
+ <p>250 g de gruyère râpé (quantité à définir) </p>
+ <p>50/100 g de parmesan râpé</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 cuillères à soupe de vinaigre</p>
+ <p>2 cuillères à soupe de citron</p>
+ <p>1 gousse d’ ail ou 1 oignon</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient> mettre le <ingredient>choux</ingredient>, les <ingredient>carottes</ingredient>, la salade, le <ingredient>concombre</ingredient> et le soja si choisis. <operation>faire la sauce de la salade en</operation> mettant l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, le <ingredient>vinaigre</ingredient>, le <ingredient>citron</ingredient>, l’ <ingredient>oignon</ingredient> ou l’ <ingredient>ail</ingredient>, le <ingredient>sel</ingredient> et le poivre. bien mélanger. ajouter le <ingredient>gruyère râpé</ingredient> et le <ingredient>parmesan râpé</ingredient>. bien mélanger puis <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

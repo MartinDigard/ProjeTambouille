@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52906">
+ <titre>Muffin Chocolat citron</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt nature ou vanillé (garder le pot, il servira de mesure) </p>
+ <p>3 pots de farine</p>
+ <p>1/2 pot de sucre</p>
+ <p>30 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>200 g de chocolat pâtissier</p>
+ <p>2 cuillères à café d’ extrait de citron</p>
+ <p>1 sachet de sucre vanillé </p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>versez le <ingredient>yaourt</ingredient> dans un grand <recipient>saladier</recipient></operation>. ajoutez le 1/2 <ingredient>pot de sucre</ingredient>, puis les 3 <ingredient>pots</ingredient> de farine, et <operation>mélangez</operation>. <operation>séparez les blancs des jaunes d’ <ingredient>oeuf</ingredient>,</operation> et <operation>montez les blancs en neige</operation>. <operation>faites fondre le beurre et l’</operation> <operation>ajoutez à la préparation</operation>. ajoutez le <ingredient>sachet de levure chimique</ingredient> et le <ingredient>sachet de sucre vanillé</ingredient>, les blancs en neige à la préparation. <operation>cassez le</operation> <ingredient>chocolat</ingredient> et <operation>gardez -en un carré pour chaque muffin</operation>. <operation>faites fondre le reste au <recipient>bain - marie</recipient>, ou dans une <recipient>casserole</recipient>, avec 3 <ingredient>cuillères</ingredient> à soupe d’ eau</operation>. pendant ce temps, <operation>séparez la pâte en deux parts égales</operation> et ajoutez dans l’ une d’ entre elle les 2 <ingredient>cuillères à café</ingredient> d’ <ingredient>extrait de citron</ingredient>. une fois le <ingredient>chocolat</ingredient> fondu, <operation>ajoutez - le à l’ autre moitié de pâte</operation>. disposez la pâte <ingredient>chocolat</ingredient> et <ingredient>citron</ingredient> en couche dans le <recipient>plat</recipient> à muffin, et <operation>ajoutez un carré de <ingredient>chocolat</ingredient> dans chaque muffin</operation>. <operation>faites cuire au <recipient>four</recipient> pendant 20 min à 180 ° c (thermostat 6</operation>). les muffins peuvent être <operation>servis avec une crème anglaise</operation>.
+]]>
+ </preparation>
+</recette>

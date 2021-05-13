@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18272">
+ <titre>Chocos cocos</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>1 yaourt nature (garder le pot pour mesurer) </p>
+ <p>3 pots de farine</p>
+ <p>2 pots de sucre</p>
+ <p>1 pot d’ huile</p>
+ <p>1 sachet de levure</p>
+ <p>200 gr de chocolat noir</p>
+ <p>1 sachet de noix de coco rapée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire un gâteau au <ingredient>yaourt</ingredient> en</operation> mélangeant: <ingredient>yaourt</ingredient>, <ingredient>oeufs</ingredient>, <ingredient>farine</ingredient>, <ingredient>sucre</ingredient>, <ingredient>huile</ingredient> et <ingredient>levure</ingredient>. verser la préparation dans un <recipient>moule</recipient> beurré et fariné, mettre à <recipient>four</recipient> chaud 40 mn. <operation>faire refroidir le gâteau et le</operation> couper en petits morceaux de même taille. <operation>faire fondre le <ingredient>chocolat</ingredient> avec un peu de lait, d’ eau ou de crème fraîche</operation> passer les morceaux de gâteau dans le <ingredient>chocolat</ingredient>, puis les rouler dans la <ingredient>noix de coco</ingredient> rapée. mettre au frais et <operation>régalez -vous</operation>.
+]]>
+ </preparation>
+</recette>

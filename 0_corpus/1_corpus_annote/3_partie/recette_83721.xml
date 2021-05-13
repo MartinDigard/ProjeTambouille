@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83721">
+ <titre>Dessert à l’ orange du maroc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oranges</p>
+ <p>Miel</p>
+ <p>Cannelle (en poudre) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez les <ingredient>oranges</ingredient> puis les couper en rondelles, <operation>faites revenir le <ingredient>miel</ingredient> à feu moyen dans une petite <recipient>casserole</recipient></operation>. déposez les rondelles d’ orange sur une assiette plate, parsemez les <ingredient>oranges</ingredient> de <ingredient>cannelle</ingredient>, puis <operation>versez le <ingredient>miel</ingredient> chaud sur les <ingredient>oranges</ingredient></operation>. bon voyage!! c’ est un <recipient>plat</recipient> de ma maman. lorsque je <operation>vais au maroc j’</operation> adore déguster ce dessert...
+]]>
+ </preparation>
+</recette>

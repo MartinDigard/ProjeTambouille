@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24303">
+ <titre>Poisson jaune</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poisson</p>
+ <p>1 oignon émincé</p>
+ <p>safran</p>
+ <p>sel, poivre</p>
+ <p>farine</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient>filets de poisson</ingredient> en <ingredient>émincé</ingredient>. les passer légèrement à la farine. <operation>faire revenir les <ingredient>oignons</ingredient> dans une <recipient>poêle</recipient></operation> contenant un peu d’ huile d’ <ingredient>olive</ingredient>. ajouter le <ingredient>poisson</ingredient>, saupoudrer de <ingredient>safran</ingredient>. lorsque le <ingredient>poisson</ingredient> est saisi de tous côtés, déglacer à l’ eau. saler, poivrer, <operation>couvrir</operation> et <operation>laisser mijoter quelques minutes à petit feu</operation>. <recipient>plat</recipient> très facile et très rapide à préparer. se réchauffe très bien. je le sers avec du riz ou des tagliatelles fraîches.
+]]>
+ </preparation>
+</recette>

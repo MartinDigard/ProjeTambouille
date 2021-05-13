@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165730">
+ <titre>Mon fameux gâteau coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pour la couche coco: </p>
+ <p>-2 œufs</p>
+ <p>-150 grammes de sucre</p>
+ <p>-20cl de crème liquide</p>
+ <p>-150 grammes de noix de coco</p>
+ <p>-10 cl de lait</p>
+ <p>pour la couche biscuit: </p>
+ <p>-150 grammes de sucre</p>
+ <p>-2 œufs</p>
+ <p>-200 grammes de farine</p>
+ <p>-1 sachet de levure</p>
+ <p>-150 ml de lait</p>
+ <p>-130 grammes de beurre fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, mélanger les ingrédients de la <ingredient>couche coco</ingredient>, mettre a chauffer et <operation>laisser épaissir environ 5 minutes à feu doux</operation>. réserver. dans un <recipient>saladier</recipient>, mélanger les ingrédients de la <ingredient>couche biscuit</ingredient>, mélanger afin d’ <operation>obtenir une pâte homogène</operation>. dans un <recipient>plat</recipient> beurré préalablement, verser tout d’ abord la pâte à <ingredient>biscuit</ingredient>, puis répartisser sur le dessus de la pâte la <ingredient>couche coco</ingredient>. mettre au <recipient>four</recipient> 40 à 50 minutes à 180 degrés et <operation>régalez vous</operation>.
+]]>
+ </preparation>
+</recette>

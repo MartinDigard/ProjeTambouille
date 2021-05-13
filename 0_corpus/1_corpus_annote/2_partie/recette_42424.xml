@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42424">
+ <titre>Filet de poulet aux pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 blanc de poulet (ou deux suivant grosseur) </p>
+ <p>2 belles pommes qui tiennent bien à la cuisson</p>
+ <p>1 poignée de raisins secs, </p>
+ <p>quelques amandes mondés (facultatif) </p>
+ <p>1 tout petit verre de calvados</p>
+ <p>1 grosse cuillère à soupe de crème fraiche allégée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire tremper les <ingredient>raisins</ingredient> à l’</operation> avance (1h) dans un peu de <ingredient>calvados</ingredient>, <operation>faire dorer les <ingredient>amandes</ingredient> à <ingredient>sec</ingredient> dans une <recipient>poêle</recipient></operation>. <operation>faire dorer le filet de <ingredient>poulet</ingredient> dans une <recipient>poêle</recipient> anti adhésive, et le cuire à l’ étouffé (il</operation> conservera son moelleux). pendant ce temps peler et couper les <ingredient>pommes</ingredient> en grosses lamelles, y adjoindre les <ingredient>raisins</ingredient>, les cuire dans un peu de beurre à feu doux, elles doivent prendre tout juste couleur, en fin de <ingredient>cuisson</ingredient> on ajoutera les <ingredient>amandes</ingredient>. <operation>faire revenir à la <recipient>poêle</recipient> le <ingredient>poulet</ingredient>, il est</operation> pratiquement cuit, déglacer avec le <ingredient>calvados</ingredient> (on peut récupérer celui dans lequel ont macérés les <ingredient>raisins</ingredient> puis ajuster la quantité) et flamber brièvement (avoir sous la main un couvercle métallique qui étouffera les flammes) pour garder un peu d’ alcool dans la préparation. verser la <ingredient>crème</ingredient> (je l’ utilise toujours épaisse pour plus de liant), remuer doucement donner un tour de bouillon. <operation>servir dans une assiette</operation> chaude le <ingredient>blanc de poulet</ingredient> entouré des <ingredient>pommes</ingredient> et arrosé de la sauce. un côte du jura <ingredient>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

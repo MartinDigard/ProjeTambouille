@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35391">
+ <titre>Aumonières aux pommes et aux marrons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 crêpes</p>
+ <p>5 pommes</p>
+ <p>100 g de crème de marrons</p>
+ <p>beurre</p>
+ <p>sucre</p>
+ <p>sucre glace</p>
+ <p>3 rouleaux de réglisse ou 5 fils de coca (vente en boulangerie) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation>, <operation>épépinez</operation> et <operation>coupez les <ingredient>pommes</ingredient> en petits cubes</operation>. dans une grande <recipient>poêle</recipient>, <operation>faites - les</operation> cuire sur feu vif avec un peu de beurre. lorsqu’ elles sont bien fondantes, <operation>saupoudrez - les de</operation> <ingredient>sucre</ingredient> et <operation>laissez caraméliser quelques minutes</operation>. <operation>mettez les <ingredient>pommes</ingredient> dans un <recipient>saladier</recipient></operation> et mélangez - les à la <ingredient>crème de marrons</ingredient>. répartissez la préparation sur les six <ingredient>crêpes</ingredient> et <operation>refermez - les à l’</operation> aide d’ une lanière de <ingredient>réglisse</ingredient>. servez frais, saupoudré d’ un peu de <ingredient>sucre glace</ingredient>.
+]]>
+ </preparation>
+</recette>

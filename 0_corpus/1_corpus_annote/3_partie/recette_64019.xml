@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64019">
+ <titre>Gâteau chamallow et chocolat blanc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de gâteau petit LU</p>
+ <p>des chamallow</p>
+ <p>100 g de beurre</p>
+ <p>une petite boîte de lait concentré sucré</p>
+ <p>2 tablettes de chocolat blanc Galak</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecraser en miettes les <ingredient>petits lu</ingredient>. mettre les miettes dans un <recipient>saladier</recipient>, y ajouter le <ingredient>lait concentré</ingredient> puis le <ingredient>beurre</ingredient> fondu, mélanger le tout afin d’ <operation>obtenir une sorte de pâte</operation>, verser cette pâte dans un <recipient>moule</recipient>. couper les <ingredient>chamallow</ingredient> en deux, les disposer sur la pâte et pour <operation>finir</operation> faire fondre le <ingredient>chocolat blanc</ingredient> puis le verser sur le tout. mettre le <recipient>plat</recipient> au frigo au moins toute une nuit, ou moins longtemps selon les goûts. puis servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31434">
+ <titre>Cake pomme - banane moelleux</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>75 g de beurre</p>
+ <p>125 g de sucre</p>
+ <p>250 g de farine</p>
+ <p>2 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ <p>2 pommes</p>
+ <p>2 bananes bien mûres</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients dans l’ ordre: beurre (fondu), <ingredient>sucre</ingredient>, <ingredient>oeufs</ingredient>, <ingredient>farine</ingredient>, <ingredient>levure</ingredient>, fruits (coupés en petits morceaux). mettre dans un <recipient>moule</recipient> à cake, cuire à th 6 (180 ° c), entre 40 min et 1 h selon le <recipient>four</recipient>. variante: pour un cake croquant, remplacer les fruits par 3 <ingredient>bananes</ingredient> et 100 g de noix concassées (en gros morceaux). ou encore par <ingredient>pommes</ingredient> + <ingredient>bananes</ingredient> + noix, dans les quantités que l’ on veut. <operation>testez différents dosages de fruits! les <ingredient>bananes</ingredient> servent de " base ", les <ingredient>pommes</ingredient> apportent du moelleux et de la légèreté, et les noix du croquant</operation>. parfait pour un goûter avec du thé...
+]]>
+ </preparation>
+</recette>

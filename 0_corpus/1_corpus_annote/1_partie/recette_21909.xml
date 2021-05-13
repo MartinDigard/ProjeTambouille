@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21909">
+ <titre>Tomates au roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 belles tomates</p>
+ <p>1 portion de Roquefort</p>
+ <p>1 petit pot de crème fraîche (25 cl) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez le dessus de la <ingredient>tomate</ingredient> (le chapeau),</operation> puis <operation>videz l’ intérieur</operation>. dans un <recipient>saladier</recipient>, mélangez le <ingredient>roquefort</ingredient> avec la <ingredient>crème fraîche</ingredient>, <ingredient>sel</ingredient> + poivre. farcir chaque <ingredient>tomate</ingredient> avec cette préparation, remettre le chapeau de la <ingredient>tomate</ingredient> et <operation>disposez sur un <recipient>plat</recipient> avec quelques feuilles de salade</operation>. mettre au frais (30 mm) si vos ingrédients ne l’ étaient pas, sinon c’ est prêt!! entrée improvisée à <operation>servir frais</operation>.
+]]>
+ </preparation>
+</recette>

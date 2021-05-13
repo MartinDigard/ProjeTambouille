@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30200">
+ <titre>Fraises en bavarois</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fraises très parfumées</p>
+ <p>10 cl d’ eau</p>
+ <p>135 g de sucre en poudre</p>
+ <p>135 g de crème fraîche entière</p>
+ <p>1 citron</p>
+ <p>4 feuilles de gélatine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites ramollir la <ingredient>gélatine</ingredient> dans un bol d’ <ingredient>eau</ingredient> froide</operation>. <operation>portez l’ <ingredient>eau</ingredient> et le <ingredient>sucre</ingredient> à ébullition</operation> puis <operation>laisser tiédir avant d’</operation> ajouter la <ingredient>gélatine</ingredient> soigneusement égouttée et pressée. <operation>réservez les plus belles <ingredient>fraises</ingredient> pour la décoration</operation>. <operation>mixez le reste des</operation> <ingredient>fraises</ingredient> et <operation>passez éventuellement au</operation> <operation>tamis pour</operation> <operation>ôtez les petites graines</operation>. <operation>prélevez 25 cl de pulpe de</operation> <ingredient>fraises</ingredient>, <operation>ajoutez le sirop</operation> gélatiné et le jus de <ingredient>citron</ingredient>. fouettez la <ingredient>crème fraîche</ingredient> bien froide en chantilly et incorporez - la délicatement au mélange refroidi. <operation>huilez un <recipient>moule</recipient></operation> et <operation>versez - y la préparation</operation>. placez au <recipient>réfrigérateur</recipient> pendant 12 heures. <operation>démoulez au centre d’ un <recipient>plat</recipient></operation>. <operation>entourez de <ingredient>fraises</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223537">
+ <titre>Rôti de veau à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de rôti de veau</p>
+ <p>4 tranches épaisses de lard fumé </p>
+ <p>240 g de tomates pelées au jus </p>
+ <p>3 gousses d’ ail</p>
+ <p>25 cl de vin blanc </p>
+ <p>1 cuillère à café d’ origan</p>
+ <p>1 pincée de romarin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez 1 gousse d’ <ingredient>ail</ingredient> et <operation>piquez le rôti</operation>, <operation>salez</operation> et <operation>poivrez</operation>. dans une <recipient>cocotte</recipient>, <operation>faites chauffer un peu d’ huile d’ olive</operation> et <operation>faire dorer le rôti et le <ingredient>lard</ingredient></operation>. retirez la viande et déglacer au <ingredient>vin blanc</ingredient>. <operation>faites réduire en</operation> grattant les sucs. <operation>ajoutez les 2 <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> non</operation> pelées. <operation>coupez les <ingredient>tomates</ingredient> en dés</operation> et <operation>ajoutez - les à la préparation avec leur <ingredient>jus</ingredient></operation>. <operation>remettez la viande</operation>. <operation>saupoudrez d’ <ingredient>origan</ingredient> et de <ingredient>romarin</ingredient></operation>. <operation>couvrez</operation> et <operation>laisser cuire 30 min environ</operation>. <operation>servez avec des pâtes</operation>.
+]]>
+ </preparation>
+</recette>

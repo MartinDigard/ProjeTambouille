@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86812">
+ <titre>Coeur ou foie en papillote</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cœurs ou foies (mouton ou porc) </p>
+ <p>sel, poivre </p>
+ <p>herbes de Provence</p>
+ <p>ail</p>
+ <p>persil</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient>cœur</ingredient> en 2 dans le sens de la longueur. disposer une moitié dans une feuille de papier d’ alu en l’ assaisonnant de <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, <ingredient>ail</ingredient>, <ingredient>persil</ingredient> et <ingredient>herbes de provence</ingredient> sans oublier une noisette de beurre. les disposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et <operation>faire cuire 10 minutes</operation>. voilà c’ est prêt.
+]]>
+ </preparation>
+</recette>

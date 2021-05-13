@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17724">
+ <titre>Risotto au chorizo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 verres à moutarde de riz pour risotto, ou riz rond tout simple (moins cher) </p>
+ <p>2 cubes de bouillon de poule</p>
+ <p>3 cuillères à soupe de crème épaisse</p>
+ <p>3 échalotes</p>
+ <p>1 petit sachet de parmesan râpé</p>
+ <p>10 tranches de chorizo doux</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>quelques pincées de paprika selon votre goût</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir 1, 5 litre d’ eau</operation> puis ajoutez les 2 <ingredient>cubes de bouillon</ingredient>. emincer les <ingredient>échalotes</ingredient> et couper le <ingredient>chorizo</ingredient> selon <ingredient>votre goût</ingredient> (en 2 ou en 4). dans un fait - tout <operation>faire chauffer l’ huile</operation>, <operation>faire revenir les <ingredient>échalotes</ingredient> 2 min,</operation> puis <operation>ajoutez le <ingredient>riz</ingredient></operation> cru. <operation>laisser chauffez jusqu’ à ce que les grains</operation> deviennent translucides. ajouter le <ingredient>bouillon</ingredient> au fur et à mesure jusqu’ au raz du <ingredient>riz</ingredient>. <operation>couvrir,</operation> et ajouter du <ingredient>bouillon</ingredient> quand le niveau du liquide est trop bas. goûter le <ingredient>riz</ingredient> de temps en temps et continuer jusqu’ à épuisement du <ingredient>bouillon</ingredient>. ajouter la <ingredient>crème</ingredient>, le <ingredient>sel</ingredient>, le poivre, le <ingredient>paprika</ingredient>, le <ingredient>chorizo</ingredient> et le <ingredient>parmesan</ingredient>. <operation>laisser cuire encore 5 min</operation>. servir bien chaud.
+]]>
+ </preparation>
+</recette>

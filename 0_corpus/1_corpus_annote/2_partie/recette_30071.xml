@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30071">
+ <titre>Soupe aux fanes de radis sans pomme de terre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 l d’ eau</p>
+ <p>les feuilles d’ une botte de radis</p>
+ <p>2 oignons</p>
+ <p>50 g de beurre</p>
+ <p>sel </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer les <ingredient>feuilles</ingredient> et les hacher grossièrement. découper les <ingredient>oignons</ingredient> en mirepoix. <operation>faire fondre le beurre dans une <recipient>casserole</recipient> et y</operation> <operation>faire revenir à feu doux les <ingredient>feuilles</ingredient> et les <ingredient>oignons</ingredient>, pendant 5 min</operation>. a part, porter de l’ <ingredient>eau</ingredient> salée à ébullition. la verser sur les légumes, <operation>couvrir</operation> et <operation>faire mijoter 20 min à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

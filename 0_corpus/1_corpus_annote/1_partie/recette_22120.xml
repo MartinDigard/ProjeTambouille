@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22120">
+ <titre>Tarte provençale au lapereau</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 à 1, 8 kg de morceaux de lapereau (à défaut du lapin) </p>
+ <p>200 g de pâte feuilletée </p>
+ <p>150 g de tapenade (noire ou verte selon les goûts) </p>
+ <p>8 tomates </p>
+ <p>5 aubergines </p>
+ <p>3 échalotes</p>
+ <p>2 branchettes de thym</p>
+ <p>du basilic frais</p>
+ <p>1 gousse d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir 1 <ingredient>échalote</ingredient> ciselée dans une <recipient>casserole</recipient> avec de l’ huile d’ <ingredient>olive</ingredient></operation>. ajouter 4 <ingredient>tomates</ingredient> mondées et en morceaux, l’ <ingredient>ail</ingredient> ciselé, un peu de <ingredient>thym</ingredient> et de <ingredient>basilic</ingredient>. <operation>faire revenir pendant 10 min</operation> et verser dans la <ingredient>tapenade</ingredient>. mettre les <ingredient>aubergines</ingredient> émincées à dorer dans une <recipient>poêle</recipient> avec de l’ <ingredient>huile</ingredient>. assaisonner et égoutter. mettre le reste des <ingredient>échalotes</ingredient> à <operation>revenir dans une <recipient>poêle</recipient> avec de l’ <ingredient>huile</ingredient></operation>. incorporer les morceaux de <ingredient>lapereau</ingredient> et <operation>faire dorer légèrement</operation>. monder et couper en rondelles les <ingredient>tomates</ingredient>. beurrer un <recipient>moule</recipient> à manquer et y placer les rondelles de <ingredient>tomates</ingredient>, les <ingredient>aubergines</ingredient> et les morceaux de viande. ajouter une couche de <ingredient>tapenade</ingredient> et <operation>recouvrir du feuilletage en</operation> rabattant les bords. piquer la <ingredient>pâte</ingredient> et <operation>laisser au <ingredient>frais</ingredient> pendant 10 min</operation>. enfourner pendant 20 min à 210 ° (thermostat 7).
+]]>
+ </preparation>
+</recette>

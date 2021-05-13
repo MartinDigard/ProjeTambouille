@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63334">
+ <titre>Fondue creusoise aux lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 g de beurre</p>
+ <p>90 g de farine</p>
+ <p>60 cl de lait</p>
+ <p>40 cl d’ eau</p>
+ <p>camembert, gruyère, bleu</p>
+ <p>400 g de lardons</p>
+ <p>500 g de pommes de terre</p>
+ <p>sel, poivre, muscade</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient>pommes de terre</ingredient> à l’ <ingredient>eau</ingredient>. pendant ce temps, <operation>faites fondre le beurre dans une <recipient>casserole</recipient></operation>. <operation>ajoutez la farine, de sorte à</operation> former une boule. <operation>délayez avec le lait et l’ <ingredient>eau</ingredient> puis joignez - y vos épices</operation>. quand le mélange commence à s’ épaissir, <operation>ajoutez les différents fromages (tous vos vieux</operation> restes...). dans une <recipient>poêle</recipient>, <operation>faites cuire les <ingredient>lardons</ingredient> avec un soupçon de <ingredient>citron</ingredient> (pas obligatoire</operation>). <operation>dégraissez - les</operation> et <operation>ajoutez - les à la fondue</operation>. <operation>mélangez le tout</operation>. epluchez vos patates et servir! <operation>dégustez</operation>... bordeaux - côtes de bourg
+]]>
+ </preparation>
+</recette>

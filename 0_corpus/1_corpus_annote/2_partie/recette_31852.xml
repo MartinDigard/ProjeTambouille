@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31852">
+ <titre>Brownies...épicés ou spicy brownies</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de chocolat fondant</p>
+ <p>200 g de beurre ou de margarine</p>
+ <p>175 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>2 cuillères à soupe de baking powder (sinon utilisez de la farine fermentante) </p>
+ <p>1 pincée de sel et de poivre</p>
+ <p>1 cuillère à café de piment en poudre</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>4 oeufs</p>
+ <p>110 g de petits beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire <ingredient>fondre</ingredient> le <ingredient>beurre</ingredient> avec le <ingredient>chocolat</ingredient> au <recipient>bain - marie</recipient>, à feu très doux</operation>. mélanger la farine, le <ingredient>sucre</ingredient>, le baking powder, le <ingredient>sel</ingredient>, le <ingredient>poivre</ingredient> et les épices. ajouter les <ingredient>oeufs</ingredient> et mélanger pour <operation>obtenir une pâte</operation>. incorporer ensuite le <ingredient>beurre</ingredient>, le <ingredient>chocolat</ingredient> et les biscuits émiettés. verser la pâte dans un <recipient>moule</recipient> et enfourner pendant 40 - 45 mn au <recipient>four</recipient> préchauffé à 175 ° c. laiser <operation>refroidir 10 mn</operation> et couper en 16. les moules utilisés sont le plus souvent carrés ou rectangulaires, mais rien ne vous empêche d’ utiliser un <recipient><recipient>moule</recipient> à tarte</recipient> ou un <recipient>plat</recipient> en pyrex. si vous <operation>faites cuire les brownies plus longtemps (+ /-1h) à basse t ° (150 ° c), ils</operation> monteront et ressembleront plus à des cakes. si la t ° est plus élevée (175 ° c), la croûte se forme plus rapidement et la pâte reste plus compacte et plus fondante. du <ingredient>café</ingredient> bien sûr!
+]]>
+ </preparation>
+</recette>

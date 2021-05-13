@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71340">
+ <titre>Salade de fruits exotiques à la vanille</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 ananas</p>
+ <p>6 clémentines</p>
+ <p>4 kiwis</p>
+ <p>3 oranges</p>
+ <p>2 pamplemousses</p>
+ <p>2 cuillères à café de vanille en poudre</p>
+ <p>3 cuillères à soupe de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler tous les fruits. couper les <ingredient>kiwis</ingredient> en rondelles. séparer les quartiers de <ingredient>clémentines</ingredient> et les couper en 2. détacher les quartiers d’ <ingredient>orange</ingredient> et les couper en 3. <operation>faire de même avec les <ingredient>pamplemousses</ingredient></operation>. couper l’ ananas en fins quartiers puis en petits cubes. mélanger tous les fruits dans un <recipient>saladier</recipient>. les saupoudrer de <ingredient>cassonade</ingredient> et de <ingredient>vanille</ingredient> et mélanger. placer au frais pendant au moins 1 h, <operation>servir très frais</operation>.
+]]>
+ </preparation>
+</recette>

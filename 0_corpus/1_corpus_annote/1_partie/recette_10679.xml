@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10679">
+ <titre>Mousse de carottes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de carottes</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>100 g fromage râpé (gruyère) </p>
+ <p>muscade, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient>carottes</ingredient> et les <operation>faire cuire dans de l’ eau</operation> salée, puis utiliser l’ eau des <ingredient>carottes</ingredient> pour les passer au <recipient>mixeur</recipient>. battre les <ingredient>oeufs</ingredient>, y ajouter la <ingredient>crème fraîche</ingredient>, puis les <ingredient>carottes</ingredient> mixées, le fromage, puis <ingredient>sel</ingredient>, <ingredient>poivre</ingredient> et <ingredient>muscade</ingredient>. passer au <recipient>four</recipient> 30 minutes à 250 ° c (thermostat 8 - 9). servir tiède.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36430">
+ <titre>Crumble de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la garniture: </p>
+ <p>la chair d’ 1/2 poulet cuit</p>
+ <p>600 g de légumes déjà cuits (peuvent être surgelés) </p>
+ <p>1/4 l de bouillon de volaille</p>
+ <p>Pour le crumble: </p>
+ <p>50 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>50 g de parmesan</p>
+ <p>2 cuillère à soupe de chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emietter la <ingredient>chair</ingredient> de <ingredient>poulet</ingredient> dans un <recipient>plat</recipient>. huiler et mettre dans un <recipient>plat</recipient>. ajouter les <ingredient>légumes</ingredient> et le <ingredient>bouillon de volaille</ingredient>. mélanger dans un récipient la farine, le beurre, la <ingredient>chapelure</ingredient> et le <ingredient>parmesan</ingredient>. <operation>répartir sur la <ingredient>garniture</ingredient></operation>. mettre au <recipient>four</recipient> préchauffé à 200 ° c pendant 15 minutes.
+]]>
+ </preparation>
+</recette>

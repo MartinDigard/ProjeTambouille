@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36539">
+ <titre>Pizza des lendemains de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>Restes de poulet rôti</p>
+ <p>20 cl de sauce tomate</p>
+ <p>un peu de crème fraîche</p>
+ <p>quelques olives</p>
+ <p>herbes de Provence</p>
+ <p>30 g de gruyère râpé</p>
+ <p>2 pommes de terre</p>
+ <p>quelques lardons non fumés</p>
+ <p>quelques tranches de raclette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuisez les <ingredient>pommes de terre</ingredient> en robe des champs. <operation>etalez la pâte sur une plaque (vous</operation> <operation>retournerez les bords à la fin)</operation> et <operation>piquez légèrement avec une fourchette</operation>. etalez la sauce tomate et un <ingredient>peu de crème fraîche</ingredient>. saupoudrez de gruyère et d’ <ingredient>herbes de provence</ingredient>. déposez les <ingredient>pommes de terre</ingredient> en rondelles, les petits morceaux de <ingredient>poulet</ingredient>, quelques <ingredient>lardons</ingredient>, quelques <ingredient>olives</ingredient>. <operation>recouvrez de <ingredient>tranches</ingredient> fines de <ingredient>raclette</ingredient></operation>. retournez les bords de la pâte sur la préparation. mettre au <recipient>four</recipient> préchauffé à thermostat 7/8 (230 ° c) environ 15 à 20 min.
+]]>
+ </preparation>
+</recette>

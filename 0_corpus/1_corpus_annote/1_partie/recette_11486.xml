@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11486">
+ <titre>Cake au muesli</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>1 citron (zeste) </p>
+ <p>1/2 paquet de levure</p>
+ <p>50 g de farine complète</p>
+ <p>150g de muesli (sans sucre ajouté) </p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>100 g de sucre roux</p>
+ <p>1 pincée de sel</p>
+ <p>10 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 240 ° c. travailler ensemble le beurre, les <ingredient>oeufs</ingredient>, le zeste de <ingredient>citron</ingredient> et le <ingredient>sel</ingredient>. ajouter et mélanger le <ingredient>muesli</ingredient>, la farine, la <ingredient>levure</ingredient>, le lait et les raisins. verser dans un <recipient>moule</recipient> à cake beurré. saupoudrer de <ingredient>muesli</ingredient>. cuire à <recipient>four</recipient> moyen (240 ° c) pendant 1 heure.
+]]>
+ </preparation>
+</recette>

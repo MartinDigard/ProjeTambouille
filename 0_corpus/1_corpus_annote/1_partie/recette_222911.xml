@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222911">
+ <titre>Filets de dinde au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de dinde </p>
+ <p>250 g de champignons</p>
+ <p>1 oignon</p>
+ <p>1 pomme</p>
+ <p>20 cl de bouillon de poule</p>
+ <p>1 citron</p>
+ <p>5 cl de crème fraîche</p>
+ <p>1 éclat d’ ail</p>
+ <p>curry</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>saisir la viande dans de la matière grasse</operation>. la réserver dans une assiette. <operation>faire blondir l’ <ingredient>oignon</ingredient> avec un peu de <ingredient>curry</ingredient></operation>. éplucher et couper la <ingredient>pomme</ingredient> en fines tranches et ajouter l’ <ingredient>ail</ingredient> pressé. ajouter le mélange <ingredient>pomme</ingredient> + <ingredient>ail</ingredient> à l’ <ingredient>oignon</ingredient> et <operation>laisser mijoter pour</operation> <operation>obtenir une compote</operation>. ajouter le <ingredient>bouillon de poule</ingredient> et un peu de <ingredient>curry</ingredient> (si nécessaire). mettre du <ingredient>sel</ingredient> et du poivre sur chaque face de la viande et la remettre avec les autres ingrédients. ajouter les <ingredient>champignons</ingredient> émincés. ajouter un peu de jus de <ingredient>citron</ingredient>. <operation>laisser mijoter 15 min</operation>. ajouter la <ingredient>crème fraîche</ingredient>. a <operation>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

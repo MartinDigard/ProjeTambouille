@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30289">
+ <titre>Pélardons aux amandes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pélardons (fromage de chèvre) crémeux</p>
+ <p>100 g d’ amandes effilées</p>
+ <p>1 oeuf</p>
+ <p>sel et poivre</p>
+ <p>Pour la vinaigrette: </p>
+ <p>huile d’ olive</p>
+ <p>vinaigre basalmique</p>
+ <p>1 tomate coupée en petits dés</p>
+ <p>sel et poivre</p>
+ <p>quelques noisettes de beurre pour la cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire la <ingredient>vinaigrette</ingredient> en</operation> mélangeant huile, <ingredient>vinaigre</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient> et dés de <ingredient>tomate</ingredient>. <operation>faire colorer les <ingredient>amandes</ingredient> sur la plaque du <recipient>four</recipient> ou dans une <recipient>poêle</recipient> non</operation> graissée. casser l’ <ingredient>oeuf</ingredient> dans une assiette, le touiller à la fourchette, puis <operation>faire mariner les <ingredient>pélardons</ingredient> dedans, avant des les</operation> <operation>recouvrir d’ <ingredient>amandes</ingredient></operation>. <operation>faire fondre le <ingredient>beurre</ingredient> dans une <recipient>poêle</recipient></operation> et <operation>faire chauffer les <ingredient>pélardons</ingredient> 2 mn par côté</operation>. servir sur un lit de salade verte et arroser avec la <ingredient>vinaigrette</ingredient>.
+]]>
+ </preparation>
+</recette>

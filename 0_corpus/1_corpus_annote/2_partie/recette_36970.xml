@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36970">
+ <titre>Gâteau chocolat aux pommes râpées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 oeufs</p>
+ <p>150 g de sucre en poudre</p>
+ <p>150 g de chocolat à pâtisser</p>
+ <p>2 petites pommes granny</p>
+ <p>150 g d’ amandes en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> dans une <recipient>casserole</recipient></operation>. eplucher et râper les <ingredient>pommes</ingredient>. séparer les blancs des jaunes, fouetter les jaunes avec le <ingredient>sucre</ingredient> jusqu’ à ce que le mélange blanchisse et devienne mousseux. ajouter ensuite le <ingredient>chocolat</ingredient>, la <ingredient>poudre</ingredient> d’ <ingredient>amande</ingredient> et les <ingredient>pommes</ingredient> râpées. battre les blancs en neige ferme, avec une pincée de sel, les incorporer délicatement à la préparation précédente. verser dans un <recipient>moule</recipient> à manquer huilé. mettre au <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6) pendant environ 40 minutes. surveiller la cuisson, ça dépend des fours! <operation>laisser un peu</operation> <operation>refroidir avant de</operation> démouler, les <ingredient>pommes</ingredient> râpées rendent le gâteau fragile! server froid, éventuellement accompagné de crème anglaise ou de crème fouettée à la pistache.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223957">
+ <titre>Dessert à l’ ananas</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 œufs</p>
+ <p>100 g de sucre</p>
+ <p>25 cl de crème liquide</p>
+ <p>350 g d’ ananas</p>
+ <p>4 feuilles de gélatine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre la <ingredient>gélatine</ingredient> dans un peu de jus d’ ananas</operation>. mixer l’ <ingredient>ananas</ingredient>. incorporer la <ingredient>gélatine</ingredient>, puis ajouter les 3 jaunes d’ oeufs battus avec le <ingredient>sucre</ingredient>. ajouter délicatement la <ingredient>crème</ingredient> montée en chantilly puis les blancs battus en neige. mettre au frigo. après 1 h environ, quand le mélange commence à prendre, mélanger à nouveau, puis mettre en ramequin individuel.
+]]>
+ </preparation>
+</recette>

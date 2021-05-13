@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173199">
+ <titre>Pâtes à la crème et à la viande</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de pâtes</p>
+ <p>3 steaks hachés ou viande haché</p>
+ <p>1 gros oignon</p>
+ <p>1 brique de crème liquide</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>pâtes</ingredient></operation>. pendant ce temps, couper l’ <ingredient>oignon</ingredient> en petits morceaux et le <operation>faire revenir dans une grande <recipient>poêle</recipient></operation>. quand c’ est cuit, ajouter les steaks en petits morceaux aussi, bien mélanger, <operation>laisser un peu</operation> cuire 2 - 3 minutes. ajouter les <ingredient>pâtes</ingredient> cuite ainsi que la <ingredient>brique de crème</ingredient>, saler et poivrer. <operation>laisser cuire environ 5 - 6 min</operation>. bon appétit. <operation>faire à peine</operation> cuire la <ingredient>viande</ingredient> avec les <ingredient>oignons</ingredient> car la <ingredient>viande</ingredient> continuera à cuire avec la <ingredient>crème</ingredient> fraiche et les <ingredient>pâtes</ingredient>.
+]]>
+ </preparation>
+</recette>

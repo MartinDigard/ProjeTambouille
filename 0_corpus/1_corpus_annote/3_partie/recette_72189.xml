@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72189">
+ <titre>Smoothie Fraises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de fraises</p>
+ <p>1 banane</p>
+ <p>des glaçons (10 environ) </p>
+ <p>sucre (si nécessaire) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- mixer les <ingredient>fraises</ingredient> et la <ingredient>banane</ingredient>. rajouter éventuellement un peu de <ingredient>sucre</ingredient> si les <ingredient>fraises</ingredient> ne sont pas assez sucrées. ajouter les <ingredient>glaçons</ingredient> et les broyer en glace pilée pour <operation>obtenir un jus</operation> glacé. pour une boisson, il suffit d’ augmenter la quantité de <ingredient>glaçons</ingredient>. on peut aussi le mettre au <recipient>congélateur</recipient> pour transformer la purée de fruits en sorbet.
+]]>
+ </preparation>
+</recette>

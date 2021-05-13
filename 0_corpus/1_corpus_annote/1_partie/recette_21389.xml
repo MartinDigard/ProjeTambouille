@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21389">
+ <titre>Poulet au cognac et aux fruits secs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet coupé en morceaux</p>
+ <p>150 g de lardons</p>
+ <p>50 g d’ amandes</p>
+ <p>50 g de noisettes</p>
+ <p>12 petits oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>2 échalotes</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>5 cl de cognac</p>
+ <p>10 cl de crème fraîche</p>
+ <p>60 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer 40 g de beurre et l’ <ingredient>huile</ingredient> dans une <recipient>cocotte</recipient>, y</operation> <operation>faire dorer les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient></operation>. ajouter les <ingredient>lardons</ingredient> et les <ingredient>oignons</ingredient> pelés dans la <recipient>cocotte</recipient> et <operation>laisser dorer</operation>. rajouter l’ <ingredient>ail</ingredient> et les <ingredient>échalotes</ingredient> hachés, saler et poivrer. verser le <ingredient>vin blanc</ingredient> et le <ingredient>cognac</ingredient>, <operation>couvrir</operation> et <operation>laisser mijoter 35 min à feu doux</operation>. <operation>faire dorer les <ingredient>amandes</ingredient> et les <ingredient>noisettes</ingredient> avec le beurre</operation> restant, les piler et les ajouter au <ingredient>poulet</ingredient>. <operation>laisser mijoter 10 min</operation>. <operation>sortir les <ingredient>morceaux</ingredient> de</operation> <ingredient>poulet</ingredient>, lier la sauce avec la <ingredient>crème</ingredient> et servir. <operation>accompagnez ce <recipient>plat</recipient> de riz aux champignons</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23201">
+ <titre>Rôti de porc aux raisins</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti d’ 1, 5 kg dans l’ échine (ou filet mais plus sec) </p>
+ <p>100 g de lard fumé</p>
+ <p>400 g de raisin noir (muscat) </p>
+ <p>20 cl de vin blanc sec</p>
+ <p>4 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>40 g de beurre</p>
+ <p>thym, laurier</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>lard</ingredient> en lardons. <operation>faire fondre le beurre dans une <recipient>cocotte</recipient>, y</operation> mettre le <ingredient>lard</ingredient> à rissoler. mettre le rôti et le <operation>faire colorer sur toutes ses faces</operation>. <operation>laisser cuire 15 min</operation>. emincer les <ingredient>oignons</ingredient>, haché l’ <ingredient>ail</ingredient>. les ajouter dans la <recipient>cocotte</recipient> ainsi qu’ une feuille de <ingredient>laurier</ingredient> et une branche de <ingredient>thym</ingredient>. saler, poivrer et mouiller avec le <ingredient>vin</ingredient>. couvrir et <operation>laisser cuire</operation> 1h à feu moyen. retourner la viande tous les 1/4 d’ heure pour qu’ elle soit bien dorée. laver et égrener le <ingredient>raisin</ingredient>, rajouter les grains dans la <recipient>cocotte</recipient> et <operation>laisser cuire 10 min</operation>. <operation>sortir le rôti, le trancher</operation> et <operation>servir avec les <ingredient>raisins</ingredient> autour</operation>. accompagner de pommes duchesses ou de riz.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60200">
+ <titre>Salade méditerranée</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 salade verte (au goût de chacun) </p>
+ <p>1 petit bocal de tomates séchées</p>
+ <p>100 g de parmesan Pour la vinaigrette: </p>
+ <p>huile d’ olive</p>
+ <p>vinaigre balsamique</p>
+ <p>sel et poivre</p>
+ <p>ail haché</p>
+ <p>persil ou basilic haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer et égoutter une salade bien fraîche et bien craquante. egoutter les <ingredient>tomates séchées</ingredient>, les couper en lamelles. découper le bloc de <ingredient>parmesan</ingredient> en fines lamelles (avec un éplucheur à légumes par exemple). préparer la <ingredient>vinaigrettes</ingredient> avec les ingrédients à votre goût (plus ou moins forte en fonction de la quantité d’ <ingredient>ail</ingredient> et <ingredient>vinaigre</ingredient>). mélanger le tout au moment de <operation>servir en</operation> gardant quelques lamelles de <ingredient>tomates</ingredient> et de <ingredient>parmesan pour</ingredient> les placer sur la salade.
+]]>
+ </preparation>
+</recette>

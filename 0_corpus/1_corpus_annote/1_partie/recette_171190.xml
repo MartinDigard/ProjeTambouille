@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171190">
+ <titre>Hot Dog à la New-Yorkaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pains à Hot Dog</p>
+ <p>4 saucisses de Francfort</p>
+ <p>1 sachet de chou blanc cru râpé</p>
+ <p>1 oignon blanc</p>
+ <p>4 tranches de cheddar</p>
+ <p>quelques brins de ciboulette</p>
+ <p>moutarde</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez l’ <ingredient>oignon</ingredient>, et émincez - le</operation> finement. <operation>faites dorer l’ <ingredient>oignon</ingredient> à la <recipient>poêle</recipient> dans très peu d’ <ingredient>huile</ingredient> pendant 5 min</operation>. <operation>faites pocher les <ingredient>saucisses</ingredient> 5 min dans l’ eau frémissante</operation>. <operation>gardez - les au chaud</operation>. préchauffez le grill du <recipient>four</recipient>. <operation>coupez le <ingredient>cheddar</ingredient> en lamelles</operation>, <operation>émincez la <ingredient>ciboulette</ingredient></operation>. ouvrez les <ingredient>pains</ingredient> a <ingredient>hot dog</ingredient> et répartissez le fromage à l’ intérieur. <operation>passez les <ingredient>pains</ingredient> 3 min au <recipient>four</recipient> pour que le fromage gratine</operation>. garnissez les <ingredient>pains</ingredient> d’ <ingredient>oignons</ingredient> dorés, d’ une <ingredient>saucisse</ingredient>, puis <operation>ajoutez une belle</operation> pincée de <ingredient>chou</ingredient> et la <ingredient>ciboulette</ingredient>. <operation>nappez de <ingredient>moutarde</ingredient>, refermez les</operation> <ingredient>pains</ingredient> et <operation>dégustez aussitôt</operation>. vous pouvez remplacer la <ingredient>moutarde</ingredient> par du ketchup ou autres sauces selon vos goûts.
+]]>
+ </preparation>
+</recette>

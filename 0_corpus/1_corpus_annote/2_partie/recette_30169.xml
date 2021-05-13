@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30169">
+ <titre>Aubergine aux oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 aubergine</p>
+ <p>1 oignon</p>
+ <p>2 oeufs</p>
+ <p>quelques feuilles de salade</p>
+ <p>huile d’ olive</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ <p>Pour l’ accompagnement: </p>
+ <p>riz </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir à la <recipient>poêle</recipient> l’ <ingredient>oignon</ingredient></operation> haché et l’ <ingredient>aubergine</ingredient> coupée en petits cubes avec de l’ huile d’ <ingredient>olive</ingredient>, des <ingredient>herbes de provence</ingredient>, un peu de <ingredient>sel</ingredient> et de poivre. <operation>faire cuire (sans griller) pendant environ 20 mn,</operation> puis réserver. cuire le <ingredient>riz</ingredient>. <operation>faire pocher les <ingredient>oeufs</ingredient> (petite astuce</operation>: utiliser une louche et y mettre l’ <ingredient>oeuf</ingredient> avant de le glisser délicatement dans l’ eau frémissante préalablement vinaigrée). <operation>préparez dans les assiettes un peu de</operation> <ingredient>salade</ingredient>, ajouter le <ingredient>riz</ingredient> d’ un côté, les <ingredient>aubergines</ingredient> et déposer délicatement un <ingredient>oeuf</ingredient> poché. <recipient>plat</recipient> léger pour le soir ou pour un brunch l’ été. on peut varier, par exemple en ajoutant quelques champignons avec l’ <ingredient>aubergine</ingredient> et l’ <ingredient>oignon</ingredient>.
+]]>
+ </preparation>
+</recette>

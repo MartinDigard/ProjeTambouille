@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60372">
+ <titre>Crème glacée meringuée à la framboise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de framboises</p>
+ <p>120 g de sucre glase</p>
+ <p>30 cl de crème liquide</p>
+ <p>4 meringues achetées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mixez les <ingredient>framboises</ingredient> pour en</operation> extraire le jus (environ 350 g). <operation>ajoutez le <ingredient>sucre</ingredient> glace</operation> tamisé. <operation>montez la <ingredient>crème</ingredient></operation> fouettée en chantilly, <operation>ajoutez - y les <ingredient>meringues</ingredient></operation> concassées, puis le jus de <ingredient>framboises</ingredient>. <operation>faites prendre en <recipient>sorbetière</recipient> puis au <recipient>congélateur</recipient></operation>. <operation>servez sur une salade de fraises</operation>. on peut remplacer les <ingredient>framboises</ingredient> par tout autre fruit rouge. crémant de bourgogne
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56753">
+ <titre>Chocolat-banana</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>120 g de chocolat (selon la gourmandise) </p>
+ <p>4 bananes</p>
+ <p>4 biscuits à la cuillère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites fondre le <ingredient>chocolat</ingredient> pendant à peine 1 min</operation>. pendant ce temps <operation>écrasez les 4</operation> <ingredient>bananes</ingredient> puis, <operation>ajoutez le <ingredient>chocolat</ingredient></operation>. ajoutez - y les 4 biscuits à <ingredient>la cuillère</ingredient>, écrasés en tous petits morceaux. c’ est assez écoeurant mais c’ est delicieux, chacun ses goûts: p
+]]>
+ </preparation>
+</recette>

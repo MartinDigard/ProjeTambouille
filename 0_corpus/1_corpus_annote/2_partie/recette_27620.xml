@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27620">
+ <titre>Velouté de potiron à la crème</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de potiron</p>
+ <p>3 pommes de terre farineuses de taille moyenne</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>20 cl de crème fraîche</p>
+ <p>75 cl de lait</p>
+ <p>30 g de beurre</p>
+ <p>1 jaunes d’ oeufs</p>
+ <p>1 pincée de noix de muscade râpée</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation> et émincez l’ <ingredient>oignon</ingredient></operation>. <operation>pelez</operation> et coupez le <ingredient>potiron</ingredient> et les <ingredient>pommes de terre</ingredient> en dés. <operation>faites colorer les <ingredient>oignons</ingredient> dans une <recipient>cocotte</recipient> avec le beurre chaud</operation>. ajoutez le <ingredient>potiron</ingredient> et les <ingredient>pommes de terre</ingredient>, <operation>salez</operation>, <operation>poivrez</operation>, <operation>parfumez de mucade</operation> <ingredient>râpée</ingredient> et <operation>mouillez d’ un verre d’ eau</operation>. <operation>ajoutez l’</operation> <ingredient>ail</ingredient>, <operation>couvrez</operation> et <operation>laissez mijoter 30 min à feu doux</operation>. <operation>moulinez la soupe</operation> et <operation>ajoutez peu à peu le lait</operation> bouillant en remuant bien. <operation>fouettez les 2 <ingredient>jaunes</ingredient> d’ <ingredient>oeufs</ingredient> et la <ingredient>crème</ingredient> avec 1 louche de potage</operation>. <operation>mélangez avec le reste de la soupe</operation> et <operation>servez bien chaud</operation>. vous pouvez mettre moins de lait et le remplacer par du bouillon.
+]]>
+ </preparation>
+</recette>

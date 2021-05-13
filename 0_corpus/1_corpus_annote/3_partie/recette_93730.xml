@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93730">
+ <titre>Poulet au miel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 cuisses de poulet </p>
+ <p>miel liquide</p>
+ <p>beurre salé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire préchauffer le <recipient>four</recipient> à 200 c °</operation>. placer les <ingredient>cuisses</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. disposer sur les <ingredient>cuisses</ingredient> et sur le fond du <recipient>plat</recipient> des morceaux de beurre <ingredient>salé</ingredient>. ensuite, enduire les <ingredient>cuisses</ingredient> de <ingredient>miel liquide</ingredient> (la quantité est propre au goût de chacun mais plus il y a de <ingredient>miel</ingredient> plus il y aura de sauce!)
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194260">
+ <titre>Boeuf au paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de viande à fondue coupée en lanières</p>
+ <p>2 bonnes échalotes</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cube de bouillon de bœuf dilué dans un peu d’ eau</p>
+ <p>1/2 verre de vin blanc</p>
+ <p>1 cuillère à café de paprika</p>
+ <p>un peu de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir la <ingredient>viande en lanières</ingredient> dans <ingredient>un peu</ingredient> d’ huile avec les <ingredient>échalotes</ingredient> et l’ <ingredient>ail</ingredient>. réserver. mouiller la <recipient>poêle</recipient> avec le <ingredient>bouillon</ingredient> et 1/2 <ingredient>verre de vin blanc</ingredient>, ajouter le <ingredient>paprika</ingredient>. remettre la <ingredient>viande</ingredient> et ajouter la <ingredient>crème fraîche</ingredient>. <operation>laisser cuire à feu doux</operation>. en accompagnement, je mets du riz basmati. préférer la <ingredient>crème fraîche</ingredient> à la <ingredient>crème</ingredient> liquide.
+]]>
+ </preparation>
+</recette>

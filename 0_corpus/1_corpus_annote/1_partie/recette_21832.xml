@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21832">
+ <titre>Riz sauté à l’ asiatique</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de riz</p>
+ <p>100 g de jambon cuit</p>
+ <p>2 oeufs</p>
+ <p>50 g de jeunes pousses de bambou</p>
+ <p>1/2 oignon haché</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire <ingredient>cuire</ingredient> le <ingredient>riz</ingredient> dans 2, 5 fois son volume d’ eau</operation> salée environ 20 min, égoutter et <operation>laisser refroidir</operation>. <ingredient>hacher</ingredient> l’ <ingredient>oignon</ingredient>, le <operation>faire dorer dans l’ <ingredient>huile</ingredient> chaude</operation>. ajouter le <ingredient>riz</ingredient> et remuer. rajouter le <ingredient>jambon</ingredient> découpée en morceaux et les <ingredient>pousses de bambou</ingredient> émincées. remuer et mouiller avec la <ingredient>sauce soja</ingredient>. battre les <ingredient>oeufs</ingredient> en omelette et les verser dans la <recipient>poêle</recipient>, saler, poivrer et <operation>laisser <ingredient>cuire</ingredient> pendant quelques minutes jusqu’ à ce que les <ingredient>oeufs</ingredient> soient</operation> <operation>pris</operation>.
+]]>
+ </preparation>
+</recette>

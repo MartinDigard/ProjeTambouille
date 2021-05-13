@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58765">
+ <titre>Feuilletés au sucre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée à étaler</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>sucre cristallisé</p>
+ <p>1 noix de beurre</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>sortir la plaque en tôle du <recipient>four</recipient></operation> et tapisser d’ une feuille de papier sulfurisé beurrée. préchauffer le <recipient>four</recipient> à 240 ° c (thermostat 8). etaler la <ingredient>pâte</ingredient> en un grand rectangle sur un plan de travail fariné. mélanger avec une fourchette le <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient> et le <ingredient>lait</ingredient>, puis badigeonner de ce mélange la <ingredient>pâte</ingredient> avec un pinceau puis soupoudrer de <ingredient>sucre</ingredient>. découper la <ingredient>pâte</ingredient> en bandes de 1 cm de largeur. déposer les bandes sur la plaque du <recipient>four</recipient> en les espaçant. enfourner, baisser le thermostat à 200 ° c (thermostat 6) et <operation>laisser cuire pendant 5 à 10 minutes</operation>. servir froid ou tiède.
+]]>
+ </preparation>
+</recette>

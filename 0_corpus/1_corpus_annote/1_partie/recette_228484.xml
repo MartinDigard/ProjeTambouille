@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228484">
+ <titre>Crevettes au curry au lait de coco facile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de crevettes fraîches</p>
+ <p>1 oignon</p>
+ <p>1 filet d’ huile d’ olive </p>
+ <p>1 briquette de lait de coco</p>
+ <p>2 cuillères à café de curry en poudre (selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> dans une <recipient>sauteuse</recipient></operation>. <operation>faire revenir les <ingredient>oignons</ingredient></operation> émincés puis les <ingredient>crevettes</ingredient>. ajouter le <ingredient>curry</ingredient> et le <ingredient>lait de coco</ingredient>. faire revenir quelques minutes (le <ingredient>lait de coco</ingredient> ne doit pas cuire).
+]]>
+ </preparation>
+</recette>

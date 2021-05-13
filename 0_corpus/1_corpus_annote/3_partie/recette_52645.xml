@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52645">
+ <titre>Pâtes aux blettes et épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de pâtes </p>
+ <p>500 g de blettes</p>
+ <p>100 g d’ épinards</p>
+ <p>100 g de lardons</p>
+ <p>quelques tomates cerises</p>
+ <p>1 gros oignon</p>
+ <p>bouquet de persil</p>
+ <p>beurre</p>
+ <p>1 cube de fond de sauce</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>pâtes</ingredient> d’ une part, puis les</operation> égoutter. dans une <recipient>poêle</recipient>, <operation>faire dorer un peu de beurre pour y</operation> <operation>faire frire les <ingredient>oignons</ingredient>, puis les <ingredient>lardons</ingredient></operation>. saler, poivrer, ajouter le <ingredient>cube de fond de sauce</ingredient> et le <ingredient>persil</ingredient>. mettre les <ingredient>blettes</ingredient> (juste le blanc) coupées en lamelles, <operation>couvrir</operation> et <operation>laisser cuire 30 min</operation>. ajouter les <ingredient>épinard</ingredient> frais en branches et les <ingredient>tomates cerises</ingredient> coupées en deux, <operation>laisser mijoter 10 min</operation>. dans une grande <recipient>casserole</recipient>, mélanger la préparation de la <recipient>poêle</recipient> avec les <ingredient>pâtes</ingredient>, <operation>laisser mijoter à feu doux 10 min, puis servir</operation>...
+]]>
+ </preparation>
+</recette>

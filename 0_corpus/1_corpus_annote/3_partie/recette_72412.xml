@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72412">
+ <titre>Gnocchi aux chorizo</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 paquet de gnocchis à poêler</p>
+ <p>150 g de tomates pelées</p>
+ <p>8 tranches fines de chorizo (4 cm de diamètre) </p>
+ <p>100 g de parmesan en copeaux</p>
+ <p>une cuillère à soupe de pesto</p>
+ <p>1 oignon</p>
+ <p>huile d´olive</p>
+ <p>olives noires</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation>faire chauffer de l´huile dans une <recipient>poêle</recipient></operation>. couper les <ingredient>oignons</ingredient> et les <operation>faire revenir dans l´huile</operation>. couper les <ingredient>olives</ingredient> et les <ingredient>tomates pelées</ingredient>, ajouter à l´oignon avec le <ingredient>pesto</ingredient>. faire griller vos <ingredient>tranches de chorizo</ingredient> au <recipient>four</recipient> ou à la <recipient>poêle</recipient>. <ingredient>poêler</ingredient> vos <ingredient>gnocchis</ingredient>. les mettre dans 2 assiettes. recouvrir de sauce, puis des <ingredient>tranches de chorizos</ingredient> puis de <ingredient>copeaux</ingredient> de <ingredient>parmesan</ingredient>. si vous voulez, vous pouvez préparer la sauce à l´avance et la réchauffer au moment de préparer l´assiette. le nombre de <ingredient>tranche de chorizo</ingredient> depend du diamètre de celui-ci...
+]]>
+ </preparation>
+</recette>

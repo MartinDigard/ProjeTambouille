@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27272">
+ <titre>Salade de fruits parfumée</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>des fruits pas trop mûrs et qui se tiennent comme des oranges des pamplemousses des poires des pommes des abricots...</p>
+ <p>de l’ eau</p>
+ <p>du sucre</p>
+ <p>1 ou 2 sachets d’ infusion verveine menthe ou un parfum que vous aimez et qui s’ accorde avec les fruits</p>
+ <p>de la badiane</p>
+ <p>de la cannelle</p>
+ <p>un peu de gingembre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez les</operation> <ingredient>fruits</ingredient> ; <operation>pelez</operation> - les ou <operation>lavez les</operation> et <operation>coupez - les en morceaux assez gros</operation>. <operation>mettez</operation> chauffer suffisamment d’ <ingredient>eau</ingredient> mélangée à du <ingredient>sucre</ingredient> pour recouvrir la quantité de <ingredient>fruits que</ingredient> vous aurez <operation>mis dans un <recipient>saladier</recipient></operation>. une fois que l’ <ingredient>eau</ingredient> bout ajouter 1 étoile de <ingredient>badiane</ingredient>, un <ingredient>peu de gingembre</ingredient> et de <ingredient>cannelle</ingredient> en poudre et <ingredient>les sachets</ingredient> d’ <ingredient>infusion</ingredient>. <operation>laissez infuser environ 15 min</operation>. retirez la <ingredient>badiane</ingredient> et <ingredient>les sachets</ingredient> et <operation>versez</operation> tiède sur les <ingredient>fruits</ingredient>. <operation>laissez mariner au frigo</operation> et <operation>sortez un peu à l’ avance</operation>. <operation>servez avec des boules de glace ou <ingredient>avec</ingredient> des biscuits secs</operation>.
+]]>
+ </preparation>
+</recette>

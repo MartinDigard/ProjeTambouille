@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221061">
+ <titre>Pieds de porc façon Jean-Pierre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 pieds de porc </p>
+ <p>1 kg de carottes</p>
+ <p>500 g d’ oignons</p>
+ <p>1 bouquet garni</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire couper les <ingredient>pieds</ingredient> par votre</operation> boucher. les mettre dans une <recipient>cocotte</recipient>. ajouter les <ingredient>carottes</ingredient> coupées en rondelles, les <ingredient>oignons</ingredient> émincés et le <ingredient>bouquet garni</ingredient>. <operation>couvrir d’ eau</operation>. saler, poivrer. porter à ébullition et réduire la flamme. <operation>laisser cuire 8 h</operation>. c’ est prêt!
+]]>
+ </preparation>
+</recette>

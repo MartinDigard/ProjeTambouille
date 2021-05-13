@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26056">
+ <titre>Bar gratiné aux câpres</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de filets de bar</p>
+ <p>4 grosses pommes de terre</p>
+ <p>1 court-bouillon</p>
+ <p>25 g de beurre</p>
+ <p>25 cl de béchamel</p>
+ <p>1/2 pot de câpres</p>
+ <p>1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez les <ingredient>pommes de terre</ingredient>, <operation>coupez - les en 4</operation> et <operation>mettez - les dans une <recipient>cocotte</recipient> minute</operation>. <operation>recouvrez de</operation> <ingredient>court-bouillon</ingredient> et ajoutez les <ingredient>filets de bar</ingredient>. <operation>fermez</operation> et <operation>laissez cuire 5 minutes à</operation> <operation>partir de la rotation de la soupape</operation>. <operation>sortez délicatement les <ingredient>filets</ingredient> à l’</operation> aide d’ une écumoire et les mettre au centre d’ un <recipient>plat</recipient> beurré allant au <recipient>four</recipient>. disposer les <ingredient>pommes de terre</ingredient> autour. <operation>nappez de la sauce <ingredient>béchamel</ingredient></operation> additionnée du jus du demi-citron et des <ingredient>câpres</ingredient>. <operation>chauffez le <recipient>gril</recipient> du <recipient>four</recipient></operation> et <operation>faites gratiner pendant 10 minutes</operation>.
+]]>
+ </preparation>
+</recette>

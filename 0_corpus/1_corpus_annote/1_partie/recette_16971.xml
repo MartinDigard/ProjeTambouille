@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16971">
+ <titre>Rôti de veau à l’ italienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de veau de 800 g</p>
+ <p>4 tomates</p>
+ <p>30 g de beurre</p>
+ <p>1 oeuf entier et 1 jaune d’ oeuf</p>
+ <p>3 cuillères à soupe de câpres</p>
+ <p>4 filets d’ anchois à l’ huile</p>
+ <p>150 g de miettes de thon à l’ huile</p>
+ <p>1 citron</p>
+ <p>sel et poivre</p>
+ <p>1 verre à moutarde d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à thermostat 7. <operation>disposez la viande dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, <operation>salez</operation> et <operation>poivrez, parsemez de noix de beurre et glissez au <recipient>four</recipient></operation>. <operation>retournez à mi-cuisson</operation>, <operation>laissez refroidir sur une assiette puis tranchez</operation>. dans un bol, mettez l’ <ingredient>oeuf entier</ingredient> plus le <ingredient>jaune</ingredient>, les <ingredient>miettes de thon</ingredient>, les <ingredient>câpres</ingredient>, les <ingredient>anchois</ingredient>, le jus de <ingredient>citron</ingredient>. <operation>mixez le tout en</operation> versant l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> doucement. vous devez <operation>obtenir une sauce bien lisse</operation>. <operation>versez - la dans une saucière en attente</operation>. dans un <recipient>plat</recipient>, <operation>disposez les tranches de rôti</operation>, <operation>coupez les <ingredient>tomates</ingredient> en tranches</operation>, <operation>salez</operation>, <operation>poivrez et répartissez autour de la viande</operation>. <operation>servez</operation> accompagné de la sauce.
+]]>
+ </preparation>
+</recette>

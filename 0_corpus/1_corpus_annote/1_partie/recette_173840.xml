@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173840">
+ <titre>Soupe Nirvana aux légumes, lait de coco et cacahuète</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 chou blanc</p>
+ <p>1 branche de brocolis</p>
+ <p>2 pommes de terre</p>
+ <p>1/2 potimarron</p>
+ <p>1 bouillon cube</p>
+ <p>200 ml de lait de coco</p>
+ <p>1 cuillère à soupe de pâte de cacahuète</p>
+ <p>quelques feuilles de basilic</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez le <ingredient>chou</ingredient>, le <ingredient>brocoli</ingredient>, les <ingredient>pommes de terre</ingredient>, le <ingredient>potimarron</ingredient>, <operation>mettez - les dans une <recipient>casserole</recipient></operation> et <operation>ajoutez de l’ eau jusqu’ au niveau des légumes</operation>. ajoutez le <ingredient>bouillon cube</ingredient>, <operation>couvrez</operation> et <operation>laissez cuire à feu fort pendant 20 min</operation>. quand les légumes sont cuits, <operation>mettez à feu doux</operation> et incorporez la <ingredient>pâte de cacahuète</ingredient>, le lait de <ingredient>coco</ingredient> et <ingredient>sel</ingredient> et <ingredient>poivre</ingredient> à votre convenance. <operation>laissez encore sur le feu pendant 5 min</operation>. ensuite, <operation>mixez le toute en</operation> ajoutant les <ingredient>feuilles de basilic</ingredient> frais. c’ est prêt, <operation>régalez -vous en</operation> écoutant l’ album unplugged de nirvana...
+]]>
+ </preparation>
+</recette>

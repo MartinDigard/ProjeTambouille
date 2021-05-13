@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81391">
+ <titre>Omelettes colorées</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 oeufs</p>
+ <p>5 tranches de jambon cru</p>
+ <p>1 poivron</p>
+ <p>4 tomates</p>
+ <p>1 gros oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les</operation> <ingredient>poivrons</ingredient>, <operation>coupez - les en deux</operation>, <operation>ôtez les graines,</operation> puis <operation>coupez en petits morceaux</operation>. <operation>pelez et hachez l’ <ingredient>oignon</ingredient> et les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient></operation>. dans une <recipient>casserole</recipient>, <operation>faites bouillir de l’ eau</operation>. <operation>lavez les <ingredient>tomates</ingredient>, incisez - les légèrement en forme de croix avec la pointe d’ un couteau, plongez - les 1 minute dans l’ eau,</operation> puis <operation>laissez - les refroidir</operation>, <operation>pelez - les</operation>, <operation>coupez en morceaux en</operation> enlevant les pépins. dans un <recipient>saladier</recipient>, <operation>cassez les</operation> <ingredient>oeufs</ingredient>, <operation>salez</operation>, <operation>poivrez, et battez - les en omelette</operation>. <operation>faites chauffer une <recipient>poêle</recipient></operation>, <operation>versez - y de l’ huile</operation>, <operation>ajoutez l’ <ingredient>ail</ingredient>, l’ <ingredient>oignon</ingredient>, les</operation> <ingredient>poivrons</ingredient>, <operation>faites les</operation> <operation>revenir 5 minutes</operation>. <operation>ajoutez les</operation> <ingredient>tomates</ingredient>, <operation>laissez fondre pendant 10 minutes en</operation> remuant de temps en temps et <operation>ajoutez le <ingredient>jambon</ingredient></operation> cru. <operation>augmentez la puissance du feu</operation>, <operation>versez les <ingredient>oeufs</ingredient></operation> battus, remuez en formant un 8 pendant environ 5 minutes, jusqu’ à ce que la préparation devienne moelleuse. on peut aussi remplacer les <ingredient>poivrons</ingredient> par des piments doux.
+]]>
+ </preparation>
+</recette>

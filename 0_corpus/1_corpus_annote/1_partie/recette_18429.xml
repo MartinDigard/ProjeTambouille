@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18429">
+ <titre>Jambon sauce cardinal</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 échalotes</p>
+ <p>400 g de champignons en morceaux</p>
+ <p>2 cuillerées à soupe de concentré de tomate</p>
+ <p>2 cuillerées de farine</p>
+ <p>1 tablette de bouillon</p>
+ <p>1 morceau de sucre</p>
+ <p>22 cl d’ eau</p>
+ <p>20 cl de crème fraîche</p>
+ <p>200 g de gruyère</p>
+ <p>6 tranches de jambon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>échalotes</ingredient> finement</operation> hachées, ajouter les <ingredient>champignons</ingredient> égouttés, le <ingredient>concentré de tomate</ingredient>, le <ingredient>sucre</ingredient>, la farine, la <ingredient>tablette de bouillon</ingredient> et l’ <ingredient>eau</ingredient>. <operation>laisser bouillir 2 à 3 mn</operation>. enlever du feu et ajouter la <ingredient>crème fraîche</ingredient>. mélanger. dans un <recipient>plat</recipient> à gratin, rouler et ranger les <ingredient>tranches de jambon</ingredient>, verser la sauce obtenue par dessus. passer à <recipient>four</recipient> moyen jusqu’ à ce que çà gratine.
+]]>
+ </preparation>
+</recette>

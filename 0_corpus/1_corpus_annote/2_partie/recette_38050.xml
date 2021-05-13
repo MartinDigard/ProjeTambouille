@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38050">
+ <titre>Soupe au potiron épicée</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de potiron coupé en morceaux</p>
+ <p>sel</p>
+ <p>1 cuillère à soupe de cannelle</p>
+ <p>1 cuillère à café de clous de girofle en poudre</p>
+ <p>fleur de sel</p>
+ <p>poivre blanc</p>
+ <p>crème fleurette fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez le <ingredient>potiron</ingredient> dans une grande <recipient>casserole</recipient> avec 50 cl d’ eau</operation>. <operation>portez à ébullition</operation>, <operation>salez,</operation> puis <operation>faites mijoter doucement pendant 25 min environ jusqu’ à ce que le <ingredient>potiron</ingredient> soit très fondant</operation>. <operation>mixez en</operation> rajoutant de l’ eau si nécessaire. <operation>ajoutez les épices</operation> et <operation>assaisonnez</operation>. décorez d’ un peu de <ingredient>crème fleurette</ingredient> et <operation>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

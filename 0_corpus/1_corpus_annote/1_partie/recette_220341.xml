@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220341">
+ <titre>Soupe de pois cassés parfumée</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pois cassés</p>
+ <p>2 oignons </p>
+ <p>2 pommes de terre</p>
+ <p>2 carottes</p>
+ <p>4 gousses d’ ail</p>
+ <p>3 feuilles de laurier, estragon, fenouil</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient>pois cassés</ingredient> pendant 40 min. <operation>écumez</operation>. ajoutez les <ingredient>carottes</ingredient>, les <ingredient>oignons</ingredient>, les <ingredient>feuilles de laurier</ingredient>, et les <ingredient>pommes de terre</ingredient> (le tout préalablement épluché) puis <operation>laissez cuire pendant 25 min à feu doux</operation>. en fin de cuisson, <operation>ajoutez les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> et le <ingredient>curcuma</ingredient></operation>. <operation>salez</operation> et <operation>poivrez</operation>. enlevez les <ingredient>feuilles de laurier</ingredient>. <operation>mixez le tout au <recipient>mixeur</recipient> plongeant</operation>. <operation>servez la soupe bien</operation> chaude en l’ agrémentant de <ingredient>fenouil</ingredient>. vin rouge, sec
+]]>
+ </preparation>
+</recette>

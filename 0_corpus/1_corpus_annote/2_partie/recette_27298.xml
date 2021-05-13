@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27298">
+ <titre>Salade au corned-beef</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de corned-beef</p>
+ <p>2 piments doux</p>
+ <p>250 g de tomates</p>
+ <p>olives vertes et noires dénoyautées</p>
+ <p>300 g de riz cuit</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire griller les <ingredient>piments</ingredient> sous le grill du <recipient>four</recipient> une dizaine de minutes en les</operation> retournant fréquemment. les éplucher et les émincer en lanières fines. couper le <ingredient>corned</ingredient> - <ingredient>beef</ingredient> en tranches très fines (ou les restants de viandes en lamelles). mélanger le <ingredient>riz cuit</ingredient> avec le <ingredient>piment</ingredient>, les <ingredient>olives</ingredient>, les <ingredient>tomates</ingredient> épépinées et coupées en cubes et le <ingredient>corned</ingredient> - <ingredient>beef</ingredient>. assaisonner et servir.
+]]>
+ </preparation>
+</recette>

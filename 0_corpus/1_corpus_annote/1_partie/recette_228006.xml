@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228006">
+ <titre>Salade style sushi</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la salade basique: </p>
+ <p>2 verres de riz brun</p>
+ <p>4 oignons de printemps</p>
+ <p>2 avocats</p>
+ <p>3 petites carottes</p>
+ <p>2.5 feuilles d’ algue nori (algue noire qui enveloppe les sushis) </p>
+ <p>1 petit concombre</p>
+ <p>2 verres d’ edamame (fèves immatures de soja) </p>
+ <p>5 cuillères à soupe de vinaigre de riz</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>Pour la vinaigrette: </p>
+ <p>Sauce soja</p>
+ <p>Wasabi</p>
+ <p>Gingembre frais râpéPour agrémenter, au choix: </p>
+ <p>sésame</p>
+ <p>tofu</p>
+ <p>brocoli</p>
+ <p>coriandre</p>
+ <p>saumon en dés</p>
+ <p>crevettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pendant que le <ingredient>riz</ingredient> cuit, dans un bol à <ingredient>salade</ingredient>: émincez les <ingredient>oignons de printemps</ingredient>, <operation>coupez les <ingredient>carottes</ingredient> et le <ingredient>concombre</ingredient> en <ingredient>petits</ingredient> bâtonnets, l’ <ingredient>avocat</ingredient> en lamelles</operation>. <operation>roulez les <ingredient>feuilles</ingredient> de <ingredient>nori</ingredient> afin de</operation> pouvoir les couper en bandes de 3 mm et les réduire en <ingredient>petites</ingredient> lanières. <operation>ajoutez les edamames</operation>. le <ingredient>riz</ingredient> est cuit, arrosez - le avec le <ingredient>vinaigre de riz</ingredient> que vous aurez préalablement mélangé avec le <ingredient>sucre</ingredient>. <operation>faites la <ingredient>vinaigrette</ingredient> selon votre goût: pour moi ça serait 5 cm de <ingredient>gingembre</ingredient> râpé + 1/4 de <ingredient>verre</ingredient> de sauce <ingredient>soja</ingredient>, 1/4 de <ingredient>verre</ingredient> d’ eau froide et 1 <ingredient>cuillère</ingredient> à café de <ingredient>wasabi</ingredient></operation>. <operation>mélangez la <ingredient>salade</ingredient>, le <ingredient>riz</ingredient> et la sauce et bon appétit</operation>!
+]]>
+ </preparation>
+</recette>

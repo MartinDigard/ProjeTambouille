@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59324">
+ <titre>Poulet chipotari</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses ou pilons de poulet</p>
+ <p>huile d’ olive</p>
+ <p>4 oignons</p>
+ <p>280 g de pickle de légumes variés (1 pot) </p>
+ <p>70 g de concentré de tomates (1 petite boîte) </p>
+ <p>2 cuillères à soupe de gelée de groseilles</p>
+ <p>2 cuillères à café de curry</p>
+ <p>1 petite bouteille de vin rouge (Bordeau) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer le <ingredient>poulet</ingredient> et les <ingredient>oignons</ingredient> à la <recipient>poêle</recipient>, dans un fond d’ huile d’ <ingredient>olive</ingredient>, à feu vif</operation>. réduire le feu et incorporer le <ingredient>pickle de légumes</ingredient>, le <ingredient>vin rouge</ingredient>, le <ingredient>curry</ingredient>, le concentré de <ingredient>tomates</ingredient> et la <ingredient>gelée de groseilles</ingredient>. <operation>laisser mijoter le tout jusqu’ à la fin de la cuisson (+ /- 1 <ingredient>petite</ingredient> heure, cela</operation> dépend de la grosseur des morceaux de <ingredient>poulet</ingredient>). retirer du feu et servir bien chaud. <operation>servir avec du riz, pâtes, pommes de terres</operation>... bon appétit! bordeau
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73299">
+ <titre>Thon Brésilien</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poivrons rouge</p>
+ <p>2 poivrons verts</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 tomates</p>
+ <p>1 grande boîte de thon</p>
+ <p>persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>poivrons</ingredient> en petit dés, ainsi que l’ <ingredient>oignon</ingredient> et les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient></operation>. <operation>coupez les <ingredient>tomates</ingredient> en morceaux</operation>. dans une <recipient>poêle</recipient>, <operation>faites fondre le beurre avec l’ <ingredient>ail</ingredient> et l’</operation> <ingredient>oignon</ingredient>, <operation>ajoutez les dés de</operation> <ingredient>poivrons</ingredient> et <operation>faites cuire le tout 5 min</operation>. <operation>ajoutez les morceaux de <ingredient>tomates</ingredient> et le <ingredient>thon</ingredient> émietté</operation>, <operation>salez</operation> et <operation>poivrez</operation>. <operation>laissez cuire le tout 30 min</operation>. a la fin de la cuisson, <operation>mettez la préparation dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient> et parsemez de gruyère râpé. <operation>faites cuire le tout 15 min environ</operation>. vous pouvez accompagner ce <recipient>plat</recipient> de riz.
+]]>
+ </preparation>
+</recette>

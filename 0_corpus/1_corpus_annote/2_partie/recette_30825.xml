@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30825">
+ <titre>Demi-avocats au fromage blanc pimenté</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 avocats</p>
+ <p>1 citron (jus + zeste) </p>
+ <p>100 g de fromage blanc</p>
+ <p>1 échalote</p>
+ <p>1 cuillère à soupe de ciboulette hachée</p>
+ <p>sel</p>
+ <p>1 pincée de harissa ou de piment en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>fendez les <ingredient>avocats</ingredient> en deux</operation>, <operation>retirez les noyaux</operation>. <operation>passez un demi-citron sur la chair des <ingredient>avocats</ingredient> pour ne pas qu’ elle</operation> noircisse. versez l’ autre moitié du jus dans le <ingredient>fromage blanc</ingredient>, <operation>assaisonnez de <ingredient>sel</ingredient> et de <ingredient>piment</ingredient></operation>. <operation>ajoutez ensuite l’ <ingredient>échalote</ingredient> et la <ingredient>ciboulette</ingredient> finement</operation> hachées. déposez une volute de <ingredient>fromage blanc</ingredient> au <ingredient>piment</ingredient> au creux des <ingredient>avocats</ingredient>. <operation>décorez de zeste de <ingredient>citron</ingredient>, de <ingredient>ciboulette</ingredient>, et éventuellement d’ une rondelle de tomate</operation>.
+]]>
+ </preparation>
+</recette>

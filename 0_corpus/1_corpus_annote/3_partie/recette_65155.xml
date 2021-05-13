@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65155">
+ <titre>Arroz negro</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de petits encornets</p>
+ <p>200 g de riz</p>
+ <p>1 petit oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 tomate bien mûre coupée en petits morceaux</p>
+ <p>4 cuillerées à soupe d’ huile d’ olive</p>
+ <p>bouillon de poisson</p>
+ <p>encre de calmars</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites chauffer l’ <ingredient>huile</ingredient> dans une <recipient>poêle</recipient> à paëlla</operation>. <operation>faites revenir les <ingredient>encornets</ingredient> légèrement</operation> salés. quand ils sont dorés, <operation>ajoutez l’ <ingredient>oignon</ingredient> finement</operation> haché et rail <ingredient>coupé</ingredient> en lamelles. <operation>continuez la cuisson et, au bout de 2 min</operation>, <operation>ajoutez la <ingredient>tomate</ingredient></operation>. après avoir fait <operation>revenir le tout</operation>, <operation>versez le <ingredient>riz</ingredient> et l’ encre</operation>. <operation>faites revenir</operation>. enfin, <operation>versez le <ingredient>bouillon</ingredient></operation>. le temps total de cuisson sera de 30 à 40 min. a deguster avec un allioli (ou aïoli). rioja, vin espagnol, vinaralls...
+]]>
+ </preparation>
+</recette>

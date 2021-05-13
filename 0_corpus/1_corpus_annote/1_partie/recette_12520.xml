@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12520">
+ <titre>Potage à la banane (Brésil) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 gros oignons </p>
+ <p>850 g de tomates pelées ou 1, 5 kg de tomates fraîches</p>
+ <p>1 cube de bouillon de poule</p>
+ <p>2 bananes de taille moyenne</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel, poivre et curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire blondir les 2</operation> <ingredient>oignons</ingredient>, ajouter les <ingredient>tomates</ingredient>, le <ingredient>cube</ingredient>, les <ingredient>bananes</ingredient>. assaisonner de <ingredient>sel</ingredient>, <ingredient>poivre et curry</ingredient>. <operation>laisser cuire 20 minutes</operation>. mixer, puis ajouter la <ingredient>crème fraîche</ingredient>.
+]]>
+ </preparation>
+</recette>

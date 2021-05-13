@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10755">
+ <titre>Mousse à la fraise</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tasse 1/2 de fraises fraîches</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>2 cuillères à soupe de jus de citron</p>
+ <p>1 cuillère à table de gélatine</p>
+ <p>1/4 de tasse d’ eau froide</p>
+ <p>1/2 tasse de lait</p>
+ <p>1 tasse 1/4 de crème à 35%</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans le bol d’ un mélangeur électrique, réduire les <ingredient>fraises</ingredient> en purée. ajouter le <ingredient>sucre</ingredient> et le <ingredient>jus de citron</ingredient>. <operation>faire gonfler la <ingredient>gélatine</ingredient> dans l’ <ingredient>eau</ingredient> froide</operation>. sur feu doux, <operation>faire chauffer le <ingredient>lait</ingredient> et y</operation> <operation>faire dissoudre la <ingredient>gélatine</ingredient></operation>. ajouter au mélange de <ingredient>fraises</ingredient>. refroidir. fouetter la crème et l’ incorporer aux <ingredient>fraises</ingredient>. verser la mousse aux <ingredient>fraises</ingredient> dans un <recipient>moule</recipient> et réfrigérer. démouler au moment de <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

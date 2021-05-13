@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30561">
+ <titre>Gâteau aux blancs d’ oeufs caramélisé</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs d’ oeufs</p>
+ <p>100 g de farine</p>
+ <p>100 g de beurre</p>
+ <p>125 g de sucre (+ 25 g pour la finition) </p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le beurre</operation> et <operation>laisser refroidir</operation>. battre les blancs en neige avec les <ingredient>sucres</ingredient> (normal et <ingredient>vanillé</ingredient>). incorporer délicatement la farine et le beurre fondu. verser dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré et saupoudrer de <ingredient>sucre</ingredient>. <operation>faire cuire dans un <recipient>four</recipient> préchauffé à 200 ° c pendant 20 min</operation>. oter du <recipient>four</recipient>, retourner sur une grille puis le glisser à l’ envers dans le <recipient>moule</recipient>. saupoudrer d’ une bonne couche de <ingredient>sucre</ingredient> et <operation>faire caraméliser 2 min sous le grill du <recipient>four</recipient></operation>. en général, je double les proportions car sinon c’ est un peu rikiki. dans mes moments de faiblesse, je le tartine de nutella (j’ ai un peu honte...).
+]]>
+ </preparation>
+</recette>

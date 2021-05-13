@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68131">
+ <titre>Croque à l’ hachis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 gros oignons</p>
+ <p>2/3 poivrons</p>
+ <p>3 cuillères à soupe de crème fraiche</p>
+ <p>500 g d’ hachis de boeuf</p>
+ <p>fromage en tranche (fromage fondu) </p>
+ <p>pain de mie en grande tranche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre <ingredient>oignons</ingredient> et les <ingredient>poivrons</ingredient> dans une <recipient>poêle</recipient> pendant une dizaine de minute</operation>. ajouter l’ <ingredient>hachis de boeuf</ingredient>, <operation>faire cuire à feu doux</operation>. ajouter 3 <ingredient>cuillères</ingredient> a <ingredient>soupe de crème fraiche</ingredient>, mélanger le tout. après la préparation bien cuite, disposer le tout sur une <ingredient>tranche de pain de mie</ingredient>. placer ensuite par dessus une <ingredient>tranche</ingredient> de <ingredient>fromage</ingredient> fondu. mettre la préparation au <recipient>four</recipient> pendant une vingtaine de minutes, attendre que le <ingredient>fromage</ingredient> soit bien fondu. bon appétit! une recette tres facile a <operation>faire et délicieuse</operation>!
+]]>
+ </preparation>
+</recette>

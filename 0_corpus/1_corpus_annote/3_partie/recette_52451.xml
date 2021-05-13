@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52451">
+ <titre>Spaghetti aux moules sauce tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon </p>
+ <p>1.5 l de moules dans leur coquille lavées et grattées</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>425 g de tomates en boîte</p>
+ <p>1 tasse de vin blanc</p>
+ <p>1 cuillère à soupe de basilic frais haché</p>
+ <p>2 cuillères à soupe de persil frais haché</p>
+ <p>sel et poivre</p>
+ <p>500 g de spaghetti</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient> dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. rajouter les <ingredient>tomates écrasées</ingredient> non égouttées, le <ingredient>vin</ingredient>, le <ingredient>basilic</ingredient>, le <ingredient>persil</ingredient>, <ingredient>sel et poivre</ingredient>. porter à ébullition et <operation>laisser mijoter 15 à 20 min, jusqu’ à épaississement de la sauce</operation>. rajouter les <ingredient>moules</ingredient> et <operation>laisser cuire environ 5 à 8 min, en</operation> remuant de temps en temps. <operation>faire cuire les <ingredient>spaghetti</ingredient> selon le temps</operation> indiqué sur le paquet, et les égoutter. <operation>servir les <ingredient>moules</ingredient> et la sauce sur les pâtes</operation>. servir ce <recipient>plat</recipient> complet avec du pain croustillant et une salade verte. <ingredient>vin blanc</ingredient> ou rosé bien <ingredient>frais</ingredient>
+]]>
+ </preparation>
+</recette>

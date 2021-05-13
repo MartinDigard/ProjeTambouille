@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61310">
+ <titre>Wok de porc sautés à la coriandre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de porc en dés (échine ou filet selon les goûts) </p>
+ <p>5 carottes</p>
+ <p>10 g de champignons noirs chinois séchés</p>
+ <p>150 g de pousses de soja</p>
+ <p>Pour la marinade: </p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet de coriandre haché</p>
+ <p>le jus d’ un citron</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 cuillère à soupe de de sauce soja</p>
+ <p>1 cuillère à soupe de fécule</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>laissez macérer la viande dans la <ingredient>marinade</ingredient> environ 15 min</operation>. <operation>laissez tremper les <ingredient>champignons</ingredient> dans de l’ eau</operation>. <operation>egouttez la viande</operation> et <operation>réservez la <ingredient>marinade</ingredient></operation>. <operation>faites dorer la viande au <recipient>wok</recipient>,</operation> puis <operation>ajoutez les <ingredient>carottes</ingredient> en lanières, la <ingredient>marinade</ingredient>, et les champigons eux aussi coupés en lanières</operation>. <operation>laissez cuire 20 min en</operation> remuant. <operation>ajoutez le</operation> <ingredient>soja</ingredient> et <operation>laissez cuire encore 15 minutes</operation>. server avec du riz basmati ou thaï.
+]]>
+ </preparation>
+</recette>

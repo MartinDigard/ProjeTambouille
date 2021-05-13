@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165774">
+ <titre>Oeufs au lait de Margaux</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 l de lait</p>
+ <p>50 g de sucre </p>
+ <p>1 gousse de vanille</p>
+ <p>6 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 75 °. battre les <ingredient>oeufs</ingredient>. <operation>faire bouillir le lait avec le <ingredient>sucre</ingredient> et les grains de la gousse de <ingredient>vanille</ingredient></operation>. mélanger le lait bouillit avec les <ingredient>oeufs</ingredient>. enfourner pendant 30 min. pour les plus gourmands: préparer juste avant de <operation>servir un caramel avec 50 g de <ingredient>sucre</ingredient> et 3 cuillères à soupe d’ eau</operation> et verser le sur le flan.
+]]>
+ </preparation>
+</recette>

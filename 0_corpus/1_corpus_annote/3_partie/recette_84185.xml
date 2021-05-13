@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84185">
+ <titre>Escalopes de poulet gratinées</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>250 g de champignons</p>
+ <p>80 g de gruyère râpé</p>
+ <p>100 g de jambon blanc</p>
+ <p>60 g de beurre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>20 cl de lait</p>
+ <p>4 oignons</p>
+ <p>2 cuillère à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer les <ingredient>escalopes</ingredient> 4 min de chaque coté dans le beurre</operation>, saler poivrer, les placer dans un <recipient>plat</recipient> à gratin. hacher les <ingredient>champignons</ingredient> et les <ingredient>oignons</ingredient>, les <operation>faire revenir dans la <recipient>poêle</recipient> des <ingredient>escalopes</ingredient></operation>. ajouter le <ingredient>jambon</ingredient> en lanières et saupoudrer avec 1 <ingredient>cuillère à soupe</ingredient> de farine. mélanger, verser le lait et la <ingredient>crème fraîche</ingredient>. saler, poivrer et <operation>laisser mijoter environ 10 min</operation>. napper les <ingredient>escalopes</ingredient> de la sauce et saupoudrer de gruyère, <operation>faire gratiner dans le <recipient>four</recipient> préchauffé à 230 degrés, thermostat 7 - 8</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68864">
+ <titre>Omelette paysanne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>100 g de lardons fumés</p>
+ <p>2 tranches de pain rassis</p>
+ <p>1 gousse d’ ail</p>
+ <p>6 œufs</p>
+ <p>1 cuillère à soupe de crème fraiche</p>
+ <p>1 cuillère à soupe de ciboulette ciselée</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>huile</ingredient> dans une poele, y</operation> <operation>faire dorer les <ingredient>lardons</ingredient> 3 minutes</operation>. casser le <ingredient>pain</ingredient> en petit morceaux. eplucher l’ <ingredient>ail</ingredient>. ajouter les croutons aux <ingredient>lardons</ingredient> et presser l’ <ingredient>ail</ingredient> au dessus. bien remuer. <operation>laisser cuire encore 3 minutes en</operation> remuant régulièrement. battre les <ingredient>œufs</ingredient> avec la <ingredient>crème fraiche</ingredient>, la <ingredient>ciboulette</ingredient>, le <ingredient>sel</ingredient> et le poivre. ajouter cette préparation dans la <recipient>poêle</recipient>. réduire le feu et <operation>laisser mijoter en</operation> soulevant régulièrement les bords. plier l’ omelette en 2 et la glisser sur un <recipient>plat</recipient> de service.
+]]>
+ </preparation>
+</recette>

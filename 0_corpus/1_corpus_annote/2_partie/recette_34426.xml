@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34426">
+ <titre>Croque-Monsieur a la poele (grilled cheese sandwich) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches de pain de mie (blanc et bien moelleux, à l’ anglaise) </p>
+ <p>1 tranche de fromage (gruyère, emmental, cheddar...) </p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+assembler le croque: 1 <ingredient>tranche de pain</ingredient>, 1 <ingredient>tranche de fromage</ingredient>, 1 <ingredient>tranche de pain</ingredient>. <operation>faire chauffer une noix de beurre à la <recipient>poêle</recipient></operation>. poser le croque dans la <recipient>poêle</recipient> (imbiber de beurre des deux côtés). cuire à feu moyen-fort jusqu’ à ce que les deux côtés soient bien dorés et que le <ingredient>fromage</ingredient> soit bien fondu. couper en triangle! c’ est tellement délicieux qu’ il faut absolument essayer! evidemment vous pouvez rajouter les ingrédients de votre choix (jambon, autres <ingredient>fromages</ingredient>...). moi je suis végétarienne, et je trouve ce <recipient>plat</recipient> parfait dans sa simplicité extrême!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65701">
+ <titre>Poulet au curry, ananas et lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 filets de poulet</p>
+ <p>1 oignon</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>1 boîte de lait de coco (40 cl) </p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>1 boite d’ ananas en morceaux ou un ananas frais</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en <ingredient>morceaux</ingredient> les <ingredient>poivrons</ingredient>, l’ <ingredient>oignon</ingredient> et les <ingredient>filets de poulet</ingredient>. dans une <recipient>poêle</recipient> <operation>faire revenir avec l’ huile l’ <ingredient>oignon</ingredient> quelque minutes</operation>. puis mettre les <ingredient>poivrons</ingredient> jusqu’ à qu’ ils deviennent tendres, enfin mettre le <ingredient>poulet</ingredient>. <operation>laisser mijoter 5 min</operation>, mettre le <ingredient>curry</ingredient> et <operation>laisser à nouveau</operation> mijoter 5 min. metter le <ingredient>lait de coco</ingredient> et <operation>laisser mijoter 5 min</operation>. a la fin mettre l’ ananas et <operation>laisser 5 min</operation>. <operation>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

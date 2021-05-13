@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32018">
+ <titre>Soupe sucrée au maïs</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petite boîte de maïs</p>
+ <p>6 cuillères à soupe de sucre</p>
+ <p>4 cuillères à café bien pleines de maïzena</p>
+ <p>1 oeuf</p>
+ <p>1 litre d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le <ingredient>litre</ingredient> d’ <ingredient>eau</ingredient> avec le</operation> <ingredient>sucre</ingredient> et ajouter les grains de <ingredient>maïs</ingredient> légèrement écrasés. cuire 5 mn, puis ajouter la <ingredient>maïzena</ingredient> délayée dans un peu d’ <ingredient>eau</ingredient> pour <operation>faire épaissir la <ingredient>soupe</ingredient></operation>. <operation>laisser à nouveau</operation> cuire quelques minutes, puis ajouter l’ <ingredient>oeuf</ingredient> battu tout en remuant. cela doit <operation>faire des <ingredient>petits</ingredient> filaments d’ <ingredient>oeuf</ingredient></operation>. <operation>servir chaud</operation>. ceci est une <ingredient>soupe</ingredient> chinoise que les enfants aiment beaucoup.
+]]>
+ </preparation>
+</recette>

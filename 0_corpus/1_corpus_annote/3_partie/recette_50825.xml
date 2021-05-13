@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50825">
+ <titre>Jambon Marie-Rose</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tranches de jambon un peu épaisses</p>
+ <p>20 cl de vin blanc (Chablis) </p>
+ <p>100 g de lardons fumés</p>
+ <p>40 g de farine</p>
+ <p>90 g de beurre</p>
+ <p>1 bouquet garni (persil, thym, laurier) </p>
+ <p>1 échalote</p>
+ <p>10 cl de purée de tomates</p>
+ <p>15 cl de crème fraîche épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer un roux brun avec la farine, 40 g de beurre, le <ingredient>vin blanc</ingredient> et l’ <ingredient>échalote</ingredient> hachée. ajouter la <ingredient>purée de tomates</ingredient> et le <ingredient>bouquet garni</ingredient>, et <operation>laisser mijoter pendant 30 min</operation>. mettre la <ingredient>crème</ingredient> et <operation>laisser cuire 5 min</operation>. filtrer la sauce et ajouter le reste de beurre. chauffer les <ingredient>tranches de jambon</ingredient> au <recipient>bain - marie</recipient>, et les servir nappées de sauce. <operation>restez</operation> vigilant lorsque vous faite le roux, de façon à ce qu’ il n’ y ait pas de grumeaux, ni que votre sauce accroche au fond de la <recipient>casserole</recipient>! chablis
+]]>
+ </preparation>
+</recette>

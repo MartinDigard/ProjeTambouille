@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17027">
+ <titre>Sauté de veau au chorizo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de sauté de veau</p>
+ <p>1 chorizo (doux ou extra fort selon votre goût) </p>
+ <p>2 boîte de pulpe de tomate</p>
+ <p>1 pot d’ olives vertes dénoyautées</p>
+ <p>4 oignons</p>
+ <p>un bouquet de basilic</p>
+ <p>un bouquet garni</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir <ingredient>veau</ingredient> et <ingredient>oignons</ingredient></operation> émincés jusqu’ à coloration. ajouter le <ingredient>chorizo</ingredient> en rondelles (oter sa peau), puis la <ingredient>pulpe de tomate</ingredient>, le <ingredient>basilic</ingredient> haché et enfin les <ingredient>olives</ingredient>. <operation>couvrir</operation> et <operation>faire mijoter à feux doux 1 heure minimum</operation>. ce <recipient>plat</recipient> est encore meilleur préparé la veille et réchauffé le jour même. ajouter du piment de cayenne si vous aimez les plats bien relevés. attention tout de même en fonction de la force de votre <ingredient>chorizo</ingredient>. idéal après la <recipient>terrine</recipient> de cougette à la menthe. rosé ou rouge frais
+]]>
+ </preparation>
+</recette>

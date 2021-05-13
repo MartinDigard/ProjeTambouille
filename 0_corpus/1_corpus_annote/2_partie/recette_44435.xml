@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44435">
+ <titre>Andouillettes à la crème et aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 andouillettes</p>
+ <p>4 échalotes</p>
+ <p>500 g de champignons de Paris</p>
+ <p>sel, poivre</p>
+ <p>1/4 bouteille de vin blanc</p>
+ <p>1 gros pot de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les</operation> <ingredient>échalotes</ingredient>, coupées fines dans une <recipient>poêle</recipient>. puis mettre les <ingredient>champignons de paris</ingredient> émincés. <operation>faire cuire,</operation> puis mettre un peu de <ingredient>vin blanc</ingredient>. a côté <operation>faire cuire les <ingredient>andouillettes</ingredient> dans une <recipient>poêle</recipient></operation>. mettre le mèlange <ingredient>échalotes</ingredient> et <ingredient>champignons</ingredient> dans une <recipient>cocotte</recipient> et ajouter la <ingredient>crème fraîche</ingredient>, mélanger le tout sur feu très doux, puis poser les <ingredient>andouillettes</ingredient> sur le tout. servir chaud.
+]]>
+ </preparation>
+</recette>

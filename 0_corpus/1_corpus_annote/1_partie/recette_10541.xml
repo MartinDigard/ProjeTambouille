@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10541">
+ <titre>Coq au Vin facile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>10 blancs de volailles</p>
+ <p>200 gr de lardons sans couennes</p>
+ <p>500 g de champignons de Paris</p>
+ <p>75 cl de vin rouge</p>
+ <p>2 cubes dégraissés de bouillon de volaille</p>
+ <p>sel, poivre </p>
+ <p>herbes de provence</p>
+ <p>10 cl de cognac</p>
+ <p>10 cl de Porto</p>
+ <p>1 morceau de sucre</p>
+ <p>2 cuillères à soupe de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire dorer les blancs de <ingredient>volaille</ingredient> dans le <ingredient>beurre</ingredient> bien chaud</operation>. ajouter le verre de <ingredient>cognac</ingredient>. flamber (facultatif) ajouter les <ingredient>lardons</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, <ingredient>cubes de bouillon</ingredient>, <ingredient>herbes</ingredient>, <ingredient>porto</ingredient>, et la bouteille de <ingredient>vin</ingredient>. <operation>laisser mijoter 40 minutes (pas plus, sinon la viande se</operation> défait). laver les <ingredient>champignons</ingredient>, les couper en 2 ou en 4. les <operation>faire dorer dans 1 cas de <ingredient>beurre</ingredient></operation>. pour lier la sauce, <operation>faire un <ingredient>beurre</ingredient></operation> manié, c’ est à dire même quantité de <ingredient>beurre</ingredient> que de farine... le <ingredient>beurre</ingredient> doit être bien mou pour cela. bien mélanger avec une fourchette dans un bol. mettre la viande, les <ingredient>champignons</ingredient> et les <ingredient>lardons</ingredient> dans un <recipient>plat</recipient> de service. <operation>faire réchauffer la sauce</operation>. y ajouter le <ingredient>beurre</ingredient> manié. bien fouetter. se sert avec des mini-croquettes de pommes de terre ou de la purée. saint emilion
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29401">
+ <titre>Filet mignon au miel et à la vanille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet mignon de porc ou de veau</p>
+ <p>4 cuillères à soupe de miel liquide</p>
+ <p>30 g de beurre</p>
+ <p>1 gousse de vanille</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le beurre avec le <ingredient>miel</ingredient> dans une <recipient>casserole</recipient> et y</operation> ajouter les grains de la gousse de <ingredient>vanille</ingredient>. saler et poivrer le <ingredient>filet mignon</ingredient> et le <operation>faire dorer dans de l’ huile d’</operation> olive 2 min de chaque côté. mettre le <ingredient>filet mignon</ingredient> dans un <recipient>plat</recipient> l’ arroser du mélange <ingredient>miel</ingredient> - <ingredient>vanille</ingredient> et <operation>faire cuire 30 min au <recipient>four</recipient> à 210 ° c en</operation> arrosant la viande toutes les 5 min. passer sous le grill 3 min pour caraméliser. <operation>servir avec du riz ou des pâtes</operation>.
+]]>
+ </preparation>
+</recette>

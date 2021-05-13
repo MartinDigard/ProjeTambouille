@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67601">
+ <titre>Tagliatelles au thon, tomates et olives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de tagliatelles</p>
+ <p>1 boîte de thon à l’ huile d’ olive</p>
+ <p>200 g de tomates </p>
+ <p>100 g d’ olives vertes</p>
+ <p>100 g d’ olives noires</p>
+ <p>1 oignon </p>
+ <p>2 cuillères d’ huile d’ olive</p>
+ <p>sel &amp; poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir dans une <recipient>poêle</recipient> avec l’ <ingredient>huile</ingredient> l’ <ingredient>oignon</ingredient></operation> haché. <operation>ajoutez les <ingredient>olives</ingredient> coupés en rondelles et les <ingredient>tomates</ingredient> en dés</operation> puis <operation>salez</operation> et <operation>poivrez</operation>. <operation>ajoutez le <ingredient>thon</ingredient> à la sauce</operation>. <operation>faites cuire les pâtes selon le temps</operation> indiqué, puis <operation>mélangez - les à la sauce</operation> et <operation>servez</operation>. [ ndchef: <operation>rajoutez une gousse d’ ail</operation> écrasée et des copeaux de parmesan ] vin blanc type ventoux
+]]>
+ </preparation>
+</recette>

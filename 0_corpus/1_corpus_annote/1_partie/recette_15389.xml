@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15389">
+ <titre>Soupe aux carottes et à la coriandre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon coupé fines rondelles</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>2 cuillères à café coriandre moulu</p>
+ <p>650 g de carottes hachées</p>
+ <p>220 g de pommes de terre hachées</p>
+ <p>1 litre 1/4 de bouillon de légumes</p>
+ <p>l’ écorce d’ 1/2 orange hachée</p>
+ <p>1 bouquet de coriandre fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient> dans l’ <ingredient>huile</ingredient> dans une <recipient>sauteuse</recipient> à couvert jusqu’ à ce qu’ il</operation> devienne à peine doré (soit approximativement 10 min). ajouter l’ <ingredient>ail</ingredient> et la <ingredient>coriandre</ingredient> moulus. y ajouter les <ingredient>carottes</ingredient> et la <ingredient>pomme de terre</ingredient>, puis mélanger le tout. y verser le <ingredient>bouillon</ingredient>, l’ écorce le <ingredient>sel et poivre</ingredient> (selon goût) et <operation>laisser mijoter 25 min</operation>. mixer la <ingredient>soupe</ingredient> en ajoutant la <ingredient>coriandre fraîche</ingredient>.
+]]>
+ </preparation>
+</recette>

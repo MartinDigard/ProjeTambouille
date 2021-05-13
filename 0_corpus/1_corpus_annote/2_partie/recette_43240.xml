@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43240">
+ <titre>Saucisse de morteau aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 belle saucisse de morteau</p>
+ <p>3 poivrons tricolores</p>
+ <p>4 tasses de riz</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire la <ingredient>saucisse de morteau</ingredient> piquée dans une <recipient>casserole</recipient> d’ eau salée pendant 40 min. pendant ce temps, couper les <ingredient>poivrons</ingredient> en fines lamelles et les <operation>faire revenir dans un peu d’ huile d’</operation> <ingredient>olive</ingredient> et <operation>faire cuire le <ingredient>riz</ingredient> à part</operation>. lorsque la <ingredient>saucisse</ingredient> a fini de cuire, la couper en fine tranches. réserver. attendre la fin de cuisson du <ingredient>riz</ingredient>, l’ égoutter et le mettre de nouveau à cuire avec les <ingredient>poivrons</ingredient>. lorsque le <ingredient>riz</ingredient> a prit une <ingredient>belle</ingredient> couleur, ajouter les tranches de <ingredient>saucisse</ingredient> et <operation>laisser mijoter le tout encore quelques minutes</operation>, assaisonner et servir. on peut ajouter des oignons, des herbes de provence, de l’ ail et <operation>laisser libre cours à son imagination! un petit vin blanc moelleux</operation>...
+]]>
+ </preparation>
+</recette>

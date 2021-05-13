@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167831">
+ <titre>Gâteau au chocolat de Fanny</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le gâteau: </p>
+ <p>225g de chocolat noir</p>
+ <p>5 œufs</p>
+ <p>200 g de beurre ramolli</p>
+ <p>125 g de sucre</p>
+ <p>80 g de farine</p>
+ <p>80 g de poudre d’ amandes</p>
+ <p>Pour le glaçage: </p>
+ <p>100 g de chocolat noir</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, <operation>mélangez le beurre et le <ingredient>sucre</ingredient></operation>. <operation>séparez les blancs des jaunes</operation> et ajouter les jaunes au mélange <ingredient>beurre</ingredient> / <ingredient>sucre</ingredient>. <operation>faites fondre 225 g de <ingredient>chocolat</ingredient> au <recipient>bain marie</recipient></operation>. <operation>ajoutez dans le <recipient>saladier</recipient> avec la farine et la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient></operation>. <operation>battez les blancs en neige</operation>, <operation>incorporez délicatement</operation>. <operation>beurrez un <recipient>plat</recipient></operation> allant au <recipient>four</recipient> et <operation>faites cuire environ 40 minutes à 180 °</operation>. <operation>faites refroidir</operation> et <operation>démoulez sur une grille</operation>. <operation>faites fondre 100 g de <ingredient>chocolat</ingredient> au <recipient>bain marie</recipient></operation>, ajoutez 2 <ingredient>cuillères à soupe</ingredient> de crême fraîche, nappez. bon appétit:)
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65810">
+ <titre>Bananes à l’ orange</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bananes</p>
+ <p>2 cuillères à café de sucre</p>
+ <p>1 cuillère à café de beurre</p>
+ <p>1 orange</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient>bananes</ingredient> et les couper en deux dans le sens de la longueur. presser l’ orange. <operation>faire fondre le <ingredient>beurre</ingredient> dans une <recipient>poêle</recipient> à feu moyen</operation>. quand il est complètement fondu, poser les <ingredient>bananes</ingredient> dans la <recipient>poêle</recipient>. les saupoudrer avec le <ingredient>sucre</ingredient> et <operation>laisser cuire 4 min</operation>. les retourner ensuite avec une spatule. au bout de 3 minutes, verser le jus d’ <ingredient>orange</ingredient> dans la <recipient>poêle</recipient>. <operation>servir quand le jus est presque complètement évaporé</operation>.
+]]>
+ </preparation>
+</recette>

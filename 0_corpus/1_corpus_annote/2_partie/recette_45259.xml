@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45259">
+ <titre>Salade d’ endives aux champignons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles endives</p>
+ <p>4 champignons de Paris</p>
+ <p>1/2 pomme (si possible acide, type Granny) </p>
+ <p>emmental (à volonté) Pour la sauce vinaigrette: </p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>une pointe de curry en poudre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>retirez les feuilles flétries des</operation> <ingredient>endives</ingredient>, <operation>coupez le trognon</operation>, <operation>lavez - les,</operation> puis <operation>coupez</operation> - <operation>lez en rondelles</operation>. emincez les <ingredient>champignons de paris</ingredient>, <operation>coupez l’ <ingredient>emmental</ingredient> et la <ingredient>pomme</ingredient> en dés</operation>. <operation>mélangez</operation> tous les ingrédients dans un <recipient>saladier</recipient></operation>. préparez la <ingredient>sauce vinaigrette</ingredient>: mélangez bien la <ingredient>moutarde</ingredient> et le <ingredient>vinaigre</ingredient>, <operation>ajoutez l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, le <ingredient>curry</ingredient>, <ingredient>sel</ingredient>,</operation> <ingredient>poivre</ingredient> et <operation>mélangez</operation>. <operation>goûtez la <ingredient>sauce</ingredient></operation>. si vous la trouvez trop forte, <operation>rajoutez de l’ <ingredient>huile</ingredient></operation>. <operation>ajoutez la <ingredient>sauce</ingredient> aux</operation> <ingredient>endives</ingredient>, <operation>mélangez</operation> et <operation>dégustez</operation>.
+]]>
+ </preparation>
+</recette>

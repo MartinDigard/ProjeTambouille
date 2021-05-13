@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19386">
+ <titre>Tarte au fromage blanc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/4 de crème fraîche</p>
+ <p>1 kg de fromage blanc</p>
+ <p>2 paquets de pudding à la vanille</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>1 pincée de levure chimique</p>
+ <p>300 g de sucre en poudre</p>
+ <p>3 ou 4 oeufs (blancs en neige) </p>
+ <p>1 peu de chapelure</p>
+ <p>cannelle moulue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez le <ingredient>sucre</ingredient> et les jaunes d’</operation> <ingredient>oeufs</ingredient>, ajoutez le <ingredient>sucre vanillé</ingredient>, le pudding et la <ingredient>levure</ingredient>. <operation>fouettez le tout,</operation> puis ajoutez la <ingredient>crème</ingredient>, le <ingredient>fromage blanc</ingredient> et les <ingredient>blancs</ingredient> d’ <ingredient>oeufs</ingredient>. <operation>beurrez un <recipient>moule</recipient> à</operation> manqué, <operation>saupoudrez - le de</operation> <ingredient>chapelure</ingredient>, <operation>versez la préparation</operation> et <operation>saupoudrez de <ingredient>cannelle</ingredient></operation>. enfournez pendant 50 min à 180 ° c (thermostat 6). <operation>laissez refroidir au <recipient>four</recipient>,</operation> puis <operation>démoulez 12 h après</operation>.
+]]>
+ </preparation>
+</recette>

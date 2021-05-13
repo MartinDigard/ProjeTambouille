@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71189">
+ <titre>Crème jumelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 oeufs (3 jaunes et 2 entiers) </p>
+ <p>1 L de lait</p>
+ <p>125 g de chocolat</p>
+ <p>50 g de farine</p>
+ <p>5 g de beurre</p>
+ <p>150 g de sucre</p>
+ <p>1 cuilllère à café de vanille liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation>faire chauffer votre <ingredient>lait</ingredient></operation>. dans un <recipient>plat</recipient>, mettre les 3 jaunes d’ <ingredient>oeufs</ingredient> et les 2 <ingredient>oeufs</ingredient> entiers, la farine, le <ingredient>sucre</ingredient> et la <ingredient>vanille</ingredient>. quand le <ingredient>lait</ingredient> est chaud, le rajouter aux ingrédients et remettre à chauffer jusqu’ à ce que la crème soit épaisse. a la fin, lui rajouter le beurre. dans une autre <recipient>casserole</recipient>, <operation>faire chauffer le <ingredient>chocolat</ingredient></operation>. quand la crème est cuite, en verser la moitié dans le <ingredient>chocolat</ingredient>, <operation>faire couler en même temps la <ingredient>vanille</ingredient> et le <ingredient>chocolat</ingredient> dans un <recipient>plat</recipient> (cela ne se</operation> mélange pas) et mettre au frigo.
+]]>
+ </preparation>
+</recette>

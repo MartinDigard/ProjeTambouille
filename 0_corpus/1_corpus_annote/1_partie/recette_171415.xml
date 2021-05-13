@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171415">
+ <titre>Métisse au fromage blanc et au cacao</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 fromages blancs</p>
+ <p>3 cuillères à soupe de crème épaisse</p>
+ <p>3 cuillères à café de cacao</p>
+ <p>1.5 cuillère à café de sucre vanillé </p>
+ <p>chocolat, cookie, bonbon (selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>versez les <ingredient>fromages</ingredient> dans un bol</operation> et <operation>ajoutez la <ingredient>crème</ingredient>, puis le <ingredient>sucre</ingredient></operation> vanillé et mélangez. <operation>intégrez le</operation> <ingredient>cacao</ingredient> et <operation>mélangez à nouveau</operation>. enfin, <operation>ajoutez des morceaux de <ingredient>chocolat</ingredient> ou de <ingredient>cookie</ingredient></operation>. on peut ajouter de la ligueur de menthe (environ 2 <ingredient>cuillères à soupe</ingredient>) au mélange.
+]]>
+ </preparation>
+</recette>

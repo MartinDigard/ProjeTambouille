@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30583">
+ <titre>Poires pochées au vin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 poires</p>
+ <p>50 cl de vin rouge</p>
+ <p>300 g de sucre</p>
+ <p>2 pincées de cannelle</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites bouillir le <ingredient>vin</ingredient> avec le <ingredient>sucre</ingredient>, la <ingredient>cannelle</ingredient> et le jus du <ingredient>citron</ingredient></operation>. <operation>mettez - y les <ingredient>poires</ingredient> pelées</operation> et <operation>laissez cuire à feu doux environ 20 minutes</operation>. <operation>laissez refroidir les <ingredient>poires</ingredient> dans le sirop au <ingredient>vin</ingredient></operation>. <operation>egouttez</operation> et <operation>servez</operation>. vous pouvez <operation>faire réduire le jus de cuisson et en</operation> napper les <ingredient>poires</ingredient> avant de <operation>servir</operation>. <operation>accompagnez de glace à la vanille et de langues de chat</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14282">
+ <titre>Tarte aux légumes du soleil</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 fond de pâte feuilletée </p>
+ <p>1 aubergine</p>
+ <p>2 courgettes</p>
+ <p>4 tomates</p>
+ <p>1 mozzarella</p>
+ <p>herbes de provence, sel poivre</p>
+ <p>quelques feuilles de basilic</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper <ingredient>aubergine</ingredient> et <ingredient>courgettes</ingredient> en dés sans les éplucher, puis les <operation>faire revenir dans une <recipient>poêle</recipient> à l’ huile d’ <ingredient>olive</ingredient></operation>. a mi-cuisson (les légumes ont commencé à perdre leur eau), ajouter les <ingredient>tomates</ingredient> lavées et coupées en rondelles épaisses. ajouter <ingredient>herbes de provence</ingredient>, <ingredient>sel</ingredient> et <ingredient>poivre</ingredient>. tapisser le <recipient><recipient>moule</recipient> à tarte</recipient> de <ingredient>pâte</ingredient> feuilletée, y verser les légumes lorsqu’ ils sont dorés. <operation>répartir des rondelles de mozzarella sur le dessus</operation>. parsemer de <ingredient>feuilles de basilic</ingredient> ciselées. <operation>faire cuire 20 mn à <recipient>four</recipient> chaud, jusqu’ à ce que la <ingredient>pâte</ingredient> soit</operation> dorée et la mozzarella bien fondue.
+]]>
+ </preparation>
+</recette>

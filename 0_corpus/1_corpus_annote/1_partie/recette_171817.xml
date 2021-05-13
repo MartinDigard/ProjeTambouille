@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171817">
+ <titre>Gratin d’ aubergine au thon et à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 aubergines</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 petite boite de concentrée de tomate</p>
+ <p>5 tomates fraiche ou une boite de tomate concassée</p>
+ <p>200 g de thon en boite</p>
+ <p>150 g de gruyère râpé</p>
+ <p>sel </p>
+ <p>poivre</p>
+ <p>1 cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation> et <operation>coupez l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient> en <ingredient>petits</ingredient> dés que l’ on</operation> fait <operation>revenir</operation>. <operation>pelez les</operation> <ingredient>aubergines</ingredient> et <operation>coupez - les en lamelles</operation>, <operation>faites - les</operation> <operation>revenir</operation> avec l’ <ingredient>ail</ingredient> à feu doux, <operation>faites cuire 10 min</operation>. <operation>retirez les</operation> <ingredient>aubergines</ingredient>, <operation>mettez la farine et le concentré de</operation> <ingredient>tomate</ingredient>, faites <operation>revenir</operation> et <operation>ajoutez les <ingredient>tomates</ingredient> puis les <ingredient>aubergines</ingredient>, le <ingredient>thon</ingredient> avec le jus,</operation> et <operation>faites cuire à nouveau 10 min</operation>. <operation>mettez une couche d’ <ingredient>aubergine</ingredient> dans un <recipient>plat</recipient> à gratin, puis une de fromage</operation>, terminer par une couche de gruyère. <operation>faites cuire à <recipient>four</recipient> chaud 30 min, à 220 ° c (thermostat 7</operation>).
+]]>
+ </preparation>
+</recette>

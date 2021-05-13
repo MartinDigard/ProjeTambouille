@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11372">
+ <titre>Tarte à la mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>1 pâte brisée</p>
+ <p>1 mozzarella</p>
+ <p>sel, poivre, aromates</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez la mozzarella en tranches ainsi que les <ingredient>tomates</ingredient></operation>. <operation>etalez votre <ingredient>pâte</ingredient> dans votre <recipient>moule</recipient></operation>, <operation>faites chauffer votre <recipient>four</recipient> à</operation> <operation>th7.rangez sur votre <ingredient>pâte</ingredient> une tranche de <ingredient>tomate</ingredient>, une tranche de mozzarella, une tranche de <ingredient>tomate</ingredient>, une tranche de mozzarella, et ainsi de suite jusqu’ à la fin de votre tarte</operation>. <operation>salez</operation> et <operation>poivrez</operation>, <operation>mettez des aromates</operation> (persil, herbes de provence...) <operation>mettez un filet d’ huile d’ <ingredient>olives</ingredient></operation>. <operation>enfournez 30 minutes environs</operation> et <operation>surveillez la cuisson</operation>. servir accompagné d’ une salade verte à l’ huile d’ <ingredient>olives</ingredient> à peine vinaigrée. pour relever la tarte vous pouvez de temps en temps y ajouter une tranche de poivrons (toutes les 6 tranches consécutives minimum) ou mettre sur le fond de tarte un peu de moutarde.
+]]>
+ </preparation>
+</recette>

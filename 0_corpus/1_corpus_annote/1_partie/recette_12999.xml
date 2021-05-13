@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12999">
+ <titre>Galette de goumeau (Franche-Comté) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>1 oeuf</p>
+ <p>50g de sucre</p>
+ <p>6 cuillères à soupe de crème épaisse ou de peau de lait</p>
+ <p>1 dl de lait</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>15g de levure de bière</p>
+ <p>1 cuillère à soupe d’ eau de fleur d’ oranger</p>
+ <p>200g de farine</p>
+ <p>Pour le goumeau: </p>
+ <p>5 cuillères à soupe rases de crème fraiche épaisse</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>5 cuillères à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayez la <ingredient>levure</ingredient> dans 3 <ingredient>cuillères à soupe de lait</ingredient> à peine tiède. dans une <recipient>terrine</recipient>, <operation>mélangez l’ <ingredient>oeuf</ingredient> entier avec le</operation> <ingredient>sucre</ingredient> puis ajouter le <ingredient>sel</ingredient>, la <ingredient>crème</ingredient>, l’ <ingredient>eau</ingredient> d’ <ingredient>oranger</ingredient>, le reste de <ingredient>lait</ingredient> tiède et enfin la farine (parfois un peu plus de 200 g) pour <operation>obtenir une <ingredient>pâte</ingredient> assez molle</operation>. ajouter en dernier lieu la <ingredient>levure</ingredient> délayée dans le <ingredient>lait</ingredient>. <operation>pétrir à la main quelques minutes</operation>. beurrer et fariner un <recipient><recipient>moule</recipient> à tarte</recipient> à fond plein, puis étaler la <ingredient>pâte</ingredient> à la main dans ce <recipient>moule</recipient> (environ 1, 5 cm épaisseur). <operation>laisser lever au tiède pendant 2 à 3 heures</operation>. juste avant la cuisson, préparer le <ingredient>goumeau</ingredient> en mélangeant la <ingredient>crème</ingredient>, le <ingredient>jaune</ingredient> d’ oeurf et le <ingredient>sucre</ingredient>. etendre cette <ingredient>crème</ingredient> sur la <ingredient>pâte</ingredient> et <operation>faire cuire à <recipient>four</recipient> chaud</operation>. immédiatement à la sortie du <recipient>four</recipient>, soupoudrer le gâteau de <ingredient>sucre</ingredient> en poudre. on peut <operation>servir la galette de <ingredient>goumeau</ingredient> avec de la glace à la vanille</operation>.
+]]>
+ </preparation>
+</recette>

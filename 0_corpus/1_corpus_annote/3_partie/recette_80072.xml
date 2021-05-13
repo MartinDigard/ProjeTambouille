@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80072">
+ <titre>Pâtes à la mode d’ Alex</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de rôti de porc cuit (ou poulet) </p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>1 poivron vert</p>
+ <p>1 gousse d’ ail</p>
+ <p>250 g de pâtes</p>
+ <p>20 cl de crème liquide</p>
+ <p>2 cuillères à soupe de vin doux type Rivesaltes</p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>sel aux épices</p>
+ <p>poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>aubergines</ingredient> en <ingredient>tranches</ingredient> épaisses</operation> et <operation>faites - les</operation> dégorger. <operation>coupez les autres légumes en dés</operation> et <operation>hachez</operation> finement la gousse d’ <ingredient>ail</ingredient>. rincez les <ingredient>aubergines</ingredient> et <operation>coupez - les, ainsi que le <ingredient>rôti</ingredient>, en cubes</operation>. <operation>faites suer l’ <ingredient>ail</ingredient> dans l’ huile d’</operation> <ingredient>olive</ingredient> et <operation>ajoutez les autres légumes</operation>. <operation>laissez mijoter doucement</operation>. <operation>faites cuire les <ingredient>pâtes</ingredient> selon les indications</operation> reprises sur le paquet. <operation>ajoutez les dés de</operation> rôti à la sauce, déglacez avec le <ingredient>vin</ingredient>. <operation>ajoutez la</operation> <ingredient>crème</ingredient> et <operation>faites bouillir</operation>, <operation>laissez réduire quelques instants</operation>. <operation>ajoutez le</operation> <ingredient>curry</ingredient>, <operation>mélangez les <ingredient>pâtes</ingredient></operation> égouttées à la sauce et <operation>servez immédiatement</operation>.
+]]>
+ </preparation>
+</recette>

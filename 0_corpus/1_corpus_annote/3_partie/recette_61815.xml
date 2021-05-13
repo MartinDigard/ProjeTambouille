@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61815">
+ <titre>Salade de champignons à l’ ail</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de champignons de Paris</p>
+ <p>1 citron</p>
+ <p>2 gousses d’ ail</p>
+ <p>huile de tournesol</p>
+ <p>vinaigre d’ alcool</p>
+ <p>persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et <operation>coupez les pieds des <ingredient>champignons</ingredient>,</operation> puis <operation>coupez ces derniers en tranches</operation>. <operation>arrosez - les avec un demi-citron</operation>. emincez le plus finement possible l’ <ingredient>ail</ingredient> et le <ingredient>persil</ingredient>, mélanger les aux <ingredient>champignons</ingredient>. <operation>assaisonnez la préparation avec l’</operation> huile, le <ingredient>vinaigre</ingredient>, le <ingredient>sel</ingredient> et le poivre à votre gout
+]]>
+ </preparation>
+</recette>

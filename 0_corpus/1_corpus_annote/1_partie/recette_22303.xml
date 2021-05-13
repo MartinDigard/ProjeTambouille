@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22303">
+ <titre>Pâtes au yaourt</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de farfalles, ou torsettes...</p>
+ <p>4 yaourt nature "à la grecque"</p>
+ <p>4 belles tranche de jambon</p>
+ <p>1 gousse d’ ail</p>
+ <p>quelques feuilles de menthe ou de basilic frais</p>
+ <p>sel/poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les pâtes et les</operation> <operation>laisser refroidir</operation>. pendant ce temps, couper le <ingredient>jambon</ingredient> en lamelles ; écraser l’ <ingredient>ail</ingredient> dans un <recipient>saladier</recipient> avec un peu de <ingredient>sel</ingredient> ; rajouter le <ingredient>yaourt</ingredient>, le <ingredient>jambon</ingredient>, les pâtes et les herbes <ingredient>fraîches</ingredient> émincées, mélanger intimement le tout. voilà, c’ est un <recipient>plat</recipient> qui se déguste frais en été! on peut ajouter une petite tomates épépinée et émincée très finement un petit rosé bien <ingredient>frais</ingredient> type côte de provence
+]]>
+ </preparation>
+</recette>

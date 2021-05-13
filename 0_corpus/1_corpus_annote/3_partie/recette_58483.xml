@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58483">
+ <titre>Salade composée facile</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Laitue</p>
+ <p>4 œufs durs</p>
+ <p>Tomates cerises</p>
+ <p>Dés de fromages (gruyère, gouda, mimolette...) </p>
+ <p>Olives noires</p>
+ <p>Dés de jambon blanc</p>
+ <p>Vinaigrette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver la <ingredient>laitue</ingredient>. mettre les feuilles dans un <recipient>saladier</recipient>. cuire les <ingredient>œufs</ingredient>. ajouter sur la salade les <ingredient>dés</ingredient> de <ingredient>fromages</ingredient>, les <ingredient>tomates cerises</ingredient>, les <ingredient>dés de jambon</ingredient>, les <ingredient>olives noires</ingredient> et les <ingredient>œufs durs</ingredient> coupés en quartiers. <operation>faire une <ingredient>vinaigrette</ingredient> dans un bol à part</operation>. je <operation>fais la <ingredient>vinaigrette</ingredient> à part comme ça chacun</operation> met la quantité qu’ il veut. je sers la salade avec une quiche.
+]]>
+ </preparation>
+</recette>

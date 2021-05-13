@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28980">
+ <titre>Gratin de pommes caramélisées</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes</p>
+ <p>150 g de beurre</p>
+ <p>200 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>50 cl de lait</p>
+ <p>2 cuillerées à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et <operation>coupez les pomems en lamelles</operation>. <operation>faites les</operation> cuire avec 100 g de beurre à la <recipient>casserole</recipient> à feu doux. quand elles sont tendres, <operation>ajoutez 150 g de</operation> <ingredient>sucre</ingredient> et <operation>laissez caraméliser</operation>. versez dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. <operation>faites chauffer le beurre</operation> restant et la farine. <operation>versez le lait</operation> et <operation>laissez épaissir comme pour une béchamel assez liquide</operation>. <operation>ajoutez le <ingredient>sucre</ingredient></operation> restant, <operation>laissez tiédir</operation> puis <operation>ajoutez les <ingredient>oeufs</ingredient></operation> battus en omlette. <operation>versez sur les</operation> <ingredient>pommes</ingredient> et <operation>faites cuire 25 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

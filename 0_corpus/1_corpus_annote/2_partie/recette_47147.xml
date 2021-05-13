@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47147">
+ <titre>Quiche aux 3 fromages</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de bleu d’ Auvergne </p>
+ <p>100 g de Sainte-Maure (bûchette de chèvre cendrée) </p>
+ <p>1 boule de mozzarella</p>
+ <p>2 œufs + 2 jaunes</p>
+ <p>25 cl de lait</p>
+ <p>25 cl de crème fraîche</p>
+ <p>10 g de beurre</p>
+ <p>1 pincée de noix de muscade</p>
+ <p>sel, poivre 5 baies</p>
+ <p>1 pâte brisée (ou feuilletée, sans pré cuisson alors) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>allumez le <recipient>four</recipient> à thermostat 6 (180 ° c</operation>). beurrez et <operation>farinez le <recipient>moule</recipient> (pour</operation> gagner du temps, vous pouvez utiliser du papier cuisson). <operation>etalez la</operation> <ingredient>pâte</ingredient> et <operation>faites - la précuire à blanc pendant 10 min</operation>. <operation>coupez les fromages en morceaux</operation>. battez les <ingredient>œufs +</ingredient> les 2 <ingredient>jaunes</ingredient> avec le lait, la <ingredient>crème fraîche</ingredient>, la <ingredient>noix muscade</ingredient>, le <ingredient>sel</ingredient> et le poivre. répartissez les morceaux de fromages sur le fond de tarte, puis <operation>versez</operation> dessus la préparation aux <ingredient>œufs</ingredient>. <operation>enfournez environ 25 à 30 min</operation>. vous pouvez déguster cette quiche aussi bien chaude que froide, accompagnée d’ une petite salade, pour un <recipient>plat</recipient> rapide et léger!
+]]>
+ </preparation>
+</recette>

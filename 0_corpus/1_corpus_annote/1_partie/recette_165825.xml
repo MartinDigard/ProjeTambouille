@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165825">
+ <titre>Kebab algerois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 hauts de cuisses de poulet</p>
+ <p>1 kg de pomme de terre</p>
+ <p>1 oignon balnc</p>
+ <p>2 oeufs</p>
+ <p>persil plat</p>
+ <p>1 filet de citron</p>
+ <p>huile de tournesol ou mais (au choix) </p>
+ <p>Huile pour friture</p>
+ <p>1/2 cuillère à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir <ingredient>oignon</ingredient> et le <ingredient>poulet</ingredient> dans un peu d’ huile de <ingredient>tournesol</ingredient> (ou maïs) et une noix de beurre</operation>. mouiller avec environ un bon verre d’ eau et <operation>laisser cuire le <ingredient>poulet</ingredient> en fin de cuisson</operation> ajouter la canelle. entre temps, couper les <ingredient>pommes de terre</ingredient> en frite et les <operation>faire frire</operation>, retirer du feu et les plonger dans la sauce. battre les <ingredient>oeufs</ingredient> et y ajouter environ 2 <ingredient>cuillère</ingredient> à soupe de <ingredient>persil</ingredient> haché et le <ingredient>filet de citron</ingredient>, bien battre le tout et verser ser la préparation du <ingredient>poulet</ingredient> (mélanger à peine) et <operation>laisser cuire environ 1 min</operation> et eteindre <operation>servir chaudvous</operation> pouvez émietter le <ingredient>poulet</ingredient> pour éviter les os.
+]]>
+ </preparation>
+</recette>

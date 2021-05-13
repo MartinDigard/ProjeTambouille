@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20870">
+ <titre>Pâtes aux aubergines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de macaronis</p>
+ <p>3 aubergines grandes</p>
+ <p>1 boîte de sauce tomate</p>
+ <p>pain râpé</p>
+ <p>huile</p>
+ <p>sel</p>
+ <p>2 oeufs</p>
+ <p>fromage râpé (mais seulement à la fin, et si vous voulez) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez de l’ eau</operation> salée à <operation>bouillir pour les pâtes dans une <ingredient>grande</ingredient> <recipient>marmite</recipient> ; pendant ce temps</operation> faites chauffer à feu doux 15 mn la <ingredient>sauce tomate</ingredient> dans une petite <recipient>casserole</recipient> avec une cuillère d’ huile. <operation>lavez les</operation> <ingredient>aubergines</ingredient></operation> et <operation>coupez - les en tranches fines, sans les</operation> éplucher. <operation>prenez une assiette</operation> et remplissez - la avec du <ingredient>pain râpé</ingredient> ; dans une assiette creuse <operation>mettez les <ingredient>oeufs</ingredient> et battez - les avec une fourchette</operation>. puis passez les tranches d’ <ingredient>aubergines</ingredient> dans les <ingredient>oeufs</ingredient> et immédiatement après passez elles aussi dans le <ingredient>pain râpé</ingredient>. de cette manière vous <operation>avez les <ingredient>aubergines</ingredient></operation> panées. <operation>jetez les pâtes à l’ eau et pendant que vous les</operation> <operation>faites bouillir</operation>, <operation>prenez une <recipient>poêle</recipient> à frire</operation> <operation>versez y de l’</operation> <ingredient>huile</ingredient>, <operation>faites - le chauffer et y</operation> verser les <ingredient>aubergines</ingredient>. <operation>enlevez du feu la <ingredient>sauce</ingredient>, et quand les pâtes sont</operation> prêtes <operation>égouttez - les (12 mn environ de cuisson</operation>). dans un <recipient>plat</recipient> <operation>mettez les pâtes avec la <ingredient>sauce</ingredient> et les <ingredient>aubergines</ingredient></operation> frites. si vous voulez vous pouvez mettre les pâtes aussi dans le <recipient>four</recipient> pour les <operation>faire gratiner avec du <ingredient>pain</ingredient> et du <ingredient>fromage</ingredient> râpé</operation>
+]]>
+ </preparation>
+</recette>

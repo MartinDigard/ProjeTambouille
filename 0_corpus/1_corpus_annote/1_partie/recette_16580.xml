@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16580">
+ <titre>Fruits caramélisés au yaourt</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de raisin blanc</p>
+ <p>2 pommes rouges</p>
+ <p>2 poires</p>
+ <p>2 yaourts au goût vanille</p>
+ <p>2 cuillères à soupe de sucre brun</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en deux et épépiner les <ingredient>raisins</ingredient>, <ingredient>pommes</ingredient> et <ingredient>poires</ingredient>. <operation>faire des dés avec les <ingredient>poires</ingredient> et les <ingredient>pommes</ingredient></operation>. mettre les fruits dans un <recipient>plat</recipient> à gâteau et verser le <ingredient>yaourt</ingredient> dessus. eparpiller le <ingredient>sucre</ingredient> et caraméliser sous le grill du <recipient>four</recipient>. <operation>servir directement</operation>.
+]]>
+ </preparation>
+</recette>

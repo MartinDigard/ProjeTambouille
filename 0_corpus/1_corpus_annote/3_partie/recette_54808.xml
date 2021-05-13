@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54808">
+ <titre>Risotto aux légumes verts</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de risotto</p>
+ <p>1 litre de bouillon de légumes</p>
+ <p>80 g de beurre</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 verre de vin blanc</p>
+ <p>100 g de haricots verts</p>
+ <p>100 g de fèves surgelées</p>
+ <p>100 g de petits pois surgelés</p>
+ <p>100 g d’ asperges surgelées</p>
+ <p>Persil</p>
+ <p>100 g de parmesan</p>
+ <p>Huile</p>
+ <p>Poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation>pelez et hachez l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient>,</operation> puis <operation>faites les</operation> <operation>revenir dans l’</operation> huile. <operation>préparez le <ingredient>bouillon</ingredient></operation>. <operation>ajoutez le riz</operation>, <operation>mélangez parfaitement</operation> et versez le <ingredient>vin blanc</ingredient>. <operation>laissez évaporer</operation>. <operation>coupez les <ingredient>haricots</ingredient> et les <ingredient>asperges</ingredient> en tronçons</operation>. quand le liquide est absorbé, <operation>ajoutez tous les</operation> <ingredient>légumes</ingredient> et <operation>recouvrez de <ingredient>bouillon</ingredient></operation>. remuez et <operation>laissez mijoter en</operation> mélangeant. lorsque le liquide est absorbé, <operation>versez du <ingredient>bouillon</ingredient> par louches</operation> et <operation>poursuivez la cuisson</operation>. (le riz ne doit jamais cuire à gros <ingredient>bouillon</ingredient>, il doit " chuchoter " sur le feu). quand le riz est cuit, <operation>poivrez légèrement</operation>, <operation>ajoutez le beurre en morceaux et le <ingredient>parmesan</ingredient></operation>. <operation>mélangez</operation> puis <operation>ajoutez le</operation> <ingredient>persil</ingredient> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

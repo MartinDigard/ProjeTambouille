@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55425">
+ <titre>Crumble d’ ananas aux spéculoos</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boîtes d’ ananas au sirop</p>
+ <p>une grosse poignée de raisins secs</p>
+ <p>environ 10 spéculoos</p>
+ <p>2 cuillères à soupe de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites macérer les <ingredient>raisins</ingredient> dans le <ingredient>sirop</ingredient> des <ingredient>ananas</ingredient></operation>. <operation>portez le tout à ébullition</operation> puis <operation>laissez réduire</operation>. mixez grossièrement les biscuits avec la <ingredient>noix de coco</ingredient>. répartissez l’ ananas dans 4 petits ramequins ou 3 moyens, <operation>saupoudrez de poudre de biscuits, les</operation> <ingredient>raisins</ingredient> puis <operation>enfournez le temps de</operation> colorer la croûte. servez tiède avec de la crème fouettée, mascarpone ou fromage blanc.
+]]>
+ </preparation>
+</recette>

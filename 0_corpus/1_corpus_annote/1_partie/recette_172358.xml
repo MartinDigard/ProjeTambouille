@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172358">
+ <titre>Tarte à la crème de spéculoos</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>10 spéculoos</p>
+ <p>3 oeufs</p>
+ <p>1 citron</p>
+ <p>100 g de sucre</p>
+ <p>300 g de mascarpone</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire la <ingredient>pâte</ingredient> à blanc</operation>. mélanger les 3 jaunes d’ <ingredient>oeufs</ingredient>, le <ingredient>sucre</ingredient>, le <ingredient>mascarpone</ingredient>. y incorporer 7 speculos finement mixés ainsi que le zeste du <ingredient>citron</ingredient>. monter les blancs en neige et les introduire à la préparation. verser le tout sur la <ingredient>pâte</ingredient> et saupoudrer de 3 speculos grossièrement émiettés. <operation>laisser reposer au <recipient>réfrigérateur</recipient> minimum 24 heures</operation>. plus la tarte repose au <recipient>réfrigérateur</recipient>, meilleure elle sera.
+]]>
+ </preparation>
+</recette>

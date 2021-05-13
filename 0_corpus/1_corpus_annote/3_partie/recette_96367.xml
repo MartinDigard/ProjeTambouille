@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96367">
+ <titre>Crumble au potimarron, noix et comté</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>650g de potimarron</p>
+ <p>25g de comté (ou parmesan, gruyère) </p>
+ <p>25g de beurre</p>
+ <p>50g de farine</p>
+ <p>quelques noix</p>
+ <p>sel, poivre, cannelle, muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>potimarron</ingredient> dans une <recipient>poêle</recipient> avec un peu de beurre (il n’ est pas nécessaire de l’</operation> éplucher) jusqu’ à <operation>obtenir une purée avec du <ingredient>sel</ingredient>, du poivre, de la <ingredient>cannelle</ingredient>, de la <ingredient>muscade</ingredient></operation>. dans un récipient, <operation>faire un beurre pommade</operation>. concasser les <ingredient>noix</ingredient>, râper le fromage et l’ ajouter au beurre. ajouter la farine, on doit <operation>obtenir une pâte sableuse</operation>. ajouter ces miettes sur la purée de <ingredient>potimarron</ingredient> que l’ on aura mise dans des ramequins. <operation>faire cuire au <recipient>four</recipient> 20 minutes</operation> et <operation>finir par quelques minutes sous le grill</operation>.
+]]>
+ </preparation>
+</recette>

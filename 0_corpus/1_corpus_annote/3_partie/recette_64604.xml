@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64604">
+ <titre>Soupe courte de belle-maman</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de spaghetti</p>
+ <p>1 gousse d’ ail</p>
+ <p>1/2 oignon émincé</p>
+ <p>4 côtelettes d’ agneau</p>
+ <p>400 g de tomates concassées</p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>herbes de provence</p>
+ <p>huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre de l’ huile d’ olive dans une <recipient>cocotte</recipient>, y <operation>faire revenir les <ingredient>côtelettes</ingredient>, puis l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient></operation> écrasé. saler, poivrer et mettre les <ingredient>herbes</ingredient>. bien <operation>faire dorer le tout</operation>. ajouter le coulis et le <ingredient>concentré</ingredient>, <operation>couvrir d’ eau au 3/4 de la <recipient>cocotte</recipient>, goûter le jus</operation>, ajouter du <ingredient>sel</ingredient> et du poivre si nécessaire. fermer la <recipient>cocotte</recipient>, <operation>laisser cuire 15 à 20 minutes</operation>. un quart d’ heure avant de passer à table, <operation>faire chauffer de l’ eau jusqu’ à ébullition et y</operation> mettre les <ingredient>spaghetti</ingredient>. une fois les <ingredient>spaghetti</ingredient> cuits, <operation>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

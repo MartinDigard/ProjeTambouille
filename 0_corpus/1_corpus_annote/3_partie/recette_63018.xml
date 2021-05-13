@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63018">
+ <titre>Soupe rose d’ automne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 betteraves rouges crues</p>
+ <p>1/2 chou blanc</p>
+ <p>2 pommes</p>
+ <p>2 feuilles de laurier</p>
+ <p>2 clous de girofle</p>
+ <p>3 cuillères à soupe de farine, si possible complète</p>
+ <p>sel, poivre</p>
+ <p>1 bouillon cube</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+râper les <ingredient>betteraves</ingredient>, émincer finement le <ingredient>chou</ingredient> en lanières et détailler les <ingredient>pommes</ingredient> en dés. <operation>faire rissoler les <ingredient>betteraves</ingredient> et le <ingredient>chou</ingredient> dans une <recipient>cocotte</recipient></operation>. saupoudrer de <ingredient>farine</ingredient>, ajouter les <ingredient>pommes</ingredient>, le <ingredient>laurier</ingredient>, les clous de <ingredient>girofle</ingredient>, le <ingredient>bouillon cube</ingredient>, <ingredient>sel</ingredient> et <ingredient>poivre</ingredient>. <operation>couvrir avec 1 litre d’ eau</operation>. <operation>laisser cuire à feu doux 30 minutes, puis mixer</operation>. servir bien chaud, avec un peu de crème fraîche.
+]]>
+ </preparation>
+</recette>

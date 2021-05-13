@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62485">
+ <titre>Poulet à la gueuze, sauce aux pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>25 cl de bière Gueuze</p>
+ <p>4 pommes</p>
+ <p>1 oignon</p>
+ <p>1/2 cube de bouillon de poule</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>fécule de maïs</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epicez l’ intérieur du <ingredient>poulet</ingredient> de <ingredient>sel</ingredient> et de poivre et <operation>farcissez le avec une <ingredient>pomme</ingredient></operation> coupée en quartiers. faîtes fondre un peu de beurre dans une <recipient>casserole</recipient> et <operation>faites - y</operation> dorer le <ingredient>poulet</ingredient> de tous les côtés. <operation>salez</operation> et <operation>poivrez</operation>. <operation>retirez le</operation> <ingredient>poulet</ingredient> et <operation>jetez la graisse de cuisson</operation>. dans la même <recipient>casserole</recipient>, faîtes fondre un peu de beurre et faîtes - y <operation>revenir l’ <ingredient>oignon</ingredient></operation> émincé. <operation>ajoutez - y les 3 dernières <ingredient>pommes</ingredient></operation> coupées en tranches, <operation>saupoudrez de <ingredient>cannelle</ingredient></operation>. remuez et <operation>laissez cuire un court instant</operation>. <operation>remettez le <ingredient>poulet</ingredient> dans la <recipient>casserole</recipient> et arrosez - le de gueuze</operation>. emiettez le demi-cube de <ingredient>bouillon de poule</ingredient> dans la <recipient>casserole</recipient>. <operation>couvrez</operation> et <operation>laissez mijoter pendant 1 h à 1 h 15</operation>. <operation>retirez le <ingredient>poulet</ingredient> de la <recipient>casserole</recipient></operation> et liez la sauce avec la <ingredient>fécule de maïs</ingredient>. c’ est prêt! bon appétit! pas de vin, mais de la gueuze
+]]>
+ </preparation>
+</recette>

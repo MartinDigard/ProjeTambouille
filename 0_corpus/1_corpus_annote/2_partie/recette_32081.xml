@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32081">
+ <titre>Lasagne saumon et poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de filet de saumon</p>
+ <p>4 poireaux</p>
+ <p>1 verre de vin blanc</p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>50 g de beurre + 40 g de farine</p>
+ <p>1/2 l de lait</p>
+ <p>1 citron</p>
+ <p>anneth (on peut prendre de l’ aneth déshydraté) </p>
+ <p>sel et poivre</p>
+ <p>parmesan râpé (fraîchement, si possible) </p>
+ <p>15 cl de crème fraîche liquide</p>
+ <p>250 g de pâtes pour lasagne (prévoir un peu plus selon le plat utilisé) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire le <ingredient>saumon</ingredient> au <recipient>four</recipient> (180 ° c) en</operation> rajoutant en peu d’ eau dans le <recipient>plat</recipient> de cuisson. <operation>laisser cuire jusqu’ à ce qu’ il soit</operation> traversé (dépend de l’ épaisseur du <ingredient>filet</ingredient>). pendant ce temps, émincez les <ingredient>poireaux</ingredient> et <operation>faites - les</operation> cuire avec le <ingredient>filet</ingredient> d’ <ingredient>huile</ingredient> dans une <recipient>casserole</recipient>. ajoutez le <ingredient>vin blanc</ingredient> pendant le cuisson. <operation>salez et</operation> <operation>poivrez</operation> <operation>attendez que les <ingredient>poireaux</ingredient> soient</operation> fondants. avec 40 g de <ingredient>beurre</ingredient>, la farine et le lait <operation>réalisez une sauce</operation> béchamel. <operation>salez et</operation> <operation>poivrez</operation>. une fois la béchamel onctueuse, <operation>ajoutez l’ aneth et le jus d’ 1/2 <ingredient>citron</ingredient></operation>. emiettez le <ingredient>filet de saumon</ingredient>. dans votre <recipient>plat</recipient> à <ingredient>lasagne</ingredient> préalablement beurré, <operation>disposez: une couche de</operation> <ingredient>pâtes</ingredient>, <operation>saupoudrez de <ingredient>parmesan</ingredient>, une couche de béchamel, une couche de <ingredient>saumon</ingredient> émietté, une de</operation> fondant de <ingredient>poireaux</ingredient>, puis une nouvelle couche de <ingredient>pâtes</ingredient> et ainsi de suite jusqu’ à épuisement des ingrédients... <operation>finissez par une couche de <ingredient>pâtes</ingredient></operation> arrosé d’ un <ingredient>filet</ingredient> de <ingredient>crème</ingredient>, puis saupoudrez généreusement de <ingredient>parmesan</ingredient>. <operation>finissez par quelques petites noix de <ingredient>beurre</ingredient></operation>. enfournez à 200 ° c. et attendre que ce soit cuit (environ 3/4 d’ heure) <ingredient>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

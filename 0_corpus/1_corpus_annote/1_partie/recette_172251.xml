@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172251">
+ <titre>Verrine de brocolis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bouquets de brocolis</p>
+ <p>10 cl de crème liquide</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>muscade</p>
+ <p>Prosciutto pour le décor</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>brocolis</ingredient> à la vapeur pendant 10 min</operation>. pendant ce temps, <operation>faire chauffer la <ingredient>crème</ingredient> à feu doux avec le <ingredient>sel</ingredient>, le poivre, et une pointe de <ingredient>muscade</ingredient> dans une <recipient>poêle</recipient></operation>. <operation>faire griller le jambon en petits morceaux, sans matière grasse</operation>. une fois cuit, mixer le <ingredient>brocolis</ingredient> avec un peu de jus de cuisson. verser dans un verre la purée de <ingredient>brocolis</ingredient>, verser par dessus <ingredient>crème liquide</ingredient> et décorer avec le jambon. bordeaux rouge
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48485">
+ <titre>Tartare de boeuf façon coco</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tranche de boeuf (gite de noix) </p>
+ <p>2 tomates cerises</p>
+ <p>persil frais</p>
+ <p>1/2 oignon</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez la <ingredient>tranche de boeuf</ingredient> en petits morceaux (une <ingredient>tranche de boeuf</ingredient> par personnes), et <operation>émincez le <ingredient>persil</ingredient>, l’ <ingredient>oignon</ingredient> et les <ingredient>tomates</ingredient></operation>. <operation>mélangez le tout à la viande</operation>, <operation>formez un steak pour le</operation> <operation>maintenir,</operation> et <operation>déposez un verre assez large autour du steak</operation>. avant de le <operation>faire cuire, placez quelques secondes au <ingredient>frais</ingredient></operation>. <operation>faites ensuite</operation> <operation>revenir le steak avec un filet d’ huile d’</operation> olive 1 à 2 min de chaque côté, dans une <recipient>poêle</recipient> très chaude. <operation>servir avec une julienne de légumes " type surgelés ": carottes</operation>, <operation>céleris, courgettes</operation> ; revenus avec un filet de jus de citron. bon appétit!
+]]>
+ </preparation>
+</recette>

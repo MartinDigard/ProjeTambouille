@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26833">
+ <titre>Gâteau tigré</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>2 paquets de levure chimique</p>
+ <p>100 g de sucre semoule</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>20 cl de crème fraîche liquide</p>
+ <p>3 oeufs</p>
+ <p>60 g de vermicelles en chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>plat</recipient>, mettre la farine, la <ingredient>levure chimique</ingredient>, le <ingredient>sucre semoule</ingredient>, le <ingredient>sucre vanillé</ingredient>, le <ingredient>sel</ingredient>, incorporer la <ingredient>crème fraîche liquide</ingredient>, les <ingredient>oeufs</ingredient>, et remuer avec un batteur électrique et ensuite ajouter les <ingredient>vermicelles en chocolat</ingredient>. ensuite beurrer un <recipient>moule</recipient> à gâteau et <operation>faites cuire au <recipient>four</recipient> à 150 ° c pendant 25 à 30 mn</operation>.
+]]>
+ </preparation>
+</recette>

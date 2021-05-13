@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48036">
+ <titre>Lasagnes courgettes-tomates sauce roquefort</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 petites courgettes</p>
+ <p>2 tomates</p>
+ <p>une portion de roquefort</p>
+ <p>vin blanc</p>
+ <p>quelques feuilles de lasagnes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire les <ingredient>courgettes</ingredient> à la vapeur pendant 10 minutes</operation>. pendant la cuisson des <ingredient>courgettes</ingredient>, mélangez le <ingredient>vin blanc</ingredient> avec le <ingredient>roquefort</ingredient> dans une <recipient>casserole</recipient> à feu doux jusqu’ à épaississement de la sauce. <operation>coupez les <ingredient>tomates</ingredient> en tranches</operation>. une fois la sauce prête, <operation>versez -en au fond d’ un <recipient>plat</recipient> à <ingredient>lasagnes</ingredient></operation>. <operation>recouvrez le fond de <ingredient>feuilles</ingredient> à <ingredient>lasagnes</ingredient>,</operation> puis <operation>mettez une couche de <ingredient>courgettes</ingredient></operation>. versez ensuite un peu de sauce, placez les <ingredient>feuilles de lasagnes</ingredient>, une couche de <ingredient>tomates</ingredient>, un peu de sauce, et <operation>renouvelez l’ opération jusqu’ au dessus du <recipient>plat</recipient></operation>. <operation>versez une dernière fois la sauce,</operation> puis <operation>recouvrez le dessus avec du gruyère râpé</operation>. mettre à <recipient>four</recipient> chaud à 180 ° c (thermostat 6) pendant 25 min, puis 5 minutes au grill pour gratiner le dessus.
+]]>
+ </preparation>
+</recette>

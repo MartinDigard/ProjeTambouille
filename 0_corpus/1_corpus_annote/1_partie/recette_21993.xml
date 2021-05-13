@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21993">
+ <titre>Petits pots de crème chocolatée aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la crème: </p>
+ <p>125 g de chocolat</p>
+ <p>3 cuillères à soupe d’ eau</p>
+ <p>3 oeufs entiers</p>
+ <p>50 g de sucre semoule</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>Pour la décoration: </p>
+ <p>30 g d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> avec l’ <ingredient>eau</ingredient> dans une <recipient>casserole</recipient> à feu très doux</operation>. battre les jaunes d’ oeufs avec le <ingredient>sucre</ingredient> jusqu’ à l’ obtention d’ un mélange mousseux. ajouter la <ingredient>crème fraîche</ingredient>, puis le <ingredient>chocolat</ingredient> fondu au mélange mousseux et bien mélanger. verser ce mélange dans la <recipient>casserole</recipient>, puis <operation>faire épaissir à feu très doux sans</operation> cesser de remuer. pendant ce temps, monter les blancs en neige très ferme, puis les incorporer au mélange hors du feu. enfin, verser la <ingredient>crème</ingredient> dans des pots (ou ramequins) individuels puis <operation>laisser reposer 2 h</operation> minimum au frais. au moment de <operation>servir</operation>, saupoudrer les <ingredient>crèmes</ingredient> d’ amandes <ingredient>effilées</ingredient> et déguster.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28714">
+ <titre>Crème pâtissière facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>60 g de farine</p>
+ <p>80 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le lait avec le parfum</operation> choisi (vanille ou autre). battre les <ingredient>oeufs</ingredient> et le <ingredient>sucre</ingredient>, ajouter la farine. verser dessus le lait chaud. remettre à feu doux pour <operation>faire épaissir en</operation> remuant très soigneusement pendant 5 à 10 min. arrêter la cuisson dès les premiers bouillonnements.
+]]>
+ </preparation>
+</recette>

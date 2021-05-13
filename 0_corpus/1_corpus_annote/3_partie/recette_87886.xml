@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87886">
+ <titre>Mousse au chocolat de maman</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tablette au chocolat meunier (200 g) </p>
+ <p>50 g de beurre</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>6 œufs</p>
+ <p>1 petit pot de crème fraîche (10cl) Pour la déco: 2 carrés de chocolat blanc et des grains de noisette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le beurre dans une <recipient>casserole</recipient></operation>. garder 40 g de <ingredient>chocolat</ingredient> et casser le reste en morceaux. ajouter le <ingredient>chocolat</ingredient> au beurre, <operation>faire cuire à feu doux et bien</operation> remuer puis <operation>obtenir un mélange " lisse</operation> ". <operation>laisser refroidir le mélange</operation>. pendant ce temps, casser les <ingredient>œufs</ingredient> en séparant les jaunes des <ingredient>blancs</ingredient>. mélanger les jaunes au <ingredient>sucre</ingredient> puis ajouter le mélange (<ingredient>chocolat</ingredient> - <ingredient>beurre</ingredient>) et <ingredient>la crème fraîche</ingredient>. monter les <ingredient>blancs</ingredient> en neige et les incorporer dans le mélange. <operation>veillez à bien</operation> soulever votre <ingredient>cuillère</ingredient> en bois pour aérer au maximum le mélange, la mousse en sera plus légère. <operation>mettez le mélange dans des ramequins individuels</operation>. pour la décoration, <operation>râpez le reste de <ingredient>chocolat</ingredient> noir en morceau</operation>. faites de même avec le <ingredient>chocolat blanc</ingredient>. <operation>saupoudrez la mousse avec ces copeaux de <ingredient>chocolat</ingredient> ainsi que des morceaux de <ingredient>noisette</ingredient></operation>. bonne dégustation!
+]]>
+ </preparation>
+</recette>

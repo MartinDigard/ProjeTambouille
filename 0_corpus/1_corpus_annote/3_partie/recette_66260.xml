@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66260">
+ <titre>Colin aux piments</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 darnes de colin</p>
+ <p>3 oignons</p>
+ <p>2 piments forts</p>
+ <p>4 tomates</p>
+ <p>2 poivrons</p>
+ <p>100 g de farine</p>
+ <p>huile d’ arachide</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et épongez les <ingredient>darnes de colin</ingredient>, <operation>salez</operation> et <operation>poivrez - les</operation>. passez - les légèrement dans la farine et <operation>faites - les dorer dans une <recipient>poêle</recipient> avec un peu d’ <ingredient>huile</ingredient></operation>. <operation>egouttez</operation> et <operation>réservez</operation>. <operation>faire fondre les <ingredient>oignons</ingredient> et les <ingredient>poivrons</ingredient></operation> émincés. <operation>ajoutez les <ingredient>tomates</ingredient></operation> épluchées, égrainées et coupées en petits morceaux et les <ingredient>piments</ingredient> entiers. <operation>laissez cuire 10 minutes</operation>. <operation>salez</operation>, <operation>poivrez</operation>, <operation>mouillez avec 1 verre d’ eau</operation>. <operation>faites cuire doucement à couvert pendant 10 minutes</operation> puis <operation>ajoutez les tranches de <ingredient>colin</ingredient></operation>. <operation>laissez mijoter encore 5 à 8 min</operation>.
+]]>
+ </preparation>
+</recette>

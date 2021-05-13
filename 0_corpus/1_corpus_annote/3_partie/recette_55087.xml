@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55087">
+ <titre>Boeuf à l’ africaine rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de viande de boeuf</p>
+ <p>500 g d’ épinards surgelés</p>
+ <p>10 cuillères d’ huile (arachide ou tournesol) </p>
+ <p>1 boîte de tomates pelées</p>
+ <p>2 oignons</p>
+ <p>sel et piment</p>
+ <p>2 cuillères à soupe de pâte d’ arachide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient>viande</ingredient> en lamelles. <operation>faire chauffer l’ <ingredient>huile</ingredient> dans une <recipient>casserole</recipient></operation>. <operation>faire frire les morceaux de <ingredient>viande</ingredient></operation>. ajouter les <ingredient>oignons</ingredient>, <ingredient>tomates</ingredient>, <ingredient>sel</ingredient> et un peu d’ eau. <operation>laisser mijoter pendant 1 à 2 heures à feu doux</operation>. <operation>faire cuire les <ingredient>épinards</ingredient> dans de l’ eau</operation> salée, égoutter et ajouter dans la sauce. diluer la <ingredient>pâte</ingredient> d’ <ingredient>arachide</ingredient> dans un peu d’ eau et ajouter dans la cuisson. <operation>servir avec du riz, manioc ou banane plantain</operation>.
+]]>
+ </preparation>
+</recette>

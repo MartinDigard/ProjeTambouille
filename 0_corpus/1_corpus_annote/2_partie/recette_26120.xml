@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26120">
+ <titre>Potage crémeux aux moules</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 l de moules</p>
+ <p>25 cl de crème</p>
+ <p>100 g de beurre</p>
+ <p>1 citron</p>
+ <p>30 cl de vin blanc sec</p>
+ <p>3 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>2 oeufs</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer et gratter les <ingredient>moules</ingredient> puis les disposer dans une <recipient>cocotte</recipient> avec le <ingredient>bouquet garni</ingredient>. verser le <ingredient>vin</ingredient>, <operation>couvrir</operation> et <operation>laisser cuire à feu</operation> vif jusqu’ à ce que les <ingredient>moules</ingredient> soient ouvertes. ne pas hésiter à bien secouer la <recipient>cocotte</recipient>. egoutter les <ingredient>moules</ingredient> et les décoquiller. récupérer le jus de cuisson et le filtrer. hacher l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient> et les <operation>faire suer dans le beurre</operation>. lorsqu’ ils sont tendres, verser le jus de cuisson des <ingredient>moules</ingredient> et ajouter 1, 25 l d’ eau. <operation>laisser cuire durant 15 minutes</operation>. disposer les <ingredient>moules</ingredient> dans le fond de la soupière. <operation>recouvrir du mélange <ingredient>oeuf</ingredient>, <ingredient>crème</ingredient> et jus de <ingredient>citron</ingredient></operation>. verser le potage chaud dessus. remuer et servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17455">
+ <titre>Tarte aux abricots et aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Une pâte feuilletée</p>
+ <p>100 g de beurre</p>
+ <p>500 g d’ abricots</p>
+ <p>1 oeuf</p>
+ <p>100 g de sucre en poudre</p>
+ <p>125 g d’ amandes effilées</p>
+ <p>1 cuillère à café de vanille en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>allumez le <recipient>four</recipient> th 7 (210 ° c</operation>). couper les <ingredient>abricots</ingredient> en petits morceaux. dans un petit <recipient>saladier</recipient>, <operation>faire fondre le beurre</operation>. ajouter le <ingredient>sucre</ingredient>, l’ <ingredient>oeuf</ingredient> et la <ingredient>vanille en poudre</ingredient>. mélanger bien. dérouler la <ingredient>pâte</ingredient> dans le <recipient>moule</recipient>. répartisser les <ingredient>abricots</ingredient> et les <ingredient>amandes</ingredient> sur tout le fond de la tarte. verser dessus le contenu du <recipient>saladier</recipient>. <operation>faites cuire dans la partie basse du <recipient>four</recipient> 25 mn</operation>.
+]]>
+ </preparation>
+</recette>

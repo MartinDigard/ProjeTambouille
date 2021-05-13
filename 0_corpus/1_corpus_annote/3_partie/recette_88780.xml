@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88780">
+ <titre>Dorade facile au four</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 belle dorade écaillée et vidée par le poissonnier (ou deux moyennes) </p>
+ <p>2 poignées de mie de pain</p>
+ <p>2 échalotes hachées</p>
+ <p>1 oeuf entier</p>
+ <p>1 peu de persil (même séché si pas de frais) </p>
+ <p>1 noisette de beurre</p>
+ <p>5 cl de lait</p>
+ <p>25 cl de vin blanc sec</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir à la <recipient>poêle</recipient>, sans</operation> prendre couleur, les <ingredient>échalotes</ingredient> hachées et le <ingredient>persil</ingredient> ciselé dans une <ingredient>noisette de beurre</ingredient>. ajouter le lait puis la <ingredient>mie de pain</ingredient>. bien écraser. le <ingredient>pain</ingredient> doit boire le lait et <operation>devenir une sorte de pâte onctueuse</operation>. ajouter alors l’ <ingredient>oeuf</ingredient> et bien mélanger. déposer la <ingredient>dorade</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, beurré. <operation>farcir le poisson (à la place des organes</operation> ôtés par <ingredient>le poissonnier</ingredient>). arroser de <ingredient>vin blanc</ingredient> et <operation>faire cuire à 180 ° c (thermostat 6) durant environ 45 minutes</operation>. ajuster la cuisson selon la taille du ou des poissons (demander au <ingredient>poissonnier</ingredient>). <operation>servir avec du riz ou des pommes de terre vapeur</operation>. <operation>farcir la <ingredient>dorade</ingredient> est plus aisé lorsque l’ on</operation> garde la tête du poisson. sinon, ne pas hésiter à bloquer la farce en orientant le ventre du poisson contre les parois du <recipient>plat</recipient>... muscadet
+]]>
+ </preparation>
+</recette>

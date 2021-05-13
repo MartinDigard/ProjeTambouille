@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22300">
+ <titre>Salade aux pommes de terre et poulet</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuisses de poulet</p>
+ <p>4 oeufs</p>
+ <p>100 g de mayonnaise</p>
+ <p>6 pommes de terre</p>
+ <p>20 cornichons</p>
+ <p>2 oignons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>poulet</ingredient> dans une <recipient>poêle</recipient> avec l’ <ingredient>oignon</ingredient></operation> coupé très fin et un peu d’ eau. <operation>faire cuire les <ingredient>oeufs</ingredient> durs</operation>. faire cuire les <ingredient>pommes de terre</ingredient> dans de l’ eau avec un <ingredient>oignon</ingredient>. couper tous les ingrédients en petits morceaux très fins. ecraser les <ingredient>pommes de terre</ingredient>. mélanger tous les ingrédients avec le jus de <ingredient>poulet</ingredient> et de l’ huile d’ olive. assaisonner à votre convenance. servir frais.
+]]>
+ </preparation>
+</recette>

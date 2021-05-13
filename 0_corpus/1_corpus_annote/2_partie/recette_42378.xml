@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42378">
+ <titre>Le Masculin</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une boîte de pâté de tête maison</p>
+ <p>15 cl d’ une bonne huile d’ olive</p>
+ <p>1 cuillère à soupe de pâte de piments au basilic</p>
+ <p>3 tours de moulin d’ un poivre corsé sénégalais</p>
+ <p>1 bonne échalote rose</p>
+ <p>un rameau de romarin</p>
+ <p>30 cl d’ eau</p>
+ <p>20 g d’ un mélange indien d’ épices piquantes, voire âcres </p>
+ <p>gros sel</p>
+ <p>1 cuillère à café bombée de cacao amer</p>
+ <p>200 g de riz parfumé cassé deux fois</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir les <ingredient>échalotes</ingredient></operation> ciselées dans une <recipient>poêle</recipient> enduite d’ huile, et <operation>laissez suer, après avoir</operation> ajouté le <ingredient>poivre sénégalais</ingredient>. <operation>ajoutez le <ingredient>riz</ingredient>, remuez,</operation> et <operation>faites - le dorer</operation>. ajoutez le contenu de la <ingredient>boîte de pâté</ingredient>, <operation>laissez transpirer</operation>. <operation>versez dans un nuage de vapeur, l’ <ingredient>eau</ingredient> sur le <ingredient>riz</ingredient></operation>. intégrez les <ingredient>épices</ingredient>, le <ingredient>gros sel</ingredient>, le <ingredient>romarin</ingredient> préalablement écharné, et le <ingredient>piment</ingredient>. <operation>laissez prendre, et après 18 minutes</operation> <operation>saupoudrez de <ingredient>cacao</ingredient>, et remuez</operation>. servez encore légèrement croquant. cidre bouché
+]]>
+ </preparation>
+</recette>

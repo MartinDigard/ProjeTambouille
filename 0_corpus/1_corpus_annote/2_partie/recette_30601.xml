@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30601">
+ <titre>Salade thaï de boeuf</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 concombres</p>
+ <p>4 oignons</p>
+ <p>650 g de boeuf (faux-filet ou filet) </p>
+ <p>1 cuillère à soupe de coriandre ciselée</p>
+ <p>Pour la sauce: </p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>1 cuillère à soupe de nuoc mam</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 gousse d’ ail pressée</p>
+ <p>1 petit piment coupé en lamelles</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient>sauce</ingredient> avec les ingrédients indiqués. peler et <ingredient>couper</ingredient> en fines rondelles les <ingredient>concombres</ingredient> et <ingredient>oignons</ingredient>, les placer dans un <recipient>plat</recipient>, puis verser dessus 1 <ingredient>cuillère à soupe</ingredient> de <ingredient>sauce</ingredient>. <operation>faire griller la viande de façon à ce qu’ elle</operation> reste saignante. lorsqu’ elle est cuite, la détailler en fines <ingredient>lamelles</ingredient>, les déposer sur les légumes et verser le reste de <ingredient>sauce</ingredient>. parsemer de <ingredient>coriandre ciselée</ingredient>, et <operation>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

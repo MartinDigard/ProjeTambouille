@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83819">
+ <titre>Pitas sucrées/salées</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 pains pita</p>
+ <p>600 g de viande hachée</p>
+ <p>2 gousse d’ ail</p>
+ <p>2 oignons</p>
+ <p>1 grosse poignée de noix</p>
+ <p>2 cuillères à soupe de confiture de figues</p>
+ <p>3 yaourts à la grecque</p>
+ <p>3 tomates pelées</p>
+ <p>1 demi concombre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire la <ingredient>viande hachée</ingredient> avec une gousse d’ <ingredient>ail</ingredient> et un <ingredient>oignon</ingredient>. ajouter des épices selon vos goûts (gingembre, paprika doux, cumin, curry...) une fois cuite <operation>laisser la <ingredient>viande</ingredient> de côté</operation>. dans un mixer, mettre l’ <ingredient>oignon</ingredient> et la gousse d’ <ingredient>ail</ingredient> restante, les <ingredient>noix</ingredient>, les <ingredient>tomates</ingredient>, le <ingredient>concombre</ingredient>, la <ingredient>confiture</ingredient>. ajouter en dernier les <ingredient>yaourts</ingredient> en dernier lieu. mixer le tout jusqu’ à ce que ce soit entièrement lisse. placer au <recipient>réfrigérateur</recipient> au moins 1 heure. humecter les <ingredient>pains pita</ingredient> à l’ eau et les passer au <recipient>four</recipient> afin qu’ ils soient tièdes. dès qu’ ils sont prêts, <operation>garnir de</operation> sauce le <ingredient>pain</ingredient> coupé en deux et ajouter la <ingredient>viande</ingredient>.
+]]>
+ </preparation>
+</recette>

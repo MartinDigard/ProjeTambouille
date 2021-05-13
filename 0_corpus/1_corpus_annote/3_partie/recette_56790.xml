@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56790">
+ <titre>Chinois à la machine à pain</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la brioche: </p>
+ <p>10 cl de lait</p>
+ <p>100 g de beurre fondu</p>
+ <p>2 œufs battu</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>50 g de sucre</p>
+ <p>400 g de farine</p>
+ <p>1 sachet de levure boulangère</p>
+ <p>Pour la crème pâtissière: </p>
+ <p>25 cl de lait</p>
+ <p>50 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>2 cuillères à soupe rase de maïzena</p>
+ <p>2 œufs (pour les jaunes) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients de la <ingredient>brioche</ingredient> dans l’ ordre indiqué dans la map, la mettre sur le programme pâte. pendant ce temps, préparer la <ingredient>crème pâtissière</ingredient>. mettre tous les ingrédients de la <ingredient>crème pâtissière</ingredient> dans un bol assez haut allant au micro-ondes, mélanger à l’ aide d’ un fouet. <operation>couvrir avec un couvercle " vide d’ air " ou un film spécial</operation>. mettre 2 min 30 au <recipient>micro-onde</recipient> à puissance maxi. retirer le couvercle, mélanger et remettre le couvercle. repasser 2 min 30 au micro-ondes. mélanger et <operation>laisser refroidir</operation>. une fois la pâte prête, l’ étaler en un rectangle d’ environ 20x15 cm. étaler la <ingredient>crème pâtissière</ingredient> dessus et déposer des pépites de chocolat, des raisins secs ou des fruits confits. rouler la pâte sur elle-même comme un gâteau roulé, la découper en 7 tronçons. <operation>répartir les tronçons à <recipient>plat</recipient> dans un <recipient>moule</recipient> rond type <recipient>moule</recipient> à</operation> manquer (1 au centre et les autres tout autour comme une fleur). <operation>laisser reposer 20 min</operation>. préchauffer le <recipient>four</recipient> à 175 ° c (thermostat 5 - 6), enfourner le <recipient>chinois</recipient> et <operation>laisser cuire 40 min</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51111">
+ <titre>Soupe au poulet et légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 blancs de poulet</p>
+ <p>250 g de brocoli</p>
+ <p>1 grosse carotte</p>
+ <p>1 oignon</p>
+ <p>2 ou 3 cubes de bouillon de poule (dégraissé) </p>
+ <p>un peu d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettez le <ingredient>poulet</ingredient> dans une <recipient>cocotte</recipient> avec 2 l d’ eau et les <ingredient>bouillons cubes</ingredient>. amenez à ébullition et <operation>laissez cuire 20 à 25 minutes</operation>... <operation>sortez le <ingredient>poulet</ingredient> du <ingredient>bouillon</ingredient> pour le</operation> <operation>faire un peu refroidir</operation>. emincez l’ <ingredient>oignon</ingredient>, tronçonnez la <ingredient>carotte</ingredient> en rondelles et le <ingredient>brocoli</ingredient> en petits bouquets. <operation>faites revenir 5 min à feu doux, dans une <recipient>sauteuse</recipient> avec 1 cuillère à soupe d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient></operation>. pendant ce temps effilochez le <ingredient>poulet</ingredient> en lamelles. <operation>rajoutez les légumes et les lamelles de <ingredient>poulet</ingredient> au</operation> <ingredient>bouillon</ingredient>, <operation>laissez mijoter le tout ensemble pendant 10 min</operation>. <operation>servez</operation>. on peut bien évidemment en <operation>faire une soupe " <recipient>plat</recipient> complet " en</operation> ajoutant 1/2 tasse de riz ou des nouilles chinoises.
+]]>
+ </preparation>
+</recette>

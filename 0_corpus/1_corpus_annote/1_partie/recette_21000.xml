@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21000">
+ <titre>Papillotes de Saint-Jacques aux petits légumes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>16 noix de Saint-jacques</p>
+ <p>2 tomates allongées</p>
+ <p>6 champignons</p>
+ <p>50 g de beurre</p>
+ <p>20 cl de vin blanc</p>
+ <p>1 échalote</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 citron</p>
+ <p>1 pincée de safran</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez les <ingredient>champignons</ingredient>, <operation>coupez les <ingredient>tomates</ingredient> en cubes</operation>. hachez l’ <ingredient>échalote</ingredient>. <operation>faites revenir ces légumes dans une <recipient>poêle</recipient> avec un peu de beurre environ 15 minutes</operation>. une fois qu’ ils sont tendre, <operation>laissez dorer quelques instants à feu vif</operation>. <operation>pelez</operation> et <operation>coupez la gousse d’ <ingredient>ail</ingredient> en 2</operation>. <operation>frottez 4 feuilles d’ aluminium avec</operation> puis <operation>beurrez - les</operation>. <operation>déposez 4 <ingredient>noix</ingredient> dans chaque feuille,</operation> puis <operation>répartissez les <ingredient>tomates</ingredient> aux <ingredient>champignons</ingredient> égouttés</operation>. <operation>salez</operation>, <operation>poivrez</operation>. <operation>saupoudrez de</operation> <ingredient>safran</ingredient> et <operation>déposez des petits <ingredient>noix</ingredient> de beurre</operation>. <operation>fermez les papillotes en</operation> laissant une petite ouverture. versez le <ingredient>vin blanc</ingredient> et le jus du <ingredient>citron</ingredient> dans les papillotes, <operation>fermez</operation> - les et <operation>disposez - les dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. <operation>faites cuire 15 minutes à 200 ° c (thermostat 6 - 7</operation>).
+]]>
+ </preparation>
+</recette>

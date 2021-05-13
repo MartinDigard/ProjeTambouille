@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13587">
+ <titre>Curry de lotte au lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 8 kg de lotte</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>6 tomates mûres</p>
+ <p>400 ml de lait de coco</p>
+ <p>1 cuiller de pâte de curry jaune</p>
+ <p>sel, poivre, un morceau de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les <ingredient>poivrons</ingredient> et les <ingredient>tomates</ingredient></operation>. <operation>coupez les <ingredient>tomates</ingredient> en quartiers et les <ingredient>poivrons</ingredient> en lamelles</operation>. dans une <recipient>sauteuse</recipient> anti-adhésive (si on ne veut pas mettre d’ huile) ou un <recipient>wok</recipient>, <operation>mettez les <ingredient>poivrons</ingredient> et les</operation> <ingredient>tomates</ingredient>, <operation>faites réduire sur feu moyen puis doux jusqu’ à ce qu’ il n’ y</operation> ait plus de jus. <operation>versez le lait de</operation> <ingredient>coco</ingredient>, <operation>délayez le <ingredient>curry</ingredient> et le <ingredient>sucre</ingredient> dans la <recipient>sauteuse</recipient></operation> et <operation>faites chauffer doucement sans</operation> <operation>faire bouillir</operation>. <operation>coupez la <ingredient>lotte</ingredient> en cubes</operation> et versez dans le mélange <ingredient>lait de coco</ingredient> au <ingredient>curry</ingredient> - fondue de <ingredient>poivrons</ingredient> et de <ingredient>tomates</ingredient>. <operation>salez</operation> et <operation>poivrez</operation>. <operation>faites cuire environ 15 à 20 minutes à feu moyen</operation>. <operation>servez avec du riz basmati ou du riz gluant</operation>.
+]]>
+ </preparation>
+</recette>

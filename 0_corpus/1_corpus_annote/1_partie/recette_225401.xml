@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225401">
+ <titre>Salade de haricots verts, blancs et rouges</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de haricots rouges en boîte</p>
+ <p>400 g de haricots blancs en boîte</p>
+ <p>100 g de haricots verts frais</p>
+ <p>1 petit oignon</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de vinaigre balsamique</p>
+ <p>persil frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuisez les <ingredient>haricots verts</ingredient> dans de l’ eau bouillante pendant 5 à 10 min. hachez l’ <ingredient>oignon</ingredient> finement et <operation>mélangez - le avec tous les <ingredient>haricots</ingredient></operation>. <operation>ajoutez le <ingredient>persil</ingredient></operation>. <operation>préparez la vinaigrette avec l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> et le <ingredient>vinaigre</ingredient></operation>. <operation>versez sur la salade avant de</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

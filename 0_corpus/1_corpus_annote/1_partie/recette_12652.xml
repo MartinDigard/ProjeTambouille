@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12652">
+ <titre>Moelleux au chocolat et aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat pâtissier</p>
+ <p>120 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>100 g de sucre</p>
+ <p>3 grosses cuillères à soupe de maïzena</p>
+ <p>20 amandes décortiquées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à thermostat 6/7. sur feu très doux, <operation>faire fondre le beurre et le <ingredient>chocolat</ingredient> en petits morceaux dans un peu d’ eau</operation>. pendant ce temps, battre les <ingredient>oeufs</ingredient> entiers et le <ingredient>sucre</ingredient>, incorporer la <ingredient>maïzena</ingredient> et les <ingredient>amandes</ingredient> coupées en morceaux grossiers. ajouter le mélange <ingredient>chocolat</ingredient> / beurre et verser dans un <recipient>moule</recipient> beurré et fariné. <operation>faire cuire 30 min en</operation> vérifiant la cuisson avec la pointe d’ un couteau qui doit <operation>ressortir encore humide du gâteau</operation>. <operation>servir avec une crème anglaise sauterne ou coteaux-du-layon</operation>
+]]>
+ </preparation>
+</recette>

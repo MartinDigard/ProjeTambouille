@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42943">
+ <titre>Salade de chou blanc bleu</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit chou blanc </p>
+ <p>200 g de fromage à pate bleu (type bleu d’ auvergne) </p>
+ <p>1 bonne cuillère à soupe de moutarde </p>
+ <p>2 cuillères à soupe de vinaigre de vin</p>
+ <p>3 cuillères à soupe de mayonnaise</p>
+ <p>sel et poivre blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez le <ingredient>chou</ingredient> tres finement. <operation>ajoutez le <ingredient>bleu</ingredient></operation> emmietté grossièrement. et assaisonnez avec la <ingredient>mayonnaise</ingredient>, le <ingredient>vinaigre</ingredient>, <ingredient>sel et poivre</ingredient>. <ingredient>bon</ingredient> appétit! c’ est une salade que je <operation>fais souvent en été, pour</operation> accompagner le <recipient>barbecue</recipient>. un rosé d’ anjou
+]]>
+ </preparation>
+</recette>

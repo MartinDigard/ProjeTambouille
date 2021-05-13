@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218537">
+ <titre>Beignets d’ aubergine à l’ indienne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 aubergine</p>
+ <p>120 g de farine</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>2 cuillères à café de coriandre moulue</p>
+ <p>2 cuillères à café de mélange indien (curry, poivre, cumin, cardamone, gingembre) </p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>huile pour frire les beignets</p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez l’</operation> <ingredient>aubergine</ingredient> et <operation>coupez - la en rondelles</operation>. <operation>mélangez la farine, les épices le <ingredient>sel</ingredient> et le poivre</operation>. <operation>ajoutez de l’ <ingredient>eau</ingredient> petit à petit, la pâte ne</operation> doit pas être liquide. plongez les rondelles d’ <ingredient>aubergine</ingredient> dans ce <ingredient>mélange</ingredient> et <operation>faites les immédiatement frire à l’</operation> huile suffisamment chaude. une fois brunis, <operation>épongez doucement les <ingredient>beignets</ingredient> afin qu’ ils soient moins gras</operation> et <operation>servez</operation>. vous pouvez accompagner avec une sauce au yaourt.
+]]>
+ </preparation>
+</recette>

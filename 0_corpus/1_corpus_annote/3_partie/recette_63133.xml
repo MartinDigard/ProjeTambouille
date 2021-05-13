@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63133">
+ <titre>Curry de poulet à la thaïlandaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>175 g de riz basmati</p>
+ <p>2 gousses d’ ail finement hachées</p>
+ <p>2 cuillères à soupe de pâte de curry</p>
+ <p>2 cuillères à café de poudre de curry</p>
+ <p>1 petit piment rouge finement coupé</p>
+ <p>200 g de filet de poulet coupé en lanières</p>
+ <p>1 cuillère à soupe de sauce soja claire</p>
+ <p>1 cuillère à soupe de sauce de poisson thailandaise (nam pla) </p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 échalote finement émincée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>riz</ingredient></operation>. <operation>laisser refroidir</operation>. <operation>faire chauffer l’</operation> huile dans un <recipient>wok</recipient>, y faire revenir l’ <ingredient>ail</ingredient>, la <ingredient>pâte de curry</ingredient> et le <ingredient>piment</ingredient> pendant 2 minutes en remuant. ajouter la <ingredient>poudre de curry</ingredient> et le <ingredient>poulet</ingredient>, <operation>faire sauter le tout en</operation> remuant pendant 5 minutes. ajouter le <ingredient>riz</ingredient> en incorporant la <ingredient>sauce soja</ingredient>, la <ingredient>sauce de poisson</ingredient> et le <ingredient>sucre</ingredient>. <operation>faire chauffer tous les ingrédients en</operation> mélangeant bien. saupoudrer le <recipient>plat</recipient> d’ <ingredient>échalote</ingredient> ciselée. <operation>servir aussitôt</operation>. les produits tels que la <ingredient>pâte de curry</ingredient> et les <ingredient>sauces</ingredient> se trouvent dans les rayons asiatiques des grandes surfaces...
+]]>
+ </preparation>
+</recette>

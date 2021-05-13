@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20857">
+ <titre>Lasagnes au four</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g d’ huile</p>
+ <p>100 g de margarine</p>
+ <p>1 petite boîte de sauce tomate</p>
+ <p>1 grosse boîte de tomates pelées</p>
+ <p>1 oignon</p>
+ <p>150 g de gruyère râpé</p>
+ <p>250 g de boeuf haché</p>
+ <p>250 g de chair à saucisses</p>
+ <p>1 saucisson sec</p>
+ <p>4 oeufs durs</p>
+ <p>3 grosses tranches de jambon</p>
+ <p>1 chorizo</p>
+ <p>500 g de pâtes lasagne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+sauce: <operation>faire revenir l’ <ingredient>oignon</ingredient> dans l’ huile et la margarine</operation>. ajouter la <ingredient>boîte de sauce tomate</ingredient> et 4 volumes de cette <ingredient>boîte</ingredient> d’ eau, saler, poivrer. <operation>laisser cuire 3 mn en</operation> remuant quelques fois. ecraser les <ingredient>tomates pelées</ingredient> puis mélanger à la <ingredient>sauce</ingredient> ainsi que le <ingredient>boeuf</ingredient> et la <ingredient>chair à saucisses</ingredient> cuite. <operation>laisser cuire 30 mn</operation>. préparer une <ingredient>sauce</ingredient> béchamel ou utiliser une <ingredient>sauce</ingredient> prête à l’ emploi. couper en dés le <ingredient>saucisson</ingredient>, le <ingredient>jambon</ingredient> et les <ingredient>oeufs</ingredient>. mettre les plaques de <ingredient>pâtes</ingredient> dans l’ eau bouillante durant 10 mn en s’ assurant qu’ elles ne collent pas. préparation du <recipient>plat</recipient>: mettre un peu de <ingredient>sauce tomate</ingredient> dans le fond du <recipient>plat</recipient> + une couche de <ingredient>pâtes</ingredient> + un peu de <ingredient>sauce</ingredient> béchamel + <ingredient>saucisson</ingredient>, <ingredient>oeufs</ingredient>, <ingredient>jambon</ingredient>, <ingredient>chorizo</ingredient>, sauce <ingredient>tomate</ingredient>, <ingredient>gruyère</ingredient> + couche de <ingredient>pâtes</ingredient> + béchamel + <ingredient>saucisson</ingredient>, <ingredient>oeufs</ingredient>, <ingredient>jambon</ingredient>, <ingredient>chorizo</ingredient>, sauce <ingredient>tomate</ingredient>, <ingredient>gruyère</ingredient>. terminer par une couche de <ingredient>pâtes</ingredient> recouverte de béchamel, sauce tomate et <ingredient>gruyère</ingredient>. mettre au <recipient>four</recipient> th 8 - 9 pendant 30 mn recouvert d’ un alu. bon appétit!
+]]>
+ </preparation>
+</recette>

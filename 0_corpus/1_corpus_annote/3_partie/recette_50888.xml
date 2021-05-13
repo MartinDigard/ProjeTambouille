@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50888">
+ <titre>Gâteau au yaourt façon zazou</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pots de yaourts nature </p>
+ <p>250 g de sucre roux </p>
+ <p>250 g de farine</p>
+ <p>3 oeufs</p>
+ <p>50 g de beurre fondu</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation>versez les <ingredient>yaourts</ingredient> dans le <recipient>saladier</recipient>,</operation> et <operation>gardez les <ingredient>pots</ingredient></operation>. remplissez - les de <ingredient>sucre</ingredient>, et <operation>versez - les aussi</operation>. <operation>faites de même avec la farine</operation>. <operation>cassez les trois <ingredient>oeufs</ingredient> dans le <recipient>saladier</recipient></operation> et ajoutez le beurre et le <ingredient>sachet de levure</ingredient>. <operation>mélangez avec le fouet de façon à</operation> <operation>faire une pâte lisse</operation>. <operation>beurrez le <recipient>moule</recipient>,</operation> puis <operation>versez - y le liquide</operation>. <operation>mettez au <recipient>four</recipient> pour 45 minutes</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80728">
+ <titre>Lapin aux oignons et à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux</p>
+ <p>4 gros oignons</p>
+ <p>1/2 pot de moutarde</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient>lapin coupé en morceaux</ingredient> ainsi que de l’ huile d’ <ingredient>olive</ingredient> dans une <recipient>cocotte</recipient>. <operation>faire cuire 30 min</operation>. pendant ce temps, <operation>pelez l’ <ingredient>oignon</ingredient> et le</operation> <operation>faire revenir dans un peu d’ huile d’ <ingredient>olive</ingredient></operation>. lorsque le <ingredient>lapin</ingredient> a cuit pendant 30 min <operation>rajoutez - y les <ingredient>oignons</ingredient></operation>. puis <operation>faire cuire 15 min</operation>. ensuite <operation>ajoutez la</operation> <ingredient>moutarde</ingredient>, <operation>salez et poivrez</operation> et <operation>laissez mijotez 15 min de plus</operation>. servir chaud et accompagné d’ une bonne purée de pommes de terres.
+]]>
+ </preparation>
+</recette>

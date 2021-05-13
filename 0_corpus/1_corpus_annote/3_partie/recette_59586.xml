@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59586">
+ <titre>Brochettes de poulet fenouil</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de blancs de poulet</p>
+ <p>300 g de tomates cerises</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café de graines de fenouil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les blancs de <ingredient>poulet</ingredient> en cubes réguliers</operation>. <operation>faites - les</operation> <operation>revenir pendant 5 à 6 min à la <recipient>poêle</recipient> dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> bien chaude pour qu’ ils soient</operation> cuits à coeur. <operation>salez</operation> et <operation>poivrez - les</operation>. parsemez de <ingredient>graines de fenouil</ingredient>. alternez - les sur des brochettes avec des <ingredient>tomates cerises</ingredient>.
+]]>
+ </preparation>
+</recette>

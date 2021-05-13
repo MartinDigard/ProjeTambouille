@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25705">
+ <titre>Fricassée de poulet pour tous les jours</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet découpé en morceaux</p>
+ <p>3 tomates pelées, épépinées (ou 1 boîte de concassé de tomates) </p>
+ <p>10 cl de vin blanc</p>
+ <p>10 cl de crème fraîche</p>
+ <p>1 oignon</p>
+ <p>1/2 cuillère à café de paprika</p>
+ <p>30 g de beurre</p>
+ <p>farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>salez</operation> et <operation>poivrez les <ingredient>morceaux</ingredient> de</operation> <ingredient>poulet</ingredient>, <operation>farinez - les</operation>. <operation>faites - les</operation> <operation>revenir avec l’ <ingredient>oignon</ingredient></operation> haché dans le beurre chaud, dans une <recipient>cocotte</recipient>. <operation>laissez dorer le tout</operation> et <operation>saupoudrez de <ingredient>paprika</ingredient></operation>. versez le <ingredient>vin blanc</ingredient> et <operation>ajoutez les <ingredient>tomates</ingredient> grossièrement</operation> hachées. <operation>laissez mijoter 30 min environ</operation>. <operation>retirez le <ingredient>poulet</ingredient> de la <recipient>cocotte</recipient></operation>, <operation>délayez la <ingredient>crème</ingredient> dans la sauce et réchauffez quelques minutes</operation>. <operation>nappez le <ingredient>poulet</ingredient> de sauce</operation> et <operation>servez avec du riz <ingredient>blanc</ingredient> tout simplement, ou des pommes de terre</operation> râpées grillées.
+]]>
+ </preparation>
+</recette>

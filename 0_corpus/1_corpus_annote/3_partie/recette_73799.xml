@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73799">
+ <titre>Cannelloni</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la farce: </p>
+ <p>3 échines de porc</p>
+ <p>1 gousse d’ ail </p>
+ <p>1 œuf</p>
+ <p>200 g de mie de pain trempée dans du lait</p>
+ <p>Pour la sauce: </p>
+ <p>400 g de purée de tomate</p>
+ <p>gros sel</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>poivre</p>
+ <p>herbes de Provence</p>
+ <p>20 cl d’ eau</p>
+ <p>1 cube de bouillon de bœuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour les cannelloni: enlever les os et le gras des <ingredient>échines</ingredient>. couper la viande en morceaux. mixer l’ <ingredient>ail</ingredient> et la viande. mettre dans un <recipient>saladier</recipient> et ajouter un <ingredient>œuf</ingredient> + la <ingredient>mie de pain</ingredient>. mélanger. saler poivrer. farcir les pâtes. pour <ingredient>la sauce</ingredient>, mélanger tous les ingrédients et <operation>faire mijoter 45 minutes</operation>. cuire 35 minutes la <ingredient>sauce</ingredient> et les pâtes farcies à 210 ° c (thermostat 7) dans un <recipient>plat</recipient> adapté au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

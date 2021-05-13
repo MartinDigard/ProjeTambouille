@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13044">
+ <titre>Clace au curaçao</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2L de lait</p>
+ <p>40 g de fécule</p>
+ <p>100 g de sucre en poudre</p>
+ <p>1, 5 dl de curaçao</p>
+ <p>3 jaunes d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la fécule dans 1/2 verre de <ingredient>lait</ingredient>. <operation>faire bouillir le reste de <ingredient>lait</ingredient> avec la <ingredient>sucre</ingredient> et la fécule délayée</operation>. <operation>laisser épaissir quelques minutes sur feu doux en</operation> continuant à remuer. <operation>laisser tiédir</operation>. ajouter l’ alcool puis, en remuant, les <ingredient>jaunes</ingredient> d’ <ingredient>oeufs</ingredient> battus. quand le mélange est homogène, <operation>faire prendre à la <recipient>sorbetière</recipient></operation>.
+]]>
+ </preparation>
+</recette>

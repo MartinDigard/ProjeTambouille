@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88552">
+ <titre>Soupe de légumes à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 grosses pommes de terre</p>
+ <p>6 carottes</p>
+ <p>2 grosses courgettes</p>
+ <p>100 g de petits pois</p>
+ <p>150 g de champignons</p>
+ <p>1 paquet de lardons (125 g) </p>
+ <p>2 oignons</p>
+ <p>ciboulette</p>
+ <p>quelques brins de persil</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>gros sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les légumes en <ingredient>petits</ingredient> carrés et les <operation>faire cuire dans une <recipient>marmite</recipient> d’ eau bouillante</operation> salée avec le <ingredient>bouillon de cube</ingredient> pendant environ 30 minutes. pendant ce temps, <operation>faire revenir dans une <recipient>poêle</recipient> les <ingredient>champignons</ingredient> et les <ingredient>lardons</ingredient> puis les</operation> mélanger aux légumes dans la <recipient>marmite</recipient>. une fois les légumes cuits à point, mixer le tout. <operation>laisser refroidir, c’ est prêt! pour la dégustation, vous</operation> pouvez accompagner cette soupe d’ un peu d’ huile d’ olive, de crème ou de lait selon votre goût.
+]]>
+ </preparation>
+</recette>

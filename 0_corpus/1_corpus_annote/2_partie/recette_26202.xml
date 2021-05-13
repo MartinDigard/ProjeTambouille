@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26202">
+ <titre>Clafoutis au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait entier</p>
+ <p>2 oeufs</p>
+ <p>60 g de beurre</p>
+ <p>125 g de farine</p>
+ <p>120 g de sucre en poudre</p>
+ <p>125 g de pépites de chocolat</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>2 cuillères à soupe de cacao</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le lait, y</operation> ajouter le beurre hors du feu, mélanger jusqu’ à ce que ce soit fondu. dans un <recipient>saladier</recipient> mélanger les <ingredient>oeufs</ingredient> + le <ingredient>sucre</ingredient>, le <ingredient>rhum</ingredient> et de la farine. y incorporer le mélange <ingredient>beurre</ingredient> et <ingredient>lait</ingredient>. <operation>laissez refroidir</operation> et ajouter les <ingredient>pépites</ingredient>. mettre à cuire dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré pendant 30 min à 200 ° c (thermostat 6 - 7). démouler délicatement. saupoudrer de <ingredient>cacao</ingredient>. servir froid.
+]]>
+ </preparation>
+</recette>

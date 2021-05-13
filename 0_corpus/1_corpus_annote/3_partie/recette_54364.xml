@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54364">
+ <titre>Croque-monsieur à la saucisse</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>tranches de pain de mie</p>
+ <p>10 saucisses</p>
+ <p>100 g de gruyère rapé</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mettre les <ingredient>oeufs</ingredient> entiers et mélanger, couper les <ingredient>saucisses</ingredient> en rondelles et rajouter dans le <recipient>saladier</recipient> avec le <ingredient>gruyère rapé</ingredient>. bien mélanger le tout. mettre le mélange entre deux <ingredient>tranches de pain de mie</ingredient> et <operation>faire cuire au croque - monsieur</operation>.
+]]>
+ </preparation>
+</recette>

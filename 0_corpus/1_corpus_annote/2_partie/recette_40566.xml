@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40566">
+ <titre>Cake pommes, raisins et cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>3 à 4 cuillères à café de cannelle en poudre (selon les goûts) </p>
+ <p>1 pincée de sel</p>
+ <p>250 g de sucre</p>
+ <p>100 g de raisins (de Malaga ou de corinthe) </p>
+ <p>125 g de beurre fondu</p>
+ <p>2 gros œufs battus (ou 3 petits) </p>
+ <p>20 cl de lait</p>
+ <p>250 g de pommes pelées et coupées en fines lamelles</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tamisez <ingredient>farine</ingredient>, <ingredient>levure</ingredient>, <ingredient>cannelle</ingredient> et <ingredient>sel</ingredient> dans votre <recipient>saladier</recipient>, <operation>mélangez bien</operation>. <operation>ajoutez</operation> <ingredient>sucre</ingredient> et <ingredient>raisins</ingredient>, <operation>remuez bien</operation>. <operation>incorporez peu à peu le beurre, les œufs, puis le lait et enfin les <ingredient>pommes</ingredient></operation>. <ingredient>battez</ingredient> le tout jusqu’ à obtention d’ un mélange homogène. <operation>versez dans un <recipient>moule</recipient></operation> et <operation>mettez au <recipient>four</recipient> (préchauffé) à 180 ° c (thermostat 6) pendant 1h à 1h15</operation>. le gâteau doit être souple quand on le presse. <operation>démoulez sur une grille</operation>, <operation>laissez refroidir,</operation> puis saupoudrez de <ingredient>sucre glace</ingredient> pour la déco, et éventuellement, <operation>faites une jolie</operation> rosace de <ingredient>lamelles</ingredient> de <ingredient>pommes</ingredient> au centre, parsemée de quelques <ingredient>raisins</ingredient>. <operation>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

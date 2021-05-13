@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222757">
+ <titre>Pâtes sautées au crabe</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de pâtes de riz</p>
+ <p>1 courgette</p>
+ <p>2 carottes</p>
+ <p>1 petit morceau de gingembre</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet de ciboulette</p>
+ <p>240 g de chair et pattes de crabe</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation>, <operation>lavez</operation> et <operation>râpez les <ingredient>carottes</ingredient> et la <ingredient>courgette</ingredient></operation>. pelez et hachez le <ingredient>gingembre</ingredient> et l’ <ingredient>ail</ingredient>, puis hachez la <ingredient>ciboulette</ingredient>. <operation>faites cuire les <ingredient>pâtes</ingredient> dans une grande quantité d’ eau bouillante</operation> salée pendant 1 à 2 min. ensuite, <operation>égouttez les et passez - les sous l’ eau</operation> froide. dans une <recipient>poêle</recipient> (ou un <recipient>wok</recipient>), <operation>faites revenir les légumes avec l’ <ingredient>ail</ingredient> et le <ingredient>gingembre</ingredient> pendant 5 min</operation>. ajoutez la <ingredient>chair</ingredient> et les <ingredient>pattes de crabe</ingredient>, remuez puis <operation>ajoutez les <ingredient>pâtes</ingredient> et la <ingredient>ciboulette</ingredient></operation>. assaisonnez avec la <ingredient>sauce soja</ingredient> et <operation>faites - les</operation> sauter encore 2 à 3 min. <operation>servez aussitôt</operation>. un vin blanc sec et corsé
+]]>
+ </preparation>
+</recette>

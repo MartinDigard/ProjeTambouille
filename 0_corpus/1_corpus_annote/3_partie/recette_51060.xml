@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51060">
+ <titre>Tarte au saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 boites de saumon</p>
+ <p>1 boite de bisque de homard</p>
+ <p>1 pâte brisée</p>
+ <p>3 oeufs entiers</p>
+ <p>50 cl de crème liquide</p>
+ <p>30 g de farine</p>
+ <p>30 g de beurre</p>
+ <p>50 cl de lait</p>
+ <p>1 à 2 cuillères à soupe de persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). emietter les 3 boîtes de <ingredient>saumon</ingredient> sur la <ingredient>pâte</ingredient>. dans un <recipient>saladier</recipient>, mélanger la <ingredient>bisque de homard</ingredient>, les <ingredient>oeufs</ingredient>, la <ingredient>crème liquide</ingredient>, du sel et du poivre. <operation>faire une béchamel</operation>: mélanger la farine au beurre fondu sur feu doux puis ajouter le lait progressivement sans cesser de remuer, la sauce béchamel est prête lorsqu’ elle a épaissi. ajouter la béchamel au mélange précédent puis verser sur le <ingredient>saumon</ingredient>. saupoudrer de <ingredient>persil haché</ingredient> et enfourner pour 30 à 35 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47924">
+ <titre>Salade composée fraicheur</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 salade verte</p>
+ <p>6 tomates</p>
+ <p>1 gruyère</p>
+ <p>1 pot de crème fraîche</p>
+ <p>ciboulette fraîche</p>
+ <p>4 tranches de jambon blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver la salade, l’ effeuiller et la disposer dans un grand <recipient>saladier</recipient>. puis, couper en dès les <ingredient>tomates</ingredient>, le <ingredient>jambon</ingredient> et le <ingredient>gruyère</ingredient>. ajouter le tout à la salade <ingredient>verte</ingredient>. incorporer la <ingredient>crème fraîche</ingredient> salée et poivrée et parsemer de <ingredient>ciboulette fraîche</ingredient>. <operation>servir le tout aussitôt</operation>. pour avoir plus de croquant, vous pouvez ajouter des noix selon la saison.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14540">
+ <titre>Pâte sablée</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>125 g de sucre semoule</p>
+ <p>1 oeuf</p>
+ <p>100 g de beurre</p>
+ <p>1 zeste de citron</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, <operation>délayez l’ <ingredient>oeuf</ingredient> avec le <ingredient>sucre</ingredient> en poudre et une pincée de <ingredient>sel</ingredient></operation>. <operation>mettez la farine sur le plan de travail</operation>, <operation>faites un puits au centre</operation>, versez - y le contenu du bol et le <ingredient>zeste de citron</ingredient>, puis le beurre fondu (surtout pas du beurre liquide!). <operation>malaxez le tout jusqu’ à</operation> <operation>obtenir une pâte homogène</operation>. <operation>etalez la au rouleau</operation>. conseil: si vous <operation>mettez du papier cuisson, l’</operation> <operation>étalez directement dessus et pour les autres, bonnes chances pour la</operation> mettre dans le <recipient>plat</recipient>!!! <operation>faites cuire à <recipient>four</recipient> chaud 12 à 15 mn</operation>. possibilité de mettre du papier alu dessus, pour être sûr que ça ne brûle pas.
+]]>
+ </preparation>
+</recette>

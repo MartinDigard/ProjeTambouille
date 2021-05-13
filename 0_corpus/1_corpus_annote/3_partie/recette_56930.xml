@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56930">
+ <titre>Salade provence ouest de Sophie</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 grosse boîte de haricots verts</p>
+ <p>12 tomates cerise</p>
+ <p>1/2 brique de fromage de chèvre</p>
+ <p>75 g de lardons</p>
+ <p>10 tranches de magrets confits</p>
+ <p>Pour la vinaigrette: </p>
+ <p>huile</p>
+ <p>vinaigre de vin</p>
+ <p>moutarde</p>
+ <p>sel, poivre</p>
+ <p>persil</p>
+ <p>1 gousse d’ ail hachée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient> mettre les <ingredient>haricots verts</ingredient>, les <ingredient>tranches</ingredient> de <ingredient>chèvre</ingredient> coupées en dés, les <ingredient>tranches de magrets confits</ingredient>, les <ingredient>tomates cerises</ingredient> coupées en deux et les <ingredient>lardons</ingredient> que vous aurez au préalable fait <operation>revenir à la <recipient>poêle</recipient></operation>. <operation>assaisonnez avec une <ingredient>vinaigrette</ingredient> et bon appétit</operation>.
+]]>
+ </preparation>
+</recette>

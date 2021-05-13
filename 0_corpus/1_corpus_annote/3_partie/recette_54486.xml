@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54486">
+ <titre>Poulet aux fruits secs et amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre + 20 g pour la cuisson</p>
+ <p>40 g d’ amandes en poudre</p>
+ <p>40 g d’ amandes effilées</p>
+ <p>40 g de pignons de pin</p>
+ <p>40 g de raisins de Corinthe</p>
+ <p>4 blancs de poulet ouverts en portefeuille</p>
+ <p>1/2 jus de citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+malaxer le <ingredient>beurre</ingredient> ramolli avec les <ingredient>amandes</ingredient> (<ingredient>poudre</ingredient> + <ingredient>effilées</ingredient>), les <ingredient>pignons</ingredient> et les <ingredient>raisins</ingredient>. <operation>salez</operation> et <operation>poivrez</operation>. <operation>farcir les blancs de <ingredient>poulet</ingredient> chacun avec 1/4 de la préparation</operation>. <operation>faire cuire 20 minutes sur feu doux dans une <recipient>cocotte</recipient> à fond</operation> épais avec le <ingredient>beurre</ingredient> et le <ingredient>jus de citron</ingredient>, retourner à mi-cuisson. <operation>servir avec un mélange de céréales (blé, semoule, épeautre) ou du boulgour</operation>. fitou ou minervois ou vin marocain
+]]>
+ </preparation>
+</recette>

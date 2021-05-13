@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13243">
+ <titre>Gaufres au potiron</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de chair de potiron, </p>
+ <p>4 oeufs</p>
+ <p>1/2 l de lait</p>
+ <p>300 g de farine</p>
+ <p>75 g de sucre</p>
+ <p>100 g de beurre</p>
+ <p>1/2 sachet de levure</p>
+ <p>3 cuillères à soupe de rhum (pour les adultes!) </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>otez l’ écorce du <ingredient>potiron</ingredient>,</operation> et <operation>épépinez le</operation>. <operation>coupez la <ingredient>chair</ingredient> en dés</operation>, <operation>mettez - la dans une <recipient>casserole</recipient> avec 1 grand verre d’ eau et du</operation> <ingredient>sel</ingredient> ; <operation>laissez cuire à petit feu pendant 20 min</operation>. lorsque la <ingredient>chair</ingredient> est cuite (elle doit bien s’ écraser avec une fourchette), passez - la dans la <recipient>passoire</recipient> pour qu’ elle s’ égoutte. pendant ce temps, <operation>préparez la pâte à gaufre</operation>: <operation>mettez dans une jatte la farine, le <ingredient>sel</ingredient>, le <ingredient>sucre</ingredient>, le beurre en morceaux, la <ingredient>levure</ingredient>, le <ingredient>rhum</ingredient> (facultatif) et les jaunes d’</operation> <ingredient>oeuf</ingredient> ; <operation>mélangez à l’</operation> aide d’ une spatule. <operation>faites tiédir le lait</operation>, <operation>ajoutez - y la purée de <ingredient>potiron</ingredient>,</operation> et <operation>versez le tout sur le mélange sans</operation> cesser de remuer ; la préparation doit <operation>devenir homogène</operation>. <operation>battez les blancs en neige,</operation> puis <operation>incorporez - les à la pâte à gaufres</operation>. couvrez et <operation>laissez reposer la pâte pendant 1 h</operation>. <operation>faites chauffer le gaufrier</operation>, <operation>huilez,</operation> et <operation>faites cuire les gaufres selon votre habitude</operation>. <operation>laisser cuire les gaufres 4 à 5 min</operation>.
+]]>
+ </preparation>
+</recette>

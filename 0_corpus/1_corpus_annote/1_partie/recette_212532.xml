@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212532">
+ <titre>Daube du sud</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de macreuse ou autre bœuf à braiser</p>
+ <p>1 oignon</p>
+ <p>1 kg de carottes</p>
+ <p>2 poivrons rouge</p>
+ <p>pommes de terre (à votre convenance) </p>
+ <p>15 cl de vin rouge</p>
+ <p>thym</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer de l’ huile d’ <ingredient>olive</ingredient> dans une <recipient>cocotte</recipient> en fonte à feu moyen-fort</operation>. ajouter la viande coupée en morceaux et l’ <ingredient>oignon</ingredient> émincé. <operation>faire revenir la viande, elle</operation> doit être bien saisie et dorée. baisser le feu, ajouter le <ingredient>thym</ingredient>, le <ingredient>vin rouge</ingredient>, saler et poivrer. préparer les légumes: couper le <ingredient>poivron</ingredient> en lamelles, les <ingredient>carottes</ingredient> en rondelles, et les <ingredient>pommes de terre</ingredient> en cubes d’ environ 2 cm de côté. ajouter les légumes dans la <recipient>cocotte</recipient>, <operation>recouvrir d’ un peu d’ huile d’ <ingredient>olive</ingredient>, de <ingredient>sel</ingredient> et de poivre au besoin</operation>. <operation>laisser mijoter au moins 4 h, les légumes</operation> doivent être fondants mais pas fondus.
+]]>
+ </preparation>
+</recette>

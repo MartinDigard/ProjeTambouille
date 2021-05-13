@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38012">
+ <titre>Coquillettes à la bûcheronne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de coquillettes</p>
+ <p>100 g de lardons natures</p>
+ <p>100 g de dés de jambon</p>
+ <p>2 gros oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 bouchons de whisky</p>
+ <p>sel, poivre et coriandre</p>
+ <p>2 boîtes de concentré de tomates</p>
+ <p>50 g de champignons de Paris</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir les</operation> <ingredient>lardons</ingredient> puis réserver sur papier absorbant. <operation>faites revenir les <ingredient>oignons</ingredient> et l’ <ingredient>ail</ingredient>,</operation> puis <operation>ajoutez les <ingredient>champignons</ingredient></operation>. ajoutez les <ingredient>lardons</ingredient> et le <ingredient>jambon</ingredient> et les 2 <ingredient>bouchons de whisky</ingredient>. <operation>laissez évaporer 2 minutes</operation>. <operation>incorporez la sauce tomate et les épices</operation>. <operation>couvrez</operation> et <operation>laissez mijoter à feu très doux</operation>. pendant ce temps, <operation>cuisez les pates al dente soit 8 minutes</operation>. <operation>egouttez</operation> et <operation>mélangez le tout</operation>. vous pouvez y ajouter du gruyère râpé.
+]]>
+ </preparation>
+</recette>

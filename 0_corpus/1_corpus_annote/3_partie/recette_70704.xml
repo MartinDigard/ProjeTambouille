@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70704">
+ <titre>Curry de poulet et pommes de terre au lait de coco et yaourt</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de poulet découpé en cube</p>
+ <p>600 g de pommes de terre</p>
+ <p>2 oignons</p>
+ <p>1 yaourt nature</p>
+ <p>1 morceau de gingembre frais</p>
+ <p>20 cl de lait de coco</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de curry (en poudre) </p>
+ <p>50 cl de bouillon</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez les <ingredient>pommes de terre</ingredient>. <operation>pelez et émincez les <ingredient>oignons</ingredient>, le <ingredient>gingembre</ingredient> et l’ <ingredient>ail</ingredient></operation>. dans une <recipient>cocotte</recipient>, <operation>faites revenir dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> le <ingredient>poulet</ingredient>, les <ingredient>oignons</ingredient> ainsi que l’ <ingredient>ail</ingredient> et le <ingredient>gingembre</ingredient></operation>. <operation>saupoudrez de <ingredient>curry</ingredient> et remuez</operation>. ajoutez les <ingredient>pommes de terre</ingredient>, puis <operation>arrosez avec le <ingredient>bouillon</ingredient> (maison de préférence</operation>). <operation>couvrez</operation> et <operation>laissez cuire à feu doux 30 min environ</operation>. <operation>ajoutez le lait de <ingredient>coco</ingredient> et le <ingredient>yaourt</ingredient>,</operation> puis <operation>laissez mijoter à nouveau 15 min</operation>.
+]]>
+ </preparation>
+</recette>

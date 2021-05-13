@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30495">
+ <titre>Clafoutis aux brugnons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 g de beurre</p>
+ <p>150 g de sucre en poudre (dont 20 g pour le plat) </p>
+ <p>6 brugnons</p>
+ <p>3 oeufs</p>
+ <p>50 g de farine tamisée</p>
+ <p>sel</p>
+ <p>20 cl de lait</p>
+ <p>10 cl de crème liquide</p>
+ <p>1 cuillère à soupe de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). beurrez et <operation>saupoudrez de <ingredient>sucre</ingredient> un <recipient>plat</recipient> à gratin</operation>. pelez et <operation>dénoyautez les</operation> <ingredient>brugnons</ingredient>, <operation>coupez - les en 6 quartiers</operation> et <operation>disposez - les dans le <recipient>plat</recipient></operation>. <operation>fouettez les <ingredient>oeufs</ingredient> et le reste de <ingredient>sucre</ingredient> à blanchiment</operation>. <operation>incorporez la farine et 1</operation> pincée de <ingredient>sel</ingredient>. <operation>délayez avec le lait et la <ingredient>crème</ingredient></operation>. <operation>versez sur les <ingredient>brugnons</ingredient></operation>. <operation>faites cuire 35 mn</operation>. saupoudrez de <ingredient>sucre glace</ingredient> et <operation>servez tiède</operation>.
+]]>
+ </preparation>
+</recette>

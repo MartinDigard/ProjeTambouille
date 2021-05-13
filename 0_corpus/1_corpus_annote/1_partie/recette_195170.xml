@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195170">
+ <titre>Entremet chocolat-poivre</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de lait entier</p>
+ <p>100 g de sucre</p>
+ <p>5 œufs</p>
+ <p>200 g de chocolat à dessert</p>
+ <p>1 moulin à poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). porter le <ingredient>lait</ingredient> à ébullition. pendant ce temps, mélanger les <ingredient>œufs</ingredient> et le <ingredient>sucre</ingredient>. dans un <recipient>saladier</recipient>, <operation>faire fondre le <ingredient>chocolat</ingredient> en</operation> versant dessus le <ingredient>lait</ingredient> chaud. intégrer ensuite progressivement ce mélange dans le mélange <ingredient>œuf</ingredient> / <ingredient>sucre</ingredient>. verser ensuite dans des ramequins. mettre ensuite un tour de <ingredient>moulin</ingredient> à poivre dessus et passer le tout au <recipient>four</recipient> durant 15 minutes. <operation>laisser refroidir avant de vous</operation> régaler.
+]]>
+ </preparation>
+</recette>

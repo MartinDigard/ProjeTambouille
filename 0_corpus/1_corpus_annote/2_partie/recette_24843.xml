@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24843">
+ <titre>Artichauts à la barigoule</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 petits artichauts à feuilles pointues</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à soupe de persil</p>
+ <p>3 cuillères à soupe de chapelure</p>
+ <p>8 tranches de lard fines</p>
+ <p>sel et poivre</p>
+ <p>1 filet d’ huile</p>
+ <p>15 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>ôtez les <ingredient>feuilles</ingredient> extérieures dures des</operation> <ingredient>artichauts</ingredient>, <operation>retirez le foin</operation>. hachez ensemble le <ingredient>lard</ingredient>, les <ingredient>oignons</ingredient>, les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> et le <ingredient>persil</ingredient>. <operation>mélangez à la</operation> <ingredient>chapelure</ingredient> et <operation>assaisonnez</operation>. <operation>farcissez les <ingredient>artichauts</ingredient> de ce mélange</operation> et entourez d’ une <ingredient>tranche de lard</ingredient>. <operation>mettez</operation> - les dans une <recipient>cocotte</recipient>, <operation>arrosez d’ <ingredient>huile</ingredient> et d’ <ingredient>eau</ingredient></operation>. <operation>faites cuire à feu doux à couvert pendant 45 min environ</operation>. <operation>ajoutez un peu d’ <ingredient>eau</ingredient> en cours de cuisson si besoin</operation>.
+]]>
+ </preparation>
+</recette>

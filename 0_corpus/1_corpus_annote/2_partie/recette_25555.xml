@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25555">
+ <titre>Salade de harengs, pommes de terre et radis</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>250 g de filets de harengs fumés</p>
+ <p>1 botte de radis</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>1 bouquet de persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient>pommes de terre</ingredient> entières à l’ eau bouillante salée ou à la vapeur environ 30 min. pendant ce temps, rincez et <operation>coupez les <ingredient>radis</ingredient> en rondelles</operation>, découpez les <ingredient>filets de harengs</ingredient> en morceaux. <operation>faites chauffer</operation> légèrement le <ingredient>vin blanc</ingredient>. pelez et coupez les <ingredient>pommes de terre</ingredient> en rondelles, <operation>mettez - les dans un <recipient>saladier</recipient></operation> et <operation>versez le <ingredient>vin</ingredient></operation>. <operation>laissez tiédir</operation> et <operation>versez l’ huile</operation>, <operation>mélangez</operation> et <operation>ajoutez les <ingredient>radis</ingredient>, les <ingredient>harengs</ingredient> et le <ingredient>persil</ingredient></operation> haché. <operation>relevez d’ un trait de <ingredient>vinaigre</ingredient></operation>. c’ est meilleur tiède mais vous pouvez bien sûr la préparer à l’ avance et la déguster froide.
+]]>
+ </preparation>
+</recette>

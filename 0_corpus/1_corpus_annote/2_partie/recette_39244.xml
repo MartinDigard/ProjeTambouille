@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39244">
+ <titre>Maxi Cheeseburger</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pains à hamburgers</p>
+ <p>4 steaks hachés</p>
+ <p>2 tomates</p>
+ <p>1 oignon</p>
+ <p>1 laitue</p>
+ <p>4 gros cornichons</p>
+ <p>4 tranches de fromage fondu</p>
+ <p>moutarde</p>
+ <p>ketchup</p>
+ <p>mayonnaise</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer la salade et la couper en lanières. laver les <ingredient>tomates</ingredient> et peler l’ <ingredient>oignon</ingredient>. les couper en très fines rondelles. <operation>saisir les steaks 1 min de chaque côté,</operation> puis <operation>laisser cuire quelques minutes selon le degré de cuisson</operation> désiré. saler, poivrer, couper les <ingredient>cornichons</ingredient> en rondelles. tartiner les <ingredient>pains</ingredient> des trois sauces. garnir. <operation>couvrir des chapeaux</operation> et enfourner 3 min sous le grill du <recipient>four</recipient>. servir chaud. le <ingredient>fromage</ingredient> fondu peut être remplacé par du bacon grillé. pour des <ingredient>hamburger</ingredient> orientaux, <operation>assaisonnez la viande avec des épices</operation> et <operation>mettez du <ingredient>pain</ingredient></operation> pita. aucun, juste un bon coca!
+]]>
+ </preparation>
+</recette>

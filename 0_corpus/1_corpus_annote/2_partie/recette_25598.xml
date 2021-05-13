@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25598">
+ <titre>Bretzels d’ alsace</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de farine</p>
+ <p>20 g de levure de boulanger</p>
+ <p>20 cl d’ eau chaude</p>
+ <p>8, 5 cl de lait bouilli</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>3 cuillères à soupe d’ huile neutre</p>
+ <p>2 cuillères à café de sel</p>
+ <p>2 oeufs</p>
+ <p>gros sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>emiettez la</operation> <ingredient>levure</ingredient>, <operation>délayez - la avec le <ingredient>sucre</ingredient> et un peu d’ <ingredient>eau</ingredient></operation>. <operation>laissez mousser</operation>. <operation>faites chauffer le lait</operation>. <operation>ajoutez à la <ingredient>levure</ingredient> le reste de l’ <ingredient>eau</ingredient>, le lait, l’ <ingredient>huile</ingredient>, le <ingredient>sel</ingredient> et la moitié de la farine</operation>. <operation>mélangez bien</operation> puis <operation>incorporez le reste de la farine</operation>. pétrissez bien la pâte, pendant environ 10 min, jusqu’ à ce qu’ elle soit homogènet et élastique. <operation>laissez - la reposer</operation> et doubler de volume dans le <recipient>saladier</recipient> couvert environ 1h. pétrissez à nouveau 5 min. préchauffez le <recipient>four</recipient> à 220 ° c (thermostat 7 - 8). <operation>formez une vingtaine de</operation> boudin (ou plus) d’ environ 30 cm de longueur. façonnez - les à la forme des bretzels, puis placez - les sur un papier huilé. enfournez pour 10 min dans le haut du <recipient>four</recipient>. <operation>délayez les jauens d’</operation> oeufs avec un peu d’ <ingredient>eau</ingredient>. <operation>sortez les breztels, badigeonnez - les de jaune d’</operation> <ingredient>oeufs</ingredient> et saupoudrez de <ingredient>gros sel</ingredient>. remettez au milieu du <recipient>four</recipient> et <operation>laissez cuire 25 min</operation>. les bretzels sont meilleurs chauds, et avec une bonne bière!
+]]>
+ </preparation>
+</recette>

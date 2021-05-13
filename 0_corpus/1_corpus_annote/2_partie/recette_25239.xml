@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25239">
+ <titre>Petits pains au pavot</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine de froment</p>
+ <p>2 sachets de levure de boulanger sèche</p>
+ <p>1 cuillère à café de sel</p>
+ <p>35 cl d’ eau</p>
+ <p>1 tasse de graines de pavot</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites tiédir l’ <ingredient>eau</ingredient></operation>. <operation>mettez la farine dans un <recipient>saladier</recipient>, la <ingredient>levure</ingredient> au centre</operation>. <operation>versez peu à peu l’</operation> <ingredient>eau</ingredient>, <operation>amalgamez la <ingredient>farine</ingredient> en tournant</operation> et <operation>ajoutez le <ingredient>sel</ingredient></operation>. <operation>pétrissez la pâte environ 10 minutes jusqu’ à ce qu’ elle soit lisse et élastique</operation>. <operation>laissez reposer la pâte dans un endroit</operation> tiède pendant 20 min. <operation>divisez le pâton en 12 à 15 morceaux</operation>. ecrasez légèrement chaque pâton, <operation>rabattez les bords vers le centre et retournez - les (plis en dessous</operation>). façonnez - les en boule avec vos mains farinées et <operation>laissez lever 1 h dans un endroit</operation> tiède. préchauffez le <recipient>four</recipient> à 240 ° c (thermostat 8). <operation>badigeonnez les petits pains d’ <ingredient>eau</ingredient> salée, de lait ou de jaune d’ oeuf</operation>, saupoudrez de <ingredient>graines de pavot</ingredient>. <operation>faites - les</operation> cuire 20 min. le jaune d’ oeuf donnera une croûte plus dorée.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10553">
+ <titre>Pigeons à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pigeons</p>
+ <p>40 g de beurre</p>
+ <p>450 g de tomates</p>
+ <p>2 oignons</p>
+ <p>2 échalotes</p>
+ <p>1 bouquet garni</p>
+ <p>20 cl de crème fraîche</p>
+ <p>25 cl de bière blonde ou brune</p>
+ <p>1 pincée de sel</p>
+ <p>-1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire rôtir les <ingredient>pigeons</ingredient> au beurre</operation>. lorsqu’ ils sont bien dorés, les retirer de la <recipient>casserole</recipient> et enlever la graisse de celle-ci. remettre les <ingredient>pigeons</ingredient>, les beurrer de nouveau, mettre les légumes coupés en morceaux, les <operation>faire revenir tout doucement</operation>. mettre les <ingredient>tomates</ingredient> en morceaux. lorsque le tout commence à cuire, ajouter une demi bouteille de <ingredient>bière</ingredient> et <operation>laisser mijoter</operation>. rajouter au fur et à mesure de la <ingredient>bière</ingredient> lorsque la cuisson se fait et qu’ il vous semble que la sauce s’ épaissit. les <ingredient>pigeons</ingredient> peuvent être cuits de manière plus ou moins longue suivant leur âge. lorsqu’ ils commencent à être faits, la chair se détache partiellement, retirer les au fur et à mesure et réserver au chaud dans une autre <recipient>casserole</recipient>. la cuisson terminée, <operation>passez la sauce au <recipient>chinois</recipient>, vérifier l’ assaisonnement, y</operation> ajouter un peu de <ingredient>crème fraîche</ingredient>. <operation>nappez en les</operation> <ingredient>pigeons</ingredient> et <operation>servez bien chauds avec des frites et des champignons</operation>. la même <ingredient>bière</ingredient> que celle qui a servi à cuire
+]]>
+ </preparation>
+</recette>

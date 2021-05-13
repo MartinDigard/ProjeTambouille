@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22110">
+ <titre>Sardines en salade</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boîtes de sardines à l’ huile</p>
+ <p>1/2 botte de persil plat</p>
+ <p>1 tomate</p>
+ <p>1 échalote</p>
+ <p>3 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un petit <recipient>saladier</recipient>, écrasez les <ingredient>sardines</ingredient> égouttées à la fourchette. hachez (pas trop fin) la 1/2 <ingredient>botte de persil <recipient>plat</recipient></ingredient>. emincez les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> et l’ <ingredient>échalote</ingredient>. <operation>coupez la <ingredient>tomate</ingredient> en petits cubes</operation>. <operation>ajoutez tout ces ingrédients dans le <recipient>saladier</recipient></operation>, arroser d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> et de <ingredient>vinaigre</ingredient> (<operation>dosez selon votre convenance</operation>). mélangez, <operation>salez</operation>, <operation>poivrez</operation> et <operation>servez frais</operation>.
+]]>
+ </preparation>
+</recette>

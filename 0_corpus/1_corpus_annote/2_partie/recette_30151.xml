@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30151">
+ <titre>Crème de banane aux petits-suisses</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 petits-suisses</p>
+ <p>3 bananes</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 cuillère à soupe de kirsch ou autre alcool</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>ecrasez les <ingredient>petits-suisses</ingredient> et les</operation> <ingredient>bananes</ingredient> puis <operation>mélangez au reste des ingrédients</operation>. répartissez la <ingredient>crème</ingredient> dans des coupes individuelles et <operation>conservez au frais jusqu’ à la dégustation</operation>. <operation>accompagnez cette <ingredient>crème</ingredient> de biscuits secs</operation>. vous pouvez décorer de fruits confits.
+]]>
+ </preparation>
+</recette>

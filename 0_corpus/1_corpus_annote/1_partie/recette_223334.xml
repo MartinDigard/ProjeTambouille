@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223334">
+ <titre>Langouste Marie-Antoinette</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>300 g de langouste</p>
+ <p>1 citron vert</p>
+ <p>2 cm de gingembre environ</p>
+ <p>20 cl de lait de coco</p>
+ <p>1 cuillère à soupe de curry en poudre</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>safran</p>
+ <p>coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>oignon</ingredient>, le <ingredient>gingembre</ingredient>, le <ingredient>safran</ingredient>, le <ingredient>curry</ingredient>, l’ <ingredient>ail</ingredient>, la <ingredient>coriandre</ingredient> dans une <recipient>poêle</recipient></operation>. ajouter ensuite le <ingredient>citron vert</ingredient>, le lait de <ingredient>coco</ingredient>, le sel, le poivre. y plonger ensuite les <ingredient>langoustes</ingredient> et <operation>faire cuire à petit bouillon pendant 20 min</operation>.
+]]>
+ </preparation>
+</recette>

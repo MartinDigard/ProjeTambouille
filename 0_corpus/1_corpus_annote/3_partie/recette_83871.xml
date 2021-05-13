@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83871">
+ <titre>Tarte aux deux fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>410 g de lait concentré non sucré</p>
+ <p>1 pâte brisée</p>
+ <p>100 g de cerises dénoyautées</p>
+ <p>50 g de myrtilles</p>
+ <p>4 oeufs</p>
+ <p>120 g de sucre</p>
+ <p>1 cuillère à café de vanille liquide</p>
+ <p>50 g de farine</p>
+ <p>Beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 200 ° c (thermostat 6). <operation>mélangez la farine et 100 g de <ingredient>sucre</ingredient> dans un <recipient>saladier</recipient></operation>. <operation>ajoutez les <ingredient>oeufs</ingredient> un à un</operation>. remuez bien entre chaque <ingredient>oeuf</ingredient> pour ne pas former de grumeaux. <operation>versez le lait <ingredient>concentré</ingredient> peu à peu en</operation> mélangeant, puis la <ingredient>vanille</ingredient>. <operation>versez la préparation sur la <ingredient>pâte</ingredient> brisée</operation> puis <operation>disposez</operation> dessus les <ingredient>cerises</ingredient> et les <ingredient>myrtilles</ingredient>. <operation>saupoudrez de <ingredient>sucre</ingredient> et placez au <recipient>four</recipient> 30 minutes</operation>.
+]]>
+ </preparation>
+</recette>

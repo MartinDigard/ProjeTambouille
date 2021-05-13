@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10897">
+ <titre>Carré shake abricot</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 carrés frais au yaourt</p>
+ <p>6 abricots bien mûrs</p>
+ <p>50 cl lait</p>
+ <p>2 cuillères à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez dans votre</operation> <recipient>blender</recipient> les 4 <ingredient>carrés frais</ingredient> puis ajoutez le lait, les <ingredient>abricots bien</ingredient> faits et dénoyautés et le <ingredient>sucre</ingredient>. <operation>mixez le tout, afin d’</operation> <operation>obtenir une boisson mousseuse et très agréable</operation>.
+]]>
+ </preparation>
+</recette>

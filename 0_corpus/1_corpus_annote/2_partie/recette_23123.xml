@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23123">
+ <titre>Filets de sandre au Riesling et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 sandre écaillé (1, 5 kg environ) </p>
+ <p>150 g de champignons</p>
+ <p>15 cl de Riesling</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>10 cl de crème fraîche</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>2 échalotes</p>
+ <p>1 oignon</p>
+ <p>1 bouquet garni (thym, laurier, persil) </p>
+ <p>jus de citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites lever les filets de <ingredient>sandre</ingredient> par le poissonier</operation>, <operation>récupérez la tête et les déchets</operation>. faites bouillir 50 cl d’ eau avec le <ingredient>vin blanc sec</ingredient>, la tête et les arêtes du poisson, le <ingredient>bouquet garni</ingredient>, l’ <ingredient>oignon</ingredient> entier et quelques gouttes de <ingredient>jus de citron</ingredient>. <operation>laissez frémir 30 min</operation> et <operation>filtrez</operation>. hachez les <ingredient>échalotes</ingredient>, <operation>mettez - les dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. <operation>posez les filets de poissons</operation> dessus et <operation>arrosez de 15 cl de fumet et du <ingredient>riesling</ingredient></operation>. <operation>mettez au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7)</operation> et <operation>laissez cuire 15 à 20 min</operation>. pendant ce temps, émincez les <ingredient>champignons</ingredient> et <operation>faites - les</operation> étuver à la <recipient>poêle</recipient> avec du beurre. <operation>mélangez la <ingredient>crème</ingredient> et le <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient></operation>. <operation>sortez le <recipient>plat</recipient> du <recipient>four</recipient></operation>, <operation>retirez le poisson</operation> et <operation>faites réduire la sauce</operation>. <operation>ajoutez - y les <ingredient>champignons</ingredient> et la <ingredient>crème</ingredient> au <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient></operation>. <operation>nappez les filets de poisson de sauce</operation> et <operation>faites dorer quelques minutes sous le grill du <recipient>four</recipient></operation>. <operation>servez bien chaud</operation>. la perche et le brochet conviennent également pour cette recette.
+]]>
+ </preparation>
+</recette>

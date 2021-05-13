@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172557">
+ <titre>Wok de boeuf parfumé</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de viande hachée</p>
+ <p>25 cl de bouillon de bœuf</p>
+ <p>1 poivron</p>
+ <p>2 carottes</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à café de poivre du sichuan</p>
+ <p>1 cuillère à café de poivre du piment en poudre</p>
+ <p>1 cuillère à soupe de gingembre en poudre</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>1 cuillère à café de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre un peu d’ huile dans un <recipient>wok</recipient>, puis faire dorer la <ingredient>viande</ingredient> avec le <ingredient>poivre du sichuan</ingredient>, le <ingredient>gingembre</ingredient> et le <ingredient>piment</ingredient>. une fois bien dorée, mettre la <ingredient>viande</ingredient> de côté. <operation>faire cuire au <recipient>wok</recipient> les légumes (<ingredient>carottes</ingredient>, <ingredient>poivron</ingredient>, <ingredient>oignon</ingredient>) découpés en lamelles</operation>. une fois qu’ ils sont fondants, ajouter la <ingredient>viande</ingredient> puis le <ingredient>bouillon</ingredient>, la <ingredient>sauce soja</ingredient> et l’ <ingredient>ail</ingredient>. <operation>laisser mijoter le tout pendant quelques minutes</operation>. vers la fin de la cuisson, ajouter la <ingredient>maïzena</ingredient> diluée dans un peu d’ eau afin de <operation>faire épaissir la <ingredient>sauce</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

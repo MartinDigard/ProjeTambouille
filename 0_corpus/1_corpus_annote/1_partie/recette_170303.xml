@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170303">
+ <titre>Biscuits au riz soufflé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60 g de sucre</p>
+ <p>30 g de beurre ou margarine</p>
+ <p>120 g de riz soufflé</p>
+ <p>2 barres chocolatées</p>
+ <p>2 cuillère à soupe de miel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient>barres chocolatées</ingredient> en morceaux, puis mélanger tous les ingrédients (sauf le <ingredient>riz</ingredient>) dans une <recipient>casserole</recipient>. chauffer jusqu’ à ce que le tout soit fondu. retirer ensuite la <recipient>casserole</recipient> du feu puis y ajouter les céréales, bien mélanger. verser le tout dans un <recipient>plat</recipient> recouvert de papier d’ aluminium, tasser au maximum. attendre ensuite que ça refroidisse!
+]]>
+ </preparation>
+</recette>

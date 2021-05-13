@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81801">
+ <titre>Petits pavés au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat</p>
+ <p>1 boîte de lait concentré</p>
+ <p>100 g de beurre</p>
+ <p>12 ou 24 petits beurres</p>
+ <p>film plastique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites fondre le <ingredient>chocolat</ingredient> avec le <ingredient>beurre</ingredient> au <recipient>bain - marie</recipient></operation>. ajoutez le <ingredient>lait concentré</ingredient>. mettre à <operation>bouillir 3 min en</operation> remuant. ajouter les <ingredient>petits beurres</ingredient> émiettés. dans un <recipient>moule</recipient> à cake mettre du <ingredient>film plastique</ingredient>, puis ajouter le mélange. mettre au frais 2 heures. <operation>faire des <ingredient>petits</ingredient> dés</operation>. a <operation>servir à température ambiante</operation>.
+]]>
+ </preparation>
+</recette>

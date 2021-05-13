@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55883">
+ <titre>Caramel facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de sucre</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, verser le <ingredient>sucre</ingredient> avec l’ <ingredient>eau</ingredient> et mélanger sur feu moyen jusqu’ à ce que le caramel apparaisse. s’ utilise de suite après la cuisson terminée. si vous <operation>désirez un caramel plus liquide, il</operation> suffit de rajouter de l’ <ingredient>eau</ingredient> après la cuisson.
+]]>
+ </preparation>
+</recette>

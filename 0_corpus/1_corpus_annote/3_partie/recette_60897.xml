@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60897">
+ <titre>Kaiserschmarrn</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 cl de lait</p>
+ <p>150 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>4 oeufs</p>
+ <p>30 g de sucre</p>
+ <p>1 noisette de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, <operation>mélangez le lait, la farine, le <ingredient>sel</ingredient> et les jaunes d’ <ingredient>oeufs</ingredient></operation>. dans un second <recipient>saladier</recipient>, <operation>battez les blancs d’</operation> oeufs avec le <ingredient>sucre</ingredient> en neige. <operation>mélangez le contenu des deux saladiers</operation>. dans la <recipient>poêle</recipient>, <operation>faites fondre le</operation> <ingredient>beurre</ingredient> puis <operation>cuisez la préparation comme s’ il s’</operation> agissait d’ une crèpe (la dose de préparation obtenue étant grande, je vous conseille de cuire la préparation en deux fois). <operation>cassez la " crêpe</operation> " obtenue avec une fourchette ou <operation>coupez - la avec un couteau et servez encore</operation> chaud ou tiède, saupoudré de <ingredient>sucre</ingredient> glace, et accompagné de confiture d’ airelles ou de compotes de pomme. variez les plaisirs en variant les accompagnements. dessert facile et appétissant.
+]]>
+ </preparation>
+</recette>

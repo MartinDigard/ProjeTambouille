@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54075">
+ <titre>Soupe de tomates à la viande hachée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de viande hachée</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1/2 poivron</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 kg de purée de tomates (en briquettes) </p>
+ <p>1/8 litre de bouillon </p>
+ <p>50 g de riz cuit</p>
+ <p>200 g de crème liquide </p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire la <ingredient>viande hachée</ingredient> dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>, rajouter les <ingredient>oignons</ingredient>, l’ <ingredient>ail</ingredient> et le 1/2 <ingredient>poivron</ingredient> ; <operation>laisser cuire un peu</operation>. rajouter le <ingredient>bouillon</ingredient>, la <ingredient>purée de tomates</ingredient> ; <ingredient>sel</ingredient>, <ingredient>poivre</ingredient> et le <ingredient>riz cuit</ingredient>. <operation>laisser cuire 5 min,</operation> puis mettre la <ingredient>crème</ingredient> et le <ingredient>persil</ingredient>. poursuivre la cuisson quelques minutes et servir.
+]]>
+ </preparation>
+</recette>

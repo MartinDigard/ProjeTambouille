@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83603">
+ <titre>Piccata romana</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros oignons</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>200 g de lardons fumés</p>
+ <p>400 g de filet de poulet émincés</p>
+ <p>1 chorizo</p>
+ <p>2 brins de ciboulette</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>émincez les</operation> <ingredient>oignons</ingredient>, <operation>faites fondre dans une <recipient>poêle</recipient> avec un <ingredient>filet</ingredient> d’ huile d’ olive</operation>. ajoutez des <ingredient>lardons fumés</ingredient>. <operation>égouttez le tout dès que les <ingredient>lardons</ingredient> sont</operation> cuits. émincez les <ingredient>poivrons</ingredient> et ajoutez les <ingredient>filets de poulet émincés</ingredient> dans un <ingredient>filet</ingredient> d’ huile d’ olive et <operation>rajoutez votre premier mélange <ingredient>oignons</ingredient> - <ingredient>lardons</ingredient></operation>. dès que que le <ingredient>poulet</ingredient> est cuit, ajoutez la <ingredient>crème fraîche</ingredient>, le <ingredient>chorizo</ingredient> en tranches avec la <ingredient>ciboulette</ingredient> finement coupées. <operation>laissez mijotez une dizaine de minutes</operation> et <operation>assaisonnez à votre convenance</operation>. <operation>ajoutez du riz ou des pommes de terres en accompagnement</operation>. vin italien
+]]>
+ </preparation>
+</recette>

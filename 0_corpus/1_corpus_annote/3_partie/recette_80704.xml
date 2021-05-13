@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80704">
+ <titre>Raviolis polonais (les pierogis) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>250 g de farine</p>
+ <p>2 œufs</p>
+ <p>un peu d’ eau</p>
+ <p>Pour la farce: </p>
+ <p>500 g de pomme de terre</p>
+ <p>200 g de faisselle compacte</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient>pommes de terre</ingredient> et <operation>cuisez - les</operation>, <operation>écrasez - les pour en</operation> <operation>faire une purée avec la</operation> <operation><recipient>faisselle</recipient> bien</operation> égouttée. <operation>poivrez</operation> et <operation>salez à votre convenance</operation>. dans un <recipient>saladier</recipient> <operation>préparez une fontaine avec la farine</operation>, <operation>incorporez les <ingredient>œufs</ingredient></operation>. <operation>travaillez rapidement en</operation> ajoutant l’ <ingredient>eau</ingredient> nécessaire pour avoir une <ingredient>pâte</ingredient> lisse. <operation>etalez au rouleau avec un peu de farine</operation> et <operation>découpez des ronds avec un bol</operation>. garnissez les ronds de <ingredient>pâte</ingredient> au centre et <operation>refermez - les en chausson en</operation> fermant bien les côtés avec un <ingredient>peu</ingredient> d’ <ingredient>eau</ingredient>. <operation>faire cuire les raviolis dans une <recipient>casserole</recipient> d’ <ingredient>eau</ingredient> salée</operation>, <operation>égouttez - les</operation> et <operation>disposez - les dans un <recipient>plat</recipient></operation>. <operation>arrosez - les du beurre fondu légèrement coloré</operation> et <operation>servez</operation>. bourgogne aligoté blanc
+]]>
+ </preparation>
+</recette>

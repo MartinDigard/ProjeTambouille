@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37158">
+ <titre>Brouillade d’ oeufs au roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs par personnes + en ajouter toujours 1 (pour 4 personnes il en faudra donc 9) </p>
+ <p>150 g de roquefort </p>
+ <p>sel, poivre</p>
+ <p>Pour la décoration: </p>
+ <p>1 petit paquet de mâche</p>
+ <p>quelques cernaux de noix</p>
+ <p>du pain de mie (1 tranche coupée en 2 triangle pour chaque personne) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>emiettez le <ingredient>roquefort</ingredient> dans une assiette</operation>. <operation>cassez les oeufs dans un <recipient>saladier</recipient> puis <ingredient>ajoutez</ingredient> du <ingredient>sel</ingredient> et du poivre</operation>. <operation>mélangez</operation>. <operation>faire cuire la brouillade d’ <ingredient>oeufs</ingredient> à la <recipient>poêle</recipient> à feux très doux (ou au <recipient>bain marie</recipient></operation>). dans les deux cas remuez sans cesse jusqu’ à obtention d’ une brouillade ni trop dure et sèche ni trop baveuse et pas cuite. une fois la brouillade cuite, <ingredient>ajoutez</ingredient> très vite le <ingredient>roquefort</ingredient> pour stoper la cuisson. dans des assiettes, disposez un <ingredient>petit</ingredient> tas de <ingredient>mâche</ingredient> et coupez les tranche de <ingredient>pain de mie</ingredient> en 2 triangles et <operation>faites toster</operation>. <operation>mettez</operation> - les de part et d’ autre du tas de <ingredient>mâche</ingredient> et disposez la brouillade au centre de l’ assiette puis parsemez de <ingredient>cernaux de noix</ingredient>.
+]]>
+ </preparation>
+</recette>

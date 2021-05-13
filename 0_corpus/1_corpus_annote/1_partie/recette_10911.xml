@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10911">
+ <titre>Pancakes (Etats-unis) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 tasse de farine</p>
+ <p>7 g de levure de boulanger</p>
+ <p>25 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>20 g de beurre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez la farine dans un <recipient>saladier</recipient></operation>. <operation>ajoutez du <ingredient>sel</ingredient>, la <ingredient>levure</ingredient>, le lait puis 2 jaunes d’ <ingredient>oeufs</ingredient></operation>. <operation>faites fondre le beurre</operation> et <operation>mélangez bien avec le reste</operation>. battez les 2 blancs d’ <ingredient>oeufs</ingredient> en neige assez ferme. <operation>ajoutez le doucement à la pâte</operation>. faite cuire les pancakes sur une <recipient>poêle</recipient> très plate à feu moyen. <operation>laissez cuire la première face jusqu’ à l’ apparition de beaucoup de bulles (sur toute la surface du pancake</operation>). <operation>retournez - le</operation> et <operation>laissez cuire beaucoup moins longtemps (moitié voire quart du temps</operation>). si le dessous du pancake noircit trop avant l’ apparition des bulles, réduisez le feu. <operation>savourez avec du sirop d’ érable, du beurre et / ou de la confiture</operation>. nb: une <ingredient>tasse</ingredient> représente 240 ml.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35347">
+ <titre>Rôti de porc au boursin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de rôti de porc casserole</p>
+ <p>1/2 verre à vin de vin blanc</p>
+ <p>1 boursin au poivre</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>1 cuillère à soupe de ketchup</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel poivre</p>
+ <p>un peu d’ ail en poudre ou 1 gousse d’ ail écrasée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire brunir la viande des 2 côtés</operation> puis assaisonner de <ingredient>poivre sel</ingredient> et <ingredient>ail</ingredient>. ajouter le <ingredient>vin blanc</ingredient>, la <ingredient>moutarde</ingredient>, le <ingredient>ketchup</ingredient>, le <ingredient>boursin</ingredient> et <operation>laisser mijoter 1 heure</operation>. retirer le rôti de la <recipient>casserole</recipient>, ajouter la <ingredient>crème</ingredient> et bien mélanger. remettre le rôti dans la <recipient>casserole</recipient> et servir bien chaud. on peut le préparer avec + de sauce, dans ce cas j’ augmente la dose de <ingredient>moutarde</ingredient> et de <ingredient>vin</ingredient> et j’ ajoute un <ingredient>boursin</ingredient>, les invités en rafollent.
+]]>
+ </preparation>
+</recette>

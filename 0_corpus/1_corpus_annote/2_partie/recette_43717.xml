@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43717">
+ <titre>Pâtes aux Poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poireaux</p>
+ <p>1 citron</p>
+ <p>1 oeuf</p>
+ <p>1/2 verre de lait</p>
+ <p>pâtes type oreillette </p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>poireaux</ingredient> coupés en rondelles dans un peu d’</operation> huile. rajouter 1/2 <ingredient>verre de lait</ingredient>. <operation>laisser mijoter 20 min</operation>. rajouter les <ingredient>pâtes</ingredient> cuites al dente dans le mélange. dans un bol, mélanger le jaune d’ <ingredient>oeuf</ingredient> avec le jus de <ingredient>citron</ingredient>. rajouter sur les <ingredient>pâtes</ingredient>. <operation>faire sauter 2 min</operation>. <operation>servir en saupoudrant de <ingredient>parmesan</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

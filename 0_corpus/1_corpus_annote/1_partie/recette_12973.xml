@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12973">
+ <titre>Galettes de Namur (Belgique) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>850 g de sucre fin</p>
+ <p>850 g de beurre</p>
+ <p>11 œufs</p>
+ <p>37.5 g de sucre vanillé</p>
+ <p>240 ml de lait tiède</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>travaillez le beurre ramolli + le <ingredient>sucre</ingredient></operation>. ajouter les jaunes et <operation>réalisez un ruban</operation>. <operation>ajoutez petit à petit la farine</operation>. battez les blancs d’ <ingredient>œufs</ingredient> en neige et <operation>incorporez à la pâte</operation>. <operation>terminez par la tasse de lait <ingredient>tiède</ingredient></operation>. cuire dans un <recipient>four</recipient> à galettes électrique.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13532">
+ <titre>Soupe marinette aux haricots verts</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g haricots verts</p>
+ <p>450 g pommes de terre</p>
+ <p>2 gros oignons</p>
+ <p>persil frais</p>
+ <p>beurre</p>
+ <p>sel poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>lavez les haricots</operation> <ingredient>verts</ingredient> puis <operation>faites les</operation> <operation>revenir quelques minutes avec une noisette de beurre dans un <recipient>autocuiseur</recipient></operation>. pendant ce temps, épluchez les pommes de <ingredient>terre</ingredient> et les <ingredient>oignons</ingredient>, <operation>coupez les en dés</operation> et <operation>ajoutez les aux haricots</operation>. ajoutez également quelques brins de <ingredient>persil frais</ingredient>, <operation>salez</operation>, <operation>poivrez</operation>. <operation>couvrez d’ eau</operation>, <operation>fermez l’ <recipient>autocuiseur</recipient></operation> et <operation>faites cuire 15 minutes</operation>. conseil: vous pouvez également ajouter une gousse d’ ail, selon les goûts. a l’ issue de la cuisson, <operation>moulinez le tout</operation> et <operation>dégustez sans</operation> attendre.
+]]>
+ </preparation>
+</recette>

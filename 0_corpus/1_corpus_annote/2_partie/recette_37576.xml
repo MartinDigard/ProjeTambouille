@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37576">
+ <titre>Gâteau rapide au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>80 g de beurre ramolli</p>
+ <p>100 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>3 cuillères à soupe de cacao en poudre</p>
+ <p>1 tasse de lait</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). mélanger la farine avec le <ingredient>sucre</ingredient>, le <ingredient>cacao en poudre</ingredient>, la <ingredient>levure</ingredient>, le <ingredient>sucre</ingredient> vanillé et le <ingredient>sel</ingredient>. ajouter le beurre <ingredient>ramolli</ingredient>, puis les <ingredient>oeufs</ingredient> et terminer par le <ingredient>lait</ingredient> (utilisez le batteur électrique). verser la pâte obtenue dans un <recipient><recipient>moule</recipient> à manqué</recipient> ou un <recipient>moule</recipient> à cake. avant de mettre au <recipient>four</recipient> et pour donner une croûte dorée, saupoudrer de cassonade et de <ingredient>poudre</ingredient> de noisettes ou d’ amandes. <operation>faire cuire environ 30 minutes mais à</operation> surveiller.
+]]>
+ </preparation>
+</recette>

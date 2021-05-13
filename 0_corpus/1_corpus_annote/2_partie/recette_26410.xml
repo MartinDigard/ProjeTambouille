@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26410">
+ <titre>Langue de boeuf sauce chasseur</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 langue de boeuf</p>
+ <p>2 carottes</p>
+ <p>2 poireaux</p>
+ <p>céleri</p>
+ <p>persil</p>
+ <p>1 oignon piqué de clous de girofles</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 gros oignon</p>
+ <p>1 pot moyen de sauce tomate concentrée</p>
+ <p>1 boîte de champignons</p>
+ <p>60 cl de vin blanc sec</p>
+ <p>sel, poivre</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire la <ingredient>langue</ingredient> 1 h30 dans une <recipient>cocotte</recipient> - minute</operation>. epluchez l’ <ingredient>oignon</ingredient> et <operation>coupez le en petits morceaux</operation>. en fin de cuisson <operation>sortez la</operation> <ingredient>langue</ingredient> et <operation>épluchez - la</operation>. <operation>faire revenir les <ingredient>oignons</ingredient> coupés dans un mélange huile - beurre</operation>. rajouter la farine pour <operation>faire un roux</operation>. rajouter la <ingredient>sauce</ingredient> tomate et liquéfiez avec le <ingredient>vin blanc</ingredient>. rajouter les <ingredient>champignons</ingredient>. <operation>salez</operation> et <operation>poivrez,</operation> et <operation>goûtez</operation>.... couper la <ingredient>langues</ingredient> en tranches et mettre dans la <ingredient>sauce</ingredient> pendant 10 min. <operation>servez avec des tagliatelles et bon appétit</operation>. <ingredient>blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

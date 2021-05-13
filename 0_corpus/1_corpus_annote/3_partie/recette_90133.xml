@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90133">
+ <titre>Crumble saumon et brocolis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pavés de saumon</p>
+ <p>250 g de brocolis</p>
+ <p>3 cuillères à soupe de crème fraiche</p>
+ <p>1 échalote</p>
+ <p>ciboulette (ou aneth) </p>
+ <p>sel et poivre</p>
+ <p>Pour la pâte: </p>
+ <p>50 g de beurre</p>
+ <p>50 g de chapelure</p>
+ <p>30 g de parmesan</p>
+ <p>70 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les brocolis dans de l’ eau</operation> salée. pendant ce temps, mélanger la <ingredient>crème</ingredient>, l’ <ingredient>échalote</ingredient> et la <ingredient>ciboulette</ingredient>. réserver. couper le <ingredient>saumon</ingredient> en cubes. couper le beurre en petits morceaux. mélanger du bout des doigts avec la farine, la <ingredient>chapelure</ingredient> et le <ingredient>parmesan</ingredient> râpé afin d’ <operation>obtenir une <ingredient>pâte</ingredient> sableuse</operation>. dans un <recipient>plat</recipient> à gratin, mettre le <ingredient>saumon</ingredient>, les brocolis puis <operation>répartir le mélange <ingredient>crème</ingredient> - <ingredient>échalote</ingredient> - <ingredient>ciboulette</ingredient></operation>. <operation>recouvrir de <ingredient>pâte</ingredient></operation>. mettre au <recipient>four</recipient> à 200 ° c (thermostat 7) pendant environ 30 minutes jusqu’ à ce que le crumble soit bien doré. <operation>servir avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

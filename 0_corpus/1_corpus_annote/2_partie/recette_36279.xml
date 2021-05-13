@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36279">
+ <titre>Gratin de polenta bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de polenta</p>
+ <p>2 l de lait (ou 1 l de lait + 1 l d’ eau) </p>
+ <p>500g de viande hâchée </p>
+ <p>tomates (fraîches ou en boîtes) </p>
+ <p>épices (origan, herbes de provences...) </p>
+ <p>fromage râpé ou mozzarella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer une sauce bolognaise: <operation>faire revenir la <ingredient>viande</ingredient> hachée, saler</operation>, poivrer, mettre des <ingredient>épices</ingredient> (selon le goût) et ajouter les <ingredient>tomates</ingredient>. préparer une <ingredient>polenta</ingredient> dans du lait, ou coupé avec de l’ eau. verser la 1/2 de la <ingredient>polenta</ingredient> dans un <recipient>plat</recipient> à gratin, verser la sauce bolognaise, <operation>recouvrir avec le reste de la</operation> <ingredient>polenta</ingredient>, recouvrir de <ingredient>fromage râpé</ingredient> ou de tranches de mozzarella. gratiner au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 35 minutes. <operation>servir avec une salade</operation>... miam miam! on peut le <operation>faire aussi avec une sauce <ingredient>tomate</ingredient> -</operation> thon. ce <recipient>plat</recipient> change des spaghetti - bolognaises classiques.
+]]>
+ </preparation>
+</recette>

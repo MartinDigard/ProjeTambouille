@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23241">
+ <titre>Boulettes croustillantes (restes de pot-au-feu) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre cuites à la vapeur</p>
+ <p>200 g de restes de pot-au-feu (ou de rôti ou autre viande) </p>
+ <p>1 oeuf + 1 jaune</p>
+ <p>1/2 gousse d’ ail</p>
+ <p>persil frais</p>
+ <p>chapelure</p>
+ <p>farine</p>
+ <p>sel et poivre</p>
+ <p>huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation> et réduisez les <ingredient>pommes de terre</ingredient> en purée fine. <operation>ajoutez la viande hachée avec l’ <ingredient>ail</ingredient> et le</operation> <ingredient>persil</ingredient>, <operation>mélangez bien</operation> et <operation>ajoutez le <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient></operation>. <operation>salez</operation> et <operation>poivrez</operation>. <operation>formez une quinzaine de boulettes</operation>. passez - les dans la farine, puis dans l’ <ingredient>oeuf</ingredient> battu, et enfin dans la <ingredient>chapelure</ingredient>. <operation>faites - les frire à l’</operation> huile bien chaude, <operation>laissez dorer et égouttez avant de</operation> <operation>servir</operation>.
+]]>
+ </preparation>
+</recette>

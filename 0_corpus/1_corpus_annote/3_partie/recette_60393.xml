@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60393">
+ <titre>Salade de tomate cerise</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de tomates cerises</p>
+ <p>50 g de coeur de palmier</p>
+ <p>1/2 avocat</p>
+ <p>25 g de crevettes roses</p>
+ <p>40 g de feta</p>
+ <p>1 oeuf cru</p>
+ <p>1 cuillère à café de citron</p>
+ <p>15 cl d’ huile</p>
+ <p>1 cuillère à café de vinaigre</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>sel, poivre</p>
+ <p>fines herbes au choix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egouttez les <ingredient>coeurs de palmier</ingredient>, <operation>coupez - les en rondelles</operation>. <operation>lavez les <ingredient>tomates</ingredient></operation>. <operation>taillez la <ingredient>feta</ingredient> en dés</operation>. <operation>coupez l’ <ingredient>avocat</ingredient> en tranches</operation> et <operation>versez du jus de <ingredient>citron</ingredient> dessus</operation>. <operation>préparez une mayonnaise avec l’</operation> huile, le jaune d’ <ingredient>oeuf</ingredient>, la <ingredient>moutarde</ingredient>, le <ingredient>vinaigre</ingredient>, le <ingredient>sel</ingredient> et le poivre. <operation>ajoutez les <ingredient>herbes</ingredient> à la <ingredient>fin</ingredient> (sans remixer</operation>). <operation>mélangez les ingrédients de la salade</operation> et <operation>servez avec des petits dômes de mayonnaise aux <ingredient>herbes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52487">
+ <titre>Steak fondant aux pommes et bleu</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 steak hachés</p>
+ <p>2 pommes</p>
+ <p>25 g de roquefort</p>
+ <p>huile </p>
+ <p>poivre et sel</p>
+ <p>1/4 d’ oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer à la <recipient>poêle</recipient> le 1/4 d’ <ingredient>oignon</ingredient></operation> coupé finement avec une cuillère à soupe d huile. puis, ajouter les <ingredient>pommes</ingredient> épluchées et coupées en lamelles, à feu très doux. dans une autre <recipient>poêle</recipient>, <operation>faire cuire les <ingredient>steaks</ingredient> hachés</operation>. une fois cuits à votre goût, les <operation>recouvrir de</operation> <ingredient>roquefort</ingredient> et <operation>laisser chauffer la <recipient>poêle</recipient> jusqu’ à ce qu il soit</operation> fondu ; puis les <operation>recouvrir avec <ingredient>pommes</ingredient> et <ingredient>oignons</ingredient></operation>. un sauterne pour relevé le sucré des <ingredient>pommes</ingredient>
+]]>
+ </preparation>
+</recette>

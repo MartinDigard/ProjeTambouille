@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20120">
+ <titre>Tarte aux oeufs au lait</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>1 pâte brisée</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>vanille, cannelle</p>
+ <p>1 cuillère à soupe de fécule</p>
+ <p>3 oeufs</p>
+ <p>15 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez une <ingredient>pâte</ingredient> brisée</operation> ou <operation>achetez en une bonne et au beurre</operation>. <operation>faites bouillir 1/2 litre de lait avec le <ingredient>sucre</ingredient>, la <ingredient>vanille</ingredient> et un peu de <ingredient>cannelle</ingredient></operation>. <operation>ajoutez une cuillerée de <ingredient>fécule</ingredient> délayée dans un peu de lait froid</operation>. <operation>laissez cuire en tournant, 5 minutes, en</operation> ajoutant un peu de beurre. <operation>retirez du feu</operation>. quand le lait est refroidi, <operation>incorporez trois <ingredient>oeufs</ingredient></operation> battus. garnissez une tourtière avec la <ingredient>pâte</ingredient> brisée et <operation>versez la crème par dessus</operation>. <operation>faites cuire au <recipient>four</recipient> une vingtaine de minutes</operation>. cette tarte garantit de bons souvenirs aux enfants...
+]]>
+ </preparation>
+</recette>

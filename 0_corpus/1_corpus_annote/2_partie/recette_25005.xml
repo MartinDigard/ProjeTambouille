@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25005">
+ <titre>Jambon persillé à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tranches de jambon blanc</p>
+ <p>4 gousses d’ ail</p>
+ <p>1/2 bouquet de persil</p>
+ <p>25 cl de crème liquide</p>
+ <p>1 boîte de concentré de tomate 70 g</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>préparez votre persillade</operation>. préchauffez votre <recipient>four</recipient> th 6 (180 ° c). <operation>etalez votre <ingredient>jambon</ingredient> et enlevez la couenne</operation>, tartiner légèrement de concentré de <ingredient>tomate</ingredient>, <operation>salez</operation>, <operation>poivrez et parsemez de persillade</operation>, roulez la <ingredient>tranche de jambon</ingredient>. <operation>rangez dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. sur le <ingredient>jambon</ingredient> rangé, <operation>mettez le reste de</operation> concentré de <ingredient>tomate</ingredient>, le rete de persillade, puis <operation>ajoutez la <ingredient>crème</ingredient></operation>. mettre au <recipient>four</recipient> pendant 40 mn. a <operation>servir avec une purée</operation>.
+]]>
+ </preparation>
+</recette>

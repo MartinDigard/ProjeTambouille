@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29812">
+ <titre>Gratin de blettes express</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de blettes</p>
+ <p>80 g de fromage râpé</p>
+ <p>1 à 2 pincées de persil haché</p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>40 cl de crème épaisse</p>
+ <p>1 pincée de noix de muscade</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites blanchir les <ingredient>blettes</ingredient> à l’ eau bouillante pendant 20 à 25 min,</operation> et <operation>égouttez</operation>. <operation>disposez une couche de <ingredient>blettes</ingredient> dans un <recipient>plat</recipient> à gratin huilé,</operation> et assaisonnez avec <ingredient>muscade râpée</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>. saupoudrez de <ingredient>fromage râpé</ingredient> et d’ une <ingredient>pincée de persil haché</ingredient>... <operation>remplir le <recipient>plat</recipient> à gratin de plusieurs couches de <ingredient>blettes</ingredient> et <ingredient>fromage</ingredient></operation>. <operation>faites une sauce <ingredient>épaisse</ingredient> avec les 2 <ingredient>jaunes</ingredient> d’ <ingredient>oeuf</ingredient> battus et la <ingredient>crème</ingredient> fraîche</operation>. <operation>versez - la sur les <ingredient>blettes</ingredient></operation>. <operation>saupoudrez de chapelure</operation> et <operation>faites gratiner à <recipient>four</recipient></operation> chaud pendant 15 min.
+]]>
+ </preparation>
+</recette>

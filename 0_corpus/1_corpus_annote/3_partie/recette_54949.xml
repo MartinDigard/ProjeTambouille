@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54949">
+ <titre>Lapin à la Tapenade</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 beau lapin entier</p>
+ <p>4 oignons </p>
+ <p>2 échalotes</p>
+ <p>200 g de champignons de Paris cuits</p>
+ <p>150 g d’ olives noires (dénoyautées c’ est plus pratique à manger!) </p>
+ <p>80 g de tapenade noire</p>
+ <p>persil haché</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ <p>30 g de beurre</p>
+ <p>20 cl de vin blanc sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>découpez le <ingredient>lapin</ingredient> en morceaux</operation>, <operation>faites - le</operation> sauter dans une <recipient>cocotte</recipient> avec l’ huile, <operation>salez</operation> et <operation>poivrez</operation>, <operation>réservez</operation>. emincez les <ingredient>oignons</ingredient> et les <ingredient>échalotes</ingredient> et <operation>faites les</operation> cuire dans la <recipient>cocotte</recipient> avec le beurre jusqu’ à ce qu’ ils soient translucides. <operation>ajoutez les</operation> <ingredient>champignons</ingredient> (<operation>faites - les</operation> cuire à la vapeur au préalable s’ ils sont crus). <operation>laissez mijoter 5 min</operation> puis <operation>remettez les morceaux de <ingredient>lapins</ingredient> avec le <ingredient>vin</ingredient> et couvrez pour 40 min de cuisson supplémentaires</operation>. <operation>ajoutez les <ingredient>olives</ingredient>, au bout de 5 min</operation> <operation>retirez le</operation> <ingredient>lapin</ingredient> et <operation>disposez - le sur un <recipient>plat</recipient> de service</operation>. <operation>mélangez la <ingredient>tapenade</ingredient> à la préparation sur feu très doux</operation> et <operation>ajoutez le <ingredient>persil</ingredient></operation>. <operation>versez aussitôt sur le</operation> <ingredient>lapin</ingredient> et <operation>servez</operation>. bon appétit! a <operation>servir avec des pommes de terre vapeur, ou des frites</operation>.
+]]>
+ </preparation>
+</recette>

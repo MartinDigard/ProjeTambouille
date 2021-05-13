@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58326">
+ <titre>Quiche printanière aux fèves et amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tranches de bacon</p>
+ <p>350 g de pâte brisée</p>
+ <p>300 g de jeunes fèves écossées</p>
+ <p>4 oeufs</p>
+ <p>25 cl de crème liquide</p>
+ <p>20 g de beurre</p>
+ <p>125 g d’ amandes mondées</p>
+ <p>1 cuillère à soupe de thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>chauffez le <recipient>four</recipient> à thermostat 7</operation>. <operation>etalez la</operation> <ingredient>pâte</ingredient> et <operation>piquez le fond</operation>. plongez les <ingredient>jeunes fèves</ingredient> 1 min dans l’ eau bouillante salée et <operation>égouttez - les bien</operation>. disposez - les sur le fond de tarte. <operation>concassez les</operation> <ingredient>amandes</ingredient> et <operation>saupoudrez sur les <ingredient>fèves</ingredient></operation>. <operation>détaillez le <ingredient>bacon</ingredient> en lamelles et les</operation> <operation>rissolez,</operation> puis <operation>disposez</operation> - les sur la tarte. <operation>fouettez les <ingredient>oeufs</ingredient> dans un bol avec la <ingredient>crème</ingredient>, le <ingredient>thym</ingredient>, le <ingredient>sel</ingredient> et le poivre</operation>. <operation>versez la préparation sur les <ingredient>fèves</ingredient> et enfournez pour 25 min</operation>. on peut remplacer la <ingredient>pâte brisée</ingredient> par une <ingredient>pâte</ingredient> sablée et le <ingredient>bacon</ingredient> par des dès de jambon, on peut aussi ajouter des rondelles de tomates dessus.
+]]>
+ </preparation>
+</recette>

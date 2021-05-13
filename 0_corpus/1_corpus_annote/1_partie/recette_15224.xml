@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15224">
+ <titre>Sauté de volaille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g d’ escalopes de dinde </p>
+ <p>1 oignon</p>
+ <p>une dosette de safran (ou des épices à paella...c’ est moins cher!) </p>
+ <p>2 cuillères à café de fond de volaille</p>
+ <p>2 cuillères à soupe de vinaigre (celui que vous voulez, moi j’ ai une préférence pour le balsamique) </p>
+ <p>huile, sel et poivre</p>
+ <p>Pour l’ accompagnement: </p>
+ <p>500 g de poireaux</p>
+ <p>100 g de riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>escalopes</ingredient> en dés</operation>. <operation>faites - les</operation> <operation>revenir 4 mn à la <recipient>poêle</recipient> dans l’ <ingredient>huile</ingredient></operation>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>retirez - les de la <recipient>poêle</recipient></operation>. remplacez - les par l’ <ingredient>oignon</ingredient> émincé et <operation>laissez revenir 2 mn</operation>. <operation>rajoutez la viande, le <ingredient>vinaigre</ingredient>, 10 cl d’ eau, le <ingredient>safran</ingredient> et le <ingredient>fond</ingredient> de veau</operation>. remuez bien l’ ensemble pour que tout prenne une belle couleur caramel. <operation>couvrez</operation> et <operation>laisser cuire 20 mn à feu très doux</operation>. pendant ce temps, <operation>lavez et émincez les <ingredient>poireaux</ingredient> (</operation> ou <operation>achetez des <ingredient>poireaux</ingredient></operation> émincés congelés). <operation>faites - les</operation> cuire avec le <ingredient>riz</ingredient> (dans la même <recipient>casserole</recipient>) 20 mn dans l’ eau bouillante salée, <operation>égouttez le tout et c’ est prêt! attention, ces proportions sont pour 2 personnes</operation>. vous n’ êtes pas obligés de <operation>servir la viande avec cet accompagnement</operation>.
+]]>
+ </preparation>
+</recette>

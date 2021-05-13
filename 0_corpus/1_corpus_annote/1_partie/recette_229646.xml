@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229646">
+ <titre>Rôti de veau en rouge et vert</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de rôti de veau</p>
+ <p>2 belles tomates</p>
+ <p>1 poivron vert</p>
+ <p>100 g de lardons fumés</p>
+ <p>7 cl d’ eau</p>
+ <p>1 gousse d’ ail </p>
+ <p>1/2 oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le rôti dans le <recipient>plat</recipient> (au milieu). couper les <ingredient>tomates</ingredient> en cubes et couper le <ingredient>poivron vert</ingredient> en lamelles. mélanger les <ingredient>lardons</ingredient> avec les <ingredient>tomates</ingredient> et le <ingredient>poivrons vert</ingredient>. couper une gousse d’ <ingredient>ail</ingredient> et 1/2 <ingredient>oignon</ingredient>. disposer le tout autour du rôti de <ingredient>veau</ingredient>. ajouter l’ <ingredient>eau</ingredient> et mettre au <recipient>four</recipient>. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22020">
+ <titre>Pizza crevettes poivron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de pâte à pizza</p>
+ <p>300 g de crevettes décortiquées</p>
+ <p>1 poivron rouge, 1 vert et 1 jaune</p>
+ <p>300 g de concentré de tomates</p>
+ <p>200 g de jambon cuit</p>
+ <p>200 g de champignons</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>8 olives vertes</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 branchette de thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer tous les <ingredient>poivrons</ingredient> en rondelles et les <operation>faire revenir avec le <ingredient>jambon</ingredient></operation> coupé en dès et l’ <ingredient>ail</ingredient> dans deux <ingredient>cuillères à soupe</ingredient> d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. préchauffer le <recipient>four</recipient> à 240 ° c (thermostat 8). etaler le concentré de <ingredient>tomate</ingredient> sur la pâte puis, <operation>répartir</operation> dessus les <ingredient>poivrons</ingredient>, le <ingredient>jambon</ingredient>, les <ingredient>champignons</ingredient>, les <ingredient>olives</ingredient> dénoyautées et coupées en deux et les <ingredient>crevettes</ingredient>. saler, poivrer et parsemer de <ingredient>thym</ingredient>. ajouter 2 ou 3 filets d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> et enfourner pour 20 min.
+]]>
+ </preparation>
+</recette>

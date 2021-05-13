@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24275">
+ <titre>Mulet au potiron et au riz</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de mulet</p>
+ <p>2 oignons </p>
+ <p>2 morceaux de potiron</p>
+ <p>concentré de tomates</p>
+ <p>huile d’ olive</p>
+ <p>riz </p>
+ <p>eau</p>
+ <p>piment</p>
+ <p>sel </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>oignons</ingredient></operation> ciselés et la purée de <ingredient>tomate</ingredient> dans une <recipient>poêle</recipient> avec de l’ huile d’ <ingredient>olive</ingredient>. ajouter un peu d’ <ingredient>eau</ingredient>, des <ingredient>piments</ingredient>, du <ingredient>sel</ingredient> et les morceaux de <ingredient>potiron</ingredient>, puis <operation>faire mijoter 15 min</operation>. couper les <ingredient>filets</ingredient> en dés et les incorporer au bouillon. lorsqu’ ils sont cuits, les enlever de la <recipient>casserole</recipient> et les réserver au chaud avec les morceaux de <ingredient>potiron</ingredient>. <operation>faire cuire le <ingredient>riz</ingredient> dans le bouillon</operation> et <operation>servir le tout dans un <recipient>plat</recipient></operation> adapté.
+]]>
+ </preparation>
+</recette>

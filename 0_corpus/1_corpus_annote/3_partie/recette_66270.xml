@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66270">
+ <titre>Mousse d’ avocat aux oeufs de saumon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g d’ oeufs de saumon</p>
+ <p>6 avocats</p>
+ <p>3 citrons verts</p>
+ <p>1 petit bouquet d’ aneth</p>
+ <p>15 cl de crème liquide</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pressez les <ingredient>citrons</ingredient></operation>. <operation>mixez la chaire des <ingredient>avocats</ingredient> avec le jus de</operation> <ingredient>citron</ingredient>, <operation>salez</operation> et <operation>poivrez</operation>. <operation>montez la</operation> crème en chantilly, <operation>salez</operation>, <operation>poivrez</operation> et <operation>mélangez avec la purée d’ <ingredient>avocat</ingredient></operation>. <operation>réservez au frais</operation>. <operation>présentez dans des verrines: au fond de verres la moitié des</operation> <ingredient>oeufs</ingredient>, <operation>recouvrez de</operation> mousse et <operation>ajoutez le reste des <ingredient>oeufs</ingredient></operation>. <operation>ajoutez l’ <ingredient>aneth</ingredient> en décoration</operation>.
+]]>
+ </preparation>
+</recette>

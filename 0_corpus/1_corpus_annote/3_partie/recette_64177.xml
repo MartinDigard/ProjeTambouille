@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64177">
+ <titre>Rougail z’ oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>8 oeufs</p>
+ <p>4 échalotes</p>
+ <p>huile d’ olive</p>
+ <p>curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les <ingredient>oeufs</ingredient> durs</operation>. couper les <ingredient>tomates</ingredient> et les <ingredient>échalotes</ingredient> en dés. dans une <recipient>marmite</recipient>, <operation>faire revenir les <ingredient>échalotes</ingredient> dans l’ huile d’ <ingredient>olive</ingredient>, puis y</operation> ajouter les <ingredient>tomates</ingredient>. ajouter une cuillère à café de <ingredient>curcuma</ingredient>, saler, poivrer, puis <operation>laisser réduire à feu doux 15 minutes</operation>. pendant ce temps, éplucher les <ingredient>oeufs</ingredient>. une fois que la sauce a réduit, y ajouter les <ingredient>oeufs</ingredient> et remettre à feu doux pendant 15 minutes. <operation>servir avec du riz et des grains (haricots, lentilles</operation>...) dans lequel on peut ajouter un peu de <ingredient>curcuma</ingredient>. vous pouvez aussi <operation>faire une sauce rougail en</operation> hachant une <ingredient>tomate</ingredient> et deux <ingredient>échalotes</ingredient> assaisonnées avec de l’ huile d’ <ingredient>olive</ingredient>, du citron et du piment.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30067">
+ <titre>Filets de daurade sauce rouille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filets de daurade (ou autre poisson type rascasse) </p>
+ <p>200 g de riz</p>
+ <p>2 tomates</p>
+ <p>huile</p>
+ <p>sel, poivre</p>
+ <p>Pour la sauce rouille: </p>
+ <p>3 gousses d’ ail</p>
+ <p>1 petit piment fort</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>1 pomme de terre cuite</p>
+ <p>25 cl d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites <ingredient>cuire</ingredient> le <ingredient>riz</ingredient> dans 2 fois son volume d’ eau bouillante</operation> salée, environ 20 min à feu doux et couvert. <operation>préparez la</operation> <ingredient>rouille</ingredient>: pilez l’ <ingredient>ail</ingredient> et le <ingredient>piment</ingredient> avec le <ingredient>jaune</ingredient> d’ <ingredient>oeuf</ingredient> et la <ingredient>pomme de terre</ingredient> écrasée à la fourchette. <operation>salez,</operation> <operation>poivrez</operation> et <operation>travaillez le tout en pommade</operation>. <operation>versez peu à peu l’</operation> huile en fouettant comme une mayonnaise. <operation>disposez les <ingredient>filets</ingredient> de poisson dans un <recipient>plat</recipient> à <recipient>four</recipient> huilé</operation>. <operation>arrosez - les d’ un <ingredient>filet</ingredient> d’</operation> <ingredient>huile</ingredient>, <operation>salez,</operation> <operation>poivrez</operation> et couvrez de papier d’ aluminium. <operation>faites - les <ingredient>cuire</ingredient> 20 min au <recipient>four</recipient> à 220 ° c (thermostat 7 - 8</operation>). pendant ce temps, <operation>faites <ingredient>cuire</ingredient> les <ingredient>tomates</ingredient></operation> coupées en tranches avec un peu d’ huile. <operation>salez,</operation> <operation>poivrez</operation>. servez les <ingredient>filets</ingredient> de daurade avec le <ingredient>riz</ingredient>, les <ingredient>tomates</ingredient> et la <ingredient>sauce rouille</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27709">
+ <titre>Quiche mozzarella façon oncle Jean</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée toute prête</p>
+ <p>150 g de mozzarella</p>
+ <p>quelques olives noires dénoyautées</p>
+ <p>2 oeufs</p>
+ <p>25 cl de crème liquide</p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient>pâte feuilletée</ingredient> dans un <recipient>plat</recipient> à tarte, déposer en petits morceaux la mozzarella et les <ingredient>olives noires</ingredient>. battre les <ingredient>oeufs</ingredient>, et mélanger avec la <ingredient>crème</ingredient> et le <ingredient>parmesan</ingredient> puis <operation>recouvrir la <ingredient>pâte</ingredient></operation>. <operation>faire cuire 40</operation> mn à 200 ° c et <operation>servir avec une salade</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27802">
+ <titre>Crème aux blancs d’ oeufs</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 blancs d’ oeufs</p>
+ <p>60 g de sucre</p>
+ <p>35 cl de lait</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire tiédir le lait avec le <ingredient>sucre</ingredient></operation>. battre les blancs d’ <ingredient>oeufs</ingredient> en neige ferme puis incorporer le <ingredient>sucre vanillé</ingredient> pour les serrer. ajouter progressivement le lait en le versant en un mince filet sur le bord du bol. remettre dans une <recipient>casserole</recipient> et <operation>laisser cuire à feu doux en</operation> remuant constamment jusqu’ à ce que le mélange soit bien épais. passer au <operation>tamis s’ il y</operation> a des grumeaux. <operation>répartir la préparation dans des coupes</operation>, <operation>laisser refroidir</operation> puis placer au <recipient>réfrigérateur</recipient>. servir froid.
+]]>
+ </preparation>
+</recette>

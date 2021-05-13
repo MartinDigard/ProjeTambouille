@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54492">
+ <titre>Poulet aux differentes épices</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuisses de poulet</p>
+ <p>les 2/3 d’ un petit pot de crème épaisse</p>
+ <p>1 cuillère à soupe de paprika</p>
+ <p>2 pointes de couteau de piment</p>
+ <p>1 cuillère à café d’ herbes de Provence</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). disposez les <ingredient>cuisses de poulet</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient>. mélangez la <ingredient>crème</ingredient>, le <ingredient>paprika</ingredient>, le <ingredient>piment</ingredient>, les <ingredient>herbes de provence</ingredient>, le <ingredient>sel</ingredient> et le poivre. <operation>versez le mélange sur le <ingredient>poulet</ingredient> et malaxez pour tout bien</operation> <operation>répartir</operation>. <operation>mettez le tout au <recipient>four</recipient> pendant 30 minutes</operation>. <operation>arrosez de temps en temps avec le jus qui se</operation> forme. j’ ai accompagné le <recipient>plat</recipient> avec des lentilles, ça allait bien ensemble.
+]]>
+ </preparation>
+</recette>

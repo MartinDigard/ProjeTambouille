@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11578">
+ <titre>Gibelotte de lapin</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>beurre</p>
+ <p>farine</p>
+ <p>10 cl d’ eau de vie</p>
+ <p>vin blanc sec</p>
+ <p>bouillon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>200 g de lardons</p>
+ <p>24 petits oignons blancs</p>
+ <p>sel, poivre</p>
+ <p>croûtons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>dépouillez, videz</operation>, <operation>coupez le <ingredient>lapin</ingredient> en morceaux</operation>. essuyez, puis <operation>salez</operation> et <operation>poivrez les morceaux</operation>. dans une <recipient>cocotte</recipient>, mettre moitié <ingredient>beurre</ingredient> et moitié huile, <operation>faites dorer les morceaux</operation>. <operation>farinez légèrement</operation> et <operation>faites roussir tout en</operation> remuant à la spatule. ajoutez l’ <ingredient>eau de vie</ingredient>, <operation>chauffez</operation> puis <operation>enflammez</operation>. ensuite, mouillez à mi-hauteur de moitié <ingredient>vin blanc sec</ingredient> et moitié <ingredient>bouillon</ingredient>. <operation>ajoutez l’ <ingredient>ail</ingredient></operation> écrasé et le <ingredient>bouquet garni</ingredient>. <operation>portez à ébullition, couvrez</operation> et <operation>faites cuire 30 minutes sur feu doux</operation>. ajoutez alors les <ingredient>lardons</ingredient> blanchis et les <ingredient>petits oignons</ingredient>. <operation>faites cuire encore 30 minutes</operation>. <operation>servez avec des <ingredient>croûtons</ingredient> frits</operation>.
+]]>
+ </preparation>
+</recette>

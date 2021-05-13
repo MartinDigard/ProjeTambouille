@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60319">
+ <titre>Flan aux oeufs facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>75 g de farine + 75 g de fleur de mais (ou maizena) </p>
+ <p>100 g de cassonade et 50 g de vergeoise brune, ou 150 g de cassonade (la vergeoise est plus corsée) </p>
+ <p>2 cuillères à soupe de cassonade</p>
+ <p>4 oeufs entiers</p>
+ <p>40 cl de lait</p>
+ <p>125 g de beurre</p>
+ <p>1 cuillère à soupe de rhum (dosage à adapter selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire préchauffer le <recipient>four</recipient> thermostat 7 (210 ° c) dans un <recipient>saladier</recipient></operation>, mélanger la farine et le sucre puis ajouter les <ingredient>oeufs</ingredient> un à un. ajouter le <ingredient>rhum</ingredient>, fouetter énergiquement, jusqu’ à <operation>obtenir un mélange homogène</operation>. <operation>faire fondre le beurre, et l’</operation> incorporer au mélange, ajouter le lait petit à petit. verser dans un <recipient>moule</recipient> préalablement beurré et saupoudrer de deux <ingredient>cuillères de cassonade</ingredient>. <operation>laisser cuire 30 min thermostat 7 (210 ° c</operation>). attention, il vaut mieux surveiller la cuisson, qui varie selon le type de <recipient>four</recipient> dont vous <operation>disposez</operation>. perso, je le faiw cuire 20 min à chaleur tournante position " grill et bas ", et 10 min sans le grill. testée aussi avec de la liqueur de pain d’ épice à la place du <ingredient>rhum</ingredient>. l’ homme de la maison adore ce flan, qui a rarement le temps de refroidir. meilleur tiède, parait -il...
+]]>
+ </preparation>
+</recette>

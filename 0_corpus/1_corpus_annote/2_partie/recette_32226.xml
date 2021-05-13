@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32226">
+ <titre>Tarte aux carottes et aux épices</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte brisée: </p>
+ <p>200 g de farine</p>
+ <p>100 g de beurre</p>
+ <p>50 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la garniture: </p>
+ <p>400 g de carottes</p>
+ <p>250 g de sucre de canne</p>
+ <p>le jus de 2 oranges</p>
+ <p>le jus et le zeste d’ 1 citron</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>1 cuillère à café de gingembre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire la</operation> <ingredient>pâte</ingredient>: mélanger <ingredient>farine</ingredient>, <ingredient>sucre</ingredient> et <ingredient>sel</ingredient>, casser l’ <ingredient>oeuf</ingredient> au centre, travailler rapidement pour <operation>obtenir un aspect sableux</operation>, ajouter le beurre en petits morceaux et travailler jusqu’ à obtention d’ une boule lisse. <operation>laisser reposer au <recipient>réfrigérateur</recipient></operation>. eplucher et râper les <ingredient>carottes</ingredient>. presser les <ingredient>oranges</ingredient> et <ingredient>le citron</ingredient> après en avoir râpé le <ingredient>zeste</ingredient>. mettre les <ingredient>carottes</ingredient> dans une <recipient>casserole</recipient> avec le <ingredient>sucre</ingredient>, le <ingredient>zeste</ingredient> de <ingredient>citron</ingredient>, les <ingredient>jus et</ingredient> les épices et <operation>faire cuire à feu doux jusqu’ à l’ obtention d’ un sirop épais (il ne</operation> doit ni caraméliser ni être trop liquide). pendant cette cuisson, abaisser le fond de tarte sur 3 mm et le <operation>faire cuire à blanc jusqu’ à ce qu’ il soit</operation> doré (<recipient>four</recipient> th 7). retirer du <recipient>four</recipient> et <operation>garnir avec les <ingredient>carottes</ingredient> cristallisées</operation>. a <operation>servir tiède de préférence! la première que je</operation> l’ ai faite, la <ingredient>garniture</ingredient> était beaucoup trop liquide, n’ hésitez pas à <operation>faire cuire les <ingredient>carottes</ingredient> assez longtemps</operation>!
+]]>
+ </preparation>
+</recette>

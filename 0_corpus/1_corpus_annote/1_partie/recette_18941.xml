@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18941">
+ <titre>Tarte rouille au poisson</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>500 g de filets de poisson frais</p>
+ <p>20 g de beurre</p>
+ <p>20 cl de crème liquide</p>
+ <p>100 g de concentré de tomates</p>
+ <p>1 verre à liqueur de whisky</p>
+ <p>2 oeufs</p>
+ <p>sel et poivre</p>
+ <p>50 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les échalotes</operation> hachées avec une noix de beurre dans une <recipient>poêle</recipient>. lorsque c’ est doré, faite cuire le <ingredient>poisson</ingredient> cru en l’ émiettant avec une cuillère en bois. <operation>salez</operation> <operation>poivez</operation>. <operation>ajoutez le <ingredient>whisky</ingredient> puis le concentré de <ingredient>tomates</ingredient></operation>. puis <operation>ajoutez la <ingredient>crème</ingredient></operation>. <operation>mélangez bien</operation>. battez les <ingredient>oeufs</ingredient>, puis <operation>ajoutez y le <ingredient>râpé</ingredient></operation>. hors du feu <operation>ajoutez ce mélange au</operation> <ingredient>poisson</ingredient> puis <operation>versez le tout sur la <ingredient>pâte</ingredient> préalablement</operation> passée au <recipient>four</recipient> 10 mn. <operation>saupoudrez d’ un peu de</operation> <ingredient>râpé</ingredient> et <operation>faire cuire environ 40</operation> mn à 200 ° c peu servir de <recipient>plat</recipient> principal le soir avec une salade. un blanc sec
+]]>
+ </preparation>
+</recette>

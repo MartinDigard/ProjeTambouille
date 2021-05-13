@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21656">
+ <titre>Riz aux crevettes et oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz long grain</p>
+ <p>300 g de crevettes cuites et décortiquées</p>
+ <p>2 oignons</p>
+ <p>1 poivron</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>epépinez</operation> et <operation>découpez le <ingredient>poivron</ingredient> en dés</operation>, <operation>pilez l’ <ingredient>ail</ingredient></operation>. hachez les <ingredient>oignons</ingredient>, <operation>faites - les suer dans l’ <ingredient>huile</ingredient> chaude dans une <recipient>sauteuse</recipient></operation>. <operation>ajoutez le <ingredient>riz</ingredient> et remuez jusqu’ à ce qu’ il</operation> devienne transparent et légèrement coloré. <operation>mouillez avec 2 fois le volume du <ingredient>riz</ingredient> en eau (ou bouillon, ou fumet)</operation>, <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez le <ingredient>poivron</ingredient> et l’ <ingredient>ail</ingredient></operation>. <operation>portez à ébullition</operation> puis <operation>baissez le feu</operation>, <operation>couvrez</operation> et <operation>laissez mijoter 10 min</operation>. <operation>ajoutez les</operation> <ingredient>crevettes</ingredient> et <operation>laissez cuire encore 10 minu</operation> puis <operation>servez</operation>. vous pouvez mettre d’ autres légumes, et ajoutez herbes et épices selon vos goûts. cette recette s’ adaptera à vos placards!
+]]>
+ </preparation>
+</recette>

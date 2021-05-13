@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20429">
+ <titre>Moussaka à la grecque</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 aubergines</p>
+ <p>300 g de boeuf haché</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>1 cuillère à soupe de concentré de tomate</p>
+ <p>25 cl de sauce béchamel au fromage</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>pelez</operation> et <operation>coupez les <ingredient>aubergines</ingredient> en tranches</operation>. <operation>saupoudrez de gros sel</operation> et <operation>laissez dégorger pendant 30 minutes</operation>. <operation>faites revenir la viande à l’ huile d’ olive avec l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient> hachés, le <ingredient>persil</ingredient>, du sel et du poivre</operation>. ajoutez le <ingredient>concentré de tomates</ingredient> et <operation>laissez cuire 30 minutes</operation>. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). rincez les <ingredient>aubergines</ingredient> et essuyez - les soigneusement. disposez les <ingredient>aubergines</ingredient> et la viande en couches alternées dans un <recipient>plat</recipient> à <recipient>four</recipient>. <operation>terminez par des</operation> <ingredient>aubergines</ingredient>, nappez de sauce <ingredient>béchamel au fromage</ingredient> et <operation>enfournez 30 - 35 jusqu’ à ce que le dessus soit</operation> gratiné.
+]]>
+ </preparation>
+</recette>

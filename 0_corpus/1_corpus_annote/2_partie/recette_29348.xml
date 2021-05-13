@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29348">
+ <titre>Boeuf braisé aux pâtes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>750 g de viande de boeuf (macreuse) </p>
+ <p>350 g de pâtes courtes tupes macaronis ou coquillettes</p>
+ <p>2 tomates</p>
+ <p>3 gousses d’ ail</p>
+ <p>2 branches de persil</p>
+ <p>1 g de safran</p>
+ <p>1 feuille de laurier</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>100 g de fromage râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites dorer la <ingredient>viande</ingredient> dans l’ huile chaude</operation>, <operation>couvrez</operation> et <operation>laissez mijoter 1 heure à feu doux</operation>. quand la <ingredient>viande</ingredient> est cuite, <operation>ajoutez l’ <ingredient>ail</ingredient></operation> haché, les <ingredient>tomates</ingredient> pelées et concassées, le <ingredient>persil</ingredient>, le <ingredient>safran</ingredient>, la feuille de <ingredient>laurier</ingredient>, du <ingredient>sel</ingredient> et du poivre. <operation>laissez mijoter 10 minutes</operation> puis <operation>couvrez d’ eau</operation>. <operation>versez les <ingredient>pâtes</ingredient> dans l’ eau avec la</operation> <ingredient>viande</ingredient> et <operation>laissez cuire jusqu’ à ce que le bouillon soit</operation> absorbé. servez avec le <ingredient>fromage râpé</ingredient> à part.
+]]>
+ </preparation>
+</recette>

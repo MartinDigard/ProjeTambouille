@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60266">
+ <titre>Pain perdu au sirop d’ érable</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>25 cl de lait</p>
+ <p>12, 5 cl de sirop d’ érable</p>
+ <p>3 cuillères à thé de cassonade </p>
+ <p>cannelle au goût</p>
+ <p>beurre</p>
+ <p>6 tranches de pain rassis</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez d’ abord les <ingredient>oeufs</ingredient>, le lait et le <ingredient>sirop</ingredient> d’ <ingredient>érable</ingredient> dans un bol assez grand pour</operation> accueillir une <ingredient>tranche de pain</ingredient>. après avoir bien mélangé, <operation>rajoutez la <ingredient>cassonade</ingredient> et la <ingredient>cannelle</ingredient></operation>. ensuite, trempez bien une <ingredient>tranche de pain</ingredient> dans le mélange. dans une <recipient>poêle</recipient>, <operation>faites fondre assez de beurre pour</operation> <operation>couvrir le fond</operation>. <operation>faites ensuite</operation> dorer des deux côtés la <ingredient>tranche de pain</ingredient> trempée. n’ <operation>ayez pas peur de légèrement la</operation> brûler, cela donnera du croustillant à votre <recipient>plat</recipient>.
+]]>
+ </preparation>
+</recette>

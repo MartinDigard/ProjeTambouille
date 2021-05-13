@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54657">
+ <titre>Velouté de courgettes à la coriandre et au curry</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 belles courgettes</p>
+ <p>1 oignon</p>
+ <p>1 bouillon cube</p>
+ <p>1 petit bouquet de coriandre fraîche</p>
+ <p>1 morceau de beurre</p>
+ <p>1 cuillère à café de curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher grossièrement l’ <ingredient>oignon</ingredient> et le <operation>faire revenir dans le <ingredient>beurre</ingredient></operation>. pendant ce temps, laver et couper les <ingredient>courgettes</ingredient>. ajouter les <ingredient>courgettes</ingredient> à l’ <ingredient>oignon</ingredient> et <operation>faire revenir 10 min</operation>. ajouter 50 cl d’ eau et le <ingredient>bouillon cube</ingredient>, <operation>laisser cuire à couvert pendant 15 min</operation>. mixer le tout, ajouter la <ingredient>coriandre</ingredient> et le <ingredient>curry</ingredient>.
+]]>
+ </preparation>
+</recette>

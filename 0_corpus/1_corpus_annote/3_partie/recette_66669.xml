@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66669">
+ <titre>Poêlée rennaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses saucisses fumées</p>
+ <p>1 oignon rose breton</p>
+ <p>1 cuillère à soupe de beurre 1/2 sel</p>
+ <p>1 cuillère à soupe de miel (ex: châtaignier) </p>
+ <p>1 cuillère à soupe de moutarde douce au miel</p>
+ <p>1 grosse pomme, sinon 2 petites</p>
+ <p>8 pommes de terre</p>
+ <p>200 ml de cidre bouché</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>beurre</ingredient> dans une <recipient>sauteuse</recipient> puis y</operation> <operation>faire revenir l’ <ingredient>oignon</ingredient></operation> émincé. pendant ce temps, couper les <ingredient>saucisses</ingredient> en rondelles d’ un centimètre environ, peler et laver les <ingredient>pommes de terre</ingredient>. dès que l’ <ingredient>oignon</ingredient> est bien blond, ajouter les rondelles de <ingredient>saucisse</ingredient>, le <ingredient>miel</ingredient>, la <ingredient>moutarde douce</ingredient>. bien mélanger et ajouter le <ingredient>cidre</ingredient>. donner quelques bouillons avant d’ ajouter les <ingredient>pommes de terre</ingredient> qui auront été coupées en cubes. mélanger encore une fois, <operation>couvrir</operation>, baisser le feu et <operation>laisser mijoter environ 35 minutes</operation>. vérifier de temps en temps s’ il reste assez de liquide dans la <recipient>sauteuse</recipient>. dans la négative, ajouter un verre de <ingredient>cidre</ingredient> (ou d’ eau) supplémentaire. il est temps désormais d’ ajouter la <ingredient>pomme</ingredient> qui aura été pelée, épépinée et, elle aussi, débitée en cubes. remélanger, <operation>recouvrir</operation> et poursuivre la cuisson 10 minutes. avant de passer à table, lier le tout avec les 2 <ingredient>cuillères de crème</ingredient>, saler et poivrer à convenance... bon appétit!! du <ingredient>cidre bouché</ingredient> brut (du <ingredient>breton</ingredient> hein!!!)
+]]>
+ </preparation>
+</recette>

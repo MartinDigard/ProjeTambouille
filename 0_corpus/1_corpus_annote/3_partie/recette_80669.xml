@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80669">
+ <titre>Omelette des 4 saisons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>1 petite boîte de champignons de Paris </p>
+ <p>2 tomates</p>
+ <p>1 boîte de lardons, ou 2 tranches de jambon</p>
+ <p>1 oignon</p>
+ <p>50 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>cassez les <ingredient>oeufs</ingredient> dans un <recipient>saladier</recipient>, battez - les</operation> et <operation>réservez</operation>. <operation>coupez les <ingredient>tomates</ingredient> en quartiers, hachez l’ <ingredient>oignon</ingredient> finement</operation> et <operation>égouttez vos <ingredient>champignons</ingredient></operation>. <operation>mettez un peu d’ huile d’ olive dans une <recipient>poêle</recipient></operation>, <operation>faites revenir vos <ingredient>oignons</ingredient> avec vos <ingredient>lardons</ingredient></operation>. attention! vos <ingredient>oignons</ingredient> doivent <operation>blondir, pas roussir! une fois vos <ingredient>oignons</ingredient> - <ingredient>lardons</ingredient></operation> revenus, <operation>ajoutez les <ingredient>tomates</ingredient> et les</operation> <ingredient>champignons</ingredient>, <operation>faites chauffez environ 1 min</operation>. une fois que c’ est chaud, <operation>ajoutez les <ingredient>oeufs</ingredient> juste avant de</operation> mettre votre gruyère. <operation>faites cuire vos <ingredient>oeufs</ingredient> à votre convenance</operation>. les <ingredient>oeufs</ingredient> étant indigestes froids, il est conseillé de manger sur le champs! bon appétit! vin rouge
+]]>
+ </preparation>
+</recette>

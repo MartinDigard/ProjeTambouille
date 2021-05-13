@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170323">
+ <titre>Bananes fondantes au chocolat et pointe de caramel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 bananes</p>
+ <p>100 g de sucre</p>
+ <p>10 cl d’ eau</p>
+ <p>100 g de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>coupez les <ingredient>bananes</ingredient> en deux</operation>. dans un bol <operation>faites fondre les 100 g de <ingredient>chocolat</ingredient> 1 min 45 dans votre micro-ondes</operation>. dans une <recipient>casserole</recipient> <operation>ajoutez les 10 cl d’ <ingredient>eau</ingredient>, à ébullition</operation>, <operation>ajoutez le <ingredient>sucre</ingredient> pour</operation> <operation>faire votre caramel</operation>. lorsque le caramel est prêt, <operation>mélangez avec le <ingredient>chocolat</ingredient> fondu</operation> puis <operation>ajoutez les <ingredient>bananes</ingredient> dans la préparation</operation>.
+]]>
+ </preparation>
+</recette>

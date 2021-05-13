@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169165">
+ <titre>Gâteaux au chocolat, vanille et noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150g de chocolat noir</p>
+ <p>80g de farine</p>
+ <p>100g de sucre</p>
+ <p>-80g de beurre</p>
+ <p>-4 oeufs</p>
+ <p>-1 sachet de levure</p>
+ <p>-noix de coco (beaucoup pour les gourmands) </p>
+ <p>-vanille (liquide) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le beurre et le <ingredient>chocolat</ingredient></operation>. dans un <recipient>saladier</recipient> melangerles <ingredient>oeufs</ingredient> entier, le <ingredient>sucre</ingredient>, la farine, la <ingredient>levure</ingredient>, le beurre et le <ingredient>chocolat</ingredient> fondue. brassez et <operation>rajoutez la noix de <ingredient>coco</ingredient> et la vanille</operation>. fariner le <recipient>moule</recipient> à cakes et <operation>versez le mélange</operation> dedans. mettre au <recipient>four</recipient> à 200 ° pendant 35 min.
+]]>
+ </preparation>
+</recette>

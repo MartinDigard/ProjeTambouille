@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172224">
+ <titre>Boeuf au riz d’ Antoine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>riz</p>
+ <p>4 steaks hachés</p>
+ <p>3 cuillères à soupe de crème fraiche</p>
+ <p>1 cuillère à café bombée de moutarde</p>
+ <p>1 cuillère à soupe de mayonnaise</p>
+ <p>1 cuillère à soupe de ketchup</p>
+ <p>2 échalotes</p>
+ <p>herbe de Provence</p>
+ <p>parmesan</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire le <ingredient>riz</ingredient></operation>. cuire les steaks avec les <ingredient>herbes de provence</ingredient> et les couper en petit morceaux. ajouter le <ingredient>riz</ingredient> dans la <recipient>poêle</recipient> avec les <ingredient>échalotes</ingredient> coupés finement. pour la sauce: mélanger la <ingredient>crème fraiche</ingredient> avec la <ingredient>moutarde</ingredient>, la <ingredient>mayonnaise</ingredient>, le <ingredient>ketchup</ingredient>, le <ingredient>parmesan</ingredient> et le poivre. tout simple, mais super bon et rapide à <operation>faire.</operation>..
+]]>
+ </preparation>
+</recette>

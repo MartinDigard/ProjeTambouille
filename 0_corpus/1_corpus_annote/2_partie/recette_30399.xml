@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30399">
+ <titre>Frito à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 à 5 pommes de terre (à frites) </p>
+ <p>5 tomates bien mûres (ou 1 grosse boîte de tomates pelées) </p>
+ <p>1 ou 2 poivrons verts</p>
+ <p>2 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 filets de dinde (ou autre viande blanche) </p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient>pommes de terre</ingredient> en frites et les <operation>faire précuire</operation>, réserver. emincer les <ingredient>poivrons</ingredient>, les mettre à dorer (prendre une <recipient>sauteuse</recipient> assez profonde) dans l’ huile d’ <ingredient>olive</ingredient>, réserver. <operation>faire dorer les <ingredient>filets</ingredient> de</operation> dinde. mettre dans la même huile (en ajouter si nécessaire) les <ingredient>échalotes</ingredient> et l’ <ingredient>ail</ingredient>, puis <operation>laisser fondre</operation> et rajouter les <ingredient>tomates</ingredient>. <operation>laisser mijoter jusqu’ à obtention d’ une sorte de</operation> coulis. assaisoner. (vous pouvez mixer la <ingredient>tomate</ingredient> pour <operation>obtenir une sauce plus onctueuse</operation>) mettre dans cette sauce les <ingredient>poivrons</ingredient>, les <ingredient>filets de dinde</ingredient> et les <ingredient>pommes de terre</ingredient>. <operation>faire mijoter le tout</operation>. servir chaud. un vin d’ espagne
+]]>
+ </preparation>
+</recette>

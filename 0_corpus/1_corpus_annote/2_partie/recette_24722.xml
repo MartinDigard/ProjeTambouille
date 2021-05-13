@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24722">
+ <titre>Croquettes au thon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de pommes de terre</p>
+ <p>350 g de miettes de thon au naturel</p>
+ <p>2 oeufs</p>
+ <p>2 échalotes</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 citron</p>
+ <p>1/2 bouquet de persil</p>
+ <p>farine</p>
+ <p>huile de friture</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient>pommes de terre</ingredient> (à la vapeur ou à l’ eau). <operation>pelez - les et écrasez - les en purée</operation>. <operation>ajoutez les <ingredient>oeufs</ingredient></operation> battus en omelette, les <ingredient>échalotes</ingredient>, l’ <ingredient>ail</ingredient> et le <ingredient>persil</ingredient> hachés. <operation>salez</operation>, <operation>poivrez</operation> et <operation>ajoutez le <ingredient>thon</ingredient></operation>. formez des boulettes de la taille d’ une grosse noix. <operation>applatissez - les un peu et passez - les dans la farine</operation>. <operation>faites - les frire environ 15 min</operation> et <operation>servez avec des quartiers de <ingredient>citron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

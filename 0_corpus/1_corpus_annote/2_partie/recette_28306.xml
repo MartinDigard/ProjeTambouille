@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28306">
+ <titre>Poulet à la grecque</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet coupé en morceaux</p>
+ <p>farine</p>
+ <p>25 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>2 échalotes</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 tomates</p>
+ <p>2 verres de vin blanc</p>
+ <p>2 pincées de safran (ou curcuma) </p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>100 g de raisins sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>roulez les <ingredient>morceaux</ingredient> de <ingredient>poulet</ingredient> dans la farine</operation>. dans l’ <recipient>autocuiseur</recipient>, <operation>faire chauffer le beurre et l’ <ingredient>huile</ingredient></operation>. y <operation>faire dorer le <ingredient>poulet</ingredient></operation>. emincez finement les <ingredient>échalotes</ingredient>, <ingredient>oignons</ingredient> et <ingredient>ail</ingredient>. les mettre à <operation>revenir avec le <ingredient>poulet</ingredient> environ 5 min</operation>. ajouter les <ingredient>tomates</ingredient> en <ingredient>morceaux</ingredient>. arroser de <ingredient>vin blanc</ingredient>. porter à ébullition. ajouter le <ingredient>safran</ingredient>, le <ingredient>curry</ingredient> les <ingredient>raisins</ingredient> et saler, poivrer. fermer l’ <recipient>autocuiseur</recipient> et <operation>laisser cuire 15 min à</operation> <operation>partir de la mise en pression</operation>. <operation>servir avec du riz ou des pâtes</operation>.
+]]>
+ </preparation>
+</recette>

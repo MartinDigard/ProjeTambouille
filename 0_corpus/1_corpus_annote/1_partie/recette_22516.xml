@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22516">
+ <titre>Salade de riz au crabe</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de riz</p>
+ <p>1 boîte de crabe</p>
+ <p>2 oeufs durs</p>
+ <p>4 tomates</p>
+ <p>1 avocat</p>
+ <p>1 poignée d’ olives noires</p>
+ <p>1 citron</p>
+ <p>ciboulette, persil</p>
+ <p>moutarde</p>
+ <p>huile, vinaigre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire le <ingredient>riz</ingredient> dans 2 fois son volume d’ eau bouillante</operation> salée environ 15 min à couvert. faîtes griller le poivron 10 min sous le grill pour pouvoir le peler. <operation>epépinez - le</operation> et <operation>détaillez - le en dés</operation>. <operation>pelez</operation>, <operation>épépinez</operation> et <operation>concassez les</operation> <ingredient>tomates</ingredient>, <operation>coupez la chair de l’ <ingredient>avocat</ingredient> en dés</operation> et <operation>arrosez - le de jus de <ingredient>citron</ingredient></operation>. <operation>egouttez le</operation> <ingredient>riz</ingredient>, <operation>mélangez - le avec les légumes</operation> et ajoutez le <ingredient>crabe</ingredient> égoutté et les <ingredient>oeufs durs</ingredient> coupés en quartiers. <operation>assaisonnez de vinaigrette</operation> moutardée et <operation>saupoudrez de <ingredient>persil</ingredient> et <ingredient>ciboulette</ingredient> hachés</operation>. <operation>servez bien frais</operation>. <operation>remplacez le <ingredient>crabe</ingredient> par du thon ou du surimi si vous le</operation> souhaitez.
+]]>
+ </preparation>
+</recette>

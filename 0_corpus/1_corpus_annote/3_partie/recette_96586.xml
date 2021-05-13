@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96586">
+ <titre>Jean bonhommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>1 sachet de levure boulangère</p>
+ <p>2 oeufs</p>
+ <p>10 cl de lait</p>
+ <p>125 g de beurre </p>
+ <p>Pépites de chocolat noir </p>
+ <p>75 g sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- préchauffer le <recipient>four</recipient> à 180 ° dans un bol, délayer la <ingredient>levure boulangère</ingredient> dans un peu d’ eau tiède dans une <recipient>casserole</recipient>, <operation>faire fondre le beurre à feu doux dans un <recipient>saladier</recipient></operation>, mélanger la farine, la <ingredient>levure</ingredient> et le sucre ajouter les <ingredient>oeufs</ingredient>, le lait et le beurre fondu ajouter les <ingredient>pépites de chocolats</ingredient> <operation>laisser reposer 20 à 30 min</operation> <operation>faire de petits bonhommes sur du papier</operation> sulfurisé <operation>faire cuire au <recipient>four</recipient> à mi-hauteur à 180 °</operation>. surveiller la cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51948">
+ <titre>Sorbet aux mûres</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de mûres</p>
+ <p>7 cl d’ eau</p>
+ <p>1 jus de citron</p>
+ <p>200 g sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire cuire les mûres avec l’ <ingredient>eau</ingredient> pendant 5 minutes après ébullition</operation>. les passer au moulin à légumes (grille fine) pour les écraser et enlever les pépins. <operation>laisser refroidir</operation>, ajouter le sucre <ingredient>glace</ingredient> et le <ingredient>jus de citron</ingredient>, bien mélanger. <operation>faire prendre en <recipient>sorbetière</recipient> (c’ est mieux pour</operation> éviter les paillettes). <operation>sortir le sorbet 15 minutes avant la dégustation</operation>.
+]]>
+ </preparation>
+</recette>

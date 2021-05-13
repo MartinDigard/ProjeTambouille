@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53083">
+ <titre>Galettes de haricots</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de haricots rouges</p>
+ <p>100 g de bacon</p>
+ <p>1 oignon finement haché</p>
+ <p>1 gousse d’ ail écrasée</p>
+ <p>50 g de cantal</p>
+ <p>1 bouquet garni</p>
+ <p>poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites tremper les <ingredient>haricots</ingredient> pendant 12 h dans l’ eau</operation> froide. <operation>egouttez</operation> - les, <operation>recouvrez d’ eau froide</operation> et <operation>faites - les</operation> cuire à feu doux avec la moitié de l’ <ingredient>oignon</ingredient> et le <ingredient>bouquet garni</ingredient> ; <operation>salez au milieu de la cuisson</operation>. <operation>ecrasez les <ingredient>haricots</ingredient> en purée</operation>. <operation>faites frire le <ingredient>bacon</ingredient> dans une <recipient>poêle</recipient> jusqu’ à ce qu’ il croustille</operation> ; <operation>coupez en morceaux</operation> et <operation>réservez</operation>. <operation>faites revenir la 2ème moitié de l’ <ingredient>oignon</ingredient> et l’ <ingredient>ail</ingredient> dans la graisse de <ingredient>bacon</ingredient></operation>. <operation>mélangez le <ingredient>bacon</ingredient>, l’ <ingredient>ail</ingredient> et l’ <ingredient>oignon</ingredient>, puis la purée</operation>. <operation>confectionnez des galettes, que vous</operation> <operation>ferez</operation> <operation>revenir à la <recipient>poêle</recipient> 2 à 3 min de chaque côté</operation>. saupoudrer de <ingredient>cantal</ingredient> râpé et passer rapidement au grill.
+]]>
+ </preparation>
+</recette>

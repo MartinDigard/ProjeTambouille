@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51954">
+ <titre>Pâte à tarte sans gluten</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 g de beurre</p>
+ <p>40 g de compote de pommes sucrée</p>
+ <p>30 g de poudre d’ amandes</p>
+ <p>1 oeuf</p>
+ <p>200 g de farine de riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez le beurre</operation> ramolli avec la <ingredient>compote</ingredient>, la <ingredient>poudre</ingredient> d’ <ingredient>amandes</ingredient> et l’ <ingredient>oeuf</ingredient>. <operation>versez ensuite la farine</operation> ; <operation>mélangez bien</operation> et <operation>formez une boule</operation>. comme la pâte est friable, <operation>étalez entre 2 feuilles plastique, ou directement dans le <recipient>plat</recipient> avec les mains</operation>. garnissez à votre convenance.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223344">
+ <titre>Soupe épicée (pomme de terre, carotte) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 pommes de terre</p>
+ <p>8 carottes </p>
+ <p>2 oignons </p>
+ <p>25 cl de crème liquide </p>
+ <p>1 cuillère à café de purée de piment (plus ou moins fort) </p>
+ <p>3 pincées de gingembre moulu </p>
+ <p>sel </p>
+ <p>poivre </p>
+ <p>bouquet garni (thym, persil, laurier) </p>
+ <p>2 tomates </p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer les <ingredient>oignons</ingredient> puis les faire revenir dans l’ <ingredient>huile d olive</ingredient> avec la <ingredient>cuillère de purée de piment</ingredient>. pendant ce temps, éplucher les <ingredient>pommes de terre</ingredient>, <ingredient>tomates</ingredient> et <ingredient>carottes</ingredient> et les couper en morceaux. ajouter les épices aux <ingredient>oignons</ingredient> (<ingredient>bouquet garni</ingredient>, <ingredient>sel</ingredient>, <ingredient>poivre</ingredient>, gingembre). <operation>faire revenir les légumes pendant 10 min en</operation> remuant de temps en temps. ajouter de l’ eau jusqu’ à hauteur des légumes puis <operation>laisser mijoter pendant 20 min</operation>. mixer le tout une première fois puis ajouter la <ingredient>crème liquide</ingredient>, mixer à nouveau jusqu’ à homogénéité. ajouter de l’ eau et remixer si pas assez fluide.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170324">
+ <titre>Tomates farcies thon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>200 g de thon en conserve</p>
+ <p>115 g de champignon de paris </p>
+ <p>1 échalote</p>
+ <p>2 cuillères à café de curry</p>
+ <p>2 cuillères à café de basilic</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>2 tranches de pain de mie</p>
+ <p>sel</p>
+ <p>poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites sauter vos <ingredient>champignons</ingredient> à la <recipient>poêle</recipient> pendant 5 min</operation>. <operation>découpez le <ingredient>thon</ingredient> en gros morceaux et passez - le au <recipient>mixeur</recipient> en</operation> ajoutant l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> et le <ingredient>basilic</ingredient>. <operation>ajoutez ensuite l’ <ingredient>échalote</ingredient>, le <ingredient>curry</ingredient> et vos <ingredient>champignons</ingredient></operation>. <operation>salez</operation> et <operation>poivrez selon vos envies</operation>. <operation>découpez le " chapeau " de chaque</operation> <ingredient>tomate</ingredient> et <operation>évidez des pépins</operation>. placez la farce au <ingredient>thon</ingredient> à l’ intérieur des <ingredient>tomates</ingredient>. <operation>conservez une petite partie de la farce pour quelques toasts</operation>. faites toaster 2 <ingredient>tranches de pain de mie</ingredient> et <operation>découpez en 4.placez un toast au sommet de chaque <ingredient>tomate</ingredient> et tartinez - la de farce restante</operation>. <operation>réservez 1 heure au <recipient>réfrigérateur</recipient> et servir frais</operation>. vous pouvez assaisonner en épices la mousse selon vos envies (paprika, cannelle...). <operation>faites -vous plaisir</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65413">
+ <titre>Dessert de soupe à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 bananes</p>
+ <p>1 orange</p>
+ <p>1 citron vert</p>
+ <p>100 g de sucre</p>
+ <p>200 ml d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire chauffer l’ <ingredient>eau</ingredient> avec le</operation> <ingredient>sucre</ingredient>, verser dans un <recipient>saladier</recipient>. mettre le zeste de l’ orange et du <ingredient>citron vert</ingredient>. presser l’ orange et le <ingredient>citron vert</ingredient>, mettre dans le <recipient>saladier</recipient>. couper les <ingredient>bananes</ingredient> en fines lamelles dans le <recipient>saladier</recipient>. mettre à refroidir.
+]]>
+ </preparation>
+</recette>

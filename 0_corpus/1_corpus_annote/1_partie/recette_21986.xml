@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21986">
+ <titre>Riz au lait à la cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de riz rond</p>
+ <p>1 litre de lait écrémé</p>
+ <p>3 cuillères à soupe de sucre (ou fructose) </p>
+ <p>16 g de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire bouillir le <ingredient>lait</ingredient> avec le <ingredient>sucre</ingredient>, le <ingredient>sel</ingredient>, le <ingredient>sucre</ingredient></operation> vanillé et la <ingredient>cannelle</ingredient> (plus ou moins suivant les goûts. laver le <ingredient>riz</ingredient>, puis <operation>jetez le en pluie dans le <ingredient>lait</ingredient></operation>. mettre à très petit feu. <operation>laisser cuire jusqu’ à ce que le <ingredient>riz</ingredient></operation> affleure le <ingredient>lait</ingredient>. c’ est en refroidissant qu’ il finira l’ absorbtion du <ingredient>lait</ingredient>. cette préparation se consomme froide ou à peine tiède.
+]]>
+ </preparation>
+</recette>

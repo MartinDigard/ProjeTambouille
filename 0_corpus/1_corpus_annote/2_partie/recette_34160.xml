@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34160">
+ <titre>Samossas aux crevettes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de feuilles de brick</p>
+ <p>300 g de crevettes décortiquées</p>
+ <p>1 oignon</p>
+ <p>1 poivron vert</p>
+ <p>coriandre</p>
+ <p>persil plat</p>
+ <p>120 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1/2 cuillère de cannelle, gingembre, mélange "4 épices"</p>
+ <p>sel et poivre</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mélangez dans un <ingredient><recipient>plat</recipient></ingredient> les <ingredient>crevettes</ingredient>, l’ <ingredient>oignon</ingredient> et le poivon</operation> émincés, la <ingredient>coriandre</ingredient>, le <ingredient>persil</ingredient>, le jus de <ingredient>citron</ingredient>, l’ <ingredient>huile</ingredient>, le <ingredient>sel</ingredient> et les <ingredient>épices</ingredient>. <operation>laissez mariner 30 mn au frais</operation>. préchauffez le <recipient>four</recipient> à thermostat 6 (180 ° c). <operation>faites fondre le beurre</operation>, <operation>coupez les <ingredient>feuilles</ingredient> de</operation> bricks en deux. badigeonnez - les de beurre, <operation>déposez une cuillerée de</operation> <ingredient>crevettes</ingredient> et <operation>roulez - les comme</operation> indiqué sur l’ emballage. les déposer dans un <ingredient><recipient>plat</recipient></ingredient> et les badigeonner de beurre. <operation>faire cuire 15 min au <recipient>four</recipient> et servir chaud avec une salade</operation>. rosé ou blanc de provence
+]]>
+ </preparation>
+</recette>

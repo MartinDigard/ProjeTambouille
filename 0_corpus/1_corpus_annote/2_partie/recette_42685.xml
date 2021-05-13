@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42685">
+ <titre>Soupe aux carottes et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de carottes</p>
+ <p>1 oignon</p>
+ <p>200 g de lardons</p>
+ <p>sel (pas trop) </p>
+ <p>poivre</p>
+ <p>75 cl à 1 l de bouillon de boeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient> mettre une cuillère à soupe d’ huile et <operation>faire revenir quelques minutes les <ingredient>oignons</ingredient></operation> émincés, et les <ingredient>carottes</ingredient> coupées en rondelles. ajouter le <ingredient>bouillon</ingredient>, du poivre, un peu de <ingredient>sel</ingredient> (pas trop, mieux vaut rectifier l’ assaisonnement plus tard). quand la soupe commence à <operation>bouillir</operation> ajouter les <ingredient>lardons</ingredient> et <operation>laisser cuire 45 min</operation>. avant de <operation>servir</operation> passer la soupe au mixer.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221205">
+ <titre>Soupe de ravioles et saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pavés de saumon</p>
+ <p>100 g de crevettes décortiquées</p>
+ <p>1 blanc de poireau </p>
+ <p>1 branche de céleri</p>
+ <p>2 carottes</p>
+ <p>1 échalote</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 gros champignons de Paris</p>
+ <p>1 paquet de ravioles au basilic (250 g) </p>
+ <p>quelques feuilles de basilic</p>
+ <p>2 dosettes de safran</p>
+ <p>une marmite de bouillon de légumes</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir l’ <ingredient>ail</ingredient> et l’ <ingredient>échalote</ingredient> finement</operation> hachées dans un <recipient>wok</recipient> avec de l’ huile d’ <ingredient>olive</ingredient>. ajouter le <ingredient>saumon</ingredient> coupé en dés. <operation>laisser revenir en</operation> remuant pour ne pas que cela accroche. ajouter un peu d’ eau si besoin. couper le <ingredient>poireau</ingredient> et le <ingredient>céleri</ingredient> en fines rondelles, couper les <ingredient>carottes</ingredient> en bâtonnets et émincer les <ingredient>champignons</ingredient>. ajouter le tout dans le <recipient>wok</recipient>, <operation>laisser revenir quelques instants</operation> et <operation>couvrir d’ eau</operation>. ajouter la <ingredient><recipient>marmite</recipient> de bouillon</ingredient>, le <ingredient>safran</ingredient>, le <ingredient>sel</ingredient> et le poivre. <operation>laisser mijoter à feu moyen pendant 15 min</operation>. ajouter les <ingredient>crevettes</ingredient> et le <ingredient>basilic</ingredient> émincé finement. <operation>laisser mijoter encore 5 min.1 minute avant de</operation> <operation>servir</operation>, ajouter les <ingredient>ravioles</ingredient>. servir bien chaud avec du pain grillé. on peut mettre toutes sortes de <ingredient>légumes</ingredient> en fonction de la saison et toutes sortes de <ingredient>ravioles</ingredient>. la soupe peut être faite d’ avance et réchauffée, sauf pour les <ingredient>ravioles</ingredient> qu’ il ne faut ajouter qu’ à la fin.
+]]>
+ </preparation>
+</recette>

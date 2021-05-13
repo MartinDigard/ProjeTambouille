@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70049">
+ <titre>Poulet à l’ orange et au gingembre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>4 gros oignons</p>
+ <p>2 oranges</p>
+ <p>100-200 g de champignons de Paris</p>
+ <p>gingembre moulu ou gingembre frais râpé</p>
+ <p>curry</p>
+ <p>1 verre de vin blanc sec</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites revenir les <ingredient>cuisses de poulet</ingredient> dans une <recipient>poêle</recipient>. <operation>ajoutez le zeste d’ une <ingredient>orange</ingredient></operation>. au bout de 10 minutes environ, ajoutez dans la <recipient>poêle</recipient> les <ingredient>champignons</ingredient> et les <ingredient>oignons</ingredient> en tranches, le <ingredient>vin blanc</ingredient> et le jus de deux <ingredient>oranges</ingredient>. <operation>salez</operation>, <operation>poivrez</operation> et <operation>saupoudrez de <ingredient>gingembre</ingredient> et de <ingredient>curry</ingredient></operation> suivant vos goûts... <operation>laissez ainsi</operation> mijoter environ 20 minutes et remuant régulièrement. au bout de ce temps, <operation>sortez</operation> et <operation>égouttez le <ingredient>poulet</ingredient>,</operation> et <operation>mixez tout le reste (en y</operation> ajoutant <ingredient>vin blanc</ingredient>, crème fraîche, eau ou jus d’ <ingredient>orange</ingredient> pressées pour une meilleure consistance de la purée). <operation>replacez le <ingredient>poulet</ingredient> dans la <recipient>poêle</recipient> avec la purée</operation> obtenue et servez chaud avec du riz. pour les amatteurs de <ingredient>vin blanc</ingredient>, du tariquet première grives...
+]]>
+ </preparation>
+</recette>

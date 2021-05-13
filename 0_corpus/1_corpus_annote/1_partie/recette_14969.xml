@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14969">
+ <titre>Galettes de carottes au fromage</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>10 cl de crème liquide</p>
+ <p>50 g de farine</p>
+ <p>250 g de carottes râpées</p>
+ <p>100 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fouettez 3 <ingredient>oeufs</ingredient> avec 10 cl de <ingredient>crème liquide</ingredient> et 50 g de farine. ajoutez 250 g de <ingredient>carottes râpées</ingredient> et 100 g de <ingredient>gruyère râpé</ingredient>. <operation>salez</operation> et <operation>poivrez</operation>, <operation>mélangez</operation>. <operation>laissez reposer 15 mn</operation>. <operation>faites chauffer 20 g de beurre et 1 cuillère à soupe d’</operation> huile dans une <recipient>poêle</recipient>. <operation>formez des galettes</operation>. <operation>faites dorer à feu doux 5 mn de chaque côté</operation>. <operation>egouttez sur du papier</operation> absorbant et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>

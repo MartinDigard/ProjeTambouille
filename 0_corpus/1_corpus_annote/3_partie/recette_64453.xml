@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64453">
+ <titre>Oiseaux sans tête (paupiettes) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oiseaux sans tête</p>
+ <p>3 boites de tomates pelées</p>
+ <p>1/2 courgette</p>
+ <p>1/2 aubergine</p>
+ <p>1 grosse carotte</p>
+ <p>1 oignon</p>
+ <p>sel, poivre</p>
+ <p>basilic, origan, estragon, paprika, ail</p>
+ <p>Crème fraîche</p>
+ <p>Maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire rissoler légèrement les <ingredient>oiseaux</ingredient> dans une <recipient>casserole</recipient> avec un petit peu de beurre</operation>. ensuite, ajouter les <ingredient>boites de tomates pelées</ingredient>, la 1/2 <ingredient>courgette</ingredient>, la 1/2 <ingredient>aubergine</ingredient>, la <ingredient>carotte</ingredient>, l’ <ingredient>oignon</ingredient> et les épices. <operation>laisser mijoter à feu moyen pendant environs 1 h 30 en</operation> remuant de temps en temps. lorsque le tout est cuit, y verser un petit peu de <ingredient>crème fraîche</ingredient> pour adoucir et si la sauce est trop liquide, la lier avec un petit peu de maïzena. comme accompagnement, le riz est parfait.
+]]>
+ </preparation>
+</recette>

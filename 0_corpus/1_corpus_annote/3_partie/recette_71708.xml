@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71708">
+ <titre>Crevettes au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de crevettes fraîches</p>
+ <p>1 oignon (ou 2 échalotes) </p>
+ <p>15 cl de vin blanc</p>
+ <p>beurre</p>
+ <p>2 cuillères à soupe de crème fraiche épaisse</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>décortiquez les <ingredient>crevettes</ingredient></operation>. dans une <recipient>poêle</recipient> chaude, <operation>faites fondre une noisette de beurre</operation>, <operation>faites revenir les <ingredient>crevettes</ingredient> pendant 3 - 4 minutes</operation>. <operation>sortez les</operation> <ingredient>crevettes</ingredient> et <operation>réservez - les</operation>. dans le jus de cuisson, <operation>faites revenir l’ <ingredient>oignon</ingredient> jusqu’ à ce qu’ il soit translucide</operation>. mouillez avec le <ingredient>vin blanc</ingredient>. <operation>laissez réduire 5 min</operation>. <operation>ajoutez la <ingredient>crème</ingredient> fraîche</operation>. <operation>baissez le feu</operation>, <operation>ajoutez les</operation> <ingredient>crevettes</ingredient> et <operation>laissez mijotez quelques minutes avant de</operation> <operation>servir</operation>. accompagnez de pâtes ou de riz. <ingredient>vin blanc</ingredient> sec
+]]>
+ </preparation>
+</recette>

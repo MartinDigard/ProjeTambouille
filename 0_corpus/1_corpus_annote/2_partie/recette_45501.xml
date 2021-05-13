@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45501">
+ <titre>Croustillants de poisson</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de filets de poisson (type merlin, colin...) </p>
+ <p>2 pâtes feuilletées</p>
+ <p>1 oignon</p>
+ <p>1 petit morceau de gingembre frais</p>
+ <p>1 botte de coriandre fraîche</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillères à soupe d’ huile de sésame</p>
+ <p>1 cuillère à soupe de sauce de soja chinoise</p>
+ <p>1 poigne de noix de cajou</p>
+ <p>sel, poivre</p>
+ <p>1 sauce béchamel (beurre, farine, lait) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites revenir dans une <recipient>poêle</recipient>, l’ <ingredient>oignon</ingredient></operation> émincé avec l’ <ingredient>ail</ingredient>, le <ingredient>gingembre</ingredient>, les <ingredient>noix de cajou</ingredient> pilées et l’ huile de sesame. réserver cette préparation. allumer le <recipient>four</recipient> à thermostat 5 (150 ° c). dans la même <recipient>poêle</recipient>, <operation>faire cuire le <ingredient>poisson</ingredient> avec un peu de <ingredient>sauce</ingredient></operation> soja. préparer la <ingredient>béchamel</ingredient> dans une <recipient>casserole</recipient>, et mélanger aux deux préparations précédentes. couper une <ingredient>pâte</ingredient> feuilletée en diagonal. déposer la préparation dessus, et confectionner un triangle un chausson. enfourner pendant 30 min, à 150 ° c (th 5). <operation>servir chaud</operation>, accompagné d’ une salade verte. blanc
+]]>
+ </preparation>
+</recette>

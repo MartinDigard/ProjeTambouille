@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84147">
+ <titre>Paupiettes de veau faciles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 paupiettes de veau</p>
+ <p>5 grosses pommes de terre</p>
+ <p>1 poivron</p>
+ <p>1 oignon</p>
+ <p>1 tasse à café de vin blanc</p>
+ <p>Sel, poivre, thym et huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>paupiettes</ingredient> dans l’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient> dans la <recipient>cocotte</recipient> minute</operation>. pendant ce temps, éplucher et couper les <ingredient>pommes de terre</ingredient> en dés, émincer l’ <ingredient>oignon</ingredient> et le <ingredient>poivron</ingredient>. une fois les <ingredient>paupiettes</ingredient> dorées, rajouter les légumes. saler, poivrer y ajouter un peu de <ingredient>thym</ingredient> et le <ingredient>vin blanc</ingredient>. fermer la <recipient>cocotte</recipient>. compter 10 min de cuisson à <operation>partir de la sonnerie de la <recipient>cocotte</recipient></operation>. c’ est prêt! avec des <ingredient>paupiettes</ingredient> de dindes c’ est très bon aussi!
+]]>
+ </preparation>
+</recette>

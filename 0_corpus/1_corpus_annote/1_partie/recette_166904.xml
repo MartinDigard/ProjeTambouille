@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166904">
+ <titre>Escalopes de poulet farcies</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet </p>
+ <p>4 tranches de bacon </p>
+ <p>2 œufs </p>
+ <p>200 g de champignons de Paris</p>
+ <p>1 petit bouquet de persil</p>
+ <p>3 pincées de curry</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites cuire aux <ingredient>escalopes</ingredient> à la <recipient>poêle</recipient></operation>. <operation>rajoutez 3 pincées de <ingredient>curry</ingredient></operation>. pour la farce: <operation>coupez le <ingredient>bacon</ingredient> et les 2 œufs en <ingredient>petits</ingredient> morceaux</operation>. ajoutez vos <ingredient>champignons de paris</ingredient> à la préparation. <operation>ouvrez en deux les</operation> <ingredient>escalopes</ingredient> et <operation>mettez la farce</operation>. <operation>poêlez à nouveaux pour</operation> cuire le tout. <operation>coupez du <ingredient>persil</ingredient> et parsemez sur vos <ingredient>escalopes</ingredient></operation>. <operation>salez</operation>, <operation>poivrez</operation>. il vous reste plus qu’ à déguster.
+]]>
+ </preparation>
+</recette>

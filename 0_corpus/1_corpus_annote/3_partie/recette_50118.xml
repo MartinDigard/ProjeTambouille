@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50118">
+ <titre>Soupe de mangues et de melon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 mangue bien mûre</p>
+ <p>2 petits melons</p>
+ <p>basilic</p>
+ <p>3 cuillères à soupe de jus de citron</p>
+ <p>15 cl de vin blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher la <ingredient>mangue</ingredient> et la couper en morceaux. <operation>ouvrir le <ingredient>melon</ingredient> en deux</operation> et retirer les pépins. tailler 6 tranches fines sur un des <ingredient>melon</ingredient>, et les réserver au frais. retirer la peau du reste des <ingredient>melons</ingredient> et couper la chair en dés. placer tous les ingrédients, sauf les tranches de <ingredient>melon</ingredient>, dans le bol d’ un <recipient>mixeur</recipient> ; <operation>faire tourner jusqu’ à l’ obtention d’ une <ingredient>soupe</ingredient> fine</operation>. la verser dans un <recipient>saladier</recipient> et placer au frais pendant au moins 2 h. au moment de <operation>servir</operation>, <operation>répartir la <ingredient>soupe</ingredient> dans les assiettes</operation> et ajouter une tranche de <ingredient>melon</ingredient> et quelques glaçons. pour une <ingredient>soupe</ingredient> minute, ajouter de la glace pilée dans le <recipient>mixeur</recipient>. la <ingredient>soupe</ingredient> sera glacée tout de suite.
+]]>
+ </preparation>
+</recette>

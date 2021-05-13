@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27471">
+ <titre>Pain brioché moelleux</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>20 g de levure</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>60 g de sucre</p>
+ <p>300 g de farine</p>
+ <p>1 zeste de citron râpé</p>
+ <p>2 oeufs</p>
+ <p>100 g de beurre</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>délayez la <ingredient>levure</ingredient> avec l’ <ingredient>eau</ingredient> tiédie</operation> et <operation>saupoudrez de <ingredient>farine</ingredient></operation>. <operation>couvrez</operation> et <operation>laissez monter ce levain 20 minutes</operation>. malaxez la farine avec le <ingredient>sel</ingredient>, le <ingredient>sucre</ingredient>, le <ingredient>zeste de citron</ingredient>, les <ingredient>oeufs</ingredient> entiers et le beurre coupé en dés. lorsque le mélange est homogène, <operation>incorporez le <ingredient>lait</ingredient> et le levain</operation>. <operation>pétrissez la pâte durant 15 minutes</operation> puis <operation>laissez lever 3 heures dans un endroit</operation> tiède. <operation>façonnez deux petits pains ou 1 gros</operation>. <operation>laissez reposer 30 minutes</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation>enfournez les petits pains 25 minutes ou le gros pain 40 minutes</operation>. <operation>incorporez des pruneaux ou des raisins à la pâte pour</operation> varier les plaisirs.
+]]>
+ </preparation>
+</recette>

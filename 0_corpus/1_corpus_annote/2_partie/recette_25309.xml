@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25309">
+ <titre>Spaghetti à la tomate et aux anchois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de spaghettis</p>
+ <p>4 tomates concassées</p>
+ <p>6 filets d’ anchois dessalés</p>
+ <p>50 g d’ olives noires</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 cuillère à soupe de câpres</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mixez les anchois, écrasez l’ <ingredient>ail</ingredient>, hachez les <ingredient>olives</ingredient> et les <ingredient>câpres</ingredient></operation>. <operation>faites chauffer l’ huile</operation>, <operation>mettez - y la purée d’ anchois et les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient></operation> écrasées. <operation>ajoutez les <ingredient>câpres</ingredient>, les <ingredient>olives</ingredient> et les <ingredient>tomates</ingredient></operation>. <operation>laissez mijoter 5 minutes</operation>. <operation>faites cuire les pâtes</operation>, <operation>égouttez - les</operation> et <operation>mélangez - les avec la sauce</operation>.
+]]>
+ </preparation>
+</recette>

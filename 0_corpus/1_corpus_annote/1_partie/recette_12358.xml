@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12358">
+ <titre>Mousse aux framboises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de framboises (fraiches ou surgelées) </p>
+ <p>100 g de sucre</p>
+ <p>150 g de crème fraîche normale (c’ est à dire ni liquide ni trop épaisse) </p>
+ <p>2 oeufs</p>
+ <p>2 cuillérées à soupe de lait</p>
+ <p>3 feuilles de gélatine (= 6 feuilles que l’ on trouve généralement dans le commerce) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire ramollir la <ingredient>gélatine</ingredient> dans un bol d’ eau</operation> froide. réduire les <ingredient>framboises</ingredient> en purée, les mettre dans une <recipient>casserole</recipient> sur feu doux et ajouter le <ingredient>sucre</ingredient>. lorsque le jus de <ingredient>framboises</ingredient> est chaud, retirer la <recipient>casserole</recipient> du feu (ne pas le porter à ébullition). essorer la <ingredient>gélatine</ingredient> et la mettre à fondre dans le jus de <ingredient>framboises</ingredient> chaud. <operation>laisser le mélange refroidir complètement</operation>. fouetter la <ingredient>crème</ingredient> bien froide avec le <ingredient>lait</ingredient> afin d’ <operation>obtenir une consistance assez épaisse (le fouet</operation> doit <operation>laisser des sillons dans la</operation> <ingredient>crème</ingredient>). réserver au frais. séparer les blancs des jaunes. battre les blancs en neige ferme. verser le jus de <ingredient>framboises</ingredient> petit à petit dans la <recipient>terrine</recipient> contenant la <ingredient>crème</ingredient>. incorporer les blancs en neige. <operation>laisser prendre la mousse pendant 12 heures au <recipient>réfrigérateur</recipient></operation>. cette recette marche aussi avec des fraises, du cassis ou des groseilles. il me semble cependant que la mousse est meilleure aux <ingredient>framboises</ingredient>.
+]]>
+ </preparation>
+</recette>

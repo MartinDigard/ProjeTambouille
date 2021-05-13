@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50744">
+ <titre>Potée de chou blanc à la saucisse</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou blanc</p>
+ <p>8 tranches de poitrine de lard</p>
+ <p>500 g de saucisse à cuire</p>
+ <p>1 oignon </p>
+ <p>5 carottes</p>
+ <p>8 pommes de terre</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>30 g de matière grasse</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient>chou</ingredient> en 4 et tirer les feuilles. couper les <ingredient>carottes</ingredient> en rondelles et les <ingredient>pommes de terre</ingredient> en morceaux. <operation>faire blanchir le <ingredient>chou</ingredient> à gros bouillons pendant 10 minutes</operation>. faire frire l’ <ingredient>oignon</ingredient> avec la <ingredient>matière grasse</ingredient> dans une <recipient>cocotte</recipient>, y ajouter les feuilles de <ingredient>chou</ingredient>, les <ingredient>carottes</ingredient>, les <ingredient>pommes de terre</ingredient>, le <ingredient>lard</ingredient>, les saucisses, l’ <ingredient>ail haché</ingredient>, le <ingredient>persil</ingredient>, du <ingredient>sel</ingredient> et du poivre. verser de l’ eau jusqu’ à mi-hauteur. compter 30 minutes de cuisson à <operation>partir de la rotation de la soupape</operation> puis <operation>ouvrir</operation> et <operation>laisser mijoter 10 minutes supplémentaires</operation>. vin <ingredient>blanc</ingredient> d’ alsace
+]]>
+ </preparation>
+</recette>

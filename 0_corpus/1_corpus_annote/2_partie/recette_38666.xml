@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38666">
+ <titre>Joue de boeuf à la GIRI</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de joue de bœuf</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>250 g de sauce tomate toute prête, concentré de tomates ou 4 tomates</p>
+ <p>2 poivrons</p>
+ <p>1 petit piment (facultatif) </p>
+ <p>sel, poivre</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>épices pour couscous</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir la viande</operation> coupée en dés assez gros, <ingredient>poivrons</ingredient>, <ingredient>oignons</ingredient>, <ingredient>ail</ingredient> et piment dans une cuillerée à <ingredient>soupe</ingredient> d’ <ingredient>huile</ingredient> d’ <ingredient>olive</ingredient>. quand l’ ensemble est revenu, ajouter la sauce <ingredient>tomate</ingredient> (s’ il s’ agit de <ingredient>tomates</ingredient> fraîches, les peler, les épépiner et les couper grossièrement, pour le concentré: ajouter 2 verres d’ eau). saler, poivrer et saupoudrer d’ épices spéciales couscous. <operation>laisser mijoter à feu doux pendant 2 heures en</operation> remuant de temps en temps. <operation>servir avec, au choix: pâtes, riz ou pommes de terre corbières</operation>
+]]>
+ </preparation>
+</recette>

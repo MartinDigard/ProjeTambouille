@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25324">
+ <titre>Sanglier à l’ étouffée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1, 2 kg de morceaux de sanglier </p>
+ <p>200 g d’ oignons coupés </p>
+ <p>200 g de lard frais </p>
+ <p>300 g de champignons </p>
+ <p>30 cl d’ armagnac </p>
+ <p>12 pruneaux </p>
+ <p>3 oignons</p>
+ <p>2 carottes</p>
+ <p>1 navet</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 échalote</p>
+ <p>1 bouquet garni</p>
+ <p>vin rouge</p>
+ <p>quelques clous de girofle</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, <operation>faire mariner les pruneaux avec l’ <ingredient>armagnac</ingredient> pendant 24 h</operation>. dans un <recipient>saladier</recipient>, mélanger le <ingredient>sanglier</ingredient> avec le <ingredient>bouquet garni</ingredient>, les <ingredient>carottes</ingredient>, le <ingredient>navet</ingredient> et un <ingredient>oignon</ingredient> émincés, quelques <ingredient>clous de girofle</ingredient>, l’ <ingredient>ail</ingredient> et l’ <ingredient>échalote</ingredient> ciselés, et le persil haché. assaisonner et recouvrir la viande de <ingredient>vin rouge</ingredient>. <operation>laisser mariner 24 h</operation>. dans une <recipient>cocotte</recipient>, <operation>faire chauffer du beurre et y</operation> <operation>faire dorer les morceaux de <ingredient>sanglier</ingredient></operation>. réserver la viande au chaud et la remplacer par le reste des <ingredient>oignons</ingredient> émincés et le <ingredient>lard</ingredient> frais. <operation>faire cuire à feu doux</operation>. ajouter le <ingredient>sanglier</ingredient> et la marinade. <operation>faire mijoter pendant 3 h</operation>. <operation>faire revenir les <ingredient>champignons</ingredient> dans une <recipient>poêle</recipient> pendant 20 min</operation>. les ajouter à la viande avec les pruneaux et un peu de leur jus, 10 min avant la fin de la cuisson.
+]]>
+ </preparation>
+</recette>

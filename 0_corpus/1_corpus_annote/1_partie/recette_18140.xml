@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18140">
+ <titre>Brochettes d’ agneau à la pékinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de gigot d’ agneau désossé</p>
+ <p>4 gousses d’ ail</p>
+ <p>2 petits oignons blancs</p>
+ <p>1 petit tronçon de gingembre frais</p>
+ <p>2 cuillères à soupe de vinaigre de vin blanc</p>
+ <p>2 cuillères à soupe de sauce de soja</p>
+ <p>1 cuillère à café d’ huile de sésame (ou de maïs) </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>détaillez la viande d’ <ingredient>agneau</ingredient> en cubes et placez - la dans un <recipient>plat</recipient> creux</operation>. <operation>ajoutez les <ingredient>oignons</ingredient>, pelés et coupés en deux, le</operation> <ingredient>gingembre</ingredient>, pelé et émincé, les <ingredient>gousses</ingredient> d’ <ingredient>ail</ingredient> pelées et coupées en deux, le <ingredient>vinaigre</ingredient>, la <ingredient>sauce de soja</ingredient> et l’ <ingredient>huile de sésame</ingredient>. <operation>salez légérement</operation> et <operation>laissez macérez pendant 1 heure au <ingredient>frais</ingredient></operation>. <operation>confectionnez les brochettes en alternant cubes de viandes,</operation> <ingredient>oignons</ingredient>, gousses d’ <ingredient>ail</ingredient>. <operation>faites griller les brochettes pendant 3 à 4 minutes (ou plus selon votre goût), en les retournant et en les</operation> arrosant de marinade. <operation>servez aussitôt</operation>, accompagné de riz thaï.
+]]>
+ </preparation>
+</recette>

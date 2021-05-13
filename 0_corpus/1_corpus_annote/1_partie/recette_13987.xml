@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13987">
+ <titre>Ardéchois rapide</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de marrons au naturel</p>
+ <p>125 g de sucre</p>
+ <p>150 g de chocolat à croquer</p>
+ <p>300 g de crème fraîche</p>
+ <p>3 paquets de sucre vanillé</p>
+ <p>75 g de sucre semoule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>sucre</ingredient> dans un fond d’ eau</operation>. ajoutez le <ingredient>chocolat</ingredient> en morceau et ramolli, la moitié de la <ingredient>crème fraîche</ingredient>, 2 <ingredient>paquets de sucre</ingredient> vanillé. <operation>passez le tout au mixer avec la purée de <ingredient>marrons</ingredient></operation>. <operation>versez dans un <recipient>moule</recipient> huilé et saupoudré de <ingredient>sucre</ingredient></operation>. <operation>mettez au frais pendant une demi-journée</operation>. avec le reste de <ingredient>crème</ingredient>, 45 g de <ingredient>sucre semoule</ingredient> et le dernier sachet de <ingredient>sucre</ingredient> vanillé, <operation>faites une <ingredient>crème</ingredient> chantilly pour</operation> décorer le gâteau.
+]]>
+ </preparation>
+</recette>

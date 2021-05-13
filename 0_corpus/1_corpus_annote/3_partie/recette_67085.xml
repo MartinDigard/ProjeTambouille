@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67085">
+ <titre>Escalope de poulet au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 escalopes de poulet ou de dinde</p>
+ <p>1 oignon</p>
+ <p>1/2 citron</p>
+ <p>origan</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire revenir les <ingredient>oignons</ingredient> coupés en rondelles dans un peu d’ huile d’ <ingredient>olive</ingredient></operation>. faire cuire les <ingredient>escalopes de poulet</ingredient> quelques minutes. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, étaler les <ingredient>oignons</ingredient>, puis poser dessus les <ingredient>escalopes</ingredient>. arroser de jus de <ingredient>citron</ingredient>, <operation>salez</operation>, <operation>poivrez</operation> et parsemer d’ <ingredient>origan</ingredient>. passer 10 min au <recipient>four</recipient> préchaufé à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

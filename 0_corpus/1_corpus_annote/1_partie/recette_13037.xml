@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13037">
+ <titre>Hamburger de Salford</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pain a hamburger de taille moyenne</p>
+ <p>1 steack de boeuf</p>
+ <p>quelques feuilles de salades</p>
+ <p>2 tomates cerises</p>
+ <p>1 tranche de mozzarella</p>
+ <p>1 tranche de gruyère</p>
+ <p>une lichette de roquefort</p>
+ <p>sel, poivre a votre convenance</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>mettez le <ingredient>steack</ingredient> dans une poele</operation> et <operation>faites - le cuire, pas trop longtemps afin qu’ il ne</operation> devienne pas de la semelle. pendant que le <ingredient>steack</ingredient> cuit, <operation>coupez les deux <ingredient>tomates</ingredient> en fines <ingredient>tranches</ingredient>, puis lavez</operation> et <operation>découpez la salade en petits morceaux</operation>. <operation>passez le <ingredient>pain</ingredient> à <ingredient>hamburger</ingredient></operation> coupé en 2 sous le grill du <recipient>four</recipient> pendant 2 min. lorsque le <ingredient>pain</ingredient> est un peu croustillant, mettez sur la partie du bas la <ingredient>tranche de mozzarella</ingredient>, les fines <ingredient>tranches</ingredient> de <ingredient>tomates</ingredient> et <operation>repassez au grill quelques instants afin que le fromage et les <ingredient>tomates</ingredient> fondent</operation>. <operation>sortez le <ingredient>steack</ingredient> de la poele</operation> et <operation>mettez le sur le <ingredient>pain</ingredient> ou il y</operation> a la <ingredient>mozzarella</ingredient> et les <ingredient>tomates</ingredient>, mettez la <ingredient>tranche de gruyère</ingredient> et les morceaux de salade et <operation>badigeonnez le <ingredient>pain</ingredient> de dessus avec du <ingredient>roquefort</ingredient></operation>. <operation>replacez le tout sous le grill pendant 1 mn</operation>. servez chaud et <operation>dégustez!! si vous <ingredient>avez</ingredient> du temps devant vous, preparez quelques frites maisons et des donuts pour le dessert, vous</operation> <operation>prendrez ainsi un repas de type américain fait avec des ingredients bien de chez nous</operation>!
+]]>
+ </preparation>
+</recette>

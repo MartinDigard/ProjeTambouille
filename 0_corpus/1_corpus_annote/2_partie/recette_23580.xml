@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23580">
+ <titre>Galette ardéchoise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine</p>
+ <p>150 g de sucre semoule</p>
+ <p>150 g de beurre</p>
+ <p>500 g de crème de marrons vanillée</p>
+ <p>2 cuillères à soupe de levure</p>
+ <p>3 cuillères à soupe de rhum</p>
+ <p>4 oeufs entiers</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>travaillez</operation> ensemble le <ingredient>sucre</ingredient>, les <ingredient>oeufs entiers</ingredient> et le <ingredient>rhum</ingredient>. <operation>incorporez la farine, la <ingredient>levure</ingredient>, bien</operation> travailler le tout, mélangez la <ingredient>crème de marrons</ingredient> avec le beurre ramolli et l’ incorporer à la pâte. <operation>versez la préparation dans un <recipient>moule</recipient> à</operation> manquer. <operation>faire cuire 45 mn à <recipient>four</recipient> 150 degré</operation>. <operation>démoulez</operation> chaud sur une grille et servir froid. cidre
+]]>
+ </preparation>
+</recette>

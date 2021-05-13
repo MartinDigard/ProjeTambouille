@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25494">
+ <titre>Tomates farcies de la mer</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 tomates</p>
+ <p>225 g de chair de crabe</p>
+ <p>300 g de crevettes décortiquées</p>
+ <p>6 cuillères à soupe d’ huile</p>
+ <p>3 cuillères à soupe de jus de citron</p>
+ <p>2 cuillères à café de grains de poivre rose</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les chapeaux des <ingredient>tomates</ingredient> et les vider. mélanger la <ingredient>chair de crabe</ingredient> avec les <ingredient>crevettes</ingredient>, l’ <ingredient>huile</ingredient>, le <ingredient>jus de citron</ingredient> et le <ingredient>poivre rose</ingredient>. <operation>garnir les <ingredient>tomates</ingredient> de cette préparation et servir frais</operation>.
+]]>
+ </preparation>
+</recette>

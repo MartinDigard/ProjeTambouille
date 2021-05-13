@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42033">
+ <titre>Crème au chocolat express</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat noir pâtissier</p>
+ <p>1 litre de lait</p>
+ <p>3 cuillères à soupe bombées de fécule de maïs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, délayer la <ingredient>fécule de maïs</ingredient> dans un peu de <ingredient>lait</ingredient>. <operation>faire fondre le <ingredient>chocolat</ingredient> en morceaux dans un peu de <ingredient>lait</ingredient>, à feu très doux, en</operation> remuant. quand le <ingredient>chocolat</ingredient> est fondu, ajouter progressivement le reste du <ingredient>lait</ingredient> et la <ingredient>fécule</ingredient> délayée, en remuant bien avec une <ingredient>cuillère</ingredient> en bois. <operation>faire cuire à feu moyen à doux, sans</operation> cesser de remuer, jusqu’ à ce que la préparation épaississe (arrêter, quand elle commence à <operation>bouillir</operation>). verser la crème dans des coupelles individuelles. déguster chaud, tiède ou froid... en fonction de votre patience... on peut remplacer la <ingredient>fécule</ingredient> par de la farine, et varier la quantité selon si on aime la crème très épaisse, ou plutôt liquide.
+]]>
+ </preparation>
+</recette>

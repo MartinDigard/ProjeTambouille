@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36142">
+ <titre>Douceur de pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pommes golden</p>
+ <p>40 g de beurre salé</p>
+ <p>2 cuillères à soupe de cassonade</p>
+ <p>2 cuillères à café de miel</p>
+ <p>1 yaourt brassé</p>
+ <p>une poignée d’ amandes mondées</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient>pommes</ingredient> et les couper en dés. <operation>faire fondre le beurre dans une <recipient>poêle</recipient></operation>, ajouter les <ingredient>pommes</ingredient>, le sucre, la <ingredient>cannelle</ingredient> et les <ingredient>amandes</ingredient>. <operation>laisser cuire à feu doux 5 mn</operation>. ajouter le <ingredient>miel</ingredient> et un demi verre d’ eau. cuire doucement en remuant souvent jusqu’ à ce qu’ une coloration brune apparaisse. <operation>servir la préparation dans des verres à pied</operation> surmontée d’ une <ingredient>cuillère à soupe</ingredient> de <ingredient>yaourt</ingredient>. saupoudrer de <ingredient>cannelle</ingredient> et servir immédiatement. on peut accompagner cette préparation de speculoos, ou de petits gâteaux aux <ingredient>amandes</ingredient>...
+]]>
+ </preparation>
+</recette>

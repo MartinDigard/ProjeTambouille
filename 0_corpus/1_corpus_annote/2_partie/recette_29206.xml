@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29206">
+ <titre>Madeleines printanières</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>200 g de sucre</p>
+ <p>200 g de farine</p>
+ <p>1 cuillère à café de thé vert japonais en poudre (matcha) </p>
+ <p>1 cuillère à café de levure</p>
+ <p>150 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battez les <ingredient>oeufs</ingredient> avec le <ingredient>sucre</ingredient> jusqu’ à ce que la préparation soit mousseuse, <operation>incorporez la farine et le <ingredient>thé</ingredient> en pluie, puis la <ingredient>levure</ingredient></operation>. <operation>mélangez bien</operation> puis <operation>ajoutez le beurre fondu, remélangez</operation> et <operation>versez dans les moules beurrés</operation> ; <operation>faites cuire à 180 ° c environ 12/15 mn</operation>
+]]>
+ </preparation>
+</recette>

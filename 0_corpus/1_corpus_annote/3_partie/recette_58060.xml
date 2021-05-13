@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58060">
+ <titre>Gâteau au chocolat moelleux et léger</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat</p>
+ <p>75 g de beurre</p>
+ <p>150 g de sucre en poudre</p>
+ <p>150 g de farine (ou moitié maïzena, moitié farine) </p>
+ <p>3 oeufs</p>
+ <p>1 petit suisse</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 cuillère à café de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faire fondre le <ingredient>chocolat</ingredient> et le beurre en <ingredient>petits</ingredient> morceaux dans une <recipient>casserole</recipient>, à feux doux</operation> puis réserver. dans un <recipient>saladier</recipient>, mélanger le <ingredient>sucre en poudre</ingredient> et <ingredient>vanillé</ingredient>, les jaunes d’ <ingredient>oeufs</ingredient> et le <ingredient>petit suisse</ingredient> (c’ est le secret du moelleux du gâteau). puis ajouter la farine en pluie et la <ingredient>levure</ingredient>, et enfin le <ingredient>chocolat</ingredient> fondu. battre les blancs en neige et les incorporer <ingredient>petit</ingredient> à <ingredient>petit</ingredient> au mélange à l’ aide d’ une <ingredient>cuillère</ingredient> en bois. verser dans un <recipient>moule</recipient> beurré et cuire 30 min au <recipient>four</recipient> à 180 ° c (thermostat 6) en vérifiant la cuisson avec un couteau. servir froid ou tiède. on peut ajouter des morceaux de poire, le mélange <ingredient>chocolat</ingredient> poire est excellent!
+]]>
+ </preparation>
+</recette>

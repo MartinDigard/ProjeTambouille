@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21192">
+ <titre>Toasts aux oeufs pochés</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>4 tranches de pain rassis</p>
+ <p>1 oignon</p>
+ <p>50 g de beurre</p>
+ <p>25 g de farine</p>
+ <p>30 cl de lait</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 cuillère à café de curry</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation>faites fondre 30 g de beurre</operation>, <operation>jetez - y l’ <ingredient>oignon</ingredient></operation> émincé et <operation>laissez - le suer</operation>. <operation>saupoudrez de <ingredient>curry</ingredient> et de farine</operation>. <operation>laissez roussir en</operation> remuant. <operation>ajoutez peu à peu le lait en</operation> remuant, <operation>laissez épaissir à feu doux</operation>. <operation>incorporez la <ingredient>crème</ingredient> en fouettant</operation>. <operation>réservez au chaud</operation>. faites dorer les <ingredient>tranches de pain</ingredient> dans une <recipient>poêle</recipient> avec le beurre restant. pochez les <ingredient>oeufs</ingredient> 3 min dans une <recipient>casserole</recipient> d’ eau frémissante vinaigrée, <operation>égouttez - les soigneusement</operation> et déposez - les sur les <ingredient>tranches de pain</ingredient>. <operation>nappez de sauce</operation> et <operation>servez</operation>.
+]]>
+ </preparation>
+</recette>
