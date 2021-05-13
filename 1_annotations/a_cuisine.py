@@ -26,15 +26,9 @@ unites_de_mesure = [' cl ', ' ml ', ' l ', ' dl', 'g ', ' kg ', ' kilogramme ',
 def bouteille_a_la_mer(input_file, infos_ingredients, target_file):
     """
     Les cuisiniers envoient une bouteille contenant les infos des ingrédients à
-<<<<<<< HEAD
     l’équipe de calcul.
     Écrit un fichier tsv au format (qtt, unité, ingr) dans le répertoire
     « 2_complexite ».
-=======
-    l'équipe de calcul.
-    Écrit un fichier tsv au format (qtt, unite, ingr) dans le répertoire
-    "2_complexite".
->>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
     """
     infos_ingr_tsv = []
     for qtt, unite, ingr in infos_ingredients:
@@ -50,15 +44,9 @@ def bouteille_a_la_mer(input_file, infos_ingredients, target_file):
 
 def nettoyage_balises_ope(recette):
     """
-<<<<<<< HEAD
     Debug des balises opérations
     """
     recette = re.sub('(<operation>+[^<]*)<operation>([^<]*</operation>)',
-=======
-    Debug balises opérations, (reloutise 2)
-    """
-    recette = re.sub('(<operation>[^<]*)<operation>([^<]*</operation>)',
->>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
                      '\\1\\2', recette)
     recette = re.sub('(<operation>[^<]*)</operation>([^<]*</operation>)+',
                      '\\1\\2', recette)
@@ -119,11 +107,7 @@ def main():
         recette_annotee = re.sub('</recipient> <recipient>', ' ',
                                  recette_annotee)
 
-<<<<<<< HEAD
         # Debug annotations
-=======
-        # Debug annotation
->>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
         recette_annotee = nettoyage_balises_ope(recette_annotee)
 
         # Recoller le recette

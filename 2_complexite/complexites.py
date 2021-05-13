@@ -68,8 +68,6 @@ def main():
 
         # Limitation pour les tests
         compteur += 1
-        # if compteur > 100:
-        #     break
 
         # Lecture de la recette courante
         with open(fichier) as input_file:
@@ -97,16 +95,8 @@ def main():
         nb_recipients = len(prepa_complexite[1]) + len(infos_ingr[fichier])
 
         # Annotation du temps et de l’espace
-<<<<<<< HEAD
         recette = et.annot_espace_temps(recette_annotee, oper_temps,
                                         nb_recipients)
-
-        # Debug annotation opération (reloutise) 
-        recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>(.*?</operation>)', '\\1\\2\\3', recette) 
-        print(recette)
-=======
-        recette = et.annot_espace_temps(recette_annotee, oper_temps, nb_recipients)
->>>>>>> e4c7ff0c37bdcbf028f8acffddc5736168a822e7
 
         # Debug annotation opération (reloutise) 
         recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>(.*?</operation>)', '\\1\\2\\3', recette) 
