@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52739">
+ <titre>Steacks hachés sauce soja</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 steacks hachés</p>
+ <p>1 cuillère à soupe sauce soja</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+poêler les <ingredient quantite=2>steacks hachés</ingredient> dans un peu d’ huile. les réserver. déglacer la <recipient>poêle</recipient> avec la sauce <ingredient quantite=1>soja</ingredient>, la <ingredient quantite=2>crème</ingredient> ainsi qu’ 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ eau. verser sur les <ingredient quantite=2>steacks</ingredient> et <operation temps=6.86min espace=4>servir sans</operation> attendre. permet d’ avoir de <ingredient quantite=2>steacks</ingredient> hachés plus moelleux.
+]]>
+ </preparation>
+</recette>

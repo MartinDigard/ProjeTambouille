@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68536">
+ <titre>Quiche aux oignons sans pâte</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>3 oeufs</p>
+ <p>1 bonne poignée d’ emmental râpé</p>
+ <p>4 ou 5 oignons</p>
+ <p>200 g de lardons</p>
+ <p>50 cl de lait</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites revenir les <ingredient quantite=4>oignons</ingredient> hachés et les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient></operation>. une fois les <ingredient quantite=4>oignons</ingredient> tendres et les <ingredient quantite=1>lardons</ingredient> grillés, les mélanger avec tout les autres ingrédients. verser la préparation dans un <recipient>moule</recipient> beurré à bords hauts. <operation temps=30.0min espace=10>faire cuire 25 à 30 min au <recipient>four</recipient> à 210 ° c (thermostat 7</operation>). a déguster avec une salade!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217066">
+ <titre>Velouté de pêche</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 pêches bien mûres</p>
+ <p>20 g beurre</p>
+ <p>30 g sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=5>pêches</ingredient>, puis les découper en gros dès. <operation temps=6.86min espace=4>faire fondre le beurre dans la <recipient>poêle</recipient></operation>, ajouter les <ingredient quantite=5>pêches</ingredient> et le sucre. <operation temps=6.86min espace=4>faire revenir tout en</operation> remuant 5 min environ. déposer quelques morceaux de <ingredient quantite=5>pêches</ingredient> dans le fond de vos verrines (en garder la moitié pour la suite). mettre la moitié de vos <ingredient quantite=5>pêches</ingredient> dans un bol et mixer, la <ingredient quantite=1>pêche</ingredient> va se mettre à mousser. <operation temps=6.86min espace=4>répartir cette préparation dans chaque verrine</operation> et mettre au frais au moins une heure avant de <operation temps=2.0min espace=4>servir</operation>. au moment de <operation temps=2.0min espace=4>servir</operation>, ajouter de la chantilly sur le dessus.
+]]>
+ </preparation>
+</recette>

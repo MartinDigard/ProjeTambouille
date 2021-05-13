@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46665">
+ <titre>Boeuf grillé aux feuilles de bananier</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>feuilles de bananier de taille 20x15cm</p>
+ <p>500 g de boeuf tendre</p>
+ <p>50 g de lard haché</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1/2 cuillère à café de poivre moulu</p>
+ <p>1 cuillère à soupe d’ échalote hachée</p>
+ <p>1/2 cuillère à soupe de citronnelle finement hachée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la viande en petites tranches, les mélanger avec le reste des ingrédients. passer au robot jusqu’ à ce que cela donne un mélange souple et fin. huiler les <ingredient quantite=1>feuilles de bananier</ingredient>. mettre une <ingredient quantite=1>cuillère à soupe</ingredient> du mélange sur une <ingredient quantite=1>feuille</ingredient>, plier les 4 côtés pour que cela donne la forme d’ un rectangle d’ environ 4 à 5 <ingredient quantite=1>cm</ingredient>. bien étaler et envelopper encore dans une autre feuille. pareil pour le reste. mettre le tout sur un <recipient>barbecue</recipient> ou sur une plaque allant au <recipient>four</recipient> et <operation temps=6.86min espace=10>faire griller</operation>. ce <recipient>plat</recipient> s’ accompagne de salade et de sauce aigre - douce.
+]]>
+ </preparation>
+</recette>

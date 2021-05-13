@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41649">
+ <titre>Gâteau au chocolat (seulement pour les enfants!) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 oeufs</p>
+ <p>1 verre de sucre</p>
+ <p>1 verre de farine</p>
+ <p>1/2 sachet de levure</p>
+ <p>un sachet de sucre vanillé</p>
+ <p>180 g de chocolat dessert</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=5>oeufs</ingredient> entiers et le <ingredient quantite=1>sucre</ingredient>. ajouter la farine, puis mélanger. ajouter la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé, et mélanger. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire fondre le beurre avec le <ingredient quantite=1>chocolat</ingredient></operation>. verser ce <ingredient quantite=1>chocolat</ingredient> fondu dans le mélange (<ingredient quantite=5>oeufs</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>levure</ingredient>, <ingredient quantite=1>sachet de sucre</ingredient> vanillé. verser la pâte dans un <recipient>moule</recipient> à gâteau. enfourner à 180 ° c (thermostat 6), pendant 30 min. bon appétit à tout le monde!!!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70297">
+ <titre>Salade de boeuf</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g viande de boeuf pour fondue</p>
+ <p>1 concombre</p>
+ <p>3 tomates mi-mûres</p>
+ <p>1 petit oignon sec</p>
+ <p>10 cl de sauce de soja</p>
+ <p>2 citrons jaune à jus</p>
+ <p>Coriandre fraîche en branche</p>
+ <p>1 cuillère à café de sucre en poudre</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer finement la viande à fondu puis presser les <ingredient quantite=2>citrons</ingredient> et verser le <ingredient quantite=2>jus</ingredient>, réserver 10 min en remuant de temps en temps. couper le <ingredient quantite=1>concombre</ingredient> et les <ingredient quantite=3>tomates</ingredient> en <ingredient quantite=1>petits</ingredient> dés et hacher l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>coriandre</ingredient>. ajouter le <ingredient quantite=1>sucre</ingredient> et le poivre, mélanger. egoutter la viande, l’ ajouter aux légumes et verser la sauce de <ingredient quantite=1>soja</ingredient>. bien mélanger. placer au <recipient>réfrigérateur</recipient> 1h30 environ avant de <operation temps=2.0min espace=11>servir</operation>. peut être servi en <recipient>plat</recipient> principal avec du riz blanc nature
+]]>
+ </preparation>
+</recette>

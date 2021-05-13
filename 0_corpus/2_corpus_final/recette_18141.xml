@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18141">
+ <titre>Pommes au four sauce à l’ orange</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 petites pommes (500 g) </p>
+ <p>150 ml de jus d’ orange non sucré</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>édulcorant (facultatif): 2 cuillères à café d’ aspartam ou plus selon votre goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=6>pelez</operation> et <operation temps=6.86min espace=6>évidez les <ingredient quantite=4>pommes</ingredient></operation>. <operation temps=6.86min espace=6>enveloppez chaque <ingredient quantite=1>pomme</ingredient> dans une feuille d’ aluminium bien hermétiquement</operation> et <operation temps=6.86min espace=6>mettez ces papillotes à <recipient>four</recipient></operation> chaud pendant 45 min. <operation temps=6.86min espace=6>mélangez au fouet le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>jus</ingredient> d’</operation> <ingredient quantite=1>orange</ingredient>, <operation temps=6.86min espace=6>mettez au <recipient>bain - marie</recipient></operation> et <operation temps=6.86min espace=6>fouettez le mélange jusqu’ à l’ obtention d’ une mousse onctueuse</operation>. <operation temps=6.86min espace=6>ajoutez éventuellement</operation> l’ <ingredient quantite=1>édulcorant</ingredient>. <operation temps=6.86min espace=6>sortez les <ingredient quantite=4>pommes</ingredient> des papillotes</operation>, <operation temps=6.86min espace=6>disposez - les dans des coupes individuelles et nappez - les de sauce à l’ <ingredient quantite=1>orange</ingredient></operation>. <operation temps=6.86min espace=6>servez chaud une part de cette recette</operation> peut remplacer un dessert prescrit dans votre régime.
+]]>
+ </preparation>
+</recette>

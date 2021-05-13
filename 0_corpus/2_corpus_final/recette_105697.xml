@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105697">
+ <titre>Gratin de raie</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800g de raie </p>
+ <p>150g de gruyère râpé </p>
+ <p>4 échalotes</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 morceau de pain rassis ou des croûtons</p>
+ <p>40cl de crème entière liquide</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites cuire la raie dans un court bouillon pendant une quinzaine de minutes environ, selon sa grosseur</operation>. quand elle est cuite, <operation temps=6.86min espace=11>égouttez - la et enlevez les cartilages</operation>. <operation temps=6.86min espace=11>mélangez la <ingredient quantite=1>crème</ingredient> avec les <ingredient quantite=4>échalotes</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation> émincés. <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>nappez un <recipient>plat</recipient> à <recipient>four</recipient> avec un peu de cette sauce</operation>. saupoudrez un peu de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=11>posez les <ingredient quantite=1>morceaux</ingredient> de raie</operation>. dessus, <operation temps=6.86min espace=11>répartissez les cubes de <ingredient quantite=1>pain</ingredient></operation> grillé ou <ingredient quantite=1>croûtons</ingredient>. <operation temps=6.86min espace=11>recouvrez cette préparation avec le reste de sauce</operation>. saupoudrez le reste de <ingredient quantite=1>gruyère râpé</ingredient> et placez 10 à 15mn à <recipient>four</recipient> chaud (th.7 - 210 ° c). <operation temps=2.0min espace=11>servez aussitôt</operation>. ce <recipient>plat</recipient> peut être accompagnée de riz basmati cuisson pilaf. un sauvignon
+]]>
+ </preparation>
+</recette>

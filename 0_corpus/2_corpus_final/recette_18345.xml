@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18345">
+ <titre>Baerewecke (cake alsacien) </titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>580g de fruits secs mélangés</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 zeste de citron et d’ orange</p>
+ <p>125g de sucre</p>
+ <p>125g de farine</p>
+ <p>4 oeufs</p>
+ <p>1/2 sachet de levure</p>
+ <p>cannelle et 4 épices</p>
+ <p>1 petit verre d’ alcool de fruits</p>
+ <p>Beurre et farine pour le moule à cake</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire mariner les <ingredient quantite=1>fruits secs</ingredient> coupés en dés dans l’ <ingredient quantite=1>alcool de fruit</ingredient>. <operation temps=6.86min espace=12>travaillez les <ingredient quantite=1>sucres</ingredient> + <ingredient quantite=4>oeufs</ingredient></operation>. ajoutez les <ingredient quantite=1>fruits secs</ingredient> égouttés, la <ingredient quantite=1>cannelle</ingredient>, le <ingredient quantite=1>zeste de citron et</ingredient> d’ orange, la <ingredient quantite=1>levure</ingredient> et la farine. bien <ingredient quantite=1>mélanger</ingredient> et cuire plus ou moins 1 heure à <recipient>four</recipient> moyen th 7/8 ou 210 ° à 240 ° dans un <ingredient quantite=1><recipient>moule</recipient></ingredient> à cake beurré et fariné. le <operation temps=6.86min espace=12>laisser rassir 2 ou 3 jours ce <ingredient quantite=1>cake</ingredient>, il n’ en sera que meilleur</operation>. vin d’ alsace
+]]>
+ </preparation>
+</recette>

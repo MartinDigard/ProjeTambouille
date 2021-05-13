@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46174">
+ <titre>Petits verres mascarpone ricotta aux spéculoos et fruits rouges compotés</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la crème: </p>
+ <p>250 g de mascarpone</p>
+ <p>125 g de ricotta</p>
+ <p>2 oeufs</p>
+ <p>60 g de sucre</p>
+ <p>Pour les fruits rouges: </p>
+ <p>300 g de fruits rouges congelés</p>
+ <p>50 g de sucre</p>
+ <p>1 feuille de gélatine</p>
+ <p>spéculoos</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>fruits</ingredient> dans une <recipient>casserole</recipient>, ajouter le <ingredient quantite=1>sucre</ingredient>. porter à ébullition, réduire le feu et <operation temps=30.0min espace=12>faire cuire pendant 30 minutes</operation>. retirer de feu et ajouter la <ingredient quantite=1>gélatine</ingredient>. <operation temps=6.86min espace=12>laisser refroidir complètement</operation>. dans un <recipient>plat</recipient>, <operation temps=6.86min espace=12>faire blanchir les jaunes avec le <ingredient quantite=1>sucre</ingredient></operation>. ajouter la ricotta, bien mélanger. ajouter le <ingredient quantite=1>mascarpone</ingredient>, mélanger de nouveau. battre les blancs en neige (ajouter - y une pincée de sel). ajouter délicatement les blancs au mélange. dans des verres: mettre une ou deux cuillère de <ingredient quantite=1>fruits</ingredient>. <operation temps=6.86min espace=12>recouvrir de morceaux de <ingredient quantite=1>spéculoos</ingredient></operation>. mettre une couche de <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=12>recouvrir de <ingredient quantite=1>spéculoos</ingredient></operation>. remettre des <ingredient quantite=1>fruits</ingredient>. <operation temps=6.86min espace=12>finir par quelques morceaux de <ingredient quantite=1>spéculoos</ingredient></operation>. ce dessert est frais et léger, idéal après un repas copieux. il me restait des <ingredient quantite=1>fruits rouges</ingredient>, je les ai mangés avec un yaourt nature.
+]]>
+ </preparation>
+</recette>

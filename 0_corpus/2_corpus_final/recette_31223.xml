@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31223">
+ <titre>Tarte aux herbettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 de pâte à tarte</p>
+ <p>4 oeufs</p>
+ <p>2 dl de crème à 35%</p>
+ <p>100 g de gruyère râpé</p>
+ <p>1 grosse tomate</p>
+ <p>2 oignons nouveaux ou 1 oignons moyen</p>
+ <p>1 bouquet de persil haché</p>
+ <p>1 bouquet de ciboulette ciselée</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>oignons</ingredient> en fines lamelles et les <operation temps=5.0min espace=12>faire suer à la <recipient>poêle</recipient> dans un peu d’ huile d’ olives pendant 5 mn</operation>. couper les <ingredient quantite=1>tomates</ingredient> épépinées en petits cubes. foncer la <ingredient quantite=1>pâte</ingredient> sur la plaque à gâteau, y mettre les cubes de <ingredient quantite=1>tomate</ingredient> et les <ingredient quantite=2>oignons</ingredient> dans le fond. dans un récipient, battre les <ingredient quantite=4>oeufs</ingredient> et la <ingredient quantite=1>crème</ingredient>, ajouter le <ingredient quantite=1>persil haché</ingredient> et la <ingredient quantite=1>ciboulette ciselée</ingredient>, le fromage ; saler et poiver. mettre la préparation sur les <ingredient quantite=1>tomates</ingredient> et enfourner à <recipient>four</recipient> préchauffé th 7, environ 20 mn. a volonté vous pouvez ajouter à la préparation du jambom en lanières. un rosé
+]]>
+ </preparation>
+</recette>

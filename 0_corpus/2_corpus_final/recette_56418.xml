@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56418">
+ <titre>Pain de viandes de hachis de porc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg 1/2 de hachis de porc</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>mie de pain (2 tartines) </p>
+ <p>persil, ail, sel, poivre</p>
+ <p>un peu de lait pour la farce</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre dans un <recipient>saladier</recipient> le <ingredient quantite=1>hachis</ingredient>. <operation temps=6.86min espace=10>faire un creux y</operation> ajouter dedans les deux <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>persil</ingredient>, <ingredient quantite=1>ail</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, et la <ingredient quantite=1>mie de pain</ingredient>. malaxer le tout. (un poil de <ingredient quantite=1>lait</ingredient> pour ceux qui le souhaitent) beurrer une <recipient>terrine</recipient> ou à défaut un <recipient>plat</recipient> à <recipient>four</recipient>. mettre la préparation dedans puis, mettre au <recipient>four</recipient> thermostat 220 ° pendant 30 minutes (si plus d’ après la cuisson, car le <ingredient quantite=1>porc</ingredient> doit prendre une couleur foncée). peut se <operation temps=6.86min espace=10>servir chaud ou froid j’</operation> espère que ma recette vous plaira a votre guise
+]]>
+ </preparation>
+</recette>

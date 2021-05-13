@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70439">
+ <titre>Tarte aux pommes sur frangipane</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pommes type Golden</p>
+ <p>1 pâte sablée</p>
+ <p>5 oeufs</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>10 cl de lait</p>
+ <p>100 g de sucre</p>
+ <p>250 g de poudre d’ amandes</p>
+ <p>100 g de beurre mou</p>
+ <p>1 cuillère à soupe de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=13>etalez la pâte <ingredient quantite=1>sablée</ingredient> dans un <recipient>moule</recipient>, piquez - la à la fourchette</operation>. mélangez le <ingredient quantite=1>beurre mou</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, 50 g de <ingredient quantite=1>sucre</ingredient>, 2 <ingredient quantite=5>oeufs</ingredient> et le <ingredient quantite=1>rhum</ingredient>. <operation temps=6.86min espace=13>etalez cette frangipane sur le fond de tarte</operation>. enfournez et <operation temps=15.0min espace=13>laissez cuire 15 min</operation>. pendant ce temps, <operation temps=3.0min espace=13>pelez</operation> et <operation temps=6.86min espace=13>coupez les <ingredient quantite=4>pommes</ingredient> en quartiers ou en dés</operation>. <operation temps=6.86min espace=13>mélangez les 3 <ingredient quantite=5>oeufs</ingredient> restants avec la <ingredient quantite=4>crème</ingredient>, le lait et les 50 g de <ingredient quantite=1>sucre</ingredient> restants</operation>. <operation temps=6.86min espace=13>sortez la tarte du <recipient>four</recipient>, disposez les <ingredient quantite=4>pommes</ingredient> dessus</operation>. <operation temps=6.86min espace=13>versez le mélange à base de lait</operation> et <operation temps=6.86min espace=13>remettez la tarte au <recipient>four</recipient></operation>. <operation temps=30.0min espace=13>laissez cuire encore 30 min</operation>. <operation temps=6.86min espace=13>dégustez la tarte</operation> tiède ou froide.
+]]>
+ </preparation>
+</recette>

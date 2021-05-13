@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223801">
+ <titre>Chili con carne (le mien!) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de lardons</p>
+ <p>1 chorizo fort</p>
+ <p>400 à 500 g de steak haché</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>300 g de haricots rouges</p>
+ <p>70 g de concentré de tomates</p>
+ <p>25 cl d’ eau</p>
+ <p>1 cuillère à soupe de paprika</p>
+ <p>2 cuillères à café de purée de piment</p>
+ <p>persil</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>huile olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=21>faire revenir dans une <recipient>poêle</recipient> les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation> émincés. ajouter les rondelles de <ingredient quantite=1>chorizo</ingredient> (épluché au préalable). réserver ensuite dans un <recipient>faitout</recipient> à feu très doux. <operation temps=6.86min espace=21>faire revenir dans un filet d’ huile <ingredient quantite=1>olive</ingredient>, les morceaux de <ingredient quantite=1>poivrons</ingredient> coupés en lamelles</operation>. ajouter ensuite au <recipient>faitout</recipient>. faire revenir le <ingredient quantite=1>steak haché</ingredient> émietté avec l’ <ingredient quantite=2>ail</ingredient> broyé dans un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. saler et poivrer. ajouter au <recipient>faitout</recipient>. dans le <recipient>faitout</recipient>, toujours à feu doux, ajouter les <ingredient quantite=1>haricots rouges</ingredient> (à peine égouttés), le concentré de <ingredient quantite=1>tomates</ingredient>, le <ingredient quantite=1>paprika</ingredient>, la <ingredient quantite=2>purée de piment</ingredient>, l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=21>laisser mijoter en</operation> remuant de temps en temps. <operation temps=60.0min espace=21>laisser cuire 45 à 60 min</operation>. la sauce ne doit pas être trop liquide (<operation temps=6.86min espace=21>ouvrir le couvercle pour</operation> <operation temps=6.86min espace=21>laisser évaporer, si besoin</operation>). ajouter de la <ingredient quantite=2>purée de piment</ingredient>, selon votre goût. vin corsé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166602">
+ <titre>Conchiglioni aux poivrons et parmesan</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>8 conchiglionis (2 par personne) </p>
+ <p>ail </p>
+ <p>1 bol de parmesan en copeaux</p>
+ <p>3 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>poivrons</ingredient> en petits dés. <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>poivrons</ingredient> dans une <recipient>poêle</recipient> avec de l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, de l’ <ingredient quantite=1>ail</ingredient> et du sel et poivre jusqu’ à ce qu’ ils soient</operation> fondants. <operation temps=6.86min espace=7>faire bouillir de l’ eau et y</operation> <operation temps=13.0min espace=7>faire cuire les conchiglionis 13 min</operation>. farcir les conchiglionis avec les <ingredient quantite=1>poivrons</ingredient> et des <ingredient quantite=1>copeaux de parmesan</ingredient>, placer un cure dent pour bien <operation temps=6.86min espace=7>faire tenir la préparation</operation>. les conchiglionis sont des grosses pâtes en forme de coquillage, ils peuvent être <operation temps=6.86min espace=7>servis en entrée avec une salade ou en amuse gueule</operation>.
+]]>
+ </preparation>
+</recette>

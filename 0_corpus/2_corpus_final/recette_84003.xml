@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84003">
+ <titre>Griesspudding (gâteau de semoule allemand) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 g de semoule fine (weizen griess) </p>
+ <p>25 cl de lait</p>
+ <p>1 cuillère à soupe de crème</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>Pour parfumer: </p>
+ <p>25 g de chocolat à cuire, ou 1 gousse de vanille fendue ou 1/2 cuillère à café de cannelle moulue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient> à feu doux, mélanger le lait et la crème pour le parfum <ingredient quantite=1>chocolat</ingredient>, <operation temps=6.86min espace=7>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec la crème</operation> puis ajouter le lait. pour les autres parfums, les ajouter dans le mélange crème - lait. ajouter la semoule, remuer régulièrement jusqu’ à ce que le mélange épaississe, mettre dans des ramequins (2 - 3) et <operation temps=20.0min espace=7>laisser refroidir</operation>. mettre au frais 1 heure. vous pouvez aussi le <operation temps=6.86min espace=7>faire nature et le</operation> manger avec une compote ou un coulis de fruits.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37351">
+ <titre>Pâtes au poireau et parmesan</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de lardons</p>
+ <p>1 gros poireau</p>
+ <p>150 g de crème fraîche épaisse</p>
+ <p>100 g de parmesan</p>
+ <p>500 g de pâtes (type penne) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer le <ingredient quantite=1>poireau</ingredient>: enlever le haut du vert, le couper en morceaux et le <operation temps=25.0min espace=9>faire cuire 25 min dans une <recipient>casserole</recipient> d’ eau</operation>. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient></operation>, ajouter le <ingredient quantite=1>poireau</ingredient> cuit et <operation temps=5.0min espace=9>laisser 5 min</operation>. <operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>pâtes</ingredient> pendant ce temps</operation>. ajouter la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>parmesan</ingredient> dans la <recipient>poêle</recipient>, <operation temps=10.0min espace=9>laisser cuire à feu doux pendant 10 min</operation>. préparer les assiettes avec les <ingredient quantite=1>pâtes</ingredient> et mettre la préparation au <ingredient quantite=1>poireau</ingredient> dessus. <recipient>plat</recipient> très simple et très bon pour un repas entre amis.
+]]>
+ </preparation>
+</recette>

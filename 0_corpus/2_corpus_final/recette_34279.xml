@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34279">
+ <titre>Salade d’ épinards aux pommes et au neufchâtel</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de jeunes pousses d’ épinards frais</p>
+ <p>1 oignon</p>
+ <p>1 pomme type maigold</p>
+ <p>50 g de neufchâtel pas trop frais</p>
+ <p>Pour la sauce: </p>
+ <p>1 cuillerée à soupe de vinaigre de cidre</p>
+ <p>2 cuillerées à soupe d’ huile de noix</p>
+ <p>1/2 cuillerée à café de cumin moulu</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et épluchez les <ingredient quantite=1>jeunes pousses</ingredient> d’ <ingredient quantite=1>épinards</ingredient>. <operation temps=6.86min espace=11>essorez - les bien</operation>. essuyez - les soigneusement et placez - les dans un <recipient>saladier</recipient>. <operation temps=6.86min espace=11>pelez l’ <ingredient quantite=1>oignon</ingredient>, hachez - le</operation> finement. <operation temps=6.86min espace=11>lavez la <ingredient quantite=1>pomme</ingredient>, essuyez - la bien</operation>, <operation temps=6.86min espace=11>ôtez le trognon et les pépins</operation>, <operation temps=6.86min espace=11>détaillez - la en dés</operation>. <operation temps=6.86min espace=11>découpez le <ingredient quantite=1>neufchâtel</ingredient> (pas <ingredient quantite=1>trop</ingredient> fait pour qu’ il garde forme) en petits cubes</operation>. placez tous les ingrédients dans le <recipient>saladier</recipient>. pour <ingredient quantite=1>la sauce</ingredient>: dans une jatte, battez le <ingredient quantite=1>vinaigre de cidre</ingredient>, l’ <ingredient quantite=2>huile de noix</ingredient>, le <ingredient quantite=1>cumin</ingredient> en poudre. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation>. vérifiez l’ assaisonnement. <operation temps=6.86min espace=11>versez la préparation sur la salade</operation>. <operation temps=6.86min espace=11>mélangez délicatement</operation> et <operation temps=2.0min espace=11>servez sans</operation> attendre.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168763">
+ <titre>Papillote au saumon sauce échalote</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pavés de saumon</p>
+ <p>2 échalotes</p>
+ <p>4 cuillères à soupe de crème fraiche</p>
+ <p>2 cuillères à soupe de vin blanc</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les deux pavés de <ingredient quantite=2>saumon</ingredient> sur une feuille d’ aluminium huilée pour chacun d’ eux. dans un bol mettre deux <ingredient quantite=4>cuillère à soupe de vin blanc</ingredient> et la <ingredient quantite=4>crème fraiche</ingredient>. <operation temps=5.0min espace=7>mélangez</operation>, <operation temps=0.25min espace=7>salez</operation> et <operation temps=0.5min espace=7>poivrez</operation>. <operation temps=6.86min espace=7>ajoutez les <ingredient quantite=2>échalotes</ingredient></operation> coupées en petits morceaux. si la préparation est trop liquide <operation temps=6.86min espace=7>rajoutez de la</operation> maïzena. <operation temps=6.86min espace=7>versez la préparation sur les</operation> <ingredient quantite=2>saumons</ingredient> et <operation temps=6.86min espace=7>fermez le papier d’ aluminium pour en</operation> <operation temps=6.86min espace=7>faire une papillote</operation> et <operation temps=20.0min espace=7>mettez au <recipient>four</recipient> à 180 ° c pendant 20 minutes</operation>.
+]]>
+ </preparation>
+</recette>

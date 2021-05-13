@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21708">
+ <titre>Soufflé à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 bananes</p>
+ <p>20 cl de lait</p>
+ <p>70 g de sucre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>30 g de beurre</p>
+ <p>3 jaunes d’ oeufs + 4 blancs</p>
+ <p>2 cuillères à soupe de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>bananes</ingredient> en rondelles, les arroser de <ingredient quantite=2>rhum</ingredient> et <operation temps=6.86min espace=10>laisser mariner</operation>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). délayer la farine dans 2 <ingredient quantite=2>cuillères à soupe</ingredient> de lait froid. amener le reste du lait à ébullition avec le <ingredient quantite=1>sucre</ingredient> et verser d’ un seul coup le mélange <ingredient quantite=2>farine</ingredient> - <ingredient quantite=1>lait</ingredient> tout en remuant. <operation temps=2.0min espace=10>laisser épaissir 2 minutes puis, hors du feu</operation>, ajouter le beurre et les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient>. ajouter les <ingredient quantite=2>bananes</ingredient> et les <ingredient quantite=3>blancs</ingredient> d’ oeufs montés en neige. verser dans un <recipient>moule</recipient> beurré. cuire 20 minutes, <operation temps=6.86min espace=10>servir dès la sortie du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

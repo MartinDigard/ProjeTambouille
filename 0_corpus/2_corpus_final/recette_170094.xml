@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170094">
+ <titre>Salade courgette menthe feta</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles courgettes</p>
+ <p>15 feuilles de menthe fraîche</p>
+ <p>200 g de feta sans huile</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=2>courgettes</ingredient> et les couper en bâtonnets. les <operation temps=10.0min espace=9>faire cuire à la vapeur pendant 10 min</operation>. pendant ce temps, cisailler la <ingredient quantite=1>menthe</ingredient> et couper la <ingredient quantite=1>feta</ingredient> en dés. lorsque les <ingredient quantite=2>courgettes</ingredient> sont cuites, les passer sous l’ eau froide pour stopper la cuisson et les refroidir. les égoutter. dans un <recipient>saladier</recipient>, préparer l’ assaisonnement: <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, <ingredient quantite=1>vinaigre balsamique</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. verser dans le <recipient>saladier</recipient> les <ingredient quantite=2>courgettes</ingredient>, la <ingredient quantite=1>menthe</ingredient> et la <ingredient quantite=1>feta</ingredient>. remuer... c’ est prêt!
+]]>
+ </preparation>
+</recette>

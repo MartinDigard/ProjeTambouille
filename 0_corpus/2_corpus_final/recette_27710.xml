@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27710">
+ <titre>Tarte au fromage blanc et aux fruits confits</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>250 g de fromage blanc</p>
+ <p>100 g de crème fraîche</p>
+ <p>100 g de sucre</p>
+ <p>100 g d’ amandes en poudre</p>
+ <p>3 oeufs</p>
+ <p>100 g de fruits confits</p>
+ <p>5 cl de kirsch</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6) et trempez les <ingredient quantite=1>fruits confits</ingredient> dans le <ingredient quantite=1>kirsch</ingredient>. <operation temps=6.86min espace=10>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient></operation> beurré aux bords hauts. <operation temps=6.86min espace=10>faites la</operation> cuire à <ingredient quantite=1>blanc</ingredient> 20 minutes, recouverte d’ aluminium et de harictos secs. <operation temps=6.86min espace=10>mélangez le <ingredient quantite=1>fromage</ingredient>, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=1>amandes</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez les jaunes d’ <ingredient quantite=3>oeufs</ingredient> puis les <ingredient quantite=1>blancs</ingredient></operation> battus en neige et les <ingredient quantite=1>fruits confits</ingredient> égouttés. <operation temps=6.86min espace=10>versez cette préparation sur le fond de tarte et enfournez pour 1 heure de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

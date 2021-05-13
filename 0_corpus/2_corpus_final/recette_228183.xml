@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228183">
+ <titre>Mousse au Toblerone et au chocolat noir</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de toblerone </p>
+ <p>50 g de chocolat noir</p>
+ <p>20 cl de crème liquide entière</p>
+ <p>3 blancs d’ œufs </p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettez la <ingredient quantite=1>crème liquide</ingredient> dans un bol, au <recipient>congélateur</recipient> pendant un quart d’ heure. dans l’ idéal les fouets du batteur électrique doivent aussi passer un peu au <recipient>congélateur</recipient>. <operation temps=6.86min espace=8>cassez le <ingredient quantite=1>toblerone</ingredient> et le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation>. <operation temps=6.86min espace=8>faites fondre le tout au <recipient>bain marie</recipient></operation>. il faut <operation temps=6.86min espace=8>obtenir un mélange bien lisse</operation>. battez les blancs en neige et faire de même avec la <ingredient quantite=1>crème liquide</ingredient> refroidie. <operation temps=6.86min espace=8>incorporez les blancs au <ingredient quantite=1>chocolat</ingredient> fondu,</operation> puis ajouter la <ingredient quantite=1>crème</ingredient> fouettée. il ne vous reste plus qu’ à verser le mélange obtenu dans des petits ramequins.
+]]>
+ </preparation>
+</recette>

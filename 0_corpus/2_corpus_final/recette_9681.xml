@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="9681">
+ <titre>Aumonière de carré frais</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pâte à crêpes </p>
+ <p>carré frais </p>
+ <p>ciboulette</p>
+ <p>persil</p>
+ <p>ail </p>
+ <p>tomates séchées </p>
+ <p>tomate</p>
+ <p>concombre </p>
+ <p>roquefort </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire 1 <ingredient quantite=1>pâte</ingredient> à crêpes</operation>. mélanger: <ingredient quantite=1>ciboulette</ingredient>, <ingredient quantite=1>persil</ingredient>, <ingredient quantite=1>ail</ingredient>, chair de <ingredient quantite=1>tomate</ingredient>, <ingredient quantite=1>tomates</ingredient> séchées, 1 moitié de <ingredient quantite=1>concombre</ingredient> coupée en petits dés (voire 1 tiers) et assaisonner. cuire les crêpes et former des aumonières. <operation temps=6.86min espace=10>garnir les aumonières de la préparation</operation>. servir froid ou tiède, accompagné d’ une sauce ou citron (crème fraîche épaisse + citron + <ingredient quantite=1>sel et poivre</ingredient>).
+]]>
+ </preparation>
+</recette>

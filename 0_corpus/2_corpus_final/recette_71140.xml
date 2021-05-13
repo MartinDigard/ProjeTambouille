@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71140">
+ <titre>Quatre-quart aux fraises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g du sucre</p>
+ <p>200 g de farine</p>
+ <p>200 g de beurre + beurre pour le moule</p>
+ <p>4 œufs</p>
+ <p>un demi-sachet de levure</p>
+ <p>un sachet de sucre vanillé</p>
+ <p>10 fraises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>beurre</ingredient> puis y</operation> ajouter le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, la farine, la <ingredient quantite=1>levure</ingredient> et les <ingredient quantite=4>œufs</ingredient>. bien mélanger jusqu’ à <operation temps=6.86min espace=10>obtenir une pâte bien homogène</operation>. couper les <ingredient quantite=1>fraises</ingredient> en petits carrés et les mélanger délicatement à la pâte. beurrer le <ingredient quantite=1><recipient>moule</recipient></ingredient> à gâteau (peu importe la forme) et y verser la pâte. mettre au <recipient>four</recipient> à 200 ° (thermostat 6 - 7) pendant 20 à 30 min.
+]]>
+ </preparation>
+</recette>

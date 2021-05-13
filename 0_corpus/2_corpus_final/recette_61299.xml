@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61299">
+ <titre>Gâteau banane pamplemousse</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pamplemousse rose bien charnu</p>
+ <p>2 belles bananes</p>
+ <p>60 g de farine</p>
+ <p>2 sachet de sucre vanillé</p>
+ <p>120 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>1/2 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+avant de commencer, <operation temps=6.86min espace=12>préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). epluchez le <ingredient quantite=1>pamplemousse</ingredient>, puis <operation temps=6.86min espace=12>coupez - le grossièrement dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=12>mixez - le</operation>. <operation temps=6.86min espace=12>ajoutez - y le <ingredient quantite=2>sucre</ingredient>, la farine, les <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=2>sucre</ingredient></operation> vanillé. <operation temps=6.86min espace=12>beurrez le <recipient>moule</recipient> à gâteau</operation>, <operation temps=6.86min espace=12>versez - y la préparation</operation> puis <operation temps=6.86min espace=12>rajoutez les <ingredient quantite=2>bananes</ingredient></operation> coupées en rondelles. enfournez pour 40 minutes de cuisson en baissant le <recipient>four</recipient> à 160 ° c (thermostat 5 - 6) avant de mettre le gâteau au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

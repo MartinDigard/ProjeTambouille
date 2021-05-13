@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29981">
+ <titre>Maïs en beignets</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de maïs en grains</p>
+ <p>2 oeufs</p>
+ <p>20 g de beurre</p>
+ <p>24 cl de lait</p>
+ <p>400 g de farine</p>
+ <p>1 cuillère à soupe de levure en poudre</p>
+ <p>sel et poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine avec la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. a côté, mélanger les <ingredient quantite=2>oeufs</ingredient>, le lait et le beurre fondu. ajouter le <ingredient quantite=1>maïs</ingredient> égoutté. mélanger les deux préparations. <operation temps=6.86min espace=8>faire chauffer l’ huile puis y</operation> verser des <ingredient quantite=1>cuillères</ingredient> de pâte. <operation temps=6.86min espace=8>laisser cuire jusqu’ à ce qu’ ils soient</operation> dorés et égoutter sur un papier absorbant avant de <operation temps=2.0min espace=8>servir</operation>.
+]]>
+ </preparation>
+</recette>

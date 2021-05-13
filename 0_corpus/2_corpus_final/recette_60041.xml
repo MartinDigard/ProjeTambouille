@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60041">
+ <titre>Filet mignon de porc aux milles épices</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet mignon de porc (de 400 g à 800 g) </p>
+ <p>3 cuillères à soupe de miel</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>2 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de gingembre haché</p>
+ <p>1 cuillère à café de mélange "tandoori" (se trouve en grandes surfaces) </p>
+ <p>2 oignons</p>
+ <p>20 cl de bouillon de légumes</p>
+ <p>2 à 3 clous de girofle</p>
+ <p>quelques grains de poivre</p>
+ <p>sel</p>
+ <p>1 pincée de piment de cayenne en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez le <ingredient quantite=3>miel</ingredient>, la <ingredient quantite=2>sauce soja</ingredient> l’ <ingredient quantite=2>huile</ingredient>, le <ingredient quantite=1>mélange tandoori</ingredient> et le <ingredient quantite=1>piment</ingredient>. <operation temps=6.86min espace=13>faites - y</operation> macérer le <ingredient quantite=1>filet mignon</ingredient> pendant une heure (si vous <operation temps=6.86min espace=13>manquez de temps une demie heure</operation> fait l’ affaire) dans un <recipient>faitout</recipient>, <operation temps=6.86min espace=13>faites revenir les <ingredient quantite=2>oignons</ingredient> dans un peu d’ <ingredient quantite=2>huile</ingredient> durant quelques minutes</operation>. puis ajoutez le <ingredient quantite=1>filet mignon</ingredient>, <operation temps=6.86min espace=13>faites le</operation> <operation temps=6.86min espace=13>revenir sur toutes ses faces</operation>. <operation temps=6.86min espace=13>ajoutez le</operation> <ingredient quantite=1>bouillon</ingredient> et <operation temps=20.0min espace=13>laissez mijoter à couvert pendant 20 minutes</operation>. au bout des 20 minutes, ajoutez le reste de la marinade, les <ingredient quantite=2>clous de girofle</ingredient> et le <ingredient quantite=1>poivre</ingredient> et <operation temps=0.25min espace=13>salez</operation>. <operation temps=25.0min espace=13>laissez mijotez encore 25 minutes à couvert en</operation> mélangeant de temps en temps. si la <ingredient quantite=2>sauce</ingredient> est trop liquide à votre goût <operation temps=6.86min espace=13>ajoutez - y de la crème fraiche ou de la</operation> maïzena. a déguster avec un riz basmati.
+]]>
+ </preparation>
+</recette>

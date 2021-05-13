@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23859">
+ <titre>Soupe glacée à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de tomates</p>
+ <p>150 g de crème fraîche liquide</p>
+ <p>150 g de crème fraîche épaisse</p>
+ <p>2 cuillères à soupe de basilic</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>croûtons à l’ ail</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler, épépiner les <ingredient quantite=1>tomates</ingredient> coupées en pétales. mettre dans le bol du <recipient>mixeur</recipient>, mixer, puis ajouter la <ingredient quantite=1>crème liquide</ingredient>, remixer, mettre la <ingredient quantite=1>crème épaisse</ingredient>, re-remixer, ajouter le <ingredient quantite=2>basilic</ingredient> émincé, re-re-remixer, puis ajouter <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. mixer le tout une dernière fois, puis goûter pour rectifier l’ assaisonnement si besoin est. mettre dans un <recipient>saladier</recipient> au <recipient>réfrigérateur</recipient> plusieurs heures, sur des glaçons (si c’ est au dernier moment, mettre 1/2 heure à 3/4 d’ heure au <recipient>congélateur</recipient>). au moment de <operation temps=2.0min espace=11>servir</operation>, ajouter 1 filet d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> sur la <ingredient quantite=2>soupe</ingredient> avec les <ingredient quantite=1>croûtons à</ingredient> l’ <ingredient quantite=1>ail</ingredient>. sur la table, rajouter 2 ramequins de <ingredient quantite=1>croûtons</ingredient>. vin rosé frais
+]]>
+ </preparation>
+</recette>

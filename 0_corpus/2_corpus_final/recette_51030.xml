@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51030">
+ <titre>Blinis au maïs</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60 cl de lait</p>
+ <p>90 g de beurre</p>
+ <p>240 g de farine</p>
+ <p>1 paquet de levure chimique</p>
+ <p>3 oeufs</p>
+ <p>1 petite boite de maïs en conserve</p>
+ <p>sel, poivre, épices</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites chauffer le lait avec le beurre à feu doux jusqu’ à ce que le beurre soit</operation> fondu. <operation temps=6.86min espace=8>mélangez la farine, la <ingredient quantite=1>levure</ingredient> avec du <ingredient quantite=1>sel</ingredient>, du poivre et des <ingredient quantite=1>épices</ingredient></operation>. <operation temps=6.86min espace=8>creusez un puits</operation> et <operation temps=6.86min espace=8>cassez - y les <ingredient quantite=3>oeufs</ingredient></operation>. <operation temps=6.86min espace=8>travaillez au fouet</operation>. <operation temps=6.86min espace=8>délayez avec du lait pour</operation> <operation temps=6.86min espace=8>obtenir une pâte fluide</operation>. egoutter le <ingredient quantite=1>maïs en conserve</ingredient>, incorporez - le à la pâte et mixez. <operation temps=6.86min espace=8>faites chauffer une <ingredient quantite=1>petite</ingredient> <recipient>poêle</recipient> et graissez - la</operation>. <operation temps=3.0min espace=8>faites cuire chaque blini 2 à 3 minutes surla première face et 1 minute sur l’ autre</operation>. graissez entre chaque blinis. accompagnés d’ un mélange de tomates et de fromage de chèvre poivré ces blinis sont un délice!
+]]>
+ </preparation>
+</recette>

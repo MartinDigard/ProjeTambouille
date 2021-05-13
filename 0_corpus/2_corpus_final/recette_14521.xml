@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14521">
+ <titre>Crème de noisettes à la vanille</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>1 l de lait</p>
+ <p>de 80 à 100g de sucre en poudre (selon le goût) </p>
+ <p>1 bâton de vanille</p>
+ <p>200 g de noisettes hachées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+confectionner une crème anglaise avec le lait, la <ingredient quantite=1>vanille</ingredient>, le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=6>oeufs</ingredient>. <operation temps=6.86min espace=8>faire blondir les <ingredient quantite=1>noisettes</ingredient> au <recipient>four</recipient> ou à la <recipient>poêle</recipient> (à sec) et les</operation> réduire en <ingredient quantite=1>poudre</ingredient> fine. incorporer cette <ingredient quantite=1>poudre</ingredient> à la crème lorsqu’ elle est encore tiède et <operation temps=6.86min espace=8>maintenir au <recipient>réfrigérateur</recipient> au moins 1 h avant de</operation> <operation temps=2.0min espace=8>servir</operation>.
+]]>
+ </preparation>
+</recette>

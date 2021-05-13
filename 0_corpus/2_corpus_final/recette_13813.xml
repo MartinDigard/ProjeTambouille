@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13813">
+ <titre>Salmis de pintade</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pintade coupée en morceaux</p>
+ <p>1 bouteille de vin rouge de bourgogne</p>
+ <p>1 petit verre d’ alcool (marc de Bourgogne, Cognac, Armagnac) </p>
+ <p>10 oignons grelots</p>
+ <p>500 g de champignons de Paris</p>
+ <p>250 g de lardons (nature ou fumés) </p>
+ <p>2 cuillers de farine</p>
+ <p>margarine et huile</p>
+ <p>bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire dorer les <ingredient quantite=1>morceaux</ingredient> de pintade dans une poele avec un mélange <ingredient quantite=1>huile</ingredient> / margarine</operation>. bien égoutter les <ingredient quantite=1>morceaux</ingredient>. faire de même avec les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=1>oignons grelots</ingredient>. dans une <recipient>cocotte</recipient>, mettre les <ingredient quantite=1>morceaux</ingredient> de pintade, les <ingredient quantite=1>lardons</ingredient>, les <ingredient quantite=1>oignons grelots</ingredient>. flamber avec l’ <ingredient quantite=1>alcool</ingredient>. ajouter la farine, le <ingredient quantite=1>vin</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=10>laisser mijoter 1h environ</operation>. ajouter les <ingredient quantite=1>champignons de paris</ingredient> que vous aurez émincés et fait suer au préalable. <operation temps=6.86min espace=10>laisser à nouveau</operation> mijoter 30 minutes. servir avec des croutons de baguettes revenus au beurre et bien frottés d’ ail. accompagnement: pommes de terre vapeur, tagliatelles. celui qui vous a servi pour la pintade ou meilleur mais un <ingredient quantite=1>vin de bourgogne</ingredient> forcément...
+]]>
+ </preparation>
+</recette>

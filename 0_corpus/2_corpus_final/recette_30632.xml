@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30632">
+ <titre>Spaghetti aux légumes, câpres et anchois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de spaghetti</p>
+ <p>3 gousses d’ ail</p>
+ <p>1/2 à 1 piment selon la force</p>
+ <p>9 tomates</p>
+ <p>3 aubergines</p>
+ <p>3 poivrons</p>
+ <p>1 à 2 poignées d’ olives</p>
+ <p>1, 5 cuillère à soupe de câpres</p>
+ <p>4-5 filets d’ anchois déssalés</p>
+ <p>1, 5 cuillère à soupe de feuilles de basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>gril</recipient> du <recipient>four</recipient>. <operation temps=6.86min espace=14>faire griller les <ingredient quantite=3>aubergines</ingredient> et les <ingredient quantite=3>poivrons</ingredient> sous le <recipient>gril</recipient> ne les</operation> retournant fréquemment. peler les <ingredient quantite=3>poivrons</ingredient>, les couper en dés. couper les <ingredient quantite=3>aubergines</ingredient> en dés. ebouillanter les <ingredient quantite=9>tomates</ingredient>, les peler et concasser. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient> entières et le <ingredient quantite=1>piment</ingredient></operation>. retirer et mettre à la place les <ingredient quantite=9>tomates</ingredient>, les <ingredient quantite=3>aubergines</ingredient> et les <ingredient quantite=3>poivrons</ingredient>. ajouter les <ingredient quantite=1>olives</ingredient> hachées, les <ingredient quantite=1>câpres</ingredient>, les <ingredient quantite=7>filets</ingredient> d’ <ingredient quantite=7>anchois déssalés</ingredient> et hachés. <operation temps=10.0min espace=14>laisser mijoter 10 minutes en</operation> ajoutant un peu d’ eau si nécessaire. ajouter le <ingredient quantite=1>basilic</ingredient> en fin de cuisson. <operation temps=6.86min espace=14>faire cuire les pâtes à l’ eau bouillante</operation> salée, les égoutter et les mettre dans la sauce.
+]]>
+ </preparation>
+</recette>

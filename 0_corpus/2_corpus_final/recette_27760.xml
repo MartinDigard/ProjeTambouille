@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27760">
+ <titre>Filet mignon lardé aux choux de Bruxelles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rôti de porc d’ 1 kg</p>
+ <p>2 bardes de lard</p>
+ <p>500 g de choux de Bruxelles</p>
+ <p>2 douzaines d’ oignons grelots</p>
+ <p>150 g de lardons</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> thermosat 7 (210 °). epluchez et <operation temps=6.86min espace=10>lavez les <ingredient quantite=1>choux</ingredient></operation>. <operation temps=6.86min espace=10>faites - les</operation> cuire 15 min à l’ eau bouillante salée ou 10 min à la vapeur, <operation temps=6.86min espace=10>égouttez</operation>. enveloppez le filet mignon de <ingredient quantite=2>bardes de lard</ingredient> et <operation temps=6.86min espace=10>mettez - le dans un <recipient>plat</recipient> beurré avec les <ingredient quantite=2>oignons</ingredient> tout autour</operation>. l’ <operation temps=6.86min espace=10>enfournez à <recipient>four</recipient></operation> chaud pendant 1 h en l’ arrosant régulièrement du jus de cuisson rendu. retournez - le à mi-cuisson (ne le <operation temps=6.86min espace=10>piquez pour le garder moelleux</operation>). dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=10>faites rissoler le <ingredient quantite=2>lard</ingredient></operation> coupé en <ingredient quantite=2>lardons</ingredient> puis rajoutez les <ingredient quantite=1>choux de bruxelles</ingredient>. <operation temps=10.0min espace=10>laissez chauffer 10 min à feu doux</operation>. <operation temps=6.86min espace=10>servez le filet mignon</operation> découpé en tranches avec les <ingredient quantite=1>choux de bruxelles</ingredient> aux <ingredient quantite=2>lardons</ingredient>. <operation temps=6.86min espace=10>arrosez de jus</operation> et <operation temps=6.86min espace=10>servez le reste en saucière</operation>.
+]]>
+ </preparation>
+</recette>

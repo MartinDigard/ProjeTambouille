@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26785">
+ <titre>Poires pochées au vin et sauce chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 poires</p>
+ <p>25 cl de vin rouge</p>
+ <p>125 g de chocolat</p>
+ <p>200 g de sucre</p>
+ <p>25 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire bouillir le <ingredient quantite=1>vin</ingredient>, le <ingredient quantite=1>sucre</ingredient> et 50 cl d’ eau</operation>. peler les <ingredient quantite=6>poires</ingredient> et les <operation temps=30.0min espace=6>faire cuire dans le <ingredient quantite=1>vin</ingredient> environ 30 min</operation>. les égoutter et les disposer sur un <recipient>plat</recipient>. <operation temps=6.86min espace=6>faire réduire le jus de cuisson de moitié et le</operation> verser sur les <ingredient quantite=6>poires</ingredient>. au moment de <operation temps=2.0min espace=6>servir</operation>, <operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec le beurre</operation>. napper les <ingredient quantite=6>poires</ingredient> pochées et servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225410">
+ <titre>Oeufs cocotte au pesto</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>2 cuillères de pesto</p>
+ <p>5 cuillères à soupe de crème fraiche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez la <ingredient quantite=5>crème fraiche</ingredient> avec le <ingredient quantite=2>pesto</ingredient>. mettre cette préparation au fond de 2 ramequins en en gardant 1 <ingredient quantite=1>cuillère</ingredient> de côté. casser un <ingredient quantite=1>oeuf</ingredient> dans chaque sur la <ingredient quantite=5>crème</ingredient>. ajouter le reste de crème au dessus, <operation temps=0.25min espace=6>salez</operation>, <operation temps=0.5min espace=6>poivrez</operation>. <operation temps=6.86min espace=6>faites cuire au <recipient>four</recipient> à 180 ° c (thermostat 6), au bain</operation> marie entre 10 et 15 minutes selon le <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

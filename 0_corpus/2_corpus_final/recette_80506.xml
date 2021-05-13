@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80506">
+ <titre>Cake aux olives vertes et noires</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>4 oeufs</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>20 olives vertes dénoyautées</p>
+ <p>20 olives noires dénoyautées</p>
+ <p>50 g de gruyère râpé</p>
+ <p>un peu de beurre </p>
+ <p>du sel du poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 °, thermostat 6.casser les <ingredient quantite=4>oeufs</ingredient> dans un <recipient>saladier</recipient>, bien les fouetter comme pour une omelette. ajouter petit à petit la farine, la <ingredient quantite=1>levure</ingredient>, l’ <ingredient quantite=4>huile</ingredient>, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>poivre</ingredient>. fouetter pour <operation temps=6.86min espace=12>obtenir un pâte bien lisse</operation>. ajouter les <ingredient quantite=4>olives</ingredient> et le <ingredient quantite=1>gruyère</ingredient>. bien les mélanger à la pâte. beurrer un <recipient>moule</recipient> à cake et y verser la pâte. <operation temps=35.0min espace=12>faire cuire 35 min</operation>. attendre qu’ il soit tiède pour démouler.
+]]>
+ </preparation>
+</recette>

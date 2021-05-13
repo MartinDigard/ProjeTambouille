@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26509">
+ <titre>Tarte méditerranéenne aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>6 tomates</p>
+ <p>20 filets d’ anchois</p>
+ <p>1/2 poivron vert</p>
+ <p>1/2 poivron rouge</p>
+ <p>2 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>quelques olives vertes et noires dénoyautées</p>
+ <p>50 g de gruyère en lamelles</p>
+ <p>thym, laurier, marjolaine, romarin</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation>, <operation temps=0.5min espace=14>réservez au frais</operation>. <operation temps=3.0min espace=14>pelez</operation> et <operation temps=6.86min espace=14>concassez les <ingredient quantite=6>tomates</ingredient>, hachez les <ingredient quantite=2>échalotes</ingredient></operation>. <operation temps=6.86min espace=14>faites - les</operation> fondre à feu doux dans une <recipient>poêle</recipient> huilée. <operation temps=6.86min espace=14>détaillez les <ingredient quantite=1>poivrons</ingredient> en lanières</operation>, <operation temps=6.86min espace=14>épépinez - les</operation>. <operation temps=6.86min espace=14>couvrez la <ingredient quantite=1>pâte</ingredient> avec les <ingredient quantite=6>tomates</ingredient> aux <ingredient quantite=2>échalotes</ingredient>, pressez l’ <ingredient quantite=2>ail</ingredient> et répartissez - le dessus</operation>. <operation temps=6.86min espace=14>saupoudrez des herbes</operation> émiettées. <operation temps=6.86min espace=14>déposez les lanières de <ingredient quantite=1>poivrons</ingredient> et les <ingredient quantite=1>filets</ingredient> d’ <ingredient quantite=1>anchois</ingredient> sur le tout</operation>. enfin <operation temps=6.86min espace=14>ajoutez le fromage et les <ingredient quantite=1>olives</ingredient></operation>. <operation temps=20.0min espace=14>faites cuire à <recipient>four</recipient> à 220 ° c (thermostat 7 - 8), pendant 20 minutes</operation>. <operation temps=2.0min espace=14>servez</operation> chaud ou froid.
+]]>
+ </preparation>
+</recette>

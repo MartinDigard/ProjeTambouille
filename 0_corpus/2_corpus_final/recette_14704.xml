@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14704">
+ <titre>Carbonades flamandes à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>700 g de boeuf (morceaux pour sauté ou pour carbonades) </p>
+ <p>3 gros oignons</p>
+ <p>1l de bière (3 monts, par exemple) </p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>2 tranches de pain de campagne</p>
+ <p>cassonade et vinaigre</p>
+ <p>bouquet garni</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=13>faire revenir les morceaux de viandes découpés de chaque côté dans du beurre</operation>. les saler, les poivrer, puis les retirer. mettre à la place les <ingredient quantite=3>oignons</ingredient> émincés et les <operation temps=6.86min espace=13>faire colorer</operation>. saupoudrer les <ingredient quantite=3>oignons</ingredient> de farine, mélanger puis mouiller avec la <ingredient quantite=1>bière</ingredient>. ajouter alors les morceaux de viande. pendant ce temps, préparer un caramel avec la <ingredient quantite=1>cassonade</ingredient> et le sucre que vous <operation temps=6.86min espace=13>ferez</operation> chauffer dans une <recipient>casserole</recipient> à part, à la fin ajouter une <ingredient quantite=1>cuillère</ingredient> d’ eau. puis verser le mélange dans la <recipient>cocotte</recipient>. badigeonner le <ingredient quantite=2>pain</ingredient> avec de la moutarde et le mettre dans la <recipient>cocotte</recipient> pour lier la sauce puis porter à ébullition. <operation temps=6.86min espace=13>faire ensuite</operation> mijoter à feu doux pendant 2 à 3 heures. mélanger de temps à autre pour éviter que cela n’ attache au fond. ajouter un peu de <ingredient quantite=1>cassonade</ingredient> si vous préférez un peu plus sucré. <ingredient quantite=1>bière</ingredient>
+]]>
+ </preparation>
+</recette>

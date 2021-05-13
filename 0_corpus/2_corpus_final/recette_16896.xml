@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16896">
+ <titre>Quatre-quart pomme et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>4 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ <p>100 g de sucre de canne ou 200 g de sucre blanc</p>
+ <p>4 pommes au choix de taille moyenne</p>
+ <p>15 morceaux de sucre en morceaux</p>
+ <p>15 cl de rhum</p>
+ <p>200 g de chocolat noir</p>
+ <p>100 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>casserole</recipient>, faire un caramel avec le <ingredient quantite=1>sucre en morceaux</ingredient> et un verre d’ eau. pendant ce temps, mélanger dans un <recipient>saladier</recipient> la farine, les <ingredient quantite=4>oeufs</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>chocolat</ingredient> (préalablement fondu), le beurre et 3 <ingredient quantite=4>pommes</ingredient>. lorsque le caramel commence à <operation temps=6.86min espace=13>brunir</operation>, beurrer un <recipient>moule</recipient> à gâteau, y verser le caramel. disposer ensuite sur le caramel la dernière <ingredient quantite=1>pomme</ingredient> coupée en rondelles. verser la pâte par dessus. <operation temps=25.0min espace=13>laisser cuire 25 mn à <ingredient quantite=1>200</ingredient> ° c (thermostat 6 - 7</operation>). on peut remplacer les <ingredient quantite=4>pommes</ingredient> par de l’ ananas. pour démouler plus facilement, passer le <recipient>moule</recipient> à la flamme.
+]]>
+ </preparation>
+</recette>

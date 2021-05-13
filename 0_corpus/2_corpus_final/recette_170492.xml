@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170492">
+ <titre>Tarte au brocciu et citron</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>1 brocciu de 500 g (ou brousse) </p>
+ <p>4 oeufs</p>
+ <p>100 g de sucre</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6) et <operation temps=10.0min espace=7>faire précuire 10 minutes la pâte <ingredient quantite=1>sablée</ingredient></operation>. couper très fin le zeste d’ un <ingredient quantite=1>citron</ingredient>. mélanger dans un robot les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>brocciu</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le jus d’ un demi <ingredient quantite=1>citron</ingredient> et le zeste afin d’ <operation temps=6.86min espace=7>obtenir une préparation lisse, sans grumeaux</operation>. disposer la préparation sur la pâte <ingredient quantite=1>sablée</ingredient> et mettre au <recipient>four</recipient> environ 30 minutes à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23490">
+ <titre>Crevettes à l’ ail</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de grosses crevettes (ou 12 gambas) </p>
+ <p>4 gousses d’ ail</p>
+ <p>1 piment doux (ou piment en poudre) </p>
+ <p>1 bouquet de persil</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=10>essuyez les crevettes</operation>. faites chauffer 4 <ingredient quantite=6>cuillères à soupe</ingredient> d’ huile dans 1 grande <recipient>poêle</recipient>. <operation temps=6.86min espace=10>ajoutez les crevettes</operation> et <operation temps=6.86min espace=10>faites les</operation> cuire 5 mn de chaque côté puis <operation temps=6.86min espace=10>sortez les de la <recipient>poêle</recipient></operation>. passez l’ <ingredient quantite=4>ail</ingredient> au <recipient>mixeur</recipient>, le <ingredient quantite=1>persil</ingredient> et le <ingredient quantite=1>piment doux</ingredient>. dans la <recipient>poêle</recipient>, <operation temps=6.86min espace=10>versez le reste de d’</operation> <ingredient quantite=6>huile</ingredient> puis <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=4>ail</ingredient>, le <ingredient quantite=1>persil</ingredient> et le <ingredient quantite=1>piment</ingredient></operation>. <operation temps=6.86min espace=10>remuez bien, pour que l’ <ingredient quantite=4>ail</ingredient> soit</operation> cuit mais non brûlé. <operation temps=6.86min espace=10>remettez les crevettes à chauffer</operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=6.86min espace=10>poivrez et servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

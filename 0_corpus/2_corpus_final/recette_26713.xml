@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26713">
+ <titre>Poivrons grillés marinés au citron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poivrons rouges d’ Espagne</p>
+ <p>3 poivrons verts d’ Espagne</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de jus de citron</p>
+ <p>2 gousses d’ ail</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>lavez les</operation> <ingredient quantite=3>poivrons</ingredient>, <operation temps=20.0min espace=7>faites - les griller sous le grill du <recipient>four</recipient> environ 20 minutes les</operation> retournant souvent. enfermez - les dans un sac plastique et <operation temps=20.0min espace=7>laissez refroidir</operation>. pelez et <operation temps=6.86min espace=7>épépinez les</operation> <ingredient quantite=3>poivrons</ingredient> (<operation temps=6.86min espace=7>récupérez le <ingredient quantite=2>jus</ingredient> dans un bol)</operation>, <operation temps=6.86min espace=7>découpez - les en lanières</operation>. parsemez d’ <ingredient quantite=2>ail</ingredient> haché, arrosez avec le <ingredient quantite=2>jus de citron</ingredient>, <operation temps=0.25min espace=7>salez</operation> et <operation temps=0.5min espace=7>poivrez</operation>. <operation temps=6.86min espace=7>mélangez l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, le <ingredient quantite=2>citron</ingredient> et le <ingredient quantite=2>jus</ingredient> des poivrosn</operation>, <operation temps=6.86min espace=7>laissez mariner au frais au moins 1 nuit</operation>.
+]]>
+ </preparation>
+</recette>

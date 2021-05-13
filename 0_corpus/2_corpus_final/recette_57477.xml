@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57477">
+ <titre>Gâteau marbré de Dominique</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 verre d’ huile</p>
+ <p>1 verre de lait</p>
+ <p>250 g de sucre</p>
+ <p>300 g de farine</p>
+ <p>1 paquet de levure chimique</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>4 oeufs</p>
+ <p>chocolat en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les jaunes avec le <ingredient quantite=1>sucre</ingredient>, <operation temps=6.86min espace=10>faire blanchir</operation> ajouter le <ingredient quantite=1>lait</ingredient> l’ <ingredient quantite=1>huile</ingredient> puis la farine tamisée avec le sachet de <ingredient quantite=1>levure</ingredient>. ajouter les blancs d’ <ingredient quantite=4>oeufs</ingredient> battus en neige. verser la moitié de la préparation dans un <recipient>moule</recipient> à cake beurré. ajouter du cacao en <ingredient quantite=1>poudre</ingredient> au reste de la préparation puis verser dans le <recipient>moule</recipient>. cuire à 150 ° c (thermostat 5) pendant 1 heure.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18663">
+ <titre>Velouté de potiron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 quartier de potiron</p>
+ <p>1 gros oignon</p>
+ <p>1 brique de crème fraîche liquide</p>
+ <p>sel, poivre</p>
+ <p>muscade en poudre</p>
+ <p>un peu d’ huile</p>
+ <p>persil ciselé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la chair de la courge en <ingredient quantite=1>gros</ingredient> dés. couper l’ <ingredient quantite=1>oignon</ingredient> en lamelles et le <operation temps=6.86min espace=9>faire revenir dans une <recipient>cocotte</recipient> avec un <ingredient quantite=1>peu</ingredient> d’ <ingredient quantite=1>huile</ingredient></operation>. ajouter les dés de courge dans la <recipient>cocotte</recipient> et <operation temps=6.86min espace=9>recouvrir d’ eau (juste au niveau de la courge, pas plus</operation>). <operation temps=45.0min espace=9>laisser bouillir environ 45 min à 1 h, quand la fourchette</operation> rentre facilement dans un dé de <ingredient quantite=1>potiron</ingredient>. mixer le tout. verser la <ingredient quantite=1>crème liquide</ingredient>, saler, poivrer et ajouter de la <ingredient quantite=1>muscade</ingredient> selon votre goût. au moment de <operation temps=2.0min espace=9>servir</operation>, parsemer de <ingredient quantite=1>persil ciselé</ingredient>. pour une entrée plus sophistiquée, vous pouvez rajouter des noix de saint-jacques préalablement revenus dans un peu de beurre, dans l’ assiette au moment de <operation temps=2.0min espace=9>servir</operation>.
+]]>
+ </preparation>
+</recette>

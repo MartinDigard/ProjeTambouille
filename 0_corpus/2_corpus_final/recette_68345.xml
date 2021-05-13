@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68345">
+ <titre>Soupe de laitue aux légumes-racines</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 laitue</p>
+ <p>2 carottes </p>
+ <p>2 panais </p>
+ <p>2 belles pommes de terre</p>
+ <p>1 cube de bouillon de légumes</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>détaillez vos <ingredient quantite=1>légumes</ingredient> -</operation> racines en petits morceaux et <operation temps=6.86min espace=8>faites - les</operation> <operation temps=6.86min espace=8>revenir quelques minutes dans une grande <recipient>casserole</recipient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajoutez le <ingredient quantite=1>bouillon cube</ingredient> émietté et remuez. lavez et <operation temps=6.86min espace=8>détaillez en gros morceaux la</operation> <ingredient quantite=1>laitue</ingredient> puis <operation temps=6.86min espace=8>ajoutez - la au reste</operation>. <operation temps=6.86min espace=8>faites</operation> " suer " à feu moyen quelques minutes en remuant, jusqu’ à ce que la <ingredient quantite=1>laitue</ingredient> " se flétrisse " bien. (comme l’ épinard). <operation temps=6.86min espace=8>ajoutez de l’ eau à hauteur,</operation> et <operation temps=6.86min espace=8>faites cuire pendant une demie heure environ, à feu moyen</operation>. enfin <operation temps=6.86min espace=8>mixez le tout</operation>, <operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez selon vos goûts</operation> et <operation temps=2.0min espace=8>servez</operation>!
+]]>
+ </preparation>
+</recette>

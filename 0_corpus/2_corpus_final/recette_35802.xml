@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35802">
+ <titre>Tatin de brocolis à la brousse</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>1 beau bouquet de brocolis</p>
+ <p>300 g de brousse (fromage frais de brebis) </p>
+ <p>25 brins de ciboulette</p>
+ <p>1 échalote</p>
+ <p>2 tranches fines de jambon cru</p>
+ <p>2 oeufs</p>
+ <p>sel, poivre (ou encore mieux, le mélange cinq baies, c’ est l’ idéal) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper chaque tête de <ingredient quantite=1>brocolis</ingredient> avec 2 cm de tige. les <operation temps=10.0min espace=14>faire cuire 10 min dans de l’ eau bouillante</operation> salée, puis bien égoutter sur du papier absorbant. hacher finement l’ <ingredient quantite=1>échalote</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. dans un <recipient>saladier</recipient>, battre le fromage, les <ingredient quantite=2>oeufs</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et la <ingredient quantite=1>ciboulette</ingredient> hachées. saler et poivrer. beurrer un <recipient><recipient>moule</recipient> à manqué</recipient>. couper les <ingredient quantite=2>tranches de jambon</ingredient> en petites lanières. <operation temps=6.86min espace=14>répartir les <ingredient quantite=1>brocolis</ingredient> dans le <recipient>moule</recipient> la tête en bas, puis les lanières de <ingredient quantite=2>jambon</ingredient></operation>. ajouter le mélange, en veillant à bien le répartir sur les <ingredient quantite=1>brocolis</ingredient>. pour <operation temps=6.86min espace=14>finir</operation>, <operation temps=6.86min espace=14>recouvrir de la <ingredient quantite=1>pâte</ingredient> (dont le diamètre</operation> doit être un peu plus grand que celui du <recipient>moule</recipient>) et border la <ingredient quantite=1>pâte</ingredient> qui dépasse entre la préparation et le <recipient>moule</recipient>. enfourner à <recipient>four</recipient> chaud (thermostat 6/7, soit 200 ° c), environ 25 min. démouler pour remettre la tarte à l’ endroit. peut se <operation temps=6.86min espace=14>servir avec un coulis de tomate</operation>.
+]]>
+ </preparation>
+</recette>

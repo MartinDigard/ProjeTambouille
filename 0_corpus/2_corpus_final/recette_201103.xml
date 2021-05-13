@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201103">
+ <titre>Quesadillas de légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 wraps ou galettes de maïs</p>
+ <p>1 poireau</p>
+ <p>3 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 tomates</p>
+ <p>1 poivron vert</p>
+ <p>150 g de lardons fumés</p>
+ <p>1 boule de mozzarella</p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). émincer les légumes, éplucher et émincer les <ingredient quantite=3>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> puis les <operation temps=6.86min espace=12>faire revenir doucement dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> avec les <ingredient quantite=1>lardons</ingredient> jusqu’ à ce qu’ ils soient un peu " confits</operation> ". saler et poivrer repartir ensuite cette préparation dans les <ingredient quantite=4>galettes de maïs</ingredient>. les rouler et les <operation temps=6.86min espace=12>maintenir</operation> fermées par un morceau de <ingredient quantite=1>mozzarella</ingredient> posé sur le dessus. enfourner pendant 20 min puis déguster chaud avec une petite salade. bon appétit.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53926">
+ <titre>Tarte au fromage frais</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de kiri</p>
+ <p>1 rouleau de pâte brisée</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>15 cl de lait</p>
+ <p>100 g de sucre en poudre</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (th 7). ecrasez bien les <ingredient quantite=1>kiri</ingredient> avec le lait, <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la farine et le <ingredient quantite=1>sucre</ingredient></operation> vanillé, puis <operation temps=6.86min espace=11>fouettez le tout jusqu’ à l’ obtention d’ une consistance homogène</operation>. <operation temps=6.86min espace=11>déroulez la <ingredient quantite=1>pâte</ingredient> et garnissez -en un <recipient><recipient>moule</recipient> à tarte</recipient> beurré</operation> ; <operation temps=6.86min espace=11>piquez le fond avec une fourchette</operation>. <operation temps=6.86min espace=11>versez la préparation au <ingredient quantite=1>kiri</ingredient> sur la <ingredient quantite=1>pâte</ingredient>,</operation> puis <operation temps=20.0min espace=11>enfournez pendant 20 min à 210 ° c</operation>. <operation temps=6.86min espace=11>baissez ensuite la temperature du <recipient>four</recipient> à 180 ° c (th 6),</operation> et <operation temps=20.0min espace=11>laissez cuire la tarte encore 20 min environ</operation>. lorsque la tarte est bien dorée, <operation temps=6.86min espace=11>éteignez le <recipient>four</recipient></operation> et <operation temps=6.86min espace=11>laissez la</operation> porte ouverte pour un refroidissement en douceur. <operation temps=6.86min espace=11>démoulez</operation> et <operation temps=2.0min espace=11>servez</operation>.
+]]>
+ </preparation>
+</recette>

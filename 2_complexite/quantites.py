@@ -10,7 +10,11 @@ import re
 
 def moyenne_qtt(signe, qtt):
     """
+<<<<<<< HEAD
     Fait les moyennes.
+=======
+    Fait les moyennes
+>>>>>>> 08f4e3999013315e7ea696389c8b9bc1215bdae6
     """
     nb1, nb2 = qtt.split(signe)
     if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
@@ -20,7 +24,11 @@ def moyenne_qtt(signe, qtt):
 
 def division_qtt(signe, qtt):
     """
+<<<<<<< HEAD
     Fait les divisions.
+=======
+    Fait les divisions
+>>>>>>> 08f4e3999013315e7ea696389c8b9bc1215bdae6
     """
     nb1, nb2 = qtt.split(signe)
     if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
@@ -30,7 +38,11 @@ def division_qtt(signe, qtt):
 
 def conc_add(qtt):
     """
+<<<<<<< HEAD
     Concatène ou additionne en focntion du contexte
+=======
+    Concatène ou additionne en fonction du contexte
+>>>>>>> 08f4e3999013315e7ea696389c8b9bc1215bdae6
     """
     if ' ' in qtt:
         nb1, nb2 = qtt.split(' ')
@@ -49,16 +61,27 @@ def nettoyage_qtt(qtt, unite):
     """
     qtt_ingr = 0
     if unite == 'null' and qtt != "null":
+<<<<<<< HEAD
         # Concaténation et addition
         if re.search(r" |\+", str(qtt)):
             qtt = conc_add(qtt)
 
         # Mutliplication
+=======
+
+        # concaténation et addition
+        if re.search(r' |\+', str(qtt)):
+            print(qtt)
+            qtt = conc_add(qtt)
+
+        # multiplications
+>>>>>>> 08f4e3999013315e7ea696389c8b9bc1215bdae6
         if ("x" or "X") in str(qtt):
             nb1, nb2 = qtt.lower().split('x')
             if re.search(r'^[0-9]+$', nb1) and re.search(r'^[0-9]+$', nb2):
                 qtt = float(nb1) * float(nb2)
 
+<<<<<<< HEAD
         # Division
         if re.search(r"/|\\", str(qtt)):
             symbole = re.sub(r'[^/\\]', '', str(qtt))
@@ -67,6 +90,16 @@ def nettoyage_qtt(qtt, unite):
         # Moyenne
         if re.search(r"-|à|\|", str(qtt)):
             symbole = re.sub('[^-à|]', '', str(qtt))
+=======
+        # divisions
+        if re.search(r"/|\\", str(qtt)):
+            symbole = re.sub(r'([^/\\])', '', str(qtt))
+            qtt = division_qtt(symbole, qtt)
+
+        # moyennes
+        if re.search(r"-|à|\|", str(qtt)):
+            symbole = re.sub('([^-à|])', '', str(qtt))
+>>>>>>> 08f4e3999013315e7ea696389c8b9bc1215bdae6
             qtt = moyenne_qtt(symbole, qtt)
 
         # Un ingrédient liquide, en poudre ou inconnu est égal à 1 unité

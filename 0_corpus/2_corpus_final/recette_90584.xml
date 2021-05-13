@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90584">
+ <titre>Gnocchis à la fondue de poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poireaux</p>
+ <p>20 cl de crème semi épaisse à 18%</p>
+ <p>1 barquette de gnocchis frais</p>
+ <p>huile d’ olive</p>
+ <p>curry</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=3>poireaux</ingredient> (les inciser en 4 puis les couper en rondelles pour <operation temps=6.86min espace=7>faire des petits bouts), les laver et les</operation> mettre dans une <recipient>sauteuse</recipient> avec un peu d’ huile. saler, poivrer, mettre du <ingredient quantite=1>curry</ingredient> et <operation temps=0.25min espace=7>couvrir</operation>. <operation temps=6.86min espace=7>laisser fondre à feu moyen en</operation> remuant de temps en temps. lorsque les <ingredient quantite=3>poireaux</ingredient> sont fondus y ajouter la <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=7>laisser chauffer à feu très doux</operation>. <operation temps=2.0min espace=7>faire cuire les <ingredient quantite=1>gnocchis</ingredient> pendant 2 minutes dans l’ eau bouillante puis les</operation> poêler avec un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> de manière à les <operation temps=6.86min espace=7>faire dorer (ils seront alors croustillants à l’ extérieur et mous à l’ intérieur</operation>). <operation temps=6.86min espace=7>servir les <ingredient quantite=1>gnocchis</ingredient> avec la fondue de <ingredient quantite=3>poireaux</ingredient> dessus</operation>.
+]]>
+ </preparation>
+</recette>

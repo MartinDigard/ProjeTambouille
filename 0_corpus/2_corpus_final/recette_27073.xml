@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27073">
+ <titre>Crème mousseuse aux fraises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de fraises</p>
+ <p>5cl de liqueur d’ orange (Cointreau, Grand Marnier) </p>
+ <p>25cl de lait</p>
+ <p>1/2 gousse de vanille</p>
+ <p>160 g de sucre</p>
+ <p>1 cuillère à soupe rase de fécule de maïs</p>
+ <p>3 oeufs </p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez les <ingredient quantite=1>fraises</ingredient> en morceaux</operation> et <operation temps=6.86min espace=11>faites - les</operation> macérer dans la <ingredient quantite=1>liqueur</ingredient> d’ <ingredient quantite=1>orange</ingredient>. <operation temps=6.86min espace=11>amenez le <ingredient quantite=1>lait</ingredient> à ébullition avec la gousse de <ingredient quantite=1>vanille</ingredient> fendue</operation>. <operation temps=6.86min espace=11>fouettez les jaunes d’</operation> oeufs avec 30 g de <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>fécule de maïs</ingredient>. <operation temps=6.86min espace=11>versez le <ingredient quantite=1>lait</ingredient></operation> bouillant dessus en un mince filet puis <operation temps=6.86min espace=11>remettez dans la <recipient>casserole</recipient></operation> et <operation temps=6.86min espace=11>faites épaissir sur feu doux sans</operation> cesser de remuer. <operation temps=6.86min espace=11>retirez du feu au premier bouillon</operation> et <operation temps=20.0min espace=11>laissez refroidir</operation>. <operation temps=6.86min espace=11>fouettez les blancs d’ <ingredient quantite=3>oeufs</ingredient> en neige ferme en</operation> incorporant progressivement le reste du <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=11>ecrasez les <ingredient quantite=1>fraises</ingredient> en purée</operation> et <operation temps=6.86min espace=11>incorporez cette purée à la crème refroidie</operation>. <operation temps=6.86min espace=11>faites de même avec les blancs d’ <ingredient quantite=3>oeufs</ingredient></operation>. <operation temps=6.86min espace=11>versez dans un <recipient>moule</recipient> ou dans des coupes individuelles et placez au <recipient>réfrigérateur</recipient> jusqu’ au moment de</operation> <operation temps=2.0min espace=11>servir</operation>.
+]]>
+ </preparation>
+</recette>

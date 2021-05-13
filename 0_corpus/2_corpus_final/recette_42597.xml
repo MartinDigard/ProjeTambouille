@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42597">
+ <titre>Paupiettes de veau paysannes et leur risotto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 paupiettes de veau</p>
+ <p>25 cl de vin blanc</p>
+ <p>15 cl d’ eau</p>
+ <p>1 oignon blanc</p>
+ <p>4 carottes</p>
+ <p>100 g de lardons</p>
+ <p>bouquet garni</p>
+ <p>sel, poivre</p>
+ <p>1 verre de riz (de camargue) </p>
+ <p>huile de tournesol</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, faites revenir dans du beurre les <ingredient quantite=2>paupiettes de veau</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> émincé. pendant ce temps, épluchez et <operation temps=6.86min espace=13>coupez les <ingredient quantite=4>carottes</ingredient> en rondelles</operation>. ajouter les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=4>carottes</ingredient>, <operation temps=6.86min espace=13>faites revenir deux ou trois minutes</operation>. ajoutez le <ingredient quantite=1>vin</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=40.0min espace=13>faites mijoter environ 40 minutes</operation>. vérifiez la cuisson des <ingredient quantite=4>carottes</ingredient>. lorsque les <ingredient quantite=2>paupiettes</ingredient> sont cuites, <operation temps=6.86min espace=13>faites revenir le <ingredient quantite=1>riz</ingredient> dans une <recipient>casserole</recipient> avec deux cuillères à soupe d’</operation> huile. <operation temps=6.86min espace=13>ajoutez trois louches de bouillon des <ingredient quantite=2>paupiettes</ingredient> et le <ingredient quantite=1>persil</ingredient></operation>. <operation temps=0.25min espace=13>couvrez</operation>, <operation temps=6.86min espace=13>laissez cuire environ 15 minutes, en</operation> rajoutant du bouillon si nécessaire. le <ingredient quantite=1>riz</ingredient> doit être cuit et légèrement collant. <operation temps=6.86min espace=13>faites réchauffer les <ingredient quantite=2>paupiettes</ingredient> si besoin</operation>. <operation temps=2.0min espace=13>servez</operation>. bourgogne aligoté
+]]>
+ </preparation>
+</recette>

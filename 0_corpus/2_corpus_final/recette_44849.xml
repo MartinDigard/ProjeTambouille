@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44849">
+ <titre>Crème de tomates express</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boîtes de tomates concassées</p>
+ <p>30 g de beurre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>1 litre d’ eau</p>
+ <p>10 cl de crème fraîche (épaisse ou liquide) </p>
+ <p>persil (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>1.faire fondre le beurre dans une <recipient>casserole</recipient>, à feu vif</operation>. 2.vider les deux <ingredient quantite=2>boîtes de tomates concassées</ingredient> dans la farine, et mélanger avec le beurre, jusqu’ à ce que les <ingredient quantite=2>tomates</ingredient> soient chaudes. 3.saupoudrer les <ingredient quantite=2>tomates</ingredient> de 2 <ingredient quantite=2>cuillères à soupe</ingredient> pleines de farine, mélanger, et verser 1 <ingredient quantite=1>litre</ingredient> d’ <ingredient quantite=1>eau</ingredient>. mettre un couvercle et <operation temps=10.0min espace=7>faire cuire 10 min environ</operation>. 4.mixer la <ingredient quantite=2>soupe</ingredient>, ajouter la <ingredient quantite=1>crème fraîche</ingredient>, du <ingredient quantite=1>persil</ingredient> ciselé et servir. idéal pour un repas du soir, quand on est pressé ou que l’ on a pas envie de passer trop de temps en cuisine. la <ingredient quantite=1>crème fraîche</ingredient> n’ est pas absolument indispensable, mais elle atténue l’ acidité des <ingredient quantite=2>tomates</ingredient>.
+]]>
+ </preparation>
+</recette>

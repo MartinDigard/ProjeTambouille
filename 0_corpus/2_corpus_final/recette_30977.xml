@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30977">
+ <titre>Filet mignon de porc aux courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 filet mignon de porc (700 à 800 g) </p>
+ <p>1 kg de courgettes</p>
+ <p>75 g de raisins secs</p>
+ <p>10 cl de bouillon de volaille dégraissé</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>30 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>courgettes</ingredient>. les couper en tronçons ou en gros bâtonnets de 5 cm de longueur. faire revenir le <ingredient quantite=1>filet mignon</ingredient> dans une <recipient>cocotte</recipient> dans le mélange huile d’ <ingredient quantite=2>olive</ingredient> et <ingredient quantite=1>beurre</ingredient>. lorsqu’ il est bien doré, ajouter les <ingredient quantite=1>courgettes</ingredient>, l’ <ingredient quantite=1>ail</ingredient> écrasé, les <ingredient quantite=1>raisins secs</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient> et le <ingredient quantite=1>bouillon de volaille</ingredient>. saler et poivrer. bien mélanger, <operation temps=0.25min espace=12>couvrir</operation> et <operation temps=6.86min espace=12>laisser cuire 25mn à feu doux</operation>. découper le <ingredient quantite=1>filet mignon</ingredient> en tranches fines. le dresser sur un grand <recipient>plat</recipient> entouré de la garniture de <ingredient quantite=1>courgettes</ingredient> et de <ingredient quantite=1>raisins</ingredient> et le servir avec de la semoule de couscous cuite à la vapeur. ce <recipient>plat</recipient> fait toujours l’ unanimité chez mes amis. il est facile et rapide à <operation temps=6.86min espace=12>faire, même les enfants se</operation> régalent!
+]]>
+ </preparation>
+</recette>

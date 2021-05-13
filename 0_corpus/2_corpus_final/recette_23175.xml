@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23175">
+ <titre>Toastinettes délicieuses</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches de pain de campagne</p>
+ <p>4 tranches de mozzarella</p>
+ <p>2 tranches de jambon de Bayonne</p>
+ <p>10 olives</p>
+ <p>3 cuillers à soupe d’ huile d’ olive</p>
+ <p>basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la tapenade d’ <ingredient quantite=3>olive</ingredient> en mixant les <ingredient quantite=1>olives</ingredient>, l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et le <ingredient quantite=1>basilic</ingredient>. mettre 1 couche de tapenade sur la <ingredient quantite=2>tranche de pain</ingredient>, suivi d’ une <ingredient quantite=2>tranche de jambon</ingredient> et finalement de 2 <ingredient quantite=2>tranches de mozzarella</ingredient> (il ne faut pas qu’ il y en ait trop) ; <operation temps=6.86min espace=6>faites de même pour l’ autre <ingredient quantite=1>tranche</ingredient>,</operation> et <operation temps=6.86min espace=6>dégustez avec une petite salade</operation> c’ est délicieux!
+]]>
+ </preparation>
+</recette>

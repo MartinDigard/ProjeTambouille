@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27912">
+ <titre>Soufflé au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>100 g de beurre</p>
+ <p>1/2 litre de lait</p>
+ <p>5 oeuf</p>
+ <p>125 g de chocolat</p>
+ <p>100 g de sucre semoule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire bouillir le <ingredient quantite=1>lait</ingredient> et le <ingredient quantite=1>chocolat</ingredient> en</operation> remuant de temps en temps pour <operation temps=6.86min espace=9>faire fondre celui-ci</operation>. mettre le beurre dans <recipient>casserole</recipient>. dès qu’ il est fondu, ajouter la farine. <operation temps=6.86min espace=9>faire cuire quelque minutes en</operation> remuant avec une mouvette en bois (cuillère en bois). lorsque le mélange devient mousseux, ajouter le <ingredient quantite=1>lait</ingredient> aromatisé par petites quantités, sans cesser de remuer. ajouter ensuite le <ingredient quantite=1>sucre</ingredient>, puis <operation temps=6.86min espace=9>laisser refroidir légèrement</operation>. séparer les blancs des jaunes d’ <ingredient quantite=5>oeufs</ingredient>. mettre alors les jaunes d’ <ingredient quantite=5>oeuf</ingredient> un par un, et terminer par les blancs battus en neige ferme. verseer la préparation dans le <recipient>moule</recipient> beurré et mettre sans attendre dans le <recipient>four</recipient> chaud (thermostat 6/7 - 200 ° c). <operation temps=6.86min espace=9>servir aussitôt à la fin de la cuisson</operation>. boisson sans danger pour la santé
+]]>
+ </preparation>
+</recette>

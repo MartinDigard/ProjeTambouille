@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25864">
+ <titre>Papillotes de cabillaud</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de cabillaud</p>
+ <p>1 petite courgette</p>
+ <p>2 tomates</p>
+ <p>anchois en boîte</p>
+ <p>basilic</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>découpez la <ingredient quantite=1>courgettes</ingredient> et les <ingredient quantite=2>tomates</ingredient> en rondelles</operation>. sur chaque feuille de papier aluminium (1 par personne): <operation temps=6.86min espace=7>posez des rondelles de <ingredient quantite=1>courgette</ingredient></operation>. posez 1 <ingredient quantite=4>tranche de cabillaud</ingredient> par dessus. <operation temps=6.86min espace=7>mettez des <ingredient quantite=1>anchois</ingredient> sur chaque <ingredient quantite=1>tranche</ingredient> de poisson</operation>. <operation temps=6.86min espace=7>recouvrez de rondelles de <ingredient quantite=1>tomate</ingredient>, puis parsemez de</operation> <ingredient quantite=1>basilic</ingredient> et <operation temps=6.86min espace=7>arrosez d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=7>fermez les papillotes</operation> et <operation temps=15.0min espace=7>enfournez 15 min au <recipient>four</recipient> préchauffé à thermostat 7 (210 ° c</operation>). accompagnez de riz blanc.
+]]>
+ </preparation>
+</recette>

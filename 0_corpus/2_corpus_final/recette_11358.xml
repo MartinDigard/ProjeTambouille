@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11358">
+ <titre>Rémoulade de courgettes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 courgettes</p>
+ <p>mayonnaise</p>
+ <p>thym (quantité selon votre goût) </p>
+ <p>sel et poivre</p>
+ <p>2 tomates bien mûres</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+râper les <ingredient quantite=3>courgettes</ingredient> et les <operation temps=6.86min espace=8>faire dégorger avec du <ingredient quantite=1>sel</ingredient> dans une <recipient>passoire</recipient></operation>. peler les <ingredient quantite=2>tomates</ingredient> et les couper en petits dés, les <operation temps=6.86min espace=8>faire revenir quelques minutes à la <recipient>poêle</recipient> pour qu’ elles</operation> rendent l’ eau. mélanger les <ingredient quantite=3>courgettes</ingredient> avec la <ingredient quantite=1>mayonnaise</ingredient> et le <ingredient quantite=1>thym</ingredient>. saler et poivrer les <ingredient quantite=2>tomates</ingredient> et ajouter un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=8>servir la rémoulade de <ingredient quantite=3>courgettes</ingredient> sur le lit de <ingredient quantite=2>tomates</ingredient></operation>. on peut également <operation temps=6.86min espace=8>servir sur des <ingredient quantite=2>tomates</ingredient> crues</operation>. se sert <ingredient quantite=2>bien</ingredient> frais, surtout par temps chaud. variante: sans <operation temps=6.86min espace=8>faire dégorger</operation>, assaisonner avec fromage blanc et huile d’ <ingredient quantite=1>olive</ingredient>... ca fait une crème délicieuse avec le jus des <ingredient quantite=3>courgettes</ingredient>!
+]]>
+ </preparation>
+</recette>

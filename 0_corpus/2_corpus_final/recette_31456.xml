@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31456">
+ <titre>Pot au feu de cabillaud</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de filet de cabillaud</p>
+ <p>1 citron</p>
+ <p>3 carottes</p>
+ <p>4 pommes de tere</p>
+ <p>1 poireau</p>
+ <p>2 branches de céleri</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>2 clous de girofle</p>
+ <p>1/2 cuillère à café de paprika</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=3>carottes</ingredient> et les <ingredient quantite=4>pommes</ingredient> de terre et les couper en morceaux. couper le <ingredient quantite=1>poireau</ingredient> lavé en morceaux. emincer le <ingredient quantite=2>céleri</ingredient>. piquer l’ <ingredient quantite=1>oignon</ingredient> de clous de <ingredient quantite=2>girofle</ingredient>. <operation temps=6.86min espace=13>faire bouillir 1, 5 l d’ eau et y</operation> mettre tous les légumes et l’ <ingredient quantite=2>ail</ingredient> épluché. saler, poivrer et ajouter le <ingredient quantite=1>bouquet garni</ingredient> et le <ingredient quantite=1>paprika</ingredient>. <operation temps=30.0min espace=13>laisser cuire à petits bouillons pendant 30 mn sans</operation> <operation temps=0.25min espace=13>couvrir</operation>. le bouillon réduit ainsi d’ un quart. couper le poisson en gros cubes et l’ arroser de jus de ctron. mettre le poisson à cuire avec les légumes pendant 10 mn à feu doux. servir chaud. c’ est un <recipient>plat</recipient> pauvre en graisse. pour un repas complet, le servir avec de grosses tranches de pain de campagne.
+]]>
+ </preparation>
+</recette>

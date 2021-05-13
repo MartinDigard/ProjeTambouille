@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55666">
+ <titre>Poulet sauté aux brocolis</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>2 cuillères à soupe d’ huile végétale</p>
+ <p>2 cuillères à soupe de gingembre frais râpé</p>
+ <p>2 oignons émincés</p>
+ <p>250 g de brocolis</p>
+ <p>250 g de carottes coupées en rondelles</p>
+ <p>250 g de champignons de Paris émincés</p>
+ <p>1 verre de bouillon de poulet</p>
+ <p>2 cuillères à soupe de xérès</p>
+ <p>2 cuillères à café de sauce soja</p>
+ <p>2 cuillères à café de Maïzena</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>1 bol de chou chinois émincé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=4>poulet</ingredient> en fines lanières. chauffer l’ huile à feu vif dans un <recipient>wok</recipient>. <operation temps=2.0min espace=17>faire sauter les lanières de <ingredient quantite=4>poulet</ingredient> et la moitié du <ingredient quantite=2>gingembre</ingredient> pendant 2 minutes</operation>. retirer du <recipient>wok</recipient>. réserver. <operation temps=2.0min espace=17>faire sauter les <ingredient quantite=2>oignons</ingredient> 2 minutes et les</operation> ajouter au <ingredient quantite=4>poulet</ingredient>. <operation temps=5.0min espace=17>faire sauter 5 minutes le brocolis, les <ingredient quantite=1>carottes</ingredient>, les <ingredient quantite=1>champignons</ingredient> et le reste du <ingredient quantite=2>gingembre</ingredient></operation>. ajouter un peu d’ <ingredient quantite=2>eau</ingredient> si nécessaire. dans un petit <ingredient quantite=1>bol</ingredient>, mélanger ensemble le <ingredient quantite=4>bouillon de poulet</ingredient>, le <ingredient quantite=2>xérès</ingredient> et la <ingredient quantite=2>sauce soja</ingredient>, verser sur les légumes. couvrir et <operation temps=5.0min espace=17>laisser étuver 5 minutes</operation>. incorporer les <ingredient quantite=2>oignons</ingredient> et le <ingredient quantite=4>poulet</ingredient> réservé. mélanger ensemble la <ingredient quantite=1>maïzena</ingredient> et l’ <ingredient quantite=2>eau</ingredient>. verser le mélange dans le <recipient>wok</recipient> et amener à ébullition. ajouter le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient>, mélanger et cuire 1 minute jusqu’ à ce qu’ il soit tendre mais encore croquant. <operation temps=6.86min espace=17>servir aussitôt, c’ est un délice</operation>!
+]]>
+ </preparation>
+</recette>

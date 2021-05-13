@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223383">
+ <titre>Risotto au poulet, maïs et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 oignons</p>
+ <p>250 g de riz rond ou spécial risotto</p>
+ <p>1 l d’ eau</p>
+ <p>1 cube de bouillon</p>
+ <p>3 blancs de poulet (ou des restes de poulet) </p>
+ <p>250 g de maïs </p>
+ <p>100 g de champignons de paris</p>
+ <p>200 g de mascarpone</p>
+ <p>1 cuillère à soupe de vin blanc </p>
+ <p>1 pincée de piment d’ espelette</p>
+ <p>huile d’ olive ou margarine ou choix selon les préférence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire bouillir l’ <ingredient quantite=1>eau</ingredient>, puis y</operation> incorporer le <ingredient quantite=1>bouillon</ingredient>. éplucher, couper en petits les <ingredient quantite=2>oignons</ingredient>, les <operation temps=6.86min espace=11>faire revenir dans l’ <ingredient quantite=1>huile</ingredient></operation>. ajouter une <ingredient quantite=1>cuillère à soupe de vin blanc</ingredient>. ajouter le <ingredient quantite=1>maïs</ingredient>, puis les <ingredient quantite=1>champignons</ingredient> dans les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=11>faire revenir le <ingredient quantite=1>riz</ingredient> dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> ou de margarine</operation>. une fois que l’ <ingredient quantite=1>eau</ingredient> bout bien et que le <ingredient quantite=1>cube</ingredient> et bien dissout incorporer une louche dans le <ingredient quantite=1>riz</ingredient>. remuer sans cesse, quand le <ingredient quantite=1>riz</ingredient> a bu toute l’ <ingredient quantite=1>eau</ingredient>, ajouter de l’ <ingredient quantite=1>eau</ingredient> jusqu’ à ce que le <ingredient quantite=1>riz</ingredient> soit bien crémeux. soit vous <operation temps=6.86min espace=11>avez des restes de <ingredient quantite=3>poulet</ingredient> déjà cuits, sinon</operation> <operation temps=6.86min espace=11>faire cuire les <ingredient quantite=3>blancs</ingredient> de <ingredient quantite=3>poulet</ingredient> au grill</operation>. les couper en petits morceaux et ajouter dans le mélange de <ingredient quantite=1>maïs</ingredient>. mélanger les légumes et la viande au <ingredient quantite=1>riz</ingredient>, puis ajouter le <ingredient quantite=1>mascarpone</ingredient>, <operation temps=6.86min espace=11>servir bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

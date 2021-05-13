@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21912">
+ <titre>Gâteau des familles aux’ petits lu’ </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 "Petits Lu"</p>
+ <p>200 g de chocolat (200 g) </p>
+ <p>café</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. préparer un <ingredient quantite=1>café</ingredient> assez fort. dans un <recipient>plat</recipient> à cake, recouvrir le fond de " <ingredient quantite=1>petits lu</ingredient> " préalablement trempés dans le <ingredient quantite=1>café</ingredient> (attention: le <ingredient quantite=1>café</ingredient> doit avoir refroidi et ne pas <operation temps=6.86min espace=6>laisser tremper trop longtemps les biscuits sinon</operation>... bouillie!) puis <operation temps=6.86min espace=6>recouvrir de <ingredient quantite=1>chocolat</ingredient> fondu</operation> et recommencer en alternant biscuits / <ingredient quantite=1>café</ingredient> et <ingredient quantite=1>chocolat</ingredient>. je rempli environ la moitié du <recipient>plat</recipient>. puis mettre au frigo au moins une heure. ce gâteau est délicieux et très économique mais " indémoulable "... <operation temps=6.86min espace=6>régalez vous</operation>!
+]]>
+ </preparation>
+</recette>

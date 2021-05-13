@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224106">
+ <titre>Gratin poivrons, chèvre, poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poivrons moyens (2 verts, 1 jaune) </p>
+ <p>200 g de chèvre</p>
+ <p>800 g de poulet</p>
+ <p>ail (moulu) </p>
+ <p>huile d’ olive</p>
+ <p>1 cuillère à café rase de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et épépiner les <ingredient quantite=3>poivrons</ingredient> ; puis les couper en fines lamelles. couper la buche de <ingredient quantite=1>chèvre</ingredient> en fines lamelles sur la longueur. couper le <ingredient quantite=1>poulet</ingredient> en fines lamelles. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, mettre une première couche de <ingredient quantite=3>poivrons</ingredient> / <ingredient quantite=1>poulet</ingredient>, <operation temps=6.86min espace=9>recouvrir de la <ingredient quantite=1>cannelle</ingredient></operation>. puis <operation temps=6.86min espace=9>faire une seconde couche avec toutes les lamelles de <ingredient quantite=1>chèvre</ingredient></operation>. ensuite mettre l’ <ingredient quantite=1>ail</ingredient>, puis le reste du <ingredient quantite=1>poulet</ingredient>, puis l’ <ingredient quantite=1>ail</ingredient>. <operation temps=6.86min espace=9>recouvrir avec le reste des <ingredient quantite=3>poivrons</ingredient></operation>. arroser le tout d’ huile d’ <ingredient quantite=1>olive</ingredient>. enfourner 35 min à 220 ° c (si <recipient>four</recipient> non préchauffé).
+]]>
+ </preparation>
+</recette>

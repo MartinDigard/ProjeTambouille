@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169360">
+ <titre>Tarte aux poivrons gratinée à la mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pate feuilletée</p>
+ <p>1 sachet de poivrons grillés surgelé </p>
+ <p>1 boule de mozzarella </p>
+ <p>de la moutarde </p>
+ <p>1jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prechauffez le <recipient>four</recipient> a 200 ° <operation temps=6.86min espace=7>deroulez votre pate</operation> et <operation temps=6.86min espace=7>dorez la avec le jaune d’ <ingredient quantite=1>oeuf</ingredient></operation> <operation temps=6.86min espace=7>faites la</operation> cuire environ 20 min (elle doit etre dorée) quand votre pate est cuite, laissez badigeonnez - la <ingredient quantite=1>de moutarde</ingredient>. mettez les tranches de <ingredient quantite=1>poivrons grillés</ingredient> sur la pate (en les <operation temps=6.86min espace=7>faisant se chevaucher a peine</operation>) <operation temps=6.86min espace=7>coupez la <ingredient quantite=1>mozzarella</ingredient> en tranches</operation>. <operation temps=6.86min espace=7>disposez - les sur les <ingredient quantite=1>poivrons</ingredient></operation>. passez votre tarte sous le grill du <recipient>four</recipient> pour gratiner.
+]]>
+ </preparation>
+</recette>

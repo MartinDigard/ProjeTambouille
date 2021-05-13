@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53000">
+ <titre>Nouilles au safran</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 à 10 tranches de jambon cru</p>
+ <p>8 à 10 tranches de jambon cuit</p>
+ <p>750 g de nouilles plates </p>
+ <p>35 cl de crème</p>
+ <p>4 sachets de safran</p>
+ <p>huile</p>
+ <p>sel, poivre</p>
+ <p>sbrinz râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient quantite=8>tranches de jambon</ingredient> cru et cuit en lanières de la largeur des <ingredient quantite=1>nouilles</ingredient>. les <operation temps=6.86min espace=9>faire revenir dans une <recipient>poêle</recipient>, avec un filet d’ huile d’ olive ; le <ingredient quantite=8>jambon</ingredient></operation> doit <operation temps=6.86min espace=9>devenir</operation> croustillant. cuire les pâtes " al dente ". y ajouter le <ingredient quantite=8>jambon</ingredient> rôti, la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=4>safran</ingredient>. bien mélanger, saler et poivrer. servir avec le <ingredient quantite=1>sbrinz râpé</ingredient>. quantités fixées pour les bons mangeurs! vin rouge léger
+]]>
+ </preparation>
+</recette>

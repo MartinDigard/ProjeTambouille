@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93218">
+ <titre>Terrine de brocolis et carottes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 gros brocolis- 4 carottes- 7 oeufs- 1 gros pot de crème fraîche épaisse- Sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=5.0min espace=3>faire cuire les légumes à la vapeur: 5 minutes pour les brocolis, 12 minutes pour les carottes</operation>. préchauffer le <recipient>four</recipient> à 200 °. mélanger les oeufs entiers et la <ingredient quantite=2>crème</ingredient>. saler et poivrer. disposer les brocolis et les carottes (à votre convenance) dans un <recipient>moule</recipient> à cake beurré et fariné. verser par - dessus le mélange œufs / <ingredient quantite=2>crème</ingredient>, jusqu’ à <operation temps=6.86min espace=3>recouvrir les légumes</operation>. enfourner pendant 1 heure.
+]]>
+ </preparation>
+</recette>

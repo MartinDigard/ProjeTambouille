@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88471">
+ <titre>Quiche poulet, feta, tomates séchées</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée sous vide</p>
+ <p>1 grosse escalope de poulet </p>
+ <p>10 tomates séchées en bocal</p>
+ <p>250 g de feta</p>
+ <p>3 oeufs</p>
+ <p>10 cl de lait ou de crème liquide</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>1 pincée de curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient> en morceaux. le <operation temps=6.86min espace=11>faire revenir à la <recipient>poêle</recipient></operation>. mélanger les <ingredient quantite=3>oeufs</ingredient> avec la <ingredient quantite=1>crème</ingredient> fraîche. saler, poivrer et ajouter le <ingredient quantite=1>curry</ingredient>. etaler la <ingredient quantite=1>pâte brisée</ingredient> sur un <recipient>moule</recipient> beurré. disposer le <ingredient quantite=1>poulet</ingredient>, la <ingredient quantite=1>feta</ingredient> et les <ingredient quantite=1>tomates</ingredient> coupées en morceaux sur la <ingredient quantite=1>pâte</ingredient>. verser la préparation. <operation temps=25.0min espace=11>faire cuire 25 minutes à 240 ° c (thermostat 8</operation>).
+]]>
+ </preparation>
+</recette>

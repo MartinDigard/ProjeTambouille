@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41674">
+ <titre>Soupe Automnale au Potiron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de potiron</p>
+ <p>1 poireau</p>
+ <p>1 carotte</p>
+ <p>1 oignon</p>
+ <p>1 tomate</p>
+ <p>30 g de beurre</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>Facultatif: tout légume qui vous passe sous la main ;-), j’ ai tenté notamment avec 3 feuilles de choux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans <recipient>faitout</recipient>, <operation temps=6.86min espace=11>faites revenir les <ingredient quantite=1>légumes</ingredient>, que vous <ingredient quantite=1>aurez</ingredient> préalablement épluchés, dans le beurre pendant une quinzaine de minutes</operation>. ensuite, <operation temps=6.86min espace=11>faites chauffer 1, 5 litres d’ eau dans laquelle vous</operation> délayerez le <ingredient quantite=1>cube de bouillon de volaille</ingredient>, puis <operation temps=6.86min espace=11>ajoutez le tout dans le <recipient>faitout</recipient></operation>. <operation temps=20.0min espace=11>portez à ébullition</operation> et <operation temps=6.86min espace=11>laissez mijoter à feux doux pendant une heure</operation>. une fois terminé, il ne reste plus qu’ à <ingredient quantite=1>passer</ingredient> la préparation au <recipient>mixeur</recipient>, plus vous <operation temps=6.86min espace=11>mixerez longtemps, plus votre soupe sera</operation> veloutée. une nouvelle soupe de mon invention parmi tant d’ autres. je viens de <operation temps=6.86min espace=11>découvrir le <ingredient quantite=1>potiron</ingredient> et donc j’ en profite pour</operation> inventer quelques recettes. vous pouvez l’ agrémenter de petits lardons, de croûtons de pain ou encore de gruyères râpés pour les plus gourmands. et pourquoi pas une pointe de crème fraîche juste avant de servir …
+]]>
+ </preparation>
+</recette>

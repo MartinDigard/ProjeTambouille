@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29442">
+ <titre>Gambas à la crème, cognac et curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de gambas surgelés</p>
+ <p>1/2 verre de cognac</p>
+ <p>1 gros pot de crème fraîche épaisse</p>
+ <p>ail frais</p>
+ <p>persil frais</p>
+ <p>huile d’ olive</p>
+ <p>une grosse pincée de curry doux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les gambas encore <ingredient quantite=1>surgelés</ingredient> dans une grande <recipient>poêle</recipient> style paella avec de l’ huile d’ <ingredient quantite=1>olive</ingredient>. saler et poivrer. quand elles sont rosées, ajouter le <ingredient quantite=1>cognac</ingredient> et <operation temps=6.86min espace=8>laisser réduire légèrement</operation>. ajouter <ingredient quantite=1>ail</ingredient> et <ingredient quantite=1>persil</ingredient> haché, ainsi que le <ingredient quantite=1>curry</ingredient>, et enfin le <ingredient quantite=1>pot de crème fraîche</ingredient>. la sauce doit être onctueuse. servir bien chaud. <operation temps=3.0min espace=8>servir avec du riz</operation> peut se <operation temps=6.86min espace=8>faire aussi avec des tellines, ou de petits calamars</operation> (suivre la même procédure).
+]]>
+ </preparation>
+</recette>

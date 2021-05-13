@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212926">
+ <titre>Glace à la banane lègère</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 bananes bien mûres</p>
+ <p>2 yaourts nature brassés </p>
+ <p>200 g de fromage blanc à la vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>sortir les ingrédients du frigo</operation>. couper les <ingredient quantite=3>bananes</ingredient> en morceaux et les mixer avec les <ingredient quantite=2>yaourts</ingredient> et les <ingredient quantite=1>fromages blancs</ingredient>. verser dans la <recipient>sorbetière</recipient> et <operation temps=20.0min espace=6>laisser prendre environ 20 min (en fonction de votre <recipient>sorbetière</recipient>) si on</operation> aime la glace plus ferme, on peut la mettre un peu au <recipient>congélateur</recipient> pour la <operation temps=6.86min espace=6>faire durcir</operation>. cette glace est très vite préparée, idéale pour un dessert improvisé, ou pour répondre à l’ envie d’ un enfant impatient... il n’ y a pas de sucre ajouté.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24124">
+ <titre>Epinards à la chapelure de persil</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ épinards</p>
+ <p>4 échalotes</p>
+ <p>40 g de beurre</p>
+ <p>1 oeuf dur</p>
+ <p>2 cuillères à soupe de chapelure</p>
+ <p>1 bouquet de persil</p>
+ <p>noix de muscade</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites fondre les <ingredient quantite=4>échalotes</ingredient> dans 20 g de beurre</operation> puis <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>épinards</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et de la <ingredient quantite=1>muscade</ingredient></operation>. <operation temps=0.25min espace=8>couvrez</operation> et <operation temps=5.0min espace=8>laissez cuire 5 minutes</operation>. <operation temps=6.86min espace=8>faites dorer la <ingredient quantite=2>chapelure</ingredient> dans le reste de beurre</operation> puis <operation temps=6.86min espace=8>mélangez - la à l’ <ingredient quantite=1>oeuf</ingredient> et au <ingredient quantite=1>persil</ingredient> hachés</operation>. <operation temps=6.86min espace=8>saupoudrez les <ingredient quantite=1>épinards</ingredient> de ce mélange avant de</operation> <operation temps=2.0min espace=8>servir</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67652">
+ <titre>Gâteau au chocolat aux épices</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat pâtissier</p>
+ <p>50 g de beurre</p>
+ <p>80 g de sucre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>3 oeufs</p>
+ <p>1/2 cuillère à café de 4 épices</p>
+ <p>1/2 cuillère à café de vanille en poudre</p>
+ <p>6 carrés de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire précahuffer le <recipient>four</recipient> à 210 ° c (thermostat 7</operation>). <operation temps=6.86min espace=12>faire fondre le <ingredient quantite=1>chocolat</ingredient> et le beurre au micro-ondes, puissance 500 w,</operation> puis mélanger la préparation au fouet souple. dans un autre <recipient>saladier</recipient>, mélanger à l’ aide d’ une spatule, les <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient>, les 4 <ingredient quantite=1>épices</ingredient>, la <ingredient quantite=1>vanille</ingredient> et la farine. ajouter en dernier le mélange <ingredient quantite=1>beurre</ingredient> - <ingredient quantite=1>chocolat</ingredient>. verser dans un <recipient>moule</recipient> en silicone ou un autre <recipient>moule</recipient> beurré, répartir les 6 <ingredient quantite=1>carrés de chocolat</ingredient> sur le gâteau en les enfonçant très légèrement. <operation temps=15.0min espace=12>faire cuire 15 min</operation>. attendre 10 minutes avant de démouler. déguster tiède.
+]]>
+ </preparation>
+</recette>

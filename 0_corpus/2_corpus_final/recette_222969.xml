@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222969">
+ <titre>Gratin de courgettes, tomates et béchamel</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le gratin: </p>
+ <p>4 courgettes</p>
+ <p>4 tomates</p>
+ <p>20 cl de sauce tomate</p>
+ <p>200 g de gruyère</p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>Pour la béchamel: </p>
+ <p>50 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>60 cl de lait</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=18>coupez les <ingredient quantite=4>tomates</ingredient> en cubes grossiers</operation> et <operation temps=6.86min espace=18>mettez - les à</operation> cuire dans une <recipient>poêle</recipient> à feu moyen avec un peu d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=18>ajoutez quelques minutes plus tard, le pot de sauce <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=10.0min espace=18>laissez mijoter 10 min</operation>. pendant de temps, <operation temps=6.86min espace=18>coupez les <ingredient quantite=4>courgettes</ingredient> en fines lamelles</operation> et <operation temps=6.86min espace=18>faites - les frire dans une <recipient>poêle</recipient></operation> généreusement huilée. (une par une [ en coupant la quatrième <ingredient quantite=1>courgette</ingredient> en 3 ] afin que la répartition en couche dans le <recipient>plat</recipient> à <ingredient quantite=1>gratin</ingredient> se fasse plus facilement). quand la première fournée de <ingredient quantite=1>courgette</ingredient> est bien dorée, <operation temps=6.86min espace=18>sortez -là du feu</operation> et <operation temps=6.86min espace=18>préparez la seconde puis la troisième</operation>. pour <ingredient quantite=1>la béchamel</ingredient>, <operation temps=6.86min espace=18>faites fondre le beurre dans une <recipient>casserole</recipient> sur feu doux</operation>. ajouter le lait puis la farine petit à petit une fois que le lait est chaud. ne <operation temps=6.86min espace=18>cessez pas de</operation> remuer jusqu’ à ce que la <ingredient quantite=1>béchamel</ingredient> soit assez épaisse. <operation temps=6.86min espace=18>retirez la <recipient>casserole</recipient> du feu</operation>. dans un <recipient>plat</recipient> à <ingredient quantite=1>gratin</ingredient>, disposer une couche de <ingredient quantite=4>courgettes</ingredient>, une couche de <ingredient quantite=4>tomates</ingredient> et une couche de <ingredient quantite=1>béchamel</ingredient>. <operation temps=6.86min espace=18>ajoutez un peu de gruyère et recommencez avec une seconde couche</operation>. <ingredient quantite=4>courgettes</ingredient>, <ingredient quantite=4>tomates</ingredient>, <ingredient quantite=1>béchamel</ingredient>. <operation temps=6.86min espace=18>finissez votre <ingredient quantite=1>gratin</ingredient> par la dernière couche de <ingredient quantite=4>courgettes</ingredient> que vous</operation> <operation temps=6.86min espace=18>recouvrez</operation> généreusement de gruyère. enfournez pendant 20 à 30 min à 180 ° c. bon appétit. ce <ingredient quantite=1>gratin</ingredient> se suffit à lui-même mais vous pouvez l’ accompagner d’ une viande ou d’ un poisson.
+]]>
+ </preparation>
+</recette>

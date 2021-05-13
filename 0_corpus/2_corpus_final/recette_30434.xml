@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30434">
+ <titre>Rognons de veau flambés à la crème de champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 rognons de veau</p>
+ <p>250 g de champignons</p>
+ <p>100 g de beurre</p>
+ <p>5 cl de cognac</p>
+ <p>1 filet de jus de citron</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=1>champignons</ingredient> 10 min dans une <recipient>poêle</recipient> avec 50 g de beurre et un <ingredient quantite=1>filet de jus de citron</ingredient>. réserver. découper les <ingredient quantite=3>rognons</ingredient> en dés et les <operation temps=5.0min espace=10>faire sauter 5 min dans une <recipient>poêle</recipient> à part avec le reste de beurre</operation>. mouiller de <ingredient quantite=1>cognac</ingredient> et flamber. égoutter les <ingredient quantite=3>rognons</ingredient> sur une grille. verser la <ingredient quantite=2>crème</ingredient> et les <ingredient quantite=1>champignons</ingredient> dans la <recipient>poêle</recipient> des <ingredient quantite=3>rognons</ingredient> et <operation temps=2.0min espace=10>laisser mijoter 2 min en</operation> grattant le suc. <operation temps=6.86min espace=10>recouvrir les <ingredient quantite=3>rognons</ingredient> de cette sauce</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43350">
+ <titre>Glace stracciatella</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 cl de lait demi écrémé</p>
+ <p>20 cl de crème fraiche (pas allégée) </p>
+ <p>20 g de sucre vanillé</p>
+ <p>40 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>1/2 bâton de vanille </p>
+ <p>50 g de palets en chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites chauffer le lait avec la gousse de <ingredient quantite=1>vanille</ingredient></operation>. lorsque la gousse à infusé (le temps que le lait soit prêt à <operation temps=6.86min espace=9>bouillir)</operation>, <operation temps=6.86min espace=9>fendez - la</operation> et <operation temps=6.86min espace=9>retirez avec la pointe du couteau les petits grains et déposez - les dans le lait</operation>. <operation temps=6.86min espace=9>mettez à</operation> <operation temps=6.86min espace=9>refroidir le lait</operation>. pendant ce temps -là, mixez les <ingredient quantite=1>palets en chocolat</ingredient> de manière à <operation temps=6.86min espace=9>obtenir des brisures de <ingredient quantite=1>chocolat</ingredient> plus ou moins grosses selon vôtre goût</operation>. ensuite, <operation temps=6.86min espace=9>battez le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=1>oeuf</ingredient> dans un <recipient>plat</recipient></operation>. attention, ils doivent être mousseux mais encore jaunes. <operation temps=6.86min espace=9>ajoutez - y le lait refroidi, la <ingredient quantite=1>crème</ingredient> fraîche</operation>. <operation temps=6.86min espace=9>mélangez pour que le tout soit</operation> uniforme. battez les blancs en neige ferme et intégrez - les ensuite délicatement à la préparation. quand le mélange est prêt, <operation temps=6.86min espace=9>versez dans votre <recipient>sorbetière</recipient></operation>. <operation temps=6.86min espace=9>laissez prendre 5 minutes,</operation> puis <operation temps=6.86min espace=9>ajoutez délicatement et petit à petit les brisures de <ingredient quantite=1>chocolat</ingredient></operation>. <operation temps=6.86min espace=9>laissez tourner jusqu’ à</operation> <operation temps=6.86min espace=9>obtenir la consistance voulue</operation>.
+]]>
+ </preparation>
+</recette>

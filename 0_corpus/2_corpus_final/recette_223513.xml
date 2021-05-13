@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223513">
+ <titre>Oeufs brouillés normands</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>9 œufs </p>
+ <p>1/2 camembert </p>
+ <p>1 ou 2 pommes</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>vinaigre de cidre (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>cassez les <ingredient quantite=9>œufs</ingredient> dans un <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=8>battez les légèrement en</operation> ajoutant du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=6.86min espace=8>retirez la croûte</operation> et <operation temps=6.86min espace=8>coupez en petits dés le</operation> <ingredient quantite=1>camembert</ingredient> puis <operation temps=3.0min espace=8>pelez les</operation> <ingredient quantite=1>pommes</ingredient> et <operation temps=6.86min espace=8>découpez - les aussi en dés</operation>. <operation temps=6.86min espace=8>faites fondre une noix de beurre dans une <recipient>cocotte</recipient> en fonte d’ aluminium (à feu vif)</operation> puis ajouter les dés de <ingredient quantite=1>camembert</ingredient> et de <ingredient quantite=1>pommes</ingredient> ainsi que les <ingredient quantite=9>œufs</ingredient> et remuez sans cesse jusqu’ à ce que les <ingredient quantite=9>œufs</ingredient> soient cuits. servez aussitôt dans une assiette avec un peu de <ingredient quantite=1>vinaigre de cidre</ingredient> sur le dessus (facultatif). bon appétit! vin blanc moeleux
+]]>
+ </preparation>
+</recette>

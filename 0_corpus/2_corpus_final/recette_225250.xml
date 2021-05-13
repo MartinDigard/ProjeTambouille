@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225250">
+ <titre>Gâteau de patate douce de ma maman</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de patate douce</p>
+ <p>200g de sucre</p>
+ <p>4 oeufs </p>
+ <p>1 jaune d’ oeuf pour dorer</p>
+ <p>100 g de farine</p>
+ <p>1 gousse de vanille</p>
+ <p>7 cl de liqueur anisée (facultatif) </p>
+ <p>200 g de beurre. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>patates</ingredient> à l’ eau durant 30 minutes, les</operation> éplucher et les mixer. battre les œufs avec le <ingredient quantite=1>sucre</ingredient>. ajouter la farine <operation temps=6.86min espace=9>faire ramollir le beurre puis l’</operation> ajouter parfumer avec la gousse de <ingredient quantite=1>vanille</ingredient> fendue en deux et la <ingredient quantite=1>liqueur</ingredient>. ajouter les <ingredient quantite=1>patates</ingredient> mixées et bien mélanger le tout. verser dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré. <ingredient quantite=1>dorer</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> battu. enfourner à 180 ° c (thermostat 6) pendant 45 minutes. <operation temps=6.86min espace=9>régalez vous</operation>. c’ est un dessert très consistant, après un repas léger c’ est plus agréable ou au goûter.
+]]>
+ </preparation>
+</recette>

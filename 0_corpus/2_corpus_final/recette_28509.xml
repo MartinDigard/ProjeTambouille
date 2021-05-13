@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28509">
+ <titre>PanCake</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>4 oeufs</p>
+ <p>300 ml de lait</p>
+ <p>1 paquet de levure</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>1 poêle de 12 cm de diamètre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=9>faire un puits</operation>. mélanger progressivement les jaunes d’ oeufs que vous <operation temps=6.86min espace=9>ajouterez un à un ainsi que le lait</operation>. monter les blancs en neige à côté. <operation temps=0.5min espace=9>ajoutez</operation> - les au mélange délicatement. cuire dans une <ingredient quantite=1><recipient>poêle</recipient></ingredient> à blinis légèrement huilée. les mettre dans une assiette placée sur un <recipient>bain - marie</recipient> pour les garder chauds.
+]]>
+ </preparation>
+</recette>

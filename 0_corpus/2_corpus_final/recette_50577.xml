@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50577">
+ <titre>Brandade en feuilleté</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>200 g de brandade de Morue</p>
+ <p>4 pommes de terre</p>
+ <p>10 cl de crème fraîche semi-épaisse</p>
+ <p>50 g de gruyère râpé</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 225 ° c (thermostat 7 - 8). cuire les <ingredient quantite=4>pommes de terre</ingredient> à la vapeur. beurrer un <recipient><recipient>moule</recipient> à tarte</recipient>. y déposer une <ingredient quantite=1>pâte feuilletée</ingredient>. lorsque les <ingredient quantite=4>pommes de terre</ingredient> sont cuites, les couper en petits dés et les mélanger avec la brandade de <ingredient quantite=1>morue</ingredient> puis ajouter les autres ingrédients. <operation temps=6.86min espace=8>garnir le fond de tarte avec ce mélange</operation> et <operation temps=6.86min espace=8>recouvrir de la deuxième <ingredient quantite=1>pâte</ingredient></operation>. dorer le dessus avec un <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et enfourner pour 25 - 30 minutes de cuisson. vin blanc sec
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89473">
+ <titre>Samoussas au foie gras. </titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>2 paquets de feuilles de brick (2 x 12 feuilles) </p>
+ <p>1 bloc de foie gras de canard de 150 g</p>
+ <p>3 grosses pommes de terre à purée</p>
+ <p>1 boite de magrets de canard fumés</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>2 cuillères à soupe de has al hanout (mélange d’ épices marocaines ou algériennes qui se trouvent assez facilement en épicerie) </p>
+ <p>1 petite botte de persil</p>
+ <p>1 petite botte de coriandre fraîche</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>sel, poivre, huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez, <operation temps=3.0min espace=10>pelez</operation> et coupez les <ingredient quantite=3>pommes de terre</ingredient>, <operation temps=6.86min espace=10>mettez les à</operation> <operation temps=20.0min espace=10>bouillir</operation> et <operation temps=6.86min espace=10>réduisez - les en <ingredient quantite=3>purée</ingredient></operation>. <operation temps=6.86min espace=10>melez - y le <ingredient quantite=1>persil</ingredient> et la <ingredient quantite=1>coriandre</ingredient> hachés, le <ingredient quantite=1>miel</ingredient>, les tranches de <ingredient quantite=1>magret</ingredient> fumé, les épices</operation>. coupez le <ingredient quantite=1>foie gras</ingredient> en cubes et disposez - les sur la <ingredient quantite=2>feuille de brick</ingredient> avant d’ y déposer la farce et de plier les samoussas (voir remarque), il est important que les pépites restent bien en forme d’ où la nécessité de ne pas les mélanger à la farce. <operation temps=6.86min espace=10>badigeonnez les samoussas de <ingredient quantite=1>jaune</ingredient> d’</operation> <ingredient quantite=1>oeuf</ingredient> et <operation temps=6.86min espace=10>mettez - les à frire dans l’ huile chaude, ils</operation> doivent être bien dorés et bien croustillants. la technique du pliage des samoussas se trouve sur marmiton (voir techniques culinaires en vidéo). gewurtztraminer bien liquoreux.
+]]>
+ </preparation>
+</recette>

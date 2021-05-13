@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22000">
+ <titre>Riz cantonais au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de riz cuit</p>
+ <p>300 g de restes de poulet cuit</p>
+ <p>2 oeufs</p>
+ <p>150 g de petits pois cuits</p>
+ <p>50 g de pousses de bambou</p>
+ <p>2 gros champignons noirs</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites tremper les <ingredient quantite=2>champignons</ingredient> dans un bol d’ eau</operation> chaude au moins 30 min ou passez - les 2 min au <recipient>micro-onde</recipient> dans un bol d’ eau. hachez l’ <ingredient quantite=1>oignon</ingredient>, <operation temps=6.86min espace=11>faites - le</operation> <operation temps=6.86min espace=11>revenir dans une <recipient>sauteuse</recipient> avec 2 <ingredient quantite=1>cuillères</ingredient> d’</operation> huile chaude. <operation temps=6.86min espace=11>détaillez le <ingredient quantite=1>poulet</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux</operation> et ajoutez - les, ainsi que les <ingredient quantite=1>pousses de bambou</ingredient> égouttées. <operation temps=6.86min espace=11>ajoutez aussi les <ingredient quantite=2>champignons</ingredient></operation> égouttés et émincés et les <ingredient quantite=1>petits pois</ingredient>. <operation temps=6.86min espace=11>mélangez bien le tout</operation>. <operation temps=6.86min espace=11>ajoutez le</operation> <ingredient quantite=1>riz</ingredient>, <operation temps=5.0min espace=11>mélangez et</operation> <operation temps=10.0min espace=11>laissez cuire à feu doux 10 min en</operation> remuant sans cesse. battez les <ingredient quantite=2>oeufs</ingredient> en omelette et <operation temps=6.86min espace=11>faites - les</operation> cuire à part avec 1 <ingredient quantite=1>cuillère</ingredient> d’ huile. <operation temps=6.86min espace=11>roulez l’ omelette</operation>, <operation temps=6.86min espace=11>découpez - la en lanières</operation> et <operation temps=6.86min espace=11>ajoutez - les dans la <recipient>sauteuse</recipient></operation>. <operation temps=5.0min espace=11>mélangez et</operation> <operation temps=2.0min espace=11>servez</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47432">
+ <titre>Encornets sautés à la persillade</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de lamelles d’ encornet fraîches de chez le poissonnier</p>
+ <p>2 gousses d’ ail</p>
+ <p>persil</p>
+ <p>25 cl de crème liquide</p>
+ <p>10 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plonger les <ingredient quantite=1>lamelles</ingredient> d’ <ingredient quantite=1>encornet</ingredient> dans de l’ eau bouillante jusqu’ à qu’ elles diminuent un peu et qu’ elles rendent l’ écume. les égoutter et les couper en dés. chauffer une <recipient>poêle</recipient> avec un peu d’ huile d’ olive, jeter les morceaux d’ <ingredient quantite=1>encornet</ingredient>. quand les <ingredient quantite=1>encornets</ingredient> commencent à <operation temps=6.86min espace=6>roussir</operation>, ajouter l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> à feu vif. rajouter la creme <ingredient quantite=1>liquide</ingredient> (selon goût) et éteindre le feu. <operation temps=6.86min espace=6>couvrir pour</operation> <operation temps=6.86min espace=6>laisser la <ingredient quantite=1>crème</ingredient></operation> fondre, c’ est prêt! ne pas <operation temps=6.86min espace=6>laisser les <ingredient quantite=1>encornets</ingredient> trop</operation> cuire, juste roussir et bien les ébouillanter pour qu’ ils perdent en " caoutchouc ". convient aux <ingredient quantite=1>encornets</ingredient> surgelés (même préparation).
+]]>
+ </preparation>
+</recette>

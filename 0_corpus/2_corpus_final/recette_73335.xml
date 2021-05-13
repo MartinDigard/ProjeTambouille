@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73335">
+ <titre>Entrecôtes deuch’ nord</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 entrecôtes</p>
+ <p>un bon quart de maroilles</p>
+ <p>poivre, sel</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlevez la croûte du fromage et <operation temps=6.86min espace=7>coupez - le en petits morceaux (</operation> ou <operation temps=6.86min espace=7>râpez - le</operation>). dans une <recipient>casserole</recipient>, faites chauffer à feu doux la <ingredient quantite=1>crème fraîche</ingredient> puis <operation temps=6.86min espace=7>incorporez le <ingredient quantite=1>maroilles</ingredient></operation>. remuez jusqu’ à <operation temps=6.86min espace=7>obtenir un liquide homogène</operation>. <operation temps=6.86min espace=7>faites cuire les <ingredient quantite=4>entrecôtes</ingredient> dans une <recipient>poêle</recipient></operation> graissée. une fois les <ingredient quantite=4>entrecôtes</ingredient> cuites, <operation temps=6.86min espace=7>versez la sauce dans la <recipient>poêle</recipient> pour la réchauffer! recette très facile à</operation> <operation temps=6.86min espace=7>faire! a</operation> <operation temps=6.86min espace=7>servir avec des frites bien croustillantes</operation>!
+]]>
+ </preparation>
+</recette>

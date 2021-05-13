@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81404">
+ <titre>Roulade de saumon à l’ oeuf poché</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tranches de saumon fumé</p>
+ <p>4 oeufs très frais</p>
+ <p>20 cl de crème fleurette</p>
+ <p>quelques brins de ciboulette</p>
+ <p>1 cuillère à soupe de moutarde forte</p>
+ <p>3 cuillères à soupe de vinaigre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>mettez la <ingredient quantite=1>crème</ingredient> dans une <recipient>casserole</recipient></operation> et faite la réduire de moitié sur bon feu. <operation temps=6.86min espace=8>ajoutez ensuite la <ingredient quantite=1>moutarde</ingredient> et la <ingredient quantite=1>ciboulette</ingredient> ciselée</operation>. <operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez à votre goût</operation>. <operation temps=0.5min espace=8>réservez</operation>. ensuite, pochez les <ingredient quantite=4>oeufs</ingredient>: amenez à ébullition 3 litres d’ eau salée additionnée des 3 <ingredient quantite=1>cuillères à soupe de vinaigre</ingredient>. <operation temps=6.86min espace=8>cassez un <ingredient quantite=1>oeuf</ingredient> dans une louche</operation> et <operation temps=6.86min espace=8>déposez - le délicatement dans l’ eau bouillante (en</operation> veillant bien à ce que le blanc reste autour du jaune!) et <operation temps=6.86min espace=8>renouvelez rapidement l’ opération pour les 3 autres <ingredient quantite=4>oeufs</ingredient></operation>. pochez 3 min en couvrant. <operation temps=6.86min espace=8>retirez les <ingredient quantite=4>oeufs</ingredient> avec une écumoire et posez - les</operation> délicatement sur du papier absorbant. etalez chaque <ingredient quantite=4>tranche de saumon fumé</ingredient> dans une assiette. <operation temps=6.86min espace=8>mettez un <ingredient quantite=1>oeuf</ingredient> dans chaque</operation> <ingredient quantite=1>tranche</ingredient> et <operation temps=6.86min espace=8>fermez - la pour</operation> former un rouleau. <operation temps=6.86min espace=8>versez la préparation</operation> chaude à la <ingredient quantite=1>crème</ingredient> sur chaque rouleau et décorez de <ingredient quantite=1>quelques brins de ciboulette</ingredient>. <operation temps=2.0min espace=8>servez aussitôt</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

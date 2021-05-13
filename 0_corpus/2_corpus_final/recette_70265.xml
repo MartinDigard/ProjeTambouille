@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70265">
+ <titre>Poireaux du carnaval</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de poireaux </p>
+ <p>200 g de lardons</p>
+ <p>4 portions de vache-qui-rit</p>
+ <p>4 pommes de terre</p>
+ <p>un peu de lait ou crème fraîche</p>
+ <p>beurre ou huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire vos <ingredient quantite=4>pommes de terre</ingredient> à la vapeur. couper en petits morceaux vos <ingredient quantite=1>poireaux</ingredient> puis les mettre à mijoter tranquillement dans une <recipient>poêle</recipient> avec un <ingredient quantite=1>peu</ingredient> de matière grasse. lorsque les <ingredient quantite=4>pommes de terres</ingredient> sont cuites, les éplucher et les couper en dés. ensuite rajouter les <ingredient quantite=1>lardons</ingredient> avec les <ingredient quantite=1>poireaux</ingredient> puis les <ingredient quantite=4>pommes de terre</ingredient>. <operation temps=6.86min espace=8>maintenir à feu doux</operation>. préparer une petite sauce avec la <ingredient quantite=1>vache</ingredient> - qui - rit mélangée avec un <ingredient quantite=1>peu de lait ou crème</ingredient> fraiche, du <ingredient quantite=1>sel</ingredient> et du poivre à votre goût. le mélange doit être lisse. ajouter cette sauce au reste, remuer et servir!!!
+]]>
+ </preparation>
+</recette>

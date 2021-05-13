@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167551">
+ <titre>La Bermude</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>boule vanille</p>
+ <p>des fraises</p>
+ <p>des kiwis</p>
+ <p>des framboises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre 2 boules de <ingredient quantite=1>vanille</ingredient> au fond de la coupelle à dessert puis <operation temps=6.86min espace=4>coupez les <ingredient quantite=1>fraises</ingredient> et les <ingredient quantite=1>framboises</ingredient> en 2epluchez les</operation> <ingredient quantite=1>kiwis</ingredient> et <operation temps=6.86min espace=4>coupez les en</operation> <operation temps=6.86min espace=4>morceauxdécorez la coupelle de boules de glaces avec les fruits</operation>
+]]>
+ </preparation>
+</recette>

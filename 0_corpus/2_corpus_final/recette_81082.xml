@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81082">
+ <titre>Gratin de pâtes aux boulettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pennes</p>
+ <p>500 g de hachis porc/boeuf</p>
+ <p>2 portions de saucisses </p>
+ <p>20 cl de crème fraîche</p>
+ <p>2 boîtes de tomates à l’ ail en dés (400 g par boîte) </p>
+ <p>2 boules de mozzarella</p>
+ <p>2 gousses d’ ail (plus si vous aimez) </p>
+ <p>sel et poivre du moulin</p>
+ <p>4 tranches d’ un gros pain blanc</p>
+ <p>lait</p>
+ <p>1 paquet de râpé de jambon fumé (150 g) </p>
+ <p>matière grasse (huile de friture ou margarine) </p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>mettez un filet d’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=16>faites - y</operation> <operation temps=6.86min espace=16>revenir l’ <ingredient quantite=2>ail</ingredient></operation> coupé en morceaux et <operation temps=6.86min espace=16>ajoutez les <ingredient quantite=2>tomates</ingredient></operation>. <operation temps=0.25min espace=16>salez et</operation> <operation temps=6.86min espace=16>poivrez (pas trop car les boulettes</operation> épiceront - assaisonnement à rectifer par la suite éventuellement). <operation temps=20.0min espace=16>portez à ébullition</operation>. <operation temps=6.86min espace=16>laissez mijoter une quinzaine de minutes</operation>. ecrasez au presse - purée (ou <operation temps=6.86min espace=16>mixez si vous</operation> préférez). ajoutez la <ingredient quantite=1>crème fraîche</ingredient>, épaissir quelque peu si nécessaire. pendant la cuisson des <ingredient quantite=2>tomates</ingredient>, <operation temps=6.86min espace=16>faites tremper le <ingredient quantite=4>pain</ingredient> quelques minutes dans le lait</operation>. <operation temps=6.86min espace=16>egouttez et pressez</operation>. <operation temps=6.86min espace=16>préparez les boulettes: mélangez bien le <ingredient quantite=1>hachis</ingredient>, les <ingredient quantite=2>saucisses</ingredient> dont vous</operation> aurez enlevé le boyau, le <ingredient quantite=4>pain</ingredient> et le <ingredient quantite=1>jambon</ingredient>. <operation temps=0.25min espace=16>salez et</operation> <operation temps=0.5min espace=16>poivrez</operation>. façonnez des petites boulettes (1, 5 cm de diamètre à peu près). passez dans l’ <ingredient quantite=1>huile</ingredient> de friture à 170 ° c, ou à la pôele dans un peu de margarine (très peu de temps vu la taille des boulettes, juste le temps de colorer). <operation temps=6.86min espace=16>ajoutez les boulettes à la sauce tomate</operation> et <operation temps=5.0min espace=16>laissez mijoter 5 min</operation>. <operation temps=6.86min espace=16>cuisez les pâtes comme</operation> indiqué sur le <ingredient quantite=1>paquet</ingredient>. <operation temps=10.0min espace=16>egouttez</operation> - les. <operation temps=6.86min espace=16>mélangez pâtes et boulettes</operation>, <operation temps=6.86min espace=16>mettez dans un <recipient>plat</recipient> à gratin</operation> et <operation temps=6.86min espace=16>recouvrez avec la <ingredient quantite=2>mozzarella</ingredient></operation> coupée en fines <ingredient quantite=4>tranches</ingredient>. mettre 15 min au <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6). <operation temps=6.86min espace=16>servez immédiatement</operation>. bon appétit.
+]]>
+ </preparation>
+</recette>

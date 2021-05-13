@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27985">
+ <titre>Papillote de Saumon à l’ Orange</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 filets de saumon</p>
+ <p>1 verre (à moutarde) de jus d’ orange</p>
+ <p>1 citron</p>
+ <p>1 orange</p>
+ <p>sel poivre</p>
+ <p>papier aluminium</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper deux feuilles de <ingredient quantite=1>papier</ingredient> d’ alu. disposer les <ingredient quantite=2>filets de saumon</ingredient> dessus. verser le <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> sur les <ingredient quantite=2>filets</ingredient>. les saler et poivrer, puis les arroser du <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. découper des lamelles d’ <ingredient quantite=1>orange</ingredient>, les disposer sur les <ingredient quantite=2>filets</ingredient> (2 petites rondelles par <ingredient quantite=1>filet</ingredient> ou une grande). fermer les papillotes et mettre au <recipient>four</recipient> à 270 ° c pendant 20 - 30 mn. <operation temps=6.86min espace=7>servir avec du riz ou des pâtes fraîches</operation>.
+]]>
+ </preparation>
+</recette>

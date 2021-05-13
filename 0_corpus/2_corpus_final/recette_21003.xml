@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21003">
+ <titre>Lotte crémeuse au safran</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de lotte coupée en tronçons</p>
+ <p>75 g de beurre</p>
+ <p>1 dose de safran</p>
+ <p>30 cl de vin blanc </p>
+ <p>75 g de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+saler et poivrer la <ingredient quantite=1>lotte</ingredient>. <operation temps=6.86min espace=6>faire fondre le beurre dans l’ huile</operation> puis ajouter la <ingredient quantite=1>lotte</ingredient> jusqu’ à ce qu’ elle soit dorée. verser le <ingredient quantite=1>vin</ingredient> et saupoudrer de <ingredient quantite=1>safran</ingredient>. <operation temps=0.25min espace=6>couvrir</operation> et <operation temps=15.0min espace=6>laisser cuire 15 minutes</operation>. ajouter alors la <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=6>laisser réchauffer sur feu doux avant de</operation> <operation temps=2.0min espace=6>servir</operation>.
+]]>
+ </preparation>
+</recette>

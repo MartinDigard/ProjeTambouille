@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83034">
+ <titre>Pancakes au sirop d’ érable</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>280 g de farine</p>
+ <p>3 œufs</p>
+ <p>2 yaourts nature</p>
+ <p>2 pots de yaourt de lait (les pots contiennent le lait) </p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 demi-sachet de levure</p>
+ <p>4 pincées de sel</p>
+ <p>1 filet d’ huile pour la cuisson</p>
+ <p>1 bouteille de sirop d’ érable</p>
+ <p>900 ml de glace vanille</p>
+ <p>quelques amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez au fouet la farine, la <ingredient quantite=1>levure</ingredient>, les <ingredient quantite=2>yaourts</ingredient> et les <ingredient quantite=2>yaourts de lait</ingredient>. <operation temps=5.0min espace=12>fouettez</operation> jusqu’ à ce qu’ il n’ y ait plus de grumeaux. <operation temps=6.86min espace=12>cassez les oeufs dans un récipient à part</operation> et <operation temps=6.86min espace=12>battez - les à l’</operation> aide d’ une fourchette. <operation temps=6.86min espace=12>versez le tout dans la préparation</operation>. <operation temps=8.0min espace=12>mélangez bien</operation>. <operation temps=6.86min espace=12>ajoutez ensuite le <ingredient quantite=4>sel</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=12>donnez un dernier coup de fouet</operation> et <operation temps=6.86min espace=12>cuisez chaque pancakes dans un petit <recipient>poêle</recipient> (1 pancake</operation> = une louche de préparation). une fois les pancakes cuits, <operation temps=6.86min espace=12>mettez - les dans une assiette,</operation> et disposez une boule de <ingredient quantite=1>glace vanille</ingredient> sur le dessus, avec les <ingredient quantite=1>amandes effilées</ingredient> et du <ingredient quantite=1>sirop</ingredient> d’ érable. <operation temps=6.86min espace=12>servez les pancakes tièdes</operation>.
+]]>
+ </preparation>
+</recette>

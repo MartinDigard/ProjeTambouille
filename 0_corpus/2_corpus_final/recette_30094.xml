@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30094">
+ <titre>Quiche fondante aux asperges</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse botte de petites asperges</p>
+ <p>1 pâte feuilletée</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>200 g de gruyère râpé</p>
+ <p>sel, poivre, muscade et persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et <operation temps=10.0min espace=8>faites cuire les <ingredient quantite=1>asperges</ingredient> 10 minutes à l’ eau bouillante</operation> salée. <operation temps=6.86min espace=8>laissez bien</operation> égoutter. <operation temps=6.86min espace=8>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> beurré</operation>. parsemez de la moitié du <ingredient quantite=1>gruyère râpé</ingredient>, puis <operation temps=6.86min espace=8>disposez par -</operation> dessus les <ingredient quantite=1>asperges</ingredient> harmonieusement. mélangez les <ingredient quantite=3>oeufs</ingredient> avec la <ingredient quantite=1>crème fraîche</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre, un peu de <ingredient quantite=1>muscade</ingredient> et du <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=8>versez sur les <ingredient quantite=1>asperges</ingredient></operation>. <operation temps=6.86min espace=8>saupoudrez du reste de fromage râpé,</operation> et <operation temps=25.0min espace=8>enfournez 20 à 25 min au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>).
+]]>
+ </preparation>
+</recette>

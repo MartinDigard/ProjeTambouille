@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13587">
+ <titre>Curry de lotte au lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 8 kg de lotte</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>6 tomates mûres</p>
+ <p>400 ml de lait de coco</p>
+ <p>1 cuiller de pâte de curry jaune</p>
+ <p>sel, poivre, un morceau de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>lavez les <ingredient quantite=1>poivrons</ingredient> et les <ingredient quantite=6>tomates</ingredient></operation>. <operation temps=6.86min espace=10>coupez les <ingredient quantite=6>tomates</ingredient> en quartiers et les <ingredient quantite=1>poivrons</ingredient> en lamelles</operation>. dans une <recipient>sauteuse</recipient> anti-adhésive (si on ne veut pas mettre d’ huile) ou un <recipient>wok</recipient>, <operation temps=6.86min espace=10>mettez les <ingredient quantite=1>poivrons</ingredient> et les</operation> <ingredient quantite=6>tomates</ingredient>, <operation temps=6.86min espace=10>faites réduire sur feu moyen puis doux jusqu’ à ce qu’ il n’ y</operation> ait plus de jus. <operation temps=6.86min espace=10>versez le lait de</operation> <ingredient quantite=1>coco</ingredient>, <operation temps=6.86min espace=10>délayez le <ingredient quantite=1>curry</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans la <recipient>sauteuse</recipient></operation> et <operation temps=6.86min espace=10>faites chauffer doucement sans</operation> <operation temps=20.0min espace=10>faire bouillir</operation>. <operation temps=6.86min espace=10>coupez la <ingredient quantite=1>lotte</ingredient> en cubes</operation> et versez dans le mélange <ingredient quantite=1>lait de coco</ingredient> au <ingredient quantite=1>curry</ingredient> - fondue de <ingredient quantite=1>poivrons</ingredient> et de <ingredient quantite=6>tomates</ingredient>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=20.0min espace=10>faites cuire environ 15 à 20 minutes à feu moyen</operation>. <operation temps=6.86min espace=10>servez avec du riz basmati ou du riz gluant</operation>.
+]]>
+ </preparation>
+</recette>

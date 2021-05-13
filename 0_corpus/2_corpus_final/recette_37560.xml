@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37560">
+ <titre>Délice de tarte pommes amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte sablée: </p>
+ <p>125 g de beurre</p>
+ <p>80 g de sucre</p>
+ <p>200 g de farine</p>
+ <p>1 oeuf</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la garniture: </p>
+ <p>50 g de beurre</p>
+ <p>1 oeuf</p>
+ <p>50 g de sucre</p>
+ <p>60 g de poudre d’ amande</p>
+ <p>quelques amandes effilées + 1 cuillère à café de cacao pour la présentation</p>
+ <p>4 pommes (ou plus selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte: mélanger le beurre et le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> blanchisse. ajouter la farine, l’ <ingredient quantite=1>oeuf</ingredient> et la pincée de <ingredient quantite=1>sel</ingredient> travailler la <ingredient quantite=1>pâte</ingredient>, lorsqu’ elle est lisse et homogène la rouler en boule dans un papier - film et <operation temps=6.86min espace=17>laisser au <recipient>réfrigérateur</recipient> pendant 2h</operation>. <ingredient quantite=1>garniture</ingredient>: <operation temps=1.0min espace=17>faire fondre le beurre</operation> et <operation temps=20.0min espace=17>laisser refroidir</operation>. fouetter l’ <ingredient quantite=1>oeuf</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse. ajouter la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> et le beurre. découper les <ingredient quantite=4>pommes</ingredient> en lamelles. préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> (24 cm) la <operation temps=6.86min espace=17>faire cuir 1/4 d’ heure au <recipient>four</recipient></operation>. puis ajouter la <ingredient quantite=1>garniture</ingredient> aux <ingredient quantite=1>amandes</ingredient>, les <ingredient quantite=4>pommes</ingredient> par dessus, saupoudrer de <ingredient quantite=1>cacao</ingredient> et d’ <ingredient quantite=1>amandes effilées</ingredient> et remettre à cuire 45 min. cidre
+]]>
+ </preparation>
+</recette>

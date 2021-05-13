@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36178">
+ <titre>Soupe mediterranéenne au chèvre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 courgettes</p>
+ <p>25 cl de purée de tomates</p>
+ <p>1 grosse aubergine</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>4 portions de crème de gruyère au chèvre (ou 50 g de fromage de chèvre émietté) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les légumes coupés grossièrement à cuire avec la <ingredient quantite=1>purée de tomates</ingredient> et de l’ eau. après cuisson, mixer le tout en y ajoutant le fromage.
+]]>
+ </preparation>
+</recette>

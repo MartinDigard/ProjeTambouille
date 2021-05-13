@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46689">
+ <titre>Bouchées à la reine aux st-jacques et saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 bouchées à la reine</p>
+ <p>8 grosses saint-jacques</p>
+ <p>1 darne de saumon</p>
+ <p>100 g de crevettes</p>
+ <p>3 cuillères à soupe de crème fraîche épaisse</p>
+ <p>paprika, "faux-safran"</p>
+ <p>cognac</p>
+ <p>1|2 échalote</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez votre <ingredient quantite=1>darne</ingredient> en morceau</operation> et <operation temps=6.86min espace=11>faites cuire dans un peu de matière grasse à la <recipient>poêle</recipient></operation>. <operation temps=0.5min espace=11>réservez</operation>. <operation temps=6.86min espace=11>faites revenir ensuite les <ingredient quantite=8>saint-jacques</ingredient> brièvement</operation> puis <operation temps=0.5min espace=11>réservez</operation>. <operation temps=5.0min espace=11>mettez les bouchées à réchauffer dans un <recipient>four</recipient> préchauffé à 210 ° c (thermostat 7 - 8) pendant 5 min</operation>. <operation temps=6.86min espace=11>faites revenir l’ <ingredient quantite=2>échalote</ingredient></operation> émincée, <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=1>crevettes</ingredient></operation> décortiquées, le <ingredient quantite=1>saumon</ingredient> et les <ingredient quantite=8>saint-jacques</ingredient>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et <operation temps=6.86min espace=11>saupoudrez de <ingredient quantite=1>paprika</ingredient> et de <ingredient quantite=1>faux-safran</ingredient></operation>. <operation temps=6.86min espace=11>versez un trait de</operation> <ingredient quantite=1>cognac</ingredient> et <operation temps=6.86min espace=11>faites flamber</operation>. <operation temps=6.86min espace=11>ajoutez la <ingredient quantite=3>crème</ingredient> et rectifiez l’</operation> assaisonnement si nécessaire. dressez dans les assiettes les bouchées chaudes remplies de poisson et de sauce. <operation temps=6.86min espace=11>acompagnez d’ un riz blanc et d’ une fondue de poireaux</operation>...
+]]>
+ </preparation>
+</recette>

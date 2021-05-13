@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68244">
+ <titre>Porc aux poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg d’ échine de porc</p>
+ <p>2 kg de poireaux</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez l’ <ingredient quantite=1>échine de porc</ingredient> en morceaux, <operation temps=6.86min espace=7>coupez les <ingredient quantite=1>poireaux</ingredient> en morceaux également</operation>. dans une grande <recipient>marmite</recipient> (ou <recipient>cocotte</recipient> minute), <operation temps=5.0min espace=7>faites revenir le <ingredient quantite=1>porc</ingredient> 5 minutes environ</operation>, <operation temps=0.25min espace=7>salez</operation>. <operation temps=6.86min espace=7>mettez les <ingredient quantite=1>poireaux</ingredient> au dessus de la viande sans</operation> remuer, <operation temps=0.25min espace=7>salez</operation>, <operation temps=0.5min espace=7>poivrez</operation>. <operation temps=45.0min espace=7>laissez cuire à feu doux entre 1 h et 1 h 30 (45 minutes en <recipient>cocotte</recipient></operation>). lorsque c’ est cuit, <operation temps=5.0min espace=7>mélangez le tout</operation>, rajoutez de la <ingredient quantite=3>crème fraîche</ingredient>, re-<operation temps=0.25min espace=7>salez</operation> ou re-<operation temps=0.5min espace=7>poivrez</operation> si besoin, c’ est prêt! plus cela cuit longtemps et à feu doux, mieux c’ est. vous pouvez mettre n’ importe quel morceau de <ingredient quantite=1>porc</ingredient>.
+]]>
+ </preparation>
+</recette>

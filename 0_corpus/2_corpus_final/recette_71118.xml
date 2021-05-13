@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71118">
+ <titre>Pomme de terre au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>2 paquets de lardons</p>
+ <p>pomme de terre: 2 boîtes de conserve ou quelque pomme de terre crues</p>
+ <p>curry sans obligation</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>oignons</ingredient> et les couper en morceaux. les <operation temps=6.86min espace=5>faire revenir à la <recipient>poêle</recipient> quelques minutes</operation> puis rajouter les <ingredient quantite=2>lardons</ingredient>. si vous prenez des <ingredient quantite=1>pommes de terre</ingredient> en <ingredient quantite=1>boîte</ingredient>, les couper en morceaux et les <operation temps=5.0min espace=5>faire revenir 5 minutes avec les <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=2>lardons</ingredient></operation>. si vous prenez des <ingredient quantite=1>pommes de terre crues</ingredient>, cela prendra 10 min de plus car il faut les éplucher, les couper et les <operation temps=6.86min espace=5>faire cuire avant de les</operation> rajouter aux <ingredient quantite=2>lardons</ingredient> et aux <ingredient quantite=1>oignons</ingredient>. une fois que tous les ingrédients sont mélangés, vous pouvez rajouter du <ingredient quantite=1>curry</ingredient> 2 minutes avant de <operation temps=2.0min espace=5>servir</operation>. rouge
+]]>
+ </preparation>
+</recette>

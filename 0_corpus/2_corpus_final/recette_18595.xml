@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18595">
+ <titre>Tarte au chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 rouleau de fromage de chèvre</p>
+ <p>2 ou 3 tomates</p>
+ <p>2 cuillères à café de moutarde</p>
+ <p>sel, poivre</p>
+ <p>basilic séché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire précuire la <ingredient quantite=1>pâte feuilletée</ingredient> préalablement piquée avec une fourchette entre 10 et 15 mn à 250 ° c au <recipient>four</recipient>. pendant ce temps, couper les <ingredient quantite=2>tomates</ingredient> en tranches que vous <operation temps=6.86min espace=9>disposerez sur une assiette en alternance avec de l’</operation> essuie tout pour absorber l’ humidité. couper le <ingredient quantite=1>chèvre</ingredient> en grosses tranches (environ 10). <operation temps=6.86min espace=9>sortir la <ingredient quantite=1>pâte</ingredient> du <recipient>four</recipient>, et la</operation> badigeonner de <ingredient quantite=2>moutarde</ingredient>. disposer les tranches de <ingredient quantite=2>tomates</ingredient> et par dessus les tranches de <ingredient quantite=1>chèvre</ingredient>. saler et poivrer, et parsemer de <ingredient quantite=1>basilic</ingredient>. remettre au <recipient>four</recipient> environ 10 mn que le <ingredient quantite=1>chèvre</ingredient> fonde. le soir avec une salade verte pour un dîner léger.
+]]>
+ </preparation>
+</recette>

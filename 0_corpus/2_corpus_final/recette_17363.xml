@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17363">
+ <titre>Lasagnes au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de lait</p>
+ <p>300 g de chocolat</p>
+ <p>150 g de sucre</p>
+ <p>40 g de maïzena</p>
+ <p>4 oeufs</p>
+ <p>400 g de pâte à lasagnes précuites</p>
+ <p>Pour la crème: </p>
+ <p>1 verre de crème fraîche</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faire bouillir le <ingredient quantite=1>lait</ingredient></operation>. dans une <recipient>terrine</recipient>, mélanger le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>maïzena</ingredient> et les <ingredient quantite=4>oeufs</ingredient> jusqu’ à ce que le mélange blanchisse. verser le <ingredient quantite=1>chocolat</ingredient> en morceau dans le <ingredient quantite=1>lait</ingredient> bouillant, remuer jusqu’ à ce soit bien fondu. verser sur le mélange sucre - <ingredient quantite=1>oeuf</ingredient> en remuant vivement. remettre dans la <recipient>casserole</recipient> et cuire jusqu’ à épaississement. huiler un <recipient>plat</recipient> à <recipient>four</recipient> rectangulaire. mettre une couche de <ingredient quantite=1>lasagnes</ingredient> en plaque, <operation temps=6.86min espace=16>recouvrir de</operation> crème au <ingredient quantite=1>chocolat</ingredient> (1 cm). alterner <ingredient quantite=1>pâte</ingredient>, <ingredient quantite=1>crème</ingredient> pour terminer par une couche de pâte. mélanger les ingrédients de la <ingredient quantite=1>crème</ingredient>: <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>oeuf</ingredient> et les verser sur la dernière couche de pâte. <operation temps=20.0min espace=16>faire cuire 20 min environ à <recipient>four</recipient> th 6</operation>. <operation temps=6.86min espace=16>faire refroidir et servir</operation> frais en fines tranches, nappé de <ingredient quantite=1>crème</ingredient> anglaise. ce dessert se conserve 8 jours sans problème au <recipient>réfrigérateur</recipient>.
+]]>
+ </preparation>
+</recette>

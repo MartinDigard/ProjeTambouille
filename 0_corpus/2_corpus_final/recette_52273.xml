@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52273">
+ <titre>Tourte aux escargots au Cantal</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 boîte d’ une 12 douzaines d’ escargots</p>
+ <p>300 g de Cantal</p>
+ <p>2 pâtes feuilletées toutes prêtes</p>
+ <p>50 cl vin blanc ou rouge au choix</p>
+ <p>2 oignons</p>
+ <p>2 carottes</p>
+ <p>1 bouquet garni</p>
+ <p>sel et poivre</p>
+ <p>persil</p>
+ <p>ail</p>
+ <p>crème allégée liquide ou lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 - 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=14>faire mijoter les <ingredient quantite=1>escargots</ingredient></operation> égouttés et rincés dans le vin avec les <ingredient quantite=2>oignons</ingredient> émincés, les <ingredient quantite=2>carottes</ingredient> coupées, le <ingredient quantite=1>bouquet garni</ingredient>, du poivre et du <ingredient quantite=1>sel</ingredient> pendant 30 minutes au moins. <operation temps=6.86min espace=14>faire fondre le <ingredient quantite=1>cantal</ingredient></operation> coupé fin dans une <recipient>casserole</recipient> à feu doux avec du <ingredient quantite=1>persil</ingredient>, de l’ <ingredient quantite=1>ail</ingredient> et une bonne quantité de poivre. etaler une <ingredient quantite=1>pâte</ingredient> feuilletée au fond d’ une tourtière. egoutter les <ingredient quantite=1>escargots</ingredient>, les verser sur la <ingredient quantite=1>pâte feuilletée</ingredient>. verser dessus la préparation au fromage allongée si besoin de <ingredient quantite=1>crème allégée liquide</ingredient> ou de lait. <operation temps=6.86min espace=14>recouvrir de la 2ème <ingredient quantite=1>pâte</ingredient></operation> feuilletée en aménageant une cheminée. cuire au <recipient>four</recipient> environ 30 minutes. vin <ingredient quantite=1>blanc</ingredient> sec, genre chablis
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42197">
+ <titre>Soupe de légumes à l’ emmental et au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g d’ emmental</p>
+ <p>6 carottes</p>
+ <p>2 tomates</p>
+ <p>6 grosses pomme de terre</p>
+ <p>2 poireaux</p>
+ <p>2 navets</p>
+ <p>2 cuillères à soupe de curry</p>
+ <p>5 cubes de bouillon de boeuf</p>
+ <p>sel et poivre selon goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les légumes, couper les plus <ingredient quantite=1>gros</ingredient> les mettre dans une <recipient>cocotte</recipient>, les <operation temps=1.0min espace=13>recouvrir d’ eau</operation>, ajouter les <ingredient quantite=5>cubes</ingredient> et une des deux <ingredient quantite=2>cuillère à soupe de curry</ingredient>. <operation temps=30.0min espace=13>laisser cuire 30 min environ</operation> (compter 1/4 d’ heure après mise en route du sifflet de la <recipient>cocotte</recipient>). après cuisson retirer une <recipient>casserole</recipient> d’ eau de taille moyenne de la <recipient>cocotte</recipient> et conserver l’ eau de cuisson. ajouter les 150 g d’ <ingredient quantite=1>emmental</ingredient>, la cuillere de <ingredient quantite=2>curry</ingredient> et mixer le tout. rajouter l’ eau de cuisson selon votre <ingredient quantite=1>goût</ingredient> afin d’ <operation temps=6.86min espace=13>obtenir une <ingredient quantite=2>soupe</ingredient> épaisse et onctueuse</operation>. 5 litres peuvent paraître énorme mais une fois que vous aurez goûté cette <ingredient quantite=2>soupe</ingredient> vous <operation temps=6.86min espace=13>comprendrez</operation>... (peut se congeler)
+]]>
+ </preparation>
+</recette>

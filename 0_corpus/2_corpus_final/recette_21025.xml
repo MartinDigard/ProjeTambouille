@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21025">
+ <titre>Gratin montagnard au jambon cru</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g de pommes de terre</p>
+ <p>200 g de jambon cru</p>
+ <p>100 g de gruyère râpé</p>
+ <p>3 à 4 cuillères à soupe de crème fraîche</p>
+ <p>40 cl de lait</p>
+ <p>2 gousses d’ ail</p>
+ <p>huile et beurre</p>
+ <p>noix de muscade</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=12>pelez</operation> et coupez les <ingredient quantite=1>pommes de terres</ingredient> en rondelles. <operation temps=6.86min espace=12>faites - les</operation> dorer à la <recipient>poêle</recipient> dans un mélange <ingredient quantite=1>beurre</ingredient> - huile. <operation temps=1.0min espace=12>versez</operation> dessus le lait bouillant, <operation temps=0.25min espace=12>salez</operation>, poivrez et parsemez <ingredient quantite=1>noix de muscade</ingredient> râpée. <operation temps=6.86min espace=12>ajoutez l’ <ingredient quantite=2>ail</ingredient></operation> haché et <operation temps=15.0min espace=12>laissez cuire environ 15 minutes à feu doux</operation>. hachez le <ingredient quantite=1>jambon cru</ingredient>, ajoutez - le aux <ingredient quantite=1>pommes de terre</ingredient> et <operation temps=15.0min espace=12>laissez cuire encore 10 - 15 minutes</operation>. <operation temps=1.0min espace=12>versez</operation> le tout dans un <recipient>plat</recipient> à gratin beurré et frotté avec l’ autre <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=2>ail</ingredient>. répartissez la <ingredient quantite=3>crème</ingredient> et le <ingredient quantite=1>gruyère râpé</ingredient> et <operation temps=6.86min espace=12>faites gratiner au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42210">
+ <titre>Poulet coco original</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>5 blancs de poulet</p>
+ <p>200 mL de lait de coco non sucré</p>
+ <p>2 cuillères à soupe de pâte de colombo</p>
+ <p>20 cL d’ eau</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 échalote</p>
+ <p>Pour les accompagnements: </p>
+ <p>1 citron vert</p>
+ <p>2 tomates</p>
+ <p>1 pincée de gingembre râpé</p>
+ <p>200 g de noix de coco</p>
+ <p>150 g de cacahuètes grillées salées</p>
+ <p>1 yaourt</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>coupez les blancs de <ingredient quantite=5>poulet</ingredient> en morceaux,</operation> et <operation temps=6.86min espace=17>faites - les</operation> mariner dans la <ingredient quantite=2>pâte</ingredient> pour <ingredient quantite=2>colombo</ingredient>, avec l’ <ingredient quantite=1>eau</ingredient>, pendant 2 h. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=17>faites revenir le <ingredient quantite=5>poulet</ingredient> sans le jus de marinade avec un peu d’</operation> huile. quand c’ est bien doré, <operation temps=6.86min espace=17>ajoutez la marinade, l’ <ingredient quantite=1>ail</ingredient></operation> écrasé, l’ <ingredient quantite=1>échalote</ingredient> émincée, et le <ingredient quantite=1>lait de coco</ingredient>. <operation temps=0.25min espace=17>couvrez</operation> et <operation temps=30.0min espace=17>faites cuire à feu doux pendant 30 min</operation>. pendant ce temps, coupez les <ingredient quantite=2>tomates</ingredient> en petits morceaux, et le <ingredient quantite=1>citron vert</ingredient> en tranches fines, puis chaque tranche en 4 (oui, oui, <operation temps=6.86min espace=17>laissez la peau! n’ oubliez pas de le</operation> laver avant!). <operation temps=6.86min espace=17>mélangez les <ingredient quantite=2>tomates</ingredient>, le <ingredient quantite=1>citron</ingredient>, et le gingembre dans un petit bol</operation>, <operation temps=0.5min espace=17>réservez au frais</operation>. <operation temps=6.86min espace=17>ecrasez</operation> grossièrement les <ingredient quantite=1>cacahuètes</ingredient>, au <recipient>pilon</recipient> ou au mixer. <operation temps=6.86min espace=17>disposez chaque <ingredient quantite=1>accompagnement</ingredient>, dans un petit bol différent</operation>. une fois le <ingredient quantite=5>poulet</ingredient> cuit, rectifiez l’ assaisonnement, et <operation temps=6.86min espace=17>mettez le dans un joli <recipient>plat</recipient></operation>. a table, <operation temps=6.86min espace=17>apportez les différents <ingredient quantite=1>accompagnements</ingredient>, le <recipient>plat</recipient> de <ingredient quantite=5>poulet</ingredient> et du riz (de préférence thaï),</operation> et <operation temps=6.86min espace=17>laissez chacun se</operation> <operation temps=2.0min espace=17>servir</operation> et <operation temps=6.86min espace=17>faire ses mélanges! bon appétit</operation>!
+]]>
+ </preparation>
+</recette>

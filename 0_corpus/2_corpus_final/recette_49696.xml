@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49696">
+ <titre>Muffins au thon et aux amandes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 œufs entiers</p>
+ <p>150 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>10 cl d’ huile de tournesol</p>
+ <p>12, 5 cl de lait entier</p>
+ <p>100 g de gruyère râpé</p>
+ <p>125 g d’ amandes effilées</p>
+ <p>100 g d’ olives vertes dénoyautées</p>
+ <p>2 boîtes de miettes de thon à la tomate</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). dans un <recipient>saladier</recipient> <operation temps=6.86min espace=12>fouettez les <ingredient quantite=3>œufs</ingredient> avec la farine et la <ingredient quantite=1>levure</ingredient></operation>. arroser d’ huile et de lait, puis ajouter le <ingredient quantite=1>gruyère râpé</ingredient> et bien mélanger. incorporez le <ingredient quantite=2>thon</ingredient> égoutté et émietté, puis les <ingredient quantite=1>olives vertes</ingredient> découpés en morceaux et les <ingredient quantite=1>amandes</ingredient>. <operation temps=5.0min espace=12>mélangez</operation> et <operation temps=6.86min espace=12>assaisonnez de <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient></operation>. <operation temps=6.86min espace=12>remplissez les moules à muffin préalablement beurrés et les</operation> enfourner pendant 30 minutes. <operation temps=6.86min espace=12>démoulez tiède</operation>. <operation temps=5.0min espace=12>dégustez</operation> chaud ou froid et <operation temps=6.86min espace=12>servez avec une salade <ingredient quantite=1>verte</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

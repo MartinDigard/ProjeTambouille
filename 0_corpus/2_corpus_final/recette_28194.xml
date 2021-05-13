@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28194">
+ <titre>Rouelle de veau normande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de rouelle de veau </p>
+ <p>200 g de champignons</p>
+ <p>80 g de beurre</p>
+ <p>10 cl de crème fraîche</p>
+ <p>40 cl de cidre</p>
+ <p>2 oignons</p>
+ <p>1 branche de thym</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre 50 g de beurre à fondre dans une <recipient>cocotte</recipient>. assaisonner la viande et la <operation temps=6.86min espace=12>faire dorer dans le beurre de chaque côté</operation>. ajouter le <ingredient quantite=1>cidre</ingredient> et le <ingredient quantite=1>thym</ingredient>, et <operation temps=6.86min espace=12>laisser mijoter 1 h 30</operation>. <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>champignons</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation> émincés dans le reste de beurre, dans une <recipient>casserole</recipient>. les ajouter à la viande et continuer la cuisson pendant 10 min. dans un bol, mélanger la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. déposer la viande dans un <recipient>plat</recipient>. tamiser le jus de cuisson, goûter et ectifier l’ assaisonnement. ajouter la <ingredient quantite=1>crème</ingredient> au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et <operation temps=6.86min espace=12>faire réchauffer la sauce à feu doux sans</operation> porter à ébullition. verser la sauce sur la viande et servir. accompagner de pommes de terre vapeur et pommes fruits poêlées.
+]]>
+ </preparation>
+</recette>

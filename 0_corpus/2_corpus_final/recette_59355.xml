@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59355">
+ <titre>Esquimaux de banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 bananes</p>
+ <p>1 chocolat en tablette (noir ou blanc ou les 2) </p>
+ <p>vermicelles multicolores</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les 4 <ingredient quantite=4>bananes</ingredient>. <operation temps=6.86min espace=4>plantez des bâtons d’ esquimaux</operation> dedans. <operation temps=6.86min espace=4>mettez les <ingredient quantite=4>bananes</ingredient> dans le freezer jusqu’ à ce qu’ elles soient dures (c’ est pour que les bâtons tiennent</operation>). <operation temps=6.86min espace=4>cassez le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation>. <operation temps=6.86min espace=4>faites fondre les morceaux de <ingredient quantite=1>chocolat</ingredient></operation>. trempez les <ingredient quantite=4>bananes</ingredient> dans le <ingredient quantite=1>chocolat</ingredient>. saupoudrez les de <ingredient quantite=1>vermicelles multicolores</ingredient>. <operation temps=6.86min espace=4>remettez les <ingredient quantite=4>bananes</ingredient> dans le <recipient>congélateur</recipient> jusqu’ à que le <ingredient quantite=1>chocolat</ingredient></operation> prenne.
+]]>
+ </preparation>
+</recette>

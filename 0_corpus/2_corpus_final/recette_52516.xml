@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52516">
+ <titre>Mijoté de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 6 kg de morceaux de boeuf à bourguignon</p>
+ <p>4 carottes</p>
+ <p>1 tranche de poitrine fumée</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>25 cl de bière brune</p>
+ <p>15 cl de bouillon de boeuf</p>
+ <p>20 g de farine</p>
+ <p>40 g de beurre</p>
+ <p>1 bouquet garni</p>
+ <p>5 baies de genièvre</p>
+ <p>2 brins de persil, sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et couper les <ingredient quantite=4>carottes</ingredient> en tronçons, et couper la <ingredient quantite=1>poitrine</ingredient> en gros lardons. <operation temps=6.86min espace=12>faire dorer les cubes de viande à feu vif dans une <recipient>cocotte</recipient> avec les lardons et 20 g de beurre</operation>, ajouter les <ingredient quantite=4>carottes</ingredient> et <operation temps=5.0min espace=12>faire suer 5 min</operation>. saupoudrer de farine, et mélanger. verser le <ingredient quantite=2>miel</ingredient>, le reste de beurre, la <ingredient quantite=1>bière</ingredient>, et le <ingredient quantite=1>bouillon</ingredient>. saler, <operation temps=0.5min espace=12>poivrez</operation> et incorporer ensuite les <ingredient quantite=5>baies de genièvre</ingredient> écrasées et le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=12>laisser cuire 2 h 40 à couvert</operation>. c’ est excellent, avec des pommes de terre vapeur.
+]]>
+ </preparation>
+</recette>

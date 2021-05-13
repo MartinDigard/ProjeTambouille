@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171400">
+ <titre>Tarte poire, roquefort et noix</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 poires</p>
+ <p>1 pâte feuilletée</p>
+ <p>80 g de roquefort</p>
+ <p>40 g de cerneaux de noix</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 200 ° c (thermostat 7). epluchez et <operation temps=6.86min espace=8>coupez les <ingredient quantite=4>poires</ingredient> en lamelles</operation>. <operation temps=6.86min espace=8>etalez la pate <ingredient quantite=1>feuilletée</ingredient> dans une tourtière (en</operation> conservant le papier de cuisson) et <operation temps=6.86min espace=8>piquez le fond à l’</operation> aide d’ une fourchette. placez les lamelles de <ingredient quantite=4>poires</ingredient> en rosace sur le fond de la <ingredient quantite=1>pâte</ingredient>. ajoutez le <ingredient quantite=1>roquefort</ingredient> émietté et les <ingredient quantite=1>cerneaux de noix</ingredient> en morceaux. <operation temps=6.86min espace=8>salez et poivrez</operation> et <operation temps=30.0min espace=8>mettez au <recipient>four</recipient> 30 min à 200 ° c (thermostat 7</operation>). cette tarte peut se <operation temps=6.86min espace=8>servir aussi bien en entrée qu’ au moment du fromage</operation>.
+]]>
+ </preparation>
+</recette>

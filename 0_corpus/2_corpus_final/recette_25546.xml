@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25546">
+ <titre>Salade de chèvres chauds</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de gésiers de volaille par personne</p>
+ <p>1 salade (de type frisée ou feuille de chêne) </p>
+ <p>3 chèvres frais par personne </p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de chapelure</p>
+ <p>2 cuillères à soupe d’ huile de pépin de raisin</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>gésiers</ingredient>, puis les</operation> <operation temps=6.86min espace=10>faire revenir quelques minutes dans une <recipient>poêle</recipient></operation>. pendant ce temps tremper les <ingredient quantite=3>chèvres</ingredient> dans l’ <ingredient quantite=1>oeuf</ingredient> puis dans la <ingredient quantite=1>chapelure</ingredient>. laver la <ingredient quantite=1>salade</ingredient> et l’ assaisonner avec 3 <ingredient quantite=1>cuillères à soupe</ingredient> l’ <ingredient quantite=2>huile de pépin de raisin</ingredient> (ou d’ arachide) et 2 <ingredient quantite=1>cuillères à soupe de vinaigre balsamique</ingredient>. <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=3>chèvres</ingredient> dans une <recipient>poêle</recipient> avec un peu d’ <ingredient quantite=2>huile</ingredient> d’ arachide</operation>. <operation temps=6.86min espace=10>servir dans de grandes assiettes en</operation> plaçant la <ingredient quantite=1>salade</ingredient> au centre par exemple. vous pouvez remplacer les <ingredient quantite=1>gésiers de volaille</ingredient> par des lamelles de magrets de canard fumé ou du saumon fumé (dans ce cas <operation temps=6.86min espace=10>faire une sauce au citron pour la</operation> <ingredient quantite=1>salade</ingredient>). cette " entrée " peut constituer un <recipient>plat</recipient> principal.
+]]>
+ </preparation>
+</recette>

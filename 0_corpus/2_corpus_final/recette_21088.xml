@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21088">
+ <titre>Crevettes sautées à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de crevettes</p>
+ <p>200 g d’ ananas</p>
+ <p>8 petites tomates</p>
+ <p>8 mini concombres</p>
+ <p>8 gousses d’ ail</p>
+ <p>4 piments</p>
+ <p>2 bouquets de ciboulette</p>
+ <p>2 oignons</p>
+ <p>1 tasse d’ huile</p>
+ <p>2 cuillères à café de fumet de poisson concentré</p>
+ <p>2 cuillères à soupe de ketchup</p>
+ <p>1 cuillère à café de vinaigre</p>
+ <p>sucre</p>
+ <p>poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=15>faire chauffer l’ <ingredient quantite=1>huile</ingredient> et y</operation> <operation temps=3.0min espace=15>faire revenir pendant 3 min l’ <ingredient quantite=8>ail</ingredient></operation> émincé, les <ingredient quantite=1>crevettes</ingredient> décortiquées, l’ <ingredient quantite=1>ananas</ingredient> et les légumes coupés en mirepoix, les <ingredient quantite=2>oignons</ingredient> ciselés, le <ingredient quantite=1>piment</ingredient>, le <ingredient quantite=2>fumet de poisson</ingredient>, le <ingredient quantite=2>ketchup</ingredient>, le <ingredient quantite=1>vinaigre</ingredient> et une pincée de <ingredient quantite=1>sucre</ingredient>. poivrer. ajouter la <ingredient quantite=2>ciboulette</ingredient> et <operation temps=1.0min espace=15>laisser frire 1 min</operation>. <operation temps=6.86min espace=15>servir avec un riz créole</operation>.
+]]>
+ </preparation>
+</recette>

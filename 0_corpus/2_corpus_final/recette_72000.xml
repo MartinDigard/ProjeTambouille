@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72000">
+ <titre>Dos de colin à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 dos de colin (surgelés par exemple) </p>
+ <p>400 g de tomates pelées au jus</p>
+ <p>15 cl de vin blanc</p>
+ <p>2 oignons jaunes</p>
+ <p>persil</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>piment de Cayenne</p>
+ <p>safran</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et émincer les <ingredient quantite=2>oignons</ingredient>. les <operation temps=6.86min espace=9>faire revenir dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> dans une <recipient>poêle</recipient></operation>. ajouter les morceaux de poissons (préalablement décongelés). les retourner rapidement. ajouter les <ingredient quantite=1>tomates pelées</ingredient> découpées en 2 avec le <ingredient quantite=1>jus</ingredient>, et le <ingredient quantite=1>vin blanc</ingredient>. saler, pimenter, et mettre le <ingredient quantite=1>safran</ingredient> et quelques feuilles de <ingredient quantite=1>persil</ingredient> hachées. <operation temps=6.86min espace=9>laisser cuire à petits bouillons pendant 10 à 15 min, en</operation> retournant le poisson de temps en temps. diététique, très simple et rapide à <operation temps=6.86min espace=9>faire, à</operation> <operation temps=6.86min espace=9>servir avec du riz, des pâtes, ou des pommes de terres vapeur</operation>.
+]]>
+ </preparation>
+</recette>

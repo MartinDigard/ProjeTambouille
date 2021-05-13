@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63349">
+ <titre>Tarte aux figues et aux pignons de pin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pâte feuilletée (ou une pâte feuilletée du commerce) </p>
+ <p>6 figues vertes ou violettes, mûres</p>
+ <p>25 g de beurre</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>50 g de pignons</p>
+ <p>Pour la crème d’ amandes: </p>
+ <p>60 g de poudre d’ amandes</p>
+ <p>50 g de beurre</p>
+ <p>50 g de sucre</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). préparer la <ingredient quantite=1>crème</ingredient> d’ <ingredient quantite=1>amandes</ingredient>: <operation temps=6.86min espace=14>faire fondre le beurre puis le</operation> <operation temps=20.0min espace=14>laisser refroidir</operation>. foutter l’ <ingredient quantite=1>oeuf</ingredient> dans un <recipient>saladier</recipient> en y ajoutant le <ingredient quantite=3>sucre</ingredient>. ajouter ensuite la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient> et le beurre. mélanger. préparer la tarte: couper les <ingredient quantite=6>figues</ingredient> en quatre. etaler la <ingredient quantite=1>pâte feuilletée</ingredient> au rouleau sur une plaque (si faite maison). rouler les bords grossièrement et <operation temps=6.86min espace=14>piquez le fond de la <ingredient quantite=1>pâte</ingredient></operation>. <operation temps=6.86min espace=14>garnir de</operation> crème d’ <ingredient quantite=1>amandes</ingredient> puis disposer des <ingredient quantite=6>figues</ingredient> sur le dessus. parsemer de petits morceaux de beurre, de <ingredient quantite=3>sucre</ingredient> et de <ingredient quantite=1>pignons</ingredient> de pin. mettre la tarte au <recipient>four</recipient> et <operation temps=30.0min espace=14>laisser cuire 20 à 30 min selon le <recipient>four</recipient></operation>. surveiller et la <operation temps=6.86min espace=14>sortir une fois dorée</operation>. <operation temps=6.86min espace=14>laisser tiédir puis servir tiède ou à température ambiante</operation>. vous pouvez ajouter quelques gouttes d’ amande amère dans la <ingredient quantite=1>pâte</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195336">
+ <titre>Mousse de petits-suisses citronnée</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 petits-suisses nature</p>
+ <p>2 cuillères à soupe de sucre </p>
+ <p>2 œufs</p>
+ <p>1 citron non traité</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez les six <ingredient quantite=6>petits-suisses</ingredient> avec 2 <ingredient quantite=2>cuillères à soupe de sucre</ingredient>. <operation temps=6.86min espace=4>séparez les blancs des jaunes</operation>. <operation temps=6.86min espace=4>intégrez les jaunes au mélange petits-suisses-sucre et mélangez</operation> puis <operation temps=6.86min espace=4>ajoutez le zeste et le jus du <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=4>montez les deux blancs en neige</operation> puis <operation temps=6.86min espace=4>intégrez - les au mélange avec précaution pour ne pas les</operation> casser avec une spatule. mettre au frais environ 2h. cette mousse est encore meilleure avec des tuiles au chocolat ou aux amandes.
+]]>
+ </preparation>
+</recette>

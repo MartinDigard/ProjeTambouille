@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82422">
+ <titre>Curry de porc à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de porc dans l’ échine</p>
+ <p>2 oignons</p>
+ <p>3 tomates ou 1 boite de concentré</p>
+ <p>1 ananas frais ou 1 petite boite de conserve</p>
+ <p>1 poivron rouge</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 peu de gingembre en poudre</p>
+ <p>1 peu de curry en poudre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez la viande en morceaux</operation>. faites chauffer 2 à 3 <ingredient quantite=2>cuillères à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient> dans une <recipient>cocotte</recipient> et <operation temps=6.86min espace=11>mettez - y à</operation> sauter les <ingredient quantite=2>oignons</ingredient> pelés et hachés grossièrement. <operation temps=6.86min espace=11>ajoutez la viande lorsque les <ingredient quantite=2>oignons</ingredient> commencent à</operation> dorer. <operation temps=6.86min espace=11>faites dorer le</operation> <ingredient quantite=1>porc</ingredient> puis <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=3>tomates</ingredient> (ou <ingredient quantite=3>concentré</ingredient></operation> dilué avec de l’ eau), le <ingredient quantite=1>poivron</ingredient> découpé en fines rondelles. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et <operation temps=6.86min espace=11>laissez mijoter à couvert quelques minutes à feu doux</operation>. <operation temps=6.86min espace=11>coupez l’</operation> ananas en cubes et <operation temps=6.86min espace=11>récupérez le jus</operation>. <operation temps=6.86min espace=11>ajoutez - le à la viande</operation>, <operation temps=6.86min espace=11>versez le jus</operation> et <operation temps=45.0min espace=11>laissez mijoter le tout pendant 45 minutes environ</operation>. en fin de cuisson, <operation temps=6.86min espace=11>ajoutez du <ingredient quantite=1>gingembre</ingredient> et du <ingredient quantite=1>curry</ingredient> selon votre goût</operation>. vérifiez l’ assaisonnement. <operation temps=6.86min espace=11>laissez cuire quelques instants</operation>. servez accompagné de semoule ou de riz. bon appétit! pour avoir une recette plus diététique, vous pouvez remplacer le <ingredient quantite=1>porc</ingredient> par du poulet. la teneur en graisse du <ingredient quantite=1>porc</ingredient> est de 37 %, celle du poulet est de 7 %!
+]]>
+ </preparation>
+</recette>

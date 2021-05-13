@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55251">
+ <titre>Soupe aux raviolis frais</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de raviolis frais aux épinards, au basilic ou au fromage</p>
+ <p>1/2 poivron rouge</p>
+ <p>1/2 poivron jaune</p>
+ <p>1 litre de bouillon de légumes</p>
+ <p>2 bonnes cuillérées de crème fraîche</p>
+ <p>du parmesan</p>
+ <p>poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>poivrons</ingredient> en lanières puis en tous petits cubes. les mettre à <operation temps=6.86min espace=11>revenir dans une <recipient>poêle</recipient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. pendant ce temps, mettre le <ingredient quantite=1>bouillon</ingredient> à cuire jusqu’ à ébulliton dans une <recipient>cocotte</recipient>. quand les <ingredient quantite=1>poivrons</ingredient> sont tendres, les mettre dans la <recipient>cocotte</recipient> puis y renverser les raviolis. <operation temps=6.86min espace=11>laisser cuire le temps</operation> indiqué sur le paquet de raviolis. en fin de cuisson ajouter la <ingredient quantite=2>crème fraîche</ingredient>. mettre le <ingredient quantite=1>parmesan</ingredient> sur la table pour que chacun se serve à sa guise. on peut aussi mettre des tomates cerise au moment de <operation temps=2.0min espace=11>servir</operation>. cette recette convient bien pour un diner, c’ est simple à préparer et toute la famille apprécie!!
+]]>
+ </preparation>
+</recette>

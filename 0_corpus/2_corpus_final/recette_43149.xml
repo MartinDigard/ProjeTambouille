@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43149">
+ <titre>Cuisson de l’ encornet</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>encornet ou seiche</p>
+ <p>peut se faire aussi avec des tranches de thon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les morceaux d’ <ingredient quantite=1>encornets</ingredient>, de <ingredient quantite=1>seiches</ingredient>, ou les <ingredient quantite=1>tranches de thon</ingredient>, environ 2 à 3 min, de façon à les <ingredient quantite=1><operation temps=6.86min espace=2>faire</ingredient> dorer</operation>. eteindre le feu, mettre un couvercle sur le tout, et <operation temps=20.0min espace=2>laisser reposer environ 20 min ensuite, on</operation> l’ accommode comme on le désire (ail et persil, pour l’ <ingredient quantite=1>encornet</ingredient>). au moment de le <ingredient quantite=1><operation temps=6.86min espace=2>faire</ingredient> réchauffer ou avec le <ingredient quantite=1>thon</ingredient>, je</operation> <operation temps=6.86min espace=2>fais cuire des oignons et des tomates à côté, que j’</operation> ajoute au dernier moment. l’ <ingredient quantite=1>encornet</ingredient> reste moelleux et non cahoutchouteux, idem pour le <ingredient quantite=1>thon</ingredient>, il est cuit juste à coeur, et n’ est vraiment pas sec.
+]]>
+ </preparation>
+</recette>

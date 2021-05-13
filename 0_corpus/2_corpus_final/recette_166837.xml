@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166837">
+ <titre>Omelette sucrée légère</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>4 cuillères à soupe de sucre (roux ou blanc) </p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+casser les <ingredient quantite=4>oeufs</ingredient> en séparant le jaune dans un <recipient>saladier</recipient> et les blancs dans un autre <recipient>saladier</recipient>. ajouter 4 <ingredient quantite=4>cuillères de sucre</ingredient> avec les jaunes d’ <ingredient quantite=4>oeufs</ingredient>. monter les blancs en neige. incorporer délicatement les blancs en neige avec les jaunes d’ <ingredient quantite=4>oeufs</ingredient>, en mélangement doucement à l’ aide d’ une spatule. prendre un poele, ajouter une noix de beurre, puis <operation temps=3.0min espace=5>faire cuire l’ omelette pendant 3 minutes sur chaque côté</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

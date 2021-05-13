@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95870">
+ <titre>Risotto aux 2 viandes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 Escalope de Dinde</p>
+ <p>1 Steak </p>
+ <p>1/2 Aubergine</p>
+ <p>150g de Riz pour Risotto </p>
+ <p>40cl d’ eau</p>
+ <p>250g de Coulis de Tomate</p>
+ <p>2 Gousses Ail</p>
+ <p>1 Oignon</p>
+ <p>herbes de Provence, basilic, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+-couper la 1/2 <ingredient quantite=1>aubergine</ingredient> dans la longueur et en <operation temps=6.86min espace=9>faire des fines lamelles</operation>. <operation temps=6.86min espace=9>faire revenir les lamelles dans de l’ huile d’ olive</operation>. -découper la viande en petits morceaux et la <operation temps=6.86min espace=9>faire revenir avec les <ingredient quantite=1>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation>. -ajouter le <ingredient quantite=1>coulis de tomate</ingredient>. -mettre le <ingredient quantite=1>riz</ingredient> et ajouter l’ <ingredient quantite=1>eau</ingredient>. -mélanger et <operation temps=6.86min espace=9>laisser cuire à feu doux en</operation> remuant de temps en temps. le <ingredient quantite=1>risotto</ingredient> est prêt quand le <ingredient quantite=1>riz</ingredient> a absorbé l’ <ingredient quantite=1>eau</ingredient>.
+]]>
+ </preparation>
+</recette>

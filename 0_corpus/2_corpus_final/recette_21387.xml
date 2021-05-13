@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21387">
+ <titre>Boeuf sauté aux échalotes à la chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de boeuf tendre</p>
+ <p>2 échalotes</p>
+ <p>1 oignon</p>
+ <p>1 botte de coriandre</p>
+ <p>1 carotte</p>
+ <p>poudre de piment rouge</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en morceaux très fin le <ingredient quantite=1>boeuf</ingredient>. <operation temps=6.86min espace=7>faire saisir dans une <recipient>poêle</recipient> légèrement</operation> huilée, y rajouter les <ingredient quantite=2>échalotes</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> puis la <ingredient quantite=1>carotte</ingredient> râpée, saler, poivrer, saupoudrer de <ingredient quantite=1>poudre de piment rouge</ingredient>. disposer la <ingredient quantite=1>coriandre</ingredient> fraîche coupée et <operation temps=45.0min espace=7>laisser mijoter</operation>. accompagné de riz nature ou parfumé. <ingredient quantite=1>rouge</ingredient> ou rosé
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54919">
+ <titre>Soufflé à l’ avocat</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 avocat mûr</p>
+ <p>1 cuillère à soupe de crème fraiche</p>
+ <p>1 oeuf</p>
+ <p>1 poignée de gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>ouvrir l’</operation> <ingredient quantite=1>avocat</ingredient>, retirer le noyau et vider l’ <ingredient quantite=1>avocat</ingredient> dans un <recipient>saladier</recipient>. bien l’ écraser à la fourchette d’ où l’ importance de prendre un <ingredient quantite=1>avocat mûr</ingredient>. ajouter la <ingredient quantite=1>crème fraiche</ingredient> et le guyère <ingredient quantite=1>rapé</ingredient>. ajouter le jaune de l’ <ingredient quantite=1>oeuf</ingredient>. battre le blanc d’ <ingredient quantite=1>oeuf</ingredient> en neige assez ferme et l’ incorporer à la préparation à l’ <ingredient quantite=1>avocat</ingredient>. beurrer des petits moules à souflés (enfin des petits ramequins!). verser la préparation. mettre à <recipient>four</recipient> doux environ 20 - 25 minutes. <operation temps=2.0min espace=6>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

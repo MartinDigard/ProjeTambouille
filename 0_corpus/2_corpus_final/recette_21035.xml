@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21035">
+ <titre>Tomates aux huîtres et aux anchois</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 douzaines d’ huîtres</p>
+ <p>12 tomates</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>5 échalotes</p>
+ <p>16 filets d’ anchois allongés</p>
+ <p>1 bouquet de persil</p>
+ <p>1 citron</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>ouvrez</operation> et <operation temps=6.86min espace=10>décoquillez les</operation> <ingredient quantite=2>huîtres</ingredient>, <operation temps=6.86min espace=10>récupérez l’ eau</operation> rendue. <operation temps=2.0min espace=10>portez - la à ébullition, pochez - y les <ingredient quantite=2>huîtres</ingredient> 2 minutes</operation>. <operation temps=10.0min espace=10>egouttez</operation> - les et <operation temps=0.5min espace=10>réservez au chaud</operation>. <operation temps=6.86min espace=10>coupez les <ingredient quantite=1>tomates</ingredient> en deux</operation>, <operation temps=6.86min espace=10>évidez - les</operation>. hachez les <ingredient quantite=5>échalotes</ingredient>, le <ingredient quantite=1>persil</ingredient> et les <ingredient quantite=1>anchois</ingredient>, répartissez le mélange dans les 1/2 <ingredient quantite=1>tomates</ingredient>. <operation temps=6.86min espace=10>poivrez bien</operation> et <operation temps=6.86min espace=10>arrosez d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. faîtes cuire 15 minutes au <recipient>four</recipient> à 200 ° c (thermostat 7 - 8). <operation temps=6.86min espace=10>récupérez le jus de cuisson</operation>. <operation temps=6.86min espace=10>fouettez - le avec les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=10>déposez une <ingredient quantite=1>huître</ingredient> sur chaque 1/2</operation> <ingredient quantite=1>tomate</ingredient>, <operation temps=6.86min espace=10>nappez de sauce</operation> et <operation temps=3.0min espace=10>faites gratiner 3 minutes sous le grill</operation>. <operation temps=6.86min espace=10>servez bien chaud avec le <ingredient quantite=1>citron</ingredient></operation> coupé en quartiers.
+]]>
+ </preparation>
+</recette>

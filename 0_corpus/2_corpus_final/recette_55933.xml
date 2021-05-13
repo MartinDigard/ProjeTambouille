@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55933">
+ <titre>Mascarpone à la framboise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de framboises</p>
+ <p>120 g de sucre</p>
+ <p>1 citron</p>
+ <p>250 g de mascarpone</p>
+ <p>2 feuilles de gélatine</p>
+ <p>5 cl d’ eau de vie de framboise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>râpez le zeste de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=7>couvrez les <ingredient quantite=1>framboises</ingredient> de 60 g de <ingredient quantite=1>sucre</ingredient> et de jus de</operation> <ingredient quantite=1>citron</ingredient>, <operation temps=30.0min espace=7>réservez 30 min</operation>. ecrasez - les en purée et passez - les au <operation temps=6.86min espace=7>tamis</operation>. trempez la <ingredient quantite=2>gélatine</ingredient> dans l’ <ingredient quantite=1>eau</ingredient> froide. portez à ébullitionn l’ <ingredient quantite=1>eau de vie de framboise</ingredient>, hors du feu <operation temps=6.86min espace=7>ajoutez la gelatine essorée</operation>, <operation temps=5.0min espace=7>mélangez</operation>, <operation temps=6.86min espace=7>incorporez aux <ingredient quantite=1>framboises</ingredient></operation>. répartissez dans 6 verres et placez 30 min au refrigérateur. <operation temps=6.86min espace=7>versez le <ingredient quantite=1>mascarpone</ingredient> dans un <recipient>saladier</recipient> avec le zeste de <ingredient quantite=1>citron</ingredient> et le reste de</operation> <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=7>fouettez en mousse</operation>. <operation temps=6.86min espace=7>versez dans les verres</operation>, <operation temps=6.86min espace=7>réfrigérez 3 heures</operation>. et <operation temps=5.0min espace=7>dégustez</operation>... bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69677">
+ <titre>Charlotte poire choco a ma façon</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de boudoirs</p>
+ <p>1 grosse boite de poires au sirop</p>
+ <p>1 sachet de flan au chocolat</p>
+ <p>50 cl de lait </p>
+ <p>chantilly</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencez par cuire le <ingredient quantite=1>flan</ingredient> comme indique sur le <ingredient quantite=1>sachet</ingredient> dans le lait. <operation temps=6.86min espace=6>egouttez les</operation> <ingredient quantite=1>poires</ingredient> et <operation temps=6.86min espace=6>conservez le jus</operation>. dans un <recipient>moule</recipient> à charlotte (genre plastique avec couvercle), placez dans le fond et tout autour les <ingredient quantite=1>boudoirs</ingredient> trempés légèrement dans le jus des <ingredient quantite=1>poires</ingredient>. <operation temps=6.86min espace=6>ajoutez les <ingredient quantite=1>poires</ingredient></operation> coupées en morceaux puis versez le <ingredient quantite=1>flan au chocolat</ingredient> dessus. <operation temps=6.86min espace=6>mettez au frais au moins 1/2</operation> journée afin que le <ingredient quantite=1>flan</ingredient> prenne bien. une fois démoulé, <operation temps=6.86min espace=6>rajoutez la <ingredient quantite=1>chantilly</ingredient></operation>. un dessert simple et bien frais après un repas copieux. vous pouvez si vous n’ aimez pas le <ingredient quantite=1>chocolat</ingredient> utiliser du <ingredient quantite=1>flan</ingredient> à la vanille.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50380">
+ <titre>Escalope de dinde panée au bleu</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde </p>
+ <p>5 Biscottes</p>
+ <p>1 oeuf</p>
+ <p>40 g de beurre</p>
+ <p>100 à 150 g de Bleu ou Roquefort</p>
+ <p>25 g de farine</p>
+ <p>30 cl de lait</p>
+ <p>un peu de crème (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>ecrasez les <ingredient quantite=1>biscottes</ingredient> en chapelure</operation>. trempez les <ingredient quantite=4>escalopes de dinde</ingredient> dans l’ <ingredient quantite=1>oeuf</ingredient> battu puis dans les <ingredient quantite=1>biscottes</ingredient> puis <operation temps=6.86min espace=8>faites - les</operation> cuire dans 15 g de beurre sur feu doux pour éviter que la chapelure ne brûle (remettez du beurre si besoin pour <operation temps=6.86min espace=8>nourrir la panure</operation>). <operation temps=6.86min espace=8>préparez la</operation> sauce en mélangeant la farine à 25 g de <ingredient quantite=1>beurre</ingredient> fondu. <operation temps=6.86min espace=8>incorporez le lait en un mince filet puis le fromage émiétté</operation>. <operation temps=6.86min espace=8>ajoutez éventuellement de la crème fraîche</operation>. <operation temps=6.86min espace=8>laissez la sauce épaissir sur feu doux sans</operation> cesser de remuer. lorsque la sauce atteint la consistance désirée, <operation temps=6.86min espace=8>nappez -en les <ingredient quantite=4>escalopes</ingredient> de dinde</operation> panées et <operation temps=2.0min espace=8>servez</operation>.
+]]>
+ </preparation>
+</recette>

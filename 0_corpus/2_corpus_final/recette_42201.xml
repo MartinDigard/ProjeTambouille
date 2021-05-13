@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42201">
+ <titre>Cheeseburger sauce barbecue maison</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la sauce barbecue: </p>
+ <p>1 échalote</p>
+ <p>3 cuillères à soupe de coulis de tomates</p>
+ <p>2 cuillères à soupe de whisky</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>2 cuillères à soupe de sucre en poudre</p>
+ <p>4 pains à hamburgers</p>
+ <p>8 carrés de fromage à fondre</p>
+ <p>moutarde</p>
+ <p>4 steaks hachés</p>
+ <p>1 oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation de la <ingredient quantite=1>sauce <recipient>barbecue</recipient></ingredient>: couper l’ <ingredient quantite=1>échalote</ingredient> en petits dés. les mélanger avec les autres ingrédients dans 1 bol. cuire le tout 5 min au <recipient>four</recipient> à micro-ondes 750w. préparation des steaks: couper l’ <ingredient quantite=1>oignon</ingredient> en dés puis le <operation temps=6.86min espace=16>faire revenir dans un <recipient>poêle</recipient> avec 1 peu d’</operation> huile. cuire les <ingredient quantite=4>steaks</ingredient> à point (ou rosés selon le goût). préparation des <ingredient quantite=4>pains</ingredient>: sur la partie haute du <ingredient quantite=1>pain</ingredient> étaler 1 pointe de couteau de <ingredient quantite=1>moutarde</ingredient>. sur la partie basse mettre 2 bonnes <ingredient quantite=1>cuillère de sauce</ingredient> <recipient>barbecue</recipient> puis par dessus installer 1 <ingredient quantite=8>carré de fromage</ingredient>. placer le steak sur le <ingredient quantite=8>fromage</ingredient> ainsi que quelques morceaux d’ <ingredient quantite=1>oignons</ingredient>. ajouter enfin le deuxième <ingredient quantite=8>carré de fromage</ingredient> puis mettre la partie haute du <ingredient quantite=1>pain</ingredient> par dessus. passer les <ingredient quantite=4>hamburgers</ingredient> 30 secondes au <recipient>four</recipient> chaud (pour <operation temps=6.86min espace=16>faire <ingredient quantite=8>fondre</ingredient> le</operation> <ingredient quantite=8>fromage</ingredient>). on peut ajouter 1 feuille de salade tranchée dans le <ingredient quantite=1>hamburger</ingredient>.
+]]>
+ </preparation>
+</recette>

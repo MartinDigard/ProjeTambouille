@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37787">
+ <titre>Muffins à la rose (20ème rencontre Marmiton) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de farine</p>
+ <p>150 g de sucre en poudre</p>
+ <p>180 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>6 cuillères à soupe de lait</p>
+ <p>3/4 d’ un sachet de levure chimique</p>
+ <p>1 cuillère à café de bicarbonate de sodium</p>
+ <p>une pincée de sel</p>
+ <p>10 loukoums à la rose</p>
+ <p>6 cuillères à soupe d’ eau de rose</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par couper les <ingredient quantite=1>loukoums</ingredient> en petits bouts. dans un <recipient>saladier</recipient> mélanger la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>bicarbonate</ingredient>. dans un autre <recipient>saladier</recipient> battre les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre en poudre</ingredient>, ajouter le beurre fondu, le <ingredient quantite=6>lait</ingredient> et l’ <ingredient quantite=1>eau de rose</ingredient>. bien mélanger. ajouter les <ingredient quantite=1>loukoums</ingredient> (en garder quelques morceaux pour poser sur les muffins à la fin) et verser le mélange à base de farine en une fois. mélanger très peu, il doit rester des grumeaux c’ est normal. verser dans les moules à muffins en les remplissant aux 3/4, poser 2 - 3 morceaux de <ingredient quantite=1>loukoums</ingredient> sur le dessus, et <operation temps=25.0min espace=12>faire cuire environ 25 min à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

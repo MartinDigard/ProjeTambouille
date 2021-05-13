@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16818">
+ <titre>Mousse au chocolat blanc à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 blancs d’ oeufs à température ambiante</p>
+ <p>1 pincée de sel</p>
+ <p>100 ml de crème fleurette (très froide) </p>
+ <p>30 ml de sucre glace</p>
+ <p>200 g de chocolat blanc à la noix de coco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire fondre le <ingredient quantite=1>chocolat</ingredient></operation>. pendant ce temps, monter la <ingredient quantite=1>crème</ingredient> en chantilly très ferme (mettre le 1 ° <recipient>saladier</recipient> dans un 2 ° <recipient>saladier</recipient> rempli de glaçons), avec le <ingredient quantite=1>sucre glace</ingredient>. sans attendre que le <ingredient quantite=1>chocolat</ingredient> ne durcisse, incorporer délicatement la chantilly et <operation temps=6.86min espace=8>laisser en attente</operation>. monter les <ingredient quantite=6>blancs</ingredient> en neige ferme avec une pincée de <ingredient quantite=1>sel</ingredient>. mélanger les <ingredient quantite=6>blancs</ingredient> cuillerée par cuillerée au mélange <ingredient quantite=1>chocolat</ingredient> - chantilly. <operation temps=6.86min espace=8>laisser prendre 3 heures au <recipient>réfrigérateur</recipient> avant de</operation> <operation temps=2.0min espace=8>servir</operation>. on peut ajouter de <ingredient quantite=1>la noix de coco</ingredient> râpée.
+]]>
+ </preparation>
+</recette>

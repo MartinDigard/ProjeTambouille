@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168193">
+ <titre>Tranches dorées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 croissants (ou autres viennoiseries) </p>
+ <p>2 blancs d’ oeuf</p>
+ <p>1 verre de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>coupez vos viennoiseries en tranches d’ un cm environ</operation>. <operation temps=6.86min espace=5>montez les blancs en neige ferme</operation> et <operation temps=6.86min espace=5>ajoutez - y le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=5>etalez vos blancs sur les tranches</operation> et <operation temps=6.86min espace=5>mettez à <recipient>four</recipient> bas (150 °) pendant 1 heure environ</operation>. <operation temps=20.0min espace=5>laissez refroidir</operation> et <operation temps=5.0min espace=5>dégustez</operation>. utilisez des <ingredient quantite=4>croissants</ingredient> de la veille ou bien des <ingredient quantite=4>croissants</ingredient> frais sortis du <recipient>congélateur</recipient> afin de mieux les découper en tranches. les boulangers les font avec les viennoiseries invendues.
+]]>
+ </preparation>
+</recette>

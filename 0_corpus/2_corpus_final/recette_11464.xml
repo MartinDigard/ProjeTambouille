@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11464">
+ <titre>Schowenbredeles (Allemagne) </titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de beurre</p>
+ <p>250 g de sucre</p>
+ <p>250 g d’ amandes moulues</p>
+ <p>500 g de farine</p>
+ <p>2 oeufs</p>
+ <p>1 citron (zeste) </p>
+ <p>1 cuillère à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger <ingredient quantite=1>beurre</ingredient>, <ingredient quantite=1>oeuf</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>cannelle</ingredient>, <ingredient quantite=1>citron</ingredient>, puis <ingredient quantite=1>amandes</ingredient> et <ingredient quantite=1>farine</ingredient>. <operation temps=6.86min espace=7>faire une masse compacte</operation>. <operation temps=6.86min espace=7>laisser reposer la pâte pendant plusieurs heures au frigo</operation>. etaler et découper les gâteaux. badigeonner avec du jaune d’ <ingredient quantite=1>oeuf</ingredient>. cuire à feu moyen pendant environ 10 minutes. ces petits gâteau se font surtout pout les fêtes de noël en alsace
+]]>
+ </preparation>
+</recette>

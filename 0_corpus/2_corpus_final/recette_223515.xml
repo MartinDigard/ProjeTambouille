@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223515">
+ <titre>Croque-hamburger</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de pain de mie </p>
+ <p>4 tranches de bacon</p>
+ <p>2 cornichons </p>
+ <p>2 toastinettes au cheddar</p>
+ <p>ketchup</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nappez les 4 <ingredient quantite=4>tranches de pain de mie</ingredient> de <ingredient quantite=1>ketchup</ingredient> sur une face. sur 2 <ingredient quantite=4>tranches</ingredient> <operation temps=6.86min espace=5>ajoutez le <ingredient quantite=4>bacon</ingredient> ainsi que les <ingredient quantite=2>cornichons</ingredient> préalablement</operation> coupé en petits morceaux sans oublier les <ingredient quantite=2>toastinettes</ingredient> et pour <operation temps=6.86min espace=5>finir</operation> recouvrez avec les <ingredient quantite=4>tranches de pain de mie</ingredient> n’ ayant que le <ingredient quantite=1>ketchup</ingredient>. et c’ est parti pour 3 à 4 min dans l’ appareil à croque ou panini.
+]]>
+ </preparation>
+</recette>

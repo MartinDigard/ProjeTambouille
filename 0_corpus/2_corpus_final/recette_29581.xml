@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29581">
+ <titre>Salade de quinoa</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 verre de quinoa</p>
+ <p>1/2 concombre</p>
+ <p>2 tomates</p>
+ <p>20 feuilles de menthe</p>
+ <p>1 échalote</p>
+ <p>huile d’ olive</p>
+ <p>jus de citron</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=15.0min espace=9>faire cuire le <ingredient quantite=1>quinoa</ingredient> 15 minutes dans l’ eau bouillante</operation>. une fois cuit, <operation temps=6.86min espace=9>refroidissez - le en le rincant a</operation> l’ eau froide et <operation temps=6.86min espace=9>laissez - le s’</operation> égoutter dans une <recipient>passoire</recipient>. pendant que le <ingredient quantite=1>quinoa</ingredient> cuit, rincez les <ingredient quantite=2>tomates</ingredient>, <operation temps=6.86min espace=9>retirez les pépins et le <ingredient quantite=1>jus</ingredient> qui s’ en écoule</operation> et <operation temps=6.86min espace=9>coupez les <ingredient quantite=2>tomates</ingredient> en tous petits cubes</operation>. epluchez le demi-concombre, <operation temps=6.86min espace=9>enlevez les graines</operation> et <operation temps=6.86min espace=9>coupez - le, lui aussi, en tous petits dés</operation>. <operation temps=6.86min espace=9>coupez très finement la <ingredient quantite=1>menthe</ingredient> et l’ <ingredient quantite=1>échalote</ingredient></operation>. <operation temps=6.86min espace=9>mélangez tous les légumes avec le <ingredient quantite=1>quinoa</ingredient> froid</operation>. assaisonnez avec du <ingredient quantite=1>jus de citron</ingredient>, du <ingredient quantite=1>sel</ingredient> et de l’ huile d’ <ingredient quantite=1>olive</ingredient>! ca ressemble a du taboulé, mais c’ est beaucoup plus léger, et vraiment plus original!! ca croustille!!! un vin blanc
+]]>
+ </preparation>
+</recette>

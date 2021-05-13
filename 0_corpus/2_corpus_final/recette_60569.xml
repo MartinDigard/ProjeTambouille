@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60569">
+ <titre>Rôti de Dinde Tandoori</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de dinde</p>
+ <p>2 cuillères à café de jus de citron</p>
+ <p>4 cuillères à café d’ épices Tandoori</p>
+ <p>6 cuillères à café de lait</p>
+ <p>2 cuillères à café d’ huile</p>
+ <p>2 oignons finement hachés</p>
+ <p>35 cl de bouillon de volaille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille: <operation temps=6.86min espace=11>faire de petite entailles dans le rôti pour que la marinade pénètre bien</operation>. mélanger tous les ingrédients de la marinade (<ingredient quantite=2>citron</ingredient>, <ingredient quantite=4>épices tandoori</ingredient>, lait et huile) et badigeonner le rôti de <ingredient quantite=1>dinde</ingredient> de tous les côtés. <operation temps=6.86min espace=11>couvrir de film transparent</operation> et <operation temps=6.86min espace=11>laisser reposer au frigo pendant au moins 12 heures</operation>. le lendemain: <operation temps=6.86min espace=11>faites revenir les <ingredient quantite=2>oignons</ingredient> dans une grosse <recipient>cocotte</recipient> avec un peu d’ <ingredient quantite=2>huile</ingredient></operation>. mettre le rôti de <ingredient quantite=1>dinde</ingredient> dans la <recipient>cocotte</recipient> et <operation temps=6.86min espace=11>faire bien dorer de tous les côtés</operation>. la marinade va ainsi bien se fixer sur la chair de la <ingredient quantite=1>dinde</ingredient>. compter 10 minutes environ. rajouter le <ingredient quantite=1>bouillon de volaille</ingredient> (commencer par seulement 20 cl et rajouter si besoin le reste au cours de la cuisson). <operation temps=6.86min espace=11>couvrir la <recipient>cocotte</recipient></operation> et <operation temps=45.0min espace=11>laisser mijoter à feu doux pendant 45 minutes environ</operation>. de temps en temps, vérifier qu’ il ne manque pas de <ingredient quantite=1>bouillon</ingredient>. petit conseil: attention à ne pas mettre trop de liquide dans la <recipient>cocotte</recipient>, pour ne pas perdre la marinade de la <ingredient quantite=1>dinde</ingredient>. <operation temps=3.0min espace=11>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

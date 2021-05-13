@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61233">
+ <titre>Lasagnes brocolis thon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de brocolis surgelés</p>
+ <p>1 boîte de thon (400 g) ou du thon frais </p>
+ <p>1 boîte de lasagnes sans précuisson ou lasagnes fraiches</p>
+ <p>1 gros oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet de basilic</p>
+ <p>50 cl de béchamel liquide toute prête ou faite maison</p>
+ <p>100 g de fromage râpé (gruyère, emmental, comté...) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=25.0min espace=13>faire cuire à la vapeur les <ingredient quantite=1>brocolis</ingredient> environ 25 min</operation>. pendant ce temps, égoutter le <ingredient quantite=1>thon</ingredient> en <ingredient quantite=1>boîte</ingredient> ou couper en petits morceaux le <ingredient quantite=1>thon frais</ingredient>. mélanger le <ingredient quantite=1>thon</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient> cru finement haché, le <ingredient quantite=1>basilic</ingredient> finement haché également, le <ingredient quantite=1>sel</ingredient>, le poivre et l’ <ingredient quantite=1>ail</ingredient> découpé en petits cubes. préparer la <ingredient quantite=1>béchamel</ingredient>. lorsque les <ingredient quantite=1>brocolis</ingredient> sont cuits, les écraser grossièrement à la fourchette. les mélanger à la préparation de <ingredient quantite=1>thon</ingredient> puis, mélanger 3/4 de la sauce <ingredient quantite=1>béchamel</ingredient> à ce mélange. (conserver le quart qui reste pour <operation temps=6.86min espace=13>finir le <recipient>plat</recipient></operation>) disposer dans un <recipient>plat</recipient> les feuilles de <ingredient quantite=1>lasagnes</ingredient>, le mélange <ingredient quantite=1>brocolis</ingredient> / <ingredient quantite=1>thon</ingredient> / <ingredient quantite=1>béchamel</ingredient>, puis <operation temps=6.86min espace=13>refaire une couche de <ingredient quantite=1>lasagnes</ingredient>, préparation</operation>... etc et ce, jusqu’ en haut du <recipient>plat</recipient>... <operation temps=6.86min espace=13>finir par la</operation> <ingredient quantite=1>béchamel</ingredient> et saupoudrer de <ingredient quantite=1>fromage râpé</ingredient>. <operation temps=40.0min espace=13>faire cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) environ 35 à 40 min</operation>. déguster avec une salade verte! un petit rosé bien <ingredient quantite=1>frais</ingredient>
+]]>
+ </preparation>
+</recette>

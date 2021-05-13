@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38175">
+ <titre>Salade de pommes de terre camarguaise</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>400 g de thon au naturel (soit environ 2 boîtes) </p>
+ <p>2 gros oignons frais</p>
+ <p>4 oeufs</p>
+ <p>1 blo de mayonnaise ou de vinaigrette, selon votre goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> dans la <recipient>cocotte</recipient> environ 15 min, selon leur grosseur. pendant ce temps, mettre les <ingredient quantite=4>oeufs</ingredient> à cuire 10 min et couper les <ingredient quantite=2>oignons</ingredient> grossièrement. egoutter le <ingredient quantite=1>thon</ingredient> et le mélanger à l’ <ingredient quantite=1>oignon</ingredient> dans le <recipient>saladier</recipient>. couper les <ingredient quantite=4>oeufs</ingredient> en rondelles et les <ingredient quantite=1>pommes de terre</ingredient> en morceaux. ajouter la <ingredient quantite=1>mayonnaise</ingredient> ou la <ingredient quantite=1>vinaigrette</ingredient>, selon <ingredient quantite=1>votre goût</ingredient>. réserver au <ingredient quantite=2>frais</ingredient> minimum 1 heure, mais il vaut mieux le <operation temps=6.86min espace=8>faire le soir pour le lendemain</operation>. <recipient>plat</recipient> typiquement <operation temps=6.86min espace=8>camarguais</operation>. ici, on le mange souvent avant des grillades. vin gris
+]]>
+ </preparation>
+</recette>

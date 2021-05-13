@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67802">
+ <titre>Pain au saumon et tarama</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200g de farine </p>
+ <p>1 sachet de levure</p>
+ <p>4 oeufs</p>
+ <p>125 g (1 verre) de lait chaud </p>
+ <p>10 cl d’ huile</p>
+ <p>1 bouquet de ciboulette</p>
+ <p>200 g de saumon fumé</p>
+ <p>150 g de tarama</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine avec la <ingredient quantite=1>levure</ingredient>, ajouter les <ingredient quantite=4>oeufs</ingredient> battus en omelette, le verre de lait <ingredient quantite=1>chaud</ingredient> et l’ huile. couper le <ingredient quantite=1>saumon</ingredient> en cubes, ajouter à la préparation ainsi que le <ingredient quantite=1>tarama</ingredient> et la <ingredient quantite=1>ciboulette</ingredient> ciselée. poivrer et mélanger délicatement. verser le tout dans un <recipient>moule</recipient> à cake légèrement huilé. mettre au <recipient>four</recipient>, au <recipient>bain marie</recipient> à 180 ° c (thermostat 6) environ 1 h. servir tiède ou froid.
+]]>
+ </preparation>
+</recette>

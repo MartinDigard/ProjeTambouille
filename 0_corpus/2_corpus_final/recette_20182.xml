@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20182">
+ <titre>Sauté d’ agneau au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg d’ épaule d’ agneau (ou de palette) coupé en morceaux par le boucher</p>
+ <p>2 oignons</p>
+ <p>2 carottes</p>
+ <p>2 têtes d’ ail</p>
+ <p>1 à 2 cuillères à café de curry</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>1 bouquet garni</p>
+ <p>1 tablette de bouillon de boeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et <ingredient quantite=1>couper</ingredient> en rondelle les <ingredient quantite=2>carottes</ingredient>, hacher l’ <ingredient quantite=1>oignon</ingredient>. <operation temps=6.86min espace=10>faire dorer la viande, préalablement salée</operation> et poivrée, dans un peu de beurre. ajouter les <ingredient quantite=2>carottes</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=2>ail</ingredient>, saupoudrer de <ingredient quantite=1>curry</ingredient> et mélanger, <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=15.0min espace=10>laisser cuire 15 mn à feu doux</operation>. ajouter 1/2 l d’ eau, le <ingredient quantite=1>bouquet garni</ingredient> et la <ingredient quantite=1>tablette</ingredient>, remuer et <operation temps=55.0min espace=10>laisser cuire 55 mn à feu doux</operation>. au moment de <operation temps=2.0min espace=10>servir</operation>, ôter l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. de la semoule (pour couscous) accompagnera très bien ce <recipient>plat</recipient>.
+]]>
+ </preparation>
+</recette>

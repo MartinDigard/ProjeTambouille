@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164483">
+ <titre>Escargots à la normande</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>36 escargots décoquillés</p>
+ <p>2 échalotes hachées finement</p>
+ <p>20 cl de cidre brut</p>
+ <p>40 g de beurre</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>1 cuillère de persil plat</p>
+ <p>20 g de chapelure</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=13>faites suer vos <ingredient quantite=2>échalotes</ingredient> dans le beurre,</operation> puis ajouter les <ingredient quantite=1>escargots</ingredient>, <operation temps=6.86min espace=13>assaisonnez <ingredient quantite=1>sel</ingredient> + poivre</operation> et <operation temps=5.0min espace=13>laisser étuver 5 min</operation> aouter le <ingredient quantite=1>cidre</ingredient>, <operation temps=6.86min espace=13>faites réduire de moitié</operation> puis mettre la <ingredient quantite=1>crème</ingredient>. lorsque l’ ensemble est de bonne consistance, <operation temps=6.86min espace=13>mélangez avec l’ <ingredient quantite=1>ail</ingredient> + <ingredient quantite=1>persil</ingredient> préchauffer votre <recipient>four</recipient> pour le grill</operation> <operation temps=6.86min espace=13>versez dans un <ingredient quantite=1><recipient>plat</recipient></ingredient></operation> allant au <recipient>four</recipient>, <operation temps=5.0min espace=13>mettez la <ingredient quantite=1>chapelure</ingredient> et passez en position grill pendant 5 min</operation>.
+]]>
+ </preparation>
+</recette>

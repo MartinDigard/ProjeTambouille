@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56008">
+ <titre>Avocat farci au thon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 avocats mûrs</p>
+ <p>1 boîte de thon au naturel (environ 150 g en poids net égoutté) </p>
+ <p>6 cuillères à café de mayonnaise</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>avocats</ingredient> en deux et les dénoyauter. egoutter le <ingredient quantite=1>thon</ingredient> et l’ émietter dans un bol. ajouter 6 <ingredient quantite=6>cuillères à café</ingredient> environ de <ingredient quantite=6>mayonnaise</ingredient> et mélanger puis saler et poivrer et remélanger. <operation temps=6.86min espace=4>garnir ensuite les <ingredient quantite=2>avocats</ingredient>,</operation> puis réserver au frais au moins une heure.
+]]>
+ </preparation>
+</recette>

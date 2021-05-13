@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27520">
+ <titre>Rôti de veau au jambon et aux noix</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de rôti de veau</p>
+ <p>150 g de jambon en tranches</p>
+ <p>150 g de noix</p>
+ <p>1 noix de beure</p>
+ <p>50 cl de lait</p>
+ <p>1 bouquet de persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>ouvrir le rôti en deux afin de le déplier et d’</operation> <operation temps=6.86min espace=8>obtenir une <ingredient quantite=1>tranche</ingredient> épaisse</operation>. déposer le <ingredient quantite=1>jambon en tranches</ingredient>, le <ingredient quantite=1>persil</ingredient> et les <ingredient quantite=1>noix</ingredient> écrasées. assaisonner, reformer le rôti et le ficeler. déposer le rôti dans une <recipient>cocotte</recipient> et le <operation temps=5.0min espace=8>faire dorer chaque côté avec le beurre pendant 5 min</operation>. <operation temps=6.86min espace=8>recouvrir la viande de lait</operation> et assaisonner. <operation temps=30.0min espace=8>laisser mijoter 1 h 30 min à feu doux en</operation> mouillant régulièrement le rôti de lait. trancher le rôti et le servir avec le jus de cuisson réduit et du riz.
+]]>
+ </preparation>
+</recette>

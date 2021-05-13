@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44789">
+ <titre>Tomates farcies à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 belles tomates à farcir</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 gousse d’ échalote</p>
+ <p>2 cuillères à soupe de persil </p>
+ <p>50 g de lardons fumés</p>
+ <p>1 boîte de filets d’ anchois à l’ huile</p>
+ <p>2 grandes tranches de pain de mie</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>25 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>evidez les tomates de leur chair</operation>. a part, hachez ensemble l’ <ingredient quantite=1>ail</ingredient>, l’ <ingredient quantite=1>échalote</ingredient>, le <ingredient quantite=2>persil</ingredient>, le <ingredient quantite=2>pain de mie</ingredient>, les <ingredient quantite=1>anchois</ingredient> et la chair des tomates (avec un hachoir électrique, c’ est l’ idéal!). <operation temps=6.86min espace=10>faites revenir les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient>, quelques minutes, selon votre goût ;</operation> puis <operation temps=6.86min espace=10>hachez - les également</operation>. <operation temps=6.86min espace=10>mélangez l’ ensemble de votre préparation dans un <ingredient quantite=1>grand</ingredient> bol,</operation> et ajoutez votre <ingredient quantite=2>crème fraîche</ingredient>. <operation temps=8.0min espace=10>mélangez bien</operation>. <operation temps=6.86min espace=10>remplissez vos tomates avec cette préparation, et parsemez de <ingredient quantite=1>gruyère</ingredient></operation>. <operation temps=6.86min espace=10>enfournez environ 25 à 30 min, à 180 ° c (th 6</operation>). pour les amateurs de goûts relevés!
+]]>
+ </preparation>
+</recette>

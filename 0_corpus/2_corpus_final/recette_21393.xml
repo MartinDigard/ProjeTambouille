@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21393">
+ <titre>Soupe simple au potiron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>environ 1 kg de potiron</p>
+ <p>2 carottes moyennes</p>
+ <p>du beurre</p>
+ <p>un bouillon de poule (cube) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler le <ingredient quantite=1>potiron</ingredient> et les <ingredient quantite=2>carottes</ingredient>. couper le <ingredient quantite=1>potiron</ingredient> en cubes (pas trop gros). couper les <ingredient quantite=2>carottes</ingredient> en rondelles. dans une <recipient>cocotte</recipient> - minute, <operation temps=6.86min espace=6>faire fondre du <ingredient quantite=1>beurre</ingredient></operation>. une fois le <ingredient quantite=1>beurre</ingredient> fondu, <operation temps=6.86min espace=6>faire revenir les <ingredient quantite=2>carottes</ingredient> juste le temps qu’ elles</operation> prennent un peu de couleur. ajouter le <ingredient quantite=1>potiron</ingredient> et <operation temps=1.0min espace=6>recouvrir d’ eau</operation>. ajouter le <ingredient quantite=1>bouillon</ingredient> cube. fermer la <recipient>cocotte</recipient> et <operation temps=15.0min espace=6>laisser cuire 15 mn à</operation> <operation temps=6.86min espace=6>partir du moment où çà</operation> siffle. mixer le tout on peut ajouter de la crème et du fromage râpé au moment de consommer la soupe.
+]]>
+ </preparation>
+</recette>

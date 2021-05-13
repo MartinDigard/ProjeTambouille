@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28785">
+ <titre>Croque monsieur à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 tranches de pain de mie</p>
+ <p>du beurre</p>
+ <p>4 tranches de jambon</p>
+ <p>8 rondelles d’ ananas</p>
+ <p>du gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> (200 ° c) beurrez les <ingredient quantite=8>tranches de pain de mie</ingredient>. placez la moitié d’ une <ingredient quantite=4>tranche de jambon</ingredient> dessus. <operation temps=6.86min espace=7>posez une <ingredient quantite=1>rondelle</ingredient> d’ ananas</operation>. <operation temps=6.86min espace=7>recouvrir d’ un peu de <ingredient quantite=1>râpé</ingredient></operation>. placez les croque - monsieur en haut du <recipient>four</recipient> et <operation temps=6.86min espace=7>surveillez, quand le <ingredient quantite=1>râpé</ingredient> est</operation> doré c’ est prêt. <operation temps=6.86min espace=7>régalez vous, recette qui</operation> surprend, et quand les invités l’ ont goutée, ils s’ empressent de demander la recette. succès assuré.
+]]>
+ </preparation>
+</recette>

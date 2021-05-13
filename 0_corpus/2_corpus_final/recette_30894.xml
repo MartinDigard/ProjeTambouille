@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30894">
+ <titre>Soupe de légumes poêlés</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 carottes </p>
+ <p>3 grosses pommes de terre </p>
+ <p>1 oignon (taille moyenne) </p>
+ <p>1 tomate</p>
+ <p>1 poireau</p>
+ <p>1 cube de bouillon de volaille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez, <operation temps=6.86min espace=8>lavez</operation> et <operation temps=6.86min espace=8>coupez vos légumes</operation>. faites revenir dans une <recipient>cocotte</recipient> - avec trois cuillères huile et un morceau de beurre - les <ingredient quantite=3>carottes</ingredient>, les <ingredient quantite=3>pommes de terre</ingredient> et le <ingredient quantite=1>poireau</ingredient>, avec deux grosses pincées de sel, pendant 10 minutes. <operation temps=6.86min espace=8>rajoutez l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en rondelles et <operation temps=5.0min espace=8>laissez sur le feu encore 5 min en</operation> remuant régulièrement. <operation temps=6.86min espace=8>ajoutez de l’ eau de façon à ce qu’ elle</operation> recouvre largement les légumes, <operation temps=20.0min espace=8>portez à ébullition</operation>, ajoutez le <ingredient quantite=1>cube de volaille</ingredient> et la <ingredient quantite=1>tomate</ingredient> coupée en quartier. <operation temps=6.86min espace=8>mettez le couvercle</operation> et <operation temps=6.86min espace=8>laissez cuire à feu doux pendant environ une heure,</operation> puis <operation temps=6.86min espace=8>passez les légumes au <recipient>mixeur</recipient></operation>. pour les longues nuits d’ hiver. après de longues tentatives, les proportions sont enfin bonnes! vous pouvez rajouter au choix du gruyère, des croûtons de pain, une noix de beurre...
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83797">
+ <titre>Gateau express à la clementine (au robot) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 clémentines non traitées</p>
+ <p>4 oeufs</p>
+ <p>300 g de sucre</p>
+ <p>180 g de beurre mou</p>
+ <p>400 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 cuillère à café d’ extrait naturel de vanille liquide (ou un peu de vanille en poudre) Pour le glaçage au chocolat (facultatif mais extra!): </p>
+ <p>100 g de chocolat noir pâtissier (52% cacao) </p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prechauffer le <recipient>four</recipient> à 150/160 ° (thermostat 5). laver soigneusement les <ingredient quantite=6>clémentines</ingredient> et les couper en deux (on n enlève pas la peau surtout!). mettre tous les ingrédients sans exception dans le bol du robot équipé des couteaux et mixer jusqu’ à l’ obtention d’ une pâte homogène. vous allez voir des petits points oranges dans la pâte, c’ est la peau des <ingredient quantite=6>clémentines</ingredient>!!! verser la pâte dans un <recipient><recipient>moule</recipient> à manqué</recipient> et cuire doucement 50 minutes environ. si le gâteau brunit trop vite, poser une feuille d aluminium dessus. le gâteau est cuit quand on plante la lame d un couteau au centre et qu’ elle ressort sans pâte accrochée dessus. attendre un peu avant de démouler car trop chaud, le gâteau est friable. si vous <operation temps=6.86min espace=11>désirez</operation> <operation temps=6.86min espace=11>faire le glaçage, je vous</operation> conseille fortement de <operation temps=6.86min espace=11>faire fondre le <ingredient quantite=1>chocolat</ingredient> doucement avec le</operation> <ingredient quantite=1>beurre</ingredient> et étaler la préparation bien homogène sans attendre sur le gâteau refroidi. <operation temps=6.86min espace=11>laisser durcir</operation> et <operation temps=6.86min espace=11>refroidir complètement avant de</operation> consommer. un thé orange / cannelle
+]]>
+ </preparation>
+</recette>

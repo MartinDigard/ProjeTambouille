@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223833">
+ <titre>Tartine à la Bretonne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oignons rosés de Roscoff </p>
+ <p>3 oignons paille (jaune) </p>
+ <p>1 cuillère de beurre</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>15 cl de crème fraîche épaisse</p>
+ <p>4 tartines de pain </p>
+ <p>4 œufs </p>
+ <p>sel </p>
+ <p>poivre </p>
+ <p>muscade</p>
+ <p>salade verte et assaisonnement</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=3>oignons</ingredient> en cubes dans le <ingredient quantite=1>beurre</ingredient> fondu sans les colorer avec <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>muscade</ingredient> pendant 5 min. ajouter le <ingredient quantite=1>vin blanc</ingredient>, <operation temps=6.86min espace=15>laisser mijoter, puis la</operation> <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=15>faire épaissir quelques minutes</operation>. pendant ce temps, <operation temps=6.86min espace=15>faire la salade <ingredient quantite=1>verte</ingredient> à votre goût</operation>. mettre les <ingredient quantite=4>tartines</ingredient> au <recipient>four</recipient> ou au grille - <ingredient quantite=4>pain</ingredient> sans les griller juste toaster. puis y déposer la <ingredient quantite=1>crème</ingredient> d’ <ingredient quantite=3>oignons</ingredient>, <operation temps=6.86min espace=15>faire un cratère</operation> et déposer le jaune d’ oeuf, saler, poivrer. remettre au <recipient>four</recipient> 2 min pour réchauffer les <ingredient quantite=4>œufs</ingredient>. <operation temps=6.86min espace=15>servir les <ingredient quantite=4>tartines</ingredient> chaudes avec de la salade fraîche</operation>. remarque: délicieux avec des <ingredient quantite=4>œufs</ingredient> pochés méthode facile 5 min 30 à l’ eau bouillante. pas de <recipient>four</recipient> ? <operation temps=6.86min espace=15>faire des <ingredient quantite=4>œufs</ingredient> au <recipient>plat</recipient> en</operation> enlevant une partie du <ingredient quantite=1>blanc</ingredient>. <ingredient quantite=1>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

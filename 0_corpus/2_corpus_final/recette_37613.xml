@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37613">
+ <titre>Saint-Jacques à l’ orange</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 noix de Saint-Jacques avec 4 coquilles pour décoration</p>
+ <p>2 oranges </p>
+ <p>1 échalote</p>
+ <p>50 g beurre</p>
+ <p>1 cuillère à soupe d’ huile à l’ olive</p>
+ <p>1 brin de thym</p>
+ <p>quelques brins d’ aneth et de thym</p>
+ <p>1 cuillère à café de coriandre concassée</p>
+ <p>sel fin</p>
+ <p>poivre blanc moulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=10>prélevez sur une <ingredient quantite=1>orange</ingredient> quelques zestes, ébouillantez - les 1 min</operation> puis <operation temps=6.86min espace=10>égouttez</operation>. pressez les deux <ingredient quantite=2>oranges</ingredient>. emincez l’ <ingredient quantite=1>échalote</ingredient> finement et <operation temps=6.86min espace=10>faites -là</operation> <operation temps=6.86min espace=10>revenir avec l’ huile sur feu doux sans la</operation> <operation temps=6.86min espace=10>laisser prendre couleur</operation>. puis <operation temps=6.86min espace=10>versez 25cl d’ eau et le jus d’ <ingredient quantite=1>orange</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>thym</ingredient>, les graines de coriandes</operation> <ingredient quantite=1>concassées</ingredient>, <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>portez à ebullition le bouillon puis plongez - y les <ingredient quantite=1>noix</ingredient> de saint-jacques 20 secondes après frémissement</operation>. <operation temps=10.0min espace=10>egouttez</operation> et <operation temps=0.5min espace=10>réservez au chaud</operation>. <operation temps=6.86min espace=10>faites réduire le jus de 2 tiers,</operation> puis <operation temps=6.86min espace=10>ajoutez le beurre en parcelles et fouettez de façon à</operation> lier la sauce. verser la sauce dans les <ingredient quantite=1>coquilles</ingredient> avec une <ingredient quantite=1>noix</ingredient> de saint-jacques, parsemez d’ <ingredient quantite=1>aneth de thym et</ingredient> de zestes d’ <ingredient quantite=1>orange</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12740">
+ <titre>Pêches pochées sur coulis de chocolat chaud</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat patissier</p>
+ <p>1 bouteille de vin blanc de type Montbazillac</p>
+ <p>100 g de sucre semoule</p>
+ <p>6 pêches jaunes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>préparez le sirop</operation>: versez le <ingredient quantite=1>vin blanc</ingredient> dans une caserole, <operation temps=6.86min espace=6>ajoutez le</operation> <ingredient quantite=1>sucre</ingredient> et <operation temps=20.0min espace=6>portez à ébullition</operation>. <operation temps=3.0min espace=6>pelez les</operation> <ingredient quantite=6>pêches</ingredient>, <operation temps=6.86min espace=6>coupez les en 2</operation> et <operation temps=15.0min espace=6>faites - les pocher dans le sirop 10 à 15 minutes selon leur maturité</operation>. <operation temps=0.25min espace=6>retirez</operation> - les du sirop et <operation temps=6.86min espace=6>laissez - les refroidir au <recipient>réfrigérateur</recipient> pendant une heure au moins</operation>. juste avant de <operation temps=2.0min espace=6>servir</operation>, <operation temps=6.86min espace=6>cassez le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation> et <operation temps=6.86min espace=6>faites - le fondre avec 10 cl du sirop, au <recipient>bain marie</recipient> ou au micro-ondes</operation>. <operation temps=6.86min espace=6>servez les <ingredient quantite=6>pêches</ingredient> bien fraiches sur le coulis de <ingredient quantite=1>chocolat</ingredient> chaud</operation>.
+]]>
+ </preparation>
+</recette>

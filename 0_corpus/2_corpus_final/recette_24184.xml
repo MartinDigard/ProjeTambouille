@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24184">
+ <titre>Cramique aux raisins secs</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>15 g de levure fraîche</p>
+ <p>2 cuillères à soupe de lait tiède</p>
+ <p>1 cuillères à soupe de sucre</p>
+ <p>1 pincée de sel</p>
+ <p>1 oeufs</p>
+ <p>10 cl de lait</p>
+ <p>50 g de beurre mou</p>
+ <p>75 g de raisins secs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). délayer la <ingredient quantite=1>levure</ingredient> dans le <ingredient quantite=2>lait</ingredient>. tamiser la farine dans un <recipient>saladier</recipient>, mettre au centre la <ingredient quantite=1>levure fraîche</ingredient> délayée. former une petite boule de pâte et <operation temps=30.0min espace=12>laisser reposer 30 min</operation>. rajouter le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient>, les <ingredient quantite=1>oeufs</ingredient>, le <ingredient quantite=2>lait</ingredient> et le <ingredient quantite=1>beurre</ingredient>. <operation temps=6.0min espace=12>pétrir</operation> longuement, de manière à <operation temps=6.86min espace=12>obtenir une pâte élastique</operation>. incorporer les <ingredient quantite=1>raisins secs</ingredient> et verser la préparation dans un <recipient>moule</recipient> à cake. enfourner pour 1 heure de cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38895">
+ <titre>Canard roti au four</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 canard d’ environ 1, 2 kg</p>
+ <p>40 g de beurre ou margarine</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites chauffer 40 g de beurre ou <ingredient quantite=1>margarine</ingredient> dans une <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=8>mettez - y le <ingredient quantite=1>canard</ingredient> à</operation> <operation temps=6.86min espace=8>revenir</operation>. lorsqu’ il est bien doré de toute part, <operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez - le</operation>. <operation temps=6.86min espace=8>mettez la <recipient>cocotte</recipient> dans le <recipient>four</recipient> chaud (200 ° c - thermostat 6/7) sans le</operation> <operation temps=0.25min espace=8>couvrir</operation>. <operation temps=45.0min espace=8>laissez cuire 40 à 45 min en</operation> arrosant souvent. <operation temps=6.86min espace=8>découpez le <ingredient quantite=1>canard</ingredient></operation>. <operation temps=6.86min espace=8>mettez les morceaux dans un <recipient>plat</recipient></operation>. <operation temps=6.86min espace=8>délayez le jus de cuisson</operation> resté dans la <recipient>cocotte</recipient> avec quelques cuillères à soupe d’ eau bouillante. <operation temps=6.86min espace=8>reportez sur le feu en</operation> grattant le fond avec une cuillère en bois. <operation temps=6.86min espace=8>laissez bouillir quelques instant</operation>. <operation temps=6.86min espace=8>versez la sauce dans une sauciere chaude</operation>.
+]]>
+ </preparation>
+</recette>

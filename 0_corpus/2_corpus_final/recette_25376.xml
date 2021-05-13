@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25376">
+ <titre>Omelette aux foies de volaille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>200 g de foies de poulet</p>
+ <p>1 gros oignon</p>
+ <p>125 ml de crème fraîche normale (ou allégée) </p>
+ <p>15 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez les <ingredient quantite=1>foies de poulet</ingredient> et <operation temps=6.86min espace=12>coupez - les en petits morceaux</operation>. emincez finement l’ <ingredient quantite=1>oignon</ingredient>. <operation temps=6.86min espace=12>faites fondre le beurre dans une <recipient>poêle</recipient> anti-adhésive et dès qu’ il est</operation> chaud ajoutez les <ingredient quantite=1>foies de poulet</ingredient>, <operation temps=5.0min espace=12>mélangez</operation> et <operation temps=6.86min espace=12>laissez cuire pendant 10</operation> mn. a ce moment <operation temps=6.86min espace=12>retirez les <ingredient quantite=1>foies</ingredient> de la <recipient>poêle</recipient></operation>, <operation temps=0.25min espace=12>salez</operation> et <operation temps=6.86min espace=12>poivrez - les</operation> et <operation temps=6.86min espace=12>réservez - les au chaud</operation>. <operation temps=6.86min espace=12>mettez l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans la <recipient>poêle</recipient> et <operation temps=6.86min espace=12>faites - le</operation> <operation temps=6.86min espace=12>revenir jusqu’ à ce qu’ il</operation> devienne translucide (attention à ne pas les <operation temps=6.86min espace=12>laissez brunir, cela</operation> gâcherait le goût). remettre les <ingredient quantite=1>foies de poulet</ingredient> dans la <recipient>poêle</recipient> et <operation temps=6.86min espace=12>faire revenir le tout ensemble</operation>. pendant ce temps, battez les <ingredient quantite=6>oeufs</ingredient> en omelette avec le <ingredient quantite=1>sel</ingredient>, le poivre et la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=12>retirez la <recipient>poêle</recipient> du feu</operation>, <operation temps=6.86min espace=12>versez en une seule fois le mélange aux</operation> <ingredient quantite=6>oeufs</ingredient> et <operation temps=3.0min espace=12>remettez la <recipient>poêle</recipient> sur le gaz à feu vif pendant 3 mn</operation>, <operation temps=6.86min espace=12>continuez ensuite la cuisson normalement jusqu’ à obtention de la texture</operation> désirée. <operation temps=6.86min espace=12>accompagnez votre omelette d’ une salade verte et d’ une baguette à l’</operation> ail.
+]]>
+ </preparation>
+</recette>

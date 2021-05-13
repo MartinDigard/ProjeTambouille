@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59101">
+ <titre>Curry de dinde au coco, pommes et gingembre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde</p>
+ <p>20 cl de crème fraîche liquide</p>
+ <p>15 cl de lait de coco</p>
+ <p>du curry hot à volonté</p>
+ <p>2 oignons moyens</p>
+ <p>5 éclats d’ ail non épluchés</p>
+ <p>huile d’ olive, beurre, sel</p>
+ <p>1 poivron rouge</p>
+ <p>2 cuillères à café de gingembre en poudre</p>
+ <p>3 cuillères à soupe de miel</p>
+ <p>2 pommes granny smith</p>
+ <p>1 citron</p>
+ <p>1 cube de bouillon de poulet</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>faitout</recipient>, faites colorer 3 à 4 min les <ingredient quantite=4>escalopes de dinde</ingredient> dans l’ huile très chaude, <operation temps=0.5min espace=17>réservez</operation>. <operation temps=6.86min espace=17>coupez les <ingredient quantite=2>oignons</ingredient> et le <ingredient quantite=1>poivron</ingredient> en petits dés</operation>, <operation temps=6.86min espace=17>faites - les</operation> <operation temps=6.86min espace=17>revenir dans le <recipient>faitout</recipient></operation>. après 3 min, <operation temps=6.86min espace=17>ajoutez un demi-verre d’ eau pour</operation> décoller les sucs. après 5 min, ajoutez le lait de <ingredient quantite=1>coco</ingredient>, 1 <ingredient quantite=1>cube de bouillon de poulet</ingredient>, 3 <ingredient quantite=2>cuillères à soupe de miel</ingredient>, 2 <ingredient quantite=2>cuillères à café de gingembre</ingredient>, l’ <ingredient quantite=5>ail</ingredient>, 1 verre d’ eau. <operation temps=30.0min espace=17>faites mijoter 30 min à petits <ingredient quantite=1>bouillons</ingredient></operation>. <operation temps=6.86min espace=17>pelez, citronnez</operation> et <operation temps=6.86min espace=17>découpez les <ingredient quantite=2>pommes</ingredient> en dés</operation>, <operation temps=5.0min espace=17>faites colorer 5 min dans une <recipient>poêle</recipient> avec du beurre</operation>. <operation temps=0.5min espace=17>réservez</operation>. <operation temps=6.86min espace=17>découpez les <ingredient quantite=4>escalopes</ingredient> en lanières puis en dés,</operation> et <operation temps=6.86min espace=17>mélangez avec les <ingredient quantite=2>pommes</ingredient> cuites</operation> colorées. ajoutez la <ingredient quantite=1>crème fraîche</ingredient>, les <ingredient quantite=2>pommes</ingredient> et la <ingredient quantite=4>dinde</ingredient> dans le <recipient>faitout</recipient>. <operation temps=10.0min espace=17>laissez mijoter 10 min</operation>. <operation temps=6.86min espace=17>faites épaissir un peu la préparation (farine</operation>, maïzena etc délayée dans un peu d’ eau qui nappe généralement les pâtes). rectifiez l’ assaisonnement (<ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>curry</ingredient>). servir avec des pâtes type fusilli ou tortellini cuites al dente. un bon petit <ingredient quantite=1>rouge</ingredient> léger en accord avec le <ingredient quantite=1>curry</ingredient>!
+]]>
+ </preparation>
+</recette>

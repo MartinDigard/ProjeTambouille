@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170973">
+ <titre>Saumon à la plancha et ses petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons</p>
+ <p>1 courgette</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>1 poivron vert</p>
+ <p>2 petits pavés de saumon</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer les <ingredient quantite=2>oignons</ingredient> et couper les <ingredient quantite=1>poivrons</ingredient> en filaments. mettre un peu d’ huile d’ olive sur la <recipient>plancha</recipient> et <operation temps=6.86min espace=8>faire revenir à feux doux les légumes</operation>. faire roser les <ingredient quantite=2>pavés de saumon</ingredient>. ajouter un peu de curry et de <ingredient quantite=1>citron</ingredient> sur les <ingredient quantite=2>pavés de saumon</ingredient>.
+]]>
+ </preparation>
+</recette>

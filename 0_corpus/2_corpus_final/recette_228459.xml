@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228459">
+ <titre>Soupe glacée de courgettes au fromage frais</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de courgettes</p>
+ <p>1 concombre</p>
+ <p>1 oignon</p>
+ <p>100 g de fromage frais ail et fines herbes</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>lavez les <ingredient quantite=1>courgettes</ingredient>,</operation> puis <operation temps=3.0min espace=9>coupez - les en rondelles</operation>. <operation temps=6.86min espace=9>pelez l’</operation> <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=9>coupez - le en 4.versez les <ingredient quantite=1>courgettes</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>casserole</recipient></operation>, <operation temps=0.25min espace=9>salez</operation> et <operation temps=6.86min espace=9>ajoutez de l’ eau juste à hauteur</operation>. <operation temps=15.0min espace=9>laissez cuire 15 minutes à feu doux</operation>. pelez et <operation temps=6.86min espace=9>épépinez le <ingredient quantite=1>concombre</ingredient></operation>. ajoutez - le dans la <recipient>casserole</recipient> avec le <ingredient quantite=1>fromage frais</ingredient>, puis <operation temps=6.86min espace=9>mixez le tout</operation>. rectifiez l’ assaisonnement en <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=9>laissez refroidir avant de le placer au <recipient>réfrigérateur</recipient></operation>. <operation temps=6.86min espace=9>servez cette soupe bien froide avec des petits accompagnements</operation> présentés dans des mini contenants: dès de <ingredient quantite=1>fromage</ingredient>, crème, croûtons maison, <ingredient quantite=1>herbes</ingredient> ciselées... - quelquees gouttes de citron à rajouter si l’ on aime.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47808">
+ <titre>Glace au chocolat, caramel et noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat au lait en morceaux </p>
+ <p>100 g de chocolat au lait et noisettes</p>
+ <p>100 g de beurre</p>
+ <p>100 g de sucre</p>
+ <p>6 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire fondre au <recipient>bain - marie</recipient> le <ingredient quantite=1>chocolat au lait</ingredient>, le <ingredient quantite=1>chocolat</ingredient> aux <ingredient quantite=1>noisettes</ingredient> et le beurre. battre les 6 jaunes d’ <ingredient quantite=1>œuf</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, jusqu’ à ce que le mélange blanchisse. ajouter le <ingredient quantite=1>chocolat</ingredient> fondu, et mélanger. battre les blancs en neige, et les incorporer à la préparation ; placer au <recipient>congélateur</recipient>.
+]]>
+ </preparation>
+</recette>

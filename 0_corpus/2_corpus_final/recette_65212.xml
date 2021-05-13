@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65212">
+ <titre>Saumonette à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de saumonette tranchée en 4 morceaux</p>
+ <p>1 à 2 cuillères à soupe de moutarde</p>
+ <p>10 cl de fromage blanc ou de crème fraîche</p>
+ <p>1 paquet de lardons</p>
+ <p>beurre, huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire dorer, à la <recipient>poêle</recipient>, les tranches de poisson, dans un mélange huile - <ingredient quantite=1>beurre</ingredient> fondu (1 <ingredient quantite=1>cuillère à soupe</ingredient> de chaque). <operation temps=5.0min espace=9>laisser cuire à feu moyen, 5 min environ, en</operation> retournant les tranches à mi-cuisson. pendant ce temps, <operation temps=6.86min espace=9>faire dorer les <ingredient quantite=1>lardons</ingredient> dans une <recipient>sauteuse</recipient></operation>, ajouter la <ingredient quantite=1>moutarde</ingredient> et le <ingredient quantite=1>fromage blanc</ingredient> et réchauffer à feu doux. dans le <recipient>plat</recipient> de service enrober le poisson avec la sauce et servir. on peut accompagner de riz ou de pommes de terre à la vapeur.
+]]>
+ </preparation>
+</recette>

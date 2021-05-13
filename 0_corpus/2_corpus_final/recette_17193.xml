@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17193">
+ <titre>Cotelettes de porc à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>25 cl de crème de champignons</p>
+ <p>2 cuillères à soupe de soupe à l’ oignon</p>
+ <p>16.5 cl de bière</p>
+ <p>4 côtelettes de porc assez épaisses </p>
+ <p>6 cuillères à soupe de champignons (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=25.0min espace=8>faire dorer</operation> légèrement les <ingredient quantite=4>côtelettes</ingredient> dans un peu de beurre et d’ huile. déposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. faire le mélange de <ingredient quantite=1>crème de champignons</ingredient>, <ingredient quantite=2>soupe à</ingredient> l’ <ingredient quantite=2>oignon</ingredient> et <ingredient quantite=1>bière</ingredient>. verser sur les <ingredient quantite=4>côtelettes</ingredient> et <operation temps=6.86min espace=8>recouvrir d’ un papier d’ aluminium</operation>. cuire au <recipient>four</recipient> 350 ° f (180 ° c) environ 1 heure ou jusqu’ à ce que les côteletttes soient tendres. <operation temps=25.0min espace=8>faire dorer</operation> les <ingredient quantite=1>champignons</ingredient> et servir sur les <ingredient quantite=4>côtelettes</ingredient>. accompagner d’ un légume vert tel que le brocoli et d’ un riz blanc. facile à préparer et d’ un goût dont tout le monde raffole.
+]]>
+ </preparation>
+</recette>

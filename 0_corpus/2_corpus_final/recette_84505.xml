@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84505">
+ <titre>Filet mignon de veau au cidre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet mignon de veau coupé en tronçons d’ environ 2 cm d’ épaisseur</p>
+ <p>1 petit oignon et deux belles échalotes</p>
+ <p>1 bouteille de cidre brut</p>
+ <p>Calvados (facultatif) </p>
+ <p>Sel et poivre</p>
+ <p>Fond de veau (en poudre) </p>
+ <p>Crème fraiche (surtout pas fleurette) </p>
+ <p>Beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire fondre l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=1>échalotes</ingredient> dans le beurre</operation>, ajouter le <ingredient quantite=1>veau</ingredient> pour le <operation temps=25.0min espace=9>faire dorer</operation>. si vous en avez envie, <operation temps=6.86min espace=9>faire flamber avec du <ingredient quantite=1>calvados</ingredient></operation>. ajouter le <ingredient quantite=1>cidre</ingredient> et réduire le feu. saler, poivrer (pas trop de <ingredient quantite=1>sel</ingredient>, car vous allez ajouter le <ingredient quantite=1>fond de veau</ingredient> qui va saler un peu). quand la cuisson de la viande est totale, la retirer et la réserver au chaud. ajouter une cuillère à café de <ingredient quantite=1>fond de veau</ingredient>. <operation temps=6.86min espace=9>faire réduire la sauce de moitié</operation>. rectifier l’ assaisonnement. ajouter une bonne cuillère à soupe de <ingredient quantite=1>crème fraiche</ingredient>. servir. je sers ce <recipient>plat</recipient> accompagné de champignons frais émincés et revenus dans du beurre avec une persillade, un gratin dauphinois... <ingredient quantite=1>cidre brut</ingredient> pour les puristes ou bien un bourgogne rouge
+]]>
+ </preparation>
+</recette>

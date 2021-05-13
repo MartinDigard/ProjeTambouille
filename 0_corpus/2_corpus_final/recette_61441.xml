@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61441">
+ <titre>Filet mignon de Porc à la crème d’ oignon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de filet mignon de porc</p>
+ <p>2 gros oignons</p>
+ <p>30 cl de crème fraîche</p>
+ <p>1, 5 cuillère à soupe de vinaire de vin</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=2>oignons</ingredient> très finement et les <operation temps=6.86min espace=6>faire fondre dans le beurre</operation>. une fois qu’ ils sont devenus transparents, rajouter le vinaigre et attendre que les <ingredient quantite=2>oignons</ingredient> brunissent légèrement. <operation temps=1.0min espace=6>recouvrir d’ eau</operation> et <operation temps=6.86min espace=6>laisser cuire à feu doux jusqu’ à ce que toute l’ eau soit</operation> évaporée, les <ingredient quantite=2>oignons</ingredient> sont alors bien fondants. mixer, ajouter la <ingredient quantite=1>crème fraîche</ingredient>, du sel et du poivre. couper le <ingredient quantite=1>filet mignon</ingredient> en tranches et le <operation temps=6.86min espace=6>faire cuire à la <recipient>poêle</recipient></operation>. au moment de <operation temps=2.0min espace=6>servir</operation>, réchauffer la sauce et en napper les tranches de <ingredient quantite=1>mignon de porc</ingredient>. la sauce peut également être servie à part. <operation temps=3.0min espace=6>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

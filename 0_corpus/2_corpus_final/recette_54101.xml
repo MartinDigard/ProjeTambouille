@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54101">
+ <titre>Rôti de porc caramélisé aux échalotes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g de rôti de porc (échine) </p>
+ <p>400 g d’ échalotes</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>10 cl de vin blanc</p>
+ <p>5 cl d’ huile d’ olive</p>
+ <p>sel, poivre, thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>saisissez le rôti à l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. mettez - le dans un <recipient>plat</recipient> avec du <ingredient quantite=1>thym</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=9>faites - le à</operation> cuire au <recipient>four</recipient> préchauffé à 180 ° c (th 6) pendant 30 min, en l’ arrosant régulièrement. epluchez les <ingredient quantite=1>échalotes</ingredient>, <operation temps=6.86min espace=9>ajoutez - les dans le <recipient>plat</recipient> de cuisson du rôti</operation>. <operation temps=6.86min espace=9>versez le <ingredient quantite=1>miel</ingredient> sur le rôti,</operation> puis <operation temps=45.0min espace=9>laissez cuire encore 45 min en</operation> arrosant régulièrement la viande et les <ingredient quantite=1>échalotes</ingredient>. <operation temps=6.86min espace=9>sortez le rôti</operation>, <operation temps=15.0min espace=9>enveloppez - le dans une feuille de papier aluminiumn pendant 15 min avant de le servir avec les <ingredient quantite=1>échalotes</ingredient> confites et le jus</operation> caramélisé.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58046">
+ <titre>Spaghetti à la ratatouille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti ou spaghettoni</p>
+ <p>2 oignons</p>
+ <p>1 poivron rouge</p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>1 boîte de tomates en dés</p>
+ <p>2 gousses d’ ail</p>
+ <p>vinaigre balsamique</p>
+ <p>huile olive</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=1>poivron</ingredient>, la <ingredient quantite=1>courgette</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient> en cube. dans une <recipient>sauteuse</recipient>, mettre un peu d’ <ingredient quantite=1>huile</ingredient> et <operation temps=6.86min espace=14>faire revenir l’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation>. mettre les dés d’ <ingredient quantite=1>aubergines</ingredient> et <operation temps=6.86min espace=14>laisser quelques minutes (au lieu de</operation> rajouter de l’ <ingredient quantite=1>huile</ingredient> pour cuire l’ <ingredient quantite=1>aubergine</ingredient> je rajoute de l’ eau). une fois l’ <ingredient quantite=1>aubergine</ingredient> presque cuite ajouter le dés de <ingredient quantite=1>poivrons</ingredient> et de <ingredient quantite=1>courgette</ingredient> et <operation temps=5.0min espace=14>laisser mijoter 5 min</operation>. pendant ce temps <operation temps=6.86min espace=14>faire cuire les <ingredient quantite=1>spaghetti</ingredient> à l’ eau bouillante</operation> salée. ajouter dans la <recipient>sauteuse</recipient> les dés de <ingredient quantite=1>tomates</ingredient>. saler, poivrer. pour casser l’ amertume des <ingredient quantite=1>tomates</ingredient> en boites mettre un peu de <ingredient quantite=2>sucre</ingredient>. après avoir laissé mijoter environ 5 min ajouter un filet de <ingredient quantite=1>vinaigre balsamique</ingredient>. une fois les pâtes cuites, les mettre directement dans la <recipient>sauteuse</recipient> et rajouter un filet d’ huile d’ <ingredient quantite=1>olive</ingredient> sur les pâtes. pour avoir un mélange plus ontueux, j’ ajoute 3 <ingredient quantite=2>cuillères à soupe</ingredient> de crème fraîche. [ ndchef: quelques copeaux de parmesan et du jambon cru en lanières sur le tout... hummm ]
+]]>
+ </preparation>
+</recette>

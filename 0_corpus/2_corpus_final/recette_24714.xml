@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24714">
+ <titre>Tomates froides farcies au thon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates de bon calibre</p>
+ <p>2 boîtes de thon</p>
+ <p>mayonnaise</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egoutter le <ingredient quantite=2>thon</ingredient>, l’ émietter et le mélanger à la <ingredient quantite=1>mayonnaise</ingredient>, <operation temps=0.25min espace=4>salez</operation> et <operation temps=0.5min espace=4>poivrez</operation>. vous pouvez églement ajouter un peu de citron si votre <ingredient quantite=1>mayonnaise</ingredient> n’ en comporte pas. décalotter les <ingredient quantite=4>tomates</ingredient>, les vider. <operation temps=6.86min espace=4>remplir les <ingredient quantite=4>tomates</ingredient> avec la " farce de</operation> <ingredient quantite=2>thon</ingredient> ". remettre le couvercle sur les <ingredient quantite=4>tomates</ingredient>, mettre au régrigérateur pendant 2 heures environ.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70889">
+ <titre>Gâteau léger au fromage blanc et au citron</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fromage blanc</p>
+ <p>150 g de sucre</p>
+ <p>25 g de farine</p>
+ <p>25 g de maizena</p>
+ <p>4 blancs d’ oeufs</p>
+ <p>le zeste d’ un citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>fromage blanc</ingredient>, la farine et la maïzena. ajouter le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>zeste</ingredient> de <ingredient quantite=1>citron</ingredient>. ajouter les <ingredient quantite=1>blancs</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> battus en neige. verser dans un <recipient>moule</recipient> rond à bords hauts, <operation temps=35.0min espace=8>faire cuire 35 min environ au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>). et voilà, <operation temps=6.86min espace=8>régalez -vous!!</operation>!
+]]>
+ </preparation>
+</recette>

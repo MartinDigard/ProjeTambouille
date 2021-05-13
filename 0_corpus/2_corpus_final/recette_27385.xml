@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27385">
+ <titre>Baklavas</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>400 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>40 cl d’ huile</p>
+ <p>3 cuillères à soupe d’ eau</p>
+ <p>3 oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>150 g de poudre d’ amandes</p>
+ <p>150 g de sucre en poudre</p>
+ <p>1 ou 2 cuillères à café de cannelle (selon votre goût) </p>
+ <p>3 cuillères à soupe d’ eau de fleur d’ oranger</p>
+ <p>30 cl de miel liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=3>eau de fleur</ingredient> d’ <ingredient quantite=3>oranger</ingredient>. dans un second <recipient>saladier</recipient>, battre les <ingredient quantite=3>oeufs</ingredient>, puis y incorporer la farine, le <ingredient quantite=1>sel</ingredient>, le beurre fondu, l’ huile et l’ <ingredient quantite=3>eau</ingredient>. bien mélanger, puis séparer en de petites noix. <operation temps=6.86min espace=16>aplatir chaque noix pour en</operation> <operation temps=6.86min espace=16>faire une feuille assez mince, puis l’ enduir de beurre mou</operation>. empiler cinq de ces feuilles, constituer une couche de <ingredient quantite=1>pâte</ingredient> d’ <ingredient quantite=1>amandes</ingredient> et ajouter encore cinq feuilles (toujours beurrées). couper en formes de losanges, puis dorer à l’ <ingredient quantite=1>oeuf</ingredient> battu. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). cuire pendant 1 heure. <operation temps=6.86min espace=16>faire chauffer le <ingredient quantite=1>miel</ingredient> à feu doux, en</operation> arroser les baklavas dès leur sortie du <recipient>four</recipient> et <operation temps=6.86min espace=16>laisser égoutter</operation> et <operation temps=6.86min espace=16>refroidir sur une grille</operation>.
+]]>
+ </preparation>
+</recette>

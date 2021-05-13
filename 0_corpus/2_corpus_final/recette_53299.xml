@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53299">
+ <titre>Glace chocolat liégeois</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat</p>
+ <p>1 boîte de glace au chocolat</p>
+ <p>1 bombe de chantilly</p>
+ <p>granulés multicolores</p>
+ <p>pépites de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> le <ingredient quantite=1>chocolat</ingredient> cassé en morceaux</operation>. verser un peu de <ingredient quantite=1>chocolat</ingredient> fondu dans chaque coupe. ajouter deux boules de <ingredient quantite=1>glace</ingredient>. <operation temps=6.86min espace=6>recouvrir la <ingredient quantite=1>glace</ingredient> de</operation> crème <ingredient quantite=1>chantilly</ingredient>. saupoudrer de <ingredient quantite=1>granulés</ingredient> et de <ingredient quantite=1>pépites de chocolat</ingredient>.
+]]>
+ </preparation>
+</recette>

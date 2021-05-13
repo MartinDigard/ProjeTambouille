@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61792">
+ <titre>Rouelle de porc au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse rouelle de porc</p>
+ <p>2 citrons non traités (1 seul si vous n’ aimez pas trop la cuisine citronnée) </p>
+ <p>200 g de lardons fumés</p>
+ <p>2 branches de persil</p>
+ <p>1 oignon</p>
+ <p>1 petite gousse d’ ail</p>
+ <p>15 cl de vin blanc (facultatif) </p>
+ <p>1 bouillon cube</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir dans une <recipient>cocotte</recipient> la <ingredient quantite=1>rouelle</ingredient> et les <ingredient quantite=1>lardons</ingredient>, les</operation> retirer une fois bien dorés. couper les <ingredient quantite=2>oignons</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux et les <operation temps=6.86min espace=10>faire revenir à leur tour</operation>. puis ajouter la viande, les <ingredient quantite=2>citrons</ingredient> coupés en rondelles, le <ingredient quantite=2>persil</ingredient> et l’ <ingredient quantite=1>ail</ingredient> finement hachés. poivrer et <operation temps=6.86min espace=10>recouvrir d’ eau en</operation> ajoutant le <ingredient quantite=1>bouillon cube</ingredient> et éventuellement le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=10>laisser cuire 1 h 30 à feu doux et servir avec du riz</operation>. la <ingredient quantite=1>rouelle</ingredient> est un morceau de viande assez sec, il convient donc de la servir avec du jus. j’ ajoute rarement le <ingredient quantite=1>vin blanc</ingredient>, et parfois je <operation temps=6.86min espace=10>fais cette recette sans</operation> avoir ni <ingredient quantite=2>persil</ingredient>, ni de <ingredient quantite=1>bouillon cube</ingredient> et c’ est très bon quand même.
+]]>
+ </preparation>
+</recette>

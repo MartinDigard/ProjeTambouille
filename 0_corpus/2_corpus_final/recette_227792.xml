@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227792">
+ <titre>Crème de café et granité de coco au rhum</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 jaunes d’ œufs </p>
+ <p>50 cl de lait</p>
+ <p>65 g de sucre</p>
+ <p>15 cl de lait de coco</p>
+ <p>2 cuillères à soupe d’ extrait de café</p>
+ <p>30 g de beurre</p>
+ <p>3 cuillères à soupe de maïzena</p>
+ <p>2 cuillères à soupe de sirop de canne</p>
+ <p>2 cuillères à soupe de rhum (blanc ou ambré) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le lait de <ingredient quantite=1>coco</ingredient>, le <ingredient quantite=2>sirop de canne</ingredient> et le <ingredient quantite=2>rhum</ingredient>. verser dans une assiette creuse et mettre au <recipient>congélateur</recipient> 4 h. remuer deux ou trois fois pour <operation temps=6.86min espace=11>obtenir un granité</operation>. préparer la crème: délayer la maïzena avec 3 <ingredient quantite=2>cuillères à soupe</ingredient> de lait froid, la mélanger aux <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>œufs</ingredient> et au <ingredient quantite=1>sucre</ingredient> avec l’ <ingredient quantite=2>extrait de café</ingredient>. incorporer le reste de lait. <operation temps=6.86min espace=11>faire épaissir à feu doux en</operation> remuant jusqu’ aux premiers bouillons. retirer du feu, ajouter le beurre coupé en dés en fouettant. garder au <recipient>réfrigérateur</recipient> 1 h. <operation temps=6.86min espace=11>répartir la crème dans quatre verrines au moment de servir</operation> et ajouter le granité au lait de <ingredient quantite=1>coco</ingredient>. attention dans le temps de préparation, il faut ajouter les 4 h de congélation nécessaires à la prise du granité.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91709">
+ <titre>Bolognaise au chorizo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chorizo (doux ou fort selon le goût) </p>
+ <p>350 g de viande hachée</p>
+ <p>20 cl de coulis de tomate</p>
+ <p>25 cl crème liquide</p>
+ <p>10 cl de vin blanc</p>
+ <p>20 cl de bouillon de boeuf</p>
+ <p>1 cuillère à café de paprika</p>
+ <p>thym</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et couper le <ingredient quantite=1>chorizo</ingredient> en rondelle, en réserver quelques unes. <operation temps=6.86min espace=13>faire revenir l’ <ingredient quantite=1>ail</ingredient> et l’</operation> <ingredient quantite=1>oignon</ingredient>, rajouter la <ingredient quantite=1>viande</ingredient>, mélanger pour la délayer. déglacer au <ingredient quantite=1>vin blanc</ingredient>, puis au <ingredient quantite=1>bouillon</ingredient>, <operation temps=8.0min espace=13>laisser réduire</operation>. dans un <recipient>saladier</recipient> mélanger le <ingredient quantite=1>coulis de tomate</ingredient>, la crème fraiche, la crème <ingredient quantite=1>liquide</ingredient>, le <ingredient quantite=1>thym</ingredient> (selon goût), le <ingredient quantite=1>paprika</ingredient>, saler et poivrer. mixer le <ingredient quantite=1>chorizo</ingredient> et l’ ajouter dans le <recipient>saladier</recipient>. mettre les rondelles de <ingredient quantite=1>chorizo</ingredient> réservées dans la <ingredient quantite=1>viande</ingredient> et <operation temps=7.0min espace=13>faire revenir</operation>. ajouter le <recipient>saladier</recipient> dans la <ingredient quantite=1>viande</ingredient> et <operation temps=6.86min espace=13>laisser épaissir</operation>... c’ est prêt!
+]]>
+ </preparation>
+</recette>

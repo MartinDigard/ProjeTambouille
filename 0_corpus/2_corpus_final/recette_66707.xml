@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66707">
+ <titre>Tajine aux boulettes de viande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de viande de boeuf</p>
+ <p>200 g de viande d’ agneau</p>
+ <p>3 gousses d’ ail </p>
+ <p>1 bouquet de persil</p>
+ <p>1 bouquet de coriandre</p>
+ <p>3 brins de menthe</p>
+ <p>3 brins de marjolaine</p>
+ <p>sel et poivre</p>
+ <p>35 g de fromage râpé</p>
+ <p>1 oeuf</p>
+ <p>Pour la sauce: </p>
+ <p>40 g de beurre</p>
+ <p>500 g de pulpe de tomate en dés</p>
+ <p>2 poivrons</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>1 cuillère à soupe de paprika doux</p>
+ <p>6 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient quantite=1>viandes</ingredient>, l’ <ingredient quantite=3>ail</ingredient>, la <ingredient quantite=1>coriandre</ingredient>, le <ingredient quantite=1>persil</ingredient>, la <ingredient quantite=3>menthe</ingredient> et la <ingredient quantite=3>marjolaine</ingredient> pour <operation temps=6.86min espace=20>obtenir une farce très fine</operation>. mélangez - la délicatement avec le poivre, le <ingredient quantite=1>sel</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>fromage</ingredient> rapé et <operation temps=6.86min espace=20>laissez reposer au frais pendant 1h</operation>. façonnez des boulettes en les roulant entre les mains légèrement mouillées. <operation temps=6.86min espace=20>epépinez les <ingredient quantite=2>poivrons</ingredient> et hachez - les</operation> finement. <operation temps=6.86min espace=20>mettez les <ingredient quantite=2>poivrons</ingredient> dans un <recipient>plat</recipient> en terre</operation> allant sur le feu, ajoutez la <ingredient quantite=1>pulpe de tomate en dés</ingredient>, le <ingredient quantite=1>cumin</ingredient>, le <ingredient quantite=1>paprika</ingredient>, le beurre, le <ingredient quantite=1>sel</ingredient>, 1 verre d’ eau et 1 sucre et <operation temps=15.0min espace=20>laissez cuire pendant au moins 15 min</operation>. <operation temps=6.86min espace=20>ajoutez ensuite les boulettes en les</operation> répartissant bien et <operation temps=10.0min espace=20>faites cuire environ 10 min en</operation> remuant de temps en temps. casser les <ingredient quantite=1>oeufs</ingredient>, un à un tout autour du <recipient>plat</recipient> ; ils cuiront en quelques minutes. <operation temps=6.86min espace=20>servez dans le <recipient>plat</recipient> de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

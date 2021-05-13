@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53049">
+ <titre>Boulets sauce lapin (Liège) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour les boulets: </p>
+ <p>1 œuf battu</p>
+ <p>300 g porc haché</p>
+ <p>300 g boeuf haché</p>
+ <p>1 petit oignon</p>
+ <p>1 cuillère à café de ciboulette</p>
+ <p>1 cuillère à café de chapelure</p>
+ <p>Pour la sauce: </p>
+ <p>4 gros oignons</p>
+ <p>1 bouteille de bière brune</p>
+ <p>3 ou 4 cuillères de cassonade</p>
+ <p>2 grosses cuillères de sirop de liège</p>
+ <p>1 cuillère d’ huile</p>
+ <p>1 demi cube de bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger l’ oeuf, le hachis, l’ <ingredient quantite=1>oignon</ingredient> émincé en <ingredient quantite=1>petits</ingredient> morceaux, la <ingredient quantite=1>ciboulette</ingredient> et la <ingredient quantite=1>chapelure</ingredient>. former les <ingredient quantite=1>boulets</ingredient> et les disposer dans une grande <recipient>casserole</recipient>. couper les <ingredient quantite=1>oignons</ingredient> en morceaux, les ajouter dans la <recipient>casserole</recipient>, ainsi que tous les autres ingrédients ; <operation temps=6.86min espace=16>laisser mijoter à feu très doux pendant environ 1h</operation>. a accompagner de frites pour bien profiter de la <ingredient quantite=1>sauce</ingredient>!!!
+]]>
+ </preparation>
+</recette>

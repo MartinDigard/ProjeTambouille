@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22616">
+ <titre>Clafoutis à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g de rhubarbe (environ 3 tiges) </p>
+ <p>3 oeufs</p>
+ <p>1 boîte de lait concentré sucré (d’ environ 400 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher la <ingredient quantite=1>rhubarbe</ingredient> et la coupe en petits morceaux. la mettre dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>lait concentré sucré</ingredient>. verser ce mélange sur la <ingredient quantite=1>rhubarbe</ingredient>. enfourner 30 mn à 225 ° c
+]]>
+ </preparation>
+</recette>

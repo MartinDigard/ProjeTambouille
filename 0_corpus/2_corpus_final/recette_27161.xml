@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27161">
+ <titre>Potage à la crème de riz</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80 g de crème de riz ou farine de riz</p>
+ <p>1 litre de lait</p>
+ <p>sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter le <ingredient quantite=1>lait</ingredient> à ébullition, sucrer selon votre goût, délayer au préalable la <ingredient quantite=1>crème de riz</ingredient> avec de l’ eau, l’ ajouter ensuite dans le <ingredient quantite=1>lait</ingredient>, <operation temps=10.0min espace=3>faire cuire 10 mn à feu doux en</operation> remuant. on trouve de la <ingredient quantite=1>farine de riz</ingredient> en magasin bio. les enfants adorent!
+]]>
+ </preparation>
+</recette>

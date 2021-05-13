@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52050">
+ <titre>Biscuits à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>125 g de sucre en poudre</p>
+ <p>100 g de semoule fine pour dessert</p>
+ <p>500 g de noix de coco râpée</p>
+ <p>1 citron vert</p>
+ <p>1 sachet de levure</p>
+ <p>fleur d’ oranger</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>levure</ingredient>, puis ajouter le zeste de <ingredient quantite=1>citron</ingredient>. incorporer petit à petit la <ingredient quantite=1>noix de coco</ingredient>, puis la semoule. s’ humecter les mains de <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> et <operation temps=6.86min espace=9>faire des petites boules (de la taille d’ une cuillère à café bien remplie) avec la pâte</operation> obtenue. <operation temps=6.86min espace=9>aplatir légèrement</operation> et saupoudrer de <ingredient quantite=1>sucre glace</ingredient>. mettre les biscuits sur la plaque du <recipient>four</recipient> huilée (ou beurrée), face sucrée sur le dessus. <operation temps=25.0min espace=9>faire cuire à 150 ° c (th 5), pendant environ 20 à 25 min ; ils</operation> doivent avoir une couleur bien dorée. attention, si vous <operation temps=6.86min espace=9>faites des biscuits de taille plus importante, la cuisson sera un peu plus longue</operation>. ces biscuits sont meilleurs tièdes. on peut également remplacer la <ingredient quantite=1>noix de coco</ingredient> par des amandes en <ingredient quantite=1>poudre</ingredient>.
+]]>
+ </preparation>
+</recette>

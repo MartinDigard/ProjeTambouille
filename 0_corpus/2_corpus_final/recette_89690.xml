@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89690">
+ <titre>Bricks au boeuf et poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de feuilles de bricks</p>
+ <p>500 g de boeuf haché</p>
+ <p>2 poivrons verts</p>
+ <p>4 champignons de paris</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à café de persil</p>
+ <p>25 cl de bouillon de boeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prechauffez votre <recipient>four</recipient> à 150 ° c (thermostat 5). faites revenir dans une <recipient>poêle</recipient>, l’ <ingredient quantite=1>ail haché</ingredient> ainsi que les <ingredient quantite=4>champignons</ingredient> et les <ingredient quantite=2>poivrons</ingredient> coupés finement. <operation temps=6.86min espace=10>ajoutez le</operation> <ingredient quantite=1>boeuf</ingredient>, <operation temps=6.86min espace=10>saupoudrez de</operation> <ingredient quantite=1>persil</ingredient> et <operation temps=6.86min espace=10>arrosez le tout de <ingredient quantite=1>bouillon</ingredient></operation>. <operation temps=0.25min espace=10>couvrez</operation> et <operation temps=5.0min espace=10>laissez cuire à feu doux environ 5 minutes en</operation> remuant de temps en temps. <operation temps=6.86min espace=10>coupez vos <ingredient quantite=1>feuilles</ingredient> de brick en 2, garnissez un coin de viande farcie</operation> et <operation temps=6.86min espace=10>repliez afin d’</operation> <operation temps=6.86min espace=10>obtenir un petit triangle</operation>. attention à égoutter un maximum la viande afin de ne pas trouer les <ingredient quantite=1>feuilles</ingredient>. <operation temps=6.86min espace=10>soudez le triangle au pinceau grâce à du blanc d’</operation> oeuf. <operation temps=6.86min espace=10>faites dorer au <recipient>four</recipient></operation>. <operation temps=6.86min espace=10>servez avec du riz</operation> pilaf de préférence.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67121">
+ <titre>Pâte à tartiner de tante Rachel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g chocolat noir</p>
+ <p>125 g de poudre de noisette</p>
+ <p>50 cl de crème fraîche allégée</p>
+ <p>1 boîte de lait concentré sucré à 0% mg</p>
+ <p>15 g de maïzena</p>
+ <p>1/2 cuillère à café de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire dorer la <ingredient quantite=1>poudre de noisette</ingredient> dans une <recipient>poêle</recipient>. <operation temps=6.86min espace=10>faire chauffer la <ingredient quantite=1>crème</ingredient> et le chocolat <ingredient quantite=1>noir</ingredient> dans une <recipient>casserole</recipient></operation>. verser la <ingredient quantite=1>poudre de noisette</ingredient> dans la <ingredient quantite=1>crème</ingredient> et le chocolat puis <operation temps=10.0min espace=10>faire cuire 10 min à feu doux</operation>. passer au <recipient>chinois</recipient> très fin la préparation. remettre la préparation dans une <recipient>casserole</recipient>, ajouter le <ingredient quantite=1>lait concentré</ingredient>, la <ingredient quantite=1>maïzena</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=5.0min espace=10>faire épaissir 5 min</operation>. <operation temps=6.86min espace=10>remplir les pots</operation> et déguster. recette très légère et recommandée avec des gaufres maison.
+]]>
+ </preparation>
+</recette>

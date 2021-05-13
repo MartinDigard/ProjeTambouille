@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81356">
+ <titre>Soupe aux pois chiches</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une boîte de pois chiches</p>
+ <p>500 g de carottes</p>
+ <p>300 g de navets</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuiller à café de concentré de tomates</p>
+ <p>1 cuiller à soupe d’ huile d’ olive</p>
+ <p>1 cuiller à soupe de fond de volaille déshydraté</p>
+ <p>1 pincée de coriandre en poudre</p>
+ <p>1 pincée de cumin en poudre</p>
+ <p>10 brins de persil plat et coriandre fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez, <operation temps=6.86min espace=12>lavez</operation> et <operation temps=6.86min espace=12>coupez en dés les légumes</operation>. emincez les <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir à l’</operation> <ingredient quantite=1>huile</ingredient> ; <operation temps=6.86min espace=12>ajoutez les légumes</operation> et <operation temps=6.86min espace=12>laissez revenir</operation>. <operation temps=6.86min espace=12>ajoutez l’ <ingredient quantite=1>ail</ingredient></operation>. <operation temps=6.86min espace=12>couvrez d’ eau à hauteur</operation> et ajoutez un <ingredient quantite=1>fond</ingredient> de volaille, le concentré, <ingredient quantite=1>coriandre</ingredient> et <ingredient quantite=1>cumin en poudre</ingredient>. <operation temps=0.25min espace=12>salez</operation> et <operation temps=0.5min espace=12>poivrez</operation>. <operation temps=30.0min espace=12>laissez cuire 30 minutes</operation>. ajoutez les <ingredient quantite=1>pois chiches</ingredient> rincés. <operation temps=10.0min espace=12>laissez cuire 10 minutes</operation>. <operation temps=6.86min espace=12>ajoutez <ingredient quantite=1>persil</ingredient></operation> haché et <ingredient quantite=1>coriandre fraîche</ingredient>. bon appétit!
+]]>
+ </preparation>
+</recette>

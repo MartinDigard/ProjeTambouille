@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23706">
+ <titre>Tarte tomate et moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée pur beurre</p>
+ <p>3 à 4 tomates</p>
+ <p>2 oignons</p>
+ <p>moutarde à l’ ancienne</p>
+ <p>parmesan</p>
+ <p>gruyère râpé</p>
+ <p>huile d’ olive</p>
+ <p>herbes de Provence</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> avec la feuille de papier cuisson et entreposer au <recipient>congélateur</recipient> pour qu’ elle reste bien ferme. couper les <ingredient quantite=3>tomates</ingredient> en fines tranches et les <operation temps=6.86min espace=15>faire égoutter dans une <recipient>passoire</recipient> pour qu’ elles</operation> perdent leur jus. emincer très finement les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=15>faire revenir doucement dans 2 cuillères à soupe d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=15>sortir le fond de tarte du <recipient>congélateur</recipient></operation> et mettre une couche de <ingredient quantite=1>moutarde</ingredient>, puis les <ingredient quantite=2>oignons</ingredient> en compote, les <ingredient quantite=3>tomates</ingredient>, un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre, une bonne couche de gruyère et des <ingredient quantite=1>herbes de provence</ingredient>. cuire 25 minutes à <recipient>four</recipient> moyen (thermostat6/180 ° c) et parsemer de copeaux de <ingredient quantite=1>parmesan</ingredient> à la sortie du <recipient>four</recipient>. <operation temps=6.86min espace=15>servir avec une salade aux <ingredient quantite=1>herbes</ingredient></operation>. on peut également ajouter des lardons coupés très finement.
+]]>
+ </preparation>
+</recette>

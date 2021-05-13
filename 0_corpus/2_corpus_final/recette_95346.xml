@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95346">
+ <titre>Papillote de dinde, citron et orange</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 escalope de dinde</p>
+ <p>1 orange</p>
+ <p>1 citron</p>
+ <p>huile d’ olive</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>herbes de provence</p>
+ <p>papier d’ aluminum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les escalopes de <ingredient quantite=2>dinde</ingredient> en petit morceaux. ensuite coupe deux tranches d’ orange et couper des petits morceaux sans la peau et pareil pour le <ingredient quantite=1>citron</ingredient>. mettre la <ingredient quantite=2>dinde</ingredient> dans le <ingredient quantite=1>papier</ingredient> d’ <ingredient quantite=1>aluminum</ingredient> metter de l’ huile d’ <ingredient quantite=1>olive</ingredient> (a votre convenance), les morceaux d’ orange et de <ingredient quantite=1>citron</ingredient>, metter du jus de <ingredient quantite=1>citron</ingredient> dessus les morceaux de viande, saler, poivrer et mettez les <ingredient quantite=1>herbes de provence</ingredient>. fermer le <ingredient quantite=1>papier</ingredient> d’ <ingredient quantite=1>aluminum</ingredient> comme une papillotte. <operation temps=6.86min espace=8>faire cuire 1h a 200degres</operation>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228899">
+ <titre>Entrée de Fèves fraîches</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de fèves fraîches</p>
+ <p>ciboulette</p>
+ <p>2 cuillères à café d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecosser les <ingredient quantite=1>fèves</ingredient>. <operation temps=6.86min espace=6>faire bouillir de l’ eau dans une <recipient>casserole</recipient> sans <ingredient quantite=1>sel</ingredient></operation>. y jeter les <ingredient quantite=1>fèves</ingredient>, les <operation temps=5.0min espace=6>faire cuire à petits bouillons pendant 4 à 5 min</operation>. egoutter. maintenant, le travail le plus fastidieux, mais assez facile: retirer la peau des <ingredient quantite=1>fèves</ingredient> en incisant la partie fendue avec un couteau, appuyer: la <ingredient quantite=1>fève</ingredient> sort de sa peau. mettre dans un <recipient>saladier</recipient>, saler, poivrer, verser 2 <ingredient quantite=2>cuillères à café</ingredient> d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et ajouter la <ingredient quantite=1>ciboulette</ingredient> ciselée. <operation temps=5.0min espace=6>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65609">
+ <titre>Gâteau à la crème de citron de Charline</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le gâteau: </p>
+ <p>1 pot de yaourt</p>
+ <p>2 pots de sucre</p>
+ <p>3 oeufs</p>
+ <p>2 pots de farine</p>
+ <p>1 pot de poudre d’ amandes</p>
+ <p>1 pot d’ huile</p>
+ <p>1 sachet de levure</p>
+ <p>1 zeste de citron</p>
+ <p>Pour la crème: </p>
+ <p>75 g de sucre</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>20 g de Maïzena</p>
+ <p>le jus d’ 1 citron</p>
+ <p>20 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=19>mélangez simplement tous les ingrédients</operation> cités pour <ingredient quantite=1>le gâteau</ingredient> et <operation temps=6.86min espace=19>versez dans un <recipient>moule</recipient></operation> rond à <ingredient quantite=1>gâteau</ingredient>. <operation temps=6.86min espace=19>mettez à</operation> cuire 40 min au <recipient>four</recipient> préchauffé, termostat 6 à 180 °. une fois le <ingredient quantite=1>gâteau</ingredient> refroidi, <operation temps=6.86min espace=19>coupez - le en 2 dans l’ épaisseur</operation>. <operation temps=6.86min espace=19>préparez la <ingredient quantite=1>crème</ingredient> en</operation> mélangeant tous les ingrédients dans une <recipient>casserole</recipient> et <operation temps=5.0min espace=19>faites chauffer (environ 4 à 5 minutes</operation>). dès que la <ingredient quantite=1>crème</ingredient> a épaissi, <operation temps=6.86min espace=19>retirez - la du feu</operation>. puis <operation temps=6.86min espace=19>étalez sur un demi-gâteau</operation>, <operation temps=6.86min espace=19>refermez</operation>. servir ainsi ou avec un glaçage... au choix... grand succès assuré!!!
+]]>
+ </preparation>
+</recette>

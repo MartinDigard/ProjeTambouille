@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42158">
+ <titre>Mousse de banane au rhum</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 bananes</p>
+ <p>3 oeufs</p>
+ <p>50 g de sucre en poudre</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à soupe de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=2>bananes</ingredient>, et les écraser en purée. dans une petite <recipient>casserole</recipient>, les mélanger avec le <ingredient quantite=1>sucre</ingredient> et les 3 jaunes d’ <ingredient quantite=3>oeufs</ingredient> (réserver les blancs). <operation temps=6.86min espace=8>faire chauffer cette <recipient>casserole</recipient> au <recipient>bain - marie</recipient>, pendant 2 à 3 min, en</operation> mélangeant vivement (sans s’ arrêter!), jusqu’ à ce que le mélange épaississe légèrement. retirer aussitôt la préparation, la <operation temps=6.86min espace=8>laisser refroidir un peu,</operation> et ajouter le <ingredient quantite=1>rhum</ingredient>. ajouter une pincée de <ingredient quantite=1>sel</ingredient> aux blancs d’ <ingredient quantite=3>oeufs</ingredient>, les monter en neige ferme. et les incorporer délicatement aux <ingredient quantite=2>bananes</ingredient>. verser la préparation dans des petites coupes, tasses, ou verres individuels. mettre au frigo, et servir bien frais.
+]]>
+ </preparation>
+</recette>

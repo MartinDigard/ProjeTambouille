@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11004">
+ <titre>Tomates farcies au carré frais</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillers à soupe d’ huile d’ olive</p>
+ <p>un peu de persil</p>
+ <p>sel, poivre</p>
+ <p>1 gousse d’ ail</p>
+ <p>8 tomates</p>
+ <p>300 g de carré frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et essuyer les <ingredient quantite=8>tomates</ingredient>, enlever le dessus, retirer la pulpe. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). huiler un <recipient>plat</recipient> allant au <recipient>four</recipient>. dans un bol, mélanger le <ingredient quantite=1>persil</ingredient> haché, la gousse d’ <ingredient quantite=1>ail</ingredient> pilée, la pulpe de <ingredient quantite=8>tomates</ingredient> et le carré <ingredient quantite=1>frais</ingredient>. <operation temps=6.86min espace=11>garnir les <ingredient quantite=8>tomates</ingredient> avec cette préparation</operation>, mettre le chapeau découpé dessus et disposer dans le <recipient>plat</recipient>, arroser d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et <operation temps=15.0min espace=11>faire cuire au <recipient>four</recipient> 15 minutes</operation>. servir de suite.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71846">
+ <titre>Fouace au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pommes de terre</p>
+ <p>1 boule de mozzarella ou 150 g de gruyère</p>
+ <p>150 g de jambon cuit</p>
+ <p>40 g de beurre + 20 g pour le moule</p>
+ <p>1 verre de lait (20 cl) </p>
+ <p>3 oeufs</p>
+ <p>sel, poivre</p>
+ <p>1 cuillère à soupe de chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez les <ingredient quantite=1>pommes de terre</ingredient> et <operation temps=6.86min espace=13>mettez - les dans une <recipient>casserole</recipient> d’ eau avec leur peau</operation>. <operation temps=30.0min espace=13>portez à ébullition pendant 30 min</operation>. <operation temps=6.86min espace=13>coupez la mozzarella ou le gruyère en petits bâtonnets et le <ingredient quantite=1>jambon</ingredient> en dés</operation>. quand les <ingredient quantite=1>pommes de terre</ingredient> sont <ingredient quantite=1>cuites</ingredient>, <operation temps=6.86min espace=13>pelez - les et passez - les au moulin à légumes</operation>. <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>beurre</ingredient> à la purée</operation> obtenue puis <operation temps=6.86min espace=13>versez le <ingredient quantite=1>lait</ingredient> en</operation> mélangeant. battez le mélange puis <operation temps=6.86min espace=13>portez la <recipient>casserole</recipient> sur feu moyen jusqu’ à ce que la préparation devienne crémeuse</operation>. <operation temps=0.25min espace=13>retirez du feu</operation> et <operation temps=6.86min espace=13>incorporez les <ingredient quantite=3>oeufs</ingredient> un à un, en</operation> mélangeant. <operation temps=0.25min espace=13>salez</operation> et <operation temps=0.5min espace=13>poivrez</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=13>beurrez un <ingredient quantite=1><recipient>moule</recipient></ingredient> en forme de couronne et parsemez le fond avec la <ingredient quantite=1>chapelure</ingredient></operation>. <operation temps=6.86min espace=13>versez - y un tiers de la préparation</operation>. parsemez avec les bâtonnets de fromage. <operation temps=6.86min espace=13>recouvrez un 2ème tiers de purée</operation>. parsemez avec les dés de <ingredient quantite=1>jambon</ingredient>. <operation temps=6.86min espace=13>recouvrez enfin avec le reste de purée</operation>. enfournez et <operation temps=30.0min espace=13>laissez <ingredient quantite=1>cuire</ingredient> 30 min</operation>.
+]]>
+ </preparation>
+</recette>

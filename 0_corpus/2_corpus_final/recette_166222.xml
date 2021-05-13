@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166222">
+ <titre>Tarte au brie</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>400g de brie</p>
+ <p>15cl de crème</p>
+ <p>30g de beurre</p>
+ <p>1 oignon, finement haché</p>
+ <p>poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+-préchauffez le <recipient>four</recipient> à 200 ° c. <operation temps=6.86min espace=9>-faites revenir les <ingredient quantite=1>oignons</ingredient> dans le beurre</operation>. <operation temps=6.86min espace=9>-déroulez la <ingredient quantite=1>pâte</ingredient> dans un <recipient>plat</recipient> en</operation> prenant soin de former des bords pour <operation temps=6.86min espace=9>contenir la garniture</operation>. -ôtez la croûte du <ingredient quantite=1>brie</ingredient> et <operation temps=6.86min espace=9>coupez le coeur en tranches ; déposez - les sur la</operation> <ingredient quantite=1>pâte</ingredient>, <operation temps=6.86min espace=9>recouvrez avec les oigons</operation> et <operation temps=6.86min espace=9>versez la crème</operation>. -poivrez et <operation temps=6.86min espace=9>déposez des morceaux de beurre par - dessus</operation>. <operation temps=15.0min espace=9>-faites dorer au <recipient>four</recipient> pendant 15 minutes conseil: délicieux avec une salade verte! rouge</operation>
+]]>
+ </preparation>
+</recette>

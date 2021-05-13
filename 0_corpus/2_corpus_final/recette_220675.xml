@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220675">
+ <titre>Cookies d’ automne</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80 g de beurre mou</p>
+ <p>50 g de cassonade</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1 œuf</p>
+ <p>150 g de farine</p>
+ <p>1 cuillère à café de levure</p>
+ <p>1 cuillère à café de calvados</p>
+ <p>2 pommes</p>
+ <p>10 noix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>pommes</ingredient> en petits dès et les <operation temps=6.86min espace=11>faire macérer dans le <ingredient quantite=1>calvados</ingredient></operation>. mélanger la farine la <ingredient quantite=1>levure</ingredient> la <ingredient quantite=1>cassonade</ingredient> et l’ <ingredient quantite=1>œuf</ingredient>. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=11>faire fondre le <ingredient quantite=1>beurre</ingredient> avec le</operation> <ingredient quantite=1>miel</ingredient> et ajouter au mélange précédent. ajouter enfin les <ingredient quantite=2>pommes</ingredient> et les <ingredient quantite=1>noix</ingredient> émiettés. faire des petits tas (équivalent à 1 <ingredient quantite=1>cuillère à café</ingredient> bombée) sur une plaque avec du papier sulfurisé et mettre au <recipient>four</recipient> chaud 10 à 12 minutes. cidre
+]]>
+ </preparation>
+</recette>

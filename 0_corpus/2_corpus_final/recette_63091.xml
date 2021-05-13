@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63091">
+ <titre>Jambon roulé à l’ oeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tranche de jambon</p>
+ <p>1 oeuf</p>
+ <p>ketchup</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+casser l’ <ingredient quantite=1>oeuf</ingredient> et le battre à la fourchette comme une omelette. le <operation temps=6.86min espace=4>faire cuire dans une petite <recipient>poêle</recipient> avec un peu de matière grasse</operation>. etaler du <ingredient quantite=1>ketchup</ingredient> sur le <ingredient quantite=1>jambon</ingredient>. quand l’ <ingredient quantite=1>oeuf</ingredient> est cuit, le mettre au dessus du <ingredient quantite=1>ketchup</ingredient>. rouler la <ingredient quantite=1>tranche de jambon</ingredient> avec l’ <ingredient quantite=1>oeuf</ingredient>. vous pouvez également agrémenter votre omelette avec des champignons, du fromage et tout ce qui vous plaît mais attention de ne pas trop surcharger!accompagnera parfaitement une salade ou une portion de frites pour les plus gourmands! un bourgogne jeune
+]]>
+ </preparation>
+</recette>

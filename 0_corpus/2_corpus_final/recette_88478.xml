@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88478">
+ <titre>Méguina de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 blancs de poulet</p>
+ <p>2 oignons</p>
+ <p>1 citron bio</p>
+ <p>7 oeufs</p>
+ <p>1 brin de persil plat</p>
+ <p>1 cuillère à café de curcuma</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les blancs de <ingredient quantite=3>poulet</ingredient> en dés et les <operation temps=15.0min espace=16>faire cuire 15 minutes dans de l’ eau bouillante légèrement</operation> salée. <operation temps=20.0min espace=16>laisser refroidir</operation>. eplucher et émincer les <ingredient quantite=2>oignons</ingredient>. les faire dorer dans un <recipient>poêle</recipient> avec une <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). prélever le zeste du <ingredient quantite=1>citron</ingredient> et le hacher. laver et ciseler 6 branches de <ingredient quantite=1>persil <recipient>plat</recipient></ingredient>. dans un <recipient>saladier</recipient>, battre les œufs. ajouter le <ingredient quantite=3>poulet</ingredient>, les <ingredient quantite=2>oignons</ingredient>, les zestes de <ingredient quantite=1>citron</ingredient>, le <ingredient quantite=1>persil</ingredient> ciselé et le <ingredient quantite=1>curcuma</ingredient>. saler et poivrer. dans un <recipient><recipient>moule</recipient> à tarte</recipient> à bords hauts, verser le restant de l’ huile. mettre le <ingredient quantite=1><recipient>plat</recipient></ingredient> 2 ou 3 minutes au <recipient>four</recipient> pour réchauffer l’ <ingredient quantite=3>huile</ingredient>. verser ensuite le mélange dans le <recipient>moule</recipient> et enfourner pendant 35 minutes à 180 ° c (thermostat 6). servir tiède ou froid.
+]]>
+ </preparation>
+</recette>

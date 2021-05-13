@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21770">
+ <titre>Gratins de cabillaud à la sauce béchamel</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de cabillaud</p>
+ <p>1, 5 l d’ eau</p>
+ <p>1 sachet de court-bouillon pour poisson</p>
+ <p>Pour la sauce béchamel: </p>
+ <p>40 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>10 cl de lait</p>
+ <p>20 cl de court-bouillon</p>
+ <p>10 cl de crème fraîche</p>
+ <p>100 g de gruyère râpé</p>
+ <p>1 citron</p>
+ <p>2 tomates</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>préparez le <ingredient quantite=1>court-bouillon</ingredient> en</operation> mélangeant 1, 5 l d’ <ingredient quantite=1>eau</ingredient> avec le sachet de court - <ingredient quantite=1>bouillon pour poisson</ingredient> et remuez. <operation temps=6.86min espace=16>faites chauffer la préparation jusqu’ à ce que le liquide frémisse</operation>. <operation temps=6.86min espace=16>faites pocher le <ingredient quantite=1>cabillaud</ingredient> pendant 15 minutes,</operation> puis <operation temps=6.86min espace=16>égouttez et répartissez - le dans 4 petits plats individuels</operation> allant au <recipient>four</recipient>. <operation temps=6.86min espace=16>ajoutez les <ingredient quantite=2>tomates</ingredient></operation> coupées en rondelles. la <ingredient quantite=1>sauce béchamel</ingredient>: <operation temps=6.86min espace=16>faites chauffer le beurre dans une <recipient>casserole</recipient>, dès qu’ il grésille</operation> <operation temps=6.86min espace=16>versez la farine et remuez</operation>. <operation temps=6.86min espace=16>ajoutez le lait et le <ingredient quantite=1>court-bouillon</ingredient></operation> filtré. <operation temps=6.86min espace=16>salez légèrement</operation> et <operation temps=0.5min espace=16>poivrez</operation>. <operation temps=6.86min espace=16>laissez épaissir à feu doux en</operation> remuant, puis incorporez la <ingredient quantite=1>crème</ingredient>, du <ingredient quantite=1>gruyère râpé</ingredient> (environ 70 g) et un filet de <ingredient quantite=1>citron</ingredient> pour parfumer le tout. <operation temps=6.86min espace=16>versez la <ingredient quantite=1>béchamel</ingredient> dans les plats à gratin</operation> et saupoudrez du reste de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=16>faites gratiner pendant quelques minutes au <recipient>four</recipient> sous le grill</operation>.
+]]>
+ </preparation>
+</recette>

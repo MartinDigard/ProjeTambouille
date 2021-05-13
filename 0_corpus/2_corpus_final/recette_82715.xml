@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82715">
+ <titre>Suprême de patidoux</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 patidoux</p>
+ <p>2 oignons</p>
+ <p>2 pommes de terre moyennes </p>
+ <p>20 g de beurre</p>
+ <p>1 bouillon de légumes </p>
+ <p>25 cl de litre de lait</p>
+ <p>1 pincée de muscade</p>
+ <p>1 pincée de gros sel </p>
+ <p>1 morceau de sucre n°4</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=2>oignons</ingredient>, le <ingredient quantite=1>patidoux</ingredient> et les <ingredient quantite=2>pommes de terre</ingredient> et les couper en petits <ingredient quantite=1>morceaux</ingredient>. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>oignons</ingredient> avec le beurre</operation> et ajouter les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>patidoux</ingredient> ainsi que les <ingredient quantite=2>pommes de terre</ingredient>. <operation temps=5.0min espace=9>faire revenir environ 5 minutes</operation> puis verser le <ingredient quantite=1>lait</ingredient>, ajouter de l’ eau pour <operation temps=6.86min espace=9>couvrir les <ingredient quantite=1>légumes</ingredient></operation>. ajouter le cube de <ingredient quantite=1>bouillon de légumes</ingredient>, le <ingredient quantite=1>morceau de sucre</ingredient> la <ingredient quantite=1>muscade</ingredient> et un peu de <ingredient quantite=1>gros sel</ingredient>. <operation temps=6.86min espace=9>laisser cuire à feu doux pendant 30 minutes,</operation> puis moudre le tout en retirant un peu de <ingredient quantite=1>bouillon</ingredient> que vous <operation temps=6.86min espace=9>réserverez au cas où le suprême serait trop épais (selon les goûts</operation>). cette soupe est meilleure lorsqu’ elle est assez épaisse.
+]]>
+ </preparation>
+</recette>

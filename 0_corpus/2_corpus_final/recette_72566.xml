@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72566">
+ <titre>Gateau au chocolat - Nesquik au micro onde (facile et rapide). </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cuillère à soupe de farine (bien remplie) </p>
+ <p>2 cuillères à soupe de Nesquik</p>
+ <p>2 cuillères à soupe de sucre (optionnelles) </p>
+ <p>1 cuillère à soupe de crème fraîche épaisse</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, mettre la farine, le <ingredient quantite=1>nesquik</ingredient> et le <ingredient quantite=2>sucre</ingredient>. bien mélanger. rajouter l’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. bien mélanger. mettre le bol au micro-ondes pendant 4 min sur 600 (sans le <operation temps=0.25min espace=6>couvrir</operation>). a manger dès la sortie du <recipient>four</recipient> à même le bol (ou demoulé). vous pouvez ne pas mettre de <ingredient quantite=2>sucre</ingredient> dans la préparation et <operation temps=6.86min espace=6>laisser le reste tel quel</operation>.
+]]>
+ </preparation>
+</recette>

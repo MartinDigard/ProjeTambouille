@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30423">
+ <titre>Gâteau au tiramisù</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>175 g de margarine (ou de beurre) </p>
+ <p>175 g de sucre</p>
+ <p>175 g de farine</p>
+ <p>1, 5 cuillère à café de levure chimique (soit 1/2 sachet) </p>
+ <p>3 œufs</p>
+ <p>4 cuillères à café de café instantané dissous dans 2 cuillères à café d’ eau chaude</p>
+ <p>85 g de chocolat fondant</p>
+ <p>4 cuillères à soupe de liqueur de café ou d’ Amaretto</p>
+ <p>250 g de mascarpone</p>
+ <p>85 g de sucre en poudre</p>
+ <p>1 verre d’ Amaretto</p>
+ <p>1 barre de chocolat fondant</p>
+ <p>1 cuillère à soupe de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 170 ° c. <operation temps=6.86min espace=15>faire <ingredient quantite=1>fondre</ingredient> la margarine et la</operation> mélanger au <ingredient quantite=1>sucre</ingredient>. ajouter la farine et la <ingredient quantite=1>levure</ingredient>. verser ensuite les <ingredient quantite=3>œufs</ingredient> légèrement battus, le <ingredient quantite=1>café</ingredient> et le <ingredient quantite=1>chocolat</ingredient> râpé grossièrement. verser le mélange dans un <recipient>moule</recipient> recouvert de papier sulfurisé et <operation temps=45.0min espace=15>faire cuire 45 minutes</operation>. <operation temps=6.86min espace=15>sortir le gâteau et le</operation> retourner sur une grille. <operation temps=20.0min espace=15>laisser refroidir</operation>. retourner le gâteau et y <operation temps=6.86min espace=15>faire quelques trous</operation>. verser la <ingredient quantite=4>liqueur</ingredient> et <operation temps=15.0min espace=15>laisser reposer au moins 15 minutes</operation>. <operation temps=6.86min espace=15>garnir d’ une sauce</operation> réalisée avec le <ingredient quantite=1>mascarpone</ingredient>, l’ <ingredient quantite=1>amaretto</ingredient> et le <ingredient quantite=1>sucre</ingredient>. napper de <ingredient quantite=1>chocolat</ingredient> râpé et de <ingredient quantite=1>cacao</ingredient>.
+]]>
+ </preparation>
+</recette>

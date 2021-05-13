@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36556">
+ <titre>Gâteau de riz salé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz (plutôt du riz rond) </p>
+ <p>30 g de beurre</p>
+ <p>75 g de gruyère râpé</p>
+ <p>persil</p>
+ <p>2 oeufs</p>
+ <p>6 tranches de fromage fondu</p>
+ <p>3 ou 4 tranches de jambon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire cuire le <ingredient quantite=1>riz</ingredient>, y</operation> ajouter le <ingredient quantite=1>gruyère râpé</ingredient> et le <ingredient quantite=1>persil</ingredient>. préparer une omelette avec les 2 <ingredient quantite=2>oeufs</ingredient>. plaacer la moitié du <ingredient quantite=1>riz</ingredient> dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré, poser l’ omelette, y répartir les toastinettes et les <ingredient quantite=6>tranches de jambon</ingredient>. <operation temps=6.86min espace=10>recouvrir du reste de</operation> <ingredient quantite=1>riz</ingredient>, parsemer de <ingredient quantite=1>gruyère râpé</ingredient> et de morceaux de beurre. <operation temps=20.0min espace=10>faire dorer 20 min au <recipient>four</recipient> préchauffé à thermostat 6 (180 ° c</operation>). un <recipient>plat</recipient> qui plaît aux enfants!
+]]>
+ </preparation>
+</recette>

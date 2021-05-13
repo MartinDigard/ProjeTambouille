@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31801">
+ <titre>Le pudding de quand j’ étais p’ tite</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de pain rassis (environ) </p>
+ <p>3 œufs</p>
+ <p>50 cl de lait</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>cannelle en poudre</p>
+ <p>cassonade (vergeoise) (ou confiture au choix, ou les deux) </p>
+ <p>2 cuillères à soupe de raisins secs (ou morceaux de fruits) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=11>faire chauffer le lait avec le <ingredient quantite=1>sucre</ingredient></operation> vanillé et la <ingredient quantite=1>cassonade</ingredient> (si vous avez choisi l’ option <ingredient quantite=1>cassonade</ingredient>!). dans un <recipient>saladier</recipient>, battre les 3 <ingredient quantite=3>œufs</ingredient>. verser par - dessus le lait chaud. ajouter une pincée de <ingredient quantite=1>cannelle</ingredient> puis le <ingredient quantite=1>pain</ingredient> émietté. bien mélanger. ajouter ensuite, au choix, de la confiture, des morceaux de fruits, des <ingredient quantite=2>raisins secs</ingredient>... enfin un peu tout ce qu’ on veut! verser la préparation dans un <recipient>moule</recipient> et <operation temps=45.0min espace=11>faire cuire au <recipient>four</recipient> pendant environ 45 min à 180 - 200 ° c</operation>. ce pudding de quand j’ <operation temps=6.86min espace=11>étais p’ tite est un peu un gâteau " fourre - tout ", typique du nord car il</operation> permet de ne pas jeter le <ingredient quantite=1>pain</ingredient> <operation temps=6.86min espace=11>rassis</operation>. l’ art d’ accommoder les restes! en plus c’ est bon! grand’ mère sait <operation temps=6.86min espace=11>faire un bon café</operation>...!
+]]>
+ </preparation>
+</recette>

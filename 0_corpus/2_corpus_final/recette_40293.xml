@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40293">
+ <titre>Roulade de dinde et jambon à la méditerranéenne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 escalopes de dinde</p>
+ <p>4 tranches de jambon de parme (ou de bayonne) </p>
+ <p>1 pot de boursin cuisine "tomates et herbes méditerranéennes"</p>
+ <p>1 peu de margarine ou beurre</p>
+ <p>3 oignons nouveau</p>
+ <p>1 échalote</p>
+ <p>sel, poivre</p>
+ <p>1 grand verre de vin blanc (voire un peu plus) </p>
+ <p>1 cuillère à café d’ herbes de provence</p>
+ <p>crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tartinez les <ingredient quantite=4>escalopes</ingredient> de <ingredient quantite=1>boursin</ingredient>, déposez une <ingredient quantite=4>tranche de jambon</ingredient> sur chacune d’ elles et <operation temps=6.86min espace=11>roulez - les</operation>. <operation temps=6.86min espace=11>faites tenir le tout avec des cure - dents</operation>. <operation temps=6.86min espace=11>faites revenir les <ingredient quantite=3>oignons</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> dans le beurre pendant quelques minutes</operation>. <operation temps=6.86min espace=11>ajoutez les roulades</operation>, <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>faites les</operation> dorer un petit peu. <operation temps=6.86min espace=11>ajoutez le</operation> <ingredient quantite=1>vin</ingredient> et <operation temps=6.86min espace=11>couvrez le tout</operation>. <operation temps=15.0min espace=11>laissez cuire 10 - 15 minutes au moins</operation>. ajoutez les <ingredient quantite=1>herbes de provence</ingredient> et ensuite le reste du <ingredient quantite=1>boursin</ingredient>. <operation temps=10.0min espace=11>laissez mijoter 10 minutes</operation>, ajoutez la <ingredient quantite=1>crème fraîche</ingredient>. c’ est prêt! <operation temps=6.86min espace=11>servez ce <recipient>plat</recipient> avec des pâtes fraîches</operation>...
+]]>
+ </preparation>
+</recette>

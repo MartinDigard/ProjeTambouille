@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60514">
+ <titre>Méli mélo de Parme, mesclun et melon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 melon</p>
+ <p>200 g de jambon de Parme</p>
+ <p>150 g de mesclun</p>
+ <p>75 g de pignons de pin</p>
+ <p>2 cuillères à soupe de vinaigre de Xérès</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe d’ huile de tournesol</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>ouvrez le <ingredient quantite=1>melon</ingredient> en deux, ôtes les graines</operation> et <operation temps=6.86min espace=12>prélevez la chair à l’</operation> aide d’ une <ingredient quantite=1>cuillère</ingredient> parisienne pour <operation temps=6.86min espace=12>obtenir de petites billes</operation>. déposez - les dans un <recipient>saladier</recipient> et <operation temps=0.5min espace=12>réservez au frais</operation>. <operation temps=6.86min espace=12>otez le gras du</operation> <ingredient quantite=1>jambon</ingredient> puis <operation temps=6.86min espace=12>détaillez - le en fines lanières</operation>. faites dorer les <ingredient quantite=1>pignons de pin</ingredient> dans une <recipient>poêle</recipient> anti-adhésive. <operation temps=6.86min espace=12>préparez la vinaigrette</operation>: <operation temps=6.86min espace=12>versez le <ingredient quantite=1>sel</ingredient> dans un bol</operation> et <operation temps=6.86min espace=12>faites dissoudre avec le <ingredient quantite=2>vinaigre</ingredient></operation>. <operation temps=0.5min espace=12>poivrez</operation> puis <operation temps=6.86min espace=12>émulsionnez avec les <ingredient quantite=2>huiles</ingredient></operation>. déposez le <ingredient quantite=1>mesclun</ingredient>, les lanières de <ingredient quantite=1>jambon</ingredient>, les billes de <ingredient quantite=1>melon</ingredient> et les <ingredient quantite=1>pignons</ingredient> dans un <recipient>saladier</recipient>. <operation temps=6.86min espace=12>assaisonnez avec la vinaigrette</operation>, <operation temps=8.0min espace=12>mélangez bien</operation> et <operation temps=2.0min espace=12>servez</operation>. pour une recette plus économique, remplacez le <ingredient quantite=1>jambon de parme</ingredient> par un autre <ingredient quantite=1>jambon</ingredient> cru (<ingredient quantite=1>jambon</ingredient> d’ auvergne par exemple).
+]]>
+ </preparation>
+</recette>

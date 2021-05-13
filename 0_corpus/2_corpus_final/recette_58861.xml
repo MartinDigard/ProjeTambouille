@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58861">
+ <titre>Crumble aux pommes et au cognac</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>5 pommes Canada</p>
+ <p>250 g de sucre cassonade</p>
+ <p>125 g de beurre mou + 1 noisette de beurre pour le plat</p>
+ <p>15 cl de Cognac (l’ alcool s’ évaporera) </p>
+ <p>de la cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). commencez par éplucher les <ingredient quantite=5>pommes</ingredient> et <operation temps=6.86min espace=9>coupez - les en cubes très grossiers</operation>. une fois coupées, trempez les <ingredient quantite=5>pommes</ingredient> dans le <ingredient quantite=1>cognac</ingredient>. <operation temps=0.5min espace=9>réservez</operation>. <operation temps=6.86min espace=9>beurrez le <ingredient quantite=1><recipient>plat</recipient></ingredient> avec le <ingredient quantite=1>beurre</ingredient></operation>. <operation temps=6.86min espace=9>mettez les <ingredient quantite=5>pommes</ingredient></operation> trempées dans le <ingredient quantite=1>cognac</ingredient> dedans. saupoudrez avec de <ingredient quantite=1>la cannelle</ingredient>, le <ingredient quantite=1>sucre</ingredient> cassonade et <operation temps=6.86min espace=9>versez le reste du <ingredient quantite=1>cognac</ingredient> sur les <ingredient quantite=5>pommes</ingredient></operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=9>mélangez dans l’ ordre: la farine, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>beurre</ingredient></operation>. vous devez <operation temps=6.86min espace=9>obtenir une pâte émiettée</operation>. <operation temps=30.0min espace=9>mettez la pâte sur les <ingredient quantite=5>pommes</ingredient> et enfournez pendant 30 minutes</operation>. a <operation temps=2.0min espace=9>servir chaud</operation> ou tiède avec de la crème fraîche ou fouettée. si vous voulez <operation temps=6.86min espace=9>faire pour moins ou plus de personnes</operation>, <operation temps=6.86min espace=9>adaptez les proportions</operation> (<operation temps=6.86min espace=9>mettez une <ingredient quantite=1>pomme</ingredient> de plus ou de moins</operation>).
+]]>
+ </preparation>
+</recette>

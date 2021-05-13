@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220524">
+ <titre>Oeufs cocotte au jambon, au micro-ondes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 œuf</p>
+ <p>1 tranche de jambon ou de blanc de poulet</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>gruyère</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un ramequin adapté au micro-ondes, étalez la <ingredient quantite=2>crème fraîche</ingredient>. <operation temps=6.86min espace=6>émiettez par dessus le <ingredient quantite=1>jambon</ingredient> en plus ou moins gros morceaux selon vos goûts</operation>. <operation temps=6.86min espace=6>cassez l’</operation> <ingredient quantite=1>œuf</ingredient> et <operation temps=6.86min espace=6>pensez à le</operation> percer avec un cure - dent ou la pointe d’ un couteau. <operation temps=0.25min espace=6>salez</operation>, <operation temps=0.5min espace=6>poivrez</operation>. parsemez de <ingredient quantite=1>gruyère</ingredient>. <operation temps=2.0min espace=6>faites cuire au micro-ondes 1 à 2 min selon la puissance de votre micro-ondes</operation>. bon appétit! le <ingredient quantite=1>jambon</ingredient> peut-être remplacé par du <ingredient quantite=1>blanc</ingredient> de dinde, du thon, du saumon... et pour les plus gourmands (comme moi!) vous pouvez ajouter aussi des herbes qui se marient bien avec la viande ou le poisson choisi: aneth, ciboulette...
+]]>
+ </preparation>
+</recette>

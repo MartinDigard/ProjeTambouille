@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53523">
+ <titre>Cabillaud à la crème de ciboulette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 beau morceau de Cabillaud d’ environ 500 g</p>
+ <p>1 belle noisette de beurre</p>
+ <p>1 brique de crème fraîche liquide</p>
+ <p>ciboulette</p>
+ <p>1 échalote</p>
+ <p>sel, poivre</p>
+ <p>1 pointe de piment de Cayenne</p>
+ <p>1 pointe de hot curry</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faire dorer le <ingredient quantite=1>cabillaud</ingredient> dans le <ingredient quantite=1>beurre</ingredient></operation>. saler, poivrer. quand il est cuit, l’ émietter, ajouter l’ <ingredient quantite=1>échalote</ingredient> finement hachée et <operation temps=6.86min espace=9>couvrir de <ingredient quantite=1>crème</ingredient> fraiche <ingredient quantite=1>liquide</ingredient></operation>. ajouter la <ingredient quantite=1>ciboulette</ingredient>, la <ingredient quantite=1>pointe de piment</ingredient> et de <ingredient quantite=1>curry</ingredient> (attention le <ingredient quantite=1>piment de cayenne</ingredient> pimente fort). rectifier et <operation temps=3.0min espace=9>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

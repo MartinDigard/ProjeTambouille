@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164943">
+ <titre>Guiness beef stew</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de paleron de boeuf</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>250 ml de bouillon</p>
+ <p>250 ml de bière Guiness</p>
+ <p>4 carottes</p>
+ <p>pruneaux</p>
+ <p>laurier</p>
+ <p>thym</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> et mettre à rissoler. découper les <ingredient quantite=4>carottes</ingredient> en rondelles. détailler la viande en morceaux. retirer les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> et réserver. <operation temps=6.86min espace=11>faire dorer les morceaux de viande de tous les côtés</operation>. ajouter la farine. ajouter le <ingredient quantite=1>bouillon</ingredient>. <operation temps=6.86min espace=11>laisser cuire doucement pour</operation> <operation temps=6.86min espace=11>faire épaissir la sauce</operation> et ajouter la <ingredient quantite=1>bière</ingredient>. <operation temps=5.0min espace=11>laisser mijoter 5 min à couvert</operation>. ajouter les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, les <ingredient quantite=4>carottes</ingredient>, les herbes, saler et poivrer. <operation temps=6.86min espace=11>laisser cuire à feu doux sans</operation> <operation temps=6.86min espace=11>couvrir pendant 1h30</operation>. ajouter de l’ eau si besoin, mélanger. ajouter les pruneaux 30 minutes avant la fin. servir accompagné de tagliatelle par exemple
+]]>
+ </preparation>
+</recette>

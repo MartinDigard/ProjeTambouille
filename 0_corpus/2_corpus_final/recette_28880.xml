@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28880">
+ <titre>Pommes au beurre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 pommes type golden</p>
+ <p>beurre (30 g) </p>
+ <p>sucre (3 cuillères à soupe) </p>
+ <p>extrait de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=3>pommes</ingredient> et les couper en quartier. dans une <recipient>cocotte</recipient> ou une <recipient>casserole</recipient> <operation temps=6.86min espace=6>faire fondre du beurre à feu doux</operation>, ajouter les <ingredient quantite=3>pommes</ingredient>. <operation temps=6.86min espace=6>faire cuire doucement jusqu’ à ce que les <ingredient quantite=3>pommes</ingredient> soient tendres</operation>. ajouter du <ingredient quantite=1>sucre</ingredient> et de l’ <ingredient quantite=1>extrait de vanille</ingredient> (ou du <ingredient quantite=1>sucre</ingredient> vanillé). <operation temps=6.86min espace=6>servir les <ingredient quantite=3>pommes</ingredient> chaudes ou tièdes, seules</operation> ou accompagnées d’ une boule de glace (<ingredient quantite=1>vanille</ingredient>, nougat...) les quantités de beurre et de <ingredient quantite=1>sucre</ingredient> sont à moduler en fonction des goûts de chacun. je <operation temps=6.86min espace=6>fais également cette recette sans beurre au micro-ondes avec de l’</operation> édulcorant et de la canelle.
+]]>
+ </preparation>
+</recette>

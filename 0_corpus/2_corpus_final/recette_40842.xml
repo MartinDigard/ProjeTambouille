@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40842">
+ <titre>Filets de rougets marinés</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 à 15 filets de rougets</p>
+ <p>1 citron </p>
+ <p>persil </p>
+ <p>ail </p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer les <ingredient quantite=1>filets</ingredient> dans un <recipient>plat</recipient> creux. les arroser de jus du <ingredient quantite=1>citron</ingredient>. parsemer d’ <ingredient quantite=1>ail</ingredient> et de <ingredient quantite=1>persil</ingredient>, finement hachés. verser un <ingredient quantite=1>filet</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient> sur les poissons. <operation temps=6.86min espace=7>laisser mariner au minimum 2 h</operation>. faire revenir les <ingredient quantite=1>filets de rougets</ingredient> à la <recipient>poêle</recipient>. <operation temps=6.86min espace=7>servir avec un mélange de trois riz, par exemple</operation>.
+]]>
+ </preparation>
+</recette>

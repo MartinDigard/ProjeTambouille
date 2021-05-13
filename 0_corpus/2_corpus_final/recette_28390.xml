@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28390">
+ <titre>Douillons normands aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 pommes à cuire</p>
+ <p>pâte feuilletée en rouleau</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>20 g de beurre</p>
+ <p>Pour le sirop: </p>
+ <p>150 g de sucre</p>
+ <p>1 jus de citron</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=6>pommes</ingredient>, <operation temps=6.86min espace=9>enlevez le coeur</operation>. péparez un <ingredient quantite=1>sirop</ingredient> avec un peu d’ eau, 150 g de <ingredient quantite=2>sucre</ingredient>, et le <ingredient quantite=1>jus de citron</ingredient>. dès que le <ingredient quantite=1>sirop</ingredient> bout <operation temps=6.86min espace=9>mettez les <ingredient quantite=6>pommes</ingredient></operation>. <operation temps=6.86min espace=9>laissez <ingredient quantite=6>cuire</ingredient> à feu doux jusqu’ à ce que les fruits soient à moitié cuits</operation>. <operation temps=20.0min espace=9>laissez refroidir</operation>. découper des carrés de <ingredient quantite=1>pâte</ingredient> pour pouvoir envelopper les fruits. <operation temps=6.86min espace=9>rassemblez les 4 pointes vers le sommet de la <ingredient quantite=1>pomme</ingredient> en</operation> collant la <ingredient quantite=1>pâte</ingredient> avec de l’ eau. badigeonner à l’ <ingredient quantite=1>oeuf</ingredient> battu et mettre au <recipient>four</recipient> th 6 jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit dorée. cidre
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21491">
+ <titre>Beignets au coco</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillères à soupe de farine</p>
+ <p>4 cuillères à soupe de noix de coco fraîche râpée</p>
+ <p>2 cuillères à soupe de sucre en poudre</p>
+ <p>1 oeuf</p>
+ <p>25 g de beurre fondu</p>
+ <p>1/2 cuillère à café de levure chimique</p>
+ <p>noix de muscade (ou extrait de vanille naturelle en poudre) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une jatte, mettre la farine, le <ingredient quantite=4>coco</ingredient>, le <ingredient quantite=2>sucre</ingredient>, la <ingredient quantite=1>levure</ingredient>, la <ingredient quantite=1>muscade</ingredient> et / ou la vanille puis mélanger. battre les deux <ingredient quantite=1>oeufs</ingredient> puis y ajouter le beurre <ingredient quantite=1>fondu</ingredient>. <operation temps=6.86min espace=8>faire un puits</operation> et mettre les <ingredient quantite=1>oeufs</ingredient> battus. mélanger à la main jusqu’ à <operation temps=6.86min espace=8>obtenir une pâte ni trop souple, ni trop dure</operation>. si la pâte est trop dure, rajouter un peu de lait de <ingredient quantite=4>coco</ingredient> et travailler jusqu’ à <operation temps=6.86min espace=8>obtenir une pâte lisse qui ne</operation> colle plus aux doigts. <operation temps=6.86min espace=8>laisser reposer 45</operation> mn. etaler la pâte au rouleau puis à l’ aide d’ un emporte - pièce, <operation temps=6.86min espace=8>découpez des carrés de 3 ou 4 cm de côté</operation>. jeter dans un bain de friture bien chaud. egoutter. présenter dans un <recipient>plat</recipient> et déguster.
+]]>
+ </preparation>
+</recette>

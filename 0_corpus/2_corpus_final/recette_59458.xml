@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59458">
+ <titre>Cookies chocolat blanc et noix de pécans</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>1 demi sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>100 g de sucre (roux pour la couleur) </p>
+ <p>60 g de beurre ramolli (mais non fondu) </p>
+ <p>une pincée de sel</p>
+ <p>1 oeuf</p>
+ <p>100 g de chocolat blanc coupé en petits morceaux</p>
+ <p>70 g de noix de pécans</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 degrès (thermostat 6). mélanger dans un <recipient>saladier</recipient> les ingrédients suivants: <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>levure</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>beurre</ingredient>, <ingredient quantite=1>oeuf</ingredient>, <ingredient quantite=1>sucre vanillé</ingredient>. bien malaxer. ajouter le <ingredient quantite=1>chocolat</ingredient> préalablement mélangé aux <ingredient quantite=1>noix</ingredient> de pécans. continuer de malaxer afin d’ <operation temps=6.86min espace=12>obtenir une grosse boule</operation>. façonner des boulettes un peu plus grosses qu’ une <ingredient quantite=1>noix</ingredient>. les disposer sur une plaque beurrée ert enfourner dans le <recipient>four</recipient> chaud. servir tiède. ces excellents cookies peuvent très bien se marier à une boule de glace à la vanille...
+]]>
+ </preparation>
+</recette>

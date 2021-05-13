@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64002">
+ <titre>Potiron aux lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un potiron d’ environ 800 g à 1 kg</p>
+ <p>de l’ ail et des aromates</p>
+ <p>environ 200 g de lardons</p>
+ <p>deux cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le potiron en dés assez grossièrement (ne pas oublier que le potiron est gorgé d’ eau et qu’ il fond à la cuisson). <operation temps=6.86min espace=6>faire revenir les dés de potiron dans une <recipient>poêle</recipient> avec un peu de beurre et d’ huile d’ olive</operation>. une fois que le potiron a rendu son jus, poivrer, et saler peu car les <ingredient quantite=1>lardons</ingredient> le sont déjà, ajouter de l’ <ingredient quantite=1>ail et des aromates</ingredient> telles que les herbes de provence. <operation temps=6.86min espace=6>laisser cuire jusqu’ à ce que le potiron soit moelleux quand on le pique au couteau (comme une patate)</operation> puis ajouter les <ingredient quantite=1>lardons</ingredient> fumés. <operation temps=6.86min espace=6>laisser cuire encore quelques minutes</operation> puis <operation temps=2.0min espace=6>servir</operation>... c’ est un <recipient>plat</recipient> d’ hiver excellent et très facile et rapide à <operation temps=6.86min espace=6>faire un soir de semaine</operation>... un bon verre de cidre fermier
+]]>
+ </preparation>
+</recette>

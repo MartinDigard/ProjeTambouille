@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81466">
+ <titre>Gâteau chocolat au pain rassi</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>environ 1/2 baguette de pain rassi</p>
+ <p>lait</p>
+ <p>100 g de sucre</p>
+ <p>80 g de farine</p>
+ <p>100 g de cacao en poudre</p>
+ <p>180 g de chocolat patissier</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+recouvrez le <ingredient quantite=1>pain rassi</ingredient> de lait, <operation temps=6.86min espace=9>laissez tremper jusqu’ à ce qu’ il</operation> devienne mou (mais pas en bouillie), <operation temps=6.86min espace=9>ajoutez ensuite le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>cacao</ingredient>, la farine et les <ingredient quantite=3>oeufs</ingredient></operation>. <operation temps=6.86min espace=9>remuez bien</operation>. <operation temps=6.86min espace=9>remplissez un <recipient>moule</recipient> à cake avec la moitié de la préparation, déposez le <ingredient quantite=1>chocolat</ingredient> en morceaux, puis le reste du mélange</operation>. <operation temps=30.0min espace=9>mettez au <recipient>four</recipient> 30 min à 180 ° c</operation>. bon appétit. <operation temps=5.0min espace=9>dégustez</operation> tiède pour que le <ingredient quantite=1>chocolat</ingredient> au milieu soit bien fondant.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16659">
+ <titre>Fondant au chocolat et aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de chocolat à dessert</p>
+ <p>150 g de crème liquide</p>
+ <p>3 oeufs</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>70 g de sucre</p>
+ <p>2 pommes</p>
+ <p>80 g de noix</p>
+ <p>70 g de raisins secs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=10>faire fondre le</operation> <ingredient quantite=1>chocolat</ingredient>, <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=1>crème</ingredient>, 3 jaunes d’ <ingredient quantite=3>oeufs</ingredient> et la</operation> <ingredient quantite=1>maïzena</ingredient> (<operation temps=6.86min espace=10>faire attention que le <ingredient quantite=1>chocolat</ingredient> ne soit pas trop chaud</operation>). monter les blancs en neige en y ajoutant le <ingredient quantite=1>sucre</ingredient>, puis incorporer délicatement le mélange de <ingredient quantite=1>chocolat</ingredient>. mettre la pâte dans un <recipient>moule</recipient> beurré puis parsemer de <ingredient quantite=2>pommes</ingredient>, <ingredient quantite=1>raisins</ingredient> et <ingredient quantite=1>noix</ingredient>. saupoudrer de <ingredient quantite=1>sucre</ingredient> glace et enfourner. cuire 50 mn à 180 ° c. <operation temps=10.0min espace=10>laisser refroidir avant de</operation> démouler.
+]]>
+ </preparation>
+</recette>

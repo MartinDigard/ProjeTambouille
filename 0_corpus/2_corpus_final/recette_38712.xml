@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38712">
+ <titre>Soupe de poireaux au jambon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de poireaux</p>
+ <p>25 g de beurre</p>
+ <p>1 litre de bouillon de volaille</p>
+ <p>10 cl de crème fraîche</p>
+ <p>150 g de jambon en dés</p>
+ <p>croûtons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez et émincez 1 kg de <ingredient quantite=1>poireaux</ingredient>. <operation temps=6.86min espace=6>faites les</operation> fondre dans 25 g de beurre, 10 min à feu doux puis mouillez avec 1 <ingredient quantite=1>litre de bouillon de volaille</ingredient>. liez avec 10 cl de <ingredient quantite=1>crème</ingredient>. au dernier moment, <operation temps=6.86min espace=6>ajoutez les dés de <ingredient quantite=1>jambon</ingredient> et des petits <ingredient quantite=1>croûtons</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

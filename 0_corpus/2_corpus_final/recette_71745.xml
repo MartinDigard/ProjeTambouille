@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71745">
+ <titre>Poulet à l’ hawaïenne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet d’ environ 1, 5 kg </p>
+ <p>400g de morceaux d’ ananas (boite) </p>
+ <p>1 poivron rouge</p>
+ <p>20 cl de bouillon de poule (1/2 cube + 20 cl d’ eau très chaude) </p>
+ <p>2 c. à soupe d’ huile d’ olive</p>
+ <p>2 c. à soupe de farine</p>
+ <p>1c. à soupe de paprika</p>
+ <p>1 pointe de couteau de pili-pili</p>
+ <p>1 pointe de couteau de poivre de cayenne</p>
+ <p>sel et poivre</p>
+ <p>liant instantané pour sauces</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez le <ingredient quantite=1>poulet</ingredient> en morceaux: commencez par les cuisses, les ailes, puis le blanc</operation>. <operation temps=6.86min espace=13>passez les morceaux de <ingredient quantite=1>poulet</ingredient> dans un mélange de farine et de <ingredient quantite=1>paprika</ingredient></operation>. <operation temps=6.86min espace=13>ôtez les graines et les filaments blancs du</operation> <ingredient quantite=1>poivron</ingredient> et <operation temps=6.86min espace=13>coupez - le en dés</operation>. <operation temps=6.86min espace=13>faites chauffer l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> dans une <recipient>casserole</recipient></operation> et <operation temps=6.86min espace=13>faites - y</operation> dorer les morceaux de <ingredient quantite=1>poulet</ingredient> de tous les côtés. <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>bouillon</ingredient> et le jus des morceaux d’ ananas</operation> et <operation temps=30.0min espace=13>faites mijoter pendant 30 min</operation>. <operation temps=0.25min espace=13>salez</operation>, poivrez et épicez de <ingredient quantite=1>poivre de cayenne</ingredient> et de <ingredient quantite=1>pili</ingredient> - <ingredient quantite=1>pili</ingredient>. <operation temps=6.86min espace=13>ajoutez les dés de <ingredient quantite=1>poivron</ingredient> et les morceaux d’ ananas</operation>. <operation temps=30.0min espace=13>poursuivez la cuisson pendant 30 min</operation>. ôtez les morceaux de <ingredient quantite=1>poulet</ingredient> de la <recipient>casserole</recipient> et liez légèrement avec un <ingredient quantite=1>liant instantané pour sauces</ingredient>. accompagnez de riz. on peut remplacer le <ingredient quantite=1>poulet</ingredient> par des blancs ou filets de <ingredient quantite=1>poulet</ingredient>. côtes du rhône
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80094">
+ <titre>Tarte Suisse</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de sucre</p>
+ <p>4 oeufs</p>
+ <p>200 g de farine</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>fruits de saison (pommes, poires, abricots, myrtilles, framboises...) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre le <ingredient quantite=1>sucre</ingredient> avec les <ingredient quantite=4>oeufs</ingredient>, puis ajouter la farine et la <ingredient quantite=1>levure</ingredient>. quand la préparation fait le ruban, la mettre dans un <recipient>plat</recipient> à tarte puis ajouter les <ingredient quantite=1>fruits</ingredient>. mettre au <recipient>four</recipient> à 180 °, thermostat 6, pendant 25 min (la lame du couteau doit être sèche). facile et très vite mangé par les enfants.
+]]>
+ </preparation>
+</recette>

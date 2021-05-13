@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13469">
+ <titre>Pâtes au chou-fleur</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pâtes de type coquillettes</p>
+ <p>30 g de beurre</p>
+ <p>1 chou-fleur</p>
+ <p>1/2 litre de lait </p>
+ <p>1 cuillère de farine</p>
+ <p>parmesan râpé </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre sur le feu une <recipient>casserole</recipient> avec de l’ eau et une pincée de <ingredient quantite=1>sel</ingredient>. entretemps, nettoyer, laver et <operation temps=15.0min espace=11>faire boullir le <ingredient quantite=1>chou-fleur</ingredient> dans l’ eau avec une pincée de <ingredient quantite=1>sel</ingredient> pendant 15 minutes</operation>. préparer la béchamel dans une <recipient>poêle</recipient>: <operation temps=6.86min espace=11>faire fondre le beurre et la farine</operation> et ajouter le <ingredient quantite=1>lait</ingredient> petit à petit. en remuant toujours, porter à ébullition et éteindre. ne pas trop cuire les <ingredient quantite=1>pâtes</ingredient>. les égoutter et les les verser dans un <recipient>plat</recipient> beurré. ajouter les <ingredient quantite=1>chou-fleurs</ingredient>, la béchamel et le <ingredient quantite=1>parmesan</ingredient>, puis gratiner le tout dans le <recipient>four</recipient> pendant 15 min.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66325">
+ <titre>Aumonières aux cerises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 crêpes</p>
+ <p>1 bocal de cerises au sirop</p>
+ <p>1 L de glace à la vanille</p>
+ <p>50 cl de crème anglaise</p>
+ <p>Beurre</p>
+ <p>Sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire fondre le beurre dans une <recipient>poêle</recipient>, y</operation> <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>cerises</ingredient> et les</operation> saupoudrer de <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=7>laisser caraméliser (le <ingredient quantite=1>sucre</ingredient></operation> doit formé un jus sirupeux). dans chaque <ingredient quantite=1>crêpe</ingredient>, déposer une boule de <ingredient quantite=1>glace</ingredient> et refermer en aumônière. déposer sur les <ingredient quantite=1>cerises</ingredient> tièdes dans chaque assiette. servir accompagnées de <ingredient quantite=1>crème anglaise</ingredient> et du jus de cuisson des <ingredient quantite=1>cerises</ingredient>. un délice pour la bouche... et les yeux... n’ hésitez pas à utiliser des <ingredient quantite=6>crêpes</ingredient> toutes prêtes!!! un crémant ou un champagne
+]]>
+ </preparation>
+</recette>

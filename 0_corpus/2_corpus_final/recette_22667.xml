@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22667">
+ <titre>Rôti de dindonneau aux marrons et aux truffes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 dindonneau à rôtir d’ environ 1, 2 kg</p>
+ <p>bardes de lard</p>
+ <p>1 kg de marrons</p>
+ <p>50 g de beurre</p>
+ <p>3 cl de cognac</p>
+ <p>15 cl de porto</p>
+ <p>2 cubes de bouillon de viande</p>
+ <p>1 l d’ eau bouillante</p>
+ <p>300 g de truffes</p>
+ <p>2 carottes</p>
+ <p>2 oignons</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> à 220 ° c (thermostat 7/8). peler et émincer les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=2>carottes</ingredient>, puis en tapisser le fond d’ un <recipient>plat</recipient> à <ingredient quantite=1>rôti</ingredient>. <operation temps=1.0min espace=19>faire fondre le beurre</operation>. envelopper le <ingredient quantite=1>dindonneau</ingredient> de <ingredient quantite=1>bardes de lard</ingredient>, puis le déposer sur le lit de légumes et le napper de <ingredient quantite=1>beurre</ingredient> fondu. saler et poivrer. puis enfourner à <recipient>four</recipient> chaud et <operation temps=30.0min espace=19>laisser cuire</operation> 1h. pendant ce temps, nettoyer les <ingredient quantite=1>marrons</ingredient>, les inciser puis les passer 10 min à <recipient>four</recipient> très chaud. préparer le <ingredient quantite=2>bouillon de viande</ingredient> en délayant les 2 <ingredient quantite=2>cubes</ingredient> dans 1 litre d’ <ingredient quantite=1>eau</ingredient> portée à ébullition. y plonger ensuite les <ingredient quantite=1>marrons</ingredient> et <operation temps=30.0min espace=19>laisser cuire</operation> 20 min environ. <operation temps=6.86min espace=19>sortir le rôti du <recipient>four</recipient>,</operation> puis déglacer le <recipient>plat</recipient> de cuisson ou décoller les sucs avec le <ingredient quantite=1>porto</ingredient> et le <ingredient quantite=1>cognac</ingredient>. filtrer cette sauce, incorporer les <ingredient quantite=1>truffes</ingredient> et la <operation temps=6.86min espace=19>faire réduire</operation>. egoutter les <ingredient quantite=1>marrons</ingredient> et les déposer dans le <recipient>plat</recipient> de cuisson du <ingredient quantite=1>dindonneau</ingredient>, puis les napper de sauce et servir.
+]]>
+ </preparation>
+</recette>

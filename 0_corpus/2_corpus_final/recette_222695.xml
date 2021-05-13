@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222695">
+ <titre>Poulet pané aux pistaches</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 escalopes de poulet</p>
+ <p>200 g de pistaches</p>
+ <p>100 g de farine</p>
+ <p>1 œuf</p>
+ <p>3 cuillères à soupe d’ estragon </p>
+ <p>1 bouquet de persil</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 citrons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+avec un rouleau à pâtisserie, aplatissez les <ingredient quantite=6>escalopes de poulet</ingredient>. <operation temps=6.86min espace=9>coupez les <ingredient quantite=6>escalopes</ingredient> en aiguillettes</operation>. <operation temps=6.86min espace=9>versez la farine dans une assiette creuse</operation>. battez l’ <ingredient quantite=1>œuf</ingredient> dans une deuxième assiette. <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=6.86min espace=9>pilez les <ingredient quantite=1>pistaches</ingredient> en petits morceaux mais pas en poudre</operation>. placez les dans une troisième assiette avec l’ <ingredient quantite=3>estragon</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=9>passez les aiguillettes dans la farine puis dans l’ <ingredient quantite=1>œuf</ingredient> battu et dans la préparation (<ingredient quantite=1>pistaches</ingredient>,</operation> <ingredient quantite=3>estragon</ingredient> et <ingredient quantite=1>persil</ingredient>). faîtes chauffer l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> dans une <recipient>poêle</recipient> puis faîtes dorer les aiguillettes 5 min de chaque côté à feu moyen. <operation temps=6.86min espace=9>servez les aiguillettes avec un quartier de <ingredient quantite=1>citron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

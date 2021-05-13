@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166352">
+ <titre>Gateau au chocolat fondant rapide</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>-200 g de chocolat à pâtisser noir</p>
+ <p>-100 g de beurre + une noix pour le moule</p>
+ <p>-3 œufs</p>
+ <p>-50 g de farine</p>
+ <p>-100 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> th.6 (180 ° c). dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=13>faites fondre le <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=1>beurre</ingredient></operation> coupé en morceaux à feu très doux. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=1>œufs</ingredient>, la farine</operation>. <operation temps=5.0min espace=13>mélangez</operation>. <operation temps=6.86min espace=13>ajoutez le mélange <ingredient quantite=1>chocolat</ingredient> / <ingredient quantite=1>beurre</ingredient></operation>. <operation temps=5.0min espace=13>mélangez</operation> bien. beurrez et <operation temps=6.86min espace=13>farinez votre</operation> <ingredient quantite=1><recipient>moule</recipient></ingredient> et <operation temps=6.86min espace=13>versez la pâte à gâteau</operation>. <operation temps=20.0min espace=13>faites cuire au <recipient>four</recipient> environ 20 minutes (25 minutes dans un <ingredient quantite=1><recipient>moule</recipient></ingredient> en pyrex</operation>). a la sortie du <recipient>four</recipient> le gâteau ne paraît pas assez cuit. c’ est normal, <operation temps=6.86min espace=13>laissez - le refroidir puis démoulez- le</operation>. pour aller plus vite, pour <operation temps=6.86min espace=13>faire fondre le <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=1>beurre</ingredient>, je</operation> mets le tout dans un bol coupé en carrés au micro-ondes. idéal avec une crème anglaise.
+]]>
+ </preparation>
+</recette>

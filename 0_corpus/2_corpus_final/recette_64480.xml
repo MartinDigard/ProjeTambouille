@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64480">
+ <titre>Surimi à l’ armoricaine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>16 bâtonnets de surimi</p>
+ <p>4 cuillères à café de concentré de tomates</p>
+ <p>1/2 verre d’ eau (environ 15-20 cl) </p>
+ <p>6 cl de cognac ou wiskhy</p>
+ <p>4 cuillères à soupe de crème fraîche épaisse</p>
+ <p>1 gros oignon</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en morceaux dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. mixer le <ingredient quantite=1>surimi</ingredient> et l’ ajouter dans la <recipient>poêle</recipient>. <operation temps=6.86min espace=10>laisser dorer quelques minutes</operation>. ajouter l’ <ingredient quantite=1>eau</ingredient> mélangée avec le concentré de <ingredient quantite=4>tomates</ingredient> puis verser le <ingredient quantite=1>cognac</ingredient>. <operation temps=6.86min espace=10>faire bouillir,</operation> et <operation temps=5.0min espace=10>laisser mijoter au moins 5 minutes</operation>. saler, poivrer. dès la fin de cuisson, ajouter la <ingredient quantite=4>crème fraîche</ingredient>, chauffer sans <operation temps=6.86min espace=10>laisser bouillir</operation>. servir chaud avec des pâtes ou du riz. bon appétit. c’ est super bon, et si vous n’ avez pas d’ alcool ou ne voulez pas en mettre à cause de vos enfants, et bien c’ est toujours aussi bon.
+]]>
+ </preparation>
+</recette>

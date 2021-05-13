@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57723">
+ <titre>Poulet au jambon et à l’ érable</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>1 tranche de jambon épaisse</p>
+ <p>1 oignon</p>
+ <p>ciboulette</p>
+ <p>sirop d’ érable</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire dorer les blancs de <ingredient quantite=4>poulet</ingredient> quelques secondes sur chaque face</operation>. couper l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>jambon</ingredient> en petits dés et les <operation temps=6.86min espace=8>faire revenir à la poele</operation>. ajouter la <ingredient quantite=1>ciboulette</ingredient>. fendre les blancs de <ingredient quantite=4>poulet</ingredient> dans la longueur et les farcir du mélange <ingredient quantite=1>jambon</ingredient> - <ingredient quantite=1>oignon</ingredient>. placer le <ingredient quantite=4>poulet</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, placer un petit morceau de beurre sur chaque morceau de <ingredient quantite=4>poulet</ingredient> et <operation temps=6.86min espace=8>recouvrir de <ingredient quantite=1>sirop</ingredient> d’</operation> érable (environ 1 cuillère à soupe par morceau). <operation temps=40.0min espace=8>faire cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pour environ 40 minutes</operation>. ou jusqu’ à ce que la température intérieure du <ingredient quantite=4>poulet</ingredient> atteigne 74 ° c. accompagner avec du riz.
+]]>
+ </preparation>
+</recette>

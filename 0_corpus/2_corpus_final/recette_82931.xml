@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82931">
+ <titre>Oeufs mimosa aux épices</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>3 ou 4 cuillères à soupe de mayonnaise</p>
+ <p>2 ou 3 pincées de cumin</p>
+ <p>2 ou 3 pincées de curry</p>
+ <p>2 ou 3 pincées de paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=15.0min espace=5>faites cuire vos <ingredient quantite=6>oeufs</ingredient> 15 minutes</operation>. une fois durs, <operation temps=6.86min espace=5>faites refroidir vos <ingredient quantite=6>oeufs</ingredient> sous l’ eau</operation> froide, <operation temps=6.86min espace=5>enlevez les coquilles</operation> et <operation temps=6.86min espace=5>coupez - les en deux</operation>. avec une <ingredient quantite=1>cuillère</ingredient>, <operation temps=6.86min espace=5>videz les <ingredient quantite=6>oeufs</ingredient> de leur jaune</operation>. mélangez, à l’ aide d’ une fourchette, les jaunes avec la <ingredient quantite=3>mayonnaise</ingredient>. <operation temps=6.86min espace=5>faites 3 petits tas de ce mélange, à peu près équitablement</operation>. dans l’ un, ajoutez deux ou trois <ingredient quantite=2>pincées de cumin</ingredient>, dans l’ autre du <ingredient quantite=2>curry</ingredient> et enfin le <ingredient quantite=2>paprika</ingredient> dans le troisième. dans 4 demi-oeufs, replacez chaque mélange. vous aurez donc 3 <ingredient quantite=6>oeufs</ingredient> mimosa de saveurs différentes. bon appétit. vous pouvez accompagner les <ingredient quantite=6>oeufs</ingredient> mimosa de salade verte, de macédoine, ou d’ autres entrées encore...
+]]>
+ </preparation>
+</recette>

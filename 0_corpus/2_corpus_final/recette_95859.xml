@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95859">
+ <titre>Pizza (map) jambon raclette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à pizza: - 250g de farine </p>
+ <p>1 pincée de sel</p>
+ <p>4 cs d’ huile d’ olive</p>
+ <p>15cl d’ eau tiède</p>
+ <p>1 sachet de levure de boulanger sèche</p>
+ <p>Pour la garniture: - 6 tranches de raclette (env. 130g) </p>
+ <p>150g d’ allumettes de jambon </p>
+ <p>6 rondelles de tomates </p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>poivre (facultatif) </p>
+ <p>origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte à pizza: mettre les ingrédients dans la <recipient>machine à pain</recipient> dans l’ ordre suivant: l’ <ingredient quantite=1>eau</ingredient>, l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>, <ingredient quantite=1>sel</ingredient>, la farine et la <ingredient quantite=1>levure</ingredient>. mettre sur le programme pâte et <operation temps=6.86min espace=12>laisser minimum une demi heure</operation>. passez ce temps, mettre la pâte sur un plan fariné et l’ <operation temps=6.86min espace=12>aplatir doucement au rouleau en rectangle</operation>. sur un plaque rectangulaire, mettre du papier sulfurisé et déposer la pâte. <ingredient quantite=1>garniture</ingredient>: poser les <ingredient quantite=1>6 tranches de raclette</ingredient>, sans croûte, sur la pâte en les espaçant un peu (en 2 rangées de 3). <operation temps=6.86min espace=12>poivrez légèrement</operation> et ajouter les <ingredient quantite=1>allumettes de jambon</ingredient>, les <ingredient quantite=6>rondelles de tomates</ingredient> sur chaque fromage, l’ <ingredient quantite=1>origan</ingredient> et le <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>. <operation temps=6.86min espace=12>enfournez</operation> 15mn à 210 ° c. vous pouvez ajouter un oignon sur le fromage. attention à la cuisson car 15 min elle reste tendre et moelleuse mais à <operation temps=20.0min espace=12>partir de 20 min elle</operation> <ingredient quantite=1>sèche</ingredient>!
+]]>
+ </preparation>
+</recette>

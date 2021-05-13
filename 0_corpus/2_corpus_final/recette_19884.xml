@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19884">
+ <titre>Filets de lieu panés au parmesan</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de lieu</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>2 oeufs</p>
+ <p>24 g de chapelure</p>
+ <p>50 g de parmesan râpé</p>
+ <p>60 g de beurre</p>
+ <p>1 cuillère à café d’ ail surgelé</p>
+ <p>1/2 feuille de sauge</p>
+ <p>3 cl d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, battre les <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=1>sel</ingredient>, le poivre et l’ <ingredient quantite=1>ail</ingredient>. dans une assiette creuse, mélanger la <ingredient quantite=1>chapelure</ingredient> avec le <ingredient quantite=1>parmesan</ingredient>. saupoudrer les <ingredient quantite=4>filets</ingredient> de farine, les passer dans le mélange d’ <ingredient quantite=2>oeufs</ingredient>, puis les rouler dans la <ingredient quantite=1>chapelure</ingredient> et renouveler l’ opération encore une fois. mettre l’ <ingredient quantite=1>huile</ingredient> avec 20 g de beurre à chauffer dans une <recipient>poêle</recipient>, puis y <operation temps=2.0min espace=13>faire dorer les <ingredient quantite=4>filets</ingredient> 2 min de chaque côté à feu vif</operation>. <operation temps=6.86min espace=13>laisser ensuite</operation> mijoter pendant 10 min à feu réduit, puis dégraisser la <recipient>poêle</recipient> et réserver les <ingredient quantite=4>filets</ingredient> au chaud. mettre le reste du beurre à fondre dans la <recipient>poêle</recipient> puis y incorporer les feuilles de <ingredient quantite=1>sauge</ingredient>. <operation temps=6.86min espace=13>laisser colorer un peu le beurre avec la <ingredient quantite=1>sauge</ingredient>, puis en</operation> napper les <ingredient quantite=4>filets de lieu</ingredient>. servir accompagné de pâtes fraîches aux zestes de citron.
+]]>
+ </preparation>
+</recette>

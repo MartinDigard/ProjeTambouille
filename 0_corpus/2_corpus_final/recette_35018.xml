@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35018">
+ <titre>Lasagnes au brocciu (Corse) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de brocciu ou de brousse</p>
+ <p>un paquet de blettes</p>
+ <p>12 feuilles de lasagnes "crues"</p>
+ <p>500 g de viande hachée</p>
+ <p>1 pot de sauce provençale</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egoutter le <ingredient quantite=1>brocciu</ingredient> dans du papier absorbant. cuire les <ingredient quantite=1>blettes</ingredient> (les <ingredient quantite=1>feuilles</ingredient> seulement) et les hacher. mélanger le <ingredient quantite=1>brocciu</ingredient> et les <ingredient quantite=1>blettes</ingredient>, saler et poivrer. faire revenir la <ingredient quantite=1>viande hachée</ingredient> et la <ingredient quantite=1>sauce</ingredient>, puis <operation temps=10.0min espace=9>laisser mijoter 10 mn à feu doux en</operation> rajoutant un demi-verre d’ eau. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, disposer une rangée de <ingredient quantite=1>lasagnes</ingredient>, <operation temps=6.86min espace=9>couvrir du mélange blettes / <ingredient quantite=1>brocciu</ingredient></operation>. renouveler l’ opération. <operation temps=6.86min espace=9>couvrir l’</operation> ensemble avec la moitié de la <ingredient quantite=1>sauce</ingredient> bolognaise et y ajouter 10 cl de <ingredient quantite=1>crème</ingredient>. mettre au <recipient>four</recipient> 20 mn à 220 ° c. les 10 mn de cuisson restantes, ajouter le reste de <ingredient quantite=1>sauce</ingredient> et <operation temps=6.86min espace=9>laisser cuire doucement</operation>. vérifier la cuisson avec un couteau. n’ hésitez pas à ajouter toutes sortes d’ herbes et aromates à la <ingredient quantite=1>sauce</ingredient>, ou même du fromage râpé. clos d’ alzeto rouge
+]]>
+ </preparation>
+</recette>

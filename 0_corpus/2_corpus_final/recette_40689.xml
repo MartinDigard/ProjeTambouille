@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40689">
+ <titre>Gâteau aux pommes et au caramel salé</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 pommes</p>
+ <p>120 g de beurre</p>
+ <p>120 g de farine</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème liquide à 5%</p>
+ <p>180 g de sucre</p>
+ <p>1 sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>cannelle (selon votre goût) </p>
+ <p>2 cuillères à soupe de rhum ou de calvados</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez les <ingredient quantite=5>pommes</ingredient> en 4, puis en 8 quartiers</operation>. <operation temps=6.86min espace=13>faites fondre 30 g de beurre avec 50 g de <ingredient quantite=1>sucre</ingredient>, dans une <recipient>poêle</recipient> sur feu moyen</operation>. <operation temps=6.86min espace=13>laissez le caramel se</operation> <operation temps=6.86min espace=13>faire, en</operation> surveillant bien. une fois fait, <operation temps=6.86min espace=13>versez les <ingredient quantite=5>pommes</ingredient>,</operation> et <operation temps=6.86min espace=13>laissez cuire une dizaine de minutes</operation>. pendant ces 10 min, versez le <ingredient quantite=1>sucre vanillé</ingredient>, le <ingredient quantite=2>rhum</ingredient>, et la <ingredient quantite=1>cannelle</ingredient>. pendant ce temps, <operation temps=6.86min espace=13>préparez la pâte avec 50 g de beurre, la farine, 2 <ingredient quantite=3>oeufs</ingredient>, 80 g de <ingredient quantite=1>sucre</ingredient>, et la <ingredient quantite=1>levure</ingredient></operation>. mélangez, puis versez la <ingredient quantite=1>crème liquide</ingredient>. <operation temps=6.86min espace=13>beurrez un <recipient>moule</recipient>,</operation> et <operation temps=6.86min espace=13>déposez les <ingredient quantite=5>pommes</ingredient> avec leur jus de cuisson</operation>, dedans. <operation temps=6.86min espace=13>versez ensuite la pâte,</operation> et <operation temps=6.86min espace=13>faites en sorte que les <ingredient quantite=5>pommes</ingredient> soient bien</operation> imprégnées de cette pâte. <operation temps=25.0min espace=13>enfournez une première fois pour 25 min à 180 ° c (thermostat 6</operation>). a la fin de cette cuisson, <operation temps=6.86min espace=13>faites une " sauce " avec 40 g de beurre, 1 <ingredient quantite=1>oeuf</ingredient>, et 50 g de <ingredient quantite=1>sucre</ingredient>, et la</operation> verser sur le gâteau. remettez au <recipient>four</recipient> pour 15 à 20 min. servir froid. ce gâteau est, certes, un peu riche, mais il est tellement bon... donc, ne vous <operation temps=6.86min espace=13>privez pas, ou alors mangez - le après un repas léger! cidre ou jus de <ingredient quantite=1>pomme</ingredient></operation>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57902">
+ <titre>Fondue Bacchus de Laurence</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 litre de vin rouge de pays</p>
+ <p>1/2 litre de bouillon de boeuf</p>
+ <p>2 clous de girofle</p>
+ <p>1 feuille de laurier</p>
+ <p>1 kg de viande de boeuf découpée façon carpaccio</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>caquelon</recipient> frotté à l’ ail, <operation temps=6.86min espace=6>faire bouillir le <ingredient quantite=1>vin</ingredient> avec les clous de <ingredient quantite=2>girofle</ingredient> et la feuille de <ingredient quantite=1>laurier</ingredient></operation>. rajouter le boullon bouillant. les convives peuvent alors y plonger leurs morceaux de <ingredient quantite=1>viande</ingredient>.
+]]>
+ </preparation>
+</recette>

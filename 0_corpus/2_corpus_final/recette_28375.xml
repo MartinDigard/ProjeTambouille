@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28375">
+ <titre>Tarte autrichienne à la confiture: linzer torte</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>130 g de farine</p>
+ <p>130 g de sucre</p>
+ <p>130 g de beurre</p>
+ <p>130 g de poudre de noisettes </p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>500 g de confiture de framboises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+malaxez la <ingredient quantite=1>poudre de noisettes</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et la farine. <operation temps=6.86min espace=9>incorporez les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeufs</ingredient> et le beurre</operation> coupé en dés. <operation temps=6.86min espace=9>mouillez de quelques cuillères d’ eau jusqu’ à obtention d’ une pâte lisse et homogène</operation>. <operation temps=30.0min espace=9>roulez la pâte en boule et placez - la au <recipient>réfrigérateur</recipient> dans un sac hermétique durant 30 minutes</operation>. préchauffez le <recipient>four</recipient> à 190 ° c (thermostat 6 - 7). <operation temps=6.86min espace=9>etalez la pâte</operation> et <operation temps=6.86min espace=9>disposez - la dans un <recipient><recipient>moule</recipient> à tarte</recipient> beurré de 18 cm de</operation> diamètre. <operation temps=6.86min espace=9>versez la <ingredient quantite=1>confiture</ingredient> sur la pâte</operation> et <operation temps=6.86min espace=9>décorez le dessus avec les chutes de pâte</operation>. enfournez pour 55 minutes de cuisson. <operation temps=6.86min espace=9>servez froid</operation>.
+]]>
+ </preparation>
+</recette>

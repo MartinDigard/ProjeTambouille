@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172067">
+ <titre>Soupe au chou fleur, au roquefort et aux pommes de terre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou fleur (800 g environ) </p>
+ <p>250 g de pomme de terre</p>
+ <p>2 cubes de bouillon</p>
+ <p>125 g de roquefort</p>
+ <p>2 l d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer le <ingredient quantite=1>chou fleur</ingredient>. éplucher et couper les <ingredient quantite=1>pommes de terre</ingredient> en gros <ingredient quantite=2>cubes</ingredient>. mettre dans un <recipient>faitout</recipient> avec l’ <ingredient quantite=1>eau</ingredient> et les <ingredient quantite=2>cubes de bouillon</ingredient>. cuire environ 45 min. mixer au robot en ajoutant le <ingredient quantite=1>roquefort</ingredient> qui sera ainsi bien intégré à la préparation. remettre quelques minutes sur le feu avant de <operation temps=2.0min espace=6>servir</operation>.
+]]>
+ </preparation>
+</recette>

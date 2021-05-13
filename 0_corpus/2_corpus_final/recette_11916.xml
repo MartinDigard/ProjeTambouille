@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11916">
+ <titre>Pain aux noix maison</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 gr de farine intégrale de froment</p>
+ <p>310 ml d’ eau tiède</p>
+ <p>1 paquet de levure de boulanger</p>
+ <p>1 c à s de miel</p>
+ <p>125 gr de cerneaux de noix concassés</p>
+ <p>10 ml d’ huile de noix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la <ingredient quantite=1>levure</ingredient> dans un peu d’ <ingredient quantite=1>eau tiède</ingredient>, ajouter de la farine pour <operation temps=6.86min espace=7>obtenir une pâte molle</operation>, <operation temps=6.86min espace=7>laisser reposer sous un linge sec</operation>. chauffer légèrement le <ingredient quantite=1>miel</ingredient> pour le liquéfier. <operation temps=6.86min espace=7>pétrir la farine avec l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>miel</ingredient>, les <ingredient quantite=1>cerneaux</ingredient> et l’ huile de <ingredient quantite=1>noix</ingredient></operation>. quand la pâte est bien homogène, incorporer la boule de levain en pétrissant vigoureusement. <operation temps=6.86min espace=7>laisser la pâte</operation> doubler de volume sous un linge sec dans un endroit tempéré, <operation temps=6.0min espace=7>pétrir</operation> et recommencer l’ opération. <operation temps=6.86min espace=7>pétrir une dernière fois avant de</operation> placer la boule dans un <recipient>moule</recipient> à haut bord bien huilé. <operation temps=6.86min espace=7>laisser reposer 1 h</operation> couvert avant d’ enfourner à 225 ° c (th.7 - 8) pendant 25 à 35 mn. <operation temps=6.86min espace=7>faire le test de l’</operation> aiguille pour vérifier la cuisson, démouler sur une grille et <operation temps=10.0min espace=7>laisser refroidir avant de</operation> couper. <operation temps=6.86min espace=7>servir en accompagnement d’ une fondue suisse ou d’ une raclette</operation>. pour que le sel n’ entre pas en contact direct avec la <ingredient quantite=1>levure</ingredient>, ce qui empêcherait la fermentation, en saupoudrer le bord de la farine.
+]]>
+ </preparation>
+</recette>

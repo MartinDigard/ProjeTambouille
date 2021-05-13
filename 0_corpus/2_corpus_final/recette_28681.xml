@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28681">
+ <titre>Banana split à la tahitienne</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>glace coco</p>
+ <p>glace framboise</p>
+ <p>glace fruits rouges</p>
+ <p>1 plaque de chocolat à fondre</p>
+ <p>1 bol de framboises (fraîches ou décongelés) </p>
+ <p>2 bananes</p>
+ <p>lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+chauffer le <ingredient quantite=1>chocolat</ingredient> (dans une <recipient>casserole</recipient> ou au micro-ondes) avec un peu de lait pour le rendre coulant. <operation temps=6.86min espace=9>sortez les <ingredient quantite=1>glaces</ingredient> du <recipient>congélateur</recipient></operation>. réchauffer au micro ondes les <ingredient quantite=2>bananes</ingredient> coupés en 2 sur la longueur dans des coupes allongées si possible. répartissez le <ingredient quantite=1>chocolat</ingredient> chaud dans les coupes. mettre une boule de chaque <ingredient quantite=1>glace</ingredient> dans chaque coupe. <operation temps=6.86min espace=9>versez les <ingredient quantite=1>framboises</ingredient></operation>. <operation temps=6.86min espace=9>régalez -vous! aussi simple que délicieux</operation>!
+]]>
+ </preparation>
+</recette>

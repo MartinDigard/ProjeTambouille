@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41040">
+ <titre>Boulettes de viande à la menthe et au cumin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de viande hachée (boeuf ou agneau) </p>
+ <p>1 brin de menthe</p>
+ <p>2 oignons moyens</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à café de cumin en poudre</p>
+ <p>huile d’ olive</p>
+ <p>1 oeuf</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher l’ <ingredient quantite=1>oignon</ingredient> et passer l’ <ingredient quantite=2>ail</ingredient> au presse - <ingredient quantite=2>ail</ingredient>. les ajouter à la <ingredient quantite=1>viande</ingredient>, avec un <ingredient quantite=1>brin de menthe</ingredient> ciselée (avec des ciseaux, c’ est meilleur que passé au <operation temps=6.86min espace=10>hachoir), le <ingredient quantite=2>cumin</ingredient> et l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. assaisonner de <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> puis ajouter un <ingredient quantite=1>oeuf</ingredient> entier (pour lier) et bien malaxer le tout afin de bien mélanger les ingrédients. si possible, <operation temps=6.86min espace=10>laisser mariner toute la nuit</operation> puis passer les boulettes quelques minutes de chaque côté dans une <recipient>poêle</recipient> anti-adhésive. c’ est prêt! c’ est encore meilleur préparé la veille!
+]]>
+ </preparation>
+</recette>

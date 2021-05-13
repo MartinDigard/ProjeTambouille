@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58993">
+ <titre>Ma tarte au citron délice express</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>10 cl de jus de citron</p>
+ <p>165 g de sucre</p>
+ <p>250 g de crème fraîche épaisse</p>
+ <p>5 oeufs</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=10.0min espace=7>faire précuire la pâte pendant environ 10 minutes</operation>. préparer la <ingredient quantite=1>crème</ingredient> et fouettant tous les ingrédients ensemble. verser sur le fond de tarte et enfourner pendant 30 minutes environ (la <ingredient quantite=1>crème</ingredient> ne doit plus trembler). <operation temps=20.0min espace=7>laisser refroidir</operation> puis mettre au frais quelques heures. déguster! une tarte simple, légère, douce et crémeuse, un pur délice. et en plus elle change un peu des tartes au <ingredient quantite=1>citron</ingredient> traditionnelles...
+]]>
+ </preparation>
+</recette>

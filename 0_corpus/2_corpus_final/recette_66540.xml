@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66540">
+ <titre>Steaks Santa Monica</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 steaks</p>
+ <p>4 belles tomates</p>
+ <p>2 oignons</p>
+ <p>250 g de champignons</p>
+ <p>1 noix de beurre</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>3 cuillères à soupe de vinaigre</p>
+ <p>1 pincée de sucre</p>
+ <p>1 pincée de piment de cayenne</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=2>oignons</ingredient> et les couper en tranches fines. débarrasser les <ingredient quantite=1>champignons</ingredient> de leur pied terreux, les laver à l’ eau courante et les sécher sur du papier absorbant. les détailler en lamelles. <operation temps=6.86min espace=12>faire chauffer dans une <recipient>casserole</recipient> le mélange de <ingredient quantite=1>beurre</ingredient> et d’ <ingredient quantite=3>huile</ingredient> et y</operation> mettre les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>champignons</ingredient> à dorer ensemble. pendant ce temps, plonger quelques instants les <ingredient quantite=4>tomates</ingredient> dans de l’ eau bouillante, les éplucher et les concasser grossièrement. quand les <ingredient quantite=2>oignons</ingredient> et <ingredient quantite=1>champignons</ingredient> ont <operation temps=6.86min espace=12>pris couleur</operation>, ajouter la purée de <ingredient quantite=4>tomates</ingredient> fraîches, saler et agrémenter d’ un filet de <ingredient quantite=3>vinaigre</ingredient> et d’ une pincée de <ingredient quantite=1>sucre</ingredient> et de poivre de <ingredient quantite=1>cayenne</ingredient>. <operation temps=20.0min espace=12>laisser mijoter 15 à 20 minutes à découvert</operation>. <operation temps=6.86min espace=12>faire griller les <ingredient quantite=4>steaks</ingredient> à la plaque, en</operation> prolongeant plus ou moins la cuisson selon que vous les <operation temps=6.86min espace=12>désirez cuits, à point ou saignants et les</operation> saler en fin de cuisson. dresser les <ingredient quantite=4>steaks</ingredient> sur un <recipient>plat</recipient> de service chaud, les napper de la sauce à la <ingredient quantite=1>tomate</ingredient> et servir immédiatement.
+]]>
+ </preparation>
+</recette>

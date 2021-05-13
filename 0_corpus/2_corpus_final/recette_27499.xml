@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27499">
+ <titre>Tomates farcies au pot-au-feu</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 grosses tomates à farcir</p>
+ <p>300 g de restes de boeuf d’ un pot-au feu</p>
+ <p>150 g de lard de poitrine ou bacon</p>
+ <p>100 g de mie de pain</p>
+ <p>15 cl de bouillon</p>
+ <p>1 oeuf</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1/2 bouquet de persil</p>
+ <p>sel, poivre</p>
+ <p>beurre et huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper le dessus des tomates. les évider, saler l’ intérieur et les <operation temps=6.86min espace=13>laisser dégorger</operation>. <operation temps=6.86min espace=13>faire chauffer le <ingredient quantite=1>bouillon</ingredient>, y</operation> mettre la <ingredient quantite=1>mie de pain</ingredient> et <operation temps=6.86min espace=13>laisser gonfler</operation>. hacher le <ingredient quantite=1>lard</ingredient> et les restes de pot-au-feu. peler et hacher l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>persil</ingredient>. mélanger le tout en prenant soin d’ essorer la <ingredient quantite=1>mie de pain</ingredient> en la pressant entre les mains. ajouter l’ <ingredient quantite=1>oeuf</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. bien mélanger puis <ingredient quantite=6>farcir</ingredient> les tomates. beurrer et <ingredient quantite=1>huile</ingredient> un <recipient>plat</recipient> à <recipient>four</recipient>, y poser les tomates farcies et recouvertes, puis <operation temps=45.0min espace=13>faire cuire 45 minutes à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

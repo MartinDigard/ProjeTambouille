@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30612">
+ <titre>Palette au chou blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de petit salé (palette) de porc</p>
+ <p>300 g de lard de poitrine demi-sel</p>
+ <p>1 gros chou blanc</p>
+ <p>2 carottes</p>
+ <p>4 pommes de terre moyennes</p>
+ <p>1 oignon piqué de 2 clous de girofle</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>30 cl de bouillon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rincez le <ingredient quantite=1>petit salé</ingredient> à l’ eau courante, <operation temps=6.86min espace=13>faites - le</operation> tremper quelques heures pour le déssaler. dans une grande <recipient>marmite</recipient>, mettez le <ingredient quantite=1>petit salé</ingredient> et la <ingredient quantite=1>poitrine</ingredient>. <operation temps=6.86min espace=13>couvrez d’ eau</operation> froide, et mettez le <ingredient quantite=1>bouquet garni</ingredient>, les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> écrasées et l’ <ingredient quantite=1>oignon piqué</ingredient> dans la <recipient>cocotte</recipient>. <operation temps=20.0min espace=13>portez à ébullition</operation> et <operation temps=5.0min espace=13>écumez régulièrement pendant 5 min</operation>. <operation temps=0.25min espace=13>couvrez</operation>, <operation temps=6.86min espace=13>baissez le feu</operation> et <operation temps=40.0min espace=13>laissez mijoter environ 40 min</operation>. epluchez et <operation temps=6.86min espace=13>découpez le <ingredient quantite=1>chou</ingredient> en 4 morceaux</operation>. <operation temps=6.86min espace=13>retirez le trognon dur et rincez - le bien</operation>. pelez et <operation temps=6.86min espace=13>coupez les <ingredient quantite=2>carottes</ingredient> en dés</operation>. <operation temps=6.86min espace=13>mettez les légumes dans la <recipient>marmite</recipient></operation>, <operation temps=6.86min espace=13>versez le</operation> <ingredient quantite=1>bouillon</ingredient>, <operation temps=0.25min espace=13>salez</operation> et <operation temps=0.5min espace=13>poivrez</operation>. <operation temps=6.86min espace=13>laissez cuire encore 1 h 30 à feu doux et couvert</operation>. ajoutez alors les <ingredient quantite=4>pommes de terre</ingredient> pelées et <operation temps=30.0min espace=13>laissez finir la cuisson 30 min</operation>. <operation temps=2.0min espace=13>servez bien chaud</operation>. des travers de <ingredient quantite=1>porc</ingredient> demi <ingredient quantite=1>sel</ingredient> peuvent remplacer le <ingredient quantite=1>petit salé</ingredient>.
+]]>
+ </preparation>
+</recette>

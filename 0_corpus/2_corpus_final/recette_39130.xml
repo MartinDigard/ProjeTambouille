@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39130">
+ <titre>Gratin de queues d’ écrevisses</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>500 g de queues d’ écrevisses (surgelées) </p>
+ <p>200 g de noix de St Jacques</p>
+ <p>beurre, farine et lait pour la béchamel</p>
+ <p>concentré de tomate</p>
+ <p>cognac</p>
+ <p>ail </p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites dégeler les <ingredient quantite=1>queues</ingredient> et les</operation> <ingredient quantite=1>noix</ingredient>, éponger bien et <operation temps=6.86min espace=9>faites revenir au beurre avec l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>persil</ingredient>, puis déglacer avec le</operation> <ingredient quantite=1>cognac</ingredient>, réserver le jus pour l’ incorporer à la <ingredient quantite=1>béchamel</ingredient>. rajouter aussi deux cuillères de <ingredient quantite=1>concentré de tomates</ingredient>. dans un <recipient>plat</recipient> à gratin, étaler sur l’ ensemble les <ingredient quantite=1>queues</ingredient> et les <ingredient quantite=1>noix</ingredient> et napper de la <ingredient quantite=1>béchamel</ingredient> à la <ingredient quantite=1>tomate</ingredient> et au jus de cuisson. mettre au <recipient>four</recipient> th 6 pendant 45 mn. <operation temps=6.86min espace=9>servir avec un riz basmati ou bien des petites pommes de terre vapeur</operation>. selon la région, on peut rajouter du fromage râpé (pour moi du comté) pour <operation temps=6.86min espace=9>faire gratiné la surface un vin blanc moelleux type bordeaux</operation>
+]]>
+ </preparation>
+</recette>

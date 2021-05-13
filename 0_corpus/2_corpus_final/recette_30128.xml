@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30128">
+ <titre>Oeufs à la mousse de foie gras</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g de jambon</p>
+ <p>75 g de mousse de foie gras</p>
+ <p>75 g de crème fraîche</p>
+ <p>6 oeufs</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=6>oeufs</ingredient> pendant 9 minutes dans une <recipient>casserole</recipient> d’ eau bouillante puis les rafraîchir sous l’ eau froide. ecaler les <ingredient quantite=6>oeufs</ingredient> et les couper en 2. mixer les jaunes avec le <ingredient quantite=1>jambon</ingredient>, la <ingredient quantite=1>mousse de foie gras</ingredient> et la <ingredient quantite=1>crème</ingredient>. rectifier l’ assaisonnement. <operation temps=6.86min espace=6>remplir les blancs d’ <ingredient quantite=6>oeufs</ingredient> durs de cette préparation</operation>.
+]]>
+ </preparation>
+</recette>

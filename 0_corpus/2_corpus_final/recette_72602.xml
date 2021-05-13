@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72602">
+ <titre>Sole au curry et haricots verts</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 filets de sole congelés ou frais</p>
+ <p>2 cubes de court-bouillon pour poisson</p>
+ <p>150 g de haricots verts (frais ou une boite) </p>
+ <p>1 oignon</p>
+ <p>50 g de beurre </p>
+ <p>50 g de farine</p>
+ <p>1 cuillère à café de curry en poudre (suivant le goût) </p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire cuire les <ingredient quantite=4>soles</ingredient> dans le</operation> <ingredient quantite=2>court-bouillon</ingredient> (voir sur la boîte le temps, ça varie d’ une marque à une autre!). lorsqu’ elles sont cuites, les retirer du <ingredient quantite=2>court-bouillon</ingredient> et les réserver (garder le <ingredient quantite=2>court-bouillon</ingredient>). faire cuire les <ingredient quantite=1>haricots verts</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient> découpé en morceaux, saler poivrer. dans un <recipient>plat</recipient> à <recipient>four</recipient>, placer les <ingredient quantite=1>haricots verts</ingredient> puis les <ingredient quantite=4>soles</ingredient> sur le dessus. <operation temps=6.86min espace=13>faire un roux, soit</operation> <operation temps=6.86min espace=13>faire fondre dans une <recipient>casserole</recipient> le beurre</operation>. lorsqu’ il est liquide, mettre la farine et mélanger. quand le mélange est formé, mouiller avec le <ingredient quantite=2>court-bouillon</ingredient>. mettre le <ingredient quantite=1>curry</ingredient> en quantité désirée, saler, poivrer. verser le roux sur les <ingredient quantite=4>soles</ingredient> et mettre au <recipient>four</recipient> à 200 °, thermostat 6 - 7, pendant 45 min.
+]]>
+ </preparation>
+</recette>

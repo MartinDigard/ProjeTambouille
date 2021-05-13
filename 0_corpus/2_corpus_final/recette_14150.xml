@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14150">
+ <titre>Tarte à l’ ananas facile</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>4 cuillères à soupe de farine</p>
+ <p>250ml de lait</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>2 cuillères a soupe de crème épaisse</p>
+ <p>4 oeufs bien battus</p>
+ <p>30 tranches d’ ananas en boîte</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire préchauffer le <recipient>four</recipient> à feu très doux (100 ° c</operation>). <operation temps=6.86min espace=9>mélangez le <ingredient quantite=4>sucre</ingredient> et la farine</operation>, <operation temps=6.86min espace=9>versez peu à peu les ingrédients liquides: <ingredient quantite=1>lait</ingredient>, <ingredient quantite=2>huile</ingredient>, <ingredient quantite=2>crème</ingredient> et <ingredient quantite=4>oeufs</ingredient></operation>. <operation temps=6.86min espace=9>recouvrez le fond du <recipient>moule</recipient> avec les <ingredient quantite=1>tranches</ingredient> d’ ananas,</operation> puis <operation temps=6.86min espace=9>versez la préparation dessus</operation>. cuire 35 à 40 mn. vous pouvez <operation temps=6.86min espace=9>servir avec une boule de glace vanille ou autre, selon les goûts de vos convives</operation>!
+]]>
+ </preparation>
+</recette>

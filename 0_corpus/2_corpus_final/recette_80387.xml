@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80387">
+ <titre>Çoban salata (salade berger) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tomates </p>
+ <p>2 concombres</p>
+ <p>1 oignon</p>
+ <p>une demi boule de fromage turque (beyaz peynir) </p>
+ <p>une cuillère à soupe huile d’ olive </p>
+ <p>1/2 jus de citron</p>
+ <p>une cuillère à café de menthe sèche </p>
+ <p>une cuillère à café de paprika</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez les <ingredient quantite=2>tomates</ingredient> et les <ingredient quantite=2>concombres</ingredient> en petit dés, l’ <ingredient quantite=1>oignon</ingredient> en demi-rondelles très fines,</operation> et <operation temps=6.86min espace=10>mettez le tout dans un <recipient>saladier</recipient></operation>. dans un bol, <operation temps=6.86min espace=10>mélangez l’</operation> huile, le <ingredient quantite=1>jus de citron</ingredient>, la <ingredient quantite=1>menthe</ingredient> et le <ingredient quantite=1>paprika</ingredient>. <operation temps=6.86min espace=10>mettez la sauce sur le mélange de <ingredient quantite=2>tomates</ingredient></operation>. <operation temps=6.86min espace=10>coupez le <ingredient quantite=1>fromage</ingredient> en petit dés</operation> et <operation temps=6.86min espace=10>disposez - les sur la salade</operation>. bon appétit! vous pouvez remplacer le <ingredient quantite=1>fromage turque</ingredient> par de la feta.
+]]>
+ </preparation>
+</recette>

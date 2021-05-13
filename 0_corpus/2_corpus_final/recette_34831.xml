@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34831">
+ <titre>Ailes de poulet aux quatre épices</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 ailes de poulet</p>
+ <p>1 citron</p>
+ <p>1 pincée de gingembre en poudre</p>
+ <p>3 cuillères à café de quatre-épices en poudre</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 grand verre d’ eau</p>
+ <p>sel </p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=1>ailes de poulet</ingredient> dans une <recipient>sauteuse</recipient> avec un fond d’ huile. quand les <ingredient quantite=1>ailes</ingredient> sont bien dorées (1/4 d’ heure environ) mettre les 3 cuillères de quatre - <ingredient quantite=1>épices</ingredient> puis un <ingredient quantite=1>grand verre</ingredient> d’ <ingredient quantite=1>eau</ingredient> et un jus de <ingredient quantite=1>citron</ingredient>. bien mélanger et retourner les <ingredient quantite=1>ailes</ingredient>. puis incorporer le <ingredient quantite=1>gingembre</ingredient>, l’ <ingredient quantite=3>ail</ingredient>, le <ingredient quantite=1>persil</ingredient> et saler. <operation temps=6.86min espace=9>laisser mijoter environ 1/4 d’ heure en</operation> retournant 2 à 3 fois les <ingredient quantite=1>ailes</ingredient>. ne pas hésiter à remettre un peu d’ <ingredient quantite=1>eau</ingredient> si la sauce réduit trop vite. il faut que la sauce ne soit pas trop liquide. <operation temps=2.0min espace=9>servez bien chaud</operation>. très bon avec frites ou pommes de terre rissolées.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80040">
+ <titre>Galette oléronnaise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre mou</p>
+ <p>250 g de farine </p>
+ <p>1 pincée de sel</p>
+ <p>80 g de sucre </p>
+ <p>2 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger avec les doigts le <ingredient quantite=1>sucre</ingredient>, la farine, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>beurre</ingredient>. émietter intimement ce mélange. ajouter 1 <ingredient quantite=1>œuf</ingredient> + 1/2 <ingredient quantite=1>œuf</ingredient>. <operation temps=6.86min espace=7>faire une boule et l’</operation> étaler dans un <recipient>plat</recipient> à tarte ; elle doit avoir un pouce d’ épaisseur au max. dorer avec le 1/2 jaune d’ oeuf qui reste. cuisson à 180 °, thermostat 6, 30 à 35 min. si l’ on veut la découper en petits carrés, le <operation temps=6.86min espace=7>faire quand elle sort du <recipient>four</recipient> et qu’ elle est tendre</operation>. après, elle se découpera très mal elle se cassera en morceaux.
+]]>
+ </preparation>
+</recette>

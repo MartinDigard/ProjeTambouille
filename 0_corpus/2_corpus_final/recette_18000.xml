@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18000">
+ <titre>Poulet sauté</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 blancs de poulet</p>
+ <p>4 tomates</p>
+ <p>2 oignons</p>
+ <p>des frites (surgelées c’ est bien) </p>
+ <p>2 c de persil haché</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les blancs de <ingredient quantite=2>poulet</ingredient> en morceaux. saler, poivrer. eplucher les <ingredient quantite=4>tomates</ingredient> et les couper en carrés. couper les <ingredient quantite=2>oignons</ingredient> en rondelles. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>mettez un peu d’ huile</operation> et <operation temps=6.86min espace=9>faire revenir le</operation> <ingredient quantite=2>poulet</ingredient>, <operation temps=6.86min espace=9>faire dorer et y</operation> ajouter les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient> concassé. <operation temps=4.0min espace=9>faire cuire 4 minutes</operation> et ajouter les <ingredient quantite=4>tomates</ingredient>. vérifier le <ingredient quantite=1>sel</ingredient>. <operation temps=0.25min espace=9>couvrir</operation> et <operation temps=10.0min espace=9>laisser mijoter 10 min</operation>. <operation temps=6.86min espace=9>faire les <ingredient quantite=1>frites</ingredient></operation>. au bout de 10 mn, ajouter les <ingredient quantite=1>frites</ingredient> à la préparation du <ingredient quantite=2>poulet</ingredient>, n’ oubliez pas le <ingredient quantite=2>persil</ingredient> et servir immédiatement. accompagner du riz. <recipient>plat</recipient> péruvien.
+]]>
+ </preparation>
+</recette>

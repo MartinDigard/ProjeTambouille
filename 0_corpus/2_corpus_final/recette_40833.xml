@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40833">
+ <titre>Compote de pommes au beurre salé et épices</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes</p>
+ <p>2 cuillères à soupe de 4 épices indien (ou cannelle mais bon...) </p>
+ <p>10 g de beurre salé</p>
+ <p>1 pincée de poivre (+ ou - selon vos goûts) </p>
+ <p>1 étoile de badiane</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>eau (pour rallonger si nécessaire) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>pommes</ingredient> et les découper en morceaux de 1 cm environ. <operation temps=6.86min espace=8>mettez les <ingredient quantite=1>pommes</ingredient>, les <ingredient quantite=2>épices</ingredient>, le <ingredient quantite=4>sucre</ingredient> et le beurre dans une <recipient>casserole</recipient></operation>. <operation temps=0.25min espace=8>couvrir</operation> et <operation temps=6.86min espace=8>laissez réduire à feu doux jusqu’ à ce que les <ingredient quantite=1>pommes</ingredient></operation> partent en purée car ça finit toujours comme cela... n’ oubliez pas de remuer régulièrement pour éviter la tarte tatin. vous pouvez arrêter la cuisson avant que les morceaux disparaissent complètement.
+]]>
+ </preparation>
+</recette>

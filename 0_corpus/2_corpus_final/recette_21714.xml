@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21714">
+ <titre>Pagodes de concombre farci au riz et aux noix</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 concombre</p>
+ <p>Pour la farce: </p>
+ <p>100 g de riz long grain à la créole</p>
+ <p>100 g de cerneaux de noix</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>le jus d’ 1 citron vert</p>
+ <p>quelques olives noires dénoyautées</p>
+ <p>sel, poivre</p>
+ <p>des feuilles de laitue pour la présentation</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver le <ingredient quantite=1>concombre</ingredient> et le détailler dans le sens de la longueur pour lui ôter ses graines. le saupoudrer de <ingredient quantite=1>sel</ingredient> et le <operation temps=30.0min espace=12>laisser dégorger 30 min</operation>. <operation temps=6.86min espace=12>faire cuire le <ingredient quantite=1>riz</ingredient> dans l’ eau bouillante</operation> salée, l’ égoutter et le réserver. réduire les <ingredient quantite=1>noix</ingredient> en poudre et les mélanger au <ingredient quantite=1>persil haché</ingredient> avec la <ingredient quantite=2>crème</ingredient> et la <ingredient quantite=1>moutarde</ingredient>. saler, poivrer et arroser du <ingredient quantite=1>jus</ingredient> du <ingredient quantite=1>citron vert</ingredient>. <ingredient quantite=1>hacher</ingredient> les <ingredient quantite=1>olives noires</ingredient> puis les ajouter à la préparation. rincer les <ingredient quantite=1>concombres</ingredient> sous l’ eau froide puis les essuyer avec du papier absorbant. mêler le <ingredient quantite=1>riz</ingredient> au reste de la préparation puis <operation temps=6.86min espace=12>farcir les <ingredient quantite=1>concombres</ingredient></operation>. tapisser un <recipient>plat</recipient> de service de <ingredient quantite=1>feuilles de laitue</ingredient> puis disposer les <ingredient quantite=1>concombres</ingredient> <operation temps=6.86min espace=12>farcis</operation>. servir.
+]]>
+ </preparation>
+</recette>

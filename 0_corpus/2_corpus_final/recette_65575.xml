@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65575">
+ <titre>Lasagne au poulet, chèvre et miel</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 blancs de poulet </p>
+ <p>1 cuillère à soupe de miel </p>
+ <p>500 g de fromage de chèvre frais</p>
+ <p>1 boîte de plaques/feuilles de lasagne</p>
+ <p>1 poignée de feuilles de menthe</p>
+ <p>1 pomme coupée en fine lamelles</p>
+ <p>30 cl de crème fraîche liquide</p>
+ <p>20 cl de lait</p>
+ <p>50 à 100 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faites griller les blancs de <ingredient quantite=6>poulet</ingredient> coupés en dés à la <recipient>poêle</recipient></operation>. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation>. pendant ce temps, <ingredient quantite=1>coupez</ingredient> la <ingredient quantite=1>pomme en lamelles</ingredient> très fines. hachez la <ingredient quantite=1>menthe</ingredient>. <operation temps=6.86min espace=12>disposez une couche de pâte à <ingredient quantite=1>lasagne</ingredient> au fond du <recipient>plat</recipient>, puis une couche</operation> composée des fines <ingredient quantite=1>lamelles</ingredient> de la <ingredient quantite=1>pomme</ingredient>, de la moitié du <ingredient quantite=1>fromage de chèvre</ingredient> et des <ingredient quantite=1>feuilles de menthe</ingredient>. remettez une couche de <ingredient quantite=1>feuilles de lasagne</ingredient>. <operation temps=6.86min espace=12>mettez une couche avec le <ingredient quantite=6>poulet</ingredient></operation>. <operation temps=6.86min espace=12>ajoutez la <ingredient quantite=1>crème</ingredient></operation> fraiche + le lait mélangés. remettez une couche de <ingredient quantite=1>feuilles de lasagne</ingredient>. refaites une couche avec du <ingredient quantite=1>fromage de chèvre</ingredient>, le <ingredient quantite=1>miel</ingredient>, du sel et recouvrez de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=30.0min espace=12>faites cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 25 à 30 minutes</operation>. un vin blanc plutôt sec
+]]>
+ </preparation>
+</recette>

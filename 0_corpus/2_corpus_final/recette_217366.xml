@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217366">
+ <titre>Fruits d’ automne en sabayon de champagne</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 grappe de raisin</p>
+ <p>2 figues violettes</p>
+ <p>2 jaunes d’ œufs</p>
+ <p>40 g de sucre</p>
+ <p>1/8 de l de champagne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>pelez les grains de <ingredient quantite=1>raisin</ingredient></operation>. <operation temps=3.0min espace=7>pelez les</operation> <ingredient quantite=2>figues</ingredient> et <operation temps=6.86min espace=7>coupez - les en huit quartiers</operation>. répartissez - les dans quatre coupelles. <operation temps=6.86min espace=7>fouettez les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>œufs</ingredient> dans une <recipient>casserole</recipient> dans un <recipient>bain - marie</recipient></operation> frémissant et <operation temps=6.86min espace=7>versez le <ingredient quantite=1>champagne</ingredient></operation>. sans cesser de fouetter, <operation temps=6.86min espace=7>laissez cuire le sabayon jusqu’ à ce qu’ il</operation> soit ferme et mousseux. <operation temps=6.86min espace=7>versez - le sur les fruits</operation> et <operation temps=2.0min espace=7>servez</operation>.
+]]>
+ </preparation>
+</recette>

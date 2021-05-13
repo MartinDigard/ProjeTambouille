@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94527">
+ <titre>Gâteau basque facile</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: - 250 grammes de beurre mou</p>
+ <p>250 grammes de sucre</p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>500 grammes de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>Papier cuisson</p>
+ <p>Pour la crème: - 50 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>60 grammes de farine</p>
+ <p>80 grammes de sucre</p>
+ <p>Facultatif: poudre d’ amande, vanille, poudre de noisette à votre goût. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire la crème</operation>. <operation temps=6.86min espace=15>faire bouillir le lait avec le parfum</operation> choisi (<ingredient quantite=1>vanille</ingredient> ou autre). battre les <ingredient quantite=4>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient>, ajouter la farine. <operation temps=6.86min espace=15>versez sur le lait chaud</operation>. remette à feu doux pour <operation temps=6.86min espace=15>faire épaissir en</operation> remuant très soigneusement pendant 5 à 10 min. arreter la <ingredient quantite=1>cuisson</ingredient> dès les premiers bouillonnements. <operation temps=6.86min espace=15>faire le gâteau: préchauffer le <recipient>four</recipient></operation>. bien mélanger le <ingredient quantite=1>beurre</ingredient> le <ingredient quantite=1>sucre</ingredient> et ajouter les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeufs</ingredient>. garder les blancs pour dorer le gâteau à la fin. ensuite le <ingredient quantite=1>beurre</ingredient> et la farine. rajouter de la <ingredient quantite=1>farine</ingredient> jusqu’ à ce que la pâte soit assez dure et facile à étaler. <operation temps=6.86min espace=15>faire une boule avec la pâte, la</operation> partager en deux boule égale. pour plus de faciliter <operation temps=6.86min espace=15>laisser reposé une trentaine de minutes si vous n’</operation> <operation temps=6.86min espace=15>avez pa de temps elle sera une peu plus dure à</operation> travailler. etaler la pâte de la première boule sur le <ingredient quantite=1>papier cuisson</ingredient> et la mettre au fon du <recipient>moule</recipient>. enlever le surplus de pâte dépassant du <recipient>moule</recipient>. (vous pourrez la réétaler et la découper avec une verre pour <operation temps=6.86min espace=15>faire de délicieux</operation> sablé au même thermostat environ 30 min) <operation temps=6.86min espace=15>rcouvrir la première couche de pâte avec la crème</operation>. puis étaler le deuxième boule et <operation temps=6.86min espace=15>recouvrir le gateau</operation>. la pâte se casse très facilement d’ ou la difficulté de la recette pour <operation temps=6.86min espace=15>recouvrir le gâteau avec le pâte je</operation> conseille de l’ étaler sur du <ingredient quantite=1>papier cuisson</ingredient> ou alu et de le retourner d’ un seul cou, attention de ne <operation temps=6.86min espace=15>laisser aucun trou la crème sortirai du gâteau, s’ il y</operation> a des trou les boucher avec le reste de pâte car une foi le gâteau cuit les raccord ne se voient plus. dorer avec le blanc d’ <ingredient quantite=4>oeufs</ingredient>. mettre au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

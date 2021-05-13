@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51838">
+ <titre>Filet mignon de porc en croûte tout simple</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon de porc (environ 700 g) </p>
+ <p>1 pâte feuilletée</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 cuillères à café de moutarde</p>
+ <p>2 cuillères à café de crème épaisse</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 bouquet de persil</p>
+ <p>1 jaune d’ œuf</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> dans une <recipient>sauteuse</recipient> et faites dorer le <ingredient quantite=1>filet mignon</ingredient> 2 à 3 minutes sur feu très vif, saler et poivrer en fin de cuisson. quand le <ingredient quantite=1>filet</ingredient> est bien doré, le sortir de la <recipient>sauteuse</recipient> et <operation temps=20.0min espace=11>laisser refroidir</operation>. pendant ce temps, dans un bol préparer une pommade avec la <ingredient quantite=2>crème</ingredient>, la <ingredient quantite=3>moutarde</ingredient>, l’ <ingredient quantite=4>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> hachés. saler, poivrer. étaler la <ingredient quantite=1>pâte</ingredient> feuilletée, badigeonner copieusement le <ingredient quantite=1>filet mignon</ingredient> avec la pommade et le déposer sur la <ingredient quantite=1>pâte</ingredient>. <operation temps=6.86min espace=11>enroulez la <ingredient quantite=1>pâte</ingredient> autour</operation> et déposer le tout sur une plaque de cuisson beurrée. avec un pinceau badigeonner le dessus avec du <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient>. enfourner 40 min à 180 - 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=11>servir en</operation> tranches à l’ assiette. accompagnements conseillé: champignons sautés à l’ <ingredient quantite=4>ail</ingredient>, fagot de haricots verts par exemple...
+]]>
+ </preparation>
+</recette>

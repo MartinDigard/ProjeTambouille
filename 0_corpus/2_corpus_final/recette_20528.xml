@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20528">
+ <titre>Sarmale (Roumanie) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de viande de porc hachée (ou mélange porc-veau) </p>
+ <p>200 g de riz rond</p>
+ <p>300 g d’ oignons</p>
+ <p>40 cl de sauce tomate</p>
+ <p>2 kg de chou (on peut remplacer par des feuilles de vigne) </p>
+ <p>1 botte de persil</p>
+ <p>sel et poivre</p>
+ <p>bouillon de poule ou boeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire tremper le <ingredient quantite=1>riz</ingredient> dans de l’ eau</operation>. hacher les <ingredient quantite=1>oignons</ingredient> et les <operation temps=6.86min espace=15>faire revenir dans une <recipient>poêle</recipient> avec un peu d’</operation> huile. dans un <recipient>saladier</recipient> mélanger, les <ingredient quantite=1>oignons</ingredient>, la <ingredient quantite=1>viande</ingredient>, le <ingredient quantite=1>riz</ingredient> (égoutté), la moitié de la sauce <ingredient quantite=1>tomate</ingredient>, le poivre, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>persil</ingredient> haché. bien mélanger et ajouter une tasse d’ eau tiède. <operation temps=6.86min espace=15>faire blanchir les feuilles de <ingredient quantite=1>chou</ingredient> (ou de vigne</operation>). découper les feuilles de <ingredient quantite=1>choux</ingredient> en carrés de 10 cm x 10 cm environ en laissant la nervure centrale de côté. mettre une petite cuillère de farce au centre, replier et rouler. couper le reste de <ingredient quantite=1>choux</ingredient> en lamelles. en mettre une couche dans une <recipient>cocotte</recipient> en fonte, poser les sarmale dessus et <operation temps=6.86min espace=15>recouvrir d’ une autre couche de <ingredient quantite=1>choux</ingredient></operation>. rajouter les cubes de <ingredient quantite=1>bouillon</ingredient>, la sauce tomate et <operation temps=2.0min espace=15>couvrir d’ eau</operation>. <operation temps=6.86min espace=15>laisser cuire à feu doux pendant environ 2 heures (ou 2h30 si on</operation> utilise des feuilles de vigne). c’ est le <recipient>plat</recipient> national roumain. ce sont de petits rouleaux de <ingredient quantite=1>chou</ingredient> saumurés et farcis. on peut aussi utiliser des feuilles de <ingredient quantite=1>chou</ingredient> blanc ou des feuilles de vigne (au printemps). traditionnellement, les sarmale sont <operation temps=6.86min espace=15>servis avec de la mamaliga (polenta)</operation> et arrosés d’ une cuillère de crème aigre. il existe de nombreuses variantes pour les sarmale selon les régions et le calendrier: à la <ingredient quantite=1>viande</ingredient> (les plus courants), au poisson (région du deltadu danube), végétalien (pour les périodes de carême). normalement, les sarmale se cuisent au <recipient>four</recipient> dans une <recipient>cocotte</recipient> en terre, mais on peut très bien les cuire dans une <recipient>cocotte</recipient> en fonte, il faut justesurveiller qu’ il reste assez de liquide.
+]]>
+ </preparation>
+</recette>

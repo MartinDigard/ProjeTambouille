@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221251">
+ <titre>Sauté de porc au poivron rouge et olives vertes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de sauté de porc</p>
+ <p>1 poivron rouge</p>
+ <p>1 oignon </p>
+ <p>20 cl de coulis de tomates</p>
+ <p>15 olives vertes dénoyautées</p>
+ <p>1 cube de bouillon</p>
+ <p>1 feuille de laurier</p>
+ <p>2 cuillères à café d’ ail séché</p>
+ <p>poivre</p>
+ <p>sel</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir la viande dans l’ <ingredient quantite=1>huile</ingredient> d’</operation> <ingredient quantite=1>olive</ingredient>, couper en dés le <ingredient quantite=1>poivron</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> et les mettre avec la viande une fois celle-ci revenue et dorée. <operation temps=10.0min espace=14>faire cuire 10 min l’ ensemble</operation>, verser le <ingredient quantite=1>coulis de tomate</ingredient>, le <ingredient quantite=1>cube de bouillon</ingredient>, la feuille de <ingredient quantite=1>laurier</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> du moulin. <operation temps=45.0min espace=14>faire cuire pendant 45 min</operation> et déposer les <ingredient quantite=1>olives</ingredient> 15 min avant la fin de la cuisson et les ayant préalablement coupé en 2.servir le <recipient>plat</recipient> avec du riz blanc. <recipient>plat</recipient> facile, copieux mais pas gras. on peut y ajouter des champignons frais préalablement passés à la <recipient>poêle</recipient> en fin de cuisson. bordeau <ingredient quantite=1>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

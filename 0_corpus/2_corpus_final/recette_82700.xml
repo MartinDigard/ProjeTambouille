@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82700">
+ <titre>Quiche au tapioca</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>50 cl de lait</p>
+ <p>50 g de tapioca</p>
+ <p>2 oeufs</p>
+ <p>125 g de lardons ou de dès de dinde</p>
+ <p>2-3 oignons</p>
+ <p>125 g de gruyère</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=13>faire revenir les <ingredient quantite=1>lardons</ingredient> dans la <recipient>poêle</recipient></operation>. quand ils sont dorés, les réserver et <operation temps=6.86min espace=13>faire dorer les <ingredient quantite=4>oignons</ingredient> dans la meme <recipient>poêle</recipient></operation>. mettre les <ingredient quantite=4>oignons</ingredient> et <ingredient quantite=1>lardons</ingredient> sur la <ingredient quantite=1>pâte</ingredient>. <operation temps=6.86min espace=13>faire bouillir le lait, y</operation> verser le <ingredient quantite=1>tapioca</ingredient>: cuire environ 5 minutes en remuant. verser le <ingredient quantite=1>tapioca</ingredient> tiède sur les <ingredient quantite=2>oeufs</ingredient> battus en omelette, poivrer et saler légèrement. verser sur la préparartion <ingredient quantite=4>oignons</ingredient> plus <ingredient quantite=1>lardons</ingredient>, <operation temps=6.86min espace=13>couvrir de gruyère</operation>. <operation temps=30.0min espace=13>faire cuire au <recipient>four</recipient> 30 minutes à 180 ° c (thermostat 6</operation>). ca pourrait paraitre lourd (<ingredient quantite=1>tapioca</ingredient> sur une <ingredient quantite=1>pâte</ingredient>), mais c’ est fin et léger.
+]]>
+ </preparation>
+</recette>

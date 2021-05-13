@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12010">
+ <titre>Tarte aux figues</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>20 figues fraîches</p>
+ <p>1 pâte brisée</p>
+ <p>150 g de sucre semoule </p>
+ <p>100 g de sucre glace </p>
+ <p>1 citron</p>
+ <p>4 cuillères à soupe de confiture (abricot, ou à défaut groseille ou rhubarbe) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+foncer un grand <recipient><recipient>moule</recipient> à tarte</recipient> beurré et fariné de <ingredient quantite=1>pâte</ingredient> brisée, piquer la <ingredient quantite=1>pâte</ingredient> à la fourchette, y mettre cailloux ou noyaux, passer au <recipient>four</recipient> 210 ° c 20 mn. garniture: presser le <ingredient quantite=1>citron</ingredient>, laver les <ingredient quantite=1>figues</ingredient>, les sécher, couper en deux dans le sens de la hauteur. les mettre dans un <recipient>plat</recipient> creux, saupoudrer de <ingredient quantite=1>sucre semoule</ingredient>, arroser de <ingredient quantite=1>citron</ingredient>. macérer 1/2 h en retournant de temps en temps. <operation temps=6.86min espace=10>laisser tiédir la <ingredient quantite=1>pâte</ingredient></operation> précuite 10 mn. etendre la <ingredient quantite=4>confiture</ingredient> d’ abricots, poser dessus les <ingredient quantite=1>figues</ingredient>, face coupée dessous. saupoudrer de <ingredient quantite=1>sucre glace</ingredient>, passer au <recipient>four</recipient> 230 ° c 7 à 8 mn pour caraméliser légèrement le dessus des <ingredient quantite=1>figues</ingredient>. <operation temps=6.86min espace=10>servir avec de la chantilly pour les très gourmands, comme la tarte tatin</operation>. cidre, ou eau, tout simplement
+]]>
+ </preparation>
+</recette>

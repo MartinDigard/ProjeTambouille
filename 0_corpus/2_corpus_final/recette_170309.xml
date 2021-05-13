@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170309">
+ <titre>Abricots au nid</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de semoule</p>
+ <p>50 cl de lait</p>
+ <p>60 g de sucre</p>
+ <p>100 g de chocolat noir</p>
+ <p>400 g d’ abricots en boîte</p>
+ <p>10 g de beurre salé</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire chauffer le lait</operation>. ajouter le <ingredient quantite=1>chocolat</ingredient> en carrés et le <ingredient quantite=1>sucre</ingredient>, délayer à la cuillère en bois pour <operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>chocolat</ingredient></operation>. dès l’ ébullition, verser la semoule en pluie. cuire 10 minutes à feu doux à moyen sans cesser de remuer. ajouter, hors du feu, les jaunes d’ œufs un à un, en fouettant. monter les blancs d’ œufs en neige ferme avec une pincée de <ingredient quantite=1>sel</ingredient>, les incorporer délicatement à la préparation. beurrer un <recipient>plat</recipient> allant au <recipient>four</recipient>, verser la semoule, la lisser. poser dessus les oreillons d’ <ingredient quantite=1>abricots</ingredient> bien égouttés. cuire 15 minutes dans le <recipient>four</recipient> préchauffé à 200 ° c thermostat 7). <operation temps=5.0min espace=10>dégustez</operation> tiède ou froid. vous pouvez remplacer les <ingredient quantite=1>abricots</ingredient> par des pêches, des poires ou des mangues au sirop.
+]]>
+ </preparation>
+</recette>

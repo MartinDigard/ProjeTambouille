@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167546">
+ <titre>Vieille à la Bretonne (poisson) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Une vieille (ou carpe de mer) </p>
+ <p>3 oignons</p>
+ <p>5 pommes de terre</p>
+ <p>1 bouquet garni (thym + laurier) </p>
+ <p>Du sel</p>
+ <p>Du poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>remplir une grande <recipient>marmite</recipient> d’ eau salée</operation> et <operation temps=20.0min espace=7>faire bouillir</operation>. ajouter les <ingredient quantite=3>oignons</ingredient> et <ingredient quantite=5>pommes de terre</ingredient> en tranches fines et le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=20.0min espace=7>faire bouillir</operation> 10 minutes environ. ajouter la <ingredient quantite=1>vieille</ingredient> tronçonnée en quatre. rajouter du <ingredient quantite=1>sel</ingredient> et du <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=7>laisser cuire à nouveau une dizaine de minutes</operation>. il ne vous reste plus à <operation temps=6.86min espace=7>servir les morceaux de <ingredient quantite=1>vieille</ingredient> et le bouillon dans de belles assiettes à soupe</operation>. ne pas hésiter à ajouter sur votre table, des petits croutons et de la rouille. muscadet ou une bonne bière
+]]>
+ </preparation>
+</recette>

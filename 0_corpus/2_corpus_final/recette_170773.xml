@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170773">
+ <titre>Salade de fruits fraîcheur</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1/2 melon</p>
+ <p>1 papaye</p>
+ <p>1 mangue</p>
+ <p>2 pêches jaunes mûres</p>
+ <p>2 citrons verts</p>
+ <p>1 banane</p>
+ <p>1, 5 cuillère à café de miel</p>
+ <p>2 ou 3 feuilles de basilic (basilic surgelé très bien aussi) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>pelez les fruits</operation> et <operation temps=6.86min espace=9>découpez - les en dés de même taille</operation>. pressez le jus des 2 <ingredient quantite=2>citrons verts</ingredient> et <operation temps=6.86min espace=9>versez - le sur les fruits</operation>. <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>miel</ingredient> (plus ou moins selon le sucre des fruits et votre goût</operation>). <operation temps=6.86min espace=9>ciselez très finement le <ingredient quantite=2>basilic</ingredient>, parsemez les fruits avec</operation>. <operation temps=6.86min espace=9>réservez 1 h au <recipient>réfrigérateur</recipient> avant de</operation> <operation temps=2.0min espace=9>servir</operation>. peut être servie seul mais également excellent en accompagnement d’ un moelleux au chocolat.
+]]>
+ </preparation>
+</recette>

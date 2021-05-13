@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30046">
+ <titre>Sorbet à la mangue (7ème rencontre) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de mangue (après épluchage et dénoyautage) </p>
+ <p>le jus d’ 1 citron</p>
+ <p>250 g de sucre</p>
+ <p>25 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faites chauffer l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=6>eteignez le feu dès l’ ébullition</operation> et <operation temps=20.0min espace=6>laissez refroidir</operation>. <operation temps=6.86min espace=6>mixez les</operation> <ingredient quantite=1>mangues</ingredient> et <operation temps=6.86min espace=6>ajoutez - y le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient> et le sirop refroidi</operation>. <operation temps=6.86min espace=6>faites ensuite</operation> prendre la préparation environ 45 minutes en <recipient>sorbetière</recipient>. <operation temps=6.86min espace=6>transvasez dans une boîte</operation> et placer quelques heures au <recipient>congélateur</recipient>. le principe de cette préparation peut être utilisé pour <operation temps=6.86min espace=6>faire des sorbets avec la plupart des autres fruits</operation>. avec des framboises, je conseille de ne pas mixer les fruits, mais plutôt de les presser afin d’ en extraire le <ingredient quantite=1>jus</ingredient> et écarter les pépins.
+]]>
+ </preparation>
+</recette>

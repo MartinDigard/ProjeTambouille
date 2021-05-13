@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43094">
+ <titre>Paupiettes de veau au Marsala</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>8 fines escalopes de veau (applaties par votre boucher) </p>
+ <p>3 foies de volaille</p>
+ <p>1 oignon</p>
+ <p>80 g de raisins secs</p>
+ <p>40 g de pistaches mondées</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>40 g de beurre (ou 3 cuillères à soupe d’ huile d’ olive) </p>
+ <p>10 cl de Marsala (ou Rivesaltes) </p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>poivre du moulin</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire tremper les <ingredient quantite=1>raisins</ingredient> avec le <ingredient quantite=1>marsala</ingredient></operation>. <operation temps=6.86min espace=15>faire fondre l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans une <recipient>poêle</recipient>, avec la moitié de la matière grasse. ajouter les <ingredient quantite=3>foies</ingredient> sur feu vif, et <operation temps=4.0min espace=15>faire sauter 4 min</operation>. mixer le tout grossièrement, avec les <ingredient quantite=1>pistaches</ingredient> et le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. poivrer. saler et poivrer les <ingredient quantite=8>escalopes</ingredient>. etaler dessus une couche de farce, puis rouler les paupiettes. les <operation temps=6.86min espace=15>maintenir avec une pique en bois</operation>. les <operation temps=6.86min espace=15>faire colorer sur feu</operation> modéré dans une <recipient>cocotte</recipient>, avec le reste de la matière grasse. baisser le feu, ajouter le <ingredient quantite=1>cube de bouillon</ingredient> écrasé, les <ingredient quantite=1>raisins</ingredient>, le <ingredient quantite=1>marsala</ingredient> et la <ingredient quantite=1>crème</ingredient>. <operation temps=30.0min espace=15>laisser mijoter, à couvert 30 mn</operation>. présenter les paupiettes et leur sauce dans un <recipient>plat</recipient> chaud, accompagnées de pommes vapeur ou de polenta. chablis (bourgogne blanc)
+]]>
+ </preparation>
+</recette>

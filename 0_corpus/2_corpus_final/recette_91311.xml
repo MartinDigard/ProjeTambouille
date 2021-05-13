@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91311">
+ <titre>Tarte courgettes et viande hachée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le pâte brisée</p>
+ <p>200g de farine de blé (ou 150g de farine de blé et 50g de farine de pois chiches) </p>
+ <p>50g d’ huile d’ olives</p>
+ <p>1 pincée de sel</p>
+ <p>eau</p>
+ <p>Pour la garniture: </p>
+ <p>une grosse courgette</p>
+ <p>un oignon</p>
+ <p>un steak haché</p>
+ <p>un demi poivron (vert ou rouge) </p>
+ <p>un petit fromage de chèvre frais ou crémeux</p>
+ <p>une tomate (facultatif) </p>
+ <p>moutarde</p>
+ <p>persil</p>
+ <p>cumin en poudre</p>
+ <p>piment en poudre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>poivron</ingredient> et les <operation temps=6.86min espace=19>faire revenir dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. lorsque l’ <ingredient quantite=1>oignon</ingredient> a blondi, ajouter le <ingredient quantite=1>steak haché</ingredient> et l’ émietter en le <operation temps=6.86min espace=19>faisant cuire</operation>. ajouter le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>persil</ingredient>. lorsque la viande est cuite, la retirer du feu. trancher la <ingredient quantite=1>courgette</ingredient> en rondelles de 0, 5 cm environ. <operation temps=6.86min espace=19>faire revenir les rondelles à la <recipient>poêle</recipient> à feu doux jusqu’ à ce qu’ elles aient</operation> ramolli. y ajouter du <ingredient quantite=1>cumin</ingredient>, du <ingredient quantite=1>piment</ingredient> et du <ingredient quantite=1>sel</ingredient>. pendant que la <ingredient quantite=1>courgette</ingredient> cuit, préparer la <ingredient quantite=1>pâte</ingredient>. dans un <recipient>saladier</recipient> mettre la farine, le <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>huile</ingredient>. malaxer avec les doigts jusqu’ à obtention d’ un sable. ajouter de l’ <ingredient quantite=1>eau</ingredient> pour <operation temps=6.86min espace=19>obtenir une boule de <ingredient quantite=1>pâte</ingredient> pas trop collante</operation>. étendre la <ingredient quantite=1>pâte</ingredient>, la piquer avec une fourchette et la badigeonner de <ingredient quantite=1>moutarde</ingredient>. disposer le mélange viande - <ingredient quantite=1>oignon</ingredient> - <ingredient quantite=1>poivron</ingredient> sur la <ingredient quantite=1>pâte</ingredient> puis placer les rondelles de <ingredient quantite=1>courgette</ingredient> ainsi que les rondelles de <ingredient quantite=1>tomate</ingredient> crue. enfin, ajouter le <ingredient quantite=1>fromage de chèvre</ingredient> coupé en tranches. <operation temps=30.0min espace=19>faire cuire à 200 ° (thermostat 6 - 7) pendant 30 min</operation>.
+]]>
+ </preparation>
+</recette>

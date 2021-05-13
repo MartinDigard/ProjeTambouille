@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25524">
+ <titre>Moelleux à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de rhubarbe</p>
+ <p>200 g de sucre en poudre</p>
+ <p>160 g de farine</p>
+ <p>4 oeufs</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1/2 cuillère à café de levure chimique</p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>grattez</operation> et <operation temps=6.86min espace=12>coupez la <ingredient quantite=1>rhubarbe</ingredient> en tronçons d’ 1 cm de long</operation>. <operation temps=6.86min espace=12>ebouillantez</operation> - les 2 minutes et <operation temps=6.86min espace=12>égouttez</operation>. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=12>mélangez les <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> dans un <recipient>saladier</recipient> que vous</operation> <operation temps=6.86min espace=12>placerez au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=12>fouettez le mélange</operation> aisni jusqu’ à ce qu’ il ait doublé de volume et soit devenu mousseux. <operation temps=0.25min espace=12>retirez du feu</operation> et <operation temps=0.5min espace=12>ajoutez</operation> délicatement la farine tamisée et la <ingredient quantite=1>levure chimique</ingredient>. <operation temps=6.86min espace=12>versez la pâte dans un <ingredient quantite=1><recipient>moule</recipient></ingredient> bien beurré</operation> et <operation temps=6.86min espace=12>déposez les cubes de <ingredient quantite=1>rhubarbe</ingredient> à la surface</operation>. <operation temps=6.86min espace=12>saupoudrez avec le <ingredient quantite=1>sucre</ingredient></operation> vanillé et <operation temps=35.0min espace=12>faites cuire 35 min au <recipient>four</recipient></operation>. <operation temps=6.86min espace=12>saupoudrez le gâteau de <ingredient quantite=1>sucre</ingredient> glace une fois refroidi</operation> et <operation temps=5.0min espace=12>dégustez</operation>...
+]]>
+ </preparation>
+</recette>

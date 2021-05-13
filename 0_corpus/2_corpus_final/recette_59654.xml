@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59654">
+ <titre>Velouté aux 5 légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poireaux moyens</p>
+ <p>3 petites courgettes</p>
+ <p>6 carottes moyennes</p>
+ <p>2 grosses tomates</p>
+ <p>2 pommes de terre moyennes</p>
+ <p>4 feuilles de basilic frais</p>
+ <p>beurre</p>
+ <p>1 cuillerée à soupe d’ huile d’ olive</p>
+ <p>1 cuillerée à café de curcuma (safran de Bourbon) </p>
+ <p>1 pincée de gingembre en poudre</p>
+ <p>1 pincée de curry indien</p>
+ <p>2 cuillerées à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez les légumes en dés</operation> et <operation temps=6.86min espace=13>ciselez le <ingredient quantite=4>basilic</ingredient></operation>. dans une <recipient>cocotte</recipient> <operation temps=1.0min espace=13>faites fondre le beurre</operation> et <operation temps=6.86min espace=13>ajoutez l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=13>faites dorer les légumes dans ce mélange</operation> et ajouter le <ingredient quantite=4>basilic</ingredient>. <operation temps=6.86min espace=13>saupoudrez de</operation> <ingredient quantite=2>farine</ingredient> et <operation temps=5.0min espace=13>mélangez</operation> vigoureusement afin d’ <operation temps=8.0min espace=13>obtenir un mélange homogène</operation>. epicez, <operation temps=0.25min espace=13>salez</operation>, <operation temps=0.5min espace=13>poivrez</operation>. <operation temps=6.86min espace=13>ajoutez <ingredient quantite=1>petit</ingredient> à <ingredient quantite=1>petit</ingredient> 1 l d’ eau tout en</operation> mélangeant. <operation temps=15.0min espace=13>laissez cuire 15 min à feu doux</operation>. au bout de ce temps, <operation temps=6.86min espace=13>mixez</operation> et <operation temps=6.86min espace=13>ajustez l’</operation> assaisonnement en fonction de votre goût. bon appétit.
+]]>
+ </preparation>
+</recette>

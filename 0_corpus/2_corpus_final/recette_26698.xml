@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26698">
+ <titre>Poêlée de champignons à la béchamel</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de petits champignons blancs</p>
+ <p>beurre</p>
+ <p>le jus de 2 citrons</p>
+ <p>3 cuillères à soupe de béchamel</p>
+ <p>sel, poivre du moulin </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver, peler et équeuter les <ingredient quantite=1>champignons</ingredient>, puis les essuyer à l’ aide de papier absorbant. les faire revenir à la <recipient>poêle</recipient> dans du beurre avec le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>jus des citrons</ingredient>. <operation temps=6.86min espace=6>faire réduire le <ingredient quantite=1>jus</ingredient> de cuisson</operation> puis ajouter 3 <ingredient quantite=3>cuillères à soupe de béchamel</ingredient> et <operation temps=20.0min espace=6>laisser cuire 15 à 20 min</operation>. déguster chaud en accompagnement de rôtis, de riz ou de pâtes nature.
+]]>
+ </preparation>
+</recette>

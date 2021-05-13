@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44379">
+ <titre>Moelleux express à la cannelle (micro-ondes) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 g de sucre</p>
+ <p>50 g de beurre</p>
+ <p>1 oeuf</p>
+ <p>50 g de maïzéna</p>
+ <p>1 sachet de levure</p>
+ <p>1 cuillère à soupe rase de cannelle</p>
+ <p>1 cuillère à soupe de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=8>faire fondre le beurre dans un <recipient>saladier</recipient>, pendant 1 min au micro-ondes</operation>. une fois le beurre fondu, ajouter le <ingredient quantite=1>sucre</ingredient>, la maizena, la <ingredient quantite=1>levure</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>rhum</ingredient>. bien mélanger le tout. <operation temps=2.0min espace=8>faire chauffer 2 min au micro-ondes</operation>... c’ est prêt! <operation temps=6.86min espace=8>laisser tout de même</operation> <operation temps=6.86min espace=8>refroidir le gâteau une petite heure</operation>. excellent, à l’ heure du thé.
+]]>
+ </preparation>
+</recette>

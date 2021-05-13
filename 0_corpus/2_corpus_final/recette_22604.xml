@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22604">
+ <titre>Tourte saumon épinards</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>400 g d’ épinards frais</p>
+ <p>400 g de saumon frais</p>
+ <p>4 échalotes</p>
+ <p>15 cl de crème</p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>1 poignée d’ oseille</p>
+ <p>1 gousse d’ ail</p>
+ <p>huile d’ olive ou beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites sauter les <ingredient quantite=1>épinards</ingredient> à la <recipient>poêle</recipient> avec l’ <ingredient quantite=1>ail</ingredient></operation> pressé, l’ <ingredient quantite=1>oseille</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=4>échalotes</ingredient></operation> hachées à la <recipient>poêle</recipient> avec le <ingredient quantite=1>saumon</ingredient> coupé en lamelles. <operation temps=6.86min espace=14>laissez colorer rapidement, slaez</operation>, <operation temps=0.5min espace=14>poivrez</operation>. <operation temps=6.86min espace=14>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> à bords hauts</operation>. <operation temps=6.86min espace=14>etalez un peu du mélange <ingredient quantite=1>saumon</ingredient> - <ingredient quantite=4>échalotes</ingredient>, puis <ingredient quantite=1>épinards</ingredient>, puis <ingredient quantite=1>saumon</ingredient>, puis <ingredient quantite=1>épinards</ingredient></operation>. <operation temps=6.86min espace=14>couvrez avec la deuxième</operation> <ingredient quantite=1>pâte</ingredient>, <operation temps=6.86min espace=14>soudez les bords</operation> et <operation temps=6.86min espace=14>creusez une cheminée</operation>. <operation temps=35.0min espace=14>enfournez la tourte à 180 ° c (thermostat 6) pendant environ 35 minutes</operation>. battez la <ingredient quantite=1>crème</ingredient> avec 1 <ingredient quantite=2>oeuf</ingredient>. <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation>, <operation temps=6.86min espace=14>versez ce mélange par la cheminée</operation>. <operation temps=6.86min espace=14>dorez la tourte au <ingredient quantite=1>jaune</ingredient> d’</operation> <ingredient quantite=2>oeuf</ingredient> et <operation temps=10.0min espace=14>remettez au <recipient>four</recipient> pour 10 minutes à 200 ° c (thermostat 6 - 7</operation>).
+]]>
+ </preparation>
+</recette>

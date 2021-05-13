@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55983">
+ <titre>Pain perdu salé à la menthe</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pain (rassis de préférence) </p>
+ <p>5 cl d’ eau gazeuse</p>
+ <p>4 oeufs</p>
+ <p>5 cl de lait</p>
+ <p>sel, poivre</p>
+ <p>menthe</p>
+ <p>beurre ou huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=4>oeufs</ingredient> en omelette. saler et poivrer puis ajouter le lait et l’ <ingredient quantite=1>eau gazeuse</ingredient>. ajouter de la <ingredient quantite=1>menthe</ingredient> séchée (ou fraîche) écrasée. <operation temps=6.86min espace=8>laisser reposer quelques minutes</operation>. pendant que le beurre ou l’ <ingredient quantite=1>huile</ingredient> chauffe dans la <recipient>poêle</recipient>, mettre tremper des tranches de <ingredient quantite=1>pain</ingredient> d’ environ 1 cm /1, 5 cm d’ épaisseur dans la préparation, bien les <operation temps=6.86min espace=8>laisser s’</operation> imbiber et les mettre à cuire en les retournant à mi-cuisson. délicieux avec une salade verte. ma fille de trois ans adore ça.
+]]>
+ </preparation>
+</recette>

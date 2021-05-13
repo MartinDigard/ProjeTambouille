@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10817">
+ <titre>Feuilleté frais aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pommes</p>
+ <p>pâte feuilletée</p>
+ <p>carré frais</p>
+ <p>2 cuillérée de miel d’ accacia</p>
+ <p>1 pincée de gingembre</p>
+ <p>1 pincée de cannelle</p>
+ <p>1 pincée de muscade</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir les <ingredient quantite=2>pommes</ingredient> dans une <recipient>poêle</recipient> dans du beurre</operation>, saupoudrer légèrement de <ingredient quantite=1>gingembre</ingredient>, <ingredient quantite=1>cannelle</ingredient>, <ingredient quantite=1>muscade</ingredient>. etaler et séparer en 2 la <ingredient quantite=1>pâte feuilletée</ingredient> badigeonner avec du <ingredient quantite=2>miel</ingredient> une moitié de <ingredient quantite=1>pâte</ingredient>. diviser les 2 moitiés de <ingredient quantite=1>pâte</ingredient> en 4, <operation temps=6.86min espace=10>recouvrir les 4 moitiés de carré <ingredient quantite=1>frais</ingredient>, puis de <ingredient quantite=2>pommes</ingredient></operation>. <operation temps=6.86min espace=10>recouvrir les 4 premières moitiés des 4 autres en</operation> pressant les bords. mettre à <recipient>four</recipient> chaud (180 ° c - thermostat 6) pendant 20 min.
+]]>
+ </preparation>
+</recette>

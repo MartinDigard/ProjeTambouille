@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45426">
+ <titre>Gratin de cabillaud aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filets de cabillaud (ou de colin) </p>
+ <p>5 tomates</p>
+ <p>2 oignons</p>
+ <p>1 pot de câpres</p>
+ <p>150 g d’ olives noires dénoyautées</p>
+ <p>3 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>125 g de gruyère râpé</p>
+ <p>2 verres de vin blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faire revenir dans de l’ huile d’ <ingredient quantite=1>olive</ingredient> les <ingredient quantite=2>oignons</ingredient> hachés ; lorsqu’ ils sont bien dorés</operation>, ajouter les <ingredient quantite=5>tomates</ingredient> coupées en dés. saler, poivrer et ajouter l’ <ingredient quantite=3>ail</ingredient> haché. au bout de 5 min, mettre dans la <recipient>sauteuse</recipient> les <ingredient quantite=1>câpres</ingredient> égouttés, les <ingredient quantite=1>olives noires</ingredient> coupées en rondelles et le <ingredient quantite=2>vin blanc</ingredient>. <operation temps=6.86min espace=16>laisser cuire une dizaine de minutes à petit feu</operation>. a l’ aide d’ un pinceau, huiler un <recipient>plat</recipient> à <recipient>four</recipient> à l’ huile d’ <ingredient quantite=1>olive</ingredient>. y déposer les <ingredient quantite=1>filets</ingredient> de poisson épongés, et <operation temps=6.86min espace=16>couvrir avec la préparation aux <ingredient quantite=1>olives</ingredient></operation>. rajouter un peu de <ingredient quantite=2>vin blanc</ingredient> si nécessaire, et enfourner à <recipient>four</recipient> préchauffé à 220 ° c (th 7 - 8), pendant 15 min. saupoudrer alors le <recipient>plat</recipient> de <ingredient quantite=1>gruyère râpé</ingredient>, et remettre au <recipient>four</recipient> pendant encore 5 min.
+]]>
+ </preparation>
+</recette>

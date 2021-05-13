@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22827">
+ <titre>Fricassée de poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 botte de poireaux</p>
+ <p>50 g de beurre</p>
+ <p>1 cuillerée à soupe de farine</p>
+ <p>le jus d’ 1 citron</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>lavez les</operation> <ingredient quantite=1>poireaux</ingredient>, <operation temps=6.86min espace=6>éliminez les feuilles vertes dures</operation>. <operation temps=6.86min espace=6>découpez les blancs en tronçons</operation>, <operation temps=6.86min espace=6>faites - les</operation> cuire 30 minutes à l’ eau bouillante salée. <operation temps=6.86min espace=6>egouttez sur un linge propre</operation>. <operation temps=6.86min espace=6>faites fondre le beurre dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=6>saupoudrez la farine</operation> et <operation temps=6.86min espace=6>mouillez avec un peu d’ eau et le <ingredient quantite=1>jus</ingredient> du <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=6>faites sauter les morceaux de</operation> <ingredient quantite=1>poireaux</ingredient>, <operation temps=0.25min espace=6>salez</operation> et <operation temps=0.5min espace=6>poivrez</operation>. <operation temps=10.0min espace=6>laissez mijoter 10 min à feu très doux</operation> et <operation temps=2.0min espace=6>servez bien chaud</operation>. cette fricassée accompagne très bien le poisson ou la volaille.
+]]>
+ </preparation>
+</recette>

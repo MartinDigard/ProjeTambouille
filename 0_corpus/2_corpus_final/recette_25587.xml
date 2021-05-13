@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25587">
+ <titre>Rillettes de sardines</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 oignons frais</p>
+ <p>2 gousses d’ ail</p>
+ <p>6 feuilles de basilic</p>
+ <p>3 brins de menthe fraîche</p>
+ <p>2 boîtes de sardines à l’ huile d’ olive</p>
+ <p>250 g de fromage frais au naturel à tartiner</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=8>coupez - les en 6</operation>. epluchez les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient>, débarassez - les de leur germe. dans un <recipient>mixeur</recipient>, <operation temps=6.86min espace=8>disposez l’ <ingredient quantite=1>oignon</ingredient> l’ <ingredient quantite=2>ail</ingredient>, les <ingredient quantite=2>sardines</ingredient> égouttées</operation> débarrassées de leur arête centrale, les <ingredient quantite=6>feuilles de basilic</ingredient> et de <ingredient quantite=3>menthe</ingredient> et enfin le <ingredient quantite=2>fromage frais</ingredient>. <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation> et <operation temps=6.86min espace=8>mixez jusqu’ à l’ obtention d’ une pâte tartinable</operation>. <operation temps=6.86min espace=8>mettez au <ingredient quantite=2>frais</ingredient> 1 heure avant de</operation> <operation temps=2.0min espace=8>servir</operation>. <operation temps=6.86min espace=8>accompagnez de quelques tomates en salade</operation>.
+]]>
+ </preparation>
+</recette>

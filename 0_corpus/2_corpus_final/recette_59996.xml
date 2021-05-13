@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59996">
+ <titre>Salade de concombre et pomme</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 concombre</p>
+ <p>1 pomme golden</p>
+ <p>1 yaourt brassé</p>
+ <p>du sel aux herbes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver, éplucher et couper en dés le <ingredient quantite=1>concombre</ingredient> et la <ingredient quantite=1>pomme</ingredient>. mettre dans un bol les dés et verser dessus le <ingredient quantite=1>yaourt brassé</ingredient>. assaisonner de quelques pincées de <ingredient quantite=1>sel aux herbes</ingredient> et mélanger le tout. c’ est prêt!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32083">
+ <titre>Parmentier de haddock</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de pommes de terre </p>
+ <p>500 g de haddock frais</p>
+ <p>1l de lait + 30 cl pour la purée</p>
+ <p>30 g de beurre</p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>pommes de terre</ingredient> épluchées à cuire dans une <recipient>casserole</recipient> d’ eau bouillante salée pendant 3/4 d’ heure environ. pendant ce temps, déposer le <ingredient quantite=1>haddock</ingredient> dans une <recipient>casserole</recipient> et le <operation temps=6.86min espace=11>recouvrir avec le lait</operation>. <operation temps=15.0min espace=11>faire chauffer</operation>. dès les premiers frémissements, éteindre le feu, puis <operation temps=10.0min espace=11>laisser pocher pendant 10 mn en</operation> recouvrant la <recipient>casserole</recipient> avec un couvercle. une fois les <ingredient quantite=1>pommes de terre</ingredient> cuites, <operation temps=6.86min espace=11>faire une <ingredient quantite=1>purée</ingredient> classique avec lait</operation> et <ingredient quantite=1>beurre</ingredient> (varier les proportions selon votre goût). <operation temps=6.86min espace=11>sortir le <ingredient quantite=1>haddock</ingredient> du lait et l’</operation> émietter. prendre un <recipient>plat</recipient> allant au <recipient>four</recipient> et le beurrer. disposer une couche de <ingredient quantite=1>purée</ingredient> puis une couche de poisson émietté et ainsi de suite jusqu’ à épuisement des ingrédients. <operation temps=6.86min espace=11>recouvrir alors la dernière couche de <ingredient quantite=1>purée</ingredient> avec de la</operation> <ingredient quantite=1>chapelure</ingredient> et déposer dessus quelques noisettes de beurre pour colorer le dessus du <recipient>plat</recipient>. enfourner pendant une vingtaine de minutes à thermostat 7 (210 ° c). il ne reste plus qu’ à déguster!
+]]>
+ </preparation>
+</recette>

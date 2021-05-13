@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62519">
+ <titre>Gâteau aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g d’ amandes en poudre</p>
+ <p>125 g de beurre fondu </p>
+ <p>200 g de sucre </p>
+ <p>4 oeufs </p>
+ <p>quelques gouttes d’ amandes amères (4 à 5) </p>
+ <p>amandes effilées pour mettre sur le dessus du gâteau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). mélanger le tout sans les <ingredient quantite=1>amandes effilées</ingredient>. <operation temps=6.86min espace=10>recouvrir le fond d’ un <recipient>moule</recipient> à</operation> manqué de papier sulfurisé, cela aide grandement pour le <operation temps=3.0min espace=10>sortir du <recipient>four</recipient></operation>. verser la pâte dans le <recipient>moule</recipient>. parsemer d’ <ingredient quantite=1>amandes effilées sur le</ingredient> dessus. enfourner pendant environ 30 minutes.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40488">
+ <titre>Lasagne aux brocolis et au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bouquets de brocoli</p>
+ <p>3 tranches de jambon</p>
+ <p>2 gousses d’ ail (très important) </p>
+ <p>2 échalotes</p>
+ <p>gruyère râpé</p>
+ <p>parmesan râpé</p>
+ <p>sauce béchamel ou crème épaisse ou fromage selon ce qu’ il y a dans le frigo</p>
+ <p>6 feuilles de lasagne</p>
+ <p>épices selon les goûts: grains de coriandre, cumin, pointe de curry, sel, poivre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=2>brocoli</ingredient> à la vapeur. cuire les <ingredient quantite=6>feuilles de lasagnes</ingredient>’ al dente’. <operation temps=6.86min espace=14>faire revenir le <ingredient quantite=3>jambon</ingredient></operation> coupé en dés, les <ingredient quantite=2>échalotes</ingredient>, les épices, ajouter les têtes de <ingredient quantite=2>brocolis</ingredient> un peu écrasées dans une <recipient>poêle</recipient>, écraser les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> et les incorporer au dernier moment. disposer dans un <recipient>plat</recipient> huilé, dans l’ ordre: <ingredient quantite=6>feuille de lasagne</ingredient>, <ingredient quantite=2>brocolis</ingredient> et <ingredient quantite=3>jambon</ingredient>, <ingredient quantite=1>béchamel</ingredient> (ou <ingredient quantite=1>crème ou fromage</ingredient> blanc), <ingredient quantite=1>parmesan</ingredient>. terminer par une <ingredient quantite=1>feuille</ingredient>, de la <ingredient quantite=1>béchamel</ingredient> et une bonne quantité des 2 <ingredient quantite=1>fromages</ingredient> mélangés. <operation temps=6.86min espace=14>faire gratiner au <recipient>four</recipient></operation>. <operation temps=2.0min espace=14>servir avec une salade verte</operation>. attention à la cuisson des <ingredient quantite=6>lasagnes</ingredient>: il faut mettre beaucoup d’ eau et de l’ <ingredient quantite=1>huile</ingredient> parce qu’ on court très vite à la catastrophe quand les <ingredient quantite=6>feuilles</ingredient> restent collées ou se déchirent. il est sans doute possible de les mettre pas cuites dans le <recipient>plat</recipient> avec un peu d’ eau et beaucoup de sauce, mais je ne l’ ai encore jamais fait. pour le <ingredient quantite=2>brocoli</ingredient>, je ne prends que les fleurs et gardent les pieds pour autre chose: <ingredient quantite=1>soupe</ingredient> ou purée. il est aussi possible de ne mettre <ingredient quantite=1>qu</ingredient>’ une <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=2>ail</ingredient> bien sûr. j’ espère que ça vous plaira!
+]]>
+ </preparation>
+</recette>

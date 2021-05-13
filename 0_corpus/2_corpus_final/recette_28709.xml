@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28709">
+ <titre>Dal de lentilles indien</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de lentilles</p>
+ <p>1 l d’ eau</p>
+ <p>1 cuillère à café de coriandre</p>
+ <p>1 cuillère à café de curcuma</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 à 2 piments verts</p>
+ <p>1 grosse pincée de sel</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>lentilles</ingredient> dans l’ <ingredient quantite=1>eau</ingredient> avec les épices pendant 20 à 30 minutes, jusqu’ à ce qu’ elles aient</operation> absorbé toute l’ <ingredient quantite=1>eau</ingredient>. retirer la <recipient>casserole</recipient> du feu. ôter les graines des <ingredient quantite=1>piments</ingredient> et les émincer très finement. hacher finement l’ <ingredient quantite=2>ail</ingredient> et le <operation temps=6.86min espace=9>faire revenir dans l’ <ingredient quantite=2>huile</ingredient> jusqu’ à ce qu’ il soit blond</operation>. <operation temps=6.86min espace=9>répartir le dal dans les assiettes</operation>, parsemer d’ <ingredient quantite=2>ail</ingredient> et de <ingredient quantite=1>piment</ingredient> puis <operation temps=2.0min espace=9>servir</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14569">
+ <titre>Crème brûlée à la vanille</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 jaunes d’ oeufs</p>
+ <p>120 g de sucre en poudre</p>
+ <p>50 cl de crème liquide</p>
+ <p>15 cl de lait</p>
+ <p>2 gousses de vanille</p>
+ <p>6 cuillères à soupe de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à thermostat 3 (90 ° c). <operation temps=6.86min espace=13>fendez les <ingredient quantite=1>gousse</ingredient> de vanille dans la longueur er</operation> <operation temps=6.86min espace=13>raclez avec la poite d’ un couteau les petites graines noires de l’ intérieur au-dessus d’ une jatte</operation>. <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=6>jaunes</ingredient> d’ <ingredient quantite=6>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=5.0min espace=13>fouettez</operation> jusqu’ à ce que le mélange blanchisse. <operation temps=6.86min espace=13>incorporez le lait, puis la <ingredient quantite=1>crème</ingredient> toujours en fouettant</operation>. répartissez cette préparation dans des petits <recipient>plat</recipient> à <ingredient quantite=6>oeufs</ingredient>. <operation temps=6.86min espace=13>faites les</operation> cuire 45 mn au <recipient>four</recipient>. après refroidissement, <operation temps=1.0min espace=13>mettez</operation> - les au <recipient>réfrigérateur</recipient> 2 heures. pour <operation temps=2.0min espace=13>servir</operation>, <operation temps=6.86min espace=13>saupoudrez le dessus de chaque <ingredient quantite=1>crème</ingredient> de <ingredient quantite=6>cassonade</ingredient></operation>. <operation temps=1.0min espace=13>laissez caraméliser pendant 1 mn sous le <recipient>gril</recipient> du <recipient>four</recipient></operation>. <operation temps=2.0min espace=13>servez aussitôt</operation>. pour éliminer la mousse en surface, <operation temps=6.86min espace=13>laissez reposer les <ingredient quantite=1>crèmes</ingredient> pendant 1/2 heure avant de les</operation> mettre au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

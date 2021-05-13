@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27466">
+ <titre>Clafoutis aux framboises facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 cuillères à soupe de farine</p>
+ <p>6 cuillères à soupe de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>3 oeufs</p>
+ <p>150 g de beurre</p>
+ <p>1 tasse à thé bien pleine de lait</p>
+ <p>un grand bol de framboises (fraîches ou surgelées) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> à 180 ° c. dans un <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=6>sucre</ingredient> et le <ingredient quantite=6>sucre</ingredient> vanillé. ajouter un à un les <ingredient quantite=3>oeufs</ingredient>, mélanger jusqu’ à <operation temps=6.86min espace=10>obtenir une pâte <ingredient quantite=1>bien</ingredient> homogène</operation>. ajouter le beurre fondu, puis le <ingredient quantite=1>lait</ingredient>. dans un <recipient>saladier</recipient> beurré et fariné, verser les <ingredient quantite=1>framboises</ingredient>, puis la pâte. <operation temps=35.0min espace=10>laisser cuire 30 à 35 mn à 180 ° c</operation>. personnellement, je préfère le servir une fois qu’ il est <ingredient quantite=1>bien</ingredient> refroidi, pour mieux apprécier le goût des <ingredient quantite=1>framboises</ingredient>.
+]]>
+ </preparation>
+</recette>

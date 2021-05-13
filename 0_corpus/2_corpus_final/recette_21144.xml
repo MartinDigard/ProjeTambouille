@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21144">
+ <titre>Lapin aux topinambours</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 râbles de lapin</p>
+ <p>2 rognons</p>
+ <p>1 kg de topinambours</p>
+ <p>2 beaux oignons</p>
+ <p>200 g de lardons</p>
+ <p>2 têtes d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>un bouillon de volaille dissout dans 1 litre d’ eau</p>
+ <p>sel, poivre</p>
+ <p>25 cl de vin blanc</p>
+ <p>une cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient>, dégraisser les <ingredient quantite=4>râbles de lapin</ingredient>, réserver les <ingredient quantite=2>rognons</ingredient>. éplucher les topinambors et les couper en cubes grossiers. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>lardons</ingredient> avec les</operation> <ingredient quantite=2>oignons</ingredient>, ajouter les <ingredient quantite=4>râbles de lapin</ingredient>. les <operation temps=6.86min espace=12>faire dorer une quinzaine de minutes</operation>. déglacer avec le <ingredient quantite=1>vin blanc</ingredient>, recouvrir ensuite avec le <ingredient quantite=2>bouillon de volaille</ingredient>. ajouter le <ingredient quantite=1>bouquet garni</ingredient>, saler, poivrer, <operation temps=0.25min espace=12>couvrir</operation> et <operation temps=30.0min espace=12>laisser mijoter 30 mn</operation>. ajouter les <ingredient quantite=1>topinambours</ingredient> et les <ingredient quantite=2>rognons</ingredient> coupés en deux dans la longueur. <operation temps=45.0min espace=12>laisser mijoter 45 mn</operation>. 5) en fin de cuisson, ajouter la farine pour épaissir un peu la sauce. encore meilleur réchauffé! <ingredient quantite=1>vin blanc</ingredient> d’ alsace
+]]>
+ </preparation>
+</recette>

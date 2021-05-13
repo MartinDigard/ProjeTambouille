@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225554">
+ <titre>Tarte alsacienne à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>3 œufs</p>
+ <p>30 cl de crème fraiche</p>
+ <p>120 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 kg de rhubarbes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire macérer la <ingredient quantite=1>rhubarbe</ingredient> avec le <ingredient quantite=1>sucre</ingredient> pendant une heure</operation>. jeter le jus. étaler la <ingredient quantite=1>pâte brisée</ingredient> dans la tourtière. <operation temps=6.86min espace=7>répartir la <ingredient quantite=1>rhubarbe</ingredient></operation>. mélanger les <ingredient quantite=3>œufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> vanillé et la <ingredient quantite=1>crème fraiche</ingredient>. verser le mélange sur la <ingredient quantite=1>rhubarbe</ingredient>. préchauffer le <recipient>four</recipient> à 220 ° c (thermostat 7) pendant 10 min. <operation temps=10.0min espace=7>faire cuire la tarte pendant 10 min à 220 ° c, puis 30 min à 180 ° c</operation>.
+]]>
+ </preparation>
+</recette>

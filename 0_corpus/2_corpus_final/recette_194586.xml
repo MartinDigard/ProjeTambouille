@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194586">
+ <titre>Mini brioches à tête</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine </p>
+ <p>100 g de lait</p>
+ <p>100 g d huile </p>
+ <p>140 g de sucre</p>
+ <p>2 œufs </p>
+ <p>2 paquets de levure pour brioches</p>
+ <p>1 pincée de sel</p>
+ <p>une cuillère à café de vanille liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battez dans un <recipient>plat</recipient> le lait, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=2>levure</ingredient>, puis les <ingredient quantite=2>œufs</ingredient> et l’ huile et la <ingredient quantite=1>farine</ingredient> en dernier plus le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=10>formez une pâte homogène</operation> et <operation temps=6.86min espace=10>laissez levez 4 heures</operation>. ensuite <operation temps=6.86min espace=10>cassez la pâte</operation> et <operation temps=6.86min espace=10>formez des boules de 28 g que vous</operation> <operation temps=6.86min espace=10>mettez dans les moules en silicone pour petites <ingredient quantite=2>brioches</ingredient></operation> <operation temps=6.86min espace=10>mettez au <recipient>four</recipient> à 165 ° c (thermostat 5 - 6</operation>). <operation temps=20.0min espace=10>laissez cuire 20 minutes</operation>. vous pouvez les congeler, c’ est ce que je <operation temps=6.86min espace=10>fais depuis des mois! elles sont très bonnes et pas caloriques! thé ou <ingredient quantite=1>café</ingredient> ou chocolat les enfants en rafole</operation>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58673">
+ <titre>Poulet boucané de Guadeloupe</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet (coupé en morceaux) </p>
+ <p>6 gousses d’ ail pressées</p>
+ <p>3 oignons emincés</p>
+ <p>2 échalotes émincées</p>
+ <p>1 piment emincé</p>
+ <p>le jus de 4 citrons verts</p>
+ <p>sel, poivre, herbes</p>
+ <p>1 morceau de canne à sucre (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients ensemble et <operation temps=6.86min espace=11>faire mariner le <ingredient quantite=1>poulet</ingredient> dans ce mélange pendant au moins 12 heures</operation>. <operation temps=6.86min espace=11>faire chauffer les braises du <recipient>barbecue</recipient></operation>, mettre la <ingredient quantite=1>canne à sucre</ingredient> dessus puis poser la grille. disposer les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> dessus. arroser régulièrement de marinade durant la cuisson. disposer une cloche de cuisson sur les <ingredient quantite=1>poulets</ingredient> (facultatif) afin d’ accentuer le goût de fumé. <operation temps=6.86min espace=11>servir avec une sauce chien: cive, <ingredient quantite=1>oignon</ingredient>,</operation> <ingredient quantite=6>ail</ingredient>, persil, <ingredient quantite=1>piment</ingredient>, <ingredient quantite=1>citron</ingredient>, huile, eau. si vous n’ avez pas de <recipient>barbecue</recipient>, <operation temps=6.86min espace=11>faites - le cuire au <recipient>four</recipient> en</operation> arrosant avec la marinade.
+]]>
+ </preparation>
+</recette>

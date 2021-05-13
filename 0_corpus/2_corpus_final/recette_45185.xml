@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45185">
+ <titre>Poulet au riz épicé</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet fermier</p>
+ <p>300 g de riz parfumé (basmati...) </p>
+ <p>1 oignon</p>
+ <p>1 piment antillais</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 feuille de laurier</p>
+ <p>1 brin de thym</p>
+ <p>2 clous de girofle</p>
+ <p>1 brin de persil plat</p>
+ <p>4 brins de ciboulette</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>le jus de 2 citrons verts</p>
+ <p>4 tomates bien mûres</p>
+ <p>1 cuillères à soupe de curry</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>coupez le <ingredient quantite=1>poulet</ingredient> en morceaux</operation>. dans une <recipient>cocotte</recipient> <operation temps=6.86min espace=16>mettez l’ <ingredient quantite=4>huile</ingredient></operation>. quand celle-ci est <ingredient quantite=4>bien</ingredient> chaude <operation temps=10.0min espace=16>faites revenir le <ingredient quantite=1>poulet</ingredient> à feu vif pendant 5 à 10 minutes jusqu’ à ce qu’ il soit <ingredient quantite=4>bien</ingredient> doré</operation>. <operation temps=6.86min espace=16>arrosez - le avec un peu d’ eau</operation>. hachez le <ingredient quantite=2>laurier</ingredient>, le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>persil</ingredient> et la <ingredient quantite=4>ciboulette</ingredient>. <operation temps=6.86min espace=16>ajoutez l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>piment</ingredient>, les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient>, les clous de <ingredient quantite=2>girofle</ingredient> et le <ingredient quantite=1>curry</ingredient></operation>. <operation temps=5.0min espace=16>laissez cuire 4 à 5 minutes</operation>. <operation temps=6.86min espace=16>incorporez le</operation> <ingredient quantite=1>riz</ingredient>, <operation temps=6.86min espace=16>recouvrez d’ eau</operation> et <operation temps=6.86min espace=16>laisser cuire jusqu’ à ce qu’ il n’ y</operation> ai plus d’ eau dans le <ingredient quantite=1>riz</ingredient>. en fin de cuisson, ajoutez le <ingredient quantite=1>jus des citrons verts</ingredient> et <operation temps=2.0min espace=16>servez</operation> chaud. attention, il faut aimer les épices!
+]]>
+ </preparation>
+</recette>

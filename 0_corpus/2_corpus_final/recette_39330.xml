@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39330">
+ <titre>Kefta aux oeufs et à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de viande hachée (boeuf ou mouton) </p>
+ <p>500 g de coulis de tomate</p>
+ <p>4 oeufs</p>
+ <p>2 oignons</p>
+ <p>-10 cl d’ huile d’ olive</p>
+ <p>Persil, coriandre</p>
+ <p>Sel, poivre, cumin, paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les <ingredient quantite=2>oignons</ingredient>, la <ingredient quantite=1>coriandre</ingredient> et le <ingredient quantite=1>persil</ingredient>. ajouter la <ingredient quantite=1>viande</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et le <ingredient quantite=1>cumin</ingredient>, puis bien mélanger. <operation temps=6.86min espace=7>faire de petites boulettes, et les</operation> diposer dans un tajine. ajouter l’ huile d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=1>sel</ingredient>, et le <ingredient quantite=1>paprika</ingredient> au <ingredient quantite=1>coulis de tomates</ingredient>. verser le mélange sur les boulettes. <operation temps=6.86min espace=7>faire cuire 25 min, sur une plaque, à feu doux,</operation> puis ajouter les <ingredient quantite=4>oeufs</ingredient>, sans les casser. <operation temps=5.0min espace=7>laisser cuire 5 min</operation>. servir bien chaud. le tajine se mange sans couverts, avec du pain marocain.
+]]>
+ </preparation>
+</recette>

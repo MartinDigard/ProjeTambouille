@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69133">
+ <titre>Mon hamburger rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 fines tranches de fromage</p>
+ <p>4 pains à burger</p>
+ <p>4 steak hachés</p>
+ <p>2 tomates</p>
+ <p>2 oignons</p>
+ <p>1 concombre</p>
+ <p>mayonnaise</p>
+ <p>ketchup</p>
+ <p>salade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient>, et <operation temps=6.86min espace=11>mettez les</operation> steaks à griller. <operation temps=6.86min espace=11>déposez une cuillère de <ingredient quantite=1>mayonnaise</ingredient> sur chaque <ingredient quantite=1>pain</ingredient>, et entourez - la d’ un filet de <ingredient quantite=1>ketchup</ingredient></operation>. ajoutez 2 <ingredient quantite=8>tranches fines</ingredient> de <ingredient quantite=1>concombre</ingredient>, 1 <ingredient quantite=1>tranche</ingredient> de <ingredient quantite=1>tomate</ingredient> et 1 toastinette par <ingredient quantite=1>pain</ingredient>. placer les <ingredient quantite=4>pains</ingredient> au <recipient>four</recipient> chaud pendant 3mn et <operation temps=6.86min espace=11>finissez au grill 30 secondes</operation>. <operation temps=6.86min espace=11>servez les <ingredient quantite=4>burgers</ingredient></operation> ouvert avec le <ingredient quantite=4>steak</ingredient> sur le <ingredient quantite=1>pain</ingredient> du bas, et <operation temps=6.86min espace=11>agrémentez de <ingredient quantite=1>salade</ingredient></operation>. coca-cola
+]]>
+ </preparation>
+</recette>

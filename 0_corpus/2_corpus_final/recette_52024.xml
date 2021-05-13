@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52024">
+ <titre>Gâteau Niçois d’ Isabelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>100 g de sucre</p>
+ <p>2 œufs</p>
+ <p>1/2 sachet de levure</p>
+ <p>4 cuillères à soupe de lait</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>sel</p>
+ <p>rhum</p>
+ <p>Pour le sirop: </p>
+ <p>100 g de beurre</p>
+ <p>50 g de sucre</p>
+ <p>1 œuf entier</p>
+ <p>fruits (souvent pommes, poires, selon les goûts!) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=2>œufs</ingredient>, après avoir obtenu une crème, ajouter la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=4>lait</ingredient>, l’ <ingredient quantite=4>huile</ingredient>, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>rhum</ingredient>. verser dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré. <operation temps=6.86min espace=16>garnir avec les <ingredient quantite=1>fruits</ingredient> coupés en gros morceaux</operation>. cuire 15 à 20 min au <recipient>four</recipient> à 210 ° c (thermostat 7). le <ingredient quantite=1>sirop</ingredient>: mélanger le <ingredient quantite=1>sucre</ingredient> et le beurre de façon à <operation temps=6.86min espace=16>obtenir une crème, puis l’ <ingredient quantite=1>œuf</ingredient></operation>. après ces 15 à 20 minutes de cuisson, verser le <ingredient quantite=1>sirop</ingredient> sur le gâteau mi-cuit. remettre au <recipient>four</recipient> environ 30 min. déguster tiède ou froid. idéal goûter avec un thé! franc succès à tous les coups! a la maison, il a rarement le temps de refroidir, n’ est -ce pas laurent ?
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81533">
+ <titre>Ravioles à la crème et au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 plaques ou 4 poignées de ravioles fraîches (minis raviolis fourrés au fromage) </p>
+ <p>20 cl de crème liquide</p>
+ <p>2 tranches de jambon</p>
+ <p>sel, poivre</p>
+ <p>comté ou cantal</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire bouillir 1l d’ eau dans une grande <recipient>casserole</recipient></operation>. quand l’ eau bout, verser les <ingredient quantite=4>ravioles</ingredient> (séparées si elles sont en <ingredient quantite=4>plaques</ingredient>). dès que les <ingredient quantite=4>ravioles</ingredient> remontent à la surface (en quelques minutes), les égoutter. mixer le <ingredient quantite=2>jambon</ingredient>, le mélanger à la <ingredient quantite=1>crème liquide</ingredient>. verser le mélange et les <ingredient quantite=4>ravioles</ingredient> dans une <recipient>casserole</recipient> et <operation temps=6.86min espace=7>faire réchauffer quelques minutes à feu doux</operation>. saler et poivrer. <operation temps=6.86min espace=7>servir dans une assiette creuse</operation> et saupoudrer de <ingredient quantite=1>comté</ingredient> ou de <ingredient quantite=1>cantal</ingredient> râpé.
+]]>
+ </preparation>
+</recette>

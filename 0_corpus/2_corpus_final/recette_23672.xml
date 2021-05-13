@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23672">
+ <titre>Crumble chèvre et courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles courgettes</p>
+ <p>1 fromage de chèvre frais</p>
+ <p>farine et beurre en quantités égales</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>râpez la chair de la</operation> <ingredient quantite=1>courgette</ingredient> et <operation temps=6.86min espace=7>pressez la pour en</operation> enlever le jus. disposez - la dans un <recipient>plat</recipient> à gratin beurré. <operation temps=6.86min espace=7>recouvrez - la avec le <ingredient quantite=1>chèvre</ingredient></operation> frais. <operation temps=6.86min espace=7>préparez la pâte à crumble</operation>: <operation temps=6.86min espace=7>mélangez la même <ingredient quantite=1>quantité</ingredient> de farine et de beurre, avec un peu de <ingredient quantite=1>sel</ingredient></operation>. vous <operation temps=6.86min espace=7>obtenez une sorte de sable grossier que vous</operation> <operation temps=6.86min espace=7>disposez au dessus du reste dans le <recipient>plat</recipient></operation>. <operation temps=6.86min espace=7>mettez à <recipient>four</recipient> chaud une bonne 1/2</operation> heure.
+]]>
+ </preparation>
+</recette>

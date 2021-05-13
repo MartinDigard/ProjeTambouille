@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49352">
+ <titre>Papillotes de lapin à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>morceaux de lapin </p>
+ <p>2 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>10 cl de vin blanc</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel, poivre, thym</p>
+ <p>papier d’ aluminium</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>déposez dans un <recipient>plat</recipient> en terre le <ingredient quantite=1>papier</ingredient> d’ alu,</operation> et mettre dessus les morceaux de <ingredient quantite=1>lapin</ingredient> tartinés de moutarde. <operation temps=6.86min espace=9>ajoutez 2 <ingredient quantite=2>échalotes</ingredient> et 2 <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient></operation> hachées. versez dessus 10 cl de <ingredient quantite=1>vin blanc</ingredient> et 20 cl de <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=9>ajoutez <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, une branche de <ingredient quantite=1>thym</ingredient></operation>. <operation temps=6.86min espace=9>fermez le <ingredient quantite=1>papier</ingredient> d’ alu,</operation> et <operation temps=6.86min espace=9>enfournez à 180 ° c (th 6), pendant 1 h</operation>. vous pouvez accompagner ce <recipient>plat</recipient> de tagliatelles fraîches.
+]]>
+ </preparation>
+</recette>

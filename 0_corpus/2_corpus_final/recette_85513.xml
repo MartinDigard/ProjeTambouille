@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85513">
+ <titre>Tarte aux fruits secs moelleux et aux noisettes moulues</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée- 500 g de mélange de fruits secs (abricots, pruneaux, figues, poires) - 200 g de noisettes moulues- 100 g de sucre semoule- 1 sachet de sucre vanillé- 4 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à <ingredient quantite=1>200</ingredient> ° c (thermostat 6 - 7). coupez les <ingredient quantite=1>fruits secs</ingredient> en petits morceaux. <operation temps=6.86min espace=4>mélangez dans un <recipient>saladier</recipient> les <ingredient quantite=1>fruits</ingredient> coupés, les noisettes moulues, le sucre et le sucre vanillé</operation>. <operation temps=6.86min espace=4>ajoutez les 4 œufs et mélangez, jusqu’ à l’ obtention d’ une pâte homogène</operation>. disposez la pâte dans un <recipient>plat</recipient> à tarte, puis <operation temps=6.86min espace=4>versez - y la garniture</operation>. enfournez pendant 30 à 40 min. <operation temps=20.0min espace=4>laissez refroidir</operation> et <operation temps=6.86min espace=4>goûtez</operation>. pour ceux qui aiment: ajoutez un peu de cannelle à la préparation de <ingredient quantite=1>fruits secs</ingredient>.
+]]>
+ </preparation>
+</recette>

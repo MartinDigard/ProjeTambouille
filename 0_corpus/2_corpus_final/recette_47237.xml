@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47237">
+ <titre>Pain perdu au thon (pudding) </titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>pain rassi (environ 1/2 baguette) </p>
+ <p>1 grosse boîte de thon (265g) </p>
+ <p>3 oeufs</p>
+ <p>fromage râpé</p>
+ <p>sel, poivre</p>
+ <p>noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=11>faire chauffer sans</operation> <operation temps=6.86min espace=11>bouillir le lait et le jus du <ingredient quantite=1>thon</ingredient> dans un <recipient>saladier</recipient></operation>. couper le <ingredient quantite=1>pain</ingredient> <operation temps=6.86min espace=11>rassis en cubes de 2 cm de côté environ</operation>. mettre le <ingredient quantite=1>pain</ingredient> dans le lait, attendre quelques instants que le <ingredient quantite=1>pain</ingredient> absorbe le lait et mixer (la préparation doit avoir une consistance de purée liquide). ajouter les 3 <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et la <ingredient quantite=1>noix de muscade</ingredient> et mélanger. ajouter le <ingredient quantite=1>thon</ingredient> grossièrement émietté, mélanger. huiler un <recipient>plat</recipient> à gratin, verser la préparation et mettre le <ingredient quantite=1>fromage râpé</ingredient>. enfourner et <operation temps=40.0min espace=11>laisser cuire 40 min environ</operation>. <recipient>plat</recipient> qui plaît aux enfants et qui permet d’ utiliser tout son <ingredient quantite=1>pain</ingredient> <operation temps=6.86min espace=11>rassis</operation>.
+]]>
+ </preparation>
+</recette>

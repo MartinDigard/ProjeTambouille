@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80480">
+ <titre>Soufflés aux amandes et à la poire</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g d’ amandes en poudre</p>
+ <p>125 g de sucre glace</p>
+ <p>125 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>1 poire</p>
+ <p>5 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, versez les <ingredient quantite=1>amandes</ingredient> et le <ingredient quantite=1>sucre glace</ingredient>, <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=1>eau</ingredient> et malaxez pour</operation> <operation temps=6.86min espace=10>obtenir une boule de pâte</operation>. <operation temps=6.86min espace=10>ajoutez le beurre fondu, les <ingredient quantite=2>oeufs</ingredient> et la farine</operation>. pétrissez puis <operation temps=6.86min espace=10>laissez reposer 1 h au frais</operation>. préchauffez votre <recipient>four</recipient> à 240 °, thermostat 8. <operation temps=6.86min espace=10>pelez une <ingredient quantite=1>poire</ingredient> bien mûre</operation> et <operation temps=6.86min espace=10>coupez - la en morceaux</operation>. remplissez de pâte chaque <recipient>moule</recipient> aux 3/4 de leur hauteur et <operation temps=6.86min espace=10>disposez quelques morceaux de <ingredient quantite=1>poire</ingredient> sur chacun</operation>. <operation temps=10.0min espace=10>laissez cuire 10 min</operation> et <operation temps=6.86min espace=10>servez tiède</operation>.
+]]>
+ </preparation>
+</recette>

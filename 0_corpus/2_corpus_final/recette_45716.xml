@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45716">
+ <titre>Filets de poisson parfumés au gingembre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 beaux filets de poisson (au choix, colin, lieu perche) </p>
+ <p>4 belles tomates</p>
+ <p>1 oignon</p>
+ <p>1 morceau de gingembre frais (ou gingembre en poudre) </p>
+ <p>curry</p>
+ <p>sel et poivre</p>
+ <p>coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+oter la peau des <ingredient quantite=4>tomates</ingredient>, et les couper en petits cubes. emincer l’ <ingredient quantite=1>oignons</ingredient>, et raper le <ingredient quantite=1>gingembre</ingredient>. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient>,</operation> puis rajouter le <ingredient quantite=1>gingembre</ingredient> haché, et le <ingredient quantite=1>curry</ingredient>. rajouter les <ingredient quantite=4>tomates</ingredient>, <operation temps=6.86min espace=8>couvrir,</operation> et <operation temps=5.0min espace=8>laisser cuire 5 min</operation>. ajouter les <ingredient quantite=2>filets de poisson</ingredient> (entier ou en <ingredient quantite=1>morceaux</ingredient>), <operation temps=10.0min espace=8>laisser cuire 10 min</operation> (suivant l’ épaisseur du <ingredient quantite=2>poisson</ingredient>). et lorsque le <ingredient quantite=2>poisson</ingredient> est cuit, ajouter la <ingredient quantite=1>coriandre</ingredient> hachée, et <operation temps=6.86min espace=8>servir avec un riz blanc</operation>.
+]]>
+ </preparation>
+</recette>

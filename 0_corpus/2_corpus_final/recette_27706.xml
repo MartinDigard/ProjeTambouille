@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27706">
+ <titre>Aubergines au gratin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500g d’ aubergines</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 kg de tomates</p>
+ <p>2 brins de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>100 g de gruyère râpé</p>
+ <p>gros sel, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez les <ingredient quantite=1>aubergines</ingredient> en rondelles</operation>. saupoudrez de <ingredient quantite=1>gros sel</ingredient> et <operation temps=30.0min espace=11>laissez dégorger 30 minutes</operation>. <operation temps=6.86min espace=11>essuyez - les</operation> et <operation temps=6.86min espace=11>faites - les</operation> fondre dans l’ <ingredient quantite=6>huile</ingredient> d’ <ingredient quantite=6>olive</ingredient> jusqu’ à ce qu’ elles soient tendres. <operation temps=6.86min espace=11>coupez les <ingredient quantite=1>tomates</ingredient> en quartiers</operation> et <operation temps=6.86min espace=11>faites les</operation> fondre en coulis épais avec le <ingredient quantite=2>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient> et l’ <ingredient quantite=2>ail</ingredient>. <operation temps=1.0min espace=11>assaisonnez</operation> et <operation temps=25.0min espace=11>laissez cuire environ 20 - 25 minutes à feu vif en</operation> remuant souvent. <operation temps=6.86min espace=11>retirez le <ingredient quantite=1>laurier</ingredient> et le <ingredient quantite=2>thym</ingredient> puis passez le coulis au moulin à légumes</operation>. incorporez - lui 50 g de gruyère. préchauffez le <recipient>gril</recipient> du <recipient>four</recipient>. dans un <recipient>plat</recipient> à gratin huilé, <operation temps=6.86min espace=11>disposez successivement les couches d’ <ingredient quantite=1>aubergines</ingredient> et de</operation> coulis. <operation temps=6.86min espace=11>saupoudrez de gruyère</operation> et <operation temps=6.86min espace=11>faites gratiner</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80751">
+ <titre>Paupiettes de saumon au boursin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 feuilles de bricks</p>
+ <p>4 pavés de saumon</p>
+ <p>100 g de julienne de légumes décongelée</p>
+ <p>100 g de boursin ail et fines herbes</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>cuisez les pavés de <ingredient quantite=4>saumon</ingredient> à la vapeur ou au micro-ondes</operation>. <ingredient quantite=1>décongelez</ingredient> ou préparez la <ingredient quantite=1>julienne de légumes</ingredient>. <operation temps=6.86min espace=5>superposez deux <ingredient quantite=8>feuilles</ingredient> de</operation> bricks. déposez le pavé de <ingredient quantite=4>saumon</ingredient> au centre. <operation temps=6.86min espace=5>ajoutez une grosse cuillère de <ingredient quantite=1>boursin</ingredient> sur le</operation> <ingredient quantite=4>saumon</ingredient> puis <operation temps=6.86min espace=5>recouvrez de <ingredient quantite=1>julienne</ingredient></operation>. <operation temps=6.86min espace=5>repliez la partie inférieure de la brick sur le <ingredient quantite=4>saumon</ingredient>, puis les deux parties latérales</operation>. <operation temps=6.86min espace=5>terminez en par la partie supérieure</operation>. déposez les 4 paupiettes ainsi obtenues sur une <ingredient quantite=1>feuille</ingredient> de papier sulfurisé. <operation temps=40.0min espace=5>enfournez environ 40 minutes à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=5>servez avec du riz basmati et une grosse salade verte</operation>. si c’ est trop sec, on peut les servir avec un coulis de tomates.
+]]>
+ </preparation>
+</recette>

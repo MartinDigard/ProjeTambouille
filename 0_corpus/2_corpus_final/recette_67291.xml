@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67291">
+ <titre>Tarte rapide au corned beef</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée </p>
+ <p>1 boîte de corned beef</p>
+ <p>1 gros oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 échalote</p>
+ <p>20 cl de coulis de tomate</p>
+ <p>1 boîte de tomates pelées</p>
+ <p>2 oeufs</p>
+ <p>100 g de gruyère râpé (selon votre goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient>plat</recipient> adapté et la piquer à la fourchette. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire revenir à feu vif l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>échalote</ingredient></operation> émincés dans un peu de matière grasse. emietter le <ingredient quantite=1>corned beef</ingredient> sur la <ingredient quantite=1>pâte</ingredient> feuilletée et <operation temps=6.86min espace=14>répartir uniformément</operation>. ajouter dans la <recipient>poêle</recipient> les <ingredient quantite=1>tomates pelées</ingredient> et le <ingredient quantite=1>coulis de tomate</ingredient>. <operation temps=6.86min espace=14>laisser compoter le tout</operation>, ajouter des épices, saler et poivrer. battre les deux <ingredient quantite=2>oeufs</ingredient> en omelette et les vider hors feu sur la compote de <ingredient quantite=1>tomate</ingredient>. couler le tout dans le fond de tarte, ajouter le <ingredient quantite=1>gruyère râpé</ingredient>. enfourner 20 bonnes minutes <recipient>four</recipient> à 180 ° c (le temps dépend du <recipient>four</recipient> utilisé, alors <operation temps=6.86min espace=14>adaptez</operation>). servir accompagné d’ une salade verte. rosé
+]]>
+ </preparation>
+</recette>

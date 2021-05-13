@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46830">
+ <titre>Muffin-pudding</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 muffins</p>
+ <p>50 cl de lait</p>
+ <p>2 oeufs battus</p>
+ <p>50 g de sucre</p>
+ <p>1 cuillère à soupe de cacao en poudre</p>
+ <p>1 pomme</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>emiettez les muffins</operation>. <operation temps=6.86min espace=7>faites tiédir le lait</operation> et <operation temps=6.86min espace=7>versez - le sur les muffins</operation>. <operation temps=6.86min espace=7>ajoutez le <ingredient quantite=1>cacao</ingredient></operation>. <operation temps=6.86min espace=7>mélangez les <ingredient quantite=2>oeufs</ingredient> et le</operation> <ingredient quantite=1>sucre</ingredient>, <operation temps=6.86min espace=7>ajoutez - les</operation>. <operation temps=6.86min espace=7>coupez la <ingredient quantite=1>pomme</ingredient> en dés</operation> et <operation temps=6.86min espace=7>ajoutez - la</operation>. <operation temps=6.86min espace=7>versez le tout dans un <recipient>moule</recipient> à cake</operation>. cuire une grosse heure à 200 ° c (thermostat 7). quand le pudding commence à caraméliser sur le dessus, <operation temps=6.86min espace=7>couvrez - le de papier aluminium</operation> et <operation temps=6.86min espace=7>poursuivez la cuisson</operation>. on peut aussi ajouter du miel, des fruits secs, c’ est totale liberté!
+]]>
+ </preparation>
+</recette>

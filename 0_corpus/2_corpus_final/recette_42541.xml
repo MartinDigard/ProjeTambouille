@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42541">
+ <titre>Crème renversée à l’ ananas</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 ananas bien mûr</p>
+ <p>1/4 de litre d’ eau</p>
+ <p>5 oeufs entiers</p>
+ <p>le jus d’ 1/2 citron</p>
+ <p>1 cuillère à café de maïzena</p>
+ <p>100 g de sucre roux</p>
+ <p>1 cuillère à café de rhum</p>
+ <p>200 g de sucre pour le caramel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>ouvrir l’ <ingredient quantite=1>ananas</ingredient> en 2 pour en</operation> préléver la chair, en la quadrillant avec un couteau, et la prélever avec une <ingredient quantite=1>cuillère</ingredient>. faire chauffer l’ <ingredient quantite=1>eau</ingredient> avec le <ingredient quantite=1>sucre roux</ingredient>, dans une <recipient>casserole</recipient>. quand le <ingredient quantite=1>sucre</ingredient> sera fondu, ajouter l’ ananas puis le pocher. <operation temps=6.86min espace=13>faire cuire quelques minutes à feux vif, et le mixer avec le sirop</operation>. dans une jatte, battre les <ingredient quantite=5>oeufs</ingredient> en omelette, puis ajouter l’ ananas et son sirop bouillant. <ingredient quantite=1>bien</ingredient> mélanger, et agrémenter de <ingredient quantite=1>rhum</ingredient> et de <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. ensuite, <operation temps=6.86min espace=13>faire chauffer le <ingredient quantite=1>sucre</ingredient> pour</operation> <operation temps=6.86min espace=13>obtenir un <ingredient quantite=1>caramel</ingredient></operation>. napper un <recipient>moule</recipient> à soufflé (en pirex) avec le <ingredient quantite=1>caramel</ingredient>, puis verser la préparation dessus. placer le <recipient>moule</recipient>, couvert d’ une assiettte, dans l’ autocuiser avec un fond d’ <ingredient quantite=1>eau</ingredient>, puis cuire 30 min environ. on peut également cuire la crème au <recipient>four</recipient>, au <recipient>bain marie</recipient>, pendant 40 min environ. pour <operation temps=6.86min espace=13>finir</operation>, <operation temps=20.0min espace=13>laisser refroidir</operation> puis démouler. je vous souhaite un bon dessert. comme accompagnement, vous pouvez <operation temps=6.86min espace=13>servir la crème</operation> renversée avec des biscuits.
+]]>
+ </preparation>
+</recette>

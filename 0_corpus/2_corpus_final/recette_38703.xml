@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38703">
+ <titre>Tarte Tatin banane chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pâte brisée</p>
+ <p>4 bananes</p>
+ <p>1 jus de citron</p>
+ <p>50 g de beurre</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>boîte de pastilles de chocolat pour la pâtisserie</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). epluchez les <ingredient quantite=4>bananes</ingredient>, <operation temps=6.86min espace=9>coupez - les en rondelles et citronnez - les pour qu’ elles ne</operation> noircissent pas. dans une grande <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faites fondre le beurre et le <ingredient quantite=2>sucre</ingredient></operation> vanillé puis <operation temps=6.86min espace=9>faites soigneusement</operation> dorer les rondelles de <ingredient quantite=4>bananes</ingredient> en veillant à ne pas les écraser. disposez au fond d’ un <recipient><recipient>moule</recipient> à tarte</recipient> beurré les <ingredient quantite=1>pastilles de chocolat</ingredient> et les rondelles de <ingredient quantite=4>bananes</ingredient> dessus sur deux épaisseurs. <operation temps=25.0min espace=9>posez la <ingredient quantite=1>pâte</ingredient> et enfournez pendant 25 min</operation>. comme vous le <operation temps=6.86min espace=9>savez peut-être (ou pas), les tartes tatin se</operation> font retournée. c’ est pourquoi, il faut mettre les ingrédients avant la <ingredient quantite=1>pâte</ingredient>. vous pouvez l’ accompagner d’ une ou deux boules de glace au <ingredient quantite=1>chocolat</ingredient> noir. a consommer froid.
+]]>
+ </preparation>
+</recette>

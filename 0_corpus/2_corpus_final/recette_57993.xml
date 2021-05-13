@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57993">
+ <titre>Pâtes au poivron et à l’ aubergine</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros poivron</p>
+ <p>1 aubergine</p>
+ <p>environ 300 g de pâtes (type farfalle) </p>
+ <p>1 boite de sauce tomate (coulis de tomate, 400 g) </p>
+ <p>crème</p>
+ <p>huile (d’ olives de préférence), poivre, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire cuire les <ingredient quantite=1>pâtes</ingredient> " al dente</operation> ". <operation temps=6.86min espace=7>faire revenir le <ingredient quantite=1>poivron</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient> dans de l’ <ingredient quantite=1>huile</ingredient></operation>. mélanger la <ingredient quantite=1>sauce tomate</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=6.86min espace=7>laisser cuire quelques minutes</operation>. dans un <recipient>plat</recipient> à gratin, mélanger les <ingredient quantite=1>pâtes</ingredient> et la <ingredient quantite=1>sauce</ingredient> puis étaler la <ingredient quantite=1>crème</ingredient> dessus. servir chaud. pour assaisonner, vous pouvez rajouter du basilic ou de l’ ail.
+]]>
+ </preparation>
+</recette>

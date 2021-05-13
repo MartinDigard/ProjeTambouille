@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15360">
+ <titre>Epaule d’ agneau marinée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 épaule d’ agneau désossée (1, 3 kg) Pour la marinade: </p>
+ <p>huile d’ olive (1 verre à moutarde) </p>
+ <p>4 jus de citron</p>
+ <p>3 oignons</p>
+ <p>curry fort</p>
+ <p>laurier + bois d’ inde</p>
+ <p>clous de girofle</p>
+ <p>poivre</p>
+ <p>piment</p>
+ <p>3 tomates</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les légumes et mélanger tous les ingrédients de la <ingredient quantite=1>marinade</ingredient>. y <operation temps=6.86min espace=12>faire mariner l’ <ingredient quantite=1>épaule</ingredient> pendant 12 h à température ambiante</operation>. lorsque l’ <ingredient quantite=1>épaule</ingredient> a mariné, enlever les légumes restés collés et la cuire au <recipient>four</recipient> préchauffé à 180 ° c. extraire le <ingredient quantite=4>jus</ingredient> de la <ingredient quantite=1>marinade</ingredient> (en mettant de côté les légumes), puis en utiliser la moitié pour l’ arrosage de la viande et <operation temps=6.86min espace=12>faire revenir l’ autre moitié avec du beurre, du <ingredient quantite=4>jus</ingredient> de viande, du cidre ou du vin blanc pour</operation> constituer la sauce. d’ autre part, faire revenir à la <recipient>poêle</recipient> les ingrédients de la <ingredient quantite=1>marinade</ingredient> (<ingredient quantite=3>oignons + tomates</ingredient>) avec des petites pommes de terre préalablement cuites à l’ eau (ne pas trop les cuire, elles doivent rester fermes) et coupées en 4 ou en rondelles épaisses. <operation temps=45.0min espace=12>laisser mijoter</operation> et servir la viande sur ce lit de pommes de terre + $ $ <ingredient quantite=3>oignons + tomates</ingredient>, avec des haricots à l’ eau. on peut également ajouter une courgette coupée en rondelles aux légumes.
+]]>
+ </preparation>
+</recette>

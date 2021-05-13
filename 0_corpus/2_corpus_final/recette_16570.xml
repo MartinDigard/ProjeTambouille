@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16570">
+ <titre>Galantine de faisan</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 faisan</p>
+ <p>100 g de lard fumé</p>
+ <p>100 g de jambon maigre</p>
+ <p>100 g de langue écarlate</p>
+ <p>1 verre de liqueur de cognac</p>
+ <p>400 g de chair à saucisse</p>
+ <p>2 oeufs</p>
+ <p>1 barde de lard</p>
+ <p>1/2 l de gelée (en sachet) </p>
+ <p>sel, poivre et noix muscade</p>
+ <p>50 g de truffes (facultatif) ou de pistaches</p>
+ <p>1 l de fond de volaille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites démonter la <ingredient quantite=1>chair</ingredient> du</operation> <ingredient quantite=1><operation temps=6.86min espace=14>faisan</ingredient> par votre volailler</operation>. détaillez les filets en lardons, ainsi que le <ingredient quantite=1>lard</ingredient>, le <ingredient quantite=1>jambon maigre</ingredient> et la <ingredient quantite=1>langue écarlate</ingredient>. placez ces viandes dans un <recipient>plat</recipient> et <operation temps=6.86min espace=14>arrosez - les avec le <ingredient quantite=1>cognac</ingredient></operation>. <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation> et <operation temps=6.86min espace=14>muscadez selon votre goût</operation> et <operation temps=6.86min espace=14>laissez mariner quelques minutes</operation>. ajoutez éventuellement <ingredient quantite=1>truffes ou pistaches</ingredient>. hachez la <ingredient quantite=1>chair</ingredient> des cuisses et les parures avec la <ingredient quantite=1>chair à saucisses</ingredient>. <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=2>oeufs</ingredient> à cette farce</operation> et <operation temps=1.0min espace=14>assaisonnez</operation>. <operation temps=6.86min espace=14>etalez la <ingredient quantite=1>barde</ingredient> et garnissez la en</operation> alternant la farce et le hachis de viande et sa marinade. <operation temps=6.86min espace=14>roulez en forme de gros</operation> boudin et <operation temps=6.86min espace=14>serrez dans un linge blanc dont vous</operation> <operation temps=6.86min espace=14>torsadez</operation> et <operation temps=6.86min espace=14>ficelez les extrémités de manière à</operation> emprisonner fortement la galantine. pochez la galantine dans ce <ingredient quantite=1>fond</ingredient> pedant 1 heure. lorsqu’ elle est cuite, déballez la galantine et <operation temps=6.86min espace=14>serrez la fortement dans un nouveau linge blanc propre</operation> et <operation temps=20.0min espace=14>laissez refroidir</operation>. placez - la alors dans un <recipient>plat</recipient> creux et étroit et <operation temps=6.86min espace=14>couvrez la de <ingredient quantite=1>gelée</ingredient></operation>. <operation temps=6.86min espace=14>réservez au froid jusqu’ à prise de la <ingredient quantite=1>gelée</ingredient></operation>. saint julien ou moulis
+]]>
+ </preparation>
+</recette>

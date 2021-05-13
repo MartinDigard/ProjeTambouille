@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22967">
+ <titre>Pudding salé, oeufs-bacon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 mugs (grandes tasses anglaises) = 100 g environ de pain rassis coupés en croûtons</p>
+ <p>2 mugs de lait tiède (environ 40 cl) </p>
+ <p>2 oeufs crus</p>
+ <p>2 oeufs durs</p>
+ <p>5 tranches de bacon, ou 2 tranches de jambon</p>
+ <p>40 g de fromage râpé</p>
+ <p>cumin</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger le <ingredient quantite=2>lait</ingredient> et les <ingredient quantite=2>oeufs crus</ingredient>. y <operation temps=30.0min espace=13>faire tremper le <ingredient quantite=1>pain</ingredient> pendant 30 mn</operation>. préchauffer le <recipient>four</recipient> à 200 ° c. après les 30 mn de trempage, mélanger / écraser un peu le <ingredient quantite=1>pain</ingredient>. ajouter le <ingredient quantite=5>bacon</ingredient> ou le <ingredient quantite=5>jambon</ingredient> coupé en petits morceaux, le <ingredient quantite=1>fromage</ingredient>, les <ingredient quantite=1>oeufs durs coupés</ingredient> en tout petits morceaux et les épices. bien mélanger. verser la préparation dans un <recipient>moule</recipient> à cake. <operation temps=30.0min espace=13>faire cuire au <recipient>four</recipient> à 200 ° c pendant 30 mn</operation>. se mange chaud ou <ingredient quantite=2>tiède</ingredient>, très bon arrosé d’ un coulis de tomates. a accompagner d’ une salade verte ou de tomates.
+]]>
+ </preparation>
+</recette>

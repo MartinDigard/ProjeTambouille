@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59758">
+ <titre>Gâteau aux pommes sans oeuf</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>25 cl de lait</p>
+ <p>15 g de beurre</p>
+ <p>150 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>5 grosses cuillères à soupe de sucre</p>
+ <p>6 pommes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer un <recipient><recipient>moule</recipient> à tarte</recipient> et préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). peler et couper les <ingredient quantite=6>pommes</ingredient> en lamelles (même grossières) puis les disposer dans le <recipient>moule</recipient>. <operation temps=6.86min espace=9>faire fondre le beurre avec le lait (attention ne pas</operation> <operation temps=6.86min espace=9>laisser bouillir)</operation> puis ajouter la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=5>sucre</ingredient>. mélanger au fouet énergiquement. verser la préparation sur les <ingredient quantite=6>pommes</ingredient> et enfourner pour 25 minutes de cuisson. servir tiède (c’ est encore meilleur). attention de ne pas <operation temps=6.86min espace=9>laisser chauffer le lait et le beurre trop longtemps sinon il</operation> risque d’ y avoir des grumeaux. peut être accompagné d’ une boule de glace vanille ou d’ une <ingredient quantite=1>cuillère</ingredient> de crème fraîche.
+]]>
+ </preparation>
+</recette>

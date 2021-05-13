@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28120">
+ <titre>Poulet à la crème et au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet découpé en morceaux</p>
+ <p>3 citrons</p>
+ <p>10 cl de crème fraîche</p>
+ <p>50 g de beurre</p>
+ <p>1 pincée de thym en poudre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>pressez 1 <ingredient quantite=1>citron</ingredient> et demi</operation>. <operation temps=0.25min espace=9>salez et</operation> <operation temps=6.86min espace=9>poivrez le jus</operation> recueuilli et <operation temps=6.86min espace=9>faites - y</operation> macérer les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> au moins 1 h. <operation temps=10.0min espace=9>egouttez</operation> et <operation temps=6.86min espace=9>essuyez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient></operation>. <operation temps=6.86min espace=9>faites - les</operation> colorer à feu vif dans une <recipient>cocotte</recipient> contenant le beurre bien chaud. <operation temps=6.86min espace=9>mouillez d’ un grand verre d’ eau</operation>, <operation temps=6.86min espace=9>saupoudrez de <ingredient quantite=1>thym</ingredient></operation>. <operation temps=20.0min espace=9>portez à ébullition</operation>, <operation temps=0.25min espace=9>couvrez</operation> et <operation temps=6.86min espace=9>baissez le feu</operation>. <operation temps=20.0min espace=9>laissez mijoter 20 minutes à feu doux</operation>. <operation temps=6.86min espace=9>retirez le <ingredient quantite=1>poulet</ingredient> de la <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=9>faites réduire le jus de cuisson de moitié</operation>. <operation temps=6.86min espace=9>ajoutez la</operation> <ingredient quantite=1>crème</ingredient>, <operation temps=5.0min espace=9>mélangez</operation> et <operation temps=6.86min espace=9>laissez épaissir quelques minutes à feu moyen</operation>. <operation temps=6.86min espace=9>pressez le <ingredient quantite=1>citron</ingredient></operation> restant et <ingredient quantite=1>découpez</ingredient> le demi-citron en rondelles. <operation temps=6.86min espace=9>retirez la <recipient>cocotte</recipient> du feu</operation>, <operation temps=6.86min espace=9>ajoutez le jus de</operation> <ingredient quantite=1>citron</ingredient>, <operation temps=0.25min espace=9>salez et</operation> <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=6.86min espace=9>nappez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> de sauce</operation> et <operation temps=2.0min espace=9>servez</operation> décoré de rondelles de <ingredient quantite=1>citron</ingredient>. accompagnez de riz blanc et salade de chou.
+]]>
+ </preparation>
+</recette>

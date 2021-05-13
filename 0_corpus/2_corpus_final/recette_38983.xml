@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38983">
+ <titre>Poivron farci au crabe</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pour 1 poivron: </p>
+ <p>1 poivron jaune</p>
+ <p>50 g de crabe en conserve égoutté</p>
+ <p>2 oeufs</p>
+ <p>1 tomate séchée</p>
+ <p>Herbes de provence</p>
+ <p>Gros sel</p>
+ <p>Huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>poivron</ingredient> en 2, dans la longueur. verser un peu d’ <ingredient quantite=1>huile</ingredient> et du <ingredient quantite=1>gros sel</ingredient> dans le fond d’ un <recipient>plat</recipient>. mettre au <recipient>four</recipient>, pendant environ 45 min à 200 ° c (thermostat 6 - 7), pour qu’ il soit bien confit. préparer la farce: version 1: battre les 2 <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=1>crabe</ingredient> et la <ingredient quantite=1>tomate</ingredient> coupée, en morceaux, puis ajouter les <ingredient quantite=1>herbes</ingredient>. <operation temps=6.86min espace=12>remplir de farce les 2 moitiés de</operation> <ingredient quantite=1>poivrons</ingredient> et remettre 1/2 heure, au <recipient>four</recipient>. version 2: battre 1 seul <ingredient quantite=1>oeuf</ingredient> avec le <ingredient quantite=1>crabe</ingredient>, la <ingredient quantite=1>tomate</ingredient> et les <ingredient quantite=1>herbes</ingredient>. <operation temps=6.86min espace=12>remplir le</operation> <ingredient quantite=1>poivron</ingredient> et enfourner pendant 1/2 heure. quand il est prêt, cuire le 2ème <ingredient quantite=1>oeuf</ingredient>, au <recipient>plat</recipient>, et le déposer sur les moitiés de <ingredient quantite=1>poivrons</ingredient>.
+]]>
+ </preparation>
+</recette>

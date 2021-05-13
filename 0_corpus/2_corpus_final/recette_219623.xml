@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219623">
+ <titre>Rôti de veau aux tomates et aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de veau dans l’ épaule (900 g environ) </p>
+ <p>1 kg de tomates</p>
+ <p>125 g d’ olives dénoyautées</p>
+ <p>4 cuillerées d’ huile d’ olive</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 pincée de feuilles séchées d’ estragon </p>
+ <p>poivre </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites revenir le rôti dans une cocote avec l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient></operation>. <operation temps=1.0min espace=8>assaisonnez</operation>, <operation temps=0.25min espace=8>salez</operation> et <operation temps=0.5min espace=8>poivrez</operation>. ajouter un peu d’ eau, <operation temps=0.25min espace=8>couvrez</operation> et <operation temps=6.86min espace=8>laissez cuire 1 h en</operation> retournant souvent. pendant ce temps, hachez l’ <ingredient quantite=2>ail</ingredient>. <operation temps=6.86min espace=8>coupez les <ingredient quantite=1>tomates</ingredient> en morceaux</operation> puis <operation temps=0.5min espace=8>ajoutez</operation> - les à la viande, <operation temps=0.5min espace=8>ajoutez</operation> l’ <ingredient quantite=1>estragon</ingredient>. au bout d’ une heure ajouter les <ingredient quantite=1>olives</ingredient> et l’ <ingredient quantite=2>ail</ingredient> et <operation temps=15.0min espace=8>laisser mijoter 15 min</operation>. <operation temps=6.86min espace=8>servir le tout avec du riz basmati ou du riz parfumé</operation>. vin rouge: madiran
+]]>
+ </preparation>
+</recette>

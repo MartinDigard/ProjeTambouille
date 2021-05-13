@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20764">
+ <titre>Fromage fondu creusois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un bon fromage creusois fait à coeur ou un bon vieux camembert</p>
+ <p>un jaune d’ oeuf</p>
+ <p>une forte pincée de farine</p>
+ <p>deux cuillerées à soupes de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>coupez le <ingredient quantite=1>fromage</ingredient> en petites lamelles, les plus fines possibles que vous</operation> <operation temps=6.86min espace=7>ajouterez dans un <recipient>caquelon</recipient> de grès où</operation> frémira un fond d’ eau légèrement poivrée. <operation temps=6.86min espace=7>ajoutez une <ingredient quantite=1>cuillerée</ingredient> de beurre</operation>. <operation temps=6.86min espace=7>tournez doucement à feu doux pour</operation> <ingredient quantite=1><operation temps=6.86min espace=7>faire</ingredient> fondre le <ingredient quantite=1>fromage</ingredient></operation>. incorporez alors, une <ingredient quantite=1>forte pincée</ingredient> de farine, un <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> mélangé à <ingredient quantite=1>deux cuillerées de crème fraîche</ingredient>. <operation temps=6.86min espace=7>continuez de</operation> tourner lentement pour lier le tout. servir chaud dans le <recipient>caquelon</recipient>. s’ accompagne de frites et d’ une omelette nature. variante: on peut frotter le <recipient>caquelon</recipient> à l’ ail et ajouter une goutte de gnôle.
+]]>
+ </preparation>
+</recette>

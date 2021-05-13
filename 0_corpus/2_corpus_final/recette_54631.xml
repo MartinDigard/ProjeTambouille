@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54631">
+ <titre>Mayonnaise au thon et crudités</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de thon</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>15 cl de vinaigre balsamique</p>
+ <p>30 cl d’ huile de tournesol</p>
+ <p>sel, poivre</p>
+ <p>250 g de champignon de Paris</p>
+ <p>10 carottes</p>
+ <p>250 g de tomates cerise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre dans un <recipient>saladier</recipient> la boite de <ingredient quantite=1>thon</ingredient> égoutté, l’ <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=1>cuillère</ingredient> a <ingredient quantite=1>soupe de moutarde</ingredient>. ajouter le <ingredient quantite=1>vinaigre balsamique</ingredient>, une pincé de <ingredient quantite=1>sel</ingredient> et une pincée de poivre. mixer avec un robot en incorporant l’ huile au fur et à mesure. réserver au frais. laver et couper les <ingredient quantite=1>champignons</ingredient> en grosses lamelles, les <ingredient quantite=1>carottes</ingredient> en bâtonnets et laver les <ingredient quantite=1>tomates</ingredient>. mettre tous les légumes dans un <recipient>plat</recipient>, <operation temps=6.86min espace=11>sortir la sauce</operation> et tremper les légumes dedans! <operation temps=6.86min espace=11>régalez -vous! vous</operation> pouvez également la servir en apéro, vous <operation temps=6.86min espace=11>verrez c’ est un régal</operation>!
+]]>
+ </preparation>
+</recette>

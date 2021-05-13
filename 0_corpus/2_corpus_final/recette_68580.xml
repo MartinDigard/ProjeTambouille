@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68580">
+ <titre>Crumble rapide aux framboises et speculoos</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de biscuits Spéculoos (environ 25 biscuits ou 130 g) </p>
+ <p>1 sachet de framboises surgelées (environ 1 kg) </p>
+ <p>100 g de beurre mou</p>
+ <p>100 g de sucre roux</p>
+ <p>100 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+broyer les <ingredient quantite=1>spéculoos</ingredient> dans un mixer, mélanger avec la farine, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>beurre</ingredient> coupé en petits morceaux, jusqu’ à <operation temps=6.86min espace=7>obtenir une consistance sableuse</operation>. <operation temps=6.86min espace=7>disposez les <ingredient quantite=1>framboises</ingredient></operation> surgelées dans le fond des ramequins (ou dans le fond d’ un grand <recipient>plat</recipient>), <operation temps=6.86min espace=7>ajoutez la préparation de <ingredient quantite=1>biscuits</ingredient></operation>. mettre au <recipient>four</recipient> très chaud (220 ° c - thermostat 7 - 8) pendant 15 min. l’ idéal est de ne cuire qu’ au dernier moment, en milieu de repas par exemple.
+]]>
+ </preparation>
+</recette>

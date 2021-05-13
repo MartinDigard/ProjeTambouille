@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37852">
+ <titre>Oeufs poêlés à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>oeufs: 2 par personnes</p>
+ <p>crème fraîche</p>
+ <p>emmental rapé</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire fondre du beurre dans une <recipient>poêle</recipient>, y</operation> casser les <ingredient quantite=1>oeufs</ingredient> et ajouter <ingredient quantite=1>crème</ingredient> fraiche, (il faut que l’ on ne voit plus que les jaunes d’ <ingredient quantite=1>oeufs</ingredient>), <ingredient quantite=1>emmental</ingredient>, <ingredient quantite=1>sel et poivre</ingredient> selon votre goût. mettre un couvercle et <operation temps=6.86min espace=6>laisser mijoter doucement</operation>, surveiller, dès que la <ingredient quantite=1>crème</ingredient> boue <operation temps=6.86min espace=6>laisser 30 secondes</operation> et déguster.
+]]>
+ </preparation>
+</recette>

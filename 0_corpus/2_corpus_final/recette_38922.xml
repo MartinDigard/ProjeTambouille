@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38922">
+ <titre>Cake aux poires et chocolat fondant</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poires</p>
+ <p>150g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>80 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>90 g de beurre fondu</p>
+ <p>1 cuillère à soupe de cognac</p>
+ <p>50 g de chocolat (tablette) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger: farine, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=3>oeufs</ingredient>, beurre, <ingredient quantite=1>levure</ingredient>, <ingredient quantite=1>cognac</ingredient> jusqu’ à <operation temps=8.0min espace=10>obtenir une pâte homogène</operation>. eplucher et couper les <ingredient quantite=2>poires</ingredient> en dés. réserver. casser le <ingredient quantite=1>chocolat</ingredient> en carrés. dans un <recipient>moule</recipient> à cake beurré, verser la moitié de la pâte, au fond puis, disposer les dés de <ingredient quantite=1>poire</ingredient>. et placer, dessus, les dés de <ingredient quantite=1>chocolat</ingredient>. <operation temps=6.86min espace=10>recouvrir, avec l’ autre moitié de pâte</operation>. enfourner dans un <recipient>four</recipient> chaud, à 180 ° (thermostat 6/7), pendant 40 à 45 min. c’ est un très, très bon gâteau, que nous avons inventés, ma petite soeur et moi.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23277">
+ <titre>Blé aux champignons et jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de blé</p>
+ <p>75 g de jambon blanc</p>
+ <p>75 g de champignons de paris</p>
+ <p>3 cuillères à soupe de Porto ou vin cuit</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>sel, poivre </p>
+ <p>beurre demi-sel</p>
+ <p>huile</p>
+ <p>salade (mâche) </p>
+ <p>huile de noix ou noisettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites <ingredient quantite=1>cuire</ingredient> le <ingredient quantite=1>blé</ingredient> dans un grand volume d’ eau bouillante</operation> salée (selon les indications portées sur le paquet). pendant ce temps, dans une <recipient>poêle</recipient> chaude, mettre du beurre avec un peu d’ huile d’ olive. <operation temps=6.86min espace=11>faire <ingredient quantite=1>cuire</ingredient> les <ingredient quantite=1>champignons</ingredient></operation> émincés. ajouter le <ingredient quantite=1>jambon</ingredient> coupé en dé, <operation temps=2.0min espace=11>faire <ingredient quantite=1>cuire</ingredient> 2 mn</operation>. puis ajouter le <ingredient quantite=1>porto</ingredient> avec la <ingredient quantite=1>crème fraîche</ingredient> tout en remuant. egouter le <ingredient quantite=1>blé</ingredient>, ajouter une <ingredient quantite=1>noix</ingredient> de beurre et servir le tout accompagné d’ une petite <ingredient quantite=1>salade</ingredient> avec de l’ huile de <ingredient quantite=1>noix ou de noisette</ingredient>. <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> pour terminer l’ ensemble. c’ est prêt! idéal comme recette rapide, pas prise de tête et nourissante. et puis ça change des pâtes et du riz ;) <ingredient quantite=3>vin</ingredient> de rouge de preference (à cause du <ingredient quantite=1>porto</ingredient>)
+]]>
+ </preparation>
+</recette>

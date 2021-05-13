@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26935">
+ <titre>Spaghetti végétal</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une courgette’ spaghetti’ </p>
+ <p>400 g de dés de lardons fumés</p>
+ <p>2 gros oignons</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=6>faire cuire la <ingredient quantite=1>courgette</ingredient> sphaghetti pendant 30 mn dans l’ eau bouillante pour la</operation> rendre molle. pendant ce temps, émincer les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=6>faire revenir dans une <recipient>poêle</recipient> à feu doux, pour ne pas les</operation> caraméliser. <operation temps=6.86min espace=6>faire de même avec les <ingredient quantite=1>lardons</ingredient> sur feu vif</operation>. une fois la <ingredient quantite=1>courgette spaghetti</ingredient> cuite, la couper en deux dans le sens de la longueur. enlever d’ abord les pépins puis ensuite à l’ aide d’ une cuillère à soupe, racler les parois pour en extraire les <ingredient quantite=1>spaghettis</ingredient>. pour <operation temps=6.86min espace=6>finir</operation>, mélanger la fondue d’ <ingredient quantite=2>oignons</ingredient> avec les <ingredient quantite=1>dés de lardons</ingredient> et les <ingredient quantite=1>spaghettis</ingredient> dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=6>faire revenir une dernière fois et servir chaud</operation>.
+]]>
+ </preparation>
+</recette>

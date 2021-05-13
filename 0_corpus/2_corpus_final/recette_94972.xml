@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94972">
+ <titre>Gratin de haricots et pommes de terre au lard et jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 gr de haricots</p>
+ <p>300 gr de pomme de terre</p>
+ <p>150 gr de jambon</p>
+ <p>150 gr de lard</p>
+ <p>100 gr de parmesan rapé</p>
+ <p>1.5 dl de crème fraiche</p>
+ <p>Sel et poivre à volonté</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=9>blanchir 5 min les <ingredient quantite=1>haricots</ingredient> dans un grand volume d’ eau</operation> salée, les égoutter. peler puis couper les <ingredient quantite=1>pommes de terre</ingredient> en frites. détailler en petit cubes le <ingredient quantite=1>lard</ingredient> et le <ingredient quantite=1>jambon</ingredient>. dans un <recipient>plat</recipient> à gratin, répartir en couches la moitié des <ingredient quantite=1>haricots</ingredient>, des <ingredient quantite=1>pommes de terre</ingredient>, du <ingredient quantite=1>jambon</ingredient>, du <ingredient quantite=1>lard</ingredient>. saler et poivrer puis verser par dessus la moitié de la <ingredient quantite=1>crème</ingredient> et du <ingredient quantite=1>parmesan</ingredient>. recommencer l’ opération pour une deuxième couche. <operation temps=0.25min espace=9>couvrir</operation> et glisser au <recipient>four</recipient> préchauffé à 160 ° (air pulsé) pendant 45 min. dé<operation temps=0.25min espace=9>couvrir</operation> et poursuivre la cuisson à 200 ° pendant 15 min environ.
+]]>
+ </preparation>
+</recette>

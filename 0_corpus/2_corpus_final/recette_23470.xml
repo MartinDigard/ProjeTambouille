@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23470">
+ <titre>SALADE AU RAISIN ET ROQUEFORT</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 laitue feuille de chêne</p>
+ <p>2 petites grappes de raisin (blanc et noir) </p>
+ <p>100 g de Roquefort</p>
+ <p>10 brins de persil plat ou de coriandre selon le goût</p>
+ <p>4 tranches très fines de jambon cru</p>
+ <p>1 cuillère à soupe de vinaigre de vin</p>
+ <p>1 cuillère à soupe d’ huile d’ arachide</p>
+ <p>1 cuillère à soupe d’ huile de noisette</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>lavez la salade</operation> et <operation temps=6.86min espace=12>essorez - la</operation>. <operation temps=6.86min espace=12>egrappez le</operation> <ingredient quantite=2>raisin</ingredient> puis <operation temps=6.86min espace=12>lavez - le</operation>. passez sous l’ eau les <ingredient quantite=1>brins de persil</ingredient>, puis <operation temps=6.86min espace=12>épongez - les</operation>. <operation temps=6.86min espace=12>emiettez le <ingredient quantite=1>roquefort</ingredient></operation>. <operation temps=6.86min espace=12>préparez la vinaigrette</operation>. fouettez dans un grand <recipient>saladier</recipient> le <ingredient quantite=1>vinaigre de vin</ingredient> avec du poivre moulu, du <ingredient quantite=1>sel</ingredient> et les <ingredient quantite=1>huiles</ingredient> d’ arachide et de <ingredient quantite=1>noisette</ingredient>. découpez les <ingredient quantite=4>fines tranches de jambon</ingredient> en quatre ou cinq lanières. <operation temps=6.86min espace=12>chauffez une <recipient>poêle</recipient> antiadhésive, sans matière grasse</operation>. <operation temps=6.86min espace=12>faites - y</operation> dorer rapidement les lanières de <ingredient quantite=4>jambon</ingredient> en les retournant. <operation temps=6.86min espace=12>posez - les sur un papier</operation> absorbant pour les égoutter. ajoutez la salade et les <ingredient quantite=1>brins de persil</ingredient> dans le <recipient>saladier</recipient> et mélangez. sans attendre, répartissez la salade sur les assiettes, <operation temps=6.86min espace=12>ajoutez les grains de <ingredient quantite=2>raisin</ingredient>, le <ingredient quantite=1>roquefort</ingredient> émietté et les copeaux de <ingredient quantite=4>jambon</ingredient></operation> rissolés. <operation temps=6.86min espace=12>servez vite</operation>.
+]]>
+ </preparation>
+</recette>

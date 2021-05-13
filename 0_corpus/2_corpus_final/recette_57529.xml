@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57529">
+ <titre>Quinoa au lait</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g quinoa</p>
+ <p>1/2 litre lait de soja</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>1 sachet de sucre vanillé (facultatif) </p>
+ <p>une pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à bouillir pendant 5 minutes le quinoa dans un grand volume d’ eau, avec une <ingredient quantite=1>pincée de sel</ingredient>. egoutter le quinoa et le rincer. dans une <recipient>casserole</recipient>, mettre le <ingredient quantite=1>lait</ingredient> de soja, le quinoa et le <ingredient quantite=4>sachet de sucre vanillé</ingredient>. <operation temps=6.86min espace=7>couvrir à</operation> moitié la <recipient>casserole</recipient> et <operation temps=6.86min espace=7>laisser cuire à feu moyen jusqu’ à complète absorption du <ingredient quantite=1>lait</ingredient></operation>. retirer du feu et ajouter le <ingredient quantite=4>sucre</ingredient>. mélanger. a <operation temps=6.86min espace=7>servir tel quel ou froid</operation>. recette de riz au <ingredient quantite=1>lait</ingredient> adaptée pour le quinoa. vous pouvez ajouter plus de <ingredient quantite=4>sucre</ingredient> si vous le <operation temps=6.86min espace=7>désirez</operation>. un classique revisité fort agréable!
+]]>
+ </preparation>
+</recette>

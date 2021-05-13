@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34858">
+ <titre>Tomates farcies à la semoule de blé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates</p>
+ <p>300 g de reste de viande</p>
+ <p>4 cuillères à soupe de semoule</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel poivre</p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+vider les <ingredient quantite=6>tomates</ingredient>, saler, poivrer. dans le beurre <operation temps=6.86min espace=9>faire blondir l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, hachés</operation>. ajouter la <ingredient quantite=1>viande</ingredient> finement hachée, puis la <ingredient quantite=4>semoule</ingredient>, saler poivrer. <operation temps=6.86min espace=9>garnir les <ingredient quantite=6>tomates</ingredient>, les</operation> disposer dans un <recipient>plat</recipient>, saupoudrer de <ingredient quantite=1>chapelure</ingredient>, mettre un peu d’ eau dans le fond du <recipient>plat</recipient> et <operation temps=30.0min espace=9>faire cuire 25 à 30 mn thermostat 7/8 (220/240 ° c</operation>)
+]]>
+ </preparation>
+</recette>

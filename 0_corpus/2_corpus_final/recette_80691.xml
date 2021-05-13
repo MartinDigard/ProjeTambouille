@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80691">
+ <titre>Tatin de tomates cerises</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>750 g de tomates cerises</p>
+ <p>1 pâte brisée ou feuilletée</p>
+ <p>4 cuillerées à soupe de vinaigre balsamique</p>
+ <p>4 cuillerées à soupe de cassonade</p>
+ <p>60 g de parmesan </p>
+ <p>30 g de beurre demi-sel</p>
+ <p>1 cuillerée à soupe d’ ail semoule</p>
+ <p>sel, poivre</p>
+ <p>2 brins de thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=1.0min espace=12>faire fondre le beurre</operation>, ajouter le <ingredient quantite=4>vinaigre balsamique</ingredient> et la <ingredient quantite=4>cassonade</ingredient>, <operation temps=6.86min espace=12>faire fondre jusqu’ à l’ obtention d’ un liquide sirupeux</operation>. ajouter les <ingredient quantite=1>tomates cerises</ingredient> et <operation temps=10.0min espace=12>faire cuire 10 minutes environ sur feu moyen</operation> puis <operation temps=6.86min espace=12>laisser refroidir quelques minutes</operation>. tapisser un <recipient>moule</recipient> de papier sulfurisé, déposer la préparation et parsemer d’ <ingredient quantite=1>ail</ingredient>, de <ingredient quantite=2>thym</ingredient> et de <ingredient quantite=1>parmesan</ingredient>, saler et poivrer. <operation temps=6.86min espace=12>couvrir de la <ingredient quantite=1>pâte</ingredient> en rabattant bien les bords entre les <ingredient quantite=1>tomates</ingredient> et le <recipient>moule</recipient></operation>. enfourner et <operation temps=25.0min espace=12>laisser cuire 25 minutes jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit bien</operation> dorée. démouler et servir chaud ou tiède.
+]]>
+ </preparation>
+</recette>

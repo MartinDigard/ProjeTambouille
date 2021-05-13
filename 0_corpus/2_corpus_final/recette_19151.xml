@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19151">
+ <titre>Gâteau au chocolat (micro-ondes) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le gâteau: </p>
+ <p>125 g de beurre</p>
+ <p>125 g de chocolat à cuire</p>
+ <p>125 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>75 g de farine</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>Pour le glaçage: </p>
+ <p>60 g de chocolat à cuire</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>2 cuillères à soupe de crème (ou 20 g de beurre) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+micro-ondes de 800wgâteau: <operation temps=1.0min espace=13>faire fondre 1 min 30 le <ingredient quantite=1>chocolat</ingredient> dans un bol avec 2 cuillerées d’ <ingredient quantite=2>eau</ingredient></operation>. lorsqu’ il est fondu, ajouter le beurre et mélanger. dans un récipient mettre les <ingredient quantite=3>oeufs</ingredient> entiers et le <ingredient quantite=1>sucre</ingredient>. battre rapidement au fouet. incorporer la farine et la <ingredient quantite=1>levure</ingredient> puis le mélange <ingredient quantite=1>beurre</ingredient> - <ingredient quantite=1>chocolat</ingredient>. prendre un <recipient><recipient>moule</recipient> à manqué</recipient> en verre (obligatoire) rond de préférence. <operation temps=6.86min espace=13>garnir le fond de papier</operation> sulfurisé huilé ou beurré. <operation temps=6.86min espace=13>versez la préparation</operation> et mettre à <ingredient quantite=1>cuire</ingredient> 6 min. <ingredient quantite=1>glaçage</ingredient>: <operation temps=1.0min espace=13>faire fondre le <ingredient quantite=1>chocolat</ingredient> 1 min avec l’ <ingredient quantite=2>eau</ingredient></operation>. lorsqu’ il est fondu, incorporer 2 cuillerées de crème fraîche ou 20 g de beurre.
+]]>
+ </preparation>
+</recette>

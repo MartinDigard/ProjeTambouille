@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225877">
+ <titre>Cocolombo de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à soupe de poudre de Colombo</p>
+ <p>25 cl de lait de coco</p>
+ <p>1 jus de citron</p>
+ <p>40 cl d’ eau</p>
+ <p>8 pommes de terre</p>
+ <p>1 poulet coupé en morceaux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+a l’ aide d’ une fourchette mélanger le <ingredient quantite=1>colombo</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, le lait de <ingredient quantite=1>coco</ingredient> et le <ingredient quantite=1>citron</ingredient>. éplucher les <ingredient quantite=8>pommes de terre</ingredient> et les <ingredient quantite=1>couper</ingredient>. déposer les <ingredient quantite=8>pommes de terre</ingredient> et le <ingredient quantite=1>poulet</ingredient> dans le <recipient>plat</recipient> et <operation temps=6.86min espace=8>recouvrir avec la sauce</operation>. et au <recipient>four</recipient> pour 1h30 à 210 ° c (thermostat 7).
+]]>
+ </preparation>
+</recette>

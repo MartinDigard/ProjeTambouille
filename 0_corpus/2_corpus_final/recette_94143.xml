@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94143">
+ <titre>Mon saumon aphrodisiaque</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>-2 pavés de saumon </p>
+ <p>-2 c à soupe de sauce soja</p>
+ <p>-3 c à soupe de gingembre ràpé -2 c à c de ketchup</p>
+ <p>-6 c à s de miel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faites poeler vos pavés de <ingredient quantite=1>saumon</ingredient> sur les 2 faces avec un filet d’ huile d’ olive à feu moyen</operation>. environ 10min de chaque coté. pendant ce temps là, dans une <recipient>casserole</recipient> <operation temps=6.86min espace=5>faites chauffer le <ingredient quantite=1>miel</ingredient> liquide jusqu’ à</operation> <operation temps=6.86min espace=5>obtenir un caramel puis y</operation> ajouter la <ingredient quantite=1>sauce soja</ingredient>, le <ingredient quantite=1>ketchup</ingredient> et le gingembre <ingredient quantite=1>ràpé</ingredient>. <operation temps=5.0min espace=5>mélangez le tout</operation>. et <operation temps=6.86min espace=5>nappez votre <ingredient quantite=1>saumon</ingredient> de cette <ingredient quantite=1>sauce</ingredient> caramélisée</operation>. servir chaud, avec des pates fraiches. bon appétit!!! pour la cuisson du <ingredient quantite=1>saumon</ingredient>, vous pouvez très bien le <operation temps=6.86min espace=5>faire mi-cuit ou à la vapeur</operation>. côtes de bergerac
+]]>
+ </preparation>
+</recette>

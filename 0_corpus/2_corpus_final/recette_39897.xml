@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39897">
+ <titre>Poulet et macaroni au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 blancs de poulet</p>
+ <p>1 gros oignon</p>
+ <p>1 belle carotte</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl de crème fraîche allégée</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>curry</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>200 g de macaroni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les blancs de <ingredient quantite=3>poulet</ingredient> en dés. hacher l’ <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>carotte</ingredient> et l’ <ingredient quantite=2>ail</ingredient>, et les <operation temps=6.86min espace=10>faire revenir dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=10>laisser colorer,</operation> puis ajouter le <ingredient quantite=3>poulet</ingredient>, et saupoudrer généreusement de <ingredient quantite=1>curry</ingredient>. <operation temps=6.86min espace=10>laisser dorer quelques minutes,</operation> puis arroser avec le <ingredient quantite=1>cube de bouillon</ingredient> dilué dans 10 cl d’ eau chaude. ajouter la brique de <ingredient quantite=1>crème</ingredient> fraîche. <operation temps=15.0min espace=10>laisser mijoter pendant 10 à 15 minutes</operation>. pendant ce temps, <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>macaroni</ingredient>, les</operation> égoutter, et les incorporer à la préparation au <ingredient quantite=3>poulet</ingredient>. rectifier l’ assaisonnement si nécessaire, et servir chaud. on peut rajouter aux légumes hachés une petite branche de céleri, ou plus rapide du <ingredient quantite=1>sel</ingredient> de céleri. attention au <ingredient quantite=1>sel</ingredient>, penser à la présence du <ingredient quantite=1>bouillon</ingredient> de volaille
+]]>
+ </preparation>
+</recette>

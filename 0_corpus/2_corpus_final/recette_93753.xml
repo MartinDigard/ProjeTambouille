@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93753">
+ <titre>Petits encornets aux pois chiche</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 sachets d’ encornets surgelés (d’ un kilo environ) </p>
+ <p>3 gros oignons</p>
+ <p>1 petite boite de pois chiche</p>
+ <p>1 petite boite de tomates concassées</p>
+ <p>3 cuillères à soupe d’ huile d’ olive </p>
+ <p>sel, poivre </p>
+ <p>3 cuillères à café de cumin </p>
+ <p>2 cuillères à café de raz el hanout </p>
+ <p>quelques feuilles de coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>oignons</ingredient> grossièrement et les <operation temps=6.86min espace=10>faire revenir dans une <recipient>cocotte</recipient> avec l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient></operation> ajouter la <ingredient quantite=1>tomate</ingredient>, les épices, les <ingredient quantite=2>encornets</ingredient> encore congelés, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, et les <ingredient quantite=1>pois chiche</ingredient> égouttés bien mélanger l’ ensemble <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=30.0min espace=10>laisser mijoter pendant 30 min à feu doux</operation> surveiller et rajouter si besoin un peu d’ eau si la sauce est trop compacte <operation temps=6.86min espace=10>servir avec une timbale de riz blanc</operation> et saupoudrer de <ingredient quantite=1>coriandre</ingredient> fraiche au moment de servirvous pouvez remplacer les <ingredient quantite=2>encornets</ingredient> par du poulpe, c’ est aussi très bon rosé de provence
+]]>
+ </preparation>
+</recette>

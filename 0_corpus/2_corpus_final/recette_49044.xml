@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49044">
+ <titre>Porridge fruité au fromage blanc</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de flocons d’ avoine</p>
+ <p>40 cl d’ eau chaude</p>
+ <p>1 pot de fromage blanc</p>
+ <p>1 pot de compote ou compote maison (parfum au choix) </p>
+ <p>fruits secs au choix</p>
+ <p>sucre roux</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ajoutez les <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient> à l’ <ingredient quantite=1>eau chaude</ingredient> et <operation temps=6.86min espace=7>faites - les</operation> mijoter jusqu’ à ce l’ <ingredient quantite=1>eau</ingredient> soit absorbée. <operation temps=6.86min espace=7>laissez tiédir</operation>, ajouter le <ingredient quantite=1>fromage blanc</ingredient>, la <ingredient quantite=1>compote</ingredient> et les <ingredient quantite=1>fruits secs</ingredient>. <operation temps=6.86min espace=7>saupoudrez de</operation> <ingredient quantite=1>cannelle</ingredient> et <operation temps=6.86min espace=7>sucrez à votre convenance</operation>. <operation temps=5.0min espace=7>dégustez</operation>. parfait pour un petit déjeuner revigorant! vous pouvez ajouter n’ importe quelle garniture aux <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient>, ce qui permet de varier les porridges!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62487">
+ <titre>Tiramisù choco banane</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la crème banane: </p>
+ <p>3 bananes bien mûres</p>
+ <p>1 cuillère à soupe de sucre en poudre </p>
+ <p>1/2 citron</p>
+ <p>150 g de crème fraîche</p>
+ <p>1 cuillère à soupe de lait </p>
+ <p>Pour le biscuit: </p>
+ <p>environ 500 g de boudoirs</p>
+ <p>2 bols de chocolats chaud</p>
+ <p>200 g de chocolat noir</p>
+ <p>un peu de lait</p>
+ <p>cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour <ingredient quantite=1>la crème banane</ingredient>: éplucher les <ingredient quantite=1>bananes</ingredient> et les mixer (on peut les écraser si l’ on a pas de <recipient>mixeur</recipient>). ajouter le <ingredient quantite=1>sucre</ingredient> et le jus de <ingredient quantite=1>citron</ingredient> et mélanger. ajouter le <ingredient quantite=1>lait</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>, mixer ou battre au fouet. pour <ingredient quantite=1>les biscuits</ingredient>, les tremper dans les <ingredient quantite=2>bols de chocolat</ingredient> et disposer dans le <recipient>plat</recipient>. <operation temps=6.86min espace=14>recouvrir d’ une couche de</operation> crème à la <ingredient quantite=1>banane</ingredient>, puis d’ une autre couche de <ingredient quantite=1>biscuits</ingredient> imbibés. <operation temps=6.86min espace=14>faire fondre une tablette de <ingredient quantite=1>chocolat</ingredient> avec du <ingredient quantite=1>lait</ingredient>, en</operation> <operation temps=6.86min espace=14>recouvrir les</operation> <ingredient quantite=1>biscuit</ingredient> puis remettre une couche de <ingredient quantite=1>crème</ingredient> et saupoudrer de <ingredient quantite=1>cacao</ingredient>. mettre au frais.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20440">
+ <titre>Gratin de courgettes au saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 courgettes longues</p>
+ <p>1 paquet de ravioles de Romans (4 plaques) </p>
+ <p>4 tranches de saumon fumé</p>
+ <p>Gruyère râpé</p>
+ <p>crème fraîche liquide</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer un <recipient>plat</recipient> à gratin. couper les <ingredient quantite=3>courgettes</ingredient> dans le sens de la longueur et en <operation temps=6.86min espace=10>recouvrir le fond du <recipient>plat</recipient></operation> (mettre la moitié des <ingredient quantite=3>courgettes</ingredient>). placer les <ingredient quantite=1>ravioles de romans</ingredient> sur les <ingredient quantite=3>courgettes</ingredient> (2 plaques). recouvrir avec le <ingredient quantite=4>saumon fumé</ingredient> (2 <ingredient quantite=4>tranches</ingredient>). verser la <ingredient quantite=1>crème fraîche</ingredient>. parsemer de <ingredient quantite=1>gruyère râpé</ingredient>. saler, poivrer. procéder de la même façon jusqu’ en haut du <recipient>plat</recipient>. mettre au <recipient>four</recipient>, à thermostat 7 (210 ° c) pendant 40 mn environ.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19671">
+ <titre>Carbonades flamandes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de boeuf à braiser (épaule ou collier) coupé en tranches épaisses</p>
+ <p>1 litre de Gueuze (ou de bière avec du corps) </p>
+ <p>50 g de beurre</p>
+ <p>2 tranches de pain sec</p>
+ <p>1 bonne cuillère de moutarde forte</p>
+ <p>1 brin de persil</p>
+ <p>1 feuille de laurier</p>
+ <p>6 oignons épluchés et coupés en fines rondelles</p>
+ <p>2 cuillères à soupe de farine (facultatif, donne une sauce plus consistante, mais risque de faire accrocher le plat à la casserole) </p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=1.0min espace=14>faire fondre le beurre</operation> ; déposer le <ingredient quantite=1>boeuf</ingredient> et <operation temps=6.86min espace=14>laisser colorer sur des deux faces</operation> ; retirer. dans le beurre de cuisson, ajouter les <ingredient quantite=6>oignons</ingredient> et <operation temps=6.86min espace=14>laisser colorer</operation> ; saupoudrer de <ingredient quantite=2>sucre</ingredient> ou de cassonade ; <operation temps=6.86min espace=14>laisser caraméliser</operation>. mouiller avec la bière ; amener à ébullition sans cesser de remuer. ajouter la viande, le thym, le <ingredient quantite=1>laurier</ingredient>, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=2>sucre</ingredient> et le <ingredient quantite=2>vinaigre</ingredient> ; saler, poivrer ; <operation temps=0.25min espace=14>couvrir</operation> et <operation temps=6.86min espace=14>laisser mijoter pendant 45</operation> mn. tartiner les deux <ingredient quantite=1>tranches de pain</ingredient> d’ une <ingredient quantite=1>bonne</ingredient> couche de <ingredient quantite=1>moutarde</ingredient> ; déposer sur le <ingredient quantite=1>boeuf</ingredient>. continuer la cuisson pendant 90 mn à feu doux. accompagner ce <recipient>plat</recipient> avec une <ingredient quantite=1>bonne</ingredient> bière belge (gueuse).
+]]>
+ </preparation>
+</recette>

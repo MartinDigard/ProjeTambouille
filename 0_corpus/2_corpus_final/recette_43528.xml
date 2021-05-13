@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43528">
+ <titre>Palets de dame des pâtisseries du Nord</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre</p>
+ <p>150 g de sucre poudre</p>
+ <p>150 g de farine</p>
+ <p>2 œufs</p>
+ <p>80 g d’ amandes en poudre</p>
+ <p>un peu de rhum</p>
+ <p>confiture ou gelée de pommes (ou d’ abricots) </p>
+ <p>200 g de sucre glace</p>
+ <p>1 blanc d’ oeuf</p>
+ <p>un peu de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer les petits biscuits, en mélangeant le beurre, le <ingredient quantite=1>sucre</ingredient>, la farine, les <ingredient quantite=2>œufs</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, et le <ingredient quantite=1>rhum</ingredient>. disposer sur une plaque recouverte de papier sulfurisé en petit tas plats, et <operation temps=8.0min espace=10>faire cuire 8 min</operation>. <operation temps=6.86min espace=10>laisser refroidir sur une grille,</operation> et napper d’ une fine couche de <ingredient quantite=1>confiture</ingredient> (ou <ingredient quantite=1>gelée</ingredient>). préparer le glaçage en faisant chauffer le <ingredient quantite=1>sucre glace</ingredient>, le <ingredient quantite=1>blanc</ingredient> légèrement battu, et le <ingredient quantite=1>citron</ingredient>, à feu très doux, et en remuant vigoureusement pour éviter les grumeaux, pendant 5 min. napper les palets, et <operation temps=6.86min espace=10>laisser refroidir jusqu’ à solidification du glaçage</operation>.
+]]>
+ </preparation>
+</recette>

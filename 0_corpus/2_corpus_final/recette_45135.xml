@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45135">
+ <titre>Salade chalossaise (37ème rencontre marmiton) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>12 "saucisses de magret, foie gras et cèpes"</p>
+ <p>1/2 magret séché sans la peau coupé en lamelles</p>
+ <p>1 bouquet de persil haché</p>
+ <p>2 kg de pommes de terre roseval cuites à l’ eau avec la peau et épluchées</p>
+ <p>piment d’ Espelette</p>
+ <p>vinaigre aromatisée à la truffe</p>
+ <p>huile aromatisée à la truffe</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>pommes de terre</ingredient> en rondelle, le <ingredient quantite=1>magret en lamelles</ingredient>, les <ingredient quantite=1>saucisses</ingredient> en petits tronçons. mélanger le tout dans un <recipient>saladier</recipient> avec le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=9>faire la vinaigrette: <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>vinaigre</ingredient>, puis huile</operation> et piment d’ <ingredient quantite=1>espelette</ingredient>. verser sur la salade, mélanger et <operation temps=6.86min espace=9>laisser macérer (la veille pour le lendemain, par exemple</operation>).
+]]>
+ </preparation>
+</recette>

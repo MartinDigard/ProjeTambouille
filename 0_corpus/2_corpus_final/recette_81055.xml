@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81055">
+ <titre>Moelleux au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de chocolat noir dessert</p>
+ <p>150 g de beurre</p>
+ <p>150 g de farine</p>
+ <p>300 g de sucre</p>
+ <p>6 œufs</p>
+ <p>4 cuillères à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> à 150 ° (thermostat 5). dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>chocolat</ingredient>, préalablement cassé en morceaux, avec un peu d’ <ingredient quantite=4>eau</ingredient></operation>. hors du feu, ajouter le beurre. séparer les blancs des jaunes d’ oeuf. dans un bol, mélanger les jaunes d’ <ingredient quantite=6>œufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. incorporer au <ingredient quantite=1>chocolat</ingredient> tiède, puis ajouter la farine. incorporer ensuite délicatement les blanc en neige battus très fermement. mettre l’ appareil dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré, puis mettre au <recipient>four</recipient> 55 min, thermostat 5, 150 °.
+]]>
+ </preparation>
+</recette>

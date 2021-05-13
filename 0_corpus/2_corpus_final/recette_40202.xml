@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40202">
+ <titre>Terrine de cuisse de grenouille</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de cuisses de grenouilles désossées</p>
+ <p>300 g de jambonneau</p>
+ <p>20 cl de crème</p>
+ <p>5 cl de cognac</p>
+ <p>3 branches de persil</p>
+ <p>1 oeuf</p>
+ <p>200 g de cèpes</p>
+ <p>poivre &amp; sel </p>
+ <p>noix de muscade</p>
+ <p>matière grasse pour graisser le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <recipient>four</recipient> à préchauffer à 200 ° c (thermostat 6 - 7) et placer une plaque à gâteau remplie d’ eau. chauffer le <ingredient quantite=1>cognac</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et la <ingredient quantite=1>muscade</ingredient> et rajouter les champignons et les <operation temps=6.86min espace=14>laisser mmijoter 10 bonnes minutes</operation>. hacher finement les <ingredient quantite=1>cuisses de grenouilles</ingredient> et le <ingredient quantite=1>jambonneau</ingredient> (je le fait au <operation temps=6.86min espace=14>hachoir à viande</operation>) ajouter la <ingredient quantite=1>crème</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient>, <ingredient quantite=3>persil</ingredient> haché et assaisonner de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>muscade</ingredient>. emincer grossièrement les <ingredient quantite=1>cèpes</ingredient> et rajouter à la farce ainsi que le jus de cuisson. mélanger le tout. <ingredient quantite=1>graisser</ingredient> un <ingredient quantite=1><recipient>moule</recipient></ingredient> à terrinne et y verser la farce et <operation temps=6.86min espace=14>couvrir avec du papier d’ aluminium</operation> perforé à la fourchette. placer au <recipient>four</recipient> dans un <recipient>bain marie</recipient> et cuire 40 min. <operation temps=6.86min espace=14>laisser bien refroidir quelques heures avant de</operation> démouler.
+]]>
+ </preparation>
+</recette>

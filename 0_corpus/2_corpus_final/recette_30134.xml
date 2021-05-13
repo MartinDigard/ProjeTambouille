@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30134">
+ <titre>Mousse au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>130 g de chocolat pâtissier</p>
+ <p>3 œufs</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pincée de sel fin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faites fondre le <ingredient quantite=1>chocolat</ingredient> en morceaux avec 1 cuillère d’ eau à feu doux en</operation> remuant. <operation temps=6.86min espace=6>mettez le <ingredient quantite=1>chocolat</ingredient> fondu dans un <recipient>saladier</recipient></operation>, <operation temps=0.5min espace=6>ajoutez</operation> progressivement les 3 jaunes d’ oeufs en tournant très vite, puis le <ingredient quantite=1>sachet de sucre vanillé</ingredient>. <operation temps=6.86min espace=6>incorporez les blancs d’ oeufs</operation> battus en neige ferme avec une pincée de <ingredient quantite=1>sel fin</ingredient>. <operation temps=6.86min espace=6>presentez dans une coupe,</operation> et <operation temps=6.86min espace=6>mettez au frais 4 ou 5 h au <recipient>réfrigérateur</recipient>, avant le service</operation>.
+]]>
+ </preparation>
+</recette>

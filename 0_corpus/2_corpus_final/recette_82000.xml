@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82000">
+ <titre>Salade haricot vert campagnarde</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte de haricots verts</p>
+ <p>2 petites tomates</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>2 petit oignons</p>
+ <p>2 carottes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egoutter les <ingredient quantite=1>haricots verts</ingredient>, et éplucher les <ingredient quantite=2>carottes</ingredient>. prendre les <ingredient quantite=2>tomates</ingredient> (les vider de leur pépins), les <ingredient quantite=1>poivrons</ingredient> et les couper en <ingredient quantite=2>petites</ingredient> lamelles. ensuite les couper en <ingredient quantite=2>petits</ingredient> morceaux. couper les <ingredient quantite=2>oignons</ingredient> en rondelles et mettre le tout dans un <recipient>saladier</recipient>. ajouter les <ingredient quantite=1>haricots verts</ingredient>. râper les <ingredient quantite=2>carottes</ingredient> sur le tout. remuer et mettre au frigo. <operation temps=6.86min espace=7>faire la vinaigrette juste avant de</operation> <operation temps=2.0min espace=7>servir</operation>. préparé la veille c’ est meilleur car c’ est plus frais
+]]>
+ </preparation>
+</recette>

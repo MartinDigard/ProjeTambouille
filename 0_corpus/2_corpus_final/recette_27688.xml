@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27688">
+ <titre>Fajitas de poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>1 poivron rouge + 1 vert</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl de crème fraîche épaisse</p>
+ <p>8 tortillas</p>
+ <p>6 cuillères à d’ huile</p>
+ <p>1 cuillère à café de chili en poudre</p>
+ <p>1 cuillère à café de cumin en poudre</p>
+ <p>1 citron vert</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper finement les blancs de <ingredient quantite=4>poulet</ingredient>, presser le <ingredient quantite=1>citron vert</ingredient> et écraser l’ <ingredient quantite=2>ail</ingredient>. dans un <recipient>plat</recipient>, mettre le <ingredient quantite=4>poulet</ingredient>, arroser de jus de <ingredient quantite=1>citron</ingredient>, puis verser 4 <ingredient quantite=6>cuillères</ingredient> à soupe d’ huile ; saupoudrer de <ingredient quantite=1>chili</ingredient>, <ingredient quantite=1>cumin</ingredient>, sel et poivre. mélanger, <operation temps=0.25min espace=15>couvrir et</operation> <operation temps=6.86min espace=15>laisser reposer au frigo</operation>. préchauffer le <recipient>four</recipient> à 210 ° c (th 7). couper les <ingredient quantite=1>poivrons</ingredient> en lanières, et émincer les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=15>faire chauffer 2 <ingredient quantite=6>cuillères</ingredient> à soupe d’ <ingredient quantite=6>huile</ingredient> dans une <recipient>poêle</recipient></operation>, mettre les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>poivrons</ingredient> à <operation temps=6.86min espace=15>blondir</operation> ; garder au chaud. envelopper les <ingredient quantite=8>tortillas</ingredient> dans une feuille alu, et les <operation temps=10.0min espace=15>faire chauffer 10 min au <recipient>four</recipient></operation>. egoutter les morceaux de <ingredient quantite=4>poulet</ingredient> et les <operation temps=25.0min espace=15>faire dorer</operation>. dès qu’ ils sont colorés, les arroser avec la marinade, <operation temps=0.25min espace=15>couvrir et</operation> <operation temps=5.0min espace=15>laisser mijoter 5 min</operation>. disposer la viande, les légumes et les <ingredient quantite=8>tortillas</ingredient> dans un <recipient>plat</recipient> différent ; et dans une coupelle, verser la <ingredient quantite=1>crème</ingredient>. ainsi, chacun garnira à sa convenance.
+]]>
+ </preparation>
+</recette>

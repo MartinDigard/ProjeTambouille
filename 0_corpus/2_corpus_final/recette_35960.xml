@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35960">
+ <titre>Cake à la banane et aux noix</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bananes bien mûres coupées en dés</p>
+ <p>100 g de noix concassées</p>
+ <p>170 g de farine</p>
+ <p>80 g de sucre</p>
+ <p>100 g de beurre fondu</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à café de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=10>faire fondre le beurre au <recipient>micro-onde</recipient></operation>. travailler à l’ aide d’ un batteur électrique le <ingredient quantite=1>beurre</ingredient> fondu avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à obtention d’ une pâte lisse. incorporer les <ingredient quantite=2>oeufs</ingredient> un par un, puis ajouter la farine tamisée et la <ingredient quantite=1>levure</ingredient>. ajouter les <ingredient quantite=2>bananes coupées</ingredient> en dés et enfin les <ingredient quantite=1>noix concassées</ingredient>. <ingredient quantite=2>bien</ingredient> mélanger. mettre au <recipient>four</recipient> pendant 45 minutes.
+]]>
+ </preparation>
+</recette>

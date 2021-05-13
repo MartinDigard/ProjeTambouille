@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42103">
+ <titre>Apple pie</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>2 cuillères à café bien pleines de farine</p>
+ <p>1 pincée de sel</p>
+ <p>100 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 grosse pomme coupée en petits cubes</p>
+ <p>Pour le nappage: </p>
+ <p>45 g de farine (ou 5 grosses cuillères à soupe de farine) </p>
+ <p>75 g de sucre (ou 5 grosses cuillères à soupe de sucre) </p>
+ <p>1 cuillère à café rase de cannelle</p>
+ <p>45 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>tapissez le fond d’ un <recipient><recipient>moule</recipient> à tarte</recipient> avec la <ingredient quantite=1>pâte</ingredient></operation> brisée. <operation temps=6.86min espace=14>mélangez la farine, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation> vanillé. ajoutez l’ <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé et les <ingredient quantite=1>pommes</ingredient> ; <operation temps=6.86min espace=14>versez sur la <ingredient quantite=1>pâte</ingredient></operation>. <operation temps=6.86min espace=14>préparez ensuite le <ingredient quantite=1>nappage</ingredient>, en</operation> mélangeant la farine, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>cannelle</ingredient>, et le beurre. mélangez, en utilisant une technique facile pour <operation temps=6.86min espace=14>faire des miettes: avec 1 couteau dans chaque main, traversez la <ingredient quantite=1>pâte</ingredient> dans tous les sens</operation>. <operation temps=6.86min espace=14>dispersez sur le dessus de la tarte</operation>. enfournez à 180 ° c (thermostat 6), puis <operation temps=6.86min espace=14>servez tiède</operation>. cidre
+]]>
+ </preparation>
+</recette>

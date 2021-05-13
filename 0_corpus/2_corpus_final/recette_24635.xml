@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24635">
+ <titre>Crumble aux pommes, aux poires</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 pommes</p>
+ <p>4 poires</p>
+ <p>100 g de beurre + 20 g pour le plat</p>
+ <p>100 g de sucre en poudre</p>
+ <p>70 g de poudre d’ amande</p>
+ <p>150 g de farine</p>
+ <p>1/2 jus de citron</p>
+ <p>1/2 cuillères à café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> th 8 (240 ° c), beurrer le <ingredient quantite=1><recipient>plat</recipient></ingredient> allant au <recipient>four</recipient>. peler et nettoyer les <ingredient quantite=5>pommes</ingredient>, couper - les en morceaux, les <operation temps=5.0min espace=14>faire revenir dans une pôele avec un peu de <ingredient quantite=1>beurre</ingredient> 5 mn</operation>. peler et nettoyer les <ingredient quantite=4>poires</ingredient> couper - les en morceaux et les rajouter aux <ingredient quantite=5>pommes</ingredient>, <operation temps=6.86min espace=14>laisser cuire quelques minutes (3 mn) en</operation> remuant de temps en temps. mettre les fruits dans le <ingredient quantite=1><recipient>plat</recipient></ingredient> et verser le <ingredient quantite=1>jus de citron</ingredient> par dessus. mélanger la farine, le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>, ajouter le <ingredient quantite=1>beurre</ingredient> mou coupé en morceaux. mélanger le tout avec les doigts pour <operation temps=6.86min espace=14>obtenir un sable un peu grossier</operation>. etaler ce mélange sur les fruits en une couche régulière. mettre au <recipient>four</recipient> et <operation temps=25.0min espace=14>laisser cuire 20 à 25 mn</operation>. servir tiède avec une crème fouettée, ou une crème anglaise ou bien avec une boule de glace à la vanille. cidre
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28634">
+ <titre>Saumon grillé farci à l’ orientale</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 saumon entier de 2, 2 kg vidé</p>
+ <p>3 petits piments frais</p>
+ <p>1 bouquet de persil plat</p>
+ <p>1/2 bouquet de coriandre fraîche</p>
+ <p>1 gros citron non traité</p>
+ <p>3 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>1, 5 cuillère à café de cumin</p>
+ <p>7 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epépiner les <ingredient quantite=3>piments</ingredient>, les hacher avec le <ingredient quantite=1>persil</ingredient> et la <ingredient quantite=1>coriandre</ingredient>. peler et émincer les <ingredient quantite=1>oignons</ingredient>, écraser les <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient>. couper le <ingredient quantite=1>citron</ingredient> en rondelles fines. mélanger le tout avec le <ingredient quantite=1>cumin</ingredient>, l’ huile, du <ingredient quantite=1>sel</ingredient> et du poivre. farcir le saumon de cette préparation, et le badigeonner du reste côté peau au pinceau. le saler et poivrer. recoudre l’ ouverture ou <operation temps=6.86min espace=12>maintenir</operation> fermé avec des pics en bois. <operation temps=30.0min espace=12>faire cuire le saumon 30 min au <recipient>barbecue</recipient> en le retournant à mi-cuisson, ou bien 1 h au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>) arrosé au préalable de vin blanc.
+]]>
+ </preparation>
+</recette>

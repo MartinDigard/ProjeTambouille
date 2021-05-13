@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40426">
+ <titre>Tartine de camembert au miel</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tranche de pain de campagne</p>
+ <p>1 tranche de camembert</p>
+ <p>1 cuillère à café de miel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposez sur une grande <ingredient quantite=1>tranche de pain de campagne</ingredient> du <ingredient quantite=1>camembert</ingredient> coupé en fines <ingredient quantite=1>tranches</ingredient>. <operation temps=6.86min espace=3>recouvrez de <ingredient quantite=1>miel</ingredient> le <ingredient quantite=1>camembert</ingredient></operation>. vous pouvez également le <operation temps=6.86min espace=3>faire légèrement</operation> fondre sous le grill quelques minutes. délicieux pour les amateurs de mélange sucré - salé.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54246">
+ <titre>Beignets de chou-fleur</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de chou-fleur surgelé (ou 1 chou-fleur frais) </p>
+ <p>2 cuillères à soupe de chapelure</p>
+ <p>1 gros oignon</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ <p>100 g gruyère râpé</p>
+ <p>2 oeufs</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire cuire le <ingredient quantite=1>chou-fleur</ingredient> à la vapeur</operation>. une fois cuit le mettre dans un <recipient>saladier</recipient> et <operation temps=20.0min espace=10>laisser refroidir</operation>! ajouter au <ingredient quantite=1>chou-fleur</ingredient> environ la <ingredient quantite=2>chapelure</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> haché, le <ingredient quantite=1>persil</ingredient> haché, le gruyère <ingredient quantite=1>râpé</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre! mélanger le tout à la main! une fois la préparation homogène, <operation temps=6.86min espace=10>faire des boules d’ environ 3 cm et les</operation> <operation temps=6.86min espace=10>aplatir afin de</operation> former une galette d’ 1 cm d’ épaisseur! entre temps <operation temps=10.0min espace=10>faire chauffer l’</operation> huile à petit feu dans une <recipient>poêle</recipient>. battre les <ingredient quantite=2>oeufs</ingredient>, les mettre dans une assiete creuse. mettre de la farine dans une autre assiette. prendre une galette de <ingredient quantite=1>chou-fleur</ingredient>, la passer dans l’ <ingredient quantite=1>oeuf</ingredient> puis dans la farine et <operation temps=6.86min espace=10>faire cuire à petit feu jusqu’ à ce que la galette soit</operation> dorée. <operation temps=6.86min espace=10>faire de même avec le reste de pâte</operation>. bon appétit.
+]]>
+ </preparation>
+</recette>

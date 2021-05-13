@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52418">
+ <titre>Flan glacé aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 pommes sucrées type Golden</p>
+ <p>raisins secs</p>
+ <p>cerneaux de noix (ou amandes) </p>
+ <p>2 oeufs</p>
+ <p>1 yaourt</p>
+ <p>jus d’ 1 citron</p>
+ <p>facultatif: cannelle, </p>
+ <p>facultatif: gingembre</p>
+ <p>facultatif: mélange quatre épices...</p>
+ <p>facultatif: citron confit</p>
+ <p>facultatif: cassonade</p>
+ <p>facultatif: banane (kiwi, figues ou poire) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites gonfler les <ingredient quantite=1>raisins</ingredient> dans de l’ eau très chaude</operation>. <operation temps=6.86min espace=14>faites une compote très <ingredient quantite=1>sèche</ingredient> avec les fruits frais épluchés et coupés en morceaux moyens</operation> arrosés du <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. cela peut être réalisé en 10 minutes au micro-ondes. pendant le temps de cuisson de la compote, <operation temps=6.86min espace=14>battez les <ingredient quantite=2>oeufs</ingredient> en omelette</operation>. ajoutez - y le <ingredient quantite=1>yaourt</ingredient>, les fruits à coques, les <ingredient quantite=1>épices</ingredient> et éventuellement le <ingredient quantite=1>citron confit</ingredient>. <operation temps=6.86min espace=14>mélangez la compote avec cette base</operation>. <ingredient quantite=1>sucrez</ingredient> avec de la <ingredient quantite=1>cassonade</ingredient> si le <ingredient quantite=1>mélange</ingredient> est trop acide. <operation temps=20.0min espace=14>cuisez le tout au <recipient>bain - marie</recipient> ou au micro-ondes (environ 20 minutes à puissance moyenne</operation>). il faut que les <ingredient quantite=2>oeufs</ingredient> soient <operation temps=6.86min espace=14>pris</operation>. vous pouvez également si vous êtes très gourmands réaliser un caramel au fond du <recipient>moule</recipient> avant de verser le <ingredient quantite=1>mélange</ingredient> compote - <ingredient quantite=2>oeufs</ingredient>. servir bien froid.
+]]>
+ </preparation>
+</recette>

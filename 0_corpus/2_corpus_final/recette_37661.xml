@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37661">
+ <titre>Courgettes et escalopes en gratin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 courgettes de tailles moyennes</p>
+ <p>6 escalopes (dinde ou poulet, au choix) </p>
+ <p>coulis de tomate (1 brick) </p>
+ <p>crème fraiche liquide (1 brick) </p>
+ <p>gruyère râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire cuire les <ingredient quantite=4>courgettes</ingredient> entières</operation> (enlever jsute les extrémités) dans une <recipient>casserole</recipient> d’ eau salée. en même temps, <operation temps=6.86min espace=13>faire revenir les <ingredient quantite=6>escalopes</ingredient> dans une <recipient>poêle</recipient> (il</operation> faut qu’ elles colorent, mais qu’ elle restent rosées à l’ intérieur) couper les <ingredient quantite=4>courgettes</ingredient> en 2 dans le sens de la longueur et les déposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. couper les <ingredient quantite=6>escalopes</ingredient> dans la longueur aussi, et les déposer sur les <ingredient quantite=4>courgettes</ingredient>. dans un bol, mélanger le <ingredient quantite=1>coulis de tomate</ingredient> et la <ingredient quantite=1>crème</ingredient> fraîche, saler, poivrer et en <operation temps=6.86min espace=13>recouvrir les <ingredient quantite=4>courgettes</ingredient> / <ingredient quantite=6>escalopes</ingredient></operation>. <operation temps=6.86min espace=13>recouvrir de <ingredient quantite=1>gruyère</ingredient> rapé</operation> et mettre à cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 20 min. bon appétit! ce <recipient>plat</recipient> peut être amélioré selon vos goût (épices et aromates). la cuisson au <recipient>four</recipient> est approximative (c’ est cuit quand le gruyère a gratiné). facile, pas cher et aimé des enfants qui tordent parfois le nez devant les <ingredient quantite=4>courgettes</ingredient>.
+]]>
+ </preparation>
+</recette>

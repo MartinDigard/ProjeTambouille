@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25033">
+ <titre>Lapin bonne femme</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>150 g de poitrine fumée</p>
+ <p>250 g de champignons de Paris</p>
+ <p>15 cl de vin blanc sec</p>
+ <p>15 cl de bouillon de volaille</p>
+ <p>1 bouquet garnis (thym, laurier, queues de persil) </p>
+ <p>1 gousse d’ ail pelée et écrasée</p>
+ <p>3 cuillères à soupe de persil haché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) <operation temps=6.86min espace=14>faites revenir à feu moyen les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> à l’ <ingredient quantite=3>huile</ingredient> dans une <recipient>cocotte</recipient> jusqu’ à ce qu’ ils soient</operation> colorés. lavez et émincez les <ingredient quantite=1>champignons</ingredient>. 2) <operation temps=6.86min espace=14>ôtez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> de la <recipient>cocotte</recipient></operation>. á leur place, <operation temps=6.86min espace=14>faites suer quelques minutes sur feu moyen les oignons, les ladons, et les <ingredient quantite=1>champignons</ingredient> jusqu’ à ce que le mélange soit</operation> doré. 3) <operation temps=6.86min espace=14>remettez le <ingredient quantite=1>lapin</ingredient> dans la <recipient>cocotte</recipient></operation>. <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation>. versez le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=5.0min espace=14>laissez réduire 5 mn</operation> puis ajoutez le <ingredient quantite=1>bouillon</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. <operation temps=0.25min espace=14>couvrez</operation> et <operation temps=6.86min espace=14>laissez cuire</operation> 1h sur feu doux. 4) <operation temps=6.86min espace=14>ôtez la préparation de la <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=14>faites réduire le jus de citron d’ un tiers sur feu vif</operation>. liez avec la crème, <operation temps=6.86min espace=14>rajoutez le <ingredient quantite=1>lapin</ingredient> et sa garniture</operation>. <operation temps=6.86min espace=14>laissez réchauffer en</operation> mélangeant. parsemez de <ingredient quantite=3>persil</ingredient> et <operation temps=2.0min espace=14>servez</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18150">
+ <titre>Tarte aux prunes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée ou brisée</p>
+ <p>800 g prunes dénoyautées (quetsches ou mirabelles) </p>
+ <p>du miel liquide</p>
+ <p>sucre vanillé</p>
+ <p>le jus d’ 1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer un <recipient><recipient>moule</recipient> à tarte</recipient>. abaisser la <ingredient quantite=1>pâte</ingredient> au fond du <recipient>moule</recipient>. piquer le fond avec une fourchette. <operation temps=6.86min espace=10>recouvrir de papier</operation> sulfurisé ou aluminium et y déposer du riz ou des noyaux (pour que la <ingredient quantite=1>pâte</ingredient> ne gonfle pas). <operation temps=6.86min espace=10>faire cuire 5 ou 10</operation> mn (selon votre <recipient>four</recipient>) à <recipient>four</recipient> chaud (il faut que la <ingredient quantite=1>pâte</ingredient> cuise mais ne brunisse pas). dénoyauter les prunes et les arroser légèrement de <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. tartiner le fond de tarte de <ingredient quantite=1>miel liquide</ingredient>. déposer les prunes peau vers le bas et saupoudrez légèrement de <ingredient quantite=1>sucre vanillé</ingredient> (le <ingredient quantite=1>sucre</ingredient> fait dégorger les prunes de sirop et le <ingredient quantite=1>miel</ingredient> est déjà très sucré). <operation temps=20.0min espace=10>faire cuire à <recipient>four</recipient> chaud (180 - 200 ° c) environ 20 mn (il</operation> faut que les prunes dorent mais ne brunissent pas). <operation temps=6.86min espace=10>dosez le <ingredient quantite=1>miel</ingredient> en fonction de l’ acidité de vos prunes avec les prunes du</operation> jardin et du <ingredient quantite=1>miel</ingredient> régional, c’ est encore meilleur.
+]]>
+ </preparation>
+</recette>

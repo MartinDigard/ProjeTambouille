@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29126">
+ <titre>Salade nordique au Cidre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>4 tranches de saumon fumé</p>
+ <p>2 échalotes</p>
+ <p>25 cl de cidre brut</p>
+ <p>4 cuillères à soupe de crème liquide</p>
+ <p>1 yaourt bulgare</p>
+ <p>aneth</p>
+ <p>1 pincée de curry en poudre</p>
+ <p>1 pincée de sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>pelez et hachez</operation> finement les <ingredient quantite=2>échalotes</ingredient>. dans un bol, <operation temps=6.86min espace=10>mélangez <ingredient quantite=1>cidre</ingredient>, <ingredient quantite=1>yaourt</ingredient>, <ingredient quantite=4>crème</ingredient>, <ingredient quantite=2>échalotes</ingredient>, <ingredient quantite=1>sucre</ingredient> et <ingredient quantite=1>curry</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation> et <operation temps=6.86min espace=10>ajoutez une <ingredient quantite=1>cuillère</ingredient> à café d’ <ingredient quantite=1>aneth</ingredient></operation>. remuez pour que la sauce soit homogène et <operation temps=0.5min espace=10>réservez au frais</operation>. faites cuire les <ingredient quantite=1>pommes de terre</ingredient>. epluchez et <operation temps=3.0min espace=10>coupez - les en rondelles</operation>. présentez sur une assiette: <ingredient quantite=1>pommes de terre</ingredient> chaudes avec les <ingredient quantite=4>tranches de saumon</ingredient> dessus, nappez de sauce froide et <operation temps=6.86min espace=10>saupoudrez d’ un peu d’ <ingredient quantite=1>aneth</ingredient></operation>. très simple et la sauce fait toute la différence. bon appétit! <ingredient quantite=1>cidre brut</ingredient>
+]]>
+ </preparation>
+</recette>

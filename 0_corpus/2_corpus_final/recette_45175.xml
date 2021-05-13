@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45175">
+ <titre>Lapin à l’ estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 morceaux de râble ou 2 cuisses de lapin </p>
+ <p>2 gousses d’ ail </p>
+ <p>1 échalote</p>
+ <p>1 petite tomate </p>
+ <p>15 feuilles d’ estragon frais </p>
+ <p>1/4 de bouillon cube de volaille dégraissé </p>
+ <p>15 cl d’ eau </p>
+ <p>1 branche de thym </p>
+ <p>1 cuillère à café d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=11>faire revenir le <ingredient quantite=4>lapin</ingredient> dans l’ <ingredient quantite=1>huile</ingredient></operation>. laver l’ <ingredient quantite=2>ail</ingredient> sans le peler et le piquer par endroits, peler les <ingredient quantite=1>échalotes</ingredient> et les couper en 4, peler et épépiner la <ingredient quantite=1>tomate</ingredient> puis la couper en dés. lorsque les morceaux de <ingredient quantite=4>lapin</ingredient> sont légèrement dorés, ajouter l’ <ingredient quantite=2>ail</ingredient>, les <ingredient quantite=1>échalotes</ingredient>, la <ingredient quantite=1>tomate</ingredient>, 7 <ingredient quantite=1>feuilles</ingredient> d’ <ingredient quantite=1>estragon</ingredient> hachées, le <ingredient quantite=1>thym</ingredient> et mouiller avec le <ingredient quantite=1>bouillon</ingredient> de volaille. cuire à feu doux couvert, pendant 20 minutes. réserver les morceaux de <ingredient quantite=4>lapin</ingredient> au chaud, et éliminer le <ingredient quantite=1>thym</ingredient> et la peau de l’ <ingredient quantite=2>ail</ingredient>. passer le fond de cuisson au mixer et le réserver dans une <recipient>cocotte</recipient>. <operation temps=6.86min espace=11>faire réduire 2 minutes, vérifier l’ assaisonnement</operation> et ajouter le reste de l’ <ingredient quantite=1>estragon</ingredient> finement ciselé.
+]]>
+ </preparation>
+</recette>

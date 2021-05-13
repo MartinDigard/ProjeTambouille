@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53818">
+ <titre>Touffaye (Belgique) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes de terre</p>
+ <p>200 g de lardons</p>
+ <p>2 oignons de taille moyenne</p>
+ <p>6 saucisses à cuire</p>
+ <p>1 bol de café noir</p>
+ <p>2 grosses cuillères à soupe de farine</p>
+ <p>sel, poivre, laurier, thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>oignons</ingredient> hachés grossièrement avec les <ingredient quantite=1>lardons</ingredient> jusqu’ à ce qu’ ils</operation> dorent. ajouter la farine, de façon à <operation temps=6.86min espace=9>faire un roux blond</operation>. verser ensuite le <ingredient quantite=1>café noir</ingredient>, puis environ 1 litre et demi d’ eau. saler, poivrer, incorporer une feuille de <ingredient quantite=1>laurier</ingredient> et un brin de <ingredient quantite=1>thym</ingredient>. ajouter les <ingredient quantite=1>pommes de terre</ingredient> coupées en 4 et les <ingredient quantite=6>saucisses</ingredient>. laisser mijoter doucement jusqu’ à cuisson des <ingredient quantite=1>pommes de terre</ingredient>. on peut disposer un oeuf au <recipient>plat</recipient> par dessus, et <operation temps=2.0min espace=9>servir avec une salade verte</operation>. <recipient>plat</recipient> régional (gaumais) très facile à réaliser!
+]]>
+ </preparation>
+</recette>

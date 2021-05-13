@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18803">
+ <titre>Tarte aux pralines</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 pralins</p>
+ <p>15 cl de crème</p>
+ <p>100 g de beurre</p>
+ <p>1 cuillère à café de Maïzena</p>
+ <p>200 g de pâte sucrée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+foncez un <recipient>moule</recipient> de <ingredient quantite=1>pâte sucrée</ingredient> et le cuire à blanc. <operation temps=6.86min espace=10>ecrasez les pralines, les</operation> mettre dans une <recipient>casserole</recipient> avec le beurre, la <ingredient quantite=1>crème</ingredient> et la <ingredient quantite=1>maïzena</ingredient>. <operation temps=6.86min espace=10>faire bouillir le tout et le</operation> verser dans le <recipient>moule</recipient> avec la <ingredient quantite=1>pâte</ingredient> déjà cuite. mettre au <recipient>four</recipient> (180 ° c) jusqu’ à ébullition. <operation temps=6.86min espace=10>sortir du <recipient>four</recipient> et refroidir</operation>. se mange avec une boule de glace vanille
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17897">
+ <titre>Tarte tatin aux mangues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles mangues</p>
+ <p>1 pâte feuilletée</p>
+ <p>5 morceaux de sucre, eau, beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=2>mangues</ingredient> et les couper en lamelles (pas trop fines). <operation temps=6.86min espace=9>faire un caramel dans une <recipient>poêle</recipient> anti-adhésive avec les morceaux de <ingredient quantite=5>sucre</ingredient> (roux c’ est meilleur), un peu d’ <ingredient quantite=5>eau</ingredient> et une cuillère à soupe de <ingredient quantite=5>beurre</ingredient></operation>. préchauffer le <recipient>four</recipient> à 220 ° c. une fois le <ingredient quantite=5>sucre</ingredient> fondu, passer les lamelles dans le caramel 2 à 3 minutes, pour bien les enrober. disposer les <ingredient quantite=2>mangues</ingredient> en rosace dans un <recipient>plat</recipient> à tarte, poser la <ingredient quantite=1>pâte</ingredient> dessus en rabattant ce qui dépasse à l’ intérieur du <recipient>moule</recipient> pour <operation temps=6.86min espace=9>faire un petit bourrelet de <ingredient quantite=1>pâte</ingredient></operation>. cuire 25 minutes, <operation temps=3.0min espace=9>sortir du <recipient>four</recipient></operation> <operation temps=5.0min espace=9>laisser refroidir 5 minutes</operation> et retourner sur un <recipient>plat</recipient> de service. <operation temps=6.86min espace=9>servir avec de la crème chantilly maison (une brique de crème liquide bien froide et un sachet de <ingredient quantite=5>sucre</ingredient></operation> vanillé).
+]]>
+ </preparation>
+</recette>

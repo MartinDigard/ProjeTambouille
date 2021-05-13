@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27125">
+ <titre>Carottes à la carbonara</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 carottes de taille moyenne</p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>1 oignon</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>100 g de lardons fumés</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=6>carottes</ingredient> et les couper en rondelles. découper les <ingredient quantite=1>oignons</ingredient> en petits morceaux. mettre une noix de beurre dans une <recipient>sauteuse</recipient> et y <operation temps=3.0min espace=7>faire revenir les 2 légumes durant 3 mn à feu fort</operation>. ajouter 20 cl d’ eau, baisser le feu, <operation temps=0.25min espace=7>couvrir</operation> et <operation temps=6.86min espace=7>laisser cuire une dizaine de minutes (vérifier que cela n’</operation> attache pas et ajouter de l’ eau si nécessaire). quand c’ est cuit, ajouter les <ingredient quantite=1>lardons</ingredient> ; les <operation temps=3.0min espace=7>faire cuire 2 - 3 mn puis sur feu très doux</operation> ajouter les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeuf</ingredient> mélangés à la <ingredient quantite=4>crème</ingredient>. saler légèrement, <operation temps=0.5min espace=7>poivrez</operation>. <operation temps=6.86min espace=7>laisser chauffer 3</operation> mn en remuant et servir. c’ est plus diététique que les pâtes carbonara et fait manger facilement des <ingredient quantite=6>carottes</ingredient> aux enfants!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83774">
+ <titre>Poisson à la chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poisson (type raie, turbo, ou poisson blanc) </p>
+ <p>Huile végétale type tournesol</p>
+ <p>1 bouquet de coriandre</p>
+ <p>1 petite racine de gingembre</p>
+ <p>Sauce soja chinoise</p>
+ <p>Ail</p>
+ <p>5 cuillères à soupe de sucre</p>
+ <p>1 bouquet de ciboulette thaïlandaise</p>
+ <p>Riz blanc</p>
+ <p>1 verre d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=1>poisson</ingredient> à la vapeur. en parallèle préparer la sauce: couper l’ <ingredient quantite=1>ail</ingredient> en <ingredient quantite=1>petits</ingredient> bouts. <operation temps=6.86min espace=12>remplir le fond d’ une <recipient>poêle</recipient> d’</operation> <ingredient quantite=1>huile</ingredient>, <operation temps=6.86min espace=12>faire revenir l’ <ingredient quantite=1>ail</ingredient> ainsi que le <ingredient quantite=1>gingembre</ingredient></operation> émincé. mettre le <ingredient quantite=5>sucre</ingredient> et ajouter le <ingredient quantite=1>petit verre</ingredient> d’ <ingredient quantite=1>eau</ingredient>, mélanger et ajouter la sauce de soja, en mettre 7 <ingredient quantite=5>cuillères à soupe</ingredient>. rajouter la moitié de la <ingredient quantite=1>ciboulette</ingredient> thaïlandaise ainsi que la moitié de la <ingredient quantite=1>coriandre</ingredient>. bien mélanger et goûter. si c’ est trop sucré rajouter de la sauce de soja et inversement si trop salé. le goût doit être assez prononcé. verser la sauce sur le <ingredient quantite=1>poisson</ingredient> et décorer du reste de la <ingredient quantite=1>ciboulette</ingredient> et de la <ingredient quantite=1>coriandre</ingredient>. <operation temps=6.86min espace=12>servir le <ingredient quantite=1>riz</ingredient> avec le <recipient>plat</recipient></operation>. la recette de mon enfance... mon frère la réclamait tout le temps: " le <ingredient quantite=1>poisson</ingredient> à la sauce préférée d’ estelle!!! " vraiment excellent, <operation temps=6.86min espace=12>faites bien attention à</operation> <operation temps=6.86min espace=12>faire une quantité de <ingredient quantite=1>riz</ingredient> suffisante car cette sauce à tendance à</operation> <operation temps=6.86min espace=12>faire manger beaucoup de <ingredient quantite=1>riz</ingredient></operation>. <ingredient quantite=1>blanc</ingredient> sec/ bière <ingredient quantite=1>chinoise</ingredient>
+]]>
+ </preparation>
+</recette>

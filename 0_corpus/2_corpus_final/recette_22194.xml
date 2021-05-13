@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22194">
+ <titre>Saumon vapeur mariné aux herbes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pavés de saumon</p>
+ <p>4 tomates bien mûres</p>
+ <p>2 oignons</p>
+ <p>1 cuillère à soupe de basilic haché</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>1 cuillère à café d’ ail haché</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>1/2 cuillère à soupe de gros sel</p>
+ <p>1 pincée de poivre vert</p>
+ <p>1 citron</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>gros sel</ingredient> avec 2 cuillerées à <ingredient quantite=1>soupe</ingredient> d’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>, le <ingredient quantite=1>poivre vert</ingredient>, les herbes, le jus du <ingredient quantite=1>citron</ingredient>. <operation temps=6.86min espace=11>faire mariner les pavés de <ingredient quantite=4>saumon</ingredient> dans ce mélange pendant 1 h au frais, en les retournant de temps en temps</operation>. emincer les <ingredient quantite=2>oignons</ingredient>, couper les <ingredient quantite=4>tomates</ingredient> en quartiers. <operation temps=6.86min espace=11>faire chauffer 2 <ingredient quantite=1>cuillères</ingredient> d’ <ingredient quantite=4>huile</ingredient>, y</operation> <operation temps=6.86min espace=11>faire suer les <ingredient quantite=2>oignons</ingredient> à feu doux</operation>. remuer un peu, puis ajouter les <ingredient quantite=4>tomates</ingredient> coupées en quartiers. saler, poivrer. <operation temps=15.0min espace=11>laisser mijoter 15 minutes à feu doux</operation>. placer les pavés de <ingredient quantite=4>saumon</ingredient> dans un cuit - vapeur et <operation temps=6.0min espace=11>faire cuire 6 minutes</operation>. <operation temps=6.86min espace=11>servir avec les légumes fondus et du riz blanc nature</operation>.
+]]>
+ </preparation>
+</recette>

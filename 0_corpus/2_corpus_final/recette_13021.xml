@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13021">
+ <titre>Emincé de poulet au curry vert et pousses de bambou</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 cuillères à soupe d’ huile tournesol</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon émincé</p>
+ <p>1 bâton de citronnelle</p>
+ <p>2 cm de galanga écrasé</p>
+ <p>3 feuilles de combawa (feuilles de citronnelle) </p>
+ <p>600 g d’ émincé de poulet</p>
+ <p>sel, poivre</p>
+ <p>50 cl de sauce au curry vert</p>
+ <p>300 g de pousses de bambou</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=13>faire chauffer l’</operation> huile dans une <recipient>poêle</recipient>, ou mieux, dans un <recipient>wok</recipient>. ajouter l’ <ingredient quantite=2>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>citronnelle</ingredient> écrasée et le <ingredient quantite=2>galanga</ingredient>. ajouter les <ingredient quantite=3>feuilles</ingredient> de <ingredient quantite=1>citronnelle</ingredient>. <operation temps=1.0min espace=13>faire suer le tout 1 min</operation> et mettre le feu au maximum, ajouter le <ingredient quantite=1>poulet</ingredient> et <operation temps=4.0min espace=13>faire saisir 3 à 4 min</operation>. saler, poivrer, ajouter les <ingredient quantite=1>pousses de bambou</ingredient> et la sauce de <ingredient quantite=1>curry vert</ingredient>. <operation temps=6.0min espace=13>faire cuire encore 5 à 6 mn</operation> et <operation temps=6.86min espace=13>servir avec du riz parfumé</operation>. <recipient>plat</recipient> thaïlandais assez piquant mais très bon.
+]]>
+ </preparation>
+</recette>

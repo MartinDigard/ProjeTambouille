@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64105">
+ <titre>Merguez du Liban</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 merguez</p>
+ <p>120 g de riz</p>
+ <p>1 boîte moyenne de pois chiches</p>
+ <p>500 g de coulis de tomates</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café de sumac</p>
+ <p>1 cuillère à café de coriandre moulue</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>250 ml d’ eau</p>
+ <p>persil haché à volonté</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et émincer finement l’ <ingredient quantite=1>oignon</ingredient>. couper les <ingredient quantite=4>merguez</ingredient> en tronçons d’ environ un centimètre. egoutter et rincer les <ingredient quantite=1>pois chiches</ingredient>. mettre tous les ingrédients de la recette dans la <recipient>cocotte</recipient> en terminant par l’ <ingredient quantite=1>eau</ingredient>. fermer et <operation temps=10.0min espace=14>laisser cuire sous pression 10 minutes</operation>. <operation temps=6.86min espace=14>ouvrir</operation>, mélanger et <operation temps=6.86min espace=14>servir!! je</operation> préfère <operation temps=6.86min espace=14>prévenir: à l’ ouverture de la <recipient>cocotte</recipient>, le <recipient>plat</recipient> n’ a pas un aspect très appétissant mais il</operation> suffit de quelques tours de <ingredient quantite=1>cuillère</ingredient> pour qu’ il s’ embellisse!!! lol merci à mon ami marwal, épicier libanais de son état de m’ avoir aidée à concevoir cette recette. ksara reserve du couvent 2005 de preference
+]]>
+ </preparation>
+</recette>

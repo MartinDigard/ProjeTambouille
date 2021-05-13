@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64735">
+ <titre>Paupiettes de dinde au pistou</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de pistou (ou si vous êtes courageux, du pistou maison) </p>
+ <p>4 escalopes de dinde</p>
+ <p>4 tranche de jambon blanc</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>ficelle de cuisine</p>
+ <p>Pour l’ accompagnement: </p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>quelques pommes de terre</p>
+ <p>1 oignon coupé en lamelles ou </p>
+ <p>des tomates, des herbes de provence et de l’ ail (selon si vous souhaitez les faire avec des pommes de terre ou des tomates à la provencale) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à <recipient>plat</recipient> l’ <ingredient quantite=1>escalope</ingredient> de dinde. recouvrir d’ une <ingredient quantite=4>tranche de jambon</ingredient>. mettre au milieu une génèreuse <ingredient quantite=1>cuillère à soupe</ingredient> de <ingredient quantite=1>pistou</ingredient>. saler, poivrer. rouler l’ escalope sur elle-même. rabattre les extrémités et ficeler de manière à <operation temps=6.86min espace=13>faire une paupiette</operation>. procèder de même pour les autres <ingredient quantite=4>escalopes</ingredient>. dans une <recipient>sauteuse</recipient>, mettre l’ huile et y placer les paupiettes jusqu’ à ce qu’ elles soient bien dorées. baisser le feu et ajouter les <ingredient quantite=1>oignons</ingredient> puis la farine. remuer. ajouter un peu d’ eau. ajouter les <ingredient quantite=1>pommes de terre</ingredient> en quartiers. laisser mijoter de 45 min à 1 h, jusqu’ à ce que les <ingredient quantite=1>pommes de terre</ingredient> soient cuites. remettre de temps en temps un peu d’ eau si nécessaire. vous pouvez aussi faire cuire tout doucement vos paupiettes dans l’ huile d’ <ingredient quantite=1>olive</ingredient> avec quelques <ingredient quantite=1>tomates</ingredient> à la provencales (<ingredient quantite=1>tomates coupées</ingredient> en deux, recouvertes d’ <ingredient quantite=1>herbes de provence</ingredient>, d’ <ingredient quantite=1>ail</ingredient> et d’ huile d’ <ingredient quantite=1>olive</ingredient>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45435">
+ <titre>Galette aux pralines roses</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>200 g de pralines roses</p>
+ <p>125 g d’ amandes en poudre</p>
+ <p>2 oeufs</p>
+ <p>2 cuillères à soupe de sucre en poudre</p>
+ <p>2 cuillères de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecrasez avec un <recipient>pilon</recipient> les <ingredient quantite=1>pralines roses</ingredient>. si elles sont un peu dures, vous pouvez les passer 10 min à <recipient>four</recipient> doux pour les <operation temps=6.86min espace=8>ramollir</operation>. <operation temps=6.86min espace=8>séparez les blancs des jaunes d’ <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=8>mélangez les blancs avec le <ingredient quantite=2>sucre</ingredient>, les <ingredient quantite=1>amandes</ingredient>, le</operation> <ingredient quantite=2>rhum</ingredient> et <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>pralines</ingredient></operation>. déroulez la <ingredient quantite=1>pâte feuilletée</ingredient>, et recouvrez - la avec la préparation en vous arrêtant à 1 cm du bord. <operation temps=6.86min espace=8>badigeonnez ce bord d’ un peu d’ eau, puis disposez l’ autre <ingredient quantite=1>pâte</ingredient></operation> feuilletée par dessus. appuyez légèrement sur le bord pour <operation temps=6.86min espace=8>faire adhérer les deux <ingredient quantite=2>pâtes</ingredient></operation>. <operation temps=6.86min espace=8>dorez avec les jaunes d’ <ingredient quantite=2>oeufs</ingredient></operation> battus, et <operation temps=6.86min espace=8>décorez avec la pointe d’ un couteau rond</operation>. <operation temps=20.0min espace=8>faire cuire 15 à 20 min environ, à 200 ° c (th 6 - 7</operation>). servez tiède ou froid. on peut remplacer le <ingredient quantite=2>rhum</ingredient> par de l’ amaretto ou de la liqueur d’ <ingredient quantite=1>amandes</ingredient>... vin blanc, cidre....
+]]>
+ </preparation>
+</recette>

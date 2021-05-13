@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225902">
+ <titre>Crevettes piment-miel-gingembre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de crevettes crues</p>
+ <p>1 cuillère à soupe de miel d’ acacia</p>
+ <p>1 cuillère à café de gingembre moulu</p>
+ <p>1 cuillère à café de piment d’ Espelette</p>
+ <p>1 citron (pour son jus) </p>
+ <p>1 noix de beurre (ou de l’ huile d’ olive) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>crevettes</ingredient>, les <operation temps=6.86min espace=7>faire revenir dans une <recipient>poêle</recipient> avec le <ingredient quantite=1>beurre</ingredient></operation>. saler. dès que les <ingredient quantite=1>crevettes</ingredient> sont roses, saupoudrer de gingembre et de <ingredient quantite=1>piment</ingredient> d’ <ingredient quantite=1>espelette</ingredient>. puis ajouter une grosse <ingredient quantite=1>cuillère à soupe de miel</ingredient>. bien mélanger et <operation temps=6.86min espace=7>laisser réduire quelques minutes</operation>. en fin de cuisson, ajouter le jus du <ingredient quantite=1>citron</ingredient> et attendre encore 2 min. <operation temps=6.86min espace=7>servir avec du riz tout simplement</operation>. une idée conjointe de nico et magzounette
+]]>
+ </preparation>
+</recette>

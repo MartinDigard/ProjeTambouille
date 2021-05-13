@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24583">
+ <titre>Petits pains parfums tomates et origans</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 g de levure de boulanger</p>
+ <p>5 cl d’ eau chaude</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>22 cl de jus de tomate</p>
+ <p>450 g de farine</p>
+ <p>2 cuillères à café de sel</p>
+ <p>30 g de beurre</p>
+ <p>2 cuillères à café d’ origan séché</p>
+ <p>oeufs battus pour dorer</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+diluer la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans un peu d’ <ingredient quantite=1>eau chaude</ingredient>. faire tiédir le <ingredient quantite=1>jus de tomates</ingredient>. mélanger la farine, le <ingredient quantite=2>sel</ingredient> et l’ <ingredient quantite=2>origan séché</ingredient> dans un récipient chauffé, incorporer le beurre. <operation temps=6.86min espace=11>faire un puits</operation> et verser la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>jus de tomates</ingredient>. mélanger. <operation temps=6.86min espace=11>pétrir la pâte sur une surface légèrement</operation> farinée pendant 10 min. séparer en 4 boules ou plus et <operation temps=6.86min espace=11>laisser reposer la pâte dans le récipient couvert</operation>. <operation temps=6.86min espace=11>laisser lever 1h à 1h30: la pâte</operation> devra doubler de volume. <operation temps=5.0min espace=11>pétrir de nouveau 5 min</operation>. former 4 gros boudins, les placer sur du papier sulfurisé huilé. <operation temps=6.86min espace=11>faire des entailles d’ 1 cm de profondeur environ</operation>. <operation temps=6.86min espace=11>couvrir le tout d’ un plastique</operation> et <operation temps=45.0min espace=11>laisser lever dans un endroit chaud pendant 45 min</operation>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). enfourner les pains au milieu et <operation temps=30.0min espace=11>laisser cuire 30 min</operation>. badigeonner avec l’ <ingredient quantite=1>oeuf</ingredient> battu (+ gros <ingredient quantite=2>sel</ingredient> et <ingredient quantite=2>origan</ingredient>) et ré-enfourner 30 min.
+]]>
+ </preparation>
+</recette>

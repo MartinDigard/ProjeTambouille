@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27233">
+ <titre>Gratin de pommes de terre aux anchois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 pommes de terre</p>
+ <p>3 oignons</p>
+ <p>40 g de beurre</p>
+ <p>30 cl de crème fleurette</p>
+ <p>12 filets d’ anchois</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>3 cuillères à soupe de chapelure</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et coupes les <ingredient quantite=6>pommes de terre</ingredient> en frites. <operation temps=6.86min espace=10>faites suer les <ingredient quantite=3>oignons</ingredient> pelés</operation> et émincés dans l’ <ingredient quantite=1>huile</ingredient> et le beurre. <operation temps=6.86min espace=10>beurrez un <recipient>plat</recipient> à gratin et le</operation> saupoudrer de <ingredient quantite=3>chapelure</ingredient>. disposez des couches de <ingredient quantite=6>pommes de terre</ingredient>, d’ <ingredient quantite=3>oignons</ingredient> et d’ <ingredient quantite=1>anchois</ingredient>, terminez par des <ingredient quantite=6>pommes de terre</ingredient>. <operation temps=0.5min espace=10>poivrez</operation> généreusement et <operation temps=6.86min espace=10>versez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=10>faites cuire 1 h au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

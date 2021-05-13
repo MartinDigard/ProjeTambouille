@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17598">
+ <titre>Poulet aux abricots et au riz crémeux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 pilons de poulet</p>
+ <p>2 cuillères à soupe d’ huile </p>
+ <p>2 gros oignons en tranches épaisses</p>
+ <p>2 cuillères à café de gingembre râpé</p>
+ <p>2 gousses d’ ail pilées</p>
+ <p>3 branches de céleri coupées finement</p>
+ <p>425g de nectar d’ abricots</p>
+ <p>250 ml d’ eau</p>
+ <p>1 sachet de soupe à l’ oignon (40g) </p>
+ <p>200 g de riz rond</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>otez</operation> et <operation temps=6.86min espace=13>jetez la peau du <ingredient quantite=1>poulet</ingredient></operation>. <operation temps=6.86min espace=13>faites chauffer la moitié de l’ <ingredient quantite=2>huile</ingredient> dans une grande <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=13>faites cuire le <ingredient quantite=1>poulet</ingredient> en petites</operation> quantités jusqu’ à ce qu’ il soit bien doré. <operation temps=6.86min espace=13>egouttez - le sur du papier</operation> absorbant. <operation temps=6.86min espace=13>mettez le reste de l’ <ingredient quantite=2>huile</ingredient> dans la <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=13>faites rissoler l’ <ingredient quantite=1>oignon</ingredient>, le gingembre, l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=3>céleri</ingredient> en</operation> remuant 10 minutes environ ou jusqu’ à ce que l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=3>céleri</ingredient> soient légèrement dorés. <operation temps=6.86min espace=13>remettez le <ingredient quantite=1>poulet</ingredient> dans la <recipient>poêle</recipient> avec le <ingredient quantite=1>nectar</ingredient> d’ <ingredient quantite=1>abricots</ingredient>, l’ <ingredient quantite=1>eau</ingredient> et la <ingredient quantite=2>soupe</ingredient> en poudre</operation>. <operation temps=20.0min espace=13>portez à ébullition</operation>. <operation temps=10.0min espace=13>laisser mijoter 10 minutes à couvert</operation>. <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>riz</ingredient></operation>. <operation temps=6.86min espace=13>laissez cuire, sans</operation> <operation temps=30.0min espace=13>couvrir, encore 30 minutes en</operation> remuant de temps en temps.
+]]>
+ </preparation>
+</recette>

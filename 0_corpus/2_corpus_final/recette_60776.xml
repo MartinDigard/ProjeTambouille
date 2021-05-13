@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60776">
+ <titre>Porc au vermicelle chinois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de porc haché</p>
+ <p>150 g de vermicelles de soja chinois</p>
+ <p>1 gousse d’ ail</p>
+ <p>20 cl de bouillon de poulet</p>
+ <p>2 cuillères à soupe d’ huile d’ arachide</p>
+ <p>1 cuillère à soupe d’ huile de sésame</p>
+ <p>2 cuillères à soupe de sauce de soja</p>
+ <p>gingembre frais râpé</p>
+ <p>ciboulette</p>
+ <p>poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire tremper le <ingredient quantite=1>vermicelle</ingredient> dans de l’ eau</operation> chaude 15 minutes environ. mettre à chauffer l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>arachide</ingredient> dans un <recipient>wok</recipient> avec l’ <ingredient quantite=1>ail</ingredient> écrasé et un peu de gingembre, y <operation temps=6.86min espace=11>faire revenir le <ingredient quantite=1>porc</ingredient></operation>. quand il est cuit, ajouter le <ingredient quantite=1>bouillon de poulet</ingredient>, la <ingredient quantite=2>sauce</ingredient> soja et l’ <ingredient quantite=2>huile de sésame</ingredient>. <operation temps=20.0min espace=11>faire bouillir</operation> puis ajouter le <ingredient quantite=1>vermicelle</ingredient>. enfin ajouter de la <ingredient quantite=1>ciboulette</ingredient> ciselée, du <ingredient quantite=1>sel</ingredient> et du poivre. servir bien chaud.
+]]>
+ </preparation>
+</recette>

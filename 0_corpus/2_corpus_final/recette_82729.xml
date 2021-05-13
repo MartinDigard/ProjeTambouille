@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82729">
+ <titre>Brick fromagère</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 fines tranches de fromage</p>
+ <p>500 g de viande hachée</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail </p>
+ <p>2 cuillères à café de cumin </p>
+ <p>sel, poivre </p>
+ <p>1 bouquet de persil</p>
+ <p>1 petite boite de concentré de tomate</p>
+ <p>1 paquet de feuilles de brick</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=11>faire revenir l’</operation> <ingredient quantite=1>oignon</ingredient>, ajouter la <ingredient quantite=1>viande hachée</ingredient>. saler, poivrer, ailler et ajouter le <ingredient quantite=2>cumin</ingredient>, le <ingredient quantite=1>concentré de tomate</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=11>faire revenir le tout jusqu’ à évaporation complète du jus</operation>. prendre un demi feuille de <ingredient quantite=1>brick</ingredient>, poser une <ingredient quantite=1>tranche de fromage</ingredient> et ajouter la préparation. refermer la <ingredient quantite=1>feuille de brick</ingredient> et fixer le tout avec un cure dent. <operation temps=15.0min espace=11>faire dorer au <recipient>four</recipient> pendant 15 minutes à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

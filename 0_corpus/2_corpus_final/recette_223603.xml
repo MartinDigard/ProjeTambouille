@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223603">
+ <titre>Dessert à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à soupe de coulis de noix de coco</p>
+ <p>200 g de sucre</p>
+ <p>100 g de farine</p>
+ <p>2 pincées de sel</p>
+ <p>3 œufs</p>
+ <p>1 sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>mélangez le <ingredient quantite=2>coulis</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et la farine</operation> puis <operation temps=6.86min espace=10>ajoutez y le <ingredient quantite=2>sel</ingredient>, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation> vanillé. <operation temps=6.86min espace=10>préchauffez le <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). mettre le tout dans un <recipient>moule</recipient> mettre au <recipient>four</recipient> pendant 30 min puis <operation temps=20.0min espace=10>laissez refroidir</operation>. et maintenant <operation temps=6.86min espace=10>dégustez avec plaisir! si vous n’ avez pas de <ingredient quantite=1>sucre</ingredient></operation> vanillé, remplacez - le par du sirop de vanille, ça donne le même goût, aucune inquiétude. aucune boisson conseillée
+]]>
+ </preparation>
+</recette>

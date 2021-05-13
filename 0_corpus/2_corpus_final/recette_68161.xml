@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68161">
+ <titre>Gâteau éponge</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de sucre en poudre</p>
+ <p>200 g de farine</p>
+ <p>8 oeufs</p>
+ <p>jus de 2 oranges (ou de pamplemousses) </p>
+ <p>12, 5 cl d’ huile </p>
+ <p>un peu de rhum</p>
+ <p>un peu de vanille en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>sucre</ingredient> aux jaunes d’ <ingredient quantite=8>oeufs</ingredient>. ajouter la farine, l’ huile, le <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient>, le <ingredient quantite=1>rhum</ingredient> et la <ingredient quantite=1>vanille</ingredient>. puis incorporer les blancs, préalablement montés en neige. cuire à <recipient>four</recipient> chaud 210 ° c pendant 1/2h à 1h suivant votre <recipient>four</recipient> dans un <recipient>moule</recipient> type savarin.
+]]>
+ </preparation>
+</recette>

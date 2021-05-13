@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84045">
+ <titre>Muffins thon curry échalotes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à muffins: </p>
+ <p>300 g de farine</p>
+ <p>60 g de beurre fondu</p>
+ <p>2 oeufs</p>
+ <p>25 cl de lait</p>
+ <p>1/2 sachet de levure</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>Pour la garniture: </p>
+ <p>4 petites échalotes</p>
+ <p>20 g de beurre</p>
+ <p>2 boites de thon de 100 g</p>
+ <p>3 cuillères à café de curry</p>
+ <p>Gruyère râpé</p>
+ <p>Mélange de 5 baies</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation de la <ingredient quantite=1>pâte à muffins</ingredient>: dans un <recipient>saladier</recipient> mélanger la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sel</ingredient>. dans un autre <recipient>saladier</recipient> mélanger les <ingredient quantite=2>oeufs</ingredient> et le lait, ensuite le beurre <ingredient quantite=1>fondu</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. mélanger le tout. mélanger ensuite le second <ingredient quantite=1>mélange</ingredient> dans le premier. préparation de la <ingredient quantite=1>garniture</ingredient>: égoutter les <ingredient quantite=2>boites de thon</ingredient> et le parsemer de <ingredient quantite=3>curry</ingredient>, d’ un peu de <ingredient quantite=1>sel</ingredient> et de <ingredient quantite=1>mélange de 5 baies</ingredient>. réserver. hacher grossièrement les <ingredient quantite=4>échalotes</ingredient> et les <operation temps=6.86min espace=17>faire revenir dans le beurre</operation>. mettre le <ingredient quantite=2>thon</ingredient> au <ingredient quantite=3>curry</ingredient> et les <ingredient quantite=4>échalotes</ingredient> dans la <ingredient quantite=1>pâte à muffins</ingredient>. mélanger délicatement. <operation temps=6.86min espace=17>remplir les moules à <ingredient quantite=1>muffins</ingredient> de la préparation</operation>. parsemer de <ingredient quantite=1>gruyère râpé</ingredient>. enfourner pour 30 minutes à 180 ° c (thermostat6). déguster tiède. pour que votre recette soit plus corsée rajouter des câpres ou des cornichons.
+]]>
+ </preparation>
+</recette>

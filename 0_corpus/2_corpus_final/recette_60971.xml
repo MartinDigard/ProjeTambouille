@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60971">
+ <titre>Salade tomate thon mozza chèvre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la vinaigrette: </p>
+ <p>1/2 cuillère à soupe de moutarde</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>4 cuillères à soupe d’ huile d’ olive ou de tournesol</p>
+ <p>sel et poivre</p>
+ <p>Pour la salade: </p>
+ <p>4 ou 5 tomates (pas trop grosses) </p>
+ <p>8 tomates cerises</p>
+ <p>1 bûche de fromage de chèvre</p>
+ <p>1 ou 2 boule (s) de mozzarella</p>
+ <p>1 boîte de thon</p>
+ <p>4 ou 8 traches de pain suivant leur taille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+vinaigrette: <operation temps=6.86min espace=18>mélangez la <ingredient quantite=1>moutarde</ingredient>, le <ingredient quantite=2>vinaigre</ingredient>, le poivre et le <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=18>versez l’ <ingredient quantite=4>huile</ingredient> de votre choix</operation> et <operation temps=5.0min espace=18>fouettez</operation> jusqu’ à ce la <ingredient quantite=1>vinaigrette</ingredient> monte en émulsion. <ingredient quantite=1>salade</ingredient>: <operation temps=6.86min espace=18>découpez les <ingredient quantite=4>tomates</ingredient> en cube</operation> et <operation temps=6.86min espace=18>mettez - les dans le <recipient>saladier</recipient></operation>, ajoutez - y les <ingredient quantite=4>tomates cerises</ingredient>. disposerez 1 rondelle de <ingredient quantite=1>chèvre</ingredient> sur chaque tranche de <ingredient quantite=4>pain</ingredient>. découpez le reste de la <ingredient quantite=1>bûche de chèvre</ingredient> en rondelles et <operation temps=6.86min espace=18>mettez - les dans le <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=18>ajoutez la ou les boules de <ingredient quantite=1>mozzarella</ingredient> en cubes</operation>. <operation temps=6.86min espace=18>ajoutez la sauce</operation> ou <operation temps=6.86min espace=18>présentez la à part</operation> <operation temps=6.86min espace=18>mettez les <ingredient quantite=4>pains</ingredient> au <ingredient quantite=1>chèvre</ingredient> au <recipient>four</recipient> quelques minutes pour</operation> <operation temps=6.86min espace=18>faire fondre le <ingredient quantite=1>fromage</ingredient> ou passez - les simplement au <recipient>micro-onde</recipient> ou encore à la <recipient>poêle</recipient></operation>. bon appétit! vous pouvez y ajouter d’ autres <ingredient quantite=1>fromages</ingredient>, <operation temps=6.86min espace=18>faire des petits croutons de <ingredient quantite=4>pains</ingredient> griller à la <recipient>poêle</recipient></operation>...
+]]>
+ </preparation>
+</recette>

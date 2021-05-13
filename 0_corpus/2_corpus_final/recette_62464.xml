@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62464">
+ <titre>Fondue de poireaux et courgettes au riz</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 courgettes</p>
+ <p>4 blancs de poireaux</p>
+ <p>1 gros oignon</p>
+ <p>riz (un petit verre à moutarde) </p>
+ <p>1 cube de bouillon</p>
+ <p>75 g de cantal râpé</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez les <ingredient quantite=2>courgettes</ingredient> et les <ingredient quantite=4>poireaux</ingredient> en petits morceaux</operation> et <operation temps=6.86min espace=10>faites - les</operation> <operation temps=6.86min espace=10>revenir dans une <recipient>sauteuse</recipient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. une fois les légumes bien dorés, <operation temps=6.86min espace=10>rajoutez le verre de <ingredient quantite=1>riz</ingredient>, le <ingredient quantite=1>bouillon</ingredient></operation> dilué dans de l’ eau chaude, et l’ <ingredient quantite=1>oignon</ingredient> coupé en 4. <operation temps=20.0min espace=10>laissez mijoter 20 min à couvert en</operation> vérifiant le niveau d’ eau. si le <ingredient quantite=1>riz</ingredient> commence à coller au fond de la <recipient>sauteuse</recipient> <operation temps=6.86min espace=10>rajoutez de l’ eau en petite quantité</operation>. 5 minutes avant la fin de la cuisson, <operation temps=6.86min espace=10>rajoutez le <ingredient quantite=1>cantal</ingredient></operation>. (il peut être remplacé par de l’ emmenthal et en proportion a votre convenance). <operation temps=2.0min espace=10>servez aussitôt</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42587">
+ <titre>Choux de Bruxelles au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de choux de Bruxelles</p>
+ <p>4 tranches de jambon</p>
+ <p>250 g de lardons</p>
+ <p>1 oignon</p>
+ <p>1 tomate</p>
+ <p>gruyère râpé</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>choux de bruxelles</ingredient> (12 min à la <recipient>cocotte</recipient> minute, dès que la soupape s’ est soulevée). <operation temps=6.86min espace=13>faire rissoler les <ingredient quantite=1>lardons</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient></operation> émincé. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, verser 1 cuillère à soupe d’ huile d’ <ingredient quantite=1>olive</ingredient>, puis tapisser de 2 <ingredient quantite=4>tranches de jambon</ingredient>. etaler ensuite la <ingredient quantite=1>tomate</ingredient>, préalablement coupée en <ingredient quantite=1>tranche</ingredient>. déposer ensuite les <ingredient quantite=1>choux de bruxelles</ingredient>, puis les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. couvrir des deux autres <ingredient quantite=4>tranches de jambon</ingredient>, et parsemer de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=15.0min espace=13>faire gratiner au <recipient>four</recipient> (environ 180 ° c - thermostat 6), pendant environ 15 min</operation>. un <recipient>plat</recipient> qui permet enfin, de faire manger des <ingredient quantite=1>choux de bruxelles</ingredient> aux enfants... avec plaisir!.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14157">
+ <titre>Bombine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 pommes de terre</p>
+ <p>olives noires (une vingtaine) </p>
+ <p>1 gros oignon</p>
+ <p>huile d’ olive (1 cuillère à soupe) </p>
+ <p>1 verre d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire chauffer un peu l’</operation> huile dans une <recipient>cocotte</recipient> minute, y mettre les <ingredient quantite=1>oignons</ingredient> en lamelles et les <ingredient quantite=8>pommes de terre</ingredient> coupées en morceaux assez <ingredient quantite=1>gros</ingredient> (environ 3 cm), ainsi que les <ingredient quantite=1>olives</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. fermer la <recipient>cocotte</recipient> et compter 10 mn après que la soupape commence à chuchoter, et voilà! <recipient>plat</recipient> du midi, ma grand-mère de la drôme nous l’ a <operation temps=6.86min espace=8>transmis</operation>.
+]]>
+ </preparation>
+</recette>

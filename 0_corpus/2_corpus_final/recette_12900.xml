@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12900">
+ <titre>Morue de l’ Ogooué</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2kg de Morue</p>
+ <p>1 boîte (moyenne) de tomates entières</p>
+ <p>1 petite boîte de purée de tomates</p>
+ <p>500g de carottes</p>
+ <p>500g de choux blanc</p>
+ <p>1 oignon de 60g</p>
+ <p>8 c à soupe d’ huile </p>
+ <p>poivre, ail, persil, 1 cube poulet, </p>
+ <p>1 piment en fruit, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille, tremper la <ingredient quantite=1>morue</ingredient> dans une <recipient>marmite</recipient> (l’ eau doit noyer le poisson). le jour de la préparation, émietter la <ingredient quantite=1>morue</ingredient> en enlevant la peau et les arêtes. laver le <ingredient quantite=1>choux</ingredient> et les <ingredient quantite=1>carottes</ingredient>, les égoutter puis le couper en fines lamelles de 3 cm pour le <ingredient quantite=1>choux</ingredient> et en rondelles pour les <ingredient quantite=1>carottes</ingredient>. <operation temps=6.86min espace=14>faire cuire le <ingredient quantite=1>choux</ingredient> et les <ingredient quantite=1>carottes</ingredient> à la vapeur</operation>. pocher la <ingredient quantite=1>morue</ingredient> (<operation temps=6.86min espace=14>faire revenir) pour</operation> <operation temps=6.86min espace=14>ramollir le poisson</operation>. peler et émincer l’ <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>ail</ingredient>. passer au robot l’ <ingredient quantite=1>ail</ingredient>, <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>persil</ingredient>. dans une <recipient>sauteuse</recipient>, mettre l’ <ingredient quantite=8>huile</ingredient> à chauffer. lorsque l’ <ingredient quantite=8>huile</ingredient> est chaude, mettre dans la <recipient>sauteuse</recipient>: le mélange <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>ail</ingredient> et <ingredient quantite=1>persil</ingredient>, les <ingredient quantite=1>tomates entières</ingredient> et en <ingredient quantite=1>purée</ingredient>, un <ingredient quantite=1>cube poulet</ingredient>, le poivre, puis mélanger. mettre la <ingredient quantite=1>morue</ingredient> dans le mélange et <operation temps=45.0min espace=14>laisser mijoter</operation>. ajouter le mélange choux / <ingredient quantite=1>carottes</ingredient> dans la <recipient>sauteuse</recipient> et <operation temps=45.0min espace=14>laisser mijoter</operation> le tout pendant 25 minutes à feu doux. 5 minutes avant la fin de la cuisson, jeter le <ingredient quantite=1>piment entier</ingredient> dans la préparation. le <recipient>plat</recipient> est cuit. <operation temps=2.0min espace=14>servir aussitôt</operation>. <operation temps=6.86min espace=14>servir avec du riz ou de la banane plantin</operation> cuite à la vapeur. cabernet d’ anjou
+]]>
+ </preparation>
+</recette>

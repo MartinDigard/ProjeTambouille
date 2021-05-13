@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95171">
+ <titre>Galette épicée quinoa-millet-sésame</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g de mélange quinoa-millet-sésame</p>
+ <p>100 g de semoule/couscous</p>
+ <p>1 boite (250g) de tomates concassées</p>
+ <p>3 c. s de sauce curry (pour les adeptes du curry)) </p>
+ <p>2 oignons</p>
+ <p>5 c. s de farine</p>
+ <p>Sel + poivre</p>
+ <p>Curry, paprika, curcuma</p>
+ <p>Persil plat ou ciboulette</p>
+ <p>Un peu d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=20.0min espace=12>faire cuire le <ingredient quantite=1>mélange</ingredient> de céréales pendant 20 minutes (encore un peu croquante), les</operation> passer sous l’ eau froide préparer la semoule séparément (en la laissant gonfler avec de l’ eau chaude) mélanger céréales et <ingredient quantite=1>semoule</ingredient>, <ingredient quantite=1>tomates concassées</ingredient>, sauce <ingredient quantite=3>curry</ingredient>, et oignons+persil finement hachées. mélanger les épices (dosage selon le goût). saler et poivrer <operation temps=30.0min espace=12>laisser reposer pendant 30 minutes dans le <recipient>réfrigérateur</recipient></operation>. rajouter la <ingredient quantite=5>farine</ingredient> et mélanger. etape la plus importante: former des petites boules avec le <ingredient quantite=1>mélange</ingredient> puis les <operation temps=6.86min espace=12>aplatir (environ 2 cm d’ épaisseur</operation>). les saupoudrer légèrement de farine. les galettes doivent bien <operation temps=6.86min espace=12>tenir</operation>. puis, les <operation temps=6.86min espace=12>faire dorer à feu moyen la <recipient>poêle</recipient></operation>. accompagner d’ une salade.
+]]>
+ </preparation>
+</recette>

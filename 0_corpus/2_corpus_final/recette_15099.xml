@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15099">
+ <titre>Pasta al lemone</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti ou spaghettini ou de linguini (les spaghettini sont les plus adaptées) </p>
+ <p>4 citrons</p>
+ <p>15 cl (1 verre) d’ huile d’ olive</p>
+ <p>300/350 g de parmesan fraîchement et finement râpé</p>
+ <p>sel et poivre concassé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites cuire les pâtes comme</operation> indiqué sur le paquet dans une grande quantité d’ eau bouillante salée. pendant ce temps, <operation temps=6.86min espace=8>prélevez <ingredient quantite=1>finement</ingredient> le zeste d’ un demi-citron</operation> et <operation temps=6.86min espace=8>pressez le jus de 4 dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=8>ajoutez le verre d’ huile d’ <ingredient quantite=1>olive</ingredient>, le zeste <ingredient quantite=1>finement</ingredient></operation> haché et le <ingredient quantite=1>parmesan</ingredient>. <operation temps=6.86min espace=8>mélangez au fouet de façon à</operation> <operation temps=6.86min espace=8>obtenir une consistance crémeuse</operation>. <operation temps=6.86min espace=8>salez légèrement</operation> et <operation temps=6.86min espace=8>saupoudrez de poivre <ingredient quantite=1>concassé</ingredient></operation>. <operation temps=6.86min espace=8>versez les pâtes cuites al dente dans un <recipient>saladier</recipient> (préalablement chauffé)</operation> et <operation temps=5.0min espace=8>mélangez</operation> intimement avec la sauce. <operation temps=2.0min espace=8>servez aussitôt</operation>. un <recipient>plat</recipient> d’ été idéal avec un petit rosé. mais c’ est aussi un accompagnement idéal en toutes saisons pour un poisson blanc comme une lotte ou un turbot.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218655">
+ <titre>Lebkuchen (biscuits traditionnels allemands) </titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine </p>
+ <p>85 g d’ amande en poudre</p>
+ <p>1 cuillère à café de levure</p>
+ <p>1/2 cuillère à café de bicarbonate de soude</p>
+ <p>1 pincée de clous de girofle en poudre</p>
+ <p>1 pincée de noix de muscade en poudre</p>
+ <p>1 pincée de poivre noir moulu</p>
+ <p>2 cuillères à café de gingembre en poudre</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>85 g de beurre</p>
+ <p>20 cl de miel liquide</p>
+ <p>zeste de citron</p>
+ <p>Pour le glaçage: </p>
+ <p>1 blanc d’ œuf</p>
+ <p>100 g de sucre glace</p>
+ <p>1 ou 2 cuillères à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un grand <recipient>saladier</recipient>, <operation temps=5.0min espace=20>mélangez</operation> la farine, les amandes, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>bicarbonate de soude</ingredient>, les épices et les aromates. dans une <recipient>casserole</recipient> à feu doux, <operation temps=6.86min espace=20>faites fondre le <ingredient quantite=1>miel</ingredient> avec le beurre,</operation> puis verser le mélange dans le <recipient>saladier</recipient>. ajoutez le <ingredient quantite=1>zeste de citron</ingredient> et <operation temps=5.0min espace=20>mélangez</operation> jusqu’ à l’ obtention d’ une pâte ferme. <operation temps=0.25min espace=20>couvrez</operation> et <operation temps=20.0min espace=20>laisser refroidir</operation>. <operation temps=6.86min espace=20>préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6)</operation> et <operation temps=6.86min espace=20>tapissez deux plaques de cuisson de papier</operation> sulfurisé. <operation temps=6.86min espace=20>façonnez 30 boules de pâte,</operation> puis <operation temps=6.86min espace=20>aplatissez les légèrement et disposez - les sur les plaques de cuisson en les</operation> espaçant bien. <operation temps=6.86min espace=20>enfournez 15 min,</operation> puis <operation temps=6.86min espace=20>laissez refroidir sur une grille</operation>. battez le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>œuf</ingredient>, puis mélange - le avec le <ingredient quantite=1>sucre glace</ingredient> et l’ <ingredient quantite=1>eau</ingredient> jusqu’ à <operation temps=6.86min espace=20>obtenir un <ingredient quantite=1>glaçage</ingredient> fluide</operation>. <operation temps=6.86min espace=20>plongez le dessus de chaque biscuits dans le <ingredient quantite=1>glaçage</ingredient></operation>. <operation temps=6.86min espace=20>laissez sécher dans un endroit chaud</operation>.
+]]>
+ </preparation>
+</recette>

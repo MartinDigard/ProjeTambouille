@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24137">
+ <titre>Rôti de porc au curaçao et à l’ orange</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rôti de porc d’ 1 kg environ</p>
+ <p>1 ou 2 os de porc</p>
+ <p>1 oignon</p>
+ <p>1 carotte</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 oranges</p>
+ <p>1 cuillère à café de concentré de tomate</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>5 cl de curaçao</p>
+ <p>1 bouquet garni</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=17>pelez</operation> et <operation temps=6.86min espace=17>coupez l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>carotte</ingredient> en rondelles</operation>. <operation temps=6.86min espace=17>faites colorer le rôti de <ingredient quantite=1>porc</ingredient> sur toutes ses faces dans une <recipient>cocotte</recipient> - minute avec du beurre</operation>. ajoutez l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>carotte</ingredient>, le <ingredient quantite=1>concentré de tomate</ingredient>, les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> entières et le <ingredient quantite=1>bouquet garni</ingredient>. mouillez de <ingredient quantite=1>vin blanc</ingredient>, <operation temps=0.25min espace=17>salez</operation> et <operation temps=0.5min espace=17>poivrez</operation>. <operation temps=6.86min espace=17>fermez la <recipient>cocotte</recipient></operation> et <operation temps=30.0min espace=17>laissez cuire 30 min dès la mise en rotation de la soupape</operation>. <operation temps=6.86min espace=17>prélevez les zestes des 2 <ingredient quantite=2>oranges</ingredient> et émincez - les en fines lanières</operation>. <operation temps=6.86min espace=17>ebouilantez</operation> - les 3 min. <operation temps=6.86min espace=17>pressez une</operation> <ingredient quantite=1>orange</ingredient>, <operation temps=6.86min espace=17>mettez le jus et les zestes blanchis dans une petite <recipient>casserole</recipient></operation> et <operation temps=6.86min espace=17>faites bouillir quelques minutes</operation>. <operation temps=6.86min espace=17>pelez les quartiers de l’ autre <ingredient quantite=1>orange</ingredient> à vif</operation>. <operation temps=6.86min espace=17>sortez le rôti de la <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=17>filtrez la sauce au <recipient>chinois</recipient></operation>. <operation temps=6.86min espace=17>remettez la sauce sur le feu avec les zestes d’ <ingredient quantite=1>orange</ingredient> et le</operation> <ingredient quantite=1>curaçao</ingredient>, <operation temps=5.0min espace=17>laissez frémir 5 min</operation>. <operation temps=6.86min espace=17>servez le rôti en tranches, nappé de la sauce</operation> réduite et décoré de quartiers d’ <ingredient quantite=1>orange</ingredient>. ce rôti est aussi bon chaud que froid, et s’ accompagne très bien de riz sauvage ou d’ épinards au beurre.
+]]>
+ </preparation>
+</recette>

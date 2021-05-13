@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14800">
+ <titre>Tarte arménienne</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poivron coupé en petits morceaux</p>
+ <p>1 oignon haché</p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>2 steaks hachés</p>
+ <p>pâte brisée salée</p>
+ <p>30 cl de crème fraîche</p>
+ <p>tabasco</p>
+ <p>sel, poivre, cumin</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer une <ingredient quantite=1>pâte brisée salée</ingredient>. <operation temps=6.86min espace=10>faire cuire les steaks <ingredient quantite=1>hachés</ingredient> dans un peu de beurre, puis les <ingredient quantite=1>hacher</ingredient> à nouveau</operation>. <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient>, puis le <ingredient quantite=1>poivron</ingredient></operation>. rajouter le <ingredient quantite=1>concentré de tomates</ingredient>, le <ingredient quantite=1>cumin</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre, le <ingredient quantite=1>tabasco</ingredient> et les steaks. <operation temps=6.86min espace=10>faire cuire le tout 10</operation> mn. verser le tout sur la <ingredient quantite=1>pâte brisée</ingredient>. mélanger la <ingredient quantite=1>crème fraîche</ingredient>, du <ingredient quantite=1>cumin</ingredient> et un <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. verser sur la tarte et <operation temps=45.0min espace=10>faire cuire 45 mn (à thermostat 6</operation>). <operation temps=2.0min espace=10>servir chaud</operation>. cela peut <operation temps=6.86min espace=10>faire un <recipient>plat</recipient> unique le soir avec une bonne salade craquante</operation>. cabernet
+]]>
+ </preparation>
+</recette>

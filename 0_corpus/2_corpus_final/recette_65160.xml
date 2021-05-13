@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65160">
+ <titre>Quiche de courgettes et saucisse de tofu</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>4 courgettes</p>
+ <p>1 saucisse de tofu fumée (environ 100 g) </p>
+ <p>huile d’ olive</p>
+ <p>25 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). laver et couper en rondelles les <ingredient quantite=4>courgettes</ingredient>. les <operation temps=6.86min espace=10>faire revenir dans une <recipient>poêle</recipient> avec un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter les 2 œufs au lait et bien mélanger. saler et poivrer. couper la <ingredient quantite=1>saucisse de tofu</ingredient> fumée en rondelles et l’ ajouter au mélange. etaler la <ingredient quantite=1>pâte</ingredient>. lorsque les <ingredient quantite=4>courgettes</ingredient> sont presque cuites, les étaler sur la <ingredient quantite=1>pâte</ingredient>. recouvrir du mélange <ingredient quantite=1>lait</ingredient> / œufs / <ingredient quantite=1>saucisse de tofu</ingredient>. <operation temps=35.0min espace=10>faire cuire au <recipient>four</recipient> 30 à 35 min</operation>. <operation temps=2.0min espace=10>servir avec une salade</operation>!
+]]>
+ </preparation>
+</recette>

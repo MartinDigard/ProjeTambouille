@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227928">
+ <titre>Brochettes de sanglier</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de gigue de sanglier (jeune de préférence) </p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert </p>
+ <p>1 poivron jaune</p>
+ <p>1 gros oignon</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à café de paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+débiter la viande de <ingredient quantite=1>sanglier</ingredient> en petits cubes d’ environ 3 cm de côté, découper des carrés avec les <ingredient quantite=1>poivrons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. placer le tout sur des piques à brochettes en alternant viande, <ingredient quantite=1>poivron</ingredient>, <ingredient quantite=1>oignon</ingredient>. dans un bol mélanger la <ingredient quantite=1>moutarde</ingredient>, l’ huile, et le <ingredient quantite=2>paprika</ingredient>. a l’ aide d’ un pinceau, badigeonner les brochettes avec cette préparation. cuire vos brochettes au <recipient>barbecue</recipient> de préférence environ 3 ou 4 min par face pour éviter une " surcuisson " qui rendrait la viande dure. surtout bien <operation temps=6.86min espace=9>choisir un jeune <ingredient quantite=1>sanglier</ingredient></operation>
+]]>
+ </preparation>
+</recette>

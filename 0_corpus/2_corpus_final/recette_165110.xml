@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165110">
+ <titre>Purée de pois cassés à l’ orientale</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pois cassés </p>
+ <p>20 cl d’ huile d’ olive </p>
+ <p>2 c. c de cumin en poudre </p>
+ <p>2 gousses d’ ail pressées</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rincez les <ingredient quantite=1>pois</ingredient> cassés et les mettre dans une <recipient>casserole</recipient> suffisamment grande pour pouvoir bien remuer. <operation temps=2.0min espace=7>couvrir d’ eau</operation> et surveiller la cuisson de manière à faire fondre les <ingredient quantite=1>pois cassés</ingredient> sans qu’ il attachent le fond de la <recipient>casserole</recipient>, ne pas hésiter à rajouter de l’ eau en cours de cuisson (il faut que ça boive!). si il reste des petits morceaux ce n’ est que meilleur. en fin de cuisson ajouter l’ huile d’ <ingredient quantite=1>olive</ingredient>, l’ <ingredient quantite=2>ail pressé</ingredient> et le <ingredient quantite=2>cumin en poudre</ingredient>. rectifier <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. servi avec des boulettes (à l’ orientale bien sûr!) un vrai régal côte du rhone type rasteau
+]]>
+ </preparation>
+</recette>

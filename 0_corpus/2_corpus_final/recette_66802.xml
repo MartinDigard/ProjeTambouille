@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66802">
+ <titre>Clafoutis aux poireaux et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de petits poireaux</p>
+ <p>2 tranches épaisses de lard fumé</p>
+ <p>80 g de gruyère râpé</p>
+ <p>5 oeufs</p>
+ <p>50 g de beurre</p>
+ <p>30 cl de lait entier</p>
+ <p>100 g de farine</p>
+ <p>1 cuillère à café d’ huile</p>
+ <p>1 brin de thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). nettoyer puis émincer grossièrement les <ingredient quantite=1>poireaux</ingredient>, les <operation temps=10.0min espace=15>faire fondre pendant 10 min à la <recipient>poêle</recipient> dans 30 g de beurre chaud, les</operation> réserver. <operation temps=6.86min espace=15>faire dorer rapidement dans la même <recipient>poêle</recipient> le <ingredient quantite=2>lard</ingredient></operation> coupé en gros morceaux avec l’ <ingredient quantite=1>huile</ingredient>. battre les <ingredient quantite=5>oeufs</ingredient> salés et poivrés, incorporer le lait puis la farine, mélanger avec les <ingredient quantite=1>poireaux</ingredient>, le <ingredient quantite=1>thym</ingredient> effeuillé, les lardons et la moitié de <ingredient quantite=1>gruyère</ingredient>. <operation temps=6.86min espace=15>versez dans un <recipient>plat</recipient> à gratin beurré</operation>, <operation temps=6.86min espace=15>répartir le reste de fromage râpé sur le dessus</operation>. <operation temps=40.0min espace=15>laisser cuire environ 40 min au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72738">
+ <titre>Croustillant au saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 feuilles filo</p>
+ <p>4 parts de filet de saumon frais ou décongelé</p>
+ <p>4 cuillères à soupe de crème fraîche épaisse</p>
+ <p>sel et poivre</p>
+ <p>beurre fondu (facultatif) pour enduire la feuille filo une fois fermée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 - 200 °, thermostat 6 - 7. placer une <ingredient quantite=4>part de filet de saumon</ingredient> sur chaque <ingredient quantite=4>feuille filo</ingredient>, recouvrir chaque <ingredient quantite=1>part</ingredient> d’ une <ingredient quantite=4>cuillère à soupe de crème fraîche</ingredient>, saler et poivrer. fermer la <ingredient quantite=4>feuille filo</ingredient> en la pliant. <ingredient quantite=1>enduire</ingredient> de <ingredient quantite=1>beurre fondu</ingredient> (facultatif). <operation temps=15.0min espace=7>faire cuire au <recipient>four</recipient> durant 15 min</operation>. servir chauds et accompagnés d’ une salade.
+]]>
+ </preparation>
+</recette>

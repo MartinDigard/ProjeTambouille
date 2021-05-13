@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20141">
+ <titre>Les Galaxies (sablés) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre</p>
+ <p>150 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>fleur d’ oranger ou vanille</p>
+ <p>150 g de farine</p>
+ <p>20 g de levure</p>
+ <p>1 pincée de sel</p>
+ <p>100 ml de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (th 5 - 6). <operation temps=5.0min espace=10>mélangez</operation> énergiquement le beurre en crème avec le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=2>oeufs</ingredient>, un à un, en</operation> battant à chaque fois. <operation temps=6.86min espace=10>tamisez la farine, la <ingredient quantite=1>levure</ingredient>, le</operation> <ingredient quantite=1>sel</ingredient> et <operation temps=6.86min espace=10>ajoutez le tout à la préparation <ingredient quantite=1>beurre</ingredient> / <ingredient quantite=1>sucre</ingredient> / <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=10>rajoutez</operation> progressivement le lait. remuez jusqu’ à <operation temps=6.86min espace=10>obtenir un mélange très lisse</operation>. <operation temps=6.86min espace=10>faire des formes avec la pâte</operation> obtenue. <operation temps=6.86min espace=10>mettez à</operation> cuire 15 mn à <recipient>four</recipient> chaud. <operation temps=20.0min espace=10>laissez refroidir</operation>. très rapide et très simple!
+]]>
+ </preparation>
+</recette>

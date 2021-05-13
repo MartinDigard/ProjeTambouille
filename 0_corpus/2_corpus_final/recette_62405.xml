@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62405">
+ <titre>Cookies au chocolat et miel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>375 g de farine</p>
+ <p>40 g de cacao en poudre sucré</p>
+ <p>2 oeufs</p>
+ <p>170 g de sucre roux</p>
+ <p>70 g de sucre blanc</p>
+ <p>60 g de miel</p>
+ <p>150 g de beurre</p>
+ <p>1 cuillère à café d’ essence de vanille</p>
+ <p>200 g de chocolat noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>chocolat</ingredient> en pépites de 1x1 cm et les garder dans un bol. mélanger dans un grand bol (au <recipient>mixeur</recipient>, ou à la main, ce qui est plus fatigant..!), le beurre ramolli, avec le <ingredient quantite=1>sucre roux</ingredient>, le <ingredient quantite=1>sucre blanc</ingredient>, le <ingredient quantite=1>miel</ingredient>, ainsi que l’ <ingredient quantite=1>essence de vanille</ingredient>. ajouter les <ingredient quantite=2>oeufs</ingredient> en les battant vite et correctement. tamiser la farine, et le <ingredient quantite=1>cacao</ingredient>, et le mélanger avec le reste. mélanger le <ingredient quantite=1>chocolat</ingredient> en morceaux avec la pâte. <operation temps=6.86min espace=11>faire des petits tas, de la taille d’ une <ingredient quantite=1>cuillère</ingredient> à soupe, et les</operation> déposer sur une plaque recouverte de papier sulfurisé. enfourner au <recipient>four</recipient> préchauffé à 160 ° c (thermostat 5 - 6), pendant 9 minutes. important: il faut les <operation temps=20.0min espace=11>laisser refroidir</operation> et <operation temps=6.86min espace=11>durcir avant de les déplacer</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50294">
+ <titre>Petits farcis estivaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>tomates, aubergines, courgettes ou poivrons</p>
+ <p>250 g de chair à saucisse</p>
+ <p>100 g de bœuf haché</p>
+ <p>4 échalotes</p>
+ <p>3 gousses d’ ail</p>
+ <p>25 g de filet d’ anchois allongés à l’ huile</p>
+ <p>50 g de mie de pain rassie</p>
+ <p>10 cl de lait</p>
+ <p>1 œuf</p>
+ <p>60 g de poudre d’ amande</p>
+ <p>1 cuillère à café de marjolaine</p>
+ <p>thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). faire tremper la <ingredient quantite=1>mie de pain</ingredient> dans le lait, évider les légumes et réserver la pulpe. <operation temps=6.86min espace=16>faire revenir les <ingredient quantite=4>échalotes</ingredient></operation>. <ingredient quantite=1>hacher</ingredient> l’ <ingredient quantite=3>ail</ingredient> avec le persil et les <ingredient quantite=1>anchois</ingredient>, ajouter les <ingredient quantite=4>échalotes</ingredient> et incorporer ce mélange à la <ingredient quantite=1>chair à saucisse</ingredient> et à la viande hachée. incorporer également la <ingredient quantite=1>mie de pain</ingredient> égouttée, l’ <ingredient quantite=1>œuf</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>, la <ingredient quantite=1>marjolaine</ingredient> et le <ingredient quantite=1>thym</ingredient>. malaxer afin d’ <operation temps=6.86min espace=16>obtenir une farce homogène</operation>. farcir les légumes de cette farce et disposer dans un <recipient>plat</recipient> à <recipient>four</recipient> huilé. verser la pulpe des légumes au fond du <recipient>plat</recipient> et arroser d’ un <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ olive. enfourner pendant 45 minutes.
+]]>
+ </preparation>
+</recette>

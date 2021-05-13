@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91521">
+ <titre>Gratin d’ aubergines et poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 belles aubergines</p>
+ <p>1 poivron (rouge ou vert) </p>
+ <p>1 oignon</p>
+ <p>300 g de viande de boeuf hachée</p>
+ <p>250 g de coulis de tomate</p>
+ <p>50 cl de béchamel</p>
+ <p>50 g de fromage rappé</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 feuilles de basilic frais</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>aubergines</ingredient> en petits dés et les cuire à la vapeur. réserver et <operation temps=6.86min espace=13>laisser égoutter</operation>. dans une <recipient>poêle</recipient> chaude, <operation temps=6.86min espace=13>faire revenir un <ingredient quantite=1>oignon</ingredient> et un <ingredient quantite=1>poivron</ingredient></operation> émincés dans l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>. ajouter la <ingredient quantite=1>viande</ingredient> hâchée, le <ingredient quantite=1>coulis de tomate</ingredient> ainsi que le <ingredient quantite=3>basilic</ingredient> ciselé finement. saler, poivrer. préparer une <ingredient quantite=1>béchamel</ingredient>. dans un <recipient>plat</recipient> à gratin, <operation temps=6.86min espace=13>déposez les <ingredient quantite=2>aubergines</ingredient>, puis la préparation</operation> et napper avec la <ingredient quantite=1>béchamel</ingredient>. parsemez avec le <ingredient quantite=1>fromage</ingredient> râpé. mettre 20 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6) et <operation temps=6.86min espace=13>laisser gratiner les 5 dernières minutes</operation>.
+]]>
+ </preparation>
+</recette>

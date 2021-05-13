@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32413">
+ <titre>Tarte au poulet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 blancs de poulet</p>
+ <p>un gros oignon</p>
+ <p>un peu de moutarde</p>
+ <p>un verre de vin blanc</p>
+ <p>25 cl de crème fraîche liquide</p>
+ <p>un peu de farine</p>
+ <p>100 g de comté</p>
+ <p>10 tomates cerises</p>
+ <p>une petite courgette</p>
+ <p>une pâte brisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans un <ingredient quantite=1>peu</ingredient> de matière grasse</operation>. couper les <ingredient quantite=3>blancs</ingredient> de <ingredient quantite=3>poulet</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux, les ajouter à l’ <ingredient quantite=1>oignon</ingredient>. dans une autre <recipient>poêle</recipient> <operation temps=6.86min espace=14>faire cuire votre <ingredient quantite=1>courgette</ingredient></operation> coupée en rondelles avec un peu d’ huile d’ olive. une fois le <ingredient quantite=3>poulet</ingredient> doré, ajouter la <ingredient quantite=1>moutarde</ingredient>, de manière à envelopper légèrement le mélange. ajouter le <ingredient quantite=1>verre de vin blanc</ingredient>, laissé réduire un peu, puis mettre la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=14>laisser réduire de nouveau</operation>. mettre une <ingredient quantite=1>grosse</ingredient> cuillère à soupe de farine pour que le mélange soit moins <ingredient quantite=1>liquide</ingredient>. couper 50 g de <ingredient quantite=1>comté</ingredient>, l’ ajouter ainsi que les <ingredient quantite=1>tomates cerises</ingredient>. attendre que le fromage soit fondu, verser sur votre <ingredient quantite=1>pâte</ingredient> et disposer les <ingredient quantite=1>courgettes</ingredient> sur la tarte puis terminer par mettre le reste de <ingredient quantite=1>comté</ingredient> râpé sur le tout. enfin mettre au <recipient>four</recipient> (th 180 ° c) pendant 15 à 20 mn. ce <recipient>plat</recipient> est très complet, il peut être considéré comme un <recipient>plat</recipient> assez lourd mais généralement il ne reste jamais de ma tarte et mes invités sont <operation temps=6.86min espace=14>ravis</operation>.
+]]>
+ </preparation>
+</recette>

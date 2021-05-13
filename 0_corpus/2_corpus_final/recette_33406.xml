@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33406">
+ <titre>Potage crémeux de tomate (version allégée) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses boîtes de tomates concassées (2 x 500 g) </p>
+ <p>2 oignons jaunes de moyen calibre</p>
+ <p>20 cl de lait concentré non sucré (à 4% MG) </p>
+ <p>ail: 2 gousses ou 1 pincée d’ ail lyophilisé</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ <p>ciboulette fraîche ou surgelée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>gousses</ingredient> d’ <ingredient quantite=1>ail</ingredient>. cuire les <ingredient quantite=2>oignons</ingredient> dans une <recipient>cocotte</recipient> - minute avec un fond d’ eau ; <operation temps=10.0min espace=8>laisser suer 10 min à couvert</operation>. ajouter l’ <ingredient quantite=1>ail</ingredient> et les <ingredient quantite=2>tomates</ingredient> avec leur jus, puis parsemer d’ <ingredient quantite=1>herbes de provence</ingredient>. <operation temps=6.86min espace=8>faire cuire à petit bouillon, à couvert,</operation> et rajouter en cours de cuisson l’ équivalent d’ 1/2 <ingredient quantite=1>boîte</ingredient> de conserve en eau. au bout de 30 min, verser le lait ; et mixer. reporter 5 min sur feu doux et parsemer de <ingredient quantite=1>ciboulette</ingredient> ciselée ; <operation temps=6.86min espace=8>servir ainsi</operation>! peut aussi être servi <ingredient quantite=1>frais</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53192">
+ <titre>Mini Bounty</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat au lait</p>
+ <p>100 g de noix de coco</p>
+ <p>75 g du sucre</p>
+ <p>1 œuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la <ingredient quantite=1>noix de coco</ingredient>, le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>œuf</ingredient> jusqu’ à l’ obtention d’ une pâte relativement compacte. former des petits pavés à <operation temps=6.86min espace=8>partir de cette pâte</operation>. les poser sur du papier cuisson et <operation temps=10.0min espace=8>faire cuire au <recipient>four</recipient> 10 min sur th.7</operation>. <operation temps=3.0min espace=8>sortir du <recipient>four</recipient></operation> et <operation temps=6.86min espace=8>faire refroidir sur une grille</operation>. <operation temps=6.86min espace=8>faire fondre le <ingredient quantite=1>chocolat</ingredient> dans une <recipient>casserole</recipient> (ou au <recipient>micro-onde</recipient>) jusqu’ à</operation> <operation temps=8.0min espace=8>obtenir une pâte lisse</operation>. a l’ aide d’ une spatule ou de 2 fourchettes, <operation temps=6.86min espace=8>faire rouler les pavés de <ingredient quantite=1>coco</ingredient> dans le <ingredient quantite=1>chocolat</ingredient></operation>. poser les pavés sur une feuille de papier cuisson. mettre au frigo 1 heure. variation: <ingredient quantite=1>chocolat</ingredient> noir ou blanc.
+]]>
+ </preparation>
+</recette>

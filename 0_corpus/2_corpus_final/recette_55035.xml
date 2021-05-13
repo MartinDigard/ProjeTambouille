@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55035">
+ <titre>Galette des rois au chocolat, coco et pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>200 g de chocolat noir</p>
+ <p>20 cl de crème liquide</p>
+ <p>3 cuillères à soupe de noix de coco râpée</p>
+ <p>compote de pommes si possible maison ou 2 pommes découpées en quartiers et cuites</p>
+ <p>1 fève</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+déroulez une <ingredient quantite=1>pâte feuilletée</ingredient>. <operation temps=6.86min espace=7>faites fondre le <ingredient quantite=1>chocolat</ingredient> dans la <ingredient quantite=1>crème</ingredient> bouillante</operation>. <operation temps=6.86min espace=7>lissez bien</operation> puis ajoutez la <ingredient quantite=3>noix de coco</ingredient>. répartissez la ganache sur la <ingredient quantite=1>pâte</ingredient> en laissant les bords libres. cachez la <ingredient quantite=1>fève</ingredient> puis recouvrez de <ingredient quantite=1>compote de pommes ou de quartiers de pommes cuites</ingredient>. déroulez la 2ème <ingredient quantite=1>pâte feuilletée</ingredient>, <ingredient quantite=1>découpez</ingredient> - y un cercle de diamètre inférieur à la 1ère pâte. déposez ce cercle sur la ganache puis <operation temps=6.86min espace=7>rabattez les bords de la <ingredient quantite=1>pâte</ingredient> du dessous en les</operation> tressant. <operation temps=6.86min espace=7>dorez la galette au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient></operation>. <operation temps=30.0min espace=7>enfournez environ 30 min à 180 ° c (thermostat 6</operation>). aussi bon tiède que froid.
+]]>
+ </preparation>
+</recette>

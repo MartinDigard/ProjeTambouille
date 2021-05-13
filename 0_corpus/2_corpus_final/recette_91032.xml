@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91032">
+ <titre>Bruschetta mozzarella et jambon de pays</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de pain de campagne</p>
+ <p>1 boule de mozzarella</p>
+ <p>4 tranches de jambon de pays</p>
+ <p>4 tomates</p>
+ <p>ail</p>
+ <p>herbes de provence</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire peler les <ingredient quantite=4>tomates</ingredient> dans l’ eau bouillante</operation>. une fois pelées, les éplucher et les couper en petits dés. dans une <recipient>casserole</recipient>, mettre les <ingredient quantite=4>tomates</ingredient> coupées en petits dés, les <ingredient quantite=1>herbes de provence</ingredient> et une cuillère à soupe d’ huile d’ <ingredient quantite=1>olive</ingredient>. porter à ébullition. frotter les <ingredient quantite=4>tranches de pain de campagne</ingredient> avec une gousse d’ <ingredient quantite=1>ail</ingredient> puis les tartiner du mélange tomates / <ingredient quantite=1>herbes de provence</ingredient> / huile d’ <ingredient quantite=1>olive</ingredient>. couper la <ingredient quantite=1>mozzarella</ingredient> en <ingredient quantite=4>tranches</ingredient>. disposer les <ingredient quantite=4>tranches</ingredient> de <ingredient quantite=1>mozzarella</ingredient> sur les tartines de <ingredient quantite=4>pain</ingredient>. enfourner les bruschettas dans un <recipient>four</recipient> chauffé au préalable à 200 ° c (thermostat 7). au bout de 8 minutes de cuisson, ajouter les <ingredient quantite=4>tranches de jambon de pays</ingredient>, et poursuivre la cuisson durant 2 minutes.
+]]>
+ </preparation>
+</recette>

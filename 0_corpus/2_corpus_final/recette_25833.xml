@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25833">
+ <titre>Pommes de terre farcies aux lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes de terre à chair ferme</p>
+ <p>beurre</p>
+ <p>100 g de lardons allumettes</p>
+ <p>un ravier de cressonnette</p>
+ <p>crème fraîche</p>
+ <p>noix de muscade</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=4>pommes de terre</ingredient> jusqu’ à ce qu’ elles soivent facilement " écrasables ". pendant ce temps, <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient></operation>, préparer la cressonette lavée. une fois les <ingredient quantite=4>pommes de terre</ingredient> cuites, découper un chapeau dans le sens de la longueur de la <ingredient quantite=1>pomme</ingredient>, la vider dans un <recipient>plat</recipient> à part, avec l’ intérieur des patates, mélanger les <ingredient quantite=1>lardons</ingredient> cuits, y mettre la <ingredient quantite=1>crème fraîche</ingredient>, la <ingredient quantite=1>noix de muscade</ingredient> et le beurre. en dernière minutes, ajouter la cressonette afin qu’ elle ne " cuise " pas. mélanger le tout et <operation temps=6.86min espace=10>remplissez les patates vides avec ce mélange</operation>. remettre au <recipient>four</recipient> le temps de les réchauffer.... et <operation temps=6.86min espace=10>régalez vous! c’ est un peu long à</operation> <operation temps=6.86min espace=10>faire, mais ça en</operation> vaut la peine, et c’ est une façon originale et qui change de préparer vos <ingredient quantite=4>pommes de terre</ingredient>.
+]]>
+ </preparation>
+</recette>

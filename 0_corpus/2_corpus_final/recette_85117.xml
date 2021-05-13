@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85117">
+ <titre>Spaghettis improvisées (veau-olive-carotte) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g spaghetti (ou capellinis si vous les aimez plus fins) </p>
+ <p>400 g de veau haché</p>
+ <p>4 carottes</p>
+ <p>1 petite boîte de tomates pelées (entières ou pas), 250 g environ</p>
+ <p>2 oignons</p>
+ <p>20 olives vertes</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café de muscade moulue</p>
+ <p>2 cuillères à café d’ herbes de Provence</p>
+ <p>sel</p>
+ <p>parmesan (ou à défaut gruyère râpé) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et couper les <ingredient quantite=4>carottes</ingredient> en demi-rondelles, les <operation temps=10.0min espace=12>faire revenir à feu doux dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> pendant 5 à 10 min dans votre <recipient>poêle</recipient> couverte</operation>. éplucher et émincer les <ingredient quantite=2>oignons</ingredient>, les ajouter aux <ingredient quantite=4>carottes</ingredient>. une fois les <ingredient quantite=2>oignons</ingredient> <operation temps=6.86min espace=12>ramollis</operation>, ajouter le <ingredient quantite=1>veau</ingredient>. pendant que tout cela rissole gentiment, mixer ensemble les tomates, les <ingredient quantite=2>herbes de provence</ingredient>, la <ingredient quantite=1>muscade</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> puis broyer les <ingredient quantite=1>olives vertes</ingredient>. une fois le <ingredient quantite=1>veau</ingredient> cuit, ajouter les tomates et les <ingredient quantite=1>olives</ingredient>, saler selon convenance et <operation temps=45.0min espace=12>laisser mijoter le tout, toujours à feu doux pendant environ 45 min</operation>. servir sur les pâtes chaudes et saupoudrer de fromage. bon appétit! encore meilleur le lendemain!
+]]>
+ </preparation>
+</recette>

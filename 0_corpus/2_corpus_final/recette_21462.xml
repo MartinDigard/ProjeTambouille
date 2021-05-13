@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21462">
+ <titre>Gâteau de riz aux amandes et aux noix</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g de riz</p>
+ <p>3 oeufs</p>
+ <p>10 cl de lait</p>
+ <p>30 g de poudre de noix</p>
+ <p>30 g de poudre d’ amandes </p>
+ <p>20 g de beurre</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=10>faites cuire le <ingredient quantite=1>riz</ingredient> dans 4 fois son volume d’ eau, environ 30 min à feu doux</operation>. <operation temps=6.86min espace=10>laissez - le</operation> reposer 10 min dans la <recipient>casserole</recipient> avec l’ eau de cuisson puis <operation temps=6.86min espace=10>égouttez</operation> et <operation temps=20.0min espace=10>laissez refroidir</operation>. <operation temps=6.86min espace=10>mélangez le <ingredient quantite=1>riz</ingredient> refroidi avec les jaunes d’ <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient> et de <ingredient quantite=1>noix</ingredient>, le lait et une pincée de <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez les blancs</operation> battus en neige ferme. <operation temps=6.86min espace=10>versez la préparation dans un <recipient>moule</recipient> à</operation> soufflé beurré. <operation temps=35.0min espace=10>faites cuire environ 35 min au <recipient>four</recipient> préchauffé à 170 ° c (thermostat 5 - 6</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14184">
+ <titre>Paté au poulet</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>1/4 de tasse (100 g) de piment vert et de piment rouge haché</p>
+ <p>1/4 tasse (100 g) de carottes en dés</p>
+ <p>1/2 tasse (200 g) d’ oignon haché</p>
+ <p>1/2 tasse (200 g) de céleri haché</p>
+ <p>1/4 (100 g) de tasse de pommes de terre en dés</p>
+ <p>Sel et poivre</p>
+ <p>3 cuillères à café de beurre</p>
+ <p>3 cuillères à café de farine</p>
+ <p>1 boîte de crème de poulet (ou de champignons ou de céleri) </p>
+ <p>1 poulet cuit désossé</p>
+ <p>1 boîte de bouillon de poulet</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les légumes 5 minutes dans le <ingredient quantite=1>bouillon de poulet</ingredient>. dans une autre <recipient>casserole</recipient>, fondre le <ingredient quantite=3>beurre</ingredient> et ajouter la farine. brasser et ajouter la <ingredient quantite=1>crème de poulet</ingredient>. cuire en brassant. mêler avec les légumes et le <ingredient quantite=1>poulet cuit</ingredient>. assaisonner. foncer un <recipient>plat</recipient> d’ une abaisse de <ingredient quantite=1>pâte</ingredient> et y déposer le mélange du <ingredient quantite=1>poulet</ingredient>. <operation temps=6.86min espace=14>recouvrir d’ une autre <ingredient quantite=1>pâte</ingredient></operation>. badigeonner d’ un oeuf battu. cuire 20 mn à 425 ° f (220 ° c), puis 30 mn à 350 ° f (180 ° c).
+]]>
+ </preparation>
+</recette>

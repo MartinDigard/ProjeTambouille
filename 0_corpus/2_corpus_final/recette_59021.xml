@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59021">
+ <titre>Calamars facon gigou</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de calamars en lamelles surgelé</p>
+ <p>2 échalotes</p>
+ <p>3 gousses d’ ail</p>
+ <p>480 g de tomates pelées</p>
+ <p>1 cube de crème fraîche</p>
+ <p>un peu d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre de l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> dans la <recipient>cocotte</recipient> et <operation temps=2.0min espace=9>faire revenir l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=3>ail</ingredient> pendant environ 2 minutes</operation>. après mettre les <ingredient quantite=1>lamelles</ingredient> de calamars et les <operation temps=6.86min espace=9>faire revenir quelques minutes</operation>. ensuite mettre les 2 boîtes de <ingredient quantite=1>tomates pelées</ingredient> puis la <ingredient quantite=1>crème fraîche</ingredient>. saler, poivrer et mettre la <ingredient quantite=1>muscade</ingredient>. voilà, j’ espère que ça vous plaira. <operation temps=6.86min espace=9>faire du riz vapeur avec c’ est</operation> super bon.
+]]>
+ </preparation>
+</recette>

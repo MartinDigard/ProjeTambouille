@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42192">
+ <titre>Parmentier aux légumes et chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un reste de ratatouille</p>
+ <p>3 grosses pommes de terres</p>
+ <p>1/2 bûche de chèvre</p>
+ <p>150 g de viande hachée</p>
+ <p>huile d’ olive</p>
+ <p>épices et condiments au choix</p>
+ <p>fromage rapé</p>
+ <p>50 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=3>pommes de terre</ingredient> après les avoir pelées. en attendant faire revenir dans une <recipient>poêle</recipient> la <ingredient quantite=1>viande hachée</ingredient>. assaisonner. tapisser le fond d’ un <recipient>plat</recipient> avec le reste <ingredient quantite=1>de ratatouille</ingredient>. quand les <ingredient quantite=3>pommes de terres</ingredient> sont bien cuites, les réduire en purée dans laquelle on rajoute le <ingredient quantite=1>chèvre</ingredient> émietté et le lait. bien mélanger et saler. quand la <ingredient quantite=1>viande</ingredient> est dorée, la rajouter dans le <recipient>plat</recipient> sur la couche de <ingredient quantite=1>ratatouille</ingredient>. <operation temps=6.86min espace=11>finir avec une couche de la purée au <ingredient quantite=1>chèvre</ingredient></operation>. soupoudrer de <ingredient quantite=1>fromage</ingredient> rapé et enfourner quelques minutes.
+]]>
+ </preparation>
+</recette>

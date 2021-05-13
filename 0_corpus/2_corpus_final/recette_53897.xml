@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53897">
+ <titre>Pot-au-feu espagnol (Cocido) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de pommes de terre</p>
+ <p>500 g de carottes</p>
+ <p>500 g d’ haricots vert surgelés</p>
+ <p>500 g de pois chiches en boîte </p>
+ <p>1 chorizo doux</p>
+ <p>400 g de boeuf bourguignon</p>
+ <p>1 talon de jambon cru</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=1>pommes de terre</ingredient>. coupez le <ingredient quantite=1>talon de jambon</ingredient> en cubes de 3 cm environ, <operation temps=6.86min espace=10>coupez le <ingredient quantite=1>chorizo</ingredient> en tronçons de 2 cm</operation>. dans un gros <recipient>faitout</recipient>, <operation temps=6.86min espace=10>faites cuire tous les légumes et les viandes pendant 1 h</operation> ; <operation temps=6.86min espace=10>ajoutez de l’ eau pour</operation> <operation temps=6.86min espace=10>couvrir le tout</operation>. ne pas <operation temps=6.86min espace=10>salez à cause du <ingredient quantite=1>jambon</ingredient> cru et du <ingredient quantite=1>chorizo</ingredient>! vous</operation> pouvez <operation temps=6.86min espace=10>servir le bouillon avec des vermicelles, et la viande et les légumes en <recipient>plat</recipient> principal</operation>. ce <recipient>plat</recipient> appelé " cocido " en espagne est idéal pour beaucoup d’ invité, facile à préparer, on peut le <operation temps=6.86min espace=10>faire même la veille et le réchauffer au moment de l’ apéritif</operation>. en général est très apprécié. si on aime la cuisine épicée on peut mettre du <ingredient quantite=1>chorizo</ingredient> fort rioja
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29261">
+ <titre>Crumble à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de rhubarbe (détaillée en tronçons) </p>
+ <p>1 pomme</p>
+ <p>90 g de beurre mou</p>
+ <p>125 g de farine</p>
+ <p>60 g de cassonade (ou sucre) </p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+malaxez avec les doigts la farine, le <ingredient quantite=1>beurre</ingredient> et la <ingredient quantite=1>cassonade</ingredient>. lavez et <operation temps=6.86min espace=8>coupez la <ingredient quantite=1>rhubarbe</ingredient> en tronçons et la <ingredient quantite=1>pomme</ingredient> en morceaux</operation>. placez les fruits dans un <recipient>plat</recipient> à gratin ou dans un <recipient>moule</recipient> transparent et les saupoudrer de <ingredient quantite=1>sucre vanillé</ingredient>. <operation temps=6.86min espace=8>egrenez le crumble sur les fruits</operation>. enfournez à 210 ° c pendant 25 à 30 mn. dessert printanier léger et juteux pour <operation temps=6.86min espace=8>finir un repas</operation>. idéal pour un goûter convivial entre amis.
+]]>
+ </preparation>
+</recette>

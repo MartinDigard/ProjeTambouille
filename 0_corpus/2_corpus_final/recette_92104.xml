@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92104">
+ <titre>Sorbet à la menthe fraiche</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g feuilles de menthe fraiche</p>
+ <p>60 cl d’ eau</p>
+ <p>250 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>lavez la <ingredient quantite=1>menthe</ingredient> dans une <recipient>casserole</recipient></operation>, mettre la <ingredient quantite=1>menthe</ingredient> versez l’ aeu dessus, <operation temps=20.0min espace=7>faire bouillir</operation> <operation temps=6.86min espace=7>faire infuser</operation> jusqu’ a refroidissement <operation temps=6.86min espace=7>passez cette infusiondans un <recipient>chinois</recipient> au dessus d’ un récipient</operation> contenant le <ingredient quantite=1>sucre</ingredient> prendre soin de bien dissoudre <operation temps=20.0min espace=7>laissez refroidir</operation> et <operation temps=6.86min espace=7>faire prendre en <recipient>sorbetière</recipient> vous</operation> pouvez aussi <operation temps=6.86min espace=7>faire prendre sans <recipient>sorbetière</recipient> cela</operation> fait un granité peut se <operation temps=6.86min espace=7>servir avec une sauce au chocolat</operation>
+]]>
+ </preparation>
+</recette>

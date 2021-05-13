@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68301">
+ <titre>Salade de fruits au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 bananes</p>
+ <p>1 orange</p>
+ <p>250 g de fraises</p>
+ <p>3 kiwis</p>
+ <p>1 citron</p>
+ <p>nutella ou chocolat fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+-coupez les <ingredient quantite=2>bananes</ingredient> en fines rondelles. -pelez a vif l’ orange et <operation temps=6.86min espace=8>coupez la en tranches plates</operation>. -coupez les <ingredient quantite=1>fraises</ingredient> en deux -pelez le <ingredient quantite=1>kiwi</ingredient>, puis le <operation temps=6.86min espace=8>découpez en tranches</operation>. -posez les tranches d’ orange a <recipient>plat</recipient> au fond d’ un <recipient>saladier</recipient>. <operation temps=6.86min espace=8>-faire la même chose mais par dessus l’ <ingredient quantite=1>orange</ingredient> avec le <ingredient quantite=1>kiwi</ingredient> -placez pareillement les rondelles de <ingredient quantite=2>bananes</ingredient> sur le <ingredient quantite=1>kiwi</ingredient></operation> <operation temps=6.86min espace=8>-recouvrir le tout par des <ingredient quantite=1>fraises</ingredient> -répartir le <ingredient quantite=1>chocolat</ingredient> sur la salade</operation>. -enfin arrosé la salade par le jus d’ un <ingredient quantite=1>citron</ingredient>. mangez votre salade tout de suite. ne pas mettre au frigo ou le <ingredient quantite=1>chocolat</ingredient> va <operation temps=6.86min espace=8>durcir</operation>. une recette facile et rapide qui change de la salade de fruit classique. bon appetit si vous <operation temps=6.86min espace=8>avez des remarques n’</operation> hésitez pas a me les envoyer par mail sans vin, mais avec un verre de jus d’ orange
+]]>
+ </preparation>
+</recette>

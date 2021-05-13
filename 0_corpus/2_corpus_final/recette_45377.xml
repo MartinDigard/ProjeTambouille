@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45377">
+ <titre>Tarte chèvre et laitue</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>200 g de farine</p>
+ <p>100 g de beurre</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>5 cl de lait</p>
+ <p>Pour la garniture: </p>
+ <p>2 ou 3 salades (laitue, scarole...) </p>
+ <p>margarine ou beurre</p>
+ <p>6-8 petits chèvres frais</p>
+ <p>2 oeufs</p>
+ <p>20 cl de crème liquide</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire la <ingredient quantite=1>pâte</ingredient> au robot ou en</operation> pétrissant à la main et la <operation temps=6.86min espace=14>laisser refroidir au frigidaire</operation>. laver les <ingredient quantite=2>salades</ingredient> et les égoutter. hacher la <ingredient quantite=1>salade</ingredient> (on peut le <operation temps=6.86min espace=14>faire au robot) et la</operation> <operation temps=6.86min espace=14>faire revenir dans une grande <recipient>casserole</recipient> (attention ça</operation> réduit énormément) avec de la margarine ou de l’ huile d’ olive ou du beurre. quand elle est bien cuite la <operation temps=6.86min espace=14>laisser refroidir et y la</operation> mélanger avec le mélange <ingredient quantite=1>crème</ingredient> / <ingredient quantite=1>oeufs</ingredient>. etaler la <ingredient quantite=1>pâte</ingredient> sur un <recipient>plat</recipient> à tarte sur du papier sulfurisé et y disposer le mélange salade cuite / <ingredient quantite=1>crème</ingredient> / <ingredient quantite=1>oeufs</ingredient>. disposer le <ingredient quantite=1>petits chèvres</ingredient> dessus entiers ou emiettés. enfourner à 200 ° c (thermostat 6 - 7) pendant environ 30 min. cette recette est très économique si on la fait en saison, elle permet de <operation temps=6.86min espace=14>finir les <ingredient quantite=2>salades</ingredient></operation> restée un peu longtemps au frigidaire. pour aller plus vite vous pouvez utiliser une <ingredient quantite=1>pâte</ingredient> feuilletée du commerce.
+]]>
+ </preparation>
+</recette>

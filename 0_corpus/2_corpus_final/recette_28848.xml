@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28848">
+ <titre>Cocotte de foies de volaille, échalotes et moutarde</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 foies de volailles</p>
+ <p>3 échalotes</p>
+ <p>2 grosses cuillères à soupe de moutarde</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>beurre</p>
+ <p>4 épices</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites chauffer un bon morceau de beurre dans une <recipient>cocotte</recipient> - minute</operation>. <operation temps=6.86min espace=9>faites - y</operation> dorer les <ingredient quantite=8>foies</ingredient> avec les <ingredient quantite=3>échalotes</ingredient> hachées. <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation> et ajoutez la <ingredient quantite=2>moutarde</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et une pincée de 4 <ingredient quantite=4>épices</ingredient>. <operation temps=6.86min espace=9>fermez la <recipient>cocotte</recipient></operation> et <operation temps=5.0min espace=9>laissez cuire 5 min dès le chuchotement de la soupape</operation>. <operation temps=6.86min espace=9>servez avec une salade et du pain grillé</operation>.
+]]>
+ </preparation>
+</recette>

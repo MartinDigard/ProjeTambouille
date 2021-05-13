@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86649">
+ <titre>Raclette à la poêle</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit oignon</p>
+ <p>1 gousse d’ ail </p>
+ <p>800 g de pommes de terre coupées en carré prêtes à cuire </p>
+ <p>7 à 8 tranches de fromage à raclette</p>
+ <p>1 saucisse fumée pré-cuite</p>
+ <p>5 g de beurre</p>
+ <p>sel, poivre</p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient> bien chaude, <operation temps=1.0min espace=9>faire fondre le beurre</operation>, ajouter l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient> émincés ainsi que la <ingredient quantite=1>saucisse</ingredient> détaillée en menus morceaux. <operation temps=6.86min espace=9>faire dorer légèrement</operation> l’ ensemble, ajouter les <ingredient quantite=1>pommes de terre</ingredient> environ 25 min (cuisson variable suivant les goûts), ajouter les <ingredient quantite=1>herbes</ingredient> à votre convenance... <operation temps=45.0min espace=9>laisser mijoter</operation> puis ajouter le <ingredient quantite=7>fromage</ingredient> et <operation temps=6.86min espace=9>couvrir, jusqu’ à ce que le <ingredient quantite=7>fromage</ingredient> soit</operation> fondu. <operation temps=2.0min espace=9>servir avec une salade verte</operation>. bon appétit! la <ingredient quantite=1>saucisse</ingredient> peut être remplacée par du jambon, du poulet... mais avec un goût <ingredient quantite=1>fumé</ingredient>.
+]]>
+ </preparation>
+</recette>

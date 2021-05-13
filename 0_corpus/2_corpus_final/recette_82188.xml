@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82188">
+ <titre>Brownie aux amandes concassées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>400 g de sucre en poudre</p>
+ <p>4 œufs</p>
+ <p>150 g de chocolat noir</p>
+ <p>1 pincée de sel</p>
+ <p>70 g d’ amandes concassées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, <operation temps=5.0min espace=10>mélangez</operation> le <ingredient quantite=1>sucre</ingredient>, le beurre fondu et le <ingredient quantite=1>chocolat</ingredient> fondu</operation>. <operation temps=3.0min espace=10>ajoutez les</operation> <ingredient quantite=4>œufs</ingredient>, <operation temps=8.0min espace=10>mélangez bien</operation> et <operation temps=6.86min espace=10>versez la farine petit à petit</operation>. une fois la pâte lisse, versez les <ingredient quantite=1>amandes concassées</ingredient> et <operation temps=5.0min espace=10>mélangez</operation>. <operation temps=6.86min espace=10>faites cuire au <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). <operation temps=6.86min espace=10>pensez à</operation> <operation temps=6.86min espace=10>vérifiez la cuisson du brownie avec un couteau</operation>. si vous l’ aimez bien fondant, <operation temps=6.86min espace=10>retirez - le du <recipient>four</recipient>, un peu avant la fin de la cuisson</operation>.
+]]>
+ </preparation>
+</recette>

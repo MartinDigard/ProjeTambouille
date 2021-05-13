@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48819">
+ <titre>Verrines framboise crip’ s</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 plaque de chocolat blanc</p>
+ <p>100 g de framboises surgelées ou fraîches</p>
+ <p>4 crêpes dentelles</p>
+ <p>le jus d’ 1/2 citron vert</p>
+ <p>menthe fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre 4 <ingredient quantite=1>framboises</ingredient> entières de côté (après les avoir décongelées, si vous utilisez des <ingredient quantite=1>framboises</ingredient> surgelées). ecraser les autres à la fourchette, et les mélanger au <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron vert</ingredient>. dans un bol, émietter les <ingredient quantite=4>crêpes</ingredient> et couper en carré le <ingredient quantite=1>chocolat blanc</ingredient>. au moment de <operation temps=2.0min espace=5>servir</operation>, faire fondre le bol de <ingredient quantite=1>chocolat blanc</ingredient> / <ingredient quantite=4>crêpes</ingredient>, 3 à 4 min au micro-ondes. mélanger et <operation temps=6.86min espace=5>remplir la moitié de la verrine de ce mélange,</operation> puis <operation temps=6.86min espace=5>couvrir du mélange <ingredient quantite=1>framboises</ingredient> / <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=5>garnir d’ une <ingredient quantite=1>framboise</ingredient> et d’ une feuille de</operation> <ingredient quantite=1>menthe</ingredient> et <operation temps=6.86min espace=5>servir immédiatement, lorsque le <ingredient quantite=1>chocolat</ingredient> est encore</operation> chaud.
+]]>
+ </preparation>
+</recette>

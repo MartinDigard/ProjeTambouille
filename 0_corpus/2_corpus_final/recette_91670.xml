@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91670">
+ <titre>Poulet coco au barbecue</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 filets de poulet</p>
+ <p>20 cl de crème de coco</p>
+ <p>1 citron vert</p>
+ <p>2 cuil. à soupe de cacahuètes nature</p>
+ <p>1 botte de coriandre</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer ensemble la <ingredient quantite=1>crème de coco</ingredient>, les <ingredient quantite=2>cacahuètes</ingredient> et la <ingredient quantite=1>coriandre</ingredient>. ajouter le zeste de <ingredient quantite=1>citron vert</ingredient>, saler poivrer. couper les <ingredient quantite=3>filets de poulet</ingredient> en trois dans la longueur. les disposer sur des brochettes. napper avec la marinade. garder 2 heures au frais avant de <operation temps=5.0min espace=6>faire cuire 5 min</operation>
+]]>
+ </preparation>
+</recette>

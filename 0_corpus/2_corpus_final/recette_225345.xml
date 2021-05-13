@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225345">
+ <titre>Hachis parmentier de ma maman</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes de terre </p>
+ <p>100 g de beurre </p>
+ <p>50 cl de lait </p>
+ <p>900 g de bœuf haché </p>
+ <p>1 gousse d’ ail </p>
+ <p>1 bouquet de persil </p>
+ <p>sel, poivre </p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient quantite=1>pommes de terre</ingredient> dans de l’ eau salée ou à la vapeur. si vous utilisez une <recipient>cocotte</recipient> - minute, la cuisson sera plus rapide et ne prendra que 20 minutes. ecrasez les <ingredient quantite=1>pommes de terre</ingredient> au presse - purée. dans une <recipient>casserole</recipient> sur feu doux, ajoutez aux <ingredient quantite=1>pommes de terre</ingredient> écrasées le beurre, le lait et le <ingredient quantite=1>sel</ingredient>. <operation temps=5.0min espace=14>mélangez</operation> vigoureusement pour <operation temps=6.86min espace=14>obtenir une texture bien onctueuse</operation>. <operation temps=0.5min espace=14>réservez</operation>. <operation temps=6.86min espace=14>préparez la viande</operation>: <operation temps=6.86min espace=14>faites revenir à la</operation> <recipient>poêle</recipient> la viande hachée dans un peu d’ huile. <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation> et <operation temps=6.86min espace=14>ajoutez une persillade</operation>. <operation temps=6.86min espace=14>beurrez un grand <recipient>plat</recipient> à gratin</operation>. <operation temps=6.86min espace=14>disposez une première couche de purée au fond du <recipient>plat</recipient></operation>. <operation temps=6.86min espace=14>ajoutez la viande</operation> et <operation temps=6.86min espace=14>finissez par une seconde couche de purée</operation>. <operation temps=6.86min espace=14>saupoudrez d’ un peu de <ingredient quantite=1>chapelure</ingredient> et parsemez le dessus du hachis</operation> parmentier de petites noisettes de beurre (pour <operation temps=6.86min espace=14>obtenir une croûte bien croustillante</operation>). <operation temps=15.0min espace=14>faites gratiner environ 15 minutes dans le <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6</operation>). <operation temps=2.0min espace=14>servez bien chaud</operation>. simple comme bonjour. les enfants en raffolent autant que moi.
+]]>
+ </preparation>
+</recette>

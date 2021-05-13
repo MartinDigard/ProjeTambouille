@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56103">
+ <titre>Farfalles aux aubergines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pâtes "farfalle"</p>
+ <p>2 aubergines</p>
+ <p>4 cuillerées à soupe d’ huile d’ olive</p>
+ <p>basilic et 2 pincés de coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez, <operation temps=3.0min espace=6>pelez</operation> et <operation temps=6.86min espace=6>coupez les <ingredient quantite=2>aubergines</ingredient> en cubes</operation>. les <operation temps=5.0min espace=6>faire revenir pendant 5 min dans une <recipient>sauteuse</recipient> avec l’ huile</operation>, <operation temps=6.86min espace=6>ajoutez la</operation> <ingredient quantite=1>coriandre</ingredient>, <operation temps=0.25min espace=6>salez</operation>, <operation temps=0.5min espace=6>poivrez</operation> et <operation temps=20.0min espace=6>faites cuire à couvert à feu doux pendant 20 min</operation>. <operation temps=6.86min espace=6>faites cuire les <ingredient quantite=1>pâtes</ingredient> " al dente</operation> ". les mettre avec les <ingredient quantite=2>aubergines</ingredient> dans la <recipient>sauteuse</recipient> pendant 5 min. on peut remplacer la <ingredient quantite=1>coriandre</ingredient> par des herbes de provence et c’ est aussi bon!!!
+]]>
+ </preparation>
+</recette>

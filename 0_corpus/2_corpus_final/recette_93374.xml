@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93374">
+ <titre>Pizza lardons, chèvre et miel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza </p>
+ <p>6 cuillères à soupe de purée de tomate</p>
+ <p>150g de lardons nature</p>
+ <p>100g de chèvre frais</p>
+ <p>3 cuillères à soupe de miel</p>
+ <p>50 g de fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> thermostat 200 ° pendant 10 minutes. dérouler la pâte à <ingredient quantite=1>pizza</ingredient> sur une plaque. etaler la <ingredient quantite=6>purée de tomate</ingredient> sur la pâte à <ingredient quantite=1>pizza</ingredient>. disposer les <ingredient quantite=1>lardons</ingredient>, le <ingredient quantite=1>chèvre</ingredient> coupé en petit morceaux, le <ingredient quantite=3>miel</ingredient> et enfin l’ emmantal <ingredient quantite=1>râpé</ingredient>. mettre au <recipient>four</recipient> pendant 20 minutes.
+]]>
+ </preparation>
+</recette>

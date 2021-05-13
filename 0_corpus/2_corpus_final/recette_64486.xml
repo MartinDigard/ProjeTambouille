@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64486">
+ <titre>Poulet sauté au homard</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet d’ 1, 2 kg</p>
+ <p>1 homard de 1 kg environ</p>
+ <p>250 g de chorizo</p>
+ <p>250 g de jambon blanc</p>
+ <p>300 g de riz</p>
+ <p>3 tomates</p>
+ <p>1 poivron vert</p>
+ <p>100 g de petit pois surgelés (facultatif) </p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 branches de thym</p>
+ <p>1 pincée de safran</p>
+ <p>1 pincée de poivre de cayenne</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>1 tablette de bouillon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer un litre de <ingredient quantite=1>bouillon</ingredient>. laver le <ingredient quantite=1>poivron vert</ingredient>, ôter le pédoncule et les graines et les couper en <ingredient quantite=1>petits</ingredient> cubes. découper le <ingredient quantite=1>jambon</ingredient> en dés. ebouillanter les <ingredient quantite=3>tomates</ingredient>, les peler et les découper en dés de 1 cm environ. verser l’ <ingredient quantite=3>huile</ingredient> dans une <recipient>marmite</recipient> (ou une <recipient>sauteuse</recipient>), <operation temps=15.0min espace=21>faire chauffer</operation> et mettre le <ingredient quantite=1>poulet</ingredient> découpé en 8 morceaux, à dorer sur toutes les faces. oter les morceaux de <ingredient quantite=1>poulet</ingredient> dorés de la <recipient>marmite</recipient> et mettre le <ingredient quantite=1>riz</ingredient> à la place. <operation temps=6.86min espace=21>laisser revenir quelques minutes avant d’</operation> ajouter successivement les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> hachés, le <ingredient quantite=1>poivron vert</ingredient>, les <ingredient quantite=3>tomates</ingredient> et le <ingredient quantite=1>jambon</ingredient>. assaisonner du <ingredient quantite=1>poivre de cayenne</ingredient>, du <ingredient quantite=1>safran</ingredient> et du <ingredient quantite=2>thym</ingredient> effeuillé. saler et poivrer. verser la moitié du <ingredient quantite=1>bouillon</ingredient> sur le <ingredient quantite=1>riz</ingredient>. remettre le <ingredient quantite=1>poulet</ingredient> dans la <recipient>marmite</recipient> et, dès ébulliton, <operation temps=45.0min espace=21>laisser mijoter 45 min</operation>. remuer de temps en temps et rajouter le reste de <ingredient quantite=1>bouillon</ingredient> au fur et à mesure que le <ingredient quantite=1>riz</ingredient> l’ absorbe. plonger le homard dans une grande <recipient>marmite</recipient> d’ eau bouillante salée. le <operation temps=10.0min espace=21>laisser cuire 10 min</operation>. l’ égoutter et le décortiquer. couper la queue en tranches régulières. casser les pinces et enlever la chair. 10 min avant la fin de la cuisson du <ingredient quantite=1>poulet</ingredient>, ajouter le homard, le <ingredient quantite=1>chorizo</ingredient> coupé en rondelles et les <ingredient quantite=1>petits pois</ingredient>. servir bien chaud. vous pouvez remplacer le homard par des gambas.
+]]>
+ </preparation>
+</recette>

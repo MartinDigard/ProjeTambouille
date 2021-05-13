@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165596">
+ <titre>Haricots verts facon menestra</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de pois écossés</p>
+ <p>100 g de fèves</p>
+ <p>400 g de haricots verts</p>
+ <p>100 g de jambon fumé épais (0, 5 cm) </p>
+ <p>Huile, sel, poivre</p>
+ <p>2 tomates</p>
+ <p>4 c. à s. de bouillon de volaille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=7>faire cuire les légumes à la vapeur</operation> peler les <ingredient quantite=1>fèves</ingredient> plonger les <ingredient quantite=2>tomates</ingredient> dans l’ eau bouillante, les peler, les épépiner et les couper en dés couper le <ingredient quantite=1>jambon</ingredient> en petits dés mettre l’ huile à chauffer et <operation temps=6.86min espace=7>faire revenir les dés de <ingredient quantite=1>jambon</ingredient> y</operation> ajouter les légumes puis les dés de <ingredient quantite=2>tomates</ingredient> avec le <ingredient quantite=4>bouillon de volaille</ingredient> assaisonner <operation temps=8.0min espace=7>laisser cuire 8 mn sans couvercle</operation>.
+]]>
+ </preparation>
+</recette>

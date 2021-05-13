@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22640">
+ <titre>Coquillettes à la méditerranéenne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de coquillettes</p>
+ <p>1 boîte de thon à l’ huile</p>
+ <p>2 oeufs durs</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire cuire les pâte, les</operation> égoutter et les mettre dans un <recipient>saladier</recipient>. ajouter le <ingredient quantite=1>thon</ingredient> avec son <ingredient quantite=1>huile</ingredient>, les <ingredient quantite=2>oeufs durs</ingredient> coupés en quartiers et le jus de <ingredient quantite=1>citron</ingredient>. bien mélanger. servir froid ou tiède. vous pouvez ajouter une vingtaine d’ olives noires dénoyautées et les incorporer en même temps que le <ingredient quantite=1>thon</ingredient>. très rapide, c’ est un <recipient>plat</recipient> pour tous les jours.
+]]>
+ </preparation>
+</recette>

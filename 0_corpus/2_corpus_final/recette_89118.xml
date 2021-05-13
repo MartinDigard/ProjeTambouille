@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89118">
+ <titre>Gratin de poire simple</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 poires</p>
+ <p>200 g de sucre en poudre (dont 100g pour le sirop) </p>
+ <p>10 cl de crème fraîche</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>50 g de poudre d’ amande</p>
+ <p>le zeste râpé d’ 1/2 orange (bio!) </p>
+ <p>quelques gouttes de vanille</p>
+ <p>un peu de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire un sirop avec 100 g de <ingredient quantite=1>sucre</ingredient> et 25 cl d’ eau</operation>. eplucher les <ingredient quantite=6>poires</ingredient>, les cuire dans le sirop (le <ingredient quantite=1>sucre</ingredient> doit être dissout dans l’ eau) pendant 5 à 10 min. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). mettre les <ingredient quantite=6>poires</ingredient> dans un <recipient>plat</recipient> beurré allant au <recipient>four</recipient>. mélanger les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>zeste</ingredient> d’ orange, la <ingredient quantite=1>crème</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> et la <ingredient quantite=1>vanille</ingredient>. verser dans le <recipient>moule</recipient> sur les <ingredient quantite=6>poires</ingredient>. parsemer de quelques lamelles de <ingredient quantite=1>beurre</ingredient> (selon vos préférences) puis passer au <recipient>four</recipient> 30 min pour <operation temps=6.86min espace=13>laisser gratiner</operation>. servir tiède!
+]]>
+ </preparation>
+</recette>

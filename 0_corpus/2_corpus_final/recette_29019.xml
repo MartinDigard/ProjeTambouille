@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29019">
+ <titre>Choco crème menthe</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat à pâtisserie</p>
+ <p>40 cl de crème liquide (dont 20 cl de crème très froide) </p>
+ <p>10 feuilles de menthe sauvage</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 moule à cake</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une petite <recipient>casserole</recipient>, portez à ébullition la moitié de la <ingredient quantite=1>crème liquide</ingredient> avec les <ingredient quantite=1>feuilles de menthe</ingredient>. hors du feu, <operation temps=6.86min espace=12>couvrez la <recipient>casserole</recipient></operation> et <operation temps=5.0min espace=12>laissez infuser 5 mn</operation> puis retirez les <ingredient quantite=1>feuilles de menthe</ingredient>. versez la <ingredient quantite=1>crème liquide</ingredient> dans un <recipient>saladier</recipient> contenant le <ingredient quantite=1>chocolat</ingredient> cassé en morceaux. couvrez, <operation temps=6.86min espace=12>patientez quelques minutes,</operation> puis <operation temps=6.86min espace=12>mélangez vivement à la fourchette pour</operation> <operation temps=6.86min espace=12>obtenir un <ingredient quantite=1>chocolat</ingredient> lisse</operation>. montez en chantilly la <ingredient quantite=1>crème liquide</ingredient> bien froide en incorporant le <ingredient quantite=1>sucre vanillé</ingredient> en cours d’ opération. <operation temps=5.0min espace=12>mélangez</operation> délicatement la <ingredient quantite=1>crème</ingredient> chantilly au <ingredient quantite=1>chocolat</ingredient>. <operation temps=6.86min espace=12>versez cette préparation dans un <recipient>moule</recipient> à <ingredient quantite=1>cake</ingredient></operation>. <operation temps=6.86min espace=12>recouvrez d’ un film transparent et placez au <recipient>réfrigérateur</recipient> 3 h minimun</operation>. au moment de <operation temps=2.0min espace=12>servir</operation>, <operation temps=6.86min espace=12>démoulez votre dessert</operation>: <operation temps=6.86min espace=12>plongez le <recipient>moule</recipient>, quelque minutes dans de l’ eau chaude, puis retournez - le sur un <recipient>plat</recipient>, il se</operation> démoulera plus facilement.
+]]>
+ </preparation>
+</recette>

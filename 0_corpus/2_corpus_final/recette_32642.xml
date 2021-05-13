@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32642">
+ <titre>Salade ardèchoise</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de haricots verts cuits à la vapeur</p>
+ <p>3 pommes de terre moyennes cuite à l’ eau, pelées</p>
+ <p>1 talon de jambon</p>
+ <p>12 châtaignes cuites à l’ eau ou au four, pelées</p>
+ <p>huile d’ olive</p>
+ <p>moutarde à l’ ancienne</p>
+ <p>vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>haricots</ingredient> et les <ingredient quantite=3>pommes de terres</ingredient> en morceaux. couper le <ingredient quantite=1>jambon</ingredient> en cubes. mettre tous les ingrédients dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=8>faire une vinaigrette</operation>. c’ est prêt. bon apétit!
+]]>
+ </preparation>
+</recette>

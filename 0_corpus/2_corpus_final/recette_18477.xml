@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18477">
+ <titre>Oeuf à la thaïlandaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de riz</p>
+ <p>75 g de crevettes roses</p>
+ <p>75 g de petits pois en boîte</p>
+ <p>sel, poivre</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites cuire le <ingredient quantite=1>riz</ingredient> dans une bonne quantité d’ eau légèrement</operation> salée. <operation temps=6.86min espace=9>faites revenir les <ingredient quantite=1>crevettes</ingredient> dans un peu de beurre et les</operation> mélanger aux <ingredient quantite=1>petits pois</ingredient>. <operation temps=0.5min espace=9>réservez au chaud</operation>. lorsque le <ingredient quantite=1>riz</ingredient> est cuit, <operation temps=6.86min espace=9>égouttez - le et passez - le rapidement sous l’ eau</operation> froide. <operation temps=6.86min espace=9>beurrez deux <ingredient quantite=1>petites</ingredient> <recipient>poêle</recipient> individuelles</operation> et <operation temps=6.86min espace=9>faites frire dans chacune un <ingredient quantite=1>oeuf</ingredient> sur le <recipient>plat</recipient></operation>. <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation>. pendant la cuisson des <ingredient quantite=2>oeufs</ingredient> <operation temps=6.86min espace=9>mélangez rapidement le <ingredient quantite=1>riz</ingredient> avec le mélange</operation> crevettes - <ingredient quantite=1>petits pois</ingredient>, en <operation temps=6.86min espace=9>garnir deux assiettes</operation> et <operation temps=6.86min espace=9>déposez</operation> délicatement un <ingredient quantite=1>oeuf</ingredient> sur le <recipient>plat</recipient> sur cet appareil. <operation temps=2.0min espace=9>servez aussitôt</operation>. c’ est un <ingredient quantite=1>petit</ingredient> <recipient>plat</recipient> typique et simple que j’ ai eu l’ occasion de <operation temps=6.86min espace=9>découvrir en thaïlande mais je n</operation>’ en connais malheureusement pas le nom exact.
+]]>
+ </preparation>
+</recette>

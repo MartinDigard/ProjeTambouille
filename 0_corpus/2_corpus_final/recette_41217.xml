@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41217">
+ <titre>Cougnoux (brioche de noël belge) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>200 g de raisin</p>
+ <p>100 g de beurre</p>
+ <p>25 cl de lait</p>
+ <p>65 g de sucre</p>
+ <p>20 g de levure</p>
+ <p>2 oeufs</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>délayez la <ingredient quantite=1>levure</ingredient> dans un peu de <ingredient quantite=1>lait</ingredient> tiédi</operation>. <operation temps=6.86min espace=10>faites fondre le beurre dans le reste de lait</operation>. dans une <recipient>terrine</recipient>, <operation temps=6.86min espace=10>mélangez <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>sucre</ingredient> et <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=10>creusez un puits dans lequel vous</operation> <operation temps=6.86min espace=10>verserez le lait beurré, la <ingredient quantite=1>levure</ingredient>, puis les <ingredient quantite=1>raisins</ingredient></operation>. <operation temps=6.86min espace=10>travaillez le mélange</operation>. <operation temps=6.86min espace=10>laissez reposer 2 ou 3 heures</operation>. pétrissez en forme d’ enfant emmailloté. <operation temps=30.0min espace=10>faites cuire au <recipient>four</recipient> chaud (180 ° c - thermostat 6) 30 min</operation>. n. b: ces gâteaux sont confectionnés pour noël dans toute la flandre, leur forme rappelle la naissance de l’ enfant jésus.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23620">
+ <titre>Gratin de courgettes au jambon et à la ricotta</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 courgette (ou 2 petites) </p>
+ <p>2 pommes de terre</p>
+ <p>2 tranche de jambon de parme</p>
+ <p>250 g de Ricotta </p>
+ <p>20 cl de crème liquide</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>facultatif: parmesan</p>
+ <p>facultatif: muscade</p>
+ <p>facultatif: ail </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>courgette</ingredient> en <ingredient quantite=2>tranches</ingredient> fines, les <ingredient quantite=2>pommes de terre</ingredient> en cube (après les avoir fait <operation temps=6.86min espace=14>bouillir quelques minutes), et le <ingredient quantite=2>jambon</ingredient> en petits morceaux</operation>. beurrer légèrement le fond de votre <recipient>plat</recipient> à gratin. y déposer <ingredient quantite=1>courgette</ingredient>, <ingredient quantite=2>pommes de terre</ingredient> et <ingredient quantite=2>jambon</ingredient>. dans un <recipient>saladier</recipient>, mélanger la ricotta, la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> ainsi qu’ une noix de <ingredient quantite=1>muscade</ingredient> et un peu d’ <ingredient quantite=1>ail</ingredient>. saler et poivrer. verser sur le <recipient>plat</recipient> et mélanger le tout. saupoudrer de <ingredient quantite=2>parmesan</ingredient> et de <ingredient quantite=1>muscade</ingredient>. passer au <recipient>four</recipient> environ 40 min à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

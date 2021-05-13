@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65708">
+ <titre>Bisque de homard maison</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>500 g de caracasses de homard (têtes, pinces, pattes, anneaux, queue) </p>
+ <p>1 blanc de poireau</p>
+ <p>1 oignon</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>80 g de farine</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 l de fumet de poisson</p>
+ <p>40 cl de vin blanc sec</p>
+ <p>10 cl de Pineau des Charentes</p>
+ <p>piment d’ espelette et bouquet garni</p>
+ <p>huile d’ olive, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>concassez les carcasses de</operation> <ingredient quantite=1>homards</ingredient> et <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir avec de l’ huile d’ <ingredient quantite=1>olive</ingredient> pendant 5 bonnes minutes à feu vif</operation>. rajoutez le <ingredient quantite=1>blanc de poireau</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> émincés et <operation temps=6.86min espace=12>faites revenir 5 bonnes minutes de plus</operation>. <operation temps=6.86min espace=12>saupoudrez avec la farine puis mélangez</operation>. mouillez aussitôt avec le <ingredient quantite=1>fumet de poisson</ingredient>, le <ingredient quantite=1>vin blanc</ingredient> et le <ingredient quantite=1>pineau</ingredient>. <operation temps=6.86min espace=12>rajoutez les <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient></operation> pressées, le <ingredient quantite=1>concentré de tomate</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, le <ingredient quantite=1>piment</ingredient> d’ <ingredient quantite=1>espelette</ingredient> (à doser en fonction des goûts). <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation>, <operation temps=6.86min espace=12>mélangez bien le tout</operation> et <operation temps=6.86min espace=12>laissez mijoter une bonne demi heure sur feu doux (remuez à mi cuisson</operation>). <operation temps=6.86min espace=12>passez ensuite dans une <recipient>passoire</recipient> en</operation> pressant bien sur les légumes et carcasses. <operation temps=2.0min espace=12>servez aussitôt</operation>. recette idéale pour utiliser les carcasses après avoir fait une recette à base de chair de <ingredient quantite=1>homard</ingredient>.
+]]>
+ </preparation>
+</recette>

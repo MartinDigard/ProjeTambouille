@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164736">
+ <titre>Pâtés soufflés</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125g de farine</p>
+ <p>75g de beurre</p>
+ <p>125g de crème fraîche</p>
+ <p>100g de chair à saucisses</p>
+ <p>3 oeufs</p>
+ <p>5g de levure de pain (fraîche de préférence) </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire fondre le beurre au <recipient>bain marie</recipient> (ou micro-ondes</operation>) ajouter ensuite peu à peu <ingredient quantite=1>farine</ingredient>, jaunes d’ <ingredient quantite=3>oeufs</ingredient> et <ingredient quantite=1>sel</ingredient>. bien travailler le mélange et y verser ensuite la <ingredient quantite=1>crème</ingredient>, la <ingredient quantite=1>levure</ingredient> et les blancs d’ oeufs montés en neige. <operation temps=15.0min espace=8>laisser reposer 15 min</operation> beurrer les moules et y verser une cuillère de la préparation. placer une noix de farce et <operation temps=6.86min espace=8>recouvrir de pâte</operation>. ne <operation temps=6.86min espace=8>remplir les moules qu’ aux 3/4 car la préparation</operation> gonfle en cuisant. enfourner environ 30 min à 180 - 210 ° c (thermostat 6 - 7) démouler et servir chaud. vous pouvez remplacer la farce par du fromage fondu, du saumon..... <operation temps=6.86min espace=8>accompagnez de salade pour un repas simple et délicieux</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52130">
+ <titre>Poulet mariné au curcuma</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>6 cuillères à soupe de sauce soja</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de vinaigre balsamique</p>
+ <p>1 cuillère à soupe de curcuma</p>
+ <p>2 gousses d’ ail dégermées et hachées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la marinade dans un <recipient>plat</recipient> pouvant <operation temps=6.86min espace=9>accueillir le <ingredient quantite=4>poulet</ingredient></operation>. mélanger la <ingredient quantite=6>sauce</ingredient> de soja, l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>, le <ingredient quantite=2>vinaigre balsamique</ingredient>, le curcuma et l’ <ingredient quantite=2>ail</ingredient>. couper le <ingredient quantite=4>poulet</ingredient> en fines lamelles. le mettre dans le <recipient>plat</recipient> où il y a la marinade. bien mélanger. <operation temps=6.86min espace=9>laisser mariner environ 2h</operation>. <operation temps=6.86min espace=9>faire cuire le <ingredient quantite=4>poulet</ingredient> dans une <recipient>poêle</recipient> anti-adhésive sans</operation> rajouter de matières grasses. <operation temps=6.86min espace=9>servir avec par exemple, une julienne de légumes</operation> accomodée de <ingredient quantite=6>sauce soja</ingredient>. si vous <operation temps=6.86min espace=9>mélangez le <ingredient quantite=4>poulet</ingredient> et la marinade avec les mains</operation>, mettre des gants car le <ingredient quantite=1>curcuma</ingredient> " tâche "!
+]]>
+ </preparation>
+</recette>

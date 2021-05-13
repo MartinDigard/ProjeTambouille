@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11010">
+ <titre>Cookies aux pépites de chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80 g de beurre mou</p>
+ <p>125 g de sucre fin </p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>1 oeuf</p>
+ <p>150 g de farine</p>
+ <p>100 g de chocolat</p>
+ <p>1 cuillère à soupe de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettez le <ingredient quantite=1>beurre mou</ingredient> dans une <recipient>terrine</recipient>. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=1>sucres</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=1>oeuf</ingredient>,</operation> puis <operation temps=6.86min espace=10>incorporez la farine, les pépites de <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=1>lait</ingredient></operation>. <operation temps=5.0min espace=10>mélangez</operation>. a l’ aide d’ une <ingredient quantite=1>cuillère</ingredient> à café, <operation temps=6.86min espace=10>déposez les boules de pâte assez</operation> espacées sur une plaque ou un <recipient>plat</recipient>, puis <operation temps=15.0min espace=10>mettez au <recipient>four</recipient> pendant 10 à 15 min à thermostat 6 (180 ° c</operation>). <operation temps=5.0min espace=10>dégustez</operation> tiède ou froid.
+]]>
+ </preparation>
+</recette>

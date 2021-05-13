@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166198">
+ <titre>Ma tartiflette revisitée</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes de terre moyenne</p>
+ <p>50 g de lardons</p>
+ <p>1/2 oignon</p>
+ <p>10 cl crème liquide</p>
+ <p>50 g de reblochon (sans la croûte) </p>
+ <p>2 feuille de gélatine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient quantite=4>pommes de terre</ingredient> dans de l’ eau salée. <operation temps=6.86min espace=9>faites revenir l’</operation> <ingredient quantite=1>oignon</ingredient>, ajoutez et les <ingredient quantite=1>lardons</ingredient> puis les <ingredient quantite=4>pommes de terre</ingredient>. <operation temps=5.0min espace=9>faites rissoler 5 minutes</operation> et <operation temps=6.86min espace=9>gardez au chaud</operation>. <operation temps=6.86min espace=9>faites tremper la <ingredient quantite=2>gélatine</ingredient> dans un bol d’ eau froide</operation>. <operation temps=6.86min espace=9>faites chauffer la crème <ingredient quantite=1>liquide</ingredient> et le <ingredient quantite=1>reblochon</ingredient></operation> coupé en morceaux jusqu’ à ce qu’ il fonde entièrement. <operation temps=6.86min espace=9>ajoutez la <ingredient quantite=2>gélatine</ingredient> essorée et remuez bien</operation>. <operation temps=6.86min espace=9>passez la crème au <recipient>chinois</recipient> et la</operation> verser dans un siphon. <operation temps=6.86min espace=9>percutez une cartouche de gaz et secouez</operation>. <operation temps=6.86min espace=9>gardez au chaud</operation>. mettez les <ingredient quantite=4>pommes de terre</ingredient> / <ingredient quantite=1>lardons</ingredient> dans un cercle, appuyez fortement pour compacter le tout. <operation temps=6.86min espace=9>ajoutez la crème du siphon par dessus</operation>. bon appetit! les proportions sont pour 2 personnes pour une entrée, <operation temps=6.86min espace=9>multipliez par 2 pour le <recipient>plat</recipient></operation>. si vous n’ avez pas de siphon, mixer la crème au <recipient>mixeur</recipient> plongeant. récupérer " l’ écume " dessus. vin blanc sec
+]]>
+ </preparation>
+</recette>

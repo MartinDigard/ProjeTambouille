@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20567">
+ <titre>Tarte aux pommes et aux figues séchées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pâte feuilletée</p>
+ <p>6 belles pommes, plutôt acides</p>
+ <p>2 cuillères à soupe miel</p>
+ <p>10 figues sèches</p>
+ <p>1 gousse de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=6>pommes</ingredient> et les couper en lamelles grossières. racler les graines de <ingredient quantite=1>vanille</ingredient> et couper la gousse en troncons d’ un cm. couper les <ingredient quantite=1>figues</ingredient> en 4 ou 5 tranches. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=8>faire chauffer le mélange de fruits avec le <ingredient quantite=2>miel</ingredient> en</operation> remuant bien pour que le <ingredient quantite=2>miel</ingredient> et la <ingredient quantite=1>vanille</ingredient> se répartissent uniformément. abaisser la <ingredient quantite=1>pâte</ingredient> feuilletee dans un <recipient><recipient>moule</recipient> à tarte</recipient> et <operation temps=6.86min espace=8>recouvrir du mélange de fruit (on</operation> peut <operation temps=6.86min espace=8>laisser les tronçons de <ingredient quantite=1>vanille</ingredient>, c’ est plus joli</operation>). mettre au <recipient>four</recipient> à 200 ° c jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit dorée (approx. 1/2 heure). servir tiède avec une boule de glace vanille.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52491">
+ <titre>Emincé de lapin à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux</p>
+ <p>1 gros oignon émincé</p>
+ <p>2 pommes rouges</p>
+ <p>2 cuillères à soupe de cassonade</p>
+ <p>150 g de lardons fumés ou natures</p>
+ <p>1/2 litre de bière jenlain blonde</p>
+ <p>huile</p>
+ <p>1 pincée de quatre épices</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> dans un peu d huile au fond d’ une <recipient>cocotte</recipient> (en fonte, c’ est mieux!</operation>). quand la viande est dorée, ajouter l’ <ingredient quantite=1>oignon émincé</ingredient> et les <ingredient quantite=1>lardons</ingredient>, puis <operation temps=6.86min espace=12>laisser blondir le tout</operation>. pendant ce temps, oter le trognon des <ingredient quantite=2>pommes</ingredient> et les détailler en grosses lamelles. ne pas les éplucher pour éviter de se retrouver avec de la compote! les ajouter dans la <recipient>cocotte</recipient> et saupoudrer de <ingredient quantite=2>cassonade</ingredient>, <operation temps=3.0min espace=12>laisser cuire 3 min à découvert</operation>. mouiller avec la <ingredient quantite=1>bière</ingredient>, saler, poivrer ; ajouter le quatre <ingredient quantite=1>épices</ingredient> et <operation temps=45.0min espace=12>laisser mijoter 45 min sur feu moyen</operation>. il est préférable de ne <operation temps=6.86min espace=12>couvrir la <recipient>cocotte</recipient> qu’ à moitié</operation>. bien surveiller la cuisson et rajouter du liquide si besoin (et pourquoi pas du bouillon ?). servir avec des frites!! quand je réalise cette recette avec un <ingredient quantite=1>lapin</ingredient> du supermarché, je ne sale qu’ au dernier moment pour éviter que la viande ne durcisse. on termine la bouteille de <ingredient quantite=1>jenlain</ingredient>!!
+]]>
+ </preparation>
+</recette>

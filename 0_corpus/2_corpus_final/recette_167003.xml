@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167003">
+ <titre>Rouelle de porc franco-espagnole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 belle rouelle de jambon de porc pas trop grasse</p>
+ <p>2 oignons moyens</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 boîte de 400 g de tomates en dés, ou 4 tomates moyennes en saison</p>
+ <p>750 g de carottes</p>
+ <p>750 g de pommes de terre fermes (variété Chérie par exemple) </p>
+ <p>1 c. à soupe de thym émietté</p>
+ <p>1 c. à soupe d’ origan</p>
+ <p>2 c. à soupe de persil</p>
+ <p>1 feuille de laurier</p>
+ <p>1 verre à moutarde de vin blanc sec</p>
+ <p>Sel selon goût (attention la tomate en boîte est déjà salée) </p>
+ <p>1 c. à café rase de piment d’ Espelette (à défaut: du poivre) </p>
+ <p>1 c. à soupe d’ huile d’ olive</p>
+ <p>Facultatif: 500 g de champignons de Paris émincés</p>
+ <p>cocotte-minute (à défaut, multipier le temps de cuisson par 3) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- débarasser la <ingredient quantite=1>rouelle</ingredient> de sa couenne et de l’ excès de graisse (en garder un peu quand même, pour le <ingredient quantite=1>goût</ingredient>) la <operation temps=6.86min espace=18>faire dorer dans l’ <ingredient quantite=1>huile</ingredient> chaude de chaque côté pendant 15 <ingredient quantite=1>mn</ingredient> pendant ce temps</operation>, éplucher et couper les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> en menus morceaux quand la <ingredient quantite=1>rouelle</ingredient> est bien dorée, la retirer et <operation temps=6.86min espace=18>faire fondre les <ingredient quantite=2>oignons</ingredient></operation> ajouter <ingredient quantite=2>ail</ingredient>, <ingredient quantite=1>tomates</ingredient> (coupées en dés si fraîches), herbes, condiments et <ingredient quantite=1>vin blanc</ingredient> dès retour de l’ ébullition, remettre la <ingredient quantite=1>rouelle</ingredient> dans la préparation et <operation temps=6.86min espace=18>laisser cuire à feu moyen-doux 30 <ingredient quantite=1>mn</ingredient> à</operation> <operation temps=6.86min espace=18>partir de la rotation de la soupape pendant ce temps</operation>, éplucher les <ingredient quantite=1>carottes</ingredient> et <ingredient quantite=1>pommes de terre</ingredient>. les tronçonner en gros morceaux. <operation temps=6.86min espace=18>faire tomber la pression de la <recipient>cocotte</recipient> - <ingredient quantite=1>minute</ingredient> sous le robinet d’ eau</operation> froide l’ <operation temps=6.86min espace=18>ouvrir</operation> et ajouter les <ingredient quantite=1>carottes</ingredient> et <ingredient quantite=1>pommes de terre</ingredient> refermer et compter 10 <ingredient quantite=1>mn</ingredient> à feu doux à <operation temps=6.86min espace=18>partir du chuchottement de la soupape</operation> retirer du feu et <operation temps=6.86min espace=18>faire tomber la pression (sinon, les légumes seront <ingredient quantite=1>trop</ingredient> cuits</operation>). facultatif: ajouter les <ingredient quantite=1>champignons émincés</ingredient> préalablement dorés à la poêlece <recipient>plat</recipient> est encore meilleur réchauffé.
+]]>
+ </preparation>
+</recette>

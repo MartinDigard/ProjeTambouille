@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36206">
+ <titre>Crevettes express à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de crevettes</p>
+ <p>5 rondelles d’ ananas au sirop</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+décortiquer les <ingredient quantite=1>crevettes</ingredient>. couper les <ingredient quantite=5>rondelles</ingredient> d’ ananas en morceaux <operation temps=6.86min espace=4>faire chauffer un <recipient>poêle</recipient> et y</operation> <operation temps=7.0min espace=4>faire revenir 7 min les <ingredient quantite=1>crevettes</ingredient> avec l’</operation> ananas sans ajouter de matière grasse. après 5 min de cuisson, ajouter la <ingredient quantite=3>sauce soja</ingredient> et cuire encore 2 à 3 min. <operation temps=2.0min espace=4>servir immédiatement</operation>. vous pouvez égayer l’ assiette avec quelques feuilles de mâche ou de laitue.
+]]>
+ </preparation>
+</recette>

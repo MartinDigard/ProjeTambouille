@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16735">
+ <titre>Tarte forestière</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de pâte brisée </p>
+ <p>250 g de champignons (rosés des prés, chanterelles etc...) </p>
+ <p>20 cl de crème </p>
+ <p>1/2 verre de lait </p>
+ <p>3 œufs </p>
+ <p>sel </p>
+ <p>poivre et persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>champignons</ingredient> nettoyés et lavés dans une <recipient>poêle</recipient> à feu moyen / vif et les <operation temps=6.86min espace=11>laisser suer leur eau</operation>. dans une <recipient>terrine</recipient>, battre les <ingredient quantite=3>œufs</ingredient>, leur ajouter la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>lait</ingredient>, le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=11>garnir un <recipient><recipient>moule</recipient> à tarte</recipient> avec la <ingredient quantite=1>pâte</ingredient>, y</operation> <operation temps=6.86min espace=11>répartir les</operation> <ingredient quantite=1>champignons</ingredient>, napper avec la préparation. mettre à cuire 30 min à <recipient>four</recipient> moyen.
+]]>
+ </preparation>
+</recette>

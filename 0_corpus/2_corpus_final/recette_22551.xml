@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22551">
+ <titre>Tourte au saumon et crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>3 ou 4 petites pommes-de-terre</p>
+ <p>1 grosse darne de saumon</p>
+ <p>1 gros oignon</p>
+ <p>150 g de crevettes roses (grosses) </p>
+ <p>40 cl de crème fraîche semi-épaisse</p>
+ <p>sel, poivre, muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire les pommes de terre (en rondelles) et le poisson à la vapeur</operation>. <operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans un peu d’ huile pour le</operation> caraméliser. etaler un disque de <ingredient quantite=1>pâte</ingredient> feuilletée dans un <recipient>plat</recipient> à tarte, y installer les rondelles de pommes de terre, l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>saumon</ingredient> émietté et les grosses crevettes. saler et poivrer la <ingredient quantite=1>crème fraîche</ingredient>, ajouter un peu de <ingredient quantite=1>muscade</ingredient> et verser sur le tout. <operation temps=6.86min espace=8>recouvrir de l’ autre disque de <ingredient quantite=1>pâte</ingredient> et dorer avec un jaune d’ oeuf</operation>. <operation temps=30.0min espace=8>faire cuire thermostat 6 pendant 30 mn environ, pour que la <ingredient quantite=1>pâte</ingredient> dore bien</operation>. <operation temps=2.0min espace=8>servir avec une salade</operation>.
+]]>
+ </preparation>
+</recette>

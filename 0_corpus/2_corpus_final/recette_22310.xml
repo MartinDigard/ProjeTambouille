@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22310">
+ <titre>Salade d’ endives des quatres saveurs</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 endives (+ ou - 1 par personne, mais tout dépend de leur taille) </p>
+ <p>120 g de fruits secs salés en mélange Pour la sauce: </p>
+ <p>vinaigre</p>
+ <p>sauce soja</p>
+ <p>fromage blanc (ou huile) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlevez les feuilles extérieures des <ingredient quantite=2>endives</ingredient>, <operation temps=6.86min espace=6>taillez leur base en cône pour</operation> diminiuer l’ amertume et <operation temps=6.86min espace=6>coupez - les en morceaux</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=6>mélangez les <ingredient quantite=2>endives</ingredient> et les apérifruits</operation>. préparez une <ingredient quantite=1>sauce</ingredient> bien acide avec beaucoup de <ingredient quantite=1>vinaigre</ingredient> (la version au <ingredient quantite=1>fromage blanc</ingredient> est plus légère, mais chacun ses goûts...) que vous <operation temps=6.86min espace=6>versez sur la salade</operation>. c’ est prêt! les quatres grandes saveurs sont présentes dans cette salade toute simple: amertume des <ingredient quantite=2>endives</ingredient>, sucré - salé des <ingredient quantite=1>fruits secs</ingredient>, acidité de la <ingredient quantite=1>sauce</ingredient> au <ingredient quantite=1>vinaigre</ingredient>.
+]]>
+ </preparation>
+</recette>

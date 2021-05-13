@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59502">
+ <titre>Pâtes fraîches aux courgettes sauce coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de tagliatelles fraîches</p>
+ <p>4 courgettes</p>
+ <p>100 g de lardons alumettes fumés</p>
+ <p>20 cl de lait de coco</p>
+ <p>20 cl de crème fraîche</p>
+ <p>2 oignons</p>
+ <p>huile</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>oignons</ingredient> coupés dans un peu d’</operation> huile dans une <recipient>sauteuse</recipient>. y ajouter les <ingredient quantite=4>courgettes</ingredient> coupées en lamelles fines, avec le poivre. lorsqu’ elles sont dorées, ajouter les <ingredient quantite=1>lardons</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et le lait de <ingredient quantite=1>coco</ingredient>. <operation temps=6.86min espace=9>laisser mijoter jusqu’ à ce que le mélange soit bien chaud</operation>. cuire les pâtes <ingredient quantite=1>fraîches</ingredient> 3 minutes dans l’ eau bouillante salée. lorsqu’ elles sont cuites, les égoutter et les napper de sauce.
+]]>
+ </preparation>
+</recette>

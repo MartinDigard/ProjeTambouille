@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38046">
+ <titre>Galettes thon tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>150 g de farine</p>
+ <p>160 g de thon à l’ huile égoutté</p>
+ <p>250 g de coulis de tomate</p>
+ <p>125 g de flocons d’ avoine</p>
+ <p>100 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients dans un <recipient>saladier</recipient>. dans une <recipient>poêle</recipient> beurrée chaude, étaler des petits tas du mélange en galettes (à peu près la taille de cordons bleus du commerce, ou de steaks hachés), l’ idéal étant d’ avoir une <recipient>poêle</recipient> à blinis. <operation temps=1.0min espace=9>laisser cuire environ 1 minute de chaque côté</operation>. servir chaud, tiède ou froid avec une salade. ces galettes se congèlent très bien! personnellement, je <operation temps=6.86min espace=9>fais souvent la recette en double dose, pour en</operation> congeler une partie, en petits paquets de 2 galettes. après, un coup de micro-ondes et c’ est prêt! ^^
+]]>
+ </preparation>
+</recette>

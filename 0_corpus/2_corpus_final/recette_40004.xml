@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40004">
+ <titre>Salade de riz sucré-salé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 sachets de riz long (250 g) </p>
+ <p>250 g de lardons (1 barquette) </p>
+ <p>125 g de maïs (1 petite boîte) </p>
+ <p>125 g de petits-pois (1 petite boîte) </p>
+ <p>1 pomme </p>
+ <p>250 g de gouda ou d’ emmenthal</p>
+ <p>6 tranches d’ ananas (1 petite boîte) </p>
+ <p>1 échalote</p>
+ <p>3 cuillères à soupe de persil haché</p>
+ <p>8 bonne cuillères à soupe de mayonnaise</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire cuire le <ingredient quantite=2>riz</ingredient></operation>. pendant ce temps, couper les ananas, le <ingredient quantite=1>gouda</ingredient>, et la <ingredient quantite=1>pomme</ingredient> en morceaux (cube de 1 cm). trancher l’ <ingredient quantite=1>échalote</ingredient> en demi-tranches de 3 mm, et réserver au frais. cuire les <ingredient quantite=1>lardons</ingredient>, légèrement croustillants, dans une <recipient>poêle</recipient> anti-adhésive, sans matières grasses, à feux moyen. oter le jus et réserver. une fois le <ingredient quantite=2>riz</ingredient> cuit, le passer sous l’ eau froide, ou le <operation temps=6.86min espace=12>faire refroidir</operation>. ensuite, ajouter: <ingredient quantite=1>lardons</ingredient>, ananas, <ingredient quantite=1>pomme</ingredient>, <ingredient quantite=1>échalote</ingredient>, <ingredient quantite=1>maïs</ingredient>, <ingredient quantite=1>petits-pois</ingredient>, <ingredient quantite=3>persil</ingredient>, <ingredient quantite=1>sel et poivre</ingredient> (bref, tout sauf le fromage!), au <ingredient quantite=2>riz</ingredient>. assaisonner avec 6 <ingredient quantite=3>bonnes cuillères à soupe de mayonnaise</ingredient>, mélanger, et mettre au frais, au moins 3 heures, avant de déguster. lorsque vous êtes prêt à passer à table, <operation temps=6.86min espace=12>sortir la salade de <ingredient quantite=2>riz</ingredient> du frigo</operation>, ajouter le fromage, et rajouter encore 2 <ingredient quantite=3>bonnes cuillères à soupe de mayonnaise</ingredient>. attention au trop plein de <ingredient quantite=1>mayo</ingredient>!
+]]>
+ </preparation>
+</recette>

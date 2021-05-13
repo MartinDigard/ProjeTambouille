@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30565">
+ <titre>Pommes perdues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses pommes ou 3 moyennes</p>
+ <p>1 oeuf</p>
+ <p>lait écrémé</p>
+ <p>sucre roux</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>pommes</ingredient> en petits morceaux. saupoudrer de <ingredient quantite=1>sucre</ingredient> et de <ingredient quantite=1>cannelle</ingredient>, mélanger. mettre sur une feuille d’ aluminium, <operation temps=15.0min espace=5>faire cuire environ 15 mn jusqu’ à ce que le <ingredient quantite=1>sucre</ingredient> soit</operation> fondu. verser dessus l’ <ingredient quantite=1>oeuf</ingredient> battu avec le lait, <operation temps=6.86min espace=5>faire cuire jusqu’ à ce que le mélange soit</operation> <operation temps=6.86min espace=5>pris</operation>.
+]]>
+ </preparation>
+</recette>

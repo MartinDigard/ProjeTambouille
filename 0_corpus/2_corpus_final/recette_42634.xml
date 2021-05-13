@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42634">
+ <titre>Rôti de cerf à la sauce au poivre vert</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 rôti de cerf de 2 kg</p>
+ <p>1 barde de lard</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>20 g de beurre</p>
+ <p>sel</p>
+ <p>1 cuillère à soupe de fond pour rôti</p>
+ <p>15 cl de vin blanc sec</p>
+ <p>15 cl de bouillon de volaille</p>
+ <p>1 boîte de poivre vert</p>
+ <p>2 cl de porto</p>
+ <p>15 cl de crème fraiche épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>bardez le rôti</operation> et <operation temps=6.86min espace=17>déposez - le dans un <recipient>plat</recipient> à <recipient>four</recipient></operation>. <operation temps=6.86min espace=17>rajoutez l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient> et le beurre</operation>. préchauffez votre <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) puis <operation temps=6.86min espace=17>enfournez votre rôti</operation>. <operation temps=15.0min espace=17>comptez 10 à 15 min de cuisson par livre</operation>. a mi-cuisson, <operation temps=6.86min espace=17>tournez - le</operation>. en fin de cuisson, <operation temps=6.86min espace=17>récupérez le jus de cuisson dans une <recipient>casserole</recipient></operation>, <operation temps=6.86min espace=17>salez la viande de tous les côtés, pliez - la dans une feuille de papier d’ aluminium</operation> et <operation temps=6.86min espace=17>laissez - la</operation> reposer sur la porte du <recipient>four</recipient>. rajoutez dans la <recipient>casserole</recipient> le <ingredient quantite=1>fond pour rôti</ingredient>, le <ingredient quantite=1>vin blanc</ingredient>, le <ingredient quantite=1>bouillon de volaille</ingredient> et le jus du <ingredient quantite=1>poivre vert</ingredient>. <operation temps=6.86min espace=17>laissez réduire la sauce</operation> et <operation temps=6.86min espace=17>rajoutez à la fin les grains de <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=1>porto</ingredient> et la <ingredient quantite=1>crème</ingredient></operation>. tranchez le rôti et <operation temps=6.86min espace=17>servez la sauce à part</operation>.
+]]>
+ </preparation>
+</recette>

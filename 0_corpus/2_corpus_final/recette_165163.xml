@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165163">
+ <titre>Taloa eta xingar (crêpe de maïs au jambon) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500g de farine de blé</p>
+ <p>500g de farine de maïs (attention! pas de la fécule mais de la farine) </p>
+ <p>eau</p>
+ <p>sel</p>
+ <p>ventrèche fumée en tranches assez fines</p>
+ <p>4 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les deux farines et le <ingredient quantite=1>sel</ingredient>. incorporer de l’ <ingredient quantite=1>eau</ingredient> petit à petit pour <operation temps=6.86min espace=8>obtenir une boule de pâte souple</operation>. <operation temps=6.86min espace=8>laisser reposer 1 heure sous un linge sec et propre</operation>. prélever des petites boules pour confectionner des galettes de 20/25 cm de diamètre en les aplatissant. <operation temps=6.86min espace=8>faire cuire dans une <recipient>poêle</recipient> avec très peu de matière grasse, la talua</operation> doit être dorée mais sèche. <operation temps=6.86min espace=8>servir la talua</operation> pliée en deux avec des <ingredient quantite=4>oeufs</ingredient> sur le <recipient>plat</recipient> et la <ingredient quantite=1>ventrèche</ingredient> grillée à l’ intérieur. c’ est une recette du pays basque qui remplace les sandwiches dans les stands durant les fêtes d’ été.
+]]>
+ </preparation>
+</recette>

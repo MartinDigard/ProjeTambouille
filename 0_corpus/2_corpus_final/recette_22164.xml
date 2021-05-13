@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22164">
+ <titre>Quiche au saumon et aux épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>200 g d’ épinards hachés surgelés</p>
+ <p>200 g de saumon frais ou surgelé</p>
+ <p>25 cl de crème fraîche fluide</p>
+ <p>3 oeufs</p>
+ <p>30 g de parmesan râpé</p>
+ <p>basilic, aneth ciselés (frais ou surgelés) </p>
+ <p>sel, poivre</p>
+ <p>50 g de gruyère (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faire décongeler les <ingredient quantite=1>épinards</ingredient> au <recipient>micro-onde</recipient> ou à la <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=16>faire cuire le <ingredient quantite=1>saumon</ingredient> (vapeur ou eau non</operation> salée). dans un <recipient>saladier</recipient>, casser les <ingredient quantite=3>oeufs</ingredient>, ajouter la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>parmesan</ingredient>, le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et un pincée de muscade (c’ est l’ appareil). disposer la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>. etaler les <ingredient quantite=1>épinards</ingredient> puis le <ingredient quantite=1>saumon</ingredient> cuit haché. saupoudrer avec les herbes. verser l’ appareil sur le <ingredient quantite=1>saumon</ingredient>, saupoudrer de <ingredient quantite=1>gruyère râpé</ingredient> (facultatif). <operation temps=30.0min espace=16>faire cuire au <recipient>four</recipient> préchauffé (th 9 <recipient>four</recipient> à gaz) pendant 25 à 30 mn jusqu’ à ce que la quiche soit bien</operation> dorée. je sers ce <recipient>plat</recipient> avec un salade de mâche vin blanc ou beaujolais frais
+]]>
+ </preparation>
+</recette>

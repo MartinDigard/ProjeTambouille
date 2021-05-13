@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27097">
+ <titre>Pot-au-feu à l’ espagnole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>800 g de boeuf à braiser ou à bouillir</p>
+ <p>250 g de petit salé</p>
+ <p>1 bloc de 300 g de jambon fumé</p>
+ <p>500 g de chorizo</p>
+ <p>200 g de boudin noir</p>
+ <p>250 g de pois chiches secs</p>
+ <p>1 chou</p>
+ <p>8 pommes de terre moyennes</p>
+ <p>100 g de vermicelles à potage</p>
+ <p>2 oignons</p>
+ <p>4 carottes</p>
+ <p>2 poireaux</p>
+ <p>1 gousse d’ ail</p>
+ <p>laurier, persil</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laissez tremper les <ingredient quantite=1>pois chiches</ingredient> dans une grande <recipient>casserole</recipient> d’ eau froide la veille. le lendemain, <operation temps=6.86min espace=25>égouttez - les,</operation> puis <operation temps=6.86min espace=25>mettez - les dans une grande <recipient>marmite</recipient> avec le <ingredient quantite=1>poulet</ingredient> et la viande de <ingredient quantite=1>boeuf</ingredient></operation>. <operation temps=6.86min espace=25>couvrez d’ eau</operation> et <operation temps=20.0min espace=25>portez à ébullition</operation>, <operation temps=6.86min espace=25>laissez mijoter environ 1 h 30</operation>. <operation temps=6.86min espace=25>ecumez pendant la première demi-heure environ</operation>. <operation temps=6.86min espace=25>rajoutez</operation> le petit-salé et le bloc de <ingredient quantite=1>jambon</ingredient></operation>. lavez et <operation temps=6.86min espace=25>pelez les <ingredient quantite=4>carottes</ingredient> et les <ingredient quantite=2>poireaux</ingredient></operation>. <operation temps=6.86min espace=25>coupez - les en gros morceaux</operation>. <operation temps=0.5min espace=25>ajoutez</operation> - les dans la <recipient>marmite</recipient> ainsi que les <ingredient quantite=2>oignons</ingredient> pelés, l’ <ingredient quantite=1>ail</ingredient> écrasé et les herbes. <operation temps=0.25min espace=25>salez</operation> et <operation temps=0.5min espace=25>poivrez</operation>. <operation temps=30.0min espace=25>laissez cuire 30 min</operation>. <operation temps=6.86min espace=25>lavez le</operation> <ingredient quantite=1>chou</ingredient>, pelez les <ingredient quantite=8>pommes de terre</ingredient>, <operation temps=0.5min espace=25>ajoutez</operation> - les dans la <recipient>marmite</recipient>. <operation temps=0.5min espace=25>ajoutez</operation> également le <ingredient quantite=1>chorizo</ingredient> et le <ingredient quantite=1>boudin</ingredient>. <operation temps=30.0min espace=25>laissez mijoter encore 30 min</operation>. a l’ aide d’ une écumoire, <operation temps=6.86min espace=25>retirez les viandes du bouillon</operation>, <operation temps=6.86min espace=25>découpez - les</operation> et <operation temps=6.86min espace=25>disposez - les dans un <recipient>plat</recipient> chaud</operation>. <operation temps=6.86min espace=25>sortez le <ingredient quantite=1>chou</ingredient> de la <recipient>marmite</recipient>, hachez - le</operation> et <operation temps=6.86min espace=25>disposez - le dans un <recipient>plat</recipient></operation>. <operation temps=6.86min espace=25>retirez les autres légumes</operation> et <operation temps=6.86min espace=25>présentez</operation> - les également dans un <recipient>plat</recipient> chaud. <operation temps=6.86min espace=25>jetez le <ingredient quantite=1>vermicelle</ingredient> dans le bouillon</operation>, <operation temps=6.86min espace=25>laissez cuire à <ingredient quantite=1>petite</ingredient> ébullition encore quelques minutes</operation>. <operation temps=6.86min espace=25>servez le bouillon au <ingredient quantite=1>vermicelle</ingredient> en entrée puis les légumes et les viandes ensuite</operation>. accompagnez de sauce tomate nature ou pimentée.
+]]>
+ </preparation>
+</recette>

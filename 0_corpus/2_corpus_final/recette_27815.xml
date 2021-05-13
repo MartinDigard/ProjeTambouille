@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27815">
+ <titre>Oranges au sirop et sauce au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oranges</p>
+ <p>200 g de sucre</p>
+ <p>1/2 citron</p>
+ <p>Pour la sauce chocolat: </p>
+ <p>250 g de chocolat pâtissier</p>
+ <p>30 g de beurre</p>
+ <p>20 cl de lait</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 cuillère à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=12>faites bouillir 50 cl d’ eau avec le <ingredient quantite=1>sucre</ingredient> et le jus du <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=12>pelez les <ingredient quantite=6>oranges</ingredient> à vif</operation> et <operation temps=6.86min espace=12>mettez - les entières dans le sirop</operation>. <operation temps=5.0min espace=12>laissez pocher 5 min</operation>. <operation temps=6.86min espace=12>egouttez les</operation> <ingredient quantite=6>oranges</ingredient>, <operation temps=6.86min espace=12>réservez - les dans 6 ramequins</operation> et <operation temps=6.86min espace=12>laissez réduire le sirop de cuisson</operation>. <operation temps=6.86min espace=12>versez - le sur les</operation> <ingredient quantite=6>oranges</ingredient>, <operation temps=20.0min espace=12>laissez refroidir</operation> et <operation temps=0.5min espace=12>réservez</operation> au <recipient>réfrigérateur</recipient></operation>. juste avant de <operation temps=2.0min espace=12>servir</operation>, <operation temps=6.86min espace=12>faites fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=12>faites bouillir le lait</operation> puis mélangez - le avec le <ingredient quantite=1>chocolat</ingredient> fondu, la <ingredient quantite=2>crème fraîche</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le beurre. <operation temps=6.86min espace=12>nappez les <ingredient quantite=6>oranges</ingredient></operation> pochées avec la <ingredient quantite=1>sauce</ingredient> au <ingredient quantite=1>chocolat</ingredient> chaude et <operation temps=2.0min espace=12>servez</operation>.
+]]>
+ </preparation>
+</recette>

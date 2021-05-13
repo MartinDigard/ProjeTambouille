@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43334">
+ <titre>Soupe froide au raisin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80 cl de jus de raisin</p>
+ <p>1 pomme</p>
+ <p>15 pruneaux </p>
+ <p>100 g de raisins secs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>pelez la</operation> <ingredient quantite=1>pomme</ingredient> et <operation temps=6.86min espace=6>coupez - la en petits morceaux dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=6>coupez les prunneaux en 2 (ou en 4 si ils sont gros)</operation> et ajoutez - les aux <ingredient quantite=1>pommes</ingredient> ainsi que les <ingredient quantite=1>raisins secs</ingredient>. versez ensuite le <ingredient quantite=1>jus de raisins</ingredient> sur les fruits et <operation temps=6.86min espace=6>mettez le tout aux <recipient>réfrigérateur</recipient> pendant environ une demi-heure (pour que la soupe soit bien fraîche</operation>). voilà! bon appétit!
+]]>
+ </preparation>
+</recette>

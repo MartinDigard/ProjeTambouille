@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49426">
+ <titre>Fajitas aux légumes d’ été</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 courgettes</p>
+ <p>1 aubergine</p>
+ <p>1 oignon</p>
+ <p>1 pot de sauce salsa tout prêt</p>
+ <p>herbes de Provence</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et détailler en petits dés l’ <ingredient quantite=1>aubergine</ingredient> et les <ingredient quantite=2>courgettes</ingredient>. les <operation temps=6.86min espace=10>faire dorer quelques minutes dans une <recipient>poêle</recipient> huilée à feu vif</operation>. verser la moitié du contenu d’ un <ingredient quantite=1>pot de sauce salsa</ingredient>, saler, poivrer. parfumer en saupoudrant d’ <ingredient quantite=1>herbes de provence</ingredient> puis <operation temps=15.0min espace=10>laisser mijoter 15 min à feu moyen</operation>. <operation temps=6.86min espace=10>faire réchauffer les</operation> fajitas 10 min au <recipient>four</recipient> à 180 ° c (thermostat 6), les <operation temps=6.86min espace=10>garnir de la préparation</operation> et déguster. peut se manger en <recipient>plat</recipient> principal, mais également délicieux en accompagnement d’ une viande grillé.
+]]>
+ </preparation>
+</recette>

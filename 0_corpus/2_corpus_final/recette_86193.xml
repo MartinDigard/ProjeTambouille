@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86193">
+ <titre>Saucisses au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 saucisses type chipolatas</p>
+ <p>2 oignons moyens</p>
+ <p>1/4 l de vin blanc</p>
+ <p>farine </p>
+ <p>-sel, poivre. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=2>oignons</ingredient>. piquer les <ingredient quantite=4>saucisses</ingredient> avec une fourchette. mettre du beurre dans une <recipient>poêle</recipient> puis y jeter les <ingredient quantite=2>oignons</ingredient> puis les <ingredient quantite=4>saucisses</ingredient>. lorsque les <ingredient quantite=4>saucisses</ingredient> sont bien dorées, déglacer avec le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=20.0min espace=6>laissez réduire environ 15 à 20 minutes a</operation> feu doux puis retirer les <ingredient quantite=4>saucisses</ingredient> et saupoudrer avec un peu de farine pour épaissir la sauce. servir chaud.
+]]>
+ </preparation>
+</recette>

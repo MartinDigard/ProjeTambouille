@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53955">
+ <titre>Salade de Saint-Jacques sur lit de lentilles</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g de lentilles vertes du Puy</p>
+ <p>5 noix de Saint-Jacques par personne</p>
+ <p>1 échalote</p>
+ <p>1 salade frisée</p>
+ <p>curry</p>
+ <p>fleur de sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>vinaigre balsamique, vinaigre de cidre</p>
+ <p>1 cuillère à soupe de lait</p>
+ <p>1 cuillère de mayonnaise en tube</p>
+ <p>persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=25.0min espace=12>faire cuire les <ingredient quantite=1>lentilles</ingredient> pendant 25 min environ, les</operation> <operation temps=20.0min espace=12>laisser refroidir</operation>. pendant ce temps, laver la <ingredient quantite=1>salade</ingredient> et la couper. couper et <ingredient quantite=1>hacher</ingredient> finement l’ <ingredient quantite=1>échalote</ingredient>. verser les <ingredient quantite=1>lentilles</ingredient> refroidies sur l’ <ingredient quantite=1>échalote</ingredient>, 1 <ingredient quantite=1>cuillère à soupe</ingredient> de <ingredient quantite=1>vinaigre de cidre</ingredient>, le <ingredient quantite=1>lait</ingredient>, la <ingredient quantite=1>mayonnaise en tube</ingredient>, 1 <ingredient quantite=1>cuillère</ingredient> à café de <ingredient quantite=1>curry</ingredient> et le <ingredient quantite=1>persil haché</ingredient> et 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient> ; mélanger. dresser la <ingredient quantite=1>salade</ingredient>, assaisonner avec une sauce simple (<ingredient quantite=1>fleur de sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, huile d’ <ingredient quantite=1>olive</ingredient> et <ingredient quantite=1>vinaigre balsamique</ingredient>) et placer au milieu le lit de lentilles déja assaisonées. pendant ce temps, <operation temps=1.0min espace=12>faire revenir les st - jacques dans une noisette de beurre salé à la <recipient>poêle</recipient> anti-adhésive pendant 1 min de chaque côté</operation>. déglacer avec 2 <ingredient quantite=1>cuillères à soupe</ingredient> de <ingredient quantite=1>vinaigre balsamique</ingredient>. dresser sur la <ingredient quantite=1>salade</ingredient> et servir. riesling
+]]>
+ </preparation>
+</recette>

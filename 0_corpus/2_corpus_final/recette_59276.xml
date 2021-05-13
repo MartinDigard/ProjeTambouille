@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59276">
+ <titre>Pain d’ épices en machine à pain</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>10 cl de lait tiède</p>
+ <p>250 g de miel fondu</p>
+ <p>100 g de beurre fondu</p>
+ <p>1 oeuf</p>
+ <p>1/2 cuillère à café de bicarbonate de soude</p>
+ <p>100 g de farine blanche</p>
+ <p>100 g de farine complète, ou de sarrasin, ou de châtaigne</p>
+ <p>50 g de cassonade</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 cm de gingembre frais râpé</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de mélange "4 épices"</p>
+ <p>1 pincée de badiane en poudre (anis étoilé) </p>
+ <p>1 zeste de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients cités dans la cuve de la <recipient>machine à pain</recipient>, dans l’ ordre indiqué, c’ est-à-dire les liquides en premier. enclencher le programme " gâteau " de votre machine et <operation temps=6.86min espace=16>laisser le <ingredient quantite=1>mélange</ingredient> et la cuisson se</operation> <operation temps=6.86min espace=16>faire tout seuls</operation>. démouler immédiatement à la fin de la cuisson et emballer dans de l’ aluminium. il faut, si vous <operation temps=6.86min espace=16>résistez à la tentation</operation>, attendre trois jours avant de déguster le pain d’ <ingredient quantite=1>épices</ingredient>: il n’ en sera que meilleur! si vous pouvez régler la cuisson sur votre <recipient>machine à pain</recipient>, il faut sélectionner la croûte " claire ".
+]]>
+ </preparation>
+</recette>

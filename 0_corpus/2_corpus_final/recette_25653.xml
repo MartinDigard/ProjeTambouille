@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25653">
+ <titre>Foie gras et sa confiture d’ oignons et de figues</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>bloc de 300 g de foie gras de canard</p>
+ <p>6 tranches de pain d’ épices</p>
+ <p>2 gros oignons</p>
+ <p>4 figues fraîches (les figues fraîches peuvent être remplacées par des figues sèches, mais en doubler alors la quantité) </p>
+ <p>3 cuillères à soupe de miel</p>
+ <p>un peu de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les deux <ingredient quantite=2>oignons</ingredient> en fines lamelles. les faire blondir 2 ou 3 mn tout doucement dans une <recipient>poêle</recipient> avec un <ingredient quantite=1>peu de beurre</ingredient>. y ajouter les <ingredient quantite=4>figues</ingredient> coupées en 4. remuer assez souvent. rajouter un <ingredient quantite=1>peu de beurre</ingredient> si besoin afin que tout rissole pendant 5 à 10 mn. quand les <ingredient quantite=4>figues</ingredient> commencent à fondre et que l’ <ingredient quantite=1>oignon</ingredient> devient translucide, ajouter le <ingredient quantite=3>miel</ingredient>. remuer. <operation temps=6.86min espace=8>laisser caraméliser doucement</operation>. arrêter la cuisson quand le tout est bien fondu, mais il faut tout de même que le mélange soit juteux. réserver. faire dorer des deux côtés les <ingredient quantite=6>tranches de pain</ingredient> d’ épices dans une <recipient>poêle</recipient> beurrée. <operation temps=20.0min espace=8>laisser refroidir</operation>. servir chaque <ingredient quantite=1>tranche</ingredient> de <ingredient quantite=1>foie</ingredient> sur une <ingredient quantite=6>tranche de pain</ingredient> d’ <ingredient quantite=6>épices</ingredient> et disposer autour de l’ assiette la confiture d’ <ingredient quantite=2>oignons</ingredient> aux <ingredient quantite=4>figues</ingredient> encore tiède. côteaux du layon
+]]>
+ </preparation>
+</recette>

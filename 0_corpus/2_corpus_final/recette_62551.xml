@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62551">
+ <titre>Carbonnade à l’ Irlandaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>850 g de boeuf à braiser (macreuse ou jumeau) </p>
+ <p>5 oignons</p>
+ <p>1 cuillère à café de cassonade</p>
+ <p>50 cl de bière Guinness</p>
+ <p>50 cl d’ eau ou de bouillon</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la viande en fines tranches, les faire roussir à la <recipient>poêle</recipient> dans 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient>. eplucher les <ingredient quantite=5>oignons</ingredient>, les couper en rondelles. dans une <recipient>cocotte</recipient> (en fonte de préférence, mais ça marche aussi dans un <recipient>autocuiseur</recipient>), faire revenir les <ingredient quantite=5>oignons</ingredient> dans 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient>. quand ils sont bien fondus, ajouter la viande, la <ingredient quantite=1>cassonade</ingredient> et <operation temps=6.86min espace=12>laisser rissoler quelques instants</operation>. pendant ce temps, verser l’ <ingredient quantite=1>eau</ingredient> dans la <recipient>poêle</recipient> où on a fait <operation temps=6.86min espace=12>revenir la viande</operation> et amener à ébullition en grattant bien le fond à la <ingredient quantite=1>cuillère</ingredient> de bois. verser dans la <recipient>cocotte</recipient>, ajouter la bière, du sel et du poivre. amener à ébullition puis <operation temps=6.86min espace=12>laisser cuire très doucement 2 à 3 heures (si on</operation> utilise l’ <recipient>autocuiseur</recipient>, le temps de cuisson sera réduit, mais mieux vaut alors procéder en deux fois (1 h de cuisson le premier jour, puis 30 à 45 minutes le lendemain ; la viande sera plus moelleuse et cela permet de vérifier si le niveau de liquide est suffisant). on peut <operation temps=6.86min espace=12>servir avec une purée de pommes de terre</operation>. bière <ingredient quantite=1>guinness</ingredient> si on aime
+]]>
+ </preparation>
+</recette>

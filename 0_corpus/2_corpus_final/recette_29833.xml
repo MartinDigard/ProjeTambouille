@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29833">
+ <titre>Râbles de lapin en gibelotte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 râbles de lapin</p>
+ <p>100 g de lardons</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café de farine</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>1 bouquet garni</p>
+ <p>125 g de champignons (soit une petite boîte) </p>
+ <p>15 cl de vin blanc</p>
+ <p>15 cl d’ eau</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=13>faire revenir <ingredient quantite=1>lardons</ingredient> et <ingredient quantite=1>oignon</ingredient> en lamelles,</operation> puis ajouter le <ingredient quantite=4>lapin</ingredient> et <operation temps=25.0min espace=13>faire dorer</operation>. incorporer la farine et la <ingredient quantite=1>moutarde</ingredient>. verser l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>vin</ingredient> puis le <ingredient quantite=1>bouquet garni</ingredient> saler, poivrer. fermer la <recipient>cocotte</recipient>, mettre sous pression et <operation temps=20.0min espace=13>laisser cuire 20 mn</operation>. après cuisson, <operation temps=6.86min espace=13>ouvrir la <recipient>cocotte</recipient></operation> et ajouter les <ingredient quantite=1>champignons</ingredient>. <operation temps=6.86min espace=13>laisser mijoter encore quelques minutes, puis servir chaud</operation>. s’ accompagne de pommes de terre vapeur ou de pâtes. on peut utiliser cette recette avec un <ingredient quantite=4>lapin</ingredient> entier.
+]]>
+ </preparation>
+</recette>

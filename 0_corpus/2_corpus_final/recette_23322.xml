@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23322">
+ <titre>Sole maranello</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 filets de sole</p>
+ <p>1 tomate</p>
+ <p>1 oignon moyen</p>
+ <p>1 dl de vin blanc</p>
+ <p>1 pointe de cuillère à café de piment</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à café de persil haché</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>emondez la</operation> <ingredient quantite=1>tomate</ingredient>, <operation temps=6.86min espace=10>épépinez - la</operation> et <operation temps=6.86min espace=10>coupez - la en petits dés</operation>. <operation temps=6.86min espace=10>coupez l’ <ingredient quantite=1>oignon</ingredient> finement</operation>. dans une <recipient>poêle</recipient> versez l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, les <ingredient quantite=6>filets de sole</ingredient> en les frottant des 2 côtés d’ <ingredient quantite=3>huile</ingredient>, les <ingredient quantite=1>piments</ingredient>, l’ <ingredient quantite=1>ail</ingredient> coupé en 4, le <ingredient quantite=1>persil</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. sur feu <ingredient quantite=1>moyen</ingredient> faire revenir les <ingredient quantite=6>filets de sole</ingredient> 2 mn de chaque côté. puis inséreer le <ingredient quantite=1>vin blanc</ingredient>. lorsque le <ingredient quantite=1>vin</ingredient> est réduit à 1/3, <operation temps=6.86min espace=10>servez dans une assiette préchauffée</operation>. ce <recipient>plat</recipient> peut être accompagné d’ une purée ordinaire améliorée d’ un fromage de baufort rapé ou une p. d.t macaire. celui de la préparation
+]]>
+ </preparation>
+</recette>

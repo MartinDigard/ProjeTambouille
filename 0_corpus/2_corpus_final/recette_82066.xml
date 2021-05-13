@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82066">
+ <titre>Pain de viande ultra-facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de haché porc / veau légèrement épicé</p>
+ <p>4 biscottes</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). emietter finement les <ingredient quantite=4>biscottes</ingredient>. mélanger la viande, les <ingredient quantite=2>oeufs</ingredient> et les <ingredient quantite=4>biscottes</ingredient> émiettées. disposer le mélange dans un <recipient>plat</recipient> à cake tapissé d’ un papier d’ aluminium. enfourner pour 40 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

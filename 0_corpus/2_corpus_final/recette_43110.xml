@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43110">
+ <titre>Tiramisu de Noël (speculoos framboises) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de spéculoos</p>
+ <p>4 mandarines</p>
+ <p>150 g de framboises congelées (ou fraîches selon la saison) </p>
+ <p>125 g de mascarpone</p>
+ <p>125 g de fromage blanc 0%</p>
+ <p>3 cuillères à soupe de cassonade</p>
+ <p>décors en sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>mélangez les <ingredient quantite=1>framboises</ingredient></operation> dégelées à 1 <ingredient quantite=3>cuillère à soupe de cassonade</ingredient>. <operation temps=6.86min espace=8>pressez le jus des 4</operation> <ingredient quantite=4>mandarines</ingredient> et <operation temps=6.86min espace=8>filtrez</operation>. <operation temps=6.86min espace=8>mélangez le jus</operation> rendu par les <ingredient quantite=1>framboises</ingredient>, le <ingredient quantite=1>mascarpone</ingredient>, le <ingredient quantite=1>fromage blanc</ingredient> et les 2 <ingredient quantite=3>cuillères à soupe</ingredient> restantes de <ingredient quantite=3>cassonade</ingredient>. <operation temps=6.86min espace=8>tapissez le fond d’ un <recipient>moule</recipient> à tiramisu de biscuits</operation>. <operation temps=6.86min espace=8>arrosez du jus de <ingredient quantite=4>mandarines</ingredient></operation>. <operation temps=6.86min espace=8>etalez les <ingredient quantite=1>framboises</ingredient></operation>. <operation temps=6.86min espace=8>recouvrez le tout avec la masse au <ingredient quantite=1>mascarpone</ingredient></operation>. <operation temps=6.86min espace=8>saupoudrez de nonpareilles</operation> et <operation temps=6.86min espace=8>décorez selon votre envie</operation>... bon appétit! vous pouvez, selon goût, ajouter du grand-marnier au jus de <ingredient quantite=4>mandarines</ingredient> et / ou de la liqueur de <ingredient quantite=1>framboises</ingredient> à la masse au <ingredient quantite=1>mascarpone</ingredient>.
+]]>
+ </preparation>
+</recette>

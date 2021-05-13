@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56085">
+ <titre>Hamburger de Dr Spok</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 Pains spéciaux pour hamburger</p>
+ <p>18 Bâtonnets de poisson (colin ou cabillaud) </p>
+ <p>2 échalotes</p>
+ <p>1 pot de demi crème acidulée (env 180g) </p>
+ <p>6 petits cornichons</p>
+ <p>6 tranches de fromages (gruyère ou cheddar) </p>
+ <p>Mayonnaise / Sel / Poivre / Annette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire dorer les <ingredient quantite=1>bâtonnets de poissons</ingredient> dans un peu d’ huile de tournesol. une fois les <ingredient quantite=1>bâtonnets</ingredient> bien dorés, les regrouper par 3, puis recouvrir avec une <ingredient quantite=1>tranche de fromage</ingredient>. préparation de la sauce: couper les <ingredient quantite=2>échalotes</ingredient> et les <ingredient quantite=6>cornichons</ingredient> en <ingredient quantite=6>petits</ingredient> dés. <operation temps=6.86min espace=8>mélangez le tout dans un bol en y</operation> ajoutant le <ingredient quantite=1>pot</ingredient> de demi-crème <ingredient quantite=1>acidulée</ingredient>. ajouter 3 cuillères à soupe de <ingredient quantite=1>mayonnaise</ingredient>. <operation temps=6.86min espace=8>ajoutez l’ <ingredient quantite=1>annette</ingredient>, le <ingredient quantite=1>sel</ingredient> et le</operation> <ingredient quantite=1>poivre</ingredient> (<operation temps=6.86min espace=8>goûtez selon votre désir</operation>). mettre les <ingredient quantite=1>pains</ingredient> au <recipient>four</recipient> pendant 5 minutes (100 ° c). une fois les <ingredient quantite=6>petits pains</ingredient> réchauffés, <operation temps=6.86min espace=8>recouvrir de sauce à volonté</operation> puis <operation temps=6.86min espace=8>faire des <ingredient quantite=6>hamburgers</ingredient> avec les galettes (<ingredient quantite=1>poisson</ingredient> fromage</operation>). voilà, bon appétit!
+]]>
+ </preparation>
+</recette>

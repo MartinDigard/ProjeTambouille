@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84081">
+ <titre>Crêpes du vieux moulin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillères à café de farine </p>
+ <p>100 g de margarine</p>
+ <p>1 l de lait demi-écrémé</p>
+ <p>100 g de gruyère râpé</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>Un peu de chapelure</p>
+ <p>10 crêpes salées</p>
+ <p>10 tranches de jambon cuit</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>mettez la margarine dans une <ingredient quantite=1>petite</ingredient> <recipient>casserole</recipient></operation>, <operation temps=6.86min espace=11>faites - la fondre (sans</operation> <operation temps=6.86min espace=11>laisser brunir)</operation>, <operation temps=6.86min espace=11>introduisez la farine</operation>, <operation temps=6.86min espace=11>mélangez à l’</operation> aide d’ un fouet, <operation temps=6.86min espace=11>introduisez le lait</operation>, <operation temps=6.86min espace=11>faites bien</operation> prendre la sauce. ensuite ajoutez du <ingredient quantite=1>gruyère râpé</ingredient>, et enfin la <ingredient quantite=1>boîte de concentré de tomate</ingredient>, <operation temps=6.86min espace=11>tenez hors feu</operation>. roulez les <ingredient quantite=1>crêpes</ingredient> une par une avec une <ingredient quantite=1>tranche de jambon</ingredient>, <operation temps=6.86min espace=11>mettez - les dans un <recipient>plat</recipient> à gratin l’ une à coté de l’ autre</operation>, <operation temps=6.86min espace=11>recouvrez les <ingredient quantite=1>crêpes</ingredient> de sauce</operation>, mettez un <ingredient quantite=1>peu de chapelure</ingredient>, et placez dans le <recipient>four</recipient> chaleur tournante à 180 ° c (thermostat 6) pendant 25 min (vous pouvez le placer sous le grill si vous voulez plus croustillant).
+]]>
+ </preparation>
+</recette>

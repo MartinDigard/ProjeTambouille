@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83850">
+ <titre>Tarte fondante au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>Pour la sauce chocolat: </p>
+ <p>50 g de beurre</p>
+ <p>100 g de chocolat pâtissier</p>
+ <p>1 à 2 cuillères à soupe de crème fraiche</p>
+ <p>Un peu de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6) dérouler la <ingredient quantite=1>pâte</ingredient>, <operation temps=6.86min espace=9>faire des trous avec une fourchette dans le fond</operation>. la <operation temps=25.0min espace=9>faire cuire au <recipient>four</recipient> 25 min</operation>. préparer la <ingredient quantite=1>sauce</ingredient> au <ingredient quantite=1>chocolat</ingredient>: <operation temps=6.86min espace=9>faire fondre 100 grammes de <ingredient quantite=1>chocolat</ingredient> noir au <recipient>bain marie</recipient></operation> puis ajouter 50 grammes de beurre. <operation temps=6.86min espace=9>laisser fondre doucement</operation>. ajouter la <ingredient quantite=1>crème fraiche</ingredient>, bien mélanger. verser la <ingredient quantite=1>sauce</ingredient> dans la <ingredient quantite=1>pâte</ingredient> <operation temps=6.86min espace=9>laisser refroidir 1 heure puis au moins deux heure au frigidaire</operation>.
+]]>
+ </preparation>
+</recette>

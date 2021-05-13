@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72484">
+ <titre>Mafé légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 patates douces</p>
+ <p>2 ou 3 carottes (selon la taille) </p>
+ <p>1 aubergine</p>
+ <p>1 demi-chou</p>
+ <p>2 oignons</p>
+ <p>1 boîte de chair de tomate</p>
+ <p>pâte d’ arachide</p>
+ <p>pâte de piment</p>
+ <p>huile</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer les <ingredient quantite=2>oignons</ingredient> et les <operation temps=5.0min espace=13>faire revenir 5 min dans une cuillère à soupe d’ <ingredient quantite=1>huile</ingredient> (de palme, d’ arachide ou de tournesol) au fond d’ une <recipient>cocotte</recipient> - minute</operation>. pendant ce temps, éplucher les <ingredient quantite=2>patates douces</ingredient> et les <ingredient quantite=2>carottes</ingredient> et les détailler en gros morceaux. <operation temps=6.86min espace=13>faire de même avec l’ <ingredient quantite=1>aubergine</ingredient> (sans</operation> ôter la peau) et le <ingredient quantite=1>demi-chou</ingredient>. ajouter tous les légumes dans la <recipient>cocotte</recipient>, verser dessus la <ingredient quantite=1>chair de tomate</ingredient> et <operation temps=6.86min espace=13>couvrir d’ eau à hauteur des légumes</operation>. saler légèrement et fermer la <recipient>cocotte</recipient> - minute. <operation temps=10.0min espace=13>laisser cuire 10 min à</operation> <operation temps=6.86min espace=13>partir de la rotation de la soupape</operation>. a la fin de la cuisson, ajouter 3 cuillères à soupe de pâte d’ arachide, une demie cuillère à café de pâte de <ingredient quantite=1>piment</ingredient> (à défaut, utiliser du <ingredient quantite=1>piment</ingredient> en poudre) et bien mélanger en vérifiant que la pâte d’ arachide fond bien dans la sauce. <operation temps=6.86min espace=13>servir avec du riz blanc cuit à la vapeur</operation>.
+]]>
+ </preparation>
+</recette>

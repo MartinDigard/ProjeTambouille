@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21221">
+ <titre>Flan printanier aux fines herbes</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de poireaux</p>
+ <p>150 g de blettes</p>
+ <p>100 g d’ oignons verts</p>
+ <p>6 oeufs</p>
+ <p>2 cuillerées à soupe de farine</p>
+ <p>20 cl de lait</p>
+ <p>50 g de coriandre</p>
+ <p>50 g de persil</p>
+ <p>20 g d’ aneth</p>
+ <p>20 g de menthe</p>
+ <p>2 pincées de noix de muscade rapée</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=1>poireaux</ingredient>, les <ingredient quantite=1>blettes</ingredient> et les <ingredient quantite=1>oignons</ingredient>, les hacher grossièrement. les précuire 15 minutes à la vapeur. préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). battre les <ingredient quantite=6>oeufs</ingredient> avec la farine, le lait, la <ingredient quantite=2>muscade</ingredient>, <ingredient quantite=1>sel et poivre</ingredient>. mixer les légumes précuits et les ajouter, ainsi que les herbes rincées et ciselées. verser dans un <recipient>moule</recipient> rond à bord haut et <operation temps=30.0min espace=17>faire cuire 30 min au <recipient>four</recipient> dans un <recipient>bain - marie</recipient></operation>.
+]]>
+ </preparation>
+</recette>

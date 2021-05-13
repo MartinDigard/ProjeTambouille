@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21167">
+ <titre>Saucisses de porc au chou vert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou vert</p>
+ <p>4 saucisses de porc</p>
+ <p>1 oignon haché</p>
+ <p>1 pincée de noix de muscade</p>
+ <p>1 cuillère à café de moutarde forte</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+piquer les <ingredient quantite=4>saucisses de porc</ingredient> à la fourchette puis les <operation temps=6.86min espace=10>faire revenir à feu vif dans une <recipient>poêle</recipient> antiadhésive</operation>. laver et émincer finement le <ingredient quantite=1>chou vert</ingredient> puis l’ incorporer dans la <recipient>poêle</recipient> avec les <ingredient quantite=4>saucisses</ingredient> dorées. peler et <ingredient quantite=1>hacher</ingredient> l’ <ingredient quantite=1>oignon</ingredient>, l’ ajouter au reste de la préparation avec le <ingredient quantite=1>sel</ingredient>, le poivre, la <ingredient quantite=1>moutarde</ingredient> et le <ingredient quantite=1>cumin</ingredient>. bien mélanger le tout et <operation temps=15.0min espace=10>laisser mijoter 15 minutes à</operation> découvert à feu doux. dresser les <ingredient quantite=4>saucisses</ingredient> au <ingredient quantite=1>chou vert</ingredient> sur un <recipient>plat</recipient> chaud puis servir.
+]]>
+ </preparation>
+</recette>

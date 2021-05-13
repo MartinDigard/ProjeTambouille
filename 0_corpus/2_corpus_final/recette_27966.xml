@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27966">
+ <titre>Soupe de légumes au pistou facile</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de haricots verts</p>
+ <p>200 g de haricots blancs</p>
+ <p>200 g de haricots rouges</p>
+ <p>2 tomates</p>
+ <p>1 oignon</p>
+ <p>2 courgettes</p>
+ <p>3 pommes de terre</p>
+ <p>Pour le pistou: </p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 gousses d’ ail</p>
+ <p>3 branches de basilic</p>
+ <p>1 tomate </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez les <ingredient quantite=3>pommes de terre</ingredient> et <operation temps=6.86min espace=14>coupez - les en dés</operation>, <operation temps=3.0min espace=14>pelez</operation> et <operation temps=6.86min espace=14>concassez les <ingredient quantite=2>tomates</ingredient></operation>. <operation temps=6.86min espace=14>détaillez les <ingredient quantite=2>courgettes</ingredient> en dés et les <ingredient quantite=1>oignons</ingredient> en rouelles</operation>. <operation temps=6.86min espace=14>mettez les légumes dans une <recipient>marmite</recipient> et couvrez de 1, 5 litre d’ eau</operation>. <operation temps=6.86min espace=14>faites cuire à frémissement durant 1 heure</operation>. pendant ce temps, <operation temps=6.86min espace=14>pilez les <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient> au <recipient>mortier</recipient> avec le <ingredient quantite=3>basilic</ingredient></operation>. <operation temps=6.86min espace=14>ajoutez la <ingredient quantite=1>tomate</ingredient> pelée</operation> et concassée. <operation temps=6.86min espace=14>versez l’ <ingredient quantite=3>huile</ingredient> en filet et émulsionnez bien l’ ensemble</operation>. <operation temps=6.86min espace=14>retirez la <ingredient quantite=3>soupe</ingredient> du feu lorsqu’ elle est prête</operation> et <operation temps=6.86min espace=14>versez - y le <ingredient quantite=1>pistou</ingredient></operation>. <operation temps=0.25min espace=14>couvrez</operation> et <operation temps=10.0min espace=14>patientez 10 minutes avant de</operation> <operation temps=2.0min espace=14>servir</operation>.
+]]>
+ </preparation>
+</recette>

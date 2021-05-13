@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45399">
+ <titre>Mozzarella panée sur coulis de tomates</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boules de Mozzarella</p>
+ <p>1 oeuf</p>
+ <p>chapelure</p>
+ <p>6 tomates</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>basilic</p>
+ <p>1 morceau de sucre</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la fondue de <ingredient quantite=6>tomates</ingredient>: emincer l’ <ingredient quantite=1>oignon</ingredient>, et le <operation temps=6.86min espace=10>faire revenir dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter les <ingredient quantite=6>tomates</ingredient> finement coupées en dés et l’ <ingredient quantite=1>ail</ingredient> émincé, saler et poivrer, et ajouter le <ingredient quantite=1>morceau de sucre</ingredient>. <operation temps=6.86min espace=10>laisser cuire une dizaine de minutes</operation>. pendant ce temps, couper les <ingredient quantite=2>boules de mozzarella</ingredient> en tranches épaisses, les passer dans l’ <ingredient quantite=1>oeuf</ingredient> battu, puis dans la <ingredient quantite=1>chapelure</ingredient>, et les <operation temps=3.0min espace=10>faire revenir 2 ou 3 min dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter quelques feuilles de <ingredient quantite=1>basilic</ingredient> dans la fondue de <ingredient quantite=6>tomates</ingredient>. dresser l’ assiette: tapisser le fond d’ une petite assiette de fondue de <ingredient quantite=6>tomates</ingredient>, poser 1 ou 2 tranches de <ingredient quantite=1>mozzarella</ingredient>, et parsemer de quelques feuilles de <ingredient quantite=1>basilic</ingredient>. servir bien chaud, pour que la <ingredient quantite=1>mozzarella</ingredient> reste fondante...
+]]>
+ </preparation>
+</recette>

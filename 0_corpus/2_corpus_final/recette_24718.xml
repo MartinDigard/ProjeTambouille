@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24718">
+ <titre>Tarte au fromage blanc nappée de framboises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>200 g de fromage blanc épais</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>100 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 zeste de citron</p>
+ <p>500 g de framboises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=9>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> beurré</operation>. fouettez le <ingredient quantite=1>fromage blanc</ingredient> avec les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient>, les <ingredient quantite=1>sucres</ingredient> et le <ingredient quantite=1>zeste de citron</ingredient>. <operation temps=45.0min espace=9>versez cette préparation sur le fond de tarte et enfournez pour 45 minutes de cuisson</operation>. <operation temps=6.86min espace=9>conservez quelques <ingredient quantite=1>framboises</ingredient> pour la décoration</operation>, <operation temps=6.86min espace=9>mixez le reste et passez au</operation> <operation temps=6.86min espace=9>tamis fin pour</operation> <operation temps=6.86min espace=9>ôtez les grains du fruit</operation>. <operation temps=6.86min espace=9>faites tiédir</operation> et <operation temps=6.86min espace=9>versez sur la tarte refroidie</operation>. <operation temps=6.86min espace=9>servez bien frais</operation>, décoré de quelques <ingredient quantite=1>framboises</ingredient>.
+]]>
+ </preparation>
+</recette>

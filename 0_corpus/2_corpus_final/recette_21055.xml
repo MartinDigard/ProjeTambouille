@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21055">
+ <titre>Poivrons farcis aux aubergines et anchois</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 poivrons verts</p>
+ <p>2 aubergines</p>
+ <p>5 petits anchois dessalés</p>
+ <p>50 g de câpres</p>
+ <p>1 gousses d’ ail</p>
+ <p>4 cuillères à soupe de chapelure</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=11>pelez</operation> et <operation temps=6.86min espace=11>coupez les <ingredient quantite=2>aubergines</ingredient> en dés</operation>. <operation temps=6.86min espace=11>saupoudrez</operation> - les de <ingredient quantite=1>sel</ingredient> et <operation temps=30.0min espace=11>laissez dégorger 30 min</operation>. <operation temps=6.86min espace=11>coupez le chapeau des</operation> <ingredient quantite=4>poivrons</ingredient>, <operation temps=6.86min espace=11>épépinez - les</operation>. séchez les <ingredient quantite=2>aubergines</ingredient> et <operation temps=6.86min espace=11>faites - les</operation> cuire à la <recipient>poêle</recipient> avec de l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. <operation temps=6.86min espace=11>coupez les <ingredient quantite=5>anchois</ingredient> en <ingredient quantite=5>petits</ingredient> morceaux</operation>, <operation temps=6.86min espace=11>pilez l’ <ingredient quantite=1>ail</ingredient></operation>. <operation temps=6.86min espace=11>ajoutez - les aux <ingredient quantite=2>aubergines</ingredient>, ainsi que les <ingredient quantite=1>câpres</ingredient>, la <ingredient quantite=4>chapelure</ingredient> et le <ingredient quantite=2>persil</ingredient></operation>. garnissez les <ingredient quantite=4>poivrons</ingredient> de la farce, <operation temps=6.86min espace=11>versez un filet d’ <ingredient quantite=2>huile</ingredient> d’</operation> <ingredient quantite=2>olives</ingredient>, <operation temps=6.86min espace=11>saupoudrez</operation> de <ingredient quantite=4>chapelure</ingredient> et <operation temps=40.0min espace=11>faites cuire 40 min au <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). a <operation temps=6.86min espace=11>servir en entrée ou en accompagnement de poisson grillé</operation>.
+]]>
+ </preparation>
+</recette>

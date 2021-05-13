@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68423">
+ <titre>Tarte ratatouille, lardons, pruneaux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 tomates</p>
+ <p>1 poivron jaune</p>
+ <p>1 grosse courgette</p>
+ <p>2 gros oignons</p>
+ <p>6 champignons</p>
+ <p>200 g de lardons</p>
+ <p>8 pruneaux</p>
+ <p>30 g de gruyère râpé</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>10 cl de crème fraîche</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 pâte feuilletée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=19>faire revenir les <ingredient quantite=1>lardons</ingredient> dans une petite <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=19>faire revenir les <ingredient quantite=2>oignons</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient> avec le <ingredient quantite=1>sucre</ingredient></operation>. lorsqu’ ils sont bien dorés, ajouter les <ingredient quantite=2>tomates</ingredient>, les <ingredient quantite=1>courgettes</ingredient>, le <ingredient quantite=1>poivron</ingredient> coupés en dés. ajouter ensuite les pruneaux et les <ingredient quantite=6>champignons</ingredient>, les <ingredient quantite=1>herbes de provence</ingredient>, le poivre et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=19>laisser mijoter jusqu’ à ce que les <ingredient quantite=1>courgettes</ingredient> soient</operation> cuites. mélanger les <ingredient quantite=1>lardons</ingredient> au reste et ajouter la <ingredient quantite=1>crème fraîche</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le fromage râpé hors du feu. etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>, verser le tout sur la <ingredient quantite=1>pâte</ingredient> et <operation temps=30.0min espace=19>faire cuire environ 30 minutes au <recipient>four</recipient></operation>. peut être accompagnée d’ une salade verte.
+]]>
+ </preparation>
+</recette>

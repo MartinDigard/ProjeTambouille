@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24699">
+ <titre>Topinambours à l’ aïoli</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 topinambours</p>
+ <p>3 pommes de terre</p>
+ <p>1 citron</p>
+ <p>3 gousses d’ ail</p>
+ <p>20 cl d’ huile</p>
+ <p>1 jaune d’ oeuf cru</p>
+ <p>3 jaunes d’ oeufs durs</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecraser l’ <ingredient quantite=3>ail</ingredient> avec un peu de <ingredient quantite=1>sel</ingredient> jusqu’ à ce qu’ il soit réduit en purée puis ajouter le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> cru. ajouter l’ huile en un mince filet et fouetter le tout afin que la sauce épaississe bien, comme pour une mayonnaise. saler, poivrer et <operation temps=6.86min espace=8>finir en</operation> ajoutant quelques gouttes de jus de <ingredient quantite=1>citron</ingredient>. réserver cet aïoli au frais. faire cuire les <ingredient quantite=1>topinambours</ingredient> et les <ingredient quantite=3>pommes de terre</ingredient> pelés dans l’ eau bouillante salée durant 20 minutes. egoutter, arroser de <ingredient quantite=1>citron</ingredient>, <operation temps=20.0min espace=8>laisser refroidir</operation> et couper en cubes. incorporer l’ aïoli, mélanger et saucpoudrer des <ingredient quantite=1>jaunes</ingredient> d’ oeufs émiettés.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23207">
+ <titre>Tomates en Feu d’ Artifice</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>300 g de maïs</p>
+ <p>huile d’ olive</p>
+ <p>basilic</p>
+ <p>1 concombre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=4>tomates</ingredient> et couper le haut de chaque <ingredient quantite=1>tomate</ingredient>. les vider des graines. les <operation temps=6.86min espace=5>remplir avec le <ingredient quantite=1>maïs</ingredient> et de petits morceaux de <ingredient quantite=1>concombre</ingredient></operation>. <operation temps=6.86min espace=5>recouvrir d’ un léger filet d’ huile d’ <ingredient quantite=1>olive</ingredient> et de <ingredient quantite=1>basilic</ingredient></operation> haché. repositionner la partie haute sur chaque <ingredient quantite=1>tomate</ingredient>.
+]]>
+ </preparation>
+</recette>

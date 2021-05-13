@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41215">
+ <titre>Haricots verts à la bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g viande de boeuf hâché (ou 3 steacks hâchés à mettre en petits morceaux) </p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café céleri (en poudre) </p>
+ <p>1 carotte</p>
+ <p>coulis de tomates (ou une boîte de pulpe à la tomate) </p>
+ <p>1 cuillère à café d’ origan</p>
+ <p>sel, poivre</p>
+ <p>des haricots verts frais, surgelés ou en bocaux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire précuire les <ingredient quantite=1>haricots</ingredient> si ils sont</operation> frais ou <ingredient quantite=1>surgelés</ingredient>, à la vapeur ou dans de l’ eau chaude. pendant ce temps, <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>oignons</ingredient> puis la viande dans une <recipient>sauteuse</recipient></operation>. ajouter la <ingredient quantite=1>carotte</ingredient> coupée en petits dés, l’ aïl, le <ingredient quantite=1>sel</ingredient>, le poivre, le <ingredient quantite=1>céleri</ingredient> et la <ingredient quantite=1>tomate</ingredient>. <operation temps=6.86min espace=9>couvrir avec de l’ eau</operation> et <operation temps=6.86min espace=9>faire mijoter</operation>. ajouter les <ingredient quantite=1>haricots verts</ingredient> précuits 5 min avant la fin de la cuisson... et déguster chaud. c’ est un bon moyen de <operation temps=6.86min espace=9>faire manger des légumes aux enfants, selon le modèle des pâtes à la bolognaise dont ils raffolent</operation>... on peut même ajouter une <ingredient quantite=1>cuillère</ingredient> à soupe de ketchup pendant la cuisson et leur montrant bien l’ ingrédient: c’ est très efficace!
+]]>
+ </preparation>
+</recette>

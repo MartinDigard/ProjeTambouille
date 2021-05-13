@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54062">
+ <titre>Soupe de légumes au Boursin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 courgettes</p>
+ <p>8 carottes moyennes ou 10 petites</p>
+ <p>1 pomme de terre</p>
+ <p>1 gros oignon ou 2 moyens</p>
+ <p>environ 1, 5 litre de bouillon de volaille dégraissé</p>
+ <p>Boursin Cuisine aux 3 Poivres</p>
+ <p>ciboulette fraîche ou persil frais</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient> jusqu’ à ce qu’ il soit transparent</operation>. ajouter la <ingredient quantite=1>pomme de terre</ingredient>, les <ingredient quantite=2>courgettes</ingredient> & les <ingredient quantite=8>carottes</ingredient> coupées en morceaux, puis le <ingredient quantite=1>bouillon</ingredient> de volaille <ingredient quantite=1>dégraissé</ingredient>, à 2 cm au-dessus des légumes. <operation temps=6.86min espace=8>laisser cuire pendant 2 h à feu doux</operation>. a la fin de la cuisson, ajouter le <ingredient quantite=1>boursin cuisine</ingredient> aux trois <ingredient quantite=1>poivres</ingredient> (quantité à votre convenance), puis mixer. <operation temps=6.86min espace=8>servir avec de la <ingredient quantite=1>ciboulette</ingredient> ciselée ou du <ingredient quantite=1>persil</ingredient> hâché</operation>. une soupe consistante, idéale avec du pain <ingredient quantite=1>frais</ingredient>, du jambon et du fromage... le <ingredient quantite=1>poivre</ingredient> du <ingredient quantite=1>boursin</ingredient> réhausse le côté un peu fade et sucré de la <ingredient quantite=1>carotte</ingredient>.
+]]>
+ </preparation>
+</recette>

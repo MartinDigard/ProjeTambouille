@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94977">
+ <titre>Panna cotta coco fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400g de lait de coco</p>
+ <p>100g de crème fraîche épaisse</p>
+ <p>50g de sucre</p>
+ <p>4 feuilles de gélatine</p>
+ <p>450g de fruits rouges</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>un peu de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à tremper les <ingredient quantite=4>feuilles de gélatine</ingredient> dans de l’ eau froide 5 à 10 minutes. pendant ce temps, faire chauffer le lait de <ingredient quantite=1>coco</ingredient> et la <ingredient quantite=1>crème épaisse</ingredient> dans une <recipient>casserole</recipient>, ajouter le <ingredient quantite=1>sucre</ingredient>. quand le mélange est bien chaud, hors du feu, mettre la <ingredient quantite=4>gélatine</ingredient> et bien fouetter. <operation temps=6.86min espace=8>répartir le mélange dans des verres</operation> et <operation temps=10.0min espace=8>laisser refroidir avant de</operation> mettre au frigo (1 nuit c’ est parfait mais 3h suffisent). réserver quelques <ingredient quantite=1>fruits</ingredient> pour la décoration. préparer le coulis de <ingredient quantite=1>fruits rouges</ingredient> en ajoutant le <ingredient quantite=1>sucre</ingredient> vanillé et le <ingredient quantite=1>jus de citron</ingredient>. mixer. réserver au frigo. un peu avant de <operation temps=2.0min espace=8>servir</operation>, <operation temps=6.86min espace=8>répartir le coulis</operation> et décorer avec les <ingredient quantite=1>fruits</ingredient> réservés.
+]]>
+ </preparation>
+</recette>

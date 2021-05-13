@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24850">
+ <titre>Pizza au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>15 g de cacao pur en poudre</p>
+ <p>300 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>1 sachet de levure de boulanger déshydratée</p>
+ <p>20 g de sucre</p>
+ <p>Pour la garniture: </p>
+ <p>100 g de chocolat noir</p>
+ <p>40 g de cacao pur en poudre</p>
+ <p>75 g de sirop d’ érable</p>
+ <p>1 dl de crème fraîche liquide</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laissez la <ingredient quantite=1>levure de boulanger</ingredient> se réhydrater dans 2 cuillères à soupe d’ eau tiède. mêlez la farine, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>cacao en poudre</ingredient> et 1 pincée de sel dans le bol du robot à hélice. en mixant à vitesse moyenne, <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=3>oeufs</ingredient> un à un</operation>. quand la pâte se détache des parois, <operation temps=6.86min espace=13>ajoutez le beurre</operation> coupé en morceaux. <operation temps=6.86min espace=13>posez la pâte en boule sur votre plan de travail fariné</operation> et <operation temps=30.0min espace=13>laissez reposez 30 mn</operation>. avec vos mains farinées, <operation temps=6.86min espace=13>pétrissez la pâte quelques secondes</operation> ; <operation temps=6.86min espace=13>faire un disque de 25 cm de</operation> diamétre environ et 1 cm d’ épaisseur sur une plaque. <operation temps=30.0min espace=13>laissez gonfler au moins 30 mn au tiède: elle</operation> doit doubler de volume. préchauffez le <recipient>four</recipient> à 180 ° c. répartissez sur la pâte levée le <ingredient quantite=1>sirop</ingredient>, le <ingredient quantite=1>cacao</ingredient> et le beurre en noisettes. <operation temps=5.0min espace=13>enfournez 5 mn</operation>. etalez la <ingredient quantite=1>crème fraîche</ingredient>. quand <ingredient quantite=1>sirop</ingredient>, beurre et <ingredient quantite=1>crème</ingredient> se sont bien mélangés (environ 10 mn), <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>chocolat</ingredient> grossièrement</operation> concassé au robot, <operation temps=2.0min espace=13>réenfournez 2 mn</operation>.
+]]>
+ </preparation>
+</recette>

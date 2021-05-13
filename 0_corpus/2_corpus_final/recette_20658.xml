@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20658">
+ <titre>MACARONIS AUX HERBES</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de macaronis</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1/2 verre d’ huile</p>
+ <p>500 g de tomates</p>
+ <p>1/4 de litre de crème fraîche</p>
+ <p>30 g de parmesan</p>
+ <p>sauge</p>
+ <p>persil</p>
+ <p>romarin</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>oignons</ingredient></operation> ciselés et l’ <ingredient quantite=2>ail</ingredient> hachée dans un peu d’ huile. saupoudrer d’ herbes hachées et <operation temps=5.0min espace=12>faire cuire pendant 5 min</operation>. incorporer les <ingredient quantite=1>tomates</ingredient> mixées, assaisonner et <operation temps=3.0min espace=12>laisser mijoter pendant 2 à 3 min</operation>. verser la <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=12>laisser épaissir à feu doux sans</operation> porter à ébullition. ajouter les <ingredient quantite=1>macaronis</ingredient> et le <ingredient quantite=1>parmesan</ingredient>, mélanger et servir.
+]]>
+ </preparation>
+</recette>

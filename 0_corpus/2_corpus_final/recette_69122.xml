@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69122">
+ <titre>Pommes à l’ alsacienne</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes (reinette ou golden) </p>
+ <p>50 g de beurre</p>
+ <p>200 g de sucre cristallisé</p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>25 cl de lait</p>
+ <p>3 cuillères à soupe de maïzena</p>
+ <p>3 oeufs</p>
+ <p>1/2 cuillère café de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=13>pelez</operation> et <operation temps=6.86min espace=13>coupez les <ingredient quantite=1>pommes</ingredient> en fines lamelles</operation>. faîtes fondre le beurre dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=13>saupoudrez de 100 g de <ingredient quantite=1>sucre</ingredient> et du <ingredient quantite=1>sucre</ingredient></operation> vanillé et <operation temps=6.86min espace=13>faites sauter les <ingredient quantite=1>pommes</ingredient></operation>. <operation temps=6.86min espace=13>laissez caraméliser</operation>. <operation temps=6.86min espace=13>disposez les <ingredient quantite=1>pommes</ingredient> dans un <recipient>plat</recipient> beurré</operation> allant au <recipient>four</recipient>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=13>versez le lait, la</operation> maïzena, la canelle et le reste de <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=13>délayez</operation> et <operation temps=6.86min espace=13>faites chauffer à feu doux</operation>, retirer avant ébullition. hors du feu, <operation temps=6.86min espace=13>incorporez les jaunes d’ <ingredient quantite=1>oeuf</ingredient> 1 à 1</operation>. <operation temps=6.86min espace=13>laissez tiédir</operation>. <operation temps=6.86min espace=13>montez les blancs en neige très ferme</operation>. <operation temps=0.5min espace=13>ajoutez</operation> - les au mélange précédent puis <operation temps=6.86min espace=13>versez sur les <ingredient quantite=1>pommes</ingredient></operation>. <operation temps=20.0min espace=13>faites cuire 20 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57864">
+ <titre>Savarin allemand</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 œufs</p>
+ <p>200 g de sucre</p>
+ <p>200 g de beurre</p>
+ <p>200 g de noisettes (ou amandes ou noix) </p>
+ <p>125 g de farine</p>
+ <p>1 zeste de citron ou de la cannelle</p>
+ <p>125 g de chocolat au lait</p>
+ <p>1 cuillère à café de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les 6 jaunes d’ <ingredient quantite=6>œufs</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=9>faire fondre le beurre et l’</operation> ajouter, puis les <ingredient quantite=1>noisettes</ingredient> moulues. râper le <ingredient quantite=1>chocolat</ingredient> ou le couper en petits carrés, l’ ajouter avec le <ingredient quantite=1>zeste de citron</ingredient>, la <ingredient quantite=1>cannelle</ingredient> la <ingredient quantite=1>levure</ingredient> et la farine ; bien mélanger. battre les blancs en neige avec une pincée de sel et les incorporer à la pâte. mettre au <recipient>four</recipient> thermostat 6 ou 7.
+]]>
+ </preparation>
+</recette>

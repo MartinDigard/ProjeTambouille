@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14523">
+ <titre>Cake aux raisins secs</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de raisins secs</p>
+ <p>2 cl de rhum</p>
+ <p>3 oeufs</p>
+ <p>200 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>200 g de beurre</p>
+ <p>5 g de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+on laisse tremper les <ingredient quantite=1>raisins secs</ingredient> dans de l’ eau avec du <ingredient quantite=1>rhum</ingredient>. on sépare les blancs des jaunes d’ <ingredient quantite=3>oeufs</ingredient>. on mélange les jaunes et le <ingredient quantite=1>sucre</ingredient>. puis on ajoute le beurre mou, la farine et la <ingredient quantite=1>levure</ingredient> (qu’ on a délayée dans un peu d’ eau). on <operation temps=6.86min espace=9>laisse reposer une heure</operation>. ensuite, il faut battre les blancs en neige (assez fermes) et égoutter les <ingredient quantite=1>raisins</ingredient>. alors, on ajoute délicatement les blancs et les <ingredient quantite=1>raisins</ingredient> au mélange précédent. verser cette pâte dans un <recipient>moule</recipient> bien beurré, et mettre au <recipient>four</recipient> 45 min à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

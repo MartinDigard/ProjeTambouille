@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29783">
+ <titre>Flan caramélisé à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de rhubarbe</p>
+ <p>10 cl d’ eau</p>
+ <p>200 g de sucre</p>
+ <p>6 oeufs</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>20 morceaux de sucre (environ 100 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez et <operation temps=6.86min espace=11>grattez la <ingredient quantite=1>rhubarbe</ingredient>,</operation> puis <operation temps=6.86min espace=11>découpez - la en morceaux</operation>. dans une grande <recipient>marmite</recipient>, <operation temps=6.86min espace=11>faites chauffer 10 cl d’ <ingredient quantite=1>eau</ingredient> et les 200 g de</operation> <ingredient quantite=1>sucre</ingredient>, <operation temps=1.0min espace=11>portez à ébullition 1 min</operation>. <operation temps=6.86min espace=11>mettez - y la</operation> <ingredient quantite=1>rhubarbe</ingredient>, <operation temps=30.0min espace=11>laissez cuire à petits bouillons 30 min</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=11>battez les <ingredient quantite=6>oeufs</ingredient> en omelette, incorporez - y la <ingredient quantite=1>farine</ingredient> prgressivement</operation>. <operation temps=6.86min espace=11>mélangez avec la compote de <ingredient quantite=1>rhubarbe</ingredient></operation>. <operation temps=6.86min espace=11>préparez le caramel</operation>: faites fondre à feu doux le <ingredient quantite=1>sucre</ingredient> en morceaux et 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ <ingredient quantite=1>eau</ingredient>, <operation temps=6.86min espace=11>versez ce caramel dans un <recipient>moule</recipient> en couronne</operation>. versez - y la préparation à la <ingredient quantite=1>rhubarbe</ingredient>. <operation temps=45.0min espace=11>faites cuire au <recipient>bain - marie</recipient> dans le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 45 min</operation>. <operation temps=6.86min espace=11>laissez refroidir avant de</operation> démouler et servir.
+]]>
+ </preparation>
+</recette>

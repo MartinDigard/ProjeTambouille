@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25282">
+ <titre>Gâteau macaron au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le macaron: </p>
+ <p>300 g de sucre</p>
+ <p>175 g de poudre d’ amande</p>
+ <p>4 blancs d’ oeufs</p>
+ <p>100 g de chocolat noir à fondre</p>
+ <p>Pour la chantilly au chocolat: </p>
+ <p>40 cl de crème liquide</p>
+ <p>120 g de chocolat à fondre</p>
+ <p>200 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prévoir 2 moules à gâteau rond de 23 cm. préparation du <ingredient quantite=1>macaron</ingredient>: 1) <ingredient quantite=1>fondre</ingredient> au <recipient>bain - marie</recipient> les 100 g de <ingredient quantite=1>chocolat</ingredient>. 2) mélanger la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> + le <ingredient quantite=1>sucre</ingredient> + les blancs d’ <ingredient quantite=4>oeufs</ingredient>. 3) une fois le <ingredient quantite=1>chocolat</ingredient> fondu, l’ incorporer au reste de la préparation. 4) diviser cette pâte en 2 parties égales et <operation temps=6.86min espace=14>répartir chaque partie dans un <recipient>moule</recipient> garni de papier</operation> sulfurisé. 5) placer au <recipient>four</recipient> à 180 ° c durant 15 - 20 mn chaque partie. elles constitueront le dessus et le dessous du gâteau. 6) <operation temps=20.0min espace=14>laisser refroidir</operation>. préparation de la <ingredient quantite=1>chantilly</ingredient>: 1) <ingredient quantite=1>fondre</ingredient> au <recipient>bain - marie</recipient> les 120 g de <ingredient quantite=1>chocolat</ingredient>. 2) battre la <ingredient quantite=1>crème</ingredient> préalablement refroidie en <ingredient quantite=1>chantilly</ingredient>. 3) <operation temps=6.86min espace=14>ajoutez le <ingredient quantite=1>sucre</ingredient> puis le <ingredient quantite=1>chocolat</ingredient> refroidi,</operation> et mélanger. 4) placer au <recipient>réfrigérateur</recipient>. une fois que le gâteau <ingredient quantite=1>macaron</ingredient> et la <ingredient quantite=1>chantilly</ingredient> sont bien froids ; il suffit de tartiner de <ingredient quantite=1>chantilly</ingredient> une des 2 parties du <ingredient quantite=1>macaron</ingredient> et de le <operation temps=6.86min espace=14>recouvrir avec l’ autre partie</operation>. attention, ce dessert est riche en calories mais c’ est un tel régal... champagne
+]]>
+ </preparation>
+</recette>

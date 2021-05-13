@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62180">
+ <titre>Mêlée liégeoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de haricots princesses (haricots verts) </p>
+ <p>3 tranches de lard (fumé ou salé) </p>
+ <p>1 oignon </p>
+ <p>200 g de pommes de terre</p>
+ <p>sel et poivre</p>
+ <p>vinaigre de vin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> et les <ingredient quantite=1>haricots</ingredient> pendant 15 - 20 minutes. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faire griller le <ingredient quantite=3>lard</ingredient></operation>. le réserver. déglacer la <recipient>poêle</recipient> avec le <ingredient quantite=1>vinaigre de vin</ingredient>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=9>faire blondir l’ <ingredient quantite=1>oignon</ingredient> dans peu de beurre puis y</operation> ajouter les <ingredient quantite=1>haricots</ingredient>, les <ingredient quantite=1>pommes de terre</ingredient>, le <ingredient quantite=3>lard</ingredient>. <operation temps=2.0min espace=9>servir chaud</operation>. ajouter du <ingredient quantite=1>vinaigre</ingredient> si vous le souhaitez. bon appétit!
+]]>
+ </preparation>
+</recette>

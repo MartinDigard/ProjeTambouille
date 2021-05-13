@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26733">
+ <titre>Soufflés de soles au saumon et coulis d’ asperges</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>500 g de saumon frais sans arêtes</p>
+ <p>6 filets de soles</p>
+ <p>2 blancs d’ oeufs</p>
+ <p>10 cl de crème</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ <p>Pour la sauce: </p>
+ <p>500 g d’ asperges vertes</p>
+ <p>10 cl de crème fraîche épaisse</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>beurrez 6 ramequins</operation> rond à bords hauts. <operation temps=0.25min espace=13>salez</operation> et poivrez les <ingredient quantite=6>filets de soles</ingredient>, disposez - les en rond dans les ramequins, en les collant aux bords. <operation temps=6.86min espace=13>mixez le <ingredient quantite=1>saumon</ingredient> finement avec la <ingredient quantite=1>crème</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=6.86min espace=13>fouettez les blancs en neige</operation> et <operation temps=6.86min espace=13>incorporez - les à la <ingredient quantite=1>crème</ingredient> de <ingredient quantite=1>saumon</ingredient></operation>. répartissez cette préparation au centre des ramequins. placez - les dans un <recipient>bain - marie</recipient>, <operation temps=25.0min espace=13>faites cuire 25 minutes au <recipient>four</recipient> à 120 ° c (thermostat 4</operation>). pendant ce temps, <operation temps=6.86min espace=13>grattez les</operation> <ingredient quantite=1>asperges</ingredient> et <operation temps=6.86min espace=13>faites - les</operation> cuire 15 minutes à l’ eau bouillante salée. <operation temps=10.0min espace=13>egouttez</operation> - les et <operation temps=6.86min espace=13>mixez - les en purée fine</operation>. ajoutez la <ingredient quantite=1>crème fraîche</ingredient> et les <ingredient quantite=2>jaunes</ingredient> d’ oeufs toujours en mixant, puis <operation temps=6.86min espace=13>réchauffez à feu doux</operation>. <operation temps=6.86min espace=13>démoulez les soufflés</operation> et <operation temps=6.86min espace=13>servez - les entourés de <ingredient quantite=1>sauce</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40504">
+ <titre>Cuisse de dinde au bouillon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse cuisse de dinde (environ 1.5 kg) </p>
+ <p>1 bouillon de volaille dilué dans 1/4l d’ eau bouillante</p>
+ <p>3 tomates</p>
+ <p>1 gros oignon</p>
+ <p>haricots verts frais</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites cuire les <ingredient quantite=1>haricots</ingredient> à l’ <ingredient quantite=1>eau</ingredient> bouillante environ 10 min, puis passez - les sous l’ <ingredient quantite=1>eau</ingredient> froide</operation> et <operation temps=0.5min espace=10>réservez</operation>. préchauffez votre <recipient>four</recipient> à 180 ° c. <operation temps=6.86min espace=10>beurrez légèrement un <recipient>plat</recipient></operation> allant au <recipient>four</recipient> et déposez - y la <ingredient quantite=1>cuisse de dinde</ingredient>, après l’ avoir salée et poivrée selon vos goûts, des 2 côtés. emincez l’ <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=10>coupez les <ingredient quantite=3>tomates</ingredient> en quartiers</operation>, <operation temps=0.25min espace=10>salez</operation> et <operation temps=6.86min espace=10>poivrez légèrement (pas trop car le <ingredient quantite=1>bouillon</ingredient> est déjà salé!)</operation> et <operation temps=6.86min espace=10>disposez - les tout autour de la viande</operation>. ajoutez le <ingredient quantite=1>bouillon de volaille dilué</ingredient> et enfournez pour environ 1 heure. 1/4 d’ heure avant la fin de la cuisson, <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=1>haricots</ingredient> dans le <recipient>plat</recipient></operation>. <operation temps=6.86min espace=10>retournez la viande à mi-cuisson</operation> et <operation temps=6.86min espace=10>arrosez - la régulièrement de son <ingredient quantite=1>bouillon</ingredient> pour qu’ elle soit bien moelleuse</operation>. cette cuisson permet de ne pas dessécher la viande et de lui donner beaucoup de parfum.
+]]>
+ </preparation>
+</recette>

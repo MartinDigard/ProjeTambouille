@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19337">
+ <titre>Risotto aux deux jambons et aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 verres de riz</p>
+ <p>100 g de petits pois frais</p>
+ <p>1 tranche de jambon blanc</p>
+ <p>1 tranche de jambon de Parme</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>100 g de parmesan</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites chauffer l’ <ingredient quantite=2>huile</ingredient> dans une grande <recipient>poêle</recipient></operation>, <operation temps=6.86min espace=10>ajoutez - y le</operation> <ingredient quantite=2>riz</ingredient> et <operation temps=6.86min espace=10>faites - le</operation> <operation temps=6.86min espace=10>revenir jusqu’ à ce qu’ il</operation> devienne transparent ; <operation temps=6.86min espace=10>ajoutez deux fois son volume d’ eau</operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation> et <operation temps=6.86min espace=10>laissez cuire à feu doux jusqu’ à ce que le liquide soit complètement évaporé</operation>. pendant ce temps, coupez le <ingredient quantite=1>jambon blanc</ingredient> en dés et le <ingredient quantite=1>jambon de parme</ingredient> en lanières. dix minutes avant la fin de la cuisson du <ingredient quantite=2>riz</ingredient>, ajoutez - y les <ingredient quantite=1>petits pois</ingredient> et <operation temps=6.86min espace=10>poursuivez la cuisson</operation>. lorsque le <ingredient quantite=2>riz</ingredient> est cuit, disposez - le dans un <recipient>plat</recipient> de service creux puis <operation temps=6.86min espace=10>ajoutez - y les morceaux des 2 <ingredient quantite=1>jambons</ingredient></operation>. <operation temps=6.86min espace=10>râpez le <ingredient quantite=1>parmesan</ingredient> et parsemez - le sur le risotto</operation>. <operation temps=6.86min espace=10>ajoutez quelques brins de <ingredient quantite=1>persil</ingredient></operation> ciselé. <operation temps=2.0min espace=10>servez</operation>.
+]]>
+ </preparation>
+</recette>

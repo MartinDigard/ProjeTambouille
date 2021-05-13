@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56942">
+ <titre>Aiguillettes de poulet aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 à 8 aiguillettes de poulet</p>
+ <p>2 poivrons</p>
+ <p>25 cl de crème fraîche</p>
+ <p>2 à 3 pincées de curry</p>
+ <p>sel et poivre</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par laver et couper les <ingredient quantite=2>poivrons</ingredient> en petits morceaux. les <operation temps=15.0min espace=7>faire revenir dans une <recipient>poêle</recipient> avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, à feu moyen pendant 15 min jusqu’ à ce qu’ ils soient presque mou</operation>. lorsque les <ingredient quantite=2>poivrons</ingredient> arrivent à ce stade, y mettre les <ingredient quantite=6>aiguillettes</ingredient> et <operation temps=6.86min espace=7>laisser cuire, en les retournant de temps en temps, environ 10 min, toujours à feu moyen</operation>. lorsque tout est cuit, baisser le feu, y mettre le <ingredient quantite=1>crème</ingredient> fraiche, la delayer et y mettre le <ingredient quantite=2>curry</ingredient> autant que vous voulez selon votre goût. saler et poivrer. servir. peuvent être servie seule ou avec du riz.
+]]>
+ </preparation>
+</recette>

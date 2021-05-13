@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37008">
+ <titre>Tourte au saumon et aux poireaux</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 rouleaux de pâte (brisée ou feuilletée) </p>
+ <p>500 g de saumon frais</p>
+ <p>500 g de poireaux </p>
+ <p>2 oeufs + 1 jaune (pour dorer) </p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel, poivre</p>
+ <p>herbes au choix (thym, basilic, etc...) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>poireaux</ingredient> coupés en lanières, bien les</operation> égoutter. sur un fond de <ingredient quantite=2>pâte</ingredient>, étaler les <ingredient quantite=1>poireaux</ingredient>, le <ingredient quantite=1>saumon</ingredient> émietté. battre les 2 <ingredient quantite=2>oeufs</ingredient> entiers et la <ingredient quantite=1>crème fraîche</ingredient>, assaisonner, et verser sur les <ingredient quantite=1>poireaux</ingredient> et le <ingredient quantite=1>saumon</ingredient>. <operation temps=6.86min espace=9>recouvrir avec l’ autre rond de</operation> <ingredient quantite=2>pâte</ingredient>, percer de quelques petits trous. dorer avec le <ingredient quantite=2>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et <operation temps=30.0min espace=9>faire cuire au <recipient>four</recipient> à 210 ° c (thermostat 7) environ 30 min</operation>. on peut ajouter du fromage râpé, cela fait un <recipient>plat</recipient> complet, accompagné d’ une salade verte.
+]]>
+ </preparation>
+</recette>

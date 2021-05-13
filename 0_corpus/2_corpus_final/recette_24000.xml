@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24000">
+ <titre>Cheese-cake à la fleur d’ oranger</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de petits beurre</p>
+ <p>180 g de beurre</p>
+ <p>100 g sucre roux</p>
+ <p>1 à 2 cuillères à café de cannelle</p>
+ <p>1 kg de petits suisses</p>
+ <p>1 cuillère à café rase de sel</p>
+ <p>3 cuillères à soupe d’ eau de fleur d’ oranger</p>
+ <p>6 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecrasez grssièrement les <ingredient quantite=1>petits beurre</ingredient>: placez - les dans un torchon et <operation temps=6.86min espace=13>passez le rouleau à pâtisserie dessus</operation>. <operation temps=6.86min espace=13>faites fondre le <ingredient quantite=1>beurre</ingredient></operation>. mélangez - le avec les <ingredient quantite=1>petits beurre</ingredient> et la <ingredient quantite=1>cannelle</ingredient>. <operation temps=6.86min espace=13>tassez ce mélange dans un <recipient>moule</recipient></operation> rond à bords hauts type <recipient><recipient>moule</recipient> à manqué</recipient>. <operation temps=6.86min espace=13>lissez bien la surface en</operation> tapotant avec le fond d’ un verre. <operation temps=6.86min espace=13>réservez au <recipient>réfrigérateur</recipient></operation>. fouettez les <ingredient quantite=1>petits suisses</ingredient> avec le <ingredient quantite=1>sel</ingredient>, <operation temps=6.86min espace=13>ajoutez - y les <ingredient quantite=6>oeufs</ingredient> un à un</operation>. rajoutez le sucre et l’ <ingredient quantite=3>eau de fleur</ingredient> d’ <ingredient quantite=3>oranger</ingredient>. <operation temps=6.86min espace=13>fouettez encore au batteur</operation> puis versez dans le <recipient>moule</recipient> sur les <ingredient quantite=1>petits beurres</ingredient>. <operation temps=50.0min espace=13>faites cuire au <recipient>four</recipient> à 180 ° c-200 ° c (thermostat 6 - 7) pendant 50 min</operation>. <operation temps=6.86min espace=13>testez la consistance en</operation> piquant un couteau qui doit <operation temps=6.86min espace=13>ressortir " sec</operation> ". <operation temps=6.86min espace=13>réservez au frais jusqu’ au service</operation>. on peut remplacer les <ingredient quantite=1>petits beurre</ingredient> par d’ autres biscuits secs selon les goûts.
+]]>
+ </preparation>
+</recette>

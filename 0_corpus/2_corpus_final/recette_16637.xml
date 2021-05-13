@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16637">
+ <titre>Tagliatelles à la Modeste</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de tagliatelles aux oeufs</p>
+ <p>1 boîte de moitiés de petits artichauts</p>
+ <p>1 gousse d’ ail</p>
+ <p>6 brins de persil</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>1 fromage de chèvre frais de type Chavroux</p>
+ <p>1 verre de vin blanc sec </p>
+ <p>25 g de parmesan râpé</p>
+ <p>3 cuillères à d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>egouttez les <ingredient quantite=1>artichauts</ingredient></operation>. <operation temps=6.86min espace=11>coupez - les en tranches fines</operation>. epluchez la gousse d’ <ingredient quantite=1>ail</ingredient>. hachez - la finement avec le <ingredient quantite=6>persil</ingredient>. <operation temps=6.86min espace=11>faites chauffer l’ <ingredient quantite=3>huile</ingredient> dans une <recipient>casserole</recipient></operation>. <operation temps=6.86min espace=11>mettez - y le hachis de <ingredient quantite=6>persil</ingredient> et d’ <ingredient quantite=1>ail</ingredient> à</operation> cuire pendant 1 à 2 minutes en remuant constamment. <operation temps=6.86min espace=11>ajoutez les lamelles d’ <ingredient quantite=1>artichauts</ingredient></operation>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et ajoutez le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=15.0min espace=11>faites cuire à feu moyen pendant 15 minutes en</operation> remuant de temps en temps. pendant ce temps, écrasez le <ingredient quantite=1>fromage de chèvre</ingredient> à la fourchette et <operation temps=6.86min espace=11>incorporez les 2 <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=1>oeufs</ingredient></operation>. <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>parmesan</ingredient></operation>. <operation temps=6.86min espace=11>faites cuire les <ingredient quantite=1>tagliatelles</ingredient> " al dente "</operation> puis <operation temps=6.86min espace=11>égouttez - les en</operation> gardant une <ingredient quantite=1>cuillère</ingredient> à soupe de leur eau de cuisson. <operation temps=6.86min espace=11>ajoutez - la au mélange de <ingredient quantite=1>fromage</ingredient></operation>. <operation temps=6.86min espace=11>versez cette sauce sur les</operation> <ingredient quantite=1>tagliatelles</ingredient>, <operation temps=3.0min espace=11>ajoutez les</operation> <ingredient quantite=1>artichauts</ingredient>, <operation temps=8.0min espace=11>mélangez bien</operation> et <operation temps=6.86min espace=11>servez rapidement</operation>. a réaliser au dernier moment et à déguster sans tarder pour éviter que la sauce ne " fige "! un sauvignon bien <ingredient quantite=1>frais</ingredient>
+]]>
+ </preparation>
+</recette>

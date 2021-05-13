@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52444">
+ <titre>Tarte aux trois chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>100 g de chocolat blanc</p>
+ <p>100 g de chocolat au lait</p>
+ <p>100 g de chocolat noir </p>
+ <p>20 cl de crème liquide</p>
+ <p>20 cl de lait</p>
+ <p>2 cuillère à soupe de farine</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposez sur la <ingredient quantite=1>pâte feuilletée</ingredient> le <ingredient quantite=1>chocolat</ingredient> en dammier. alternez - la en arrondi sur la <ingredient quantite=1>pâte</ingredient>, de façon à <operation temps=6.86min espace=10>faire 3 <ingredient quantite=1>chocolats</ingredient> différents à chaque fois (1 carré <ingredient quantite=1>blanc</ingredient>, 1 carré <ingredient quantite=1>lait</ingredient>, 1 carré</operation> <ingredient quantite=1>noir</ingredient>). quand toute la <ingredient quantite=1>pâte</ingredient> est recouverte, <operation temps=1.0min espace=10>versez</operation> dessus le mélange <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>lait</ingredient>, <ingredient quantite=2>farine</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=3>oeufs</ingredient>. enfournez à <recipient>four</recipient> chaud (210 ° c - th 7), pendant environ 30 à 45 min ; <operation temps=6.86min espace=10>laissez refroidir pour</operation> déguster. cette recette toute simple permet de nombreuses variantes, puisqu’ on part d’ un mélange de <ingredient quantite=1>chocolat</ingredient> et de flan je <operation temps=6.86min espace=10>réalisais cette recette il y’</operation> a quelques années en arrière et je me suis aperçue en voulant rechercher les quantités pour la réaliser à nouveau qu’ elle ne figurait pas parmi celles des tartes proposés. j’ ai donc rédigé de mémoire cette recette et il est possible que la recette de base comporte un peu plus de <ingredient quantite=1>sucre</ingredient>. je vous <operation temps=6.86min espace=10>laisse le soin d’ y</operation> apporter vos propres modifications et serais ravie que vous me <operation temps=6.86min espace=10>teniez au courant de vos essais! bonne dégustation</operation>!
+]]>
+ </preparation>
+</recette>

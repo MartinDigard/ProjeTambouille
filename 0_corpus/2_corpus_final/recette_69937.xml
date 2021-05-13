@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69937">
+ <titre>Verrine chocolat noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat pâtissier</p>
+ <p>3 blancs d’ oeuf</p>
+ <p>200 g de fromage blanc</p>
+ <p>50 g de noix de coco râpée</p>
+ <p>sucre</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+monter les <ingredient quantite=3>blancs</ingredient> en neige. pendant ce temps <operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec un peu de beurre</operation>. incorporer délicatement les <ingredient quantite=3>blancs</ingredient> au <ingredient quantite=1>chocolat</ingredient> fondu mais tièdi puis les <operation temps=6.86min espace=6>répartir dans 4 verrines jusqu’ à mi-hauteur</operation>. réserver. mélanger le <ingredient quantite=1>sucre</ingredient> (quantité selon les goûts) et la <ingredient quantite=1>noix de coco râpée</ingredient> au <ingredient quantite=1>fromage blanc</ingredient>. <operation temps=6.86min espace=6>répartir le mélange sur la mousse</operation>. décorer avec quelques copeaux de <ingredient quantite=1>chocolats</ingredient> et de la <ingredient quantite=1>noix de coco</ingredient>.
+]]>
+ </preparation>
+</recette>

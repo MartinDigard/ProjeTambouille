@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81715">
+ <titre>Tarte aux deux moutardes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte brisée</p>
+ <p>2 cuillères à soupe de moutarde forte</p>
+ <p>2 cuillères à soupe de moutarde à l’ ancienne</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème liquide</p>
+ <p>20 cl de lait</p>
+ <p>1 tomate</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumerle <recipient>four</recipient> à21 ° c (thermostat 7) dérouler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. la piquer avec une fourchette. mélanger dans un <recipient>saladier</recipient> les <ingredient quantite=3>oeufs</ingredient> entiers, les <ingredient quantite=2>moutardes</ingredient>, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. verser sur la <ingredient quantite=1>pâte</ingredient>. couper la <ingredient quantite=1>tomate</ingredient> en rondelles et poser sur la préparation enfourner en bas du <recipient>four</recipient> à 210 ° c.
+]]>
+ </preparation>
+</recette>

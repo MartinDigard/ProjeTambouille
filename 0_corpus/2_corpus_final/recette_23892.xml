@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23892">
+ <titre>Carry de saucisse</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 saucisses fumées type Montbéliard</p>
+ <p>4 à 6 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>épices: curry, gingembre (facultatif) </p>
+ <p>-8 tomates bien mûres</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>oignons</ingredient> et les <ingredient quantite=4>saucisses</ingredient> (pour les <ingredient quantite=4>saucisses</ingredient>, <operation temps=6.86min espace=6>faire des tranches de 5 cm d’ épaisseur à peu près</operation>). <operation temps=6.86min espace=6>faire griller les <ingredient quantite=4>saucisses</ingredient> dans de l’ huile d’ olive</operation>. quand elles sont <ingredient quantite=1>bien</ingredient> grillées, ajouter les <ingredient quantite=4>oignons</ingredient> et réduire un peu le feu. pour que les <ingredient quantite=4>oignons</ingredient> fondent <ingredient quantite=1>bien</ingredient>, rajouter un tout petit peu d’ huile. saupoudrer de <ingredient quantite=1>curry</ingredient>, rajouter les <ingredient quantite=1>tomates</ingredient> pelées (<operation temps=6.86min espace=6>faites - les</operation> tremper dans de l’ eau chaude pour les peler plus facilement). <operation temps=6.86min espace=6>laisser mijoter jusqu’ a ce que les <ingredient quantite=1>tomates</ingredient> soit</operation> fondues. rajouter un peu d’ <ingredient quantite=1>épice</ingredient> à la fin. ce <recipient>plat</recipient> créole se mange avec du riz basmati.
+]]>
+ </preparation>
+</recette>

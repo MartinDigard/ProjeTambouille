@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57008">
+ <titre>Tarte express au boursin</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de boursin ail et fines herbes</p>
+ <p>3 oeufs </p>
+ <p>1 pâte brisée</p>
+ <p>3 cuillères à soupe de crème fraîche épaisse </p>
+ <p>150 g de gruyère râpé</p>
+ <p>200 g de jambon</p>
+ <p>sel, poivre</p>
+ <p>persil seché à son goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>pot de boursin</ingredient> et la <ingredient quantite=3>crème</ingredient> fraîche jusqu’ à un mélange lisse. battre les <ingredient quantite=3>oeufs</ingredient> en omelette et les incorporer au mélange précédent. mouliner le <ingredient quantite=1>jambon</ingredient> et l’ y incorporer ainsi que le <ingredient quantite=1>sel</ingredient>, le poivre, le <ingredient quantite=1>persil</ingredient> et le <ingredient quantite=1>gruyère</ingredient>. mettre la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> et la piquer à la fourchette. verser la préparation et <operation temps=30.0min espace=9>faire cuire 30 mn à 180 ° c ou th 6</operation>.
+]]>
+ </preparation>
+</recette>

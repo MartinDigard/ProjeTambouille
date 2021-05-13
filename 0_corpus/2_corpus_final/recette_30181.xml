@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30181">
+ <titre>Potage aux poireaux et chipolatas</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>4 poireaux</p>
+ <p>12 petites chipolatas</p>
+ <p>2 l de bouillon</p>
+ <p>1 bouquet garni</p>
+ <p>30 g de beurre</p>
+ <p>crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et coupez les <ingredient quantite=1>pommes de terre</ingredient> en dés. nettoyez et émincez les <ingredient quantite=4>poireaux</ingredient>. <operation temps=6.86min espace=9>faites fondre le beurre dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=9>mettez - y les</operation> <ingredient quantite=4>poireaux</ingredient> et <operation temps=10.0min espace=9>laissez suer 10 min</operation>. ajoutez le <ingredient quantite=1>bouillon</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=45.0min espace=9>laissez cuire 45 min à <ingredient quantite=1>petit</ingredient> frémissement</operation>, <operation temps=6.86min espace=9>mixez</operation> et <operation temps=6.86min espace=9>rajoutez les saucisses</operation>. <operation temps=10.0min espace=9>laissez chauffer 10 min</operation> et incorporez la <ingredient quantite=1>crème fraîche</ingredient>. servez accompagné de fromage râpé.
+]]>
+ </preparation>
+</recette>

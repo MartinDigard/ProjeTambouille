@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39669">
+ <titre>Salade de lardons à la feta</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 bocal de feta (avec de l’ huile et des herbes) </p>
+ <p>1 coeur de laitue</p>
+ <p>200 g de lardons</p>
+ <p>4 belles tomates</p>
+ <p>Pour l’ assaisonnement: </p>
+ <p>moutarde</p>
+ <p>sel, poivre</p>
+ <p>vinaigre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites griller les <ingredient quantite=1>lardons</ingredient>, à la <recipient>poêle</recipient></operation>. pendant ce temps, <operation temps=6.86min espace=9>coupez les <ingredient quantite=4>tomates</ingredient> en quartiers,</operation> et <operation temps=6.86min espace=9>mélangez - les à la <ingredient quantite=1>laitue</ingredient> et la <ingredient quantite=1>feta</ingredient></operation>. <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=1>lardons</ingredient>, une fois qu’ ils sont</operation> cuits. <operation temps=6.86min espace=9>préparez la sauce</operation>: <operation temps=6.86min espace=9>récupérez quatre</operation> cuillerées à soupe de l’ huile du <ingredient quantite=1>bocal</ingredient> de féta et les fines herbes à l’ intérieur. <operation temps=6.86min espace=9>mélangez avec deux cuillerées à soupe de <ingredient quantite=1>vinaigre</ingredient>, une cuillerée à café de <ingredient quantite=1>moutarde</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=6.86min espace=9>versez sur la salade</operation> et <operation temps=5.0min espace=9>dégustez</operation>. j’ ai mangé cette salade, tous les soirs pendant deux mois, sans m’ en lasser.
+]]>
+ </preparation>
+</recette>

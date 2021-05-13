@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66080">
+ <titre>Soupe comme en Franche-comté</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de pommes de terre</p>
+ <p>1 bel oignon</p>
+ <p>200 g de poireaux</p>
+ <p>20 g de beurre</p>
+ <p>1 l d’ eau</p>
+ <p>1 cube de bouillon de légumes</p>
+ <p>3 cuillères à soupe de cancoillotte</p>
+ <p>comté râpé</p>
+ <p>1 saucisse de Morteau déjà cuite</p>
+ <p>sel, poivre</p>
+ <p>facultatif: pain de campagne grillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler, laver et couper les <ingredient quantite=1>pommes de terre</ingredient> en gros dés. laver et émincer les <ingredient quantite=1>poireaux</ingredient>. <operation temps=6.86min espace=16>faire fondre le beurre au fond de l’ <recipient>autocuiseur</recipient> et y</operation> <operation temps=6.86min espace=16>faire blondir légèrement</operation> l’ <ingredient quantite=1>oignon</ingredient>. ajouter les <ingredient quantite=1>légumes</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>cube de bouillon</ingredient>. fermer l’ <recipient>autocuiseur</recipient> et <operation temps=20.0min espace=16>laisser <ingredient quantite=1>cuire</ingredient> 20 minutes sous pression à feu moyen</operation>. le laps de temps écoulé, mixer la <ingredient quantite=3>soupe</ingredient> avec la <ingredient quantite=3>cancoillotte</ingredient>, saler et poivrer selon le goût personnel. couper la <ingredient quantite=1>morteau</ingredient> en rondelles. <operation temps=6.86min espace=16>répartir la <ingredient quantite=3>soupe</ingredient> dans des caquelons</operation> pouvant supporter le grill. parsemer de <ingredient quantite=1>comté</ingredient> et de rondelles de <ingredient quantite=1>morteau</ingredient> chaque <recipient>caquelon</recipient>. <operation temps=10.0min espace=16>faire gratiner entre 5 et 10 minutes sous le grill</operation>. accompagner de tranches de <ingredient quantite=1>pain de campagne</ingredient> grillé pour les grosses faims! bon appétit... excellent les soirs d’ hiver, ce <recipient>plat</recipient> a l’ avantage de <operation temps=6.86min espace=16>devenir un <recipient>plat</recipient> unique en</operation> augmentant les proportions. pas de vin avec la <ingredient quantite=3>soupe</ingredient> chez moi... et chez vous ? ? ?
+]]>
+ </preparation>
+</recette>

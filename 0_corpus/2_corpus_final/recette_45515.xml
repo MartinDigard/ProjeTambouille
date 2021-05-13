@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45515">
+ <titre>Crème de carottes au gingembre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de carottes en rondelles</p>
+ <p>1 échalote hachée</p>
+ <p>1 cuillère à soupe de beurre</p>
+ <p>6 dl de bouillon de légume</p>
+ <p>1 cuillère à café de gingembre frais, finement râpé</p>
+ <p>1 citron non traité, zeste râpé et 1 cuillère à café de jus</p>
+ <p>sel, poivre, selon goût</p>
+ <p>1, 8 dl de crème fouettée</p>
+ <p>1 carotte, détaillé en longs rubans au couteau économe, blanchis, </p>
+ <p>pluches de cerfeuil pour le décor</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir <ingredient quantite=1>carottes</ingredient> et <ingredient quantite=1>échalotes</ingredient> dans le <ingredient quantite=1>beurre</ingredient> chaud</operation>, ajouter le <ingredient quantite=1>bouillon</ingredient>, et cuire à couvert. passer la <ingredient quantite=1>soupe</ingredient> au <recipient>mixeur</recipient>. et incorporer le <ingredient quantite=1>gingembre</ingredient>, <ingredient quantite=1>zeste et jus de citron</ingredient> ; saler et poivrer. incorporer délicatement 2\3 de la <ingredient quantite=1>crème</ingredient> fouettée, dresser, et décorer avec le reste de <ingredient quantite=1>crème</ingredient>, les <ingredient quantite=1>rubans</ingredient> de <ingredient quantite=1>carottes</ingredient> et le <ingredient quantite=1>cerfeuil</ingredient>.
+]]>
+ </preparation>
+</recette>

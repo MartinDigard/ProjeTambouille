@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48399">
+ <titre>Gâteau cacao/Schnaps</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>170 g de sucre</p>
+ <p>140 g de beurre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 paquet de levure chimique</p>
+ <p>270 g de farine</p>
+ <p>1/2 verre de lait (à voir selon la consistance de la pâte) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> et incorporer les autres ingrédients au fur et à mesure. beurrer un <recipient>moule</recipient>. rajouter la pâte. mélanger un peu de cacao amer avec du schnaps et mélanger. <operation temps=45.0min espace=8>faire cuire 30 à 45 min à 210 ° c (thermostat 7</operation>). c’ est délicieux!
+]]>
+ </preparation>
+</recette>

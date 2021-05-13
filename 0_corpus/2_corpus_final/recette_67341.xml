@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67341">
+ <titre>Boeuf aux petits piments</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g à 800 g de boeuf spécial bourguignon</p>
+ <p>2 cuillères à soupe de maïzena</p>
+ <p>Pour la marinade: </p>
+ <p>4 à 6 cuillères à soupe d’ huile d’ olive</p>
+ <p>4 à 6 petits piments rouge selon votre goût (moi j’ utilise du piment séché de l’ île de la Réunion) </p>
+ <p>mélange 5 baies du moulin</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>préparez la <ingredient quantite=1>marinade</ingredient> en</operation> ajoutant à l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>: les <ingredient quantite=4>petits piments</ingredient> non écrasés, 3 pincées de <ingredient quantite=1>sel</ingredient>, 4 tours du <ingredient quantite=1>moulin 5 baies</ingredient> et la gousse d’ <ingredient quantite=1>ail</ingredient> pressée. <operation temps=6.86min espace=11>arrosez le boeuf de cette préparation dans une <recipient>terrine</recipient></operation>, <operation temps=5.0min espace=11>mélangez</operation> et <operation temps=0.25min espace=11>couvrez</operation>. <operation temps=6.86min espace=11>laissez mariner au moins 4 heures au <recipient>réfrigérateur</recipient></operation>. <operation temps=6.86min espace=11>retirez le boeuf</operation> et <operation temps=6.86min espace=11>filtrez l’ <ingredient quantite=4>huile</ingredient></operation>. <operation temps=6.86min espace=11>faites revenir le boeuf dans cette <ingredient quantite=4>huile</ingredient> filtrée à feu</operation> vif dans une <recipient>cocotte</recipient>. délayer la maïzena dans un grand verre d’ eau froide et <operation temps=6.86min espace=11>arrosez le boeuf bien saisi</operation>. <operation temps=6.86min espace=11>laissez mijoter à feu doux pendant 1h30 en</operation> surveillant de temps en temps. <operation temps=6.86min espace=11>salez en fin de cuisson si nécessaire</operation>. <operation temps=6.86min espace=11>servez avec du riz</operation>. pour les personnes qui aiment les plats bien épicés, <operation temps=6.86min espace=11>laisser mariner plus longtemps</operation> et conserver les <ingredient quantite=4>piments</ingredient> à la cuisson, mais attention, c’ est très fort.
+]]>
+ </preparation>
+</recette>

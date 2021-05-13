@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72791">
+ <titre>Saumon à la ciboulette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pavés épais de saumon de 150 g</p>
+ <p>200 g de beurre salé</p>
+ <p>2 gros citrons</p>
+ <p>quelques brins de ciboulette ou d’ aneth </p>
+ <p>poivre noir</p>
+ <p>riz sauvage ou haricots</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faites chauffer votre beurre dans une <recipient>poêle</recipient></operation>. quand il est fondu, sans le <operation temps=6.86min espace=7>laisser noircir</operation>, <operation temps=6.86min espace=7>posez les morceaux de</operation> <ingredient quantite=4>saumon</ingredient>, <operation temps=6.86min espace=7>saupoudrez de</operation> <ingredient quantite=1>ciboulette</ingredient> et <operation temps=15.0min espace=7>laissez cuire 15 min à feu doux en</operation> tournant les <ingredient quantite=4>pavés</ingredient> afin de les <operation temps=6.86min espace=7>faire cuire sur tous les côtés</operation>. pressez les <ingredient quantite=2>citrons</ingredient> 2 min avant la fin de la cuisson, <operation temps=6.86min espace=7>ajoutez le jus aux</operation> <ingredient quantite=4>pavés</ingredient> et <operation temps=0.5min espace=7>poivrez</operation>. le <ingredient quantite=4>saumon</ingredient> doit avoir la peau croustillante et la chair à peine chaude. <operation temps=6.86min espace=7>rajoutez la pulpe des <ingredient quantite=2>citrons</ingredient> qui</operation> reste à la sauce afin de l’ épaissir un peu. <operation temps=6.86min espace=7>servez en</operation> rajoutant la sauce de cuisson sur les <ingredient quantite=4>pavés</ingredient>. servez - les aussitôt avec du <ingredient quantite=1>riz sauvage</ingredient> ou des <ingredient quantite=1>haricots</ingredient>. vin blanc sec
+]]>
+ </preparation>
+</recette>

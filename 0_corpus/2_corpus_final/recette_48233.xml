@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48233">
+ <titre>Spaghetti au thon de maman</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g spaghetti</p>
+ <p>1 boîte de thon (200 g) </p>
+ <p>5 cl huile d’ olive</p>
+ <p>1 boîte de champignons de Paris entiers</p>
+ <p>8 portions de fromage à tartiner (type Vache qui Rit) </p>
+ <p>1/2 tube de concentré de tomates</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire vos pâtes, puis les</operation> égoutter. pendant ce temps, mettre l’ huile d’ <ingredient quantite=1>olive</ingredient> et tous les ingrédients dans la <recipient>casserole</recipient>. <operation temps=5.0min espace=9>faire fondre 5 min environ en</operation> remuant, et incorporer les pâtes. <operation temps=6.86min espace=9>servir avec du parmesan</operation>. les enfants raffolent de ce <recipient>plat</recipient> et je l’ ai <operation temps=6.86min espace=9>transmis à toutes les mamans que je</operation> <operation temps=6.86min espace=9>connais</operation>. rosé
+]]>
+ </preparation>
+</recette>

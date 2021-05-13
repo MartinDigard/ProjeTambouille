@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16209">
+ <titre>Oreilles de cochon grillées</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 oreilles de porc</p>
+ <p>2 oignons</p>
+ <p>1 carotte coupée en morceaux</p>
+ <p>1 branche de thym</p>
+ <p>2 branches de persil</p>
+ <p>8 grains de poivre</p>
+ <p>1 cuillère à café de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients dans un grand <recipient>chaudron</recipient>, avec les <ingredient quantite=1>oreilles</ingredient>. <operation temps=6.86min espace=8>faire mijoter à feu doux durant 1 h</operation>. <operation temps=10.0min espace=8>laisser tiédir</operation>, retirer les <ingredient quantite=1>oreilles</ingredient> égouttées et <ingredient quantite=1>coupées en morceaux</ingredient>. lorsque c’ est froid, tremper dans des oeufs battus, roulés dans la chapelure / frire au quelques minutes.
+]]>
+ </preparation>
+</recette>

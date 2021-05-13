@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17351">
+ <titre>Moelleux au gingembre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de chocolat</p>
+ <p>4 oeufs</p>
+ <p>150 g de beurre</p>
+ <p>150 g de sucre</p>
+ <p>50 g de farine</p>
+ <p>1/2 cuillerée à café de cannelle en poudre</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>le zeste d’ un citron vert</p>
+ <p>1 à 2 cuillerées à café de gingembre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>allumez le <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). <operation temps=6.86min espace=14>chemisez un <recipient>moule</recipient> de papier</operation> sulfurisé. <operation temps=6.86min espace=14>cassez le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation> et <operation temps=6.86min espace=14>faites - le fondre au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=14>battez les <ingredient quantite=4>oeufs</ingredient> à la fourchette</operation>. <operation temps=6.86min espace=14>fouettez le beurre et le <ingredient quantite=1>sucre</ingredient> dans un <recipient>saladier</recipient> jusq’ à ce que la préparation blanchisse</operation>. <operation temps=6.86min espace=14>ajoutez la farine, <ingredient quantite=1>cannelle</ingredient> et la <ingredient quantite=1>levure</ingredient>, puis les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>gingembre</ingredient> et le <ingredient quantite=1>zeste</ingredient> de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=14>incorporez le <ingredient quantite=1>chocolat</ingredient> à la préparation en</operation> remuant vivement puis versz la pâte dans le <recipient>moule</recipient>. <operation temps=20.0min espace=14>faites cuire environ 20 mn (la pâte</operation> doit rester souple). <operation temps=5.0min espace=14>laissez reposer le gâteau 5 mn avant de le</operation> démouler (attention, il est assez fragile!). savourez tiède ou à température ambiante. gâteau très léger, la pâte du milieu reste coulante.
+]]>
+ </preparation>
+</recette>

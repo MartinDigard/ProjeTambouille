@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16180">
+ <titre>Plov (Ouzbékistan) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de viande (sauf le porc) coupé en morceau d’ environ 1, 5 cm</p>
+ <p>500 g de riz à grains longs</p>
+ <p>250 g de carottes coupées en julienne</p>
+ <p>3 oignons coupés en rondelles</p>
+ <p>150 g de huile</p>
+ <p>1 cuillère à café de mélange d’ épices (piment, épine-vinette, ajowan ou grain de lovage) </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=8>faire chauffer l’</operation> huile dans une grande <recipient>cocotte</recipient> à feu moyen. <operation temps=6.86min espace=8>faire revenir la <ingredient quantite=1>viande</ingredient>, jusqu’ à ce qu’ elle soit</operation> dorée. ajouter l’ <ingredient quantite=1>oignon</ingredient>, puis les <ingredient quantite=1>carottes</ingredient>. <operation temps=6.86min espace=8>laisser mijoter 20 - 30 min,</operation> puis ajouter les <ingredient quantite=1>épices</ingredient> et le <ingredient quantite=1>sel</ingredient>. cuire 2 min. y ajouter le <ingredient quantite=1>riz</ingredient>. <operation temps=6.86min espace=8>couvrir avec l’ eau</operation> chaude 1 - 1, 5 <ingredient quantite=1>cm</ingredient> au dessus du niveau du <ingredient quantite=1>riz</ingredient>. saler, porter à ébullition, puis réduire et <operation temps=6.86min espace=8>laisser mijoter à couvert jusqu’ à absorption complète de l’ eau</operation>. thé vert
+]]>
+ </preparation>
+</recette>

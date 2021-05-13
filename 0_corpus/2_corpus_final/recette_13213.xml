@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13213">
+ <titre>Tarte du bocage normand</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>4 oeufs</p>
+ <p>150 g de poitrine de porc fumée découpée finement en lamelle</p>
+ <p>2 oignons</p>
+ <p>du cidre</p>
+ <p>3 pommes</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=11>faire revenir dans une <recipient>poêle</recipient> avec un peu d’ <ingredient quantite=1>huile</ingredient></operation>. lorsqu’ ils sont dorés rajouter la <ingredient quantite=1>poitrine fumée</ingredient> remuer puis <operation temps=6.86min espace=11>couvrir avec du <ingredient quantite=1>cidre</ingredient></operation>. mettre la <ingredient quantite=1>pâte</ingredient> dans le <recipient>plat</recipient> à tarte y disposer les <ingredient quantite=1>lamelles</ingredient> de <ingredient quantite=3>pommes</ingredient> puis le mélange <ingredient quantite=2>oignons</ingredient> - lardon en, conservant le jus de cuisson à part. battre les <ingredient quantite=4>oeufs</ingredient> dans un <recipient>saladier</recipient>, assaisonner avec sel et poivre, puis rajouter un peu du jus de cuisson. mettre à <recipient>four</recipient> chaud (180 ° c) pendant 30 min. on peut rajouter un peu de crème fraiche dans le mélange <ingredient quantite=4>oeufs</ingredient> pour rendre la tarte plus savoureuse. <ingredient quantite=1>cidre</ingredient> brut
+]]>
+ </preparation>
+</recette>

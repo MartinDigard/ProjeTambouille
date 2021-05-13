@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169187">
+ <titre>Viande blanche au paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>viande blanche (poulet, dinde) 600g</p>
+ <p>oignons 2 ou 3</p>
+ <p>paprika doux 2 à 3 cuillères à café</p>
+ <p>bouillon de boeuf ou de volailles</p>
+ <p>crème fraiche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>viande</ingredient> en petits morceaux et la <operation temps=7.0min espace=7>faire revenir</operation>. ajouter les <ingredient quantite=1>oignons</ingredient> et le <ingredient quantite=1>paprika</ingredient> et <operation temps=6.86min espace=7>laisser cuire à feu doux</operation>. ajouter un peu de <ingredient quantite=1>sel</ingredient> et de poivre. ensuite, arroser avec le <ingredient quantite=1>bouillon</ingredient> (eau + cube <ingredient quantite=1>boeuf</ingredient> ou volaille) et <operation temps=6.86min espace=7>laisser cuire la préparation</operation>. le temps de cuisson varie selon le poids de la <ingredient quantite=1>viande</ingredient>. il faut gouter régulièrement pour vérifier la cuisson. ajouter en fin de cuisson la <ingredient quantite=1>crème fraiche</ingredient> de façon à <operation temps=6.86min espace=7>obtenir une sauce homogène</operation> agrémentée de morceaux de <ingredient quantite=1>viande</ingredient>. ce <recipient>plat</recipient> s’ accompagner généralement de tagliatelles. certes, ce n’ est pas de la grande cuisine mais ça dépanne bien et à un prix raisonnable.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54134">
+ <titre>Verrines de saumon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 boîte d’ oeufs de saumon</p>
+ <p>1 briquette de crème liquide</p>
+ <p>2 tranches de saumon</p>
+ <p>8 mini blinis</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le mini-blinis à tremper dans un peu de <ingredient quantite=1>crème liquide</ingredient>. battre le reste de la <ingredient quantite=1>crème liquide</ingredient> jusqu’ à <operation temps=6.86min espace=5>obtenir une consistance proche de la chantilly ; saler</operation> et poivrer légèrement. ajouter les <ingredient quantite=1>oeufs de saumon</ingredient> et le <ingredient quantite=1>saumon</ingredient> coupé en fins morceaux, mélanger. monter les verrines, en mettant au fond de chacun un mini-blinis, puis une couche de crème aux <ingredient quantite=1>oeufs</ingredient>, un mini-blinis, de la <ingredient quantite=1>crème</ingredient> aux <ingredient quantite=1>oeufs</ingredient> ; terminer par un mini-blinis. on peut y planter un pic, avec une crevette ou du <ingredient quantite=1>saumon</ingredient>.
+]]>
+ </preparation>
+</recette>

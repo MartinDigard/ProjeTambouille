@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31786">
+ <titre>Tarte au chocolat aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat noir aux noisettes</p>
+ <p>100 g de chocolat au lait</p>
+ <p>50 g de beurre</p>
+ <p>50 g de sucre (ou pas de sucre) </p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 pâte brisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 175 ° c pendant 10 mn. <operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec le beurre sans</operation> remuer en début de cuisson. <operation temps=6.86min espace=9>faire cuire le fond de tarte seul environ 7</operation> mn. <operation temps=6.86min espace=9>incorporez la <ingredient quantite=2>crème</ingredient> et le <ingredient quantite=1>sucre</ingredient> au <ingredient quantite=1>chocolat</ingredient> puis les <ingredient quantite=2>jaunes</ingredient> en</operation> remuant vivement. <operation temps=6.86min espace=9>versez la préparation sur le fond de tarte</operation> et <operation temps=5.0min espace=9>laisser cuire pas plus de 5 mn à <recipient>four</recipient> chaud</operation>. <operation temps=6.86min espace=9>servez froid</operation>. certes cette recette est très calorique mais pour les amateurs de <ingredient quantite=1>chocolat</ingredient> c’ est un régal. cependant une demi-part suffit...
+]]>
+ </preparation>
+</recette>

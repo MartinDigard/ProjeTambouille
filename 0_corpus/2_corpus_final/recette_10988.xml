@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10988">
+ <titre>Tripes au beurre en cocotte (vieille recette de grand-mère) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>750 g de tripes cuites</p>
+ <p>1 oignon</p>
+ <p>1 poireau</p>
+ <p>5 brins de persil</p>
+ <p>10 brins de ciboulette</p>
+ <p>30 cl de vin blanc sec</p>
+ <p>100 g de beurre</p>
+ <p>50 g de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+bien laver les <ingredient quantite=1>tripes</ingredient> puis les émincer finement. hacher l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>poireau</ingredient>, le <ingredient quantite=5>persil</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. mettre les <ingredient quantite=1>tripes</ingredient> dans une <recipient>cocotte</recipient>, ajouter les herbes et légumes. mouiller avec le <ingredient quantite=1>vin blanc sec</ingredient>. <operation temps=6.86min espace=12>faire un beurre</operation> manié en mélangeant le beurre et la farine. le répartir sur les <ingredient quantite=1>tripes</ingredient>. saler, poivrer, <operation temps=6.86min espace=12>couvrir la <recipient>cocotte</recipient> et cuire à <recipient>four</recipient></operation> chaud 200 ° c (thermostat 6 - 7) durant 45 minutes. mâcon <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

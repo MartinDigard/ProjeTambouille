@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50946">
+ <titre>Crème brulée aux mirabelles</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de mirabelles</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>2 cuillères à soupe de liqueur de mirabelle, de kirsch ou de muscat</p>
+ <p>1 cuillère à soupe de cassonade</p>
+ <p>Pour la crème: </p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>70 g de sucre</p>
+ <p>30 cl de crème liquide</p>
+ <p>10 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites chauffer dans une <recipient>casserole</recipient> 2 verres d’ eau et le <ingredient quantite=1>sucre</ingredient></operation>. pochez - y les <ingredient quantite=1>mirabelles</ingredient> 3 min. <operation temps=10.0min espace=14>egouttez</operation> - les. <operation temps=6.86min espace=14>dénoyautez les <ingredient quantite=1>mirabelles</ingredient></operation>. <operation temps=6.86min espace=14>faites - les</operation> mariner 2 h avec la <ingredient quantite=2>liqueur</ingredient> de mirabelle ou le <ingredient quantite=2>kirsch</ingredient> ou le <ingredient quantite=2>muscat</ingredient>. <operation temps=6.86min espace=14>faites bouillir la créme <ingredient quantite=1>liquide</ingredient> avec le lait</operation>. <operation temps=6.86min espace=14>laissez tiédir</operation>. <operation temps=6.86min espace=14>fouettez les <ingredient quantite=4>jaunes</ingredient> d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient> dans un <recipient>saladier</recipient> jusqu’ à blanchiment. ajoutez la <ingredient quantite=1>crème liquide</ingredient> et le lait. <operation temps=6.86min espace=14>disposez les <ingredient quantite=1>mirabelles</ingredient> dans 4 ramequins</operation>. <operation temps=6.86min espace=14>versez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=30.0min espace=14>faites cuire au <recipient>bain marie</recipient> 30 min au <recipient>four</recipient> à 120 ° c (thermostat 4</operation>). <operation temps=20.0min espace=14>laissez refroidir</operation>. parsemez de <ingredient quantite=1>cassonade</ingredient>. passez au <recipient>gril</recipient> 2 min et <operation temps=6.86min espace=14>servez avec des petits gâteaux</operation>. un <ingredient quantite=2>muscat</ingredient>
+]]>
+ </preparation>
+</recette>

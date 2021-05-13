@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19976">
+ <titre>Charlotte au chocolat et poires caramélisées</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de chocolat à dessert</p>
+ <p>5 oeufs</p>
+ <p>40 g de beurre</p>
+ <p>24 biscuits à la cuillère</p>
+ <p>2 poires Comice</p>
+ <p>1/2 citron</p>
+ <p>3 cuillères à café de miel</p>
+ <p>cannelle en poudre</p>
+ <p>1 gousse de vanille</p>
+ <p>10 cl de rhum</p>
+ <p>1 carambole</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faites fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> a</operation> feu doux, en mélangeant régulièrement, avec 3 <ingredient quantite=1>cuillères</ingredient> à soupe d’ eau pour 100 g de <ingredient quantite=1>chocolat</ingredient> ; <operation temps=6.86min espace=16>ajoutez le beurre</operation>. <operation temps=10.0min espace=16>laissez tiédir au minimum 10 min</operation>. pendant ce temps, <operation temps=6.86min espace=16>montez les blancs en neige avec une pincée de sel</operation>. dans une <recipient>terrine</recipient>, <operation temps=6.86min espace=16>mélangez les 5 jaunes d’ <ingredient quantite=1>oeuf</ingredient> avec le <ingredient quantite=1>chocolat</ingredient>,</operation> puis <operation temps=6.86min espace=16>incorporez les blancs</operation>. <operation temps=3.0min espace=16>pelez les</operation> <ingredient quantite=2>poires</ingredient>, <operation temps=6.86min espace=16>retirez les pépins,</operation> et <operation temps=6.86min espace=16>coupez les en petits dés</operation>. <operation temps=6.86min espace=16>faites les</operation> <operation temps=6.86min espace=16>revenir dans une <recipient>poêle</recipient> avec quelques gouttes de <ingredient quantite=1>citron</ingredient>, de la <ingredient quantite=1>cannelle</ingredient> et la gousse de <ingredient quantite=1>vanille</ingredient> fendue en 2</operation>. <operation temps=6.86min espace=16>ajoutez le</operation> <ingredient quantite=3>miel</ingredient> puis <operation temps=6.86min espace=16>laissez caraméliser à feu doux</operation>. <operation temps=6.86min espace=16>couvrez l’ intérieur de votre <recipient>moule</recipient> avec du film étirable</operation>. tremper les biscuits dans du <ingredient quantite=1>rhum</ingredient>, et placez les au fond, côté bombé vers le bas. <operation temps=6.86min espace=16>couvrez d’ une couche de mousse, puis de quelques morceaux de</operation> <ingredient quantite=1>poire</ingredient> ; renouveler l’ opération. <operation temps=6.86min espace=16>terminez avec les biscuits</operation>. <operation temps=6.86min espace=16>laissez reposer au frais au moins 4 heures</operation>. au moment de <operation temps=2.0min espace=16>servir</operation>, démouler la charlotte en trempant le <recipient>moule</recipient> quelques secondes dans de l’ eau chaude, retirer le film et décorer avec le <ingredient quantite=1>carambole</ingredient> coupé dans la largeur.
+]]>
+ </preparation>
+</recette>

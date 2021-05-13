@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24360">
+ <titre>Risotto à la menthe</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de riz</p>
+ <p>un oignon</p>
+ <p>huile</p>
+ <p>un verre de vin blanc</p>
+ <p>du bouillon bien chaud</p>
+ <p>une poignée de menthe finement émincée</p>
+ <p>parmesan râpé</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer le risotto comme d’ habitude (faire étuver l’ <ingredient quantite=1>oignon émincé</ingredient>, ajouter le <ingredient quantite=1>riz</ingredient>, augmenter le feu et <ingredient quantite=1>bien</ingredient> remuer, ajouter le <ingredient quantite=1>vin</ingredient> et le <operation temps=6.86min espace=10>faire évaporer</operation>, <operation temps=6.86min espace=10>couvrir le <ingredient quantite=1>riz</ingredient> avec le <ingredient quantite=1>bouillon</ingredient> et en</operation> ajouter de temps en temps...). quatre ou cinq minutes avant la fin de la cuisson, ajouter la <ingredient quantite=1>menthe</ingredient>. quand le risotto est prêt, y mettre une noix de beurre, le <ingredient quantite=1>parmesan</ingredient>, mélanger, <operation temps=0.25min espace=10>couvrir</operation>, attendre deux minutes et <operation temps=2.0min espace=10>servir</operation>. oubliez si vous n’ aimez pas le goût de la <ingredient quantite=1>menthe</ingredient> avec le salé. sinon, c’ est un <recipient>plat</recipient> frais et original.
+]]>
+ </preparation>
+</recette>

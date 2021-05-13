@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29614">
+ <titre>Gâteau aux fruits de Tirose</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>1/2 paquet de levure</p>
+ <p>100 g de sucre</p>
+ <p>2 oeufs (les blancs en neige) </p>
+ <p>1 petit quart de litre de lait</p>
+ <p>50 g de beurre fondu</p>
+ <p>n’ importe quels fruits selon la saison (environ 300 g, ça dépend des fruits) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients, en ajoutant les blancs en neige en dernier. beurrer un <recipient>moule</recipient> large et pas trop creux (un <recipient><recipient>moule</recipient> à tarte</recipient> convient très bien) et y déposer les <ingredient quantite=1>fruits</ingredient> en lamelles. verser dessus la préparation. mettre au <recipient>four</recipient> préchauffé à thermostat 6 (180 ° c) et <operation temps=6.86min espace=10>laisser 30 à 45</operation> mn. surveiller: lorsque le gâteau est doré, c’ est cuit! <operation temps=6.86min espace=10>régalez -vous en le</operation> dégustant tiède ou froid. variez les plaisirs en changeant les <ingredient quantite=1>fruits</ingredient> (ils peuvent aussi être au sirop ou surgelés, tout est possible). tirose, c’ est notre grand-tante chez qui on allait en vacances l’ été... elle avait le secret des bons <ingredient quantite=1>petits</ingredient> plats et des gâteaux délicieux. normal, elle était cuisinière!
+]]>
+ </preparation>
+</recette>

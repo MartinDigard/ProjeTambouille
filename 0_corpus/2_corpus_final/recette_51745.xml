@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51745">
+ <titre>Quente e frio de tata véronica</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le quente: </p>
+ <p>250 g de chocolat en tablette</p>
+ <p>30 cl de lait</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>1 cuillère à café de beurre</p>
+ <p>1 cuillère à café de maïzena</p>
+ <p>Pour le frio: </p>
+ <p>2 briques de crème froide</p>
+ <p>160 g de sucre en poudre</p>
+ <p>5 blancs d’ oeuf</p>
+ <p>1/4 de cuillère à café de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+a <operation temps=6.86min espace=16>faire la veille: préparation du <ingredient quantite=1>frio</ingredient>: battre la <ingredient quantite=2>crème</ingredient> liquide froide en chantilly dans un <recipient>saladier</recipient></operation>. monter les blancs en neige en y incorporant petit à petit le <ingredient quantite=2>sucre</ingredient> et la vanille jusqu’ à ce qu’ ils soient bien fermes. mélanger les 2 préparations dans un récipient rectangulaire allant au <recipient>congélateur</recipient>. pour un résultat optimum, le <ingredient quantite=1>frio</ingredient> devra rester au <recipient>congélateur</recipient> un minimum de 12 heures. a <operation temps=6.86min espace=16>faire juste avant de</operation> <operation temps=6.86min espace=16>servir: préparation du <ingredient quantite=1>quente</ingredient>: dans une petite <recipient>casserole</recipient></operation> mélanger puis <operation temps=6.86min espace=16>faire chauffer le lait et la <ingredient quantite=1>maïzena</ingredient></operation>. a part, <operation temps=6.86min espace=16>faire fondre le <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=2>sucre</ingredient> au <recipient>bain - marie</recipient> ou au micro-ondes</operation>. mélanger sur le feu le lait / <ingredient quantite=1>maïzena</ingredient>, le <ingredient quantite=1>chocolat</ingredient> et le <ingredient quantite=1>beurre</ingredient>. pour le service: couper des tranches de <ingredient quantite=1>frio</ingredient> et napper de <ingredient quantite=1>quente</ingredient>. ce dessert est un classique au portugal. cette recette est écrite avec l’ aimable autorisation de tata véronica.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21206">
+ <titre>Salade d’ asperges aux crustacés</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de langoustines</p>
+ <p>300 g de crevettes roses cuites et décortiquées</p>
+ <p>7 cl de vinaigre</p>
+ <p>1 l d’ eau chaude</p>
+ <p>Pour la salade: </p>
+ <p>600 g de noix de pétoncles</p>
+ <p>600 g de pointes d’ asperges</p>
+ <p>3 coeurs de laitue</p>
+ <p>1 citron</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>6 brins de cerfeuil</p>
+ <p>sel et poivre</p>
+ <p>Pour la sauce: </p>
+ <p>225 g de mayonnaise</p>
+ <p>15 cl de crème liquide</p>
+ <p>9 cl de ketchup</p>
+ <p>2 cuillères à soupe de cognac</p>
+ <p>3 gouttes de Tabasco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, porter de l’ <ingredient quantite=1>eau</ingredient> salée et vinaigrée à ébullition et y plonger les <ingredient quantite=1>langoustines</ingredient> 4 à 5 min. les égoutter et les <ingredient quantite=1>décortiquer</ingredient>. d’ autre part, cuire les <ingredient quantite=1>pointes</ingredient> d’ <ingredient quantite=1>asperges</ingredient> pendant 5 min à l’ <ingredient quantite=1>eau</ingredient> bouillante salée dans une autre <recipient>casserole</recipient>. laver les <ingredient quantite=1>noix de pétoncles</ingredient> et les <operation temps=2.0min espace=21>faire revenir 2 min à la <recipient>poêle</recipient> avec un peu d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient></operation>. assaisonner de <ingredient quantite=1>sel et poivre</ingredient>, puis verser un filet de <ingredient quantite=1>citron</ingredient>. laver et essorer les <ingredient quantite=3>coeurs de laitue</ingredient>. les mettre dans 6 coupes et y disposer les <ingredient quantite=1>langoustines</ingredient>, les <ingredient quantite=1>pétoncles</ingredient>, les <ingredient quantite=1>crevettes</ingredient> et les <ingredient quantite=1>pointes</ingredient> d’ <ingredient quantite=1>asperges</ingredient> égouttées. <operation temps=6.86min espace=21>garnir de <ingredient quantite=6>cerfeuil</ingredient></operation>. dans un bol, mélanger la <ingredient quantite=1>mayonnaise</ingredient>, le <ingredient quantite=1>ketchup</ingredient>, le <ingredient quantite=2>cognac</ingredient> et le <ingredient quantite=1>tabasco</ingredient>. battre la <ingredient quantite=1>crème liquide</ingredient> et l’ incorporer à la <ingredient quantite=1>sauce</ingredient>. <operation temps=6.86min espace=21>servir la <ingredient quantite=1>salade</ingredient> et la <ingredient quantite=1>sauce</ingredient> à part</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17888">
+ <titre>Jambon bourguignon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 échalotes</p>
+ <p>vin blanc</p>
+ <p>1 pot moyen de crème fraîche</p>
+ <p>concentré de tomate</p>
+ <p>4 tranches de jambon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>échalotes</ingredient> dans une <recipient>poêle</recipient></operation>, mettre un verre de <ingredient quantite=1>vin blanc</ingredient> sec, la <ingredient quantite=1>crème fraîche</ingredient>, le concentré de <ingredient quantite=1>tomate</ingredient>, sel, poivre. bien mélanger et <operation temps=5.0min espace=11>faire chauffer environs 5 mn</operation>. rouler le <ingredient quantite=4>jambon</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, verser la sauce par dessus, mettre dans le <recipient>four</recipient> bien chaud (220 ° c) environs 5 mn. <operation temps=2.0min espace=11>servez bien chaud</operation> accompagné de frites ou de petites coquillettes. si vous ne voulez pas garder les <ingredient quantite=2>échalotes</ingredient>, vous pouvez passer la sauce dans une <recipient>passoire</recipient> avant de la mettre au <recipient>four</recipient>
+]]>
+ </preparation>
+</recette>

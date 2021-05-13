@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59616">
+ <titre>Salade fraîche d’ été</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 concombre</p>
+ <p>1 pomelos</p>
+ <p>1/2 oignon</p>
+ <p>1 échalote</p>
+ <p>15 cl de lait de coco</p>
+ <p>sel</p>
+ <p>1 pincée de gingembre en poudre</p>
+ <p>1 pincée de coriandre</p>
+ <p>1 cuillère à café de ciboulette hachée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=1>échalote</ingredient>, <operation temps=6.86min espace=12>coupez le <ingredient quantite=1>concombre</ingredient> en quarts de rondelles</operation>. <operation temps=6.86min espace=12>détaillez le <ingredient quantite=1>pomelos</ingredient> en morceaux</operation> et <operation temps=6.86min espace=12>mélangez tout cela dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=12>assaisonnez avec herbes et épices</operation>, <operation temps=6.86min espace=12>arrosez de lait de <ingredient quantite=1>coco</ingredient> (que la salade</operation> baigne un peu sans être noyée non plus). <operation temps=6.86min espace=12>entreposez au frais une vingtaine de minutes le temps de</operation> <operation temps=6.86min espace=12>laisser la salade rafraîchir</operation> et mariner un peu. remélangez juste avant de <operation temps=2.0min espace=12>servir</operation>. on peut aussi ajouter des morceaux de saumon fumé si c’ est servie en <recipient>plat</recipient> principal. mais cette salade doit également agréablement accompagner un <recipient>barbecue</recipient>, notemment de poissons grillés. le lait de <ingredient quantite=1>coco</ingredient> étant très riche, il peut vite s’ avérer écoeurant: attention au dosage. costière de nîmes rosé ou muscadet blanc
+]]>
+ </preparation>
+</recette>

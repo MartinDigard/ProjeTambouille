@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10905">
+ <titre>Aumonière de fondue de légumes au carré frais</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à crêpes: </p>
+ <p>1 oeuf</p>
+ <p>3 cuillères à soupe de farine de blé</p>
+ <p>1 pincée de sel</p>
+ <p>lait 1/2 écrémé</p>
+ <p>1 noisette de beurre</p>
+ <p>Pour la fondue de légumes: </p>
+ <p>1 carotte</p>
+ <p>1/2 poireau </p>
+ <p>sel, poivre, muscade</p>
+ <p>2 à 3 tiges de ciboulette</p>
+ <p>2 carrés frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>pâte</ingredient> à crêpes et la <operation temps=45.0min espace=14>laisser reposer</operation>. <operation temps=6.86min espace=14>faire les crêpes</operation>. laver et éplucher les <ingredient quantite=1>légumes</ingredient>. les détailler en fins lamelles. les <operation temps=10.0min espace=14>faire cuire 10 minutes à feu moyen dans une <recipient>poêle</recipient> avec de l’ eau</operation>. une fois l’ eau totalement évaporée, arrêter la cuisson. assaisonner de poivre, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>muscade</ingredient>. prendre une crêpe, déposer au centre 2 <ingredient quantite=3>cuillères à soupe</ingredient> de <ingredient quantite=1>fondue de légumes</ingredient> assaisonnés et un <ingredient quantite=2>carré frais</ingredient>. refermer la crêpe sous forme d’ aumonière avec une <ingredient quantite=2>tige de ciboulette</ingredient>. <operation temps=20.0min espace=14>faire réchauffer au <recipient>four</recipient> à 150 ° c (thermostat 5) pendant 15 à 20 minutes</operation>. servir associé avec un poisson en papillote.
+]]>
+ </preparation>
+</recette>

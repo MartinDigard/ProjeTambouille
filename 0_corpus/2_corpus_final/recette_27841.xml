@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27841">
+ <titre>Gâteau en 2 temps aux quetsches</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>500 g de quetsches</p>
+ <p>60 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>50 g de sucre en poudre</p>
+ <p>5 cl de lait</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1 œuf</p>
+ <p>5 g de levure chimique</p>
+ <p>Pour la garniture: </p>
+ <p>1 œuf</p>
+ <p>50 g de sucre en poudre</p>
+ <p>80 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tamiser la farine et le <ingredient quantite=1>sel</ingredient>. mélanger avec le <ingredient quantite=1>sucre</ingredient>, le lait, l’ <ingredient quantite=2>huile</ingredient> et 1 <ingredient quantite=1>œuf</ingredient>. ajouter la <ingredient quantite=1>levure</ingredient>, mélanger pour <operation temps=6.86min espace=17>obtenir une <ingredient quantite=1>pâte</ingredient> homogène</operation>. verser la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient> beurré de sorte que la <ingredient quantite=1>pâte</ingredient> n’ arrive qu’ au deux tiers du <recipient>moule</recipient>. <operation temps=15.0min espace=17>faire cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 15 min</operation>. pendant ce temps, laver et dénoyauter les <ingredient quantite=1>quetsches</ingredient>. déposer les fruits sur la <ingredient quantite=1>pâte</ingredient> à demi-cuite. battre 1 <ingredient quantite=1>œuf</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le beurre fondu, verser sur les fruits. remettre le gâteau au <recipient>four</recipient> et <operation temps=20.0min espace=17>laisser cuire 20 min</operation>.
+]]>
+ </preparation>
+</recette>

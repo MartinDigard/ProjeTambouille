@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95637">
+ <titre>Matelotte de saumonette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>-1 kg de saumonette </p>
+ <p>-400 g de pommes de terre</p>
+ <p>-200 g d’ oignons</p>
+ <p>-100 g d’ échalotes</p>
+ <p>-100 g de carottes</p>
+ <p>-ail</p>
+ <p>-bouquet garni</p>
+ <p>-crème fraîche</p>
+ <p>-1 bouteille de cidre sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le poisson en tronçons et les <ingredient quantite=1>pommes de terre</ingredient> en fines rondelles. <operation temps=6.86min espace=11>beurrez le fond d’ une <recipient>cocotte</recipient></operation>. mettre les rondelles de <ingredient quantite=1>pommes de terre</ingredient>, puis l’ émincé d’ <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>carottes</ingredient>, ail, échalottes et le bouquet <ingredient quantite=1>garni</ingredient>. poser le poisson et recouvrer de <ingredient quantite=1>cidre</ingredient>. saler, poivrer. mettre le couvercle et <operation temps=25.0min espace=11>laissez cuire 25 min</operation>. disposer le poisson et les <ingredient quantite=1>pommes de terre</ingredient> dans un <recipient>plat</recipient>. lier le jus restant avec la crême fraîche. napper le poisson et servir.
+]]>
+ </preparation>
+</recette>

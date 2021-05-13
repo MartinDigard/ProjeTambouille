@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201195">
+ <titre>Saucisses et haricots verts façon colombo</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 saucisses (merguez, saucisses aux herbes etc) </p>
+ <p>500 g de haricots verts frais, prêts à cuire</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 oignon</p>
+ <p>sel, poivre</p>
+ <p>huile</p>
+ <p>poudre de colombo ou curry</p>
+ <p>15 cl de vin blanc</p>
+ <p>1 cuillerée à café gingembre frais râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=11>faire <ingredient quantite=1>cuire</ingredient> les <ingredient quantite=1>haricots</ingredient> au cuit - vapeur environ 30 min</operation>. <operation temps=6.86min espace=11>faire blondir l’</operation> <ingredient quantite=1>oignon</ingredient> (émincé) et l’ <ingredient quantite=1>ail</ingredient> (haché) dans 4 <ingredient quantite=1>cuillerées</ingredient> à soupe d’ <ingredient quantite=1>huile</ingredient>. réserver à part. couper les <ingredient quantite=4>saucisses</ingredient> en tronçons de 3 cm max. les <operation temps=6.86min espace=11>faire revenir à feu vif dans une cuillerée à soupe d’</operation> huile. ajouter le mélange <ingredient quantite=1>oignon</ingredient> - <ingredient quantite=1>ail</ingredient>, saupoudrer de <ingredient quantite=1>colombo</ingredient> (ou <ingredient quantite=1>curry</ingredient>) (environ 3 <ingredient quantite=1>cuillerées à café</ingredient>). mélanger. ajouter les <ingredient quantite=1>haricots</ingredient>, et toujours sur feu vif, ajouter 2 <ingredient quantite=1>cuillerées</ingredient> à soupe d’ <ingredient quantite=1>huile</ingredient> et <operation temps=6.86min espace=11>faire revenir le tout (en</operation> remuant très souvent) pendant quelques minutes. cela se fait " a vue ": lorsque les <ingredient quantite=1>haricots</ingredient> prennent un peu de couleur, ou que les <ingredient quantite=1>oignons</ingredient> se colorent un peu. gouter et rectifier le poivre et le <ingredient quantite=1>sel</ingredient>. au dernier moment: disposer le tout dans un <recipient>plat</recipient> de service déglacer la <recipient>poêle</recipient> (10 secondes histoire de <operation temps=6.86min espace=11>faire évaporer l’</operation> alcool et de garder le jus) avec un verre de <ingredient quantite=1>vin blanc</ingredient> (15 cl) avec une cuillerée à <ingredient quantite=1>café</ingredient> de <ingredient quantite=1>gingembre</ingredient> râpé. napper les <ingredient quantite=1>haricots</ingredient> - <ingredient quantite=4>saucisses</ingredient> de ce mélange. eau, rosé (si bbq), rouge...
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24415">
+ <titre>Chou rouge au cumin</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>chou rouge</p>
+ <p>cumin en poudre</p>
+ <p>crème fraîche épaisse (à doser selon vos souhaits, une grosse cuillère à soupe suffit néanmoins) </p>
+ <p>persil</p>
+ <p>ciboulette... </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>chou rouge</ingredient> en fines lamelles, vous allez voir c’ est rigolo. mettre la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>cumin</ingredient> dns une petite <recipient>casserole</recipient>, à feu doux, et remuer bien pour que le <ingredient quantite=1>cumin</ingredient> se mélange comme il faut. <operation temps=0.25min espace=6>salez</operation>, <operation temps=0.5min espace=6>poivrez</operation>. <operation temps=6.86min espace=6>disposez le <ingredient quantite=1>chou</ingredient> sur une petite assiette, en</operation> formant un creux au centre. <operation temps=6.86min espace=6>versez la sauce encore légèrement chaude (entre tiède et chaude) dans le nid</operation>. <operation temps=6.86min espace=6>saupoudrez des herbes fraîches choisies</operation>. l’ association chaud-froid est assez sympathique. rosé ou <ingredient quantite=1>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

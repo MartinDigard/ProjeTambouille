@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38805">
+ <titre>Gâteau flan aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le flan: </p>
+ <p>3/4 de litre de lait </p>
+ <p>3 oeufs</p>
+ <p>40 g de farine</p>
+ <p>40 g de maïzena</p>
+ <p>80 g de sucre</p>
+ <p>Pour le gâteau: </p>
+ <p>2 oeufs</p>
+ <p>200 g de fromage blanc</p>
+ <p>50 g de sucre</p>
+ <p>50 g de poudre d’ amande</p>
+ <p>100 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer le <ingredient quantite=1>flan</ingredient> en battant les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=14>faire bouillir le <ingredient quantite=1>lait</ingredient></operation>. hors du feu, ajouter la farine et la <ingredient quantite=1>maïzena</ingredient>. remettre sur le feu et verser sur les <ingredient quantite=3>oeufs</ingredient> pour épaissir la pâte. mettre dans un <recipient>moule</recipient> rond et enfourner à 180 ° c (thermostat 6) jusqu’ à ce que ça commence à prendre (environ 45 min). <operation temps=6.86min espace=14>faire le <ingredient quantite=1>gâteau</ingredient> en</operation> mélangeant tous les ingrédients, sauf les <ingredient quantite=1>blancs</ingredient> à battre en neige et à incorporer délicatement. quand le <ingredient quantite=1>flan</ingredient> commence à prendre, verser dessus délicatement la pâte du <ingredient quantite=1>gâteau</ingredient>. remettre au <recipient>four</recipient> jusqu’ à ce que l’ ensemble soit cuit (environ 35 min) totale invention mais pas mal. on peut <operation temps=6.86min espace=14>servir avec un coulis de fruits rouges</operation> ou remplacer les <ingredient quantite=1>amandes</ingredient> par de la noix de coco ou des noisettes.
+]]>
+ </preparation>
+</recette>

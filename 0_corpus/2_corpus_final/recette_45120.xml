@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45120">
+ <titre>Quenelles de pomme de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>3 oeufs</p>
+ <p>sel</p>
+ <p>persil</p>
+ <p>1 oignon</p>
+ <p>800 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=6.86min espace=7>coupez - les en fines lamelles, et passez - les au</operation> <operation temps=6.86min espace=7>hachoir à viande</operation>. <operation temps=6.86min espace=7>ajoutez les autres ingrédients,</operation> et <operation temps=5.0min espace=7>mélangez le tout</operation>. <operation temps=6.86min espace=7>faites des boulettes à l’</operation> aide d’ une cuillère à soupe. <operation temps=6.86min espace=7>faites - les pocher dans de l’ eau bouillante</operation> salée, durant 5 min, jusqu’ à ce que les boulettes remontent à la surface. <operation temps=10.0min espace=7>egouttez</operation> - les, et dressez - les dans un <recipient>plat</recipient> creux. les quenelles se servent avec une salade verte.
+]]>
+ </preparation>
+</recette>

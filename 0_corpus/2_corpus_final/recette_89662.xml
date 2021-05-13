@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89662">
+ <titre>Tartines fromagères</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grandes tranches de pain complet traditionnel</p>
+ <p>4 cuillères à soupe de miel</p>
+ <p>4 petits chèvres frais</p>
+ <p>4 tranches de jambon cru de pays</p>
+ <p>1 pincée d’ origan</p>
+ <p>1 trait d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 7), <operation temps=6.86min espace=9>faites ensuite</operation> chauffer quelques minutes, les tartines agrémentées d’ un trait d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> à 150 ° c (thermostat 5). <operation temps=6.86min espace=9>sortez les tartines du <recipient>four</recipient></operation> et badigeonnez chacune d’ entre elles d’ une <ingredient quantite=4>cuillère à soupe de miel</ingredient>. disposez 1 <ingredient quantite=4>tranche de jambon de pays</ingredient> sur chacune, puis étalez grossièrement 1 <ingredient quantite=4>chèvre frais</ingredient>. <operation temps=6.86min espace=9>ajoutez l’ <ingredient quantite=1>origan</ingredient></operation>. <operation temps=6.86min espace=9>faites cuire environ un quart d’ heure dans le <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). <operation temps=6.86min espace=9>servez avec une salade</operation>.
+]]>
+ </preparation>
+</recette>

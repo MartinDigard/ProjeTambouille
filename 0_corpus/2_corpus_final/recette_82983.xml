@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82983">
+ <titre>Hamburger au corned beef</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 tranches de Corned Beef d’ environ 110 g</p>
+ <p>6 tranches de fromage à hamburger</p>
+ <p>2 tomates</p>
+ <p>3 pains à hamburger</p>
+ <p>3 cornichons</p>
+ <p>sel, poivre</p>
+ <p>mayonnaise, ketchup</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites griller légérement les <ingredient quantite=6>pains à hamburgers</ingredient> (au <recipient>four</recipient> ou au grille <ingredient quantite=1>pain</ingredient>). <operation temps=6.86min espace=9>prenez un demi-pain à</operation> <ingredient quantite=6>hamburger</ingredient>, <operation temps=6.86min espace=9>étalez de la sauce <ingredient quantite=1>mayonnaise</ingredient> ou du <ingredient quantite=1>ketchup</ingredient>, 5 ou 6 lamelles de</operation> <ingredient quantite=3>cornichons</ingredient>, posez 1 rondelle de <ingredient quantite=1>tomate</ingredient>, et 1 <ingredient quantite=6>tranche de fromage à hamburger</ingredient>. coupez le <ingredient quantite=1>corned beef</ingredient> en <ingredient quantite=3>tranches</ingredient>. <operation temps=6.86min espace=9>faites les griller à la <recipient>poêle</recipient> légèrement de chaque côté</operation>. posez 1 <ingredient quantite=6>tranche de fromage à hamburger</ingredient> sur chaque <ingredient quantite=1>tranche</ingredient> pour <operation temps=6.86min espace=9>faire fondre le <ingredient quantite=6>fromage</ingredient></operation>. a l’ aide d’ une spatule déposez sur le demi-pain à <ingredient quantite=6>hamburger</ingredient> la <ingredient quantite=1>tranche de corned beef</ingredient> recouverte du <ingredient quantite=6>fromage</ingredient> fondu et <operation temps=6.86min espace=9>recouvrir avec l’ autre demi-pain</operation>. mettre 15 à 30 secondes au micro-ondes pour réchauffer le tout. l’ avantage du <ingredient quantite=1>corned beef</ingredient> est qu’ il n’ est pas cher et qu’ il se conserve longtemps. un vrai régal.
+]]>
+ </preparation>
+</recette>

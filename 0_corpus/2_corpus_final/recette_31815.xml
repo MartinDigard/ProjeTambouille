@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31815">
+ <titre>Gâteau brioché aux bananes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pâte à pain</p>
+ <p>3 bananes</p>
+ <p>2 cuillères à soupe de sucre roux</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte à <ingredient quantite=1>pain</ingredient> dans un <recipient>plat</recipient> à tarte. découper les <ingredient quantite=3>bananes</ingredient> en rondelles et les disposer sur la pâte. saupoudrer de <ingredient quantite=2>sucre roux</ingredient> et de <ingredient quantite=1>cannelle</ingredient>. cuire 20 mn th 7 - 8 (220 ° c). a la sortie du <recipient>four</recipient>, <operation temps=6.86min espace=6>répartir sur le dessus de la tarte des raisins secs ou des pépites de chocolat</operation>. idéal pour utiliser des <ingredient quantite=3>bananes</ingredient> un peu trop mûres.
+]]>
+ </preparation>
+</recette>

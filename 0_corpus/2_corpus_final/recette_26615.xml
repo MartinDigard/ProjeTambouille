@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26615">
+ <titre>Côte de porc sur lit d’ orange</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oranges</p>
+ <p>2 oignons (de taille moyenne) </p>
+ <p>2 côtes de porc</p>
+ <p>2 cuillèrres à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>pelez deux</operation> <ingredient quantite=2>oranges</ingredient>, <operation temps=6.86min espace=5>coupez - les en tranches pas trop épaisses</operation>. epluchez les <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=5>coupez - les en fines lamelles</operation>. cans une <recipient>poêle</recipient> à larges bords, munie d’ un couvercle, <operation temps=6.86min espace=5>faites chauffer deux cuillères à <ingredient quantite=2>soupes</ingredient> d’</operation> <ingredient quantite=2>huile</ingredient> puis, <operation temps=6.86min espace=5>ajoutez les <ingredient quantite=2>oignons</ingredient> en les étalant</operation>. de la même façon, disposez ensuite la moitié des tranches d’ <ingredient quantite=1>orange</ingredient> puis les <ingredient quantite=2>côtes de porc</ingredient>. <operation temps=10.0min espace=5>laissez cuire à feu doux durant 10 mn</operation> et <operation temps=6.86min espace=5>retournez la viande</operation>. <operation temps=6.86min espace=5>recouvez - la du reste des tranches d’</operation> <ingredient quantite=1>orange</ingredient>, <operation temps=6.86min espace=5>salez et poivez</operation>. <operation temps=6.86min espace=5>mettez un couvercle</operation> et <operation temps=6.86min espace=5>laissez cuire encore 10</operation> mn.
+]]>
+ </preparation>
+</recette>

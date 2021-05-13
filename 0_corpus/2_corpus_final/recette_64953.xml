@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64953">
+ <titre>Poulet au riz sauce moutarde et vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 escalopes de poulet</p>
+ <p>1 petit poivron</p>
+ <p>1 oignon</p>
+ <p>125 g de riz</p>
+ <p>1 verre de vin blanc (environ 15 cl) </p>
+ <p>2 grandes cuillères à soupe de moutarde</p>
+ <p>Sel, poivre</p>
+ <p>Huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=11>faire cuire pendant 10 minutes le <ingredient quantite=1>riz</ingredient> dans un <ingredient quantite=1>grand</ingredient> volume d’ eau bouillante</operation> salée. pendant ce temps, couper les 2 <ingredient quantite=2>escalopes de poulet</ingredient> en lamelles et les <operation temps=6.86min espace=11>faire dorer dans une <recipient>poêle</recipient></operation>. dans un <recipient>wok</recipient>, <operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>poivron</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> coupés eux aussi en lamelles très fines</operation>. quand le tout prend une jolie couleur caramélisée, mettre le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=5.0min espace=11>laisser revenir 5 minutes et enfin</operation> verser la <ingredient quantite=2>moutarde</ingredient>. <operation temps=6.86min espace=11>ajoutez au <recipient>wok</recipient> le <ingredient quantite=2>poulet</ingredient></operation>. quand le <ingredient quantite=1>riz</ingredient> est cuit, l’ ajoutezr à la préparation, verser de l’ huile d’ <ingredient quantite=1>olive</ingredient>, saler et poivrer. servir chaud dans un joli service et déguster. bon appétit!
+]]>
+ </preparation>
+</recette>

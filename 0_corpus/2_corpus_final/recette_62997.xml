@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62997">
+ <titre>Crumble de carottes aux trois parfums</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de carottes</p>
+ <p>10 g d’ échalotes</p>
+ <p>5 feuilles de menthe</p>
+ <p>1/2 citron</p>
+ <p>125 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>1 cuillère à café de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>carottes</ingredient> et les râper. les mettre dans un <recipient>plat</recipient> et rajouter l’ échalotte et la <ingredient quantite=5>menthe</ingredient> découpées finement, ainsi que le jus de <ingredient quantite=1>citron</ingredient>. (pour plus de goût, <operation temps=6.86min espace=10>laisser mariner une nuit</operation>.) a part, mélanger la farine et le beurre coupé en petits morceaux jusqu’ à ce que la pâte ainsi obtenue ressemble à du sable. ajouter à cette préparation la <ingredient quantite=1>muscade</ingredient>. emietter la pâte à crumble sur le <recipient>plat</recipient> de <ingredient quantite=1>carottes</ingredient>. préchauffer votre <recipient>four</recipient> à 180 ° c (thermostat 6) et <operation temps=20.0min espace=10>laisser cuire 20 min environ</operation>. pour une préparation plus soignée, préparer et <operation temps=6.86min espace=10>servir le crumble dans des ramequins individuels</operation>!
+]]>
+ </preparation>
+</recette>

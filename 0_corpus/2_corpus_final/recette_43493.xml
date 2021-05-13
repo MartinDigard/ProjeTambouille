@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43493">
+ <titre>Oeufs cocotte aux epinards</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 œufs</p>
+ <p>1 petite boîte d’ épinards (hachés ou en branches) </p>
+ <p>2 tranches de jambon blanc</p>
+ <p>4 cuillères à café de crème fraîche</p>
+ <p>sel, poivre et paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prendre 4 <ingredient quantite=1>petits</ingredient> ramequins, et disposer au fond de chacun une bonne <ingredient quantite=1>cuillère</ingredient> d’ <ingredient quantite=1>épinards</ingredient>, le <ingredient quantite=2>jambon</ingredient> coupé en lamelles. saler, poivrer. ajouter une <ingredient quantite=4>cuillère à café de crème</ingredient> fraiche, et casser par dessus un <ingredient quantite=1>œuf</ingredient>. saupoudrer de <ingredient quantite=1>paprika</ingredient>, et <operation temps=6.86min espace=8>faire cuire à <recipient>four</recipient></operation> chaud au <recipient>bain - marie</recipient>, pendant environ 5 min. ce <recipient>plat</recipient> peut se <operation temps=6.86min espace=8>servir en entrée, ou alors pour un soir avec une salade verte</operation>.
+]]>
+ </preparation>
+</recette>

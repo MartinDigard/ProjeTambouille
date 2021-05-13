@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69892">
+ <titre>Pâtes au thon et à la tapenade</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 g de tapenade d’ olives noires</p>
+ <p>1/2 gousse d’ ail</p>
+ <p>200 g de tomates</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>200 g de pâtes</p>
+ <p>100 g de thon à l’ huile</p>
+ <p>5 cl de vin blanc</p>
+ <p>1 tablette d’ épices à base de basilic-origan-thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites cuire les <ingredient quantite=1>pâtes</ingredient></operation>. <operation temps=10.0min espace=9>egouttez</operation> - les. dans un <recipient>wok</recipient>, <operation temps=6.86min espace=9>ajoutez l’ <ingredient quantite=1>huile</ingredient> d’</operation> <ingredient quantite=1>olive</ingredient> et <operation temps=6.86min espace=9>faites revenir 5 min, à feu doux, la tapenade avec l’ <ingredient quantite=1>ail</ingredient></operation> haché et les <ingredient quantite=1>tomates</ingredient> en quartiers, épépinées. ajoutez un peu de <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=9>ajoutez - y ensuite le <ingredient quantite=1>thon</ingredient> émietté, la <ingredient quantite=1>tablette</ingredient> d’ épices,</operation> et <operation temps=6.86min espace=9>terminez par les <ingredient quantite=1>pâtes</ingredient></operation>. <operation temps=5.0min espace=9>mélangez le tout</operation> et <operation temps=5.0min espace=9>terminez la cuisson 5 min à feu doux</operation>. servez chaud, tiède ou froid.
+]]>
+ </preparation>
+</recette>

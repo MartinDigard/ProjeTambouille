@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64736">
+ <titre>Soupe Pikolito, au lait de coco et potiron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 petit morceau de potiron (300 g environ) </p>
+ <p>2 carottes</p>
+ <p>3 petites échalotes</p>
+ <p>une boite de lait de coco</p>
+ <p>un gros bouquet de coriandre</p>
+ <p>une cuillère à soupe de curry</p>
+ <p>un bouillon de poule ou au légumes (ou au épices) </p>
+ <p>1, 75 l d’ eau</p>
+ <p>Pour changer: </p>
+ <p>Cardamome, citronnelle... </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=2>carottes</ingredient> et le <ingredient quantite=1>potiron</ingredient>, les couper en <ingredient quantite=1>morceaux</ingredient> (éventuellement, râper grossièrement les <ingredient quantite=2>carottes</ingredient> pour qu’ elles cuisent bien), éplucher les <ingredient quantite=3>échalotes</ingredient>. les mettre dans une <recipient>cocotte</recipient> d’ <ingredient quantite=1>eau</ingredient> bouillante avec le <ingredient quantite=1>curry</ingredient>, et le <ingredient quantite=1>bouillon</ingredient>. <operation temps=6.86min espace=12>laisser cuire jusqu’ à ce que les <ingredient quantite=1>légumes</ingredient> soient</operation> fondants, puis mixer (l’ idéal est d’ utiliser un <recipient>mixeur</recipient> plongeur), ajouter le <ingredient quantite=1>lait de coco</ingredient> et la <ingredient quantite=1>coriandre</ingredient> grossièrement hachée. <operation temps=6.86min espace=12>laisser chauffer</operation>. la <ingredient quantite=1>soupe</ingredient> est prête! cette <ingredient quantite=1>soupe</ingredient> légèrement sucrée peut se <operation temps=6.86min espace=12>faire en accompagnement de brochettes satay, par exemple, ou d’ une tartine garnie à la brousse et aux tomates cerises</operation>... <operation temps=6.86min espace=12>laissez parler votre imagination! cette <ingredient quantite=1>soupe</ingredient></operation> peut être très différente si l’ on <ingredient quantite=1>change</ingredient> la <ingredient quantite=1>coriandre</ingredient> pour de la cannelle.
+]]>
+ </preparation>
+</recette>

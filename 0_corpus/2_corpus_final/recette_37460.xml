@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37460">
+ <titre>Coquillettes à l’ aubergine, poivron et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500g de coquillettes</p>
+ <p>huile d’ olive</p>
+ <p>2 gousses d’ aïl</p>
+ <p>1 poivron rouge</p>
+ <p>1 aubergine</p>
+ <p>150 g de lardons fumés</p>
+ <p>2 cuillères à café d’ herbes italiennes</p>
+ <p>20 cl de crème liquide entière</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher l’ <ingredient quantite=2>aïl</ingredient>, couper en petit dés le <ingredient quantite=1>poivron</ingredient> et l’ <ingredient quantite=1>aubergine</ingredient> préalablement pelée. <operation temps=6.86min espace=9>faire chauffer 4 <ingredient quantite=2>cuillères</ingredient> à soupe d’ huile d’</operation> <ingredient quantite=1>olive</ingredient> et <operation temps=10.0min espace=9>faire revenir le tout à feu moyen environ 10 min</operation>. <operation temps=6.86min espace=9>faire cuire les pâtes</operation> et reserver au chaud. ajouter les <ingredient quantite=2>herbes italiennes</ingredient>, les <ingredient quantite=1>lardons</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre aux légumes et <operation temps=6.86min espace=9>faire revenir quelques minutes</operation>. ensuite ajouter la <ingredient quantite=1>crème</ingredient> et cuire 5 min. pour <operation temps=6.86min espace=9>finir</operation> mélanger la sauce aux <ingredient quantite=1>coquillettes</ingredient>. vin <ingredient quantite=1>rouge</ingredient> léger, type gamay
+]]>
+ </preparation>
+</recette>

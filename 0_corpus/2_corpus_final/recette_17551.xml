@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17551">
+ <titre>Tarte aux groseilles</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de groseilles fraîches</p>
+ <p>5 cuillères à soupe de sucre</p>
+ <p>1 cuillère à soupe d’ armagnac</p>
+ <p>1 pâte brisée (ou sablée) Pour la migaine: </p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>3 oeufs</p>
+ <p>7.5 g de sucre vanillé</p>
+ <p>4 cuillères à soupe de lait</p>
+ <p>1 cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille, mélanger les <ingredient quantite=1>groseilles</ingredient> à 5 bonnes <ingredient quantite=5>cuillères à soupe de sucre</ingredient> et 1 ou 2 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=1>armagnac</ingredient>, et <operation temps=6.86min espace=12>laisser reposer au <ingredient quantite=1>frais</ingredient>: ainsi, l’ acidité des <ingredient quantite=1>groseilles</ingredient></operation> diminuera et un sirop se formera, qui rendra la <ingredient quantite=1>pâte</ingredient> à tarte moins sèche. etaler la <ingredient quantite=1>pâte</ingredient> sur du papier sulfurisé dans le <recipient><recipient>moule</recipient> à tarte</recipient>, étaler les <ingredient quantite=1>groseilles</ingredient> et leur sirop. ajouter la <ingredient quantite=1>migaine</ingredient> (mélanger les <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=3>crème</ingredient>, le <ingredient quantite=4>lait</ingredient>, la farine, les <ingredient quantite=5>sucres</ingredient>). <operation temps=35.0min espace=12>faire cuire 30 à 35 minutes th.6/7, <recipient>four</recipient> préchauffé</operation> (surveiller la cuisson).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62236">
+ <titre>Curry agneau-coco</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g d’ agneau en morceaux (épaule..) </p>
+ <p>3 oignons</p>
+ <p>2 pommes</p>
+ <p>2 tomates</p>
+ <p>40 cl de lait de coco</p>
+ <p>3 cuillères à soupe de pâte de curry doux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>oignons</ingredient> en lamelles. dans une <recipient>cocotte</recipient>: <operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>agneau</ingredient> et les <ingredient quantite=3>oignons</ingredient> dans l’ huile d’ olive</operation>. couper les <ingredient quantite=2>pommes</ingredient> et les <ingredient quantite=2>tomates</ingredient> épluchées en <ingredient quantite=1>morceaux</ingredient>. ajouter <ingredient quantite=2>pommes</ingredient>, <ingredient quantite=2>tomates</ingredient>, <ingredient quantite=1>lait de coco</ingredient> et pâte de <ingredient quantite=3>curry</ingredient> dans la <recipient>cocotte</recipient>. mélanger le tout. <operation temps=6.86min espace=9>laisser mijoter pendant 1h30</operation>. <recipient>plat</recipient> pouvant être servi avec de la semoule aux épices ou du riz. vin du sud-ouest
+]]>
+ </preparation>
+</recette>

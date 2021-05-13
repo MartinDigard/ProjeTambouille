@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27465">
+ <titre>Terrine de poissons fumés</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 feuilles de gélatine</p>
+ <p>2, 5 dl de fond de poisson</p>
+ <p>200 g de saumon fumé</p>
+ <p>200 g de truite fumée</p>
+ <p>2 dl de crème liquide</p>
+ <p>50 g d’ oeufs de lompe (ou de saumon ou de truite) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire fondre la <ingredient quantite=4>gélatine</ingredient> dans le <ingredient quantite=1>fond de poisson</ingredient>, en enduire un <recipient>moule</recipient> à <recipient>terrine</recipient> très froid. couper le <ingredient quantite=1>saumon</ingredient> en lanière et le mixer avec 1 dl de <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>, vérifier l’ assaisonnement. couper la <ingredient quantite=1>truite</ingredient> et la mixer avec 1 dl de <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>, vérifier l’ assaisonnement. disposer la mousse de <ingredient quantite=1>saumon</ingredient> dans le <recipient>moule</recipient> et y creuser une " tranchée ". <operation temps=6.86min espace=12>remplir celle-ci avec les <ingredient quantite=1>oeufs</ingredient> de <ingredient quantite=1>poisson</ingredient></operation>. <operation temps=6.86min espace=12>couvrir avec la mousse de <ingredient quantite=1>truite</ingredient></operation>. bien tasser en tapant le <recipient>moule</recipient> sur la table. <operation temps=6.86min espace=12>couvrir de gelée</operation>. <operation temps=6.86min espace=12>laisser reposer quelques heures au frais</operation>. <operation temps=6.86min espace=12>servir en tranches</operation>. ps la gelée n’ est pas obligatoire. pour un démoulage plus aisé, je tapisse le <recipient>moule</recipient> avec un film alimentaire.
+]]>
+ </preparation>
+</recette>

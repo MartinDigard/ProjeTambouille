@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56522">
+ <titre>Tarte aux noix, amandes et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>2 oeufs</p>
+ <p>100 g de crème fraîche</p>
+ <p>125 g de sucre semoule</p>
+ <p>6 cuillères à soupe de miel</p>
+ <p>40 g de beurre fondu</p>
+ <p>100 g de noix hachées grossièrement</p>
+ <p>100 g d’ amandes effilées</p>
+ <p>100 g de chocolat noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> thermostat 6 (200 ° c). <operation temps=6.86min espace=12>etalez la <ingredient quantite=1>pâte</ingredient> et piquez - la</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=12>mélangez les <ingredient quantite=2>oeufs</ingredient>, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=6>miel</ingredient> et le beurre <ingredient quantite=1>fondu</ingredient></operation>. ajoutez les <ingredient quantite=1>noix</ingredient>, les <ingredient quantite=1>amandes</ingredient> et le <ingredient quantite=1>chocolat haché</ingredient>. <operation temps=6.86min espace=12>versez la préparation sur la <ingredient quantite=1>pâte</ingredient></operation>. mettre au <recipient>four</recipient> environ 25 min en surveillant.
+]]>
+ </preparation>
+</recette>

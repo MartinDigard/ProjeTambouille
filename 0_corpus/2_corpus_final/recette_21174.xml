@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21174">
+ <titre>Crème au Chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>lait en poudre 2 verres</p>
+ <p>amidon 1/2 verre</p>
+ <p>eau 6 verres</p>
+ <p>cacao non sucré 1 verre 1/2 </p>
+ <p>sucre 1 verre</p>
+ <p>beurre 50 g</p>
+ <p>1 pincée de vanille en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+diluer le lait en <ingredient quantite=1>poudre</ingredient>, l’ <ingredient quantite=1>amidon</ingredient>, le <ingredient quantite=1>cacao</ingredient> (passé au tamis), le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>vanille</ingredient> à froid. mettre le mélange sur le feu et remuer continuellement jusqu’ à ébullition. ajouter le beurre en fin de cuisson. verser dans des bols et mettre au frigo. a <operation temps=6.86min espace=7>servir frais</operation>.
+]]>
+ </preparation>
+</recette>

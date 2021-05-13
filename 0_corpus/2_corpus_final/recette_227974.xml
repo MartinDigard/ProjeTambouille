@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227974">
+ <titre>Fouace gauloise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>500 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>2 verres de sucre</p>
+ <p>1 verre de lait</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 pincée de sel</p>
+ <p>1/2 cuillère à café de bicarbonate (facultatif mais plus léger) </p>
+ <p>1 cuillère à soupe de vanille liquide</p>
+ <p>2 cuillères à soupe de fleur d’ oranger</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=1>bicarbonate</ingredient>, le <ingredient quantite=2>sucre</ingredient> et la <ingredient quantite=1>levure</ingredient>. creuser un puits et y casser les <ingredient quantite=3>oeufs</ingredient>. ajouter le <ingredient quantite=1>sel</ingredient> et le beurre fondu dans le <ingredient quantite=1>lait</ingredient>. bien mélanger puis ajouter la vanille et l’ eau de <ingredient quantite=2>fleur</ingredient> d’ <ingredient quantite=2>oranger</ingredient>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). verser la pâte dans un <recipient>moule</recipient> troué beurré (ou bien un <recipient>moule</recipient> à manqués au centre duquel l’ on place un <ingredient quantite=1>verre</ingredient> ou un pot à confiture). cuire pendant 25 à 30 min. la fouace est prête quand la lame du couteau ressort propre. démouler sur une grille.
+]]>
+ </preparation>
+</recette>

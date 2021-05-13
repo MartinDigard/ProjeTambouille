@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25467">
+ <titre>Boulettes de viande sauce oeuf - citron (Youvarlakia) Grèce</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de viande hachée (veau de préférence) </p>
+ <p>100 g de riz rond</p>
+ <p>2 oignons</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>le jus de 2 citrons jaunes</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe de maïzéna</p>
+ <p>sel, poivre</p>
+ <p>2 litres de bouillon ou d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélangez la <ingredient quantite=1>viande hachée</ingredient>, le <ingredient quantite=2>persil</ingredient>, les <ingredient quantite=2>oignons</ingredient> émincés très fins, le <ingredient quantite=1>riz</ingredient>, l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. <operation temps=0.25min espace=14>salez</operation> et <operation temps=0.5min espace=14>poivrez</operation>. façonnez des petites boulettes (de la taille d’ une noix) avec ce mélange. <operation temps=0.5min espace=14>réservez</operation>. <operation temps=6.86min espace=14>faire bouillir le <ingredient quantite=2>bouillon</ingredient> et y</operation> verser les boulettes. <operation temps=6.86min espace=14>laissez cuire à feu doux pendant 1 h30 environ</operation> (rajouter un peu d’ <ingredient quantite=2>eau</ingredient> si nécessaire). <operation temps=6.86min espace=14>retirez ensuite la <recipient>casserole</recipient> du feu</operation>. <operation temps=6.86min espace=14>préparez la sauce comme</operation> suit: dans un bol, battre les <ingredient quantite=2>oeufs</ingredient> avec un fouet. ajouter petit à petit le <ingredient quantite=1>jus des 2 citrons</ingredient>, la <ingredient quantite=2>cuillère à soupe de maïzéna</ingredient> et un peu de <ingredient quantite=1>jus</ingredient> de cuisson. <operation temps=6.86min espace=14>versez cette sauce sur les boulettes</operation> et <operation temps=6.86min espace=14>secouez la <recipient>casserole</recipient> d’ un mouvement circulaire</operation>. <operation temps=2.0min espace=14>servez</operation> chaud. une fois la sauce <ingredient quantite=1>oeuf</ingredient> - <ingredient quantite=1>citron</ingredient> ajoutée, il ne faut plus remettre la <recipient>casserole</recipient> sur le feu.
+]]>
+ </preparation>
+</recette>

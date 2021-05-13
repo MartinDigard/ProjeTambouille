@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169561">
+ <titre>Brochette de moule</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de grosses moules d espagne</p>
+ <p>1 oeuf</p>
+ <p>chapelure</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient> <operation temps=30.0min espace=6>faire cuire</operation> (<operation temps=6.86min espace=6>ouvrir) les <ingredient quantite=1>moules</ingredient></operation> décortiquer une a une les <ingredient quantite=1>moules</ingredient> les passer une par une dans l <ingredient quantite=1>oeuf</ingredient> / <ingredient quantite=1>persil</ingredient> puis la <ingredient quantite=1>chapelure</ingredient> les embrocher les plonger dans la <recipient>friteuse</recipient> en tenant le pic (une a une) en <operation temps=6.86min espace=6>faisant bien attention de ne pas vous</operation> bruler servir accompagnées d une mayonnaise maison un peu aillée
+]]>
+ </preparation>
+</recette>

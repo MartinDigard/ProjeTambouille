@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87794">
+ <titre>Petits clafoutis aux champignons et jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de sauce aux champignons </p>
+ <p>200 ml de lait</p>
+ <p>2 oeufs</p>
+ <p>1 cuillerée à soupe bombée de farine</p>
+ <p>80 g de râpé de jambon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prechauffer votre <recipient>four</recipient> à 200 ° c (thermostat 7). dans une petite <recipient>casserole</recipient>, faire chauffer le lait, la <ingredient quantite=1>sauce aux champignons</ingredient>, les <ingredient quantite=2>oeufs</ingredient>, la farine et mélanger. poivrer. <operation temps=6.86min espace=7>répartir cette préparation dans des ramequins,</operation> puis ajouter le <ingredient quantite=1>râpé de jambon</ingredient>. <operation temps=30.0min espace=7>faire cuire 25 à 30 minutes</operation>.
+]]>
+ </preparation>
+</recette>

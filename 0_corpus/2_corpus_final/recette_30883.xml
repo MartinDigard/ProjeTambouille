@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30883">
+ <titre>Anguilles au vin blanc et à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ anguilles nettoyées</p>
+ <p>1 oignon haché</p>
+ <p>4 tomates pelées</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites chauffer l’ huile</operation>, <operation temps=6.86min espace=8>mettez - y les</operation> <ingredient quantite=1>oignons</ingredient> et <operation temps=6.86min espace=8>laissez - le</operation> suer quelques minutes. <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>anguilles</ingredient></operation> coupées en tronçons, <operation temps=0.25min espace=8>salez</operation> et <operation temps=0.5min espace=8>poivrez</operation>. versez le <ingredient quantite=1>vin blanc</ingredient>, puis <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=4>tomates</ingredient></operation> coupées dés, le <ingredient quantite=1>persil</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. <operation temps=0.25min espace=8>couvrez</operation> et <operation temps=25.0min espace=8>laissez mijoter à feu moyen pendant 25 minutes</operation>. <operation temps=20.0min espace=8>laissez refroidir</operation> et <operation temps=6.86min espace=8>réservez au frais jusqu’ au moment de</operation> <operation temps=2.0min espace=8>servir</operation>. n’ oubliez pas le pain grillé pour accompagner!
+]]>
+ </preparation>
+</recette>

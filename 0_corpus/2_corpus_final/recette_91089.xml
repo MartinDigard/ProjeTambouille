@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91089">
+ <titre>Clafoutis aux framboises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de framboises</p>
+ <p>60 g de maïzena</p>
+ <p>125 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>sel</p>
+ <p>2 oeufs entiers + 2 jaunes</p>
+ <p>1/4 de litre de lait</p>
+ <p>200 g de crème fraîche</p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+bien beurrer le <ingredient quantite=1><recipient>moule</recipient></ingredient> et y <operation temps=6.86min espace=11>répartir les <ingredient quantite=1>framboises</ingredient></operation>. mélanger la <ingredient quantite=1>maïzena</ingredient> avec les <ingredient quantite=1>sucres</ingredient> et le <ingredient quantite=1>sel</ingredient>. ajouter les <ingredient quantite=2>oeufs entiers</ingredient> et les <ingredient quantite=2>jaunes</ingredient>. bien mélanger. enfin, ajouter le <ingredient quantite=1>lait</ingredient> et la <ingredient quantite=1>crème</ingredient>. verser la préparation sur les <ingredient quantite=1>framboises</ingredient> et mettre au <recipient>four</recipient> 30 minutes à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

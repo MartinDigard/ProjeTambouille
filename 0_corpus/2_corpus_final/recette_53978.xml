@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53978">
+ <titre>Brioche perdue aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>130 g de sucre en poudre</p>
+ <p>250 g de lait</p>
+ <p>250 g de crème fraîche</p>
+ <p>8 tranches de brioches</p>
+ <p>20 g de beurre</p>
+ <p>4 pommes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=10>pelez</operation> et <operation temps=6.86min espace=10>coupez les <ingredient quantite=4>pommes</ingredient> en dés</operation>. <operation temps=6.86min espace=10>faites blanchir les <ingredient quantite=2>oeufs</ingredient>, les <ingredient quantite=2>jaunes</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez le lait et la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=10>préparez un caramel avec 30 g de <ingredient quantite=1>sucre</ingredient> et le beurre</operation>, <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=4>pommes</ingredient>,</operation> puis <operation temps=6.86min espace=10>laissez cuire quelques minutes</operation>. faites dorer les <ingredient quantite=8>tranches de brioche</ingredient> au grille - pain ou au grill du <recipient>four</recipient>. dans un <recipient>plat</recipient> à gratin, <operation temps=6.86min espace=10>mettez les <ingredient quantite=4>pommes</ingredient></operation>. recouvrez avec les <ingredient quantite=8>tranches de brioche</ingredient>, puis <operation temps=6.86min espace=10>ajoutez la préparation</operation>. <operation temps=30.0min espace=10>enfournez pendant environ 30 min à 160 ° c (th 5/6</operation>). c’ est délicieux, avec du chocolat fondu encore chaud. cette recette peut être réalisée avec du pain normal ou du pain brioché. chocolat chaud ou thé
+]]>
+ </preparation>
+</recette>

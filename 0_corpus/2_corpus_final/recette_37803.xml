@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37803">
+ <titre>Tarte tatin aux pommes et au miel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>250 g de farine</p>
+ <p>100 g de beurre ramolli</p>
+ <p>100 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la garniture: </p>
+ <p>5 à 6 grosses pommes (fuji, braeburn par exemple, éviter golden) </p>
+ <p>50 g de beurre</p>
+ <p>200 g de miel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire un puits dans la farine, y</operation> casser l’ <ingredient quantite=1>oeuf</ingredient>. ajouter le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le beurre <ingredient quantite=1>ramolli</ingredient>. mélanger à la main. former une boule, l’ emballer dans du film transparent et la <operation temps=6.86min espace=14>laisser reposer au <recipient>réfrigérateur</recipient> pendant la préparation des <ingredient quantite=5>pommes</ingredient></operation>. eplucher les <ingredient quantite=5>pommes</ingredient>, creuser le trognon, et couper chaque <ingredient quantite=1>pomme</ingredient> en 3 tranches épaisses. <operation temps=6.86min espace=14>faire fondre le beurre et le <ingredient quantite=1>miel</ingredient> dans un <recipient>plat</recipient> à tarte sur feu doux</operation>. ajouter les <ingredient quantite=5>pommes</ingredient>, et <operation temps=6.86min espace=14>laisser cuire sur feu doux sans</operation> remuer pour que les <ingredient quantite=5>pommes</ingredient> s’ imprègnent bien (environ 30 minutes). etaler la <ingredient quantite=1>pâte</ingredient>, en <operation temps=6.86min espace=14>recouvrir les <ingredient quantite=5>pommes</ingredient> en</operation> rentrant les bords de <ingredient quantite=1>pâte</ingredient> à l’ intérieur du <recipient>moule</recipient>. piquer la <ingredient quantite=1>pâte</ingredient> à la fourchette. <operation temps=30.0min espace=14>faire cuire pendant 25 à 30 minutes au <recipient>four</recipient> préchauffé à 210 ° c (thermostat 7</operation>). a déguster tiède avec de la crème fraîche. le <ingredient quantite=1>miel</ingredient> sublime le goût de la tarte tatin! cidre
+]]>
+ </preparation>
+</recette>

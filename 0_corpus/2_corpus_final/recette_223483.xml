@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223483">
+ <titre>Tarte sucrée-salée d’ Elya</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rouleau de pâte brisée</p>
+ <p>4 carottes</p>
+ <p>2 oignons rouges</p>
+ <p>20 g de raisins secs</p>
+ <p>10 cl de crème fraîche</p>
+ <p>10 cl de lait</p>
+ <p>2 œufs</p>
+ <p>80 g de cubes de jambon blanc</p>
+ <p>90 g de gruyère râpé</p>
+ <p>15 cl d’ eau</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un premier temps, râper les <ingredient quantite=4>carottes</ingredient> (pas trop fines). émincer les <ingredient quantite=2>oignons</ingredient> et les <operation temps=5.0min espace=19>faire dorer dans une <recipient>poêle</recipient> avec un peu d’ <ingredient quantite=2>huile</ingredient> pendant 5 min</operation> et mettre de côté. peler et couper en rondelles la courgette et la <operation temps=10.0min espace=19>faire colorer dans une <recipient>cocotte</recipient>, avec l’ ail pendant 10 min environ</operation>. ajouter les <ingredient quantite=4>carottes</ingredient>, les <ingredient quantite=2>oignons</ingredient>, les <ingredient quantite=1>raisins secs</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, le thym, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=19>couvrir la <recipient>cocotte</recipient></operation> et <operation temps=6.86min espace=19>laisser cuire 1/4 h (pas plus</operation>). dans un deuxième temps, étaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. battre les <ingredient quantite=2>œufs</ingredient> avec la <ingredient quantite=1>crème fraîche</ingredient> et le lait. ajouter à la préparation une pincée d’ <ingredient quantite=1>origan</ingredient>. répartir les <ingredient quantite=1>cubes de jambon blanc</ingredient> sur la <ingredient quantite=1>pâte</ingredient>, puis <operation temps=6.86min espace=19>garnir avec le contenu de la <recipient>cocotte</recipient></operation>. verser la préparation <ingredient quantite=1>œuf</ingredient>, <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>lait</ingredient> dessus. recouvrir de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=35.0min espace=19>faire cuire 30 à 35 min à 180 ° c (thermostat 6</operation>). se déguste chaud ou froid.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29111">
+ <titre>Velouté de carottes au curry</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de carottes</p>
+ <p>1 pomme de terre</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 oignon</p>
+ <p>1 petit morceaux de racine de gingembre frais râpé</p>
+ <p>1 cuillère à café de curry</p>
+ <p>crème</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> faire blondir l’ <ingredient quantite=1>oignon</ingredient> puis les <ingredient quantite=1>carottes</ingredient> et <ingredient quantite=1>pommes de terre</ingredient> coupées en lamelles (à la mandoline c’ est plus rapide à cuire!). mouiller, ajouter éventuellement du bouillon pour + de goût). <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation>, ajouter le <ingredient quantite=1>gingembre</ingredient> et le <ingredient quantite=1>curry</ingredient>. <operation temps=30.0min espace=9>laisser cuire</operation>. mixez. ajouter la <ingredient quantite=1>crème</ingredient> (moi j’ utilise du soja cuisine pour que ca soit + diététique). <operation temps=2.0min espace=9>servez</operation> glacé ou chaud.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28018">
+ <titre>Croque normand (version salée) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pain de mie</p>
+ <p>beurre</p>
+ <p>jambon fumé</p>
+ <p>camembert</p>
+ <p>1 œuf</p>
+ <p>lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer une tranche de <ingredient quantite=1>pain de mie</ingredient>. sur le côté <ingredient quantite=1>beurre</ingredient>, mettre quelques lamelles de <ingredient quantite=1>camembert</ingredient>, puis une demi-tranche de <ingredient quantite=1>jambon fumé</ingredient> et à nouveau des lamelles de <ingredient quantite=1>camembert</ingredient>. terminer par une tranche de <ingredient quantite=1>pain de mie</ingredient> beurrée. tremper ce croque dans un jaune d’ oeuf battu avec un peu de lait (recto - verso). puis mettre à cuire dans un <recipient>poêle</recipient> avec matière grasse bien chaude. retourner plusieurs fois: les tranches de <ingredient quantite=1>pain</ingredient> doivent être bien croustillantes et le fromage bien fondu. a <operation temps=6.86min espace=7>servir avec une salade au vinaigre de cidre</operation>. idéal pour les soirs de flemme. dans le même esprit on peut <operation temps=6.86min espace=7>faire le croque</operation> <operation temps=6.86min espace=7>anglais avec des tranches de filet de bacon et des morceaux de</operation> chester. délicieux aussi.
+]]>
+ </preparation>
+</recette>

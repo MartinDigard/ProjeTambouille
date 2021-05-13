@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29251">
+ <titre>Traditionnel gâteau breton</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre demi-sel mou</p>
+ <p>100 g de sucre</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>100 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre 4 <ingredient quantite=3>jaunes</ingredient> d’ oeufs avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à blanchiment. ajouter le beurre ramolli et coupé en morceaux, puis la farine. <operation temps=6.86min espace=6>pétrir la pâte à la main,</operation> puis létaler dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré, de manière à former une grosse galette épaisse. badigeonner de <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> avec un pinceau. décorer en <operation temps=6.86min espace=6>faisant des dessins dans la pâte selon l’ inspiration</operation>. <operation temps=25.0min espace=6>faire cuire au <recipient>four</recipient> préchauffé à 200 ° c (thermostat 6 - 7) pendant 25 minutes</operation>. baisser à 150 ° c (thermostat 5) puis poursuivre la cuisson pour 20 minutes environ. <operation temps=20.0min espace=6>laisser refroidir</operation> et démouler.
+]]>
+ </preparation>
+</recette>

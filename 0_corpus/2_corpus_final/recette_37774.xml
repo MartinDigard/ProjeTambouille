@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37774">
+ <titre>Quiche aux épinards et aux petits lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g d’ épinards surgelés</p>
+ <p>200 g de petits lardons</p>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>2 tomates</p>
+ <p>1 pot de fromage philadelphia (ou crème fraîche épaisse) </p>
+ <p>200 g de champignons</p>
+ <p>sel et poivre</p>
+ <p>du fromage rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. dans un <recipient>plat</recipient>, mélanger les <ingredient quantite=1>épinards</ingredient> décongelés, les <ingredient quantite=1>lardons</ingredient> et le <ingredient quantite=1>fromage philadelphia</ingredient>. mélanger. ensuite, ajouter le <ingredient quantite=1>sel</ingredient> et le poivre ainsi que les <ingredient quantite=1>champignons</ingredient> coupés en morceaux. mettre la préparation sur la <ingredient quantite=1>pâte</ingredient>. couper les <ingredient quantite=2>tomates</ingredient> en fins quartiers, et les disposer dessus de façon à <operation temps=6.86min espace=11>garnir la quiche</operation>. enfin, recouvrir le tout de <ingredient quantite=1>fromage rapé</ingredient>. enfourner environ 30 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6). délicieux et vite fait. parfait pour un soirée entre copains.
+]]>
+ </preparation>
+</recette>

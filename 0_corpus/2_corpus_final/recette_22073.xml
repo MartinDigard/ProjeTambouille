@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22073">
+ <titre>Poulet au curry et au miel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>4 cuillères à soupe de curry en poudre</p>
+ <p>4 cuillères à soupe de moutarde forte</p>
+ <p>4 cuillères à soupe de miel liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> thermostat 7 (210 ° c). disposer les blancs de <ingredient quantite=4>poulet</ingredient> les uns à côtés des autres dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. mélanger dans un bol le <ingredient quantite=4>curry</ingredient>, le <ingredient quantite=4>miel</ingredient> et la <ingredient quantite=4>moutarde</ingredient>. eventuellement, rajouter de la crème fraîche (facultatif). <operation temps=6.86min espace=9>recouvrir les blancs de <ingredient quantite=4>poulet</ingredient> de ce mélange</operation> et mettre au <recipient>four</recipient> de 20 à 30 mn. <operation temps=6.86min espace=9>servir avec du riz et selon votre imagination l’</operation> acommpagner d’ un mélange de pommes - fruits, oignons, poivrons, noix de cajou revenus à la <recipient>poêle</recipient>.
+]]>
+ </preparation>
+</recette>

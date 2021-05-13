@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44768">
+ <titre>Roulades de saumon fumé farcies</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 belles tranches de saumon fumé (sans trous) </p>
+ <p>1 avocat mûre</p>
+ <p>1 mangue</p>
+ <p>2 grosses cuillères de mayonnaise</p>
+ <p>2 grosses cuillères de fromage frais</p>
+ <p>1 lampée de crème fraîche</p>
+ <p>quelques brins d’ aneth</p>
+ <p>vinaigre balsamique</p>
+ <p>paprika</p>
+ <p>oeufs de truites</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez l’ <ingredient quantite=1>avocat</ingredient> et la <ingredient quantite=1>mangue</ingredient> en petits dés</operation>. mélangez - les dans un bol, avec les <ingredient quantite=2>cuillères de mayonnaise</ingredient>, de <ingredient quantite=2>fromage frais</ingredient>, la lampée de <ingredient quantite=1>crème fraîche</ingredient>, et un peu d’ <ingredient quantite=1>aneth</ingredient> haché menu. le mélange ne doit pas être trop liquide, car il constitue la farce des roulades. <operation temps=6.86min espace=10>assaisonnez le mélange avec un peu de <ingredient quantite=1>paprika</ingredient></operation>. farcissez les <ingredient quantite=4>tranches de saumon fumé</ingredient> de ce mélange, de manière à confectionner des roulades de 10 cm de long sur 3 cm de haut. <operation temps=6.86min espace=10>servez sur une assiette, avec quelques œufs de <ingredient quantite=1>truite</ingredient>, agrémentés d’ un <ingredient quantite=1>brin</ingredient> d’ <ingredient quantite=1>aneth</ingredient></operation>. <operation temps=6.86min espace=10>entourez la roulade d’ un peu de <ingredient quantite=1>paprika</ingredient></operation>. et <operation temps=6.86min espace=10>servez frais, avec du pain blanc légèrement</operation> toasté et du beurre salé.
+]]>
+ </preparation>
+</recette>

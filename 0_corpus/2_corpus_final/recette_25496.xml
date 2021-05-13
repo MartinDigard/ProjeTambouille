@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25496">
+ <titre>Gratin de blettes à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons</p>
+ <p>1 grande boite de tomates pelées</p>
+ <p>1 botte de blettes</p>
+ <p>2 gousses d’ ail</p>
+ <p>30 g de beurre</p>
+ <p>75 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>blettes</ingredient> 10 minutes à la <recipient>cocotte</recipient> - minute. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés dans le beurre jusqu’ à ce qu’ ils soient translucides. ajouter les <ingredient quantite=1>tomates</ingredient> concassées et l’ <ingredient quantite=2>ail</ingredient> haché. saler, poivrer et <operation temps=30.0min espace=9>laisser épaissir 30 minutes à feu doux</operation>. ajouter les bettes hachées. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). beurrer généreusemnet un <recipient>plat</recipient> à gratin, y verser la préparation, saupoudrer de gruyère et enfourner 30 minutes.
+]]>
+ </preparation>
+</recette>

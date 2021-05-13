@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32280">
+ <titre>Soupe sucrée à la citrouille</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de chair de citrouille (sans peau ni pulpe centrale) </p>
+ <p>100/120 g de sucre (tout dépend de la teneur en sucre de la citrouille) </p>
+ <p>1 litre de lait entier</p>
+ <p>8 cuillères à soupe de tapioca</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>chair</ingredient> de la <ingredient quantite=1>citrouille</ingredient> en cubes et la mettre à réduire dans une <recipient>casserole</recipient> avec un peu d’ eau (que celle-ci recouvre à peine les morceaux) à gros bouillons. une fois la <ingredient quantite=1>citrouille</ingredient> cuite, la passer au mixer puis la remettre dans la <recipient>casserole</recipient> à feu doux et verser un peu de <ingredient quantite=1>lait</ingredient> pour diluer. ajouter la totalité du <ingredient quantite=1>lait</ingredient> en petite quantité au fur et à mesure. verser le <ingredient quantite=1>sucre</ingredient> et remuer encore, puis goûter (la quantité de <ingredient quantite=1>sucre</ingredient> nécessaire dépend à la fois du goût de chacun et de la maturité de la <ingredient quantite=1>citrouille</ingredient>...). <operation temps=20.0min espace=6>faire bouillir</operation> puis jeter le <ingredient quantite=8>tapioca</ingredient> et remuer jusqu’ à ce qu’ il ait gonflé. servir. bon appétit! réfractaire aux <ingredient quantite=8>soupes</ingredient>, j’ ai découvert avec délice cette recette grâce à la grand-mère de mon ami (recette collector, pas trouvé une similaire sur le net!!!). petite astuce: pour ceux qui auraient peur de l’ association <ingredient quantite=8>soupe</ingredient> + <ingredient quantite=1>sucre</ingredient> ou qui veulent varier les plaisirs en <operation temps=6.86min espace=6>faisant un dessert original</operation>, ajouter 12 <ingredient quantite=8>cuillères de tapioca</ingredient> (et non 8) et <operation temps=20.0min espace=6>laisser refroidir</operation>. vous <operation temps=6.86min espace=6>obtiendrez un délicieux entremet à la</operation> <ingredient quantite=1>citrouille</ingredient>!
+]]>
+ </preparation>
+</recette>

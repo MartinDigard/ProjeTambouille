@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53555">
+ <titre>Riz au lait parfumé au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de lait entier</p>
+ <p>100 g de riz rond</p>
+ <p>50 g de sucre</p>
+ <p>150 g de cacao pur en poudre</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1 petit flacon de crème liquide</p>
+ <p>3 zestes d’ orange</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser le <ingredient quantite=1>lait</ingredient> dans une <recipient>casserole</recipient>, puis ajouter le <ingredient quantite=1>riz</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>cacao</ingredient>. <operation temps=6.86min espace=10>laisser chauffer à feu moyen, jusqu’ à ce que ça</operation> commence à <operation temps=20.0min espace=10>bouillir</operation>. a ce moment, baisser la flamme pour que, tout doucement, le <ingredient quantite=1>riz</ingredient> cuise pendant 3/4 d’ heure. de temps à autre, remuer la préparation pour qu’ elle ne brûle pas et pour aérer le <ingredient quantite=1>riz</ingredient>. c’ est cuit! retirer la <recipient>casserole</recipient> du feu, remuer bien et ajouter le <ingredient quantite=1>miel</ingredient> et la <ingredient quantite=1>crème</ingredient> ; mélanger pour que la consistance devienne crémeuse. avec une <ingredient quantite=1>petite</ingredient> louche, verser cette monstruosité de gourmands dans des <ingredient quantite=1>petits</ingredient> verres. <operation temps=6.86min espace=10>laisser refroidir au <recipient>réfrigérateur</recipient></operation>. on peut aussi le servir tiède, c’ est plus crémeux. réchauffer 30 secondes au micro-ondes au moment de <operation temps=2.0min espace=10>servir</operation>. bon appetit!!!!
+]]>
+ </preparation>
+</recette>

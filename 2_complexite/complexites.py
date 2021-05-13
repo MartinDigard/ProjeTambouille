@@ -64,8 +64,8 @@ def main():
     # Lecture des recettes annotées sans attributs
     compteur = 0
     for fichier in glob.glob(args.rep_corpus_annote + '*/*'):
-        print(f'\n\n==> {compteur}\nTraitement de la recette {fichier} en '
-              'cours…\n')
+        # print(f'\n\n==> {compteur}\nTraitement de la recette {fichier} en '
+        #       'cours…\n')
 
         # Limitation pour les tests
         compteur += 1

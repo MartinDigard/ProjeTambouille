@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13176">
+ <titre>Tajine de mouton aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ épaule et carré de côtelettes</p>
+ <p>1 cuillère à moka de safran en poudre</p>
+ <p>100 g de beurre</p>
+ <p>3 oignons finement hachés</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 petit bouquet de coriandre</p>
+ <p>2 cuillères à café de coriandre hachée</p>
+ <p>1 kg de petits pois frais</p>
+ <p>125 g d’ amandes émondées</p>
+ <p>sel</p>
+ <p>1 cuillère à café de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la viande en morceaux de 3 à 4 cm de côté, les déposer dans une <recipient>cocotte</recipient> ou le tajine avec du <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=1>safran</ingredient>, le beurre, les oigons, l’ <ingredient quantite=1>ail</ingredient> écrasé et le <ingredient quantite=1>petit bouquet de coriandre</ingredient> placé au centre. <operation temps=2.0min espace=12>couvrir d’ eau</operation>, <operation temps=45.0min espace=12>laisser mijoter à couvert pendant 45 minutes</operation>. ajouter de l’ eau si nécessaire. lorsque la viande est cuite, retirer le <ingredient quantite=1>bouquet de coriandre</ingredient> et ajouter la <ingredient quantite=1>coriandre hachée</ingredient> et les <ingredient quantite=1>petits pois</ingredient> écossés. <operation temps=20.0min espace=12>laisser mijoter pendant 15 à 20 minutes jusqu’ à ce que la sauce réduise</operation> et devienne onctueuse. un quart d’ heure avant de <operation temps=2.0min espace=12>servir</operation>, <operation temps=6.86min espace=12>faire frire les <ingredient quantite=1>amandes</ingredient>, à part, dans un peu d’ huile bouillante</operation>. au moment de <operation temps=2.0min espace=12>servir</operation> dresser le tajine, d’ abord la viande et verser par dessus la sauce bien chaude et décorer avec les <ingredient quantite=1>amandes</ingredient> (on peut aussi ajouter 5 oeufs durs coupés en 2). sidi - brahim rouge ou rosé
+]]>
+ </preparation>
+</recette>

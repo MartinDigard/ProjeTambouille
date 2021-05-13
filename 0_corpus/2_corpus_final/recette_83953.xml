@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83953">
+ <titre>Parmentier de poulet et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>100 g de lardons fumés</p>
+ <p>1 sachet de purée de pommes de terre déshydratée ou mieux de la "vraie" purée</p>
+ <p>25 cl de lait</p>
+ <p>20 cl de crème épaisse</p>
+ <p>1 oignon</p>
+ <p>Thym</p>
+ <p>20 cl de bouillon de volaille</p>
+ <p>50 g de beurre</p>
+ <p>Persil ou coriandre</p>
+ <p>Porto rouge</p>
+ <p>Chapelure</p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+chauffer 20 g de beurre et y <operation temps=5.0min espace=17>faire revenir 5 minutes le <ingredient quantite=4>poulet</ingredient> en lanières, les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation> émincé. verser le <ingredient quantite=1>bouillon</ingredient> chaud, ajouter le <ingredient quantite=1>thym</ingredient>, <operation temps=0.25min espace=17>couvrir</operation> et <operation temps=15.0min espace=17>laisser mijoter 15 minutes</operation>. ajouter la <ingredient quantite=1>crème</ingredient> et un trait de <ingredient quantite=1>porto</ingredient>, continuer la cuisson jusqu’ à épaississement de la sauce. parsemer de <ingredient quantite=1>persil</ingredient> haché. préparer la <ingredient quantite=1>purée</ingredient> avec le lait en suivant les instructions du paquet. ajouter une noix de beurre, saler et poivrer. verser la préparation au <ingredient quantite=4>poulet</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient>, <operation temps=6.86min espace=17>couvrir de</operation> <ingredient quantite=1>purée</ingredient>, parsemer de <ingredient quantite=1>chapelure</ingredient> et de copeaux de beurre. dorer 15 - 20 min au <recipient>four</recipient> préchauffé à 220 ° c (thermostat7/8). c’ est un bon petit <recipient>plat</recipient> accompagné d’ une belle salade verte. assez économique et surtout pratique si on opte pour la <ingredient quantite=1>purée</ingredient> " toute prête ". se réchauffe très bien.
+]]>
+ </preparation>
+</recette>

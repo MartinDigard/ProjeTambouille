@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90953">
+ <titre>Moelleux chocolat basilic</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 œuf</p>
+ <p>30g de farine</p>
+ <p>2 cuillères à soupe de poudre d’ amande</p>
+ <p>10 carrés de chocolat à cuire (env 50g) </p>
+ <p>30g de beurre</p>
+ <p>40g de sucre</p>
+ <p>4 belles feuilles de basilic frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, la <ingredient quantite=2>poudre</ingredient> d’ <ingredient quantite=2>amande</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans un <recipient>plat</recipient>. y ajouter l’ <ingredient quantite=1>œuf</ingredient> battu. <operation temps=6.86min espace=9>faire fondre 40 g de</operation> <ingredient quantite=1>chocolat</ingredient> (conserver 2 <ingredient quantite=1>carrés</ingredient> à part, soit environ 10 g) au <recipient>bain marie</recipient> en remuant régulièrement. quand il est fondu et lisse, ajouter le beurre coupé en petit dés. incorporer le mélange <ingredient quantite=1>chocolat</ingredient> / beurre à l’ appareil. ajouter le <ingredient quantite=4>basilic</ingredient> finement ciselé. <operation temps=6.86min espace=9>remplir aux deux tiers de pâte un ramequin beurré</operation>. ajouter sur la pâte un des deux <ingredient quantite=1>carrés de chocolat</ingredient> non fondu. <operation temps=6.86min espace=9>couvrir ce <ingredient quantite=1>carré</ingredient> avec 2 <ingredient quantite=2>cuillères</ingredient> de pâte</operation>. <operation temps=6.86min espace=9>refaire la même opération avec le deuxième ramequin</operation>. <ingredient quantite=1>cuire</ingredient> à 210 ° c (thermostat 7) pendant 8 à 10 minutes. le moelleux doit être légèrement craquant sur le dessus mais doit " couler " quand on l’ ouvre à la <ingredient quantite=1>cuillère</ingredient>.
+]]>
+ </preparation>
+</recette>

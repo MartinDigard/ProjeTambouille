@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47725">
+ <titre>Omelette au Kiri et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>2 portions de Kiri (ou de fromage frais) </p>
+ <p>50 g de lardons</p>
+ <p>persil frais, herbe de Provence, poivre au moulin</p>
+ <p>1 cuillère de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>poêle</recipient>, <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>lardons</ingredient> (sans ajout de matière grasse</operation>). et pendant ce temps, battre les <ingredient quantite=3>oeufs</ingredient> avec la <ingredient quantite=1>crème</ingredient>. ecraser le <ingredient quantite=1>kiri</ingredient>, et l’ ajouter à la préparation. ajouter également un petit bouquet de <ingredient quantite=1>persil</ingredient> coupé, assaisonner mais éviter de saler, à cause des <ingredient quantite=1>lardons</ingredient>! verser la préparation sur les <ingredient quantite=1>lardons</ingredient>, le gras fait office d’ huile ou du beurre. on peut aussi rajouter des oignons, prélablement frits à la <recipient>poêle</recipient>.
+]]>
+ </preparation>
+</recette>

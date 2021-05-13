@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52430">
+ <titre>Bricks au boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de viande hachée de boeuf</p>
+ <p>4 feuilles de brick</p>
+ <p>sel</p>
+ <p>paprika</p>
+ <p>herbes de Provence</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). malaxer la <ingredient quantite=1>viande</ingredient> avec les condiments et arroser la préparation d’ huile d’ <ingredient quantite=1>olive</ingredient>. la <operation temps=3.0min espace=8>répartir</operation> équitablement sur une moitié des 4 <ingredient quantite=4>feuilles de brick</ingredient>, refermer l’ autre moitié puis rabattre les côtés en dessous pour former de petits coussins. passer à <recipient>four</recipient> durant 20 minutes et déguster avec une salade de tomates. facile, rapide et surprenant.
+]]>
+ </preparation>
+</recette>

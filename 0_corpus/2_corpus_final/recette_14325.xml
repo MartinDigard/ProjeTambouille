@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14325">
+ <titre>Cinnamon Rolls</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>2 cuillères à café de poudre à pâte</p>
+ <p>70 g de saindoux</p>
+ <p>1 cuillère à café de sel</p>
+ <p>50 g de sucre blanc</p>
+ <p>15 cl d’ eau froide</p>
+ <p>2 cuillères à soupe de beurre</p>
+ <p>2 cuillères à soupe de sucre blanc</p>
+ <p>2 cuillères à soupe de sucre brun</p>
+ <p>1 cuillères à soupe de cannelle</p>
+ <p>Pour la sauce </p>
+ <p>300 g de sucre brun</p>
+ <p>50 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rouler la <ingredient quantite=2>pâte</ingredient> à 1/8 d’ épaisseur ou plus. graisser la <ingredient quantite=2>pâte</ingredient> avec le mélange suivant: 2 <ingredient quantite=2>cuillères à soupe de beurre</ingredient>, 2 <ingredient quantite=2>cuillères à soupe de sucre blanc</ingredient>, 2 <ingredient quantite=2>cuillères à soupe de sucre brun</ingredient>, 1 <ingredient quantite=1>cuillère à soupe de cannelle</ingredient> et un peu de <ingredient quantite=1>sel</ingredient>. couper la <ingredient quantite=2>pâte</ingredient> par ligne. prendre une ligne de <ingredient quantite=2>pâte</ingredient> et <operation temps=6.86min espace=15>faire une spirale</operation>. déposer la spirale dans un <recipient>moule</recipient> profond. <operation temps=6.86min espace=15>faire la</operation> sauce en mélangeant bien ses ingrédients, puis la verser sur les spirales déjà déposées dans le <recipient>moule</recipient>. <operation temps=6.86min espace=15>faire cuire à 180 ° c de 20 à 30 min, jusqu’ à ce que la préparation soit bien dorée</operation>.
+]]>
+ </preparation>
+</recette>

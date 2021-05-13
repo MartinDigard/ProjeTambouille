@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60317">
+ <titre>Omelette aux courgettes râpées</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 courgettes</p>
+ <p>3 oeufs</p>
+ <p>50 g de fromage râpé (comté gruyère) </p>
+ <p>1/2 gousse d’ ail</p>
+ <p>ciboulette</p>
+ <p>huile d’ olive</p>
+ <p>sel/ poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+râpez les <ingredient quantite=2>courgettes</ingredient>. <operation temps=6.86min espace=8>mettez l’ huile d’ <ingredient quantite=1>olive</ingredient> à chauffer</operation> et <operation temps=6.86min espace=8>faites revenir les <ingredient quantite=2>courgettes</ingredient> à feu moyen</operation>, <operation temps=6.86min espace=8>salez,</operation> <operation temps=0.25min espace=8>poivrez et</operation> <operation temps=6.86min espace=8>ajoutez la 1/2 <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=1>ail</ingredient></operation> écrasée, <operation temps=10.0min espace=8>laissez cuire 10 min</operation>. pendant ce temps <operation temps=6.86min espace=8>battez les 3 <ingredient quantite=3>oeufs</ingredient> en omelette</operation>, <operation temps=6.86min espace=8>ajoutez le gruyère râpé, la</operation> <ingredient quantite=1>ciboulette</ingredient>, <operation temps=6.86min espace=8>salez,</operation> <operation temps=0.25min espace=8>poivrez et</operation> <operation temps=6.86min espace=8>battez le tout</operation>. une fois les <ingredient quantite=2>courgettes</ingredient> cuites, <operation temps=6.86min espace=8>ajoutez les aux</operation> <ingredient quantite=3>oeufs</ingredient>, <operation temps=6.86min espace=8>mélangez bien le tout</operation> et <operation temps=6.86min espace=8>remettez à</operation> cuire dans la <recipient>poêle</recipient> sur feu vif pendant 5 min. <operation temps=2.0min espace=8>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

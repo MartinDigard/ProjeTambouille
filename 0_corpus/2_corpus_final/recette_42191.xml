@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42191">
+ <titre>Californian cheese burger</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 muffin blancs (au supermarché rayon pain de mie) </p>
+ <p>2 filets de poulet</p>
+ <p>du cheddar</p>
+ <p>une poignée de pousses d’ épinard frais</p>
+ <p>curry</p>
+ <p>curcuma (ou autre épice) </p>
+ <p>poivre du moulin</p>
+ <p>sel</p>
+ <p>huile d’ olive</p>
+ <p>jus de citron</p>
+ <p>une cuillère de mayonnaise (légère si possible) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>filets de poulets</ingredient> en morceaux de taille moyenne et les <operation temps=6.86min espace=12>laisser mariner (au moins 30 min, c’ est bien, mais si vous êtes</operation> pressé, on s’ en passe) dans le mélange d’ épice, d’ huile et de <ingredient quantite=1>jus de citron</ingredient>. ensuite <operation temps=6.86min espace=12>faites - le</operation> cuire à al <recipient>poêle</recipient>. pendant la cuisson du <ingredient quantite=2>poulet</ingredient>, <operation temps=6.86min espace=12>faites toaster les <ingredient quantite=4>muffin</ingredient> tranchés en deux</operation>, <operation temps=6.86min espace=12>découpez une tranche de <ingredient quantite=1>cheddar</ingredient> par sandwich</operation>. quand tout est cuit, <operation temps=6.86min espace=12>tartinez légerement de <ingredient quantite=1>mayonnaise</ingredient> le fond des <ingredient quantite=4>muffins</ingredient>, puis diposez les <ingredient quantite=1>épinard</ingredient>, le fromage, et enfin le <ingredient quantite=2>poulet</ingredient></operation>. <operation temps=6.86min espace=12>recouvrez d’ une tranche de</operation> <ingredient quantite=4>muffin</ingredient>, <operation temps=6.86min espace=12>servez avec un épi de maïs grillé,</operation> et <operation temps=5.0min espace=12>régalez -vous</operation>... c’ est rapide, pas trop lourd et ça change du traditionnel hamburger... j’ ai imité la recette d’ un restaurant américain près de chez moi!
+]]>
+ </preparation>
+</recette>

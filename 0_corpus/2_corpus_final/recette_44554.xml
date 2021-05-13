@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44554">
+ <titre>Gâteau de crêpes au saumon fumé</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour les crêpes: </p>
+ <p>2 œufs</p>
+ <p>150 g de farine</p>
+ <p>30 cl de lait</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel</p>
+ <p>Pour la garniture: </p>
+ <p>1 gros oignon</p>
+ <p>300 g de saumon fumé</p>
+ <p>90 g d’ oeufs de lumps (1 pot) </p>
+ <p>2 cuillères à soupe de crème épaisse</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 citron</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour la pâte à crêpes: battre les <ingredient quantite=2>œufs</ingredient>, ajouter la farine tamisée, le <ingredient quantite=1>sel</ingredient>, l’ <ingredient quantite=2>huile</ingredient> et battre en ajoutant peu à peu le lait. <operation temps=30.0min espace=18>laisser reposer 30 minutes</operation>. <ingredient quantite=1>garniture</ingredient>: peler et émincer très finement l’ <ingredient quantite=1>oignon</ingredient>. <operation temps=6.86min espace=18>faire chauffer l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>poêle</recipient></operation> et mettre le hachis d’ <ingredient quantite=1>oignon</ingredient> à <operation temps=6.86min espace=18>revenir doucement, sans</operation> colorer, puis égoutter. hacher grossièrement le <ingredient quantite=1>saumon fumé</ingredient>. mélanger avec la <ingredient quantite=2>crème épaisse</ingredient> et le jus du <ingredient quantite=1>citron</ingredient>. poivrer. remuer les éléments, ajouter le hachis d’ <ingredient quantite=1>oignon</ingredient>. réserver. huiler légèrement une <recipient>poêle</recipient>. <operation temps=6.86min espace=18>faites cuire 4 <ingredient quantite=1>crêpes</ingredient> pas trop fines</operation>. juste avant le repas, réchauffer les <ingredient quantite=1>crêpes</ingredient> et monter le gâteau: poser 1 <ingredient quantite=1>crêpe</ingredient> sur un <recipient>plat</recipient>, <operation temps=6.86min espace=18>répartir le tiers de la préparation au <ingredient quantite=1>saumon</ingredient> au centre</operation>. entourer d’ un cordon d’ <ingredient quantite=1>oeufs de lumps</ingredient>, <operation temps=6.86min espace=18>recouvrir d’ une <ingredient quantite=1>crêpe</ingredient></operation>. recommencer et <operation temps=6.86min espace=18>finir par une <ingredient quantite=1>crêpe</ingredient></operation>. servir chaud accompagné de <ingredient quantite=2>crème liquide</ingredient> chauffée légèrement, salée, poivrée. il faut effectuer le montage assez rapidement car les <ingredient quantite=1>crêpes</ingredient> refroidissent vite!
+]]>
+ </preparation>
+</recette>

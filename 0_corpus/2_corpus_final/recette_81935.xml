@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81935">
+ <titre>Lotte et St Jacques aux girolles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 queue de lotte</p>
+ <p>12 noix de St Jacques</p>
+ <p>50 cl de crème fraîche épaisse</p>
+ <p>15 cl de vin blanc coteau du Layon</p>
+ <p>12 petites pommes de terre</p>
+ <p>5 carottes</p>
+ <p>1 échalote</p>
+ <p>2 poignées de haricots verts</p>
+ <p>400 g de girolles</p>
+ <p>1 l de bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper 6 morceaux de <ingredient quantite=1>lotte</ingredient>, puis les pocher dans 1 litre de <ingredient quantite=1>bouillon</ingredient> pendant 3 à 4 minutes. dans une <recipient>poêle</recipient> beurrée, saisir les <ingredient quantite=1>noix de st jacques</ingredient> à feu vif et de chaque côté. rajouter le <ingredient quantite=1>coteau du layon</ingredient> puis <operation temps=6.86min espace=13>retirez les <ingredient quantite=1>st</ingredient> jacques</operation>. ajouter un peu de <ingredient quantite=1>bouillon</ingredient> de la <ingredient quantite=1>lotte</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=13>laisser réduire quelques minutes</operation>. réserver cette sauce. eplucher les <ingredient quantite=1>girolles</ingredient>. beurrer une <recipient>poêle</recipient> et rajouter aux <ingredient quantite=1>girolles</ingredient>, une <ingredient quantite=1>échalote</ingredient> émincée. réserver. eplucher les <ingredient quantite=5>carottes</ingredient> et les <ingredient quantite=1>pommes de terre</ingredient> et les <operation temps=4.0min espace=13>faire cuire 4 minutes dans l’ eau</operation> salée. répartir les <ingredient quantite=1>pommes de terre</ingredient>, les <ingredient quantite=5>carottes</ingredient>, les <ingredient quantite=2>haricots verts</ingredient>, les médaillons de <ingredient quantite=1>lotte</ingredient>, les <ingredient quantite=1>noix de st</ingredient> jacques et les <ingredient quantite=1>girolles</ingredient>. <operation temps=6.86min espace=13>recouvrir de la sauce</operation> et déposer dans le <recipient>four</recipient> pendant 5 à 10 minutes. servir très chaud.
+]]>
+ </preparation>
+</recette>

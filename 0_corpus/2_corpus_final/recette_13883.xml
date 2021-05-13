@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13883">
+ <titre>Gâteau sans farine</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de noisettes pilées finement</p>
+ <p>8 oeufs</p>
+ <p>150 g de sucre</p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les jaunes avec les <ingredient quantite=1>noisettes</ingredient>. bien remuer. battre les blancs en neige. mélanger le tout, puis verser le tout dans un <ingredient quantite=1><recipient>moule</recipient></ingredient> beurré. cuire à <recipient>four</recipient> moyen (contrôler la cuisson avec la pointe d’ un couteau qui doit <operation temps=6.86min espace=6>ressortir sèche lorsque le gâteau est</operation> cuit). gâteau très fin et délicieux. champagne rosé
+]]>
+ </preparation>
+</recette>

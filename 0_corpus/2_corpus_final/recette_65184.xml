@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65184">
+ <titre>Filets de poisson à la pizzaiola</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 boîte de tomates pelées</p>
+ <p>origan</p>
+ <p>sel, poivre</p>
+ <p>800 g de filets de poisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer une sauce <ingredient quantite=1>tomate</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient> haché, la gousse d’ <ingredient quantite=1>ail</ingredient> écrasée et la <ingredient quantite=1>boîte de tomates pelées</ingredient>. assaisonner avec le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>origan</ingredient>. <operation temps=15.0min espace=7>faire cuire 15 min à feu moyen</operation>. saler et poivrer les <ingredient quantite=1>filets de poisson</ingredient> de préférence mélangés (exemple: pangasius, saumon, féra ou autre <ingredient quantite=1>poisson</ingredient> à chair ferme). les déposer dans la sauce préparée et les cuire 10 à 15 min. <operation temps=6.86min espace=7>servir avec du riz ou des pommes de terre vapeur et d’ une salade verte ou mélée</operation>. <recipient>plat</recipient> léger et équilibré.
+]]>
+ </preparation>
+</recette>

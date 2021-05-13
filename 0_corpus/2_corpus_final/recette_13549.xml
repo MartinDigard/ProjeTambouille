@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13549">
+ <titre>Mini mathon</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>190 g de farine</p>
+ <p>190 g de sucre</p>
+ <p>150 g de beurre</p>
+ <p>4 oeufs</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> a 180 ° c (thermostat 6). dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient> pour <operation temps=6.86min espace=9>obtenir une préparation mousseuse</operation>. ajouter ensuite progressivement la farine, la <ingredient quantite=1>levure</ingredient> le beurre ramolli. beurrer une plaque a cookies (<recipient>moule</recipient> avec des petits creux) et verser la pâte en remplissant chaque creux à moitié. <operation temps=30.0min espace=9>faire cuire 30 mn</operation> et démouler a froid. ces délicieux gâteaux peuvent être également consommés au petit déjeuner ou au goûter.
+]]>
+ </preparation>
+</recette>

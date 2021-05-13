@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22128">
+ <titre>Soupe à l’ oignon au céleri</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g d’ oignons</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>400 g de tomates</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 litre 1/2 de bouillon </p>
+ <p>1 coeur de céleri </p>
+ <p>cerfeuil</p>
+ <p>50 g de fromage râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>oignons</ingredient></operation> émincés dans de l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, à feu doux, jusqu’ à ce qu’ ils soient fondants. ajouter le <ingredient quantite=1>céleri</ingredient> et <operation temps=30.0min espace=10>laisser cuire</operation> cuire, à couvert et à feu doux. ajouter les <ingredient quantite=1>tomates</ingredient>, l’ <ingredient quantite=1>ail</ingredient> écrasé, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, et <operation temps=30.0min espace=10>laisser cuire 30 min</operation>. passer le potage au <recipient>chinois</recipient>, puis ajouter le <ingredient quantite=1>fromage râpé</ingredient> et un peu de <ingredient quantite=1>cerfeuil</ingredient>.
+]]>
+ </preparation>
+</recette>

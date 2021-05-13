@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28548">
+ <titre>Tiramisu chocolat orange</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 biscuits à la cuillère</p>
+ <p>200 g Mascarpone</p>
+ <p>25 cl crème fraîche liquide froide</p>
+ <p>150 chocolat noir</p>
+ <p>3 jaunes oeuf</p>
+ <p>100 g sucre</p>
+ <p>3 feuilles gélatine</p>
+ <p>Pour le sirop: </p>
+ <p>jus orange</p>
+ <p>1 cuillère à soupe sucre</p>
+ <p>1 cuillère à soupe rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire tremper les <ingredient quantite=3>feuilles</ingredient> de <ingredient quantite=3>gélatine</ingredient> dans un peu d’ eau</operation> tiède. casser le <ingredient quantite=1>chocolat</ingredient> et <operation temps=1.0min espace=13>faire fondre</operation>. ajouter la <ingredient quantite=3>gélatine</ingredient> et <operation temps=10.0min espace=13>laisser tiédir</operation>. en fouettant, incorporer les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient> et le sucre, fouetter jusqu’ à ce que le mélange prenne la consistance du <ingredient quantite=1>chocolat</ingredient> au lait. incorporer le mascarpone, fouetter la crème très <ingredient quantite=1>froide</ingredient> en chantilly et incorporez - la au mélange. <operation temps=6.86min espace=13>faites chauffer le <ingredient quantite=1>sirop</ingredient></operation>. tremper légèrement les gâteaux dans celui-ci puis les disposer dans un <recipient>plat</recipient> à cake. <operation temps=6.86min espace=13>faire 1 couche de gâteau et 1 couche de</operation> <ingredient quantite=1>chocolat</ingredient> puis recommencer. mettre au <ingredient quantite=1>froid</ingredient> au moins 6 h. <operation temps=2.0min espace=13>servir très frais</operation>. tapisser le <recipient>moule</recipient> à cake avec du papier aluminium, c’ est plus facile à démouler. disposer les gâteaux comme pour une charlotte.
+]]>
+ </preparation>
+</recette>

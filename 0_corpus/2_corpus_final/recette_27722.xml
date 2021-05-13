@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27722">
+ <titre>Soupe à la courgette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de courgettes</p>
+ <p>1 litre d’ eau</p>
+ <p>1 Boursin à l’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>courgettes</ingredient>, les couper en gros morceaux et les <operation temps=6.86min espace=3>faire cuire dans un <ingredient quantite=1>litre</ingredient> d’ <ingredient quantite=1>eau</ingredient></operation>. une fois qu’ elles sont cuites, les passer au mixer avec leur <ingredient quantite=1>eau</ingredient> de cuisson pour en <operation temps=6.86min espace=3>obtenir une soupe</operation>. rajouter un <ingredient quantite=1>boursin à</ingredient> l’ <ingredient quantite=1>ail</ingredient> en entier et mixer à nouveau. votre soupe est prête et délicieuse!
+]]>
+ </preparation>
+</recette>

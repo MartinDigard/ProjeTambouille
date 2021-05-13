@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56403">
+ <titre>Gâteau à l’ amande de papi canard</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>100 g de beurre</p>
+ <p>125 g de poudre d’ amande</p>
+ <p>6 oeufs</p>
+ <p>1 verre de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=6>oeufs</ingredient> au fouet, y ajouter le <ingredient quantite=1>sucre</ingredient> et continuer de battre jusqu’ à ce que le mélange mousse et blanchisse. rajouter ensuite la farine, le beurre, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> puis le <ingredient quantite=1>lait</ingredient>. verser dans un <recipient>moule</recipient> beurré et fariné et <operation temps=40.0min espace=8>faire cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 40 min</operation>. pour plus de goût, vous pouvez rajouter des fruits (non surgelés de préférence car ceux - ci rendent de l’ eau), du <ingredient quantite=1>sucre</ingredient> vanillé ou de l’ extrait d’ amande amère.
+]]>
+ </preparation>
+</recette>

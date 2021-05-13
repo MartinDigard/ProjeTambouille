@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45222">
+ <titre>Cheese-cake aux 2 citrons, dit chiiise-cake</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de Carrés Frais</p>
+ <p>6 Petits suisses</p>
+ <p>3 oeufs</p>
+ <p>80 g de sucre</p>
+ <p>1 citron vert</p>
+ <p>1/2 citron jaune</p>
+ <p>spéculoos</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>blanchir les <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. réserver. mélanger le fromage <ingredient quantite=1>frais</ingredient> et les <ingredient quantite=6>petits suisses</ingredient>. ajouter les jus et les zestes râpés des <ingredient quantite=1>citrons</ingredient>. bien mélanger. mélanger les deux appareils. disposer des <ingredient quantite=1>spéculoos</ingredient> au fond d’ un <recipient>moule</recipient> à cake. verser la préparation dans le <recipient>moule</recipient>. <operation temps=50.0min espace=10>faire cuire au <recipient>four</recipient> à 100 - 120 ° c (th-4), pendant 50 min</operation>. puis une nuit au frigo.
+]]>
+ </preparation>
+</recette>

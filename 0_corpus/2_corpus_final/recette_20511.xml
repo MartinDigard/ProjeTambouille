@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20511">
+ <titre>Pizza tomates anchois</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de tomates concassées</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel et poivre</p>
+ <p>1 cuillère à café d’ origan</p>
+ <p>50 g de filets d’ anchois</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>300 g de mozzarella</p>
+ <p>Pour la pâte à pizza: </p>
+ <p>20 g de levure fraîche du boulanger</p>
+ <p>20 cl d’ eau tiède</p>
+ <p>250 g de farine</p>
+ <p>10 cl d’ huile</p>
+ <p>1 cuillère à café de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>pâte à pizza</ingredient>: délayer la <ingredient quantite=1>levure</ingredient> dans l’ <ingredient quantite=1>eau</ingredient>. verser sur la farine, ajouter le <ingredient quantite=1>sel</ingredient> et l’ <ingredient quantite=1>huile</ingredient>. bien mélanger tous les ingrédients, les incorporer en malaxant. puis travailler la <ingredient quantite=1>pâte</ingredient> en rabattant un bout de <ingredient quantite=1>pâte</ingredient> vers le centre de la boule et en le poussant devant vous avec la paume de la main. <operation temps=6.86min espace=19>faire tourner la <ingredient quantite=1>pâte</ingredient> d’ un quart de tour</operation> et recommencer l’ opération. lorsque la <ingredient quantite=1>pâte</ingredient> est homogène, la rouler en boule et la <operation temps=6.86min espace=19>laisser doubler de volume dans un endroit chaud pendant 1 à 2 h</operation>. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). au bout de ce temps, l’ étaler dans un <recipient>moule</recipient> ou sur une plaque du <recipient>four</recipient>. préparer le coulis de <ingredient quantite=1>tomates</ingredient> mettant dans une <recipient>casserole</recipient> à fond <recipient>plat</recipient> les <ingredient quantite=1>tomates</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> émincé et l’ <ingredient quantite=1>ail</ingredient> haché. saler, poivrer et <operation temps=15.0min espace=19>laisser fondre 15 min</operation>. etaler ensuite le coulis sur la <ingredient quantite=1>pâte à pizza</ingredient>, garnisser de tranches de mozzarella, de <ingredient quantite=1>filets</ingredient> d’ <ingredient quantite=1>anchois</ingredient> et saupoudrer d’ <ingredient quantite=1>origan</ingredient>. arroser d’ un <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et <operation temps=30.0min espace=19>laisser reposer encore 30 min</operation>. enfourner pendant 30 minutes.
+]]>
+ </preparation>
+</recette>

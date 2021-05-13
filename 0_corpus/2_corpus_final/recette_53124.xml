@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53124">
+ <titre>Soufflé aux poires et au bleu</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 poires bien mûres, ou 2 poires en boite</p>
+ <p>150 g de fromage bleu (bleu de geix, fourme d’ ambert, roquefort, st agur) </p>
+ <p>3 oeufs</p>
+ <p>Pour la béchamel: </p>
+ <p>20 cl de lait</p>
+ <p>30 g de beurre</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>béchamel</ingredient>: dans une petite <recipient>casserole</recipient>, <operation temps=6.86min espace=11>faire chauffer le lait à feu très doux</operation> et verser la farine tout en fouettant pour éviter les grumeaux. quand elle épaissit (rapidement), rajouter le beurre cru et continuer à mélanger au fouet ; assaisonner. peler et épépiner les <ingredient quantite=2>poires</ingredient>, les écraser à la fourchette et les égoutter ; rajouter le <ingredient quantite=1>fromage</ingredient> et <ingredient quantite=2>bien</ingredient> mêler les deux. rajouter la <ingredient quantite=1>béchamel</ingredient> refroidie, ainsi que les jaunes d’ <ingredient quantite=1>oeuf</ingredient> (pour éviter que ceux - ci ne cuisent) ; et mélanger. monter les blancs en neige très ferme avec une pincée de <ingredient quantite=1>sel</ingredient> et les mêler délicatement au premier mélange. verser dans un <recipient>plat</recipient> à soufflé beurré et enfourner pendant 45 min à <recipient>four</recipient> préchauffé à 220 ° c / th 7 - 8. <operation temps=6.86min espace=11>servir avec une salade verte, pour un repas complet</operation>.
+]]>
+ </preparation>
+</recette>

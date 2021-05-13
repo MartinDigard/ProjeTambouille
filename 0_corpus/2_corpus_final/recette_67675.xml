@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67675">
+ <titre>Terrine de foies de volailles facile et inratabable</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g de foies de volailles</p>
+ <p>300 g de chair à saucisses </p>
+ <p>1 oeuf</p>
+ <p>2 biscottes trempées dans du lait</p>
+ <p>persil haché</p>
+ <p>ail moulu ou haché</p>
+ <p>sel, poivre</p>
+ <p>1 oignon</p>
+ <p>1 feuille de laurier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=1>foies</ingredient>, le <ingredient quantite=1>persil</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>. mélangez avec la <ingredient quantite=1>chair à saucisse</ingredient>. <operation temps=6.86min espace=13>ajoutez - y l’ <ingredient quantite=1>oeuf</ingredient>, les <ingredient quantite=2>biscottes</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre</operation> et <operation temps=6.86min espace=13>mélangez de nouveau</operation>. déposez ce mélange dans une <recipient>terrine</recipient> beurrée et <operation temps=6.86min espace=13>posez</operation> dessus une feuille de <ingredient quantite=1>laurier</ingredient>. <operation temps=45.0min espace=13>faites cuire 45 min au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>). a la sortie du <recipient>four</recipient>, <operation temps=6.86min espace=13>videz doucement le gras de la <recipient>terrine</recipient> sans</operation> <operation temps=6.86min espace=13>sortir celle-ci du récipient</operation>. <operation temps=6.86min espace=13>laissez refroidir dans le récipient</operation>. <operation temps=6.86min espace=13>gardez au frais</operation> et <operation temps=6.86min espace=13>servez en tranches fines</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12179">
+ <titre>Fouace</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de farine</p>
+ <p>80 g de sucre</p>
+ <p>15 cl de lait</p>
+ <p>eau de fleur d’ oranger</p>
+ <p>80 g de beurre demi-sel</p>
+ <p>4 oeufs</p>
+ <p>1 sachet de levure de boulanger</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la <ingredient quantite=1>levure</ingredient> dans un peu d’ <ingredient quantite=1>eau</ingredient> tiède. dans un <recipient>plat</recipient> en terre, <operation temps=6.86min espace=12>versez la farine, le <ingredient quantite=1>sucre</ingredient>, une pincée de <ingredient quantite=1>sel</ingredient>,</operation> et <operation temps=6.86min espace=12>versez au centre la <ingredient quantite=1>levure</ingredient> délayée</operation>. <operation temps=6.86min espace=12>mélangez en</operation> ajoutant peu à peu le lait. ajoutez les <ingredient quantite=4>oeufs</ingredient> un à un, puis le <ingredient quantite=1>beurre</ingredient> fondu, et enfin l’ <ingredient quantite=1>eau de fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient>. <operation temps=6.86min espace=12>mélangez délicatement avec une cuilière en bois, puis à la main pour</operation> <operation temps=6.86min espace=12>obtenir une pâte lisse et élastique</operation>. <operation temps=6.86min espace=12>couvrez le récipient avec un torchon propre</operation> et <operation temps=6.86min espace=12>mettez - le dans un endroit</operation> tiède à l’ abri des courants d’ air. <operation temps=6.86min espace=12>laissez levez pendant au moins 2 heures</operation>. <operation temps=6.86min espace=12>travaillez la pâte à nouveau à la main</operation> et <operation temps=6.86min espace=12>déposez - la dans un <recipient>moule</recipient> rond beurré</operation>. <operation temps=6.86min espace=12>dessinez un losange sur le dessus avec un couteau</operation>. <operation temps=30.0min espace=12>faire cuire à <recipient>four</recipient> moyen, thermostat 6 (180 ° c), pendant 30 minutes environ</operation>. <operation temps=6.86min espace=12>sortez du <recipient>four</recipient></operation> et <operation temps=6.86min espace=12>démoulez</operation>.
+]]>
+ </preparation>
+</recette>

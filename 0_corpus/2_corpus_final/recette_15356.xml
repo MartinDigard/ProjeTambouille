@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15356">
+ <titre>Jambon sauce aurore</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 tranche de jambon blanc par personne </p>
+ <p>quelques champignons de paris </p>
+ <p>1 gros pot de crème fraîche </p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>gruyère râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 180 ° c pendant 15 mn. dans un <recipient>plat</recipient> beurré allant au <recipient>four</recipient>, roulez les <ingredient quantite=1>tranches de jambon</ingredient>. <operation temps=6.86min espace=12>lavez les</operation> <ingredient quantite=1>champignons</ingredient>, <operation temps=6.86min espace=12>ôtez les pieds</operation> et <operation temps=6.86min espace=12>émincez les têtes en fines lamelles</operation>. <operation temps=0.5min espace=12>ajoutez</operation> - les dans le <recipient>plat</recipient>. dans un <ingredient quantite=1>petit</ingredient> <recipient>saladier</recipient>, mélangez la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>concentré de tomate</ingredient>. <operation temps=0.25min espace=12>salez</operation> et <operation temps=0.5min espace=12>poivrez</operation>. <operation temps=0.5min espace=12>ajoutez</operation> la sauce dans le <recipient>plat</recipient> et parsemez de <ingredient quantite=1>gruyère râpé</ingredient> (à volonté pour les gourmands!!!). enfournez et <operation temps=20.0min espace=12>laissez cuire environ 20 mn</operation>. idéal avec un riz basmati.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12734">
+ <titre>Filet mignon de porc au Maroilles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 filets mignons de porc</p>
+ <p>10 cl de vin blanc</p>
+ <p>1 oignon</p>
+ <p>50 cl de crème fraîche</p>
+ <p>250 g de maroille. </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire blondir l’ <ingredient quantite=1>oignon</ingredient></operation> haché dans une <recipient>cocotte</recipient> ou une <recipient>sauteuse</recipient> avec couvercle. ajouter les <ingredient quantite=2>filets mignons</ingredient>, une fois qu’ ils sont dorés sur tous les côtés, ajouter le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=20.0min espace=10>laisser cuire 20 minutes</operation>. dans un bol, couper le maroilles en petits morceaux. ajouter la <ingredient quantite=1>crème</ingredient> et mélanger. vérifier la cuisson. une fois les <ingredient quantite=2>filets</ingredient> cuits, ajouter la <ingredient quantite=1>crème</ingredient> et le maroilles. le maroilles va fondre progressivement. le <recipient>plat</recipient> est prêt une fois que la sauce est bien onctueuse. ce <recipient>plat</recipient> est très bon accompagné de tagliatelles fraîches. <ingredient quantite=1>vin</ingredient> rouge frais
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11664">
+ <titre>Tartare de cheval</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de viande de cheval ou de poulain hachée</p>
+ <p>10 g d’ huile d’ olive</p>
+ <p>5 g de vinaigre</p>
+ <p>30 g de moutarde</p>
+ <p>20 g de persil</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 oignons</p>
+ <p>ketchup</p>
+ <p>cognac ou Madère</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>mélangez dans un <recipient>saladier</recipient> 10 g d’ huile d’ <ingredient quantite=1>olive</ingredient>, 5 g de <ingredient quantite=1>vinaigre</ingredient>, 30 g de <ingredient quantite=1>moutarde</ingredient> et un grosse cuillerée de <ingredient quantite=1>cognac</ingredient> ou madère (selon les goûts</operation>). <operation temps=6.86min espace=11>brassez jusqu’ à ce que cette sauce soit lisse</operation>. <operation temps=6.86min espace=11>ajoutez 20 g de <ingredient quantite=1>persil</ingredient></operation> haché, 2 <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> écrasées, 3 <ingredient quantite=3>oignons</ingredient> émincés finement, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et un peu de <ingredient quantite=1>ketchup</ingredient>. <operation temps=6.86min espace=11>mélangez bien à nouveau le tout</operation> et <operation temps=6.86min espace=11>incorporez la <ingredient quantite=1>viande</ingredient> en</operation> travaillant à la fourchette. <operation temps=5.0min espace=11>laissez reposer pendant 5 min avant de</operation> former les steaks et de les servir crus sur toasts.
+]]>
+ </preparation>
+</recette>

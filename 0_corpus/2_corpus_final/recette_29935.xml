@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29935">
+ <titre>Soufflé de marrons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de marrons</p>
+ <p>2 oeufs</p>
+ <p>100 g de sucre</p>
+ <p>15 cl de crème</p>
+ <p>25 g de beurre</p>
+ <p>1 gousse de vanille</p>
+ <p>50 g de marrons glacés</p>
+ <p>3 cl de kirsch</p>
+ <p>25 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer un sirop assez léger en portant à ébullition 50 cl d’ eau avec 25 g de <ingredient quantite=1>sucre</ingredient> et la gousse de <ingredient quantite=1>vanille</ingredient> fendue et grattée. eplucher les <ingredient quantite=1>marrons</ingredient>, puis les plonger dans ce sirop pour les <operation temps=40.0min espace=14>faire cuire pendant 35 à 40 minutes</operation>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). une fois cuits, les réduire en purée à l’ aide d’ un <recipient>mixeur</recipient>, puis verser la purée obtenue dans une <recipient>casserole</recipient> portée sur feu doux en remuant à l’ aide d’ une spatule. incorporer le reste du <ingredient quantite=1>sucre</ingredient> avec le beurre et la <ingredient quantite=1>crème</ingredient>, puis bien mélanger le tout jusqu’ à l’ obtention d’ une <ingredient quantite=1>crème</ingredient> parfaitement homogène. incorporer les jaunes d’ oeufs hors du feu pour lier la <ingredient quantite=1>crème</ingredient>. hacher grossièrement les <ingredient quantite=1>marrons</ingredient> glacés, puis les mettre à tremper dans le <ingredient quantite=1>kirsch</ingredient> et les ajouter à la <ingredient quantite=1>crème</ingredient>. monter ensuite les blancs en neige bien ferme avec une pincée de sel, puis les incorporer délicatement au reste de la préparation. verser l’ appareil dans un <recipient>moule</recipient> à soufflé beurré et sucré puis enfourner pour 40 minutes de cuisson, sans <operation temps=6.86min espace=14>ouvrir la porte du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

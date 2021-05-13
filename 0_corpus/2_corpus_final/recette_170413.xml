@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170413">
+ <titre>Kuigns (crêpes épaisse) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>170 g de sucre</p>
+ <p>70 cl de lait </p>
+ <p>2 œufs</p>
+ <p>2 sachets de levure boulangère</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un grand <recipient>saladier</recipient>, mélanger la farine et les <ingredient quantite=2>œufs</ingredient>, ajouter le lait progressivement. ajouter le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=2>levure boulangère</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=10>laisser reposer la pâte quelque heures afin qu’ elle</operation> lève. prendre une <recipient>poêle</recipient> ou une <recipient>crêpière</recipient>, la huiler, y déposer une demi louche de pâte, elle s’ étale toute seule et prend la forme d’ un pancake, cuire des 2 côtés. c’ est prêt!! bon appétit
+]]>
+ </preparation>
+</recette>

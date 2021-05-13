@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22253">
+ <titre>Salade César aux crevettes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 laitue (ou une salade romaine) </p>
+ <p>2 tomates</p>
+ <p>1 avocat</p>
+ <p>150 g de crevettes entières</p>
+ <p>1 pamplemousse</p>
+ <p>6 brins de ciboulette</p>
+ <p>facultatif: 12 radis (ou des câpres, ou encore un oeuf dur...) Pour la sauce cocktail: </p>
+ <p>2 cuillères à soupe de mayonnaise</p>
+ <p>1 cuillère à soupe de ketchup</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ <p>1.5 cuillère à soupe de Cognac</p>
+ <p>1 cuillère à café de sauce worcestershire (sauce anglaise) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez tous les ingrédient de la <ingredient quantite=1>sauce cocktail</ingredient> que vous <operation temps=6.86min espace=14>laissez au fond du <recipient>saladier</recipient> jusqu’ au dernier moment</operation>. <operation temps=6.86min espace=14>triez la salade</operation> et <operation temps=6.86min espace=14>découpez les feuilles en lanières</operation>. placez dessus la pulpe du <ingredient quantite=1>pamplemousse</ingredient>, les dés d’ <ingredient quantite=1>avocat</ingredient> légèrement citronnés, les dés de <ingredient quantite=2>tomates</ingredient> égouttés puis les <ingredient quantite=1>crevettes</ingredient> et la <ingredient quantite=6>ciboulette</ingredient> joliment arrangés. <operation temps=6.86min espace=14>mélangez au moment de</operation> <operation temps=2.0min espace=14>servir</operation>. c’ est frais, délicieux et trés convivial. n’ hésitez pas!!!
+]]>
+ </preparation>
+</recette>

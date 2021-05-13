@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60434">
+ <titre>Quiche feuilletée chèvre pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>6 pommes de terre</p>
+ <p>1 bûche de chevre</p>
+ <p>100 g de gruyère rapé</p>
+ <p>150 g de lardons fumés</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème fraîche</p>
+ <p>muscade en poudre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=6>pommes de terre</ingredient>. <operation temps=6.86min espace=14>faites - les</operation> cuire 10 min à l’ <recipient>autocuiseur</recipient>. pendant ce temps, <operation temps=6.86min espace=14>faites revenir les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient> anti-adhésive, sans aucun ajout de gras, les <ingredient quantite=1>lardons</ingredient> le sont</operation> suffisament. <operation temps=6.86min espace=14>habillez un <recipient><recipient>moule</recipient> à tarte</recipient> de papier</operation> sulfurisé. <operation temps=6.86min espace=14>versez les <ingredient quantite=1>lardons</ingredient> grillés</operation> et <operation temps=6.86min espace=14>recouvrez de <ingredient quantite=1>gruyère</ingredient> râpé</operation>. ajoutez les <ingredient quantite=6>pommes de terres</ingredient> coupées en rondelles (<operation temps=0.25min espace=14>salez</operation> et <operation temps=6.86min espace=14>poivrez), puis le chèvre en tranches</operation>. dans un <recipient>saladier</recipient>, mélangez les <ingredient quantite=3>oeufs</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>, <operation temps=6.86min espace=14>ajoutez une pincée de <ingredient quantite=1>muscade</ingredient></operation>. versez sur les <ingredient quantite=6>pommes de terre</ingredient>. recouvrez le <recipient>plat</recipient> de <ingredient quantite=1>pâte feuilletée</ingredient> en creusant une cheminée au centre. <operation temps=30.0min espace=14>enfournez 30 min à 200 ° c (thermostat 6 - 7</operation>).
+]]>
+ </preparation>
+</recette>

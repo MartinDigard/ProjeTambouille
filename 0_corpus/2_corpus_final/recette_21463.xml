@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21463">
+ <titre>QUICHE ENDIVES ET FROMAGES</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>3 endives</p>
+ <p>1 oignon moyen</p>
+ <p>100 g de gruyère râpé</p>
+ <p>1/2 fromage de vache pas trop frais voire sec (100 g) </p>
+ <p>3 oeufs</p>
+ <p>1 petit pot de crème fraîche épaisse</p>
+ <p>sel, poivre</p>
+ <p>lait froid, la moitié du pot de crème</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=3>endives</ingredient> coupés en <ingredient quantite=1>petits</ingredient> morceaux</operation> (ôter le coeur des <ingredient quantite=3>endives</ingredient>) dans une <recipient>poêle</recipient> avec un peu d’ huile d’ olive. pendant ce temps, mélanger les <ingredient quantite=3>oeufs</ingredient>, la crême, le lait, le <ingredient quantite=1>sel</ingredient> et le poivre. etaler la <ingredient quantite=1>pâte brisée</ingredient> dans le <recipient>moule</recipient> beurré, et y déposer la préparation <ingredient quantite=3>endives</ingredient> / <ingredient quantite=1>oignons</ingredient> qui auront bruni en rendant leur eau. parsemer de <ingredient quantite=1>gruyère râpé</ingredient> et couper grossièrement dessus des morceaux de <ingredient quantite=1>fromage de vache</ingredient>. recouvrer du mélanger <ingredient quantite=1>crème</ingredient> / <ingredient quantite=3>oeufs</ingredient> / lait et <operation temps=30.0min espace=11>faire cuire à environ 180 ° c pendant 25 à 30 mn</operation>. la quiche doit être dorée. bon appétît.
+]]>
+ </preparation>
+</recette>

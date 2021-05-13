@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89099">
+ <titre>Bouillabaisse borgne</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poireau</p>
+ <p>2 oignons</p>
+ <p>1 gousse ail</p>
+ <p>18 petites pommes de terre</p>
+ <p>6 oeufs </p>
+ <p>6 tranches de pain (pain de campagne de préférence) </p>
+ <p>1 cuillère à café de concentré de tomate</p>
+ <p>1 bouquet garni</p>
+ <p>1 branche de fenouil</p>
+ <p>2 zestes d’ orange</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1/4 cuillère à café de safran</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher, couper menu et <operation temps=6.86min espace=14>faire revenir dans une grande <recipient>casserole</recipient> les <ingredient quantite=2>oignons</ingredient> dans l’ huile</operation>. ajouter le concentre de <ingredient quantite=1>tomate</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, le <ingredient quantite=1>fenouil</ingredient>, les <ingredient quantite=2>zestes</ingredient>, le <ingredient quantite=1>safran</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre, les <ingredient quantite=1>pommes de terre</ingredient> coupées dans le sens de la longueur et 50 cl d’ eau. <operation temps=30.0min espace=14>laisser bouillir doucement durant 30 min</operation>. faire griller les <ingredient quantite=6>tranches de pain</ingredient>. <operation temps=6.86min espace=14>faire pocher les <ingredient quantite=6>oeufs</ingredient> en les</operation> laissant glisser d’ une soucoupe dans la <ingredient quantite=2>soupe</ingredient>. lorsque les <ingredient quantite=6>oeufs</ingredient> sont cuits les égoutter. <operation temps=6.86min espace=14>servir dans une assiette en</operation> mettant 1 <ingredient quantite=6>tranche de pain</ingredient>, 1/2 louche de <ingredient quantite=2>soupe</ingredient> et un <ingredient quantite=1>oeuf</ingredient>. le <ingredient quantite=1>fenouil</ingredient> peut être remplacé par de l’ anis moulu
+]]>
+ </preparation>
+</recette>

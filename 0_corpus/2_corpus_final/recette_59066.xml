@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59066">
+ <titre>Tarte des Iles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte feuilletée</p>
+ <p>4 pommes</p>
+ <p>3 bananes</p>
+ <p>une grosse poignée de raisins sec</p>
+ <p>du rhum</p>
+ <p>trois oeufs</p>
+ <p>du lait</p>
+ <p>2 paquets de sucre vanillé, de la noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper les <ingredient quantite=4>pommes</ingredient> en lamelles. en <operation temps=6.86min espace=9>faire autant avec les <ingredient quantite=3>bananes</ingredient></operation>. etaler la <ingredient quantite=1>pâte</ingredient> feuilletée, <operation temps=6.86min espace=9>couvrir avec les <ingredient quantite=4>pommes</ingredient> puis avec les rondelles de <ingredient quantite=3>bananes</ingredient></operation>. ajouter les <ingredient quantite=1>raisins secs</ingredient> que l’ on a préalablement fait tremper dans le <ingredient quantite=1>rhum</ingredient>. casser trois <ingredient quantite=1>oeufs</ingredient>, ajouter le <ingredient quantite=2>sucre</ingredient> vanillé, le <ingredient quantite=1>lait</ingredient>, le reste du <ingredient quantite=1>rhum</ingredient> dans lequel ont trempé les <ingredient quantite=1>raisins</ingredient> et un peu de <ingredient quantite=2>noix de coco râpée</ingredient>. battre le tout et verser sur la tarte. mettre au <recipient>four</recipient> thermostat 7 (210 ° c) pour 30 à 35 minutes.
+]]>
+ </preparation>
+</recette>

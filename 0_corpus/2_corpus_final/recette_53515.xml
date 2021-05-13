@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53515">
+ <titre>Phô</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 blocs de pâtes chinoises aux œufs</p>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>4 feuilles de chou chinois ou de salade</p>
+ <p>1 os à moelle (pour regime au lieu de l’ os, 1 tablette de bouillon de poule) </p>
+ <p>1 bifteck de 175 g</p>
+ <p>1/2 l d’ eau</p>
+ <p>1 cuillère à soupe de nuoc-mâm</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire brûler l’ <ingredient quantite=1>oignon</ingredient></operation> épluché directement sur une flamme pour qu’ il noircisse. le mettre dans l’ <ingredient quantite=1>eau</ingredient> avec l’ <ingredient quantite=1>os à moelle</ingredient> et porter à ébullition, cuire 20 minutes. pendant ce temps, éplucher et émincer l’ <ingredient quantite=1>échalote</ingredient>. couper en petites lamelles le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient>. cuire 3 minutes les <ingredient quantite=2>pâtes</ingredient> chinoises dans l’ <ingredient quantite=1>eau</ingredient> bouillante et les refroidir. couper la viande en petits dés retirer l’ oigon du bouillon. <operation temps=6.86min espace=10>sortir la <ingredient quantite=1>moelle</ingredient>, l’</operation> écraser et l’ ajouter ainsi que la <ingredient quantite=1>nuoc</ingredient> - <ingredient quantite=1>mâm</ingredient> au bouillon. pour <operation temps=6.86min espace=10>servir: dans 2 bols</operation> répartir les <ingredient quantite=2>pâtes</ingredient>, le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient> dessus, puis la viande, arroser du bouillon bien chaud et terminer par l’ <ingredient quantite=1>échalote</ingredient> hachée. <operation temps=2.0min espace=10>servir aussitôt</operation>. on peut préparer le bouillon à l’ avance ou plus léger (régime) ou se <operation temps=6.86min espace=10>servir d’ un bouillon</operation> restant. rosé leger
+]]>
+ </preparation>
+</recette>

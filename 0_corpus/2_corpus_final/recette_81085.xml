@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81085">
+ <titre>Gâteau pompadour</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour 1 œuf entier: </p>
+ <p>125 g de beurre </p>
+ <p>125 g de sucre en poudre fin </p>
+ <p>3 grands bâtons de chocolat fondant noir/noir </p>
+ <p>85 g de chocolat (ou équivalent) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+les moules doivent aller au <recipient>bain - marie</recipient>. râper le <ingredient quantite=3>chocolat</ingredient> avec une râpe fine (râpe à fromage par exemple). travailler l’ oeuf <ingredient quantite=1>entier</ingredient> et le <ingredient quantite=1>sucre</ingredient> au <recipient>bain - marie</recipient> en fouettant pendant 5 secondes à consistance de ruban (attention pas trop chaud). ajouter le <ingredient quantite=3>chocolat</ingredient> râpé, le beurre fondu à peine tiède et bien mélanger. mettre l’ appareil dans le <recipient>moule</recipient>. cuire au <recipient>bain - marie</recipient> très doucement dans une <recipient>casserole</recipient> sur le feu pendant 2 heures. attention: <operation temps=6.86min espace=11>vérifiez bien qu’ il y</operation> ait assez d’ eau pendant toute la durée de la cuisson. niveau de l’ eau ± 1, 5 cm du bord du <recipient>moule</recipient>. l’ eau ne doit pas avoir de gros bouillons. servir bien froid avec une crème anglaise légère.
+]]>
+ </preparation>
+</recette>

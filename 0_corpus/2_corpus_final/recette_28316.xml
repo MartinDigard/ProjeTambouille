@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28316">
+ <titre>Poires gratinées aux noix et raisins secs</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de poires</p>
+ <p>70 g de raisins secs</p>
+ <p>3 cuillères à soupe de poudre de noix</p>
+ <p>20 g de beurre</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>3 cuillères à soupe de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=9>pelez</operation>, <operation temps=6.86min espace=9>épépinez</operation> et <operation temps=6.86min espace=9>coupez les <ingredient quantite=1>poires</ingredient> en quartiers</operation>. disposez - les dans un <recipient>plat</recipient> beurré allant au <recipient>four</recipient>. répartissez les <ingredient quantite=1>raisins secs</ingredient> sur les <ingredient quantite=1>poires</ingredient>, la <ingredient quantite=3>crème</ingredient>, le <ingredient quantite=3>sucre</ingredient> et la <ingredient quantite=3>poudre de noix</ingredient>. <operation temps=30.0min espace=9>faites cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 30 min</operation>. servez tiède. vous pouvez réaliser la recette dans des ramequins individuels, et remplacez la <ingredient quantite=3>poudre de noix</ingredient> par de la <ingredient quantite=3>poudre</ingredient> d’ amandes, de noisettes ou de coco...
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164446">
+ <titre>Lotte au lard sauce au vin rouge et au chocolat</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une queue de lotte d’ 1kg</p>
+ <p>4 belles tranches de lard</p>
+ <p>un litre de vin rouge</p>
+ <p>150g de chocolat noir à 70%</p>
+ <p>10 cl de crème liquide</p>
+ <p>deux cuillères a soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlever la peau de la <ingredient quantite=1>lotte</ingredient> (vous pouvez demander a votre poissonnier de le <operation temps=6.86min espace=8>faire)</operation> et retirer l’ arrête centrale puis couper les deux morceaux obtenus en portions égales (ce qui vous donne 4 morceaux). rouler les morceaux dans le <ingredient quantite=4>lard</ingredient> puis les <operation temps=6.86min espace=8>faire dorer dans une poële bien chaude</operation> et <operation temps=10.0min espace=8>finir au <recipient>four</recipient> à 180 ° pendant environ 10 minutes</operation>. pendant ce temps vider le <ingredient quantite=1>vin rouge</ingredient> dans une <recipient>casserole</recipient> et <operation temps=6.86min espace=8>faites réduire de moitié</operation> puis ajouter le <ingredient quantite=1>chocolat</ingredient> en morceaux et cremer puis reduire a nouveau de façon a <operation temps=6.86min espace=8>obtenir une sauce sirupeuse servir chaud avec la sauce a part légumes</operation> conseillés: risotto au parmesan et aux girolles bordeaux <ingredient quantite=1>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

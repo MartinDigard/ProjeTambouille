@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47210">
+ <titre>Tarte aux châtaignes de Lola</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de pâte à tarte sucrée (brisée ou sablée) </p>
+ <p>300 g de marrons au naturel (cuit quand même) </p>
+ <p>140 g de purée de marrons au naturel</p>
+ <p>80 g de crème de marrons</p>
+ <p>110 g de beurre</p>
+ <p>140 g de sucre</p>
+ <p>2 oeufs entiers</p>
+ <p>6 jaunes d’ oeufs</p>
+ <p>6 cl de crème fraiche épaisse</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=13>faites cuire à blanc la pâte <ingredient quantite=1>sucrée</ingredient> (environ 20 min avec des haricots puis quelques minutes sans à 180 ° c - thermostat 6</operation>). dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=13>faites fondre 50 g de beurre</operation>, <operation temps=6.86min espace=13>jetez y les</operation> <ingredient quantite=1>marrons</ingredient> et <operation temps=6.86min espace=13>saupoudrez de 80 g de <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=13>faites cuire à feu vif en</operation> remuant avec une cuillère en bois, jusqu’ à ce qu’ ils aient une belle couleur. <operation temps=6.86min espace=13>otez du feu</operation>. <operation temps=6.86min espace=13>prélevez 200 g de</operation> <ingredient quantite=1>marrons</ingredient>, <operation temps=6.86min espace=13>brisez les</operation> et <operation temps=6.86min espace=13>éparpillez - les sur le fond de la <ingredient quantite=1>tarte</ingredient></operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=13>travaillez le beurre avec une spatule,</operation> puis ajoutez la <ingredient quantite=1>crème de marrons</ingredient>, la <ingredient quantite=1>purée de marrons</ingredient> et la <ingredient quantite=1>crème</ingredient> fraîche. ajoutez les <ingredient quantite=2>oeufs entiers</ingredient> et les <ingredient quantite=6>jaunes</ingredient> préalablement battus avec le <ingredient quantite=1>sucre</ingredient> restant. <operation temps=6.86min espace=13>fouettez jusqu’ à obtention d’ une pâte homogène</operation>. <operation temps=6.86min espace=13>versez dans le fond de la</operation> <ingredient quantite=1>tarte</ingredient> et <operation temps=6.86min espace=13>disposez les <ingredient quantite=1>marrons</ingredient></operation> restant (<ingredient quantite=2>entiers</ingredient> ou non, selon vos goûts) sur le dessus. passez au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 15 min. servez tiède. si vous aimez les <ingredient quantite=1>marrons</ingredient>, là ils sont sublimes...
+]]>
+ </preparation>
+</recette>

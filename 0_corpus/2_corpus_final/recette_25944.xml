@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25944">
+ <titre>Poire confite au chocolat et son caramel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat pâtissier</p>
+ <p>4 poires mûres de taille moyenne</p>
+ <p>1/2 litre d’ eau</p>
+ <p>200 g de cassonade</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=4>poires</ingredient> en conservant la queue. dans une <recipient>casserole</recipient> à bords hauts, <operation temps=6.86min espace=7>faire fondre le <ingredient quantite=1>chocolat</ingredient> en morceaux avec l’ <ingredient quantite=1>eau</ingredient> et le sucre</operation>, porter à ébullition. quand le <ingredient quantite=1>chocolat</ingredient> est bien fondu, réduire le feu et mettre les <ingredient quantite=4>poires</ingredient> pendant 45 mn à petits frémissements. <operation temps=6.86min espace=7>sortir les <ingredient quantite=4>poires</ingredient>, les</operation> égoutter soigneusement et les mettre au <recipient>réfrigérateur</recipient> dans les assiettes de service. au moment de <operation temps=2.0min espace=7>servir</operation>, <operation temps=6.86min espace=7>faire bouillir le liquide de cuisson en</operation> <operation temps=6.86min espace=7>faisant attention à ce qu’ il ne</operation> déborde pas. aux premiers signes de caramélisation, ajouter la <ingredient quantite=2>crème fraîche</ingredient> et <operation temps=6.86min espace=7>refaire bouillir quelques instants</operation>. verser ce caramel au <ingredient quantite=1>chocolat</ingredient> chaud sur les <ingredient quantite=4>poires</ingredient> froides et déguster. champagne
+]]>
+ </preparation>
+</recette>

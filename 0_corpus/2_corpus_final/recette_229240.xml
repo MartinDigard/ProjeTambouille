@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229240">
+ <titre>Pêches rôties aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pêches pas trop mures (ou 4 brugnons) </p>
+ <p>2 jaunes d’ oeuf </p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>60 g de poudre d’ amandes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6). <operation temps=6.86min espace=7>coupez les <ingredient quantite=4>pêches</ingredient> en deux</operation>. <operation temps=6.86min espace=7>ôtez le noyaux</operation> et <operation temps=6.86min espace=7>mettez les demi-pêches, côté</operation> coupé vers le haut, dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. dans un bol, <operation temps=6.86min espace=7>mélangez les 2 <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeuf</ingredient>, le <ingredient quantite=4>sucre</ingredient> et la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient></operation>. répartissez cette préparation dans les creux de chaque <ingredient quantite=1>pêche</ingredient> en tassant un peu. <operation temps=20.0min espace=7>enfournez 20 min</operation>. servez tiède.
+]]>
+ </preparation>
+</recette>

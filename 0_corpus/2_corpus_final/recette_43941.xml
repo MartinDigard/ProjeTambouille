@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43941">
+ <titre>Glace aux Carambars</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de Carambars</p>
+ <p>6 jaunes d’ oeufs</p>
+ <p>10 cl de crème fleurette</p>
+ <p>1/2 litre de lait</p>
+ <p>20 g de sucre semoule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter à ébullition le <ingredient quantite=1>lait</ingredient> avec la <ingredient quantite=1>crème</ingredient>. ajouter les carambars, et <operation temps=6.86min espace=7>laisser fondre en</operation> remuant le mélange. dans une récipient, fouetter les <ingredient quantite=6>jaunes</ingredient> d’ œufs avec le <ingredient quantite=1>sucre</ingredient>, puis délayer avec le <ingredient quantite=1>lait</ingredient> parfumé. <operation temps=6.86min espace=7>faire cuire la <ingredient quantite=1>crème</ingredient> ainsi</operation> obtenue à feu doux, en <operation temps=6.86min espace=7>faisant très attention à ne pas la</operation> <operation temps=6.86min espace=7>laisser bouillir</operation>! verser la <ingredient quantite=1>crème</ingredient> dans un <recipient>saladier</recipient>, et la <operation temps=20.0min espace=7>laisser refroidir</operation>. après refroidissement, garder la <ingredient quantite=1>crème</ingredient> aux carambars au <recipient>congélateur</recipient>.
+]]>
+ </preparation>
+</recette>

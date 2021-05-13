@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80725">
+ <titre>Lasagnes boeuf/béchamel</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de boeuf haché</p>
+ <p>750 g de coulis de tomates</p>
+ <p>2 grosses cuillères à soupe de margarine</p>
+ <p>150 g de farine</p>
+ <p>1 litre de lait</p>
+ <p>gruyère rapé</p>
+ <p>12 pâtes à lasagnes environ</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour la viande: <operation temps=6.86min espace=12>faire cuire la viande hachée à la <recipient>poêle</recipient> dans un filet d’ huile d’ olive</operation>. lorsque la viande est cuite, rajouter le <ingredient quantite=1>coulis de tomates</ingredient> et <operation temps=6.86min espace=12>laisser mijoter 5 minutes,</operation> puis passer le tout au <recipient>mixeur</recipient>. pour la béchamel: <operation temps=6.86min espace=12>faire fondre le beurre dans une <recipient>casserole</recipient>,</operation> et ajouter la farine afin d’ <operation temps=6.86min espace=12>obtenir une boule de <ingredient quantite=1>pâte</ingredient>,</operation> (rajouter de la farine si elle ne semble pas assez compacte). ajouter petit à petit le <ingredient quantite=1>litre de lait</ingredient> et brasser pendant un bon moment jusqu’ à <operation temps=6.86min espace=12>obtenir une crème (le mélange</operation> doit adhérer à la <ingredient quantite=1>cuillère</ingredient>), puis rajouter une poignée de <ingredient quantite=1>gruyère rapé</ingredient>. montage des <ingredient quantite=1>lasagnes</ingredient>: huiler le fond d’ un <recipient>plat</recipient> rectangulaire et disposer une première couche de <ingredient quantite=1>pâtes à lasagne</ingredient> (cela permet de mieux <operation temps=6.86min espace=12>servir les parts),</operation> puis alterner avec une couche de viande, une couche de béchamel, un peu de gruyère puis une couche de <ingredient quantite=1>pâte</ingredient> jusqu’ à <operation temps=6.86min espace=12>remplir votre <recipient>plat</recipient></operation>. <operation temps=6.86min espace=12>finir par du gruyère pour que le dessus gratine</operation>. enfourner 30 min thermostat 7 (210 ° c).
+]]>
+ </preparation>
+</recette>

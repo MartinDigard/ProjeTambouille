@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81764">
+ <titre>Le Russe</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g d’ amandes en poudre </p>
+ <p>425 g de sucre </p>
+ <p>70 g de farine</p>
+ <p>3 oeufs</p>
+ <p>7 blancs d’ oeuf</p>
+ <p>extrait de café</p>
+ <p>250 g de beurre ramolli</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez <ingredient quantite=1>amandes en poudre</ingredient>, <ingredient quantite=1>farine</ingredient> et 150 g de <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=9>battez les 7 blancs d’ <ingredient quantite=7>oeuf</ingredient> fermes</operation> puis <operation temps=6.86min espace=9>ajoutez 175 g de</operation> <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=9>battez encore</operation>. <operation temps=0.5min espace=9>ajoutez</operation> délicatement le mélange aux <ingredient quantite=1>amandes</ingredient>. <operation temps=6.86min espace=9>etalez sur une plaque de silicone en deux rectangles égaux</operation>, <operation temps=30.0min espace=9>faire cuire 30 min (thermostat 5 - 150 ° c</operation>). au <recipient>bain - marie</recipient>, <operation temps=6.86min espace=9>battez ensemble les <ingredient quantite=3>oeufs</ingredient>, 100 g de <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>café</ingredient> jusqu’ à ce que ce soit crémeux</operation>. <operation temps=20.0min espace=9>laissez refroidir</operation> et <operation temps=6.86min espace=9>incorporez le beurre <ingredient quantite=1>ramolli</ingredient></operation>. <operation temps=6.86min espace=9>fourrez les meringues</operation> et <operation temps=6.86min espace=9>mettez au frais une nuit</operation>. <operation temps=5.0min espace=9>dégustez</operation>. jurançon
+]]>
+ </preparation>
+</recette>

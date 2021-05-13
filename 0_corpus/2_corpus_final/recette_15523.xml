@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15523">
+ <titre>Melitzanosalata / salade d’ aubergines (Grèce) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg aubergines</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 tomates pelées</p>
+ <p>1 cuillère à café de jus de citron</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez en deux les aubergines</operation>, <operation temps=6.86min espace=9>ciselez la chair</operation>, <operation temps=0.25min espace=9>salez</operation> et <operation temps=6.86min espace=9>laissez dégorger pendant 30mn</operation>. <operation temps=6.86min espace=9>faites les</operation> cuire au <recipient>four</recipient> à 180 ° c jusqu’ à ce qu’ elles soient tendres et <operation temps=6.86min espace=9>retirez la chair</operation>. dans une <recipient>terrine</recipient>, <operation temps=6.86min espace=9>mélangez l’ <ingredient quantite=2>ail</ingredient></operation> haché, la chair d’ aubergine, les <ingredient quantite=2>tomates</ingredient>, l’ huile et le <ingredient quantite=1>jus de citron</ingredient>. <operation temps=6.86min espace=9>ajoutez - y l’ <ingredient quantite=1>oignon</ingredient> hâché</operation> revenu quelques instants à l’ <ingredient quantite=1>huile</ingredient>. <operation temps=1.0min espace=9>assaisonnez</operation> et <operation temps=6.86min espace=9>travaillez bien la préparation</operation>. <operation temps=6.86min espace=9>gardez la salade au frais pour environ une demi-heure, avant de</operation> <operation temps=2.0min espace=9>servir</operation>. rosé léger
+]]>
+ </preparation>
+</recette>

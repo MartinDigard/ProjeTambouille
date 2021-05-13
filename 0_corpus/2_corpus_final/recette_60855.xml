@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60855">
+ <titre>Oeufs au lait concentré sucré</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petite boîte de lait concentré sucré</p>
+ <p>6 oeufs</p>
+ <p>caramel</p>
+ <p>vanille, cannelle, muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). casser les 6 oeufs entiers dans un <recipient>saladier</recipient> puis ajouter le <ingredient quantite=1>lait sucré</ingredient> et les épices selon votre goût. <operation temps=6.86min espace=7>recouvrir le fond du <recipient>moule</recipient> de</operation> <ingredient quantite=1>caramel</ingredient> et verser la préparation dessus. enfourner pour 30 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

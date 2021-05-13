@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29855">
+ <titre>Tarte amandine à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g de rhubarbe </p>
+ <p>1 pâte sâblée</p>
+ <p>100 g de poudre d’ amande</p>
+ <p>quelques gouttes d’ arôme d’ amande amère </p>
+ <p>2 oeufs</p>
+ <p>20 cl de lait </p>
+ <p>60 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>effilez et tronçonnez la <ingredient quantite=1>rhubarbe</ingredient></operation>. <operation temps=6.86min espace=11>mettez la dans une <recipient>casserole</recipient></operation> et <operation temps=6.86min espace=11>ajoutez de l’ eau à hauteur</operation>. <operation temps=6.86min espace=11>chauffez</operation> et <operation temps=3.0min espace=11>laissez bouillir 3 mn</operation>. egouttez et pressez pour enlever l’ eau en excès. <operation temps=20.0min espace=11>laissez refroidir</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=11>préparez la crème</operation>: <operation temps=6.86min espace=11>mélangez la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>, le <ingredient quantite=1>sucre</ingredient> et une pincée de sel dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=11>faites une fontaine</operation> et <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=11>tournez doucement en</operation> partant du centre pour incorporer la <ingredient quantite=1>poudre</ingredient>. ajoutez ensuite l’ <ingredient quantite=1>arôme</ingredient> d’ <ingredient quantite=1>amande amère</ingredient> et <operation temps=6.86min espace=11>délayez avec le lait</operation>. <operation temps=6.86min espace=11>tapissez le <recipient>moule</recipient> avec la <ingredient quantite=1>pâte</ingredient> sablée</operation> et <operation temps=6.86min espace=11>étalez - y les 3/4 de la <ingredient quantite=1>rhubarbe</ingredient></operation>. <operation temps=6.86min espace=11>versez la crème</operation> et <operation temps=6.86min espace=11>semez le reste de la <ingredient quantite=1>rhubarbe</ingredient></operation>. <operation temps=30.0min espace=11>faites cuire 30 mn à 180 ° c</operation>.
+]]>
+ </preparation>
+</recette>

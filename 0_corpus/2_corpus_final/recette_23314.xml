@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23314">
+ <titre>Spaghetti à la bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de spaghetti</p>
+ <p>400 g de boeuf haché</p>
+ <p>200 g de sauce tomate</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>8 champignons de Paris</p>
+ <p>3 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 branche de céleri</p>
+ <p>1 branche de sauge</p>
+ <p>5 branches de persil</p>
+ <p>1 branche de basilic</p>
+ <p>thym, laurier</p>
+ <p>2 cuillères à soupe d’ origan</p>
+ <p>1 pointe de harissa</p>
+ <p>parmesan à volonté</p>
+ <p>huile d’ olive</p>
+ <p>sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez la <ingredient quantite=1>sauge</ingredient>, le <ingredient quantite=1>basilic</ingredient> et le <ingredient quantite=5>persil</ingredient>. <ingredient quantite=1>hachez</ingredient> les <ingredient quantite=3>oignons</ingredient>, <operation temps=6.86min espace=19>découpez le <ingredient quantite=1>céleri</ingredient> en cubes</operation>. <operation temps=6.86min espace=19>détaillez les <ingredient quantite=8>champignons</ingredient> en cubes également</operation>. <operation temps=6.86min espace=19>faites chauffer 3</operation> cuillerées à <ingredient quantite=2>soupe</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=19>mettez - y les <ingredient quantite=3>oignons</ingredient>, le <ingredient quantite=1>céleri</ingredient> et les <ingredient quantite=8>champignons</ingredient></operation>. <operation temps=6.86min espace=19>ajoutez l’ <ingredient quantite=3>ail</ingredient></operation> écrasé, le <ingredient quantite=1>concentré de tomate</ingredient>, la sauce <ingredient quantite=1>tomate</ingredient>, la viande hachée et pressez bien le tout. <operation temps=6.86min espace=19>ajoutez alors le <ingredient quantite=1>thym</ingredient> et le</operation> <ingredient quantite=1>laurier</ingredient>, <operation temps=6.86min espace=19>mouillez de 50 cl d’ eau</operation>, <operation temps=6.86min espace=19>rajoutez les herbes fraîches <ingredient quantite=1>hachées</ingredient>, 2 morceaux de <ingredient quantite=1>sucre</ingredient>, la</operation> <ingredient quantite=1>harissa</ingredient>, assaisonner. <operation temps=30.0min espace=19>laissez mijoter 30 min à feu doux</operation>. 10 minutes avant la fin, <operation temps=6.86min espace=19>faites cuire les pâtes al dente</operation>. <operation temps=10.0min espace=19>egouttez</operation> - les pâtes, <operation temps=6.86min espace=19>mélangez - les avec un peu de beurre</operation>. <operation temps=6.86min espace=19>retirez le <ingredient quantite=1>laurier</ingredient> de la sauce</operation>, <operation temps=6.86min espace=19>versez - la sur les pâtes</operation>. parsemez de <ingredient quantite=1>parmesan</ingredient> et <operation temps=2.0min espace=19>servez</operation>.
+]]>
+ </preparation>
+</recette>

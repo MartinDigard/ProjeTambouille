@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72716">
+ <titre>Gâteau de madeleines</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>15 madeleines</p>
+ <p>3 oeufs</p>
+ <p>1/2 litre de lait </p>
+ <p>1 ou 2 cuillères à soupe d’ alcool (facultatif) </p>
+ <p>sucre</p>
+ <p>beurre pour moule</p>
+ <p>cassonnade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une jatte, placer 15 <ingredient quantite=1>madeleines</ingredient>. <operation temps=6.86min espace=9>faire chauffer le <ingredient quantite=1>lait</ingredient> et le</operation> verser sur les <ingredient quantite=1>madeleines</ingredient>. une fois les <ingredient quantite=1>madeleines</ingredient> imbibées, les émietter avec une fourchette. incorporer le <ingredient quantite=1>sucre</ingredient> (il faut goûter car les <ingredient quantite=1>madeleines</ingredient> peuvent être plus ou moins sucrées). ajouter les 3 <ingredient quantite=3>oeufs</ingredient> entiers et bien mélanger. rajouter ou non les <ingredient quantite=1>cuillères à soupe</ingredient> d’ <ingredient quantite=1>alcool</ingredient>. beurrer le <ingredient quantite=1><recipient>moule</recipient></ingredient> à manqué. verser la préparation dans le <ingredient quantite=1><recipient>moule</recipient></ingredient>. enfourner 7 min à 200 °, thermostat 6 - 7. après 7 min, rajouter la cassonnade sur le gâteau et enfourner de nouveau 25 min.
+]]>
+ </preparation>
+</recette>

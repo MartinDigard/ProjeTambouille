@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55163">
+ <titre>Casserole de légumes aux lentilles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon jaune</p>
+ <p>200 g de lentilles corail</p>
+ <p>3 carottes en rondelles</p>
+ <p>6 pommes de terre moyenne en dés</p>
+ <p>2 courgettes en rondelles</p>
+ <p>cumin</p>
+ <p>paprika</p>
+ <p>huile d’ olive</p>
+ <p>origan</p>
+ <p>1 litre de bouillon de légumes</p>
+ <p>coulis de tomate</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire cuire l’ <ingredient quantite=1>oignon</ingredient></operation> coupé dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>. une fois l’ <ingredient quantite=1>oignon</ingredient> doré, ajouter du <ingredient quantite=1>cumin</ingredient> et du <ingredient quantite=1>paprika</ingredient> (selon votre goût) et <operation temps=2.0min espace=12>faire cuire 2 min</operation>. ensuite ajouter à cela 1 <ingredient quantite=1>litre de bouillon de légumes</ingredient>. puis incorporer les <ingredient quantite=6>pommes de terre</ingredient> en dés et <ingredient quantite=3>carottes en rondelles</ingredient>. <operation temps=10.0min espace=12>laisser cuire environ 10 min à feu vif</operation>. ajouter les <ingredient quantite=3>courgettes en rondelles</ingredient> et les <ingredient quantite=1>lentilles</ingredient>. <operation temps=0.25min espace=12>couvrez</operation> et <operation temps=10.0min espace=12>laisser cuire encore 10 min</operation>. finalement verser le <ingredient quantite=1>coulis de tomates</ingredient>, 1 cuillère à café d’ <ingredient quantite=1>origan</ingredient> et le <ingredient quantite=1>sel</ingredient> et <operation temps=5.0min espace=12>laisser cuire encore 5 min</operation>. <operation temps=6.86min espace=12>servir juste après</operation>. pour les enfants, saupoudrer de fromage râpé.
+]]>
+ </preparation>
+</recette>

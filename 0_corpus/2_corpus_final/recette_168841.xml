@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168841">
+ <titre>Bricks printanières au thon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100g de thon nature</p>
+ <p>1 oeuf</p>
+ <p>1 tomate mure</p>
+ <p>4 feuilles de brick</p>
+ <p>1 pincée de sel et de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>egouttez le <ingredient quantite=1>thon</ingredient>, le</operation> mettre dans un bol. <operation temps=6.86min espace=7>emiéttez - le</operation> puis <operation temps=6.86min espace=7>ajoutez l’ <ingredient quantite=1>oeuf</ingredient> et mélangez</operation>. <operation temps=6.86min espace=7>coupez la <ingredient quantite=1>tomate</ingredient> en petits dés la</operation> rajouter au mélange. <operation temps=0.25min espace=7>salez</operation>, <operation temps=0.5min espace=7>poivrez</operation>. déposez un peu de mélange dans chaque <ingredient quantite=4>feuille de brick</ingredient>. pliez les <ingredient quantite=4>feuilles de brick</ingredient>. les mettre cuire au <recipient>four</recipient> à 200 degrès pendant 15 min. dégustez chaud accompagné d’ une salade. bon appetit!!! assez léger, <recipient>plat</recipient> printanier.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27483">
+ <titre>Saint Jacques au curry</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 noix de St Jacques</p>
+ <p>sel poivre curry</p>
+ <p>salade de mâche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>préparez une vinaigrette</operation> allégée pour accompagner la <ingredient quantite=1>salade</ingredient>: 1 cuillère à soupe d’ huile d’ olive, 1 cuillère à soupe de vinaigre, 1 cuillère à soupe d’ eau, s, p, moutarde. dans une <recipient>poêle</recipient> à revêtement anti-adhésif faire cuire les <ingredient quantite=1>st jacques</ingredient> à feu doux. a la fin de la cuisson <operation temps=6.86min espace=4>salez et poivrez</operation> et <operation temps=6.86min espace=4>saupoudrez de <ingredient quantite=1>curry</ingredient></operation> suivant votre gout. déposez la <ingredient quantite=1>salade de mâche</ingredient> assaisonnée dans chaque assiette et y ajouter les <ingredient quantite=1>noix</ingredient> chaudes. entrée parfaite pour un régime vin blanc fruité
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55823">
+ <titre>Lamelles de calamars à l’ armoricaine</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg calamars congelés</p>
+ <p>1 boite de bisque de homard</p>
+ <p>1 blanc de poireau</p>
+ <p>1 gros oignon</p>
+ <p>125 g de crème fraîche</p>
+ <p>1 cuillère de café concentré tomates</p>
+ <p>1 kg de tomates au jus</p>
+ <p>sel, poivre, cayenne, ail, persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+décongeler les calamars. leur <operation temps=6.86min espace=10>faire jeter le <ingredient quantite=1>jus</ingredient> dans une <recipient>casserole</recipient> dans un peu d’ eau froide</operation>. egouter avant la première ébullition et réserver. <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient> avec un peu de beurre et un peu d’</operation> huile. ajouter le <ingredient quantite=1>blanc de poireau</ingredient> coupé petit. lorsque c’ est cuit, ajouter la boîte de <ingredient quantite=1>tomates au jus</ingredient> bien égouttée. <operation temps=6.86min espace=10>laisser déssecher à la <recipient>poêle</recipient> sans</operation> cesser de remuer. passer au moulin à légumes et ajouter la <ingredient quantite=1>bisque de homards</ingredient>. ajouter cette préparation aux calamars, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>cayenne</ingredient>. <operation temps=10.0min espace=10>laisser mijoter 10 min à feu doux</operation>, ajouter l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> haché. arreter le feu et mettre la <ingredient quantite=1>crème fraîche</ingredient>. cette sauce peut <operation temps=6.86min espace=10>servir pour tout poisson</operation> ou crustacé.
+]]>
+ </preparation>
+</recette>

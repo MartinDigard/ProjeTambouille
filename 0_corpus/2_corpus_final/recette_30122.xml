@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30122">
+ <titre>Compotée de légumes en papillote</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poivrons</p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>700 g de tomates</p>
+ <p>1 petit concombre</p>
+ <p>200 g de haricots verts</p>
+ <p>1 bulbe de fenouil</p>
+ <p>1 oignon</p>
+ <p>60 g de beurre</p>
+ <p>2 gousses d’ ail</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). emincer l’ <ingredient quantite=1>oignon</ingredient>, la <ingredient quantite=1>courgette</ingredient>, l’ <ingredient quantite=1>aubergine</ingredient> et le <ingredient quantite=1>concombre</ingredient> en fines rondelles. détailler le <ingredient quantite=1>fenouil</ingredient> et les <ingredient quantite=2>poivrons</ingredient> en morceaux. <operation temps=6.86min espace=12>faire fondre l’ <ingredient quantite=1>oignon</ingredient> dans le beurre</operation> puis ajouter l’ <ingredient quantite=2>ail</ingredient> écrasé, les <ingredient quantite=1>courgettes</ingredient> et les <ingredient quantite=1>aubergines</ingredient>. <operation temps=5.0min espace=12>laisser cuire 5 minutes</operation> puis ajouter le <ingredient quantite=1>concombre</ingredient>, le <ingredient quantite=1>fenouil</ingredient>, le <ingredient quantite=1>poivron</ingredient>, les <ingredient quantite=1>tomates</ingredient> entières et les <ingredient quantite=1>haricots</ingredient>. <operation temps=10.0min espace=12>laisser cuire 10 minutes</operation>. <operation temps=6.86min espace=12>répartir les légumes sur 4 feuilles de papier</operation> sulfurisé et les fermer hermétiquement. enfourner pour 20 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

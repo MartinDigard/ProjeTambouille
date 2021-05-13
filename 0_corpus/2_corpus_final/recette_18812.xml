@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18812">
+ <titre>Dessert glacé - bananes et mangues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 mangues moyennes</p>
+ <p>2 bananes bien mûres</p>
+ <p>150 g de yaourt à 0 % (un brassé nature ou un yaourt à l’ ananas Weight Watchers par exemple) </p>
+ <p>sucre (ou édulcorant) </p>
+ <p>1 blanc d’ oeuf (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez, <operation temps=3.0min espace=11>pelez</operation> et <operation temps=6.86min espace=11>coupez les <ingredient quantite=2>mangues</ingredient> en morceaux en</operation> enlevant le noyau. placez les morceaux dans le bol du <recipient>mixeur</recipient>. <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=2>bananes</ingredient> en rondelles</operation>. réduire le tout en une fine purée puis additionner le <ingredient quantite=1>yaourt</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=11>mettez un peu plus de <ingredient quantite=1>sucre</ingredient> que votre goût car la congélation</operation> diminue un peu la saveur. mettre la préparation dans votre <recipient>sorbetière</recipient> ou dans un <recipient>plat</recipient> allant au <recipient>congélateur</recipient>. dans ce cas, lorsque la préparation est partiellement congelée, <operation temps=6.86min espace=11>ajoutez le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> battu en neige</operation>. <ingredient quantite=2>bien</ingredient> homogénéiser. remettre au <recipient>congélateur</recipient> jusqu’ à ce que le dessert soit <operation temps=6.86min espace=11>pris</operation>. <operation temps=6.86min espace=11>servez le dessert dans des petites coupelles ou en accompagnement d’ un fondant au chocolat, d’ une tarte</operation>. en fait, c’ est comme vous voulez. si vous n’ avez pas de <recipient>sorbetière</recipient>, il vaut mieux ajouter le <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>, sinon la préparation devient dure comme une pierre. donc pas facile à <operation temps=2.0min espace=11>servir</operation>. le goût de la <ingredient quantite=1>banane</ingredient> domine mais la <ingredient quantite=1>mangue</ingredient> donne cette douce couleur jaune.
+]]>
+ </preparation>
+</recette>

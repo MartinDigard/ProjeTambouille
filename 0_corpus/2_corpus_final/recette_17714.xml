@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17714">
+ <titre>Fondue à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de beurre</p>
+ <p>1 petit oignon haché</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>1 boîte (800 g) de tomates pelées</p>
+ <p>1 pincée d’ origan</p>
+ <p>1 cuillère à café de paprika</p>
+ <p>2 cuillères à café de basilic haché</p>
+ <p>30 cl de vin blanc sec</p>
+ <p>sel et poivre</p>
+ <p>500 g de gruyère</p>
+ <p>cubes de baguettes ou de mie de pain pour servir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faites fondre le beurre dans le <recipient>caquelon</recipient> à fondue</operation> et <operation temps=6.86min espace=13>faites revenir doucement l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=2>ail</ingredient></operation>. <operation temps=6.86min espace=13>egouttez soigneusement les <ingredient quantite=1>tomates</ingredient>, puis réduisez - les en purée</operation>, <operation temps=6.86min espace=13>ajoutez - les dans le <recipient>caquelon</recipient> ainsi que l’ <ingredient quantite=1>origan</ingredient>, le <ingredient quantite=1>paprika</ingredient>, le <ingredient quantite=2>basilic</ingredient> et le <ingredient quantite=1>vin</ingredient></operation>. <operation temps=0.25min espace=13>salez</operation>, <operation temps=0.5min espace=13>poivrez</operation> et <operation temps=6.86min espace=13>laissez cuire doucement 10</operation> mn. <operation temps=6.86min espace=13>incorporez peu à peu le fromage</operation> et <operation temps=6.86min espace=13>laissez cuire à feu doux jusqu’ à ce qu’ il soit</operation> fondu. rectifiez l’ assaisonnement et <ingredient quantite=1>servez</ingredient>. pour la dégustez, plongez - y les <ingredient quantite=1>cubes de pain</ingredient>.
+]]>
+ </preparation>
+</recette>

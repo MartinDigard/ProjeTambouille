@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29774">
+ <titre>Melon du vignoble</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 melons</p>
+ <p>1 grappe de raisin muscat</p>
+ <p>Pour le coulis: </p>
+ <p>500 g de cassis</p>
+ <p>250 g de sucre</p>
+ <p>1 peu de jus d’ orange</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer d’ abord un <ingredient quantite=1>coulis</ingredient> de <ingredient quantite=1>cassis</ingredient>: nettoyer les fruits, puis les passer au <recipient>mixeur</recipient> avec le <ingredient quantite=1>sucre</ingredient>, puis l’ arroser d’ un trait de <ingredient quantite=1>jus</ingredient> d’ orange pour l’ allonger. découper les <ingredient quantite=2>melons</ingredient> en 2 et leur retirer les graines à l’ aide d’ une cuillère à café. laver ensuite la <ingredient quantite=1>grappe de raisins</ingredient>, les égrener, puis les essuyer avant de les déposer dans le creux du <ingredient quantite=1>melon</ingredient>. napper de <ingredient quantite=1>coulis</ingredient> et servir très frais.
+]]>
+ </preparation>
+</recette>

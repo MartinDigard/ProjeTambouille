@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40260">
+ <titre>Rôti de Porc aux chataîgnes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc dans le filet </p>
+ <p>1 boîte de 500 g de chataîgnes</p>
+ <p>8 tranches de poitrine de porc fraîche</p>
+ <p>sel, poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, disposez 4 <ingredient quantite=1>tranches de poitrine de porc</ingredient>. mettre par dessus le rôti. recouvrir celui-ci par les 4 autres <ingredient quantite=8>tranches de poitrine</ingredient>. saler, poivrer, et mettre un <ingredient quantite=1>filet</ingredient> d’ huile. après avoir préchauffé le <recipient>four</recipient> à 180 ° c (thermostat 6), enfourner le rôti. <operation temps=6.86min espace=12>laisser cuire une heure</operation>. retirer le rôti du <recipient>four</recipient>, disposer les <ingredient quantite=1>chataîgnes</ingredient> dans le <recipient>plat</recipient>, en prenant soin de les mélanger avec la sauce du rôti. enfourner à nouveau un quart d’ heure. <operation temps=6.86min espace=12>sortir le <recipient>plat</recipient> du <recipient>four</recipient>, c’ est prêt à</operation> déguster! un rai délice, l’ alliance de la <ingredient quantite=8>poitrine fraîche</ingredient>, et des <ingredient quantite=1>chataîgnes</ingredient> accompagnent très agréablement le rôti.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57418">
+ <titre>Pommes de terre au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>huile d’ olive</p>
+ <p>6 pommes de terre moyennes</p>
+ <p>bloc de jambon cuit ou 10 tranches</p>
+ <p>20 cl crème liquide</p>
+ <p>5 oignons</p>
+ <p>gruyère</p>
+ <p>7 cuillères à soupe de curry</p>
+ <p>persil</p>
+ <p>ail</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=5>oignons</ingredient> en rondelles et les <ingredient quantite=6>pommes de terre</ingredient> en rondelle moyenne. dans une <recipient>sauteuse</recipient> <operation temps=6.86min espace=14>faire dorer les <ingredient quantite=5>oignons</ingredient> avec un filet d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. puis, mettre les <ingredient quantite=6>pommes de terre</ingredient> à dorer mais ne pas le cuire entièrement, il faut qu’ elles soient encore un peu fermes. saupoudrer de <ingredient quantite=7>curry</ingredient>, 5 <ingredient quantite=7>cuillères à soupe</ingredient>. ensuite, couper en petit dés l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>jambon</ingredient> grossièrement, puis ajouter le tout à la préparation. <operation temps=6.86min espace=14>faire mijoter <ingredient quantite=1>10</ingredient> min et enfin</operation> transvaser la crème <ingredient quantite=1>liquide</ingredient> et remettre 2 <ingredient quantite=7>cuillères à soupe de curry</ingredient> (facultatif selon goût). mettre la préparation dans un <recipient>plat</recipient> allant au <recipient>four</recipient> et saupoudrer de gruyère. <operation temps=30.0min espace=14>laisser cuire envirn 30 min th 6</operation> puis, piquer les <ingredient quantite=6>pommes de terre</ingredient> à l’ aide d’ un couteau et vérifier si c’ est tendre. c’ est prêt, servir chaud!
+]]>
+ </preparation>
+</recette>

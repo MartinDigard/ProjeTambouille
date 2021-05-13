@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21523">
+ <titre>Tagliatelles de la mer</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de tagliatelles</p>
+ <p>1 l ou 700 g de moules</p>
+ <p>1 l ou 500 g de coques</p>
+ <p>100 g de crevettes roses décortiquées</p>
+ <p>1 échalote</p>
+ <p>20 cl de crème fraîche</p>
+ <p>75 g de beurre</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>ciboulette hachée</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rincez les <ingredient quantite=1>moules</ingredient> et les <ingredient quantite=1>coques</ingredient> à grande eau. <operation temps=1.0min espace=11>mettez</operation> - les dans une <recipient>casserole</recipient> et <operation temps=6.86min espace=11>faites - les</operation> <operation temps=6.86min espace=11>ouvrir à feu vif</operation>. <operation temps=0.5min espace=11>sortez</operation> - les à l’ écumoire. <operation temps=6.86min espace=11>décoquillez les <ingredient quantite=1>moules</ingredient> et les <ingredient quantite=1>coques</ingredient> cuites</operation> et <operation temps=6.86min espace=11>filtrez le jus</operation> rendu. <operation temps=6.86min espace=11>faites cuire les pâtes à l’ eau bouillante</operation> salée. hachez l’ <ingredient quantite=1>échalote</ingredient>, <operation temps=6.86min espace=11>faites - la</operation> suer dans 50 <ingredient quantite=1>g</ingredient> de beurre. versez le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=11>laissez réduire de moitié</operation>. <operation temps=6.86min espace=11>ajoutez le jus de cuisson des <ingredient quantite=1>coques</ingredient>, puis les <ingredient quantite=1>moules</ingredient> et <ingredient quantite=1>coques</ingredient> et les <ingredient quantite=1>crevettes</ingredient></operation>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et ajoutez la <ingredient quantite=1>crème fraîche</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. <operation temps=6.86min espace=11>egouttez les pâtes</operation>, <operation temps=6.86min espace=11>mélangez - les avec le reste de beurre</operation> puis <operation temps=6.86min espace=11>ajoutez la <ingredient quantite=1>crème</ingredient> aux fruits de</operation> mer.
+]]>
+ </preparation>
+</recette>

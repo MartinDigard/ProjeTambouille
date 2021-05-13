@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69048">
+ <titre>Salade de fraises, kiwis, bananes, citron</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grande barquette de fraises (500 g) </p>
+ <p>3 kiwis</p>
+ <p>2 bananes </p>
+ <p>1 jus de citron (vert) </p>
+ <p>sucre glac</p>
+ <p>feuilles de menthe (décoration) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+equeuter et laver rapidement les <ingredient quantite=1>fraises</ingredient>, les égoutter et les couper en morceaux. eplucher et couper les <ingredient quantite=3>kiwis</ingredient>, <operation temps=6.86min espace=7>faire de même avec les <ingredient quantite=2>bananes</ingredient></operation>. mettre tous les fruits dans un joli <recipient>saladier</recipient> (transparent). mélanger avec le <ingredient quantite=1>jus du citron</ingredient> et un peu de <ingredient quantite=1>sucre</ingredient> glace au moment de <operation temps=2.0min espace=7>servir</operation>. décorer de <ingredient quantite=1>feuilles de menthe</ingredient>. <operation temps=2.0min espace=7>servir</operation> très frais. peut se <operation temps=2.0min espace=7>servir</operation> en coupelles individuelles. rosé de provence
+]]>
+ </preparation>
+</recette>

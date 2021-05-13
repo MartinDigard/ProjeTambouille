@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49809">
+ <titre>Soupe glacée de petits pois et chips de coppa</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de petits pois surgelés</p>
+ <p>60 cl de crème fleurette</p>
+ <p>12 fines tranches de coppa (charcuterie italienne) </p>
+ <p>sel, poivre</p>
+ <p>1 cuillère à café d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>petits pois</ingredient> à l’ eau bouillante salée, puis les mixer. ajouter un peu de l’ eau de cuisson pour délayer le mélange, puis la <ingredient quantite=1>crème fleurette</ingredient> ; le mélange doit être liquide. <operation temps=6.86min espace=5>laisser au frigo pendant au moins 3 heures</operation>. au moment de <operation temps=2.0min espace=5>servir</operation>, faire revenir les <ingredient quantite=1>tranches de coppa</ingredient> dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et les disposer sur les assiettes de soupe froide. c’ est hyper facile et épatant.
+]]>
+ </preparation>
+</recette>

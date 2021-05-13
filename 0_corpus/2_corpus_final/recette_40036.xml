@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40036">
+ <titre>Chaussons au poulet</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 blancs de poulet</p>
+ <p>1 boîte de champignons</p>
+ <p>1 pâte feuilletée</p>
+ <p>ciboulette</p>
+ <p>125 ml de crème fraîche</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>coupez les blancs de <ingredient quantite=2>poulet</ingredient> en dés,</operation> puis <operation temps=6.86min espace=6>faites - les</operation> cuire, et ensuite refroidir, 5 min au frigo. mixer les bouts de <ingredient quantite=2>poulets</ingredient>, les <ingredient quantite=1>champignons</ingredient>, la <ingredient quantite=1>crème</ingredient>, et un peu de <ingredient quantite=1>ciboulette</ingredient>. le mélange doit ressembler à de la salade de <ingredient quantite=2>poulet</ingredient>. coupez la <ingredient quantite=1>pâte feuilletée</ingredient> en 4, et <operation temps=6.86min espace=6>disposez, sur chaque partie, un peu de mélange</operation>. <operation temps=6.86min espace=6>refermez comme un chausson,</operation> et <operation temps=6.86min espace=6>recouvrez chaque chausson d’ un peu de <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>, pour les</operation> <operation temps=25.0min espace=6>faire dorer</operation>. enfourner à 200 ° c (thermostat 6 - 7).
+]]>
+ </preparation>
+</recette>

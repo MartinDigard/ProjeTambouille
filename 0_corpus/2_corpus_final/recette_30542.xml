@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30542">
+ <titre>Côtelettes de porc sauce tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 côtelettes de porc</p>
+ <p>25 g de beurre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 petite boîte de concentré de tomate (70g) </p>
+ <p>2 verres d’ eau</p>
+ <p>1 morceau de sucre</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la sauce: <operation temps=6.86min espace=9>faire fondre le beurre dans une <recipient>sauteuse</recipient></operation>, ajouter la farine, le <ingredient quantite=1>concentré de tomate</ingredient>, puis mélanger en remuant doucement. hors du feu, allonger avec l’ <ingredient quantite=2>eau</ingredient> (la sauce doit être liquide). cuire un peu pour épaissir. saler, poivrer, puis ajouter sucre et <ingredient quantite=1>vinaigre</ingredient>. cuire les <ingredient quantite=4>côtelettes</ingredient> selon votre goût. <operation temps=6.86min espace=9>servir avec une bonne quantité de sauce</operation>. vous pouvez accompagner de pâtes, la sauce se marie à merveille avec. les <ingredient quantite=4>côtelettes</ingredient> sauce étaient livrées chez les gens par les garçons charcutiers vers 1910 à paris sur le coup des 17 heures, comme aujourd’ hui les pizzas. vin rouge de table
+]]>
+ </preparation>
+</recette>

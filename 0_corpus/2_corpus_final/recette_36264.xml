@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36264">
+ <titre>Diplomate brioché</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un pain brioché rassi</p>
+ <p>1 litre de lait</p>
+ <p>6 oeufs moyens</p>
+ <p>125 g de fruits confits</p>
+ <p>75 g de raisins secs</p>
+ <p>10 cl de rhum</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>30 g de beurre</p>
+ <p>200 g de sucre semoule</p>
+ <p>1 moule à cake de 1 litre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez en gros dés les <ingredient quantite=1>fruits confits</ingredient>. <operation temps=6.86min espace=19>faites - les</operation> macérer dans le <ingredient quantite=1>rhum</ingredient> tiède avec les <ingredient quantite=1>raisins</ingredient>. ecroutez les tranches de <ingredient quantite=1>pain brioché rassi</ingredient>, <operation temps=6.86min espace=19>faites dorer les tranches au <recipient>four</recipient> ou avec un grille - <ingredient quantite=1>pain</ingredient></operation>. préchauffez votre <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=19>beurrez le <recipient>moule</recipient></operation>, <operation temps=6.86min espace=19>saupoudrez - le de <ingredient quantite=1>sucre</ingredient></operation>. dans le fond du <recipient>moule</recipient> <operation temps=6.86min espace=19>déposez une couche de <ingredient quantite=1>pain</ingredient></operation> grillé et recouvrez d’ une couche de <ingredient quantite=1>fruits confits</ingredient> et de <ingredient quantite=1>raisins</ingredient> macérés. <operation temps=6.86min espace=19>alternez jusqu’ en haut du <recipient>moule</recipient> en</operation> terminant par le <ingredient quantite=1>pain</ingredient> sans tasser. dans un <recipient>saladier</recipient>, mélangez le <ingredient quantite=1>lait</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sachet de sucre vanillé</ingredient>, les <ingredient quantite=6>oeufs</ingredient> bien battus et le reste de <ingredient quantite=1>rhum</ingredient>. <operation temps=6.86min espace=19>versez ce mélange sur le <ingredient quantite=1>pain</ingredient> jusqu’ à ce que ça apparaisse au bord du <recipient>moule</recipient></operation>. <operation temps=6.86min espace=19>mettez au <recipient>four</recipient> au <recipient>bain - marie</recipient></operation> et <operation temps=6.86min espace=19>laissez cuire sans</operation> <operation temps=6.86min espace=19>bouillir 1 heure</operation>. <operation temps=6.86min espace=19>laissez refroidir complètement avant de</operation> démouler et <operation temps=6.86min espace=19>servez - le accompagné d’ une crème anglaise</operation>. vin blanc moelleux
+]]>
+ </preparation>
+</recette>

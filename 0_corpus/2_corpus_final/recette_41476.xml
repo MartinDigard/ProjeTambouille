@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41476">
+ <titre>Quiche crevette pignon basilic</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>500 g de crevettes roses</p>
+ <p>1 bouquet de basilic</p>
+ <p>60 g de pignons de pin</p>
+ <p>50 g de parmesan</p>
+ <p>4 oeufs</p>
+ <p>30 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient>plat</recipient> à tarte et la <operation temps=10.0min espace=8>faire précuire à blanc 10 min à 210 ° c (thermostat 7</operation>). pendant ce temps décortiquer les <ingredient quantite=1>crevettes</ingredient> et les reserver. passer au mixer le <ingredient quantite=1>basilic</ingredient>, les <ingredient quantite=1>pignons</ingredient>, ajouter les <ingredient quantite=4>oeufs</ingredient> la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>parmesan</ingredient>. bien mixer. lorsque la <ingredient quantite=1>pâte</ingredient> est précuite poser les <ingredient quantite=1>crevettes</ingredient> dessus et verser la préparation faite au mixer. <operation temps=20.0min espace=8>laisser cuire 20 min à 210 ° c (pas plus sinon la quiche sera trop sèche</operation>).
+]]>
+ </preparation>
+</recette>

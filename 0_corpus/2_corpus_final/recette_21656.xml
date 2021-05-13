@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21656">
+ <titre>Riz aux crevettes et oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de riz long grain</p>
+ <p>300 g de crevettes cuites et décortiquées</p>
+ <p>2 oignons</p>
+ <p>1 poivron</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>epépinez</operation> et <operation temps=6.86min espace=8>découpez le <ingredient quantite=1>poivron</ingredient> en dés</operation>, <operation temps=6.86min espace=8>pilez l’ <ingredient quantite=1>ail</ingredient></operation>. hachez les <ingredient quantite=2>oignons</ingredient>, <operation temps=6.86min espace=8>faites - les suer dans l’ <ingredient quantite=3>huile</ingredient> chaude dans une <recipient>sauteuse</recipient></operation>. <operation temps=6.86min espace=8>ajoutez le <ingredient quantite=1>riz</ingredient> et remuez jusqu’ à ce qu’ il</operation> devienne transparent et légèrement coloré. <operation temps=6.86min espace=8>mouillez avec 2 fois le volume du <ingredient quantite=1>riz</ingredient> en eau (ou bouillon, ou fumet)</operation>, <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation> et <operation temps=6.86min espace=8>ajoutez le <ingredient quantite=1>poivron</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation>. <operation temps=20.0min espace=8>portez à ébullition</operation> puis <operation temps=6.86min espace=8>baissez le feu</operation>, <operation temps=0.25min espace=8>couvrez</operation> et <operation temps=10.0min espace=8>laissez mijoter 10 min</operation>. <operation temps=3.0min espace=8>ajoutez les</operation> <ingredient quantite=1>crevettes</ingredient> et <operation temps=6.86min espace=8>laissez cuire encore 10 minu</operation> puis <operation temps=2.0min espace=8>servez</operation>. vous pouvez mettre d’ autres légumes, et ajoutez herbes et épices selon vos goûts. cette recette s’ adaptera à vos placards!
+]]>
+ </preparation>
+</recette>

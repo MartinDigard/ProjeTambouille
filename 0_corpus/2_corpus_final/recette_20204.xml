@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20204">
+ <titre>Pâtes aux palourdes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de spaghetti</p>
+ <p>1 kg de palourdes fraiches</p>
+ <p>1 bouquet de persil haché</p>
+ <p>20 cl d’ huile d’ olive </p>
+ <p>1 filet de vin blanc sec </p>
+ <p>1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=8>faire rissoler l’ ail <ingredient quantite=1>haché</ingredient> dans l’ huile d’</operation> <ingredient quantite=1>olive</ingredient>, ajouter les <ingredient quantite=1>palourdes</ingredient>, un petit <ingredient quantite=1>filet de vin blanc</ingredient> et <operation temps=0.25min espace=8>couvrez</operation>. une fois les <ingredient quantite=1>palourdes</ingredient> cuites (elles doivent êtres ouvertes), ajoutez le <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=1>persil haché</ingredient>. <operation temps=6.86min espace=8>faire cuire les <ingredient quantite=1>spaghettis</ingredient>’ al dente’</operation>, <operation temps=6.86min espace=8>égouttez</operation> et <operation temps=6.86min espace=8>assaisonnez - les avec la sauce aux <ingredient quantite=1>palourdes</ingredient></operation>. a <operation temps=6.86min espace=8>servir très chaud</operation>. ce <recipient>plat</recipient> sicilien peut aussi <operation temps=6.86min espace=8>faire office de " primo piato " (entrée) pour les grands appétits</operation>.
+]]>
+ </preparation>
+</recette>

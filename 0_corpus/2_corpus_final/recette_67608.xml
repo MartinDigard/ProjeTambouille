@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67608">
+ <titre>Emincé de dinde gratiné</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 escalopes de dinde coupées en petits morceaux </p>
+ <p>400 g de champignons coupés en lamelles</p>
+ <p>4 tranches de jambon blanc coupées en morceaux</p>
+ <p>2 ou 3 oignons émincés</p>
+ <p>3 petites briques de crème semi-épaisse (60 cl en tout) </p>
+ <p>sel, poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire revenir la viande à la <recipient>poêle</recipient> avec un peu d’</operation> huile. la déposer dans un <recipient>plat</recipient> à gratin, saler, poivrer, ajouter par dessus le <ingredient quantite=4>jambon</ingredient>. <operation temps=6.86min espace=15>faire revenir les <ingredient quantite=2>oignons</ingredient> de la même manière, ensuite les</operation> mettre sur le <ingredient quantite=4>jambon</ingredient>, saler, poivrer. <operation temps=6.86min espace=15>faire revenir les <ingredient quantite=1>champignons</ingredient> également et les</operation> disposer sur le <ingredient quantite=4>jambon</ingredient>, saler, poivrer. verser toute la <ingredient quantite=3>crème</ingredient> dans le <recipient>plat</recipient> à gratin, saler, poivrer. <operation temps=6.86min espace=15>laisser reposer au moins 12 h au <recipient>réfrigérateur</recipient> dans le <recipient>plat</recipient> couvert</operation>. <operation temps=30.0min espace=15>faire cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 30 min</operation>. je vous conseille vivement de préparer ce <recipient>plat</recipient> à l’ avance afin qu’ il soit un maximum au frigo. il n’ en sera que meilleur. bon appétit! on peut ajouter du fromage râpé sur le tout, et accompagner de pommes de terre au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18337">
+ <titre>Timbales de thon aux crevettes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de 200 g de thon au naturel </p>
+ <p>6 oeufs</p>
+ <p>1 cuillère à soupe de concentré de tomate</p>
+ <p>60 g de gruyère râpé</p>
+ <p>60 g de crème</p>
+ <p>du sel du poivre</p>
+ <p>Pour la sauce: </p>
+ <p>le reste de la crème</p>
+ <p>une boîte de crevettes </p>
+ <p>le reste du concentré de tomate</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>beurrez 7 ramequins</operation>. battez les <ingredient quantite=6>oeufs</ingredient> en omelette, et ajoutez le <ingredient quantite=1>thon</ingredient> émietté, le gruyère, les <ingredient quantite=1>crevettes</ingredient>, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=1>concentré de tomate</ingredient>. <operation temps=6.86min espace=11>emplissez les ramequins aux 3/4,</operation> puis <operation temps=20.0min espace=11>enfournez à 210 ° c (th 7), au <recipient>bain - marie</recipient> pendant 20 min</operation>. <operation temps=6.86min espace=11>démoulez chaud</operation> et <operation temps=6.86min espace=11>servez de suite avec la <ingredient quantite=1>sauce</ingredient> à part</operation> (faite juste avant de <operation temps=2.0min espace=11>servir</operation>). très économique et succès garanti auprès des invités (je l’ ai testée de multiples fois!). bordeaux blanc (entre-deux mers)
+]]>
+ </preparation>
+</recette>

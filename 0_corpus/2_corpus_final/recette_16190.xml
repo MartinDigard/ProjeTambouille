@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16190">
+ <titre>Tarte aux pommes et noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>1 boîte de compote de pommes</p>
+ <p>100 g de beurre </p>
+ <p>100 g de sucre</p>
+ <p>100 g de noix de coco râpée</p>
+ <p>1 oeuf</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à thermostat 7 (210 ° c). <operation temps=6.86min espace=11>remplissez le fond de tarte de <ingredient quantite=1>compote</ingredient> (une bonne moitié de la</operation> <ingredient quantite=1>boîte</ingredient>). <operation temps=6.86min espace=11>mettez au <recipient>four</recipient></operation> et <operation temps=20.0min espace=11>laissez cuire 20 mn</operation>. pendant ce temps, <operation temps=6.86min espace=11>préparez la crème: battez l’ <ingredient quantite=1>oeuf</ingredient> en omelette</operation>, <operation temps=6.86min espace=11>ajoutez le beurre (préalablement</operation> fondu), le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>noix de coco</ingredient>. <operation temps=6.86min espace=11>mélangez soigneusement</operation>. <operation temps=6.86min espace=11>sortez la tarte du <recipient>four</recipient> et nappez - la de cette préparation</operation>. replacez au <recipient>four</recipient>, <operation temps=20.0min espace=11>laissez cuire et dorer 15 a 20 mn</operation>. <operation temps=6.86min espace=11>servez cette tarte</operation> tiède ou froide. froide, cette tarte peut être servie, accompagnée de boules de glace à la vanille. gewurztraminer
+]]>
+ </preparation>
+</recette>

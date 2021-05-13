@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30231">
+ <titre>Soupe de crevettes au curry</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de crevettes roses décortiquées</p>
+ <p>2 cuillères a café de curry</p>
+ <p>1 bouquet de coriandre/graines de coriandre</p>
+ <p>1 boîte de lait de coco (40 cl) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayez le <ingredient quantite=2>curry</ingredient> avec le <ingredient quantite=1>lait de coco</ingredient> et un verre d’ eau. <operation temps=6.86min espace=4>portez à ébulition</operation>. ajouter les <ingredient quantite=1>crevettes</ingredient> coupées en rondelles (avec un ciseau) et des <ingredient quantite=1>graines de coriandre</ingredient>. <operation temps=5.0min espace=4>laisser tiédir 5 mn</operation> et saupoudrer de <ingredient quantite=1>coriandre</ingredient> ciselée. vin blanc moelleux
+]]>
+ </preparation>
+</recette>

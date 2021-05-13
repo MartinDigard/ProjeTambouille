@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27040">
+ <titre>Pommes de terre farcies au micro-onde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes de terre</p>
+ <p>2 tranches de jambon</p>
+ <p>2 grosses cuillères à soupe de crème fraîche</p>
+ <p>curry</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=4>pommes de terre</ingredient> et <operation temps=6.86min espace=7>évidez - les</operation>. d’ autre part, <operation temps=6.86min espace=7>mixez finement le <ingredient quantite=2>jambon</ingredient> avec la <ingredient quantite=2>crème</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et le <ingredient quantite=1>curry</ingredient></operation>. garnir les <ingredient quantite=4>pommes de terre</ingredient> de cette préparation, <operation temps=6.86min espace=7>mettez - les dans du papier</operation> sulfurisé, en papillote, et <operation temps=6.86min espace=7>faire cuire au <recipient>micro-onde</recipient> environ 10</operation> mn (en fonction de la puissance de votre <recipient>micro-onde</recipient>). vous pouvez accompagner ces <ingredient quantite=4>pommes de terre</ingredient> d’ une sauce faite à base de <ingredient quantite=2>crème</ingredient> parfumée au <ingredient quantite=1>curry</ingredient>. idéal pour un repas du soir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11278">
+ <titre>Soufflé au pâtisson</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâtisson bien en chair</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>25 g de beurre</p>
+ <p>ciboulette, poivre</p>
+ <p>2 cuillères à café de maïzena</p>
+ <p>4 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=1>pâtisson</ingredient> à l’ eau en ayant auparavant enlevé la peau (la cuisson à la vapeur est la plus rapide). pendant ce temps, <operation temps=6.86min espace=12>faire fondre le beurre dans une <recipient>casserole</recipient></operation>, ajouter la farinne et cuire environ 3 mn. enlever ensuite du feu et ajouter les jaunes d’ <ingredient quantite=4>oeufs</ingredient>. réduire les <ingredient quantite=1>pâtissons</ingredient> en purée avec un moulin à légumes ou un mixer, puis l’ ajouter à la <recipient>casserole</recipient>. monter les blancs en neige très ferme puis les verser dans la <recipient>casserole</recipient>. ajouter la <ingredient quantite=1>ciboulette</ingredient>, le sel le poivre et la <ingredient quantite=2>maïzena</ingredient>. verser dans un <recipient>plat</recipient> puis mettre au <recipient>four</recipient> à environ 200 ° c (thermostat 6/7) pendant 30 minutes (cela dépend du <recipient>four</recipient>). ajuster les proportions en fonction de la taille du <ingredient quantite=1>pâtisson</ingredient>. vin blanc
+]]>
+ </preparation>
+</recette>

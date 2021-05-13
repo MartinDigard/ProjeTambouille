@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54111">
+ <titre>Poulet au vinaigre (poulet adobo, Philippines) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 gousses d’ ail écrasées</p>
+ <p>25 cl de vinaigre de canne ou de cidre</p>
+ <p>40 cl de bouillon de volaille</p>
+ <p>1 feuille de laurier</p>
+ <p>1 cuillère à café de grains de coriandre</p>
+ <p>1 cuillère à café de grains de poivre</p>
+ <p>1 cuillère à café de graine d’ anatto ou a defaut 1 cuillère à soupe de paprika additionné d’ 1/2 cuillère à café de curcuma</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1, 5 kg de morceaux de poulet (cuisses, ailes...) </p>
+ <p>2 cuillères à soupe d’ huile neutre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger l’ anetto (ou le <ingredient quantite=1>paprika</ingredient> et le <ingredient quantite=1>curcuma</ingredient>), le <ingredient quantite=1>vinaigre</ingredient>, le <ingredient quantite=1>bouillon</ingredient>, la feuille de <ingredient quantite=1>laurier</ingredient>, les <ingredient quantite=1>graines</ingredient> de <ingredient quantite=1>coriandre</ingredient>, les <ingredient quantite=1>grains de poivre</ingredient>, l’ <ingredient quantite=6>ail</ingredient> et la <ingredient quantite=3>sauce</ingredient> de soja. ajouter les morceaux de <ingredient quantite=1>poulet</ingredient> et <operation temps=6.86min espace=15>laisser mariner 2 h au frigo</operation>. transférer le mélange dans une grande <recipient>sauteuse</recipient> et porter à ébullition. réduire le feu, <operation temps=0.25min espace=15>couvrir</operation> et <operation temps=30.0min espace=15>laisser mijoter 30 min</operation>. oter le couvercle et poursuivre la cuisson 10 min, jusqu’ à ce que le <ingredient quantite=1>poulet</ingredient> soit tendre ; oter le <ingredient quantite=1>poulet</ingredient> de la <recipient>sauteuse</recipient> et réserver. porter le liquide à ébullition et <operation temps=10.0min espace=15>laisser cuire 10 min a</operation> feu vif jusqu’ à réduction de moitié. <operation temps=6.86min espace=15>faire chauffer l’ <ingredient quantite=2>huile</ingredient> dans un <recipient>wok</recipient>, ou une <recipient>poêle</recipient></operation>, ajouter le <ingredient quantite=1>poulet</ingredient> et <operation temps=5.0min espace=15>laisser cuire 5 min à feu moyen</operation>. verser le liquide réduit sur le <ingredient quantite=1>poulet</ingredient>, et <operation temps=3.0min espace=15>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

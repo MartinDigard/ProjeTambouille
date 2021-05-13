@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16712">
+ <titre>Crème aux oeufs à la vanille</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs entier </p>
+ <p>125 g de sucre</p>
+ <p>3/4l de lait </p>
+ <p>1/4l de crème liquide </p>
+ <p>extrait de vanille (ou remplacer une partie du sucre par du sucre vanillé) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire bouillir le <ingredient quantite=1>lait</ingredient> et la <ingredient quantite=1>crème</ingredient> avec l’ <ingredient quantite=1>extrait de vanille</ingredient>, mélanger le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=6>oeufs</ingredient>, incorporer le <ingredient quantite=1>lait</ingredient> avec les <ingredient quantite=6>oeufs</ingredient>. <operation temps=6.86min espace=6>remplir le fond des ramequin de caramel, les</operation> <operation temps=6.86min espace=6>remplir avec le mélange précédemment</operation> obtenu, puis les <operation temps=6.86min espace=6>faire cuire au <recipient>bain - marie</recipient> pendant 3/4 d’ heure à thermostat 4</operation> (piquer avec un couteau pour tester la cuisson).
+]]>
+ </preparation>
+</recette>

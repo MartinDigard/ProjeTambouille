@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54576">
+ <titre>Galette des rois au chocolat et au thé</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>20 g de beurre</p>
+ <p>20 g de sucre en poudre</p>
+ <p>150 g de chocolat</p>
+ <p>15 cl de crème fraîche liquide</p>
+ <p>lait + sucre pour faire dorer</p>
+ <p>1 sachet de thé earl grey (thé à la bergamotte) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter la <ingredient quantite=1>crème fraîche</ingredient> à ébullition dans une <recipient>casserole</recipient> et retirer aussitôt du feu. y plonger le <ingredient quantite=1>sachet de thé</ingredient> préalablement humidifié et <operation temps=10.0min espace=13>laisser infuser à couvert 10 min</operation>. <ingredient quantite=1><operation temps=6.86min espace=13>faire</ingredient> fondre le <ingredient quantite=1>chocolat</ingredient> avec le beurre au <recipient>bain marie</recipient></operation>. une fois fondu, ajouter le <ingredient quantite=1>sucre</ingredient> et mélanger. incorporer la <ingredient quantite=1>crème</ingredient> au <ingredient quantite=1>thé</ingredient> (retirer le <ingredient quantite=1>sachet</ingredient>!) au <ingredient quantite=1>chocolat</ingredient> tenu au <recipient>bain marie</recipient> et mélanger vivement. <operation temps=20.0min espace=13>laisser refroidir</operation>. préchauffer le <recipient>four</recipient> 210 ° c (thermostat 7). dérouler une <ingredient quantite=1>pâte</ingredient> sur la plaque du <recipient>four</recipient>, étaler la <ingredient quantite=1>crème</ingredient> en laissant une marge de 2 cm. glisser une fève, poser par dessus la 2ème <ingredient quantite=1>pâte</ingredient> et la souder en pinçant les bords. badigeonner de lait sucrer et enfourner à mi-hauteur. <operation temps=10.0min espace=13>laisser cuire 10 min</operation> puis baisser la température du <recipient>four</recipient> 180 ° c (thermostat 6) et <operation temps=10.0min espace=13>finir la cuisson environ 10 min jusqu’ à que la galette soit <ingredient quantite=1>dorée</ingredient></operation>. on peut remplacer la fève par une pièce emballée dans de l’ aluminium.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49276">
+ <titre>Riz au poisson à la forestière</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de riz </p>
+ <p>2 pavés de colin surgelé </p>
+ <p>1 poêlée forestière surgelée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire cuire votre <ingredient quantite=1>riz</ingredient> dans un volume d’ eau bouillante ou au micro-ondes</operation>. pendant ce temps, mettre à cuire les <ingredient quantite=2>colins</ingredient> à la <recipient>poêle</recipient> ou les passer 4 min au micro-ondes. <operation temps=6.86min espace=5>faire cuire la poêlée <ingredient quantite=1>forestière</ingredient> là encore à la <recipient>poêle</recipient> ou au micro-ondes</operation>. quand tout est cuit, mélanger la poêlée, le <ingredient quantite=1>riz</ingredient> et le poisson coupés en petit morceaux et servir. pour la portion de la poêlée <ingredient quantite=1>forestière</ingredient>, je n’ utilise pas le <ingredient quantite=1>sachet</ingredient> entier. c’ est vous qui <operation temps=6.86min espace=5>jugez</operation>!
+]]>
+ </preparation>
+</recette>

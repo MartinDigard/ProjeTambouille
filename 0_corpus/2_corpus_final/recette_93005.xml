@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93005">
+ <titre>Soufflé de thon sauce poireau</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>185 g de thon en conserve</p>
+ <p>2 oeufs entiers</p>
+ <p>50 cl de crème fraîche épaisse 15%</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>noix de muscade</p>
+ <p>250 g de blancs de poireaux</p>
+ <p>1 cube bouillon de volaille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour les mousselines de <ingredient quantite=1>thon</ingredient>: préchauffer le <recipient>four</recipient> à 180 ° (thermostat 6). mettre tous les ingrédients, sauf la moitié de la <ingredient quantite=1>crème épaisse</ingredient> et les <ingredient quantite=1>poireaux</ingredient> dans un <recipient>saladier</recipient>, et mixer. verser le mélange dans 6 petits moules préalablement beurrés. mettre les moules dans un <recipient>plat</recipient> allant au <recipient>four</recipient> avec 2 centimètres d’ eau au fond. <operation temps=30.0min espace=13>laisser cuire à 180 ° c (thermostat 6) pendant 30 minutes</operation>. sauce aux <ingredient quantite=1>poireaux</ingredient>: faire cuire les blancs de <ingredient quantite=1>poireaux</ingredient> avec un <ingredient quantite=1>bouillon de volaille</ingredient> dans un quart de litre d’ eau. ajouter le reste de <ingredient quantite=1>crème épaisse</ingredient>, bien mélanger, et mixer. disposer sur les mousselines au moment de <operation temps=2.0min espace=13>servir</operation>. on peut remplacer le <ingredient quantite=1>thon</ingredient> par du poisson frais (ex: poisson blanc et saumon pour éviter un <recipient>plat</recipient> sec). comme pour tous poissons, le vin blanc est en général conseillé.
+]]>
+ </preparation>
+</recette>

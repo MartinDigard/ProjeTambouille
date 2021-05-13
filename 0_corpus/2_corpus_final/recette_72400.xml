@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72400">
+ <titre>Tarte provencale</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>300 g de fromage blanc</p>
+ <p>4 oeufs</p>
+ <p>100 g de farine</p>
+ <p>20 g d’ ail</p>
+ <p>5 cl d’ huile</p>
+ <p>500 g de tomates</p>
+ <p>1 sachet de levure</p>
+ <p>10 cl de creme fraîche</p>
+ <p>1/2 botte de basilic</p>
+ <p>thym, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+* mélangez les <ingredient quantite=4>oeufs</ingredient> entiers, le <ingredient quantite=1>fromage blanc</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, la crème puis <operation temps=6.86min espace=14>ajoutez la farine et la <ingredient quantite=1>levure</ingredient></operation>. <operation temps=6.86min espace=14>terminez en</operation> ajoutant le <ingredient quantite=1>basilic</ingredient> et l’ <ingredient quantite=1>ail</ingredient> hachés très fins, le <ingredient quantite=1>sel</ingredient> et le poivre. * garnissez le <recipient>moule</recipient> de la <ingredient quantite=1>pâte</ingredient> feuilletée. répartissez le mélange au <ingredient quantite=1>fromage blanc</ingredient>. <operation temps=20.0min espace=14>faites cuire au <recipient>four</recipient> à 160 °, thermostat 5 - 6, pendant 20 min</operation>. * garnissez avec les tranches de <ingredient quantite=1>tomates</ingredient> et <operation temps=6.86min espace=14>terminez avec un peu de <ingredient quantite=1>thym</ingredient></operation>. <operation temps=5.0min espace=14>faites cuire au <recipient>four</recipient> à 180 °, thermostat 6, pendant 5 min</operation>. rapide et diététique!
+]]>
+ </preparation>
+</recette>

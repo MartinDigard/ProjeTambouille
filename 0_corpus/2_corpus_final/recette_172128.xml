@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172128">
+ <titre>Crostata à la confiture de figues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>100 g de sucre</p>
+ <p>200 g de beurre</p>
+ <p>1 jaune d’ œuf</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pot de confiture de figues (220 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre dans un bol <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>sucre</ingredient>, beurre mou en morceaux, <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient> et sucre <ingredient quantite=1>vanillé</ingredient>, et <operation temps=6.86min espace=8>pétrir pour</operation> <operation temps=8.0min espace=8>obtenir une pâte homogène</operation>. mettre la pâte en boule au moins une heure au frigo. étaler environ 2/3 de la pâte dans un <recipient><recipient>moule</recipient> à tarte</recipient> et verser dessus la <ingredient quantite=1>confiture de figues</ingredient>. avec le tiers de pâte restant, former de fins rouleaux et les poser en croisillons sur la tarte en les aplatissant un peu. si la pâte colle trop aux mains, ajouter un peu de <ingredient quantite=1>farine</ingredient>. mettre la crostata au <recipient>four</recipient> à 180 ° c pendant 50 min. peut se <operation temps=6.86min espace=8>faire avec d’ autres <ingredient quantite=1>confitures</ingredient> (abricots, pêches</operation>...)
+]]>
+ </preparation>
+</recette>

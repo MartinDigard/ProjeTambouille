@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50943">
+ <titre>Gâteau à l’ orange sans beurre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>300 g de sucre</p>
+ <p>4 oranges</p>
+ <p>200 g de farine</p>
+ <p>2 paquets de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 120 ° c (thermostat 4). dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=9>mélangez les <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> pour</operation> <operation temps=8.0min espace=9>obtenir une pâte lisse</operation> puis <operation temps=6.86min espace=9>ajoutez le zeste et le jus des <ingredient quantite=4>oranges</ingredient></operation>. <operation temps=6.86min espace=9>ajoutez le zeste et le jus des <ingredient quantite=4>oranges</ingredient></operation>. <operation temps=6.86min espace=9>incorporez la <ingredient quantite=1>farine</ingredient></operation> additionnée de la <ingredient quantite=2>levure</ingredient>. <operation temps=6.86min espace=9>versez dans un <recipient>moule</recipient> beurré</operation> et cuire 30 minutes au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

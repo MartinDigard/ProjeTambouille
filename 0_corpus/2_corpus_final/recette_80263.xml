@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80263">
+ <titre>Gâteau aux pommes bon et léger</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>150 g de sucre</p>
+ <p>20 cl de crème liquide (15%) </p>
+ <p>250 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 grosse pomme ou 2 pommes de taille normale (type golden, ou pomme rouge) </p>
+ <p>cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>mélangez les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation> vanillé, puis ajoutez la <ingredient quantite=1>crème liquide</ingredient>. <operation temps=6.86min espace=10>mélangez bien,</operation> et <operation temps=6.86min espace=10>incorporez la farine préalablement</operation> mélangée à la <ingredient quantite=1>levure chimique</ingredient>. <operation temps=6.86min espace=10>versez votre préparation dans un <recipient>moule</recipient></operation> rond en silicone. <operation temps=6.86min espace=10>coupez votre <ingredient quantite=1>pomme</ingredient> en fines lamelles (mais pas trop fines</operation>). déposez - les sur votre préparation, et <operation temps=6.86min espace=10>saupoudrez de <ingredient quantite=1>cannelle</ingredient> à volonté</operation>. <operation temps=45.0min espace=10>mettez le tout au <recipient>four</recipient> 30 à 45 min à 200 °, thermostat 6 - 7</operation>. le couteau doit <operation temps=6.86min espace=10>ressortir sec lorsque vous</operation> <operation temps=6.86min espace=10>piquez le gâteau</operation>. c’ est un des gâteaux que je <operation temps=6.86min espace=10>réussis le mieux</operation>.
+]]>
+ </preparation>
+</recette>

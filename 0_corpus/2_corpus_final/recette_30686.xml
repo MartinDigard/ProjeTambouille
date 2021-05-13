@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30686">
+ <titre>Côtes de veau panées</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 fines côtes de veau</p>
+ <p>100 g de farine</p>
+ <p>2 oeufs</p>
+ <p>100 g de chapelure</p>
+ <p>75 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+saler et poivrer la viande. passer successivement la viande dans la farine, les <ingredient quantite=2>oeufs</ingredient> battus puis la <ingredient quantite=1>chapelure</ingredient>. <operation temps=7.0min espace=6>faire dorer dans le beurre 7 minutes environ de chaque côté</operation>.
+]]>
+ </preparation>
+</recette>

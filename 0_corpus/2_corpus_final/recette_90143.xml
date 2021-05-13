@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90143">
+ <titre>Croque monsieur au chocolat fondant</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 tranches de pain de mie</p>
+ <p>150 g de chocolat pâtissier</p>
+ <p>2 cuillerées à soupe de lait concentré sucré</p>
+ <p>3 œufs</p>
+ <p>1 cuillère à café d’ extrait de café ou café soluble</p>
+ <p>3 cuillerées à soupe de beurre</p>
+ <p>20 g de Sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+casser les <ingredient quantite=3>œufs</ingredient> dans un <recipient>saladier</recipient>. ajouter deux <ingredient quantite=1>cuillères</ingredient> à <ingredient quantite=2>soupe de lait concentré sucré</ingredient> et <operation temps=6.86min espace=10>battez bien le tout</operation>. faire chauffer dans une <recipient>poêle</recipient> 3 <ingredient quantite=1>cuillères</ingredient> à <ingredient quantite=2>soupe de beurre</ingredient>. tremper les <ingredient quantite=8>tranches de pain de mie</ingredient> dans les <ingredient quantite=3>œufs</ingredient> battus puis les mettre dans le <ingredient quantite=3>beurre</ingredient> bien chaud. <operation temps=6.86min espace=10>laisser dorer</operation>, retourner et <operation temps=6.86min espace=10>faire dorer la seconde face</operation>. mettre le <ingredient quantite=1>chocolat</ingredient>, coupé en morceaux, dans une <recipient>casserole</recipient> avec une <ingredient quantite=1>cuillère</ingredient> à <ingredient quantite=2>soupe</ingredient> d’ eau et une <ingredient quantite=1>cuillère à café de café soluble</ingredient>. <operation temps=6.86min espace=10>faire chauffer doucement en</operation> tournant sans cesse avec la <ingredient quantite=1>cuillère</ingredient> en bois afin d’ <operation temps=6.86min espace=10>obtenir une crème lisse et épaisse</operation>. tartiner les <ingredient quantite=8>tranches de pain</ingredient> de cette crème: les coller deux par deux.
+]]>
+ </preparation>
+</recette>

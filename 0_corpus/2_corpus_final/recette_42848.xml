@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42848">
+ <titre>Risotto aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>450 g de riz à risotto (ex: arborio) </p>
+ <p>200 g de petits pois (je les préfère congelés, à défaut de frais) </p>
+ <p>1 paquet de lardons</p>
+ <p>1 gros oignon</p>
+ <p>50 cl de vin blanc sec </p>
+ <p>1 l de bouillon</p>
+ <p>parmesan</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>lardons</ingredient> dans une grande <recipient>casserole</recipient></operation>. couper l’ <ingredient quantite=1>oignon</ingredient> en rondelles, et le <operation temps=6.86min espace=10>faire revenir avec les <ingredient quantite=1>lardons</ingredient></operation>. quand l’ <ingredient quantite=1>oignon</ingredient> est transparent, ajouter le <ingredient quantite=1>riz</ingredient>, et le <operation temps=6.86min espace=10>faire revenir jusqu’ à ce qu’ il</operation> devienne translucide. déglacer alors au <ingredient quantite=1>vin blanc</ingredient>... ne jamais cesser de remuer, à partir de maintenant! une fois que le <ingredient quantite=1>vin blanc</ingredient> s’ est presque évaporé, ajouter le <ingredient quantite=1>bouillon</ingredient> (préparé à l’ avance). en rajouter, à chaque fois qu’ il manque de liquide! au bout de 15 min environ, ajouter les <ingredient quantite=1>petits pois</ingredient>. continuer de mouiller le <ingredient quantite=1>risotto</ingredient>, jusqu’ à bonne cuisson. le retirer du feu, et ajouter du <ingredient quantite=1>parmesan</ingredient> râpé. <operation temps=6.86min espace=10>couvrir,</operation> et <operation temps=5.0min espace=10>laisser reposer 5 min</operation>. présenter en assiette à soupe ou bol, recouvert de copeaux de <ingredient quantite=1>parmesan</ingredient>. un <ingredient quantite=1>vin</ingredient> rouge assez corsé
+]]>
+ </preparation>
+</recette>

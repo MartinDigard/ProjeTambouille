@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67808">
+ <titre>SFIRIA AU POULET</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 baguettes de pains rassies</p>
+ <p>6 morceaux de poulet </p>
+ <p>2 cuillère à soupe d’ huile </p>
+ <p>1 gros oignon </p>
+ <p>1 cuillère à café de poivre </p>
+ <p>1/2 cuillère à café de cannelle</p>
+ <p>1/2 cuillère à café de grain de fenouil </p>
+ <p>1 poignée de pois chiche </p>
+ <p> sel</p>
+ <p>Pour le pain rassis il faut: </p>
+ <p>1 oeuf </p>
+ <p>1 cuillère à café de noix de muscade</p>
+ <p>1 cuillère à café de poivre cubèbe moulu </p>
+ <p>1/2 cuillère à café de fenouil moulu </p>
+ <p>200 g de fromage râpé </p>
+ <p>4 portions de fromage fondu</p>
+ <p>5 cl d’ eau de fleur d’ oranger</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir le <ingredient quantite=6>poulet</ingredient> avec <ingredient quantite=1>oignon</ingredient> rapé, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=2>huile</ingredient>, poivre, canelle, <ingredient quantite=1>grain de fenouil</ingredient> moulu et <ingredient quantite=1>pois chiches</ingredient>. ajouter ensuite 3 verres d’ <ingredient quantite=1>eau</ingredient> et <operation temps=30.0min espace=20>laisser cuire</operation>. entretemps préparer le <ingredient quantite=1>pain rassis</ingredient> en le mouillant un peu dans de l’ <ingredient quantite=1>eau</ingredient> et pressez - le ; le mettre dans un <recipient>saladier</recipient> et le mélanger avec toutes les épices sus-citées. bien mélanger, arroser avec un peu d’ <ingredient quantite=1>eau de fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> juste assez pour pouvoir former avec ce mélange des petites boules. une fois l’ opération terminée préparer de l’ huile pour la friture et <operation temps=6.86min espace=20>faites dorer les petites boules</operation>. les égoutter sur du papier absorbant. une fois le <ingredient quantite=6>poulet</ingredient> cuit vérifier qu’ il reste de la sauce. mettre les petites boules dans un <recipient>plat</recipient> et arroser de sauce. selon les goûts vous pouvez aussi mettre les boules dans la sauce mais à mon avis c’ est meilleur quand on arrose - bon appétit
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20297">
+ <titre>Paris- Brest</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>1/4 l lait</p>
+ <p>75 g beurre</p>
+ <p>150 g farine</p>
+ <p>4 oeufs</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>Pour la garniture: </p>
+ <p>50 cl crème pâtissière</p>
+ <p>200 g beurre</p>
+ <p>5 cuillères à soupe de praliné</p>
+ <p>30 g amandes effilées</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter le lait et le beurre à ébullition. jeter la farine d’ un seul coup. mélanger la <ingredient quantite=1>pâte</ingredient> à l’ aide d’ une spatule en bois pour la dessécher sur le feu puis la débarrasser dans un <recipient>saladier</recipient>. ajouter les <ingredient quantite=4>oeufs</ingredient> un à un. bien mélanger la <ingredient quantite=1>pâte</ingredient> (c’ est l’ air emprisonné dedans qui la fait gonfler pendant la cuisson!). dessiner à la poche une couronne de <ingredient quantite=1>pâte</ingredient> de 25 cm de diamètre sur une tôle graissée. dorer avec un <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> puis saupoudrer avec les amandes. <operation temps=40.0min espace=15>faire cuire 40 minutes en</operation> évitant d’ <operation temps=6.86min espace=15>ouvrir le <recipient>four</recipient> pendant la première demi-heure</operation>. la <ingredient quantite=1>pâte</ingredient> doit <operation temps=6.86min espace=15>ressortir cuite et sèche</operation>. <operation temps=20.0min espace=15>laisser refroidir</operation>. couper en deux dans l’ épaisseur. travailler le beurre en pommade, ajouter le pralin et la crème <ingredient quantite=1>pâtissière</ingredient>. mettre cette crème dans une poche à dresser munie d’ une <recipient>douille</recipient> cannelée et <operation temps=6.86min espace=15>remplir le bas de la couronne</operation>. poser le couvercle dessus, saupoudrer de <ingredient quantite=1>sucre glace</ingredient>, mettre 2 heures au frais avant de <operation temps=2.0min espace=15>servir</operation>.
+]]>
+ </preparation>
+</recette>

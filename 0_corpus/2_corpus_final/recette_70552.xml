@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70552">
+ <titre>Spaghetti aux crevettes et pesto rouge pimenté</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 ou 7 grosses crevettes cuites et décortiquées par personne</p>
+ <p>80g de spaghetti ou linguine par personne</p>
+ <p>Pour le pesto pimenté: </p>
+ <p>400g de tomates pelées au jus</p>
+ <p>2 c. à soupe de concentré de tomate</p>
+ <p>1/2 botte de basilic</p>
+ <p>50g de parmesan rapé </p>
+ <p>2 gousses d’ ail</p>
+ <p>4 c. à soupe d’ huile d’ olive</p>
+ <p>piment de cayenne (dosage selon le goût:)) </p>
+ <p>sel, poivre</p>
+ <p>Parmesan rapé pour servir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>préparez le</operation> <ingredient quantite=1>pesto</ingredient>: versez les <ingredient quantite=1>tomates pelées</ingredient> et leur <ingredient quantite=1>jus</ingredient>, le <ingredient quantite=2>concentré</ingredient>, le <ingredient quantite=1>basilic</ingredient>, le <ingredient quantite=6>parmesan</ingredient> et les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> dans le mixer. mixez jusqu’ à obtention d’ une sauce homogène. <operation temps=6.86min espace=12>ajoutez l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>,</operation> puis assaisonner de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et piment selon le goût. <operation temps=6.86min espace=12>laissez mariner les <ingredient quantite=6>crevettes</ingredient> dans ce <ingredient quantite=1>pesto</ingredient></operation>. juste avant de <ingredient quantite=1>servir</ingredient>, <operation temps=6.86min espace=12>faites cuire les pâtes</operation>. mieux vaut les garder fermes, car elles continuent de cuire dans la sauce. pendant ce temps, <operation temps=6.86min espace=12>faites réchauffer le <ingredient quantite=1>pesto</ingredient> avec les <ingredient quantite=6>crevettes</ingredient> à feu doux</operation>. <operation temps=6.86min espace=12>mélangez les pâtes et la sauce</operation>, <operation temps=6.86min espace=12>saupoudrez de <ingredient quantite=6>parmesan</ingredient>, et <ingredient quantite=1>servez</ingredient></operation>. un bon vin rouge italien. le top: un nero d’ avola!
+]]>
+ </preparation>
+</recette>

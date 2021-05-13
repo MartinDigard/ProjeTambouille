@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22122">
+ <titre>Asperges blanches, crème à la ciboulette</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ asperges blanches</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>100 g de crème fraîche fleurette</p>
+ <p>1 citron</p>
+ <p>1 botte de ciboulette</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>pelez les <ingredient quantite=1>asperges</ingredient> et liez - les en petites <ingredient quantite=1>bottes</ingredient></operation>. plongez - les dans l’ eau bouillante salée et <operation temps=6.86min espace=8>laissez cuire une 20 à 30 à</operation> <operation temps=6.86min espace=8>partir de la reprise d’ ébullition (le temps de cuisson</operation> dépend de leur grosseur). elles sont cuites quand la pointe du couteau s’ enfonce facilement dans la queue de l’ asperge. <operation temps=10.0min espace=8>egouttez</operation> - les et <operation temps=6.86min espace=8>disposez - les sur le <recipient>plat</recipient> de service</operation> recouvert d’ un linge pour absorber l’ excédent d’ eau. <operation temps=6.86min espace=8>préparez la</operation> sauce en mélangeant les <ingredient quantite=3>jaunes</ingredient> d’ oeufs avec la <ingredient quantite=1>crème</ingredient>. placez le mélange dans un <recipient>bain - marie</recipient> chaud, <operation temps=6.86min espace=8>assaisonnez de <ingredient quantite=1>sel</ingredient>, de poivre et de <ingredient quantite=1>citron</ingredient></operation>. lorsque la sauce est chaude, <operation temps=6.86min espace=8>ajoutez la <ingredient quantite=1>ciboulette</ingredient> ciselée</operation> et <operation temps=6.86min espace=8>servez avec les <ingredient quantite=1>asperges</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

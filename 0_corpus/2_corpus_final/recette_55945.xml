@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55945">
+ <titre>Poires au vin en cocotte</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 poires fermes</p>
+ <p>200 g de sucre</p>
+ <p>1 verre de vin rouge</p>
+ <p>1 gousse de vanille</p>
+ <p>1 clou de girofle</p>
+ <p>1 pincée de cannelle (ou plus selon le goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=4>poires</ingredient>, les épépiner et les couper en quartiers. placer les <ingredient quantite=4>poires</ingredient> dans une <recipient>cocotte</recipient> minute. <operation temps=6.86min espace=8>recouvrir avec le <ingredient quantite=1>vin</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la</operation> <ingredient quantite=1>vanille</ingredient> (<operation temps=6.86min espace=8>ouvrir la gousse), le <ingredient quantite=1>clou</ingredient> et la <ingredient quantite=1>cannelle</ingredient></operation>. fermer la <recipient>cocotte</recipient> et <operation temps=10.0min espace=8>laisser cuire 10 minutes à</operation> <operation temps=6.86min espace=8>partir de la rotation de la soupape</operation>. servir bien frais.
+]]>
+ </preparation>
+</recette>

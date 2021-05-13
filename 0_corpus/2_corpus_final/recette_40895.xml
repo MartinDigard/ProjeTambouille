@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40895">
+ <titre>Délicieux aux pommes à l’ ancienne</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de rhubarbe</p>
+ <p>le jus d’ un citron non traité + son zeste</p>
+ <p>5 belles pommes</p>
+ <p>200 g de sucre roux + 60 g</p>
+ <p>150 g de beurre tempéré</p>
+ <p>4 oeufs</p>
+ <p>200 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=5>pommes</ingredient>, enlever les trognons, puis les détailler en fines lamelles, les badigeonner de <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. mélanger le beurre avec le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>zeste</ingredient> du <ingredient quantite=1>citron</ingredient> jusqu’ à obtention du mélange bien mousseux. incorporer les jaunes d’ <ingredient quantite=4>oeufs</ingredient>, ajouter la farine et la <ingredient quantite=1>levure</ingredient>. bien mélanger. laver la <ingredient quantite=1>rhubarbe</ingredient> et l’ éplucher avec un économe puis la découper en petits morceaux. la mettre dans une <recipient>casserole</recipient> avec 60 <ingredient quantite=1>g</ingredient> de <ingredient quantite=1>sucre</ingredient>, <operation temps=5.0min espace=13>laisser cuire 5 minutes</operation>. incorporer la <ingredient quantite=1>rhubarbe</ingredient> à la pâte. battre les blancs d’ oeufs bien fermes puis les incorporer à la pâte. préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). beurrer le <recipient>moule</recipient> (à fond amovible), y déposer la pate, puis <operation temps=6.86min espace=13>répartir les</operation> <ingredient quantite=5>pommes</ingredient> et <operation temps=50.0min espace=13>laisser cuire 50 minutes</operation>. <operation temps=6.86min espace=13>laisser refroidir sur une grille</operation>... vous pouvez napper ce " délicieux " avec un peu de gelée de <ingredient quantite=1>pomme</ingredient>...
+]]>
+ </preparation>
+</recette>

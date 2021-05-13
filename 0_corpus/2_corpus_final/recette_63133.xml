@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63133">
+ <titre>Curry de poulet à la thaïlandaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>175 g de riz basmati</p>
+ <p>2 gousses d’ ail finement hachées</p>
+ <p>2 cuillères à soupe de pâte de curry</p>
+ <p>2 cuillères à café de poudre de curry</p>
+ <p>1 petit piment rouge finement coupé</p>
+ <p>200 g de filet de poulet coupé en lanières</p>
+ <p>1 cuillère à soupe de sauce soja claire</p>
+ <p>1 cuillère à soupe de sauce de poisson thailandaise (nam pla) </p>
+ <p>1 cuillère à café de sucre</p>
+ <p>1 échalote finement émincée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire cuire le <ingredient quantite=1>riz</ingredient></operation>. <operation temps=20.0min espace=12>laisser refroidir</operation>. <operation temps=10.0min espace=12>faire chauffer l’</operation> huile dans un <recipient>wok</recipient>, y faire revenir l’ <ingredient quantite=2>ail</ingredient>, la <ingredient quantite=2>pâte de curry</ingredient> et le <ingredient quantite=1>piment</ingredient> pendant 2 minutes en remuant. ajouter la <ingredient quantite=2>poudre de curry</ingredient> et le <ingredient quantite=1>poulet</ingredient>, <operation temps=6.86min espace=12>faire sauter le tout en</operation> remuant pendant 5 minutes. ajouter le <ingredient quantite=1>riz</ingredient> en incorporant la <ingredient quantite=1>sauce soja</ingredient>, la <ingredient quantite=1>sauce de poisson</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=12>faire chauffer tous les ingrédients en</operation> mélangeant bien. saupoudrer le <recipient>plat</recipient> d’ <ingredient quantite=1>échalote</ingredient> ciselée. <operation temps=2.0min espace=12>servir aussitôt</operation>. les produits tels que la <ingredient quantite=2>pâte de curry</ingredient> et les <ingredient quantite=1>sauces</ingredient> se trouvent dans les rayons asiatiques des grandes surfaces...
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71069">
+ <titre>Glace au maronsuis</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 jaunes d’ oeufs</p>
+ <p>50 g de sucre semoule</p>
+ <p>15 cl de crème fleurette</p>
+ <p>35 cl de lait</p>
+ <p>4 pots de Maron</p>
+ <p>Sui’ s</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à bouillir la <ingredient quantite=1>crème fleurette</ingredient> et le lait. dans un <recipient>saladier</recipient>, mélanger le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=6>jaunes</ingredient> d’ <ingredient quantite=6>oeufs</ingredient> jusqu’ à blanchiment. verser le mélange <ingredient quantite=1>lait</ingredient> - crème sur le mélange <ingredient quantite=6>oeufs</ingredient> - <ingredient quantite=1>sucre</ingredient> et remuer sans arrêter pendant 5 min. placer le <recipient>saladier</recipient> dans un évier rempli d’ eau froide pour arrêter la cuisson. <operation temps=20.0min espace=10>laisser refroidir</operation> et mettre au <recipient>réfrigérateur</recipient> pendant 12 h. enfin, incorporer les maronsuis et passer en <recipient>sorbetière</recipient>. recette moins lourde et plus parfumée que la glace à la <ingredient quantite=1>crème</ingredient> de marrons.
+]]>
+ </preparation>
+</recette>

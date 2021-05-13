@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32868">
+ <titre>Potimarron farci</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 potimarron (selon le nombre d’ invités) </p>
+ <p>250 g de champignons de Paris frais</p>
+ <p>200 g de lardons (ou lard) </p>
+ <p>150 g de gruyère râpé</p>
+ <p>25 cL de crème fraîche</p>
+ <p>estragon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le chapeau du <ingredient quantite=1>potimarron</ingredient>, évider un peu de chair et la couper en morceaux. le but est de <operation temps=6.86min espace=9>farcir le <ingredient quantite=1>potimarron</ingredient> avec un mélange de <ingredient quantite=1>champignons</ingredient></operation> émincés, de <ingredient quantite=1>lardons</ingredient>, <ingredient quantite=1>crème</ingredient>, <ingredient quantite=1>gruyère</ingredient>, et le reste des morceaux de <ingredient quantite=1>potimarron</ingredient>. <operation temps=6.86min espace=9>regarnir le</operation> <ingredient quantite=1>potimarron</ingredient>, poser le chapeau et enfourner à feu doux pendant 30 à 40 mn. vérifier la cuisson, la chair du <ingredient quantite=1>potimarron</ingredient> doit être tendre. beaucoup de variantes à ce <recipient>plat</recipient>... c’ est normal que la farce prenne trop de place, ne pas hésiter à <operation temps=6.86min espace=9>garnir le <recipient>plat</recipient> autour du <ingredient quantite=1>potimarron</ingredient> s’ il y en</operation> a trop!
+]]>
+ </preparation>
+</recette>

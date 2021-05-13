@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86576">
+ <titre>Risotto tout simple</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 steacks hachés- 1 verre de riz rond, environ 70 g- 50 cl de bouillon de boeuf- 1 petite boîte de concentré de tomate- huile d’ olive- sel et poivre- gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient> en fonte ou un fait - tout, <operation temps=6.86min espace=3>faire revenir la viande</operation> haché dans un peu d’ huile d’ olive. une fois bien doré, ajouter la tomate concentré et mélanger, puis ajouter le riz rond. une fois le riz devenu translucide, ajouter le <ingredient quantite=1>bouillon</ingredient>. en générale, on compte 2 volumes de liquide pour 1 volume de riz. saler, poivrer, <operation temps=6.86min espace=3>laisser faire une ébullition toujours en</operation> remuant bien pour ne pas que sa colle. puis <operation temps=20.0min espace=3>laisser mijoter sur feu très doux pendant 20 min en</operation> remuant régulièrement, rajouter de l’ eau si besoin. au bout de 20 min si le riz est cuit, éteindre le feu puis ajouter du <ingredient quantite=1>gruyère râpé</ingredient> sur le dessus, refermer la <recipient>cocotte</recipient> et <operation temps=5.0min espace=3>laisser fondre le <ingredient quantite=1>gruyère</ingredient> pendant 5 min</operation>. déguster!
+]]>
+ </preparation>
+</recette>

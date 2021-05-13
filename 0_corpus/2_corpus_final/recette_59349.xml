@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59349">
+ <titre>Muffins au cacao</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>80 g de beurre ramolli</p>
+ <p>100 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>100 g de farine</p>
+ <p>1 cuillère de levure chimique</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>4 cuillères à café de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=9>faire monter le beurre <ingredient quantite=1>ramolli</ingredient>, le <ingredient quantite=1>sucre</ingredient> (comme pour une crème au beurre) et le <ingredient quantite=1>sucre</ingredient></operation> vanillé. ajouter ensuite les <ingredient quantite=3>oeufs</ingredient> entiers à la préparation, la farine et la <ingredient quantite=1>levure</ingredient> tamisées. ajouter pour finir les 4 <ingredient quantite=1>cuillères à café</ingredient> de nesquik et mélanger le tout. disposer dans des moules à muffins. mettre au <recipient>four</recipient> 10 minutes et c’ est déjà fini! bonne dégustation!
+]]>
+ </preparation>
+</recette>

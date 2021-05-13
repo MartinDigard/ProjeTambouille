@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15842">
+ <titre>Crevettes panées</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 crevettes roses</p>
+ <p>farine</p>
+ <p>2 oeufs</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+récupérer le blanc des <ingredient quantite=2>oeufs</ingredient> dans un bol. eplucher les <ingredient quantite=1>crevettes</ingredient>. tremper les <ingredient quantite=1>crevettes</ingredient> dans le blanc d’ <ingredient quantite=1>oeuf</ingredient> et les passer dans la farine après les avoir égouttées un peu. lorsque toutes les <ingredient quantite=1>crevettes</ingredient> sont enrobées d’ <ingredient quantite=1>oeuf</ingredient> et de farine, <operation temps=6.86min espace=5>faire fondre une noix de beurre dans une <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=5>faire dorer les <ingredient quantite=1>crevettes</ingredient> en</operation> ajoutant le <ingredient quantite=1>persil</ingredient>. <operation temps=2.0min espace=5>servir chaud</operation>. un vin blanc sec (muscadet, par exemple).
+]]>
+ </preparation>
+</recette>

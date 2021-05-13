@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58490">
+ <titre>Quiche lardons saucisses</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte brisée: </p>
+ <p>200 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>1 pincée de sel</p>
+ <p>3 cuillères à soupe d’ eau</p>
+ <p>Pour la garniture: </p>
+ <p>4 oeufs</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>250 g de lardons</p>
+ <p>4 saucisses (de type knacki) </p>
+ <p>100 g de gruyère râpé</p>
+ <p>1 oignon</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir les <ingredient quantite=1>lardons</ingredient> avec les <ingredient quantite=1>oignons</ingredient> puis l’</operation> étaler sur la <ingredient quantite=1>pâte</ingredient>. battre les <ingredient quantite=4>oeufs</ingredient> avec la <ingredient quantite=2>crème fraîche</ingredient> et le poivre, ajouter le gruyère et les <ingredient quantite=4>saucisses</ingredient> coupées en petits morceaux. mettre au <recipient>four</recipient> 30 min. le soir avec une salade, c’ est génial.
+]]>
+ </preparation>
+</recette>

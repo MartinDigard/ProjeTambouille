@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21322">
+ <titre>Poulet au citron et aux oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet de 1, 6 kg coupé en 8 morceaux</p>
+ <p>2 citrons</p>
+ <p>1 citron confit</p>
+ <p>1 botte d’ oignons nouveaux</p>
+ <p>20 cl de bouillon de volaille</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 feuilles de sauge</p>
+ <p>1 brin de thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille, <operation temps=0.25min espace=15>salez</operation>, <operation temps=6.86min espace=15>poivrez les <ingredient quantite=1>morceaux</ingredient> de poulet</operation>. <operation temps=6.86min espace=15>mettez - les dans un <recipient>plat</recipient> creux</operation>. <operation temps=6.86min espace=15>pressez les 2</operation> <ingredient quantite=2>citrons</ingredient>, mélangez le jus avec 2 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=5>huile</ingredient> d’ <ingredient quantite=5>olive</ingredient> et <operation temps=6.86min espace=15>versez ce mélange sur le poulet, retournez bine les <ingredient quantite=1>morceaux</ingredient> pour qu’ ils soient</operation> imprégnés de marinade sur toute les faces. <operation temps=6.86min espace=15>laissez mariner toute la nuit au frais et couvert</operation>. le lendemain, <operation temps=6.86min espace=15>égouttez les <ingredient quantite=1>morceaux</ingredient> de poulet</operation>. <operation temps=6.86min espace=15>faites chauffer le reste d’ <ingredient quantite=5>huile</ingredient> dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=15>mettez - y les <ingredient quantite=1>morceaux</ingredient> de poulet</operation> et <operation temps=6.86min espace=15>laissez - les dorer</operation>. <operation temps=6.86min espace=15>retirez - les de la <recipient>cocotte</recipient></operation> et mettez à la place les <ingredient quantite=1>oignons nouveaux</ingredient> juste pelés. <operation temps=6.86min espace=15>laissez - les</operation> <operation temps=5.0min espace=15>revenir 5 min en</operation> secouant la <recipient>cocotte</recipient>, ils ne doivent pas dorer. <operation temps=6.86min espace=15>remettez les <ingredient quantite=1>morceaux</ingredient> de poulet dans la <recipient>cocotte</recipient> avec la <ingredient quantite=3>sauge</ingredient> et le <ingredient quantite=1>thym</ingredient> émiettés</operation>. <operation temps=6.86min espace=15>ajoutez la marinade au <ingredient quantite=1>citron</ingredient> et le <ingredient quantite=1>bouillon</ingredient></operation>. <operation temps=0.25min espace=15>couvrez</operation> et <operation temps=30.0min espace=15>laissez cuire à feu doux pendant 30 minutes</operation>. coupez le <ingredient quantite=1>citron confit</ingredient> en rondelles, <operation temps=6.86min espace=15>ajoutez - le dans la <recipient>cocotte</recipient></operation> et <operation temps=30.0min espace=15>laissez cuire encore 30 minutes</operation>.
+]]>
+ </preparation>
+</recette>

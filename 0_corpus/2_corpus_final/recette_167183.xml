@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167183">
+ <titre>Haché de blettes au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une grosse botte de blette</p>
+ <p>300g de bœuf haché surgelé</p>
+ <p>beurre </p>
+ <p>farine</p>
+ <p>lait </p>
+ <p>sel, poivre</p>
+ <p>gruyère râpé</p>
+ <p>2 cuillères a soupe de curry</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>lavez les</operation> <ingredient quantite=1>blettes</ingredient> et <operation temps=6.86min espace=12>coupez les en tronçons de 1 cm</operation> <operation temps=5.0min espace=12>faire cuire les <ingredient quantite=1>blettes</ingredient> à la vapeur (<recipient>cocotte</recipient> minute) 5 minute</operation> <operation temps=6.86min espace=12>faire la béchamel avec le beurre, <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>lait</ingredient> une fois la béchamel prête y</operation> mettre le <ingredient quantite=2>curry</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, la gousse d’ <ingredient quantite=1>ail</ingredient> écrasé et bien mélangé ensuite <operation temps=6.86min espace=12>incorporez la viande <ingredient quantite=1>haché</ingredient> une fois les <ingredient quantite=1>blettes</ingredient> cuites les</operation> mettre au fond d’ un <recipient>plat</recipient> et <operation temps=6.86min espace=12>versez la béchamel dessus</operation> <operation temps=6.86min espace=12>saupoudrez de <ingredient quantite=1>gruyère</ingredient></operation> mettre au <recipient>four</recipient> 25 min 180 ° cmettre moins de <ingredient quantite=2>curry</ingredient> pour les personnes qui n’ aiment pas trop les plats épicés sinon le <ingredient quantite=2>curry</ingredient> peut être remplacé par du ras el hanout ou autres épices...
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220109">
+ <titre>Emincés de poulet au riz et à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 escalopes de poulet</p>
+ <p>4 oignons</p>
+ <p>500 g de riz</p>
+ <p>2 capsules de safran</p>
+ <p>2 cubes de bouillon de poule</p>
+ <p>1 grosse boite de tomates pelées</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=4>oignons</ingredient>, les couper en deux ; les passer au <recipient>mixeur</recipient>, les <operation temps=6.86min espace=12>faire revenir dans l’ huile au <recipient>wok</recipient> en</operation> remuant souvent. mettre de côté. émincer les <ingredient quantite=8>escalopes</ingredient> ; les <operation temps=6.86min espace=12>faire revenir dans l’ huile ; les</operation> mettre de côté. remettre un peu d’ huile dans le <recipient>wok</recipient>, y remettre les <ingredient quantite=4>oignons</ingredient> puis verser le <ingredient quantite=1>riz</ingredient> pour le <operation temps=6.86min espace=12>faire blanchir, puis y</operation> mettre de l’ eau (environ 15 cl). ajouter la viande, la <ingredient quantite=1>boite de tomates pelées</ingredient>, et mélanger le tout ; <operation temps=30.0min espace=12>laisser cuire</operation>. incorporer les deux <ingredient quantite=2>cubes de bouillon de poule</ingredient>. ajouter le <ingredient quantite=2>safran</ingredient>, saler et poivrer. <operation temps=45.0min espace=12>laisser mijoter</operation> ; rectifier le niveau d’ eau pendant la cuisson. bon appétit! recette proposée par la classe de 6ème expérimentale du collège st michel de priziac (56). variante: on peut ajouter des dés de jambon, du chorizo, le <operation temps=6.86min espace=12>faire à base de crevettes ou de porc</operation>.
+]]>
+ </preparation>
+</recette>

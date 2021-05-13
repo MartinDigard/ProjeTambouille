@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46674">
+ <titre>Brochette de poulet au citron vert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 citrons verts</p>
+ <p>5 escalopes de poulet</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillères à soupe de gingembre frais râpé</p>
+ <p>1 cuillères à soupe de curry</p>
+ <p>1 cuillères à café de raz el hanout</p>
+ <p>1 piment oiseau</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pressez 3 des <ingredient quantite=6>citrons verts</ingredient>, <operation temps=6.86min espace=11>mélangez dans un <recipient>plat</recipient> creux l’ <ingredient quantite=3>huile</ingredient> le jus de <ingredient quantite=1>citron</ingredient> les épices, le <ingredient quantite=1>gingembre</ingredient> et le <ingredient quantite=1>piment</ingredient></operation>. <operation temps=6.86min espace=11>divisez les <ingredient quantite=5>escalopes</ingredient> en 2 et les</operation> mettre dans le <recipient>plat</recipient>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et <operation temps=6.86min espace=11>couvrez d’ un film plastique,</operation> puis <operation temps=6.86min espace=11>réservez au <ingredient quantite=1>frais</ingredient> pendant 2 h</operation>. <operation temps=6.86min espace=11>divisez vos <ingredient quantite=6>citrons</ingredient> restants en 4</operation>, <operation temps=6.86min espace=11>enfilez vos <ingredient quantite=5>escalopes</ingredient> entre 2 quartiers de <ingredient quantite=6>citrons</ingredient> sur un pique à brochette</operation> et <operation temps=10.0min espace=11>faire cuire 10 min sur le <recipient>barbecue</recipient></operation>. on adore, les accros de viande rouge aiment! un rosé léger
+]]>
+ </preparation>
+</recette>

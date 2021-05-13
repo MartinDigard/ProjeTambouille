@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93678">
+ <titre>Porc à la chinoise ultra facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de côtes d’ échine de porc (le filet est possible mais c’ est plus sec) </p>
+ <p>une boite de champignons de paris</p>
+ <p>2 oignons</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1/2 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de gingembre (ou un petit morceau de gingembre frais haché) </p>
+ <p>12 morceaux de sucre (ou du caramel liquide) </p>
+ <p>1 bouillon cube de poulet</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>1 verre de jus d’ orange </p>
+ <p>1 cuillère à soupe d’ huile d’ arachide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=12>faire revenir dans l’ <ingredient quantite=1>huile</ingredient> chaude dans une <recipient>cocotte</recipient></operation>. les réserver puis <operation temps=6.86min espace=12>faire revenir le <ingredient quantite=1>porc</ingredient></operation> coupé en petits <ingredient quantite=1>cubes</ingredient>. pendant ce temps <operation temps=6.86min espace=12>faire un caramel avec le <ingredient quantite=1>sucre</ingredient> et un petit <ingredient quantite=1>bouillon</ingredient> avec le <ingredient quantite=1>cube</ingredient></operation>. lorsque le <ingredient quantite=1>porc</ingredient> est doré remettre les <ingredient quantite=2>oignons</ingredient>, le caramel, le <ingredient quantite=1>bouillon</ingredient>, la <ingredient quantite=3>sauce soja</ingredient>, les épices, les <ingredient quantite=1>champignons</ingredient>. dans un <ingredient quantite=1>verre</ingredient> délayer la maïzéna dans le <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> <operation temps=6.86min espace=12>puis</operation> verser le tout dans le fait tout. bien remuer et <operation temps=30.0min espace=12>laisser couvert et à feu doux pendant 30 mn</operation>. remuer de temps à autre.
+]]>
+ </preparation>
+</recette>

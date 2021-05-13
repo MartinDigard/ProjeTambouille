@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36517">
+ <titre>Trofie (pâtes) paradiso</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pâtes trofie</p>
+ <p>200 g de petits pois</p>
+ <p>100 g de tomates</p>
+ <p>100 g de jambon de Parme</p>
+ <p>1 petit oignon</p>
+ <p>250 ml de crème fraîche liquide</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites légèrement</operation> colorer l’ <ingredient quantite=1>oignon</ingredient> dans l’ huile l’ <ingredient quantite=1>olive</ingredient>, ajoutez les <ingredient quantite=1>petits pois</ingredient>, assaisonnez avec <ingredient quantite=1>sel et poivre</ingredient>, puis <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=1>tomates</ingredient></operation> coupées en dés. ajoutez le <ingredient quantite=1>jambon de parme</ingredient> coupé en lanières et <operation temps=6.0min espace=9>laissez cuire 6 minutes</operation>. <operation temps=6.86min espace=9>portez à ébullition une <recipient>casserole</recipient> d’ eau salée</operation> et <operation temps=10.0min espace=9>faites cuire les <ingredient quantite=1>trofie</ingredient> environ 10 minutes</operation>. mélangez et <operation temps=6.86min espace=9>amalgamez les <ingredient quantite=1>trofie</ingredient> et la sauce</operation>. ajoutez la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=9>saupoudrez de parmesan</operation>. les <ingredient quantite=1>trofie</ingredient> sont des <ingredient quantite=1>pâtes</ingredient> typiques de genes.
+]]>
+ </preparation>
+</recette>

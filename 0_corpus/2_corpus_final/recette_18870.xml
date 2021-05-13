@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18870">
+ <titre>Côtes de porc à la crème et aux pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 côtelettes de porc maigre</p>
+ <p>1/3 de tasse d’ oignon haché</p>
+ <p>5 ml de mélange pour bouillon de boeuf</p>
+ <p>1 pincée de thym moulu</p>
+ <p>1/2 tasse de jus de pomme</p>
+ <p>6 tranches épaisses de pomme rouge</p>
+ <p>150 ml de crème à fouetter</p>
+ <p>sel et poivre</p>
+ <p>farine</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fariner les côtes de <ingredient quantite=4>porc</ingredient>, les secouer pour enlever l’ excédent de farine. dans une grand <recipient>poêle</recipient>, <operation temps=6.86min espace=16>faire fondre un peu de beurre à feu moyen-vif</operation>. y dorer les côtes de <ingredient quantite=4>porc</ingredient> sur les deux côtés ; le retirer de la <recipient>poêle</recipient> et réserver. dans la même <recipient>poêle</recipient>, cuire l’ <ingredient quantite=1>oignon</ingredient> jusqu’ à ce qu’ il soit tendre, ajouter du beurre au besoin. incorporer le <ingredient quantite=1>mélange pour bouillon de boeuf</ingredient> et le <ingredient quantite=1>thym</ingredient> ; ajouter le <ingredient quantite=1>jus de pomme</ingredient> et bien remuer. remettre la viande dans la <recipient>poêle</recipient>. porter à ébulliton à feu moyen-vif. réduire l’ intensité, <operation temps=0.25min espace=16>couvrir</operation> et <operation temps=50.0min espace=16>laisser mijoter 50 mn ou jusqu’ à ce que la viande soit tendre</operation>. 15 mn avant la fin de cuisson, disposer les <ingredient quantite=1>tranches de pomme</ingredient> sur la viande. retirer la viande et les <ingredient quantite=1>pommes</ingredient> de la <recipient>poêle</recipient>, garder au chaud. verser la <ingredient quantite=1>crème</ingredient> dans la <recipient>poêle</recipient>, bien remuer et porter à ébullition. cuire à feu moyen en remuant sans cesse jusqu’ à ce que la sauce ait la consistance désirée. saler et poivrer au goût. verser sur la viande et sur les <ingredient quantite=1>pommes</ingredient>. <operation temps=2.0min espace=16>servir chaud</operation>
+]]>
+ </preparation>
+</recette>

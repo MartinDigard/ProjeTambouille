@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41050">
+ <titre>Lard au roquefort</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 belles tranches de lard maigre non salé (ou poitrine) </p>
+ <p>1 gros oignon</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 bouquet de persil</p>
+ <p>1 beau brin de thym</p>
+ <p>2 feuilles de basilic</p>
+ <p>1 grosse tomate</p>
+ <p>20 cl de vin blanc</p>
+ <p>20 g de Roquefort (en portion) </p>
+ <p>poivre et sel</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire revenir l’ <ingredient quantite=4>oignon</ingredient></operation> coupé grossièrement et l’ <ingredient quantite=4>ail</ingredient> en fines <ingredient quantite=4>tranches</ingredient>. ecarter l’ <ingredient quantite=4>oignon</ingredient> et l’ <ingredient quantite=4>ail</ingredient> sur le tour de la <recipient>poêle</recipient> et faire dorer au centre les <ingredient quantite=4>tranches de lard</ingredient>. ajouter la <ingredient quantite=1>tomate</ingredient> coupée en morceaux et le verre de <ingredient quantite=1>vin blanc</ingredient>. ajouter le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=2>basilic</ingredient> et le <ingredient quantite=1>persil</ingredient> ciselé. poivrer et <ingredient quantite=1>saler</ingredient>. <operation temps=35.0min espace=12>laisser mijoter sur feu très doux 35 min à couvert</operation>. 10 min avant la fin de cuisson ajouter en petits morceaux le <ingredient quantite=1>roquefort</ingredient> et mélanger dans la sauce. servir bien chaud. accompagné de pommes de terre persillées ou simplement avec du pain. un <ingredient quantite=1>vin</ingredient> rouge de tous les jours
+]]>
+ </preparation>
+</recette>

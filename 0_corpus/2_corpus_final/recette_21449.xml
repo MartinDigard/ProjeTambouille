@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21449">
+ <titre>Pâté de poisson au crabe</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de filet de poisson frais</p>
+ <p>150 g de fromage blanc</p>
+ <p>1.5 cuillère à café de sel fin</p>
+ <p>1/4 cuillère à café de poivre</p>
+ <p>1 cuillère à café de fécule</p>
+ <p>2 oeufs</p>
+ <p>1 dl de lait</p>
+ <p>120 g de crabe (en bâtonnets) </p>
+ <p>7 cuillères à soupe de ciboulette hachée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>coupez le <ingredient quantite=1>poisson</ingredient> en morceaux</operation> et mixez - le avec le <ingredient quantite=1>fromage blanc</ingredient>, les épices la <ingredient quantite=1>fécule</ingredient> et les <ingredient quantite=2>oeufs</ingredient>. délayer le mélange avec le lait. puis quand le mélange est lisse, <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=7>ciboulette</ingredient></operation>. <operation temps=6.86min espace=10>versez la moitié de cette préparation dans un <recipient>moule</recipient> beurré</operation>. <operation temps=6.86min espace=10>ajoutez les bâtonnets de <ingredient quantite=1>crabe</ingredient> au dessus</operation>. puis <operation temps=6.86min espace=10>recouvrir du reste de farce</operation>. <operation temps=6.86min espace=10>lissez la surface du pâté</operation> et <operation temps=6.86min espace=10>recouvrez d’ une feuille d’ aluminium</operation>. <operation temps=6.86min espace=10>faites cuire le pâté une heure à 175 ° c (th 6 - 7</operation>). <operation temps=6.86min espace=10>démoulez une fois froid</operation>. vous pouvez le servir avec une sauce faite avec 4 dl de crème, 1 dl de vin <ingredient quantite=1>blanc</ingredient> sec, 1 càs de jus de citron et 1 pincée de safran (<operation temps=6.86min espace=10>mélangez tous les ingrédients</operation> et <operation temps=6.86min espace=10>cuisez quelques minutes</operation>).
+]]>
+ </preparation>
+</recette>

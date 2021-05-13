@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21797">
+ <titre>Crêpes farcies</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte à crêpes </p>
+ <p>300 g de farine: </p>
+ <p>3 oeufs</p>
+ <p>75 cl de lait</p>
+ <p>huile</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la garniture: </p>
+ <p>1 kg de champignons</p>
+ <p>300 g de jambon ou de dés de poulet rôti</p>
+ <p>béchamel</p>
+ <p>coulis de tomates</p>
+ <p>gruyère</p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>pâte</ingredient> à crêpes: mettre la farine dans un <recipient>plat</recipient> et y creuser une " cheminée " dans laquelle vous <operation temps=6.86min espace=17>ajoutez les jaunes d’</operation> <ingredient quantite=3>oeufs</ingredient> ;. ajouter le lait, l’ huile, le <ingredient quantite=1>sel</ingredient> et mélanger le tout au mixer. battre les blancs en neige (on peut aussi mettre les <ingredient quantite=3>oeufs</ingredient> en entier mais les crêpes sont moins légères) et les incorporer délicatement à <ingredient quantite=1>la pâte</ingredient>. préparer les crêpes. couper les <ingredient quantite=1>champignons</ingredient> en fines tranches. préparer une <ingredient quantite=1>béchamel</ingredient> avec du gruyère. incorporer les <ingredient quantite=1>champignons</ingredient> et le <ingredient quantite=1>jambon</ingredient> (ou le <ingredient quantite=1>poulet</ingredient>) en petits morceaux à la <ingredient quantite=1>béchamel</ingredient>. farcir les crêpes avec la <ingredient quantite=1>béchamel</ingredient> et rouler les crêpes. mettre le tout dans un <recipient>plat</recipient> à gratin. arroser de <ingredient quantite=1>coulis de tomates</ingredient> (salé et poivré bien entendu). <operation temps=6.86min espace=17>couvrir de gruyère et de</operation> <ingredient quantite=1>chapelure</ingredient> et passer au <recipient>gril</recipient> 5 min (si les crêpes ont été <operation temps=6.86min espace=17>faites à l’</operation> avance, d’ abord réchauffer + /- 20 min et ensuite au <recipient>gril</recipient> + /- 5 min) un cellier des dauphins (rose ou rouge)
+]]>
+ </preparation>
+</recette>

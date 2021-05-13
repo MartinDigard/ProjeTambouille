@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14670">
+ <titre>Migas (semoule revenue à la poêe) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 gousses d’ ail</p>
+ <p>8 chipolatas ou merguez</p>
+ <p>un bol de semoule grain moyen</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter à ébulition un <ingredient quantite=1>bol</ingredient> d’ eau (au micro onde), avec un peu de gros sel. pendant ce temps <operation temps=6.86min espace=4>faire revenir les saucisses</operation> et rajouter l’ <ingredient quantite=2>ail</ingredient> en fin de cuisson des saucisses. <operation temps=6.86min espace=4>remplir le <ingredient quantite=1>bol</ingredient></operation> bouillant de <ingredient quantite=1>semoule</ingredient>, en prenant comme repère un niveau légèrement en dessous de la surface de l’ eau. <operation temps=6.86min espace=4>laisser gonfler la <ingredient quantite=1>semoule</ingredient> 5 minutes, puis la</operation> jeter dans la <recipient>poêle</recipient> pour la <operation temps=7.0min espace=4>faire revenir</operation>. la cuisson est bonne lorsque la <ingredient quantite=1>semoule</ingredient> devient dorée.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28137">
+ <titre>Pommes de terre aux anchois en salade</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>12 filets d’ anchois à l’ huile</p>
+ <p>1 verre de vin blanc sec</p>
+ <p>4 échalotes</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe de ciboulette hachée</p>
+ <p>1 cuillère à soupe de thym</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre de Xeres</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient quantite=1>pommes de terre</ingredient> à l’ eau bouillante salée ou à la vapeur environ 30 min. faites bouillir le <ingredient quantite=1>vin blanc</ingredient> avec les <ingredient quantite=4>échalotes hachées</ingredient> et le <ingredient quantite=1>thym</ingredient> 10 min. <operation temps=3.0min espace=10>pelez</operation> et coupez les <ingredient quantite=1>pommes de terre</ingredient> en dés. <operation temps=6.86min espace=10>versez aussitôt le <ingredient quantite=1>vin</ingredient> chauffé</operation> et <operation temps=6.86min espace=10>mélangez délicatement</operation>. <operation temps=6.86min espace=10>préparez la vinoagrette avec l’ <ingredient quantite=2>ail</ingredient></operation> pressé, la <ingredient quantite=2>ciboulette</ingredient>, le <ingredient quantite=1>vinaigre</ingredient>, l’ huile, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. disposez les <ingredient quantite=1>filets</ingredient> d’ <ingredient quantite=1>anchois</ingredient> sur les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=6.86min espace=10>versez la sauce</operation> et <operation temps=2.0min espace=10>servez</operation>.
+]]>
+ </preparation>
+</recette>

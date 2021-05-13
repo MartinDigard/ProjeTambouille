@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55877">
+ <titre>Brownie de Tantine</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de chocolat noir (minimum 50% de cacao) </p>
+ <p>125 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>110 g de farine</p>
+ <p>110 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire fondre <ingredient quantite=1>beurre</ingredient> et <ingredient quantite=1>chocolat</ingredient> au <recipient>bain marie</recipient></operation>. pendant ce temps, mélanger les <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à <operation temps=6.86min espace=9>obtenir une crème claire</operation>. mélanger doucement les 2 appareils. ajouter la farine. beurrer et fariner le <recipient>plat</recipient>. verser la préparation dans un <recipient>plat</recipient> carré. mettre au <recipient>four</recipient> 30 à 40 minutes thermostat 6 (180 ° c). un énième brownie mais avec seulement 2 <ingredient quantite=2>oeufs</ingredient> et plus de <ingredient quantite=1>chocolat</ingredient>: pour les gourmands.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225436">
+ <titre>Escalope de dinde au miel et aux abricots</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de dinde</p>
+ <p>sel, poivre</p>
+ <p>1 cuillère à soupe de miel ferme</p>
+ <p>2 cuillères à soupe de pignons</p>
+ <p>20 g de beurre</p>
+ <p>Pour la sauce au miel: </p>
+ <p>2 cuillères à soupe de miel ferme</p>
+ <p>20 cl de bouillon de poule</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>8 abricots secs ou 4 abricots frais coupés en 2</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par <operation temps=6.86min espace=15>rôtir légèrement les <ingredient quantite=2>pignons</ingredient> dans une <recipient>poêle</recipient></operation>. les réserver. assaisonner les <ingredient quantite=4>tranches de dinde</ingredient> des 2 côtés avec <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. badigeonner un côté avec le <ingredient quantite=1>miel</ingredient>. fondre un peu de beurre dans la <recipient>poêle</recipient>. <operation temps=3.0min espace=15>rôtir la viande d’ abord du côté sans <ingredient quantite=1>miel</ingredient>, puis 2 - 3 minutes du côté avec le <ingredient quantite=1>miel</ingredient></operation>. <operation temps=6.86min espace=15>sortir de la <recipient>poêle</recipient></operation>, garder au chaud. absorber le gras avec un papier absorbant, et déglacer la <recipient>poêle</recipient> avec le <ingredient quantite=1>bouillon de poule</ingredient>. ajouter le <ingredient quantite=1>miel</ingredient> et la <ingredient quantite=1>sauce soja</ingredient>. <operation temps=6.86min espace=15>faire fondre, goûter</operation>. ajouter les <ingredient quantite=8>abricots</ingredient>, <operation temps=3.0min espace=15>laisser frémir 2 - 3 minutes</operation>. ajouter un peu de beurre à la <ingredient quantite=1>sauce</ingredient>, remuer. verser la <ingredient quantite=1>sauce</ingredient> sur la viande, <operation temps=6.86min espace=15>garnir de <ingredient quantite=2>pignons</ingredient> et des <ingredient quantite=8>abricots</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

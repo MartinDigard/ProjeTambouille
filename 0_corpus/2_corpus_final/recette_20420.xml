@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20420">
+ <titre>Noix de Saint Jacques</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 noix de Saint-Jacques préparées par votre poissonnier</p>
+ <p>1 noix de beurre salé</p>
+ <p>poivre</p>
+ <p>sel de Guérande</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire fondre la <ingredient quantite=8>noix de beurre</ingredient> dans une <recipient>poêle</recipient>. déposer les <ingredient quantite=8>noix</ingredient> et les <operation temps=25.0min espace=6>faire dorer</operation> légèrement sur chaque côté. <operation temps=6.86min espace=6>servir immédiatement avec une toute petite</operation> pincée de poivre et une de <ingredient quantite=1>sel de guérande</ingredient>. attention à ne pas <operation temps=6.86min espace=6>laisser les <ingredient quantite=8>noix</ingredient> trop</operation> longtemsp dans la <recipient>poêle</recipient>. et vous <operation temps=6.86min espace=6>découvrirez que c’ est parfois dans la simplicité que l’ on se</operation> régale le plus...
+]]>
+ </preparation>
+</recette>

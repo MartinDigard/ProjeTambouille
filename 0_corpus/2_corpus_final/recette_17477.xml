@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17477">
+ <titre>Paella rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de riz rond</p>
+ <p>4 ailes de poulet</p>
+ <p>4 pilons de poulet</p>
+ <p>250 g de mélange de fruits de mer décortiqués, surgelés (calamars, moules, crevettes, coques...) </p>
+ <p>2 gros oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 poivron rouge</p>
+ <p>Pour le mélange d’ épices à paella: </p>
+ <p>paprika</p>
+ <p>curry</p>
+ <p>safran</p>
+ <p>1 cuillère à soupe de concentré de tomate</p>
+ <p>bouillon cube</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>25 cl de vin blanc sec</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faites cuire le <ingredient quantite=1>riz</ingredient> dans de l’ eau bouillante</operation> additionnée d’ 1 <ingredient quantite=1>bouillon cube</ingredient> pendant 10 min environ, il doit être encore ferme quand vous <operation temps=6.86min espace=17>arrêtez la cuisson</operation>. <operation temps=6.86min espace=17>egouttez - le</operation> et <operation temps=0.5min espace=17>réservez</operation>. <operation temps=6.86min espace=17>faites cuire le <ingredient quantite=4>poulet</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> bien chaude, avec 1 des 2 <ingredient quantite=2>oignons</ingredient> en rondelles et l’ <ingredient quantite=4>ail</ingredient></operation> écrasé ; <operation temps=0.25min espace=17>salez</operation> et <operation temps=0.5min espace=17>poivrez</operation>. dans la <recipient>poêle</recipient> à <ingredient quantite=1>paella</ingredient>, <operation temps=6.86min espace=17>faites chauffer 1 <ingredient quantite=1>cuillère</ingredient> d’ <ingredient quantite=2>huile</ingredient> d’</operation> <ingredient quantite=2>olive</ingredient> et <operation temps=6.86min espace=17>faites revenir des lanières de <ingredient quantite=1>poivron</ingredient></operation>. ajoutez le 2ème <ingredient quantite=1>oignon</ingredient> en rondelles, les <ingredient quantite=1>fruits de mer</ingredient> égouttés, et <operation temps=6.86min espace=17>laissez revenir jusqu’ à ce que le tout soit bien réduit</operation>. rajoutez 2 <ingredient quantite=1>cuillères</ingredient> à café de <ingredient quantite=1>mélange</ingredient> d’ <ingredient quantite=1>épices à paella</ingredient> et le <ingredient quantite=4>poulet</ingredient>. versez le <ingredient quantite=1>vin blanc</ingredient>, et <operation temps=6.86min espace=17>faites cuire le tout à couvert et à feu doux jusqu’ à ce que le tout ait</operation> <operation temps=6.86min espace=17>pris une jolie couleur <ingredient quantite=1>rouge</ingredient> -</operation> orangé. <operation temps=6.86min espace=17>ajoutez le</operation> <ingredient quantite=1>riz</ingredient>, <operation temps=6.86min espace=17>mélangez bien,</operation> et <operation temps=6.86min espace=17>terminez la cuisson du <ingredient quantite=1>riz</ingredient> à couvert et à feu doux</operation>. vous pouvez retrouver toutes nos recettes sur www. minititou. com
+]]>
+ </preparation>
+</recette>

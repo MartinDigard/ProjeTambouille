@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22306">
+ <titre>Haricots charentais (mojettes piates charentais) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de haricots en grain</p>
+ <p>1 bouquet garnis</p>
+ <p>250 g coulis de tomates</p>
+ <p>200 g de lardons</p>
+ <p>200 g de jambon de Bayonne en dés</p>
+ <p>ail </p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecosser et mettre à cuire dans une <recipient>cocotte</recipient> en terre les <ingredient quantite=1>haricots</ingredient>. mettre un <ingredient quantite=1>bouquet garni</ingredient> et le même volume d’ eau. dans une <recipient>poêle</recipient> mettre le coulis de <ingredient quantite=1>tomate</ingredient> avec les <ingredient quantite=1>lardons</ingredient> et les dés de <ingredient quantite=1>jambon</ingredient> ainsi que l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> hachés et <operation temps=7.0min espace=9>faire revenir</operation>. quand les <ingredient quantite=1>haricots</ingredient> commencent à être cuits, <operation temps=6.86min espace=9>incorporez cette sauce à la cuisson des <ingredient quantite=1>haricots</ingredient></operation>. <operation temps=2.0min espace=9>servir chaud</operation>
+]]>
+ </preparation>
+</recette>

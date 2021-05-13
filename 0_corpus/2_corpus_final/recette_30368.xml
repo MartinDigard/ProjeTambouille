@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30368">
+ <titre>Pancakes rapides</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 yaourts natures ou aromatisés</p>
+ <p>2 oeufs</p>
+ <p>5 cuillères à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=2>yaourts</ingredient> et les <ingredient quantite=2>oeufs</ingredient>. ajouter la farine. bien mélanger. <operation temps=6.86min espace=4>faire cuire dans une <recipient>poêle</recipient> bien chaude, jusqu’ à ce que les pancakes soient</operation> dorés. rapide a <operation temps=6.86min espace=4>faire le dimanche matin, a</operation> deguster dans son lit!
+]]>
+ </preparation>
+</recette>

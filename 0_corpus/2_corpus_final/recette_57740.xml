@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57740">
+ <titre>Quiche savoyarde au boursin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>4 oeufs</p>
+ <p>5 pommes de terre de taille moyenne</p>
+ <p>6 tranches de bacon</p>
+ <p>1 boursin spécial cuisine échalote et ciboulette</p>
+ <p>50 g de gruyère râpé</p>
+ <p>40 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). disposer la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, la piquer et <operation temps=7.0min espace=10>faire précuire pendant 6 - 7 minutes</operation>. pendant ce temps mélanger les <ingredient quantite=4>oeufs</ingredient>, le gruyère et le lait. saler et poivrer. cuire les <ingredient quantite=5>pommes de terre</ingredient>, les éplucher et les découper en rondelles. <operation temps=6.86min espace=10>versez le mélange <ingredient quantite=4>oeufs</ingredient> - <ingredient quantite=1>gruyère</ingredient> - <ingredient quantite=1>lait</ingredient> sur la <ingredient quantite=1>pâte</ingredient></operation>. répartir les <ingredient quantite=5>pommes de terre</ingredient> et ensuite <operation temps=6.86min espace=10>recouvrir de</operation> <ingredient quantite=1>boursin</ingredient> et recouvrir des <ingredient quantite=6>tranches de bacon</ingredient>. mettre au <recipient>four</recipient> pendant 35 - 40 minutes. a accompagner d’ une salade verte tout simplement.
+]]>
+ </preparation>
+</recette>

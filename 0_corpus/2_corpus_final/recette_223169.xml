@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223169">
+ <titre>Escalope de poulet ou dinde, sauce ciboulette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poulet ou de dinde </p>
+ <p>1 belle tomate </p>
+ <p>1 échalote assez grosse</p>
+ <p>20 cl de vin blanc de cuisine</p>
+ <p>20 cl de crème fraiche à 3%</p>
+ <p>1 petite botte de ciboulette fraiche</p>
+ <p>huile d’ olive</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>émincez les <ingredient quantite=4>filets</ingredient> en lanières</operation> et <operation temps=6.86min espace=10>faites revenir celles-ci dans un peu d’ huile d’</operation> <ingredient quantite=1>olives</ingredient> ; <operation temps=0.25min espace=10>salez</operation> et <operation temps=6.86min espace=10>poivrez ;</operation> puis <operation temps=0.5min espace=10>réservez au chaud</operation>. pelez et <operation temps=6.86min espace=10>épépinez la</operation> <ingredient quantite=1>tomate</ingredient> et <operation temps=6.86min espace=10>coupez - la en <ingredient quantite=1>petits</ingredient> morceaux ; hachez l’ <ingredient quantite=1>échalote</ingredient></operation>. <operation temps=6.86min espace=10>faites les ensuite</operation> <operation temps=6.86min espace=10>revenir, avec un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>, dans la <recipient>poêle</recipient> qui a</operation> servi à la cuisson des viandes. ajoutez le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=10>laissez diminuer en fonction du volume de sauce que vous</operation> <operation temps=6.86min espace=10>désirez</operation>. <operation temps=1.0min espace=10>assaisonnez</operation> puis <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=1>ciboulette</ingredient> à volonté et la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=10>ajoutez la viande quelques instants</operation> puis <operation temps=2.0min espace=10>servez sans</operation> attendre, avec du riz de préférence. très agréable aussi avec des haricots verts frais.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21916">
+ <titre>Potage de champignons à la crème</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de champignons</p>
+ <p>1 citron</p>
+ <p>1 l de bouillon de volaille</p>
+ <p>85 g de beurre</p>
+ <p>85 g de farine</p>
+ <p>10 cl de crème</p>
+ <p>1 échalote</p>
+ <p>1 petit oignon</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le pied des <ingredient quantite=1>champignons</ingredient> puis les laver dans plusieurs bains d’ eau légèrement vinaigrée. les napper ensuite de jus de <ingredient quantite=1>citron</ingredient>, puis les hacher. peler et hacher l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> puis les mettre à cuire dans une <recipient>poêle</recipient> beurrée. incorporer ensuite les <ingredient quantite=1>champignons</ingredient>, saler, poivrer puis les <operation temps=6.86min espace=12>laisser cuire jusqu’ à évaporation complète du jus de cuisson</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=12>faire fondre le reste du beurre avec la farine</operation> et mouiller le tout de <ingredient quantite=1>bouillon</ingredient> froid. verser ensuite la crème sur les <ingredient quantite=1>champignons</ingredient> cuits, puis <operation temps=10.0min espace=12>laisser cuire encore 10 min environ</operation>. ajouter la <ingredient quantite=1>crème</ingredient> puis saupoudrer de <ingredient quantite=1>persil</ingredient> haché et servir bien chaud dans une soupière. vous pouvez également l’ agrémenter de morceaux de <ingredient quantite=1>volaille</ingredient> ou bien l’ utiliser comme base pour <operation temps=6.86min espace=12>faire une poule au pot</operation>.
+]]>
+ </preparation>
+</recette>

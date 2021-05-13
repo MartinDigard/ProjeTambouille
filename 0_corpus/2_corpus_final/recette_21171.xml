@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21171">
+ <titre>Salade de carottes, jambon et fromage</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de carottes</p>
+ <p>150 g de gouda</p>
+ <p>150 g de jambon cuit</p>
+ <p>Pour la sauce: </p>
+ <p>1 cuillère à soupe de vinaigre de vin</p>
+ <p>2 ou 3 cuillères à soupe d’ huile</p>
+ <p>1 échalote</p>
+ <p>persil et ciboulette hachée</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et peler les <ingredient quantite=1>carottes</ingredient> puis les plonger dans une <recipient>casserole</recipient> d’ eau bouillante salée. les <operation temps=30.0min espace=11>laisser <ingredient quantite=1>cuire</ingredient> environ 20 à 30 min</operation>. les égoutter, les essuyer, puis les détailler en rondelles. découper le <ingredient quantite=1>jambon</ingredient> et le <ingredient quantite=1>gouda</ingredient> en petits dés, puis hacher l’ <ingredient quantite=1>échalote</ingredient>, la <ingredient quantite=1>ciboulette</ingredient> et le <ingredient quantite=1>persil</ingredient>. dans un <recipient>saladier</recipient>, mélanger l’ <ingredient quantite=2>huile</ingredient>, le <ingredient quantite=1>vinaigre</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre, l’ <ingredient quantite=1>échalote</ingredient> et les herbes. incorporer les <ingredient quantite=1>carottes</ingredient>, les dés de <ingredient quantite=1>jambon</ingredient> et de fromage puis bien mélanger le tout. <operation temps=6.86min espace=11>servir la salade dans des assiettes</operation> et déguster tiède ou frais.
+]]>
+ </preparation>
+</recette>

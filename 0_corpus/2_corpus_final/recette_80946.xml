@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80946">
+ <titre>Flan mousseux</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>1/4 L de lait (25 cl) </p>
+ <p>1 paquet de sucre vanillé</p>
+ <p>80 g de sucre</p>
+ <p>6 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 120 ° c (thermostat 4). <operation temps=6.86min espace=9>faire une béchamel avec le beurre, la farine et le</operation> <ingredient quantite=1>lait</ingredient> (chauffer le <ingredient quantite=1>lait</ingredient> et le beurre puis ajouter la farine en mélangeant au fouet). retirer du feu. ajouter le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, les jaunes d’ <ingredient quantite=6>œufs</ingredient> et les blancs battus en neige ferme. mettre dans un <recipient><recipient>moule</recipient> à tarte</recipient> beurré et fariné. mettre au <recipient>four</recipient> environ 45 min à 1 h. après refroidissement <operation temps=6.86min espace=9>recouvrir de 2 bonnes cuillères de gelée</operation>. vin blanc sucré
+]]>
+ </preparation>
+</recette>

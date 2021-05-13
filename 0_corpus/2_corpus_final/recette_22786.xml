@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22786">
+ <titre>Nouilles sautées aux cinq parfums express</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 paquet de nouilles ramen (nouille asiatique en nid) </p>
+ <p>2 cuillères à café de 5 épices</p>
+ <p>250 g de julienne de légumes surgelée (courgette, carotte) </p>
+ <p>2 blancs de poulet, ou pour les soirs de fêtes, des gambas</p>
+ <p>un oignon frais</p>
+ <p>un peu d’ huile de sésame</p>
+ <p>2 cuillères à café de graines de sésame</p>
+ <p>sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient> d’ eau bouillante salée légèrement, plongez les <ingredient quantite=1>nouilles</ingredient>. <operation temps=6.86min espace=11>laissez cuire moins de 9</operation> mn. <operation temps=10.0min espace=11>egouttez</operation>. dans une <recipient>poêle</recipient>, faites revenir les <ingredient quantite=1>légumes</ingredient>, le <ingredient quantite=2>poulet</ingredient>, un <ingredient quantite=1>peu</ingredient> d’ <ingredient quantite=1>oignon frais</ingredient>. <operation temps=6.86min espace=11>saupoudrez de cinq</operation> parfums dès que les <ingredient quantite=1>légumes</ingredient> sont cuits. ajoutez l’ <ingredient quantite=1>huile de sésame</ingredient> et les <ingredient quantite=2>graines</ingredient>. <operation temps=6.86min espace=11>jetez les</operation> <ingredient quantite=1>nouilles</ingredient>, <operation temps=6.86min espace=11>montez le feu</operation> et <operation temps=6.86min espace=11>faites dorer légèrement</operation>. <operation temps=6.86min espace=11>servez très chaud</operation>, <operation temps=6.86min espace=11>arrosez d’ un touche de sauce <ingredient quantite=1>soja</ingredient>! attention! si vous</operation> <operation temps=6.86min espace=11>mettez de la sauce <ingredient quantite=1>soja</ingredient> de ne pas préalablement</operation> saler votre <recipient>plat</recipient>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64098">
+ <titre>Dos de cabillaud à la Thaï</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 dos de cabillaud</p>
+ <p>250 g de moules</p>
+ <p>15 cl de lait de coco</p>
+ <p>2 échalotes</p>
+ <p>12 feuilles de basilic</p>
+ <p>1/2 citron vert</p>
+ <p>1 piment rouge ou vert frais</p>
+ <p>25 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer les <ingredient quantite=1>moules</ingredient> les jeter dans une grande <recipient>casserole</recipient>. <operation temps=6.86min espace=11>couvrir et les</operation> <operation temps=5.0min espace=11>faire ouvrir à feu vif pendant 5 min environ</operation>. les décoquiller, en filtrer le jus (à conserver) et réserver. dans une <recipient>sauteuse</recipient>, faire dorer les <ingredient quantite=4>dos de cabillaud</ingredient> salés et poivrés et les <ingredient quantite=2>échalotes</ingredient> hachées dans le beurre pendant 5 min. ajouter le jus des <ingredient quantite=1>moules</ingredient> et les <ingredient quantite=1>moules</ingredient>, le lait de <ingredient quantite=1>coco</ingredient>, le jus du demi <ingredient quantite=1>citron</ingredient>, le <ingredient quantite=1>piment</ingredient> épépiné et émincé et la moitié des <ingredient quantite=1>feuilles de basilic</ingredient> coupées. <operation temps=5.0min espace=11>laisser mijoter 5 min</operation>. présenter le <ingredient quantite=4>cabillaud</ingredient> parsemé du reste des <ingredient quantite=1>feuilles de basilic</ingredient> et servir chaud, accompagné d’ un mélange de riz blanc et de riz sauvage. un chablis <ingredient quantite=1>frais</ingredient> ou un bourgogne
+]]>
+ </preparation>
+</recette>

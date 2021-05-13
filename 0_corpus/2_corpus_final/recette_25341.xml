@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25341">
+ <titre>Crêpes farcies et gratinées aux champignons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de champignons</p>
+ <p>200 g de gruyère râpé</p>
+ <p>200 g de farine</p>
+ <p>100 g de beurre</p>
+ <p>20 cl de lait</p>
+ <p>2 gros oignons</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 pincée de sel </p>
+ <p>sel et poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger au fouet la farine et le lait. lorsque le mélange est bien fluide, y délayer les <ingredient quantite=2>oeufs</ingredient>. ajouter l’ <ingredient quantite=1>huile</ingredient> et saler. <operation temps=6.86min espace=14>laisser reposer pendant 2 h</operation>. nettoyer les <ingredient quantite=1>champignons</ingredient> et peler les <ingredient quantite=2>oignons</ingredient>. les émincer et les <operation temps=6.86min espace=14>faire revenir dans une <recipient>casserole</recipient> à feu doux avec 50 g de <ingredient quantite=1>beurre</ingredient> fondu, pendant 7 min, en</operation> remuant sans cesse. incorporer la moitié du gruyère et assaisonner. préparer 8 crêpes fines. farcir les crêpes avec la préparation précédente et les rouler. les placer dans un <recipient>plat</recipient> à gratin beurrée et parsemer de <ingredient quantite=1>gruyère</ingredient>. <operation temps=6.86min espace=14>faire gratiner au <recipient>four</recipient> position grill pendant quelques minutes et servir</operation>.
+]]>
+ </preparation>
+</recette>

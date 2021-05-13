@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83562">
+ <titre>Soupe de Savoie</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 belles pomme de terre</p>
+ <p>1 barquette de lardons nature</p>
+ <p>1 oignon</p>
+ <p>40 g de beaufort râpé</p>
+ <p>Huile d’ olive</p>
+ <p>Sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter les <ingredient quantite=1>lardons</ingredient>, <operation temps=5.0min espace=6>laisser cuire 5 minutes</operation>. ajouter les <ingredient quantite=5>pommes de terre</ingredient> coupées en cube, saler légèrement. <operation temps=6.86min espace=6>laisser cuire 10 min,</operation> puis ajouter 1, 5 litre d’ eau. <operation temps=30.0min espace=6>laisser mijoter 30 min</operation>. mixer. ajouter le fromage. le <ingredient quantite=1>beaufort</ingredient> peut-être remplacé par un autre fromage. gamay de savoie
+]]>
+ </preparation>
+</recette>

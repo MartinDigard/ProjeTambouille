@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15603">
+ <titre>Gibelotte de lapin au calvados</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux</p>
+ <p>15 petits oignons grelots</p>
+ <p>200 g de lardons</p>
+ <p>250 g de champignons de Paris</p>
+ <p>3 à 4 carottes</p>
+ <p>30 cl de cidre brut (ou vin blanc) </p>
+ <p>5 cuillères à soupe de calvados</p>
+ <p>1 bouquet garni</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>pelez les <ingredient quantite=3>carottes</ingredient> et <ingredient quantite=1>coupez</ingredient> - les en dés</operation>. <operation temps=6.86min espace=11>faites chauffer l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>cocotte</recipient></operation> et <operation temps=6.86min espace=11>faites - y</operation> <operation temps=6.86min espace=11>blondir les <ingredient quantite=1>lardons</ingredient></operation> fumés, les <ingredient quantite=3>carottes</ingredient> et les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> de tous côtés. <operation temps=6.86min espace=11>arrosez avec le <ingredient quantite=5>calvados</ingredient> et flambez avec une allumette</operation>. lorsque les flammes sont éteintes, <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>, ajoutez le <ingredient quantite=1>bouquet garni</ingredient>, <operation temps=6.86min espace=11>arrosez avec une partie du <ingredient quantite=1>cidre</ingredient> (ou vin blanc)</operation>, <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=6.86min espace=11>laissez cuire à feu doux durant 45</operation> mn. ensuite, <operation temps=6.86min espace=11>rajoutez les <ingredient quantite=1>champignons</ingredient>, les</operation> <ingredient quantite=1>oignons</ingredient> et <operation temps=6.86min espace=11>laissez cuire encore 30</operation> mn. en cours de cuisson, <operation temps=6.86min espace=11>rajoutez le <ingredient quantite=1>cidre</ingredient> (ou vin blanc</operation>) restant au fur et à mesure que la sauce s’ évapore pour éviter que cela n’ attache. <operation temps=2.0min espace=11>servez</operation> chaud. en accompagnement, vous pouvez <operation temps=6.86min espace=11>servir des tagliatelles</operation>. côtes de blaye (blanc ou rouge)
+]]>
+ </preparation>
+</recette>

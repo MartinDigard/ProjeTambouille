@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37147">
+ <titre>Flan de chou-fleur léger</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou-fleur</p>
+ <p>3 oeufs</p>
+ <p>50 cl de lait écrémé</p>
+ <p>3 cuillères à soupe de maïzena</p>
+ <p>gruyère râpé (selon les goûts) </p>
+ <p>1 tranche épaisse de jambon (100 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire blanchir le <ingredient quantite=1>chou-fleur</ingredient> à l’ eau bouillante</operation>. battre les <ingredient quantite=3>oeufs</ingredient> en omelette avec le lait, du sel, du poivre, de la noix de muscade, du <ingredient quantite=1>gruyère râpé</ingredient> et la maïzena. ajouter les dés de <ingredient quantite=1>jambon</ingredient>. graisser un <recipient>plat</recipient> à gratin avec un peu d’ huile et placer le <ingredient quantite=1>chou-fleur</ingredient>. <operation temps=30.0min espace=9>recouvrir avec la préparation placer au <recipient>four</recipient> 20 à 30 min à 210 ° c (thermostat 7</operation>). je l’ ai fait aussi avec des lardons fumés revenus à la <recipient>poêle</recipient> en remplacement du <ingredient quantite=1>jambon</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84578">
+ <titre>Tarte épinards et potiron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pâte brisé maison ou non</p>
+ <p>300 g de potiron</p>
+ <p>200 g de thon</p>
+ <p>1 boîte moyenne d’ épinards en branches en conserve</p>
+ <p>1 tomate</p>
+ <p>1/2 cube de bouillon</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème liquide</p>
+ <p>Sel, poivre, cumin et paprika</p>
+ <p>Gruyère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher le <ingredient quantite=1>potiron</ingredient>, le couper en gros <ingredient quantite=1>cubes</ingredient>. faire cuire dans une <recipient>casserole</recipient> avec un fond d’ eau et le 1/2 <ingredient quantite=1>cube de bouillon</ingredient> pendant 20 minutes. égoutter les <ingredient quantite=1>épinards</ingredient>. dans une <recipient>terrine</recipient>, mélanger les <ingredient quantite=1>épinards</ingredient>, le <ingredient quantite=1>thon</ingredient> émietté et le <ingredient quantite=1>potiron</ingredient> jusqu’ à <operation temps=6.86min espace=13>obtenir un mélange bien homogène</operation>. ajouter la <ingredient quantite=1>tomate</ingredient> épluchée et découpée en dés avec son jus. verser les <ingredient quantite=3>oeufs</ingredient> battus en omelette et la <ingredient quantite=1>crème</ingredient>. enfin assaisonner. bien mélanger. étaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> et piquer le fond à la fourchette. verser le mélange sur la <ingredient quantite=1>pâte</ingredient>, parsemer de gruyère et enfourner pendant 20 minutes à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

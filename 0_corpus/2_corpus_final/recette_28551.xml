@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28551">
+ <titre>Sardines grillées à la tomate et au citron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de sardines </p>
+ <p>400 g de tomates </p>
+ <p>2 échalotes </p>
+ <p>2 gousses d’ ail </p>
+ <p>2 citrons</p>
+ <p>1 oignon</p>
+ <p>1 bouquet garni </p>
+ <p>huile </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=1>sardines</ingredient>, les assaisonner et les huiler. les mettre à griller sur un <recipient>barbecue</recipient>. <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>échalotes</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation> ciselés dans une <recipient>poêle</recipient> avec de l’ <ingredient quantite=1>huile</ingredient>, ajouter les <ingredient quantite=1>tomates</ingredient> mondées et coupées en morceaux et assaisonner. déposer le <ingredient quantite=1>bouquet garni</ingredient> et l’ <ingredient quantite=2>ail</ingredient> haché. <operation temps=6.86min espace=11>laisser mijoter quelques minutes</operation>. <operation temps=6.86min espace=11>servir les <ingredient quantite=1>sardines</ingredient> avec les <ingredient quantite=1>tomates</ingredient> et des rondelles de <ingredient quantite=1>citron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

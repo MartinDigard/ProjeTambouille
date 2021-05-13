@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42071">
+ <titre>Potée aux navets</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses pommes de terre</p>
+ <p>200 g de lard fumé</p>
+ <p>6 navets</p>
+ <p>lait</p>
+ <p>beurre</p>
+ <p>sel et poivre</p>
+ <p>noix de muscade</p>
+ <p>fromage râpé (type emmental) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=6>pommes de terre</ingredient>, et les couper en morceaux. eplucher les <ingredient quantite=6>navets</ingredient>, et les couper également en quartiers. <operation temps=6.86min espace=8>faire rissoler le <ingredient quantite=1>lard</ingredient></operation> coupé en morceaux, dans du beurre. déglacer avec un peu de lait. ajouter <ingredient quantite=6>pommes de terre</ingredient> et <ingredient quantite=6>navets</ingredient>. et <operation temps=6.86min espace=8>recouvrir aux 2/3 de lait</operation> (voilà pourquoi la quantité de lait n’ est pas indiquée). saler un peu et poivrer. ajouter un peu de <ingredient quantite=1>noix de muscade</ingredient>. la cuisson est terminée lorsque les <ingredient quantite=6>pommes de terre</ingredient> et les <ingredient quantite=6>navets</ingredient> sont cuits (donc, bien vérifier la cuisson). servir sur une assiette, et ajouter du <ingredient quantite=1>fromage râpé</ingredient> par dessus. c’ est une recette du papa de mon amoureux... vous pouvez manger la potée aux <ingredient quantite=6>navets</ingredient> avec des saucisses.
+]]>
+ </preparation>
+</recette>

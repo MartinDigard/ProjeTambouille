@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57000">
+ <titre>The Tiramisu orange-pain d’ épices</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de mascarpone</p>
+ <p>3 oeufs </p>
+ <p>80 g de sucre (+ 1 sachet sucre vanillée) </p>
+ <p>env 16 tranches de pain d’ épices (barre en tranches du commerce) </p>
+ <p>le jus de 2 oranges</p>
+ <p>1 ou 2 bouchons de cointreau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les jaunes d’ oeufs avec le <ingredient quantite=1>sucre</ingredient>. ajouter ensuite le <ingredient quantite=1>mascarpone</ingredient> et incorporer les blancs montés en neige très ferme. tremper une par une les <ingredient quantite=1>tranches de pain</ingredient> d’ épices dans le mélange: <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> / <ingredient quantite=1>cointreau</ingredient>, les disposer au fur et à mesure au fond d’ un <recipient>plat</recipient>. ensuite, ajouter une couche du mélange crème, de nouveau du <ingredient quantite=1>pain</ingredient> d’ <ingredient quantite=1>épices</ingredient> trempé et couche mélange crémeux. sur le dessus du <recipient>plat</recipient> pour décorer, émietter les croûtes de <ingredient quantite=1>pain</ingredient> d’ <ingredient quantite=1>épices</ingredient> que vous aurez enlevés au préalable. l’ idéal est de le <operation temps=6.86min espace=8>faire la veille</operation>!
+]]>
+ </preparation>
+</recette>

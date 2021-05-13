@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51241">
+ <titre>Foies de veau aux oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 belles tranches de foies de veau</p>
+ <p>3 oignons</p>
+ <p>1 filet d’ huile</p>
+ <p>15 cl de vinaigre balsamique</p>
+ <p>10 cl d’ eau</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, faire colorer avec un <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>huile</ingredient> les <ingredient quantite=4>tranches de foies de veau</ingredient>. les réserver sur une assiette. dans la même <recipient>poêle</recipient> faire suer les <ingredient quantite=3>oignons</ingredient> (préalablement coupés en rondelles) puis déglacer au <ingredient quantite=1>vinaigre balsamique</ingredient>. lorsque le <ingredient quantite=1>vinaigre</ingredient> bout, y incorporer l’ <ingredient quantite=1>eau</ingredient> et déposer les <ingredient quantite=4>foies de veau</ingredient> sur les <ingredient quantite=3>oignons</ingredient>. couvrir et <operation temps=10.0min espace=9>laisser sur feu très doux durant 10 min</operation>. pour ma part, je sert ce <recipient>plat</recipient> accompagné de pommes de terre cuite à la vapeur, cela fait un contraste doux / acide. vous pouvez également rajouter des herbes au moment de <operation temps=2.0min espace=9>servir</operation>.
+]]>
+ </preparation>
+</recette>

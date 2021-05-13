@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29018">
+ <titre>Pennes au crabe</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de penne</p>
+ <p>1 grosse boîte de crabe</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 cuillères à soupe de concentré de tomates</p>
+ <p>2 louches de fumet de poisson</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>10 cl d’ huile</p>
+ <p>Worcestershire sauce</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=9>faites chauffer l’</operation> <ingredient quantite=1>huile</ingredient>, <operation temps=6.86min espace=9>mettez - y les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> entières</operation>, <operation temps=0.5min espace=9>poivrez</operation> et <operation temps=6.86min espace=9>laissez blondir</operation>. <operation temps=6.86min espace=9>retirez l’</operation> <ingredient quantite=2>ail</ingredient>, <operation temps=6.86min espace=9>mettez le <ingredient quantite=1>crabe</ingredient> émietté</operation> et <operation temps=6.86min espace=9>laissez rissoler</operation>. mouillez avec l’ eau de la <ingredient quantite=1>boîte de crabe</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=9>délayez la sauce <ingredient quantite=1>tomate</ingredient> dans le</operation> <ingredient quantite=2>fumet</ingredient> et <operation temps=6.86min espace=9>rajoutez - la au</operation> <ingredient quantite=1>crabe</ingredient>, <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=20.0min espace=9>laissez mijoter ainsi 20 min</operation>. <operation temps=6.86min espace=9>faites cuire les pâtes " al dente</operation> ". rajoutez un peu de <ingredient quantite=1>worcestershire sauce</ingredient> dans la sauce au <ingredient quantite=1>crabe</ingredient>. <operation temps=6.86min espace=9>egouttez les pâtes</operation>, <operation temps=6.86min espace=9>versez la sauce dessus</operation> et <operation temps=2.0min espace=9>servez</operation>.
+]]>
+ </preparation>
+</recette>

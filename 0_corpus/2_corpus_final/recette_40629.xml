@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40629">
+ <titre>Flan à la citrouille</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kilo et demi de citrouille</p>
+ <p>140 g de farine</p>
+ <p>4 oeufs</p>
+ <p>150 g de sucre</p>
+ <p>01/2 litre de lait</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer la <recipient>four</recipient> à 200 ° c (thermostat 5 - 6). <operation temps=6.86min espace=10>faire cuire la</operation> <ingredient quantite=1>citrouille</ingredient>, coupée en dés, dans une grande <recipient>casserole</recipient> avec 1 verre d’ eau, jusqu’ à ce qu’ une fourchette puisse s’ enfoncer dedans. egoutter. pendant ce temps, mélanger dans un <recipient>plat</recipient> la farine, le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé, et un peu de <ingredient quantite=1>lait</ingredient>. passer la <ingredient quantite=1>citrouille</ingredient> au mixer, et la mélenger à la pâte. bien remuer, puis incorporer le reste de <ingredient quantite=1>lait</ingredient>. huiler un <recipient>plat</recipient>, puis verser la pâte dedans, et <operation temps=45.0min espace=10>faire cuire pendant 45 minutes à 200 ° c (thermostat 5 - 6</operation>). démouler froid!
+]]>
+ </preparation>
+</recette>

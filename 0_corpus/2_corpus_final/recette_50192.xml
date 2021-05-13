@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50192">
+ <titre>Poulet à la pastèque</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 quart de pastèque</p>
+ <p>4 blancs de poulet (ou dinde) </p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de 4 épices </p>
+ <p>1 cuillère à soupe d’ épices spécifiques pour la volaille</p>
+ <p>20 cl de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, mettre la <ingredient quantite=1>pastèque</ingredient> coupée en morceaux avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=6.86min espace=9>laisser fondre la <ingredient quantite=1>pastèque</ingredient> sur feu doux</operation>. couper le <ingredient quantite=4>poulet</ingredient> en morceaux et l’ ajouter dans la <recipient>cocotte</recipient>. saupoudrer d’ <ingredient quantite=1>épices</ingredient> et mélanger. couvrir et <operation temps=10.0min espace=9>laisser cuire pendant 10 minutes à feu doux</operation>. ajouter la <ingredient quantite=1>crème fraîche</ingredient> et poursuivre la cuisson 2 minutes. rectifier l’ assaisonnement avant de <operation temps=2.0min espace=9>servir</operation>. bon appétit!!!
+]]>
+ </preparation>
+</recette>

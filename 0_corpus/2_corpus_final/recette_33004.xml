@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33004">
+ <titre>Mille feuilles</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>500 g de pâte feuilletée</p>
+ <p>Pour la crème pâtissière: </p>
+ <p>1 oeuf</p>
+ <p>1/4 de litre de lait</p>
+ <p>50 g de sucre</p>
+ <p>35 g de farine</p>
+ <p>un sachet de sucre vanilléPour le glacage: </p>
+ <p>sucre glace</p>
+ <p>un carreau de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+abaisser la <ingredient quantite=1>pâte feuilletée</ingredient> sur environ 3 mm. la piquer à la fourchette pour qu’ elle ne gonfle pas puis la mettre au <recipient>four</recipient> sur 6, soit 180 ° c. pendant ce temps, préparer la <ingredient quantite=1>crème pâtissière</ingredient>: mettre le <ingredient quantite=1>lait</ingredient> à <operation temps=20.0min espace=14>bouillir</operation>. pendant ce temps, mélanger dans un <recipient>saladier</recipient> l’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé et la farine. lorsque le <ingredient quantite=1>lait</ingredient> est à ébullition, le verser immédiatement dans le <recipient>saladier</recipient>. remettre à cuire dans la <recipient>casserole</recipient> pendant quelques minutes afin que le liquide prenne la consistance d’ une <ingredient quantite=1>crème</ingredient>. lorsque la <ingredient quantite=1>pâte feuilletée</ingredient> est cuite, et même désséchée, la couper en trois parties égales. etaler la <ingredient quantite=1>crème pâtissière</ingredient> sur une première couche de <ingredient quantite=1>pâte</ingredient>, puis <operation temps=6.86min espace=14>faire de même avec une seconde</operation>. les assembler. attendre que le gâteau soit froid pour étaler au pinceau le <ingredient quantite=1>glacage</ingredient>, fait avec beaucoup de <ingredient quantite=1>sucre glace</ingredient> mélangé à un peu d’ eau. réaliser un dessin avec le reste du <ingredient quantite=1>glacage</ingredient>, mélangé à un <ingredient quantite=1>carreau de chocolat</ingredient> fondu. c’ est prêt!
+]]>
+ </preparation>
+</recette>

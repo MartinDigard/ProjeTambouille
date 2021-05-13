@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83984">
+ <titre>Pomme de terre aux oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosse pommes de terre</p>
+ <p>4 jaune d’ oeufs</p>
+ <p>Crème fraiche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez les <ingredient quantite=4>pommes de terre</ingredient> et les <operation temps=6.86min espace=4>faites - les cuire environs 1h jusqu’ à ce qu’ elles soient fondantes mais pas trop</operation>. a la fin de leur cuisson, <operation temps=6.86min espace=4>laissez - les refroidir, pour ensuite</operation> prendre la <ingredient quantite=4>pomme de terre</ingredient> en longueur et la creuser avec une petite cuillère. a l’ intérieur, mettez une noix de beurre dans chaque <ingredient quantite=4>pommes de terre</ingredient>, du sel, du poivre, un peu de gruyère râpé. rajoutez le <ingredient quantite=4>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et par dessus la <ingredient quantite=1>crème fraiche</ingredient>. mettre au <recipient>four</recipient> pendant 10 - 15 minutes. vous pouvez utiliser ce que vous avez enlevé de la <ingredient quantite=4>pomme de terre</ingredient> pour en <operation temps=6.86min espace=4>faire une purée</operation>.
+]]>
+ </preparation>
+</recette>

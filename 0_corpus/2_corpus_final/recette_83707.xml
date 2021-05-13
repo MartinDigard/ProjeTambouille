@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83707">
+ <titre>Fondant gourmand de Manon</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat noir à fondre</p>
+ <p>50 g de beurre salé</p>
+ <p>5 carambars (35 g) </p>
+ <p>3 oeufs</p>
+ <p>45 g de sucre en poudre</p>
+ <p>35 g de fécule de maïs, type Maïzena</p>
+ <p>1 cuillère à café de vanille liquide</p>
+ <p>30 g de pépites de chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <recipient>four</recipient> à préchauffer à 180 °, thermostat 6. mettre dans un récipient adapté le beurre <ingredient quantite=1>salé</ingredient>, le <ingredient quantite=1>chocolat à fondre</ingredient> et les cinq carambars. <operation temps=2.0min espace=13>faire <ingredient quantite=1>fondre</ingredient> 2 min au micro-ondes en position moyenne (500 watts</operation>). bien mélanger au fouet jusqu’ à ce que tout soit <ingredient quantite=1>fondu</ingredient> et que le mélange soit homogène. ajouter à l’ appareil la <ingredient quantite=1>vanille liquide</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>maïzena</ingredient> et les 3 jaunes d’ <ingredient quantite=3>oeufs</ingredient>. mélanger vivement. ajouter les <ingredient quantite=1>pépites de chocolat</ingredient>. monter les blancs en neige et les incorporer doucement à la préparation. verser le tout dans un <recipient>moule</recipient> pas trop grand, <ingredient quantite=1>type</ingredient> <recipient>moule</recipient> à cake ou <recipient>moule</recipient> en forme de coeur. mettre au <recipient>four</recipient> pendant 12 à 15 min. le centre du gâteau ne doit pas être cuit quand on le sort. le temps de cuisson dépend des goûts, <operation temps=6.86min espace=13>ajoutez quelques minutes si vous</operation> aimez le gâteau plus cuit. de même pour les carambars, vous pouvez en <operation temps=6.86min espace=13>faire varier le nombre</operation> mais <operation temps=6.86min espace=13>pensez alors à</operation> ajouter ou retrancher le poids correspondant de <ingredient quantite=1>sucre</ingredient> (1 carambar = 7 g)
+]]>
+ </preparation>
+</recette>

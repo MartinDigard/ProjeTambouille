@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56168">
+ <titre>Sablés super croustillants sans oeufs</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de beurre</p>
+ <p>100 g de sucre</p>
+ <p>250 g de farine</p>
+ <p>150 g de pépites de chocolat</p>
+ <p>60 g de noisettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le beurre en pommade et le <ingredient quantite=1>sucre</ingredient>. ajouter la farine, les <ingredient quantite=1>pépites de chocolat</ingredient> et les <ingredient quantite=1>noisettes</ingredient> concassées ou en poudre. une fois la pâte finie, former des boules et les applatir légèrement pour leur donner la forme d’ un cookie. enfourner et <operation temps=15.0min espace=6>laisser cuire 15 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=5.0min espace=6>laisser reposer les cookies 5 min avant de</operation> déguster.
+]]>
+ </preparation>
+</recette>

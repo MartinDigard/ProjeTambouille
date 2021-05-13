@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25550">
+ <titre>Épaule d’ agneau aux citrons et aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 épaule d’ agneau de 1, 5 kg coupée en morceaux</p>
+ <p>huile d’ olive</p>
+ <p>3 oignons coupés en fines lamelles</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 cuillère à café de gingembre</p>
+ <p>1 cuillère à café de cumin</p>
+ <p>1 bâton de cannelle</p>
+ <p>des pistils de safran</p>
+ <p>4 citrons confits au sel</p>
+ <p>30 olives vertes dénoyautées</p>
+ <p>1 litre de bouillon (ou eau) </p>
+ <p>3 courgettes</p>
+ <p>sel, poivre</p>
+ <p>coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=15>faire revenir l’ agneau dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=3>ail</ingredient> et tous les épices et le <ingredient quantite=4>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=15>faire revenir encore quelques minutes</operation>. ajouter le <ingredient quantite=1>bouillon</ingredient>. mettre les <ingredient quantite=4>citrons</ingredient> et les <ingredient quantite=1>olives</ingredient>. <operation temps=0.25min espace=15>couvrir</operation>. <operation temps=40.0min espace=15>faire cuire à feu doux pendant 40 mn</operation>. ajouter les <ingredient quantite=3>courgettes</ingredient> en rondelles. remettre à cuire 20 mn. saupoudrer de <ingredient quantite=1>coriandre</ingredient> ciselée et servir chaud. vin rouge charpenté
+]]>
+ </preparation>
+</recette>

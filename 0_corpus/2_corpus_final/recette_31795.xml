@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31795">
+ <titre>Miel de poires</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de poires</p>
+ <p>250 g de sucre</p>
+ <p>1 gousse de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>lavez les <ingredient quantite=1>poires</ingredient> et les</operation> râper avec la peau dans un <recipient>plat</recipient>, alterner avec le <ingredient quantite=1>sucre</ingredient> puis transvaser dans une <recipient>casserole</recipient> et <operation temps=6.86min espace=5>faire cuire 1 h à feu très doux avec la <ingredient quantite=1>vanille</ingredient></operation>. transvaser dans un pot. s’ utilise comme du miel dans les yaourts... (attention c’ est liquide) très bon également en accompagnement d’ un fromage (chèvre, bleu)
+]]>
+ </preparation>
+</recette>

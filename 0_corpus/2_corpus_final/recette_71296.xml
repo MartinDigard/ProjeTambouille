@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71296">
+ <titre>Poulet à l’ ajillo (ail et safran) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 morceaux de poulet (cuisses ou blancs) </p>
+ <p>4 gousses d’ ail (frais de préférence) </p>
+ <p>2 cuillères à soupe de poudre d’ amandes</p>
+ <p>2 cuillères à soupe d’ amandes émincées</p>
+ <p>1 pincée de safran</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> l’ <ingredient quantite=4>ail</ingredient></operation> écrasé un tout petit peu, puis rajouter le <ingredient quantite=4>poulet</ingredient>. saler et rajouter le <ingredient quantite=1>safran</ingredient> et la <ingredient quantite=2>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>. <operation temps=4.0min espace=7>faire rissoler 3/4 min</operation>. mettre 2 <ingredient quantite=2>cuillères à soupe</ingredient> d’ eau et <operation temps=30.0min espace=7>couvrir jusqu’ à la cuisson du <ingredient quantite=4>poulet</ingredient> (environ 20 - 30 min selon les morceaux</operation> <operation temps=6.86min espace=7>choisis</operation>). en dernier, verser dessus les <ingredient quantite=2>amandes</ingredient> émincées. cette recette espagnole peut se <operation temps=6.86min espace=7>faire avec du spigol et s’ accommode très bien avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

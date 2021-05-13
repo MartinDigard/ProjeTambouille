@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81162">
+ <titre>FILET MIGNON BRAISE A L’ OIGNON ET JUS DE VINAIGRE BALSAMIQUE</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de filet mignon de porc</p>
+ <p>150 g de lardons</p>
+ <p>3 oignons moyens</p>
+ <p>50 ml de vinaigre balsamique</p>
+ <p>10 cl de fond de veau</p>
+ <p>huile, sel, poivre, persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et émincer les <ingredient quantite=3>oignons</ingredient>. détailler le <ingredient quantite=1>filet mignon</ingredient> en tranches épaisses. les saler et poivrer avant de les <operation temps=6.86min espace=6>faire dorer à l’ huile et à feu</operation> soutenu. <operation temps=6.86min espace=6>faire dorer les <ingredient quantite=1>lardons</ingredient></operation>. <operation temps=6.86min espace=6>faire colorer légèrement les <ingredient quantite=3>oignons</ingredient></operation>. y ajouter le <ingredient quantite=1>vinaigre balsamique</ingredient> et le <ingredient quantite=1>fond de veau</ingredient>. remettre la viande et les <ingredient quantite=1>lardons</ingredient>, poivrer, <operation temps=0.25min espace=6>couvrir</operation> et <operation temps=15.0min espace=6>laisser mijoter 15 min</operation>. parsemer de <ingredient quantite=1>persil</ingredient> ciselé.
+]]>
+ </preparation>
+</recette>

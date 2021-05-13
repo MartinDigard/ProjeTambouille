@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15146">
+ <titre>Cake chèvre, noix et raisins secs</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>175 g de farine</p>
+ <p>3 oeufs</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>5 g (1/2 sachet) de levure alsacienne</p>
+ <p>100 g de comté râpé</p>
+ <p>150 g de fromage de chèvre (type Ste Maure) </p>
+ <p>1 petit verre de lait</p>
+ <p>70 g de cerneaux de noix</p>
+ <p>50 g de raisins secs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=15.0min espace=13>faire gonfler les <ingredient quantite=1>raisins</ingredient> 15 mn dans de l’ eau</operation> tiède. mélanger dans un <recipient>saladier</recipient>: <ingredient quantite=3>oeufs</ingredient>, <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>levure</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. incorporer <ingredient quantite=1>petit</ingredient> à <ingredient quantite=1>petit</ingredient> l’ <ingredient quantite=2>huile</ingredient> et le <ingredient quantite=1>lait</ingredient> chaud. ajouter le <ingredient quantite=1>fromage</ingredient> râpé et bien remuer. ajouter le <ingredient quantite=1>chèvre</ingredient> écrasé à la fourchette, les <ingredient quantite=1>noix</ingredient> concassées grossièrement et les <ingredient quantite=1>raisins</ingredient> égouttés. verser le tout dans un <recipient>moule</recipient> à cake beurré et enfourner à <recipient>four</recipient> préchauffé pour 40 mn (thermostat 6/180 ° c).
+]]>
+ </preparation>
+</recette>

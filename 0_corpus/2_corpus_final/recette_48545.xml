@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48545">
+ <titre>Saucisses à la Catalane</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 saucisses de Toulouse</p>
+ <p>1/2 tube de concentré de tomate</p>
+ <p>6/7 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faites revenir les <ingredient quantite=4>saucisses</ingredient> à feu moyen (sans matière grasse) jusqu’ à ce qu’ elles soient bien</operation> rôties (10 minutes maxi). réserver les <ingredient quantite=4>saucisses</ingredient>. <operation temps=5.0min espace=5>faites revenir les <ingredient quantite=1>gousses</ingredient> d’ <ingredient quantite=1>ail</ingredient> 5 minutes dans une cuillère à soupe d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajoutez le <ingredient quantite=1>concentré de tomate</ingredient> et un petit peu d’ eau, <operation temps=5.0min espace=5>mélangez</operation>. <operation temps=6.86min espace=5>rajoutez de l’ eau (les <ingredient quantite=4>saucisses</ingredient></operation> devront être quasiment recouvertes), <operation temps=5.0min espace=5>mélangez</operation> bien l’ eau avec le <ingredient quantite=1>concentré de tomates</ingredient>. <operation temps=6.86min espace=5>remettez les</operation> <ingredient quantite=4>saucisses</ingredient>, <operation temps=0.25min espace=5>couvrez</operation> et <operation temps=30.0min espace=5>laissez mijoter à feu doux environ 30 minutes (le temps de cuisson</operation> peut être allongé, les <ingredient quantite=4>saucisses</ingredient> n’ en seront que meilleures). déguster. recette de ma mamie appréciée par les petits et les plus grands à <operation temps=6.86min espace=5>servir avec des pâtes</operation>.
+]]>
+ </preparation>
+</recette>

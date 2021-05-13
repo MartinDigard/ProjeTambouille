@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73486">
+ <titre>Lasagnes courgettes lardons et chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 petites courgettes</p>
+ <p>200 g de lardons</p>
+ <p>2 crottins de chèvre</p>
+ <p>lasagnes</p>
+ <p>100 g de gruyère râpé</p>
+ <p>50 cl de lait</p>
+ <p>25 g de beurre</p>
+ <p>25 g de farine</p>
+ <p>sel, poivre</p>
+ <p>noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 °, thermostat 6. epluchez les <ingredient quantite=5>courgettes</ingredient> et <operation temps=6.86min espace=14>coupez - les en rondelles assez fines</operation>. <operation temps=6.86min espace=14>faites revenir les <ingredient quantite=1>lardons</ingredient> dans une <recipient>sauteuse</recipient></operation>. apres 5 min, <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=5>courgettes</ingredient></operation>. <operation temps=20.0min espace=14>laissez cuire 20 min</operation>. <operation temps=0.25min espace=14>salez</operation> et <operation temps=0.5min espace=14>poivrez</operation>. pendant ce temps, préparez la béchamel et assaisonnez - la avec la <ingredient quantite=1>noix de muscade</ingredient>. coupez les <ingredient quantite=2>crottins de chèvre</ingredient> en lamelles. quand tout est prêt, <operation temps=6.86min espace=14>disposez une couche de</operation> béchamel dans le fond du <recipient>plat</recipient>, puis <operation temps=6.86min espace=14>disposez les <ingredient quantite=1>lasagnes</ingredient></operation>. ensuite <operation temps=6.86min espace=14>étalez une couche de la préparation <ingredient quantite=5>courgettes</ingredient> /</operation> <ingredient quantite=1>lardons</ingredient> puis <operation temps=6.86min espace=14>disposez quelques lamelles de <ingredient quantite=2>chèvre</ingredient></operation>. enfin <operation temps=6.86min espace=14>recouvrir d’ une couche de</operation> béchamel puis de <ingredient quantite=1>lasagnes</ingredient> et ainsi de suite. finissez par une couche de <ingredient quantite=1>lasagnes</ingredient> recouverte de béchamel et parsemez de <ingredient quantite=1>gruyère râpé</ingredient> dessus. mettre au <recipient>four</recipient> pendant 20 à 25 min.
+]]>
+ </preparation>
+</recette>

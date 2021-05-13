@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17908">
+ <titre>Tiramisu à l’ amaretti</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 jaunes d’ oeuf</p>
+ <p>1 cuillère soupe de sucre</p>
+ <p>300 g de Mascarpone</p>
+ <p>100 g d’ Amaretti</p>
+ <p>20 cl de café fort</p>
+ <p>1 petit verre apéritif de Brandy</p>
+ <p>150 g de biscuits à la cuillère moyens</p>
+ <p>cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeuf</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, ajouter le <ingredient quantite=1>mascarpone</ingredient> et les <ingredient quantite=1>amaretti</ingredient> concassés puis diviser la préparation en 2 parties. dans une partie, mélanger environ 1/2 <ingredient quantite=1>verre</ingredient> de café froid et dans l’ autre le <ingredient quantite=1>brandy</ingredient>. tremper rapidement les biscuits à <ingredient quantite=1>la cuillère</ingredient> dans le café. dans un <recipient>plat</recipient> rectangulaire, dresser une première couche de biscuits à <ingredient quantite=1>la cuillère</ingredient>, <operation temps=6.86min espace=12>recouvrir de</operation> crème au café ; dresser une autre couche, <operation temps=6.86min espace=12>recouvrir de</operation> crème au <ingredient quantite=1>brandy</ingredient>. mettre au <recipient>congélateur</recipient> 3 heures au moins. déplacer au <recipient>réfrigérateur</recipient> environ 1 heure avant de <operation temps=2.0min espace=12>servir</operation> et saupoudrer de <ingredient quantite=1>cacao</ingredient> à l’ aide d’ une <recipient>passoire</recipient>.
+]]>
+ </preparation>
+</recette>

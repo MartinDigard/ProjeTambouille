@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171210">
+ <titre>Duo de tagliatelles aux crevettes grises</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 paquet de tagliatelles (fraîches ou non) </p>
+ <p>3 à 4 carottes (selon la taille) </p>
+ <p>1 poignée de crevettes grises</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>1 tranche de saumon fumé (facultatif, pour les gourmands!) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=4.0min espace=6>faites cuire les pâtes dans de l’ eau durant 3 à 4 min</operation>. pendant ce temps, épluchez les <ingredient quantite=3>carottes</ingredient> et <operation temps=6.86min espace=6>faites -en des <ingredient quantite=1>tagliatelles</ingredient> avec l’</operation> épluche légumes. <operation temps=6.86min espace=6>faites les</operation> <operation temps=6.86min espace=6>bouillir jusqu’ à ce qu’ elles soient tendres</operation>. après la cuisson des pâtes, ajoutez la <ingredient quantite=1>crème</ingredient> et une <ingredient quantite=1>cuillère</ingredient> a <ingredient quantite=1>soupe de sauce soja</ingredient>. <operation temps=1.0min espace=6>assaisonnez</operation> et introduisez les <ingredient quantite=3>carottes</ingredient>, les <ingredient quantite=1>crevettes</ingredient> et le <ingredient quantite=1>saumon fumé</ingredient> coupé en fines lamelles. bon appétit!
+]]>
+ </preparation>
+</recette>

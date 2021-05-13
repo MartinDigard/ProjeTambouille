@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52123">
+ <titre>Gâteau au jambon de ma maman</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 cuillères à soupe bien remplies de farine</p>
+ <p>1 grosse tranche de jambon</p>
+ <p>125 g de beurre fondu</p>
+ <p>3 oeufs</p>
+ <p>100 g de gruyère râpé</p>
+ <p>2 cuillères à soupe de moutarde</p>
+ <p>1 ou 2 tomates</p>
+ <p>1 sachet de levure</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, mettre les <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>persil</ingredient>, la <ingredient quantite=2>moutarde</ingredient>, le beurre <ingredient quantite=1>fondu</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre ; mélanger. dans un <recipient>saladier</recipient>, mettre la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>gruyère</ingredient>. verser le bol dans le <recipient>saladier</recipient>. couper le <ingredient quantite=1>jambon</ingredient> en dés, les <ingredient quantite=1>tomates</ingredient> en cubes et les mettre dans le <recipient>saladier</recipient>, puis mélanger le tout. verser la pâte dans un <recipient>moule</recipient> à cake préalablement beurré. <operation temps=45.0min espace=15>faire cuire 45 min au <recipient>four</recipient>, à 180 ° c (thermostat 6</operation>). peut se manger chaud ou froid.
+]]>
+ </preparation>
+</recette>

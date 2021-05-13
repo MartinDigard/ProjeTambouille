@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15259">
+ <titre>Gâteau au chocolat blanc au micro-ondes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g chocolat blanc</p>
+ <p>125 g de beurre</p>
+ <p>200 g de sucre fin</p>
+ <p>6 oeufs</p>
+ <p>200 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le chocolat et le beurre dans un <recipient>plat</recipient> (pour micro-ondes) d’ une contenance de 3 litres au minimum. <operation temps=0.25min espace=7>couvrir</operation> et mettre au micro-ondes pendant 2 mn à puissance maximale. ajouter le <ingredient quantite=1>sucre</ingredient>, puis <ingredient quantite=1>oeuf</ingredient> (1 à 1), la farine et la <ingredient quantite=1>levure</ingredient>. cuire au micro-ondes (sans <operation temps=8.0min espace=7>couvrir) pendant 8 mn à puissance maximale</operation>.
+]]>
+ </preparation>
+</recette>

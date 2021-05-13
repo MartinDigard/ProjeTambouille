@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30792">
+ <titre>Lapin aux câpres et aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>un petit pot de câpres au vinaigre</p>
+ <p>un pot d’ olives vertes</p>
+ <p>une branche de thym</p>
+ <p>un oignon</p>
+ <p>un peu d’ ail</p>
+ <p>de la farine</p>
+ <p>2 verres à moutarde de vinaigre de vin</p>
+ <p>3 verres d’ eau</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fariner chaque morceau de <ingredient quantite=1>lapin</ingredient>. les <operation temps=6.86min espace=12>faire revenir dans l’ huile d’ <ingredient quantite=1>olive</ingredient> sans trop les</operation> <operation temps=6.86min espace=12>faire brunir</operation>. remettre tous les morceaux dans la <recipient>cocotte</recipient>. ajouter l’ <ingredient quantite=1>oignon</ingredient> haché, l’ <ingredient quantite=1>ail</ingredient>, saler et poivrer. <operation temps=6.86min espace=12>faire blondir</operation>. déglacer avec un <ingredient quantite=1>verre de vinaigre</ingredient>. ajouter l’ <ingredient quantite=3>eau</ingredient>, le reste de <ingredient quantite=1>vinaigre</ingredient>, les <ingredient quantite=1>câpres</ingredient> et les <ingredient quantite=1>olives</ingredient>, le <ingredient quantite=1>thym</ingredient>. <operation temps=6.86min espace=12>laisser mijoter 1 heure</operation>. servir avec des pâtes fraîches.
+]]>
+ </preparation>
+</recette>

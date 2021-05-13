@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43015">
+ <titre>Gâteau roulé au Nuttela</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>100 g de sucre</p>
+ <p>15 g de margarine</p>
+ <p>4 œufs</p>
+ <p>1 pot de Nutella (moyen) </p>
+ <p>sel (une pincée) </p>
+ <p>1 torchon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+séparer les blancs des jaunes. monter les blancs en neige. réserver. ajouter le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient>, aux jaunes d’ oeufs (mélange 1). incorporer la farine au mélange, puis les blancs. allumer le <recipient>four</recipient> à thermostat 4 (120 ° c). déposer une feuille de papier cuisson sur la plaque, et beurrer le papier. étaler la pâte de façon régulière. <operation temps=6.86min espace=8>laisser cuire pendant 15 min, en</operation> surveillant la cuisson (la pâte de doit pas coller au couteau, mais ne doit pas être trop dure!), la pâte doit rester molle!! attention, c’ est là que ça se corse: <operation temps=6.86min espace=8>faire glisser la pâte dans le <ingredient quantite=1>torchon</ingredient> humide</operation> et sucré. rouler, et attendre quelques secondes. dérouler progressivement, étaler le <ingredient quantite=1>nutella</ingredient>, et enrouler. étaler un peu de <ingredient quantite=1>nutella</ingredient> sur le dessus du gâteau, et mettre au frigo. c’ est prêt, bon appétit! l’ étape la plus dure, est le moment où il faut <operation temps=6.86min espace=8>garnir</operation> et enroulé le gâteau.
+]]>
+ </preparation>
+</recette>

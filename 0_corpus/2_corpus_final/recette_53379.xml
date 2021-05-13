@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53379">
+ <titre>Omelette aux pâtes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>200 g de pâtes cuites (coquillettes, spaghetti...) </p>
+ <p>lardons</p>
+ <p>1 oignon</p>
+ <p>1/2 cuillère à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=8>faites dorer les <ingredient quantite=1>lardons</ingredient></operation>. pendant qu’ ils bronzent, émincez l’ <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=8>battez les <ingredient quantite=4>oeufs</ingredient></operation>. quand les <ingredient quantite=1>lardons</ingredient> sont dorés, nettoyez grossièrement votre <recipient>poêle</recipient>, ajoutez l’ <ingredient quantite=1>huile</ingredient> et <operation temps=6.86min espace=8>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation>. quand l’ <ingredient quantite=1>oignon</ingredient> est légèrement coloré, vous pouvez alors rajouter vos <ingredient quantite=1>pâtes</ingredient>, les <ingredient quantite=1>lardons</ingredient>. <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation>, <operation temps=6.86min espace=8>mélangez délicatement</operation> et <operation temps=6.86min espace=8>laissez les arômes s’</operation> échanger entre les aliments, puis <operation temps=6.86min espace=8>versez l’ <ingredient quantite=1>oeuf</ingredient> battu en omelette</operation>. <operation temps=6.86min espace=8>patientez quelques minutes,</operation> et <operation temps=5.0min espace=8>dégustez</operation>. a déguster chaud, en accompagnement d’ une salade verte... en plus d’ être très facile à adapter aux goûts et restes du " frigo " (jambon cru, fromage, ail...), c’ est un <recipient>plat</recipient> simple, rapide, et qui ravi les appetits des petits comme des grands! un saint saturnin, simple et fruité.
+]]>
+ </preparation>
+</recette>

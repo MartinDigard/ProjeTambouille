@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62582">
+ <titre>Bricks à la viande hachée</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de viande hachée</p>
+ <p>10 portions de fromage fondu</p>
+ <p>10 oeufs</p>
+ <p>sel et poivre</p>
+ <p>1 paquet de feuilles de bricks (attention bien choisir ses feuilles au préalable, évitez les feuilles trop fines) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, faire cuire la <ingredient quantite=1>viande hachée</ingredient> en la saupoudrant de <ingredient quantite=1>sel</ingredient> et de poivre. la retirer de la cuisson. prendre la <ingredient quantite=1>feuille</ingredient> de brick, y découper 1 <ingredient quantite=1>portion de fromage fondu</ingredient> en plusieurs morceaux, y ajoutez 1 cuillère à soupe de <ingredient quantite=1>viande hachée</ingredient> puis 1 <ingredient quantite=1>oeuf</ingredient>. replier la <ingredient quantite=1>feuille</ingredient> de brick en ramenant les bords pour <operation temps=6.86min espace=7>obtenir un carré</operation>. mettre immédiatement à cuire dans une <recipient>poêle</recipient> avec au minimum 3 cm d’ huile (l’ huile doit être chaude). <operation temps=6.86min espace=7>faire dorer de chaque côté</operation>.
+]]>
+ </preparation>
+</recette>

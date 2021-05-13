@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24661">
+ <titre>Nems de poires au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 poires</p>
+ <p>40 g de beurre</p>
+ <p>2 cuillères à soupe de sirop de sucre de canne</p>
+ <p>1 tablette de chocolat à pâtisserie</p>
+ <p>4 feuilles de brick</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>poires</ingredient> en petits morceaux, les <operation temps=6.86min espace=7>faire revenir dans le beurre préalablement</operation> fondu et le <ingredient quantite=2>sirop de sucre de canne</ingredient>. une fois chaudes, <operation temps=6.86min espace=7>faire égoutter les <ingredient quantite=2>poires</ingredient> dans une <recipient>passoire</recipient></operation>. <operation temps=6.86min espace=7>faire fondre le <ingredient quantite=1>chocolat</ingredient> et y</operation> ajouter les <ingredient quantite=2>poires</ingredient>. etaler les <ingredient quantite=4>feuilles de brick</ingredient> et <operation temps=6.86min espace=7>répartir le mélange <ingredient quantite=1>poire</ingredient> /chocolat</operation>. rouler les <ingredient quantite=4>feuilles</ingredient>, puis rabattre les bords. <operation temps=6.86min espace=7>faire frire à la <recipient>poêle</recipient> dans de l’ huile chaude</operation>, égoutter. servir tiède ou froid.
+]]>
+ </preparation>
+</recette>

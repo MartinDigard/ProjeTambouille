@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228147">
+ <titre>Yaourt au cassis et à la pomme</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 yaourts</p>
+ <p>1 pomme</p>
+ <p>4 petits beurres</p>
+ <p>glace au cassis (on peut mettre un autre parfum de glace ou sorbet) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>mélangez les <ingredient quantite=4>yaourts</ingredient> et la</operation> <ingredient quantite=1>glace</ingredient> (mettre la dose que vous souhaitez pour la <ingredient quantite=1>glace</ingredient> suivant le goût plus ou moins important que vous souhaitez). <operation temps=6.86min espace=5>versez dans 4 verres</operation>. <operation temps=6.86min espace=5>passez les <ingredient quantite=4>petits</ingredient> morceaux de <ingredient quantite=1>pommes</ingredient> dans une <recipient>poêle</recipient></operation>. émietter les <ingredient quantite=4>petits beurres</ingredient> et les mettre sur le <ingredient quantite=1>yaourt</ingredient> - <ingredient quantite=1>glace</ingredient>. mettre les morceaux de <ingredient quantite=1>pomme</ingredient> par - dessus et remettre des biscuits dessus. mettre au frigo jusqu’ au moment de <operation temps=2.0min espace=5>servir</operation>.
+]]>
+ </preparation>
+</recette>

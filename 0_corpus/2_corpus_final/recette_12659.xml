@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12659">
+ <titre>Glace aux fruits confits</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de fruits confits</p>
+ <p>150 g d’ amandes</p>
+ <p>75 g de pistaches</p>
+ <p>100 g de miel</p>
+ <p>3 oeufs</p>
+ <p>120 g de sucre</p>
+ <p>40 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=1>fruits confits</ingredient>. <operation temps=6.86min espace=9>faites dorer les <ingredient quantite=1>amandes</ingredient> et les <ingredient quantite=1>pistaches</ingredient> sur feu doux,</operation> puis <operation temps=6.86min espace=9>ajoutez 50 g de <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=5.0min espace=9>mélangez</operation> jusqu’ à ce que les <ingredient quantite=1>fruits</ingredient> sec caramélisent. <operation temps=6.86min espace=9>laissez refroidir et hachez la préparation</operation>. battez les blancs en neige, puis <operation temps=6.86min espace=9>ajoutez - y doucement le <ingredient quantite=1>miel</ingredient> chaud sans</operation> cesser de remuer. <operation temps=6.86min espace=9>battez les jaunes avec le reste de <ingredient quantite=1>sucre</ingredient></operation>. ajoutez la <ingredient quantite=1>crème</ingredient> fraîche fouettée, les <ingredient quantite=1>fruits confits</ingredient>, les <ingredient quantite=1>fruits</ingredient> caramélisés et les blancs en neige délicatement. versez dans un <recipient>plat</recipient> pouvant aller au <recipient>congélateur</recipient> et <operation temps=6.86min espace=9>laissez durcir au minimum 3 heures</operation>.
+]]>
+ </preparation>
+</recette>

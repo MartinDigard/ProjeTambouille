@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94769">
+ <titre>Délice de champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500g de Champignons de Paris</p>
+ <p>1 tomate</p>
+ <p>10g de Parmesan</p>
+ <p>1 c. à soupe d’ huile d’ olive ou de noix</p>
+ <p>2 gousses d’ ail</p>
+ <p>un peu de basilic</p>
+ <p>2 c. à soupe de crème fraiche</p>
+ <p>sel, poivre</p>
+ <p>1 noix de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=11>coupez les <ingredient quantite=1>champignons</ingredient> et la <ingredient quantite=1>tomate</ingredient></operation>. - les mettre dans un <recipient>saladier</recipient> en ajoutant la <ingredient quantite=2>crème fraiche</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, le <ingredient quantite=1>basilic</ingredient> et le <ingredient quantite=1>parmesan</ingredient>. - couper en petits morceaux l’ <ingredient quantite=2>ail</ingredient> puis le rajouter au <recipient>saladier</recipient> et mélanger le tout. - <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation> et mélanger à nouveau. - réserver à température ambiante pendant au moins 15min. - dans une poëlle, <operation temps=6.86min espace=11>faire fondre le</operation> <ingredient quantite=1>beurre</ingredient> puis ajouter la préparation. - <operation temps=6.86min espace=11>servez une fois la préparation cuite et prête, à</operation> déguster immédiatement.
+]]>
+ </preparation>
+</recette>

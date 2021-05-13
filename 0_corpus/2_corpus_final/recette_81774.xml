@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81774">
+ <titre>Courgettes au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 courgettes moyennes</p>
+ <p>3 tomates</p>
+ <p>1 oignon </p>
+ <p>1 gousse d’ ail écrasée en pulpe </p>
+ <p>1 cuillerée à café de curry</p>
+ <p>thym</p>
+ <p>huile d’ olive </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites revenir les <ingredient quantite=1>oignons</ingredient> dans une <recipient>poêle</recipient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. pendant ce temps, <operation temps=6.86min espace=11>lavez</operation> et <operation temps=6.86min espace=11>coupez les <ingredient quantite=2>courgettes</ingredient> en rondelles assez fines,</operation> et <operation temps=6.86min espace=11>faites - le</operation> <operation temps=5.0min espace=11>revenir environ 5 min</operation>. <operation temps=6.86min espace=11>détaillez les <ingredient quantite=3>tomates</ingredient> en petit dés</operation>. lorsque les <ingredient quantite=1>oignons</ingredient> commencent à <operation temps=6.86min espace=11>blondir</operation>, <operation temps=6.86min espace=11>mettez le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>curry</ingredient></operation>. dès que ça commence à accrocher le fond de la <recipient>poêle</recipient>, <operation temps=6.86min espace=11>mettez la <ingredient quantite=1>pulpe</ingredient> d’ <ingredient quantite=1>ail</ingredient> et la <ingredient quantite=1>tomate</ingredient></operation> concassée. <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=5.0min espace=11>laissez réduire 5 min</operation>. <operation temps=6.86min espace=11>mettez les</operation> <ingredient quantite=2>courgettes</ingredient> et <operation temps=0.25min espace=11>couvrir</operation>. <operation temps=6.86min espace=11>mélangez régulièrement pour ne pas</operation> accrocher les <ingredient quantite=2>courgettes</ingredient>. dès que les <ingredient quantite=2>courgettes</ingredient> deviennent transparentes, <operation temps=6.86min espace=11>mettez <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient></operation>. moi personnellement, j’ adore les <ingredient quantite=2>courgettes</ingredient> et cela ne me dérange pas de manger que ça avec du riz blanc. mais sinon des fois je rajoute une escalope de dinde ou de poulet que je <recipient>poêle</recipient> à part. on peut <operation temps=6.86min espace=11>servir aussi avec du poisson à la vapeur genre merlu</operation>.
+]]>
+ </preparation>
+</recette>

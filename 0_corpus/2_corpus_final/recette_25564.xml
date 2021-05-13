@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25564">
+ <titre>Fenouil aux raisins secs et aux épices</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 bulbes de fenouil</p>
+ <p>12 petits oignons blancs</p>
+ <p>1 cuillère à café de graines de coriandre</p>
+ <p>1 cuillère à café de graines de cumin</p>
+ <p>1 bouquet garni</p>
+ <p>70 g de concentré de tomates</p>
+ <p>75 cl de vin blanc sec</p>
+ <p>100 g de raisins secs</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez les <ingredient quantite=4>bulbes de fenouil</ingredient> en 4 et <operation temps=6.86min espace=10>faites - les</operation> revenir dans l’ <ingredient quantite=4>huile</ingredient> avec les <ingredient quantite=1>oignons</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=6.86min espace=10>poivrez et saupoudrez des épices</operation>. <operation temps=6.86min espace=10>ajoutez le concentré de</operation> <ingredient quantite=1>tomates</ingredient> et couvrez de <ingredient quantite=1>vin blanc</ingredient> à hauteur. <operation temps=45.0min espace=10>laissez mijoter 45 minutes à couvert</operation>. rectifiez l’ assaisonnement si besoin et ajoutez les <ingredient quantite=1>raisins secs</ingredient>. <operation temps=10.0min espace=10>poursuivez la cuisson 10 minutes</operation>. si la sauce est trop liquide, <operation temps=6.86min espace=10>découvrez la <recipient>casserole</recipient> pour la</operation> <operation temps=6.86min espace=10>faire réduire</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12698">
+ <titre>Médaillons au crabe</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de chair cuite de crabe</p>
+ <p>1/3 l de lait</p>
+ <p>6 oeufs</p>
+ <p>2 cuillères à soupe de cerfeuil émincé</p>
+ <p>sel et poivre</p>
+ <p>30 cl de bisque de homard</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+bien émietter la <ingredient quantite=1>chair du crabe</ingredient>. battre les <ingredient quantite=6>oeufs</ingredient> entiers en omelette avec le lait, saler et poivrer. ajouter le <ingredient quantite=1>crabe</ingredient> et le <ingredient quantite=2>cerfeuil</ingredient>. <operation temps=6.86min espace=10>répartir le mélange dans 6 ramequins</operation>. <operation temps=25.0min espace=10>faire cuire au <recipient>bain - marie</recipient> pendant 25 mn à <recipient>four</recipient> moyen, thermostat 6</operation>. par ailleur, faire chauffer doucement la <ingredient quantite=1>bisque de homard</ingredient>, en remuant sans cesse. incorporer la <ingredient quantite=3>crème fraîche</ingredient>. bien surveiller et respecter la cuisson des ramequins au <recipient>bain - marie</recipient>, sinon les médaillons risquent de trop cuire et d’ être fermes. les médaillons doivent être <operation temps=6.86min espace=10>servis moelleux</operation>. vin blanc léger
+]]>
+ </preparation>
+</recette>

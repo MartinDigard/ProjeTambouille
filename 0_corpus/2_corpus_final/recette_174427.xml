@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174427">
+ <titre>Parmentier de porc à la patate douce</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 palette de porc demi-sel d’ environ 700 g (500 g sans l’ os) </p>
+ <p>6 petites patates douces</p>
+ <p>3 oignons</p>
+ <p>1 bouquet de persil</p>
+ <p>100 g de beurre</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de parmesan râpé (facultatif) </p>
+ <p>1 cuillères à soupe de concentré de tomate</p>
+ <p>1 cuillère à café de coriandre en poudre</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=30.0min espace=15>faire dessaler la <ingredient quantite=1>palette</ingredient> 30 min dans de l’ eau</operation> froide, l’ égoutter et la couper en morceaux. les éponger dans du papier absorbant. émincer les <ingredient quantite=3>oignons</ingredient>, hachez le <ingredient quantite=1>persil</ingredient>, les couper <ingredient quantite=6>patates douces</ingredient> en morceaux. chauffer l’ <ingredient quantite=4>huile</ingredient> dans une <recipient>cocotte</recipient> et <operation temps=6.86min espace=15>faire dorer les morceaux de viande</operation>. quand ils sont bien dorés, les retirer de la <recipient>cocotte</recipient> et les remplacer par les <ingredient quantite=3>oignons</ingredient>. <operation temps=7.0min espace=15>faire revenir</operation> puis remettre les morceaux de viande. ajouter le <ingredient quantite=1>concentré de tomate</ingredient>, la moitié du <ingredient quantite=1>persil</ingredient>, la <ingredient quantite=1>coriandre</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. saler et poivrer. mélanger et <operation temps=0.25min espace=15>couvrir</operation>. <operation temps=6.86min espace=15>laisser mijoter 1h30 à feu doux en</operation> remuant de temps en temps. faire cuire les cubes de <ingredient quantite=1>patate douce</ingredient> 30 min à la vapeur (à l’ eau ça va très bien aussi). <operation temps=6.86min espace=15>faire une purée en</operation> incorporant le beurre. préchauffer le <recipient>four</recipient> thermostat 7 (210 ° c). égoutter la viande et l’ effilocher. la mélanger à son jus de cuisson puis la <operation temps=6.86min espace=15>répartir dans 6 moules à gratin individuels</operation>. re<operation temps=0.25min espace=15>couvrir</operation> de purée de <ingredient quantite=1>patate</ingredient> douce et enfournez pour 15 min. parsemer du <ingredient quantite=2>parmesan râpé</ingredient> et décorer de <ingredient quantite=1>persil</ingredient> haché.
+]]>
+ </preparation>
+</recette>

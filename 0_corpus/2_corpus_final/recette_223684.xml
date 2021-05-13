@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223684">
+ <titre>Terrine de gibier</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour 1 kg de gibier (sanglier, faisan, chevreuil, perdrix...): </p>
+ <p>1 kg de gorge de porc</p>
+ <p>1 kg de lard (ou gras, ou mélange des 2) </p>
+ <p>3 gros oignons</p>
+ <p>4 à 6 gousses d’ ail</p>
+ <p>1 œuf</p>
+ <p>2 cuillerées à soupe de farine</p>
+ <p>1 verre d’ eau de vie</p>
+ <p>2 verres de vin blanc</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>thym</p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer les viandes, les <ingredient quantite=3>oignons</ingredient> et l’ <ingredient quantite=4>ail</ingredient> au <operation temps=6.86min espace=17>hachoir à viande</operation>. récupérer le hachis dans un grand <recipient>saladier</recipient>. y ajouter le reste des ingrédients. bien mélanger. goûter et rectifier l’ assaisonnement (ne pas hésiter à bien saler car le goût de <ingredient quantite=1>sel</ingredient> à tendance à s’ estomper à la cuisson). mettre la préparation dans une grande <recipient>terrine</recipient> et cuire au <recipient>bain marie</recipient> au <recipient>four</recipient> à thermostat 6 (180 ° c) au moins 2h30.la viande de <ingredient quantite=1>gibier</ingredient> étant généralement maigre, il faut compter les proportions suivantes: 1/3 <ingredient quantite=1>gibier</ingredient>, 1/3 <ingredient quantite=1>gorge de porc</ingredient> et 1/3 de gras ou <ingredient quantite=1>lard</ingredient>.
+]]>
+ </preparation>
+</recette>

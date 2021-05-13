@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171737">
+ <titre>Tarte aux mûres et au mascarpone</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>500 g de mascarpone</p>
+ <p>3 cuillères a soupe de sucre</p>
+ <p>1 gousse de vanille </p>
+ <p>10 cl de crème liquide</p>
+ <p>500 g de mûres (framboises, fraises...) </p>
+ <p>1 cuillère a soupe de gelée de mures</p>
+ <p>1 cuillère a soupe d’ eau </p>
+ <p>2 cuillères a soupe de porto (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire la <ingredient quantite=1>pâte brisée</ingredient> à blanc dans un <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 20 min. <operation temps=20.0min espace=12>laisser refroidir</operation>. dans un <recipient>saladier</recipient>, mélanger le <ingredient quantite=1>mascarpone</ingredient>, le <ingredient quantite=3>sucre</ingredient>, la <ingredient quantite=1>vanille</ingredient>, le <ingredient quantite=2>porto</ingredient> et la <ingredient quantite=1>crème liquide</ingredient>. étaler cette préparation sur la <ingredient quantite=1>pâte</ingredient> brisée froide. placer les mûres sur la <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=12>faire fondre la <ingredient quantite=1>gelée</ingredient> de mûres avec l’ <ingredient quantite=1>eau</ingredient> et à l’</operation> aide d’ un pinceau, imbiber les mûres. la tarte peut se manger tout de suite ou après conservation au <recipient>réfrigérateur</recipient> (pas plus de 2 h). cette tarte peut se préparer avec les fruits que vous aimez. vous pouvez saupoudrer de <ingredient quantite=3>sucre</ingredient> avant de <operation temps=2.0min espace=12>servir</operation>. cette <ingredient quantite=1>crème</ingredient> au <ingredient quantite=1>mascarpone</ingredient> change de la <ingredient quantite=1>crème</ingredient> pâtissière et de la <ingredient quantite=1>crème</ingredient> au beurre. grappa ou muscat ou <ingredient quantite=2>porto</ingredient>
+]]>
+ </preparation>
+</recette>

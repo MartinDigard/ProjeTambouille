@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61352">
+ <titre>Pizza reine aux merguez</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>3 tranches de jambon blanc</p>
+ <p>2 merguez</p>
+ <p>1 grosse boule de mozzarella</p>
+ <p>200 g de champignons blancs de Paris</p>
+ <p>1 petit pot de concentré de tomates</p>
+ <p>1 oignon émincé</p>
+ <p>1/2 gousse d’ ail hachée</p>
+ <p>1 cuillère à café d’ origan ou d’ herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte à <ingredient quantite=1>pizza</ingredient> sur un <recipient>plat</recipient> rectangulaire allant au <recipient>four</recipient>. etaler le concentré de <ingredient quantite=1>tomates</ingredient> et <operation temps=6.86min espace=11>répartir uniformément l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation>. déposer ensuite le <ingredient quantite=3>jambon</ingredient> préalablement couper en carré et ensuite les <ingredient quantite=1>champignons émincés</ingredient>. couper les <ingredient quantite=2>merguez</ingredient> en morceaux de 2 cm et les déposer sur la <ingredient quantite=1>pizza</ingredient>. couper la <ingredient quantite=1>mozzarella</ingredient> en rondelles et bien les <operation temps=6.86min espace=11>répartir sur la <ingredient quantite=1>pizza</ingredient></operation>. assaisonner d’ une <ingredient quantite=1>cuillère à café</ingredient> d’ <ingredient quantite=1>origan ou</ingredient> d’ <ingredient quantite=1>herbes de provence</ingredient>. enfourner 20 min. surveiller votre <ingredient quantite=1>pizza</ingredient>. un rosé côte de <ingredient quantite=1>provence</ingredient>
+]]>
+ </preparation>
+</recette>

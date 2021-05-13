@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167068">
+ <titre>Sot-l’ y-laisse de dinde aux courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500gr de sot-l’ y-laisse de dinde </p>
+ <p>20cl de fond de veau</p>
+ <p>2 oignons</p>
+ <p>3 courgettes</p>
+ <p>400gr de spaghetti</p>
+ <p>sel, poivre, piment d’ Espelette</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés dans de l’ huile d’ <ingredient quantite=1>olive</ingredient>, <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=3>courgettes</ingredient></operation> coupées en cubes, salé, <operation temps=0.5min espace=8>poivrez</operation> et <operation temps=6.86min espace=8>reservez au chaud</operation>. <operation temps=6.86min espace=8>faire dorer les morceaux de <ingredient quantite=1>dinde</ingredient>, salé</operation>, mettre du <ingredient quantite=1>piment</ingredient> d’ <ingredient quantite=1>espelette</ingredient> et un peu de thym. quand c’ est presque cuit mettre le <ingredient quantite=1>fond de veau</ingredient> et <operation temps=5.0min espace=8>laissez mijoter 5 min</operation>. <operation temps=6.86min espace=8>faire cuire des <ingredient quantite=1>spaghettis</ingredient>, des quelles sont</operation> prêtes <operation temps=6.86min espace=8>melangez les aux</operation> <ingredient quantite=3>courgettes</ingredient> et <operation temps=6.86min espace=8>disposez les morceaux de dinde dessus</operation>, <operation temps=6.86min espace=8>nappez genereusement de sauce</operation>. bon appetit! <recipient>plat</recipient> qui ne nécessite pas de rester des heures en cuisine, surtout en sortant du travail, tout en restant équilibré.
+]]>
+ </preparation>
+</recette>

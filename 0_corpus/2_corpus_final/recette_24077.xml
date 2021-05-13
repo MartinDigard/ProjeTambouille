@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24077">
+ <titre>Crêpes farcies maritimes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 crêpes</p>
+ <p>650 g de moules</p>
+ <p>135 g de noix de St Jacques</p>
+ <p>80 g de crevettes cuites et décortiquées</p>
+ <p>20 g de beurre</p>
+ <p>8 cl de vin blanc sec</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>15 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer les <ingredient quantite=1>moules</ingredient>. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=11>faire ouvrir les <ingredient quantite=1>moules</ingredient> sur feu vif</operation>. réserver le jus de cuisson et le passer au tamis. découper les <ingredient quantite=1>noix de st</ingredient> - jacques en morceaux et les <operation temps=10.0min espace=11>faire revenir pendant 10 minutes dans une <recipient>poêle</recipient> avec du beurre, les <ingredient quantite=1>crevettes</ingredient> et les <ingredient quantite=1>moules</ingredient></operation>. verser le <ingredient quantite=1>vin blanc</ingredient> et le jus de cuisson des <ingredient quantite=1>moules</ingredient>. <operation temps=6.86min espace=11>faire mijoter à feu très doux, jusqu’ à ce qu’ il n’ y ait presque plus de jus</operation>. dans un bol, mélanger la farine et la <ingredient quantite=1>crème</ingredient>, puis verser le tout dans la <recipient>poêle</recipient>. assaisonner. <operation temps=6.86min espace=11>faire réchauffer les crèpes et les</operation> <operation temps=6.86min espace=11>garnir du mélange</operation>.
+]]>
+ </preparation>
+</recette>

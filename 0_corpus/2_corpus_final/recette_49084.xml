@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49084">
+ <titre>Biscuit maya au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>50 g de farine </p>
+ <p>1 pincée de levure</p>
+ <p>130 g de poudre d’ amandes</p>
+ <p>100 g de cacao</p>
+ <p>120 g de beurre</p>
+ <p>4 œufs</p>
+ <p>240 g de sucre</p>
+ <p>2 sachets de sucre vanilléPour le glaçage: </p>
+ <p>1 paquet de glaçage au chocolat</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+chauffez à feu très doux le <ingredient quantite=1>cacao</ingredient> dans 10 cl d’ eau. lorsqu’ il est dissout, <operation temps=20.0min espace=14>laissez refroidir</operation> puis <operation temps=6.86min espace=14>ajoutez le beurre</operation> ramolli en parcelles, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, les jaunes d’ <ingredient quantite=4>œufs</ingredient> et le mélange tamisé <ingredient quantite=1>farine</ingredient> - <ingredient quantite=1>levure</ingredient>. battez le tout très vivement. <operation temps=6.86min espace=14>montez les blancs en neige très ferme</operation>, <operation temps=6.86min espace=14>ajoutez - les</operation> délicatement à la <ingredient quantite=1>pâte</ingredient> et <operation temps=6.86min espace=14>versez la préparation dans un <recipient>moule</recipient> à cake beurré - fariné</operation>. <operation temps=45.0min espace=14>faites cuire 45 min à <recipient>four</recipient> doux puis 15 min à <recipient>four</recipient> moyen</operation>. <operation temps=6.86min espace=14>préparez le <ingredient quantite=2>glaçage</ingredient> en</operation> ajoutant le beurre. glacez le gâteau et <operation temps=6.86min espace=14>laissez prendre dans un endroit frais</operation>. on peut ajouter des vermicelles ou du <ingredient quantite=1>sucre</ingredient> glace sur le <ingredient quantite=2>glaçage</ingredient> et <operation temps=6.86min espace=14>servir avec de la glace au caramel</operation>. champagne
+]]>
+ </preparation>
+</recette>

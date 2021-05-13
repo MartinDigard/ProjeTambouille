@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81680">
+ <titre>Timbales de saumon aux fines herbes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de filet de saumon (environ 150 g) </p>
+ <p>150 g de fromage frais ail et fines herbes</p>
+ <p>10 cl de crème fraîche</p>
+ <p>5 brins de ciboulette</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> thermostat 6 (180 ° c). <operation temps=6.86min espace=9>egouttez bien le <ingredient quantite=1>saumon</ingredient></operation>. <operation temps=6.86min espace=9>beurrez quatre ramequins</operation>. <operation temps=6.86min espace=9>mélangez le <ingredient quantite=1>fromage</ingredient></operation> frais avec le <ingredient quantite=1>saumon</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient> à la fourchette. <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=6.86min espace=9>ciselez</operation> et <operation temps=6.86min espace=9>ajoutez la <ingredient quantite=5>ciboulette</ingredient></operation>. répartissez la préparation dans les ramequins et posez - les dans un <recipient>plat</recipient> à <recipient>four</recipient>. <operation temps=6.86min espace=9>versez de l’ eau dans le fond du <recipient>plat</recipient>, au tiers de la hauteur des ramequins</operation>. enfournez et <operation temps=30.0min espace=9>faites cuire 30 min</operation>.
+]]>
+ </preparation>
+</recette>

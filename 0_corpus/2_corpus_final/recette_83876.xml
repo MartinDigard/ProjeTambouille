@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83876">
+ <titre>Salade surimi ananas</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 bâtonnets de surimi</p>
+ <p>4 rondelles d’ ananas (en conserve) </p>
+ <p>4 carottes</p>
+ <p>5 cuillères à soupe de mayonnaise</p>
+ <p>2 cuillères à soupe de ketchup (ou de sauce barbecue pour une version plus relevée) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher et râper les <ingredient quantite=4>carottes</ingredient> (on peut aussi les râper avec un économe pour <operation temps=6.86min espace=7>faire des petits rubans, sortes de " tagliatelles " de</operation> <ingredient quantite=4>carottes</ingredient>). découper les <ingredient quantite=1>bâtonnets de surimi</ingredient> en petits cubes et les mélanger aux <ingredient quantite=4>carottes</ingredient> râpées dans un <recipient>saladier</recipient>. découper les <ingredient quantite=4>rondelles</ingredient> d’ <ingredient quantite=4>ananas</ingredient> en cubes et les égoutter. les ajouter dans le <recipient>saladier</recipient>. préparer la sauce cocktail: dans un bol, bien mélanger la <ingredient quantite=5>mayonnaise</ingredient> et le <ingredient quantite=2>ketchup</ingredient>. ajouter à la préparation et mélanger. on peut aussi agrémenter de brins de ciboulette ciselés. pour une version plus gourmande, on peut ajouter des tagliatelles (préparer alors un peu plus de sauce cocktail).
+]]>
+ </preparation>
+</recette>

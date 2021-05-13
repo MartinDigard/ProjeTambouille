@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173064">
+ <titre>Boeuf bourguignon régime</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de bœuf bourguignon</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère à soupe de Maïzena</p>
+ <p>laurier, persil, sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient> (ou <recipient>cocotte</recipient> minute), <operation temps=6.86min espace=8>faire revenir la viande</operation>. ajouter l’ <ingredient quantite=1>oignon</ingredient> émincé et le <operation temps=7.0min espace=8>faire revenir</operation>. jeter de l’ eau dans la <recipient>cocotte</recipient> sans noyer la viande, puis rajouter <ingredient quantite=1>ail</ingredient> + <ingredient quantite=1>persil</ingredient> + <ingredient quantite=1>laurier</ingredient>. <operation temps=6.86min espace=8>laisser cuire 2 à 3 h selon la souplesse de la viande</operation> souhaitée. seulement sur la fin de la cuisson, ajouter maïzena et mélanger. ps: pour le régime, ne pas rajouter de vin comme dans la vraie recette. si vous le souhaitez, <operation temps=6.86min espace=8>rajoutez des champignons, carottes au début de la cuisson pour que ça</operation> s’ imbibe de la sauce.
+]]>
+ </preparation>
+</recette>

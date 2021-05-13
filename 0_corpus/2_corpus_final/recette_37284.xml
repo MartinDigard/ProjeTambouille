@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37284">
+ <titre>Quiche au lait de coco crabe et crevette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>50 cl de lait de coco</p>
+ <p>100 g de crevettes roses </p>
+ <p>100 g de crabe (environ 1 boîte) </p>
+ <p>3 oeufs entiers</p>
+ <p>sel et poivre</p>
+ <p>1/2 cuillère à café de curry (à moduler selon la force du curry) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+abaisser et <operation temps=10.0min espace=9>faire précuire la pate 10 min</operation> a 180 ° c (thermostat 6). dans un <recipient>saladier</recipient>, mélanger le lait, les <ingredient quantite=3>oeufs</ingredient>, les <ingredient quantite=1>crevettes</ingredient>, le <ingredient quantite=1>crabe</ingredient>, le <ingredient quantite=1>curry</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. bien battre le tout. mettre le mélange sur la <ingredient quantite=1>pâte</ingredient> et enfourner 25 min. le dessus doit être bien doré. <operation temps=5.0min espace=9>laisser reposer 5 min à la sortie du <recipient>four</recipient>, puis servir</operation>.
+]]>
+ </preparation>
+</recette>

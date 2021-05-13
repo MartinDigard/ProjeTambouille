@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30795">
+ <titre>Quiche au vacherin et au lard</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>150 g de gruyère</p>
+ <p>150 g de vacherin (ou à défaut de Saint-Paulin) </p>
+ <p>20 cl de crème fraîche liquide</p>
+ <p>2 oeufs</p>
+ <p>2 oignons</p>
+ <p>100 g de lard salé</p>
+ <p>lait</p>
+ <p>sel, poivre</p>
+ <p>noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). etalez la <ingredient quantite=1>pâte brisée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient> beurré, piquez - la et <operation temps=6.86min espace=13>faites - la</operation> cuire 10 minutes. <operation temps=6.86min espace=13>râpez les fromages</operation>, <operation temps=6.86min espace=13>battez les</operation> <ingredient quantite=2>oeufs</ingredient> et <operation temps=6.86min espace=13>mélangez - les ensemble</operation>. <operation temps=0.5min espace=13>ajoutez</operation> - leur du <ingredient quantite=1>sel</ingredient>, du poivre, la <ingredient quantite=1>muscade</ingredient> puis <operation temps=6.86min espace=13>versez le lait, suffisamment pour</operation> avoir une masse souple et lisse. incorporez ensuite la <ingredient quantite=1>crème fraîche liquide</ingredient>. <operation temps=6.86min espace=13>coupez le <ingredient quantite=1>lard</ingredient> en lardons</operation> et <operation temps=5.0min espace=13>faites - les blanchir 5 minutes à l’ eau bouillante</operation>. <operation temps=10.0min espace=13>egouttez</operation> - les puis <operation temps=0.5min espace=13>ajoutez</operation> - les à la préparation précédente. enfin, émincez les 2 <ingredient quantite=2>oignons</ingredient>, <operation temps=6.86min espace=13>faites - les</operation> <operation temps=6.86min espace=13>revenir à la <recipient>poêle</recipient> avec un peu de matière grasse</operation> et <operation temps=0.5min espace=13>ajoutez</operation> - les eux aussi au mélange. <operation temps=30.0min espace=13>versez la garniture sur le fond de tarte et enfournez pour 30 minutes de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

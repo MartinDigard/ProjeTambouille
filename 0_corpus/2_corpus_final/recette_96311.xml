@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96311">
+ <titre>Quiche aux poireaux et amandes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>500g de poireaux</p>
+ <p>100g d’ emmental râpé</p>
+ <p>20cl de crème liquide</p>
+ <p>3 oeufs</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>60g de poudre d’ amandes</p>
+ <p>5 cuillérée à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> th6 (180 ° c). nettoyer les <ingredient quantite=1>poireaux</ingredient>. les émincer en fines rondelles et les <operation temps=10.0min espace=12>faire fondre 10 min dans une <recipient>sauteuse</recipient> avec l’ huile, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. mélanger les œufs avec l’ <ingredient quantite=1>ail</ingredient>, la <ingredient quantite=1>crème</ingredient> et le fromage. saler et poivrer. etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. y mettre les <ingredient quantite=1>poireaux</ingredient> mélangés à la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>. <operation temps=6.86min espace=12>recouvrir de la préparation au fromage</operation>. enfourner et <operation temps=35.0min espace=12>laisser cuire 35 min</operation>. <operation temps=6.86min espace=12>servir très chaud</operation>.
+]]>
+ </preparation>
+</recette>

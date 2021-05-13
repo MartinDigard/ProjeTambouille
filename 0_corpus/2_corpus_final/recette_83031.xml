@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83031">
+ <titre>Sablés aux arachides</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>100 g de sucre en poudre</p>
+ <p>1 oeuf</p>
+ <p>1/2 cuillère à café de bicarbonate</p>
+ <p>1/2 cuillère à café de vanille ou un sachet de sucre vanillé</p>
+ <p>200 g d’ arachides non salées grillées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>mélangez <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>sucre</ingredient>, bicarbonate et <ingredient quantite=1>vanille</ingredient></operation>. <operation temps=6.86min espace=9>faites un puits, y</operation> casser l’ <ingredient quantite=1>oeuf</ingredient> et <operation temps=6.86min espace=9>ajoutez le beurre</operation>. <operation temps=6.86min espace=9>travaillez jusqu’ à l’ obtention d’ une pâte homogène,</operation> puis <operation temps=6.86min espace=9>incorporez les <ingredient quantite=1>arachides</ingredient></operation>. <operation temps=6.86min espace=9>formez 3 boudins</operation>, <operation temps=6.86min espace=9>enveloppez - les dans un film plastique</operation> et <operation temps=30.0min espace=9>mettez - les 30 minutes au <recipient>congélateur</recipient></operation>. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). avec un couteau, <operation temps=6.86min espace=9>coupez les boudins en tranches d’ environ 5 mm d’ épaisseur</operation>. placez - les sur une plaque recouverte d’ une feuille d’ alu. <operation temps=20.0min espace=9>faites cuire 15 à 20 minutes</operation>. vous pouvez mettre aussi des noix, raisins secs, pépites de chocolat (100 g), sésame grillé (100 g).
+]]>
+ </preparation>
+</recette>

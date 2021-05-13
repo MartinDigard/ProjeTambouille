@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36069">
+ <titre>Crumble aux poires et pépites de chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses poires</p>
+ <p>40 g de chocolat à pâtisser (à 64 % de cacao, c’ est meilleur) </p>
+ <p>150 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>130 g de beurre </p>
+ <p>1 cuillère à café de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=6>poires</ingredient>. les émincer et les <operation temps=15.0min espace=8>faire fondre dans 20 g de beurre à feu doux pendant environ 15 minutes</operation>. quand elles sont bien fondantes, les verser dans un <recipient>moule</recipient> à gratin beurré. concasser le <ingredient quantite=1>chocolat</ingredient> en petites pépites et les disposer sur les fruits. préparer la pâte en mélangeant la farine et le <ingredient quantite=1>sucre</ingredient>. <operation temps=1.0min espace=8>faire fondre le beurre</operation>. l’ incorporer à la pâte. ajouter le <ingredient quantite=1>cacao en poudre</ingredient>. emietter grossièrement du bout des doigts sur les <ingredient quantite=6>poires</ingredient>. mettre au <recipient>four</recipient> pendant 25 minutes à 180 ° c. le crumble est prêt quand la croûte est bien dorée! a déguster bien tiède, pour que les pépites de <ingredient quantite=1>chocolat</ingredient> soit fondantes!
+]]>
+ </preparation>
+</recette>

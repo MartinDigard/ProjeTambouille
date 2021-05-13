@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16694">
+ <titre>Gâteau tutti-frutti</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g farine </p>
+ <p>250 g sucre fin </p>
+ <p>2 sachets de sucre vanillé </p>
+ <p>2 yaourts natures </p>
+ <p>1 pot de yaourt rempli d’ huile </p>
+ <p>3 œufs </p>
+ <p>1 sachet de levure chimique</p>
+ <p>Pour la garniture </p>
+ <p>1 banane</p>
+ <p>1 orange </p>
+ <p>1 citron </p>
+ <p>1 poire </p>
+ <p>2 pêches </p>
+ <p>4 prunes ou mirabelles </p>
+ <p>4 abricots </p>
+ <p>2 kiwis ou 10 cerises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tamiser le mélange farine - <ingredient quantite=1>levure</ingredient> dans une <recipient>terrine</recipient>. <operation temps=6.86min espace=20>faire une fontaine et y</operation> mettre le <ingredient quantite=2>sucre</ingredient> et les <ingredient quantite=2>yaourts</ingredient>. mélanger bien puis ajouter l’ <ingredient quantite=1>huile</ingredient>, les oeufs battus et le <ingredient quantite=2>sucre</ingredient> vanillé. travailler le tout pour <operation temps=8.0min espace=20>obtenir une pâte lisse</operation>. presser le jus de <ingredient quantite=1>citron</ingredient> et de l’ orange. eplucher la <ingredient quantite=1>banane</ingredient> et la couper en rondelles. <operation temps=6.86min espace=20>mettez - la dans un <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=20>arrosez - la avec le jus des fruits pressés</operation>. couper tous les autres fruits en dés et les ajouter. beurrer un <recipient>moule</recipient> et y verser la pâte. <operation temps=6.86min espace=20>répartir sur cette pâte 500 à 600 g de fruits</operation> égouttés et les enfoncer légèrement. <operation temps=6.86min espace=20>faire cuire à <recipient>four</recipient> moyen 1 heure environ</operation>. démouler le gâteau encore chaud sur une grille
+]]>
+ </preparation>
+</recette>

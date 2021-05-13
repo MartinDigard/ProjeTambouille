@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16077">
+ <titre>Riz aux crevettes et au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 bouquet de coriandre</p>
+ <p>1 poivron rouge et 1 vert</p>
+ <p>100 g de pousses de bambou</p>
+ <p>200 g de pousses de soja</p>
+ <p>50 g de champignons noirs</p>
+ <p>1/2 l de lait de coco</p>
+ <p>500 g de petites crevettes décortiquées</p>
+ <p>1 oignon</p>
+ <p>3 carottes</p>
+ <p>riz Basmati</p>
+ <p>curry (quantité selon le goût) </p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire blondir l’ <ingredient quantite=1>oignon</ingredient> dans un fond d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter les <ingredient quantite=3>carottes</ingredient> en julienne (<operation temps=6.86min espace=14>laisser cuire 10 mb avec un couvercle en ayant</operation> <operation temps=6.86min espace=14>mis un verre à moutarde d’ eau), puis les <ingredient quantite=1>poivrons</ingredient> préalablement</operation> vidés et tranchés en fines lamelles, les pouces de <ingredient quantite=1>bambou</ingredient> coupées en <ingredient quantite=1>petits</ingredient> morceaux, les <ingredient quantite=1>champignons noirs</ingredient> et les <ingredient quantite=1>pousses de soja</ingredient>. <operation temps=10.0min espace=14>laisser cuire le tout 10 mn avec un couvercle, mais il</operation> faut qu’ il reste de l’ eau au fond. une fois les légumes cuits, verser le lait de <ingredient quantite=1>coco</ingredient>, les <ingredient quantite=1>crevettes</ingredient> et la coriande lavé. assaisonner avec une cuillère à soupe de <ingredient quantite=1>curry</ingredient>, saler (pas trop) et poivrer. <operation temps=10.0min espace=14>laisser mijoter 10 mn à feu très doux,</operation> puis <operation temps=6.86min espace=14>servir avec du <ingredient quantite=1>riz</ingredient></operation>. attention au <ingredient quantite=1>sel</ingredient>, car si vous voulez <operation temps=6.86min espace=14>couvrir le sucre du lait de <ingredient quantite=1>coco</ingredient>, vous</operation> allez devoir mettre la dose! c’ est un <recipient>plat</recipient> aux saveurs sucrées. muscat, pinot blanc
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16587">
+ <titre>Tarte aux deux jambons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>240 g de pâte brisée salée</p>
+ <p>100 g de jambon cru (fines tranches) </p>
+ <p>100 g de jambon blanc (fines tranches) </p>
+ <p>200 g de blancs de poireaux</p>
+ <p>100 g de fromage râpé</p>
+ <p>20 cl de crème fraîche</p>
+ <p>15 cl de lait</p>
+ <p>4 oeufs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+foncer un <recipient><recipient>moule</recipient> à tarte</recipient> avec la <ingredient quantite=1>pâte brisée</ingredient>. piquer le fond avec une fourchette. <operation temps=12.0min espace=12>faire cuire les <ingredient quantite=1>blancs</ingredient> de <ingredient quantite=1>poireaux</ingredient> 12 mn à l’ eau bouillante <ingredient quantite=1>salée</ingredient></operation>. les égoutter et les presser pour en <operation temps=6.86min espace=12>sortir le maximum de jus</operation>. <operation temps=6.86min espace=12>garnir la tarte en</operation> répartissant le <ingredient quantite=1>jambon cru</ingredient> et le <ingredient quantite=1>jambon blanc</ingredient>, saupoudrer de <ingredient quantite=1>fromage râpé</ingredient> et terminer en ajoutant les <ingredient quantite=1>poireaux</ingredient>. mixer ensemble la <ingredient quantite=1>crème</ingredient>, le lait, les <ingredient quantite=4>oeufs</ingredient>. <ingredient quantite=1>saler</ingredient> légèrement et poivrer. <operation temps=6.86min espace=12>recouvrir la tarte de ce mélange</operation>. cuire 35 mn au <recipient>four</recipient> préchauffé à 180 ° c. la tarte se sert chaude ou tiède, seule en entrée ou en <recipient>plat</recipient> avec une salade. un plus: les talons et les chutes de <ingredient quantite=1>jambon</ingredient> sont moins chers que les tranches et conviennent parfaitement au quiches.
+]]>
+ </preparation>
+</recette>

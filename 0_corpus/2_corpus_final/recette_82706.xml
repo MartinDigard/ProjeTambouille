@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82706">
+ <titre>Potage à la tomate et aux bananes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oignons </p>
+ <p>240 g tomate pelées avec leur jus</p>
+ <p>15 cl de bouillon de poule</p>
+ <p>3 bananes</p>
+ <p>1 cuillère à café de curry</p>
+ <p>15 cl de crème fraiche</p>
+ <p>Facultatif: 1 pointe de poivre de Cayenne</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>pelez et hachez grossièrement les <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=9>faites revenir dans un <recipient>faitout</recipient>, lorsqu’ ils</operation> deviennent transparents, <operation temps=6.86min espace=9>ajoutez les tomates, le <ingredient quantite=1>jus</ingredient>, le <ingredient quantite=1>bouillon</ingredient>, 2 <ingredient quantite=3>bananes</ingredient> (<ingredient quantite=1>pelées</ingredient> et découpées), le <ingredient quantite=1>curry</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient></operation>. <operation temps=6.86min espace=9>laissez mijoter</operation>. <operation temps=6.86min espace=9>mixez le tout</operation>, ajoutez la <ingredient quantite=1>crème fraiche</ingredient>, et éventuellement le <ingredient quantite=1>poivre de cayenne</ingredient>. <operation temps=6.86min espace=9>décorez de rondelles de <ingredient quantite=3>bananes</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29246">
+ <titre>Flan de thon au parmesan</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de thon au naturel</p>
+ <p>4 oeufs</p>
+ <p>150 g de crème fraîche</p>
+ <p>50 g e parmesan</p>
+ <p>1 cuillère à soupe d’ origan</p>
+ <p>poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>mixez le <ingredient quantite=1>thon</ingredient> égoutté avec les <ingredient quantite=4>oeufs</ingredient></operation> battus et la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=0.5min espace=9>poivrez</operation> et <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>parmesan</ingredient> et l’ <ingredient quantite=1>origan</ingredient></operation>. <operation temps=6.86min espace=9>versez dans un <recipient>moule</recipient> à cake huilé,</operation> puis <operation temps=40.0min espace=9>faites cuire 40 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). servez chaud avec un coulis de tomates au basilic ou froid avec de la mayonnaise au basilic.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72274">
+ <titre>Tarte amandine aux cerises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>125 g de poudre d’ amandes</p>
+ <p>500 g de cerises</p>
+ <p>3 oeufs entiers</p>
+ <p>80 g de sucre</p>
+ <p>20 cl de crème fraîche</p>
+ <p>1 sachet de nappage pour tarte</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=11>etalez la ppate dans un <recipient>moule</recipient> à <ingredient quantite=1>tarte</ingredient></operation>. <operation temps=6.86min espace=11>saupoudrez - la avec la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient></operation>. <operation temps=6.86min espace=11>dénoyautez les <ingredient quantite=1>cerises</ingredient>,</operation> puis <operation temps=6.86min espace=11>disposez - les harmonieusement sur les <ingredient quantite=1>amandes</ingredient> en <ingredient quantite=1>poudre</ingredient></operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=11>fouettez les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient>,</operation> puis ajoutez la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=11>versez ce mélange sur les <ingredient quantite=1>cerises</ingredient></operation>. <operation temps=45.0min espace=11>faites cuire 45 min</operation>. a la sortie du <recipient>four</recipient>, nappez la <ingredient quantite=1>tarte</ingredient> avec le <ingredient quantite=1>nappage pour tarte</ingredient> ou de la gelée de groseilles légèrement chauffée.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19697">
+ <titre>Mont blanc</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour le gâteau au beurre: </p>
+ <p>6 oeufs</p>
+ <p>500 g de farine</p>
+ <p>500 g de sucre</p>
+ <p>250 g de beurre frais</p>
+ <p>vanille</p>
+ <p>cannelle</p>
+ <p>zeste d’ un citron râpé</p>
+ <p>un petit verre de lait (verre à whisky) </p>
+ <p>paquet de levure</p>
+ <p>Pour la crème pour mont blanc: </p>
+ <p>1 boîte de lait sucré </p>
+ <p>1/2 l de lait</p>
+ <p>1 citron vert</p>
+ <p>1 boîte de lait de coco</p>
+ <p>Maïzena</p>
+ <p>Pour la décoration: </p>
+ <p>125 g de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=19>faire le <ingredient quantite=1>gâteau</ingredient></operation>. battre les 6 jaunes d’ <ingredient quantite=6>oeufs</ingredient> (ne pas <operation temps=6.86min espace=19>jetez les <ingredient quantite=1>blancs</ingredient>) avec le <ingredient quantite=1>beurre</ingredient></operation>. <operation temps=5.0min espace=19>mélangez</operation>, <operation temps=6.86min espace=19>ajoutez le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>lait</ingredient>, les épices, les 6 <ingredient quantite=1>blancs</ingredient> d’ <ingredient quantite=6>oeufs</ingredient></operation> battus en neige, le <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>farine</ingredient> et la <ingredient quantite=1>levure</ingredient>. le mélange doit être homogène. mettre dans un <recipient>plat</recipient> bien beurré et enfourner 45 mn à 180 ° c. une fois le <ingredient quantite=1>gâteau</ingredient> bien refroidi, le couper en deux. mettre une partie de la <ingredient quantite=1>crème</ingredient> sur l’ une des parties, puis refermez. ensuite badigonner les côtés, le dessus du <ingredient quantite=1>gâteau</ingredient>. a la fin mettre de la <ingredient quantite=1>noix de coco</ingredient> sur tout le <ingredient quantite=1>gâteau</ingredient>. très bon <ingredient quantite=1>gâteau</ingredient> pour des repas familiaux, cela rempli bien le ventre. conseillé pour les personnes aimant beaucoup la <ingredient quantite=1>noix de coco</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29202">
+ <titre>Paniers fromager express</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 tomate (épépinée) </p>
+ <p>250 g de lardons</p>
+ <p>fromage (type chèvre ou Boursin) </p>
+ <p>crème fraîche</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 240 ° c. <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient></operation>. etaler la <ingredient quantite=1>pâte</ingredient>, la découper en 4 triangles. beurrer le <ingredient quantite=1>fromage</ingredient> sur les triangles. ajouter les <ingredient quantite=1>lardons</ingredient>, quelques morceaux de <ingredient quantite=1>tomates</ingredient>, 1 cuillère à café de <ingredient quantite=1>crème fraîche</ingredient> et 1 pincée d’ <ingredient quantite=1>herbes de provence</ingredient>. saler, poiver. refermer le triangle en soudant chaque extrémité avec sa voisine. mettre au <recipient>four</recipient> servir chaud sur un lit de salade!
+]]>
+ </preparation>
+</recette>

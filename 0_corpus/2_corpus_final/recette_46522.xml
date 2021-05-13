@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46522">
+ <titre>Dip mexicain</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de haricots rouges</p>
+ <p>1 oignon</p>
+ <p>250 g de cheddar rouge</p>
+ <p>1 avocat</p>
+ <p>crème fraîche épaisse</p>
+ <p>piment de cayenne</p>
+ <p>jus de citron vert</p>
+ <p>sel, poivre</p>
+ <p>chips tortillas salées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire cuire les <ingredient quantite=1>oignons</ingredient> à feu doux, puis les</operation> mélanger aux <ingredient quantite=1>haricots rouges</ingredient> avec un peu d’ eau. mixer afin d’ <operation temps=6.86min espace=12>obtenir une purée lisse</operation> et réserver. écraser l’ <ingredient quantite=1>avocat</ingredient> avec la <ingredient quantite=1>crème fraîche</ingredient> et le <ingredient quantite=1>jus de citron vert</ingredient> jusqu’ à l’ obtention d’ une pâte. <ingredient quantite=1>saler</ingredient> et poivrer selon le goût de chacun et ajouter un peu de <ingredient quantite=1>piment de cayenne</ingredient>, réserver. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, mettre la purée de <ingredient quantite=1>haricots rouges</ingredient> et <operation temps=6.86min espace=12>recouvrir généreusement de fromage</operation>. enfourner sous le grill quelques minutes jusqu’ à ce que le fromage soit bien fondu, <operation temps=3.0min espace=12>sortir du <recipient>four</recipient></operation> et <operation temps=6.86min espace=12>recouvrir de purée d’ <ingredient quantite=1>avocat</ingredient></operation>. <operation temps=6.86min espace=12>servir avec les <ingredient quantite=1>chips</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170183">
+ <titre>Fraises au sirop de framboise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 barquette de fraises</p>
+ <p>5o g de sucre</p>
+ <p>2 cuillères à soupe de nappage framboise Vahiné </p>
+ <p>25 cl d’ eau</p>
+ <p>Quelques feuilles de menthe</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans une <recipient>casserole</recipient> sur feu doux. <operation temps=10.0min espace=7>laisser cuire environ 10 min à tout petit feu pour</operation> former un sirop. pendant ce temps, laver les <ingredient quantite=1>fraises</ingredient> et la <ingredient quantite=1>menthe</ingredient>. couper les <ingredient quantite=1>fraises</ingredient> en petits morceaux. les mettre dans des verres. ajouter la <ingredient quantite=1>menthe</ingredient> coupée en petits morceaux. ajouter 2 <ingredient quantite=2>cuillères à soupe de nappage</ingredient> à la <ingredient quantite=2>framboise</ingredient> (purée de <ingredient quantite=2>framboises</ingredient> en pot) dans le sirop. mélanger rapidement et éteindre le feu sous la <recipient>casserole</recipient>. <operation temps=10.0min espace=7>laisser tiédir</operation>. un bon petit dessert pour l’ été
+]]>
+ </preparation>
+</recette>

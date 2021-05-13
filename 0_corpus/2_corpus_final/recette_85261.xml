@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85261">
+ <titre>Tarte fondante au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>30 cl de crème liquide</p>
+ <p>250 g de chocolat noir</p>
+ <p>1 œuf</p>
+ <p>75 g de sucre en poudre</p>
+ <p>1 noisette de beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=12>beurrez un</operation> <ingredient quantite=1><recipient>moule</recipient></ingredient> et <operation temps=6.86min espace=12>étalez la pâte,</operation> puis piquer le fond à l’ aide d’ une fourchette. mettre au <recipient>four</recipient> 10 min. pendant ce temps, faites chauffer dans une <recipient>casserole</recipient> la <ingredient quantite=1>crème liquide</ingredient> à feu doux, en mélangeant sans cesse jusqu’ à ébullition. hors du feu, <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>chocolat</ingredient> cassé en morceaux</operation>. bien <operation temps=6.86min espace=12>mélangez avec un fouet, jusqu’ à obtention d’ une pâte lisse</operation>. <operation temps=6.86min espace=12>ajoutez l’ <ingredient quantite=1>œuf</ingredient> et le <ingredient quantite=1>sucre</ingredient>,</operation> puis <operation temps=6.86min espace=12>mélangez à nouveau</operation>. <operation temps=6.86min espace=12>versez la préparation sur le fond de tarte</operation> et <operation temps=6.86min espace=12>mettez au <recipient>four</recipient> 20 min, en</operation> diminuant la température du <recipient>four</recipient> à 150 ° c. une fois cuite, <operation temps=6.86min espace=12>laissez refroidir 1 h environ pour que le <ingredient quantite=1>chocolat</ingredient></operation> prenne bien. bien <operation temps=6.86min espace=12>laisser refroidir, car c’ est là que le <ingredient quantite=1>chocolat</ingredient></operation> prend un bon aspect.
+]]>
+ </preparation>
+</recette>

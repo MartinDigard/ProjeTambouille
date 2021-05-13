@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55050">
+ <titre>Pommes farcies au camembert et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes (gala par exemple) </p>
+ <p>1 paquet de lardons</p>
+ <p>1 camembert </p>
+ <p>vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>ebouillantez les <ingredient quantite=1>lardons</ingredient>,</operation> puis <operation temps=6.86min espace=8>faites - les</operation> <operation temps=6.86min espace=8>revenir à la <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=8>faites un chapeau aux <ingredient quantite=4>pommes</ingredient></operation>. <operation temps=6.86min espace=8>evidez, en</operation> gardant une épaisseur dans la paroi (vous pouvez mélanger le surplus de <ingredient quantite=4>pommes</ingredient> avec les <ingredient quantite=1>lardons</ingredient>). <operation temps=6.86min espace=8>coupez 3/4 du <ingredient quantite=1>camembert</ingredient> en petit dés</operation>, <operation temps=6.86min espace=8>mélangez aux</operation> <ingredient quantite=1>lardons</ingredient> et <operation temps=6.86min espace=8>fourrez les <ingredient quantite=4>pommes</ingredient></operation>. <operation temps=6.86min espace=8>recouvrez de 2 tranches de</operation> <ingredient quantite=1>camembert</ingredient> (reste du <ingredient quantite=1>camembert</ingredient>) chaque <ingredient quantite=1>pomme</ingredient>. mettre dans un <recipient>plat</recipient>, verser le <ingredient quantite=1>vin blanc</ingredient> dans ce <recipient>plat</recipient>. <recipient>four</recipient> 180 ° 20 min a déguster avec une salade.
+]]>
+ </preparation>
+</recette>

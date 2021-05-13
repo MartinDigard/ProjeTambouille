@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18780">
+ <titre>Glace au mascapone sur coulis de fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>180 g de sucre</p>
+ <p>50 g de crème fleurette</p>
+ <p>225 g de Mascarpone</p>
+ <p>125 g de fraises</p>
+ <p>500 g de framboises</p>
+ <p>150 g de myrtilles</p>
+ <p>150 g de groseilles</p>
+ <p>4 cuillères à soupe de sucre glace</p>
+ <p>2 cuillères à soupe de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation pour la glacière: <operation temps=5.0min espace=11>faites bouillir 25 cl d’ eau (de préférence minérale) avec le <ingredient quantite=1>sucre</ingredient> en poudre sur feu vif pendant 5 mn</operation> et <operation temps=20.0min espace=11>laissez refroidir</operation>. mélangez <ingredient quantite=1>mascarpone</ingredient> + <ingredient quantite=1>crème fleurette</ingredient>, puis <operation temps=6.86min espace=11>mélangez le sirop froid</operation>. mettre en <recipient>sorbetière</recipient> dans le freezer. coulis: préparez et <operation temps=6.86min espace=11>mixez tous les fruits</operation>, <operation temps=6.86min espace=11>tamisez bien pour</operation> enlever les graines. il est important d’ utiliser une glacière ou une <recipient>sorbetière</recipient> et de scrupuleusement respecter les doses. pas de vin
+]]>
+ </preparation>
+</recette>

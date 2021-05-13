@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49262">
+ <titre>Tartare de légumes du soleil</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 grosses tomates</p>
+ <p>1 poivron vert ou rouge</p>
+ <p>1 concombre</p>
+ <p>quelques pignons de pin</p>
+ <p>une grosse poignée de raisins secs</p>
+ <p>vinaigre balsamique</p>
+ <p>huile d’ olive</p>
+ <p>6 grandes feuilles de basilic</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en petits cubes les <ingredient quantite=3>tomates</ingredient>, le <ingredient quantite=1>poivron</ingredient>, le <ingredient quantite=1>concombre</ingredient>. les mettre dans un <recipient>saladier</recipient> et ajouter les <ingredient quantite=1>raisins secs</ingredient>. bien mélanger le tout et <operation temps=6.86min espace=14>répartir le tartare dans des coupes individuelles</operation>. <operation temps=6.86min espace=14>faire dorer les <ingredient quantite=1>pignons</ingredient> à la <recipient>poêle</recipient> et les</operation> déposer sur le dessus. mettre le tartare pendant 1h au <recipient>réfrigérateur</recipient>. pendant ce temps, passer ensemble au mixer (ou à la <recipient>centrifugeuse</recipient>) le <ingredient quantite=6>basilic</ingredient>, l’ huile d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=1>vinaigre balsamique</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. après 1h au <recipient>réfrigérateur</recipient>, <operation temps=6.86min espace=14>répartir l’ assaisonnement</operation>. vous pouvez <operation temps=2.0min espace=14>servir</operation>. une entrée très fraîche pour un été torride... un rosé de provence
+]]>
+ </preparation>
+</recette>

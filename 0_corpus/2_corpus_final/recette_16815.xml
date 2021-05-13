@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16815">
+ <titre>Terrine de bananes au coulis de fraises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la terrine: </p>
+ <p>1 oeuf moyen</p>
+ <p>250 ml lait</p>
+ <p>1 c. à soupe et demie de miel de trèfle</p>
+ <p>4 tranches de pain 6 céréales</p>
+ <p>1 c à soupe margarine</p>
+ <p>4 oeufs moyens</p>
+ <p>500 ml lait</p>
+ <p>1 c à soupe et demie fécule de maïs </p>
+ <p>3 cuillères à soupe miel de trèfle</p>
+ <p>2 bananes tranchées</p>
+ <p>50 ml raisins de Corinthe</p>
+ <p>1 sachet de gélatine</p>
+ <p>25 ml eau froide</p>
+ <p>50 ml eau chaudepour le coulis: </p>
+ <p>300 g fraises fraîches ou congelées (décongelées) </p>
+ <p>175 ml jus de pommes non sucré</p>
+ <p>50 ml miel de trèfle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<recipient>terrine</recipient> préchauffer le <recipient>four</recipient> à 150oc. dans un bol, mélanger l’ <ingredient quantite=1>oeuf</ingredient>, le lait et le <ingredient quantite=1>miel</ingredient>. tremper les <ingredient quantite=4>tranches de pain</ingredient> dans cette préparation. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=29>faire fondre la margarine</operation> et dorer les <ingredient quantite=4>tranches de pain</ingredient> à feu <ingredient quantite=1>moyen</ingredient> 1 minute de chaque côté. sur une <recipient>planche</recipient> de travail, tailler les <ingredient quantite=4>tranches de pain</ingredient> de façon à <operation temps=6.86min espace=29>couvrir le fond d’ une <ingredient quantite=1><recipient>terrine</recipient></ingredient> ou un <recipient>moule</recipient> à <ingredient quantite=4>pain</ingredient> légèrement graissé</operation> ; réserver. dans un bol, mélanger les <ingredient quantite=1>oeufs</ingredient>, le lait, la fécule de <ingredient quantite=1>maïs</ingredient>, le <ingredient quantite=1>miel</ingredient>, les <ingredient quantite=2>bananes</ingredient> et les raisins. incorporer la <ingredient quantite=1>gélatine</ingredient> préalablement gonflée dans l’ eau froide et délayée dans l’ eau chaude. verser dans le <recipient>moule</recipient> et cuire au <recipient>four</recipient> au <recipient>bain - marie</recipient> 1 h à 1 h 15 minutes environ ; réfrigérer. <ingredient quantite=1>coulis</ingredient> de fraises dans une <recipient>casserole</recipient>, amener les fraises, le jus de <ingredient quantite=1>pomme</ingredient> et le <ingredient quantite=1>miel</ingredient> à ébullition. mélanger au robot culinaire et passer au <operation temps=6.86min espace=29>tamis</operation>. démouler la <ingredient quantite=1><recipient>terrine</recipient></ingredient> et couper en <ingredient quantite=4>tranches</ingredient> épaisses. <operation temps=6.86min espace=29>servir sur le <ingredient quantite=1>coulis</ingredient> de fraises</operation> et décorer de fruits <ingredient quantite=1>frais</ingredient>.
+]]>
+ </preparation>
+</recette>

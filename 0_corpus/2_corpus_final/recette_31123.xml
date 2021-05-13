@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31123">
+ <titre>Poulet yakitori (japonais) </titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de blancs de poulet découpés en lanières</p>
+ <p>huile pour graisser</p>
+ <p>Pour la marinade: </p>
+ <p>6 cl de sauce teriyaki</p>
+ <p>6 cl de miel</p>
+ <p>1 gousse d’ ail pilée</p>
+ <p>1 pincée de gingembre moulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ustensiles: petites brochettes de bambou mettre le <ingredient quantite=1>poulet</ingredient> dans un <recipient>saladier</recipient> en verre, <operation temps=6.86min espace=10>mélangez les ingrédients de la</operation> <ingredient quantite=1>marinade</ingredient> et <operation temps=6.86min espace=10>nappez -en le <ingredient quantite=1>poulet</ingredient></operation>. <operation temps=6.86min espace=10>laissez marinez plusieurs heures, voire toute une nuit au <recipient>réfrigérateur</recipient></operation>. <operation temps=6.86min espace=10>enfilez deux <ingredient quantite=1>lanières</ingredient> de blanc de <ingredient quantite=1>poulet</ingredient> sur chaque brochette selon un mouvement ondulatoire</operation>. <operation temps=6.86min espace=10>huilez la grille du <recipient>barbecue</recipient></operation>, <operation temps=6.86min espace=10>attendez qu’ elle soit bien chaude</operation> et <operation temps=6.86min espace=10>disposez les brochettes dessus</operation>. <operation temps=6.86min espace=10>laissez - les</operation> cuire pendant 2 mn de chaqus côté, en les badigeonnant de <ingredient quantite=1>marinade</ingredient> pendant le temps de cuisson et en les retournant. a <operation temps=6.86min espace=10>servir immédiatement et à</operation> déguster avec les doigts! bon appétit. la sauce teryiaki se trouve dans toutes les boutiques asiatiques. un alcool de prune japonais ou saké doux.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64475">
+ <titre>Boulette de pierrade</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Restes de viande pour pierrade (boeuf, dinde, magret de canard, lard fumé...) </p>
+ <p>1 oignon</p>
+ <p>farine</p>
+ <p>mie de pain trempée dans du lait</p>
+ <p>1 à 2 oeufs</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire griller la <ingredient quantite=1>viande</ingredient> à la <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=10>laisser refroidir un peu</operation>. couper l’ <ingredient quantite=1>oignon</ingredient> en tout petits dés. hachez la <ingredient quantite=1>viande</ingredient>. dans un <recipient>saladier</recipient>, mélanger la <ingredient quantite=1>viande</ingredient>, 1 ou 2 <ingredient quantite=1>oeufs</ingredient>, la <ingredient quantite=1>mie de pain</ingredient> égouttée, du <ingredient quantite=1>sel</ingredient> et du poivre. avec le mélange obtenu, façonner des petits palets et les enrober de <ingredient quantite=1>farine</ingredient>. <operation temps=15.0min espace=10>faire cuire 15 min à la <recipient>poêle</recipient> dans du beurre</operation>. mon mari et de mes enfants adorent, ça change du steack haché traditionnel. je l’ accompagne de <ingredient quantite=1>restes</ingredient> de légumes à <ingredient quantite=1><recipient>pierrade</recipient></ingredient> (courgettes, poivrons, champignons) poêlés ou de haricots verts.
+]]>
+ </preparation>
+</recette>

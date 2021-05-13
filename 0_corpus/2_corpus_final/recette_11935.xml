@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11935">
+ <titre>Salade d’ orange et avocat</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 romaine ou batavia</p>
+ <p>1 concombre</p>
+ <p>1 oignon violet</p>
+ <p>2 avocats</p>
+ <p>5 oranges</p>
+ <p>le jus d’ un citron</p>
+ <p>15 cl de vinaigrette</p>
+ <p>2 pincées de poudre de chili</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=9>essorez la salade de votre choix</operation>. nettoyez le <ingredient quantite=1>concombre</ingredient> non pelé. epluchez l’ <ingredient quantite=1>oignon</ingredient>. a l’ aide d’ un couteau bien aiguisé, <operation temps=6.86min espace=9>pelez les <ingredient quantite=5>oranges</ingredient> à vif</operation> et <operation temps=6.86min espace=9>séparez les quartiers</operation>. <operation temps=0.5min espace=9>réservez</operation>. <operation temps=6.86min espace=9>coupez le <ingredient quantite=1>concombre</ingredient> en dés</operation>, <operation temps=6.86min espace=9>émincez l’ <ingredient quantite=1>oignon</ingredient>, épluchez</operation> et <operation temps=6.86min espace=9>taillez en lamelles les <ingredient quantite=2>avocats</ingredient></operation>. citronnez - les légèrement pour qu’ elles ne noircissent pas. <operation temps=6.86min espace=9>mélangez dans un <recipient>saladier</recipient> tous les ingrédients ainsi</operation> préparés. <operation temps=6.86min espace=9>versez de la vinaigette</operation> et <operation temps=0.25min espace=9>salez</operation>. assaisonnez de <ingredient quantite=2>poudre chili</ingredient>. vous pouvez remplacer la <ingredient quantite=2>poudre chili</ingredient> par un ou deux petits piments oiseaux coupés en rondelles.
+]]>
+ </preparation>
+</recette>

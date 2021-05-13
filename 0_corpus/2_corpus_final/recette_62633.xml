@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62633">
+ <titre>Rouelle de porc en cocotte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouelle de porc</p>
+ <p>8 belles pommes de terre </p>
+ <p>1 oignon</p>
+ <p>3 gousse d’ ail</p>
+ <p>1 branche de thym</p>
+ <p>1 boîte de champignons entiers</p>
+ <p>crème fraîche</p>
+ <p>vin blanc sec</p>
+ <p>sel, poivre</p>
+ <p>beurre ou huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir la <ingredient quantite=1>rouelle</ingredient> salée</operation> et poivrée. retirer la <ingredient quantite=1>rouelle</ingredient>, faire revenir les <ingredient quantite=8>pommes de terres</ingredient> pelées et coupées en cubes. retirer les <ingredient quantite=8>pommes de terre</ingredient>, <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>oignons</ingredient></operation> émincés, ajouter l’ <ingredient quantite=3>ail</ingredient> écrasé, les <ingredient quantite=1>champignons</ingredient>, 2 cuillérés à soupes de <ingredient quantite=1>crème fraîche</ingredient>. mélanger le tout et arroser de 2 verres de <ingredient quantite=1>vin blanc sec</ingredient>. puis remettre la <ingredient quantite=1>rouelle de porc</ingredient> et les <ingredient quantite=8>pommes de terre</ingredient>, et <operation temps=6.86min espace=10>laisser cuire 1h30 à 2h</operation>. pour être sûr que la <ingredient quantite=1>rouelle</ingredient> soit cuite, planter le couteau dedans.
+]]>
+ </preparation>
+</recette>

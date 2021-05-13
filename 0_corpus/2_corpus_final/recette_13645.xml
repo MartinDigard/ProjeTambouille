@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13645">
+ <titre>Soupe de minuit</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de jus de tomate (pas du coulis) </p>
+ <p>2 litres d’ eau</p>
+ <p>500 g de viande hachée. </p>
+ <p>1 oignon</p>
+ <p>1 tasse de riz. </p>
+ <p>sel, poivre et paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire revenir la <ingredient quantite=1>viande</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient></operation> haché. ajouter le <ingredient quantite=1>jus de tomate</ingredient>, l’ <ingredient quantite=2>eau</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et le <ingredient quantite=1>paprika</ingredient>. <operation temps=30.0min espace=6>faire cuire 30 minutes</operation>. ajouter le <ingredient quantite=1>riz</ingredient>, puis <operation temps=30.0min espace=6>laisser cuire encore 30 minutes</operation>. ce potage est assez consistant pour <operation temps=6.86min espace=6>servir de repas, mais il se</operation> congèle difficilement.
+]]>
+ </preparation>
+</recette>

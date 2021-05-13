@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14924">
+ <titre>Rougail de saucissons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 saucisson sec</p>
+ <p>2 gros oignons émincés</p>
+ <p>10 gousses d’ ail écrasées ou pilées</p>
+ <p>4 tomates olivettes</p>
+ <p>1 branche de thym</p>
+ <p>1 pincée de safran</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlever la membrane du <ingredient quantite=1>saucisson</ingredient> et le couper en rondelles assez fines. dans une <recipient>marmite</recipient> légèrement huilée, <operation temps=6.86min espace=9>faire revenir les tranches de <ingredient quantite=1>saucisson</ingredient> jusqu’ à ce qu’ elles brunissent</operation>. enlever de la <recipient>marmite</recipient> et réserver. si il y a peu trop d’ huile, en jeter un peu. remettre la <recipient>marmite</recipient> au feu. faire dorer les <ingredient quantite=2>oignons</ingredient> eminces et l’ <ingredient quantite=1>ail écrasé</ingredient>. ajouter le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>safran</ingredient>, puis tourner. ajouter les <ingredient quantite=4>tomates</ingredient> coupées, puis <operation temps=6.86min espace=9>faire fondre à feu doux</operation>. quand les épices sont bien fondues, y ajouter les tranches de <ingredient quantite=1>saucisson</ingredient>. <operation temps=10.0min espace=9>laisser mijoter 10 mn à feu doux en tournant de temps en temps</operation>. se mange avec du riz blanc.
+]]>
+ </preparation>
+</recette>

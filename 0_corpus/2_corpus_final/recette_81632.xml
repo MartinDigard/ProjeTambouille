@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81632">
+ <titre>Salade légère céléris, avocats, broccolis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grandes branches de céleri blanc</p>
+ <p>1 bouquet de brocolis</p>
+ <p>1 avocat</p>
+ <p>15 olives noires (à la grecque) </p>
+ <p>15 olives vertes</p>
+ <p>100 g de fromage feta</p>
+ <p>1 poignée de germes de luzerne (ou d’ une autre sorte) Pour la vinaigrette: </p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe d’ huile de truffe</p>
+ <p>vinaigre balsamique</p>
+ <p>sel et poivre</p>
+ <p>1 échalote</p>
+ <p>1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=15.0min espace=15>faites blanchir les <ingredient quantite=1>brocolis</ingredient> coupés grossièrement en morceaux (à la vapeur si possible, 15 min</operation>). ensuite, dans un <ingredient quantite=1>grand</ingredient> <recipient>saladier</recipient>, mettez le <ingredient quantite=6>céleri</ingredient> en morceaux, <ingredient quantite=1>germes de luzernes</ingredient>, <ingredient quantite=1>feta</ingredient> et <ingredient quantite=1>olives</ingredient> en petit dés, <ingredient quantite=1>avocats</ingredient> en dés, trempés dans le <ingredient quantite=1>citron</ingredient> et l’ <ingredient quantite=1>échalote</ingredient>. mélangez les ingrédients pour <ingredient quantite=1>la vinaigrette</ingredient> et <operation temps=6.86min espace=15>ajoutez - les au <recipient>plat</recipient> ainsi que les <ingredient quantite=1>brocolis</ingredient> (froids</operation>). j’ ai découvert une salade de ce type au chili et je l’ ai reconstituée à ma manière, c’ est bon, original et léger, dites -moi ce que vous en <operation temps=6.86min espace=15>pensez</operation>.
+]]>
+ </preparation>
+</recette>

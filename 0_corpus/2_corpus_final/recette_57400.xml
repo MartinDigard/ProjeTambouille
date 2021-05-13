@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57400">
+ <titre>Poulet à l’ orange</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>1/2 litre de jus orange non sucré</p>
+ <p>1 sachet de soupe à l’ oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser le 1/2 <ingredient quantite=1>litre de jus</ingredient> d’ <ingredient quantite=1>orange</ingredient> dans un ultra cuiseur. mélanger avec le <ingredient quantite=1>sachet de soupe à</ingredient> l’ <ingredient quantite=1>oignon</ingredient>. rajouter vos 4 <ingredient quantite=4>cuisses de poulet</ingredient>. ne pas rajouter de sel, ni de poivre. c’ est tout! cuisson: 25 minutes à <operation temps=6.86min espace=3>partir du chuchotement de l’ appareil</operation>. server avec du riz basmati ou thaï. c’ est délicieux!
+]]>
+ </preparation>
+</recette>

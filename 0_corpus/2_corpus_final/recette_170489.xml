@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170489">
+ <titre>Crumble de courgettes au thym</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 belles courgettes</p>
+ <p>100 g de farine</p>
+ <p>80g de beurre</p>
+ <p>100 g de parmesan </p>
+ <p>1 cuillère à soupe de thym frais</p>
+ <p>1 gousse d’ ail</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez les <ingredient quantite=5>courgettes</ingredient> en cubes</operation>, <operation temps=6.86min espace=9>faites les</operation> <operation temps=6.86min espace=9>revenir dans de l’ huile d’ <ingredient quantite=1>olive</ingredient> avec du</operation> <ingredient quantite=1>thym</ingredient> (<operation temps=6.86min espace=9>mettez en beaucoup) et de l’ <ingredient quantite=1>ail</ingredient></operation> écrasé, sel poivre. <operation temps=0.25min espace=9>couvrez</operation> et <operation temps=6.86min espace=9>laissez cuire à l’</operation> étouffé 15 min. malaxez dans un bol le beurre, la farine et le <ingredient quantite=1>parmesan</ingredient>. le mélange doit être sableux. <operation temps=6.86min espace=9>sortez les <ingredient quantite=5>courgettes</ingredient> du feu</operation>, <operation temps=6.86min espace=9>mettez - les dans un <recipient>plat</recipient> qui</operation> va au <recipient>four</recipient>, <operation temps=6.86min espace=9>recouvrez du mélange</operation> sablé. <operation temps=30.0min espace=9>enfournez 30 min (le dessus</operation> doit être un peu bruni). <operation temps=2.0min espace=9>servez</operation>.
+]]>
+ </preparation>
+</recette>

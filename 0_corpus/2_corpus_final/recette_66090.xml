@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66090">
+ <titre>Crumble de boeuf à la mimolette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 steaks hachés</p>
+ <p>1 cube de bouillon de boeuf</p>
+ <p>1 gousse d’ ail</p>
+ <p>100 g de mimolette </p>
+ <p>100 g de beurre salé</p>
+ <p>100 g de chapelure</p>
+ <p>persil</p>
+ <p>purée de céleri ou de pommes de terre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire dorer les steaks <ingredient quantite=4>hachés</ingredient> émiettés et la gousse d’ <ingredient quantite=1>ail hachée</ingredient> à la <recipient>poêle</recipient> dans un peu de beurre. ajouter le <ingredient quantite=1>bouillon</ingredient> (1 <ingredient quantite=1>cube</ingredient> + 1 verre d’ eau) et <operation temps=6.86min espace=11>laisser cuire jusqu’ à évaporation totale</operation>. saupoudrer de <ingredient quantite=1>persil</ingredient> haché. préparer la pate à crumble en râpant grossièrement la mimolette et en la malaxant avec le beurre et la <ingredient quantite=1>chapelure</ingredient>. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). dans un <recipient>plat</recipient> à gratin, mettre une couche épaisse de <ingredient quantite=1>purée de pomme de terre ou de purée de céleri</ingredient>, puis la viande <ingredient quantite=1>hachée</ingredient> et pour <operation temps=6.86min espace=11>finir la pâte à crumble</operation>. <operation temps=30.0min espace=11>faire gratiner pendant 20 à 30 min selon les fours</operation>. accompagner de salade verte assaisonnée. saumur champigny, st nicolas de bourgueil
+]]>
+ </preparation>
+</recette>

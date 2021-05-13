@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36812">
+ <titre>Roulés de volaille aux pruneaux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de volaille (poulet ou dinde) </p>
+ <p>8 tranches de jambon cru</p>
+ <p>300 g de pruneaux moelleux dénoyautés </p>
+ <p>30 g de beurre</p>
+ <p>ficelle pour cuisiner</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rouler environ 3 pruneaux (selon la taille) dans chaque <ingredient quantite=1>escalope</ingredient>. enrober chaque petit " balottin " de 2 <ingredient quantite=8>tranches de jambon cru</ingredient>. ficeler le tout comme un petit rôti. <operation temps=1.0min espace=5>faire fondre le beurre</operation> puis ajouter y les 4 roulés. lorsque que le <ingredient quantite=8>jambon</ingredient> est doré, cuire en couvrant, à feu très doux, pendant 35 minutes (vous pouver ajuster le temps de cuisson en fonction de la couleur blanche que prend la <ingredient quantite=4>volaille</ingredient>). a mi-cuisson ajouter le reste de pruneaux. si vous souhaitez <operation temps=6.86min espace=5>obtenir un peu de jus, en fin de cuisson</operation> ajouter un peu d’ eau et déglacer le tout.
+]]>
+ </preparation>
+</recette>

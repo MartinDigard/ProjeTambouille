@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22098">
+ <titre>Paupiettes de veau aux oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 escalopes de veau très fines</p>
+ <p>4 tranches très fines de jambon fumé</p>
+ <p>2 oeufs durs</p>
+ <p>3 cuillères à soupe de vin blanc sec</p>
+ <p>fines herbes fraîches hachées</p>
+ <p>1 bracnhe de thym</p>
+ <p>sel, poivre</p>
+ <p>beurre, huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+recouvrir chaque <ingredient quantite=1>escalope</ingredient> d’ <ingredient quantite=1>herbes hachées</ingredient> puis d’ une <ingredient quantite=4>tranche de jambon</ingredient>. poser dessus 1/2 <ingredient quantite=1>oeuf dur</ingredient>, enrouler le tout, et ficeler. <operation temps=6.86min espace=10>faire dorer les paupiettes dans une <recipient>cocotte</recipient>, avec un peu d’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=1>thym</ingredient></operation>. saler légèrement, bien poivrer. <operation temps=20.0min espace=10>laisser cuire 20 minutes à feu doux</operation>. retirer les paupiettes, déglacer la <recipient>cocotte</recipient> avec le <ingredient quantite=3>vin blanc</ingredient> en grattant les sucs de cuissons. <operation temps=6.86min espace=10>servir les paupiettes avec la sauce et du riz au légumes</operation>.
+]]>
+ </preparation>
+</recette>

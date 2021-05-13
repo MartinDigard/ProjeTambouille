@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16373">
+ <titre>Ragoût de veau aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de veau spécial ragoût</p>
+ <p>2 oignons</p>
+ <p>1 gosse boîte de champignons de Paris entiers</p>
+ <p>250 g d’ olives vertes</p>
+ <p>5 cuillères à soupe bombées de farine</p>
+ <p>huile, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler le <ingredient quantite=1>veau</ingredient> en gros cubes, le saisir 5 minutes à la <recipient>cocotte</recipient> (en fonte de préférence) avec l’ <ingredient quantite=1>huile</ingredient>. fariner généreusement la viande. rajouter les <ingredient quantite=2>oignons</ingredient> hachés, puis les <ingredient quantite=1>olives</ingredient> et les <ingredient quantite=1>champignons</ingredient> préalablement égouttés. saler et poivrer. mettre alors 75 cl d’ eau, <operation temps=0.25min espace=8>couvrir</operation> et <operation temps=6.86min espace=8>laisser cuire à feu très doux 3h à 3h30: tout</operation> dépend de la sauce. il faut la goûter au bout de 3 heures, et rajouter de l’ eau si elle est trop épaisse. mais attention: ne jamais rajouter de farine si elle est trop liquide (grumeaux en perspective!!!). le meilleur accompagnement est le riz, mais on peut aussi utiliser des tagliatelles ou des pommes de terre. comme tous les <ingredient quantite=1>ragoûts</ingredient>, ce <recipient>plat</recipient> est meilleur réchauffé. aussi, pour un déjeuner, il vaut mieux le préparer la veille au soir. bordeaux rouge
+]]>
+ </preparation>
+</recette>

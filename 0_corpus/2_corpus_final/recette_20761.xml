@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20761">
+ <titre>Salade moscovite</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pommes de terre</p>
+ <p>1 carotte ou 2 pour un goût + sucré</p>
+ <p>5 oeufs</p>
+ <p>1 cornichon frais</p>
+ <p> (1 cornichon salé) </p>
+ <p>1 oignon</p>
+ <p>1 talon de jambon ou 300 g de boeuf cuit</p>
+ <p>mayonnaise ou crème fraîche</p>
+ <p>1 brin de persil frais de préférence</p>
+ <p>1 boîte de petits pois (250 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les patates, les <ingredient quantite=5>oeufs</ingredient>, les <ingredient quantite=1>carottes</ingredient> et la viande si vous utilisez le <ingredient quantite=1>boeuf</ingredient>. apres la cuisson <operation temps=20.0min espace=9>laissez refroidir</operation>. <operation temps=6.86min espace=9>coupez le tout en tous <ingredient quantite=1>petits</ingredient> carrés</operation>. <operation temps=6.86min espace=9>coupez le <ingredient quantite=1>cornichon</ingredient> en <ingredient quantite=1>petits</ingredient> carrés et hachez l’ <ingredient quantite=1>oignon</ingredient></operation>. <operation temps=5.0min espace=9>mélangez</operation> le tout avec les <ingredient quantite=1>petits pois</ingredient>. ajoutez la <ingredient quantite=1>mayonnaise</ingredient> ou la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=5.0min espace=9>mélangez</operation>. certains mélangent la préparation avec les 2. mangez froid
+]]>
+ </preparation>
+</recette>

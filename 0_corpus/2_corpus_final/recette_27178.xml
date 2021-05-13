@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27178">
+ <titre>Brioches farcies au foie gras et à la truffe</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 petites brioches parisiennes</p>
+ <p>1 truffe en boîte</p>
+ <p>50 g de crème fraîche liquide</p>
+ <p>1 cuillère à soupe de Cognac</p>
+ <p>200 g de foie gras</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etêter les <ingredient quantite=6>brioches</ingredient> et <operation temps=6.86min espace=6>évidez - les</operation>. <operation temps=6.86min espace=6>egouttez la truffe et hachez - la</operation>. quant au jus, mélangez - le à la <ingredient quantite=1>crème fraîche</ingredient> et au <ingredient quantite=1>cognac</ingredient>. <operation temps=6.86min espace=6>assaisonnez de <ingredient quantite=1>sel</ingredient> et de poivre</operation>. <operation temps=6.86min espace=6>versez à la <ingredient quantite=1>cuillère</ingredient> quelques gouttes du jus dans chaque <ingredient quantite=1>brioche</ingredient> pour bien les</operation> imbiber. farcissez les <ingredient quantite=6>brioches</ingredient> de dés de <ingredient quantite=1>foie gras</ingredient> et de truffe hachée et <operation temps=2.0min espace=6>servez</operation>. vous pouvez <operation temps=6.86min espace=6>servir avec de la gelée hachée et parfumée de <ingredient quantite=1>cognac</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

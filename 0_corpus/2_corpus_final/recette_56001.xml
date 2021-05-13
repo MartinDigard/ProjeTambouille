@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56001">
+ <titre>Pâté de foie gras à la strasbourgeoise</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>350 g de pâte brisée</p>
+ <p>1 foie gras cru de 500 g</p>
+ <p>250 g de filet de porc</p>
+ <p>250 g de filet de veau</p>
+ <p>10 cl de madère</p>
+ <p>10 cl de cognac</p>
+ <p>5 cl de kirsch</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 sachet de gelée</p>
+ <p>2 pincées de noix de muscade</p>
+ <p>2 pincées de clous de girofle</p>
+ <p>20 g de sel</p>
+ <p>4 pincées de poivre moulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille, <operation temps=6.86min espace=17>mélangez les épices avec le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=4>poivre</ingredient></operation>. <operation temps=6.86min espace=17>dénervez le <ingredient quantite=1>foie</ingredient> et le</operation> mettre dans une <recipient>terrine</recipient> avec le <ingredient quantite=1>kirsch</ingredient>, le <ingredient quantite=1>cognac</ingredient>, le madère et le tiers du mélange d’ épices. le couvrir et le <operation temps=6.86min espace=17>laisser mariner 12h au frigo</operation>. le lendemain, hachez le <ingredient quantite=1>veau</ingredient> et le <ingredient quantite=1>porc</ingredient> et <operation temps=6.86min espace=17>mélangez les avec le reste des épices, au jus de la marinade et à l’ <ingredient quantite=1>huile</ingredient></operation>. <operation temps=6.86min espace=17>allumez le <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=17>etalez la <ingredient quantite=1>pâte</ingredient> et posez au centre la moitié du mélange de viandes hachées</operation>, mettez dessus le <ingredient quantite=1>foie gras</ingredient> entier et <operation temps=6.86min espace=17>couvrez avec le reste de viandes hachées, tassez</operation>. <operation temps=6.86min espace=17>rabattez les bords de la</operation> <ingredient quantite=1>pâte</ingredient>, <operation temps=6.86min espace=17>soudez - les en les pinçant</operation> et <operation temps=6.86min espace=17>pratiquez une cheminée au centre de la pâté</operation>. <operation temps=6.86min espace=17>badigeonnez le</operation> paté avec le jaune d’ <ingredient quantite=1>oeuf</ingredient> délayé dans un peu d’ eau. <operation temps=45.0min espace=17>enfournez 45 min</operation>. au bout de ce temps, <operation temps=6.86min espace=17>sortez le pâté du <recipient>four</recipient>, le</operation> <operation temps=6.86min espace=17>laissez se</operation> <operation temps=30.0min espace=17>refroidir pendant 30 min</operation> et <operation temps=6.86min espace=17>versez par le trou de la cheminée la</operation> <ingredient quantite=1>gelée</ingredient> et <operation temps=6.86min espace=17>laissez 12 h au frais</operation>. <operation temps=6.86min espace=17>servez le pâté froid avec une salade, c’ est un régal</operation>. bon appétit! dans la véritable recette, on doit répartir des lamelles de truffe (50 <ingredient quantite=1>g</ingredient>) sur le <ingredient quantite=1>foie gras</ingredient> avant de le <operation temps=6.86min espace=17>couvrir du reste de viande hachée</operation>. maury
+]]>
+ </preparation>
+</recette>

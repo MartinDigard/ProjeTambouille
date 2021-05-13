@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19663">
+ <titre>Riz Tandoori végétarien</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 tasse de riz blanc</p>
+ <p>1 tasse 1/2 d’ eau</p>
+ <p>1/2 cuillère à café de pâte de curry Tandoori </p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 restant de légumes cuits natures: blanc de poireau, chicon, céleri (coupés en rondelles d’ un cm) </p>
+ <p>1 petite tomate en morceaux (pour la couleur) </p>
+ <p>sel, poivre, selon goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la cuiller à <ingredient quantite=1>soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>poêle</recipient> et <operation temps=15.0min espace=9>faire chauffer</operation>. lorsque l’ <ingredient quantite=1>huile</ingredient> est chaude y verser le <ingredient quantite=1>riz</ingredient> en pluie (comme pour la paella) et <operation temps=3.0min espace=9>laisser cuire 2 à 3 mn</operation>. lorsque le <ingredient quantite=1>riz</ingredient> commence à <operation temps=6.86min espace=9>brunir légèrement le mouiller avec la dose d’</operation> <ingredient quantite=1>eau</ingredient>, ajouter la <ingredient quantite=1>pâte de curry tandoori</ingredient> et <operation temps=3.0min espace=9>laisser mijoter 3 mn à couvert puis à mi-couvert</operation>. vérifier la cuisson du <ingredient quantite=1>riz</ingredient> et incorporer les <ingredient quantite=1>légumes</ingredient> en <ingredient quantite=1>morceaux</ingredient>. si nécessaire ajouter un <ingredient quantite=1>petit</ingredient> peu d’ <ingredient quantite=1>eau</ingredient> (attention la <ingredient quantite=1>tomate</ingredient> et les <ingredient quantite=1>légumes</ingredient> même déjà <ingredient quantite=1>cuits</ingredient> dégorgent de l’ <ingredient quantite=1>eau</ingredient>. vérifier l’ assaisonnement. <operation temps=6.86min espace=9>laisser encore</operation> mijoter le temps que les <ingredient quantite=1>légumes</ingredient> se réchauffent sans que le <ingredient quantite=1>riz</ingredient> ne se transforme en <ingredient quantite=1>pâte</ingredient>. <recipient>plat</recipient> idéal pour personnes stressées, fauchées ou tout simplement cherchant à se débarasser des restants de <ingredient quantite=1>légumes</ingredient> autrement que dans l’ éternel " potage du jour "
+]]>
+ </preparation>
+</recette>

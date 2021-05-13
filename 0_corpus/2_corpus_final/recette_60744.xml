@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60744">
+ <titre>Omelette à la cancoillotte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de cancoillotte</p>
+ <p>8 oeufs</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=8>oeufs</ingredient> en omelette avec le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=6.86min espace=6>faire fondre la noisette de beure dans une <recipient>poêle</recipient>, y</operation> verser le pot de <ingredient quantite=1>cancoillotte</ingredient>. <operation temps=6.86min espace=6>laisser bien</operation> fondre le tout. ajouter les <ingredient quantite=8>oeufs</ingredient> battus dans la <recipient>poêle</recipient> et bien remuer. <operation temps=30.0min espace=6>laisser cuire</operation> suivant la consistance désirée. <operation temps=2.0min espace=6>servir chaud</operation> accompagnée de salade verte. trés facile a réaliser et très pratique pour un repas du soir (très rapide) et pas chère. compter 2 <ingredient quantite=8>oeufs</ingredient> par personne. vin blanc du jura
+]]>
+ </preparation>
+</recette>

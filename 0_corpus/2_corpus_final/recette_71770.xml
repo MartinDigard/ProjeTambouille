@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71770">
+ <titre>Burritos fajitas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 galettes de blé</p>
+ <p>500 g de viande hachée</p>
+ <p>2 oignons</p>
+ <p>3 tomates</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>épices mexicaines</p>
+ <p>un peu de piment d’ espelette en poudre</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ <p>fromage râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites revenir vos deux <ingredient quantite=2>oignons</ingredient> hâchés avec un <ingredient quantite=1>peu</ingredient> de beurre</operation>. une fois saisis, ajoutez la <ingredient quantite=1>viande hachée</ingredient>. quand la <ingredient quantite=1>viande</ingredient> est presque totalement cuite, <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=3>tomates</ingredient> et les 2 <ingredient quantite=1>poivrons</ingredient> coupés en petits morceaux</operation>. <operation temps=10.0min espace=11>laissez cuire à feu doux pendant 10 min</operation>. assaisonnez d’ <ingredient quantite=1>épices mexicaines</ingredient>, de <ingredient quantite=1>piment</ingredient> d’ <ingredient quantite=1>espelette</ingredient> avec un <ingredient quantite=1>peu</ingredient> de <ingredient quantite=1>sel</ingredient> et de poivre. <operation temps=6.86min espace=11>réchauffez les tortillas au micro-ondes</operation>, incorporez la préparation dans vos <ingredient quantite=8>galettes de blé</ingredient> et ajoutez un <ingredient quantite=1>peu</ingredient> de <ingredient quantite=1>fromage râpé</ingredient> avant de déguster!!! bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228018">
+ <titre>Gratin printanier au blé</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>160 g de blé</p>
+ <p>2 courgettes</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 pincée de fromage râpé</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ <p>1 branche de thym, romarin (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>blé</ingredient> selon les indications du paquet (dans de l’ eau bouillante</operation>). pendant ce temps, <operation temps=6.86min espace=11>faire revenir l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=2>courgettes</ingredient></operation> coupées en fines lamelles dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> avec le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>poivre</ingredient>, les herbes aromatiques pendant une dizaine de minutes à peine. égoutter le <ingredient quantite=1>blé</ingredient> et le mélanger à la préparation de <ingredient quantite=2>courgettes</ingredient>. mettre le mélange dans un <recipient>plat</recipient> adapté au <recipient>four</recipient> avec un peu de <ingredient quantite=1>fromage râpé</ingredient> au dessus. <operation temps=6.86min espace=11>faire gratiner au <recipient>four</recipient> une quinzaine de minutes à 180 ° c</operation> (arrêter la cuisson lorsque le <ingredient quantite=1>fromage</ingredient> est fondu).
+]]>
+ </preparation>
+</recette>

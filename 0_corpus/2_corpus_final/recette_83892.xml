@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83892">
+ <titre>Glace au lait d’ amande</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>20 cl de crème fraiche épaisse</p>
+ <p>20 cl de sirop au lait d’ amande</p>
+ <p>20 cl de lait 1/2 écrémé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>mélangez la <ingredient quantite=1>crème</ingredient> avec le <ingredient quantite=1>sirop</ingredient>, puis avec le <ingredient quantite=1>lait</ingredient></operation>. <operation temps=6.86min espace=5>versez la préparation dans une <recipient>sorbetière</recipient></operation>, <operation temps=30.0min espace=5>laisser turbiner pendant 30 minutes</operation>. a déguster immédiatement ou à réserver au <recipient>congélateur</recipient>. a déguster en accompagnement de tarte tatin ou de mille feuilles aux fruits rouge, tout simplement excellent!
+]]>
+ </preparation>
+</recette>

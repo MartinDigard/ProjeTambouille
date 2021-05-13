@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25401">
+ <titre>Gâteau à la crème de marrons</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de crème de marrons</p>
+ <p>2 oeufs</p>
+ <p>3 cuillères à café de fécule</p>
+ <p>10 cl de crème de fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la <ingredient quantite=1>crème de marrons</ingredient>, les jaunes d’ <ingredient quantite=2>oeufs</ingredient> et la <ingredient quantite=3>fécule</ingredient>. incorporer la <ingredient quantite=1>crème fraîche</ingredient> puis les blancs d’ <ingredient quantite=2>oeufs</ingredient> battus en neige. cuire 20 min à 200 ° c (thermostat 6 - 7).
+]]>
+ </preparation>
+</recette>

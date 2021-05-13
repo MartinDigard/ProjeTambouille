@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80554">
+ <titre>Tiramisu menthe chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat noir</p>
+ <p>50 g de sucre</p>
+ <p>150 g de mascarpone</p>
+ <p>3 oeufs</p>
+ <p>20 biscuits à la cuiller</p>
+ <p>10 cl de liqueur de menthe</p>
+ <p>10 cl d’ eau</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>chocolat</ingredient></operation>. mélanger le <ingredient quantite=1>sucre</ingredient> et les jaunes d’ <ingredient quantite=3>oeufs</ingredient> jusqu’ à ce qu’ ils deviennent mousseux. ajouter le <ingredient quantite=1>mascarpone</ingredient> et le <ingredient quantite=1>chocolat</ingredient> fondu et fouetter. battre les blancs d’ <ingredient quantite=3>oeufs</ingredient> en neige avec une pincée de <ingredient quantite=1>sel</ingredient> et les incorporer au mélange précédent. diluer la <ingredient quantite=1>liqueur</ingredient> avec l’ <ingredient quantite=1>eau</ingredient> dans un récipient <recipient>plat</recipient>. pour dresser dans les verres: mettre une couche de biscuits trempés dans la <ingredient quantite=1>liqueur</ingredient>. puis mettre une couche de mélange au <ingredient quantite=1>chocolat</ingredient> d’ environ 1, 5 cm. recommencer l’ opération 3 fois au moins en fonction de la hauteur des verres. mettre au <recipient>réfrigérateur</recipient> pendant 4 h au moins.
+]]>
+ </preparation>
+</recette>

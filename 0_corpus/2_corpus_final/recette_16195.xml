@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16195">
+ <titre>Rôti de veau normand</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rôti de veau de 1 kg</p>
+ <p>1/2 litre de cidre brut Normand</p>
+ <p>1 kg de pommes (fruits) fermes</p>
+ <p>2 oignons</p>
+ <p>2 cuillères à soupe d’ huile de tournesol</p>
+ <p>1 brin de thym</p>
+ <p>1 petit verre de calvados</p>
+ <p>5 ou 6 feuilles de sauge</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>attrapez votre <recipient>cocotte</recipient> en fonte par les oreilles</operation>. <operation temps=6.86min espace=10>versez - y 2 <ingredient quantite=2>cuillères</ingredient> à <ingredient quantite=2>soupe</ingredient> d’</operation> <ingredient quantite=2>huile</ingredient> et <operation temps=6.86min espace=10>faites - y</operation> <operation temps=6.86min espace=10>revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés, puis <operation temps=6.86min espace=10>ajoutez le rôti</operation>. <operation temps=6.86min espace=10>dorez - le sur toutes ses faces</operation>. <operation temps=6.86min espace=10>arrosez de <ingredient quantite=1>calvados</ingredient> et flambez</operation>. <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>ajoutez la branche de <ingredient quantite=1>thym</ingredient> et la <ingredient quantite=5>sauge</ingredient> dans une étamine</operation>. <operation temps=6.86min espace=10>versez le <ingredient quantite=1>cidre</ingredient></operation>. <operation temps=0.25min espace=10>couvrez</operation> et <operation temps=45.0min espace=10>laissez cuire 45 mn à feu doux</operation>. pendant ce temps, épluchez les <ingredient quantite=1>pommes</ingredient>, <operation temps=6.86min espace=10>coupez - les en quartiers</operation> et <operation temps=6.86min espace=10>ajoutez - les à votre rôti</operation>. <operation temps=6.86min espace=10>continuez la cuisson une quinzaine de minutes à</operation> découvert afin que le mouillement diminue des 3/4.
+]]>
+ </preparation>
+</recette>

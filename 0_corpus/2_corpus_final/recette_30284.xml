@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30284">
+ <titre>Gratin d’ aubergines</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 aubergines</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>25 cl de coulis de tomate</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à café de thym séché</p>
+ <p>100 g de parmesan râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=4>aubergines</ingredient>, <operation temps=6.86min espace=10>coupez - les en tranches fines</operation> et faites - les dorer dans 4 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=5>huile</ingredient> chaude. <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=2>ail</ingredient></operation> haché en cours de cuisson pour qu’ il ne brûle pas. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=10>réchauffez la sauce <ingredient quantite=1>tomate</ingredient> avec le <ingredient quantite=1>thym</ingredient></operation>. <operation temps=6.86min espace=10>huilez un <recipient>plat</recipient> à <recipient>four</recipient></operation> et <operation temps=6.86min espace=10>disposez - y les <ingredient quantite=4>aubergines</ingredient></operation> dorées. <operation temps=6.86min espace=10>recouvrez de sauce <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=6.86min espace=10>arrosez d’ huile</operation> et <operation temps=5.0min espace=10>enfournez 5 minutes pour réchauffer</operation>. <operation temps=6.86min espace=10>saupoudrez de</operation> <ingredient quantite=1>parmesan</ingredient> et <operation temps=10.0min espace=10>remettez au <recipient>four</recipient> 10 minutes pour</operation> gratiner le dessus.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50130">
+ <titre>Tarte flan aux fruits rouges meringuée</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte à tarte: </p>
+ <p>200 g farine</p>
+ <p>50 g sucre</p>
+ <p>1 oeuf</p>
+ <p>5 cl de lait</p>
+ <p>100 g beurre</p>
+ <p>Pour la garniture: </p>
+ <p>50 cl de pudding à la vanille (ou préparation pour flan) </p>
+ <p>fruits rouges</p>
+ <p>50 g sucre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>Pour la meringue: </p>
+ <p>5 blancs d’ oeufs</p>
+ <p>150 g sucre</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>pâte à tarte</ingredient>: mélanger le beurre fondu, le lait, le sucre et l’ <ingredient quantite=1>oeuf</ingredient>. ajouter la farine, bien <operation temps=6.0min espace=16>pétrir</operation>. (si la <ingredient quantite=1>pâte</ingredient> est trop collante, ajouter de la farine, si elle est trop friable, ajouter un peu de lait). <operation temps=30.0min espace=16>laisser reposer 30 min et étaler au rouleau</operation>. beurrer et fariner un <recipient>moule</recipient> à <ingredient quantite=1>tarte</ingredient> et y étendre la <ingredient quantite=1>pâte</ingredient>. verser sur la <ingredient quantite=1>pâte</ingredient> le <ingredient quantite=1>pudding</ingredient>. mixer les <ingredient quantite=1>fruits</ingredient> et le sucre, ajouter une <ingredient quantite=1>cuillère</ingredient> de farine et <operation temps=15.0min espace=16>faire chauffer</operation> puis étendre ce mélange sur la couche de <ingredient quantite=1>pudding à la vanille</ingredient>. battre les blancs en neige avec le <ingredient quantite=1>sel</ingredient>. quand les blancs se raffermissent, ajouter le sucre. une fois ferme, étaler délicatement la <ingredient quantite=1>meringue</ingredient> sur les <ingredient quantite=1>fruits</ingredient>. préchauffer le fous à 200 ° c (thermostat 6 - 7) et enfourner pendant 20 min, le dessus doit être doré et l’ intérieur moelleux.
+]]>
+ </preparation>
+</recette>

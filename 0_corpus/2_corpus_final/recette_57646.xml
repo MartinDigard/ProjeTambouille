@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57646">
+ <titre>Aubergines farcies à la ratatouille et aux raisins secs</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse aubergine</p>
+ <p>1 petite boîte de ratatouille (environ 250 g) </p>
+ <p>1 cuillère à soupe de raisins secs</p>
+ <p>1 cuillère à soupe de poudre d’ amandes</p>
+ <p>3 cuillères à soupe de fromage blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>lavez l’</operation> <ingredient quantite=1>aubergine</ingredient>, <operation temps=6.86min espace=7>coupez - la en 2 moitiés</operation> et <operation temps=20.0min espace=7>cuisez - la à la vapeur pendant 20 minutes</operation>. <operation temps=6.86min espace=7>laissez - la refroidir et</operation> puis <operation temps=6.86min espace=7>récuperez la chair d’ <ingredient quantite=1>aubergine</ingredient> sans</operation> abîmer les coques. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). hachez la chair d’ <ingredient quantite=1>aubergine</ingredient> et mélangez - la avec la <ingredient quantite=1>ratatouille</ingredient>, le <ingredient quantite=3>fromage blanc</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> et les <ingredient quantite=1>raisins</ingredient>. <operation temps=45.0min espace=7>farcissez les coques d’ <ingredient quantite=1>aubergines</ingredient> de ce mélange et enfournez pour 45 minutes de cuisson</operation>. <operation temps=6.86min espace=7>ajoutez du riz ou de la semoule pour un <recipient>plat</recipient> complet</operation>. meilleures réchauffées.
+]]>
+ </preparation>
+</recette>

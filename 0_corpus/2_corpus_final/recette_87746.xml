@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87746">
+ <titre>Gâteau au yaourt et au miel d’ alsace</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de yaourt vanille</p>
+ <p>3 pots de farine</p>
+ <p>2 pots de sucre</p>
+ <p>1 sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>4 oeufs</p>
+ <p>poudre de vanille (quelques pincées) </p>
+ <p>4 cuillères à soupe de miel d’ acacia</p>
+ <p>2 cuillères à soupe de confiture de fraises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un récipient, verser le <ingredient quantite=1>pot de yaourt</ingredient> à la <ingredient quantite=1>vanille</ingredient> et se <operation temps=6.86min espace=11>servir du <ingredient quantite=1>pot</ingredient> comme mesure</operation>. y ajouter la farine, le <ingredient quantite=2>sucre</ingredient>, les <ingredient quantite=4>oeufs</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=2>sucre</ingredient> vanillé et mélanger le tout. une fois le mélange bien lisse, y ajouter le <ingredient quantite=4>miel</ingredient> et la <ingredient quantite=1>poudre de vanille</ingredient>. beurrer le <recipient>moule</recipient> et y verser la moitié de la pâte. puis, ajouter la <ingredient quantite=2>confiture de fraises</ingredient> au milieu et verser le reste de la pâte. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6) puis <operation temps=35.0min espace=11>laisser cuire environ 35 min</operation>. une fois sorti et refroidi, décorer le gâteau en mettant du <ingredient quantite=4>miel</ingredient> sur le dessus.
+]]>
+ </preparation>
+</recette>

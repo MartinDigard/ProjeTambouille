@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31555">
+ <titre>Crumble aux quetsches</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>200 g de sucre semoule</p>
+ <p>100 g de beurre</p>
+ <p>350 g de quetsches</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à thermostat 6/7 (200 ° c). <operation temps=6.86min espace=8>mélangez la farine, le <ingredient quantite=1>sucre</ingredient> et le beurre</operation> ramolli dans un <recipient>saladier</recipient> jusqu’ à ce que la pâte forme des petits grains. <operation temps=6.86min espace=8>dénoyautez les</operation> <ingredient quantite=1>quetsches</ingredient> et <operation temps=6.86min espace=8>coupez - les en deux</operation>. <operation temps=6.86min espace=8>tapissez -en le fond du <recipient>moule</recipient></operation>. <operation temps=6.86min espace=8>saupoudrez les <ingredient quantite=1>quetsches</ingredient> avec un peu de <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=8>versez le mélange dessus</operation>. <operation temps=6.86min espace=8>mettez au <recipient>four</recipient> pendant environ 30 à 45 min, jusqu’ à ce que le dessus soit bien</operation> doré et que les <ingredient quantite=1>quetsches</ingredient> soient réduites en une matière assez liquide.
+]]>
+ </preparation>
+</recette>

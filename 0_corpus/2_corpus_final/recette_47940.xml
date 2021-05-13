@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47940">
+ <titre>Salade d’ endives au comté, pommes et avocats</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 endives</p>
+ <p>150 g de comté</p>
+ <p>2 avocats</p>
+ <p>2 ou 3 pommes granny selon la taille</p>
+ <p>Pour l’ assaisonnement: </p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>huile d’ olive</p>
+ <p>vinaigre de noix</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=5>endives</ingredient> en lamelles, les mettre dans un <recipient>saladier</recipient>. ajouter le <ingredient quantite=1>comté</ingredient> coupé en petits cubes, les <ingredient quantite=2>pommes</ingredient> et les <ingredient quantite=2>avocats</ingredient> coupés en dés. au moment de <operation temps=2.0min espace=10>servir</operation>, incorporer la vinaigrette. salade à <operation temps=6.86min espace=10>faire au dernier moment pour ne pas que les <ingredient quantite=2>avocats</ingredient> et les <ingredient quantite=2>pommes</ingredient> ne</operation> noircissent. on peut y ajouter des <ingredient quantite=1>noix</ingredient>. vin blanc sec du jura
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29377">
+ <titre>Gratin aubergine tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 aubergine</p>
+ <p>3 tomates</p>
+ <p>1 petit oignon</p>
+ <p>2 oeufs</p>
+ <p>gruyère râpé</p>
+ <p>crème</p>
+ <p>basilic</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez l’ <ingredient quantite=1>aubergine</ingredient> et <operation temps=6.86min espace=11>coupez - la en fines tranches</operation>. <operation temps=6.86min espace=11>passez ces tranches à la <recipient>poêle</recipient> dans de l’ huile d’ olive, épongez - les un peu</operation>. <operation temps=6.86min espace=11>coupez les <ingredient quantite=3>tomates</ingredient> en tranches</operation>. émincez finement l’ <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=11>faites le</operation> <operation temps=6.86min espace=11>revenir dans de l’ huile d’ olive</operation>. dans un <recipient>plat</recipient> <operation temps=6.86min espace=11>alternez des couches de <ingredient quantite=3>tomates</ingredient>, d’ <ingredient quantite=1>aubergines</ingredient> et d’</operation> <ingredient quantite=1>oignon</ingredient> (<operation temps=6.86min espace=11>finissez par une couche de</operation> <ingredient quantite=3>tomates</ingredient>). <operation temps=1.0min espace=11>versez</operation> dessus les <ingredient quantite=2>oeufs</ingredient> battus avec une cuillère de <ingredient quantite=1>crème</ingredient>, du <ingredient quantite=1>sel</ingredient> et du <ingredient quantite=1>basilic</ingredient>. parsemez de <ingredient quantite=1>gruyère râpé</ingredient>. au <recipient>four</recipient> pendant 30 mn à 200 ° c. très bon avec du jambon cru en accompagnement. vin rosé
+]]>
+ </preparation>
+</recette>

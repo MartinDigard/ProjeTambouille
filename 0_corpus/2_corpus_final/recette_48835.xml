@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48835">
+ <titre>Gâteau au riz vanillé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boîtes de riz au lait à la vanille</p>
+ <p>100 g de sucre semoule</p>
+ <p>70 g de farine fermantente (farine avec poudre à lever) </p>
+ <p>4 oeufs entiers</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine et le <ingredient quantite=1>sucre</ingredient>. ajouter les 2 <ingredient quantite=2>boîtes de riz au lait</ingredient> vanillé, puis les <ingredient quantite=4>oeufs entiers</ingredient> battus. verser la préparation dans un <recipient><recipient>moule</recipient> à manqué</recipient>. cuire au <recipient>four</recipient> traditionnel à 180 ° c (thermostat 6/7) pendant 30 minutes. un gâteau que mes enfants réclament régulièrement.
+]]>
+ </preparation>
+</recette>

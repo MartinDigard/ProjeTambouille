@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15378">
+ <titre>Harrira (soupe marocaine) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de viande de boeuf et de mouton coupée en petits dés (1X1), </p>
+ <p>1 oignon</p>
+ <p>3 grosses tomates (on peut utiliser de la tomate en conserve avec son jus) </p>
+ <p>persil, céleri et coriandre</p>
+ <p>50 g de lentilles</p>
+ <p>100 g de pois chiches</p>
+ <p>sel et poivre</p>
+ <p>2 l d’ eau</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>2 œufs</p>
+ <p>1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire chauffer un peu d’</operation> huile dans une <recipient>casserole</recipient> et y <operation temps=6.86min espace=12>faire revenir la <ingredient quantite=1>viande</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=3>tomates</ingredient> pelées</operation> et hachées finement. incorporer le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>céleri</ingredient> et la coriandre hachés finement. <operation temps=6.86min espace=12>faire revenir le tout</operation> puis ajouter les <ingredient quantite=1>lentilles</ingredient> et les <ingredient quantite=1>pois chiches</ingredient>. ajouter le <ingredient quantite=1>sel</ingredient>, le poivre et l’ <ingredient quantite=1>eau</ingredient>. <operation temps=6.86min espace=12>laissez cuire à feux doux pendant 3 h environ</operation>. ajouter la <ingredient quantite=3>farine</ingredient> délayée dans un peu d’ <ingredient quantite=1>eau</ingredient> froide et <operation temps=6.86min espace=12>laisser cuire une demie - heure encore</operation>. au moment de <operation temps=2.0min espace=12>servir</operation>, compléter par 2 jaunes d’ oeufs battus en omelette et incorporer le jus du <ingredient quantite=1>citron</ingredient> au dernier moment. cette <ingredient quantite=3>soupe</ingredient> se sert traditionnellement lors du ramadan.
+]]>
+ </preparation>
+</recette>

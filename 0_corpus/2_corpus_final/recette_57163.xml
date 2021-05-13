@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57163">
+ <titre>Crumble du dessus pomme amande</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 pommes</p>
+ <p>250 g farine</p>
+ <p>250 g de beurre mou</p>
+ <p>250 g cassonade</p>
+ <p>125 g d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=8>pelez</operation> et <operation temps=6.86min espace=8>coupez les <ingredient quantite=8>pommes</ingredient> en quarts, déposez - les au fond d’ un <recipient>plat</recipient> assez profond, idéalemennt en terre</operation> cuite. ouvrez votre sachet d’ <ingredient quantite=1>amandes effilées</ingredient>, aprés vous ne pourrez plus le <operation temps=6.86min espace=8>faire! dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=8>préparez le " dessus "</operation>: <operation temps=6.86min espace=8>mélangez la plaque de <ingredient quantite=1>beurre</ingredient> ramolli, la farine et la cassonade,</operation> et <operation temps=6.86min espace=8>mélangez bein juqu’ à</operation> <operation temps=6.86min espace=8>obtenir une pommade</operation>. ajouter en dernier les <ingredient quantite=1>amandes effilées</ingredient> et malaxez mais pas trop pour ne pas trop les briser. <operation temps=6.86min espace=8>prenez cette " pommade " et comme de la pâte à</operation> modeler <operation temps=6.86min espace=8>applatissez entre les mains pour</operation> <operation temps=6.86min espace=8>couvrir entièrement les <ingredient quantite=8>pommes</ingredient> de cette pate épaisse de 1 à 2 cm</operation>. on ne doit plus voir une <ingredient quantite=1>pomme</ingredient>! <operation temps=40.0min espace=8>faites cuire 40 min au <recipient>four</recipient> à 150 ° c (thermostat 5), jusqu’ à ce que le dessus soit bien</operation> doré et que des petites bulle s’ échappent des bordures (c’ est le jus des <ingredient quantite=8>pommes</ingredient>). gâteau pas très léger mais qui a toujours fait l’ hunanimité, succés assuré. en général, les gens raffolent de la croûte du dessus, d’ où le nom que je lui ai donné!
+]]>
+ </preparation>
+</recette>

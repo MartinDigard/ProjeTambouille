@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41447">
+ <titre>Salmorejo maison</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la crème de "gazpacho": </p>
+ <p>4 tomates </p>
+ <p>1/2 concombre</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 oignon</p>
+ <p>Pour l’ émulsion: </p>
+ <p>sel</p>
+ <p>3 cuillerées de vinaigre de Xérès</p>
+ <p>6 cuillerées à soupe d’ huile d’ olive vierge</p>
+ <p>Pour la garniture: </p>
+ <p>2 œufs durs</p>
+ <p>100g de jambon "Serrano"</p>
+ <p>200 g de thon en conserve</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer les légumes: laver et éplucher <ingredient quantite=4>tomates</ingredient>, <ingredient quantite=1>concombre</ingredient>, <ingredient quantite=1>poivrons</ingredient>, ôter les pépins, peler les <ingredient quantite=1>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. préparer l’ <ingredient quantite=1>émulsion</ingredient> dans le mixer. mixer tous les légumes progressivement dans cet ordre: <ingredient quantite=1>ail</ingredient>, <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=4>tomates</ingredient>, <ingredient quantite=1>concombre</ingredient>, <ingredient quantite=1>poivron rouge</ingredient> et <ingredient quantite=1>vert</ingredient>. réserver au frais. préparer le <ingredient quantite=1>jambon</ingredient>: le couper en lanières. écailler les <ingredient quantite=2>œufs durs</ingredient>, les couper en rondelles (3 mm d’ épaisseur). facile: <operation temps=6.86min espace=15>ouvrir la boite de <ingredient quantite=1>conserve</ingredient> de <ingredient quantite=1>thon</ingredient></operation>. dresser dans des coupelles ou grandes tasses, verser la <ingredient quantite=1>crème</ingredient> de " <ingredient quantite=1>gazpacho</ingredient> ", ajouter 2 rondelles d’ oeuf <ingredient quantite=1>dur</ingredient>, 1 morceau de <ingredient quantite=1>thon</ingredient> 2x3 cm, quelques lamelles de <ingredient quantite=1>jambon</ingredient> (20 g) et 1 petit filet d’ <ingredient quantite=6>huile</ingredient> d’ <ingredient quantite=6>olive</ingredient>. déguster et se régaler!
+]]>
+ </preparation>
+</recette>

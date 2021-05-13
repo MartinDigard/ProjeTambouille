@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56825">
+ <titre>Flan parisien (sans pâte) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1l de lait</p>
+ <p>4 oeufs</p>
+ <p>200 g de farine</p>
+ <p>30 g de beurre</p>
+ <p>80 g de sucre</p>
+ <p>2 sachets de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer votre <recipient>four</recipient> thermostat 5 (150 ° c). <operation temps=6.86min espace=11>faire fondre le beurre dans une petite <recipient>casserole</recipient></operation>. attention de ne pas le <operation temps=30.0min espace=11>faire cuire</operation>. mettre la farine dans une jatte. <operation temps=6.86min espace=11>faire un puit au centre et y</operation> verser les <ingredient quantite=1>sucres</ingredient>, le beurre fondu, puis les œufs. commencer à touiller les ingrédients du centre, puis embarquer progressivement un peu de farine dans le tourbillon en ajoutant le <ingredient quantite=1>lait</ingredient> au fur et à mesure. (vous pouvez <operation temps=6.86min espace=11>faire ce mélange au fouet, le résultat est liquide</operation>.) verser la préparation dans un <recipient>moule</recipient> à gâteau (plutôt celui que vous utilisez pour le gâteau au yaourt). mettre au <recipient>four</recipient> pendant 45 minutes. a la fin de la cuisson, le dessus doit être brun et un peu gonflé. <operation temps=6.86min espace=11>sortir le flan du <recipient>four</recipient> et le</operation> <operation temps=6.86min espace=11>laisser refroidir avant de la</operation> manger. il est normal qu’ il " dégonfle ". on peu ajouter à la préparation des raisins secs que l’ on aura au préalable fait gonfler dans du rhum. parfois aussi, je rajoute un peu d’ extrait de vanille. un bon café
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73727">
+ <titre>Marbré de Manon</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la 1ère couche: - 125 g de farine</p>
+ <p>125 g de sucre</p>
+ <p>125 g de beurre</p>
+ <p>2 œufs</p>
+ <p>1 demi-cuillère à café de levure chimique</p>
+ <p>1 citron (prendre la moitié du jus) Pour la 2ème couche: - 50 g de farine</p>
+ <p>75 g de sucre</p>
+ <p>50 g de beurre</p>
+ <p>75 g de chocolat pâtissier</p>
+ <p>2 œufs</p>
+ <p>1 cuillère à café de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 200 ° c (thermostat 6 - 7).1ère couche: <operation temps=6.86min espace=14>faites ramollir le beurre</operation>. <operation temps=5.0min espace=14>mélangez</operation> - le avec le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=14>ajoutez ensemble la farine et la <ingredient quantite=1>levure</ingredient> tamisées</operation>. <operation temps=6.86min espace=14>mélangez bien,</operation> puis <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=2>œufs</ingredient></operation>. <operation temps=6.86min espace=14>arrosez avec le jus de citron</operation>. <operation temps=6.86min espace=14>mettez cette préparation de côté pendant que vous</operation> <operation temps=6.86min espace=14>préparez la deuxième couche.2ème couche</operation>: <operation temps=6.86min espace=14>faites fondre ensemble le <ingredient quantite=1>chocolat</ingredient> et le beurre</operation>. <operation temps=5.0min espace=14>mélangez</operation>. <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=2>œufs</ingredient></operation>, la <ingredient quantite=1>levure</ingredient> et la <ingredient quantite=1>farine</ingredient> tamisées, puis le <ingredient quantite=1>sucre</ingredient>. disposez du papier sulfurisé dans un <recipient>moule</recipient> à cake. <operation temps=6.86min espace=14>versez la 1ère couche (quatre-quart) puis la 2ème (<ingredient quantite=1>chocolat</ingredient>) par dessus en</operation> étalant bien. <operation temps=6.86min espace=14>mettez au <recipient>four</recipient> pendant 1 h environ</operation>. <operation temps=20.0min espace=14>laissez refroidir</operation>. pratique pour les goûters!
+]]>
+ </preparation>
+</recette>

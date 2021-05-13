@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53684">
+ <titre>Pigeons sur canape</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pigeons</p>
+ <p>sel et poivre</p>
+ <p>45 g de beurre</p>
+ <p>3 foies de volaille</p>
+ <p>3 gésiers</p>
+ <p>10 cl de cognac</p>
+ <p>huile d’ olive</p>
+ <p>2 cl de crème fraîche liquide</p>
+ <p>10 cl de bouillon de volaille</p>
+ <p>2 échalotes</p>
+ <p>4 tranches de pain de mie</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire rôtir les 2 <ingredient quantite=2>pigeons</ingredient> dans une <recipient>cocotte</recipient>, avec 20 g de beurre et les <ingredient quantite=2>échalotes</ingredient></operation>. saler et poivrer les <ingredient quantite=2>pigeons</ingredient>, arroser avec le <ingredient quantite=3>bouillon de volaille</ingredient> et <operation temps=45.0min espace=15>laisser mijoter pendant 45 min</operation> ; réserver. préparer les canapés: <operation temps=6.86min espace=15>faire cuire les <ingredient quantite=3>gésiers</ingredient> et les <ingredient quantite=3>foies</ingredient> dans une <recipient>poêle</recipient> avec le reste de beurre</operation>. une fois cuits, flambler avec le <ingredient quantite=1>cognac</ingredient>. mixer le tout, remettre dans la <recipient>poêle</recipient>, ajouter la <ingredient quantite=1>crème</ingredient> et remuer. prendre les <ingredient quantite=4>tranches de pain de mie</ingredient>, les napper avec les <ingredient quantite=3>foies</ingredient>, couper les <ingredient quantite=2>pigeons</ingredient> en deux, puis les mettre sur les toasts. présenter sur un <recipient>plat</recipient>. mettre le reste de <ingredient quantite=3>foies</ingredient> dans une saucière, et servir.
+]]>
+ </preparation>
+</recette>

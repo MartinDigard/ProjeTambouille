@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80768">
+ <titre>Fraises mascarpone</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g de fraises</p>
+ <p>500 g de mascarpone</p>
+ <p>10 cl de lait</p>
+ <p>2 blancs d’ oeufs</p>
+ <p>1/2 citron</p>
+ <p>100 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>râpez le zeste du demi-citron</operation>. <operation temps=0.5min espace=6>réservez</operation>. rincez et <operation temps=6.86min espace=6>équeutez les <ingredient quantite=1>fraises</ingredient></operation>. pour le coulis: <operation temps=6.86min espace=6>mixez le tiers des <ingredient quantite=1>fraises</ingredient> avec un filet de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=0.5min espace=6>réservez</operation>. <operation temps=6.86min espace=6>coupez les <ingredient quantite=1>fraises</ingredient></operation> restantes en morceaux. dans un récipient, <operation temps=6.86min espace=6>fouettez le <ingredient quantite=1>mascarpone</ingredient> avec le lait, 50 g de <ingredient quantite=1>sucre</ingredient> et le zeste de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=6>montez les blancs en neige</operation>. <operation temps=6.86min espace=6>ajoutez le <ingredient quantite=1>sucre</ingredient></operation> restant sans cesser de fouetter. <operation temps=6.86min espace=6>incorporez - les</operation> délicatement à la crème de <ingredient quantite=1>mascarpone</ingredient>. le mélange doit être homogène. présentation: 6 verres <operation temps=6.86min espace=6>mettez le coulis au fond</operation>. <operation temps=6.86min espace=6>rajoutez la crème <ingredient quantite=1>mascarpone</ingredient>, puis un étage de <ingredient quantite=1>fraises</ingredient> etc</operation>... vous pouvez <operation temps=6.86min espace=6>finir avec une <ingredient quantite=1>fraise</ingredient> entière sur le dessus</operation>.
+]]>
+ </preparation>
+</recette>

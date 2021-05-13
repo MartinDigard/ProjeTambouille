@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224582">
+ <titre>Coq aux herbes et tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 coq de 2 kg coupé en morceaux </p>
+ <p>50 cl de bouillon de poule</p>
+ <p>2 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>5 cuillères à soupes d’ herbes (origan, marjolaine, sauge, thym, romarin...) </p>
+ <p>1 grosse boite de tomates concassées</p>
+ <p>1/2 cuillère à café de piment doux (facultatif) </p>
+ <p>2 cuillères à soupe de fécule de maïs</p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la veille: <operation temps=6.86min espace=15>coupez les <ingredient quantite=2>oignons</ingredient> en fines lamelles</operation> et <operation temps=6.86min espace=15>préparez le mélange d’ <ingredient quantite=5>herbes</ingredient></operation>. faites chauffer la <recipient>cocotte</recipient> (en fonte de préférence) avec 2 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et <operation temps=6.86min espace=15>faites - y</operation> dorer les <ingredient quantite=1>morceaux</ingredient> de coq. une fois dorés, <operation temps=6.86min espace=15>réservez - les de côté</operation>. <operation temps=6.86min espace=15>faites revenir les <ingredient quantite=2>oignons</ingredient> dans la <recipient>cocotte</recipient> et lorsqu’ ils</operation> commencent à dorer ajoutez les <ingredient quantite=1>tomates concassées</ingredient>, les <ingredient quantite=5>herbes</ingredient>, l’ <ingredient quantite=3>ail</ingredient> écrasé et éventuellement le <ingredient quantite=1>piment doux</ingredient> et <operation temps=6.86min espace=15>mélangez bien le tout</operation>. ajoutez doucement le <ingredient quantite=1>bouillon de poule</ingredient> en mélangeant puis les <ingredient quantite=1>morceaux</ingredient> de coq. <operation temps=20.0min espace=15>portez à ébullition</operation> puis <operation temps=6.86min espace=15>fermez la <recipient>cocotte</recipient></operation> et <operation temps=6.86min espace=15>laissez mijoter 2 heures</operation>. le jour même, minimum 1 heure avant le repas: <operation temps=6.86min espace=15>prélevez un bol de sauce</operation> et mélangez - la aux 2 <ingredient quantite=5>cuillères à soupe de fécule de maïs</ingredient>. <operation temps=45.0min espace=15>remettez la <recipient>cocotte</recipient> à chauffer doucement à couvert pendant 45 min</operation>. 15 minutes avant la fin du réchauffage, <operation temps=6.86min espace=15>incorporez doucement le mélange sauce et fécule de <ingredient quantite=2>maïs</ingredient> dans la <recipient>cocotte</recipient> et mélangez</operation>. <operation temps=6.86min espace=15>laissez mijoter encore 15 bonnes minutes à découvert</operation>. <operation temps=6.86min espace=15>servez très chaud avec des pâtes, des pommes de terres, des haricots verts au choix</operation>. le temps de cuisson dépend de la qualité du coq, un bon coq fermier doit cuire plus longtemps (2 + 1 heure) qu’ un coq élevé en batterie. rosé bien frais ou bordeau
+]]>
+ </preparation>
+</recette>

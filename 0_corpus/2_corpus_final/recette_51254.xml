@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51254">
+ <titre>Conserve de rôti de porc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc de 500 g</p>
+ <p>2 gousses d’ ail</p>
+ <p>pimientos del piquillo</p>
+ <p>sel et poivre</p>
+ <p>1 bocal de conserve</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>ouvrir le roti</operation> cru sur la longueur, placer deux <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> à l’ intérieur, saler poivrer. <operation temps=6.86min espace=6>couvrir le fond et les côtés du <ingredient quantite=1>bocal</ingredient> de</operation> <ingredient quantite=1>pimientos</ingredient>, insérer le rôti dans le <ingredient quantite=1>bocal</ingredient> en <operation temps=6.86min espace=6>faisant attention à</operation> <operation temps=6.86min espace=6>laisser les <ingredient quantite=1>pimientos</ingredient> sur le côté</operation>. fermer le <ingredient quantite=1>bocal</ingredient> et stériliser durant 1 h 30 dans de l’ eau bouillante. la cuisson se fait pendant la stérilisation. peut se manger juste réchauffé à la <recipient>poêle</recipient> ou froid en salade.
+]]>
+ </preparation>
+</recette>

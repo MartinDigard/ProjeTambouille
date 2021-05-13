@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39361">
+ <titre>Confiture de fraises et basilic</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 tasses de fraises lavées, équeutées et entières</p>
+ <p>1/2 tasse de basilic finement ciselé</p>
+ <p>1/4 tasse de jus de citron</p>
+ <p>2 1/2 tasses de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>marmite</recipient> moyenne, amener à ébullition les <ingredient quantite=8>fraises</ingredient>, le <ingredient quantite=1>jus de citron</ingredient> et le <ingredient quantite=2>sucre</ingredient>. <operation temps=7.0min espace=5>laisser mijoter à gros bouillon à feu doux pendant 7 minutes</operation>. ajouter le <ingredient quantite=1>basilic</ingredient> et <operation temps=6.86min espace=5>laisser encore</operation> mijoter 5 minutes. <operation temps=5.0min espace=5>laisser reposer 5 minutes</operation>, tourner et écumer. empoter dans des pots stériles. multiplier la recette au besoin. le sirop restant pourra être utilisé pour <operation temps=6.86min espace=5>faire les vinaigrettes</operation>. ajouter de la pectine pour une confiture plus gélatineuse.
+]]>
+ </preparation>
+</recette>

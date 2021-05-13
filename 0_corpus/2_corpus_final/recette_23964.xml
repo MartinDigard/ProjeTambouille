@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23964">
+ <titre>Croquettes au Parmesan (Italie) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>70 g de beurre ou de margarine</p>
+ <p>70 g de farine</p>
+ <p>40 cl de lait </p>
+ <p>3 jaunes d’ oeufs </p>
+ <p>150 g de parmesan </p>
+ <p>poivre, sel, muscade (quantités selon vos goûts) </p>
+ <p>blanc d’ œuf</p>
+ <p>chapelure</p>
+ <p>huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire une béchamel très épaisse avec beurre, <ingredient quantite=1>farine</ingredient> et <ingredient quantite=1>lait</ingredient></operation>. hors du feu, ajouter les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. ajouter le <ingredient quantite=1>parmesan</ingredient>, <ingredient quantite=1>muscade</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>, selon votre goût. <operation temps=6.86min espace=12>laisser refroidir la préparation dans un <recipient>plat</recipient></operation> placé pendant une heure environ dans le frigo. partager la préparation en 8 parts et les passer successivement dans de la farine, du <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et de la <ingredient quantite=1>chapelure</ingredient>. chauffer une <recipient>friteuse</recipient> ou de l’ huile dans une <recipient>poêle</recipient> profonde à environ 180 ° c et <operation temps=6.86min espace=12>faire dorer les croquettes</operation>. <operation temps=6.86min espace=12>laisser égoutter sur papier</operation> absorbant. <operation temps=6.86min espace=12>servir avec des branches de persil comme garniture et des quarts de citron</operation>.
+]]>
+ </preparation>
+</recette>

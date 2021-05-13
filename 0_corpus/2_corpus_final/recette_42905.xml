@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42905">
+ <titre>Andouillettes au porto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 andouillette</p>
+ <p>1 grosse boîte + 1 petite de tomates pelées</p>
+ <p>4 oignons</p>
+ <p>8 cl de porto</p>
+ <p>40 cl de crème fraîche</p>
+ <p>1 cuillère à soupe d’ herbe de Provence</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlevez la peau des <ingredient quantite=6>andouillettes</ingredient>, <operation temps=6.86min espace=9>coupez - les en morceaux</operation> et <operation temps=6.86min espace=9>mettez - les de coté</operation>. tranchez les <ingredient quantite=4>oignons</ingredient> et <operation temps=6.86min espace=9>faites - les</operation> <operation temps=10.0min espace=9>revenir à feux doux dans de l’ huile d’ olive dans une grande <recipient>sauteuse</recipient> (10 minutes</operation>). <operation temps=6.86min espace=9>rajoutez les <ingredient quantite=1>tomates</ingredient> avec le jus</operation> et <operation temps=5.0min espace=9>laissez 5 minutes à feux fort pour</operation> <operation temps=6.86min espace=9>faire réduire tout en</operation> remuant, puis rajoutez les <ingredient quantite=6>andouillettes</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre, les <ingredient quantite=1>herbes de provence</ingredient>. attention, le secret de la recette se dévoile maintenant... <operation temps=6.86min espace=9>recouvrez la <recipient>sauteuse</recipient></operation> et <operation temps=6.86min espace=9>laissez mijotez à feux doux 30 minutes, tout en</operation> remuant régulièrement. rajoutez la <ingredient quantite=1>crème fraîche</ingredient> et le <ingredient quantite=1>porto</ingredient> et <operation temps=6.86min espace=9>laissez à nouveau</operation> <operation temps=10.0min espace=9>mijotez 10 minutes</operation>... c’ est prêt! si la recette vous semble longue, elle n’ en reste pas moins très facile. bon appétit... corbières ou vin assez relevé en bouche
+]]>
+ </preparation>
+</recette>

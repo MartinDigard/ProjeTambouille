@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223100">
+ <titre>Velouté de topinambours au curry</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 topinambours</p>
+ <p>3 pommes de terre</p>
+ <p>4 carottes</p>
+ <p>2 cubes de bouillon de volaille</p>
+ <p>5 portions de fromage frais</p>
+ <p>2 cuillères à café de curry</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez les <ingredient quantite=1>topinambours</ingredient>, les <ingredient quantite=3>pommes de terre</ingredient> et la <ingredient quantite=1>carotte</ingredient>. nettoyez les légumes et placez - les dans la <recipient>cocotte</recipient> minute recouverts d’ eau. <operation temps=30.0min espace=8>laissez cuire pendant 30 min</operation>. <operation temps=6.86min espace=8>retirez les légumes du</operation> <ingredient quantite=2>bouillon</ingredient> et <operation temps=6.86min espace=8>réservez celui-ci</operation>. <operation temps=6.86min espace=8>mixez les légumes,</operation> et faîtes un appoint de liquide avec le <ingredient quantite=2>bouillon</ingredient> de légume pour <operation temps=6.86min espace=8>obtenir la consistance</operation> souhaitée. placez le velouté sur feu doux, ajoutez les <ingredient quantite=5>portions de fromage frais</ingredient>, le <ingredient quantite=2>curry</ingredient> et le poivre. <operation temps=5.0min espace=8>mélangez</operation> jusqu’ à ce que le <ingredient quantite=5>fromage</ingredient> ait fondu. <operation temps=5.0min espace=8>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

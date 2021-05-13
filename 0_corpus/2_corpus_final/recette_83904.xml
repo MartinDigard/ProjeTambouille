@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83904">
+ <titre>Gratin de chou-fleur au lard</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 beau chou fleur</p>
+ <p>6 tranches de lard fumé ou de bacon</p>
+ <p>gruyère râpé</p>
+ <p>1/2 l de lait</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire le <ingredient quantite=1>chou fleur</ingredient> dans l’ eau bouillante pendant 15 minutes. ajuster pour qu’ il reste croquant. égoutter et <operation temps=20.0min espace=9>laisser refroidir</operation>. préparer un béchamel: <operation temps=6.86min espace=9>faire fondre le beurre dans une <recipient>casserole</recipient> avec la <ingredient quantite=1>cuillère</ingredient> de farine</operation>. mélanger quelques minutes jusqu’ à ce que le mélange roussisse (attention cela se doit pas bruler!). ajouter le demi litre de lait petit à petit en remuant. la béchamel doit épaissir donc veiller à ne pas mettre trop de lait en même temps. astuce si la béchamel reste trop liquide: ajouter une <ingredient quantite=1>cuillère</ingredient> de farine dans la préparation mais attention aux grumeaux! couper le <ingredient quantite=1>chou fleur</ingredient> en morceaux et le mettre dans un <recipient>plat</recipient> qui va au <recipient>four</recipient>. couper le <ingredient quantite=6>lard</ingredient> en petit morceaux et l’ ajouter au <ingredient quantite=1>chou fleur</ingredient>. mettre la béchamel sur le chou-fleur et le <ingredient quantite=6>lard</ingredient> et couvrir de <ingredient quantite=1>gruyère râpé</ingredient>. enfourner pour 25 minutes jusqu’ à ce que le dessus du gratin soit doré.
+]]>
+ </preparation>
+</recette>

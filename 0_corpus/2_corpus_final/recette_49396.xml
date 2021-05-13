@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49396">
+ <titre>Poulet au thym et son risotto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de blanc de poulet</p>
+ <p>riz rond pour risotto (1 verre/personne) </p>
+ <p>1 échalote</p>
+ <p>1 cuillère à café de thym</p>
+ <p>15 cl de crème fraîche</p>
+ <p>1 cuillère à soupe d’ oignons émincés</p>
+ <p>50 cl de bouillon de volaille</p>
+ <p>80 g de beurre</p>
+ <p>10 cl de vin blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>coupez le <ingredient quantite=1>poulet</ingredient> en lanières</operation>. <operation temps=6.86min espace=13>préparez le <ingredient quantite=1>bouillon</ingredient> de poule</operation>. dans une <recipient>poêle</recipient>, sur feu vif, <operation temps=3.0min espace=13>faites saisir le <ingredient quantite=1>poulet</ingredient> pendant 3 minutes dans du beurre</operation> puis <operation temps=6.86min espace=13>ajoutez l’ <ingredient quantite=1>échalote</ingredient> ciselée</operation> et <operation temps=2.0min espace=13>laissez cuire 2 minutes</operation>. incorporez 5 cl de <ingredient quantite=1>bouillon de volaille</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et le <ingredient quantite=1>thym</ingredient>. <operation temps=0.25min espace=13>salez</operation>, <operation temps=0.5min espace=13>poivrez</operation> et <operation temps=10.0min espace=13>laissez mijoter 10 minutes</operation>. préparation du <ingredient quantite=1>risotto</ingredient>: dans une <recipient>casserole</recipient>, <operation temps=1.0min espace=13>faites fondre le beurre</operation> restant avec les <ingredient quantite=1>oignons</ingredient>. <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>riz</ingredient> et enrobez - le de matière grasse</operation>. <operation temps=6.86min espace=13>attendez que le <ingredient quantite=1>riz</ingredient></operation> devienne transparent avant de verser le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=13>ajoutez une première louche de <ingredient quantite=1>bouillon</ingredient> pour</operation> mouiller le <ingredient quantite=1>riz</ingredient>, puis <operation temps=6.86min espace=13>ajoutez petit à petit le reste de <ingredient quantite=1>bouillon</ingredient> quand celui-ci est</operation> absorbé. <operation temps=6.86min espace=13>laissez cuire le <ingredient quantite=1>riz</ingredient> à feu doux jusqu’ à évaporation complète du <ingredient quantite=1>bouillon</ingredient></operation>. <operation temps=6.86min espace=13>servez le <ingredient quantite=1>riz</ingredient> avec le <ingredient quantite=1>poulet</ingredient></operation>. <operation temps=6.86min espace=13>cuisez votre <ingredient quantite=1>risotto</ingredient> doucement</operation>, <operation temps=6.86min espace=13>ajoutez le <ingredient quantite=1>bouillon</ingredient></operation> louche par louche, il sera onctueux naturellement si vous ne le <operation temps=6.86min espace=13>brusquez pas</operation>. vous pouvez aussi ajouter des lardons fumés le <recipient>plat</recipient> n’ est est que meilleur.
+]]>
+ </preparation>
+</recette>

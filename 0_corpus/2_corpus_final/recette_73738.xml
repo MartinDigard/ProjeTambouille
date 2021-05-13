@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73738">
+ <titre>Tarte tatin aux cinq légumes et mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 aubergines</p>
+ <p>2 courgettes</p>
+ <p>2 oignons</p>
+ <p>2 tomates</p>
+ <p>1 poivron</p>
+ <p>1 paquet de mozzarella</p>
+ <p>4 tranches de jambon de pays</p>
+ <p>un peu de crème fraîche liquide</p>
+ <p>1 pâte à tarte brisée</p>
+ <p>sel, poivre, muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- couper les <ingredient quantite=2>oignons</ingredient> en petits morceaux et les <operation temps=6.86min espace=19>faire suer dans une <recipient>poêle</recipient></operation>. pendant ce temps, couper <ingredient quantite=2>aubergines</ingredient>, <ingredient quantite=2>tomates</ingredient>, <ingredient quantite=1>poivron</ingredient>, <ingredient quantite=2>courgettes</ingredient> en petits morceaux et les mélanger ensuite dans la <recipient>poêle</recipient> avec les <ingredient quantite=2>oignons</ingredient>. couvrir et <operation temps=6.86min espace=19>laisser mijoter jusqu’ à ce que les légumes soient bien cuits</operation>. en fin de cuisson, rajouter <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>muscade</ingredient>, <ingredient quantite=1>crème fraîche</ingredient>, <operation temps=3.0min espace=19>laisser mijoter 2 - 3 min et ensuite</operation> réserver. beurrer un <recipient>moule</recipient> à <ingredient quantite=1>tarte</ingredient>, verser le mélange dans le <recipient>plat</recipient>, parsemer dessus de <ingredient quantite=4>jambon de pays</ingredient> et de <ingredient quantite=1>mozzarella</ingredient> coupés en morceaux. déposer la pâte par dessus, <operation temps=6.86min espace=19>faire attention à bien</operation> <operation temps=6.86min espace=19>couvrir la pâte sur le <recipient>plat</recipient></operation>. mettre au <recipient>four</recipient> préchauffé à 180 °, thermostat 6, pendant environs 30 min. une fois que la <ingredient quantite=1>tarte</ingredient> est cuite, la <operation temps=6.86min espace=19>sortir du <recipient>four</recipient> et la</operation> retourner dans un grand <recipient>plat</recipient>. y parsemer un <ingredient quantite=1>peu</ingredient> de gruyère râpé et remettre dans le <recipient>four</recipient> 2 - 3 min pour <operation temps=6.86min espace=19>faire fondre le fromage</operation>. <operation temps=6.86min espace=19>servir immédiatement avec une bonne salade</operation> composée.
+]]>
+ </preparation>
+</recette>

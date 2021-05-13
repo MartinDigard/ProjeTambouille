@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57017">
+ <titre>Biscuits chocolat cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>300 g de beurre</p>
+ <p>250 g de sucre glace</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>250 g de chocolat pâtissier noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 170 ° c. <operation temps=6.86min espace=9>travaillez le beurre avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>cannelle</ingredient> pour</operation> <operation temps=6.86min espace=9>obtenir une pommade</operation>. <operation temps=6.86min espace=9>ajoutez la <ingredient quantite=1>levure</ingredient> et la farine petit à petit tout en</operation> mélangeant jusqu’ à l’ obtention d’ un pâton. façonnez des boules régulières, l’ équivalent d’ une noix. disposez - les sur une plaque couverte de papier sulfurisé tout en les espaçant pour qu’ ils ne collent pas pendant la cuisson. <operation temps=6.86min espace=9>aplatissez les petites boules avec une fourchette</operation>. <operation temps=6.86min espace=9>enfournez les biscuits</operation> et <operation temps=15.0min espace=9>laissez cuire pendant 15 minutes</operation>. <operation temps=6.86min espace=9>jetez un d’</operation> œil au <recipient>four</recipient> de temps en temps, il faut que les biscuits aient une couleur dorée. après cuisson, <operation temps=6.86min espace=9>sortez les biscuits</operation> et <operation temps=20.0min espace=9>laissez refroidir</operation>. <operation temps=6.86min espace=9>faites fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. trempez la moitié de chaque biscuit au fond du <ingredient quantite=1>chocolat</ingredient> puis les disposez sur du papier sulfurisé.
+]]>
+ </preparation>
+</recette>

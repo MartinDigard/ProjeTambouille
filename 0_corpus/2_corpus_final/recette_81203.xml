@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81203">
+ <titre>Clafoutis aux cerises vanillé</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 4 kg de cerises</p>
+ <p>160 g de farine </p>
+ <p>250 g de sucre</p>
+ <p>1/2 litre de lait frais entier</p>
+ <p>4 oeufs</p>
+ <p>60 g de beurre fondu</p>
+ <p>1 sachet de sucre vanillé ou de la vanille</p>
+ <p>2 cuillères à soupe de crème fraîche épaisse. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger dans un récipient la farine et le <ingredient quantite=1>sucre</ingredient>. incorporer peu a peu, les <ingredient quantite=4>oeufs</ingredient> préalablement battus dans un bol, pour éviter les grumeaux. y ajouter le <ingredient quantite=1>sucre</ingredient> vanillé, puis les 2 <ingredient quantite=2>cuillères de crème fraîche épaisse</ingredient>, ainsi que le beurre <ingredient quantite=1>fondu</ingredient>. bien mélanger (à la main de préférence pour éviter que la pâte mousse!). une fois la préparation faite, ajouter peu à peu le <ingredient quantite=1>lait frais</ingredient> (chauffé si l’ on a préféré la gousse de <ingredient quantite=1>vanille</ingredient>). vous pouvez mettre un peu moins de <ingredient quantite=1>lait</ingredient>, c’ est selon l’ envie de la consistance du gâteau! bien mélanger puis <operation temps=45.0min espace=10>laisser reposer</operation>. <operation temps=15.0min espace=10>faites préchauffer le <recipient>four</recipient> 15 minutes à 220 ° c (thermostat 7</operation>). <operation temps=40.0min espace=10>faites cuire 40 min à 220 ° c puis 5 minutes à 240 ° c (thermostat 8) (après tout dépend de votre <recipient>four</recipient></operation>...).
+]]>
+ </preparation>
+</recette>

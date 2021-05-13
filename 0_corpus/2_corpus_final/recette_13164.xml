@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13164">
+ <titre>Omelette à la russe</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>6 ou 8 oeufs</p>
+ <p>1 pot d’ oeufs de lumps</p>
+ <p>2 tranches de saumon fumé</p>
+ <p>1 petit pot de crème fraîche épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer au mixer le <ingredient quantite=2>saumon</ingredient> et la <ingredient quantite=1>crème</ingredient>. mélanger un tiers de la préparation aux <ingredient quantite=6>oeufs</ingredient> battus. cuire l’ omelette. lorsqu’ elle est cuite, la mettre dans un <recipient>plat</recipient>. etaler au milieu de l’ omelette le <ingredient quantite=1>pot</ingredient> d’ <ingredient quantite=6>oeufs de lumps</ingredient>, la plier en deux et napper avec la sauce au <ingredient quantite=2>saumon</ingredient> que vous aurez fait <operation temps=6.86min espace=5>tiédir au micro-ondes</operation>.
+]]>
+ </preparation>
+</recette>

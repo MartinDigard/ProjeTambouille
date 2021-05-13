@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23192">
+ <titre>Champignons à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de champignons de Paris</p>
+ <p>200 g de sauce tomate</p>
+ <p>3 cuillerée à café de parmesan</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillerée à soupe d’ huile d’ olive</p>
+ <p>2 cuillerées à café d’ origan séché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) <operation temps=6.86min espace=9>lavez</operation> et <operation temps=6.86min espace=9>épluchez les <ingredient quantite=1>champignons</ingredient></operation> <operation temps=6.86min espace=9>coupez - les en quartiers pelez</operation> et <operation temps=6.86min espace=9>coupez les <ingredient quantite=2>oignons</ingredient> en rondelles</operation>. 2) dans une <recipient>sauteuse</recipient> <operation temps=6.86min espace=9>faites revenir les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient></operation> écrasées avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et l’ <ingredient quantite=2>origan</ingredient> <operation temps=3.0min espace=9>ajoutez les</operation> <ingredient quantite=1>champignons</ingredient> puis versez la <ingredient quantite=1>sauce tomate</ingredient> ; <operation temps=0.25min espace=9>salez</operation> <operation temps=6.86min espace=9>poivrez et remuez</operation>. 3) couvrez et <operation temps=6.86min espace=9>laissez mijoter à feu doux 15</operation> mn ; au moment de servir <operation temps=6.86min espace=9>saupoudrez de <ingredient quantite=3>parmesan</ingredient> cette entrée et très bonne, on</operation> peut aussi l’ accompagner avec des petits croûtons dorés un cabernet d’ anjou rosé
+]]>
+ </preparation>
+</recette>

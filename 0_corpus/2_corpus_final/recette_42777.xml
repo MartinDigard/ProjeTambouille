@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42777">
+ <titre>Crêpes à la lavande</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 litre de lait</p>
+ <p>10 fleurs de lavande</p>
+ <p>4 oeufs</p>
+ <p>200 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à soupe de sucre </p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>1/2 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire infuser la <ingredient quantite=1>lavande</ingredient> dans le <ingredient quantite=1>lait</ingredient> chaud durant plusieurs heures</operation>. <operation temps=6.86min espace=8>faire un puits avec la farine</operation>. ajouter la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient> puis le <ingredient quantite=1>sel</ingredient>, mélanger, puis ajouter les <ingredient quantite=4>oeufs</ingredient> entiers et l’ <ingredient quantite=2>huile</ingredient>. délayer avec le <ingredient quantite=1>lait</ingredient> qui aura été filtré. <operation temps=6.86min espace=8>laisser reposer la pâte 1h</operation> puis <operation temps=6.86min espace=8>faire vos crêpes</operation>. je <operation temps=6.86min espace=8>fais mes crêpes toujours au pif</operation>. par contre je <operation temps=6.86min espace=8>laisse infuser ma <ingredient quantite=1>lavande</ingredient> le maximun de temps, voire la veille</operation>. souvent je <operation temps=6.86min espace=8>fais des aumonières avec une créme à la <ingredient quantite=1>lavande</ingredient> et un mélange de fruits coupés en dés,</operation> mais <operation temps=6.86min espace=8>laissez votre esprit</operation> vagabonder... c’ est fou ce que l’ on peut <operation temps=6.86min espace=8>faire à base de <ingredient quantite=1>lavande</ingredient>, c’ est tellement subtil comme parfum</operation>!
+]]>
+ </preparation>
+</recette>

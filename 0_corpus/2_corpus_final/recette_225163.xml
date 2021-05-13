@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225163">
+ <titre>Rôti de dindonneau à la paysanne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de dindonneau 1 kg</p>
+ <p>1 oignon émincé</p>
+ <p>100 g lardons fumés</p>
+ <p>220 g marrons surgelés (1/2 paquet) </p>
+ <p>5 cèpes déshydratés (si vous en avez des frais, c’ est encore mieux) </p>
+ <p>25 cl bouillon de volaille léger</p>
+ <p>beurre ou autre matière grasse (éviter l’ huile) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réhydrater les <ingredient quantite=5>cèpes</ingredient> 20 min dans un bol d’ eau frémissante, les égoutter, les rincer. faire revenir le rôti de <ingredient quantite=1>dindonneau</ingredient> avec un peu de beurre ou <ingredient quantite=1>matière grasse</ingredient>. ajouter l’ <ingredient quantite=1>oignon émincé</ingredient> et <operation temps=6.86min espace=9>faites revenir</operation>. ajouter les lardons. pendant que le mélange <ingredient quantite=1>oignon</ingredient> - lardons dore, faire revenir légèrement les marrons dans une <recipient>poêle</recipient> avec le reste de beurre ou de <ingredient quantite=1>matière grasse</ingredient>. les ajouter dans la <recipient>cocotte</recipient> et mélanger. ajouter les <ingredient quantite=5>cèpes</ingredient>. mouiller avec environ 10 cl de bouillon. <operation temps=0.25min espace=9>couvrez</operation> et <operation temps=6.86min espace=9>laisser cuire environ 1 heure en</operation> ajoutant un peu de bouillon de temps en temps mais sans dépasser les 25 cl. servir bien chaudj’ ai servi avec des endives braisées, délicieux résultat
+]]>
+ </preparation>
+</recette>

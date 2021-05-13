@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44424">
+ <titre>Quiche aux asperges (sans pâte) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>370 g d’ asperges vertes</p>
+ <p>3 oeufs</p>
+ <p>1 pot de Boursin Cuisine tomates et herbes méditérrannéennes</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélangez 3 <ingredient quantite=3>oeufs</ingredient>, 1 <ingredient quantite=1>pot de boursin cuisine tomates et herbes méditérrannéennes</ingredient>. <operation temps=0.25min espace=6>salez</operation> et <operation temps=0.5min espace=6>poivrez</operation>. garnissez un <recipient><recipient>moule</recipient> à tarte</recipient> de 28 cm de pâte brisée. <operation temps=6.86min espace=6>disposez les <ingredient quantite=1>asperges</ingredient> bien</operation> égoutées. <operation temps=6.86min espace=6>versez dessus la préparation crémeuse,</operation> et <operation temps=40.0min espace=6>enfournez 30 à 40 min environ à 200 ° c (th 6 - 7), jusqu’ à ce que le dessus soit un peu gonflé et doré</operation>.
+]]>
+ </preparation>
+</recette>

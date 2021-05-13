@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70859">
+ <titre>Soupe à la tomate express</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 gousse d’ ail (fraîche ou congelée) </p>
+ <p>1 oignon coupé en dés (frais ou une poignée d’ oignons congelés) </p>
+ <p>1 boîte de tomates pelées</p>
+ <p>sel, poivre</p>
+ <p>1 petite pointe de cumin</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites revenir l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, ensuite</operation> ajoutez les <ingredient quantite=1>tomates pelées</ingredient> (si elles sont trop grosses <ingredient quantite=1>coupez</ingredient> - les en morceaux), rajoutez ensuite le <ingredient quantite=1>sel</ingredient>, le poivre, la <ingredient quantite=1>pointe de cumin</ingredient>. <operation temps=6.86min espace=8>laissez chauffer, et ensuite</operation> <operation temps=6.86min espace=8>mixez le tout dans un <recipient>blender</recipient></operation>. une fois le velouté obtenu <operation temps=6.86min espace=8>ajoutez le <ingredient quantite=1>sucre</ingredient> (pour</operation> casser l’ acidité des <ingredient quantite=1>tomates</ingredient>). <operation temps=6.86min espace=8>goûtez</operation> et <operation temps=6.86min espace=8>ajustez l’ assaisonnement à votre convenance</operation>. la <ingredient quantite=2>soupe</ingredient> express est prête.
+]]>
+ </preparation>
+</recette>

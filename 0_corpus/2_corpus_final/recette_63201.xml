@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63201">
+ <titre>Soupe froide de maïs, haricots rouges, oignons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 boîte de maïs (300g) </p>
+ <p>1 boîte de haricots rouges (265g) </p>
+ <p>1 portion de vache qui rit</p>
+ <p>sel, poivre</p>
+ <p>1 cuillère à café d’ huile d’ olive</p>
+ <p>2 verres d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez l’ <ingredient quantite=1>oignon</ingredient> grossièrement et le</operation> <operation temps=5.0min espace=9>faire revenir dans <recipient>poêle</recipient> une avec <ingredient quantite=1>cuillère</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> pendant 5 min</operation>. ajoutez le <ingredient quantite=1>maïs</ingredient>, les <ingredient quantite=1>haricots rouges</ingredient> (avec le jus de la <ingredient quantite=1>boîte</ingredient>) et les 2 <ingredient quantite=2>verres</ingredient> d’ <ingredient quantite=2>eau</ingredient>. <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation> et <operation temps=15.0min espace=9>laissez mijoter 15 min</operation> ajoutez la <ingredient quantite=1>portion de vache qui rit</ingredient>. <operation temps=6.86min espace=9>passez grossièrement la soupe (ne pas</operation> hésitez à rajouter un peu d’ <ingredient quantite=2>eau</ingredient>) et <operation temps=20.0min espace=9>laissez refroidir</operation>. placez au <recipient>réfrigérateur</recipient> au minimum 2 heures pour qu’ elle soit fraîche. elle peut se manger chaude également. c’ est pas mal non plus avec un peu d’ épice (piment doux, piment espelette) mais attention aux quantités!
+]]>
+ </preparation>
+</recette>

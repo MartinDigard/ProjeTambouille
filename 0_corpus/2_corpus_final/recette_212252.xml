@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212252">
+ <titre>Clafoutis bananes et fraises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>90 g de farine</p>
+ <p>80 g de sucre</p>
+ <p>3 œufs</p>
+ <p>25 cl de lait</p>
+ <p>60 g de beurre</p>
+ <p>3 bananes</p>
+ <p>100 g de fraises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=9>mélangez la farine, le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=3>œufs</ingredient>, le lait et le beurre fondu</operation>. au fond d’ un <recipient>plat</recipient> beurré, mettre les <ingredient quantite=3>bananes</ingredient> coupées en rondelles et les <ingredient quantite=1>fraises</ingredient> et verser la préparation dessus. enfournez pendant 30 à 40 minutes.
+]]>
+ </preparation>
+</recette>

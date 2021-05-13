@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38079">
+ <titre>Mariannesapfelkuchen (gateau autrichien aux pommes) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>300 g de farine</p>
+ <p>1/2 paquet de levure</p>
+ <p>220 g de sucre</p>
+ <p>250 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>Pour les pommes: </p>
+ <p>10 pommes</p>
+ <p>2 cuillères à soupe de sucre </p>
+ <p>1 citron</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger tous les ingrédients de la <ingredient quantite=1>pâte</ingredient> et mélanger à la main. eplucher les <ingredient quantite=1>pommes</ingredient>, les couper en petits morceaux et les <operation temps=6.86min espace=14>faire cuire avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>cannelle</ingredient> à l’</operation> étuvée jusqu’ á ce qu’ elles deviennent molles. pendant ce temps, étaler les 3/4 de la <ingredient quantite=1>pâte</ingredient> dans un <recipient>plat</recipient> rond et haut (en céramique de préférence). ajouter les <ingredient quantite=1>pommes</ingredient> et mettre le reste de la <ingredient quantite=1>pâte</ingredient> sur le dessus. cuire 30 min au <recipient>four</recipient> préchauffé à 180 ° c.
+]]>
+ </preparation>
+</recette>

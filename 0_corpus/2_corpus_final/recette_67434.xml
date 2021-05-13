@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67434">
+ <titre>Lasagne saumon et julienne de légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 feuilles de lasagne (en fonction du plat utilisé) </p>
+ <p>500 g de saumon frais cru émietté grossièrement</p>
+ <p>600 g julienne de légumes congelés ou maison</p>
+ <p>1 oignon émincé très fin</p>
+ <p>1 petite branche de thym</p>
+ <p>1 cuillerée à soupe d’ huile d’ olive</p>
+ <p>50 cl de béchamel</p>
+ <p>quelques pincée de noix de muscade</p>
+ <p>sel et poivre selon goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire fondre l’ <ingredient quantite=1>oignon émincé</ingredient> sans coloration dans une <recipient>casserole</recipient>. ajouter la julienne de <ingredient quantite=1>légumes</ingredient> et cuire doucement 15 min (si julienne <ingredient quantite=1>maison</ingredient>, la blanchir auparavant). déposer par couches successives quelques cuilères de <ingredient quantite=1>béchamel</ingredient> dans un <recipient>plat</recipient> beurré, puis les <ingredient quantite=1>feuilles de lasagne</ingredient>, la julienne de <ingredient quantite=1>légumes</ingredient>, le fromage râpé, la <ingredient quantite=1>béchamel</ingredient>, le <ingredient quantite=1>saumon cru émietté</ingredient> etc... terminer par les <ingredient quantite=1>feuilles de lasagne</ingredient> et la <ingredient quantite=1>béchamel</ingredient>. <operation temps=6.86min espace=13>recouvrir de fromage râpé</operation>. mettre au <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6) environ 40 min. ce <recipient>plat</recipient> peut être préparé la veille et cuit avant le repas. délicieux avec une salade mesclun. vin blanc sec
+]]>
+ </preparation>
+</recette>

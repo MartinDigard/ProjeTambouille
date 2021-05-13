@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20768">
+ <titre>Filets de poulet à la moutarde et à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poulet</p>
+ <p>1 échalote</p>
+ <p>1 pot de crème fraîche épaisse (20 cl) </p>
+ <p>2 cuillères à soupe de moutarde forte</p>
+ <p>20 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile végétale</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>sauteuse</recipient>, mettre le beurre et l’ <ingredient quantite=1>huile</ingredient>, ajouter l’ <ingredient quantite=1>échalote</ingredient>, <operation temps=7.0min espace=7>faire revenir</operation> ajouter les <ingredient quantite=4>filets de poulet</ingredient> coupés en dés, les <operation temps=5.0min espace=7>laisser revenir 5 min</operation>. pendant ce temps la mélanger la <ingredient quantite=2>moutarde</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. lorsque le <ingredient quantite=4>poulet</ingredient> est doré ajouter le mélange et <operation temps=15.0min espace=7>laisser cuire 15 mn à feu doux</operation>. <operation temps=6.86min espace=7>servez avec du riz sauvage</operation>. cotes de provence rosé
+]]>
+ </preparation>
+</recette>

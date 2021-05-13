@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28482">
+ <titre>Pâtes courgettes parmesan</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de pâtes</p>
+ <p>8 feuilles de basilic</p>
+ <p>4 courgettes</p>
+ <p>parmesan râpé</p>
+ <p>2 oeufs</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>2 gousses d’ ail</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>pâtes</ingredient> à cuire. pendant ce temps, éplucher les <ingredient quantite=4>courgettes</ingredient> et les couper en fines rondelles. <operation temps=6.86min espace=10>versez l’ <ingredient quantite=4>huile</ingredient> dans une <recipient>poêle</recipient> et y</operation> <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=2>ail</ingredient></operation> écrasé. une fois qu’ il à blondi, l’ enlever et mettre à la place les <ingredient quantite=4>courgettes</ingredient>. <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=6.86min espace=10>laisser cuire à feu doux</operation>. ajouter les <ingredient quantite=8>feuilles de basilic</ingredient> en morceaux et poivrer. dans un <recipient>plat</recipient> creux, battre les <ingredient quantite=2>oeufs</ingredient> et ajouter les <ingredient quantite=1>pâtes</ingredient> et les <ingredient quantite=4>courgettes</ingredient>. mélanger. saupoudrer de <ingredient quantite=1>parmesan râpé</ingredient> et <operation temps=2.0min espace=10>servir aussitôt</operation>. c’ est une façon de <operation temps=6.86min espace=10>faire manger des légumes aux enfants</operation>!
+]]>
+ </preparation>
+</recette>

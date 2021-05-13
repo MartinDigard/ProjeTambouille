@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229835">
+ <titre>Endives au jambon plus légères</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses endives </p>
+ <p>150 g d’ allumettes de jambon</p>
+ <p>250 cl de lait</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 cuillère à café de noix de muscade moulue</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>lavez les</operation> <ingredient quantite=4>endives</ingredient> puis <operation temps=6.86min espace=12>coupez - les en deux pour</operation> ôter le tronçon centrale (moins d’ amertume) et <operation temps=6.86min espace=12>faites - les</operation> cuire à la vapeur (ou dans une <recipient>casserole</recipient> d’ eau bouillante) pendant 20 min. pendant que les <ingredient quantite=4>endives</ingredient> cuisent, <operation temps=6.86min espace=12>mettez le lait dans une <recipient>casserole</recipient> sur feu moyen</operation>. tout en remuant à l’ aide d’ un fouet, ajouter la farine, la <ingredient quantite=1>noix de muscade</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et les <ingredient quantite=1>allumettes de jambon</ingredient>. <operation temps=6.86min espace=12>continuez à</operation> remuer jusqu’ à ce que la préparation soit bien épaisse puis <operation temps=6.86min espace=12>retirez la <recipient>casserole</recipient> du feu</operation>. vous n’ avez plus qu’ à disposer les <ingredient quantite=4>endives</ingredient> dans un <recipient>plat</recipient> et les napper généreusement de sauce. pour une recette un peu moins light mais plus gourmande, vous pouvez ajouter une poignée de fromage râpé sur le dessus et <operation temps=10.0min espace=12>faire gratiner 10 min au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

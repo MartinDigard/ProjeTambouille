@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95849">
+ <titre>Montecaos à la Françoise</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>250 g de sucre</p>
+ <p>25 cl d’ huile</p>
+ <p>Rhum</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>mélangez la farine, le <ingredient quantite=1>sucre</ingredient> et l’ huile</operation> <operation temps=6.86min espace=7>rajoutez le <ingredient quantite=1>rhum</ingredient></operation> <operation temps=6.86min espace=7>pétrir jusqu’ à ce que la pâte se</operation> détache du <recipient>saladier</recipient> <operation temps=6.86min espace=7>faire des petites boules que vous</operation> <operation temps=6.86min espace=7>arrondissez dans le creux de vos mains avant de les</operation> enfourner, mettre de la <ingredient quantite=1>cannelle</ingredient> en poudre sur les boules mettre au <recipient>four</recipient> 1/4 d’ heure à 180 ° c champagne
+]]>
+ </preparation>
+</recette>

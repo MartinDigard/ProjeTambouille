@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57777">
+ <titre>Wok de poisson et crevettes au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de nouilles pour nouilles sautées </p>
+ <p>150 g de petites crevettes surgelées</p>
+ <p>2 filets de poisson blanc surgeles</p>
+ <p>1/2 poivron rouge</p>
+ <p>3 petites tomates</p>
+ <p>3 cuillères à café de curry</p>
+ <p>20 cl d’ eau </p>
+ <p>sel et poivre</p>
+ <p>1 wok électrique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire décongeler les <ingredient quantite=1>crevettes</ingredient> et les <ingredient quantite=2>filets de poissons</ingredient> coupés en lamelles (très facile avec un couteau spécial <ingredient quantite=1>surgelés</ingredient>). couper le 1/2 <ingredient quantite=1>poivron</ingredient> en lamelles fines. couper les <ingredient quantite=3>tomates</ingredient> en 2, enlever les pépins et les couper en très <ingredient quantite=1>petits</ingredient> cubes. environ 20 min avant de manger <operation temps=6.86min espace=10>faire chauffer le <ingredient quantite=1><recipient>wok</recipient></ingredient> thermostat 5 avec 3 <ingredient quantite=3>cuillères</ingredient> à soupe d’ huile d’ olive</operation>. quand l’ huile est chaude, <operation temps=7.0min espace=10>faire revenir</operation> crevettes et lamelles de <ingredient quantite=2>poisson</ingredient>, ajouter <ingredient quantite=1>sel</ingredient> poivre et le <ingredient quantite=3>curry</ingredient>. ajouter les pâtes et l’ <ingredient quantite=1>eau</ingredient>, baisser à thermostat 3 et <operation temps=6.86min espace=10>laisser cuire jusqu’ à évaporation du liquide</operation>. ajouter les légumes 5 minutes avnat la fin pour qu’ ils restent légèrement croquants. servir bien chaud.
+]]>
+ </preparation>
+</recette>

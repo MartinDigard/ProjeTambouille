@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81697">
+ <titre>Tagliatelles fraîches tomates-champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 gde tagliatelles fraîches</p>
+ <p>3-4 tomates</p>
+ <p>125 g de champignons de paris (en boîte) </p>
+ <p>1 oignon</p>
+ <p>3-4 carottes </p>
+ <p>4 grosses cuillères à soupe de crème fraîche</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=10>faire revenir avec un peu d’ huile d’ olive l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en rondelles, puis les <ingredient quantite=5>carottes</ingredient> en coupées en rondelles pendant 5 min en remuant. ensuite y ajouter les <ingredient quantite=5>tomates</ingredient> que vous avez préalablement pelées et les jeter coupées grossièrement avec la préparation: <operation temps=10.0min espace=10>laisser mijoter 10 min</operation>. puis ajouter les <ingredient quantite=1>champignons</ingredient> <operation temps=5.0min espace=10>laisser mijoter 5 min</operation>. puis ajouter la <ingredient quantite=4>crème fraîche</ingredient>. <operation temps=6.86min espace=10>laisser à nouveau</operation> mijoter quelques minutes en y ajoutant <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre herbes de provence</ingredient>. mélanger cette préparation sur les pâtes fraiches et servir chaud.
+]]>
+ </preparation>
+</recette>

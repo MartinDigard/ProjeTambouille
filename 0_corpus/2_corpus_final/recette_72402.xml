@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72402">
+ <titre>Côtes de porc aux pommes de terre en cocotte</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>4 côtes de porc</p>
+ <p>sel, poivre</p>
+ <p>beurre, huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez vos <ingredient quantite=1>pommes de terres</ingredient> en fines lamelles. faites revenir vos <ingredient quantite=4>côtes de porc</ingredient> dans le beurre avec un peu d’ huille, <operation temps=0.25min espace=5>salez et</operation> <operation temps=6.86min espace=5>poivrez à votre convenance</operation>. <operation temps=6.86min espace=5>laissez bien</operation> <operation temps=6.86min espace=5>brunir le mélange <ingredient quantite=1>beurre</ingredient> et huile</operation>. retirez les <ingredient quantite=4>côtes de porc</ingredient> et déglacez avec un peu d’ eau. mettez les <ingredient quantite=1>pommes de terre</ingredient> en lamelles dans la <recipient>cocotte</recipient>, <operation temps=0.25min espace=5>salez et</operation> <operation temps=0.5min espace=5>poivrez</operation>. rajoutez les <ingredient quantite=4>côtes de porc</ingredient> et <operation temps=15.0min espace=5>faites cuire à la vapeur 15 min</operation>. c’ est prêt. bon appétit.
+]]>
+ </preparation>
+</recette>

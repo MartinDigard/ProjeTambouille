@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15556">
+ <titre>Gâteau moelleux caramel et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>225g de chocolat noir</p>
+ <p>150 g de sucre en poudre</p>
+ <p>130 g de beurre (osez le demi-sel!) </p>
+ <p>4 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer le <recipient>four</recipient> à thermostat <operation temps=6.86min espace=8>6.faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> dans une <recipient>casserole</recipient></operation>, <operation temps=6.86min espace=8>faire du caramel avec le <ingredient quantite=1>sucre</ingredient> et un peu d’ eau</operation>. hors du feu, rajouter petit à petit le beurre coupé en morceau, ajouter le <ingredient quantite=1>chocolat</ingredient> fondu puis insérer les jaunes d’ <ingredient quantite=1>oeuf</ingredient> un à un. monter les blancs en neige. les incorporer délicatement à la préparation. beurrer et fariner un <recipient>moule</recipient> de 22 cm et y verser la préparation. <operation temps=25.0min espace=8>faire cuire pendant 25 mn</operation>. démouler chaud et manger froid. le beurre demi-sel rend le gâteau encore meilleur. essayez et vous nous en direz des nouvelles!!! pour le caramel, plutôt que du <ingredient quantite=1>sucre en poudre</ingredient>, <operation temps=6.86min espace=8>prenez du <ingredient quantite=1>sucre</ingredient> en morceau</operation>, <operation temps=6.86min espace=8>mouillez légèrement</operation> et <operation temps=6.86min espace=8>faites chauffer sur feu moyen en</operation> remuant continuellement. le résultat en vaut la chandelle!!
+]]>
+ </preparation>
+</recette>

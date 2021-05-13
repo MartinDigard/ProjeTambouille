@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63037">
+ <titre>Soupe de petits pois vite fait</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de petits pois crus</p>
+ <p>2 échalotes</p>
+ <p>1 reste de jambon blanc ou de charcuterie</p>
+ <p>1 bouillon cube de poule</p>
+ <p>sel, poivre</p>
+ <p>1 portion de fromage fondu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>échalotes</ingredient></operation> hachées dans une <recipient>cocotte</recipient> minute avec un léger filet d’ huile d’ olive. ajouter les <ingredient quantite=1>petits pois crus</ingredient> et <operation temps=6.86min espace=9>faire revenir 1 <ingredient quantite=1>petite</ingredient> minute</operation>. saler, poivrer, ajouter un reste <ingredient quantite=1>de jambon ou de charcuterie</ingredient>. mettre le <ingredient quantite=1>bouillon cube</ingredient> et <operation temps=6.86min espace=9>couvrir d’ eau chaude</operation>. fermer la <recipient>cocotte</recipient> et <operation temps=15.0min espace=9>laisser cuire 10 à 15 minutes après le début du sifflement de la <recipient>cocotte</recipient></operation>. une fois cuite, ajouter le <ingredient quantite=1>fromage</ingredient> fondu et mixer la soupe afin d’ obtenir un délicieux velouté de <ingredient quantite=1>petits pois</ingredient>.
+]]>
+ </preparation>
+</recette>

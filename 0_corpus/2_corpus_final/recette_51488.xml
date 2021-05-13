@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51488">
+ <titre>Langoustes grillées au Pastis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 barbecue au charbon de bois</p>
+ <p>1 langouste entière</p>
+ <p>2 doses de pastis</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>jus d’ un citron</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+griller rapidement chaque 1/2 langouste au <ingredient quantite=1><recipient>barbecue</recipient></ingredient> pendant 15 à 30 secondes puis saler, poivrer et les emballer séparément dans de l’ aluminium avec 1 <ingredient quantite=2>dose de pastis</ingredient>, une <ingredient quantite=1>cuillère</ingredient> d’ <ingredient quantite=2>huile</ingredient> et du <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>. fermer les papillotes et <operation temps=20.0min espace=7>faire cuire dans la braise pendant 20 minutes</operation>. <operation temps=3.0min espace=7>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

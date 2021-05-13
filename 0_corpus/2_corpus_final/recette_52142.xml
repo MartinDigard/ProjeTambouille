@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52142">
+ <titre>Poulet à l’ escabèche</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 escalopes de poulet</p>
+ <p>6 carottes</p>
+ <p>2 gros oignons</p>
+ <p>2 piments d’ oiseaux</p>
+ <p>thym</p>
+ <p>romarin</p>
+ <p>huile d’ olive</p>
+ <p>vinaigre de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>escalopes de poulet</ingredient> cru en lanières. <operation temps=6.86min espace=9>faire cuire les <ingredient quantite=6>carottes</ingredient> en rondelles dans de l’ huile d’ <ingredient quantite=1>olive</ingredient> à la <recipient>cocotte</recipient></operation>. mettre les morceaux de <ingredient quantite=1>poulets</ingredient> à cuire avec les <ingredient quantite=6>carottes</ingredient> et les retirer une fois qu’ ils sont cuits tout en laissant cuire les <ingredient quantite=6>carottes</ingredient>. rajouter de l’ huile d’ <ingredient quantite=1>olive</ingredient>, les <ingredient quantite=2>oignons</ingredient>, les herbes, les <ingredient quantite=2>piments</ingredient> et <operation temps=20.0min espace=9>laisser cuire environ 20 min</operation>. rajouter 25 cl de <ingredient quantite=1>vinaigre de vin blanc</ingredient> et <operation temps=5.0min espace=9>faire bouillir pendant 5 min</operation>. mettre le tout sur les morceau de <ingredient quantite=1>poulet</ingredient> et mélanger. réserver au frais. le lendemain rajouter un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>, mélanger et servir...
+]]>
+ </preparation>
+</recette>

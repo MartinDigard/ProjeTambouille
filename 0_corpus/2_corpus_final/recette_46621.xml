@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46621">
+ <titre>Filet de Kangourou aux champignons des bois</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>4 filets de kangourou</p>
+ <p>500 g de riz</p>
+ <p>300 g de champignons des bois</p>
+ <p>12.5 cl de bière chimay bleue</p>
+ <p>1 cuillère à soupe de cassonade</p>
+ <p>100 g de noix de cajou</p>
+ <p>50 g de pistaches</p>
+ <p>20 g de raisins sec blancs</p>
+ <p>1 gros oignon rouge</p>
+ <p>1 cube de bouillon</p>
+ <p>quelques feuilles de coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=1>noix de cajou</ingredient> et les <ingredient quantite=1>pistaches</ingredient> dans l’ huile d’ olive en y ajoutant la <ingredient quantite=1>cuillère de cassonade</ingredient>. quand l’ <ingredient quantite=1>oignon</ingredient> a légèrement confit dans son sucre, ajouter les <ingredient quantite=1>champignons</ingredient>, la demi <ingredient quantite=1>chimay</ingredient> bleue (ou autre bière brune au choix), le <ingredient quantite=1>cube de bouillon</ingredient> préalablement dissout, les <ingredient quantite=1>raisins secs</ingredient>, les <ingredient quantite=1>feuilles de coriandre</ingredient> et <operation temps=0.25min espace=12>couvrir</operation>. pendant ce temps, cuire le <ingredient quantite=1>riz</ingredient> à part ainsi que les <ingredient quantite=4>filets de kangourou</ingredient> à la <recipient>poêle</recipient>. bon appétit! note: on peut imaginer de couper les <ingredient quantite=4>filets de kangourou</ingredient> en <ingredient quantite=1>cube</ingredient> pour en <operation temps=6.86min espace=12>faire une sorte de carbonnade exotique</operation>.
+]]>
+ </preparation>
+</recette>

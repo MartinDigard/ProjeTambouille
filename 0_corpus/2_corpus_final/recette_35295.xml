@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35295">
+ <titre>Crème au cacao</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 jaunes d’ oeuf</p>
+ <p>1/2 litre de lait</p>
+ <p>5 cuillères à soupe de sucre</p>
+ <p>4 à 6 cuillères à soupe de farine (suivant l’ épaisseur souhaitée) </p>
+ <p>6 cuillères à soupe de cacao en poudre (+ ou - suivant le goût souhaité) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les 3 <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeuf</ingredient> avec le <ingredient quantite=5>sucre</ingredient> puis la farine et ensuite le <ingredient quantite=6>cacao</ingredient>. <operation temps=6.86min espace=5>faire chauffer le <ingredient quantite=1>lait</ingredient></operation>. ajouter le mélange au <ingredient quantite=1>lait</ingredient> et <operation temps=6.86min espace=5>faire chauffer jusqu’ à épaississement</operation> voulu. cette crême peut être faite de différentes manières (épaisse ou liquide), donc c’ est pour cela qu’ il faut varier les doses de <ingredient quantite=4>farine</ingredient> suivant ce que l’ on souhaite.
+]]>
+ </preparation>
+</recette>

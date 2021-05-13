@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18419">
+ <titre>Pommes de terre rôties au Munster</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 pommes de terre moyennes type Rosa</p>
+ <p>2 cuillerées à café de cumin</p>
+ <p>1 oignon et 2 échalotes</p>
+ <p>1 munster fermier pas trop ferme</p>
+ <p>Sel, Poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=8>pommes de terres</ingredient> en petits cubes. les <operation temps=6.86min espace=6>faire revenir dans un mélange huile / beurre avec les <ingredient quantite=1>oignons</ingredient> coupés en lamelles et les <ingredient quantite=1>échalotes</ingredient></operation> hachées. une fois que les <ingredient quantite=8>pommes de terres</ingredient> sont bien rôties, saler et poivrer la préparation. couper le <ingredient quantite=1>munster</ingredient> en quartiers et disposer les morceaux sur les <ingredient quantite=8>pommes de terre</ingredient>. <operation temps=6.86min espace=6>répartir le cumn</operation> et <operation temps=6.86min espace=6>couvrir la <recipient>sauteuse</recipient></operation>. <operation temps=10.0min espace=6>laisser à feux doux 5 à 10 mn afin de</operation> <operation temps=6.86min espace=6>laisser fondre le <ingredient quantite=1>munster</ingredient></operation>. <operation temps=2.0min espace=6>servir avec une salade verte</operation>. cette recette, sans le <ingredient quantite=2>cumin</ingredient>, se décline à l’ infini: reblochon, fourme d’ ambert, maroilles, cantal et crème fraîche,.... pinot noir d’ alsace
+]]>
+ </preparation>
+</recette>

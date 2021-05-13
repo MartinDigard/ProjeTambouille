@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29640">
+ <titre>Poulet aux gambas, au miel et aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet (fermier de préférence) </p>
+ <p>30 gambas (calibre moyen) Pour la marinade: </p>
+ <p>6 cuillères à soupe de miel lavande</p>
+ <p>2 verres d’ huile d’ olive</p>
+ <p>2 citrons</p>
+ <p>1 gousse d’ ail</p>
+ <p>4 cuillères à café de curry</p>
+ <p>3 cuillères à soupe de coriandre en grains et fraîche</p>
+ <p>un peu de coriandre fraîche ciselée</p>
+ <p>1 cuillère à café de piment d’ Espelette</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>coupez le <ingredient quantite=1>poulet</ingredient> en morceaux</operation>. disposez - le avec les gambas dans un <recipient>plat</recipient> à <ingredient quantite=1>marinade</ingredient>. <operation temps=6.86min espace=14>ajoutez l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, le <ingredient quantite=6>miel</ingredient>, le jus de <ingredient quantite=1>citron</ingredient> et les zestes (coupés très fin), l’ <ingredient quantite=1>ail</ingredient></operation> émincé, les <ingredient quantite=3>grains de coriandre</ingredient> pilés, le <ingredient quantite=4>curry</ingredient>, le <ingredient quantite=1>piment</ingredient> d’ <ingredient quantite=1>espelette</ingredient>, puis <operation temps=0.25min espace=14>salez</operation> et <operation temps=0.5min espace=14>poivrez</operation>. <operation temps=6.86min espace=14>laissez au <ingredient quantite=1>frais</ingredient> pendant 1 journée</operation>. <operation temps=40.0min espace=14>cuisez au <recipient>four</recipient> (220 ° c) pendant 40 mn dans la <ingredient quantite=1>marinade</ingredient> en</operation> remuant régulièrement. <operation temps=5.0min espace=14>passez 5 mn au <recipient>gril</recipient></operation>. au moment de <operation temps=2.0min espace=14>servir</operation>, coupez la <ingredient quantite=3>coriandre fraîche</ingredient> sur la préparation. <operation temps=6.86min espace=14>servez avec une semoule aux petits légumes</operation>. enlevez un maximum d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> après cuisson. un rosé de provence
+]]>
+ </preparation>
+</recette>

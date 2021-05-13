@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229224">
+ <titre>Soupe de feuilles de radis</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 botte de radis</p>
+ <p>1 litre de bouillon </p>
+ <p>1 cuillère à soupe de crème fraiche</p>
+ <p>50 g de beurre</p>
+ <p>4 morceaux de pain rassis</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+récupérer les fanes de <ingredient quantite=1>radis</ingredient>. les <operation temps=6.86min espace=6>faire fondre, assez longtemps, dans une <recipient>casserole</recipient> avec le beurre, à feu doux ça ne</operation> doit pas roussir. ajouter le <ingredient quantite=1>bouillon</ingredient>. arrêter la cuisson quand les feuilles sont cuites, puis ajouter le <ingredient quantite=4>pain rassis</ingredient> (selon la consistance désirée). mixer. ajouter la <ingredient quantite=1>crème</ingredient> fraîche. mixer et servir. cette recette peut se <operation temps=6.86min espace=6>faire avec toutes sortes d’ épluchures</operation>. très économique
+]]>
+ </preparation>
+</recette>

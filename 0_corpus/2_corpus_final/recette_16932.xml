@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16932">
+ <titre>Boeuf miroton</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de boeuf cuit (reste de Pot-Au-Feu) </p>
+ <p>150 g de poitrine de porc fraîche</p>
+ <p>2 oignons</p>
+ <p>2 tomates</p>
+ <p>6 cornichons au vinaigre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 cuillère à soupe de concentré de tomate</p>
+ <p>1 cuillère à café de farine tamisée</p>
+ <p>15 cl de bouillon de pot-au-feu</p>
+ <p>7.5 cl de vin blanc sec</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>poitrine</ingredient> en petits lardons, le <ingredient quantite=1>boeuf</ingredient> en lamelles régulières, les <ingredient quantite=2>tomates</ingredient> en petits cubes après épluchage et épépinage et les <ingredient quantite=6>cornichons</ingredient> en rondelles, éplucher et émincer les <ingredient quantite=2>oignons</ingredient>. réserver le tout. <operation temps=6.86min espace=15>faire revenir les lardons à la <recipient>poêle</recipient></operation>, ajouter les <ingredient quantite=2>oignons</ingredient>, saupoudrer de farine, mélanger le tout, verser <ingredient quantite=1>bouillon</ingredient> et <ingredient quantite=1>vin blanc</ingredient> puis <operation temps=6.86min espace=15>laisser prendre la sauce</operation>. ajouter les <ingredient quantite=2>tomates</ingredient>, le <ingredient quantite=1>concentré</ingredient>, les <ingredient quantite=6>cornichons</ingredient>, puis saler et poivrer. <operation temps=6.86min espace=15>répartir le <ingredient quantite=1>boeuf</ingredient> dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, <operation temps=6.86min espace=15>couvrir de la sauce</operation> et cuire 45 mn à <recipient>four</recipient> moyen à 160 ° c. nb: on peut aussi (si on aime) le <operation temps=6.86min espace=15>faire gratiner avec de la chapelure et du beurre fondu</operation>.
+]]>
+ </preparation>
+</recette>

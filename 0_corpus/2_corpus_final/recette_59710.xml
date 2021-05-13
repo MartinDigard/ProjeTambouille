@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59710">
+ <titre>Souris d’ agneau aux oignons et au vin rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 souris d’ agneau</p>
+ <p>huile</p>
+ <p>3 oignons</p>
+ <p>20 cl de fond de veau</p>
+ <p>20 cl de vin rouge</p>
+ <p>1 bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir dans une <recipient>cocotte</recipient> avec de l’</operation> huile les 2 <ingredient quantite=2>souris</ingredient> d’ <ingredient quantite=2>agneau</ingredient> puis ajouter les <ingredient quantite=3>oignons</ingredient> émincés. lorsque les <ingredient quantite=3>oignons</ingredient> sont bien caramélisés, mettre le <ingredient quantite=1>fond de veau</ingredient>, le <ingredient quantite=1>vin rouge</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. fermer la <recipient>cocotte</recipient> et <operation temps=25.0min espace=9>laisser cuire environ 25 minutes</operation>. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7) et y poursuivre la cuisson durant 10 minutes. j’ accompagne le tout de frites fraîches, de salade et d’ une tomate pour le décor. j’ arrose les frites et les <ingredient quantite=2>souris</ingredient> d’ <ingredient quantite=2>agneau</ingredient> du jus de cuisson.
+]]>
+ </preparation>
+</recette>

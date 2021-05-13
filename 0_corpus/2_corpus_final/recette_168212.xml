@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168212">
+ <titre>Milk Shake au melon</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit melon ou la moitié d’ un gros</p>
+ <p>5/6 cuillères à soupe de fromage blanc</p>
+ <p>2 glaçons</p>
+ <p>1 cuillère à café de miel (ou + selon les goûts) </p>
+ <p>sirop de melon (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=7>épépinez le</operation> <ingredient quantite=1>melon</ingredient> puis <operation temps=6.86min espace=7>retirez sa chair</operation>. mettez la chair du <ingredient quantite=1>melon</ingredient>, le <ingredient quantite=1>fromage blanc</ingredient>, le <ingredient quantite=1>miel</ingredient> et les <ingredient quantite=2>glaçons</ingredient> dans un <recipient>mixeur</recipient> (ou <recipient>blender</recipient>) et <operation temps=6.86min espace=7>mixez le tout jusqu’ à ce que le mélange soit bien homogène</operation>. <operation temps=6.86min espace=7>versez le tout dans une jolie coupe (à glace par exemple)</operation> et <operation temps=6.86min espace=7>décorez à votre convenance (feuille de menthe, paille originale, <ingredient quantite=1>petit</ingredient> parasol</operation>...) - personnellement, je rajoute un filet de <ingredient quantite=1>sirop de melon</ingredient> pour le goût, habitant dans le nord, j’ ai rarement l’ occasion d’ avoir des <ingredient quantite=1>melons</ingredient> très goûtus ou assez sucrés comme dans le sud! un beaumes de venise
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55950">
+ <titre>Gratin de saumon et poireaux de Carole</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 gr de saumon frais</p>
+ <p>3 grosses pommes de terre</p>
+ <p>1 poireau</p>
+ <p>20 cl de crème fraîche allégée</p>
+ <p>100 gr de parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=3>pommes de terre</ingredient> au <recipient>four</recipient> (de préférence au micro-ondes) et pendant ce temps, <operation temps=6.86min espace=10>faire suer les <ingredient quantite=1>poireaux</ingredient> coupés en lamelles avec un peu d’ huile (j’</operation> utilise de l’ huile de pépin de raisin) à feu doux durant 10 minutes. préchauffer le <recipient>four</recipient> à 200 ° ; si les tranches de <ingredient quantite=1>saumon</ingredient> sont épaisses, couper - les dans l’ épaisseur pour <operation temps=6.86min espace=10>faire des tranches de max 50 mm</operation> ; couper les <ingredient quantite=3>pommes de terre</ingredient> en rondelles. dans un <recipient>plat</recipient> allant au <recipient>four</recipient> huilé (environ 2o cm de diamètre), mettre une couche de <ingredient quantite=3>pommes de terre</ingredient>, saler et poivrer, mettre une couche de <ingredient quantite=1>poireaux</ingredient>, saler et poivrer, mettre une couche de <ingredient quantite=1>saumon</ingredient>, saler et poivrer, mettre un peu de <ingredient quantite=1>crème</ingredient> fraiche, saler et poivrer et recommencer l’ opération une deuxième fois. terminer donc par une couche de <ingredient quantite=1>crème</ingredient> et mettre le <ingredient quantite=1>parmesan</ingredient>. <operation temps=25.0min espace=10>faire cuire 25 minutes au <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

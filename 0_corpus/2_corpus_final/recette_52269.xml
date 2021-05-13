@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52269">
+ <titre>Soufflé rapido à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de gruyère rapé</p>
+ <p>3 oeufs</p>
+ <p>300 g de lardons</p>
+ <p>15 cl de sauce tomate</p>
+ <p>1 petite boite de concentré de tomates</p>
+ <p>1/2 oignon</p>
+ <p>1 pot de crème fraîche épaisse</p>
+ <p>1 filet d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). dans un <recipient>saladier</recipient> verser les <ingredient quantite=3>oeufs</ingredient> battus, saler, poivrer. ajouter la sauce <ingredient quantite=1>tomate</ingredient>, le concentré, mélanger puis verser la <ingredient quantite=1>crème</ingredient> et l’ <ingredient quantite=1>huile</ingredient>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=1>oignons</ingredient> puis les</operation> incorporer au mélange, ajouter ensuite le gruyère et les <ingredient quantite=1>lardons</ingredient>. une fois le tout bien mélangé, verser dans un <recipient>plat</recipient> à soufflé puis enfourner pendant environ 30 minutes. servir à la sortie du <recipient>four</recipient>! bon appétit! attention de ne pas <operation temps=6.86min espace=14>laisser ce</operation> soufflé trop longtemps au <recipient>four</recipient> et de ne pas le cuire à une température trop élevée.
+]]>
+ </preparation>
+</recette>

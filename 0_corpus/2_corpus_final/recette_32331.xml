@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32331">
+ <titre>Bûche au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le biscuit roulé: </p>
+ <p>150 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>5 oeufs</p>
+ <p>Pour la crème au chocolat: </p>
+ <p>150 g de sucre</p>
+ <p>70 g de farine</p>
+ <p>6 jaunes d’ oeufs</p>
+ <p>50 cl de lait</p>
+ <p>250 g de beurre</p>
+ <p>500 g de chocolat noir</p>
+ <p>Pour le décor: </p>
+ <p>100 g de pâte d’ amandes vertes</p>
+ <p>quelques bonbons rouges</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger 150 g de <ingredient quantite=1>sucre</ingredient> avec 5 <ingredient quantite=5>oeufs</ingredient>. placer la jatte au <recipient>bain - marie</recipient> et <operation temps=6.86min espace=17>laisser épaissir en</operation> fouettant vivement. hors du feu, ajouter 150 g de farine. disposer une feuille de papier sulfurisé sur la plaque du <recipient>four</recipient>. etendre la pâte et la <operation temps=15.0min espace=17>faire cuire 15 mn à 180 ° c</operation>. puis, séparer les blancs des <ingredient quantite=6>jaunes</ingredient> des 6 <ingredient quantite=5>oeufs</ingredient>. fouetter les <ingredient quantite=6>jaunes</ingredient> avec 150 g de <ingredient quantite=1>sucre</ingredient> et 70 g de farine. verser le lait bouillant et <operation temps=6.86min espace=17>faire épaissir sur feu doux</operation>. <operation temps=6.86min espace=17>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> et le</operation> mélanger à la <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=17>laisser tiédir,</operation> puis ajouter le beurre et mettre à refroidir au réfrigirateur. etendre la <ingredient quantite=1>crème</ingredient> au choclat sur le <ingredient quantite=1>biscuit</ingredient> démouler et tiède. <ingredient quantite=1>rouler</ingredient> la génoise sur elle-même. tailler les extrémités de la bûche et la napper avec le reste de crème au <ingredient quantite=1>chocolat</ingredient>. décorer avec la pâte d’ amande et les <ingredient quantite=1>bonbons</ingredient>. une recette simple, facile et surtout délicieuse.
+]]>
+ </preparation>
+</recette>

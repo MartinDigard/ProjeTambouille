@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10812">
+ <titre>Misérable</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la meringue: </p>
+ <p>6 blancs d’ oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>180 g d’ amandes en poudre</p>
+ <p>180 g de sucre semoule</p>
+ <p>Pour la crème: </p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>1 cuillère à soupe de café</p>
+ <p>1 cuillère à soupe d’ eau</p>
+ <p>100 g de sucre impalpable</p>
+ <p>200 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>fouettez les blancs d’</operation> oeufs fermement avec le <ingredient quantite=1>sel</ingredient> en incorporant les <ingredient quantite=1>amandes</ingredient> et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=14>mettez cette <ingredient quantite=1>meringue</ingredient> dans une poche à <recipient>douille</recipient></operation> et <operation temps=6.86min espace=14>déposez - la sur des plaques beurrées</operation> et farinées en formant 2 disques de 22 cm de diamètre. <operation temps=6.86min espace=14>faites cuire ces disques à <recipient>four</recipient> doux (100 ° c) pendant une heure</operation>. d’ autre part, <operation temps=6.86min espace=14>préparez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=14>délayez le <ingredient quantite=1>café</ingredient> dans l’ <ingredient quantite=1>eau</ingredient></operation>. dans un poelon, <operation temps=6.86min espace=14>mettez les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=6>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>café</ingredient></operation>. placez le récipient au <recipient>bain - marie</recipient> et fouettez au fouet électrique jusqu’ à ce que le mélange devienne lisse. <operation temps=0.25min espace=14>retirez du feu</operation>, <operation temps=20.0min espace=14>laissez refroidir</operation> puis <operation temps=6.86min espace=14>incorporez le beurre par parcelles, toujours au fouet électrique</operation>. garnissez les disques de <ingredient quantite=1>meringue</ingredient> de crème en les superposant. <operation temps=6.86min espace=14>mettez au frais</operation>. <operation temps=6.86min espace=14>saupoudrez de <ingredient quantite=1>sucre</ingredient> glace au moment de</operation> <operation temps=2.0min espace=14>servir</operation>.
+]]>
+ </preparation>
+</recette>

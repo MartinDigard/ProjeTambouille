@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27032">
+ <titre>Gâteau au Yaourt à l’ ananas et aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de yaourt nature</p>
+ <p>1/2 pot à yaourt d’ huile</p>
+ <p>2 pots de yaourts de sucre en poudre (roux ou blanc, selon les goûts) </p>
+ <p>3 pots à yaourt de farine</p>
+ <p>5 tranches d’ ananas</p>
+ <p>1 pomme</p>
+ <p>2 oeufs</p>
+ <p>1/2 paquet de levure chimique en poudre</p>
+ <p>10 g de beurre</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+le <ingredient quantite=1>pot de yaourt</ingredient> vidé sert de mesure pour les ingrédients. battez les <ingredient quantite=2>oeufs</ingredient> en omelette. <operation temps=6.86min espace=14>coupez la <ingredient quantite=1>pomme</ingredient> en cubes ainsi que 2 <ingredient quantite=5>tranches</ingredient> d’ ananas</operation>. <operation temps=6.86min espace=14>versez la farine dans une <recipient>terrine</recipient> (la</operation> tamiser si possible), <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>yaourt</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=2>sucre</ingredient>, l’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=2>sucre</ingredient></operation> vanillé. travailler la pâte afin d’ <operation temps=8.0min espace=14>obtenir un mélange homogène</operation>. <operation temps=6.86min espace=14>ajoutez les morceux de <ingredient quantite=1>pommes</ingredient> et l’ ananas</operation>. <operation temps=5.0min espace=14>mélangez</operation>. <operation temps=6.86min espace=14>beurrez le <recipient>moule</recipient> à cake</operation>, <operation temps=6.86min espace=14>disposez les <ingredient quantite=5>tranches</ingredient> d’ <ingredient quantite=5>ananas</ingredient> restantes au fond du <recipient>moule</recipient></operation>, <operation temps=6.86min espace=14>versez la pâte</operation> et <operation temps=40.0min espace=14>mettez à <recipient>four</recipient> chaud 200 degrés (thermostat 7), 40 mn environ</operation>. vérifier la cuisson en enfonçant une lame de couteau: elle doit <operation temps=6.86min espace=14>ressortir bien sèche</operation>. si le gâteau se colore trop vite, le <operation temps=6.86min espace=14>recouvrir d’ une feuille de papier</operation> sulfurisé.
+]]>
+ </preparation>
+</recette>

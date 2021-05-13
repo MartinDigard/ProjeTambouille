@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28961">
+ <titre>Moelleux aux poires</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 poires bien mûres</p>
+ <p>180 g de sucre</p>
+ <p>4 gros oeufs</p>
+ <p>150 g de farine</p>
+ <p>125 g de beurre fondu refroidi</p>
+ <p>1 pincée de sel</p>
+ <p>1 sachet de levure en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>travaillez le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=4>oeufs</ingredient> au fouet jusqu’ à ce que le mélange blanchisse et double de volume</operation>. <operation temps=6.86min espace=9>ajoutez la farine et la pincée de <ingredient quantite=1>sel</ingredient>, puis le beurre <ingredient quantite=1>fondu</ingredient> et la <ingredient quantite=1>levure</ingredient></operation>. pelez et <operation temps=6.86min espace=9>épépinez les <ingredient quantite=4>poires</ingredient>,</operation> puis <operation temps=6.86min espace=9>coupez - les en quartiers</operation>. <operation temps=6.86min espace=9>tapissez le fond d’ un <recipient>moule</recipient> à</operation> manqué beurré de quartiers de <ingredient quantite=4>poires</ingredient>. <operation temps=6.86min espace=9>découpez le reste en dés</operation>, <operation temps=6.86min espace=9>ajoutez - les à la pâte</operation>. <operation temps=35.0min espace=9>versez la pâte dans le <recipient>moule</recipient>, et enfournez à 180 ° c pendant environ 35 min (<ingredient quantite=4>bien</ingredient></operation> surveiller la cuisson).
+]]>
+ </preparation>
+</recette>

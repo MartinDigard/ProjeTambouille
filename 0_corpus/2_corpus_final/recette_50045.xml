@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50045">
+ <titre>Délice fondant de brie aux herbes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 brie</p>
+ <p>herbes de Provence</p>
+ <p>papier aluminium</p>
+ <p>braises de barbecue</p>
+ <p>pain dur</p>
+ <p>1 gousse d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>brie</ingredient> en 2, suivant la tranche. parsemer d’ 1 cuillère à soupe d’ <ingredient quantite=1>herbes de provence</ingredient>, refermer le <ingredient quantite=1>brie</ingredient> et l’ emballer dans le <ingredient quantite=1>papier aluminium</ingredient>. le déposer dans les <ingredient quantite=1>braises</ingredient> chaudes du <ingredient quantite=1><recipient>barbecue</recipient></ingredient> pendant 1/4 heure. pendant ce temps, <operation temps=6.86min espace=7>faire griller les croûtons de <ingredient quantite=1>pain</ingredient> ou les tartines ; puis les</operation> frotter avec la gousse d’ <ingredient quantite=1>ail</ingredient>. <operation temps=6.86min espace=7>servir dans le <ingredient quantite=1>papier</ingredient> alu, en</operation> trempant les croûtons, ou tartiner! même recette avec un camembert!!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49602">
+ <titre>Flan à la ratatouille</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de ratatouille</p>
+ <p>2 œufs</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>chapelure</p>
+ <p>paprika</p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réchauffer la <ingredient quantite=1>ratatouille</ingredient> avec le <ingredient quantite=1>paprika</ingredient> et les <ingredient quantite=1>herbes</ingredient>, pour la dessécher. <operation temps=20.0min espace=7>laisser refroidir</operation> puis mélanger avec les <ingredient quantite=2>œufs</ingredient> et la farine. verser dans un <recipient>moule</recipient> à cake et saupoudrer de <ingredient quantite=1>chapelure</ingredient>. cuire environ 40 min à 150 ° c (thermostat 5) puis terminer la cuisson en laissant 5 min de grill. pour une version non végétarienne, ajouter du bacon grillé émietté et du chèvre frais.
+]]>
+ </preparation>
+</recette>

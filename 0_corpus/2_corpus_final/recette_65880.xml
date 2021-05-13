@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65880">
+ <titre>Crème anglaise au micro-ondes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>1 bâton de vanille</p>
+ <p>4 oeufs</p>
+ <p>80 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser le lait avec le <ingredient quantite=1>bâton de vanille</ingredient> fendu dans un <recipient>saladier</recipient>. <operation temps=6.0min espace=6>faire chauffer 6 min au micro-ondes pendant ce temps</operation> mettre dans un <recipient>saladier</recipient> les 4 jaunes d’ oeufs avec le <ingredient quantite=1>sucre</ingredient>. bien mélanger pour <operation temps=6.86min espace=6>obtenir un mélange mousseux</operation>. après que la <ingredient quantite=1>vanille</ingredient> ait infusée 6 min, je verse ce lait bouillant sur le mélange <ingredient quantite=4>oeufs</ingredient> - <ingredient quantite=1>sucre</ingredient>. je mélange bien. je remets au micro-ondes 1 min 30. après ce laps de temps je remue bien et je remets 30 secondes au micro-ondes. c’ est terminé il n’ y a plus qu’ à déguster! si vous <operation temps=6.86min espace=6>trouvez que c’ est un petit trop liquide vous</operation> pouvez remettre 30 secondes au micro-ondes... vous pouvez transformer cette recette de crème anglaise en <ingredient quantite=4>oeufs</ingredient> à la neige en battant les blancs en neige avec un peu de <ingredient quantite=1>sucre</ingredient> glace et en les <operation temps=1.0min espace=6>faisaint cuire sur une assiette au mico - ondes pendant 30 secondes à 1 min</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30513">
+ <titre>Côtes de porc sauce charcutière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 côtes de porc</p>
+ <p>3 échalotes</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>4 petits cornichons</p>
+ <p>1 cuillère à soupe de concentré de tomate</p>
+ <p>1 cuillerée à soupe de moutarde</p>
+ <p>50 g de beurre</p>
+ <p>2 cuillère à soupe de persil haché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez les <ingredient quantite=3>échalotes</ingredient> et émincez les <ingredient quantite=4>cornichons</ingredient> en rondelles. faites cuire les <ingredient quantite=6>côtes de porc</ingredient> dans une <recipient>poêle</recipient> avec le beurre, 6 - 7 min de chaque côté afin qu’ elles soient bien dorées. <operation temps=0.25min espace=12>salez</operation> et <operation temps=0.5min espace=12>poivrez</operation>, <operation temps=0.5min espace=12>réservez</operation> les <ingredient quantite=6>côtes</ingredient> dans un <recipient>plat</recipient> au chaud</operation>. <operation temps=6.86min espace=12>mettez les <ingredient quantite=3>échalotes</ingredient> dans la <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=12>mouillez avec le <ingredient quantite=1>vin</ingredient> et 15 cl d’ eau, bien</operation> gratter le suc. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation> et délayez le <ingredient quantite=1>concentré de tomate</ingredient>. <operation temps=3.0min espace=12>laissez bouillir 2 - 3 min</operation> et <operation temps=6.86min espace=12>rajoutez les <ingredient quantite=4>cornichons</ingredient>, le <ingredient quantite=2>persil</ingredient> et la <ingredient quantite=1>moutarde</ingredient></operation>. <operation temps=6.86min espace=12>versez aussitôt sur la viande</operation> et <operation temps=2.0min espace=12>servez</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45411">
+ <titre>Champignons à la grecque "light"</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de champignons de Paris</p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>25 cl de vin blanc</p>
+ <p>2 ml de tabasco</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>lavez les <ingredient quantite=1>champignons</ingredient>, et placez - les dans un <recipient>faitout</recipient> anti-adhésif sur feu vif</operation>. remuez régulièrement, jusqu’ à ce que les <ingredient quantite=1>champignons</ingredient> aient rendu toute leur eau. ajoutez le <ingredient quantite=1>concentré de tomates</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>, et remuez. <operation temps=6.86min espace=8>ajoutez le <ingredient quantite=1>tabasco</ingredient> (une dizaine de gouttes, selon votre goût)</operation>, <operation temps=0.25min espace=8>salez</operation>, <operation temps=6.86min espace=8>poivrez,</operation> et <operation temps=30.0min espace=8>laissez mijoter 30 min</operation>. <operation temps=6.86min espace=8>versez la préparation dans un <recipient>saladier</recipient>,</operation> et <operation temps=6.86min espace=8>disposez - le au <recipient>réfrigérateur</recipient> pendant 6 h</operation> minimum.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173420">
+ <titre>Soupe blanche, ou presque</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de navets</p>
+ <p>200 g de pommes de terre</p>
+ <p>200 g de blancs de poireaux</p>
+ <p>1 l d’ eau</p>
+ <p>1 bouillon cube</p>
+ <p>poivre</p>
+ <p>sel</p>
+ <p>1/2 cuillère à café de curry</p>
+ <p>1/2 cuillère à café de cumin</p>
+ <p>du persil frais pour la garniture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher, laver et débiter les légumes en petits morceaux. les faire cuire avec l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>bouillon cube</ingredient> et le poivre (à la <recipient>marmite</recipient> à pression ou 20 min dans une <recipient>casserole</recipient> - cuisson à petits <ingredient quantite=1>bouillons</ingredient>). passer au mixer. terminer la cuisson en ajoutant le <ingredient quantite=1>curry</ingredient>, le <ingredient quantite=1>cumin</ingredient>, éventuellement <ingredient quantite=1>poivre</ingredient> ou <ingredient quantite=1>sel</ingredient>, allonger avec un peu d’ <ingredient quantite=1>eau</ingredient> si nécessaire. <operation temps=6.86min espace=12>servir en</operation> parsemant du <ingredient quantite=1>persil frais</ingredient> ciselé pour donner un peu plus de couleur, à même l’ assiette.
+]]>
+ </preparation>
+</recette>
