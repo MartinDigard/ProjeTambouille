@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68448">
+ <titre>Aiguillettes de poulet à la crème de poivron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 à 8 aiguillettes de poulet</p>
+ <p>1 poivron</p>
+ <p>5 cuillères à soupe de crème fraiche allégée</p>
+ <p>6 pommes de terre moyennes (en accompagnement) </p>
+ <p>fromage râpé</p>
+ <p>chapelure</p>
+ <p>sel, poivre</p>
+ <p>thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=6>pommes de terre</ingredient> environ 20 min dans de l’ eau bouillante salée. pendant ce temps, dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire dorer le</operation> <ingredient quantite=6>poulet</ingredient>, saler, poivrer et réserver. mixer le <ingredient quantite=1>poivron</ingredient>, le <operation temps=6.86min espace=11>faire revenir avec un peu de beurre</operation>, saler, poivrer et y incorporer un peu de <ingredient quantite=1>thym</ingredient> (selon les goûts), puis ajouter la <ingredient quantite=5>crème fraiche</ingredient>. remuer le tout et <operation temps=6.86min espace=11>laisser cuire quelques instants jusqu’ à ce que le mélange</operation> devienne onctueux. lorsque les <ingredient quantite=6>pommes de terre</ingredient> sont cuites, les égoutter et les disposer dans un <recipient>plat</recipient> à gratin préalablement beurré. ajouter les <ingredient quantite=6>aiguillettes de poulet</ingredient>, <operation temps=6.86min espace=11>couvrir le tout de la <ingredient quantite=5>crème</ingredient> de</operation> <ingredient quantite=1>poivron</ingredient> et parsemer d’ un peu de gruyère râpé et de <ingredient quantite=1>chapelure</ingredient>. enfourner 20 min au <recipient>four</recipient> à 180 ° c (thermostat 6), jusqu’ à ce que ce soit bien gratiné.
+]]>
+ </preparation>
+</recette>

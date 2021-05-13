@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58737">
+ <titre>Filets de poulet marinés au citron, au miel et aux graines de sésame</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poulet</p>
+ <p>2 cuillères à soupe de miel liquide</p>
+ <p>5 cl de jus de citron</p>
+ <p>5 cl de sauce soja</p>
+ <p>des graines de sésame</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, faire chauffer le <ingredient quantite=2>miel</ingredient> avec le <ingredient quantite=1>jus de citron</ingredient> et la sauce <ingredient quantite=1>soja</ingredient>. verser cette sauce sur les <ingredient quantite=4>filets de poulet</ingredient>. <operation temps=6.86min espace=6>faire mariner les blancs de <ingredient quantite=4>poulet</ingredient> pendant au moins 4 heures</operation>. <operation temps=6.86min espace=6>faire dorer les <ingredient quantite=4>filets</ingredient>,</operation> puis ajouter la marinade et <operation temps=5.0min espace=6>laisser cuire 5 minutes en</operation> retournant les morceaux. a la fin de la cuisson, ajouter les <ingredient quantite=1>graines de sésame</ingredient>. <operation temps=6.86min espace=6>faire dorer encore un peu</operation>. voilà! accompagner de tagliatelles fraîches.
+]]>
+ </preparation>
+</recette>

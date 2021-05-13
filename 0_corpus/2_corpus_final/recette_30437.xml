@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30437">
+ <titre>Risotto de pâtes d’ Elodie</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1l de bouillon de volaille</p>
+ <p>3 cl de vin blanc</p>
+ <p>200 g de pâtes (les coquillettes sont parfaites) </p>
+ <p>1 barquette de lardons (125 g) </p>
+ <p>1 petite boîte de petits pois</p>
+ <p>50 à 100 g de fromage râpé (quantité selon votre goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=7>faire cuire les <ingredient quantite=1>lardons</ingredient> sans ajout de matière grasse, y</operation> ajouter les <ingredient quantite=1>pâtes</ingredient> crues. mouiller du <ingredient quantite=1>vin blanc</ingredient> et <operation temps=1.0min espace=7>laisser 1 minute</operation>. ajouter le <ingredient quantite=1>bouillon</ingredient> chauffé auparavant en plusieurs fois, les <ingredient quantite=1>pâtes</ingredient> absorbant le liquide. 5 minutes avant la fin de la cuisson, ajouter les <ingredient quantite=1>petits pois</ingredient> et <operation temps=5.0min espace=7>laisser 5 minutes</operation>. avant d’ éteindre le feu, verser le râpé et mélanger. très facile et ça change du risotto de riz! un bon <ingredient quantite=1>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

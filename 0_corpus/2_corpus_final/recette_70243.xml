@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70243">
+ <titre>Spaghetti aux aubergines et au thon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de spaghetti</p>
+ <p>400 g de coulis de tomates</p>
+ <p>200 g de thon au naturel</p>
+ <p>200 g d’ aubergines</p>
+ <p>2 oignons </p>
+ <p>60 g de beurre</p>
+ <p>100 g de parmesan</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=9>egouttez</operation> le <ingredient quantite=1>thon</ingredient> et émincez les <ingredient quantite=2>oignons</ingredient></operation>. pelez et <operation temps=6.86min espace=9>coupez en petits morceaux les</operation> <ingredient quantite=1>aubergines</ingredient> et <operation temps=6.86min espace=9>faites - les</operation> dégorger au <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=9>faites revenir les <ingredient quantite=1>aubergines</ingredient> et les <ingredient quantite=2>oignons</ingredient> dans une <recipient>poêle</recipient> avec le beurre</operation> puis ajouter le <ingredient quantite=1>coulis de tomates</ingredient>. <operation temps=10.0min espace=9>laisses cuire environ 10 minutes</operation>. pendant ce temps, <operation temps=6.86min espace=9>faites cuire les pâtes selon le temps</operation> indiqué sur le paquet. <operation temps=10.0min espace=9>egouttez</operation> - les <operation temps=6.86min espace=9>mélangez les pâtes avec la sauce et parsemez de <ingredient quantite=1>parmesan</ingredient> râpé</operation>.
+]]>
+ </preparation>
+</recette>

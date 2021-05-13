@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51522">
+ <titre>Fondue bourguignonne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de viande rouge</p>
+ <p>800 g de blanc de poulet</p>
+ <p>600 g de carottes</p>
+ <p>600 g de concombres</p>
+ <p>2 barquettes de tomates-cerises</p>
+ <p>2 bottes de radis</p>
+ <p>1 kg de pommes de terre</p>
+ <p>1 salade verte</p>
+ <p>Huile à fondue</p>
+ <p>Assortiment de sauces pour fondue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la viande <ingredient quantite=1>rouge</ingredient> et les <ingredient quantite=1>blancs de poulet</ingredient> en cube. éplucher les <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=1>concombres</ingredient>, évider les <ingredient quantite=1>concombres</ingredient> puis couper en fines lamelles le tout. éplucher les <ingredient quantite=2>radis</ingredient>, préparer la salade, laver les <ingredient quantite=1>tomates</ingredient> et mettre le tout au frais. faire cuire les <ingredient quantite=1>pommes de terre</ingredient> à la vapeur ou mieux au <recipient>four</recipient> (coupées en deux dans la longueur, badigeonnées avec un peu d’ huile et parsemées de fleur de sel ou d’ épices). mettre sur la table avec le <recipient>poêlon</recipient> d’ huile chaude. accompagner la viande avec l’ <ingredient quantite=1>assortiment</ingredient> de petits légumes et ne pas oublier les <ingredient quantite=1>sauces</ingredient>. (ne pas oublier que le <ingredient quantite=1>blanc de poulet</ingredient> cuit plus longtemps que la viande <ingredient quantite=1>rouge</ingredient>.) vin <ingredient quantite=1>rouge</ingredient> ou rosé
+]]>
+ </preparation>
+</recette>

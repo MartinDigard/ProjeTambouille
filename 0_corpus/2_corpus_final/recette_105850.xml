@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105850">
+ <titre>Fondant marbré aux deux chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat blanc</p>
+ <p>200 g de chocolat noir à 50% de cacao</p>
+ <p>10 oeufs</p>
+ <p>100 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>100 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la pâte au <ingredient quantite=1>chocolat blanc</ingredient>: faire fondre le <ingredient quantite=1>chocolat blanc</ingredient> avec <ingredient quantite=1>50</ingredient> g de beurre. pendant ce temps mélanger 5 <ingredient quantite=1>oeufs</ingredient> avec 100 g de <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse. rajouter <ingredient quantite=1>50</ingredient> g <ingredient quantite=1>farine</ingredient> et le <ingredient quantite=1>chocolat</ingredient> fondu. bien mélanger jusqu’ à ce que la préparation soit homogène. faire exactement la même chose pour la pâte au <ingredient quantite=1>chocolat noir</ingredient>. beurrer un <recipient><recipient>moule</recipient> à manqué</recipient> (28/30 cm), y verser simultanément les deux pâtes ou l’ une après l’ autre si vous n’ avez pas d’ aide (procéder comme pour un marbré classique) <operation temps=20.0min espace=7>faire cuire à 200 ° 20 minutes pour</operation> avoir un gâteau encore fondantservir avec une crème anglaise. c’ est divin
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27827">
+ <titre>Langoustes aux tomates et aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 queues de langoustes</p>
+ <p>4 oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>8 tomates</p>
+ <p>1 piment</p>
+ <p>1 morceau de gingembre</p>
+ <p>1/2 cuillère à café de safran</p>
+ <p>2 brins de thym</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fendez les <ingredient quantite=8>queues de langoustes</ingredient> en 2. <operation temps=6.86min espace=10>faites dorez les <ingredient quantite=4>oignons</ingredient> hachés dans l’</operation> <ingredient quantite=4>huile</ingredient> puis <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>safran</ingredient>, le gigembre râpé, l’ <ingredient quantite=4>ail</ingredient> et le <ingredient quantite=1>piment</ingredient></operation> pilés, du <ingredient quantite=1>sel</ingredient> et du poivre. remuez puis <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=8>tomates</ingredient></operation> concassées et le <ingredient quantite=2>thym</ingredient>. <operation temps=0.25min espace=10>couvrez et</operation> <operation temps=10.0min espace=10>laissez cuire 10 min en tournant de temps à autre</operation>. ajoutez les <ingredient quantite=8>queues de langoustes</ingredient> et <operation temps=6.86min espace=10>mouillez de 15 cl d’ eau</operation>. <operation temps=0.25min espace=10>couvrez et</operation> <operation temps=15.0min espace=10>laissez mijoter 15 min</operation>.
+]]>
+ </preparation>
+</recette>

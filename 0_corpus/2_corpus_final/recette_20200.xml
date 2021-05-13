@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20200">
+ <titre>Pâtes au chèvre, thym et lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 bûchette de fromage de chèvre</p>
+ <p>400 g de pâtes (de préférence striées) </p>
+ <p>150 g de lardons fumés</p>
+ <p>1 cuillère à café de thym</p>
+ <p>5 cuillères à soupe de crème fraîche épaisse</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire chauffer l’ eau de <ingredient quantite=1>pâtes</ingredient> avec de l’ huile d’ olive</operation>. dans une <recipient>casserole</recipient> ayant une soeur de taille supérieure (pour <operation temps=6.86min espace=11>faire un <recipient>bain - marie</recipient>)</operation>, mettez la <ingredient quantite=5>crème fraîche</ingredient> et le <ingredient quantite=1>chèvre</ingredient> coupés en petits morceaux, ainsi que le <ingredient quantite=1>sel</ingredient>, le poivre et le <ingredient quantite=1>thym</ingredient>. <operation temps=6.86min espace=11>mettez à chauffer au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=11>faites cuire les <ingredient quantite=1>pâtes</ingredient>’ al dente’</operation>. pendant ce temps <operation temps=6.86min espace=11>faites revenir les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=11>mélangez le tout et servir chaud</operation>. comme <recipient>plat</recipient> basses calories on fait mieux mais c’ est moins bon...!!! je <operation temps=6.86min espace=11>fais ça le soir quand des amis</operation> restent à diner à l’ improviste et tout le monde apprécie. un petit rouge sympathique et sans prétention
+]]>
+ </preparation>
+</recette>

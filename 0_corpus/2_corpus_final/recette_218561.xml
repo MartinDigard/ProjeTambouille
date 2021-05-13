@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218561">
+ <titre>Cake aux figues et aux amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 dizaine de figues</p>
+ <p>200 g de beurre</p>
+ <p>175 g de sucre</p>
+ <p>3 œufs</p>
+ <p>180 g de farine</p>
+ <p>100 g de poudre d’ amandes</p>
+ <p>1 sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>3 cuillères à soupe de lait</p>
+ <p>1 bouchon de Grand Marnier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=15>mélangez le beurre fondu et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=15>incorporez les <ingredient quantite=3>œufs</ingredient>,</operation> puis ajoutez la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, le <ingredient quantite=3>lait</ingredient> et le <ingredient quantite=1>grand marnier</ingredient> et bien <operation temps=6.86min espace=15>mélangez le tout jusqu’ à</operation> <operation temps=6.86min espace=15>obtenir un mélange bien lisse</operation>. <operation temps=6.86min espace=15>tapissez le <recipient>moule</recipient> à cake de papier</operation> sulfurisé, <operation temps=6.86min espace=15>déposez sur le fond une dizaine de <ingredient quantite=1>figues</ingredient></operation> coupées en deux. <operation temps=6.86min espace=15>versez la pâte du <recipient>saladier</recipient> dans le <recipient>moule</recipient></operation>. <operation temps=50.0min espace=15>enfournez 50 min</operation>. <operation temps=6.86min espace=15>démoulez une fois que le cake est</operation> tiède. bon appétit! vous pouvez remplacer le <ingredient quantite=1>grand marnier</ingredient> par de la fleur d’ oranger, de la vanille, etc. un thé vert
+]]>
+ </preparation>
+</recette>

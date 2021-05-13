@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31457">
+ <titre>Parmentier du nouveau monde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de 125 g de purée</p>
+ <p>1/4 de l d’ eau</p>
+ <p>1/4 de l de lait</p>
+ <p>250 g de viande hachée</p>
+ <p>125 g de chair à saucisse</p>
+ <p>1 boîte de sauce tomate cuisinée</p>
+ <p>1 boîte de maïs en grain</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>thym et persil</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir l’ <ingredient quantite=1>oignon</ingredient> en rondelles dans l’</operation> <ingredient quantite=1>huile</ingredient> et ajouter les <ingredient quantite=1>viandes</ingredient>. ajouter la moitié de la <ingredient quantite=1>sauce</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>persil hachés</ingredient>, le <ingredient quantite=1>thym</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=6.86min espace=14>laisser cuire 10</operation> mn. préparer la purée. dans un <recipient>plat</recipient> mettre une couche de purée, une couche de préparation, et le contenu de le <ingredient quantite=1>boîte de maïs</ingredient>. <operation temps=6.86min espace=14>finir avec la <ingredient quantite=1>sauce</ingredient> et la purée</operation>. <operation temps=6.86min espace=14>faire cuire à <recipient>four</recipient> chaud th 7, 10</operation> mn.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55499">
+ <titre>Cari de gambas frites</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 paquet de gambas surgelés (16 gambas) </p>
+ <p>5 tomates</p>
+ <p>4 échalotes</p>
+ <p>1 tête d’ ail</p>
+ <p>1 pincée de gingembre en poudre</p>
+ <p>1 boîte de chapelure</p>
+ <p>poivre, sel</p>
+ <p>1 pincée de safran</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>laisser décongeler les <ingredient quantite=1>gambas</ingredient></operation>. les tremper dans de l’ eau bouillante quelques minutes pour les cuire. ensuite tremper chaque <ingredient quantite=1>gambas</ingredient> dans un peu de <ingredient quantite=1>chapelure</ingredient> pour en <operation temps=6.86min espace=9>recouvrir toutes les faces puis les</operation> jeter dans de l’ huile bouillante quelques secondes. les retirer de l’ huile et les réserver. dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=9>faites revenir les <ingredient quantite=4>échalotes</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et les <ingredient quantite=5>tomates</ingredient></operation>. ajouter une pincée de <ingredient quantite=1>gingembre</ingredient> et le <ingredient quantite=1>safran</ingredient>. saler et poivrer. ajouter les <ingredient quantite=1>gambas</ingredient>. rajouter de l’ eau si nécessaire pour <operation temps=6.86min espace=9>recouvrir les <ingredient quantite=1>gambas</ingredient></operation>. <operation temps=45.0min espace=9>laisser cuire pendant 45 minutes à 1 heure en</operation> rajoutant de l’ eau si nécessaire afin d’ <operation temps=6.86min espace=9>obtenir une sauce consistante</operation>.
+]]>
+ </preparation>
+</recette>

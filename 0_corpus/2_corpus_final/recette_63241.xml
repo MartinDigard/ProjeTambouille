@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63241">
+ <titre>Salade paysanne express</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 belle pomme de terre</p>
+ <p>200 g de haricots verts</p>
+ <p>1 œuf dur</p>
+ <p>2 tranches de jambon de pays</p>
+ <p>5 cornichons</p>
+ <p>3 feuilles de salade</p>
+ <p>quelques dés de comté</p>
+ <p>huile d’ olive, vinaigre de votre choix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher et couper en dés la <ingredient quantite=1>pomme de terre</ingredient> puis la <operation temps=10.0min espace=9>faire cuire 10 minutes dans une <recipient>casserole</recipient> d’ eau bouillante</operation>. dans le même temps <operation temps=6.86min espace=9>faire cuire l’</operation> oeuf. couper le <ingredient quantite=2>jambon</ingredient> et les <ingredient quantite=5>cornichons</ingredient> en petits morceaux. mélanger les <ingredient quantite=1>haricots</ingredient>, le <ingredient quantite=2>jambon</ingredient>, les <ingredient quantite=1>dés de comté</ingredient>, les <ingredient quantite=5>cornichons</ingredient> et la <ingredient quantite=3>salade</ingredient>. ajouter les <ingredient quantite=1>pommes de terre</ingredient> et l’ oeuf <ingredient quantite=1>dur</ingredient>. saler, poivrer, assaisonner selon votre goût. bon appétit! on peut naturellement modifier l’ assaisonnement mais simplement arrosée d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient> et de quelques gouttes de <ingredient quantite=1>vinaigre</ingredient> cette recette est déjà savoureuse. les ingrédients sont indiqués pour une <ingredient quantite=3>salade</ingredient> individuelle... à décliner selon le nombre de personnes!
+]]>
+ </preparation>
+</recette>

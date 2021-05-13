@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69644">
+ <titre>Crevettes piquantes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de crevettes décortiquées</p>
+ <p>1 cuillère à soupe de gingembre frais râpé</p>
+ <p>1.5 cuillère à soupe d’ ail écrasé </p>
+ <p>1 poireau coupé en rondelles</p>
+ <p>Pour la sauce: </p>
+ <p>2 cuillères à soupe de Ketchup</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>1 bouillon de poisson ou poulet</p>
+ <p>9 cl d’ eau pour dissoudre le bouillon</p>
+ <p>pâte de piment (nécessaire, mais je vous laisse mettre la quantité selon votre goût) </p>
+ <p>huile de tournesol</p>
+ <p>1 cuillère à soupe de maïzena ou d’ amidon en poudre pour mélanger avec les crevettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>friteuse</recipient>, <operation temps=6.86min espace=14>faire frire les <ingredient quantite=1>crevettes</ingredient> préalablement <ingredient quantite=1>mélangées</ingredient> avec l’</operation> <ingredient quantite=1>amidon</ingredient> ou maïzena pendant quelques secondes. mettre de côté. mettre quelques gouttes d’ huile dans une <recipient>poêle</recipient> et <operation temps=6.86min espace=14>faire revenir les légumes (<ingredient quantite=1>gingembre</ingredient>, <ingredient quantite=2>ail</ingredient> et enfin <ingredient quantite=1>poireau</ingredient>) pendant quelques minutes</operation>. <ingredient quantite=1>mélanger</ingredient> l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>bouillon</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>ketchup</ingredient> et le <ingredient quantite=1>piment</ingredient> puis verser sur les légumes. <operation temps=6.86min espace=14>laisser mijoter le tout quelques minutes</operation> puis ajouter les <ingredient quantite=1>crevettes</ingredient>. <operation temps=30.0min espace=14>laisser cuire</operation> crevettes et sauce pendant 1 minute. si la <ingredient quantite=1>sauce</ingredient> est trop liquide ajouter un peu d’ <ingredient quantite=1>amidon</ingredient> dilué avec un peu d’ <ingredient quantite=1>eau</ingredient>. servir chaud avec du riz. rosé
+]]>
+ </preparation>
+</recette>

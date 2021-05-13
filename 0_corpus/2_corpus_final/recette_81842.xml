@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81842">
+ <titre>Briouats au fromage</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 feuilles de bricks</p>
+ <p>8 portions de vache qui rit</p>
+ <p>eau</p>
+ <p>farine</p>
+ <p>huile pour friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez toutes vos <ingredient quantite=4>feuilles de bricks</ingredient> en deux. sur un plan de travail, <operation temps=6.86min espace=6>pliez une première <ingredient quantite=1>feuille</ingredient> de brick en deux à l’ horizontale de façon à</operation> <operation temps=6.86min espace=6>obtenir un rectangle</operation>. déposez un triangle de <ingredient quantite=8>vache qui rit</ingredient> en haut du rectangle à environ 3 cm du bord et rabattre la pointe droite du rectangle vers le bord gauche de façon à former un triangle. bien <operation temps=6.86min espace=6>aplatir le triangle afin de</operation> déposer de la <ingredient quantite=8>vache qui rit</ingredient> de façon uniforme dans tout le briouat. chaque extrémité pointue du triangle doit être rabattue vers le bord opposé jusqu’ à la fin. rentrer le bord qui dépasse à l’ intérieur du triangle et colmater avec un mélange <ingredient quantite=1>eau</ingredient> - <ingredient quantite=1>farine</ingredient>. renouvelez l’ opération jusqu’ à épuisement des <ingredient quantite=4>feuilles de bricks</ingredient>. <operation temps=6.86min espace=6>faire chauffer de l’</operation> huile dans une <recipient>poêle</recipient> et déposer les triangles. <operation temps=1.0min espace=6>laisser dorer 1 minute et les retourne pour dorer l’ autre côté</operation>. une fois cuit, <operation temps=6.86min espace=6>laisser sécher sur du papier</operation> absorbant durant quelques minutes afin d’ ôter le surplus d’ huile. servir chaud.
+]]>
+ </preparation>
+</recette>

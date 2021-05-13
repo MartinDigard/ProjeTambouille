@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172820">
+ <titre>Fricassée de poulet facile et rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon de taille moyenne, coupé en petits morceaux</p>
+ <p>2 gousses d’ ail, écrasées</p>
+ <p>4 blancs de poulet coupés en dés</p>
+ <p>sel et poivre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 verre de vin blanc</p>
+ <p>15 cl de bouillon de poule</p>
+ <p>fines herbes ou autre</p>
+ <p>2 cuillères à café de moutarde</p>
+ <p>225 g de champignons, en lamelles</p>
+ <p>15 cl de lait</p>
+ <p>2 cuillères à soupe de fromage blanc à 0% (ou crème allégée ou équivalent) </p>
+ <p>persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>sauteuse</recipient> jusqu’ a ce qu’ il soit tendre</operation>, ajouter l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=4>poulet</ingredient>, assaisonner et cuire pendant 2 à 3 minutes jusqu’ à ce que le <ingredient quantite=4>poulet</ingredient> soit’ <ingredient quantite=1>blanc</ingredient>’. ajouter la farine, bien mélanger, puis <operation temps=1.0min espace=15>faire cuire pendant 1 minute</operation>. ajouter le <ingredient quantite=1>vin blanc</ingredient> et le <ingredient quantite=1>bouillon</ingredient>, <ingredient quantite=1>petit</ingredient> à <ingredient quantite=1>petit</ingredient>, puis ensuite la <ingredient quantite=2>moutarde</ingredient>, les <ingredient quantite=1>champignons</ingredient> et le lait. <operation temps=15.0min espace=15>faire mijoter environ 15 minutes jusqu’ à ce que la sauce épaississe et que le <ingredient quantite=4>poulet</ingredient> soit cuit</operation>. la sauce ne réduit pas beaucoup et reste assez liquide. enlever la <recipient>sauteuse</recipient> de la source de chaleur, ajouter le <ingredient quantite=1>fromage blanc</ingredient> et le <ingredient quantite=1>persil</ingredient>, puis <operation temps=2.0min espace=15>servir immédiatement</operation>. a déguster avec du riz
+]]>
+ </preparation>
+</recette>

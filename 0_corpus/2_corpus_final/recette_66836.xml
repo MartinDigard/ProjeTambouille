@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66836">
+ <titre>Concombres à la menthe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 concombre</p>
+ <p>20 cl de crème fraiche</p>
+ <p>quelques feuilles de menthe fraîches</p>
+ <p>2 échalotes</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+saler le <ingredient quantite=1>concombre</ingredient> coupé en cubes et <operation temps=30.0min espace=7>laisser dégorger 30 min dans une <recipient>passoire</recipient></operation>. rincer et égoutter, essuyer dans un linge propre. mélanger la <ingredient quantite=1>menthe</ingredient> hachée, les <ingredient quantite=2>échalotes</ingredient> hachées, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>vinaigre</ingredient> et le poivre. mélanger la sauce avec les <ingredient quantite=1>concombres</ingredient> et servir bien <ingredient quantite=1>frais</ingredient>. les plats les plus simples sont les meilleurs. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31565">
+ <titre>Pizza aubergine et chorizo</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pain (maison c’ est meilleur) </p>
+ <p>4 cuillères à soupe de concentré de tomate</p>
+ <p>1 aubergine moyenne</p>
+ <p>5 grosses tranches de chorizo</p>
+ <p>un morceau de comté (ou parmesan ou chèvre... Bref, un bon fromage qui fond...) </p>
+ <p>1 œuf</p>
+ <p>cumin</p>
+ <p>origan </p>
+ <p>huile d’ olive </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper l’ <ingredient quantite=1>aubergine</ingredient> en rondelles pas trop épaisses, les <operation temps=6.86min espace=13>faire dorer dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>poêle</recipient> (en générale en deux fois, ça</operation> prend de la place). étaler la pâte. appliquer le coulis de <ingredient quantite=4>tomate</ingredient> et saupoudrer d’ <ingredient quantite=1>origan</ingredient>. placer les rondelles d’ <ingredient quantite=1>aubergines</ingredient> bien dorées, ajouter les 5 <ingredient quantite=5>tranches de chorizo</ingredient> en forme de fleur. couper le <ingredient quantite=1>comté</ingredient> (ou autre fromage) en <ingredient quantite=5>tranches</ingredient> fines et les déposer en soleil sur la pizza. saupoudrer d’ <ingredient quantite=1>origan</ingredient> à nouveau et mettre au <recipient>four</recipient>, à 240 ° c. au bout de 15 min environ casser l’ oeuf au centre du " soleil ". remettre au <recipient>four</recipient> jusqu’ à cuisson de l’ oeuf. <operation temps=6.86min espace=13>régalez vous avec une bonne salade de</operation> roquette.
+]]>
+ </preparation>
+</recette>

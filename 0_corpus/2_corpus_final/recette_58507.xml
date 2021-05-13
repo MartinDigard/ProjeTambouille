@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58507">
+ <titre>Cake mozzarella jambon de parme</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de jambon de parme</p>
+ <p>4 oeufs</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de basilic frais ciselé ou surgelé</p>
+ <p>100 g de mozzarella</p>
+ <p>30 g de beurre</p>
+ <p>200 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6). <operation temps=6.86min espace=14>coupez la mozzarella en petits dés et le <ingredient quantite=1>jambon</ingredient> en lamelles</operation>. <operation temps=6.86min espace=14>cassez les <ingredient quantite=4>oeufs</ingredient> dans un <recipient>saladier</recipient></operation>, ajouter le <ingredient quantite=1>vin blanc</ingredient> et l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation>. <operation temps=6.86min espace=14>battez le tout en omelette</operation>. <operation temps=6.86min espace=14>incorporez la farine et la <ingredient quantite=1>levure</ingredient> sans</operation> cesser de mélanger au fouet (ou batteur), puis <operation temps=6.86min espace=14>ajoutez les dés de mozzarella, le <ingredient quantite=1>jambon</ingredient> et le <ingredient quantite=2>basilic</ingredient></operation>. <operation temps=45.0min espace=14>versez la préparation dans un <recipient>moule</recipient> à cake beurré et enfournez pendant 45 min</operation>. <operation temps=6.86min espace=14>sortez le cake du <recipient>four</recipient></operation>, <operation temps=6.86min espace=14>laissez tiédir, puis démoulez</operation> et <operation temps=6.86min espace=14>laissez refroidir complétement</operation>. vous pouvez y ajouter également 100 g de tomates séchées à l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. <operation temps=6.86min espace=14>servir avec une salade, ou en apéritif amélioré</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36652">
+ <titre>Escalope de dinde au poivron facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 escalopes de dinde </p>
+ <p>1 poivron de la couleur de votre choix</p>
+ <p>2 à 3 cuilléres à soupe de crème fraîche </p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>poivre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire cuire vos <ingredient quantite=2>escalopes</ingredient> de dinde avec un peu de matière grasse (huile, margarine ou beurre selon le goût</operation>). couper le <ingredient quantite=1>poivron</ingredient> en morceaux et les ajouter aux <ingredient quantite=2>escalopes</ingredient>, <operation temps=6.86min espace=6>laisser cuire à feu doux</operation>. mélanger dans un bol la <ingredient quantite=2>crème fraîche</ingredient> à la <ingredient quantite=1>moutarde</ingredient>, saler, poivrer. rajouter à la viande et au <ingredient quantite=1>poivron</ingredient> et <operation temps=6.86min espace=6>laisser chauffer quelques instant</operation>. c’ est prêt!
+]]>
+ </preparation>
+</recette>

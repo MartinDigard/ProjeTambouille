@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23770">
+ <titre>Saumonette mijotée au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 2 kg de saumonette</p>
+ <p>1, 2 kg de pommes de terre</p>
+ <p>40 cl de vin blanc</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni (thym, laurier) </p>
+ <p>75 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>pelez et émincez les <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=8>pilez l’ <ingredient quantite=1>ail</ingredient></operation>. pelez et coupez les <ingredient quantite=1>pommes de terre</ingredient> en rondelles. <operation temps=6.86min espace=8>coupez le poisson en gros tronçons</operation>. <operation temps=0.25min espace=8>salez et</operation> <operation temps=6.86min espace=8>poivrez - les</operation>. <operation temps=6.86min espace=8>faites fondre la moitié du beurre</operation>. <operation temps=6.86min espace=8>faites - y</operation> dorer les <ingredient quantite=2>oignons</ingredient>. ajoutez les morceaux de <ingredient quantite=1>saumonette</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>. couvrez avec les <ingredient quantite=1>pommes de terre</ingredient>, et des petits morceaux de beurre. mouillez avec le <ingredient quantite=1>vin blanc</ingredient>, <operation temps=0.25min espace=8>salez et</operation> <operation temps=0.5min espace=8>poivrez</operation>. <operation temps=0.25min espace=8>couvrez</operation> et <operation temps=45.0min espace=8>laissez mijoter 45 minutes à feu doux</operation>. vous pouvez ajouter un peu de crème dans le jus de cuisson à la fin et <operation temps=6.86min espace=8>laisser épaissir quelques minutes à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

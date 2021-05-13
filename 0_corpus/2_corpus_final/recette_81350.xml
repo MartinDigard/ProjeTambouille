@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81350">
+ <titre>Pâté pieds et couenne</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pieds de porc 1/2 sel</p>
+ <p>1 livre d’ échine de porc maigre</p>
+ <p>250 g de couenne</p>
+ <p>1 oignon</p>
+ <p>2 échalotes</p>
+ <p>2 carottes</p>
+ <p>3 clous de girofle</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper <ingredient quantite=1>oignons</ingredient> et <ingredient quantite=2>échalotes</ingredient> très fin, couper les <ingredient quantite=2>carottes</ingredient> en rondelles. mettre tous les ingrédients dans une <recipient>cocotte</recipient> - minute, <operation temps=2.0min espace=12>couvrir d’ eau</operation> et porter à ébullition. <operation temps=6.86min espace=12>laisser cuire pendant <ingredient quantite=1>1/2</ingredient> heure (avec rotation de la soupape</operation>). <operation temps=6.86min espace=12>sortir la viande, l</operation>’ émietter dans un <recipient>plat</recipient> (si possible une <recipient>terrine</recipient>). <operation temps=6.86min espace=12>couvrir avec l’ eau de cuisson et les légumes</operation>. <operation temps=20.0min espace=12>laisser refroidir</operation> et mettre plusieurs heures au <recipient>réfrigérateur</recipient>. a déguster froid avec un peu de moutarde, idéal pour le pique-nique
+]]>
+ </preparation>
+</recette>

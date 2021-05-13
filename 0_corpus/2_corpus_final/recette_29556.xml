@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29556">
+ <titre>Velouté de champignons express</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de champignons de Paris </p>
+ <p>2 gros oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>80 g de flocons de pommes de terre</p>
+ <p>1 litre et demi de bouillon de volaille</p>
+ <p>sel, poivre, huile d’ olive</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer le <ingredient quantite=1>bouillon</ingredient>. dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=8>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés, l’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=1>champignons</ingredient>. rajouter les <ingredient quantite=1>flocons de pommes de terre</ingredient> et verser le <ingredient quantite=1>bouillon</ingredient>. couvrez, <operation temps=20.0min espace=8>laissez cuire à feu doux 20 min</operation>. <operation temps=6.86min espace=8>laissez légèrement refroidir et passez le tout au mixer</operation>. <operation temps=0.25min espace=8>salez</operation>, <operation temps=6.86min espace=8>poivrez et servez</operation> chaud avec une cuillerée de <ingredient quantite=1>crème fraîche</ingredient>.
+]]>
+ </preparation>
+</recette>

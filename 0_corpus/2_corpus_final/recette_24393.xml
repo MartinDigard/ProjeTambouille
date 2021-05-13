@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24393">
+ <titre>Quiche aux poireaux</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée ou feuilletée</p>
+ <p>250 g de poireaux</p>
+ <p>25 cl de crème fraîche</p>
+ <p>20 cl de lait</p>
+ <p>4 oeufs</p>
+ <p>50 g de beurre</p>
+ <p>noix de muscade</p>
+ <p>chapelure</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=12>coupez les blancs de <ingredient quantite=1>poireaux</ingredient> en tronçons</operation>. <operation temps=6.86min espace=12>faites - les</operation> cuire dans une <recipient>sauteuse</recipient> couverte avec le beurre et un peu d’ eau environ 20 minutes. une fois cuits, <operation temps=6.86min espace=12>travaillez - les en purée à la fourchette</operation>. <operation temps=6.86min espace=12>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>, piquez - la à la fourchette</operation>. <operation temps=6.86min espace=12>saupoudrez de</operation> <ingredient quantite=1>chapelure</ingredient></operation> et <operation temps=6.86min espace=12>étalez la purée de <ingredient quantite=1>poireaux</ingredient></operation>. battez les <ingredient quantite=4>oeufs</ingredient> avec la <ingredient quantite=1>crème</ingredient> et le lait, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et une pincée de <ingredient quantite=1>muscade</ingredient>. <operation temps=6.86min espace=12>versez sur les</operation> <ingredient quantite=1>poireaux</ingredient> et <operation temps=6.86min espace=12>saupoudrez de <ingredient quantite=1>chapelure</ingredient></operation>. <operation temps=40.0min espace=12>faites cuire 40 min au <recipient>four</recipient> préchauffé à 220 ° c (thermostat 7 - 8</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54763">
+ <titre>Milk-shake Ananas Mangue</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 ananas</p>
+ <p>1 mangue</p>
+ <p>25 cl de lait (que l’ on peut remplacer par de la crème glacée à la vanille...) </p>
+ <p>2 sachets de suche vanillé (ou un morceau de bâton de vanille gratté) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencez par couper les fruits en gros morceaux. placez - les dans le mixer (ou <recipient>blender</recipient>). pré-mixez-les. <operation temps=6.86min espace=5>ajoutez le lait (ou la glace), les <ingredient quantite=2>sachets</ingredient> de sucre (ou la vanille</operation>). <operation temps=6.86min espace=5>mixez le tout et miam! très bon au goûter, en dessert ou quand on</operation> veut!
+]]>
+ </preparation>
+</recette>

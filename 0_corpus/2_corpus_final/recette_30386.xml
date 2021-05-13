@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30386">
+ <titre>Salade poivron, pomme, tomate</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poivrons verts ou rouges</p>
+ <p>3 pommes aigres</p>
+ <p>3 tiges de céleri</p>
+ <p>4 grosses tomates mûres</p>
+ <p>450 g de mayonnaise</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>2 cuillères de vinaigre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 cuillère à café de curry</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=2>vinaigre</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>curry</ingredient> et l’ <ingredient quantite=1>huile</ingredient> puis incorporer ce mélange à la <ingredient quantite=1>mayonnaise</ingredient>. saler, poivrer. peler les <ingredient quantite=4>tomates</ingredient>: inciser la peau en croix, les plonger dans l’ eau bouillante 30 secondes puis les rafraîchir sous un filet d’ eau froide. la peau s’ enlève alors facilement. les vider de leurs graines. détailler les <ingredient quantite=3>poivrons</ingredient>, les <ingredient quantite=4>tomates</ingredient>, les <ingredient quantite=3>pommes</ingredient> en dés, le <ingredient quantite=3>céleri</ingredient> en petits tronçons. incorporer les légumes à la <ingredient quantite=1>mayonnaise</ingredient> et servir frais.
+]]>
+ </preparation>
+</recette>

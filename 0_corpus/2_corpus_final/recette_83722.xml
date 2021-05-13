@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83722">
+ <titre>Potage onctueux aux endives</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g d’ endives</p>
+ <p>3 bonnes carottes</p>
+ <p>1 gros oignon</p>
+ <p>60 g de farine</p>
+ <p>80 g de beurre</p>
+ <p>1.5 l de bouillon de poule</p>
+ <p>2 cuillères à soupe de crème fraiche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>endives</ingredient>, les <ingredient quantite=3>carottes</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, le tout finement</operation> coupé dans le beurre sans <operation temps=6.86min espace=7>laisser roussir</operation>. ajouter la farine, surtout bien mélanger puis le sel et le poivre. <operation temps=6.86min espace=7>couvrir avec le</operation> <ingredient quantite=1>bouillon</ingredient>, <operation temps=20.0min espace=7>laisser cuire 20 minutes à petits <ingredient quantite=1>bouillons</ingredient></operation>. mixer et rajouter la <ingredient quantite=2>crème fraiche</ingredient>.
+]]>
+ </preparation>
+</recette>

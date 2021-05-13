@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13776">
+ <titre>Pain brioché</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>4 œufs</p>
+ <p>50 g de beurre</p>
+ <p>100 g de sucre</p>
+ <p>20 g de sel</p>
+ <p>30 g de levure de boulanger</p>
+ <p>30cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>délayez la <ingredient quantite=1>levure</ingredient> dans un peu de</operation> <ingredient quantite=1>lait</ingredient>, <operation temps=6.86min espace=7>tamisez la farine</operation> et <operation temps=6.86min espace=7>incorporez le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient></operation>. <operation temps=6.86min espace=7>cassez les</operation> <ingredient quantite=4>œufs</ingredient>, <operation temps=6.86min espace=7>versez la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>lait</ingredient> tout en</operation> pétrissant bien la pâte. <operation temps=6.86min espace=7>incorporez le beurre ramolli</operation>, <operation temps=6.86min espace=7>pétrissez bien la pâte</operation> et <operation temps=6.86min espace=7>laissez la</operation> pousser à température ambiante pendant au moins deux heures. <operation temps=6.86min espace=7>farinez la table</operation> puis <operation temps=6.86min espace=7>déposez la pâte</operation>. <operation temps=6.86min espace=7>détaillez des morceaux de pâte</operation> et <operation temps=6.86min espace=7>roulez des petites boules dans la paume de la main</operation>. compter 3h de’ temps de pousse’. café
+]]>
+ </preparation>
+</recette>

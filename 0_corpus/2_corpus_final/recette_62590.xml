@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62590">
+ <titre>Boeuf aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>450 g de filet de boeuf coupé en lamelles</p>
+ <p>4 cuillères à soupe d’ huile de tournesol</p>
+ <p>1 cuillère à soupe de sauce de soja</p>
+ <p>1 cuillère à soupe de sel</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>1 oignon haché</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>1 cuillère à soupe de curry en poudre</p>
+ <p>2 cuillères à soupe de ketchup</p>
+ <p>2 cébettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez les <ingredient quantite=1>lamelles de boeuf</ingredient> avec 1 <ingredient quantite=4>cuillère à soupe</ingredient> d’ huile, la <ingredient quantite=1>sauce de soja</ingredient> et le <ingredient quantite=1>sel</ingredient>. <operation temps=15.0min espace=13>laissez macérer 15 minutes</operation>. <operation temps=6.86min espace=13>ajoutez la <ingredient quantite=1>maïzena</ingredient> et remuez</operation>. chauffer 2 <ingredient quantite=4>cuillères à soupe</ingredient> d’ <ingredient quantite=4>huile</ingredient> dans une <recipient>sauteuse</recipient> sur feu moyen. ajouter le <ingredient quantite=1>boeuf</ingredient> et <operation temps=6.86min espace=13>faites - le</operation> sauter 5 minutes environ. <operation temps=0.5min espace=13>réservez au chaud</operation>. essuyez la <recipient>sauteuse</recipient> et <operation temps=6.86min espace=13>versez - y le reste de l’ <ingredient quantite=4>huile</ingredient></operation>. <operation temps=6.86min espace=13>ajoutez l’ <ingredient quantite=1>oignon</ingredient> et l’</operation> <ingredient quantite=2>ail</ingredient>, <operation temps=5.0min espace=13>laissez les fondre 5 min</operation>. <operation temps=6.86min espace=13>incorporez le <ingredient quantite=1>curry</ingredient> et le <ingredient quantite=2>ketchup</ingredient></operation>. <operation temps=6.86min espace=13>remettez le <ingredient quantite=1>boeuf</ingredient> dans la <recipient>sauteuse</recipient> avec les cébettes <ingredient quantite=1>coupées</ingredient> en tronçons</operation>. <operation temps=5.0min espace=13>faites cuire le tout 5 minutes</operation> et <operation temps=2.0min espace=13>servez aussitôt</operation>. accompagnement: nouilles chinoises
+]]>
+ </preparation>
+</recette>

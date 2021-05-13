@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26963">
+ <titre>Porc aux sojas (recette light) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de porc maigre</p>
+ <p>200 g de carottes</p>
+ <p>200 g de céleri-rave</p>
+ <p>1 boîte de germes de soja</p>
+ <p>1 verre de bouillon</p>
+ <p>2 cuillères à café de sauce de soja</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>porc</ingredient> en fines lamelles. verser le <ingredient quantite=1>bouillon</ingredient> dans un <recipient>faitout</recipient>. y placer la viande. <operation temps=20.0min espace=9>laisser mijoter à feu couvert 20 mn</operation>. râper <ingredient quantite=1>carottes</ingredient> et <ingredient quantite=1>céleri</ingredient> par les gros trous de la râpe. egoutter les <ingredient quantite=1>germes de soja</ingredient>. ajouter le tout à la viande dans le <recipient>faitout</recipient>. verser la <ingredient quantite=1>sauce de soja</ingredient>. rectifier l’ assaisonnement et cuire encore 15 mn. on peut remplacer le <ingredient quantite=1>porc</ingredient> par du poulet (recette encore plus light!)
+]]>
+ </preparation>
+</recette>

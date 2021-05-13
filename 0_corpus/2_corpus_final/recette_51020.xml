@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51020">
+ <titre>Beignets de carnaval</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>1 paquet de pudding vanille</p>
+ <p>40 g de beurre </p>
+ <p>4 œufs</p>
+ <p>250 g de sucre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>250 g de margarine</p>
+ <p>50 cl de lait tiède</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine et la préparation pour pudding puis <operation temps=6.86min espace=8>faire un trou au milieu</operation>. mélanger le beurre avec un peu de <ingredient quantite=1>sucre</ingredient> et de lait <ingredient quantite=1>tiède</ingredient> puis l’ incorporer au mélange précédent. battre les <ingredient quantite=4>œufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. battre l’ huile, la margarine et le lait <ingredient quantite=1>tiède</ingredient>, ajouter les <ingredient quantite=4>œufs</ingredient> puis incorporer au mélange de farine. <operation temps=6.86min espace=8>laisser monter la pâte</operation>. <operation temps=6.86min espace=8>faire frire ces beignets de carnaval dans de l’ <ingredient quantite=1>huile</ingredient> bien chaude</operation>. les rouler dans un mélange sucre - cannelle lorsqu’ ils sont cuits. très bons coupés en deux et tartinés de confiture ou nutella. du café
+]]>
+ </preparation>
+</recette>

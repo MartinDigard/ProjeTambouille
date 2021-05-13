@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34541">
+ <titre>Rôti de porc à l’ orange</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc de 1, 2 kg</p>
+ <p>4 oranges non traitées</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>50 g de beurre</p>
+ <p>50 g de sucre</p>
+ <p>10 cl de vinaigre de vin</p>
+ <p>sel, poivre</p>
+ <p>quatre-épices</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (th 6). chauffer l’ <ingredient quantite=2>huile</ingredient> et le beurre dans une <recipient>cocotte</recipient>, y <operation temps=10.0min espace=12>faire dorer le rôti sur toute ses faces (environ 10 mn</operation>). saler, poivrer, ajouter le <ingredient quantite=1>vin blanc</ingredient> et après 3 mn, le jus d’ une <ingredient quantite=1>orange</ingredient> et 2 pincées de <ingredient quantite=1>quatre-épices</ingredient>. <operation temps=0.25min espace=12>couvrir</operation>, enfourner pour 1 heure en tournant le rôti tous les 1/4 d’ heure. pendant ce temps, prélever le zeste de 2 <ingredient quantite=4>oranges</ingredient>, le couper en fins bâtonnets que l’ on fait <operation temps=3.0min espace=12>blanchir 2 fois 3 mn dans l’ eau bouillante (en changeant l’ eau</operation>). peler ces 2 <ingredient quantite=4>oranges</ingredient> à vif et séparer les quartiers, réserver. réaliser une bigarade, c’ est à dire <operation temps=6.86min espace=12>faire un caramel avec le <ingredient quantite=1>sucre</ingredient> et très peu d’ eau, puis quand celui ci</operation> devient ambré, verser le <ingredient quantite=1>vinaigre</ingredient> et le jus de la 4ème <ingredient quantite=1>orange</ingredient>. bien mélanger. mettre les zestes à cuire dans cette bigarade 3 mn. au terme de la cuisson du rôti, verser la préparation précédente dans la <recipient>cocotte</recipient>, ajouter les quartiers réservés et <operation temps=5.0min espace=12>laisser cuire encore 5 mn avant de</operation> <operation temps=2.0min espace=12>servir</operation>.
+]]>
+ </preparation>
+</recette>

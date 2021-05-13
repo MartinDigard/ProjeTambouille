@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22865">
+ <titre>SAINT JACQUES AUX ÉPICES DOUCES</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillerées de fumet de poisson en poudre</p>
+ <p>15 cl de vin blanc</p>
+ <p>10 cl d’ eau</p>
+ <p>10 coquilles Saint-Jacques</p>
+ <p>2 petits poivrons (1 vert, 1 rouge) </p>
+ <p>3 cuillerées à soupe de crème fraîche</p>
+ <p>1/2 cuillerée à café de curry</p>
+ <p>ciboulette</p>
+ <p>20 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) <operation temps=10.0min espace=14>faites pocher 10 mn les <ingredient quantite=2>poivrons</ingredient> coupés en</operation> dés dans de l’ <ingredient quantite=1>eau</ingredient> salée. <operation temps=10.0min espace=14>egouttez</operation> - les. 2) partagez les coquilles saint - <ingredient quantite=1>jacques</ingredient> en deux <operation temps=6.86min espace=14>faites - les</operation> dorer à la <recipient>poêle</recipient> avec le beurre (2 mn environ). <operation temps=6.86min espace=14>réservez - les</operation>. 3) versez dans la <recipient>poêle</recipient> le <ingredient quantite=1>vin blanc</ingredient> l’ <ingredient quantite=1>eau</ingredient> la <ingredient quantite=3>crème fraîche</ingredient> le <ingredient quantite=1>curry</ingredient> la <ingredient quantite=1>ciboulette</ingredient> hachée et délayez le <ingredient quantite=4>fumet de poisson</ingredient>. <operation temps=0.25min espace=14>salez</operation> <operation temps=0.5min espace=14>poivrez</operation>. <operation temps=5.0min espace=14>laissez réduire 5 mn</operation>. 4) réchauffez les coquilles saint - <ingredient quantite=1>jacques</ingredient> dans la <recipient>poêle</recipient> et <operation temps=6.86min espace=14>servez - les nappées de la sauce</operation> et accompagnées des <ingredient quantite=2>poivrons</ingredient>. avec un peu de riz sauvage ou <ingredient quantite=1>blanc</ingredient>, vous <operation temps=6.86min espace=14>ferez de cette entrée un excellent <recipient>plat</recipient> principal</operation> <operation temps=6.86min espace=14>servez le même <ingredient quantite=1>vin</ingredient> que celui qui entre dans la composition de la sauce</operation>
+]]>
+ </preparation>
+</recette>

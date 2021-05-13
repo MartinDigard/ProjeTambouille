@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57204">
+ <titre>Endives braisées au cumin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 endive par personne</p>
+ <p>100 g d’ emmental coupé en dés</p>
+ <p>1 pincée de cumin</p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe d’ huile d’ arachide</p>
+ <p>option: 1 cuillère à dessert de miel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>endives</ingredient> dans le sens de la longueur, les jeter dans l’ <ingredient quantite=2>huile</ingredient> d’ arachide chaude. une fois que les <ingredient quantite=1>endives</ingredient> sont cuites (elles sont translucides) y ajouter le <ingredient quantite=1>cumin</ingredient>. bien mélanger. ajouter les dès d’ <ingredient quantite=1>emmental</ingredient> ajouter le <ingredient quantite=1>miel</ingredient>, <operation temps=3.0min espace=6>laisser cuire environ 2 à 3 min pour que les dès sont bien fondants</operation>. saler, poivrer. peut très bien <operation temps=6.86min espace=6>faire office d’</operation> accompagnement ou d’ entrée.
+]]>
+ </preparation>
+</recette>

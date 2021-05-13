@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62182">
+ <titre>Soupe broco pomme de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 bouquet de brocolis niçois</p>
+ <p>2 grosses pommes de terres</p>
+ <p>2 cuillères à soupe de riz</p>
+ <p>1 noisette de beurre</p>
+ <p>persil</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler les <ingredient quantite=2>pommes de terre</ingredient> en dés et le <ingredient quantite=1>brocolis</ingredient> en <ingredient quantite=1>bouquets</ingredient>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=8>faire fondre le <ingredient quantite=1>beurre</ingredient> avec le <ingredient quantite=1>persil</ingredient>, quand le <ingredient quantite=1>beurre</ingredient> est</operation> fondu, ajouter les <ingredient quantite=2>pommes de terre</ingredient>, remuer, puis les <ingredient quantite=1>brocolis</ingredient>, remuer, <operation temps=5.0min espace=8>laisser dorer environ 5 minutes</operation>. ajouter 1 grand volume d’ eau salée, <operation temps=20.0min espace=8>laisser cuire 20 minutes</operation> puis rajouter le <ingredient quantite=2>riz</ingredient>, <operation temps=6.86min espace=8>laisser encore</operation> cuire 10 minutes. voila! vous pouvez aussi passer la <ingredient quantite=2>soupe</ingredient> au <recipient>mixeur</recipient> pour les petits!
+]]>
+ </preparation>
+</recette>

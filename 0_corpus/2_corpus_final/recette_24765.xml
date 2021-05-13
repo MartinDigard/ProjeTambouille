@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24765">
+ <titre>Choux de Bruxelles aux châtaignes en cocotte</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de choux de Bruxelles</p>
+ <p>300 g de châtaignes</p>
+ <p>125 g de lard de poitrine demi-sel</p>
+ <p>60 cl de bouillon ou d’ eau</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+inciser le contour des <ingredient quantite=1>châtaignes</ingredient>, puis les mettre à cuire dans une <recipient>casserole</recipient> d’ <ingredient quantite=1>eau</ingredient> froide. porter à ébullition à feu doux, puis <operation temps=1.0min espace=9>laisser cuire 1 min après ébullition</operation>. les peler immédiatement dès la fin du temps de cuisson. préparer un <ingredient quantite=1>bouillon</ingredient>, y plonger les <ingredient quantite=1>châtaignes</ingredient> pelées et les <operation temps=20.0min espace=9>laisser cuire 15 à 20 min</operation>. surveiller la cuisson afin d’ éviter qu’ elles ne ramollissent de trop. nettoyer, éplucher puis plonger les <ingredient quantite=1>choux de bruxelles</ingredient> dans l’ <ingredient quantite=1>eau</ingredient> bouillante salée 15 à 20 min. les égoutter et les réserver. détailler le <ingredient quantite=1>lard</ingredient> en lardons, puis les <operation temps=6.86min espace=9>faire revenir dans une <recipient>cocotte</recipient></operation> beurrée pendant 10 min. ajouter ensuite les <ingredient quantite=1>choux de bruxelles</ingredient>, puis <operation temps=6.86min espace=9>laisser colorer le tout</operation>. dès coloration, incorporer les <ingredient quantite=1>châtaignes</ingredient>, mélanger la préparation puis rectifier l’ assaisonnement en ajoutant <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> à votre guise. <operation temps=5.0min espace=9>laisser mijoter encore 5 min environ</operation> puis <operation temps=6.86min espace=9>servir immédiatement dans le <recipient>plat</recipient> de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

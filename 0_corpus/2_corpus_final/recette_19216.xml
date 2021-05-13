@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19216">
+ <titre>Filet de saumon en waterzooi</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 sachet de 500 g de julienne de légumes frais</p>
+ <p>2 cubes de bouillon de poisson</p>
+ <p>4 filets de saumon</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>2 dl de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites blanchir 1 <ingredient quantite=1>oignon</ingredient></operation> haché. ajoutez 1 sachet de 500 g de <ingredient quantite=1>julienne de légumes</ingredient>. <operation temps=6.86min espace=8>couvrez d’ eau</operation> et ajoutez 2 <ingredient quantite=2>cubes de bouillon de poisson</ingredient>. <operation temps=20.0min espace=8>laissez mijoter 20 mn</operation>. <operation temps=0.25min espace=8>salez</operation> et poivrez les 4 <ingredient quantite=4>filets de saumon</ingredient> et <operation temps=6.86min espace=8>ajoutez - les dans la <recipient>casserole</recipient></operation> et <operation temps=6.86min espace=8>prolongez la cuisson de 10</operation> mn. délayez 1 <ingredient quantite=1>cuillère à soupe</ingredient> de farine dans 2 dl de <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=8>versez - les dans la préparation et mélangez</operation>. <operation temps=6.86min espace=8>accompagnez ce waterzooi de <ingredient quantite=2>poisson</ingredient> de riz ou de pommes frites</operation>. bon appétit! vin blanc sec
+]]>
+ </preparation>
+</recette>

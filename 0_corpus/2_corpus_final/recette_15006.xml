@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15006">
+ <titre>Pompe à l’ huile (gibassier) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>90 g de sucre semoule</p>
+ <p>25 g de levure de boulanger</p>
+ <p>25 cl d’ huile d’ olive</p>
+ <p>25 cl d’ eau de fleur d’ oranger</p>
+ <p>25 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>mélangez la farine, la <ingredient quantite=1>levure</ingredient></operation> diluée dans l’ <ingredient quantite=1>eau</ingredient> tiède et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=7>ajoutez l’ <ingredient quantite=1>huile</ingredient>, la <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> et l’ <ingredient quantite=1>eau</ingredient></operation>. vous pouvez aussi ajouter un œuf battu. <operation temps=6.86min espace=7>travaillez la pâte pendant 5 min, de façon à ce qu’ elle soit</operation> souple. <operation temps=6.86min espace=7>laissez reposer pendant 2 heures à température ambiante</operation>. abaissez la pâte sur 1 cm d’ épaisseur. <operation temps=6.86min espace=7>donnez des coups de couteau pour la fendre</operation> et <operation temps=6.86min espace=7>écartez les fentes pour</operation> <operation temps=6.86min espace=7>obtenir une galette ajourée</operation>. pour des’ pompettes’, <operation temps=6.86min espace=7>divisez la pâte en quatre boules</operation> et <operation temps=6.86min espace=7>procédez de la même façon</operation>. <operation temps=6.86min espace=7>laisser lever les galettes pendant 1 heure</operation>. <operation temps=20.0min espace=7>faites cuire à <recipient>four</recipient> moyen (thermostat 6 - 7) sur une plaque pendant 15 à 20 min</operation>. la pompe à l’ huile fait partie des treize desserts provençaux de noël. vin cuit de provence
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27297">
+ <titre>Tomates au fromage blanc et à la ciboulette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates bien rondes</p>
+ <p>225 g de fromage blanc</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>1/2 cuillère à café de paprika</p>
+ <p>1 bouquet de ciboulette</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper un chapeau aux <ingredient quantite=6>tomates</ingredient> et retirer leur chair. saler et retourner sur un papier absorbant. ciseler finement la <ingredient quantite=1>ciboulette</ingredient>. battre le <ingredient quantite=1>fromage blanc</ingredient> avec la <ingredient quantite=1>moutarde</ingredient>, le <ingredient quantite=1>paprika</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. farcir les <ingredient quantite=6>tomates</ingredient> de ce mélange et servir frais.
+]]>
+ </preparation>
+</recette>

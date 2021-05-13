@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46094">
+ <titre>Poêlée de canard aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 magrets de canard</p>
+ <p>2 poivrons rouges</p>
+ <p>6 bonnes cuillères à soupe de sauce soja</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ <p>les pâtes de votre choix pour accompagner la poêlée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencez par faire bouillir de l’ eau pour <ingredient quantite=1>vos pâtes</ingredient>, afin qu’ elles soient prêtes lorsque vous aurez préparé les ingrédients. découper grossièrement les <ingredient quantite=2>magrets de canard</ingredient> en carrés, de taille à peu près égale. <operation temps=6.86min espace=8>coupez en fines lamelles les <ingredient quantite=2>poivrons</ingredient></operation>. <operation temps=6.86min espace=8>mettez le beurre dans le <recipient>wok</recipient>, le <ingredient quantite=2>canard</ingredient> et les <ingredient quantite=2>poivrons</ingredient>,</operation> et faites revenir le tout avec la <ingredient quantite=6>sauce soja</ingredient>. vous pouvez, au <ingredient quantite=1>choix</ingredient>, <operation temps=6.86min espace=8>servir en</operation> mélangeant avec les <ingredient quantite=1>pâtes</ingredient> ou <operation temps=6.86min espace=8>servir séparément</operation>. c’ est un <recipient>plat</recipient> rapide et peu onéreux, idéal pour les étudiants comme moi qui sont toujours un peu pressés et qui n’ ont pas envie de se prendre la tête!
+]]>
+ </preparation>
+</recette>

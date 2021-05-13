@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65054">
+ <titre>Purée de potiron et pois chiches gratinée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg potiron</p>
+ <p>500 g pommes de terre</p>
+ <p>100 g pois chiches en boîte (cuits) </p>
+ <p>2 grosses carottes</p>
+ <p>20 cl lait</p>
+ <p>50 g beurre</p>
+ <p>20 cl crème fraîche</p>
+ <p>150 g gruyère râpé</p>
+ <p>2 pincée de noix muscade</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). eplucher le potiron, les pommes de <ingredient quantite=1>terre</ingredient> et les <ingredient quantite=2>carottes</ingredient>. les couper en morceaux et les <operation temps=20.0min espace=13>faire cuire dans de l’ eau bouillante pendant 20 minutes</operation>. egoutter les légumes et ajouter les pois <ingredient quantite=1>chiches</ingredient>, le lait et le beurre. mixer le tout. ajouter la crème, la <ingredient quantite=2>muscade</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre et bien mélanger. mettre dans un <recipient>plat</recipient> à gratin. <operation temps=6.86min espace=13>recouvrir de gruyère</operation>. mettre au <recipient>four</recipient> pendant 7 minutes. terminer par 3 minutes sous le grill.
+]]>
+ </preparation>
+</recette>

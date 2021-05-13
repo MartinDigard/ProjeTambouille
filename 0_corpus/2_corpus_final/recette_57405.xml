@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57405">
+ <titre>Quart-quart fourré aux caramels</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>100 g de farine</p>
+ <p>100 g de sucre </p>
+ <p>100 g de beurre fondu</p>
+ <p>7 caramels mous</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>cassez les <ingredient quantite=2>oeufs</ingredient> dans un <recipient>saladier</recipient>,</operation> puis <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=10>mélangez jusqu’ à</operation> <operation temps=8.0min espace=10>obtenir un mélange homogène</operation>. <operation temps=6.86min espace=10>ajoutez le beurre <ingredient quantite=1>fondue</ingredient> et ensuite la farine</operation>. <operation temps=6.86min espace=10>mélangez bien et ensuite</operation> <operation temps=6.86min espace=10>ajoutez la <ingredient quantite=1>levure</ingredient></operation>. <operation temps=6.86min espace=10>versez dans un <recipient>moule</recipient>, beurré</operation> et fariné, la moitié de la préparation et ensuite <operation temps=6.86min espace=10>coupez les</operation> <ingredient quantite=7>caramels</ingredient> et <operation temps=6.86min espace=10>versez - les sur la préparation</operation>. ensuite <operation temps=6.86min espace=10>versez le reste de la préparation dans la <recipient>moule</recipient></operation> et <operation temps=20.0min espace=10>faites cuire 20 min environ</operation>. manger ce gâteau chaud! <operation temps=5.0min espace=10>régalez -vous</operation>! <operation temps=6.86min espace=10>surveillez pendant la cuisson tout cela</operation> dépend de la force de votre <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

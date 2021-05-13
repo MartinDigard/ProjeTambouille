@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47303">
+ <titre>Pieds et paquets à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>24 paquets préparés </p>
+ <p>8 pieds d’ agneau</p>
+ <p>2 pieds de veau</p>
+ <p>1 petit verre de vermouth</p>
+ <p>1 bouteille vin blanc</p>
+ <p>même quantité de bouillon de viande</p>
+ <p>2 cuillères de concentré de tomate</p>
+ <p>1 boîte de tomates pelées</p>
+ <p>thym, laurier, sarriette, romarin et menthe</p>
+ <p>4 écorces d’ orange</p>
+ <p>4 oignons</p>
+ <p>4 carottes</p>
+ <p>2 branches céleri</p>
+ <p>2 blancs poireau</p>
+ <p>8 gousses d’ ail</p>
+ <p>sel, poivre</p>
+ <p>2 cocottes en fonte</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir dans chaque <ingredient quantite=1><recipient>cocotte</recipient> oignons</ingredient>, <ingredient quantite=4>carottes</ingredient>, <ingredient quantite=2>céleri</ingredient> et <ingredient quantite=2>poireau</ingredient> coupés en <ingredient quantite=1>petits</ingredient> morceaux dans l’ huile d’ olive pendant 5 min. rajouter le concentré de <ingredient quantite=2>tomate</ingredient>, remuer 1 min. rajouter le <ingredient quantite=1>vermouth</ingredient>, <operation temps=6.86min espace=18>faire réduire 3 min,</operation> puis rajouter la <ingredient quantite=2>boîte de tomates</ingredient>, tous les aromates, saler un peu. mettre sur le lit de légumes les <ingredient quantite=8>pieds de veau</ingredient>, ceux d’ <ingredient quantite=8>agneau</ingredient>, par dessus les <ingredient quantite=1>paquets</ingredient>, puis rajouter le <ingredient quantite=1>vin blanc</ingredient>. porter à ébullition puis <operation temps=5.0min espace=18>faire évaporer l’ acidité du <ingredient quantite=1>vin</ingredient> pendant 5 min</operation>, rajouter le <ingredient quantite=1>bouillon de viande</ingredient> (personnellement je <operation temps=6.86min espace=18>fais tous mes fonds)</operation>, <operation temps=0.25min espace=18>couvrir</operation> et <operation temps=6.86min espace=18>faire cuire aux alentours de 90 ° c pendant 9 h</operation>. j’ ai une plaque à induction: position 2 ou 3. (à feu doux sur une plaque à gaz ou électrique) <operation temps=6.86min espace=18>sortir toute la</operation> <ingredient quantite=1>viande</ingredient>, <operation temps=6.86min espace=18>faire réduire la sauce de moitié</operation>, rectifier le <ingredient quantite=1>sel</ingredient> et le poivre. le lendemain <operation temps=6.86min espace=18>refaire mijoter une heure</operation>. servir avec des pommes de terre en robe des champs cuites avec une <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=8>ail</ingredient>, du <ingredient quantite=1>thym</ingredient> et du <ingredient quantite=1>laurier</ingredient>. au final tous mes <ingredient quantite=1>paquets</ingredient> sont intacts, mes <ingredient quantite=8>pieds</ingredient> entiers et moelleux, le secret est dans la cuisson.
+]]>
+ </preparation>
+</recette>

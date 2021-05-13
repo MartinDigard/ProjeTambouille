@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23273">
+ <titre>Truites tomate, champignon, estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 truites vidées</p>
+ <p>6 branches d’ estragon</p>
+ <p>450 g de champignons</p>
+ <p>45 g de beurre</p>
+ <p>3 échalotes</p>
+ <p>75 cl de coulis de tomate</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). rincer les <ingredient quantite=6>truites</ingredient> sous un filet d’ eau et les essuyer. saler et poivrer l’ intérieur et disposer 1 <ingredient quantite=1>branche</ingredient> d’ <ingredient quantite=6>estragon</ingredient> dans chacune. emincer les <ingredient quantite=1>champignons</ingredient> et les <ingredient quantite=3>échalotes</ingredient>. les <operation temps=6.86min espace=8>faire fondre dans le beurre</operation> puis ajouter le <ingredient quantite=1>coulis de tomates</ingredient>. saler, poivrer et <operation temps=15.0min espace=8>laisser cuire 15 minutes</operation>. disposer les <ingredient quantite=6>truites</ingredient> dans la sauce et enfourner pour 20 minutes de cuisson.
+]]>
+ </preparation>
+</recette>

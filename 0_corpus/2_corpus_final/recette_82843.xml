@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82843">
+ <titre>Pommes en baluchon</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>3 pommes</p>
+ <p>1 citron</p>
+ <p>3 cuillères à soupe de confiture de fraises</p>
+ <p>1 jaune d’ œuf</p>
+ <p>30 g de beurre</p>
+ <p>2 cuillères à soupe de calvados</p>
+ <p>1 peu de sucre glace</p>
+ <p>crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=3>pommes</ingredient>. <operation temps=6.86min espace=11>découpez - les en dés</operation>. <operation temps=6.86min espace=11>arrosez - les du jus du <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=11>versez - les dans une <recipient>poêle</recipient> avec le beurre</operation>. <operation temps=6.86min espace=11>arrosez - les du <ingredient quantite=2>calvados</ingredient></operation>. <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=5.0min espace=11>laissez cuire doucement 5 minutes</operation>. hors du feu, <operation temps=6.86min espace=11>ajoutez la <ingredient quantite=3>confiture</ingredient></operation>. <operation temps=5.0min espace=11>mélangez</operation>. <operation temps=6.86min espace=11>laissez tiédir</operation>. préchauffez le <recipient>four</recipient> sur 240 ° c (thermostat 8). <operation temps=6.86min espace=11>tapissez une plaque à pâtisserie de papier</operation> sulfurisé. <operation temps=6.86min espace=11>déroulez le <ingredient quantite=1>pâte</ingredient> feuilletée,</operation> puis <operation temps=6.86min espace=11>découpez - la en quatre carrés</operation>. répartissez les <ingredient quantite=3>pommes</ingredient> à la <ingredient quantite=3>confiture</ingredient> au centre des carrés. <operation temps=6.86min espace=11>ramenez les pointes vers le centre</operation> et collez - les <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient> dilué dans 1 <ingredient quantite=3>cuillère à soupe</ingredient> d’ eau froide. enfournez. <operation temps=6.86min espace=11>réglez à 210 ° c (thermostat 7)</operation> et <operation temps=6.86min espace=11>laissez cuire 15 à 20 minutes, jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit</operation> gonflée et dorée. <operation temps=6.86min espace=11>laissez tiédir</operation>. saupoudrez de <ingredient quantite=1>sucre glace</ingredient> et <operation temps=2.0min espace=11>servez</operation> accompagné d’ un bol de <ingredient quantite=1>crème fraîche</ingredient>.
+]]>
+ </preparation>
+</recette>

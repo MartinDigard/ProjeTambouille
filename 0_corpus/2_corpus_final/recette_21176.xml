@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21176">
+ <titre>Pommes en gratin</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes</p>
+ <p>2 oeufs</p>
+ <p>20 cl de crème fluide</p>
+ <p>4 cuillères à café de miel</p>
+ <p>1/2 cuillère à café de cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> thermostat 6. <operation temps=3.0min espace=9>pelez les</operation> <ingredient quantite=4>pommes</ingredient> et <operation temps=6.86min espace=9>découpez les en fines lamelles que vous</operation> <operation temps=6.86min espace=9>disposez dans un <recipient>plat</recipient> à gratin ou dans des petits plats à <ingredient quantite=1>crème</ingredient> brulée</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=9>mélangez les 2 <ingredient quantite=2>oeufs</ingredient></operation> battus, le <ingredient quantite=4>miel</ingredient>, la <ingredient quantite=1>crème</ingredient> et la <ingredient quantite=1>cannelle</ingredient>. répartissez ce mélange sur les <ingredient quantite=4>pommes</ingredient>. <operation temps=6.86min espace=9>veillez à ce que chaque lamelle soit</operation> enrobée de la préparation, si nécesaire remuez légèrement. <operation temps=25.0min espace=9>mettez au <recipient>four</recipient> pendant 20 à 25 mn</operation>. le dessert doit être doré. servir tiède! recette transmise par une amie normande, vite fait et délicieux. cidre
+]]>
+ </preparation>
+</recette>

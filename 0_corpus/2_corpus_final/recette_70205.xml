@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70205">
+ <titre>Roulé de laitue au thon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 laitue avec de grosses feuilles</p>
+ <p>1 boite de thon de 150 g</p>
+ <p>1 noix de coco</p>
+ <p>3 cuillères à soupe de mayonnaise</p>
+ <p>quelques cure-dent</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>effeuillez la salade</operation>, <operation temps=6.86min espace=5>lavez - la</operation>. ouvrez la <ingredient quantite=1>noix de coco</ingredient> en gardant son lait. <operation temps=6.86min espace=5>egouttez le <ingredient quantite=1>thon</ingredient></operation>. mixez la chair de la <ingredient quantite=1>noix de coco</ingredient> avec le <ingredient quantite=1>thon</ingredient> puis ajoutez le lait de la <ingredient quantite=1>noix de coco</ingredient> et la <ingredient quantite=3>mayonnaise</ingredient>. <operation temps=2.0min espace=5>laissez tourner environ 2 minutes il</operation> faut que se soit bien mélangé. mettez 1 <ingredient quantite=3>cuillère à soupe</ingredient> du mélange dans chaque <ingredient quantite=1>feuille</ingredient> de salade, <operation temps=6.86min espace=5>roulez - la sur elle-même et maintenez - la fermée à l’</operation> aide d’ un <ingredient quantite=1>cure</ingredient> - <ingredient quantite=1>dent</ingredient>. servez frais. très facile à <operation temps=6.86min espace=5>faire. vous</operation> pouvez aussi <operation temps=6.86min espace=5>rajoutez un filet de citron</operation>
+]]>
+ </preparation>
+</recette>

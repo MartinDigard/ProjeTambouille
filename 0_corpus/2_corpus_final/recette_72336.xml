@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72336">
+ <titre>Gâteau maison</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 verres de farine</p>
+ <p>2 verres de sucre</p>
+ <p>1 verre d’ huile</p>
+ <p>3 oeufs</p>
+ <p>2 verres 1/2 de lait</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 sachet de levure</p>
+ <p>1/2 sachet d’ amande en poudre</p>
+ <p>1 cuillère à café de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>mélangez la farine, le <ingredient quantite=2>sucre</ingredient>, les <ingredient quantite=3>oeufs</ingredient>, l’ huile, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=2>sucre</ingredient></operation> vanillé. ajoutez le lait, les <ingredient quantite=1>amandes en poudre</ingredient> et le <ingredient quantite=1>rhum</ingredient> jusqu’ à l’ obtention d’ une pâte homogène pas trop épaisse. <operation temps=6.86min espace=11>beurrez un <recipient>moule</recipient></operation> et <operation temps=6.86min espace=11>versez - y la préparation</operation>. <operation temps=6.86min espace=11>mettez - le au <recipient>four</recipient> pendant au moins 1 h 30 à 180 °, thermostat 6</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

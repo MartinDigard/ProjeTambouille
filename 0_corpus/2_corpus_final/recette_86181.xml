@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86181">
+ <titre>Côtes de porc aux pêches</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 côtes de porc- 500 g de pêches au sirop- 20 cl de crème fraiche liquide- 1 pincée de noix de muscade- 1 oignon- sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=3>faire revenir dans une <recipient>poêle</recipient> l’ oignon et les pêches, à feu doux</operation>. réserver au chaud. dans une autre <recipient>poêle</recipient>, <operation temps=6.86min espace=3>faire revenir les côtes</operation>. dès que celles-ci sont cuites, y incorporer la préparation pêche - oignons, et <operation temps=10.0min espace=3>faire cuire le tout doucement, environ 10 min</operation>. en fin de cuisson, y incorporer la <ingredient quantite=1>crème</ingredient> et la <ingredient quantite=1>noix</ingredient> de muscade, le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=10.0min espace=3>faire cuire le tout doucement 10 min</operation>.
+]]>
+ </preparation>
+</recette>

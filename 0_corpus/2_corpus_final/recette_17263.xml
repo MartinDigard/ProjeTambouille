@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17263">
+ <titre>Gratin de framboises à la crème d’ amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de framboises</p>
+ <p>100 g de poudre d’ amandes</p>
+ <p>60 g de beurre mou</p>
+ <p>100 g de sucre semoule</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 cuillère à soupe de crème liquide entière</p>
+ <p>1 oeuf entier + 1 jaune</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battez au fouet le <ingredient quantite=1>beurre</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, la farine et le <ingredient quantite=1>sucre</ingredient>. incorporez la <ingredient quantite=1>crème liquide</ingredient>, l’ <ingredient quantite=1>oeuf entier</ingredient> et le <ingredient quantite=1>jaune</ingredient>, sans cesser de battre. <operation temps=6.86min espace=11>allumez le grill du <recipient>four</recipient></operation>. <operation temps=6.86min espace=11>etalez les <ingredient quantite=1>framboises</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient></operation> pouvant les <operation temps=6.86min espace=11>contenir en une seule couche</operation>. nappez - les de la <ingredient quantite=1>crème</ingredient> d’ <ingredient quantite=1>amandes</ingredient> et <operation temps=6.86min espace=11>laissez gratiner quelques minutes sous le grill du <recipient>four</recipient>, pas trop près de la source de chaleur, jusqu’ à obtention d’ une légère coloraion</operation> <operation temps=2.0min espace=11>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

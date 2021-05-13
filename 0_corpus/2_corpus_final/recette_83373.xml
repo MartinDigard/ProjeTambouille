@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83373">
+ <titre>Feuilleté poulet et morille</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>2 escalopes de poulet</p>
+ <p>30 g de morilles séchées</p>
+ <p>2 à 3 échalotes</p>
+ <p>20 cl de vin blanc</p>
+ <p>3 cuillères à soupe de Madère</p>
+ <p>1 bouillon de volaille / 1 verre d’ eau</p>
+ <p>2 à 3 cuillères à soupe de farine</p>
+ <p>20 cl de crème semi-épaisse</p>
+ <p>1 œuf</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire gonfler les <ingredient quantite=1>morilles</ingredient> dans un bol d’ <ingredient quantite=1>eau</ingredient> chaude</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=13>faire revenir avec un peu de beurre les <ingredient quantite=1>morilles</ingredient> et les <ingredient quantite=2>échalotes</ingredient> finement</operation> émincées, une fois bien dorées y ajouter le <ingredient quantite=1>vin</ingredient>, le <ingredient quantite=1>madère</ingredient>, l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>bouillon de volaille</ingredient>. <operation temps=20.0min espace=13>faire mijoter environ 20 minutes</operation>. pendant ce temps, découper les <ingredient quantite=2>escalopes</ingredient> en petits cubes, les <operation temps=6.86min espace=13>faire revenir à la <recipient>poêle</recipient> avec un peu de beurre</operation>. les réserver. une fois les <ingredient quantite=1>morilles</ingredient> cuites et l’ alcool bien évaporé, ajouter la farine, <operation temps=6.86min espace=13>laisser épaissir</operation> puis ajouter la <ingredient quantite=1>crème</ingredient> et les cubes de <ingredient quantite=2>poulet</ingredient>. saler et poivrer. découper la <ingredient quantite=1>pâte</ingredient> feuilletée en cercle, déposer la garniture et refermer en pliant en deux. badigeonner avec le jaune d’ <ingredient quantite=1>œuf</ingredient>. enfourner pendant 15 minutes à 200 ° c (thermostat 6 - 7). saint joseph <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

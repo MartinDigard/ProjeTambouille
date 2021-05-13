@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42779">
+ <titre>Poulet au roquefort</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 beau poulet de bresse</p>
+ <p>8 endives</p>
+ <p>75 g de beurre</p>
+ <p>1 échalote</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>2 cl de crème fleurette</p>
+ <p>60 g de roquefort</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>lavez les</operation> <ingredient quantite=8>endives</ingredient>, <operation temps=6.86min espace=13>coupez - les en 2 ou 4 dans la longueur</operation>. <operation temps=1.0min espace=13>mettez</operation> - les à dorer dans une <recipient>sauteuse</recipient> avec la moitié du beurre. <operation temps=6.86min espace=13>salez,</operation> <operation temps=0.5min espace=13>poivrez</operation>, <operation temps=6.86min espace=13>réduisez le feu</operation> et <operation temps=15.0min espace=13>laissez cuire 15 min environ te</operation> <operation temps=0.5min espace=13>réservez au chaud</operation>. dans le même temps, <operation temps=6.86min espace=13>découpez le</operation> <ingredient quantite=1>poulet</ingredient>, <operation temps=6.86min espace=13>faites - le</operation> <operation temps=6.86min espace=13>revenir dans une autre <recipient>sauteuse</recipient> avec le restant du beurre, mais sans</operation> colorer. <operation temps=6.86min espace=13>otez les morceaux de</operation> <ingredient quantite=1>poulet</ingredient>, <operation temps=6.86min espace=13>réservez - les</operation>. <operation temps=6.86min espace=13>ajoutez dans la <recipient>sauteuse</recipient> l’ <ingredient quantite=1>échalote</ingredient> hachée</operation>, <operation temps=6.86min espace=13>laissez - la fondre quelques instants</operation>, mouillez avec le <ingredient quantite=1>vin blanc</ingredient>, <operation temps=6.86min espace=13>laissez réduire à <ingredient quantite=1>sec</ingredient></operation>. <operation temps=6.86min espace=13>incorporez la</operation> <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=13>donnez un bouillon</operation>. re<operation temps=1.0min espace=13>mettez</operation> les morceaux de <ingredient quantite=1>poulet</ingredient>, <operation temps=6.86min espace=13>salez,</operation> <operation temps=0.5min espace=13>poivrez</operation> et <operation temps=25.0min espace=13>laissez cuire 20 à 25 min environ</operation>. si vous <operation temps=6.86min espace=13>trouvez la sauce trop longue</operation>, <operation temps=6.86min espace=13>laissez - la réduire</operation>. dans un bol, <operation temps=6.86min espace=13>délayez le <ingredient quantite=1>roquefort</ingredient> avec deux cuillerées de sauce</operation>, <operation temps=6.86min espace=13>versez dans la <recipient>sauteuse</recipient></operation>, <operation temps=5.0min espace=13>mélangez</operation>. <operation temps=6.86min espace=13>posez les <ingredient quantite=8>endives</ingredient> sur un <recipient>plat</recipient> long</operation>, <operation temps=6.86min espace=13>recouvrez des morceaux de volaille et nappez de sauce au requefort</operation>. se marie très avec des tagliatelles fraîches. meursault <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

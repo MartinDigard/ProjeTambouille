@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85011">
+ <titre>Terrine de lotte ou de cabillaud</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de lotte ou de cabillaud</p>
+ <p>6 oeufs</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>sel, poivre</p>
+ <p>1 sachet de court bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le poisson au <ingredient quantite=1>court bouillon</ingredient>, l’ émietter. <operation temps=6.86min espace=9>beurrez un <recipient>moule</recipient> à cake</operation> et mettre le poisson dedans. dans un <recipient>saladier</recipient>, battre les <ingredient quantite=6>oeufs</ingredient> avec le <ingredient quantite=1>concentré de tomates</ingredient>. saler, poivrer. <operation temps=6.86min espace=9>versez dans le <recipient>moule</recipient> et bien</operation> tasser. cuire au <recipient>four</recipient> à 150 ° c (thermostat 5). servir froid avec une mayonnaise à l’ ail.
+]]>
+ </preparation>
+</recette>

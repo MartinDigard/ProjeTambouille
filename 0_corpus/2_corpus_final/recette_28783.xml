@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28783">
+ <titre>Bouchées à la reine au poulet</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 bouchées à la reine vides</p>
+ <p>2 poulets cuits, en morceaux</p>
+ <p>750 g de champignons</p>
+ <p>150 g de beurre</p>
+ <p>60 g de farine</p>
+ <p>1 l de bouillon de volaille</p>
+ <p>1 citron</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>10 cl de crème</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=12>faire un roux avec le beurre et la farine</operation>. ajouter le <ingredient quantite=1>bouillon de volaille</ingredient>, assaisonner et <operation temps=10.0min espace=12>faire mijoter 10 min</operation>. nettoyer et couper les <ingredient quantite=1>champignons</ingredient> en quatre. les plonger dans la sauce avec le jus d’ un demi-citron. ajouter les <ingredient quantite=2>morceaux</ingredient> de <ingredient quantite=1>volaille</ingredient> au tout et incorporer la <ingredient quantite=1>crème</ingredient>. dans une autre <recipient>casserole</recipient>, <operation temps=6.86min espace=12>faire chauffer à feu doux les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient>, un peu d’ eau et le beurre fondu</operation>. assaisonner et <operation temps=6.86min espace=12>recouvrir la sauce mousseline du jus d’ un demi-citron</operation>. remplir les bouchées à <ingredient quantite=6>la reine</ingredient> de la sauce aux <ingredient quantite=1>champignons</ingredient> puis de la sauce mousseline.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15500">
+ <titre>Oeuf au plat savoyard</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 pommes de terre moyennes</p>
+ <p>100 g de gruyère râpé</p>
+ <p>6 oeufs</p>
+ <p>faire dorer les pommes de terres</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire dorer les pommes de terres lavées, épluchées et coupées en petit dés. <operation temps=6.86min espace=5>beurrez un <recipient>plat</recipient> à gratin</operation>. eparpillez les <ingredient quantite=5>pommes de terre</ingredient>. <operation temps=6.86min espace=5>cassez les <ingredient quantite=6>oeufs</ingredient> un à un par -</operation> dessus en prenant soin de bien recouvrir toute les <ingredient quantite=5>pommes de terre</ingredient>. saupoudrez de <ingredient quantite=1>gruyère râpé</ingredient> et <operation temps=15.0min espace=5>faites gratiner pendant 10 à 15 mn</operation>. rapide et pour petit budget.
+]]>
+ </preparation>
+</recette>

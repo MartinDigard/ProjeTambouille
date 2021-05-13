@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57030">
+ <titre>Crêpes aux bananes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bananes</p>
+ <p>100 g de farine</p>
+ <p>1 oeuf</p>
+ <p>50 g de sucre</p>
+ <p>20 cl de lait </p>
+ <p>un peu d’ huile pour la cuisson</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la pâte à crêpe en mélangent la farine, l’ <ingredient quantite=1>oeuf</ingredient>, la moitié du <ingredient quantite=1>sucre</ingredient> et le lait. puis éplucher les <ingredient quantite=2>bananes</ingredient> et les écraser. ajouter le <ingredient quantite=1>sucre</ingredient> et mélanger. ajouter les <ingredient quantite=2>bananes</ingredient> écrasées à la pâte à crêpes. mélanger et mettre à cuire dans une <recipient>poêle</recipient> huilée. la <ingredient quantite=1>cuisson</ingredient> dépend du goût de chacun. le plus dur étant de retourner la crêpe. je conseille de prendre un <recipient>plat</recipient>, de le poser sur la <recipient>poêle</recipient> et de retourner puis de glisser la crêpe sur la <recipient>poêle</recipient> pour cuire la deuxième face. une fois cuit saupoudrer de <ingredient quantite=1>sucre glace</ingredient>. ce dessert est le délice de mes enfants et de mon mari. facile à <operation temps=6.86min espace=11>faire, on en mange souvent car on</operation> peut varier de fruit: pomme ou poire.
+]]>
+ </preparation>
+</recette>

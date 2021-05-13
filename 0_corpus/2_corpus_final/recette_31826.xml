@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31826">
+ <titre>Brownies trois chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>180 g de chocolat noir</p>
+ <p>125 g de beurre</p>
+ <p>50 g de chocolat blanc</p>
+ <p>50 g de chocolat au lait</p>
+ <p>80 g de farine</p>
+ <p>40 g de cacao en poudre</p>
+ <p>3 oeufs</p>
+ <p>150 g de sucre roux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+casser le <ingredient quantite=1>chocolat</ingredient>, couper le beurre et les <operation temps=6.86min espace=13>faire fondre au micro-ondes</operation>. <operation temps=20.0min espace=13>laisser refroidir</operation>. mélanger le <ingredient quantite=1>cacao en poudre</ingredient> à la farine, tamiser le mélange et réserver. préchauffer le <recipient>four</recipient> th 6 (180 ° c). beurrer et fariner un <recipient>moule</recipient> rectangulaire. couper le <ingredient quantite=1>chocolat blanc</ingredient> et celui au <ingredient quantite=1>lait</ingredient> en petits dés. casser les <ingredient quantite=3>oeufs</ingredient> dans un autre <recipient>saladier</recipient> et incorporer le <ingredient quantite=1>sucre roux</ingredient>, fouetter au batteur pour bien mélanger. ajouter le <ingredient quantite=1>chocolat noir</ingredient> et le beurre au mélange <ingredient quantite=1>oeuf</ingredient> - <ingredient quantite=1>sucre</ingredient>, mélanger jusqu’ à <operation temps=6.86min espace=13>obtenir un mélange lisse</operation>. incorporer le mélange <ingredient quantite=1>farine</ingredient> - <ingredient quantite=1>cacao</ingredient> et les dés de <ingredient quantite=1>chocolat</ingredient>. <operation temps=6.86min espace=13>répartir la pâte dans le <recipient>moule</recipient>,</operation> et enfourner 30 mn. <operation temps=6.86min espace=13>laisser refroidir dans le <recipient>moule</recipient></operation> et démouler avant de découper. le brownie se mange froid, c’ est délicieux avec de la crème anglaise!!
+]]>
+ </preparation>
+</recette>

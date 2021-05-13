@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92673">
+ <titre>Lasagne épinard thon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400g d’ épinard (en boite) - 200g de thon (en boite) - des feuilles de pâte à lasagne (fraiches ou sèches) - 100ml de crème (épaisse) - une cuillère à café de moutarde- une pincé d’ estragon - le jus d’ un citron- gruyèrepour la béchamel: - 120g de beurre- 3 cuillères à soupe de farine- lait - sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1 °: la préparation au thon: -mélanger le ton égoutté avec la crème, le <ingredient quantite=1>jus</ingredient> de citron, l’ <ingredient quantite=1>estragon</ingredient>, et la moutarde. reservez2 °: la <ingredient quantite=1>béchamel</ingredient>: dans une <recipient>casserole</recipient> <operation temps=1.0min espace=3>faire fondre le beurre</operation>. ajouter la farine en mélangeant au fouet, puis, <operation temps=6.86min espace=3>mouillez avec du lait jusqu’ à obtention de la texture voulut</operation>. puis <operation temps=6.86min espace=3>salez et réservez.3 °: le dressage</operation>: <operation temps=6.86min espace=3>alternez dans un <recipient>plat</recipient>: pâte,</operation> <ingredient quantite=1>béchamel</ingredient>, thon, <ingredient quantite=1>épinard</ingredient>, pâte, <ingredient quantite=1>béchamel</ingredient>, thon, <ingredient quantite=1>épinard</ingredient>, gruyère, pâte, <ingredient quantite=1>béchamel</ingredient>, thon, <ingredient quantite=1>épinard</ingredient>, <ingredient quantite=1>béchamel</ingredient>, gruyère. <operation temps=30.0min espace=3>enfournez 30 mn à 180 °, c’ est prêt</operation>!
+]]>
+ </preparation>
+</recette>

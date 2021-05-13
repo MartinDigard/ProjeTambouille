@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23856">
+ <titre>Aubergines farcies au thon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 petites aubergines</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ <p>1 petit oignon émincé</p>
+ <p>1 gousse d’ ail</p>
+ <p>6 cuillères à soupe de riz brun cuit</p>
+ <p>200 g de thon en boîte, égoutté et émietté</p>
+ <p>1 cuillère à café de curry</p>
+ <p>4 tomates pelées et écrasées</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>aubergines</ingredient> en deux dans le sens de la longueur. entailler la chair à intervalles réguliers. badigeonner légèrement d’ huile et saler. les placer sur une plaque et <operation temps=6.86min espace=11>faire cuire au <recipient>four</recipient> 1/4 d’ heure</operation>. vider soigneusement les <ingredient quantite=4>aubergines</ingredient> de leur chair, en veillant à ne pas casser la peau. faire frire les <ingredient quantite=1>oignons</ingredient> dans 2 <ingredient quantite=3>cuillères à soupe</ingredient> d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> pendant 3 minutes. ajouter l’ <ingredient quantite=1>ail</ingredient>, la chair d’ <ingredient quantite=1>aubergine</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre puis <operation temps=2.0min espace=11>faire frire 2 minutes supplémentaires</operation>. ajouter le <ingredient quantite=1>thon</ingredient> émietté, la mayonnaise, le <ingredient quantite=1>curry</ingredient>, les <ingredient quantite=4>tomates</ingredient>, le <ingredient quantite=6>riz cuit</ingredient> et le <ingredient quantite=1>persil</ingredient>. mélanger soigneusement, puis servir.
+]]>
+ </preparation>
+</recette>

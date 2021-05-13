@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10774">
+ <titre>Terrine de veau au cidre et aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 bouteille de cidre brut</p>
+ <p>600 g de noix de veau</p>
+ <p>250 g de poitrine de porc 1/2 sel</p>
+ <p>1 oignon</p>
+ <p>2 carottes</p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre moulu</p>
+ <p>Pour les légumes: </p>
+ <p>250 g de carottes</p>
+ <p>250 g de petits pois</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>pelez l’ <ingredient quantite=1>oignon</ingredient> et les 2 <ingredient quantite=2>carottes</ingredient></operation>. <operation temps=6.86min espace=13>découpez - les en tranches</operation>. découpez la <ingredient quantite=1>poitrine de porc</ingredient> en lardons, plongez - les pendant 2 min dans de l’ eau bouillante. <operation temps=10.0min espace=13>egouttez</operation> - les, passez - les sous l’ eau froide, <operation temps=6.86min espace=13>égouttez à nouveau</operation>. <operation temps=6.86min espace=13>découpez la viande de <ingredient quantite=1>veau</ingredient> en plusieurs tranches</operation>. dans une <recipient>cocotte</recipient>, mettez tous les éléments: la viande de <ingredient quantite=1>veau</ingredient>, les lardons, le pied de <ingredient quantite=1>veau</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et les 2 <ingredient quantite=2>carottes</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=6.86min espace=13>versez le</operation> <ingredient quantite=1>cidre</ingredient>, <operation temps=6.86min espace=13>ajoutez un peu d’ eau, jusqu’ à ce que le liquide</operation> recouvre entièrement la viande. <operation temps=0.25min espace=13>couvrez</operation> et <operation temps=6.86min espace=13>portez sur feu doux, à</operation> <operation temps=6.86min espace=13>partir de l’ ébullition</operation> <operation temps=6.86min espace=13>comptez 1 h 30 de cuisson</operation>. une demi-heure avant la fin de la cuisson, ajoutez les <ingredient quantite=2>carottes</ingredient> pelées et les <ingredient quantite=1>petits pois</ingredient>. en fin de cuisson, <operation temps=6.86min espace=13>retirez le pied de <ingredient quantite=1>veau</ingredient></operation>. <operation temps=6.86min espace=13>disposez les morceaux de viande, lardons et <ingredient quantite=1>légumes</ingredient> dans une <recipient>terrine</recipient></operation>. <operation temps=6.86min espace=13>filtrez le bouillon</operation>. <operation temps=6.86min espace=13>versez dans la <recipient>terrine</recipient>,</operation> et <operation temps=6.86min espace=13>laissez refroidir jusqu’ au lendemain</operation>.
+]]>
+ </preparation>
+</recette>

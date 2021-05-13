@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45852">
+ <titre>Pain d’ épices aux figues</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuillères à soupe de miel</p>
+ <p>4 cuillères à soupe de confiture (orange, abricot, figue....) </p>
+ <p>1 verre de lait chaud (20 cl) </p>
+ <p>250 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>2 cuillère à soupe de cannelle</p>
+ <p>6-7 figues séchées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer le <ingredient quantite=4>miel</ingredient> et la <ingredient quantite=4>confiture</ingredient> avec le <ingredient quantite=1>lait chaud</ingredient>. rajouter la farine et la <ingredient quantite=1>levure</ingredient>. mélanger bien puis mettre les <ingredient quantite=10>figues</ingredient> coupées en petits morceaux et la <ingredient quantite=2>cannelle</ingredient>. verser dans un <recipient>plat</recipient> à cake préalablement beurré et fariné. <operation temps=45.0min espace=9>faire cuire au <recipient>four</recipient> à 210 ° c (thermostat 7) pendant 45 min à 1h</operation>. très facile à <operation temps=6.86min espace=9>faire avec les enfants</operation>.
+]]>
+ </preparation>
+</recette>

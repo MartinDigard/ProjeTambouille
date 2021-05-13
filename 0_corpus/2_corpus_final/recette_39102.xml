@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39102">
+ <titre>Poulet aux châtaignes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de châtaignes</p>
+ <p>3 filets (blancs) de poulet</p>
+ <p>1 cube de bouillon de poulet</p>
+ <p>crème fraîche</p>
+ <p>1 cuillère à soupe de liant pour sauce blanche</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient quantite=3>filets de poulets</ingredient> en dés de taille moyenne. <operation temps=6.86min espace=9>faire fondre le beurre dans une <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=9>faire cuire à feux doux les dés de <ingredient quantite=3>poulet</ingredient></operation>. dans une <recipient>casserole</recipient> d’ eau bouillante, <operation temps=15.0min espace=9>faire cuire les <ingredient quantite=1>châtaignes</ingredient> durant 15 min</operation>. egoutter les <ingredient quantite=1>châtaignes</ingredient>, les peler puis les broyer. réaliser un <ingredient quantite=3>bouillon de poulet</ingredient> avec le <ingredient quantite=1>cube</ingredient> et environ 1/4 litre d’ eau. verser de la <ingredient quantite=1>crème fraîche</ingredient> dans le <ingredient quantite=1>bouillon</ingredient> et y mélanger le <ingredient quantite=3>poulet</ingredient> et les <ingredient quantite=1>châtaignes</ingredient>. porter à ébullition puis diminuer la température à " feu doux ". si la sauce est trop liquide, ajouter le liant pour <ingredient quantite=1>sauce</ingredient> et <operation temps=6.86min espace=9>laisser chauffer à feu doux tout en</operation> remuant. a <operation temps=2.0min espace=9>servir</operation> accompagné de riz.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28628">
+ <titre>Bouillabaisse de morue</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>environ 500 g de filet de morue</p>
+ <p>1 kg de pommes de terre</p>
+ <p>1 gros oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 dosette de safran</p>
+ <p>1 cuillerée à café d’ herbes de Provence</p>
+ <p>poivre</p>
+ <p>huile d’ olive</p>
+ <p>olives noires</p>
+ <p>croûtons</p>
+ <p>rouille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faites dessaler la <ingredient quantite=1>morue</ingredient></operation>. mettez dans une <recipient>cocotte</recipient> les <ingredient quantite=1>pommes de terre</ingredient> pelées et coupées en rondelles épaisses, l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=3>ail</ingredient> haché, le <ingredient quantite=1>safran</ingredient>, les <ingredient quantite=1>herbes de provence</ingredient>, le poivre. <operation temps=6.86min espace=12>arrosez d’ un <ingredient quantite=1>filet</ingredient> d’ huile d’</operation> <ingredient quantite=1>olive</ingredient>, <operation temps=5.0min espace=12>mélangez le tout</operation> et <operation temps=6.86min espace=12>laissez reposer</operation>. au bout d’ une heure, <operation temps=10.0min espace=12>faites pocher la <ingredient quantite=1>morue</ingredient> pendant 10 mn</operation>, <operation temps=6.86min espace=12>retirez - la de l’ eau</operation> et <operation temps=6.86min espace=12>versez l’ eau</operation> bouillante sur les <ingredient quantite=1>pommes de terre</ingredient>. <operation temps=0.25min espace=12>couvrez</operation> et faites cuire les <ingredient quantite=1>pommes de terre</ingredient> pendant 30 mn à feu moyen. quand les <ingredient quantite=1>pommes de terre</ingredient> sont cuites, <operation temps=6.86min espace=12>ajoutez la <ingredient quantite=1>morue</ingredient> effeuillée, les <ingredient quantite=1>olives</ingredient></operation>. <operation temps=6.86min espace=12>servez avec des <ingredient quantite=1>croûtons</ingredient> et de la <ingredient quantite=1>rouille</ingredient></operation>. un blanc de <ingredient quantite=1>provence</ingredient>
+]]>
+ </preparation>
+</recette>

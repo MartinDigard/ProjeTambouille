@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20499">
+ <titre>Tarte au fromage blanc et au kirsch</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de fromage blanc</p>
+ <p>20 cl de crème fraîche</p>
+ <p>4 oeufs</p>
+ <p>125 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>50 g de Maïzena</p>
+ <p>1 cuillère à soupe de Kirsch</p>
+ <p>300 g de pâte brisée</p>
+ <p>15 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fouetter le <ingredient quantite=1>fromage blanc</ingredient> avec la <ingredient quantite=1>crème fraîche</ingredient>, les <ingredient quantite=4>oeufs</ingredient>, les <ingredient quantite=1>sucres</ingredient>, la <ingredient quantite=1>maïzena</ingredient> et le <ingredient quantite=1>kirsch</ingredient>. <operation temps=6.86min espace=13>mettez en attente</operation>. préchauffer le <recipient>four</recipient> th 130 ° c. mettre la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient> beurré. garnir le fond de tarte avec la préparation au <ingredient quantite=1>fromage blanc</ingredient>. enfournez et cuire environ 30 mn. <operation temps=6.86min espace=13>laisser tiédir avant de</operation> démouler sur une grille. après refroidissement, entreposer au <recipient>réfrigérateur</recipient> jusqu’ au moment de <operation temps=2.0min espace=13>servir</operation>. recette alsacienne, simple et très bonne. votre tarte se démoulera plus facilement si vous utilisez un <recipient>moule</recipient> à fond amovible.
+]]>
+ </preparation>
+</recette>

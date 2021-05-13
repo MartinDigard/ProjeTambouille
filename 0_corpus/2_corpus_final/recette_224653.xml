@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224653">
+ <titre>Risotto mi-italien, mi franc-comtois</titre>
+ <type>Plat principal</type>
+ <niveau>Difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>huile d’ olive</p>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 saucisse de Montbéliard par personne</p>
+ <p>100 g comté</p>
+ <p>200 g riz pour risotto</p>
+ <p>10 cl vin blanc ou du Jurançon</p>
+ <p>1 poivron</p>
+ <p>1 cube de bouillon</p>
+ <p>basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir dans l’ huile d’ <ingredient quantite=1>olive</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=1>ail</ingredient> finement</operation> haché. ajouter ensuite le <ingredient quantite=1>poivron</ingredient> en petits dés et <operation temps=5.0min espace=14>faire cuire pendant 5 min</operation>. déglacer avec du vin <ingredient quantite=1>blanc</ingredient>. découper les <ingredient quantite=1>saucisses</ingredient> en morceaux puis les ajouter dans le <recipient>plat</recipient> une fois que le vin <ingredient quantite=1>blanc</ingredient> est presque évaporé. dans une petite <recipient>casserole</recipient> faire dissoudre le <ingredient quantite=1>bouillon cube</ingredient> dans 1 litre d’ eau bouillante. ajouter le riz dans le <recipient>plat</recipient> et remuer jusqu’ à ce qu’ il soit translucide puis ajouter le <ingredient quantite=1>bouillon</ingredient> louche après louche sans cesser de remuer et en attendant que le <ingredient quantite=1>bouillon</ingredient> soit bu avant d’ en ajouter. la cuisson dure ainsi 17 minutes environ, la totalité du <ingredient quantite=1>bouillon</ingredient> ne sera pas utilisée. le riz est cuit lorsqu’ il est fondant avec un coeur encore très légèrement croquant. a ce stade, incorporer le comté coupé en morceaux et le <ingredient quantite=1>basilic</ingredient> puis <operation temps=6.86min espace=14>servir une fois le fromage fondu</operation>. après avoir déglacé avec du vin <ingredient quantite=1>blanc</ingredient>, je vous conseille de <operation temps=6.86min espace=14>faire cuire à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

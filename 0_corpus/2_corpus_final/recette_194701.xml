@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194701">
+ <titre>Poulet aux gombos</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 escalopes de poulet</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 carottes</p>
+ <p>600 g de gombos</p>
+ <p>1 boîte de conserve de lait de coco</p>
+ <p>du gingembre frais</p>
+ <p>du curry en poudre (environ 1 cuillère à soupe) </p>
+ <p>de la coriandre fraîche</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tout d’ abord, couper l’ <ingredient quantite=1>oignon</ingredient> très finement et le <operation temps=6.86min espace=13>faire revenir à la <recipient>poêle</recipient></operation>. couper les <ingredient quantite=6>escalopes</ingredient> en cube et les <operation temps=6.86min espace=13>faire dorer en assaisonnant avec du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. puis, ajouter la gousse d’ <ingredient quantite=1>ail</ingredient> écrasée, un peu de gingembre râpé (quantité à votre convenance) et le <ingredient quantite=1>curry</ingredient>. mettre à feu très doux pendant 10 min. incorporer ensuite le <ingredient quantite=1>lait de coco</ingredient> avec les <ingredient quantite=2>carottes</ingredient> coupées en très fines lamelles et les gombos entiers (après les avoir laissés tremper une bonne dizaine de minutes dans l’ eau). <operation temps=45.0min espace=13>laisser mijoter à couvert pendant 45 min</operation>. au moment de <operation temps=2.0min espace=13>servir</operation>, parsemer le <recipient>plat</recipient> de <ingredient quantite=1>coriandre fraîche</ingredient>. a accompagner d’ un riz blanc cuit à la vapeur.
+]]>
+ </preparation>
+</recette>

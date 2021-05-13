@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49847">
+ <titre>Soupe de pêches au basilic</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pêches (moi, je préfère les jaunes) </p>
+ <p>200 g de sucre</p>
+ <p>1/2 litre d’ eau</p>
+ <p>un peu de basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>pêches</ingredient>, puis les couper en quartiers. <operation temps=6.86min espace=5>faire chauffer l’ <ingredient quantite=1>eau</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, bien</operation> remuer jusqu’ à complète dissolution. <operation temps=20.0min espace=5>faire pocher les <ingredient quantite=1>pêches</ingredient> dans le sirop, 20 min à feu doux (avec un couvercle sur la <recipient>casserole</recipient></operation>). ajouter le <ingredient quantite=1>basilic</ingredient> finement ciselé et <operation temps=6.86min espace=5>laisser refroidir ;</operation> puis réserver au frigo. <operation temps=6.86min espace=5>servir très frais: c’ est delicieux</operation>!
+]]>
+ </preparation>
+</recette>

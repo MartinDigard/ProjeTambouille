@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64269">
+ <titre>Pain thon et petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un grosse boite de thon au naturel</p>
+ <p>une petite boite de petits pois</p>
+ <p>2 oeufs</p>
+ <p>1 petit pot de crème fraîche de 20 cl (ou petite brique) </p>
+ <p>ciboulette surgelée (facultatif) </p>
+ <p>3 cuillères à soupe de chapelure</p>
+ <p>une cuillère à café de moutarde</p>
+ <p>sel et poivre</p>
+ <p>sauce crudités (facutatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). ecraser le <ingredient quantite=1>thon</ingredient> dans un <recipient>saladier</recipient>. ajouter les <ingredient quantite=2>oeufs</ingredient> entiers, la <ingredient quantite=1>crème fraîche</ingredient>, les <ingredient quantite=1>petits pois</ingredient>. ajouter la <ingredient quantite=1>moutarde</ingredient>, la <ingredient quantite=3>chapelure</ingredient>, <ingredient quantite=1>ciboulette</ingredient>, <ingredient quantite=1>sel et poivre</ingredient>. beurrer un <recipient>plat</recipient> à cake. <operation temps=45.0min espace=14>faire cuire 45 min dans à <recipient>four</recipient> chaud</operation>. démouler et manger froid avec une <ingredient quantite=1>sauce crudités</ingredient>. cela peut être une entrée ou juste un <recipient>plat</recipient> simple pour le soir si on ajoute une <ingredient quantite=1>petite</ingredient> salade verte! bon ap’
+]]>
+ </preparation>
+</recette>

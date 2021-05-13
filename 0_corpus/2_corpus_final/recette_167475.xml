@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167475">
+ <titre>Gâteau aux chocolats de Pâques</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolats de Pâques</p>
+ <p>125 g de beurre</p>
+ <p>2 cuil a soupe de farine</p>
+ <p>-1/2 paquet de levure</p>
+ <p>-100 g de sucre roux</p>
+ <p>60 g de poudre d’ amandes</p>
+ <p>-3 oeufs</p>
+ <p>-1 cuil a soupe de rhum agricole</p>
+ <p>-sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire fondre le <ingredient quantite=1>chocolat</ingredient> et le beurre au <recipient>bain - marie</recipient></operation>. préchauffer le <recipient>four</recipient> a 210 ° c (th 7) ajouter le <ingredient quantite=1>sucre</ingredient>, la farine, la <ingredient quantite=1>levure</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>, les <ingredient quantite=1>oeufs</ingredient> entiers et le <ingredient quantite=1>rhum</ingredient>. bien mélanger. verser dans un <recipient>moule</recipient> beurré et enfourner pendant 20 min en surveillant bien. saupoudrer de <ingredient quantite=1>sucre</ingredient> glacevous pouvez <operation temps=6.86min espace=12>servir ce gâteau avec un peu de chantilly ou une boule de <ingredient quantite=1>glace</ingredient></operation>
+]]>
+ </preparation>
+</recette>

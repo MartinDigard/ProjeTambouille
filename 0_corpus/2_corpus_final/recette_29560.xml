@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29560">
+ <titre>Linguines à la purée de légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de linguines</p>
+ <p>4 carottes</p>
+ <p>4 branches de céleri</p>
+ <p>3 courgettes</p>
+ <p>3 poivrons</p>
+ <p>4 tomates</p>
+ <p>1 oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites cuire les pâtes</operation>. <operation temps=10.0min espace=11>egouttez</operation> et <operation temps=6.86min espace=11>mélangez avec un peu d’ huile pour les</operation> empêcher de coller. epluchez et <operation temps=6.86min espace=11>coupez tous les légumes en dés sauf l’ <ingredient quantite=1>oignon</ingredient></operation>. <operation temps=6.86min espace=11>faites - les</operation> cuire à la vapeur durant 30 minutes, puis <operation temps=6.86min espace=11>mixez - les en purée</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> haché et l’ <ingredient quantite=3>ail</ingredient> pressé dans l’ <ingredient quantite=3>huile</ingredient>. <operation temps=6.86min espace=11>ajoutez les légumes</operation> et <operation temps=6.86min espace=11>laissez mijoter à feu doux</operation>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>mélangez les <ingredient quantite=1>linguines</ingredient> avec la sauce</operation>. les <ingredient quantite=1>linguines</ingredient> sont des spaghettis plats.
+]]>
+ </preparation>
+</recette>

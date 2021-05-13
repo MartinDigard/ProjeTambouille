@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80831">
+ <titre>Brownie fondant praliné</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200g de pralinoise</p>
+ <p>150g de beurre ramolli</p>
+ <p>150g de sucre en poudre</p>
+ <p>50g de farine</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchaffer le <recipient>four</recipient> à feu doux (150 ° c- thermostat 5). beurrer et sucrer un <recipient>moule</recipient> rectangle. <operation temps=6.86min espace=9>faire fondre la pralinoise au <recipient>bain - marie</recipient></operation>. battre ensemble le beurre et le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse. ajouter les <ingredient quantite=3>oeufs</ingredient> un par un et la farine en 3 fois (après chaque <ingredient quantite=1>oeuf</ingredient>). ajouter la pralinoise fondue, bien mélanger l’ ensemble. verser la préparation dans un <recipient>moule</recipient>, lisser à la spatule. <operation temps=20.0min espace=9>laisser cuire 20 min environ: le gâteau</operation> doit être très moelleux. ne pas hésiter à le <operation temps=6.86min espace=9>sortir même si le couteau ne</operation> ressort pas sec. <operation temps=10.0min espace=9>laisser refroidir avant de</operation> démouler et de découper en carrés réguliers.
+]]>
+ </preparation>
+</recette>

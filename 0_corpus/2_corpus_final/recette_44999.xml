@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44999">
+ <titre>Penne all’ arrabiata</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de tomates bien mûres</p>
+ <p>2 oignons</p>
+ <p>2-3 gousses d’ ail</p>
+ <p>125 g de poitrine fumée</p>
+ <p>1 piment rouge frais</p>
+ <p>25 g de beurre</p>
+ <p>400 g de penne (ou autres pâtes éventuellement) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>otez les pédoncules des <ingredient quantite=1>tomates</ingredient></operation>. a l’ aide d’ un couteau pointu, <operation temps=6.86min espace=10>incisez en croix</operation>. plongez - les 10 secondes dans une <recipient>casserole</recipient> d’ eau bouillante. <operation temps=10.0min espace=10>egouttez</operation>, <operation temps=6.86min espace=10>pelez - les</operation> puis <operation temps=6.86min espace=10>coupez en quatre avant de les hachez au couteau</operation>. hachez les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=4>ail</ingredient>. <operation temps=6.86min espace=10>coupez la <ingredient quantite=1>poitrine</ingredient> en fines lamelles</operation>. <operation temps=6.86min espace=10>fendez le <ingredient quantite=1>piment</ingredient> en 2</operation>, <operation temps=6.86min espace=10>épépinez le</operation> et <operation temps=6.86min espace=10>otez le pédoncule avant de le hacher</operation>. <operation temps=6.86min espace=10>faites fondre le beurre dans une <recipient>sauteuse</recipient></operation>. <operation temps=6.86min espace=10>jetez y l’ <ingredient quantite=4>ail</ingredient>, les <ingredient quantite=2>oignons</ingredient> et les lardons</operation>. <operation temps=6.86min espace=10>laissez dorer</operation>. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>piment</ingredient> puis les <ingredient quantite=1>tomates</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=15.0min espace=10>laissez cuire environ 15 minutes à découvert</operation>. <operation temps=6.86min espace=10>faites cuire les pâtes</operation>. <operation temps=6.86min espace=10>egouttez les pâtes avant de les</operation> mettre dans la sauce. <operation temps=6.86min espace=10>laissez imprégner un peu de la sauce</operation>. <operation temps=6.86min espace=10>mettez les pâtes dans les assiettes et parsemez de fromage râpé</operation>.
+]]>
+ </preparation>
+</recette>

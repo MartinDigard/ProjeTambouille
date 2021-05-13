@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50803">
+ <titre>Gratin charcutier aux 2 pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>900 g de pommes de terre à chair ferme</p>
+ <p>450 g de saucisses de Toulouse</p>
+ <p>3 pommes reinettes</p>
+ <p>45 g de beurre fondu + 20 g pour le plat</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>pommes de terre</ingredient>, les couper en rondelles, et les <operation temps=10.0min espace=10>faire cuire 10 min à l’ eau bouillante</operation>. elles doivent être juste tendres! les égoutter, puis disposer la moitié dans le fond d’ un <ingredient quantite=1><recipient>plat</recipient></ingredient> allant au <recipient>four</recipient>, beurré. peler, évider et couper les <ingredient quantite=1>pommes reinettes</ingredient> en tranches. disposer les <ingredient quantite=1>saucisses</ingredient> dans le <ingredient quantite=1><recipient>plat</recipient></ingredient>, sur les <ingredient quantite=1>pommes de terre</ingredient>, les recouvrir des tranches de <ingredient quantite=1>pommes reinettes</ingredient>, saler et poivrer. recouvrir du restant de <ingredient quantite=1>pommes de terre</ingredient>. badigeonner la surface de <ingredient quantite=1>beurre fondu</ingredient> et cuire à <recipient>four</recipient> chaud 190 ° c (th 6 - 7), pendant 1 h ; le dessus doit être doré et croustillant. on peut saupoudrer de fromage râpé, pour rendre le gratin plus croustillant! rosé du tarn
+]]>
+ </preparation>
+</recette>

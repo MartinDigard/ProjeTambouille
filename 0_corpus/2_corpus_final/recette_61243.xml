@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61243">
+ <titre>Gâteau d’ aubergines à la semoule</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses aubergines</p>
+ <p>80 g de semoule</p>
+ <p>1 boîte de thon naturel</p>
+ <p>20 cl de coulis de tomates</p>
+ <p>2 boules de mozzarella</p>
+ <p>herbes de Provence</p>
+ <p>paprika</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 150 ° c (thermostat 5). <operation temps=6.86min espace=11>lavez les</operation> <ingredient quantite=2>aubergines</ingredient> puis <operation temps=6.86min espace=11>coupez - les dans la longueur</operation>. <operation temps=6.86min espace=11>préparez la semoule</operation>, ajoutez - y le <ingredient quantite=1>thon</ingredient> et le <ingredient quantite=1>coulis de tomates</ingredient> puis les épices. <operation temps=5.0min espace=11>mélangez</operation>. dans un <recipient><recipient>moule</recipient> à manqué</recipient>, <operation temps=6.86min espace=11>tapissez le fond avec une partie des <ingredient quantite=2>aubergines</ingredient></operation>. <operation temps=6.86min espace=11>ajoutez la semoule au <ingredient quantite=1>thon</ingredient>, puis une boule de <ingredient quantite=2>mozzarella</ingredient></operation> émincée. <operation temps=6.86min espace=11>recouvrez</operation> avec le reste d’ <ingredient quantite=2>aubergines</ingredient> et la deuxième boule de <ingredient quantite=2>mozzarella</ingredient></operation> émincée. <operation temps=0.25min espace=11>couvrez</operation>. enfournez pour 1 heure de cuisson à 150 ° c (thermostat 5). <operation temps=6.86min espace=11>augmentez la température du <recipient>four</recipient> à 220 ° c (thermostat 7 - 8)</operation> et <operation temps=6.86min espace=11>poursuivez la cuisson durant 1 heure</operation>.
+]]>
+ </preparation>
+</recette>

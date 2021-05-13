@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73730">
+ <titre>Tagliatelles aux courgettes, poulet et estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de pâtes fraîches (tagliatelles de préférence) par personne</p>
+ <p>1 petite courgette par personne</p>
+ <p>1 escalope de poulet par personne</p>
+ <p>1 ou 2 échalotes (en fonction de la taille) </p>
+ <p>1 oignon</p>
+ <p>30 cl de crème fraîche</p>
+ <p>1 bouquet d’ estragon</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=1>échalotes</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> finement et les <operation temps=6.86min espace=9>faire revenir dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter le <ingredient quantite=1>poulet</ingredient> coupé en <ingredient quantite=1>petits</ingredient> dés. ajouter l’ <ingredient quantite=1>estragon</ingredient> ciselé, saler et poivrer. <operation temps=25.0min espace=9>faire dorer</operation>. pendant ce temps, <operation temps=6.86min espace=9>faire cuire les tagliatelles</operation> (voir indications sur le paquet). quand la viande commence à dorer, ajouter les <ingredient quantite=1>courgettes</ingredient> coupées en <ingredient quantite=1>petits</ingredient> dés et les <operation temps=6.86min espace=9>faire fondre à feu doux</operation>. quand les <ingredient quantite=1>courgettes</ingredient> sont moelleuses, ajouter la <ingredient quantite=1>crème</ingredient> afin de former la sauce. dresser les tagliatelles dans une assiette creuse et napper généreusement de sauce.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11286">
+ <titre>Ragout de ragondin</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 ragondin de 2 kg en morceaux</p>
+ <p>500 g de tomates mures</p>
+ <p>1 kg de pommes de terre</p>
+ <p>2 carottes</p>
+ <p>1 branche de céleri</p>
+ <p>1 poireau</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 bouquet de persil</p>
+ <p>1 bouquet garni (thym, laurier,...) </p>
+ <p>10 cl de vin rouge</p>
+ <p>10 cl de bouillon de volaille</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir les morceaux de</operation> ragondin à feu vif dans une <recipient>sauteuse</recipient> avec une cuillerée à soupe d’ huile d’ arachide jusqu’ à ce qu’ ils soient bien dorés. egoutter et réserver. <operation temps=6.86min espace=14>faire revenir ensuite dans le même récipient <ingredient quantite=2>carottes</ingredient>, <ingredient quantite=1>céleri</ingredient>, <ingredient quantite=1>poireaux</ingredient> et <ingredient quantite=2>oignons</ingredient> coupés en petits morceaux</operation>. cuire à feu vif pendant 5 min. ajouter les <ingredient quantite=1>tomates</ingredient> en morceaux, l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> haché, le <ingredient quantite=1>bouquet garni</ingredient>. saler et poivrer. baisser le feu et <operation temps=15.0min espace=14>laisser mijoter 15 min environ</operation>. ajouter les morceaux de ragondin, mouiller avec le <ingredient quantite=1>vin rouge</ingredient> et le <ingredient quantite=1>bouillon</ingredient>. porter à ébullition, puis <operation temps=45.0min espace=14>laisser mijoter pendant 45 min à feu moyen</operation>. ajouter les <ingredient quantite=1>pommes de terre</ingredient> en morceaux et <operation temps=25.0min espace=14>laisser cuire encore 25 min environ</operation>. un <ingredient quantite=1>vin rouge</ingredient> corsé
+]]>
+ </preparation>
+</recette>

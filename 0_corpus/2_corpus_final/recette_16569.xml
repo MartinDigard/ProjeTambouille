@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16569">
+ <titre>Fougasse facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>50 g de levure de boulanger</p>
+ <p>1 verre d’ huile d’ olive</p>
+ <p>8 gouttes d’ eau de fleur d’ oranger</p>
+ <p>200 g de sucre</p>
+ <p>2 pincées de sel</p>
+ <p>1 cuillère à soupe de grains de fenouil</p>
+ <p>50 g de beurre</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayez la <ingredient quantite=1>levure</ingredient> avec l’ <ingredient quantite=8>eau de fleur</ingredient> d’ <ingredient quantite=8>oranger</ingredient>. <operation temps=6.86min espace=11>mélangez avec le tiers de la farine</operation>. <operation temps=6.86min espace=11>faites lever la pâte pendant 1 h dans un local un peu chaud</operation>. au bout de ce temps, pétrissez cette pâte en incorporant le reste de la farine, le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et le <ingredient quantite=2>sel</ingredient>. <operation temps=6.86min espace=11>laissez encore</operation> <operation temps=6.86min espace=11>mûrir 1 h dans un endroit de température plutôt élevée</operation>. préchauffez le <recipient>four</recipient> (thermostat 5/6 - 150 - 180 ° c) pendant 20 mn. <operation temps=6.86min espace=11>beurrez une tourtière</operation>. <operation temps=6.86min espace=11>etendez la pâte avec les mains</operation>. <operation temps=6.86min espace=11>dorez le dessus à l’ <ingredient quantite=1>oeuf</ingredient></operation>. saupoudrez de <ingredient quantite=1>grains de fenouil</ingredient>. <operation temps=45.0min espace=11>cuisez 45 mn à <recipient>four</recipient> moyen (thermostat 5/6 - 150 - 180 ° c</operation>). la fougasse constitue une excellent dessert mais peut surtout se manger à tout moment de la journée pour’ boucher un petit creux’.
+]]>
+ </preparation>
+</recette>

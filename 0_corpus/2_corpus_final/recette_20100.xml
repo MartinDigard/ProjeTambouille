@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20100">
+ <titre>Champignons farcis au jambon et au parmesan</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 gros champignons</p>
+ <p>6 tranches de jambon de pays (120 g) </p>
+ <p>3 tranches de pain de mie</p>
+ <p>2 oignons blancs</p>
+ <p>1 oeuf</p>
+ <p>1 bouquet de cerfeuil</p>
+ <p>huile d’ olive</p>
+ <p>2 brins de thym</p>
+ <p>50 g de parmesan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le bout terreux des <ingredient quantite=6>champignons</ingredient>, les laver, les essuyer, puis séparer les pieds des chapeaux. préchauffer votre <recipient>four</recipient> à 180 ° c (thermostat 6). mettre ensuite les chapeaux à <operation temps=6.86min espace=13>blanchir dans l’ eau bouillante</operation> salée, puis les <operation temps=6.86min espace=13>laisser égoutter</operation>. dans un <recipient>mixeur</recipient>: hacher le <ingredient quantite=6>jambon</ingredient>, les pieds de <ingredient quantite=1>champignon</ingredient>, une partie du <ingredient quantite=1>parmesan</ingredient> (en réserver 2 cuillères à soupe), le <ingredient quantite=3>pain</ingredient>, les <ingredient quantite=2>oignons</ingredient> pelés, l’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=1>cerfeuil</ingredient> et l’ assaisonnement. bien mixer le tout jusqu’ à l’ obtention d’ une farce fine et homogène. <operation temps=6.86min espace=13>farcir les chapeaux avec puis les</operation> disposer sur la plaque beurrée du <recipient>four</recipient>. les arroser d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient> et les saupoudrer de <ingredient quantite=2>thym</ingredient> et de <ingredient quantite=1>parmesan</ingredient>. les <operation temps=20.0min espace=13>faire cuire 20 min pour que la farce soit bien gratinée</operation>. utiliser un cuit - vapeur pour précuire les <ingredient quantite=6>champignons</ingredient> afin de mieux préserver leur saveur et leur texture.
+]]>
+ </preparation>
+</recette>

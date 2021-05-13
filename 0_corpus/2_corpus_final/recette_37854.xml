@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37854">
+ <titre>Hachis parmentier du pêcheur</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>900 g de pommes de terre</p>
+ <p>50 g de parmesan</p>
+ <p>50 g de farine</p>
+ <p>2 oeufs durs</p>
+ <p>persil</p>
+ <p>450 g de poisson fumé</p>
+ <p>450 g de poisson blanc</p>
+ <p>60 cl de lait</p>
+ <p>80 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) eplucher les <ingredient quantite=1>pommes de terre</ingredient> et les mettre à <operation temps=20.0min espace=12>bouillir</operation>. découper le <ingredient quantite=1>poisson</ingredient> en carrés de 2 cm environ. hacher le <ingredient quantite=1>persil</ingredient> et couper les <ingredient quantite=2>oeufs durs</ingredient>. <operation temps=6.86min espace=12>faire une béchamel avec 50 g <ingredient quantite=1>beurre</ingredient>, la farine et le lait</operation>. saler et poivrer et ajouter le <ingredient quantite=1>persil</ingredient>. ecraser les <ingredient quantite=1>pommes de terre</ingredient> en purée, y ajouter 30 g de beurre et un peu de lait, du <ingredient quantite=1>sel et poivre</ingredient>. mettre le <ingredient quantite=1>poisson</ingredient>, les <ingredient quantite=2>oeufs</ingredient> puis la sauce dans un <recipient>plat</recipient> beurré. <operation temps=6.86min espace=12>recouvrir de purée</operation> et saupoudrer de <ingredient quantite=1>parmesan</ingredient>. cuire 30 min. <operation temps=2.0min espace=12>servir avec une salade</operation>!
+]]>
+ </preparation>
+</recette>

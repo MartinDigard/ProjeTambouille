@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20880">
+ <titre>Roulé de courgette au thon et mozzarella</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 petites courgettes</p>
+ <p>200 g de thon (en boîte) </p>
+ <p>200 de mozzarella</p>
+ <p>sauce tomate</p>
+ <p>sel, poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient quantite=4>courgettes</ingredient> en bandes les plus fines possible dans le sens de la longueur (c’ est plus facile avec un économe) et les mettre dans un <recipient>plat</recipient> en les salant et les poivrant au fur et à mesure. mélanger le <ingredient quantite=1>thon</ingredient> et la <ingredient quantite=1>mozzarella</ingredient> dans un <recipient>saladier</recipient> de manière à <operation temps=6.86min espace=12>obtenir un mélange</operation> uniforme. <operation temps=6.86min espace=12>faire revenir rapidement les bandes de <ingredient quantite=4>courgettes</ingredient> dans de l’ huile et les</operation> poser sur du papier absorbant. réaliser des rouleaux en plaçant une <ingredient quantite=1>petite</ingredient> boule de mélange <ingredient quantite=1>thon</ingredient> / <ingredient quantite=1>mozzarella</ingredient> dans une bande de <ingredient quantite=1>courgette</ingredient>. placer les rouleaux dans un <recipient>plat</recipient> qui va au <recipient>four</recipient>. <operation temps=6.86min espace=12>recouvrir les rouleaux avec de la sauce <ingredient quantite=1>tomate</ingredient> (on</operation> peut aussi le <operation temps=6.86min espace=12>faire sans sauce <ingredient quantite=1>tomate</ingredient> mais c’ est un peu sec)</operation> et placer le <recipient>plat</recipient> au <recipient>four</recipient> jusqu’ à ce que les rouleaux soient bien chauds. <operation temps=6.86min espace=12>servir avec du riz ou de la semoule</operation>. c’ est un peu long à <operation temps=6.86min espace=12>faire mais çà</operation> vaut le coup!
+]]>
+ </preparation>
+</recette>

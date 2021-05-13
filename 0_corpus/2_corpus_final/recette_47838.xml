@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47838">
+ <titre>Fraises à la chantilly anisée</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fraises</p>
+ <p>20 ml de crème liquide</p>
+ <p>20 g de sucre</p>
+ <p>1 bouchon de pastis</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>fraises</ingredient> en 2 ou 3, puis les réserver. battre la <ingredient quantite=1>crème liquide</ingredient>, afin d’ <operation temps=6.86min espace=5>obtenir une chantilly</operation> et rajouter le <ingredient quantite=1>sucre</ingredient> et un <ingredient quantite=1>bouchon de pastis</ingredient>. mettre les <ingredient quantite=1>fraises</ingredient> sur une assiette, saupoudrer de poivre noir, puis rajouter la chantilly au <ingredient quantite=1>pastis</ingredient>. blanc sucré
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27707">
+ <titre>Salade composée au thon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petite tête de salade frisée</p>
+ <p>quelques feuilles de chou rouge</p>
+ <p>1/2 poivron</p>
+ <p>1 oignon</p>
+ <p>150 g de thon au naturel en boîte</p>
+ <p>100 g de petites asperges</p>
+ <p>2 oeufs</p>
+ <p>Pour la vinaigrette: </p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de vinaigre</p>
+ <p>1 cuillère à café de moutarde forte</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=2>oeufs</ingredient> à cuire 10 mn dans de l’ eau bouillante. mélanger dans un <recipient>saladier</recipient> les ingrédients de la <ingredient quantite=1>vinaigrette</ingredient>. nettoyer la <ingredient quantite=1>salade</ingredient>, les <ingredient quantite=1>feuilles de chou</ingredient> et le <ingredient quantite=1>poivron</ingredient>. les couper en lanières et les ajouter dans le <recipient>saladier</recipient>. couper l’ <ingredient quantite=1>oignon</ingredient> dans le <recipient>saladier</recipient>. <operation temps=10.0min espace=17>faire tremper les <ingredient quantite=2>oeufs</ingredient> 10 mn dans de l’ eau froide</operation>. <operation temps=6.86min espace=17>débarrassez - les de leur coquille</operation> et <operation temps=6.86min espace=17>coupez - les en quartiers que vous</operation> <operation temps=6.86min espace=17>ajouterez dans le <recipient>saladier</recipient> avec le <ingredient quantite=1>thon</ingredient> et les <ingredient quantite=1>asperges</ingredient> égouttées</operation>.
+]]>
+ </preparation>
+</recette>

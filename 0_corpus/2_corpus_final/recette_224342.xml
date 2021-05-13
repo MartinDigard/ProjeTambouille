@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224342">
+ <titre>Omelette pascale</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 œufs</p>
+ <p>1 oignon</p>
+ <p>1 boudin noir</p>
+ <p>150 g de lard ou de lardons</p>
+ <p>1 botte d’ asperges (si possible sauvages) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre de l’ huile dans un <recipient>poêle</recipient> et y ajouter l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=1>asperges</ingredient> coupées en petits tronçons. si les <ingredient quantite=1>asperges</ingredient> sont épaisses il faut d’ abord les <operation temps=6.86min espace=8>faire blanchir</operation>. <operation temps=10.0min espace=8>faire dorer environ 10 min et juste un peu avant la fin de la cuisson, y</operation> ajouter le <ingredient quantite=1>boudin</ingredient> coupé en cubes. battre les <ingredient quantite=6>œufs</ingredient> dans un <recipient>saladier</recipient> puis les verser dans la <recipient>poêle</recipient>. <operation temps=5.0min espace=8>faire dorer 5 min ou plus de chaque côté selon la cuisson</operation> désirée.
+]]>
+ </preparation>
+</recette>

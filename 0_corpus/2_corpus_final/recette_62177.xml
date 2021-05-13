@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62177">
+ <titre>Gratin de blettes à la viande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 botte de blettes</p>
+ <p>500 g de boeuf haché</p>
+ <p>2 oignons</p>
+ <p>1 échalote</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 g de beurre</p>
+ <p>herbes de Provence</p>
+ <p>150 g de gruyère rapé</p>
+ <p>sauce béchamel (50 cl de lait, 30 g de beurre, 30 g de farine) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>retirez le vert des côtes de</operation> <ingredient quantite=1>blettes</ingredient>, <operation temps=6.86min espace=13>lavez sous un filet d’ eau</operation> et <operation temps=6.86min espace=13>laissez bien</operation> égoutter. <operation temps=6.86min espace=13>faites revenir les verts dans 10 g de beurre</operation>, <operation temps=6.86min espace=13>laissez évaporer</operation>. <operation temps=6.86min espace=13>divisez les côtes en tronçons</operation>, <operation temps=6.86min espace=13>pelez - les</operation> et <operation temps=6.86min espace=13>faites - les</operation> cuire à l’ eau bouillante salée environ 40 min. emincez et <operation temps=6.86min espace=13>pelez les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, les</operation> <ingredient quantite=1>échalotes</ingredient> et <operation temps=6.86min espace=13>faites - les</operation> étuver dans 1 <recipient>poêle</recipient> avec 10 g de beurre. saupoudrez d’ <ingredient quantite=1>herbes de provence</ingredient> puis <operation temps=6.86min espace=13>ajoutez la viande</operation> et <operation temps=5.0min espace=13>laissez cuire 5 min</operation>. <operation temps=6.86min espace=13>ajoutez du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). préparea la <ingredient quantite=1>béchamel</ingredient>, <operation temps=6.86min espace=13>ajoutez - y la moitié du <ingredient quantite=1>gruyère</ingredient> râpé</operation>. <operation temps=6.86min espace=13>etalez la viande dans 1 <recipient>plat</recipient> à gratin</operation>, <operation temps=6.86min espace=13>recouvrez du vert des</operation> <ingredient quantite=1>blettes</ingredient>, <operation temps=6.86min espace=13>rangez les côtes des <ingredient quantite=1>blettes</ingredient> dessu et nappez de <ingredient quantite=1>béchamel</ingredient></operation>. <operation temps=6.86min espace=13>saupoudrez du restant de gruyère,</operation> et <operation temps=30.0min espace=13>faites cuire 30 min</operation>.
+]]>
+ </preparation>
+</recette>

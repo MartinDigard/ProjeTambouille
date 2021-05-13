@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19012">
+ <titre>Galette des rois facile</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 ronds de pâte feuilletée</p>
+ <p>125 g d’ amandes en poudre</p>
+ <p>50 g de beurre</p>
+ <p>100 g de sucre en poudre</p>
+ <p>2 oeufs entier</p>
+ <p>1 jaune d’ oeuf pour dorer</p>
+ <p>vanille en poudre</p>
+ <p>liqueur d’ amandes</p>
+ <p>10 g de Maïzena (1 cuillère à soupe rase) </p>
+ <p>10 cl de lait</p>
+ <p>1 cuillère de rhum (ou kirsch) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les 2 <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient>. ajouter la maïzena délayée dans le lait froid. cuire à feu doux jusqu’ à ébullition en remuant. <operation temps=6.86min espace=12>laisser épaissir</operation> et retirer du feu. ajouter la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, la <ingredient quantite=1>vanille</ingredient>, les <ingredient quantite=1>liqueurs</ingredient> et le beurre coupé en morceaux. <operation temps=6.86min espace=12>garnir un fond de <ingredient quantite=2>pâte</ingredient></operation>. <operation temps=6.86min espace=12>recouvrir avec l’ autre</operation> <ingredient quantite=1>rond</ingredient>, souder les bords. <ingredient quantite=1>dorer</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. <operation temps=35.0min espace=12>faire cuire en bas du <recipient>four</recipient> 30/35 mn (th 6 - 7</operation>). la galette est cuite quand on peut la soulever sans qu’ elle ne plie.
+]]>
+ </preparation>
+</recette>

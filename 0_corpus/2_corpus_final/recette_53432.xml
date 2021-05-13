@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53432">
+ <titre>Tartare de tomates et courgettes en verrines</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 tomates</p>
+ <p>5 petites courgettes bien fermes</p>
+ <p>100 g de tomates séchées confites en bocal </p>
+ <p>2 cuillères à soupe de pignons de pin</p>
+ <p>quelques copeaux de parmesan à râper</p>
+ <p>vinaigre balsamique (2 cuillères à soupe) </p>
+ <p>huile d’ olive (5 cuillères à soupe) </p>
+ <p>basilic, ciboulette, échalote</p>
+ <p>sel, poivre</p>
+ <p>thym</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=5>courgettes</ingredient> en <ingredient quantite=1>petits</ingredient> dés et les <operation temps=5.0min espace=11>faire revenir dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> durant 5 min à feu doux avec du <ingredient quantite=1>thym</ingredient></operation>. mettre les <ingredient quantite=5>tomates</ingredient> 30 secondes dans l’ eau bouillante ; puis les peler, enlever les pépins et les couper en <ingredient quantite=1>petits</ingredient> dés. préparer une vinaigrette avec l’ huile et le <ingredient quantite=1>vinaigre balsamique</ingredient> et déposer une <ingredient quantite=1>cuillère</ingredient> sur les <ingredient quantite=5>tomates</ingredient> et sur les <ingredient quantite=5>courgettes</ingredient> ; saler et poivrer. une fois les <ingredient quantite=5>courgettes</ingredient> refroidies, prendre 6 verrines (ou coupes à glace), puis y déposer: 1 couche de <ingredient quantite=5>tomates</ingredient> 1 couche de <ingredient quantite=5>courgettes</ingredient> 1 couche de <ingredient quantite=5>tomates confites</ingredient> quelques <ingredient quantite=2>pignons de pin</ingredient> grillés 2 min dans une <recipient>poêle</recipient> quelques <ingredient quantite=1>copeaux de parmesan</ingredient> ajouter le reste de vinaigrette et réserver au frais plusieurs heures. l’ assaisonnement varie suivant les goûts, mais il est important de <ingredient quantite=5>bien</ingredient> relever le goût des <ingredient quantite=5>courgettes</ingredient>. insister plus ou moins sur le <ingredient quantite=1>vinaigre balsamique</ingredient> et ne pas hésiter à mettre de la vinaigrette à disposition sur la table.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72470">
+ <titre>Salade de fruits d’ été à l’ huile d’ olive</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 abricots</p>
+ <p>1/2 melon ou 1 petit</p>
+ <p>24 cerises</p>
+ <p>5 ou 6 feuilles de basilic</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=5>abricots</ingredient>, le 1/2 <ingredient quantite=1>melon</ingredient>, et les <ingredient quantite=1>cerises</ingredient> en dés, de manière à <operation temps=6.86min espace=6>obtenir des morceaux à peu près égaux</operation>. ciseler les <ingredient quantite=5>feuilles de basilic</ingredient>, ajouter le <ingredient quantite=2>sucre</ingredient> et l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, mélanger. <operation temps=30.0min espace=6>laisser reposer au moins 30 min avant de</operation> <operation temps=2.0min espace=6>servir</operation>. si vous la conservez au frais, <operation temps=15.0min espace=6>sortez la salade au moins 15 min avant de</operation> <operation temps=2.0min espace=6>servir</operation>, pour qu’ elle ne soit pas trop froide. selon votre goût!
+]]>
+ </preparation>
+</recette>

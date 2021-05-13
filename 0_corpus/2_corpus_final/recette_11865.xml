@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11865">
+ <titre>Fougasse</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le levain: </p>
+ <p>20 g de levure fraîche</p>
+ <p>250 g de farine de blé</p>
+ <p>50 cl d’ eau tiède (30 + 20) Pour la pâte: </p>
+ <p>1 kg de farine de blé</p>
+ <p>1 cuillère à soupe de sel</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>60 cl d’ eau tiède</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>préparez un <ingredient quantite=1>levain</ingredient> en</operation> délayant la <ingredient quantite=1>levure</ingredient> dans 30 cl d’ <ingredient quantite=1>eau tiède</ingredient>. <operation temps=6.86min espace=9>ajoutez 150 g de farine</operation>. <operation temps=5.0min espace=9>mélangez</operation>. <operation temps=6.86min espace=9>couvrez d’ un linge</operation> et <operation temps=6.86min espace=9>réservez pendant 12h dans une pièce</operation> tempérée. le lendemain, <operation temps=6.86min espace=9>rafraîchissez le <ingredient quantite=1>levain</ingredient> en y</operation> incorporant 100 g de farine et 20 cl d’ <ingredient quantite=1>eau tiède</ingredient>. <operation temps=0.25min espace=9>couvrez</operation>. <operation temps=6.86min espace=9>laissez fermenter à nouveau pendant 12 heures</operation>. le troisième jour <operation temps=6.86min espace=9>faites la <ingredient quantite=1>pâte</ingredient> à pain</operation>: <operation temps=6.86min espace=9>délayez le <ingredient quantite=1>levain</ingredient> en y</operation> versant 60 cl d’ <ingredient quantite=1>eau tiède</ingredient>. ajouter le <ingredient quantite=1>sel</ingredient>, l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> et 1 kg de farine. <operation temps=6.86min espace=9>pétrissez</operation> vigoureusement la <ingredient quantite=1>pâte</ingredient> jusqu’ à ce qu’ elle devienne souple et lisse. <operation temps=6.86min espace=9>formez une boule</operation>. <operation temps=6.86min espace=9>saupoudrez - la de <ingredient quantite=1>farine</ingredient></operation>. <operation temps=0.25min espace=9>couvrez</operation> et <operation temps=6.86min espace=9>mettez à</operation> lever dans un endroit chaud (25 degrés) pendant 1 heure. <operation temps=6.86min espace=9>retravaillez la <ingredient quantite=1>pâte</ingredient> sur la table</operation> farinée afin de lui rendre son volume de départ. <operation temps=6.86min espace=9>divisez - la en</operation> <operation temps=6.86min espace=9>3.etalez chaque pâton en rectangle de 5 mm d’ épaisseur</operation>. posez - les sur une plaque graissée. <operation temps=6.86min espace=9>entaillez des lanières dans la <ingredient quantite=1>pâte</ingredient> et éliminez - les couvrez</operation>. <operation temps=30.0min espace=9>laissez lever 30 minutes avant d’</operation> enfourner. <operation temps=25.0min espace=9>faites cuire les fougasses au <recipient>four</recipient> préchauffé (thermostat 8/230 ° c) pendant 25 minutes</operation>. <operation temps=6.86min espace=9>mettez les pains à</operation> <operation temps=6.86min espace=9>refroidir sur une grille</operation>.
+]]>
+ </preparation>
+</recette>

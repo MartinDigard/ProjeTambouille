@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42748">
+ <titre>Risotto aux crevettes et petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 verres de riz</p>
+ <p>3 carottes</p>
+ <p>2 courgettes</p>
+ <p>bouillon de légumes (environ 1 à 1, 5 l) </p>
+ <p>2 oignons</p>
+ <p>150 g de petis pois</p>
+ <p>800 g de crevettes roses</p>
+ <p>ail</p>
+ <p>persil</p>
+ <p>safran</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=2>oignons</ingredient>, râper les <ingredient quantite=3>carottes</ingredient> et couper les <ingredient quantite=2>courgettes</ingredient> en dés. <operation temps=6.86min espace=14>faire revenir dans une <recipient>sauteuse</recipient> les <ingredient quantite=2>oignons</ingredient>, les <ingredient quantite=3>carottes</ingredient> et les <ingredient quantite=2>courgettes</ingredient> à l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. quand les <ingredient quantite=2>oignons</ingredient> sont dorés ajouter le <ingredient quantite=2>riz</ingredient>. quand les grains de <ingredient quantite=2>riz</ingredient> deviennent translucides ajouter un <ingredient quantite=1>verre</ingredient> d’ eau et le <ingredient quantite=1>bouillon</ingredient>. ajouter le <ingredient quantite=1>safran</ingredient> et les petits <ingredient quantite=1>pois</ingredient> (surgelés c’ est pratique!), saler et poivrer. ajouter de l’ eau au fur et à mesure jusqu’ à ce que le <ingredient quantite=2>riz</ingredient> soit cuit. dans une <recipient>poêle</recipient> <operation temps=5.0min espace=14>faire revenir 5 minutes les</operation> <ingredient quantite=1>crevettes</ingredient> (décoriquées) à l’ huile d’ <ingredient quantite=1>olive</ingredient> avec de l’ <ingredient quantite=1>ail</ingredient> (1 gousse écrasée). incorporer les <ingredient quantite=1>crevettes</ingredient> au risotto. parsemer de <ingredient quantite=1>persil</ingredient>, c’ est prêt!
+]]>
+ </preparation>
+</recette>

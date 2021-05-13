@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80885">
+ <titre>Flognarde aux bananes et kiwis</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60 g de farine</p>
+ <p>3 oeufs</p>
+ <p>250 ml lait</p>
+ <p>100 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>40 g de beurre</p>
+ <p>2 bananes</p>
+ <p>3 kiwis</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>pelez les fruits</operation>, <operation temps=6.86min espace=12>coupez - les en morceaux</operation> et <operation temps=6.86min espace=12>étalez les régulièrement au fond d’ un <recipient>plat</recipient> à tarte anti-adhésif (tefal ou silicone, sinon</operation> <operation temps=6.86min espace=12>beurrez le <recipient>moule</recipient></operation>). <operation temps=6.86min espace=12>préparez la pâte</operation>: <operation temps=6.86min espace=12>mettez la farine et tout le <ingredient quantite=1>sucre</ingredient> dans un <recipient>saladier</recipient></operation>, <operation temps=3.0min espace=12>ajoutez les</operation> <ingredient quantite=3>oeufs</ingredient>, <operation temps=6.86min espace=12>melangez afin que le mélange soit bien lisse</operation>. <operation temps=6.86min espace=12>ajoutez le lait et les 40 g de <ingredient quantite=1>beurre</ingredient> fondu</operation>, <operation temps=5.0min espace=12>mélangez</operation>. <operation temps=6.86min espace=12>mettez ensuite le mélange dans le <recipient><recipient>moule</recipient> à tarte</recipient>, sur les fruits</operation>. <operation temps=30.0min espace=12>enfournez 30 min à 180 ° c, thermostat 6</operation>. servez refroidie ou tiède. <operation temps=6.86min espace=12>ajoutez un trait de rhum ambré pour les gourmands</operation>. un ti’ punch ?
+]]>
+ </preparation>
+</recette>

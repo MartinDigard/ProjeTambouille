@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26308">
+ <titre>Tortillas au poulet et au piment</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>75 cl d’ eau</p>
+ <p>un peu de lait</p>
+ <p>190 g de farine de maïs</p>
+ <p>75 g de beurre</p>
+ <p>3 oeufs entiers</p>
+ <p>3 piments hachés</p>
+ <p>400 g de poulet cuit</p>
+ <p>200 g de porc cuit</p>
+ <p>10 cl de crème fraîche</p>
+ <p>sel </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+porter l’ <ingredient quantite=1>eau</ingredient> à ébullition avec du <ingredient quantite=1>sel</ingredient>. ajouter la farine de <ingredient quantite=1>maïs</ingredient> et le beurre. bien mélanger à l’ aide d’ une cuillère en bois et porter à ébullition. <operation temps=20.0min espace=15>laisser refroidir</operation>. ajouter les <ingredient quantite=3>oeufs</ingredient> et éventuellement un <ingredient quantite=1>peu de lait</ingredient> pour détendre la pâte. la pâte ne doit pas être liquide. <operation temps=6.86min espace=15>faire cuire les crêpes à la <recipient>poêle</recipient></operation>. préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). <ingredient quantite=1>hacher</ingredient> le <ingredient quantite=1>porc</ingredient> et le <ingredient quantite=1>poulet</ingredient> avec les <ingredient quantite=3>piments</ingredient>. <operation temps=6.86min espace=15>garnir chaque crêpe de hachis, les replier en 2 et les</operation> disposer dans un <recipient>plat</recipient> à <recipient>four</recipient> huilé. <operation temps=6.86min espace=15>recouvrir de</operation> crème et mettre au <recipient>four</recipient> 20 minutes. a
+]]>
+ </preparation>
+</recette>

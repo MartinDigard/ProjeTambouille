@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69529">
+ <titre>Sauce au concombre et à la banane</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gousse d’ ail</p>
+ <p>1 concombre</p>
+ <p>2 à 3 cuillerées à soupe de fromage blanc</p>
+ <p>2 cuillères d’ huile d’ olive</p>
+ <p>1 pincée de piment (graines ou sauce) </p>
+ <p>1/2 banane</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>mixez tous les ingrédients ensemble</operation>. <operation temps=6.86min espace=7>ajustez l’ <ingredient quantite=2>huile</ingredient>, le <ingredient quantite=1>piment</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre selon vos goûts</operation>. la texture doit être douce, mais pas liquide. n’ hésitez pas à mettre beaucoup d’ <ingredient quantite=2>huile</ingredient>. <operation temps=6.86min espace=7>mélangez aux pâtes</operation>, riz... il est intéressant d’ ajouter de la crème fraîche, des noix ou encore du citron au mélange.
+]]>
+ </preparation>
+</recette>

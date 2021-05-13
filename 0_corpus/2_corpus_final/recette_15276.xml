@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15276">
+ <titre>Spaghetti au roquefort (du film’ La Grande bouffe’) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>spaghetti pour 4 en fonction de l’ appétit</p>
+ <p>250 g de roquefort</p>
+ <p>une bonne noix de beurre</p>
+ <p>200 g de crème fraîche</p>
+ <p>1/2 verre de cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire cuire les <ingredient quantite=1>spaghetti</ingredient> comme d’ habitude, dans de l’ eau pas trop</operation> salée, à cause du sel du <ingredient quantite=1>roquefort</ingredient>. pendant ce temps, <operation temps=6.86min espace=5>faire fondre le roquefot émietté, avec le <ingredient quantite=1>beurre</ingredient> dans dans la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>cognac</ingredient></operation>. bien remuer sur feu doux jusqu’ à obtention d’ une sauce bien crémeuse. egoutter les <ingredient quantite=1>spaghetti</ingredient>. <operation temps=6.86min espace=5>servir la sauce en saucière</operation>. on peut remplacer, par mesure d’ économie, le <ingredient quantite=1>roquefort</ingredient> par du bleu des causses. vin rouge de cahors
+]]>
+ </preparation>
+</recette>

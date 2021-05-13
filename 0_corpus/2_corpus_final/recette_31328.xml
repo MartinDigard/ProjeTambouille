@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31328">
+ <titre>Super sandwichs de Faby</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 grandes tranches de pain de mie</p>
+ <p>4 tranches de blanc de dinde fumé</p>
+ <p>1 pot de tzatziki (spécialité grecque au concombre et fromage blanc) </p>
+ <p>2 belles tomates</p>
+ <p>150 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tartiner chaque <ingredient quantite=8>tranche de pain</ingredient> avec le <ingredient quantite=1>tzatziki</ingredient> ; en réserver 4. sur les 4 qui restent, déposer une <ingredient quantite=4>tranche de blanc de dinde fumé</ingredient>, puis des rondelles de <ingredient quantite=2>tomates</ingredient> et du <ingredient quantite=1>gruyère râpé</ingredient>. terminer par les 4 <ingredient quantite=8>tranche de pain</ingredient> mises de côté. <operation temps=6.86min espace=5>servir ces sandwichs bien frais</operation>. pour les amateurs de mayonnaise, vous pouvez en ajouter sur la <ingredient quantite=4>tranche de blanc de dinde</ingredient>. personnellement, je <operation temps=6.86min espace=5>fais 4 sandwichs pour deux, gourmandise oblige</operation>! soda
+]]>
+ </preparation>
+</recette>

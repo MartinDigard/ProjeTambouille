@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13760">
+ <titre>Panzanella</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de tomates assez fermes </p>
+ <p>1 poivron vert</p>
+ <p>2 gousses d’ ail</p>
+ <p>100 g de petites olives noires</p>
+ <p>100 g de roquette</p>
+ <p>150 g de pain de campagne rassis et légèrement doré au gril</p>
+ <p>5 cuillères à soupe d’ huile d’ olive</p>
+ <p>3 cuillères à soupe de vinaigre de vin</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>coupez les <ingredient quantite=1>tomates</ingredient> en quartiers assez gros</operation> et <operation temps=6.86min espace=12>faites - les</operation> égoutter dans une <recipient>passoire</recipient>. <operation temps=6.86min espace=12>ouvrez le</operation> <ingredient quantite=1>poivron</ingredient>, <operation temps=6.86min espace=12>retirez le pédoncule, les graines et les cloisons blanches</operation>. <operation temps=6.86min espace=12>coupez - le en bâtonnets réguliers</operation>. <operation temps=6.86min espace=12>mélangez les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>poivron</ingredient> dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>pain</ingredient></operation> grillé coupé en morceaux, la <ingredient quantite=1>roquette</ingredient> rincée et essorée, les <ingredient quantite=1>olives</ingredient> et l’ <ingredient quantite=2>ail</ingredient> finement haché. <operation temps=0.25min espace=12>salez</operation> et <operation temps=0.5min espace=12>poivrez</operation> généreusement la salade, <operation temps=6.86min espace=12>arrosez avec l’ <ingredient quantite=5>huile</ingredient> d’ <ingredient quantite=5>olive</ingredient> et le</operation> <ingredient quantite=3>vinaigre</ingredient> et <operation temps=6.86min espace=12>mélangez la panzanella avec soin</operation>. <operation temps=6.86min espace=12>servez frais</operation>. réservez la panzanella pendant 1 heure au <recipient>réfrigérateur</recipient>, le temps que le <ingredient quantite=1>pain rassis</ingredient> s’ imprègne bien des arômes. elle n’ en sera que meilleure.
+]]>
+ </preparation>
+</recette>

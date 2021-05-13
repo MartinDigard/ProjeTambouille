@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24936">
+ <titre>Gratin d’ épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 kg d’ épinards</p>
+ <p>150 g de beurre</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>45 cl de lait</p>
+ <p>210 g de gruyère râpé</p>
+ <p>3 oeufs</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=5.0min espace=9>ebouillantez les <ingredient quantite=1>épinards</ingredient> 5 minutes puis pressez - les pour extraire l’ eau qu’ ils</operation> contiennent. <operation temps=6.86min espace=9>faites les</operation> <operation temps=6.86min espace=9>revenir dans 20 g de beurre</operation>. <operation temps=6.86min espace=9>mélangez la farine dans 30 g de <ingredient quantite=1>beurre</ingredient> fondu</operation> puis <operation temps=6.86min espace=9>versez le lait</operation>. <operation temps=6.86min espace=9>laissez épaissir sur feu doux sans</operation> cesser de remuer puis <operation temps=6.86min espace=9>ajoutez 75 g de gruyère</operation>. rectifiez l’ assaisonnement. <operation temps=6.86min espace=9>incorporez les <ingredient quantite=1>épinards</ingredient> puis les deux jaunes d’ <ingredient quantite=3>oeufs</ingredient> et les blancs</operation> battus en neige ferme. disposez dans un <recipient>plat</recipient> à gratin beurré, recouvrez de <ingredient quantite=1>gruyère râpé</ingredient> et <operation temps=6.86min espace=9>versez de beurre</operation> fondu sur le dessus. <operation temps=15.0min espace=9>enfournez 15 minutes</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14509">
+ <titre>Travers de porc au caramel (Chine) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de travers de porc</p>
+ <p>2 gros oignons</p>
+ <p>sauce de soja</p>
+ <p>sauce de poisson</p>
+ <p>nuoc mam</p>
+ <p>2 cuillères à soupe de miel liquide </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient> minute, <operation temps=6.86min espace=9>faire revenir la viande avec les <ingredient quantite=2>oignons</ingredient></operation>. assaisonner de sauce de <ingredient quantite=1>soja</ingredient>, de <ingredient quantite=1>nuoc mam</ingredient>, de quelques gouttes de sauce de <ingredient quantite=1>poisson</ingredient> et le <ingredient quantite=2>miel</ingredient>. saler et poivrer. <operation temps=1.0min espace=9>recouvrir d’ eau</operation>. <operation temps=45.0min espace=9>laisser cuire 45 mn environ</operation>. <operation temps=6.86min espace=9>servir avec du riz blanc (parfumé</operation>). <recipient>plat</recipient> exotique d’ origine chinoise. bière blanche, chinoise (légère)
+]]>
+ </preparation>
+</recette>

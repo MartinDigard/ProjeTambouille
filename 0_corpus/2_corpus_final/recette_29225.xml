@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29225">
+ <titre>Rognons de veau sauce tomate au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 rognons de veau</p>
+ <p>150 g de champignons</p>
+ <p>75 g de beurre</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>1 échalote</p>
+ <p>25 cl de sauce tomate</p>
+ <p>15 g de farine</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient quantite=2>rognons</ingredient> en deux et enlever la peau et la graisse à l’ intérieur. les détailler en morceaux et les fariner. les <operation temps=6.86min espace=10>faire revenir dans une <recipient>poêle</recipient> avec de l’</operation> huile chaude pendant 2 à 3 min. les réserver au chaud et les remplacer par les <ingredient quantite=1>champignons</ingredient> émincés et l’ <ingredient quantite=1>échalote</ingredient> ciselée que l’ on fera <operation temps=10.0min espace=10>revenir à feu doux pendant 10 min</operation>. arroser de <ingredient quantite=1>vin blanc</ingredient>, incorporer le coulis de <ingredient quantite=1>tomates</ingredient> et <operation temps=6.86min espace=10>laisser réduire la sauce à feu doux</operation>. assaisonner. placer les <ingredient quantite=2>rognons</ingredient> sur un <recipient>plat</recipient> et les napper de sauce. <operation temps=6.86min espace=10>servir avec des croûtons frits</operation>.
+]]>
+ </preparation>
+</recette>

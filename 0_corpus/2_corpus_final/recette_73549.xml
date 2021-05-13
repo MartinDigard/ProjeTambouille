@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73549">
+ <titre>Courgette farcie au chou et paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou</p>
+ <p>2 grosses courgettes</p>
+ <p>1 paquet de lardons nature</p>
+ <p>paprika</p>
+ <p>huile d’ olive</p>
+ <p>2 ou 3 feuilles de laurier</p>
+ <p>1 tomate</p>
+ <p>1 oignon</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>lardons</ingredient> avec l’ <ingredient quantite=1>oignon</ingredient> sans matière grasse</operation>. puis <operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>chou</ingredient></operation>. une fois cuit y ajouter les <ingredient quantite=1>lardons</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=2>feuilles de laurier</ingredient> et la <ingredient quantite=1>tomate</ingredient>. saler et poivrer. <operation temps=6.86min espace=11>laisser chauffer le temps de</operation> couper les <ingredient quantite=2>courgettes</ingredient> en deux dans le sens de la longueur et d’ enlever les pépins. les disposer dans un <recipient>plat</recipient> à <recipient>four</recipient>. ensuite, les farcir de la préparation précédente. saupoudrer les <ingredient quantite=2>courgettes</ingredient> farcies de <ingredient quantite=1>paprika</ingredient> et les arroser d’ huile d’ <ingredient quantite=1>olive</ingredient>. enfourner et <operation temps=6.86min espace=11>laisser cuire 30 min, de manière à ce que les <ingredient quantite=2>courgettes</ingredient> soient</operation> fondantes.
+]]>
+ </preparation>
+</recette>

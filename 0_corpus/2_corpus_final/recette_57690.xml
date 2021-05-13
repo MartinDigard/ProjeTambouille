@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57690">
+ <titre>Tarte aux légumes et lardons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilleté</p>
+ <p>200 g de lardons fumés</p>
+ <p>5 gros champignons de Paris</p>
+ <p>2 courgettes</p>
+ <p>2 belles tomates</p>
+ <p>1 poivron jaune</p>
+ <p>1 gros oignon</p>
+ <p>2 oeufs</p>
+ <p>1 poignée de gruyère râpé</p>
+ <p>3 cuillères à soupe de crème fraîche à 4 %</p>
+ <p>1 cuillère à soupe de crème liquide à 15 %</p>
+ <p>moutarde</p>
+ <p>thym</p>
+ <p>ciboulette</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>wok</recipient>, <operation temps=6.86min espace=17>faire revenir les <ingredient quantite=1>lardons</ingredient> (sans matière grasse)</operation> puis ajouter l’ <ingredient quantite=1>oignon</ingredient> émincé. ajouter ensuite les <ingredient quantite=5>champignons</ingredient> et le <ingredient quantite=1>poivron</ingredient> émincés. <operation temps=6.86min espace=17>laisser colorer</operation>, ajouter une pincée de <ingredient quantite=1>thym</ingredient> émietté et le poivre. <operation temps=6.86min espace=17>laisser cuire <ingredient quantite=1>15</ingredient> minutes, les légumes</operation> doivent être encore croquants. dans un bol mélanger les <ingredient quantite=2>oeufs</ingredient>, la <ingredient quantite=1>ciboulette</ingredient>, la <ingredient quantite=3>crème fraîche</ingredient>, la <ingredient quantite=3>crème liquide</ingredient> et le <ingredient quantite=1>gruyère</ingredient>. dérouler la pâte <ingredient quantite=1>feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, badigeonner le fond de <ingredient quantite=1>moutarde</ingredient>. verser les légumes préalablement égoutté, <operation temps=6.86min espace=17>recouvrir de rondelles de</operation> <ingredient quantite=2>tomates</ingredient> et verser la préparation <ingredient quantite=1>oeuf</ingredient> + <ingredient quantite=3>crème</ingredient> dessus. enfourner à 220 ° c (thermostat 7 - 8) et <operation temps=30.0min espace=17>laisser cuire 25 à 30 minutes</operation>.
+]]>
+ </preparation>
+</recette>

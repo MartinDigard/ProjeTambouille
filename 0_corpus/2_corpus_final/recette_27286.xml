@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27286">
+ <titre>Petit soufflé léger</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oeuf</p>
+ <p>1 pot de 100 g de faisselle Rians</p>
+ <p>sel, poivre</p>
+ <p>1 cuiller à café de gélatine en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <recipient>four</recipient> à chauffer à 220 ° c. battre au fouet électrique la <ingredient quantite=1><operation temps=6.86min espace=11><recipient>faisselle</recipient></ingredient> avec le jaune de l’ <ingredient quantite=1>oeuf</ingredient>, la <ingredient quantite=1>gélatine</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre</operation>. saler le blanc d’ <ingredient quantite=1>oeuf</ingredient>, le battre en neige très ferme. rajouter le blance à la préparation <operation temps=6.86min espace=11><recipient>faisselle</recipient> / jaune d’ <ingredient quantite=1>oeuf</ingredient></operation>. mettre dans un <recipient>plat</recipient> à soufflet et enfourner pour une quinzaine de minutes. vérifier la cuisson et baisser la température du <recipient>four</recipient> si le soufflé brunit trop vite. il est possible de rajouter à cette préparation du fromage, des lardons, du jambon, etc. <recipient>plat</recipient> qui peut à la fois <operation temps=6.86min espace=11>servir d’ entrée ou de <recipient>plat</recipient> de résistance</operation> accompagné d’ une salade pour un repas léger. rosé léger
+]]>
+ </preparation>
+</recette>

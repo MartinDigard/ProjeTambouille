@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53507">
+ <titre>Petits pains aux pistaches</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre ramolli</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>75 g de cassonade</p>
+ <p>150 g de farine</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>100 g de poudre d’ amandes</p>
+ <p>Pour le glaçage: </p>
+ <p>50 g de sucre glace</p>
+ <p>2 cuillères à soupe de kirsch</p>
+ <p> pistaches grossièrement hachées</p>
+ <p>quelques cerises confites</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le beurre, la <ingredient quantite=1>cannelle</ingredient> et le <ingredient quantite=1>sucre</ingredient>. ajouter la farine, la <ingredient quantite=1>levure</ingredient> et les <ingredient quantite=1>amandes</ingredient>. bien <operation temps=6.86min espace=12>pétrir,</operation> puis <operation temps=6.86min espace=12>laisser reposer la pâte au frais pendant 1 h</operation>. découper des petits gâteaux ronds (environ 5 cm de diamètre). cuire à <recipient>four</recipient> moyen (th 4/5 - 150 ° c) pendant 15 à 20 min. <ingredient quantite=1>glaçage</ingredient>: mélanger le <ingredient quantite=1>sucre</ingredient> glace avec le <ingredient quantite=2>kirsch</ingredient> et badigeonner le milieu des petits gâteaux. garnir immédiatement avec des <ingredient quantite=1>pistaches grossièrement</ingredient> concassées et des <ingredient quantite=1>cerises confites</ingredient> tranchées. a proposer pour noël.
+]]>
+ </preparation>
+</recette>

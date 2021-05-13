@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20107">
+ <titre>Poêlée de st jacques au vinaigre de truffe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 noix de st jacques</p>
+ <p>1/2 verre à moutarde de vinaigre de truffe</p>
+ <p>1 petit pot de crème fraîche</p>
+ <p>beurre demi-sel</p>
+ <p>1 cuillère à café huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire chauffer l <recipient>poêle</recipient> antiadhésive, y</operation> <operation temps=6.86min espace=8>faire fondre le beurre avec la <ingredient quantite=1>cuillère</ingredient> d’</operation> <ingredient quantite=1>huile</ingredient>, jetez y les <ingredient quantite=1>noix de st</ingredient> jacques <operation temps=6.86min espace=8>saisissez les de chaque côté</operation>. les réserver sur assiette, déglacer la <recipient>poêle</recipient> au <ingredient quantite=1>vinaigre de truffe</ingredient>, réduire, crémer et assaisonner à votre goût, réduire à nouveau, verser le contenu de la <recipient>poêle</recipient> sur les <ingredient quantite=1>noix</ingredient> et <operation temps=6.86min espace=8>servir sur assiette</operation>. on peut également <operation temps=6.86min espace=8>faire revenir avec les <ingredient quantite=1>st</ingredient> jacques de l’ échalotte ou des champignons selon son goût</operation>
+]]>
+ </preparation>
+</recette>

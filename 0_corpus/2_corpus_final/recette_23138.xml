@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23138">
+ <titre>Roulé au saumon tartare</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>200 g de saumon fumé</p>
+ <p>1 fromage tartare</p>
+ <p>1 oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> brisée, l’ étaler sur la plaque du <recipient>four</recipient>. la tapisser du <ingredient quantite=1>fromage tartare</ingredient>, puis des plaques de <ingredient quantite=1>saumon fumé</ingredient>. enrouler la <ingredient quantite=1>pâte</ingredient> en fermant les 2 extrémités. badigeonner avec le jaune d’ <ingredient quantite=1>oeuf</ingredient>. enfourner 20 mn - th 6 blanc côte de provence
+]]>
+ </preparation>
+</recette>

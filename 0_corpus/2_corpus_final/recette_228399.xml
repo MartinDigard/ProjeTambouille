@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228399">
+ <titre>Tomates crues farcies au cottage cheese</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>2 cuillères à soupe de cottage cheese </p>
+ <p>1 petite courgette</p>
+ <p>1 poignées d’ olives vertes</p>
+ <p>6 champignons de Paris de taille moyenne</p>
+ <p>huile d’ olive</p>
+ <p>1 cuillère à café de marjolaine</p>
+ <p>1 cuillère à café d’ origan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>ouvrir les <ingredient quantite=4>tomates</ingredient> en</operation> enlevant le haut. vider l’ intérieur, saler les <ingredient quantite=4>tomates</ingredient> et les <operation temps=6.86min espace=10>laisser dégorger sur du papier</operation> absorbant. couper la <ingredient quantite=1>courgette</ingredient>, les <ingredient quantite=6>champignons</ingredient> et les <ingredient quantite=1>olives</ingredient> en très <ingredient quantite=1>petits</ingredient> dés. ajouter le <ingredient quantite=2>cottage cheese</ingredient>, l’ huile d’ <ingredient quantite=1>olive</ingredient>, la <ingredient quantite=1>marjolaine</ingredient> et l’ <ingredient quantite=1>origan</ingredient>. saler et poivrer puis mélanger le tout. <operation temps=6.86min espace=10>garnir les <ingredient quantite=4>tomates</ingredient> avec la préparation</operation>, <operation temps=6.86min espace=10>laisser au <recipient>réfrigérateur</recipient> au moins une heure avant de</operation> <operation temps=2.0min espace=10>servir</operation>.
+]]>
+ </preparation>
+</recette>

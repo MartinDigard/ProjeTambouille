@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35113">
+ <titre>Croque monsieur à la poire</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tranches de pain de mie par croque monsieur</p>
+ <p>2 cuillères à soupe de confiture "poire au chocolat maison "</p>
+ <p>1 cuillère de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+garnir le <ingredient quantite=2>pain de mie</ingredient> et poser l’ autre <ingredient quantite=1>tranche</ingredient> dessus. cuire dans l’ appareil à croque. si vous ne faite pas votre <ingredient quantite=2>confiture</ingredient>, vous remplacer par des <ingredient quantite=1>poires</ingredient> au sirop est carré de <ingredient quantite=2>chocolat</ingredient>
+]]>
+ </preparation>
+</recette>

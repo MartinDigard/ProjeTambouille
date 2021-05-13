@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72084">
+ <titre>Salade anglaise</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poires</p>
+ <p>225 g de stilton ou roquefort</p>
+ <p>2 branches de céleri </p>
+ <p>6 cerneaux de noix </p>
+ <p>quelques feuilles de salade croquante </p>
+ <p> faire une vinaigrette avec 1 cuillère à soupe de vinaigre de vin blanc ou autre, 3 cuillères à soupe d’ huile d’ olive, 1 cuillère à café de sucre </p>
+ <p>un peu de ciboulette </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>préparez la <ingredient quantite=1>vinaigrette</ingredient> dans un récipient</operation>. <operation temps=6.86min espace=8>coupez le <ingredient quantite=2>céleri</ingredient> en petits morceaux</operation>, <operation temps=6.86min espace=8>émiettez grossièrement le fromage ainsi que les</operation> <ingredient quantite=6>noix</ingredient>, <operation temps=6.86min espace=8>coupez les <ingredient quantite=2>poires</ingredient> en 8 dans le sens de la longueur après les avoir</operation> épluchées. disposez le tout sur des assiettes avec quelques <ingredient quantite=1>feuilles de salade</ingredient>. assaisonner avec la <ingredient quantite=1>vinaigrette</ingredient>, décorez avec un <ingredient quantite=1>peu de ciboulette</ingredient> et <operation temps=6.86min espace=8>servez rapidement afin que les <ingredient quantite=2>poires</ingredient> ne</operation> s’ oxydent pas. on peut <operation temps=6.86min espace=8>choisir un fromage bleu pas trop fort car le <ingredient quantite=1>stilton</ingredient> est difficile à</operation> trouver en france. du cidre
+]]>
+ </preparation>
+</recette>

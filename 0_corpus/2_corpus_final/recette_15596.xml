@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15596">
+ <titre>Soupe au concombre (Moyen-Orient) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>40 cl de bouillon de volaille</p>
+ <p>15 cl de jus de tomate</p>
+ <p>30 cl de yaourt entier nature</p>
+ <p>15 cl de crème fraîche</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 petit concombre</p>
+ <p>1 oeuf dur</p>
+ <p>sel, poivre, menthe fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients, sauf le <ingredient quantite=1>concombre</ingredient>, la <ingredient quantite=1>menthe</ingredient> et l’ <ingredient quantite=1>oeuf</ingredient> dans un mixer, et réduire en purée fine et homogène. mettre au <ingredient quantite=1>frais</ingredient> 30 minutes au moins. une heure avant de <operation temps=2.0min espace=9>servir</operation>, éplucher le <ingredient quantite=1>concombre</ingredient>, l’ épépiner, le couper en très <ingredient quantite=1>petits</ingredient> dés, le saler égèrement et le <operation temps=6.86min espace=9>laisser dégorger 1 h</operation>. hacher l’ <ingredient quantite=1>oeuf dur</ingredient>. l’ ajouter à la soupe avec les dés de <ingredient quantite=1>concombre</ingredient> égouttés, parsemer de <ingredient quantite=1>menthe</ingredient> hachée. servir glacé. le mélange mixé (<ingredient quantite=1>bouillon</ingredient>, <ingredient quantite=1>tomate</ingredient>, <ingredient quantite=1>yaourt</ingredient> et <ingredient quantite=1>crème</ingredient> fraûche) se conserve très bien au <recipient>congélateur</recipient>. il suffit, une fois décongelé, de lui rajouter le <ingredient quantite=1>concombre</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=1>menthe</ingredient>.
+]]>
+ </preparation>
+</recette>

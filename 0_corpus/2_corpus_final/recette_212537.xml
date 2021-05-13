@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212537">
+ <titre>Langue de bœuf à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 langue de bœuf</p>
+ <p>4 carottes</p>
+ <p>1 poireau</p>
+ <p>1 navet</p>
+ <p>1 oignon avec 2 clous de girofle</p>
+ <p>1 branche céleri</p>
+ <p>3 l eau</p>
+ <p>3 oignons</p>
+ <p>280 g de concentré de tomate</p>
+ <p>huile</p>
+ <p>sel</p>
+ <p>sucre</p>
+ <p>cornichons</p>
+ <p>bouquet garni (laurier et thym) </p>
+ <p>1 l ½ de bouillon de la langue</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+langue: passer la <ingredient quantite=1>langue</ingredient> sous l’ eau. mettre tous les ingrédients dans une <recipient>cocotte</recipient> - minute et <operation temps=6.86min espace=16>faire cuire 1 h à feu doux après le</operation> chuchotement. <operation temps=6.86min espace=16>sortir la <ingredient quantite=1>langue</ingredient> après évacuation de la vapeur et la peler</operation>. <operation temps=6.86min espace=16>laisser refroidir au frigo pour</operation> pouvoir la couper. sauce <ingredient quantite=1>tomate</ingredient>: <operation temps=6.86min espace=16>faire revenir les <ingredient quantite=1>oignons</ingredient> dans l’ huile</operation> et ajouter le concentré. <operation temps=10.0min espace=16>faire revenir à petit feu pendant 10 min</operation>. ajouter le <ingredient quantite=1>bouillon</ingredient>, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. cuire 1/2 h. ajouter les morceaux de <ingredient quantite=1>langues</ingredient> et les <ingredient quantite=1>cornichons</ingredient>. <operation temps=6.86min espace=16>finir de réchauffer 1/4 h</operation>.
+]]>
+ </preparation>
+</recette>

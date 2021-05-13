@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34786">
+ <titre>Tajine de poulet olives citrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulets</p>
+ <p>4 hauts de cuisses de poulet</p>
+ <p>1 boîte d’ olives vertes dénoyautées</p>
+ <p>1 boîte de citrons confits (contient environ 4 citrons ; on en trouve dans toutes les épiceries arabes) </p>
+ <p>1 doses de safran</p>
+ <p>1 oignon</p>
+ <p>1 noisette de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>oignon</ingredient> finement</operation> émincé dans une <ingredient quantite=1>noisette de beurre</ingredient>. pendant ce temps enlever la peau sur les morceaux de <ingredient quantite=4>poulet</ingredient>, puis les <operation temps=6.86min espace=9>faire revenir dans le <ingredient quantite=1>beurre</ingredient> jusqu’ à qu’ ils soient blanchis</operation>. <operation temps=2.0min espace=9>couvrir d’ eau</operation>. ajouter la <ingredient quantite=1>dose de safran</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. <operation temps=45.0min espace=9>faire cuire pendant 45 mn à feu moyen</operation>. au bout de 45 mn de cuisson cuisson ajouter les <ingredient quantite=1>olives</ingredient> préalablement égouttées et les <ingredient quantite=1>citron</ingredient> coupés en 2 ou 4. <operation temps=6.86min espace=9>faire cuire pendant environ encore 45 mn, en</operation> vérifiant à la fin la cuisson du <ingredient quantite=4>poulet</ingredient>. servir avec des pommes de terre vapeur. très bon, économique en plus. <operation temps=6.86min espace=9>servir dans un <recipient>plat</recipient> à tajine</operation>. rosé boulhaouan
+]]>
+ </preparation>
+</recette>

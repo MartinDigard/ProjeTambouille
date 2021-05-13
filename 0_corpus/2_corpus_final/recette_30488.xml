@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30488">
+ <titre>Tomates farcies au blé et au fromage</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>4 belles tomates</p>
+ <p>100 g de grains de blé</p>
+ <p>1 petit oignon finement haché</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>1 cuillère à café de thym</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>100 g de gruyère râpé (ou 50 g de gruyère + 50 g d’ un autre fromage) </p>
+ <p>25 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rincer les <ingredient quantite=1>grains de blé</ingredient>, les mettre dans une <recipient>casserole</recipient> et <operation temps=1.0min espace=13>recouvrir d’ eau</operation> froide. porter à ébullition et cuire à feu doux 20 minutes. pendant ce temps, chauffer le beurre à feu moyen et y <operation temps=6.86min espace=13>faire revenir l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation>. hors du feu, ajouté le <ingredient quantite=1>blé</ingredient> cuit, le <ingredient quantite=2>persil</ingredient>, le <ingredient quantite=1>thym</ingredient> et le fromage. saler et poivrer le tout. couper les couvercles des <ingredient quantite=4>tomates</ingredient> et en retirer la chair avec une <ingredient quantite=1>cuillère</ingredient> en laissant une parois de quelques millimètres d’ épaisseur. réserver la chair. <operation temps=6.86min espace=13>remplir les <ingredient quantite=4>tomates</ingredient> du mélange précédent et les</operation> poser dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. ajouter autour la chair et les couvercle mixés et assaisonnés (<ingredient quantite=1>sel et poivre</ingredient>). cuire à <recipient>four</recipient> chaud (190 ° c / thermostat 5) 25 à 30 mn en arrosant les <ingredient quantite=4>tomates</ingredient> du jus.
+]]>
+ </preparation>
+</recette>

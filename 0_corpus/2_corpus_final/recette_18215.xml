@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18215">
+ <titre>Lasagnes à la bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 paquet de pâtes à lasagnes</p>
+ <p>3 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 branche de céleri</p>
+ <p>1 carotte</p>
+ <p>600 g viande de boeuf haché</p>
+ <p>800 g purée de tomates</p>
+ <p>1 verre d’ eau</p>
+ <p>1 verre à moutarde de vin rouge</p>
+ <p>2 feuilles de laurier</p>
+ <p>thym</p>
+ <p>basilic</p>
+ <p>Pour la sauce Béchamel: </p>
+ <p>100 g farine</p>
+ <p>100 g beurre</p>
+ <p>1l de lait</p>
+ <p>3 pincées de noix de muscade râpée</p>
+ <p>Pour le nappage: </p>
+ <p>70 g de fromage râpé</p>
+ <p>125 g de parmesan</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez les <ingredient quantite=3>oignons</ingredient>. ecrasez l’ <ingredient quantite=2>ail</ingredient>. hachez finement <ingredient quantite=1>carotte</ingredient> et <ingredient quantite=1>céleri</ingredient>. <operation temps=6.86min espace=22>faire revenir <ingredient quantite=2>ail</ingredient> et <ingredient quantite=3>oignons</ingredient> dans un peu d’ huile d’ olive</operation>. ajouter <ingredient quantite=1>carotte</ingredient> et <ingredient quantite=1>céleri</ingredient>. puis la viande. <operation temps=6.86min espace=22>faire revenir le tout</operation>. puis ajouter le <ingredient quantite=1>vin rouge</ingredient>. <operation temps=6.86min espace=22>laisser s’</operation> évaporer. ajouter la purée de <ingredient quantite=1>tomates</ingredient>, le <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>eau</ingredient>, et les herbes. saler, poivrer, puis <operation temps=45.0min espace=22>laisser mijoter à feu doux 45 min</operation>. préparer la <ingredient quantite=1>béchamel</ingredient>: <operation temps=6.86min espace=22>faites fondre le beurre, puis, hors du feu</operation>, ajouter la farine d’ un coup. remettre sur le feu et remuer avec un fouet jusqu’ à ce que cela devienne un mélange bien lisse. ajouter le <ingredient quantite=1>lait</ingredient> peu à peu. remuer sans cesse, jusqu’ à ce que le mélange s’ épaississe. ensuite, parfumer avec la <ingredient quantite=3>muscade</ingredient>, <operation temps=0.25min espace=22>salez</operation>, <operation temps=0.5min espace=22>poivrez</operation>. <operation temps=6.86min espace=22>laisser cuire environ 5 min, feu très doux, en</operation> remuant. <operation temps=6.86min espace=22>huilez le <recipient>plat</recipient> à <ingredient quantite=1>lasagnes</ingredient></operation>. <operation temps=6.86min espace=22>posez une fine couche de <ingredient quantite=1>béchamel</ingredient>, puis: <ingredient quantite=1>lasagnes</ingredient>, bolognaise, <ingredient quantite=1>béchamel</ingredient> et <ingredient quantite=1>parmesan</ingredient>, et cela 3 fois de suite</operation>. sur la dernière couche de <ingredient quantite=1>lasagnes</ingredient>, ne mettre que de la <ingredient quantite=1>béchamel</ingredient> et recouvrir de <ingredient quantite=1>fromage râpé</ingredient>. parsemer quelques noisettes de beurre. <operation temps=25.0min espace=22>faire cuire à 200 ° c pendant environ 25 min</operation>.
+]]>
+ </preparation>
+</recette>

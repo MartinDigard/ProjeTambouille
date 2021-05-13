@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25645">
+ <titre>Tarte aux poivrons et à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>1 poivron vert</p>
+ <p>1 poivron rouge</p>
+ <p>moutarde</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. ne pas oublier de la piquer avec une fourchette. napper de <ingredient quantite=1>moutarde</ingredient> le fond de façon homogène avec trois cuillères à soupe de <ingredient quantite=1>moutarde</ingredient>. <operation temps=6.86min espace=8>faire revenir les <ingredient quantite=1>poivrons</ingredient> coupés en</operation> dés dans un <recipient>poêle</recipient> avec du beurre à feu doux. (les <ingredient quantite=1>poivrons</ingredient> doivent rester légèrement croquant). les saler et poivrer. verser les <ingredient quantite=1>poivrons</ingredient> sur la <ingredient quantite=1>pâte</ingredient>. enfourner pendant 20 - 25 mn à 210 - 220 ° c. et voilà! vin <ingredient quantite=1>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

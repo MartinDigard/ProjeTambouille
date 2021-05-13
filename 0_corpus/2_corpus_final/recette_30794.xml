@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30794">
+ <titre>Tarte aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tasses de noisettes moulues</p>
+ <p>1 tasse de sucre</p>
+ <p>1 tasse de crème</p>
+ <p>1 oeuf</p>
+ <p>1 portion de pâte brisée</p>
+ <p>du zeste de citron (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=2>noisettes moulues</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la crème et l’ <ingredient quantite=1>oeuf</ingredient> dans un grand bol (goûter au passage, c’ est déjà très bon). etaler la préparation sur la <ingredient quantite=1>pâte</ingredient> brisée. enfourner dans un <recipient>four</recipient> préchauffé à 180 degrés pendant 30 mn. surveiller pendant les 10 dernières minutes de cuisson car le temps dépend très fort du <recipient>four</recipient>. la tarte doit être brune mais non liquide (et non brûlée!). c’ est très sucré, mais c’ est très bon...
+]]>
+ </preparation>
+</recette>

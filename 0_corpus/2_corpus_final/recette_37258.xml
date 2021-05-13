@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37258">
+ <titre>Riz au lait au four (turquie) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 litre de lait</p>
+ <p>3 cuillères à soupe de riz</p>
+ <p>80 g de sucre</p>
+ <p>2 cuillères à soupe de maïzena</p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire le <ingredient quantite=3>riz</ingredient> dans de l’ eau</operation>. dissoudre le <ingredient quantite=1>sucre</ingredient> dans le <ingredient quantite=1>lait</ingredient>, <operation temps=6.86min espace=8>faire chauffer, y</operation> ajouter le <ingredient quantite=3>riz</ingredient> égoutté et cuire 10 min. battre les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient> et la maïzena (si besoin ajouter un cuillérée d’ eau), y ajouter progressivement le <ingredient quantite=1>lait</ingredient> chaud et le <ingredient quantite=3>riz</ingredient>, parfumer avec la vanille. <operation temps=6.86min espace=8>répartir dans des ramequins individuels</operation> et mettre au <recipient>bain - marie</recipient> 5 min sous le grill du <recipient>four</recipient>. (le dessus forme une peau caramélisée). servir frais.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53301">
+ <titre>Glace Café liégeois</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à soupe de café soluble</p>
+ <p>un peu d’ eau chaude</p>
+ <p>1 boîte de crème glacé au café</p>
+ <p>1 bombe de chantilly</p>
+ <p>des granulés multicolores</p>
+ <p>grains de café</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, mélanger le <ingredient quantite=2>café</ingredient> et l’ <ingredient quantite=1>eau chaude</ingredient>. <operation temps=20.0min espace=6>laisser refroidir</operation>. verser un peu de ce <ingredient quantite=2>café</ingredient> au fond des coupes. ajouter deux boules de glace. recouvrir la glace de <ingredient quantite=1>crème chantilly</ingredient>. soupoudrer de <ingredient quantite=1>granulés multicolores</ingredient> et de <ingredient quantite=2>grains de café</ingredient>.
+]]>
+ </preparation>
+</recette>

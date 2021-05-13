@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30511">
+ <titre>Omelette sucrée aux cerises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 jaunes d’ oeufs</p>
+ <p>500 g de cerises</p>
+ <p>100 g de beurre</p>
+ <p>150 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=6>faire revenir les <ingredient quantite=1>cerises</ingredient> 5 min dans une <recipient>poêle</recipient> beurrée</operation>. séparer les blancs des <ingredient quantite=8>jaunes</ingredient> des <ingredient quantite=8>oeufs</ingredient>, puis battre les <ingredient quantite=8>jaunes</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse. battre les blancs en neige bien ferme. les incorporer au mélange sucré, ajouter aussi les <ingredient quantite=1>cerises</ingredient> et bien mélanger le tout. <operation temps=6.86min espace=6>faire cuire à la <recipient>poêle</recipient> comme une omelette</operation>. ne surtout pas dénoyauter les <ingredient quantite=1>cerises</ingredient> afin qu’ elles gardent le meilleur de leur goût. vous pouvez également rajouter un peu de kirsch pour plus de goût.
+]]>
+ </preparation>
+</recette>

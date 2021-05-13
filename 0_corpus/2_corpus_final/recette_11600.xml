@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11600">
+ <titre>Gigue de chevreuil sauce vénerie</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gigue de chevreuil de 2, 5kg environ</p>
+ <p>1 feuille de laurier</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café de thym en poudre</p>
+ <p>sel, poivre </p>
+ <p>muscade</p>
+ <p>Pour la sauce: </p>
+ <p>3 échalotes</p>
+ <p>1 bouquet garni</p>
+ <p>60 g de beurre</p>
+ <p>3 côtes de cèleri</p>
+ <p>sel, poivre </p>
+ <p>muscade</p>
+ <p>200 g de parures de chevreuil</p>
+ <p>1 cuillère à soupe rase de fécule</p>
+ <p>75 cl de Bordeaux</p>
+ <p>2 cuillères à soupe de gelée de groseilles</p>
+ <p>10 cl de Cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez le <ingredient quantite=1>laurier</ingredient>, <operation temps=6.86min espace=19>mélangez - le à l’ huile avec <ingredient quantite=1>thym</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>muscade</ingredient></operation>. enduisez la gigue avec cette <ingredient quantite=2>huile</ingredient>. <operation temps=6.86min espace=19>laissez macérer deux heures</operation>. <operation temps=6.86min espace=19>faites rôtir au <recipient>four</recipient> chaud th 6</operation>, <operation temps=6.86min espace=19>retournez la gigue, n’</operation> <operation temps=6.86min espace=19>arrossez pas</operation>. <operation temps=6.86min espace=19>laissez le dessus bien</operation> caraméliser. a mi-cuisson ; <operation temps=6.86min espace=19>ajoutez 1/2 verre d’ eau</operation>. préparation de la <ingredient quantite=1>sauce</ingredient>: dans 2 noix de beurre, <operation temps=6.86min espace=19>faites revenir, sans</operation> prendre couleur, les <ingredient quantite=3>échalotes</ingredient>, les <ingredient quantite=3>côtes</ingredient> de céleri, le <ingredient quantite=1>bouquet garni</ingredient>, les <ingredient quantite=1>parures</ingredient> hachées grossièrement. <operation temps=6.86min espace=19>mouillez avec le <ingredient quantite=1>bordeaux</ingredient></operation>. <operation temps=6.86min espace=19>laissez mijoter et réduire de moitié sans</operation> <operation temps=0.25min espace=19>couvrir</operation>. passez, <operation temps=6.86min espace=19>pressez le résidu</operation>. <operation temps=6.86min espace=19>remettez sur le feu avec le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et la <ingredient quantite=1>muscade</ingredient></operation>. liez avec la <ingredient quantite=1>fécule</ingredient> délayée dans de l’ eau froide. <operation temps=6.86min espace=19>faites épaissir</operation>. <operation temps=6.86min espace=19>ajoutez le</operation> <ingredient quantite=1>cognac</ingredient> et 2c à <ingredient quantite=2>soupe</ingredient> rases de <ingredient quantite=2>gelée de groseille</ingredient>. hors du feu, <operation temps=6.86min espace=19>ajoutez le beurre par fractions</operation>, <operation temps=6.86min espace=19>fouettez - le</operation>. <operation temps=6.86min espace=19>servez la gigue en tranches</operation>, nappée de cette <ingredient quantite=1>sauce</ingredient> vénerie. lalande-de-pomerol
+]]>
+ </preparation>
+</recette>

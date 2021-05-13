@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81567">
+ <titre>Pot-au-feu de st-Jacques</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>700 g de poireaux</p>
+ <p>4 carottes</p>
+ <p>500 g de champignons frais ou en boîte </p>
+ <p>500 g de lardons fumés</p>
+ <p>1 kg de noix de St-Jacques (surgelées) </p>
+ <p>cognac</p>
+ <p>crème fraîche épaisse 200 ml</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en dés les <ingredient quantite=1>poireaux</ingredient> et les <ingredient quantite=4>carottes</ingredient>, et les <operation temps=6.86min espace=9>faire revenir dans du beurre</operation>, mettre de côté. <operation temps=6.86min espace=9>faire ensuite</operation> <operation temps=6.86min espace=9>revenir les <ingredient quantite=1>champignons</ingredient> coupés en morceaux et les <ingredient quantite=1>lardons</ingredient></operation>. faire cuire les <ingredient quantite=1>noix de st</ingredient> - jacques et ajouter deux bouchons de <ingredient quantite=1>cognac</ingredient>. mettre toute la préparation dans une <recipient>cocotte</recipient> ou <recipient>wok</recipient>, et <operation temps=6.86min espace=9>laisser mijoter jusqu’ à cuisson des légumes</operation>. rajouter la <ingredient quantite=1>crème fraîche</ingredient> au dernier moment. je le prépare la veille, et le réchauffe au dernier moment en rajoutant la <ingredient quantite=1>crème</ingredient>. on peut aussi <operation temps=6.86min espace=9>faire flamber au <ingredient quantite=1>cognac</ingredient> les <ingredient quantite=1>st</ingredient> - <ingredient quantite=1>jacques</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

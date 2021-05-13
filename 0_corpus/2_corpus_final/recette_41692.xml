@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41692">
+ <titre>Lapin aux pruneaux et à la cassonade</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceau ou 6 cuisses </p>
+ <p>1 bouteille de vin blanc</p>
+ <p>farine</p>
+ <p>sel, poivre</p>
+ <p>6 cuillères à soupe de cassonade brune</p>
+ <p>50 g de raisins secs</p>
+ <p>100 g pruneaux secs dénoyautés</p>
+ <p>30 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rouler les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> dans la farine. <operation temps=6.86min espace=9>faire dorer le <ingredient quantite=1>lapin</ingredient> dans une <recipient>casserole</recipient> en fonte avec le beurre</operation>. quand les <ingredient quantite=1>morceaux</ingredient> sont <operation temps=6.86min espace=9>brunis, saler</operation> et poivrer, puis ajouter une bonne demi <ingredient quantite=1>bouteille de vin blanc</ingredient> et la <ingredient quantite=6>cassonade brune</ingredient>. réduire à feu doux pour <operation temps=6.86min espace=9>laisser mijoter +: - 5 h</operation>. surveiller la cuisson. reverser du <ingredient quantite=1>vin</ingredient> sur le <ingredient quantite=1>lapin</ingredient> si nécessaire pour <operation temps=6.86min espace=9>faire de la sauce, la sauce</operation> doit s’ épaissir. ajouter le <ingredient quantite=1>raisin</ingredient> et les pruneaux 15 minutes avant de <operation temps=2.0min espace=9>servir</operation>. bon appétit. cuisiné la veille et réchauffé c’ est encore meilleur. <operation temps=2.0min espace=9>servir</operation> avec des croquettes et une salade vinaigrette...
+]]>
+ </preparation>
+</recette>

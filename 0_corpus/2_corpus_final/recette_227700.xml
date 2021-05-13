@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227700">
+ <titre>Risotto de fanes aux cacahuètes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>180 g de riz arborio</p>
+ <p>1 botte de fanes de radis</p>
+ <p>2 cuillère à soupe de fond de veau délayé dans 75 cl d’ eau bouillante</p>
+ <p>1 cuillère à soupe d’ ail en poudre</p>
+ <p>1 poignée de cacahuètes grillées</p>
+ <p>60 g de parmesan râpé</p>
+ <p>1 pincée de sel </p>
+ <p>1 pincée de poivre</p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire fondre le beurre dans une <recipient>sauteuse</recipient></operation>, ajouter le <ingredient quantite=1>riz</ingredient> jusqu’ à ce que les grains deviennent transparents, les <ingredient quantite=1>fanes</ingredient> ciselées finement (sans les tiges) et l’ <ingredient quantite=1>ail</ingredient>. mouiller petit à petit avec le mélange fond de veau et l’ <ingredient quantite=1>eau</ingredient>, 2 min plus tard incorporer les <ingredient quantite=1>cacahuètes</ingredient>. verser petit à petit le reste du liquide jusqu’ à absorption, en fin de cuisson ajouter le <ingredient quantite=1>parmesan</ingredient>, saler et poivrer à votre convenance. <operation temps=6.86min espace=10>servir sans</operation> attendre.
+]]>
+ </preparation>
+</recette>

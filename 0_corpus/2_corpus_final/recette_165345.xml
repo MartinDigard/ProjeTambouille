@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165345">
+ <titre>Carpaccio de Saint-Jacques très fin</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 coquilles Saint-Jacques fraiches, sans les coraux (ne pas utiliser de coquilles décongelées) </p>
+ <p>huile de noisette</p>
+ <p>vinaigre balsamique</p>
+ <p>10 à 15 g amandes éffilées</p>
+ <p>fleur de sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper en tranches fines (2 mm) les saint jacques (si votre poissonnier est sympa, il le fait!). déposer les tranches sur une assiette et arroser d’ huile de <ingredient quantite=1>noisette</ingredient>, ajouter un filet de <ingredient quantite=1>vinaigre balsamique</ingredient>. saler à la <ingredient quantite=1>fleur de sel</ingredient> et poivrer. au moment de <operation temps=2.0min espace=7>servir</operation> <operation temps=6.86min espace=7>faire dorer les amandes</operation> effilées dans une <recipient>poêle</recipient> sans matière grasse et les disposer sur les <ingredient quantite=6>coquilles</ingredient>. bon appetit! pour moi c’ est champagne, mais je suppose qu’ il doit y avoir un vin plus adapté, j’ attends vos conseils
+]]>
+ </preparation>
+</recette>

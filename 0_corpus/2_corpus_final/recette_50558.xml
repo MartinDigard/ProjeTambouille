@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50558">
+ <titre>Moules thaï</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de moules</p>
+ <p>1 piment vert</p>
+ <p>1 piment rouge</p>
+ <p>3 échalotes</p>
+ <p>60 g de gingembre frais</p>
+ <p>15 cl de vin blanc</p>
+ <p>5 cl de sauce soja</p>
+ <p>20 cl de lait de coco</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez les <ingredient quantite=1>moules</ingredient>. emincez finement les <ingredient quantite=3>échalotes</ingredient>, les <ingredient quantite=1>piments</ingredient> et le gingembre puis <operation temps=6.86min espace=11>faites - les</operation> <operation temps=6.86min espace=11>revenir dans l’</operation> huile pendant quelques minutes. mouillez de <ingredient quantite=1>vin blanc</ingredient> et de sauce <ingredient quantite=1>soja</ingredient>, <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> puis <operation temps=6.86min espace=11>versez les <ingredient quantite=1>moules</ingredient></operation>. <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=6.86min espace=11>laissez cuire sur feu</operation> vif jusqu’ à ce que les <ingredient quantite=1>moules</ingredient> s’ ouvrent. <operation temps=6.86min espace=11>versez le lait de <ingredient quantite=1>coco</ingredient>, couvrez à nouveau</operation> et <operation temps=1.0min espace=11>laissez cuire 1 minutes</operation>. <operation temps=2.0min espace=11>servez aussitôt</operation> et <operation temps=5.0min espace=11>régalez -vous</operation>. <recipient>plat</recipient> surprenant mais délicieux. s’ il vous en reste, <operation temps=6.86min espace=11>dégustez - les le lendemain froides à l’</operation> apéro c’ est une merveille! <ingredient quantite=1>vin blanc</ingredient> sec
+]]>
+ </preparation>
+</recette>

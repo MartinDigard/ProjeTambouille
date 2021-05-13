@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65452">
+ <titre>Courgems (courgette aux nems) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 courgette moyenne</p>
+ <p>4 gros nems bon marché</p>
+ <p>éventuellement 1 oignon</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>un peu de sauce pour nems (sinon, de la sauce aigre douce fera l’ affaire) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez la courgette et <operation temps=6.86min espace=8>coupez - la en petits morceaux</operation>. <operation temps=6.86min espace=8>coupez l’ <ingredient quantite=1>oignon</ingredient> (si vous en</operation> <operation temps=6.86min espace=8>mettez un</operation>). <operation temps=6.86min espace=8>mettez la courgette et l’ <ingredient quantite=1>oignon</ingredient> à chauffer dans une <recipient>poêle</recipient></operation>. perso, je ne rajoute rien car j’ ai des poêles anti-adhérentes mais sinon, <operation temps=6.86min espace=8>mettez un peu d’</operation> huile dans le fond de la <recipient>poêle</recipient>. <operation temps=6.86min espace=8>coupez les <ingredient quantite=4>nems</ingredient> en rondelles</operation>. une fois que la courgette est presque cuite, <operation temps=6.86min espace=8>ajoutez vos rondelles de <ingredient quantite=4>nems</ingredient></operation>. <operation temps=5.0min espace=8>laissez cuire encore 5 minutes à feu vif</operation>. sur la fin de la cuisson, <operation temps=6.86min espace=8>baissez le feu</operation> et ajoutez un <ingredient quantite=4>peu de sauce pour nems</ingredient> (ou de <ingredient quantite=1>sauce</ingredient> aigre douce si vous n’ en avez pas) et une <ingredient quantite=1>cuillère à soupe de crème</ingredient> fraiche. <operation temps=6.86min espace=8>tournez pour que le <recipient>plat</recipient> soit bien homogène</operation>. c’ est prêt! idéal pour les soirs où on veut manger des légumes sans se casser la tête... d’ ailleurs, c’ est un de ces soirs -là que la recette fut inventée!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222030">
+ <titre>Risotto au saumon frais et courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de riz arborio pour risotto</p>
+ <p>2 petites courgettes</p>
+ <p>1 oignon</p>
+ <p>3 pavés de saumon frais</p>
+ <p>15 cl de vin blanc sec</p>
+ <p>3 cubes de volaille dégraissés dans 1, 2 l d’ eau bouillante</p>
+ <p>1 bouquet de basilic frais</p>
+ <p>1 sachet de parmesan râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer l’ <ingredient quantite=1>oignon</ingredient> et découper les <ingredient quantite=2>courgettes</ingredient> en <ingredient quantite=1>petits</ingredient> cubes. les <operation temps=6.0min espace=9>faire dorer 6 min dans une <recipient>cocotte</recipient> à feu doux avec un filet d’ huile d’ olive</operation>. ajouter le <ingredient quantite=1>riz</ingredient> et bien remuer durant 2 min afin qu’ il devienne un peu transparent. mouiller avec le <ingredient quantite=1>vin blanc</ingredient> et remuer jusqu’ à absorption. mouiller avec le bouillon à raison d’ une louche à la fois et remuer sans cesse jusqu’ à ce que le <ingredient quantite=1>riz</ingredient> absorbe. renouveler l’ opération jusqu’ à ce que le <ingredient quantite=1>riz</ingredient> soit moelleux et cuit. ajouter le <ingredient quantite=3>saumon</ingredient> coupé en cubes ainsi que le <ingredient quantite=3>basilic frais</ingredient> émincé et prolonger la cuisson 5 minutes. terminer en ajoutant le <ingredient quantite=1>parmesan</ingredient>. bien remuer et <operation temps=2.0min espace=9>servir aussitôt</operation>. le <ingredient quantite=1>risotto</ingredient> doit être crémeux. gaillac perlé
+]]>
+ </preparation>
+</recette>

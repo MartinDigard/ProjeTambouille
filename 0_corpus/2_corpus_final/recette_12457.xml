@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12457">
+ <titre>Beignets d’ acacia</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 l de lait </p>
+ <p>100 g de farine</p>
+ <p>2 oeufs</p>
+ <p>sucre</p>
+ <p>huile</p>
+ <p>2 cuillères à soupe d’ eau de fleur d’ oranger pour parfumer</p>
+ <p>rameaux de fleurs d’ acacia</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire une pâte à crêpes épaisse avec les <ingredient quantite=2>oeufs</ingredient>, la farine, le lait</operation> ; ajouter l’ huile et l’ <ingredient quantite=2>eau de fleur</ingredient> d’ <ingredient quantite=2>oranger</ingredient>. <operation temps=6.86min espace=8>laisser reposer un moment</operation>. prendre alors un petit rameau d’ <ingredient quantite=1>acacia</ingredient> (non lavé car sinon la <ingredient quantite=2>fleur</ingredient> perd son parfum, secouer seulement), le tremper dans la pâte et cuire à la <recipient>poêle</recipient> préalablement huilée et très chaude. procéder comme pour les crêpes: cuire d’ un côté, et retourner pour cuire l’ autre côté. attention, c’ est très bourratif!
+]]>
+ </preparation>
+</recette>

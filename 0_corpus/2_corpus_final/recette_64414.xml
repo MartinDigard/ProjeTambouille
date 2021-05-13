@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64414">
+ <titre>Jambon aux poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tranches de jambon</p>
+ <p>4 blancs de poireaux</p>
+ <p>2 cuillères à soupe crème fraîche épaisse</p>
+ <p>30 g de beurre</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>50 cl de lait</p>
+ <p>gruyère (facultatif) </p>
+ <p>Sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en lamelles les <ingredient quantite=4>poireaux</ingredient> puis les <operation temps=20.0min espace=13>faire fondre dans une <recipient>cocotte</recipient> (feu doux) pendant 20 min</operation>. ajouter la <ingredient quantite=2>crème</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. rouler les <ingredient quantite=4>poireaux</ingredient> dans chaque <ingredient quantite=6>tranche de jambon</ingredient>, les déposer dans un <recipient>plat</recipient> à gratin. préchauffer le <recipient>four</recipient> à 220 ° c (thermostat 7 - 8). dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=13>faire fondre le beurre (feu doux)</operation> puis ajouter la farine, mélanger, puis le lait, le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=6.86min espace=13>laisser chauffer tout en</operation> mélangeant jusqu’ à <operation temps=6.86min espace=13>obtenir une béchamel</operation>. <operation temps=6.86min espace=13>recouvrir les <ingredient quantite=6>jambons</ingredient> aux <ingredient quantite=4>poireaux</ingredient> de cette sauce</operation> et soupoudrer de gruyère. cuire au <recipient>four</recipient> pendant 35 min. accompagner de riz.
+]]>
+ </preparation>
+</recette>

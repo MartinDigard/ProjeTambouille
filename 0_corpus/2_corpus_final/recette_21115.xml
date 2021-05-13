@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21115">
+ <titre>Mousse glacée aux pommes et cidre</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de pommes</p>
+ <p>25 cl de crème fraîche</p>
+ <p>20 cl de cidre brut</p>
+ <p>3 blancs d’ oeufs</p>
+ <p>150 g de sucre en poudre</p>
+ <p>50 g de sucre glace</p>
+ <p>1/2 cuillère à café de cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et <operation temps=6.86min espace=12>coupez les <ingredient quantite=1>pommes</ingredient> en morceaux</operation>, <operation temps=6.86min espace=12>retirez les pépins</operation>. <operation temps=6.86min espace=12>faites - les</operation> compoter à la <recipient>casserole</recipient> avec le <ingredient quantite=1>sucre en poudre</ingredient> et le <ingredient quantite=1>cidre</ingredient> pendant 20 min en remuant. une fois cuites, mixez - les en purée et <operation temps=6.86min espace=12>ajoutez la <ingredient quantite=1>cannelle</ingredient></operation>. <operation temps=20.0min espace=12>laissez refroidir</operation>. placez les blancs d’ <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient> glace dans un <recipient>saladier</recipient> au <recipient>bain - marie</recipient>, <operation temps=6.86min espace=12>fouettez en neige, vous</operation> <operation temps=6.86min espace=12>obtenez une meringue assez ferme et brillante</operation>. <operation temps=6.86min espace=12>incorporez - la</operation> délicatement à la compote de <ingredient quantite=1>pommes</ingredient>. fouettez la <ingredient quantite=1>crème fraîche</ingredient> en chantilly et incorporez - la au tout. <operation temps=30.0min espace=12>faites prendre la <ingredient quantite=1>glace</ingredient> en <recipient>sorbetière</recipient> ou placez au <recipient>congélateur</recipient> (remuez à la fourchette toutes les 30 min pour</operation> éviter les cristaux).
+]]>
+ </preparation>
+</recette>

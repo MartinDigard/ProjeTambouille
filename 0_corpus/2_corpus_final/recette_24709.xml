@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24709">
+ <titre>Soupe orientale à l’ agneau, aux pois chiches et lentilles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>275 g d’ épaule d’ agneau en morceaux</p>
+ <p>150 g de pois chiches précuits</p>
+ <p>150 g de lentilles</p>
+ <p>80 g de riz cuit</p>
+ <p>20 g de farine</p>
+ <p>1, 25 l d’ eau</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>2 oeufs</p>
+ <p>1 cuillère à café de poivre </p>
+ <p>2 cubes de bouillon</p>
+ <p>2 doses de safran</p>
+ <p>1 bouquet de persil</p>
+ <p>sel </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la viande en <ingredient quantite=1>morceaux</ingredient>. ciseler l’ oignon et le placer dans une <recipient>cocotte</recipient> avec la viande, le <ingredient quantite=1>concentré de tomate</ingredient>, les <ingredient quantite=1>lentilles</ingredient>, le <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=2>safran</ingredient>, les <ingredient quantite=2>cubes de bouillon</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. porter à ébullition et <operation temps=6.86min espace=15>laisser cuire 1 h 30 en</operation> retirant régulièrement l’ écume qui se forme à la surface. ajouter le <ingredient quantite=1>riz</ingredient> et les <ingredient quantite=1>pois chiches</ingredient>. dans un bol, mélanger la farine avec un peu de <ingredient quantite=2>bouillon</ingredient>. verser le tout dans une <recipient>casserole</recipient> et y incorporer le <ingredient quantite=1>persil</ingredient> haché. <operation temps=15.0min espace=15>faire mijoter pendant 15 minutes en</operation> remuant régulièrement et verser le tout dans le <ingredient quantite=2>bouillon</ingredient> de gigot. battre les <ingredient quantite=2>oeufs</ingredient> en omelette et les ajouter à la viande. <operation temps=6.86min espace=15>servir la soupe avec les <ingredient quantite=1>morceaux</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

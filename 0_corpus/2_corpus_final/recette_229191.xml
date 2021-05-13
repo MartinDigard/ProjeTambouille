@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229191">
+ <titre>Pavé de saumon aux herbes fraîches</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pavés de saumon</p>
+ <p>2 échalotes</p>
+ <p>1 cuillère à café de gros sel</p>
+ <p>2 brins de ciboulette fraîche</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de crème fraiche entière</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient> chaude, <operation temps=6.86min espace=7>faire chauffer l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, l’ <ingredient quantite=1>huile</ingredient> chaude y</operation> positionner les pavés de <ingredient quantite=2>saumon</ingredient>, ajouter par dessus les <ingredient quantite=2>échalotes</ingredient> et la <ingredient quantite=2>ciboulette</ingredient> hachées finement et le <ingredient quantite=1>gros sel</ingredient>. <operation temps=10.0min espace=7>laisser le tout 10 min à feux doux</operation>. après les 10 min, retourner les pavés et <operation temps=10.0min espace=7>laisser encore 10 min à feux toujours doux</operation>. une fois le tout cuit, <operation temps=6.86min espace=7>faire fondre la <ingredient quantite=1>crème</ingredient> et servir</operation>. il est important pour les saveurs que les herbes soient <ingredient quantite=1>fraiches</ingredient>.
+]]>
+ </preparation>
+</recette>

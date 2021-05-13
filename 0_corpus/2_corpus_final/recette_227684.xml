@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227684">
+ <titre>Magrets, sauce café</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 magrets de canard </p>
+ <p>3 cuillères à soupe de café fort </p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>2 cuillères à soupe de vinaigre balsamique</p>
+ <p>1 cuillère à café de fond de volaille en poudre</p>
+ <p>1 pincée de quatre-épices</p>
+ <p>1 pincée de piment d’ Espelette</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+entailler la peau des <ingredient quantite=2>magrets</ingredient> en croisillons. saler, poivrer. les <operation temps=25.0min espace=12>faire cuire 25 min environ à feu moyen côté peau dans une <recipient>poêle</recipient> anti-adhésive sans matière grasse</operation>. vider la graisse, retourner les <ingredient quantite=2>magrets</ingredient> et les <operation temps=5.0min espace=12>laisser cuire 5 min sur l’ autre face</operation>. <operation temps=6.86min espace=12>laisser reposer dans la <recipient>poêle</recipient> hors du feu à couvert (papier alu</operation>). délayer le <ingredient quantite=1>fond de volaille</ingredient> dans le <ingredient quantite=3>café</ingredient>. ajouter le <ingredient quantite=2>vinaigre balsamique</ingredient>, une pincée de <ingredient quantite=1>quatre-épices</ingredient> et de <ingredient quantite=1>piment</ingredient> d’ <ingredient quantite=1>espelette</ingredient>. <operation temps=6.86min espace=12>faire légèrement</operation> caraméliser le <ingredient quantite=2>miel</ingredient> dans une <recipient>casserole</recipient>. déglacer avec le mélange au <ingredient quantite=3>café</ingredient> et <operation temps=6.86min espace=12>faire bouillir une minute</operation>. découper les <ingredient quantite=2>magrets</ingredient> en fines tranches et les disposer sur les assiettes chaudes. ajouter un trait de sauce et la garniture (purée de patates douces par exemple). côtes-du-rhône rouge
+]]>
+ </preparation>
+</recette>

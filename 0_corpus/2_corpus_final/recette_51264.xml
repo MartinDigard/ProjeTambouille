@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51264">
+ <titre>Papillote de poisson à la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de poissons blancs (cabillaud, perche, sole, etc..) </p>
+ <p>2 grosses échalotes</p>
+ <p>1/2 citron</p>
+ <p>25 cl de crème fraîche épaisse</p>
+ <p>sel, poivre</p>
+ <p>4 feuilles de papier aluminium</p>
+ <p>En option: julienne de légumes surgelées ou champignons de Paris émincés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). hachez les <ingredient quantite=2>échalotes</ingredient> puis <operation temps=6.86min espace=9>mélangez - les à la <ingredient quantite=1>crème</ingredient> et au jus de</operation> <ingredient quantite=1>citron</ingredient>, <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. sur chaque <ingredient quantite=1>feuille</ingredient> d’ <ingredient quantite=4>aluminium</ingredient>, déposez un <ingredient quantite=1>filet de poisson</ingredient>, <operation temps=6.86min espace=9>nappez de la prépration à la</operation> <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=9>fermez les papillotes</operation>. variante: avant de déposer le <ingredient quantite=1>filet de poisson</ingredient>, faites un lit de <ingredient quantite=1>julienne de légumes ou de champignons</ingredient>. <operation temps=25.0min espace=9>mettez les papillotes au <recipient>four</recipient> pendant 20 à 25 minutes selon l’</operation> épaisseur des <ingredient quantite=4>filets de poisson</ingredient>. <operation temps=6.86min espace=9>servir avec du riz ou de simples pommes de terre à l’ eau</operation>.
+]]>
+ </preparation>
+</recette>

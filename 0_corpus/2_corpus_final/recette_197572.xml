@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="197572">
+ <titre>Smoothie à la courgette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>4 petites courgettes vertes</p>
+ <p>1 yaourt pistache</p>
+ <p>sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+bien laver les <ingredient quantite=4>courgettes</ingredient>, les couper en <ingredient quantite=1>petits</ingredient> tranches, les <operation temps=2.0min espace=5>faire bouillir dans l’ eau 2 minutes</operation>. les <operation temps=6.86min espace=5>faire égoutter et les</operation> congeler pendant au moins quatre heures. mixer les <ingredient quantite=4>courgettes</ingredient> préparer dans un <recipient>mixeur</recipient> avec 1 <ingredient quantite=1>yaourt</ingredient>, le lait et le <ingredient quantite=1>sucre</ingredient> selon le goût.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13441">
+ <titre>Navets glacés</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de petits navets ronds</p>
+ <p>70g de beurre</p>
+ <p>1 pincée de sucre en poudre</p>
+ <p>vinaigre de vin</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez les <ingredient quantite=1>navets</ingredient>, <operation temps=6.86min espace=7>coupez - les s’ ils sont un peu gros</operation>. lavez - les. plongez - les juste 5mn dans de l’ eau en ébullition. <operation temps=6.86min espace=7>egoutez - les</operation>. <operation temps=6.86min espace=7>faire fondre 30 g de beurre dans une <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=7>mettez - y les <ingredient quantite=1>navets</ingredient> à</operation> dorer légèrement sur toutes leurs faces, à feu très doux. <operation temps=6.86min espace=7>ajoutez - y 3 verres d’ eau, du <ingredient quantite=1>sel</ingredient>, du poivre</operation>. <operation temps=0.25min espace=7>couvrez</operation> et <operation temps=40.0min espace=7>laissez cuire de 30 à 40 mn selon la grosseur des <ingredient quantite=1>navets</ingredient></operation>. <operation temps=6.86min espace=7>egouttez les <ingredient quantite=1>navets</ingredient> dès qu’ ils sont</operation> cuits mais encore fermes. <operation temps=6.86min espace=7>videz le jus</operation> resté dans la <recipient>cocotte</recipient>. a la place, <operation temps=6.86min espace=7>mettez - y 40 g de beurre à</operation> fondre, les <ingredient quantite=1>navets</ingredient> égouttés et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=7>laissez colorer légèrement</operation>. ajoutez quelques gouttes de <ingredient quantite=1>vinaigre de vin</ingredient>. <operation temps=6.86min espace=7>présentez avec des fines herbes</operation> hachées.
+]]>
+ </preparation>
+</recette>

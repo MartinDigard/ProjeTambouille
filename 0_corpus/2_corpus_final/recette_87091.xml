@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87091">
+ <titre>Poulet provençal aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>500 g de sauce tomate cuisinée</p>
+ <p>4 carottes</p>
+ <p>1 aubergine</p>
+ <p>1 poivron</p>
+ <p>2 petites courgettes</p>
+ <p>200 g d’ olives vertes</p>
+ <p>200 g de champignons</p>
+ <p>12 cl de vin blanc </p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre </p>
+ <p>1 petit oignon émincé (facultatif) </p>
+ <p>10 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper <ingredient quantite=4>carottes</ingredient>, <ingredient quantite=1>aubergine</ingredient> et <ingredient quantite=1>courgette</ingredient> en rondelles. découper le <ingredient quantite=1>poivron</ingredient> et les <ingredient quantite=1>champignons</ingredient> en lanières. dans un peu d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, les <operation temps=6.86min espace=16>faire revenir dans un <recipient>wok</recipient> 10 min,</operation> et ajouter un peu d’ <ingredient quantite=1>eau</ingredient>. ajouter la sauce tomate et les <ingredient quantite=1>olives</ingredient> (et l’ <ingredient quantite=1>oignon</ingredient> facultatif). réserver dans un <recipient>plat</recipient>. couper le <ingredient quantite=4>poulet</ingredient> en fines lamelles. les <operation temps=6.86min espace=16>faire dorer dans le <recipient>wok</recipient> non lavé avec un peu d’ <ingredient quantite=2>huile</ingredient></operation>. lorsque le <ingredient quantite=4>poulet</ingredient> est doré, déglacer au <ingredient quantite=1>vin blanc</ingredient> puis ajouter la sauce. assaisonner à votre goût. <operation temps=40.0min espace=16>laisser cuire à <ingredient quantite=1>petit</ingredient> bouillon pendant 40 min (minimum) en</operation> remuant de temps en temps. <operation temps=6.86min espace=16>servir avec du riz <ingredient quantite=1>blanc</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

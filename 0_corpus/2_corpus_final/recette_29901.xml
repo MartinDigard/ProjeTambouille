@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29901">
+ <titre>Salade fraîcheur de coques au riz</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de coques surgelées</p>
+ <p>1 cuillère à soupe de crème d’ ail</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de ciboulette ciselée</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>20 cl d’ huile</p>
+ <p>300 g de riz cuit</p>
+ <p>2 cuillères à soupe de persil</p>
+ <p>ciboulette hachée</p>
+ <p>coriandre ciselée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=1>poivrons</ingredient>, puis les épépiner et les détailler en petits cubes. dans une <recipient>sauteuse</recipient> huilée bien chaude, <operation temps=6.86min espace=14>faire revenir les</operation> <ingredient quantite=1>poivrons</ingredient> et <operation temps=5.0min espace=14>laisser cuire 5 min en</operation> remuant régulièrement. hors du feu, ajouter le <ingredient quantite=1>riz cuit</ingredient>, puis bien mélanger et saupoudrer de <ingredient quantite=2>persil</ingredient>, <ingredient quantite=1>ciboulette</ingredient> et <ingredient quantite=1>coriandre</ingredient> ciselés. verser la préparation dans un <recipient>plat</recipient> de service, puis <operation temps=3.0min espace=14>faire pocher les <ingredient quantite=1>coques</ingredient> 3 min dans l’ eau bouillante</operation>. les égoutter, puis les déposer dans un <recipient>saladier</recipient> et les napper de <ingredient quantite=1>crème</ingredient> à l’ <ingredient quantite=1>ail</ingredient> avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, la <ingredient quantite=1>ciboulette</ingredient> et bien mélanger l’ ensemble. incorporer les <ingredient quantite=1>coques</ingredient> au <ingredient quantite=1>riz</ingredient>, puis servir.
+]]>
+ </preparation>
+</recette>

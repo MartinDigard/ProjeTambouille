@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72103">
+ <titre>Flan au chocolat délicieux de Marine</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>75 g de sucre</p>
+ <p>3 cuillères soupe de cacao en poudre</p>
+ <p>1 pincée de sel</p>
+ <p>1 oeuf + 2 jaunes</p>
+ <p>50 cl de lait</p>
+ <p>110 g de chocolat à dessert</p>
+ <p>2 cuillères à soupe de beurre</p>
+ <p>1 cuillère à café de café soluble</p>
+ <p>1 cuillère à café d’ extrait de vanille</p>
+ <p>2 cuillères à soupe de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mettre le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=3>cacao poudre</ingredient>, maïzena et <ingredient quantite=1>sel</ingredient>. fouetter l’ <ingredient quantite=1>oeuf</ingredient> et les <ingredient quantite=1>jaunes</ingredient> dans un bol. verser dans la préparation au <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=15>faire chauffez le lait sans</operation> <operation temps=6.86min espace=15>laisser bouillir</operation>. retirer du feu. verser 12, 5 cl de lait dans la préparation aux <ingredient quantite=1>oeufs</ingredient>, en fouettant constamment. verser cette préparation dans le lait restant dans la <recipient>casserole</recipient>. remettre la <recipient>casserole</recipient> sur le feu et <operation temps=6.0min espace=15>laisser chauffez 6 min</operation>. retirer du feu et ajouter le <ingredient quantite=1>chocolat</ingredient> en morceaux, le <ingredient quantite=2>beurre</ingredient> le <ingredient quantite=1>café</ingredient> et la <ingredient quantite=1>vanille</ingredient>. mélanger. transvaser la crème dans des ramequins ou un <recipient>saladier</recipient>. <operation temps=20.0min espace=15>laisser refroidir</operation> puis mettre au <recipient>réfrigérateur</recipient> au moins 1 h. pudding classique des usa.
+]]>
+ </preparation>
+</recette>

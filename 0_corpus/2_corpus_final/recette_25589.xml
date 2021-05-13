@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25589">
+ <titre>Quiche strasbourgeoise sans pâte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 g de farine</p>
+ <p>12 cl de lait écrémé</p>
+ <p>1 oeuf</p>
+ <p>45 g de jambon fumé ou 45 g de saucisse de Strasbourg</p>
+ <p>20 g (4 cuillères à café rases) de fromage râpé</p>
+ <p>quelques râpures de noix de muscade</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+réchauffer le <recipient>four</recipient> thermostat 7. délayer la farine avec le lait fraoid. ajouter l’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=1>jambon</ingredient>, (ou la saucisse) coupé en dés, le gruyère, la <ingredient quantite=1>muscade</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. mettre dans un petit <recipient>moule</recipient> à quiche. <operation temps=35.0min espace=11>faire cuire au <recipient>four</recipient> environ 35 mn pour plus de convives</operation> multiplier les quantités. pour 4 un <recipient><recipient>moule</recipient> à manqué</recipient> convient très bien.
+]]>
+ </preparation>
+</recette>

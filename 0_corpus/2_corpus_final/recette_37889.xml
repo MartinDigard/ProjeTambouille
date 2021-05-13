@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37889">
+ <titre>Sandwich Bacon et basilic</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>ciabatta (une demie ou moins ou plus, en fonction de l’ appétit et de la taille du pain à l’ achat!) </p>
+ <p>huile d’ olive vierge</p>
+ <p>moutarde de Dijon</p>
+ <p>3 à 4 tranches de bacon</p>
+ <p>1 à 2 tomates </p>
+ <p>feuilles de basilic entières</p>
+ <p>quelques tranches de fromage à pâte dure (Gouda, Édam, etc.) </p>
+ <p>feuilles de salade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez le pain en deux</operation>, <operation temps=6.86min espace=8>arrosez - le d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient> et tartinez - le de <ingredient quantite=1>moutarde</ingredient></operation>. <operation temps=6.86min espace=8>cuisez le <ingredient quantite=3>bacon</ingredient> " à sec ", sans</operation> ajouter d’ huile (ou très très peu si ça attache!) <operation temps=6.86min espace=8>coupez les <ingredient quantite=1>tomates</ingredient> en rondelles, le <ingredient quantite=1>fromage</ingredient> en</operation> <ingredient quantite=3>tranches</ingredient> et lavez vos <ingredient quantite=1>feuilles de salade</ingredient>. placez le <ingredient quantite=3>bacon</ingredient> sur le pain moutardé puis les <ingredient quantite=1>tomates</ingredient>, le <ingredient quantite=1>basilic entier</ingredient>, le <ingredient quantite=1>fromage</ingredient> et enfin la <ingredient quantite=1>salade</ingredient>. appuyez bien sur le sandwich pour que la garniture ne s’ échappe pas, et vous voilà prêt à savourer un délicieux et méga - gras sandwich (c’ est ça qui est bon)!
+]]>
+ </preparation>
+</recette>

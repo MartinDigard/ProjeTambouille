@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44130">
+ <titre>Soupe espagnole</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>chorizo (doux ou fort) </p>
+ <p>jambon de bayonne ou serrano</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 petit oignon</p>
+ <p>3 poignées de vermicelle potage</p>
+ <p>2 cuillères à soupe de tomate en coulis</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir le <ingredient quantite=1>chorizo</ingredient> et le <ingredient quantite=1>jambon</ingredient> coupés en <ingredient quantite=1>petits</ingredient> morceaux</operation>. ensuite, <operation temps=6.86min espace=7>faire revenir l’ <ingredient quantite=1>oignon</ingredient> blondi, mais pas doré</operation>. ajouter la <ingredient quantite=2>tomate</ingredient>, et <operation temps=5.0min espace=7>laisser revenir 5 min en</operation> ajoutant un peu d’ eau si necessaire. incorporer aussi les 2 <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> écrasées, saler, poivrer, et <operation temps=6.86min espace=7>couvrir avec 1 litre d’ eau</operation>. <operation temps=6.86min espace=7>faire cuire à feu doux, pendant 10 min,</operation> puis ajouter les <ingredient quantite=3>vermicelles</ingredient>. dès que ça commence à <operation temps=20.0min espace=7>bouillir</operation>, arrêter le feu, et <operation temps=10.0min espace=7>couvrir 10 min (on</operation> peut ausssi changer les <ingredient quantite=3>vermicelles</ingredient> par des pommes de terre coupées en tranches de 2 mm). bon appétit! recette ancienne d’ extremadure. rouge
+]]>
+ </preparation>
+</recette>

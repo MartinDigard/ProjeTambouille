@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84279">
+ <titre>Sandwich du randonneur</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 baguette bien cuite</p>
+ <p>4 rondelles de rosette</p>
+ <p>4 rondelles de mortadelle</p>
+ <p>1 petite boîte de thon au naturel</p>
+ <p>1 pincée de thym en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la demi <ingredient quantite=1>baguette</ingredient> en deux, dans le sens de la longueur. déposer en son centre les quatre <ingredient quantite=4>rondelles de mortadelle</ingredient>. déposer sur la <ingredient quantite=4>mortadelle</ingredient> les quatre <ingredient quantite=4>rondelles de rosette</ingredient>. enfin déposer sur la <ingredient quantite=4>rosette</ingredient> le <ingredient quantite=1>thon</ingredient> préalablement émietté. <ingredient quantite=1>bien</ingredient> refermer le sandwich sur lui-même. le <operation temps=6.86min espace=5>réouvrir immédiatement, puis le</operation> parsemer avec la pincée de <ingredient quantite=1>thym en poudre</ingredient>. refermer le sandwich et déguster. vin rouge - saint-chinian
+]]>
+ </preparation>
+</recette>

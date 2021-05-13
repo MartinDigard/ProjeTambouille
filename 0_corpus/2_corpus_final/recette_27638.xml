@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27638">
+ <titre>Homard rôti au beurre de crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 beaux homards de 800 g chaque</p>
+ <p>6 grosses crevettes roses</p>
+ <p>1 carotte</p>
+ <p>1 branche de céleri</p>
+ <p>1 oignon</p>
+ <p>200 g de beurre</p>
+ <p>5 cl de vinaigre</p>
+ <p>5 cl de vin blanc</p>
+ <p>1 cuillerée à café de cognac</p>
+ <p>1 citron</p>
+ <p>1 bouquet garni</p>
+ <p>poivre noir en grains</p>
+ <p>poivre de Cayenne</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>pelez la <ingredient quantite=1>carotte</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation>. <operation temps=6.86min espace=14>coupez - les en morceaux, ainsi que le <ingredient quantite=1>céleri</ingredient></operation>. faites bouillir 2 l d’ eau avec ces ingrédients, le bouqute <ingredient quantite=1>garni</ingredient>, le poivre en <ingredient quantite=1>grains</ingredient>, le <ingredient quantite=1>vinaigre</ingredient> et le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=15.0min espace=14>faites cuire les homards 15 minutes dans le court-bouillon</operation> frémissant. <operation temps=6.86min espace=14>laissez - les refroidir dans le court-bouillon</operation>. pendant ce temps, <operation temps=6.86min espace=14>décortiquez les <ingredient quantite=6>crevettes</ingredient></operation>. <operation temps=6.86min espace=14>mixez la chair finement,</operation> puis <operation temps=6.86min espace=14>mélangez - la avec le beurre mou, le <ingredient quantite=1>cognac</ingredient>, une pincée de poivre de <ingredient quantite=1>cayenne</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=6.86min espace=14>coupez les homards en deux dans la longueur</operation>, <operation temps=6.86min espace=14>beurrez la chair avec le beurre de <ingredient quantite=6>crevettes</ingredient></operation>. passez - les sous le grill 3 minutes sur chaque face. <operation temps=6.86min espace=14>servez les homards grillés avec le beurre</operation> restant et le <ingredient quantite=1>citron</ingredient> coupé en quartiers. on peut remplacer les <ingredient quantite=6>crevettes</ingredient> par le corail des têtes des homards.
+]]>
+ </preparation>
+</recette>

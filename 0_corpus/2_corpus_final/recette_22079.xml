@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22079">
+ <titre>Souflé au saumon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de saumon en boîte</p>
+ <p>100 g de Gruyère râpé</p>
+ <p>4 cuillères à soupe de Maïzena</p>
+ <p>3 oeufs</p>
+ <p>1/4 de litre, de lait</p>
+ <p>sel poivre</p>
+ <p>un peu de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la maïzena dans le <ingredient quantite=1>lait</ingredient> froid, porter à ébullition. retirer du feu, ajouter 3 jaunes d’ oeufs un à un, le gruyère et le <ingredient quantite=1>saumon</ingredient>, <ingredient quantite=1>sel poivre muscade</ingredient>. battre les blancs en neige très ferme, et les incorporer au mélange. mettre dans un <recipient>moule</recipient> à souflé bien beurré et <operation temps=30.0min espace=9>laisser cuire à <recipient>four</recipient> moyen (170 ° c) 30 mn</operation>. lorsque le souflé est bien monté, le sortir et déguster de suite.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13037">
+ <titre>Hamburger de Salford</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pain a hamburger de taille moyenne</p>
+ <p>1 steack de boeuf</p>
+ <p>quelques feuilles de salades</p>
+ <p>2 tomates cerises</p>
+ <p>1 tranche de mozzarella</p>
+ <p>1 tranche de gruyère</p>
+ <p>une lichette de roquefort</p>
+ <p>sel, poivre a votre convenance</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>mettez le <ingredient quantite=1>steack</ingredient> dans une poele</operation> et <operation temps=6.86min espace=9>faites - le cuire, pas trop longtemps afin qu’ il ne</operation> devienne pas de la semelle. pendant que le <ingredient quantite=1>steack</ingredient> cuit, <operation temps=6.86min espace=9>coupez les deux <ingredient quantite=2>tomates</ingredient> en fines <ingredient quantite=1>tranches</ingredient>, puis lavez</operation> et <operation temps=6.86min espace=9>découpez la salade en petits morceaux</operation>. <operation temps=6.86min espace=9>passez le <ingredient quantite=1>pain</ingredient> à <ingredient quantite=1>hamburger</ingredient></operation> coupé en 2 sous le grill du <recipient>four</recipient> pendant 2 min. lorsque le <ingredient quantite=1>pain</ingredient> est un peu croustillant, mettez sur la partie du bas la <ingredient quantite=1>tranche de mozzarella</ingredient>, les fines <ingredient quantite=1>tranches</ingredient> de <ingredient quantite=2>tomates</ingredient> et <operation temps=6.86min espace=9>repassez au grill quelques instants afin que le fromage et les <ingredient quantite=2>tomates</ingredient> fondent</operation>. <operation temps=6.86min espace=9>sortez le <ingredient quantite=1>steack</ingredient> de la poele</operation> et <operation temps=6.86min espace=9>mettez le sur le <ingredient quantite=1>pain</ingredient> ou il y</operation> a la <ingredient quantite=1>mozzarella</ingredient> et les <ingredient quantite=2>tomates</ingredient>, mettez la <ingredient quantite=1>tranche de gruyère</ingredient> et les morceaux de salade et <operation temps=6.86min espace=9>badigeonnez le <ingredient quantite=1>pain</ingredient> de dessus avec du <ingredient quantite=1>roquefort</ingredient></operation>. <operation temps=1.0min espace=9>replacez le tout sous le grill pendant 1 mn</operation>. servez chaud et <operation temps=6.86min espace=9>dégustez!! si vous <ingredient quantite=1>avez</ingredient> du temps devant vous, preparez quelques frites maisons et des donuts pour le dessert, vous</operation> <operation temps=6.86min espace=9>prendrez ainsi un repas de type américain fait avec des ingredients bien de chez nous</operation>!
+]]>
+ </preparation>
+</recette>

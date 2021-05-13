@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83518">
+ <titre>Gâteau noix de coco et sirop d’ ananas</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt nature brassé (conserver le pot) </p>
+ <p>2 pots de sucre en poudre</p>
+ <p>3 pots de farine</p>
+ <p>1 pot d’ huile (pas d’ huile d’ olive) </p>
+ <p>3 œufs entiers</p>
+ <p>3 bonnes cuillères à soupe de noix de coco râpée</p>
+ <p>Sirop d’ ananas fait maison (épais) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 170 ° c (thermostat 5 - 6). mettre dans un mixer les ingrédients un par un dans l’ ordre de la liste, sauf le <ingredient quantite=1>sirop</ingredient> d’ ananas. mélanger et verser dans un <recipient><recipient>moule</recipient> à manqué</recipient>, beurré et fariné. mettre dans le <recipient>four</recipient> chaud 35 min. démouler tiède, percer à différents endroits le dessus du gâteau aux 3/4 de la hauteur et y <ingredient quantite=1><operation temps=6.86min espace=10>faire</ingredient> couler du <ingredient quantite=1>sirop</ingredient> d’ ananas pour l’</operation> imbiber au maximum. servir le gâteau, et mettre le restant de <ingredient quantite=1>sirop</ingredient> d’ <ingredient quantite=1>ananas</ingredient> dans une coupelle, à disposition, afin de pouvoir en rajouter sur les parts selon le goût de chacun.
+]]>
+ </preparation>
+</recette>

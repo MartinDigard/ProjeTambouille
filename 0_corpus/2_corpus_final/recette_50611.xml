@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50611">
+ <titre>Tartine à l’ Italienne: aubergine, tomate et mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boite de dés de tomates</p>
+ <p>4 grosses tranches d’ aubergine précuites surgelées</p>
+ <p>2 boules de mozzarella</p>
+ <p>2 à 3 chèvres type rocamadour</p>
+ <p>8 filets d’ anchois marinés à l’ huile</p>
+ <p>1 gros pain de campagne</p>
+ <p>1 ou 2 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>origan ou herbes de Provence</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire revenir l’ <ingredient quantite=1>ail</ingredient> dans l’ <ingredient quantite=8>huile</ingredient> d’</operation> <ingredient quantite=1>olive</ingredient> puis ajouter la <ingredient quantite=1>tomate</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et un peu d’ <ingredient quantite=1>origan</ingredient> ou d’ <ingredient quantite=1>herbes de provence</ingredient>. <operation temps=10.0min espace=12>laisser mijoter 10 minutes à feu doux</operation>. pendant ce temps, décongeler les <ingredient quantite=4>tranches</ingredient> d’ <ingredient quantite=4>aubergines</ingredient> et préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). couper 4 <ingredient quantite=4>grosses</ingredient> tartines de <ingredient quantite=1>pain</ingredient> et les poser sur une grille à <recipient>four</recipient> recouverte de papier sulfurisé. <operation temps=6.86min espace=12>répartir la sauce <ingredient quantite=1>tomate</ingredient> sur le</operation> <ingredient quantite=1>pain</ingredient>, <operation temps=6.86min espace=12>recouvrir d’ <ingredient quantite=4>aubergines</ingredient> puis de morceaux de <ingredient quantite=2>mozzarella</ingredient> et de <ingredient quantite=1>chèvre</ingredient></operation>. terminer en déposant 2 <ingredient quantite=8>filets</ingredient> d’ <ingredient quantite=8>anchois</ingredient> sur chaque tartine. enfourner pour 10 minutes de cuisson et servor avec une salade au vinaigre balsamique. ces quantités conviennent aussi pour 2 personnes en formule " salade repas "! pour une version végétarienne, omettre les <ingredient quantite=8>anchois</ingredient>. vin rosé bien frais ou vin rouge léger
+]]>
+ </preparation>
+</recette>

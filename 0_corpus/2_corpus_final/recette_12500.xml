@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12500">
+ <titre>Cuchaule (Suisse) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 dl de lait entier</p>
+ <p>30 g levure fraîche</p>
+ <p>80 g de sucre</p>
+ <p>40 g de beurre en flocons</p>
+ <p>1 pincée de safran</p>
+ <p>550 g de farine</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>1 cuillères à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer une pâte levée: mettre le lait froid dans une <recipient>terrine</recipient>, délayer la levure. ajouter le <ingredient quantite=1>sucre</ingredient>, le beurre en <ingredient quantite=1>flocons</ingredient>, le <ingredient quantite=1>safran</ingredient>, <operation temps=6.86min espace=12>pétrir ou battre jusqu’ à</operation> <operation temps=6.86min espace=12>obtenir une pâte, lisse</operation>, souple et aérée. <operation temps=6.86min espace=12>laisser reposer à couvert jusqu’ à ce que la pâte ait</operation> doublé de volume. une fois la pâte levée, former 2 pains ronds, légèrement plats. déposer sur une plaque préparée. mélanger le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et l’ <ingredient quantite=1>eau</ingredient> et dorer deux fois les pains. inciser en formant des losanges et mettre dans un <recipient>four</recipient> froid. grille au milieu. cuisson: 20 mn à 150 ° et ensuite 30 mn à 200 ° attention à ce que la chaleur soit bien répartie dans votre <recipient>four</recipient>, pour un résultat optimal. sorte de pain régional que l’ on savoure à toute heure, beurré ou nature. très répandu en suisse romande.
+]]>
+ </preparation>
+</recette>

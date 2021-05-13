@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50300">
+ <titre>Nouilles chinoises sautées à la saucisse de citronnelle</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 paquet de nouilles chinoises (fraîches si possible) </p>
+ <p>1 paquet de saucisses à la citronnelle (épicerie asiatique, sous vide) </p>
+ <p>2 carottes</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 champignons noirs</p>
+ <p>1/2 boîte de pousses de bambou émincés</p>
+ <p>1/2 pousse de gingembre</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>6 cuillères à soupe de sauce d’ huître</p>
+ <p>huile, glutamate</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laisser tremper les <ingredient quantite=4>champignons noirs</ingredient> dans de l’ eau chaude pendant 20 minutes. <operation temps=15.0min espace=15>faire cuire les <ingredient quantite=1>saucisses</ingredient> sur un <recipient>gril</recipient> ou, à defaut, à la <recipient>poêle</recipient> pendant environ 15 minutes puis les</operation> couper en rondelles. <operation temps=6.86min espace=15>faire chauffer de l’ eau et y</operation> plonger les <ingredient quantite=1>nouilles</ingredient> pendant 5 minutes. les rincer sous l’ eau froide. <operation temps=10.0min espace=15>faire chauffer l’</operation> huile dans un <recipient>wok</recipient>. <operation temps=6.86min espace=15>faire risoler le tout 5 bonnes minutes avant d’</operation> ajouter la <ingredient quantite=1>sauce soja</ingredient> et le <ingredient quantite=1>glutamate</ingredient>. réserver au chaud. rajouter un peu d’ huile dans le <recipient>wok</recipient> et <operation temps=5.0min espace=15>faire sauter les <ingredient quantite=1>nouilles</ingredient> pendant 5 minutes en</operation> remuant souvent pour ne pas qu’ elles attachent. incorporer les légumes cuits, les <ingredient quantite=1>saucisses</ingredient> et la <ingredient quantite=1>sauce</ingredient> d’ <ingredient quantite=6>huître</ingredient>. poursuivre la cuisson 5 minutes. vous pouvez rajouter un peu de ciboule et des germes de soja frais au moment de <operation temps=2.0min espace=15>servir</operation>. bière <ingredient quantite=1>chinoise</ingredient> ou vin rosé
+]]>
+ </preparation>
+</recette>

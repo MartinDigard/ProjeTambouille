@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52352">
+ <titre>Gourmandise à l’ ananas</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grande boite d’ ananas au sirop</p>
+ <p>140 g de farine tamisée</p>
+ <p>3 oeufs</p>
+ <p>120 g de beurre</p>
+ <p>120 g de sucre</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>1 cuillère à soupe de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>egouttez les tranches d’ ananas</operation>, <operation temps=6.86min espace=15>réservez -en 5</operation> et <operation temps=6.86min espace=15>coupez les autres en morceaux</operation>. <operation temps=6.86min espace=15>allumez le <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=15>beurrez un <recipient>moule</recipient> rond</operation> antiadhésif, <operation temps=6.86min espace=15>poudrez de</operation> <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=15>mettez - le au frais</operation>. <operation temps=6.86min espace=15>travaillez au fouet dans un <recipient>saladier</recipient> le reste de beurre et de <ingredient quantite=1>sucre</ingredient> en poudre</operation>. <operation temps=0.5min espace=15>ajoutez</operation> le <ingredient quantite=1>jus de citron</ingredient> puis <operation temps=6.86min espace=15>incorporez les <ingredient quantite=3>oeufs</ingredient></operation>. <operation temps=6.86min espace=15>mélangez la farine, la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation> vanillé puis <operation temps=6.86min espace=15>incorporez - les peu à peu dans la préparation précédente</operation>. <operation temps=6.86min espace=15>disposez les tranches d’ ananas au fond du <recipient>moule</recipient></operation>. <operation temps=6.86min espace=15>versez la moitié de la pâte dans le <recipient>moule</recipient></operation> puis <operation temps=0.5min espace=15>ajoutez</operation> - les en les éparpillant la moitié des morceaux d’ ananas. <operation temps=6.86min espace=15>couvrez du reste de pâte</operation> et <operation temps=6.86min espace=15>terminez en</operation> ajoutant len morceaux de fruits restants. enfournez et <operation temps=40.0min espace=15>laissez cuire 35 - 40 minutes</operation>. <operation temps=6.86min espace=15>démoulez le gâteau sur un <recipient>plat</recipient></operation>. <operation temps=6.86min espace=15>laissez - le refroidir</operation> et saupoudrez - le de <ingredient quantite=1>sucre glace</ingredient> juste au moment de <operation temps=2.0min espace=15>servir</operation>. vin blanc
+]]>
+ </preparation>
+</recette>

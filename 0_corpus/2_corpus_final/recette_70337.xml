@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70337">
+ <titre>Poulpes aux macaroni (Grèce) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de poulpes</p>
+ <p>2 ou 3 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>4 tomates bien mûres pas trop grosses</p>
+ <p>1 verre de vin blanc</p>
+ <p>1 petit verre d’ Ouzo (pastis grec) </p>
+ <p>1 pincée d’ origan ou d’ épices à poissons</p>
+ <p>un peu d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ <p>600 g de macaroni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>parez</operation> et <operation temps=6.86min espace=12>cuisez les <ingredient quantite=1>poulpes</ingredient> entiers dans une <recipient>casserole</recipient> sans eau jusqu’ à ce qu’ ils aient</operation> rendu toute leur eau. <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir dans une <recipient>poêle</recipient>, coupés en <ingredient quantite=1>petits</ingredient> morceaux avec l’ <ingredient quantite=1>oignon</ingredient> en rondelles, le épices</operation>. <operation temps=6.86min espace=12>mouillez au <ingredient quantite=1>vin</ingredient></operation>. <operation temps=6.86min espace=12>ajoutez un <ingredient quantite=1>peu</ingredient> d’ <ingredient quantite=1>ouzo</ingredient></operation>. <operation temps=6.86min espace=12>ajoutez l’ <ingredient quantite=3>ail</ingredient></operation>. <operation temps=2.0min espace=12>laissez mijoter 2 min</operation>. puis <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=4>tomates</ingredient></operation> épluchées, en quartiers. <operation temps=6.86min espace=12>cuisez à feu doux, très longtemps à votre choix: le <ingredient quantite=1>poulpe</ingredient></operation> durcit à la cuisson mais s’ attendrit à la longue. <operation temps=6.86min espace=12>cuisez les <ingredient quantite=1>macaroni</ingredient> à part</operation>. quand ils sont à point, <operation temps=4.0min espace=12>égouttez - les</operation> et <operation temps=6.86min espace=12>présentez - les avec le ragoût de pulpes au milieu</operation>. <operation temps=2.0min espace=12>servez aussitôt</operation>. un <ingredient quantite=1>blanc</ingredient> de la vallée du rhone.
+]]>
+ </preparation>
+</recette>

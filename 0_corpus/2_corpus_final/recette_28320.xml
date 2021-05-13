@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28320">
+ <titre>Spaghetti tomate, thon, câpres</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de spaghetti</p>
+ <p>750 g de tomates pelées concassées</p>
+ <p>225 g de miettes de thon à l’ huile</p>
+ <p>3 gousses d’ ail</p>
+ <p>3 cuillères à soupe de câpres</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les pâtes " al dente ". <operation temps=6.86min espace=7>faire chauffer un peu d’ <ingredient quantite=1>huile</ingredient>, y</operation> <operation temps=6.86min espace=7>faire revenir les 2 <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient></operation> hachées. ajouter les <ingredient quantite=1>tomates</ingredient>, saler et poivrer. <operation temps=10.0min espace=7>laisser mijoter 10 minutes</operation>. ajouter le <ingredient quantite=1>thon</ingredient> et les <ingredient quantite=3>câpres</ingredient> et poursuivre la cuisson 5 minutes. egoutter les pâtes, les mettre dans la sauce, mélanger et servir.
+]]>
+ </preparation>
+</recette>

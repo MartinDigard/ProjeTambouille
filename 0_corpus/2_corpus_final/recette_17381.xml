@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17381">
+ <titre>Spaghetti à la sauce verte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 fromages blancs</p>
+ <p>400 g de spaghetti</p>
+ <p>une assiette d’ épinards cuits</p>
+ <p>1 oeuf</p>
+ <p>parmesan</p>
+ <p>ail, persil</p>
+ <p>1 cube de bouillon de légumes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer au <operation temps=6.86min espace=8>hachoir électrique les <ingredient quantite=1>épinards</ingredient> pour en</operation> <operation temps=6.86min espace=8>faire une purée, y</operation> ajouter 1/2 gousse d’ <ingredient quantite=1>ail</ingredient>, <ingredient quantite=1>persil</ingredient>, sel et poivre. mixer encore avec les <ingredient quantite=2>fromages</ingredient> blancs, bien amalgamer. <operation temps=6.86min espace=8>faire cuire les pâtes</operation>. réchauffer la préparation d’ <ingredient quantite=1>épinards</ingredient> au micro-ondes (ou dans une <recipient>casserole</recipient> à feu très doux sans cesser de remuer) et au moment de <operation temps=2.0min espace=8>servir</operation> incorporer 2 cuillères à soupe de <ingredient quantite=1>parmesan</ingredient> et le jaune d’ <ingredient quantite=1>oeuf</ingredient>. bien remuer. on peut aussi ajouter une pointe de muscade selon les goûts.
+]]>
+ </preparation>
+</recette>

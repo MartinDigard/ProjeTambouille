@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82979">
+ <titre>Bourguignon façon chinoise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 3 kg de viande à bouguignon</p>
+ <p>1 gros oignon</p>
+ <p>3 grosses carottes</p>
+ <p>2 gros poireaux</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>5 cuillères à soupe de sauce soja</p>
+ <p>sel, poivre</p>
+ <p>1 peu d’ ail en poudre</p>
+ <p>0, 5 l de bouillon (au choix) </p>
+ <p>500 g de nouille chinoise</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>découpez en lanières de 1 cm de large la <ingredient quantite=1>viande</ingredient>, en même temps</operation> <operation temps=6.86min espace=12>dégraissez - la</operation>. <operation temps=6.86min espace=12>mettez celle-ci dans un sac congélation avec de la <ingredient quantite=5>sauce</ingredient> soja, bien malaxer pour</operation> enrober la <ingredient quantite=1>viande</ingredient> puis la <operation temps=6.86min espace=12>laisser mariner au moins 4 heures</operation>. <operation temps=6.86min espace=12>découpez tous les légumes en lanières très fines (<ingredient quantite=1>oignon</ingredient>, <ingredient quantite=3>carottes</ingredient>,</operation> <ingredient quantite=2>poireaux</ingredient>). une heure avant de <operation temps=2.0min espace=12>servir</operation>, <operation temps=6.86min espace=12>mettez la farine sur la <ingredient quantite=1>viande</ingredient> et bien</operation> enrober les morceaux. <operation temps=6.86min espace=12>mettez l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> à chauffer dans un <recipient>wok</recipient></operation> et <operation temps=6.86min espace=12>faites revenir la <ingredient quantite=1>viande</ingredient></operation>. quand les morceaux sont bien roux, <operation temps=6.86min espace=12>retirez - les</operation> et <operation temps=6.86min espace=12>mettez - les à</operation> sauter durant quelques minutes. <operation temps=6.86min espace=12>ajoutez la</operation> <ingredient quantite=1>viande</ingredient>, <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation> et <operation temps=6.86min espace=12>mettez de l’ <ingredient quantite=1>ail</ingredient> selon votre goût</operation>. <operation temps=6.86min espace=12>couvrez avec le</operation> <ingredient quantite=1>bouillon</ingredient> et ajoutez de la <ingredient quantite=5>sauce soja</ingredient> (selon votre goût). <operation temps=30.0min espace=12>laissez mijoter 30 minutes</operation>. <operation temps=6.86min espace=12>cuisez les nouilles, dressez - les sur l’ assiette</operation> et <operation temps=6.86min espace=12>mettez dessus le bourguignon</operation>.
+]]>
+ </preparation>
+</recette>

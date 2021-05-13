@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80172">
+ <titre>Samoussas crémeux au chèvre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 feuilles de brick</p>
+ <p>2 crottins de chèvre</p>
+ <p>1 boîte de chèvre frais (type Petit Billy) </p>
+ <p>de la ciboulette</p>
+ <p>sel, poivre</p>
+ <p>huile de cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un mixer, <operation temps=6.86min espace=7>mélangez le fromage, la <ingredient quantite=1>ciboulette</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre selon votre goût</operation>. coupez les <ingredient quantite=1>feuilles de brick</ingredient> en 2, <operation temps=6.86min espace=7>repliez un moitié en 2</operation>, <operation temps=6.86min espace=7>posez une cuillère à soupe de préparation dans un coin</operation> et <operation temps=6.86min espace=7>repliez en triangle</operation>. <operation temps=10.0min espace=7>faites chauffer l’</operation> huile dans une <recipient>poêle</recipient>. <operation temps=6.86min espace=7>posez les samoussas, côté jonction dans l’</operation> huile chaude et <operation temps=6.86min espace=7>faites dorer</operation>. déposez - les dans une assiette recouverte de papier absorbant. dégustez tiède.
+]]>
+ </preparation>
+</recette>

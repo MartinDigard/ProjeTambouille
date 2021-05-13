@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69761">
+ <titre>Escalopes de poulet à la moutarde facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>2 grosses échalotes</p>
+ <p>4 à 5 gousses d’ ail selon les goûts</p>
+ <p>1 pot de crème fraîche (20 cl) </p>
+ <p>3 cuillères à soupe de moutarde</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=4>ail</ingredient> et les <ingredient quantite=2>échalotes</ingredient> en petit morceaux. dans une <recipient>poêle</recipient> <operation temps=6.86min espace=9>faire chauffer un morceau de beurre et y</operation> mettre les <ingredient quantite=4>escalopes</ingredient> jusqu’ à mi-cuisson. les retirer et garder au chaud. dans un <recipient>saladier</recipient> mélanger la <ingredient quantite=1>crème fraîche</ingredient>, la <ingredient quantite=3>moutarde</ingredient>, l’ <ingredient quantite=4>ail</ingredient> et les <ingredient quantite=2>échalotes</ingredient>, saler, poivrer. verser ce mélange dans la <recipient>poêle</recipient>, au premier bouillon ajouter les <ingredient quantite=4>escalopes</ingredient>. <operation temps=10.0min espace=9>laisser cuire 10 min à feu doux</operation>. a <operation temps=6.86min espace=9>servir avec des frites ou du riz et de la salade</operation>.
+]]>
+ </preparation>
+</recette>

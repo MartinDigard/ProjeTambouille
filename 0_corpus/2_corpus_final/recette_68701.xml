@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68701">
+ <titre>Gâteau aux petits suisses, aux pommes et à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 petits suisses à 40% MG</p>
+ <p>12 g d’ édulcorant de cuisson type Canderel</p>
+ <p>2 oeufs</p>
+ <p>40 g de farine</p>
+ <p>1 banane</p>
+ <p>1 ou 2 pommes</p>
+ <p>beurre pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). mélanger les <ingredient quantite=3>petits suisses</ingredient> avec l’ <ingredient quantite=1>édulcorant</ingredient>, les <ingredient quantite=2>oeufs</ingredient> et la farine. ecraser la <ingredient quantite=1>banane</ingredient> pour en <operation temps=6.86min espace=10>faire de la purée homogène et la</operation> mélanger au mélange <ingredient quantite=3>petits suisses</ingredient> eplucher les <ingredient quantite=1>pommes</ingredient>, les couper en morceaux et les étaler dans le fond du <ingredient quantite=1><recipient>moule</recipient></ingredient> beurré. <operation temps=6.86min espace=10>recouvrir du mélange à la</operation> <ingredient quantite=1>banane</ingredient> et mettre au <recipient>four</recipient> pendant 30 minutes. la pointe du couteau doit <operation temps=6.86min espace=10>sortir sèche</operation>. excellent et vraiment très light!
+]]>
+ </preparation>
+</recette>

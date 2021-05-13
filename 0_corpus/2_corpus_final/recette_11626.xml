@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11626">
+ <titre>Carottes fumées</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 kg de carottes</p>
+ <p>3 gros oignons</p>
+ <p>20 cl de crème fraîche</p>
+ <p>400 g de lardons fumés découennés</p>
+ <p>1 cube de bouillon nature</p>
+ <p>herbes de Provence</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>carottes</ingredient> et les couper en rondelles pas trop fines. les mettre à cuire à la vapeur avec 1 <ingredient quantite=1>oignon</ingredient> coupé en lamelles. pendant ce temps, <operation temps=6.86min espace=9>faire revenir les 2 autres <ingredient quantite=3>oignons</ingredient> dans 2 cuillères à soupe d’</operation> huile. mettre de côté. <operation temps=6.86min espace=9>faire légèrement</operation> dorer les <ingredient quantite=1>lardons</ingredient>, sans matière grasse, il ne faut pas qu’ ils soient croquants. passer les <ingredient quantite=1>carottes</ingredient>. mettre le tout à chauffer dans une <recipient>poêle</recipient> (un <recipient>wok</recipient> de préférence). ajouter la <ingredient quantite=1>crème fraîche</ingredient> et les <ingredient quantite=1>herbes</ingredient>. bon appétit! la crême ne doit pas noyer les <ingredient quantite=1>carottes</ingredient>...
+]]>
+ </preparation>
+</recette>

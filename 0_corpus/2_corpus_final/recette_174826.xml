@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174826">
+ <titre>Pot-au-feu de saumon express</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de saumons</p>
+ <p>1 cube de bouillon aux légumes</p>
+ <p>2 carottes</p>
+ <p>2 poireaux</p>
+ <p>4 bulbe de fenouil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>coupez les <ingredient quantite=2>carottes</ingredient> en deux dans la longueur</operation>. <operation temps=6.86min espace=6>fendez le <ingredient quantite=1>poireaux</ingredient> en deux</operation> et <operation temps=6.86min espace=6>lavez - le</operation>. <operation temps=6.86min espace=6>coupez en deux les <ingredient quantite=4>fenouils</ingredient></operation>. <operation temps=6.86min espace=6>faites bouillir 3 litres d’ eau</operation>. ajoutez le <ingredient quantite=1>cube de bouillon</ingredient> et les <ingredient quantite=1>légumes</ingredient>. <operation temps=15.0min espace=6>faites cuire 15 minutes sur feu doux</operation>. <operation temps=6.86min espace=6>égouttez</operation> et <operation temps=6.86min espace=6>gardez au chaud</operation>. plongez les poissons dans le <ingredient quantite=1>bouillon de légumes</ingredient>, <operation temps=5.0min espace=6>laissez frémir durant 5 minutes</operation>. <operation temps=6.86min espace=6>disposez les <ingredient quantite=1>légumes</ingredient> dans des assiettes creuses puis les poissons par dessus</operation>. parsemez de <ingredient quantite=1>sel</ingredient> et d’ un peu de poivre.
+]]>
+ </preparation>
+</recette>

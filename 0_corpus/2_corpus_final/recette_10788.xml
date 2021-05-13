@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10788">
+ <titre>Emincé de rôti de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de restes de rôti de bœuf</p>
+ <p>100 g de beurre ou margarine</p>
+ <p>1 kg de pommes de terre</p>
+ <p>5 cl de vinaigre d’ alcool</p>
+ <p>4 gros oignons</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez le <ingredient quantite=1>rôti</ingredient> cuit. epluchez les <ingredient quantite=4>oignons</ingredient>, émincez - les et <operation temps=6.86min espace=12>faites - les</operation> rissoler à la <recipient>poêle</recipient> avec une cuillerée à soupe de beurre jusqu’ à obtention d’ une couleur blonde. <operation temps=6.86min espace=12>réservez les</operation> <ingredient quantite=4>oignons</ingredient> et <operation temps=6.86min espace=12>faites sauter le <ingredient quantite=1>bœuf</ingredient></operation> émincé dans la <recipient>poêle</recipient> pour le réchauffer. epluchez les <ingredient quantite=1>pommes de terre</ingredient> et <operation temps=3.0min espace=12>coupez - les en rondelles</operation>. <operation temps=6.86min espace=12>faites rissoler en <recipient>cocotte</recipient> avec le reste de margarine</operation>. <operation temps=0.25min espace=12>salez</operation> et mélangez les <ingredient quantite=4>oignons</ingredient> aux <ingredient quantite=1>pommes de terre</ingredient>. <operation temps=6.86min espace=12>disposez les tranches de viande au-dessus</operation>. <operation temps=6.86min espace=12>versez le <ingredient quantite=1>vinaigre</ingredient> dans la <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=12>faites - le réduire aux 3/4.versez cette sauce sur le <recipient>plat</recipient></operation>. parsemez de <ingredient quantite=1>persil</ingredient> et <operation temps=2.0min espace=12>servez</operation>.
+]]>
+ </preparation>
+</recette>

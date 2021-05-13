@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228266">
+ <titre>Glace à la fraise façon tiramisu</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de fraises (poids équeutées et lavées) </p>
+ <p>250 g de mascarpone</p>
+ <p>4 œufs</p>
+ <p>150 g de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=1>fraises</ingredient>, les équeuter, les couper en morceaux et les mixer. séparer les blancs des jaunes d’ oeufs. battre les jaunes avec le <ingredient quantite=1>sucre glace</ingredient> et ajouter le <ingredient quantite=1>mascarpone</ingredient>. fouetter jusqu’ à <operation temps=6.86min espace=6>obtenir une crème lisse</operation>. battre les blancs en neige ferme et incorporer à la préparation au <ingredient quantite=1>mascarpone</ingredient>. ajouter petit à petit les <ingredient quantite=1>fraises</ingredient> mixées et mélanger délicatement. mettre cette préparation dans une boite en plastique hermétique et placer au <recipient>congélateur</recipient> toute une nuit. <operation temps=20.0min espace=6>sortir la <ingredient quantite=1>glace</ingredient> du <recipient>congélateur</recipient> 10 à 20 minutes avant la dégustation</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62707">
+ <titre>Crème au café très simple</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 cuillères à soupe de café en grain</p>
+ <p>50 g de maïzena</p>
+ <p>150 g de sucre</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>1 l de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer finement les <ingredient quantite=3>grains de café</ingredient> (par exemple au mini <operation temps=6.86min espace=6>hachoir</operation>). mettre les trois quart du lait dans une <recipient>casserole</recipient> avec le <ingredient quantite=3>café</ingredient> moulu, porter à ébulition et <operation temps=30.0min espace=6>laisser reposer 30 minutes</operation>. pendant ce temps, mélanger la <ingredient quantite=1>maïzena</ingredient>, les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient> et le reste du lait. passer le lait au <ingredient quantite=3>café</ingredient> dans un filtre à <ingredient quantite=3>café</ingredient>. remettre sur le feu le lait au <ingredient quantite=3>café</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ a ébullition puis ajouter le mélange <ingredient quantite=3>oeufs</ingredient> / <ingredient quantite=1>maïzena</ingredient> / lait. dès la reprise de l’ ébullition, verser dans des ramequins. mettre les ramequins au frais au moins 2 h avant de déguster.
+]]>
+ </preparation>
+</recette>

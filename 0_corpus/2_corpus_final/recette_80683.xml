@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80683">
+ <titre>Escalopes de poulet panées au four</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 escalopes de poulet</p>
+ <p>100 g de chapelure</p>
+ <p>30 cl de crème fraîche</p>
+ <p>500 g de champignons de Paris</p>
+ <p>4 tomates</p>
+ <p>150 de gruyère râpé</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+paner les <ingredient quantite=6>escalopes</ingredient> en les badigeonnant de <ingredient quantite=1>chapelure</ingredient> et les <operation temps=6.86min espace=11>faire revenir dans une <recipient>poêle</recipient></operation>. disposer les <ingredient quantite=6>escalopes</ingredient> dans un <recipient>plat</recipient> à gratin. <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>champignons</ingredient>, les saler et les</operation> poivrer. couper les <ingredient quantite=4>tomates</ingredient> en rondelles. mettre les <ingredient quantite=1>champignons</ingredient> puis les <ingredient quantite=4>tomates</ingredient> sur les <ingredient quantite=6>escalopes</ingredient>, ajouter la <ingredient quantite=1>crème fraîche</ingredient> et le gruyère et mettre au <recipient>four</recipient> à 200 ° c pendant 15 min et <operation temps=5.0min espace=11>laisser gratiner 5 min</operation>.
+]]>
+ </preparation>
+</recette>

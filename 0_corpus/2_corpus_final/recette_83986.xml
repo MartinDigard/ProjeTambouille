@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83986">
+ <titre>Mijoté de porc à la tomate simple et rapide</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>160 g de porc (type sauté de porc) </p>
+ <p>160 g de tomates</p>
+ <p>Ail en poudre</p>
+ <p>Gingembre en poudre</p>
+ <p>1 cuillère à café d’ huile</p>
+ <p>1 Kub Or</p>
+ <p>30 cl d’ eau</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>1 cuillère à café de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=10.0min espace=14>faire chauffer l’</operation> <ingredient quantite=1>huile</ingredient> et <operation temps=6.86min espace=14>faire dorer la viande</operation> coupée en fines lamelles puis réserver. dans la même <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire revenir l’ <ingredient quantite=1>ail</ingredient> et le gingembre jusqu’ à ce que leur odeur se</operation> dégage. ajouter l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>kub or</ingredient> puis le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=2>sauce soja</ingredient>. <operation temps=20.0min espace=14>faire bouillir</operation>. remettre la viande dans la <recipient>poêle</recipient>. <operation temps=0.25min espace=14>couvrir</operation> et <operation temps=15.0min espace=14>laisser mijoter à feu doux pendant environ 15 minutes jusqu’ à ce que la viande soit bien tendre</operation>. ajouter les <ingredient quantite=1>tomates</ingredient> coupées en quartiers et <operation temps=15.0min espace=14>laisser cuire encore 15 min</operation>. ajouter la <ingredient quantite=1>maïzena</ingredient> préalablement diluée et remuée pour épaissir la <ingredient quantite=2>sauce</ingredient> (1 <ingredient quantite=1>cuillère à café</ingredient> pour 2 <ingredient quantite=1>cuillère à café</ingredient> d’ <ingredient quantite=1>eau</ingredient>). servir bien chaud. <recipient>plat</recipient> aux saveurs asiatiques. accompagner de riz.
+]]>
+ </preparation>
+</recette>

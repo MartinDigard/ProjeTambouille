@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37701">
+ <titre>Crumble tomates bacon et chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tomates</p>
+ <p>4 tranches de bacon</p>
+ <p>une demi buche de fromage de chèvre (100g) </p>
+ <p>1 oignon</p>
+ <p>2 champignons de Paris émincés</p>
+ <p>huile d’ olive</p>
+ <p>thym </p>
+ <p>romarin</p>
+ <p>4 cuillères à soupe de chapelure</p>
+ <p>4 cuillères à soupe de farine</p>
+ <p>20 g de beurre environ</p>
+ <p>une pincée de gruyère rapé</p>
+ <p>poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faire revenir à la poele dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>: l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en lamelles, les <ingredient quantite=2>tomates</ingredient> préalablement tranchées et les <ingredient quantite=2>champignons</ingredient>. etaler les <ingredient quantite=4>tranches de bacon</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient> taille moyenne (pour 2 personnes). <operation temps=3.0min espace=17>répartir</operation> dessus la poêlée. ensuite disposer par dessus le <ingredient quantite=1>fromage de chèvre</ingredient> coupée en rondelles. saupoudrer de quelques <ingredient quantite=1>pincées</ingredient> de <ingredient quantite=1>thym</ingredient> et de <ingredient quantite=1>romarin</ingredient>. puis préparer la pâte: mélanger la farine, la <ingredient quantite=4>chapelure</ingredient>, le gruyère, le beurre. saler et poivrer. <operation temps=3.0min espace=17>répartir</operation> cette pâte qui doit avoir un aspect sableux sur votre <recipient>plat</recipient>. enfourner dans le <recipient>four</recipient> préchauffé à 210 ° c (thermostat 7) pendant 15 min, jusqu’ à ce que le dessus soit bien doré. peu très bien s’ accompagner d’ une salade.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227982">
+ <titre>Gratin lardons, poireaux et pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poireau</p>
+ <p>250 g de lardons</p>
+ <p>1 oignon</p>
+ <p>6 pommes de terre</p>
+ <p>1 béchamel</p>
+ <p>4 cuillères à soupe de gruyère râpé</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et découper en quartier les <ingredient quantite=6>pommes de terre</ingredient>. les mettre à cuire dans une <recipient>poêle</recipient> assaisonnée d’ huile d’ olive. a feu doux pendant 15 min puis augmenter la cuisson petit à petit. pendant ce temps, découper les <ingredient quantite=1>poireaux</ingredient> et les <operation temps=15.0min espace=11>faire cuire dans une <recipient>poêle</recipient>, mélangés aux <ingredient quantite=1>lardons</ingredient> et à l’ <ingredient quantite=1>oignon</ingredient> (pendant 15 min</operation>). une fois que tout est cuit, préparer la <ingredient quantite=1>béchamel</ingredient>. mettre le tout dans un <recipient>plat</recipient> à gratin et saupoudrer de <ingredient quantite=4>gruyère râpé</ingredient>. mettre à gratiner pour environ 15 min. <operation temps=5.0min espace=11>régalez -vous</operation>!
+]]>
+ </preparation>
+</recette>

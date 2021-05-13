@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211845">
+ <titre>Pizza aux courgettes, tomates et munster</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza </p>
+ <p>2 petites courgettes</p>
+ <p>1 oignon</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>20 cl de coulis de tomate à l’ origan</p>
+ <p>2 tomates</p>
+ <p>1/2 munster</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, y ajouter vos 2 <ingredient quantite=2>petites courgettes</ingredient> coupées en rondelles et les <operation temps=25.0min espace=9>faire dorer</operation>. <operation temps=6.86min espace=9>coupez les <ingredient quantite=1>tomates</ingredient> en rondelles</operation> et <operation temps=6.86min espace=9>faites - les</operation> <operation temps=6.86min espace=9>revenir quelques minutes dans un peu d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient></operation>. <operation temps=0.25min espace=9>salez</operation> et <operation temps=6.86min espace=9>poivrez vos <ingredient quantite=2>courgettes</ingredient> et <ingredient quantite=1>tomates</ingredient></operation>. préchauffez votre <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=9>étalez votre pâte à <ingredient quantite=1>pizza</ingredient> sur une plaque tout en</operation> gardant le papier de cuisson en dessous. dans un bol, mélangez la <ingredient quantite=3>crème fraîche</ingredient> avec le <ingredient quantite=1>coulis de tomate</ingredient> / <ingredient quantite=1>origan</ingredient> et <operation temps=6.86min espace=9>étalez ce mélange sur la pâte à <ingredient quantite=1>pizza</ingredient></operation>. <operation temps=6.86min espace=9>mettez votre préparation <ingredient quantite=2>courgettes</ingredient> / <ingredient quantite=1>oignons</ingredient> dessus, puis vos rondelles de <ingredient quantite=1>tomates</ingredient></operation>. <operation temps=6.86min espace=9>coupez votre 1/2 <ingredient quantite=1>munster</ingredient> en tranches (ne pas</operation> mettre la croûte), et <operation temps=6.86min espace=9>disposez - les sur votre <ingredient quantite=1>pizza</ingredient></operation>. enfournez pour 20 min environ à 180 ° c.
+]]>
+ </preparation>
+</recette>

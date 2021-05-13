@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51321">
+ <titre>Tarte noix caramel chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>200 g de sucre en poudre</p>
+ <p>200 g de crème liquide</p>
+ <p>150 g de noix hachées</p>
+ <p>50 g de chocolat noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). tapisser le <recipient>moule</recipient> avec la pâte, piquer le fond et les côtés, mettre au <recipient>four</recipient> jusqu’ à cuisson de la pâte soit environ 15 à 20 minutes. mettre le <ingredient quantite=1>sucre</ingredient> dans une <recipient>casserole</recipient>, le <operation temps=6.86min espace=9>laisser caraméliser en le</operation> remuant sans arrêt. <operation temps=6.86min espace=9>faire chauffer la <ingredient quantite=1>crème</ingredient> en même temps</operation>. quand le <ingredient quantite=1>sucre</ingredient> est blond, ajouter la <ingredient quantite=1>crème</ingredient> bouillante, bien mélanger, incorporer les <ingredient quantite=1>noix</ingredient> hachées et remuer. verser sur le fond de tarte. quand la tarte est refroidie, <operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>chocolat</ingredient> et en</operation> napper la tarte.
+]]>
+ </preparation>
+</recette>

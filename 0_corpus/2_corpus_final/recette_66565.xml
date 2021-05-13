@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66565">
+ <titre>Salade de la poulette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un sachet de salade (coeur de laitue ou salade iceberg) </p>
+ <p>4 tomates</p>
+ <p>8 tranches de saumon fumé</p>
+ <p>4 oeufs</p>
+ <p>un peu de parmesan râpé</p>
+ <p>vinaigre balsamique</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer dans chaque assiette: un lit de <ingredient quantite=1>salade</ingredient> que vous aurez coupé en lanières au préalable, une <ingredient quantite=1>tomate</ingredient> coupée en rondelles, puis deux <ingredient quantite=8>tranches de saumon fumé</ingredient>. <operation temps=3.0min espace=7>faire pocher les <ingredient quantite=4>oeufs</ingredient> 3 min dans l’ eau bouillante et en</operation> déposer un au centre de chaque assiette. arroser d’ un filet de <ingredient quantite=1>vinaigre</ingredient> balasamique et parsemer légerement de <ingredient quantite=1>parmesan râpé</ingredient>. saler, poivrer et ajouter, si vous le <operation temps=6.86min espace=7>désirez, un filet d’ huile d’ olive</operation>. bon app’! attention, entrée relativement copieuse, prévoyez léger après ; -) macon blanc
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64010">
+ <titre>Korma Vegetarien</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la purée Massala: </p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>2 clous de girofle</p>
+ <p>2 cm de bâton de cannelle</p>
+ <p>1 cuillère à café de purée de gingembre</p>
+ <p>1 bouquet de coriandre</p>
+ <p>100 g de noix de coco râpée</p>
+ <p>3 piments (optionnel) </p>
+ <p>1 oignon moyen</p>
+ <p>Pour les légumes épicé s: </p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>150 g de carottes</p>
+ <p>150 g de haricots coco</p>
+ <p>150 g de petits pois</p>
+ <p>3 pommes de terre moyennes</p>
+ <p>3 patates douces moyennes</p>
+ <p>1 grosse tomate (à farcir par exemple) </p>
+ <p>1/4 cuillère à café de graines de fenouil</p>
+ <p>1 cuillère à café de graines de moutarde (optionnel) </p>
+ <p>1 cuillère à café de curcuma</p>
+ <p>3 gousses de cardamome</p>
+ <p>10 feuilles de curry ou laurier</p>
+ <p>1 gros oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+purée massala: <operation temps=6.86min espace=26>faire chauffer l’ <ingredient quantite=1>huile</ingredient> dans une <recipient>poêle</recipient></operation> et <operation temps=1.0min espace=26>faire frire la <ingredient quantite=2>cannelle</ingredient> et les clous de <ingredient quantite=2>girofles</ingredient> pendant 1 min</operation>. ajouter la <ingredient quantite=1>purée de gingembre</ingredient>, les <ingredient quantite=3>piments</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> émincé. lorsque les <ingredient quantite=1>oignons</ingredient> sont transparents, retirer du feu et ajouter les <ingredient quantite=1>feuilles</ingredient> de <ingredient quantite=1>coriandre</ingredient> hachées et la <ingredient quantite=1>noix de coco</ingredient>. mixer et mettre de côté. <ingredient quantite=1>légumes</ingredient> épicés: dans un <recipient>faitout</recipient>, <operation temps=6.86min espace=26>faire chauffer l’ <ingredient quantite=1>huile</ingredient>, y</operation> faire frire les <ingredient quantite=1>graines de fenouil</ingredient> et de <ingredient quantite=1>moutarde</ingredient>, la <ingredient quantite=3>cardamome</ingredient> et le <ingredient quantite=1>laurier</ingredient> pendant 1 min. ajouter l’ <ingredient quantite=1>oignon</ingredient> émincé et le <operation temps=6.86min espace=26>faire revenir jusqu’ a ce qu’ il soit transparent</operation>. introduire le turmeric et les <ingredient quantite=1>légumes</ingredient> coupés grossièrement. <operation temps=3.0min espace=26>faire revenir à feu vif pendant 3 min</operation>. le korma: mettre la <ingredient quantite=1>purée massala</ingredient> avec les <ingredient quantite=1>légumes</ingredient> dans le fait - tout. mélanger, ajouter un peu d’ eau, <operation temps=0.25min espace=26>couvrir</operation> et <operation temps=6.86min espace=26>faire mijoter (en</operation> remuant de temps en temps) pendant 45 min. ceci est un <recipient>plat</recipient> typique du sud-ouest de l’ inde (région du kerala), il se déguste avec du riz pilaf.
+]]>
+ </preparation>
+</recette>

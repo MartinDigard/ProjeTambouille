@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65295">
+ <titre>Salade très composée</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la salade: </p>
+ <p>90 g de pousses de soja</p>
+ <p>1 grande carotte</p>
+ <p>50 g de maïs</p>
+ <p>1 petit oignon</p>
+ <p>6 bâtonnets de crabe (surimi) Pour la vinaigrette: </p>
+ <p>1, 5 cuillère à soupe de sauce soja</p>
+ <p>2 cuillères à soupe de vinaigre de miel</p>
+ <p>4 cuillères à soupe d’ huile de tournesol</p>
+ <p>1/2 cuillère à café de gingembre moulu</p>
+ <p>1, 5 cuillère à café de cassonade</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer et égoutter les <ingredient quantite=1>pousses de soja</ingredient> puis les déposer dans le <recipient>plat</recipient> à <ingredient quantite=1>salade</ingredient>. nettoyer et égoutter le <ingredient quantite=1>maïs</ingredient>. eplucher puis râper la <ingredient quantite=1>carotte</ingredient>. mélanger le <ingredient quantite=1>maïs</ingredient> et la <ingredient quantite=1>carotte</ingredient> râpée puis les déposer sur les <ingredient quantite=1>pousses</ingredient> de <ingredient quantite=1>soja</ingredient> dans le <recipient>saladier</recipient>. hâcher très finement l’ <ingredient quantite=1>oignon</ingredient> puis le déposer sur les ingrédients dans le <recipient>saladier</recipient>. couper en très <ingredient quantite=1>petits</ingredient> morceaux les <ingredient quantite=6>bâtonnets de crabe</ingredient> puis en <operation temps=6.86min espace=17>recouvrir le mélange dans le <recipient>saladier</recipient></operation>. mélanger tous les ingrédients prévus pour <ingredient quantite=6>la vinaigrette</ingredient> jusqu’ à ce que la <ingredient quantite=1>cassonade</ingredient> se soit bien dissoute puis la verser sur le mélange dans le <recipient>saladier</recipient>. vin blanc sec
+]]>
+ </preparation>
+</recette>

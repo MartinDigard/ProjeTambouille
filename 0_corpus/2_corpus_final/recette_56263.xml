@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56263">
+ <titre>Délice de poulet au 3 poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 belles escalopes de poulet</p>
+ <p>3 poivrons moyens (1 rouge, 1 jaune et 1 vert) </p>
+ <p>6 champignons de paris frais</p>
+ <p>3 cuillères à café de fond de volaille</p>
+ <p>30 cl de vin blanc</p>
+ <p>1 cuillère à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>escalopes de poulet</ingredient> en lamelles. <operation temps=6.86min espace=8>faire chauffer l’ <ingredient quantite=1>eau</ingredient> dans une <recipient>sauteuse</recipient> et y</operation> <operation temps=6.86min espace=8>faire revenir le <ingredient quantite=3>poulet</ingredient></operation>. couper les <ingredient quantite=3>poivrons</ingredient> en fines lamelles et émincer les <ingredient quantite=6>champignons</ingredient>. et mettre le tout à <operation temps=6.86min espace=8>revenir avec le <ingredient quantite=3>poulet</ingredient></operation>. ajouter le <ingredient quantite=1>vin blanc</ingredient> et le <ingredient quantite=3>fond de volaille</ingredient>. <operation temps=10.0min espace=8>faire réduire 5 - 10 minute à ébullition</operation>. mettre à mijoter pendant 25 à 30 minutes en suveillant. vous pouvez accompagner ce <recipient>plat</recipient> de légumes sautés dans lesquels vous <operation temps=6.86min espace=8>ajouterez un peu de jus de cuison de la viande</operation>.
+]]>
+ </preparation>
+</recette>

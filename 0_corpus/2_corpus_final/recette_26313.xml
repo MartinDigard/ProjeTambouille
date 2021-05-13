@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26313">
+ <titre>Moussaka aubergine courgette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de viande de mouton ou d’ agneau</p>
+ <p>200 g de tomates</p>
+ <p>150 g de champignons</p>
+ <p>1 kg d’ aubergines</p>
+ <p>200 g de courgettes</p>
+ <p>50 g de beurre</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 échalotes</p>
+ <p>2 oignons moyens</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>huile d’ olive</p>
+ <p>farine</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher la <ingredient quantite=1>viande</ingredient>, les <ingredient quantite=2>échalotes</ingredient> et l’ <ingredient quantite=2>ail</ingredient>. emincer les <ingredient quantite=2>oignons</ingredient>. nettoyer et émincer les <ingredient quantite=1>champignons</ingredient>. peler et épépiner les <ingredient quantite=1>tomates</ingredient>, les couper en cubes. laver et couper les <ingredient quantite=1>aubergines</ingredient> et les <ingredient quantite=1>courgettes</ingredient> en rondelles, les sécher sur du papier absorbant. <operation temps=6.86min espace=18>faire dorer les <ingredient quantite=2>oignons</ingredient> dans une <recipient>sauteuse</recipient> huilée</operation>, ajouter la <ingredient quantite=1>viande</ingredient>, les <ingredient quantite=2>échalotes</ingredient> et l’ <ingredient quantite=2>ail</ingredient>. <operation temps=6.86min espace=18>laisser dorer quelques minutes</operation>. ajouter les <ingredient quantite=1>champignons</ingredient> et les <ingredient quantite=1>tomates</ingredient>, saler, poivrer et <operation temps=20.0min espace=18>laisser mijoter 20 minutes à feu doux</operation>, remuer de temps en temps. passer les <ingredient quantite=1>aubergines</ingredient> et les <ingredient quantite=1>courgettes</ingredient> dans la farine, puis les <operation temps=6.86min espace=18>faire dorer sur chaque face dans une <recipient>poêle</recipient> avec un fond d’</operation> huile bien chaude. les égoutter sur du papier absorbant. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). dans un <recipient>plat</recipient> à gratin, déposer des rondelles de <ingredient quantite=1>courgettes</ingredient> et <ingredient quantite=1>aubergines</ingredient> frites, <operation temps=6.86min espace=18>recouvrir de <ingredient quantite=1>viande</ingredient> à la <ingredient quantite=1>tomate</ingredient></operation>. répéter l’ opération jusqu’ à épuisement. <operation temps=6.86min espace=18>couvrir le <recipient>plat</recipient> de papier d’ aluminium</operation> et <operation temps=40.0min espace=18>faire cuire 40 minutes</operation>. retirer l’ aluminium 10 minutes avant la fin, et saupoudrer de <ingredient quantite=2>persil haché</ingredient> avant de <operation temps=2.0min espace=18>servir</operation>.
+]]>
+ </preparation>
+</recette>

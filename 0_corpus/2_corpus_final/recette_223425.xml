@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223425">
+ <titre>Filets de poulet aux cèpes et sauce Saint-Félicien</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 filets de blancs de poulet</p>
+ <p>100 g de lardons natures</p>
+ <p>100 g de cèpes</p>
+ <p>3 gousses d’ ail</p>
+ <p>50 g de saint-felicien</p>
+ <p>40 cl de crème liquide</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient quantite=6>filets de blancs de poulet</ingredient> en petits morceaux. dans une <recipient>poêle</recipient> type <recipient>wok</recipient>, <operation temps=6.86min espace=10>faire revenir dans un peu de matière grasse l’ <ingredient quantite=3>ail</ingredient></operation> haché et les <ingredient quantite=1>lardons</ingredient>. ajouter les <ingredient quantite=1>cèpes</ingredient> et le <ingredient quantite=6>poulet</ingredient>. <operation temps=15.0min espace=10>laisser cuire à couvert environ 15 min</operation>. ajouter le saint-félicien, puis la <ingredient quantite=1>crème</ingredient>. saler, poivrer. <operation temps=45.0min espace=10>laisser mijoter 45 min à feu doux en</operation> remuant de temps en temps. accompagner avec des tagliatelles fraîches ou du riz.
+]]>
+ </preparation>
+</recette>

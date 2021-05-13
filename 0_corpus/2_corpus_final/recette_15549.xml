@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15549">
+ <titre>Cake sucré à la courgette</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de courgettes</p>
+ <p>250 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>2 sachets de sucre vanille</p>
+ <p>200 g de beurre</p>
+ <p>4 oeufs</p>
+ <p>100 g de noisettes pelées</p>
+ <p>80 g d’ écorces d’ oranges confites</p>
+ <p>1 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c. rincer et éponger les <ingredient quantite=1>courgettes</ingredient>. concasser 30 g de <ingredient quantite=1>noisettes</ingredient>, broyer le reste en poudre. mélanger 180 g de beurre et les <ingredient quantite=1>sucres</ingredient>. incorporer les <ingredient quantite=4>oeufs</ingredient> un par un, ajouter la farine et la <ingredient quantite=1>levure</ingredient>, puis les <ingredient quantite=1>noisettes</ingredient> concassées et en poudre, ainsi que les <ingredient quantite=1>écorces</ingredient> d’ <ingredient quantite=1>oranges</ingredient> hachées. râper les cougettes et les mélanger a la pâte. verser la préparation dans un <recipient>moule</recipient>. cuire 40 mn, puis <operation temps=10.0min espace=11>laisser refroidir avant de</operation> démouler. on peut <operation temps=6.86min espace=11>servir avec une crème anglaise</operation>.
+]]>
+ </preparation>
+</recette>

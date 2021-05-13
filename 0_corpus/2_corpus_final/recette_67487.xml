@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67487">
+ <titre>Tourte chair à saucisse, brousse et petit pois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>300 g de chair à saucisse (ou viande hachée) </p>
+ <p>200 g de brousse</p>
+ <p>3 oeufs</p>
+ <p>1 petite boîte de petits pois ou 140 g de petits pois cuits</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger la <ingredient quantite=1>chair à saucisse</ingredient>, la <ingredient quantite=1>brousse</ingredient>, 2 <ingredient quantite=3>oeufs</ingredient>. ajouter les <ingredient quantite=1>petit pois</ingredient>, <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation> et <operation temps=6.86min espace=9>mélangez délicatement</operation>. <operation temps=6.86min espace=9>faites chauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>. <operation temps=6.86min espace=9>prenez un <recipient>plat</recipient> à tarte</operation>. etalez la 1ère <ingredient quantite=1>pâte feuilletée</ingredient>, <operation temps=6.86min espace=9>piquez le fond</operation> a la fourchette. <operation temps=6.86min espace=9>versez la préparation dessus,</operation> et recouvrez avec la 2ème <ingredient quantite=1>pâte feuilletée</ingredient>. <operation temps=6.86min espace=9>soudez les bords</operation>. <operation temps=6.86min espace=9>badigeonnez la surface de jaune d’</operation> <ingredient quantite=1>oeuf</ingredient>, <operation temps=6.86min espace=9>faites une cheminée au milieu pour</operation> <operation temps=6.86min espace=9>laisser la vapeur s’</operation> échapper. <operation temps=40.0min espace=9>enfournez 35 à 40 min</operation>. <operation temps=2.0min espace=9>servez</operation> accompagné d’ une salade verte.
+]]>
+ </preparation>
+</recette>

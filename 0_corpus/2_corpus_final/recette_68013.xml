@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68013">
+ <titre>Wok de saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de coeur de saumon</p>
+ <p>200 g de filet de pangasius</p>
+ <p>2 carottes</p>
+ <p>sauce pour wok au curry doux</p>
+ <p>120 g de riz sauvage</p>
+ <p>1 échalote</p>
+ <p>1 gousse d’ ail</p>
+ <p>1/2 citron</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>gingembre en poudre (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>carottes</ingredient> en petits morceaux, les <operation temps=6.86min espace=13>faire sauter au <ingredient quantite=1><recipient>wok</recipient></ingredient> avec de l’ huile d’ <ingredient quantite=1>olive</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> hachés</operation>. ajouter un fond d’ eau, <operation temps=0.25min espace=13>couvrir</operation> et <operation temps=10.0min espace=13>laisser cuire 5 à 10 min</operation>. lancer la cuisson du <ingredient quantite=1>riz</ingredient> en parallèle. couper les 2 poissons en dés, les <operation temps=6.86min espace=13>faire mariner dans un <recipient>plat</recipient> avec l’ huile d’ <ingredient quantite=1>olive</ingredient>, le jus de <ingredient quantite=1>citron</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>gingembre</ingredient></operation>. quand les <ingredient quantite=2>carottes</ingredient> sont presque cuites, ajouter les poissons sans le jus de la marinade. dès que le poisson est cuit, ajouter 8 cuillères de sauce <ingredient quantite=1>curry doux</ingredient>, délayées avec un peu d’ eau et <operation temps=45.0min espace=13>laisser mijoter</operation>. mélanger avec le <ingredient quantite=1>riz</ingredient> et servir. ne pas oublier de cuire le <ingredient quantite=1>riz</ingredient> car il lui faut 20 min de cuisson. ne pas oublier de <operation temps=6.86min espace=13>couvrir le <ingredient quantite=1>riz</ingredient> pendant la cuisson bordeau blanc chateau</operation> rocquefort
+]]>
+ </preparation>
+</recette>

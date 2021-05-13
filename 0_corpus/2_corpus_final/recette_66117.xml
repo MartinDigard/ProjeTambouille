@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66117">
+ <titre>Verrines pommes speculoos</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 grosses pommes</p>
+ <p>40 g de beurre salé</p>
+ <p>20 g de poudre de noisettes</p>
+ <p>2 yaourts nature (de préférence à la grecque) </p>
+ <p>20 spéculoos</p>
+ <p>sucre</p>
+ <p>1 pincée d’ épices style pain d’ épice (se vend tout fait) ou du 4 épices</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=8>pelez</operation> et <operation temps=6.86min espace=8>coupez les <ingredient quantite=5>pommes</ingredient> en <ingredient quantite=1>gros</ingredient> morceaux</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=8>faites fondre 20 g de beurre à feu vif</operation> puis <operation temps=6.86min espace=8>rajoutez les <ingredient quantite=5>pommes</ingredient></operation>. <operation temps=6.86min espace=8>faites cuire les <ingredient quantite=5>pommes</ingredient> à feu moyen jusqu’ à ce que vous</operation> <operation temps=6.86min espace=8>obteniez une compote (il</operation> doit rester des morceaux). a la fin de la cuisson <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>épices</ingredient> à <ingredient quantite=1>pain</ingredient> d’ <ingredient quantite=1>épice</ingredient></operation>. pendant la cuisson, <operation temps=6.86min espace=8>mixez les speculoos pour</operation> <operation temps=6.86min espace=8>obtenir de la <ingredient quantite=1>poudre</ingredient>,</operation> puis rajouter la <ingredient quantite=1>poudre de noisette</ingredient> et le beurre restant fondu. <operation temps=5.0min espace=8>mélangez le tout</operation>. dans un verre, <operation temps=6.86min espace=8>versez dans la base le mélange de speculoos - <ingredient quantite=1>noisette</ingredient></operation>. <operation temps=6.86min espace=8>versez ensuite jusqu’ à la moitié du verre la compote de <ingredient quantite=5>pommes</ingredient></operation>. <operation temps=6.86min espace=8>versez à nouveau le mélange de speculoos et terminez de</operation> <operation temps=6.86min espace=8>remplir le verre avec du <ingredient quantite=1>yaourt</ingredient> légèrement</operation> sucré. <operation temps=2.0min espace=8>servez aussitôt</operation>. ce dessert est meilleur quand la compote est encore chaude.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39564">
+ <titre>Crèmes au chocolat et à l’ écorce d’ orange</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 g de poudre d’ amandes</p>
+ <p>20 g de farine</p>
+ <p>100 g de sucre glace</p>
+ <p>50 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>20 g de poudre de cacao</p>
+ <p>50 g d’ amandes effilées</p>
+ <p>6 à 7 morceaux d’ écorces confites d’ oranges</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=9>faites fondre le beurre</operation>. dans un <recipient>saladier</recipient>, mélangez la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, les <ingredient quantite=2>oeufs</ingredient> et le <ingredient quantite=1>sucre glace</ingredient>. <operation temps=0.5min espace=9>ajoutez</operation> la farine, le <ingredient quantite=1>cacao</ingredient> et pour</operation> <operation temps=6.86min espace=9>finir, le beurre fondu</operation>. <operation temps=6.86min espace=9>coupez les <ingredient quantite=6>écorces</ingredient> d’ <ingredient quantite=6>oranges</ingredient> en petits cubes,</operation> puis <operation temps=0.5min espace=9>ajoutez</operation> - les au mélange. <operation temps=6.86min espace=9>prenez 3 petites coupelles,</operation> et <operation temps=6.86min espace=9>versez le mélange</operation> dedans. parsemez d’ <ingredient quantite=1>amandes effilées</ingredient>, et placez au frigo. c’ est exellent, mais <operation temps=6.86min espace=9>mélangez bien, sinon il y</operation> aura des grumeaux. pour ceux qui adorent le mélange chocolat - <ingredient quantite=1>orange</ingredient>, un ajout supplémentaire d’ <ingredient quantite=6>écorces</ingredient> d’ orange peut-être effectué.
+]]>
+ </preparation>
+</recette>

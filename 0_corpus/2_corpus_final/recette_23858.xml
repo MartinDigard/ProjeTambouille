@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23858">
+ <titre>Sole à l’ indienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>8 filets de sole</p>
+ <p>1 petit oignon frais</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 tomate</p>
+ <p>1 yaourt nature et demi</p>
+ <p>1 cuillère à café de gingembre en poudre</p>
+ <p>1/2 cuillère à café de cumin en poudre</p>
+ <p>1 pincée de sucre</p>
+ <p>4 gouttes de tabasco</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>ebouillantez la</operation> <ingredient quantite=1>tomate</ingredient>, <operation temps=6.86min espace=14>égouttez - la</operation> et <operation temps=6.86min espace=14>pelez - la</operation>. <operation temps=6.86min espace=14>coupez - la en deux, puis pressez - la doucement pour</operation> ôter les graines. dans le bol d’ un robot <recipient>mixeur</recipient>, <operation temps=6.86min espace=14>réunissez la <ingredient quantite=1>tomate</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation> pelé <operation temps=6.86min espace=14>mixez pour</operation> <operation temps=6.86min espace=14>lissez le mélange</operation>. incorporez ensuite le <ingredient quantite=1>yaourt et demi</ingredient>, le poivre, le <ingredient quantite=1>sel</ingredient>, les épices, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=4>tabasco</ingredient>. <operation temps=6.86min espace=14>remettez la sauce au <recipient>réfrigérateur</recipient></operation>. pendant ce temps, faites cuire les <ingredient quantite=8>filets de sole</ingredient> à la vapeur, que vous <operation temps=6.86min espace=14>servirez</operation> nappés de cette sauce bien <ingredient quantite=1>fraîche</ingredient>. <operation temps=6.86min espace=14>servez avec du riz blanc ou des <ingredient quantite=1>tomates</ingredient></operation> concassées, accompagnées de poireaux émincés et étuvés en <recipient>cocotte</recipient>. ce <recipient>plat</recipient> peut aussi se préparer avec n’ importe quel <ingredient quantite=1>filet</ingredient> de poisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166247">
+ <titre>Soufflés au saumon fumé</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50g de farine</p>
+ <p>60g de beurre + 1 noix</p>
+ <p>40cl de lait</p>
+ <p>200g de saumon fumé</p>
+ <p>4 oeufs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez le <ingredient quantite=1>saumon fumé</ingredient> en petits dés. préchauffez le <recipient>four</recipient> sur thermostat 7 (210 ° c). dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>mettez le <ingredient quantite=1>beurre</ingredient> à</operation> fondre à feu moyen puis <operation temps=6.86min espace=10>intégrez la farine tout en</operation> remuant. <operation temps=2.0min espace=10>cuisez 2 minutes sans</operation> <operation temps=6.86min espace=10>laisser attacher</operation>. <operation temps=6.86min espace=10>délayez avec le</operation> <ingredient quantite=1>lait</ingredient> et <operation temps=7.0min espace=10>faites épaissir 7 minutes à feu doux tout en</operation> remuant. <operation temps=6.86min espace=10>séparez les blancs des jaunes</operation>. hors du feu, mélangez le <ingredient quantite=1>saumon fumé</ingredient> haché et les jaunes d’ <ingredient quantite=4>oeufs</ingredient>. <operation temps=6.86min espace=10>ajoutez une pincée de <ingredient quantite=1>sel</ingredient> dans les blancs d’</operation> <ingredient quantite=4>oeufs</ingredient> et <operation temps=6.86min espace=10>battez en neige ferme</operation>. <operation temps=6.86min espace=10>versez dans des moules individuels préalablement beurrés</operation> et <operation temps=20.0min espace=10>enfournez 15 à 20 minutes selon votre <recipient>four</recipient></operation>. <operation temps=6.86min espace=10>servez de suite</operation>.
+]]>
+ </preparation>
+</recette>

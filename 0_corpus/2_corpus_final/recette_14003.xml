@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14003">
+ <titre>Potage aux orties</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 poignée d’ orties</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>1 gros oignon</p>
+ <p>4 ou 5 pommes de terre</p>
+ <p>15 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>cueillez sans vous</operation> piquer, pour cela utilisez des gants, quatre ou cinq bonnes poignée d’ <ingredient quantite=5>orties</ingredient>. lavez - les soigneusement afin d’ en retirer le pouvoir urticant. dans une cocote, <operation temps=6.86min espace=5>versez 3 <ingredient quantite=3>cuillères</ingredient> d’ une bonne</operation> <ingredient quantite=3>huile</ingredient> et <operation temps=6.86min espace=5>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé, ajoutez les <ingredient quantite=4>pommes de terre</ingredient> taillées en petits cubes, puis les feuilles d’ <ingredient quantite=5>orties</ingredient> sans les tiges. <operation temps=6.86min espace=5>couvrez d’ eau</operation> <operation temps=0.25min espace=5>salez</operation>, <operation temps=6.86min espace=5>poivrez à votre goût</operation> <operation temps=20.0min espace=5>portez à ébullition</operation> puis <operation temps=6.86min espace=5>laissez cuire le temps qu’ il</operation> faut. mixez, <operation temps=6.86min espace=5>réchauffez en</operation> ajoutant la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=2.0min espace=5>servez sans</operation> attendre.
+]]>
+ </preparation>
+</recette>

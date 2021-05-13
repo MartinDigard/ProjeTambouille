@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66289">
+ <titre>Semoule au lait de soja et aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 l de lait de soja aux noisettes (rayon diététique) </p>
+ <p>100 g de semoule de blé dur très fine (pas celle pour le couscous) </p>
+ <p>1 cuillère à soupe d’ huile de noisettes</p>
+ <p>100 g de noisettes moulues</p>
+ <p>100 g de sucre roux</p>
+ <p>1 yaourt nature au soja</p>
+ <p>quelques éclats de noisettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire bouillir le lait</operation> puis ôter la <recipient>casserole</recipient> du feu. jeter la semoule en pluie, le <ingredient quantite=1>sucre</ingredient> et la poudre de <ingredient quantite=1>noisettes</ingredient>. bien mélanger afin qu’ il n’ y ait aucun grumeau. remettre la <recipient>casserole</recipient> sur feu moyen / doux et tout en tournant continuellement <operation temps=6.86min espace=9>faire épaissir la semoule</operation>. dès que la consistance désirée est atteinte, stopper le feu. ajouter alors l’ <ingredient quantite=1>huile de noisette</ingredient>, le <ingredient quantite=1>yaourt</ingredient> et les <ingredient quantite=1>éclats de noisette</ingredient>. mélanger une dernière fois et <operation temps=6.86min espace=9>répartir la crème dans des ramequins</operation>. <operation temps=6.86min espace=9>laisser refroidir à temperature ambiante</operation> et réfrigérer. ce dessert peut être consommé tiède mais c’ est moins bon. vous pouvez remplacer les <ingredient quantite=1>noisettes</ingredient> par des amandes, à ce moment -là utilisez du lait d’ amandes...
+]]>
+ </preparation>
+</recette>

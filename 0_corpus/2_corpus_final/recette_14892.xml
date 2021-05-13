@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14892">
+ <titre>Flan au micro-ondes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>3 oeufs</p>
+ <p>200 g de sucre</p>
+ <p>vanille, cannelle...</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>faire le caramel au micro-ondes</operation>: <operation temps=5.0min espace=4>faire chauffer 100 g de <ingredient quantite=1>sucre</ingredient> et 3 cuillerées d’ eau, environ 5 min à puissance maximale</operation>. le répartir dans les 6 ramequins. <operation temps=5.0min espace=4>faire chauffer le lait avec 100 g de <ingredient quantite=1>sucre</ingredient> pendant 5 min à puissance maximale</operation>. battre les 3 <ingredient quantite=3>oeufs</ingredient>. verser le mélange <ingredient quantite=1>lait</ingredient> et <ingredient quantite=1>sucre</ingredient> sur les <ingredient quantite=3>oeufs</ingredient> en battant énergiquement. ajouter le parfum éventuel (<ingredient quantite=1>sucre</ingredient> vanillé...) puis verser dans les ramequins. <operation temps=5.0min espace=4>faire cuire 2 fois 5 min à puissance maximale ou moyenne</operation> (adapter la puissance de la cuisson en vérifiant à mi-cuisson). manger très frais.
+]]>
+ </preparation>
+</recette>

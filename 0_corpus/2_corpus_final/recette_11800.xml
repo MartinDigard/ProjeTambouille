@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11800">
+ <titre>Gaufres à la pomme de terre</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre (farineuses de préférence) </p>
+ <p>1 kg de farine</p>
+ <p>700 g de sucre fin</p>
+ <p>7 oeufs</p>
+ <p>22 g de levure en poudre</p>
+ <p>30 g de sucre vanillé</p>
+ <p>500 g de beurre ou margarine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher puis cuire les <ingredient quantite=1>pommes de terre</ingredient> (ajouter du sel), puis les écraser. ajouter le beurre (ramolli au micro-ondes). mélanger. ajouter le <ingredient quantite=1>sucre fin</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, les <ingredient quantite=7>oeufs</ingredient> battus, mettre la farine avec la <ingredient quantite=1>levure</ingredient>, puis bien mélanger le tout. cuire dans un gaufrier selon votre goût.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24929">
+ <titre>Gratin de poires au pain d’ épices</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 poires</p>
+ <p>1 citron</p>
+ <p>4 tranches de pain d’ épices (80 g) </p>
+ <p>20 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=6>pelez les</operation> <ingredient quantite=6>poires</ingredient> et <operation temps=6.86min espace=6>coupez - les en <ingredient quantite=4>tranches</ingredient> que vous</operation> <operation temps=6.86min espace=6>placez dans un <recipient>plat</recipient> à gratin</operation>. <operation temps=6.86min espace=6>arrosez immédiatement du jus d’ un <ingredient quantite=1>citron</ingredient></operation>. passez les <ingredient quantite=4>tranches de pain</ingredient> d’ <ingredient quantite=4>épices</ingredient> au grille - <ingredient quantite=4>pain</ingredient>, <operation temps=6.86min espace=6>laissez - les refroidir</operation> et <operation temps=6.86min espace=6>émiettez - les, de préférence à l’</operation> aide d’ un robot. <operation temps=6.86min espace=6>saupoudrez les <ingredient quantite=6>poires</ingredient> avec le <ingredient quantite=4>pain</ingredient> d’ <ingredient quantite=4>épices</ingredient> émietté et parsemez ensuite le beurre en parcelles</operation>. cuire au <recipient>four</recipient> 15 mn à 180 ° c (à adapter en fonction du type de <ingredient quantite=1>poire</ingredient>) et <operation temps=5.0min espace=6>terminez par 5 mn sous le grill (à</operation> surveiller!). servir tiède.
+]]>
+ </preparation>
+</recette>

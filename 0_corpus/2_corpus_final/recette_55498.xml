@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55498">
+ <titre>Tarte viande hachée cheddar</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>3 steaks hachés</p>
+ <p>1 boîte moyenne de concentré de tomate</p>
+ <p>3 petits oignons</p>
+ <p>6 tranches de cheedar (fromage pour hamburger) </p>
+ <p>origan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=11>faire préchauffer le <recipient>four</recipient> pendant 10 min à 180 ° c (thermostat 6</operation>). etaler la <ingredient quantite=1>pâte</ingredient> feuilletée, puis la mettre au <recipient>four</recipient> 5 - 10 minutes, le temps qu’ elle dore. hacher les <ingredient quantite=3>oignons</ingredient>, puis les <operation temps=6.86min espace=11>faire dorer à la <recipient>poêle</recipient> dans du beurre</operation>. ajouter la viande <ingredient quantite=1>hachée</ingredient>, <operation temps=6.86min espace=11>laisser cuire à feu doux</operation>. pendant ce temps, <operation temps=6.86min espace=11>sortir la <ingredient quantite=1>pâte</ingredient> du <recipient>four</recipient>, y</operation> étaler le <ingredient quantite=1>concentré de tomate</ingredient>, puis y rajouter le mélange <ingredient quantite=3>oignons</ingredient> viande. <operation temps=6.86min espace=11>recouvrir d’ <ingredient quantite=1>origan</ingredient></operation>. pour terminer, mettre les <ingredient quantite=6>tranches de cheedar</ingredient>. enfourner et <operation temps=6.86min espace=11>laisser cuire 5 - 10 minutes, le temps que le fromage fonde</operation>. tarte vite faite, idéale pour un soir, accompagnée d’ une salade verte.
+]]>
+ </preparation>
+</recette>

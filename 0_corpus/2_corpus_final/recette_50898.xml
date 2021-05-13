@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50898">
+ <titre>Poulet en compotée de tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 blancs de poulet</p>
+ <p>6 champignons de Paris</p>
+ <p>400 g de tomates pelées entières</p>
+ <p>1 carotte</p>
+ <p>1 oignon</p>
+ <p>1 morceau de sucre</p>
+ <p>basilic </p>
+ <p>sel, poivre</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler le <ingredient quantite=4>poulet</ingredient> en <ingredient quantite=1>morceaux</ingredient>, saler et poivrer. emincer l’ <ingredient quantite=1>oignon</ingredient>, couper la <ingredient quantite=1>carotte</ingredient> en petits dés et les <ingredient quantite=6>champignons</ingredient> en lamelles. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient></operation>. ajouter le <ingredient quantite=1>morceau de sucre</ingredient>, <operation temps=6.86min espace=10>laisser caraméliser tout en</operation> remuant. ajouter les <ingredient quantite=6>champignons</ingredient>, les <operation temps=3.0min espace=10>faire revenir 3 minutes sans</operation> cesser de remuer. ajouter les dés de <ingredient quantite=1>carotte</ingredient> et les <ingredient quantite=1>tomates pelées entières</ingredient>, grossièrement écrasées. baisser le feu. saler, poivrer, et <operation temps=15.0min espace=10>laisser mijoter 15 minutes</operation>. ajouter le <ingredient quantite=4>poulet</ingredient> et le <ingredient quantite=1>basilic</ingredient>, <operation temps=20.0min espace=10>laisser mijoter 20 minutes en</operation> remuant de temps en temps. lorsque la préparation a un aspect de compote, retirer du feu. <operation temps=6.86min espace=10>servir avec du riz ou des tagliatelles</operation>. bon appétit! la cuisson du <ingredient quantite=4>poulet</ingredient> dans la compote de <ingredient quantite=1>tomates</ingredient> permet de garder la viande tendre tout en lui <operation temps=6.86min espace=10>faisant prendre le goût de la préparation</operation>. rosé de loire
+]]>
+ </preparation>
+</recette>

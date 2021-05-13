@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53251">
+ <titre>Far breton qui a beaucoup voyagé</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>150 g de farine</p>
+ <p>150 g de sucre roux ou vergeoise</p>
+ <p>1/2 litre de lait</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de 4 épices</p>
+ <p>12 abricots secs</p>
+ <p>75 g de noix de coco râpée</p>
+ <p>1 cuillère à café de vanille liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les œufs, le <ingredient quantite=1>sucre</ingredient> et la farine puis délayer avec le <ingredient quantite=1>lait</ingredient>. ajouter la <ingredient quantite=1>vanille</ingredient>, les <ingredient quantite=1>épices</ingredient> et la <ingredient quantite=1>noix de coco râpée</ingredient>. dans un <recipient>plat</recipient> beurré, disposer les <ingredient quantite=1>abricots secs</ingredient> régulièrement puis verser la pâte dessus. cuire à <recipient>four</recipient> chaud environ 30 minutes. une variante exotique du célèbre far breton! si on aime, on peut rajouter un peu de rhum ambré dans la pâte.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50832">
+ <titre>Farfalle au gorgonzola</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de farfalle </p>
+ <p>2 cuillères à soupe de beurre</p>
+ <p>200 g de gorgonzola</p>
+ <p>50 g de pignons</p>
+ <p>100 g de parmesan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une grande <recipient>casserole</recipient>, <operation temps=6.86min espace=9>faites cuire les pâtes</operation> et <operation temps=4.0min espace=9>égouttez - les</operation>. <operation temps=6.86min espace=9>faites revenir les <ingredient quantite=1>pignons</ingredient>, sans graisse, dans une <recipient>poêle</recipient> anti-adhésive</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=9>faites fondre le <ingredient quantite=2>beurre</ingredient> à feu doux,</operation> puis <operation temps=6.86min espace=9>incorporez le <ingredient quantite=1>gorgonzola</ingredient></operation> coupé en morceaux. <operation temps=6.86min espace=9>continuez la cuisson, en</operation> laissant fondre le fromage de moitié. <operation temps=3.0min espace=9>ajoutez les</operation> <ingredient quantite=1>pignons</ingredient>, <operation temps=6.86min espace=9>poivrez,</operation> et <operation temps=0.25min espace=9>retirez du feu</operation>. au moment de <operation temps=6.86min espace=9>servir, disposez les pâtes dans les assiettes</operation>, <operation temps=6.86min espace=9>versez au centre de la sauce au</operation> <ingredient quantite=1>gorgonzola</ingredient> et <operation temps=6.86min espace=9>saupoudrez de <ingredient quantite=1>parmesan</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

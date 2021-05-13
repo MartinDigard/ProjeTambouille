@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80553">
+ <titre>Shortbread amandes gingembre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de beurre salé froid coupé en dés</p>
+ <p>330 g de farine</p>
+ <p>85 g de sucre</p>
+ <p>50 g d’ amandes émondées</p>
+ <p>3 cuillères à soupe de gingembre confit en petits dés</p>
+ <p>150 g de chocolat noir</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 °, thermostat 6. <operation temps=6.86min espace=9>mélangez le beurre, le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>farine</ingredient> jusqu’ à obtention d’ un mélange sableux</operation>. <operation temps=6.86min espace=9>incorporez les <ingredient quantite=1>amandes</ingredient> et le <ingredient quantite=3>gingembre</ingredient></operation>. pétrissez 1 min sur un marbre ou une plaque <ingredient quantite=1>froide</ingredient> farinée. <operation temps=6.86min espace=9>découpez des formes à l’</operation> emporte - pièce. <operation temps=30.0min espace=9>faites cuire au <recipient>four</recipient> pendant 25 - 30 min</operation>. a la sortie du <recipient>four</recipient>, parsemez de <ingredient quantite=1>sucre</ingredient> glace et <operation temps=20.0min espace=9>laissez refroidir</operation>. <operation temps=6.86min espace=9>faites fondre le <ingredient quantite=1>chocolat</ingredient> et trempez - y les shortbreads ou badigeonnez - les de <ingredient quantite=1>chocolat</ingredient> avec un pinceau</operation>. <operation temps=6.86min espace=9>laissez refroidir sur du papier</operation> sulfurisé. <operation temps=6.86min espace=9>dégustez! idéal avec un irish coffe</operation>!
+]]>
+ </preparation>
+</recette>

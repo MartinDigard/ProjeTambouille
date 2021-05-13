@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28123">
+ <titre>’ Brownies’ au chocolat blanc et noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre ramolli</p>
+ <p>200 g de chocolat blanc</p>
+ <p>120 g de noix de coco râpée</p>
+ <p>80 g de sucre</p>
+ <p>60 g de farine</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer et fariner un <recipient>moule</recipient> à gâteau carré de 20 cm de côté. mélanger le beurre <ingredient quantite=1>ramolli</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange soit homogène. ajouter un <ingredient quantite=1>oeuf</ingredient>, mélanger, puis ajouter la farine. ajouter le 2ème <ingredient quantite=1>oeuf</ingredient> et remélanger. faire fondre le <ingredient quantite=1>chocolat blanc</ingredient> avec un peu de lait au micro-ondes. ajouter le <ingredient quantite=1>chocolat</ingredient> fondu au mélange précédent et enfin ajouter la <ingredient quantite=1>noix de coco râpée</ingredient>. bien mélanger. verser le mélange dans le <recipient>moule</recipient> et l’ étaler régulièrement. cuire au <recipient>four</recipient> pendant 30 mn à 160 ° c. <operation temps=6.86min espace=10>sortir le gâteau du <recipient>four</recipient></operation> et <operation temps=6.86min espace=10>laisser refroidir quelques minutes</operation>. le démouler sur une grille une fois refroidi. couper le gâteau en carrés de 5 cm. c’ est prêt! ce gâteau s’ accompagne volontiers d’ une boule de sorbet de votre choix!
+]]>
+ </preparation>
+</recette>

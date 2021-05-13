@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31450">
+ <titre>Pizza aux 3 fromages</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza</p>
+ <p>1 fromage de chèvre long</p>
+ <p>1 petit pot de coulis de tomate</p>
+ <p>1 roquefort</p>
+ <p>1 petit sachet de mozzarella</p>
+ <p>1 sachet de 250 g de gruyère râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte à <ingredient quantite=1>pizza</ingredient> dans un <recipient>plat</recipient> à tarte, la piquer avec une fourchette, étaler le <ingredient quantite=1>coulis de tomate</ingredient> sur la pâte. découper des rondelles de <ingredient quantite=1>fromage de chèvre</ingredient> et de <ingredient quantite=1>mozzarella</ingredient>, découper aussi de fines tranches de <ingredient quantite=1>roquefort</ingredient>. placer le <ingredient quantite=1>fromage</ingredient> en alternance (une tranche de <ingredient quantite=1>fromage de chèvre</ingredient>, une de <ingredient quantite=1>mozzarella</ingredient>, une de <ingredient quantite=1>roquefort</ingredient>). couvrir de <ingredient quantite=1>gruyère râpé</ingredient>. saler et poivrer selon les goûts. mettre au <recipient>four</recipient> à thermostat 7 (210 ° c), pendant 1/2 heure et plus si nécessaire. cela fait une bonne <ingredient quantite=1>pizza</ingredient> avec une bonne épaisseur ; se mange facilement pour ceux qui aiment les <ingredient quantite=1>fromages</ingredient>. on peut la <operation temps=6.86min espace=9>faire avec n’</operation> importe quel <ingredient quantite=1>fromage</ingredient>. en général, elle a du succès.
+]]>
+ </preparation>
+</recette>

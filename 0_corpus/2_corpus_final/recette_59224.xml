@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59224">
+ <titre>Marquise au chocolat rapide</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de chocolat noir à 60% de cacao</p>
+ <p>100 g de beurre</p>
+ <p>1 cuillère à soupe de cacao amer en poudre</p>
+ <p>7 oeufs (3 jaunes + 7 blancs d’ oeuf) </p>
+ <p>70 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient> ou micro-ondes</operation>. y ajouter le beurre en petits morceaux puis le <ingredient quantite=1>cacao en poudre</ingredient>. casser les <ingredient quantite=7>oeufs</ingredient> et séparer les blancs des jaunes. ajouter 3 jaunes au mélange précédent. monter les 7 blancs en neige avec le <ingredient quantite=1>sucre</ingredient> puis les incorporer au mélange. mélanger doucement. mettre un film étirable sur le fond d’ une <recipient>terrine</recipient>. verser le mélange dans la <recipient>terrine</recipient> puis lisser à ras bord avec un couteau. mettre au <recipient>réfrigérateur</recipient> au minimum 4h. <operation temps=6.86min espace=9>sortir</operation>, démouler et couper des tranches avec un couteau trempé dans l’ eau chaude. vous pouvez accompagner avec une crème anglaise.
+]]>
+ </preparation>
+</recette>

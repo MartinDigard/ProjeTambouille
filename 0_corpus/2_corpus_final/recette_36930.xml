@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36930">
+ <titre>Emincé de poulet aux pousses de bambou et poivron rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de pousses de bambou égouttées (en boîte) </p>
+ <p>2 grosses escalopes de poulet ou de dinde</p>
+ <p>1 poivron rouge</p>
+ <p>1 cube "bouquet garni" (l’ idéal: cube noix de saveur bouquet garni) </p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egouttez les <ingredient quantite=1>pousses de bambou</ingredient>. coupez les <ingredient quantite=2>escalopes de poulet</ingredient> en lamelles. <operation temps=6.86min espace=8>lavez le</operation> <ingredient quantite=1>poivron</ingredient> et <operation temps=6.86min espace=8>coupez - le en fines lamelles</operation>. <operation temps=6.86min espace=8>lavez</operation> et <operation temps=6.86min espace=8>effeuillez la coriandre</operation>. dans une <recipient>poêle</recipient> contenant l’ huile chaude, <operation temps=6.86min espace=8>faites dorer les lamelles de</operation> <ingredient quantite=2>poulet</ingredient>, ajoutez le <ingredient quantite=1>poivron</ingredient>, le <ingredient quantite=1>cube bouquet garni</ingredient> et les <ingredient quantite=1>pousses de bambou</ingredient>. <operation temps=10.0min espace=8>laissez cuire environ 10 minutes environ</operation>. juste avant de <operation temps=2.0min espace=8>servir</operation> ajoutez la <ingredient quantite=3>sauce soja</ingredient>. vous pouvez accompagner ce <recipient>plat</recipient> de riz blanc cuit à la vapeur ou de blé.
+]]>
+ </preparation>
+</recette>

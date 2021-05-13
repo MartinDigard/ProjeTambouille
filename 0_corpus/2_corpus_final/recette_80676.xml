@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80676">
+ <titre>Quiche au thon et à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte brisée</p>
+ <p>2 grosses boîtes de thon</p>
+ <p>3 tomates</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>20 cl de crème fraîche</p>
+ <p>1/2 cuillérée à café de gingembre en poudre</p>
+ <p>1 cuillère à café de coriandre en poudre</p>
+ <p>100 g de gruyère râpé</p>
+ <p>du sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+egoutter le <ingredient quantite=2>thon</ingredient> après l’ avoir émietté. couper les <ingredient quantite=3>tomates</ingredient> en rondelles. mélanger la <ingredient quantite=1>crème fraîche</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et ajouter une pincée de <ingredient quantite=1>sel</ingredient>, la <ingredient quantite=1>coriandre</ingredient> et le <ingredient quantite=1>gingembre</ingredient>. ajouter le <ingredient quantite=2>thon</ingredient> à ce mélange. etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>. mettre le <ingredient quantite=2>thon</ingredient> et disposer les rondelles de <ingredient quantite=3>tomates</ingredient> en rosace. mettre le <ingredient quantite=1>gruyère râpé</ingredient> et mettre au <recipient>four</recipient> à 210 °, thermostat 7, pendant 40 min (dans le bas du <recipient>four</recipient>).
+]]>
+ </preparation>
+</recette>

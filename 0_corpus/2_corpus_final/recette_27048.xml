@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27048">
+ <titre>Lapin au roquefort</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>50 g roquefort</p>
+ <p>2 cuillères à soupe de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>2 échalotes</p>
+ <p>1 oignon</p>
+ <p>6 cuillères à soupe de crème</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites chauffer l’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=2>beurre</ingredient> dans une <recipient>cocotte</recipient> sur feu vif</operation>. <operation temps=6.86min espace=11>faites y</operation> dorer les morceaux de <ingredient quantite=1>lapin</ingredient>. epluchez l’ <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=11>coupez - le en rondelles</operation>. <operation temps=0.5min espace=11>ajoutez</operation> - les dans la <recipient>cocotte</recipient> pour les <operation temps=25.0min espace=11>faire dorer</operation>. epluchez et hachez les <ingredient quantite=2>échalotes</ingredient>. <operation temps=0.5min espace=11>ajoutez</operation> - les dans la <recipient>cocotte</recipient> avec du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=30.0min espace=11>laissez cuire doucement pendant 30 min</operation>. <operation temps=6.86min espace=11>ecrasez le roquefort à la fourchette dans un bol</operation>. y ajouter la crème. <operation temps=6.86min espace=11>versez le mélange sur le <ingredient quantite=1>lapin</ingredient></operation>. <operation temps=20.0min espace=11>laissez cuire encore 20 min</operation>. personnellement, je cuisine souvent du <ingredient quantite=1>lapin</ingredient> et cette recette est celle que j’ apprécie le plus. a <operation temps=6.86min espace=11>servir avec du riz ou des pâtes ou des pommes de terre vapeur</operation>. vin de cahors ou vin du roussillon
+]]>
+ </preparation>
+</recette>

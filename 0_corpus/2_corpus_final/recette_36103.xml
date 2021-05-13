@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36103">
+ <titre>Pâte à crêpes extra</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine </p>
+ <p>50 g de maïzena </p>
+ <p>4 oeufs</p>
+ <p>30 cl de lait</p>
+ <p>3 cuillères à soupe de beurre fondu</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>1/2 sachet de levure chimique </p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, la <ingredient quantite=1>maïzena</ingredient>, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=3>sucre</ingredient> et le <ingredient quantite=1>sel</ingredient>. ajouter les <ingredient quantite=4>oeufs</ingredient> battus en omelette. délayer avec le lait et le beurre. <operation temps=6.86min espace=8>laisser reposer au minimum 1 heure, le mieux</operation> étant de préparer la pâte le veille (elle n’ en sera que plus légère). au moment de <operation temps=6.86min espace=8>faire les crêpes</operation>, ajouter un peu de lait car la pâte s’ est épaissie pendant le repos. déguster avec une petite sauce au citron: beurre demi-sel <ingredient quantite=3>fondu</ingredient> + jus de citron + <ingredient quantite=3>sucre</ingredient>. un régal!!
+]]>
+ </preparation>
+</recette>

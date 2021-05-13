@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32279">
+ <titre>Tarte au thon gourmande</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte brisée (ou feuilletée) </p>
+ <p>une béchamel</p>
+ <p>1 boîte de thon</p>
+ <p>2 gros oignons</p>
+ <p>300 g de champignons frais</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etendre la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>. <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>champignons</ingredient> dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>, jusqu’ à ce qu’ ils soient bien tendres</operation>. réserver. découper les <ingredient quantite=2>oignons</ingredient> en tranches, et les <operation temps=6.86min espace=10>faire blondir dans de l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. saler, poivrer. ajouter le <ingredient quantite=1>thon</ingredient> émietté, et <operation temps=6.86min espace=10>faire revenir quelques minutes</operation>. ajouter en dernier les <ingredient quantite=1>champignons</ingredient>, bien remuer et <operation temps=6.86min espace=10>faire revenir quelques minutes</operation>. réserver. saler, poivrer. <operation temps=6.86min espace=10>faire une <ingredient quantite=1>béchamel</ingredient></operation>. disposer le mélange <ingredient quantite=1>thon</ingredient> - <ingredient quantite=2>oignons</ingredient> - <ingredient quantite=1>champignons</ingredient> dans le fond de tarte. verser par - dessus la <ingredient quantite=1>béchamel</ingredient>. saupoudrer de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=10>faire cuire (thermostat 7 - 8) pendant 35 mn, jusqu’ à ce que le dessus soit bien doré</operation>. servir bien chaud. cette énième tarte au <ingredient quantite=1>thon</ingredient> est particulièrement riche, elle convient donc bien en <recipient>plat</recipient> principal, accompagnée d’ une salade verte. froide, elle est délicieuse pour un buffet. un vin blanc léger
+]]>
+ </preparation>
+</recette>

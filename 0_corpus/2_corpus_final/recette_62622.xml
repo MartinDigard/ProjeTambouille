@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62622">
+ <titre>Filets de panga au bleu</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de panga</p>
+ <p>50 g de bleu de Bresse</p>
+ <p>4 cuillères à soupe de farine</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser l’ <ingredient quantite=3>huile</ingredient> dans une grande <recipient>poêle</recipient>. <operation temps=20.0min espace=6>faire bouillir</operation>. enduire les <ingredient quantite=4>filets de panga</ingredient> de farine. les jeter dans l’ huile bouillante. <operation temps=6.86min espace=6>laisser frire</operation> et jeter l’ <ingredient quantite=3>huile</ingredient>. ajouter le <ingredient quantite=1>bleu</ingredient> en petits carrés. <operation temps=5.0min espace=6>laisser griller 5 min en</operation> retournant une fois. saler, poivrer. mettre à feux doux pendant encore 5 à 10 min suivant l’ épaisseur des <ingredient quantite=4>filets</ingredient>. <operation temps=6.86min espace=6>servir immédiatement avec du riz ou des pâtes (coquillettes</operation>). riesling ou côtes du rhône (blanc)
+]]>
+ </preparation>
+</recette>

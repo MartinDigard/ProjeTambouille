@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53164">
+ <titre>Glace au café (sans oeufs) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 grande boîte de lait concentré sucré de 370 G</p>
+ <p>2 briques de 20 ml de crème liquide entière</p>
+ <p>2 flacons d’ extrait de café</p>
+ <p>faccultatif: pépites de chocolat ou meringues</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger dans un <recipient>saladier</recipient> le <ingredient quantite=1>lait concentré</ingredient> et l’ <ingredient quantite=2>extrait de café</ingredient>. battre la <ingredient quantite=1>crème</ingredient> (préalablement refroidie au frigidaire), puis ajouter la <ingredient quantite=1>crème</ingredient> au mélange. verser dans un <recipient>moule</recipient> rectangulaire ou rond, et placer ensuite le <recipient>moule</recipient> au <recipient>congélateur</recipient> pendant 24 heures. <operation temps=5.0min espace=11>sortir 5 min avant de</operation> <operation temps=2.0min espace=11>servir</operation>, poser le <recipient>moule</recipient> dans un fond d’ eau chaude 30 secondes pour que le fond se décolle et mettre sur un <recipient>plat</recipient>. on peut aussi verser le mélange dans des coupes individuelles que l’ on sortira du <recipient>congélateur</recipient> 10 min avant de <operation temps=2.0min espace=11>servir</operation>. on peut ajouter au mélange des <ingredient quantite=1>pépites de chocolat ou de meringue</ingredient> (alterner une couche de mélange et une couche de <ingredient quantite=1>meringue</ingredient>). dessert idéal pour les femmes pressées qui n’ aiment pas passer trop de temps à cuisiner, c’ est mon cas!
+]]>
+ </preparation>
+</recette>

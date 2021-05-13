@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68204">
+ <titre>Mousse aux deux jambons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de jambon</p>
+ <p>200 g de jambon fumé</p>
+ <p>30 cl de bouillon de viande</p>
+ <p>10 g de gélatine en feuilles</p>
+ <p>50 cl de crème fraîche épaisse</p>
+ <p>poivre</p>
+ <p>paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire tremper les <ingredient quantite=1>feuilles</ingredient> de <ingredient quantite=1>gélatine</ingredient> dans de l’ eau</operation> froide pour les <operation temps=6.86min espace=10>ramollir</operation>. passer les 2 sortes de <ingredient quantite=1>jambon</ingredient> au hache - <ingredient quantite=1>viande</ingredient> (ou au mixer), hacher le plus finement possible. mettre les <ingredient quantite=1>feuilles</ingredient> de <ingredient quantite=1>gélatine</ingredient> dans le <ingredient quantite=1>bouillon de viande</ingredient> chaud et ajouter le <ingredient quantite=1>jambon</ingredient>. ensuite ajouter la <ingredient quantite=1>crème</ingredient> + poivre et <ingredient quantite=1>paprika</ingredient>. verser dans un <recipient>moule</recipient> (style <recipient>moule</recipient> à cake rectangulaire) et réserver au <recipient>réfrigérateur</recipient> au moins 12 h. pour <operation temps=2.0min espace=10>servir</operation>, démouler et couper en tranches.
+]]>
+ </preparation>
+</recette>

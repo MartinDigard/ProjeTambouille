@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94856">
+ <titre>Compote de Célia</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes bien juteuses</p>
+ <p>3 poires </p>
+ <p>2 bananes bien mûres</p>
+ <p>50 g de sucre</p>
+ <p>2 CS de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les fruits. les <operation temps=6.86min espace=7>coupez en petits morceaux</operation>. les <operation temps=6.86min espace=7>faire bouillir pendant 5 - 10min jusqu’ à ce que les fruits tirent de l’ eau</operation>. (pour accélérer la cuisson, <operation temps=6.86min espace=7>recouvrez la <recipient>casserole</recipient> avec un couvercle</operation>) <operation temps=6.86min espace=7>otez la <recipient>casserole</recipient> du feu</operation>, mélanger avec un fouet, <operation temps=6.86min espace=7>ajoutez le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=2>cannelle</ingredient></operation>. <operation temps=20.0min espace=7>laissez refroidir</operation>.
+]]>
+ </preparation>
+</recette>

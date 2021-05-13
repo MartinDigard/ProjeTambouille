@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89316">
+ <titre>Terrine aux deux poissons à la Isa</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>750 g de cabillaud frais</p>
+ <p>250 g de saumon fumé</p>
+ <p>5 oeufs</p>
+ <p>2 citrons</p>
+ <p>20 cl de crème fraîche épaisse</p>
+ <p>Quelques pincées de coriandre en poudre, de poivre noir ou blanc</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>huilez un <recipient>moule</recipient> à cake ou à <recipient>terrine</recipient></operation>. hachez menu le <ingredient quantite=1>cabillaud</ingredient> puis le <ingredient quantite=1>saumon fumé</ingredient>. <operation temps=6.86min espace=16>ajoutez le jus de deux <ingredient quantite=2>citrons</ingredient></operation>. <operation temps=5.0min espace=16>mélangez</operation> et ajoutez la <ingredient quantite=1>crème fraîche</ingredient> et les <ingredient quantite=5>oeufs</ingredient>. <operation temps=6.86min espace=16>mélangez à nouveau</operation>. <operation temps=6.86min espace=16>assaisonnez avec du <ingredient quantite=1>poivre</ingredient> et de la <ingredient quantite=1>coriandre</ingredient></operation>. dressez dans la <recipient>terrine</recipient> et <operation temps=50.0min espace=16>faites cuire à 190 ° c (thermostat 7) au <recipient>four</recipient> au <recipient>bain - marie</recipient> pendant 30 à 50 minutes en fonction du <recipient>moule</recipient></operation> choisi et du <recipient>four</recipient>! <operation temps=6.86min espace=16>laissez refoirdir</operation> et <operation temps=6.86min espace=16>stockez votre <recipient>terrine</recipient> quelques heures au <recipient>réfrigérateur</recipient> avant de la servir</operation>. vin <ingredient quantite=1>blanc</ingredient> sec.
+]]>
+ </preparation>
+</recette>

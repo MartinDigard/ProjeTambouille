@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38871">
+ <titre>Salade verte au poulet tiède</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 salade verte (coeur de laitue) </p>
+ <p>4 filets de poulet</p>
+ <p>1 oignon</p>
+ <p>20 cerneaux de noix (selon les goûts) </p>
+ <p>1 cuillère à soupe de noisettes </p>
+ <p>3 cuillère à soupe de sauce blanche (pour crudité ou autres) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper votre salade <ingredient quantite=1>verte</ingredient>. couper vos <ingredient quantite=4>filets de poulet</ingredient>, en morceaux. les <operation temps=6.86min espace=8>faire dorer, dans un peu d’ huile</operation> et assaisonner (sel, ail en poudre). emincer votre <ingredient quantite=1>oignon</ingredient>. dans un <recipient>saladier</recipient>, mettre la salade, le <ingredient quantite=4>poulet</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=1>cerneaux de noix</ingredient>, les <ingredient quantite=1>noisettes</ingredient> et la <ingredient quantite=3>sauce blanche</ingredient>. mélanger le tout, c’ est prêt!!! peut se <operation temps=6.86min espace=8>servir en entrée ou en <recipient>plat</recipient> léger</operation>.
+]]>
+ </preparation>
+</recette>

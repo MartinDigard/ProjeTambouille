@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201301">
+ <titre>Muffins à la carotte et à la pomme</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 belle carotte</p>
+ <p>1 pomme (royale gala) </p>
+ <p>1 cuillère à café de levure</p>
+ <p>1/2 cuillère à café de cannelle</p>
+ <p>1 cuillère à soupe de raisins secs</p>
+ <p>1 œuf</p>
+ <p>1 cuillère à soupe de poudre d amande</p>
+ <p>60 g de farine</p>
+ <p>50 g de sucre</p>
+ <p>25 ml de crème liquide</p>
+ <p>25 ml d huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6). râper la <ingredient quantite=1>carotte</ingredient> et la <ingredient quantite=1>pomme</ingredient>. dans un <recipient>saladier</recipient> mélanger levure, <ingredient quantite=1>cannelle</ingredient>, <ingredient quantite=1>farine</ingredient>, <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>poudre d amande</ingredient>. ajouter la <ingredient quantite=1>carotte</ingredient> et la <ingredient quantite=1>pomme</ingredient> et mélanger bien le tout jusqu’ à obtention d’ un ensemble homogène. dans un autre <recipient>saladier</recipient>, mélanger la <ingredient quantite=1>crème</ingredient>, l <ingredient quantite=1>huile</ingredient>, l’ <ingredient quantite=1>œuf</ingredient>, les <ingredient quantite=1>raisin sec</ingredient> et la <ingredient quantite=1>cannelle</ingredient>. ajouter cette préparation à celle d avant et bien mélanger. disposer dans les moules à muffins et enfourner environ 25 min à 200 ° c. les muffins doivent être dorés dessus et légèrement fondant à cœur.
+]]>
+ </preparation>
+</recette>

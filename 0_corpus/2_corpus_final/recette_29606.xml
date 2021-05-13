@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29606">
+ <titre>Banana bread (pain à la banane) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de farine</p>
+ <p>300 g de sucre</p>
+ <p>3 cuillères à café de levure chimique</p>
+ <p>1 cuillère à café de bicarbonate de soude</p>
+ <p>1 cuillère à café de sel</p>
+ <p>200 g de margarine</p>
+ <p>3 oeufs</p>
+ <p>6 bananes</p>
+ <p>3 cuillère à soupe de jus de citron</p>
+ <p>20 cl de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>ecrasez les</operation> <ingredient quantite=6>bananes</ingredient>, <operation temps=6.86min espace=14>ajoutez le</operation> <ingredient quantite=3>citron</ingredient>, <operation temps=0.5min espace=14>réservez</operation>. <operation temps=6.86min espace=14>melangez la farine, le <ingredient quantite=1>sel</ingredient>, la <ingredient quantite=3>levure</ingredient> et le <ingredient quantite=1>bicarbonate</ingredient>,</operation> puis <operation temps=0.5min espace=14>réservez</operation>. <operation temps=6.86min espace=14>mélangez le <ingredient quantite=1>sucre</ingredient> et la margarine pour</operation> <operation temps=6.86min espace=14>obtenir un mélange onctueux, lisse</operation>, <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=3>oeufs</ingredient> un à un en</operation> mélangeant 4 minutes. <operation temps=6.86min espace=14>ajoutez petit à petit la farine et le lait à tour de rôle et en dernier le mélange banane et <ingredient quantite=3>citron</ingredient></operation>. placez le mélange dans un grand <recipient>moule</recipient> à cake beurré (ou deux moules de taille moyenne) et <operation temps=6.86min espace=14>mettez au <recipient>four</recipient> à thrmomstat 6 (180 ° c) 1h30 pour le grand <recipient>plat</recipient> ou 1h10 pour les deux</operation>. <operation temps=6.86min espace=14>vérifiez la cuisson avec la pointe d’ un couteau</operation>. <operation temps=6.86min espace=14>sortez du <recipient>four</recipient></operation> et <operation temps=6.86min espace=14>démoulez quand il est</operation> refroidi, emballez - le dans un film et <operation temps=6.86min espace=14>laissez reposez une nuit,</operation> puis <operation temps=6.86min espace=14>coupez pour</operation> déguster ou <operation temps=6.86min espace=14>congelez</operation>. délicieux! un classique aux usa, super quand on a un régime de <ingredient quantite=6>bananes</ingredient>!
+]]>
+ </preparation>
+</recette>

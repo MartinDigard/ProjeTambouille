@@ -54,6 +54,7 @@ def main():
     # Arguments
     parser = argparse.ArgumentParser()
     parser.add_argument('rep_corpus_annote')
+    parser.add_argument('rep_corpus_final')
     args = parser.parse_args()
 
     # Fichier de références temps-opération et quantité-ingrédient
@@ -63,8 +64,8 @@ def main():
     # Lecture des recettes annotées sans attributs
     compteur = 0
     for fichier in glob.glob(args.rep_corpus_annote + '*/*'):
-        print(f'\n\n==> {compteur}\nTraitement de la recette {fichier} en '
-              'cours…\n')
+        # print(f'\n\n==> {compteur}\nTraitement de la recette {fichier} en '
+        #       'cours…\n')
 
         # Limitation pour les tests
         compteur += 1
@@ -79,7 +80,7 @@ def main():
         # Annotation des balises ingrédients
         recette_annotee = qt.annotation_qtt(recette_annotee,
                                             infos_ingr[fichier])
-        
+
         # Récupération des annotations en listes.
         prepa_complexite = et.decompte_annotation(recette_annotee)
 
@@ -88,8 +89,6 @@ def main():
 
         # Calcul de la complexité en temps
         oper_temps = et.temps(prepa_complexite[0], refs_tps)
-        # for elt in oper_temps:
-        #     print(elt)
 
         # Calcul de la complexité en espace
         nb_recipients = len(prepa_complexite[1]) + len(infos_ingr[fichier])
@@ -98,9 +97,14 @@ def main():
         recette = et.annot_espace_temps(recette_annotee, oper_temps,
                                         nb_recipients)
 
-        # Debug annotation opération (reloutise) 
-        recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>(.*?</operation>)', '\\1\\2\\3', recette) 
-        print(recette)
+        # Debug annotation opération (reloutise 3 hé hé)
+        recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>'
+                         '(.*?</operation>)', '\\1\\2\\3', recette)
+
+        # Écriture du corpus final
+        with open(f"{args.rep_corpus_final}/{fichier}", 'w') as recette_finale:
+            recette_finale.write(recette)
+
 
 if __name__ == "__main__":
 

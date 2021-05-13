@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55929">
+ <titre>Coeur très moelleux au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>120 g de chocolat riche en cacao</p>
+ <p>120 g de beurre + un peu pour le moule</p>
+ <p>80 à 100 g de sucre glace</p>
+ <p>3 oeufs</p>
+ <p>-1 cuillerée à soupe de farine + un peu pour le moule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> (thermostat 6 - 180 ° c). beurrez et <operation temps=6.86min espace=12>farinez un <ingredient quantite=1><recipient>moule</recipient></ingredient></operation>. <operation temps=6.86min espace=12>cassez le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation> et <operation temps=6.86min espace=12>faites - le fondre dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>beurre</ingredient></operation> coupé en morceaux. <operation temps=6.86min espace=12>mélangez jusqu’ à obtention d’ une pâte onctueuse</operation>. ajoutez le <ingredient quantite=1>sucre glace</ingredient>, puis <operation temps=6.86min espace=12>incorporez les <ingredient quantite=3>oeufs</ingredient> un <ingredient quantite=1>à</ingredient> un en</operation> battant l’ ensemble au fouet à main. <operation temps=6.86min espace=12>ajoutez la</operation> <ingredient quantite=1>farine</ingredient> et <operation temps=6.86min espace=12>continuez de</operation> mélanger le tout. <operation temps=6.86min espace=12>versez cette préparation dans le <ingredient quantite=1><recipient>moule</recipient></ingredient> et enfournez à mi-hauteur,</operation> puis <operation temps=25.0min espace=12>laissez cuire 25 min</operation>. a la sortie du <recipient>four</recipient>, <operation temps=6.86min espace=12>laissez tiédir avant de</operation> démouler le gâteau avec précaution (il est fragile). disposez - le (à l’ endroit) sur un <recipient>plat</recipient> de service et <operation temps=6.86min espace=12>mettez au frais environ 2 heures</operation>. a <operation temps=6.86min espace=12>servir frais</operation>.
+]]>
+ </preparation>
+</recette>

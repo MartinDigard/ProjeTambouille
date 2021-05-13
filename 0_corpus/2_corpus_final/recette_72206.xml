@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72206">
+ <titre>Pastasotto chorizo, chèvre, oeuf (pâtes façon risotto) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de coquillettes (ou autre selon le goût) </p>
+ <p>1/2 chorizo (fort ou doux) </p>
+ <p>1 crottin de chavignol ou assimilé</p>
+ <p>2 oeufs</p>
+ <p>50 cl de bouillon de volaille</p>
+ <p>un peu d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>chorizo</ingredient> en rondelles fines, et le <ingredient quantite=1>crottin</ingredient> en petit cubes. peser les pâtes et préparer le <ingredient quantite=1>bouillon</ingredient> dans de l’ eau bouillante. <operation temps=6.86min espace=9>faire revenir le <ingredient quantite=1>chorizo</ingredient> dans un <ingredient quantite=1>peu</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. (vous pouvez jeter le jus de cuisson pour alléger, moi je préfère le garder). ajouter les pâtes, <operation temps=6.86min espace=9>laisser torréfier un peu</operation>, assaisonner, puis <operation temps=6.86min espace=9>couvrir avec le</operation> <ingredient quantite=1>bouillon</ingredient> et <operation temps=6.86min espace=9>laisser cuire à feu doux en</operation> remuant régulièrement. a la fin de l’ absorption ajouter le <ingredient quantite=1>crottin</ingredient>, <operation temps=6.86min espace=9>laisser cuire un peu</operation> puis ajouter les <ingredient quantite=2>oeufs</ingredient>: on les casse dans la <recipient>poêle</recipient> et on mélange tout pour que les <ingredient quantite=2>oeufs</ingredient> enrobent les pâtes. <operation temps=6.86min espace=9>laisser cuire quelques minutes et servir chaud</operation>. c’ est un <recipient>plat</recipient> assez bourratif mais qui plaira aux petits comme aux grands.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222275">
+ <titre>Hamburger au chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pains pour hamburger</p>
+ <p>8 rondelles de chèvre</p>
+ <p>4 steak hachés</p>
+ <p>1 oignon</p>
+ <p>2 cuillères à soupe de crème fraiche liquide </p>
+ <p>1 cuillère à soupe de lait</p>
+ <p>quelques feuilles de salade</p>
+ <p>1 tomate</p>
+ <p>sauce hamburger (selon vos goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par couper en petits morceaux les 8 <ingredient quantite=8>rondelles de chèvre</ingredient>, les mettre dans un bol avec le <ingredient quantite=1>lait</ingredient> et la <ingredient quantite=2>crème fraiche</ingredient>. mettre le mélange chèvre et la crème sur le côté supérieur du <ingredient quantite=4>hamburger</ingredient> et mettre de côté. faire cuire le <ingredient quantite=4>steak haché</ingredient> avec les <ingredient quantite=1>oignons</ingredient>. pendant ce temps, <operation temps=6.86min espace=10>coupez la <ingredient quantite=1>tomate</ingredient> en</operation> <ingredient quantite=8>rondelles</ingredient> et mettre les <ingredient quantite=4>hamburgers</ingredient> sous le grill pendant quelques minutes. a la sortie du <recipient>four</recipient>, mettre un peu de sauce <ingredient quantite=4>hamburger</ingredient> sur la face inférieur, mettre un <ingredient quantite=4>steak haché</ingredient> sur chaque <ingredient quantite=4>hamburger</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, quelques <ingredient quantite=1>feuilles de salade</ingredient> et la <ingredient quantite=1>tomate</ingredient>. bon appétit! pas très diététique je l’ avoue, mais vraiment très bon à mon goût.
+]]>
+ </preparation>
+</recette>

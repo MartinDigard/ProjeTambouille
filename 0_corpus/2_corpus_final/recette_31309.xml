@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31309">
+ <titre>Escavèche de Chimay</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ anguille</p>
+ <p>1 noix de beurre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>1/2 l d’ eau</p>
+ <p>1/2 l de vinaigre</p>
+ <p>Pour la quantité de ces différents ingrédients, voir selon goût: </p>
+ <p>thym</p>
+ <p>laurier</p>
+ <p>poivre</p>
+ <p>clou de girofle</p>
+ <p>persil</p>
+ <p>échalotes</p>
+ <p>oignons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+frire au <ingredient quantite=1>beurre</ingredient> le poisson coupé en morceaux. <operation temps=6.86min espace=15>laisser refroidir 12 heures</operation>. <operation temps=6.86min espace=15>garnir le fond d’ un <recipient>plat</recipient> (terre cuite</operation>...) de <ingredient quantite=1>thym</ingredient>, <ingredient quantite=1>laurier</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>clou de girofle</ingredient>. alterner morceaux de poisson, <ingredient quantite=1>persil</ingredient>, <ingredient quantite=1>échalotes</ingredient> hachées et <ingredient quantite=1>oignons</ingredient> en rondelles. délayer la farine dans l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>vinaigre</ingredient>. saler, poivrer. verser sur 250 g de <ingredient quantite=1>beurre</ingredient> bien brun, <operation temps=6.86min espace=15>laisser bouillir</operation> et verser la sauce bouillante sur le poisson. <operation temps=6.86min espace=15>laisser refroidir 24 heures</operation> et fermer hermétiquement. peut être accompagné de frites en <recipient>plat</recipient> principal ou de pain et beurre en accompagnement. une bière de chimay
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42909">
+ <titre>Quiche au maquereau et à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de filets de maquereau au poivre</p>
+ <p>1 pâte brisée</p>
+ <p>4 oeufs</p>
+ <p>20 cl de crème liquide</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>2 tomates</p>
+ <p>100 g de gruyère râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient>plat</recipient> à tarte, piquez - le à la fourchette, puis enduisez - le de <ingredient quantite=1>moutarde</ingredient></operation>. <operation temps=6.86min espace=11>mélangez les <ingredient quantite=4>oeufs</ingredient> et la</operation> <ingredient quantite=1>crème</ingredient>, <operation temps=6.86min espace=11>ajoutez 75 g de</operation> <ingredient quantite=1>râpé</ingredient>, <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>. après avoir ôté la peau, émiettez les <ingredient quantite=1>filets de maquereau</ingredient> sur le fond de tarte, puis <operation temps=6.86min espace=11>recouvrez du mélange <ingredient quantite=4>oeufs</ingredient> - <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=11>découpez les <ingredient quantite=2>tomates</ingredient> en tranches,</operation> puis <operation temps=6.86min espace=11>déposez - les sur le dessus de la tarte</operation>. <operation temps=45.0min espace=11>recouvrez avec le reste de <ingredient quantite=1>râpé</ingredient>, puis passez au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) 45 min</operation>. dégustez chaud ou froid, accompagné d’ une salade verte. cette tarte convient en entrée pour 6 personnes ou en <recipient>plat</recipient> pour 4.
+]]>
+ </preparation>
+</recette>

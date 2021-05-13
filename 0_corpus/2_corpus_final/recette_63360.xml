@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63360">
+ <titre>Omelette au chorizo-poivron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes de terre</p>
+ <p>1 chorizo</p>
+ <p>1 poivron (couleur au choix) </p>
+ <p>8 oeufs</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper les <ingredient quantite=4>pommes de terre</ingredient> en dés. les <operation temps=6.86min espace=7>faire revenir dans l’ huile d’ <ingredient quantite=1>olive</ingredient>, les</operation> réserver. couper le <ingredient quantite=1>chorizo</ingredient> en lamelles et le <ingredient quantite=1>poivron</ingredient> en petits dés. <operation temps=6.86min espace=7>faire revenir les <ingredient quantite=1>poivrons</ingredient> dans un peu d’ huile</operation> puis rajouter le <ingredient quantite=1>chorizo</ingredient> et enfin les <ingredient quantite=4>pommes de terre</ingredient>, bien mélanger. battre les <ingredient quantite=8>oeufs</ingredient> avec du <ingredient quantite=1>sel</ingredient> et du poivre, les verser sur la préparation et terminer la cuisson de l’ omelette. très bon <recipient>plat</recipient> du soir.
+]]>
+ </preparation>
+</recette>

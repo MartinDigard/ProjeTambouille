@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168650">
+ <titre>Sauce bolognese au vin rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de porc haché</p>
+ <p>250 g de boeuf haché</p>
+ <p>2 oignons </p>
+ <p>2 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>6 tomates moyennes</p>
+ <p>2 carottes</p>
+ <p>1 boite de concentré de tomate</p>
+ <p>40 cl de coulis de tomate</p>
+ <p>20 cl de vin rouge</p>
+ <p>sel, poivre</p>
+ <p>origan, thym, laurier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=13>faire chauffer l’ huile d’ <ingredient quantite=1>olive</ingredient>, y</operation> ajouter les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient>, les viandes hachées. saler et poivrer, ajouter une <ingredient quantite=1>boite de concentré de tomate</ingredient>, remuer jusqu’ à ce que ça devienne <ingredient quantite=1>rouge</ingredient>, ensuite laver et couper les <ingredient quantite=6>tomates</ingredient> en dés ainsi que les <ingredient quantite=2>carottes</ingredient> en rondelles, mélanger et ajouter le <ingredient quantite=1>coulis de tomate</ingredient> avec <ingredient quantite=1>thym</ingredient>, <ingredient quantite=1>origan</ingredient>, <ingredient quantite=1>laurier</ingredient>. <operation temps=45.0min espace=13>laisser cuire 45 min à feu doux</operation>, ajouter le <ingredient quantite=1>vin rouge</ingredient> pas trop fort de préférence, <operation temps=30.0min espace=13>laisser à nouveau sur le feu pendant 30 minutes</operation>, goûter la sauce si elle est trop forte, ajouter un petit verre d’ eau et <operation temps=6.86min espace=13>laisser mijoter un peu plus</operation>. personnellement à la maison nous aimons le piquant, donc j’ y ajoute un peu de piment de cayenne moulu, c’ est un délice! montepulcciano <ingredient quantite=1>rouge</ingredient>
+]]>
+ </preparation>
+</recette>

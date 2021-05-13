@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20980">
+ <titre>Tarte au potiron et champignons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>1 kg de potiron</p>
+ <p>400 g de champignons de Paris</p>
+ <p>50 g d’ olives noires dénoyautées</p>
+ <p>1/2 cuillère à café de noix de muscade râpée</p>
+ <p>150 g de gruyère râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler le <ingredient quantite=1>potiron</ingredient> en cubes et le <operation temps=20.0min espace=12>faire cuire 20 min dans une <recipient>casserole</recipient> avec un fond d’ eau</operation>. egoutter. rincer et émincer les <ingredient quantite=1>champignons</ingredient>, les <operation temps=10.0min espace=12>faire sauter 10 minutes à la <recipient>poêle</recipient> dans un peu de beurre</operation>. etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, piquer le fond à la fourchette et la <operation temps=6.86min espace=12>faire cuire à blanc 15 min, au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). mélanger le <ingredient quantite=1>potiron</ingredient>, les <ingredient quantite=1>champignons</ingredient>, les <ingredient quantite=1>olives</ingredient>, le fromage et parfumer de <ingredient quantite=1>noix de muscade</ingredient>, bien saler et poivrer. verser le tout sur la <ingredient quantite=1>pâte</ingredient> et remettre au <recipient>four</recipient> 15 min. on peut réduire le <ingredient quantite=1>potiron</ingredient> et les <ingredient quantite=1>champignons</ingredient> en purée et ajouter de la crème et des oeufs.
+]]>
+ </preparation>
+</recette>

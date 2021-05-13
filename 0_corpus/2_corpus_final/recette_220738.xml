@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220738">
+ <titre>Frita au poulet (de ma mamy) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 morceaux de poulet (cuisses de préférence) </p>
+ <p>4 poivrons</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>400 g de tomates concassées</p>
+ <p>400 g coulis de tomate</p>
+ <p>huile olive</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>ail</ingredient> finement et les mettre à dorer dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>. couper les <ingredient quantite=4>poivrons</ingredient> en morceaux de taille moyenne et les ajouter aux <ingredient quantite=1>oignons</ingredient>. <operation temps=6.86min espace=9>laisser cuire les <ingredient quantite=4>poivrons</ingredient> quelques minutes</operation> puis <operation temps=6.86min espace=9>ajoutez les morceaux de <ingredient quantite=4>poulet</ingredient> pour les</operation> <operation temps=25.0min espace=9>faire dorer</operation>. pour terminer ajouter la pulpe et les <ingredient quantite=1>tomates concassées</ingredient> et <operation temps=6.86min espace=9>laisser mijoter une bonne heure</operation>. cote de provence rouge
+]]>
+ </preparation>
+</recette>

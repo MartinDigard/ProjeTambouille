@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40976">
+ <titre>Bäckeoffe au poisson</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>40 g de beurre</p>
+ <p>40 g de lardons fins</p>
+ <p>2 oignons moyens coupés en rondelles</p>
+ <p>1 gousse d’ ail écrasée</p>
+ <p>1 kg de pommes de terres charlotte</p>
+ <p>1/2 litre de fumet de poisson</p>
+ <p>8 petits filets de perche</p>
+ <p>2 feuilles de laurier</p>
+ <p>1 verre de vin blanc sec (Riesling) </p>
+ <p>1 brin de thym</p>
+ <p>1 pincée de safran</p>
+ <p>1 cuillère à café de concentré de tomate</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=2>oignons coupés</ingredient>, l’ <ingredient quantite=1>ail écrasé</ingredient>, les <ingredient quantite=1>lardons</ingredient>, le beurre. ajouter les <ingredient quantite=1>pommes de terres</ingredient> coupées en <ingredient quantite=2>rondelles</ingredient> moyennes, le <ingredient quantite=1>vin blanc</ingredient>, le fumé de <ingredient quantite=1>poisson</ingredient>, les deux <ingredient quantite=2>feuilles de laurier</ingredient>, le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>safran</ingredient>, le <ingredient quantite=1>concentré de tomate</ingredient>. saler et poivrer. <operation temps=50.0min espace=15>laisser mijoter à feu doux pendant 45 à 50 min</operation>. faire revenir les <ingredient quantite=8>filets de perche</ingredient> à la <ingredient quantite=1>fin</ingredient> de la cuisson des <ingredient quantite=1>pommes de terres</ingredient>. déposer les <ingredient quantite=8>filets</ingredient> de <ingredient quantite=1>poisson</ingredient> sur les <ingredient quantite=1>pommes de terres</ingredient> et mettre au <recipient>four</recipient> 15 min à 180 ° c (thermostat 6) recouvert d’ une <ingredient quantite=1>feuille</ingredient> de papier aluminium. servir chaud. si en cours de cuisson vous <operation temps=6.86min espace=15>remarquez qu’ il n’ y</operation> a plus assez de jus rajoutez un peu de <ingredient quantite=1>fumet de poisson</ingredient>. riesling ou sylvaner
+]]>
+ </preparation>
+</recette>

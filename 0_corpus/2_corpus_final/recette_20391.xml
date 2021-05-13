@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20391">
+ <titre>Galettes d’ avoine au céleri</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de flocons d’ avoine</p>
+ <p>1 oignon</p>
+ <p>1 poireau</p>
+ <p>75 g de céleri-rave râpé</p>
+ <p>1 branche de céleri émincée finement</p>
+ <p>10 g de beurre</p>
+ <p>12 cl de lait</p>
+ <p>12 cl d’ eau</p>
+ <p>1 oeuf</p>
+ <p>chapelure</p>
+ <p>sel, poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faites revenir les <ingredient quantite=1>céleris</ingredient> dans le beurre fondu</operation> puis <operation temps=6.86min espace=13>versez le lait et l’ <ingredient quantite=1>eau</ingredient></operation>. <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient> en pluie</operation> et <operation temps=6.86min espace=13>laissez épaissir sur feu doux</operation>. lorsque la pâte est épaisse, <operation temps=6.86min espace=13>ôtez du feu</operation> et <operation temps=6.86min espace=13>laissez tièdir</operation>. rectifiez l’ assaisonnement puis <operation temps=6.86min espace=13>formez des boules de la taille d’ un <ingredient quantite=1>oeuf</ingredient> que vous</operation> <operation temps=6.86min espace=13>aplatissez sur 1 cm d’ épaisseur</operation>. <operation temps=6.86min espace=13>passez les galettes dans l’ <ingredient quantite=1>oeuf</ingredient></operation> battu puis dans la <ingredient quantite=1>chapelure</ingredient>. <operation temps=10.0min espace=13>faites chauffer l’</operation> huile dans une <recipient>poêle</recipient> et <operation temps=6.86min espace=13>faites - y frire les galettes de chaque côté</operation>.
+]]>
+ </preparation>
+</recette>

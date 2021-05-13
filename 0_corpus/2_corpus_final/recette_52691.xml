@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52691">
+ <titre>Courge farcie de ma maman</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse courge (environ 3, 5 kg type Rouge vif d’ Etampes) </p>
+ <p>500 g de chair à saucisses</p>
+ <p>350 g de bœuf haché</p>
+ <p>3 œufs</p>
+ <p>100 g de poudre d’ amandes</p>
+ <p>100 g de fromage râpé</p>
+ <p>2 oignons</p>
+ <p>200 g de champignons</p>
+ <p>100 g de pain trempé dans du lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à thermostat 7 (210 ° c). enlever un chapeau à la <ingredient quantite=1>courge</ingredient>, puis retirer les graines et les filaments sans ôter la <ingredient quantite=1>chair</ingredient> ; saler l’ intérieur. éplucher et émincer les <ingredient quantite=2>oignons</ingredient>, puis les <operation temps=6.86min espace=12>faire revenir dans une <recipient>poêle</recipient> avec les <ingredient quantite=1>champignons</ingredient></operation> émincés. dans un <recipient>saladier</recipient>, mélanger soigneusement la <ingredient quantite=1>chair à saucisses</ingredient>, le <ingredient quantite=1>bœuf haché</ingredient>, les <ingredient quantite=3>œufs</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, le <ingredient quantite=1>fromage râpé</ingredient>, le <ingredient quantite=1>pain trempé</ingredient> dans le <ingredient quantite=1>lait</ingredient> et les <ingredient quantite=2>oignons</ingredient> et <ingredient quantite=1>champignons</ingredient> revenus ; saler et poivrer. <operation temps=6.86min espace=12>remplir la <ingredient quantite=1>courge</ingredient> de ce mélange</operation> et remettre le chapeau. déposer la <ingredient quantite=1>courge</ingredient> sur une lèchefrite, enfourner et <operation temps=6.86min espace=12>laisser cuire pendant 3 heures</operation>. note: la <ingredient quantite=1>courge</ingredient> devient complètement noire, d’ aspect brûlé et c’ est normal.
+]]>
+ </preparation>
+</recette>

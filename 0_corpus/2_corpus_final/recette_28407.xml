@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28407">
+ <titre>Crème mic-mac chocolat orange</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la crème au chocolat: </p>
+ <p>75 g de chocolat pâtissier</p>
+ <p>50 cl de lait</p>
+ <p>1/2 cuillère à café de café soluble</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>70 g de sucre en poudre</p>
+ <p>1 cuillère à soupe de Maïzena</p>
+ <p>Pour la crème à l’ orange: </p>
+ <p>1 orange non traitée</p>
+ <p>50 cl de lait</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>90 g de sucre</p>
+ <p>1 cuillère à soupe de Maïzena</p>
+ <p>1 cuillère à café de Cointreau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faites fondre le <ingredient quantite=1>chocolat</ingredient></operation> coupé en petits morceaux avec 2 <ingredient quantite=1>cuillères</ingredient> de lait à feu doux. ajouter le reste du lait et le <ingredient quantite=1>café</ingredient>, <operation temps=6.86min espace=15>laisser chauffer doucement en</operation> remuant. <operation temps=6.86min espace=15>fouettez les <ingredient quantite=3>jaunes</ingredient> d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient> au batteur, <operation temps=6.86min espace=15>ajoutez la</operation> <ingredient quantite=1>maïzena</ingredient> et <operation temps=6.86min espace=15>versez le lait au <ingredient quantite=1>chocolat</ingredient> chaud en fouettant</operation>. <operation temps=6.86min espace=15>remettez le tout dans la <recipient>casserole</recipient></operation> et <operation temps=6.86min espace=15>faites épaissir à feu doux en</operation> remuant. au premier bouillon, <operation temps=0.25min espace=15>retirez du feu</operation> et <operation temps=6.86min espace=15>laissez tiédir</operation>. <operation temps=6.86min espace=15>râpez le zeste de l’ <ingredient quantite=1>orange</ingredient></operation>. <operation temps=6.86min espace=15>faites chauffer le lait</operation>, <operation temps=6.86min espace=15>mettez - y le zeste</operation> et <operation temps=10.0min espace=15>laissez infuser 10 min</operation>. <operation temps=6.86min espace=15>fouettez les <ingredient quantite=3>jaunes</ingredient> d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient> et la maïzena. <operation temps=6.86min espace=15>versez le lait à l’ <ingredient quantite=1>orange</ingredient></operation> filtré et fouettant. <operation temps=6.86min espace=15>remettez le tout à feu doux</operation> et <operation temps=6.86min espace=15>laissez épaissir en</operation> remuant. <operation temps=6.86min espace=15>laissez tiédir</operation> puis <operation temps=6.86min espace=15>incorporez le <ingredient quantite=1>cointreau</ingredient></operation>. <operation temps=6.86min espace=15>remplissez les coupes en</operation> alternant crème au <ingredient quantite=1>chocolat</ingredient> et à l’ <ingredient quantite=1>orange</ingredient> pour un effet marbré, <operation temps=6.86min espace=15>réservez au frais jusqu’ au moment de</operation> <operation temps=2.0min espace=15>servir</operation>.
+]]>
+ </preparation>
+</recette>

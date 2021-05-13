@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71086">
+ <titre>Boulettes sauce crémeuse au madère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour les boulettes</p>
+ <p>450 g de chair à saucisse</p>
+ <p>150 g de viande de boeuf hâchée (reste de pot au feu) </p>
+ <p>1 belle échalotte</p>
+ <p>1 gousse d’ ail</p>
+ <p>persil</p>
+ <p>sel / poivre</p>
+ <p>Pour la sauce</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>le volume de la boîte en madère</p>
+ <p>eau</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la <ingredient quantite=1>chair à saucisse</ingredient>, le <ingredient quantite=1>boeuf</ingredient> ainsi que l’ <ingredient quantite=1>échalotte</ingredient>, l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> hâchés. assaisonner selon le goût. façonner des <ingredient quantite=1>boulettes</ingredient> de la taille d’ un <ingredient quantite=1>petit</ingredient> oeuf. <operation temps=6.86min espace=14>faire dorer les <ingredient quantite=1>boulettes</ingredient> dans une <recipient>sauteuse</recipient> dans un peu de matière grasse</operation>. préparer la <ingredient quantite=1>sauce</ingredient>: dans un bol (taille bol pour le <ingredient quantite=1>petit</ingredient> déjeuner) mettre le <ingredient quantite=1>concentré de tomate</ingredient>, le <ingredient quantite=1>madère</ingredient>, et compléter avec l’ <ingredient quantite=1>eau</ingredient> jusqu’ au bord. quand les <ingredient quantite=1>boulettes</ingredient> sont bien dorées verser le mélange à la <ingredient quantite=1>tomate</ingredient> dans la <recipient>sauteuse</recipient>, <operation temps=45.0min espace=14>laisser mijoter 45 min</operation>. quand les <ingredient quantite=1>boulettes</ingredient> sont cuites ajouter à la <ingredient quantite=1>sauce</ingredient> la <ingredient quantite=3>crème</ingredient>, <operation temps=6.86min espace=14>servir bien chaud</operation>. servir avec des pâtes, du riz ou mieux, de la semoule de couscous. pas cher et délicieux.
+]]>
+ </preparation>
+</recette>

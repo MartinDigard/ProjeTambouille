@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32308">
+ <titre>Tarte au coulommiers</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pâte brisée</p>
+ <p>3 ou 4 petites pommes de terre</p>
+ <p>1 coulommiers ou un brie</p>
+ <p>3 oeufs</p>
+ <p>100 ml de crème fraîche liquide</p>
+ <p>150 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=3>pommes de terre</ingredient> à l’ eau. etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. la <operation temps=6.86min espace=8>recouvrir avec le <ingredient quantite=1>coulommiers</ingredient> (ou le</operation> <ingredient quantite=1>brie</ingredient>) coupé en tranches. disposer dessus les <ingredient quantite=3>pommes de terre</ingredient> coupées en rondelles. ajouter le <ingredient quantite=1>gruyère râpé</ingredient>. mélanger les 3 <ingredient quantite=3>oeufs</ingredient> et la <ingredient quantite=1>crème liquide</ingredient>, avec du sel et du poivre. verser la préparation sur la tarte. faîtes cuire 30 mn environ à th 6. on peut manger cette tarte en <recipient>plat</recipient> principal accompagnée d’ une salade.
+]]>
+ </preparation>
+</recette>

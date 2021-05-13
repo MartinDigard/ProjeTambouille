@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53910">
+ <titre>Crème de fruits de la passion</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>28 cl de jus de fruits de la passion (en bouteille) </p>
+ <p>3 oeufs</p>
+ <p>150 g de sucre</p>
+ <p>75 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire chauffer le <ingredient quantite=1>sucre</ingredient> avec le <ingredient quantite=1>jus</ingredient> dans une <recipient>casserole</recipient>, y</operation> <operation temps=6.86min espace=7>faire fondre le beurre à feu doux</operation>. préparer un <recipient>bain - marie</recipient>. battre les <ingredient quantite=3>oeufs</ingredient> et les ajouter au mélange, hors du feu. <operation temps=10.0min espace=7>faire cuire le mélange au <recipient>bain - marie</recipient> pendant 10 min ou plus, sans</operation> cesser de remuer. adapter le temps de cuisson à la texture désirée: le mélange épaissit de plus en plus. empoter à chaud et <operation temps=6.86min espace=7>laisser refroidir à température ambiante,</operation> puis placer au frigo pendant plusieurs heures. succulente et extra simple à réaliser, cette crème multi-usages peut <operation temps=6.86min espace=7>servir à</operation> napper ou fourrer des gâteaux, être étalée sur une tartine ou mangée à la petite cuillère... <operation temps=5.0min espace=7>régalez -vous</operation>!
+]]>
+ </preparation>
+</recette>

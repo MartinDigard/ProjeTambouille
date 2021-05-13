@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21353">
+ <titre>Biscuit glacé aux fruits secs et aux pépites de chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>450 g de sucre roux</p>
+ <p>675 g de farine</p>
+ <p>22, 5 cl d’ eau chaude</p>
+ <p>1 cuillère à café de bicarbonate de soude</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>1 cuillère à café de sel</p>
+ <p>2 oeufs battus</p>
+ <p>22, 5 cl d’ huile</p>
+ <p>225 g de raisins et de noisettes</p>
+ <p>200 g de chocolat en dés</p>
+ <p>225 g de sucre glace + quelques cuillères à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=15>fouettez les jaunes avec le</operation> <ingredient quantite=1>sucre</ingredient> puis <operation temps=6.86min espace=15>incorporez la farine et le <ingredient quantite=1>sel</ingredient></operation>. délayez le <ingredient quantite=1>bicarbonate</ingredient>, la <ingredient quantite=1>levure</ingredient> et les épices dans l’ <ingredient quantite=1>eau chaude</ingredient> puis <operation temps=6.86min espace=15>versez ce mélange dans la préparation précédente</operation>. <operation temps=6.86min espace=15>incorporez l’ huile</operation> puis <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=1>noisettes</ingredient> et le <ingredient quantite=1>chocolat</ingredient></operation>. <operation temps=6.86min espace=15>huilez la lèchefrite</operation> et <operation temps=6.86min espace=15>disposez</operation> dessus un papier sulfurisé huilé également. <operation temps=15.0min espace=15>versez la pâte dessus et enfournez pour 15 minutes de cuisson</operation>. pendant ce temps, <operation temps=6.86min espace=15>réalisez le glaçage en</operation> délayant le <ingredient quantite=1>sucre</ingredient> glace avec quelques <ingredient quantite=1>cuillères à soupe</ingredient> d’ <ingredient quantite=1>eau</ingredient> jusqu’ à l’ obtention d’ une pâte lisse et brillante. <operation temps=6.86min espace=15>etalez le glaçage sur le biscuit dès la sortie du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

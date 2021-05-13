@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31117">
+ <titre>Clafoutis aux prunes et aux groseilles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de prunes (prunes rouges, quetches ou mirabelles) </p>
+ <p>150 g de groseilles</p>
+ <p>4 oeufs</p>
+ <p>125 g de farine</p>
+ <p>120 g de sucre en poudre</p>
+ <p>30 cl de lait</p>
+ <p>20 g de beurre</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>ouvrir les <ingredient quantite=1>prunes</ingredient>, les dénoyauter</operation> puis égrapper les <ingredient quantite=1>groseilles</ingredient>. beurrer généreusement un <recipient>plat</recipient> à gratin (type <recipient>plat</recipient> à tarte en terre vernissée). disposer les <ingredient quantite=1>prunes</ingredient> coupées en deux au milieu et les autres en quartiers autour. éparpiller les <ingredient quantite=1>groseilles</ingredient> et saupoudrer avec 60 g de <ingredient quantite=1>sucre</ingredient>. dans une <recipient>terrine</recipient>, mélanger les <ingredient quantite=4>oeufs</ingredient>, la farine, 60 g de <ingredient quantite=1>sucre</ingredient> et une pincée de <ingredient quantite=1>sel</ingredient>. délayer avec le lait froid. verser la pâte sur les fruits et <operation temps=30.0min espace=12>laisser reposer 30 mn</operation>. préchauffer le <recipient>four</recipient> à th 6 (180 ° c) et <operation temps=40.0min espace=12>laisser cuire 40 mn</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69464">
+ <titre>Poelée asiatique à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de germes de soja frais (haricots mungo) </p>
+ <p>la moitié d’ un chou chinois</p>
+ <p>6 rondelles d’ ananas frais ou surgelé</p>
+ <p>150 g de nouilles chinoises</p>
+ <p>2 cuillères à soupe de sauce soja (suivant votre convenance) </p>
+ <p>1 gousse d’ ail</p>
+ <p>1 échalote</p>
+ <p>1 cuillère à café de persil haché</p>
+ <p>peu de sel (la sauce soja est déjà très salée!) </p>
+ <p>poivre</p>
+ <p>50 g de pousses de bambou (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire revenir quelques secondes les <ingredient quantite=1>germes</ingredient> de <ingredient quantite=1>soja</ingredient> dans une <recipient>sauteuse</recipient> avec de l’ huile d’ olive</operation>. ajouter le <ingredient quantite=1>chou</ingredient> finement émincé, ainsi que l’ <ingredient quantite=6>ananas</ingredient> en morceaux, l’ <ingredient quantite=1>ail</ingredient> écrasé, l’ <ingredient quantite=1>échalote</ingredient> émincée, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=5.0min espace=13>faire sauter 5 min</operation>. pendant ce temps, faire cuire les <ingredient quantite=1>nouilles chinoises</ingredient> à part. ajouter les <ingredient quantite=1>nouilles</ingredient> dans la <recipient>sauteuse</recipient> ainsi que les <ingredient quantite=1>pousses de bambou</ingredient> (facultatif) et enfin la <ingredient quantite=1>sauce soja</ingredient>. l’ ananas <ingredient quantite=6>surgelé</ingredient> est bien meilleur et donne plus de goût à la poêlée que l’ <ingredient quantite=6>ananas</ingredient> en boîte.
+]]>
+ </preparation>
+</recette>

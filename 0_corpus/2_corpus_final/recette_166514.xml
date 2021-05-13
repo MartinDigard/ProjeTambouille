@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166514">
+ <titre>Glace au citron lapopuce</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>180ml de creme liquide</p>
+ <p>180ml de lait entier</p>
+ <p>3 jaunes d’ oeufs, 150gr de sucre, 1, 5 cuillérée a dessert de zeste de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faites bouillir la crème <ingredient quantite=1>liquide</ingredient> avec le</operation> <ingredient quantite=1>lait</ingredient> et ajouter - y le sucre. <operation temps=6.86min espace=6>battez les jaunes d’ oeufs</operation> et <operation temps=6.86min espace=6>incorporez - y un peu du mélange crémeux chaud</operation>. mélanger bien le tout pour le reverser ensuite dans la <recipient>casserole</recipient> et <operation temps=6.86min espace=6>faites cuire le tout au <recipient>bain marie</recipient> tout en</operation> remuant (a l’ aide d’ un fouet) jusqu’ a obtention d’ une crème fluide. incorporer alors le <ingredient quantite=1>zeste de citron</ingredient> et <operation temps=6.86min espace=6>laisser refroidir le tout au réfrigirateur</operation>. aprés refroidissement, vous pourrez <operation temps=6.86min espace=6>faire tourner ce mélange dans la <recipient>sorbetière</recipient> 35mn environ, ensuite</operation> <operation temps=6.86min espace=6>mettez la crème</operation> glacée environ une - demi heure au freezer
+]]>
+ </preparation>
+</recette>

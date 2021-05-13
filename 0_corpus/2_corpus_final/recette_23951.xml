@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23951">
+ <titre>Poulet à la crème et fricassée de girolles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>600 g de girolles</p>
+ <p>12 petits oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>20 cl de crème fraîche</p>
+ <p>50 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faites chauffer l’ <ingredient quantite=1>huile</ingredient> et le beurre dans une <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=15>faites - y</operation> revenir les <ingredient quantite=1>petits oignons</ingredient> pelés. <operation temps=6.86min espace=15>découpez le <ingredient quantite=1>poulet</ingredient> en morceaux</operation>. <operation temps=6.86min espace=15>retirez les <ingredient quantite=1>oignons</ingredient> dorés de la <recipient>cocotte</recipient></operation> et <operation temps=6.86min espace=15>faites - y</operation> <operation temps=15.0min espace=15>revenir les morceaux de <ingredient quantite=1>poulet</ingredient> sur toutes leurs faces environ 15 min</operation>. <operation temps=6.86min espace=15>salez,</operation> <operation temps=0.25min espace=15>poivrez et</operation> <operation temps=6.86min espace=15>saupoudrez de <ingredient quantite=1>farine</ingredient></operation>. versez le <ingredient quantite=1>vin blanc</ingredient> et remettez les <ingredient quantite=1>petits oignons</ingredient> dans la <recipient>cocotte</recipient>. <operation temps=0.25min espace=15>couvrez</operation> et <operation temps=40.0min espace=15>laissez mijoter 40 min à feu doux</operation>. pendant ce temps, nettoyez les <ingredient quantite=1>girolles</ingredient>, <operation temps=4.0min espace=15>égouttez - les</operation> et <operation temps=6.86min espace=15>faites - les</operation> <operation temps=15.0min espace=15>revenir à la <recipient>poêle</recipient> dans du beurre, 15 min à feu doux</operation>. une fois l’ eau rendue et évaporée, <operation temps=6.86min espace=15>salez,</operation> <operation temps=0.25min espace=15>poivrez et</operation> <operation temps=6.86min espace=15>saupoudrez d’ <ingredient quantite=2>ail</ingredient> hachés</operation>. <operation temps=6.86min espace=15>laissez rissoler quelques minutes</operation>. <operation temps=6.86min espace=15>ajoutez la <ingredient quantite=1>crème</ingredient> dans la <recipient>cocotte</recipient> du</operation> <ingredient quantite=1>poulet</ingredient> et <operation temps=6.86min espace=15>réchauffez quelques instants de manière à</operation> <operation temps=6.86min espace=15>obtenir une sauce onctueuse</operation>. <operation temps=6.86min espace=15>servez le <ingredient quantite=1>poulet</ingredient> à la <ingredient quantite=1>crème</ingredient> avec la fricassée de <ingredient quantite=1>girolles</ingredient>, et éventuellement quelques pommes de terre bintje cuites à la vapeur</operation>.
+]]>
+ </preparation>
+</recette>

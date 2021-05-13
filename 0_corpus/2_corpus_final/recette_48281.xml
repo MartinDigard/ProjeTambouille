@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48281">
+ <titre>Colombo de thon</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de thon rouge</p>
+ <p>1 cuillère à soupe de colombo</p>
+ <p>2 citrons</p>
+ <p>gingembre frais (2cm) </p>
+ <p>2 gousses d’ ail</p>
+ <p>2 oignons</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>200 g de riz</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>thon</ingredient> en gros cubes, presser le jus des <ingredient quantite=2>citrons</ingredient> et le mélanger avec le <ingredient quantite=1>colombo</ingredient>. verser le jus sur le <ingredient quantite=1>thon</ingredient> puis ajouter le gingembre râpé et l’ <ingredient quantite=2>ail</ingredient> haché. <operation temps=30.0min espace=11>faire mariner le tout pendant 30 minutes</operation>. éplucher et couper les <ingredient quantite=2>oignons</ingredient> en rondelles. les <operation temps=6.86min espace=11>faire revenir dans l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>sauteuse</recipient> ou une <recipient>poêle</recipient></operation>. ajouter le <ingredient quantite=1>thon</ingredient> et sa marinade, puis <operation temps=15.0min espace=11>laisser cuire à petit feu 15 minutes</operation>. pendant ce temps, <operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>riz</ingredient> à l’ eau</operation> salée, éplucher les tomates et les couper en petits dés. <operation temps=6.86min espace=11>servir le <ingredient quantite=1>thon</ingredient> avec le <ingredient quantite=1>riz</ingredient></operation> entouré des petits dés de tomates. attention: ne pas trop <operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>thon</ingredient> car sinon il</operation> durcit.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38657">
+ <titre>Escalopes de poulet de ma maman</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 escalopes de poulet</p>
+ <p>25 cl de bière</p>
+ <p>50 g de raisin sec</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ <p>2 oignons</p>
+ <p>10 tranches fines de poitrine fumée</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire tremper les <ingredient quantite=1>raisins</ingredient> dans la bière 1 heure ainsi que le <ingredient quantite=1>sucre</ingredient> avant toute préparation</operation>. couper les <ingredient quantite=3>escalopes</ingredient> en cubes (assez gros) et les <operation temps=6.86min espace=8>faire rissoler dans de l’</operation> huile avec les <ingredient quantite=2>oignons</ingredient> hachés. quand le <ingredient quantite=3>poulet</ingredient> est cuit, rajouter la pitrine <ingredient quantite=1>fumée</ingredient> coupée en petites <ingredient quantite=1>tranches</ingredient> et <operation temps=5.0min espace=8>faire cuire pendant 5 minutes</operation>. rajouter la bière et les <ingredient quantite=1>raisins</ingredient> plus du <ingredient quantite=1>sel</ingredient> et du poivre, <operation temps=0.25min espace=8>couvrir</operation> et <operation temps=25.0min espace=8>faire cuire encore pendant 20 à 25 minutes</operation>. servir chaud. vous pouvez <operation temps=6.86min espace=8>servir ce <recipient>plat</recipient> avec des pommes de terre</operation> sautées. <operation temps=6.86min espace=8>régalez -vous!</operation>!
+]]>
+ </preparation>
+</recette>

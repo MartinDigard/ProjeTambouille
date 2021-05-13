@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15533">
+ <titre>Briam (Grèce) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 cuillères à soupe huile d’ olive</p>
+ <p>3 oignons en tranches</p>
+ <p>700 g de pommes de terre pelées et coupées en 2</p>
+ <p>700 g de courgettes coupées en tronçons de 1 cm</p>
+ <p>8 tomates mûres, pelées et coupées grossièrement</p>
+ <p>2 poivrons épépinés et coupés en rondelles</p>
+ <p>4 gousses d’ ail hachées finement</p>
+ <p>origan, aneth frais, sel, poivre</p>
+ <p>100 ml d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 175 ° c. faire chauffer 2 <ingredient quantite=6>cuillères à soupe</ingredient> d’ huile dans un <recipient>poêlon</recipient> et <operation temps=6.86min espace=14>faire revenir l’ <ingredient quantite=1>oignon</ingredient> pendant 3 à 5 mn, sans le</operation> <operation temps=6.86min espace=14>laisser dorer</operation>. retirer du feu. mélanger l’ <ingredient quantite=1>oignon</ingredient> revenu et les <ingredient quantite=1>pommes de terre</ingredient>, les <ingredient quantite=1>courgettes</ingredient>, les <ingredient quantite=8>tomates</ingredient> et les <ingredient quantite=2>poivrons</ingredient>, ainsi que l’ <ingredient quantite=4>ail</ingredient>, les aromates et l’ assaisonnement dans un grand <recipient>plat</recipient> à <recipient>four</recipient>. verser l’ <ingredient quantite=1>eau</ingredient> et cuire au <recipient>four</recipient> de 1 h 30 à 2 heures en retournant les légumes deux fois pendant la cuisson. <operation temps=6.86min espace=14>servir froid ou chaud</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83748">
+ <titre>Crapets aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pommes</p>
+ <p>400 g de farine</p>
+ <p>3 oeufs</p>
+ <p>Un peu de lait</p>
+ <p>Sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez les <ingredient quantite=4>pommes</ingredient>, <operation temps=6.86min espace=7>ôtez les trognons</operation> et <operation temps=6.86min espace=7>coupez les en fines rondelles</operation> ; <operation temps=6.86min espace=7>cassez les <ingredient quantite=3>oeufs</ingredient> et battez - les</operation>. <operation temps=6.86min espace=7>ajoutez une</operation> cuiller à soupe de <ingredient quantite=1>sucre</ingredient> puis la farine. <operation temps=6.86min espace=7>mélangez - bien</operation>. <operation temps=6.86min espace=7>ajoutez doucement du <ingredient quantite=1>lait</ingredient> jusqu’ à obtention d’ une pâte un peu plus épaisse que la pâte à crêpes</operation>. <operation temps=6.86min espace=7>faites chauffer un peu d’</operation> huile dans une <recipient>poêle</recipient>. trempez <operation temps=6.86min espace=7>lez rondelles de <ingredient quantite=4>pommes</ingredient> dans la pâte puis les</operation> <operation temps=6.86min espace=7>faire cuire des deux cotés</operation>. <operation temps=6.86min espace=7>réservez sur un <recipient>plat</recipient></operation> et <operation temps=6.86min espace=7>saupoudrez de <ingredient quantite=1>sucre</ingredient></operation>. se déguste chaud ou froid.
+]]>
+ </preparation>
+</recette>

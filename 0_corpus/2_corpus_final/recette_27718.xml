@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27718">
+ <titre>Rôti de porc exotique</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de rôti de porc</p>
+ <p>50 cl de lait de noix de coco</p>
+ <p>1 boîte d’ ananas</p>
+ <p>1 grosse branche de gingembre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+immerger le rôti dans une <ingredient quantite=1>grosse</ingredient> <recipient>casserole</recipient> en fonte ou <recipient>cocotte</recipient> dans laquelle on à versé le lait de <ingredient quantite=1>noix de coco</ingredient>, napper le dessus du rôti, allumer le feu (très doux) et <operation temps=0.25min espace=6>couvrir</operation>. pour être bien tendre, le rôti doit baigner dans le lait de <ingredient quantite=1>coco</ingredient> au moins à mi-hauteur. retirer la peau du <ingredient quantite=1>gingembre</ingredient> et le découper en fines lamelles. <operation temps=6.86min espace=6>ouvrir la <ingredient quantite=1>boîte</ingredient> d’ ananas</operation>, verser gingembre et ananas dès le début de la cuisson. retourner le rôti à mi cuisson. <operation temps=6.86min espace=6>servir avec un riz</operation> pilaf. c’ est au moins aussi bon avec un ananas frais! bandol rouge ou côte du rhone
+]]>
+ </preparation>
+</recette>

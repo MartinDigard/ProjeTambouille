@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37522">
+ <titre>Brioche savoyarde</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>20 g de levure de boulanger</p>
+ <p>2 oeufs</p>
+ <p>100 g de beurre</p>
+ <p>100 g de lardons</p>
+ <p>200 g de beaufort (le gruyère convient) </p>
+ <p>20 cl de crème fraîche </p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, les <ingredient quantite=2>oeufs</ingredient> entiers, le beurre en pommade, le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=1>levure</ingredient>. travailler bien jusqu’ à <operation temps=8.0min espace=10>obtenir une pâte homogène</operation>. beurrer un <recipient>moule</recipient> et y verser la moitié de la pâte en l’ étalant à la spatule pour bien <operation temps=6.86min espace=10>couvrir le fond du <recipient>moule</recipient></operation>. ajouter sur cette pâte, le fromage en lamelles, les <ingredient quantite=1>lardons</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=10>recouvrir avec le restant de la pâte</operation>. <operation temps=6.86min espace=10>laisser lever 2 heures</operation>. enfourner 30 minutes à 170 ° c (thermostat 5 - 6). servir chaud en entrée avec une salade ou à température ambiante à l’ apéro. il faut un peu de patience pour étaler la pâte, surtout la deuxième moitié, mais quand elle est levée, les défauts n’ y paraissent plus! un petit blanc de savoie!
+]]>
+ </preparation>
+</recette>

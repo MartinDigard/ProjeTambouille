@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69682">
+ <titre>Tarte bacon pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>8 tranches de bacon</p>
+ <p>6 à 8 pommes de terre de taille moyenne coupées en rondelles</p>
+ <p>20 cl de crème demi-épaisse de préférence</p>
+ <p>sel, poivre</p>
+ <p>gruyère râpé pour le dessus de la tarte</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 150 ° c (thermostat 5). <operation temps=6.86min espace=9>etalez la <ingredient quantite=1>pâte</ingredient> sur le <recipient>moule</recipient></operation>, tapissez le fond de la <ingredient quantite=1>pâte</ingredient> des <ingredient quantite=8>tranches de bacon</ingredient>, et <operation temps=6.86min espace=9>disposez les <ingredient quantite=6>rondelles</ingredient> de patates en couche par dessus</operation>. <operation temps=0.25min espace=9>salez</operation>, <operation temps=0.5min espace=9>poivrez</operation> puis <operation temps=6.86min espace=9>recouvrez de</operation> crème afin qu’ elle pénètre dans les patates. enfin, <operation temps=6.86min espace=9>recouvrez de</operation> gruyère pour que le tout gratine. peut <operation temps=6.86min espace=9>faire l’ office de <recipient>plat</recipient> complet</operation> accompagné d’ une salade verte, ou peut simplement <operation temps=6.86min espace=9>faire l’ objet d’ une entrée copieuse</operation>.
+]]>
+ </preparation>
+</recette>

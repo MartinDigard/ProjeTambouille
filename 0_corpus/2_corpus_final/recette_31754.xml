@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31754">
+ <titre>Gratin d’ ananas</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 ananas frais</p>
+ <p>2 cuillères à soupe de noix de coco en poudre</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>150 g de crème fraîche liquide</p>
+ <p>80 g de sucre en poudre</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le grill du <recipient>four</recipient> à thermmostat 7 (210 ° c). <operation temps=6.86min espace=8>retirez l’ écorce et le coeur de l’ ananas</operation>. <operation temps=6.86min espace=8>découpez la pulpe en petits dés</operation>. dans un bol, mélangez le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=1>crème</ingredient> et la <ingredient quantite=2>noix de coco</ingredient>. dans de petits plats allant au <recipient>four</recipient> (type ramequins), <operation temps=6.86min espace=8>rangez les dés d’</operation> <ingredient quantite=1>ananas</ingredient> puis <operation temps=1.0min espace=8>versez</operation> dessus la <ingredient quantite=1>crème</ingredient> à la <ingredient quantite=2>noix de coco</ingredient>. <operation temps=6.86min espace=8>posez les ramequins sur la grill et enfournez au 2/3 de la hauteur</operation>. <operation temps=6.86min espace=8>laissez la <ingredient quantite=1>crème</ingredient> se</operation> colorer en surface. servez tiède. accompagnés de boules de sorbets exotiques tels que <ingredient quantite=2>noix de coco</ingredient>, fruits de la passion, mangue... ces petits gratins sont absolument succulents! photo de manina hatzimichali
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222595">
+ <titre>Muffins au bacon et au comté</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de bacon</p>
+ <p>125 g de comté râpé</p>
+ <p>1 œuf</p>
+ <p>250 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>25 cl de lait</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites revenir en</operation> aller - retour le <ingredient quantite=4>bacon</ingredient>, puis l’ <operation temps=6.86min espace=9>égouttez sur du papier</operation> absorbant et le <operation temps=6.86min espace=9>découpez finement</operation>. battez l’ <ingredient quantite=1>œuf</ingredient> avec le lait et l’ huile, puis <operation temps=6.86min espace=9>ajoutez le fromage râpé, le <ingredient quantite=2>persil</ingredient> (finement</operation> ciselé), le <ingredient quantite=4>bacon</ingredient>, la farine et la <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=9>mélangez la pâte</operation>. <operation temps=6.86min espace=9>remplissez des moules à muffins</operation> recouverts de papier sulfurisé huilé et <operation temps=30.0min espace=9>mettez au <recipient>four</recipient> pour 30 min environ</operation>. <operation temps=6.86min espace=9>vérifiez la cuisson régulièrement</operation>. une fois cuits (bien dorés), <operation temps=6.86min espace=9>laissez - les refroidir à l’</operation> <operation temps=6.86min espace=9>air libre</operation>. <operation temps=5.0min espace=9>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

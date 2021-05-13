@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225136">
+ <titre>Tagliatelles aux fruits de mer et au cambozola</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de tagliatelles aux œufs</p>
+ <p>200 g de cambozola</p>
+ <p>300 g de fruits de mer</p>
+ <p>250 g de champignons</p>
+ <p>150 g de caviar de courgettes (ou d’ aubergines) </p>
+ <p>15 cl de vin blanc sec</p>
+ <p>15 cl de crème fraiche</p>
+ <p>20 g de beurre</p>
+ <p>sel, poivre</p>
+ <p>50 g de parmesan (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer directement la cuisson des <ingredient quantite=1>tagliatelles</ingredient>. couper les <ingredient quantite=1>champignons</ingredient> en lamelles. <operation temps=6.86min espace=12>faire fondre du beurre dans une <recipient>casserole</recipient> et y</operation> ajouter les <ingredient quantite=1>champignons</ingredient>, les cuire à feu vif pendant 5 min. ajouter ensuite les <ingredient quantite=1>fruits de mer</ingredient> et verser le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=1.0min espace=12>laisser cuire 1 min seulement</operation> puis ajouter le cambozola en petit morceau (retirer la croute ou non suivant votre gout, plus fort avec la croute). lorsque le fromage est fondu, ajouter le <ingredient quantite=1>caviar de courgettes</ingredient>. saler (attention le cambozola est déjà salé!) et poivrer. ajouter de la <ingredient quantite=1>crème</ingredient> si besoin pour <operation temps=6.86min espace=12>adoucir le gout de la sauce</operation>. verser la sauce dans un <recipient>plat</recipient> avec les <ingredient quantite=1>tagliatelles</ingredient>. peut être servi sur assiette avec du <ingredient quantite=1>parmesan</ingredient> en complément. <ingredient quantite=1>vin blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

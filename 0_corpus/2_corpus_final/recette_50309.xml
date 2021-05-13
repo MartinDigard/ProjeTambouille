@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50309">
+ <titre>Mon pudding aux biscottes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>160 g de biscottes</p>
+ <p>50 cl de lait</p>
+ <p>4 oeufs entiers</p>
+ <p>4 cuillères à soupe de sucre poudre </p>
+ <p>1 pomme</p>
+ <p>1 banane</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=2.0min espace=8>faire chauffer le lait 2 minutes au micro-ondes avec le <ingredient quantite=4>sucre</ingredient></operation>. emietter les <ingredient quantite=1>biscottes</ingredient> dans le lait sucré chaud et mélanger énergiquement avec une <ingredient quantite=1>cuillère</ingredient>. <operation temps=6.86min espace=8>incorporez les <ingredient quantite=4>oeufs</ingredient> puis les fruits coupés en petits morceaux</operation>. verser la préparation dans un <recipient>moule</recipient> à cake allant au micro-ondes. <operation temps=6.86min espace=8>couvrir avec un film étirable</operation> et <operation temps=6.86min espace=8>faire quelques trous</operation>. <operation temps=8.0min espace=8>faire cuire 8 minutes au micro-ondes puissance maximum</operation>. démouler tiède sur un <recipient>plat</recipient> et servir froid avec une crème anglaise ou un coulis de fruits. toutes les variantes sont possible avec la base sans les fruits: ajouter du chocolat, de la noix de coco râpée,... vin liquoreux.
+]]>
+ </preparation>
+</recette>

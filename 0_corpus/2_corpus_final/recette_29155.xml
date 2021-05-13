@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29155">
+ <titre>Salade de riz de Karine</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 sachets de riz basmati</p>
+ <p>2 tomates</p>
+ <p>5 oeufs durs</p>
+ <p>3 pommes de terre</p>
+ <p>2 petites boîtes de thon</p>
+ <p>1 boîte de maïs (1/4) </p>
+ <p>10 cornichons</p>
+ <p>ciboulette et persil</p>
+ <p>sel et poivre</p>
+ <p>1 grosse cuillère de mayonnaise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=2>riz</ingredient> environ 10 mn, les <ingredient quantite=5>oeufs</ingredient> et les <ingredient quantite=3>pommes de terre</ingredient>. <operation temps=20.0min espace=11>laisser refroidir</operation>. ensuite dans un très grand <recipient>saladier</recipient>: mettre le <ingredient quantite=2>riz</ingredient>, le <ingredient quantite=1>maïs</ingredient>, le <ingredient quantite=2>thon</ingredient> en l’ émiettant, les <ingredient quantite=5>oeufs durs</ingredient> coupés en fines lamelles, les <ingredient quantite=3>pommes de terre</ingredient> également mais coupés en <ingredient quantite=1>petits</ingredient> cubes. ajouter les <ingredient quantite=2>tomates</ingredient> coupées en cubes et <operation temps=6.86min espace=11>finir par des <ingredient quantite=2>petites</ingredient> rondelles de <ingredient quantite=1>cornichons</ingredient></operation>. parsemez l’ ensemble de <ingredient quantite=1>persil et ciboulette</ingredient> ciselées. au dernier moment, préparer une grande vinaigrette avec huile, vinaigre, moutarde, <ingredient quantite=1>sel poivre</ingredient>, la verser sur la salade et y ajouter une <ingredient quantite=1>cuillère</ingredient> à soupe de <ingredient quantite=1>mayonnaise</ingredient>. mettre au frigo et servir très frais en pensant à bien remélanger l’ ensemble de la salade avant de <operation temps=6.86min espace=11>servir (si nécessaire</operation> réajuster l’ assaisonnement).
+]]>
+ </preparation>
+</recette>

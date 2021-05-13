@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171817">
+ <titre>Gratin d’ aubergine au thon et à la tomate</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 aubergines</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 petite boite de concentrée de tomate</p>
+ <p>5 tomates fraiche ou une boite de tomate concassée</p>
+ <p>200 g de thon en boite</p>
+ <p>150 g de gruyère râpé</p>
+ <p>sel </p>
+ <p>poivre</p>
+ <p>1 cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=12>pelez</operation> et <operation temps=6.86min espace=12>coupez l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> en <ingredient quantite=1>petits</ingredient> dés que l’ on</operation> fait <operation temps=6.86min espace=12>revenir</operation>. <operation temps=3.0min espace=12>pelez les</operation> <ingredient quantite=2>aubergines</ingredient> et <operation temps=6.86min espace=12>coupez - les en lamelles</operation>, <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir</operation> avec l’ <ingredient quantite=1>ail</ingredient> à feu doux, <operation temps=10.0min espace=12>faites cuire 10 min</operation>. <operation temps=6.86min espace=12>retirez les</operation> <ingredient quantite=2>aubergines</ingredient>, <operation temps=6.86min espace=12>mettez la farine et le concentré de</operation> <ingredient quantite=1>tomate</ingredient>, faites <operation temps=6.86min espace=12>revenir</operation> et <operation temps=6.86min espace=12>ajoutez les <ingredient quantite=1>tomates</ingredient> puis les <ingredient quantite=2>aubergines</ingredient>, le <ingredient quantite=1>thon</ingredient> avec le jus,</operation> et <operation temps=10.0min espace=12>faites cuire à nouveau 10 min</operation>. <operation temps=6.86min espace=12>mettez une couche d’ <ingredient quantite=1>aubergine</ingredient> dans un <recipient>plat</recipient> à gratin, puis une de fromage</operation>, terminer par une couche de gruyère. <operation temps=6.86min espace=12>faites cuire à <recipient>four</recipient> chaud 30 min, à 220 ° c (thermostat 7</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56869">
+ <titre>Pot-au-feu de la mer</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 morceaux de poisson blanc (colin, bar, même surgelés) soit environ 400 g</p>
+ <p>300 g de haddock</p>
+ <p>700 g de carottes</p>
+ <p>4 blancs de poireaux</p>
+ <p>8 pommes de terre moyenne à chair ferme</p>
+ <p>2 branches de céleri</p>
+ <p>1 coeur de chou vert</p>
+ <p>2 oignons piqués de girofle</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>20 cl de crème fraîche</p>
+ <p>1 bouquet garni</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pelez <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=8>pommes de terre</ingredient>. <operation temps=6.86min espace=15>fendez les <ingredient quantite=4>poireaux</ingredient> et le <ingredient quantite=1>chou</ingredient> en 4</operation>. dans un <recipient>faitout</recipient>, <operation temps=6.86min espace=15>mettez les légumes</operation> et recouvrez d’ eau (environ 1 litre) avec 1 <ingredient quantite=1>bouquet garni</ingredient> ainsi qu’ un <ingredient quantite=2>oignon piqué de girofle</ingredient> et le <ingredient quantite=2>céleri</ingredient>. <operation temps=0.25min espace=15>salez</operation> <operation temps=0.5min espace=15>poivrez</operation>. <operation temps=15.0min espace=15>laissez cuire à petit feu pendant 15 minutes</operation>. ajoutez le <ingredient quantite=4>poisson blanc</ingredient> et le <ingredient quantite=1>haddock</ingredient>. <operation temps=15.0min espace=15>laissez mijoter 15 minutes</operation>. <operation temps=6.86min espace=15>egouttez les <ingredient quantite=4>poissons</ingredient> et disposez - les dans un <recipient>plat</recipient> de service chaud</operation>. <operation temps=6.86min espace=15>egouttez les légumes</operation> et <operation temps=6.86min espace=15>rangez - les autour du <ingredient quantite=4>poisson</ingredient></operation>. <operation temps=6.86min espace=15>maintenir au chaud</operation>. <operation temps=6.86min espace=15>récupérez le jus de cuisson</operation> et <operation temps=6.86min espace=15>faire réduire de moitié</operation>. ajoutez la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=15>servir avec le <recipient>plat</recipient></operation>. <ingredient quantite=4>blanc sec</ingredient> de duras ou rosé des sables.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10702">
+ <titre>Côtelettes d’ agneau sauce espagnole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 côtelettes d’ agneau</p>
+ <p>40g de beurre</p>
+ <p>1 carotte</p>
+ <p>1 oignon</p>
+ <p>1 branche de céleri</p>
+ <p>1 tranche de lard</p>
+ <p>1/2 l de fond de boeuf</p>
+ <p>1 cuillères à soupe de concentré de tomates</p>
+ <p>50 g de champignons</p>
+ <p>1 feuille de laurier</p>
+ <p>3 branches de persil</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la sauce: éplucher et hacher la <ingredient quantite=1>carotte</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. nettoyer et hacher le <ingredient quantite=1>céleri</ingredient>. oter la couenne du <ingredient quantite=1>lard</ingredient> et couper celui-ci en petits morceaux. <operation temps=6.86min espace=14>faire fondre 10 g de beurre dans une <recipient>casserole</recipient> et y</operation> <operation temps=6.86min espace=14>faire revenir <ingredient quantite=1>carotte</ingredient>, <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>céleri</ingredient>, <ingredient quantite=1>lard</ingredient> et <ingredient quantite=1>champignons</ingredient></operation>. arroser de <ingredient quantite=1>fond de boeuf</ingredient>, ajouter le concentré de <ingredient quantite=1>tomate</ingredient> et <operation temps=15.0min espace=14>laisser mijoter pendant 15 min</operation>. ajouter 30 g de beurre, mélanger. passer ensuite au mixer. reverser dans la <recipient>casserole</recipient> et <operation temps=6.86min espace=14>laisser mijoter jusqu’ à épaississement</operation>. <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=1>côtelettes</ingredient> dans un peu de beurre pendant quelques minutes, saler</operation> et poivrer. dresser 3 <ingredient quantite=1>côtelettes</ingredient> en forme de couronne sur chaque assiette. napper celles-ci de sauce et décorer avec des légumes rissolés (<ingredient quantite=1>tranches</ingredient> de courgettes ou rondelles de <ingredient quantite=1>tomates</ingredient>...). saint-estèphe ou graves
+]]>
+ </preparation>
+</recette>

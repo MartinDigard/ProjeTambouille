@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54902">
+ <titre>Tagliatelles à la carbonara et petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 cl de crème fraîche semi épaisse</p>
+ <p>100 g de lardons</p>
+ <p>1 petite boîte de petits pois</p>
+ <p>Poivre</p>
+ <p>Cumin</p>
+ <p>Environ 14 nids de tagliatelles</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire bouillir l’ eau pour les pâtes</operation>. pendant ce temps, <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient> en</operation> mettant un peu de poivre et de <ingredient quantite=1>cumin</ingredient>, <operation temps=6.86min espace=9>évitez le sel car les <ingredient quantite=1>lardons</ingredient> sont déjà salés, jusqu’ à qu’ ils</operation> dorent. rajouter la <ingredient quantite=1>crème</ingredient> faîche. egoutter les <ingredient quantite=1>petits pois</ingredient> pour ne pas rajouter trop d’ eau dans la sauce et verser les <ingredient quantite=1>petits pois</ingredient> dans la <recipient>poêle</recipient>. <operation temps=6.86min espace=9>laisser cuire à feu doux jusqu’ à ce que les pâtes soient</operation> prêtes, rajouter un peu de crème si besoin. une fois les pâtes égouttées, mettre la sauce dans la <recipient>casserole</recipient> et mélanger. server chaud avec parmesan ou fromage râpé et si besoin rajouter un peu de sel. bon appétit!!! si vous n’ avez pas de <ingredient quantite=1>tagliatelles</ingredient>, utilisez n’ importe quelle type de pâtes!! pour les enfants les pâtes colorées passent très bien!!
+]]>
+ </preparation>
+</recette>

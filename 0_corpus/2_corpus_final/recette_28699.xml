@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28699">
+ <titre>Pâte à pizza classique</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>350 g de farine</p>
+ <p>1, 5 cuillère à soupe de levure de boulanger sèche</p>
+ <p>35 cl d’ eau tiède</p>
+ <p>1 cuillère à café d’ huile d’ olive</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 cuillère à café de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dissoudre la <ingredient quantite=1>levure</ingredient> dans un peu d’ <ingredient quantite=1>eau tiède</ingredient>, ajouter l’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=1>sucre</ingredient> et remuer. <operation temps=6.86min espace=7>laisser lever</operation>. tamiser la farine et le <ingredient quantite=1>sel</ingredient>. incorporer le levain préparé au début une fois qu’ il a doublé de volume. <operation temps=6.86min espace=7>pétrir quelques minutes</operation>, former une boule, fariner et <operation temps=6.86min espace=7>laisser reposer dans un endroit <ingredient quantite=1>tiède</ingredient> couvert d’ un torchon environ 2h</operation>. former des pâtons, les fariner et les <operation temps=6.86min espace=7>laisser reposer en boule</operation>. pour cuire: <operation temps=6.86min espace=7>applatir un pâton en l’</operation> écrasant avec la paume de la main pour former un disque de la taille d’ une pizza. <operation temps=6.86min espace=7>garnir selon les goûts</operation> et <operation temps=15.0min espace=7>faire cuire 10 à 15 minutes au <recipient>four</recipient> à 250 ° c (thermostat 8</operation>).
+]]>
+ </preparation>
+</recette>

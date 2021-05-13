@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55192">
+ <titre>Salade du bonheur (endives/avocats/chèvre chaud) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses endives</p>
+ <p>1 avocat</p>
+ <p>1 demi bûche (taille standard) de chèvre</p>
+ <p>huile de noix</p>
+ <p>vinaigre balsamique</p>
+ <p>moutarde</p>
+ <p>sel &amp; poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, couper en petits morceaux les <ingredient quantite=2>endives</ingredient> et l’ <ingredient quantite=1>avocat</ingredient> en petits dés. préparer la vinaigrette: 1 cuillère à café de <ingredient quantite=1>moutarde</ingredient>, 4 cuillères à soupe d’ huile de <ingredient quantite=1>noix</ingredient>, 2 cuillères à soupe de <ingredient quantite=1>vinaigre balsamique</ingredient>, <ingredient quantite=1>sel</ingredient> & <ingredient quantite=1>poivre</ingredient>. verser la vinaigrette dans le <recipient>saladier</recipient>. mélanger le tout. couper une demi-bûche de <ingredient quantite=1>chèvre</ingredient> en rondelles et les <operation temps=6.86min espace=10>faire chauffer à la <recipient>poêle</recipient></operation>. incorporer les rondelles de <ingredient quantite=1>chèvre</ingredient> chaud dans la salade d’ <ingredient quantite=2>endives</ingredient> et d’ <ingredient quantite=1>avocats</ingredient>. salade simple et rapide à préparer. bon appétit!
+]]>
+ </preparation>
+</recette>

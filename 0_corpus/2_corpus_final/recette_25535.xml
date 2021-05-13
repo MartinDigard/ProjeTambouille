@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25535">
+ <titre>Pommes de terre fondantes aux truffes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de pommes de terre</p>
+ <p>2 petites truffes</p>
+ <p>2 cuillères à soupe de graisse d’ oie ou de canard</p>
+ <p>2 cuillères à soupe d’ huile neutre (tournesol, colza, arachide) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=6>pelez</operation> et coupez les <ingredient quantite=1>pommes de terre</ingredient> en fines rondelles. rincez - les et séchez - les dans un torchon. emincez les <ingredient quantite=2>truffes</ingredient> en fines lamelles. <operation temps=6.86min espace=6>faites chauffer la <ingredient quantite=2>graisse</ingredient> d’ <ingredient quantite=2>oie</ingredient> et l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>cocotte</recipient></operation>. <operation temps=6.86min espace=6>disposez - y les <ingredient quantite=1>pommes</ingredient> de <ingredient quantite=1>terre</ingredient> et les lamelles de <ingredient quantite=2>truffes</ingredient></operation> intercalées. laissez cuire à feu doux environ 50 min, les <ingredient quantite=1>pommes de terres</ingredient> doivent dorer et <operation temps=6.86min espace=6>devenir moelleuses</operation>. a <operation temps=6.86min espace=6>servir en accompagnement de confit</operation>. <recipient>plat</recipient> coûteux mais d’ une grande simplicité.
+]]>
+ </preparation>
+</recette>

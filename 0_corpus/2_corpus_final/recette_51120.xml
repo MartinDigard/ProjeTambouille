@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51120">
+ <titre>Risotto de saumon frais</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de riz à risotto</p>
+ <p>1, 5 l de bouillon de volaille et de poisson</p>
+ <p>15 cl de vin blanc</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail finement hachée</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>3 pavés de saumon frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>wok</recipient> ou une grance <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans l’ <ingredient quantite=1>huile</ingredient> chaude. ajouter le <ingredient quantite=1>riz</ingredient>, remuer jusqu’ à ce qu’ il devienne translucide. mouiller avec le <ingredient quantite=1>vin blanc</ingredient> et remuer jusqu’ à évaporation. verser les <ingredient quantite=1>bouillons</ingredient> (une louche, puis, après évaporation, une autre). couper le <ingredient quantite=3>saumon</ingredient> en dés grossiers et les incorporer au <ingredient quantite=1>riz</ingredient>, ainsi que l’ <ingredient quantite=1>ail</ingredient>. verser le reste du <ingredient quantite=1>bouillon</ingredient> petit à petit, saler, poivrer. tourner continuellement la préparation, goûter de temps en temps et <operation temps=6.86min espace=9>servir lorsque le <ingredient quantite=1>riz</ingredient> est</operation> fondant tout en gardant de la fermeté... (le plus dur!) gaillac <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62577">
+ <titre>Bourrride d’ anguilles à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ anguilles moyennes vidées et ététées</p>
+ <p>1 kg de pommes de terre</p>
+ <p>1 talon de jambon ranci avec os</p>
+ <p>1 cl d’ huile d’ olive</p>
+ <p>1 ou 2 piments forts (selon goût) </p>
+ <p>2 cuillères à café de concentré de tomate</p>
+ <p>2 gousses d’ ail</p>
+ <p>1/2 bouquet de persil</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=1>anguilles</ingredient> en morceaux de 5 cm, ciseler grossiérement l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=1>persil</ingredient>. peler les <ingredient quantite=1>pommes de terre</ingredient>, les laver puis les couper en tranches de 2 cm d’ épaisseur. faire revenir le <ingredient quantite=1>talon de jambon</ingredient> dans l’ <ingredient quantite=1>huile</ingredient> chaude avec l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=1>persil</ingredient>, les <ingredient quantite=1>piments</ingredient> écrasés et le <ingredient quantite=2>concentré de tomate</ingredient>. <operation temps=10.0min espace=9>laisser cuire 10 minutes</operation> puis retirer du feu. recouvrir d’ une couche de <ingredient quantite=1>pomme de terre</ingredient> puis d’ une couche d’ anguille. <operation temps=1.0min espace=9>recouvrir d’ eau</operation> et <operation temps=20.0min espace=9>laisser cuire 20 minutes à frémissent</operation>. vérifier la cuisson en procédant de la manière suivante: prélever un morçeaux d’ anguille et le serrer entre les dents. tirer sur l’ arête centrale, si la chair s’ en détache c’ est que l’ anguille est cuite. vin rouge du sud
+]]>
+ </preparation>
+</recette>

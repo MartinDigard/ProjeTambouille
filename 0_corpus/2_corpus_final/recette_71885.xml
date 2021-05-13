@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71885">
+ <titre>Rognons aux saveurs orientales</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 rognons de boeuf</p>
+ <p>3 tomates pelées, coupées en petits morceaux avec leur pépins</p>
+ <p>1 petit bouquet de persil</p>
+ <p>4 gousses d’ ail</p>
+ <p>sel, poivre</p>
+ <p>épices: 1 cuillère à soupe de cumin, 1 cuillère à soupe de paprika, 1 pincée de gingembre, 1 cuillère à café de curcuma</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez les <ingredient quantite=2>rognons</ingredient> en suivant ses formes naturelles et <operation temps=6.86min espace=9>ôtez le gras</operation>. <operation temps=6.86min espace=9>lavez bien les <ingredient quantite=2>rognons</ingredient>, séchez - les</operation>, <operation temps=6.86min espace=9>mettez - les dans un <recipient>wok</recipient></operation>. <operation temps=6.86min espace=9>rajoutez le <ingredient quantite=1>persil</ingredient> et l’ <ingredient quantite=4>ail</ingredient> finement hachés</operation>. <operation temps=6.86min espace=9>rajoutez les <ingredient quantite=1>épices</ingredient> et l’ <ingredient quantite=6>huile</ingredient> d’ <ingredient quantite=6>olive</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre (selon les goût)</operation> et <operation temps=6.86min espace=9>faites sauter sur feu vif en</operation> mélangeant pendant 5 à 10 minutes. une fois que tout a bien rissolé, <operation temps=6.86min espace=9>rajoutez les</operation> <ingredient quantite=3>tomates</ingredient> et <operation temps=15.0min espace=9>laissez cuire pendant 15 min à 20 minutes à feu doux</operation>. il ne doit plus rester d’ eau dans le <recipient>wok</recipient>. <operation temps=2.0min espace=9>servez aussitôt</operation>. <operation temps=6.86min espace=9>accompagnez d’ un melon vert</operation> sucré et bien frais. le melon n’ a rien à voir avec la recette, mais c’ est comme ça qu’ on le déguste à la maison et on apprécie bien.
+]]>
+ </preparation>
+</recette>

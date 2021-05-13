@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92502">
+ <titre>Gaspacho</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates mures</p>
+ <p>1 concombre</p>
+ <p>1 poivron rouge</p>
+ <p>1 poivron jaune</p>
+ <p>2 petits oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>3 jus de citrons (ou plus, selon les goûts) </p>
+ <p>6 cuillères à soupe de vinaigre</p>
+ <p>huile d’ olive (1/2 verre) </p>
+ <p>basilic</p>
+ <p>piment en poudre</p>
+ <p>poivre et sel</p>
+ <p>un verre d’ eau</p>
+ <p>glaçons (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les légumes et ôter la peau du <ingredient quantite=1>concombre</ingredient>, épépiner les <ingredient quantite=1>poivrons</ingredient>. mixer en une ou plusieurs fois (selon la capacité de votre <recipient>mixeur</recipient>) tous les ingrédients, en prenant bien soin de réduire en purée l’ <ingredient quantite=1>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. ajouter de l’ <ingredient quantite=1>eau</ingredient> si la mixture est trop épaisse, l’ huile, le <ingredient quantite=6>vinaigre</ingredient> et le <ingredient quantite=3>jus de citron</ingredient> et le <ingredient quantite=1>basilic</ingredient> puis assaisonner. bien mélanger et mettre au frigo au moins une heure, avec ou sans <ingredient quantite=1>glaçons</ingredient>. pour une préparation sans pulpe, une fois la recette réalisée, verser la préparation au travers d’ une <recipient>passoire</recipient> avant de mettre au frais.
+]]>
+ </preparation>
+</recette>

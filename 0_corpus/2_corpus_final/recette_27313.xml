@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27313">
+ <titre>Ananas flambé au rhum et au miel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grande boîte de tranches d’ ananas au sirop</p>
+ <p>2 cuillères à soupe de jus de citron</p>
+ <p>100 g de miel</p>
+ <p>un peu de cannelle ou de vanille en poudre</p>
+ <p>1 verre de rhum</p>
+ <p>20 g de raisins secs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire chauffer le <recipient>gril</recipient> du <recipient>four</recipient></operation>. <operation temps=6.86min espace=11>faire chauffer le <ingredient quantite=1>rhum</ingredient> à feu doux avec les <ingredient quantite=1>raisins</ingredient></operation>. disposer les <ingredient quantite=1>tranches</ingredient> d’ <ingredient quantite=1>ananas</ingredient> égouttées dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. arroser avec le <ingredient quantite=2>jus de citron</ingredient> et le <ingredient quantite=1>miel</ingredient> puis saupoudrez de <ingredient quantite=1>cannelle ou de vanille</ingredient>. <operation temps=6.86min espace=11>faire dorer sous le grill en</operation> surveillant, cela peut prendre plus ou moins de temps. lorsque le <ingredient quantite=1>rhum</ingredient> est chaud, ôter les <ingredient quantite=1>raisins</ingredient>. a la sortie du <recipient>four</recipient>, arroser l’ ananas de <ingredient quantite=1>rhum</ingredient> et flamber. décorer avec les <ingredient quantite=1>raisins</ingredient> et servir immédiatement.
+]]>
+ </preparation>
+</recette>

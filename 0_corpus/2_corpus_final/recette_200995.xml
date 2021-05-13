@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="200995">
+ <titre>Emincé de porc mariné à la pomme et à la mélisse</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de viande de porc</p>
+ <p>6 nids de nouilles chinoises</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 trait de nuoc mam</p>
+ <p>Pour la marinade: </p>
+ <p>2 pommes Granny (pour le jus) </p>
+ <p>10 cl de jus de citron vert</p>
+ <p>10 feuilles de mélisse ciselées</p>
+ <p>1 pointe de safran</p>
+ <p>1 trait de nuoc mam</p>
+ <p>1 trait de mirin</p>
+ <p>fleur de sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+centrifugez les deux <ingredient quantite=2>pommes granny</ingredient> et <operation temps=6.86min espace=15>préparez la <ingredient quantite=1>marinade</ingredient></operation>. <operation temps=6.86min espace=15>émincez le <ingredient quantite=1>porc</ingredient> en fines lamelles</operation> et <operation temps=6.86min espace=15>faites - le</operation> mariner pendant 1h à <operation temps=6.86min espace=15>1h30.faites cuire les <ingredient quantite=6>nouilles</ingredient> selon les indications du paquet,</operation> puis <operation temps=6.86min espace=15>faites - les</operation> sauter au <recipient>wok</recipient> avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et un <ingredient quantite=1>trait de nuoc mam</ingredient>. <operation temps=0.5min espace=15>réservez</operation>. <operation temps=6.86min espace=15>versez la <ingredient quantite=1>viande</ingredient> et la <ingredient quantite=1>marinade</ingredient> dans le <recipient>wok</recipient></operation>, <operation temps=6.86min espace=15>laissez réduire pendant une dizaine de minutes</operation>. <operation temps=6.86min espace=15>remettez les <ingredient quantite=6>nouilles</ingredient> avec la</operation> <ingredient quantite=1>viande</ingredient> et <operation temps=6.86min espace=15>faites revenir</operation>. <operation temps=2.0min espace=15>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

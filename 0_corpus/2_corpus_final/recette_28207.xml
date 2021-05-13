@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28207">
+ <titre>Tarte aux pommes de terre et raclette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>1 kg de pommes de terre</p>
+ <p>1 sachet de lardons</p>
+ <p>1 paquet de tranches de fromage à raclette</p>
+ <p>1 oignon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> à l’ eau salée. quand elles sont cuites les couper en lamelles et les <operation temps=10.0min espace=6>laisser tiédir</operation>. pendant ce temps mettre la <ingredient quantite=1>pâte</ingredient> dans une tourtière. tapisser le fond avec la moitié du <ingredient quantite=1>fromage</ingredient>, mettre les <ingredient quantite=1>pommes de terre</ingredient> ; l’ <ingredient quantite=1>oignon</ingredient> coupé en lamelles, les <ingredient quantite=1>lardons</ingredient> et recouvrir avec le reste du <ingredient quantite=1>fromage à raclette</ingredient>. mettre au <recipient>four</recipient>, th 6/7. super simple et délicieux avec une salade.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43268">
+ <titre>Risotto crémeux aux coquilles saint-jacques</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de riz à risotto</p>
+ <p>100 grammes de beurre</p>
+ <p>80 cl de bouillon de poule (2 cubes de bouillons + l’ eau) </p>
+ <p>2 oignons</p>
+ <p>10 cl de vin blanc de cuisine</p>
+ <p>16 coquilles Saint-Jacques</p>
+ <p>parmesan à volonté</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher les 2 <ingredient quantite=2>oignons</ingredient>. faire fondre les tablettes de <ingredient quantite=1>bouillon de poule</ingredient> et réserver. <operation temps=5.0min espace=11>faire revenir les noix de <ingredient quantite=1>saint-jacques</ingredient> dans une <recipient>poêle</recipient> avec une belle noisette de beurre, les saisirs pas plus de 5 minutes afin de ne pas les</operation> dessécher puis les réserver. dans un fait - tout <operation temps=6.86min espace=11>faites chauffer le beurre et y</operation> <operation temps=6.86min espace=11>faire blondir les <ingredient quantite=2>oignons</ingredient> a</operation> feu vif puis y ajouter le <ingredient quantite=1>riz</ingredient>. baisser votre feu au minimum, quand le <ingredient quantite=1>riz</ingredient> est translucide y ajouter le <ingredient quantite=1>vin blanc</ingredient>, une fois le <ingredient quantite=1>vin</ingredient> absorbé, ajouter une louche de <ingredient quantite=1>bouillon de poule</ingredient> <operation temps=6.86min espace=11>couvrir le <ingredient quantite=1>riz</ingredient> et le</operation> <operation temps=6.86min espace=11>laisser absorder le liquide</operation>. rajouter une louche et ainsi de suite jusqu’ à épuisement du <ingredient quantite=1>bouillon</ingredient>, votre <ingredient quantite=1>riz</ingredient> ne doit pas être desséché mais bien crémeux. saler, poivrer. ajouter vos noix de <ingredient quantite=1>saint-jacques</ingredient> et les <operation temps=6.86min espace=11>laisser se</operation> réchauffer doucement 1 ou 2 minutes. <operation temps=6.86min espace=11>servir le <recipient>plat</recipient> bien brûlant, chaque convive</operation> ajoute le <ingredient quantite=1>parmesan</ingredient> selon son goût. bon appétit.
+]]>
+ </preparation>
+</recette>

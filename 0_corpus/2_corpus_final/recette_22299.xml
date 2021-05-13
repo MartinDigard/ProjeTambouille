@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22299">
+ <titre>Gratin de tomates fondant</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de tomates</p>
+ <p>20 cl de crème fleurette</p>
+ <p>125 g de gruyère râpé</p>
+ <p>40 g de parmesan râpé</p>
+ <p>1 cuillère à soupe de basilic frais haché</p>
+ <p>2 cuillères à café de sucre en poudre</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=10>pelez</operation> et <operation temps=6.86min espace=10>coupez les <ingredient quantite=1>tomates</ingredient> en tranches fines</operation>. <operation temps=6.86min espace=10>huilez un <recipient>plat</recipient> à gratin,</operation> et <operation temps=6.86min espace=10>faites une couche de <ingredient quantite=1>tomates</ingredient></operation>. <operation temps=6.86min espace=10>arrosez de</operation> <ingredient quantite=1>crème</ingredient>, <operation temps=6.86min espace=10>saupoudrez de gruyère et de <ingredient quantite=1>parmesan</ingredient></operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=6.86min espace=10>poivrez,</operation> et <operation temps=6.86min espace=10>saupoudrez de <ingredient quantite=1>basilic</ingredient> et de <ingredient quantite=2>sucre</ingredient></operation>. <operation temps=6.86min espace=10>répétez l’ opération jusqu’ à épuisement des ingrédients</operation>. <operation temps=6.86min espace=10>arrosez d’ un filet d’ huile</operation> puis <operation temps=20.0min espace=10>faites cuire 20 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41682">
+ <titre>Salade de fruits façon crumble</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 mangue bien mûre</p>
+ <p>2 grosses bananes bien mûres</p>
+ <p>1 à 2 grosse (s) poignée (s) de framboises</p>
+ <p>3 cuillères à soupe de rhum</p>
+ <p>3 ou 4 palets bretons (ou sablés) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher et couper la <ingredient quantite=1>mangue</ingredient> en petits morceaux, couper les <ingredient quantite=2>bananes</ingredient> en rondelles et <operation temps=6.86min espace=6>faire décongeler les <ingredient quantite=1>framboises</ingredient> si besoin</operation>. <operation temps=0.25min espace=6>couvrir</operation> et mettre le tout dans un <recipient>saladier</recipient>. verser le <ingredient quantite=3>rhum</ingredient> par dessus, et réserver au frigo (24 h c’ est encore meilleur, les fruits sont <ingredient quantite=1>bien</ingredient> imprégnés). le moment venu, <operation temps=6.86min espace=6>répartir dans des verres</operation>, saupoudrer des <ingredient quantite=3>palets</ingredient> ou sablés préalablement émiettés. déguster! peut aussi se déguster avec un yaourt nature ou du fromage blanc. on peut ajouter du canadou avec le <ingredient quantite=3>rhum</ingredient> (mais si les fruits sont <ingredient quantite=1>bien</ingredient> mûrs, pas besoin).
+]]>
+ </preparation>
+</recette>

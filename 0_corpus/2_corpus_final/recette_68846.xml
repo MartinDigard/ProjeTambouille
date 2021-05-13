@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68846">
+ <titre>Dés de poulet à la cannelle</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de blancs de poulet</p>
+ <p>50 g d’ amandes effilées</p>
+ <p>2 gros oignons</p>
+ <p>20 cl de crème fraîche légère</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>sel, poivre</p>
+ <p>1 cuillère à café d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>pelez et émincez les <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=8>faites chauffer un <recipient>wok</recipient> avec un peu d’ huile</operation>, <operation temps=6.86min espace=8>faites - y</operation> suer les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=8>coupez les blancs de <ingredient quantite=1>poulet</ingredient> en petits morceaux</operation>, <operation temps=6.86min espace=8>ajoutez - les aux <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=8>laissez revenir à feu doux</operation>. <operation temps=6.86min espace=8>saupoudrez de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>cannelle</ingredient></operation>. lorsque la viande est bien cuite, <operation temps=6.86min espace=8>réduisez le feu</operation> et <operation temps=6.86min espace=8>ajoutez la <ingredient quantite=1>crème</ingredient></operation>. servez dans 4 assiettes, parsemez d’ <ingredient quantite=1>amandes effilées</ingredient>. accompagnez de riz ou tagliatelles fraîches!
+]]>
+ </preparation>
+</recette>

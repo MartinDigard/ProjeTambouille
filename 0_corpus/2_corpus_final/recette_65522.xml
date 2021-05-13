@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65522">
+ <titre>Poulet aux deux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 hauts de cuisses de poulet</p>
+ <p>2 à 3 gousses d’ ail entières</p>
+ <p>2 boîtes de tomates pelées</p>
+ <p>250 g d’ olives vertes dénoyautées</p>
+ <p>250 g d’ olives noires dénoyautées</p>
+ <p>3 ou 4 tranches de citron</p>
+ <p>huile d’ olive</p>
+ <p>persil, coriandre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire rôtir les <ingredient quantite=4>hauts de cuisse</ingredient> dans une <recipient>cocotte</recipient> avec un peu d’ <ingredient quantite=1>huile</ingredient>, puis réserver. mettre les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient>, les <ingredient quantite=2>tomates</ingredient> coupées en morceaux et les herbes dans l’ huile. <operation temps=6.86min espace=10>laisser mijoter jusqu’ à que le mélange</operation> ressemble à une sauce <ingredient quantite=1>tomate</ingredient>. remettre les <ingredient quantite=4>hauts de cuisse</ingredient> et <operation temps=1.0min espace=10>recouvrir d’ eau</operation>. <operation temps=30.0min espace=10>laisser cuire</operation> 1h à feu doux. rajouter les <ingredient quantite=1>olives noires</ingredient> et <ingredient quantite=1>vertes</ingredient>, ainsi que les <ingredient quantite=3>tranches de citron</ingredient>, et <operation temps=20.0min espace=10>laisser réduire 20 min</operation>. se mange aussi très bien réchauffé, vous pouvez donc le préparer à l’ avance et le réchauffer pendant l’ apéro. s’ accompagne de riz.
+]]>
+ </preparation>
+</recette>

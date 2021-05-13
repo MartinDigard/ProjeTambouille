@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26918">
+ <titre>Boulettes de veau au gruyère, sauce aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>7 poivrons</p>
+ <p>5 tomates</p>
+ <p>2 oignons</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ <p>750 g de veau</p>
+ <p>150 g de gruyère</p>
+ <p>3 tranches de pain de mie</p>
+ <p>15 cl de lait</p>
+ <p>3 oeufs</p>
+ <p>3 cuillères à soupe de farine</p>
+ <p>45 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer finement les <ingredient quantite=7>poivrons</ingredient>, les <ingredient quantite=2>oignons</ingredient>, les <ingredient quantite=5>tomates</ingredient> et les <operation temps=6.86min espace=12>faire revenir dans l’ huile</operation>. saler, poivrer, <operation temps=0.25min espace=12>couvrir</operation> et <operation temps=40.0min espace=12>laisser cuire à feu très doux durant 40 minutes</operation>. tremper les <ingredient quantite=3>tranches de pain de mie</ingredient> dans le lait puis égoutter. les émietter et mélanger avec la viande, le fromage et les <ingredient quantite=3>oeufs</ingredient> battus. façonner des boulettes et les rouler dans la farine. <operation temps=6.86min espace=12>faire dorer les boulettes dans le beurre puis, lorsqu’ elles sont bien</operation> dorées, les déposer dans les légumes. poursuivre la cuisson 10 minutes.
+]]>
+ </preparation>
+</recette>

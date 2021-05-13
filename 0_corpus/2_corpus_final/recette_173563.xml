@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173563">
+ <titre>Lasagnes aux épinards et aux crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 paquet de lasagnes</p>
+ <p>1 kg d’ épinards en branches frais ou surgelés</p>
+ <p>10 tomates</p>
+ <p>5 gousses d’ ail</p>
+ <p>1 gros oignon ou 2 petits</p>
+ <p>24 grosses crevettes fraîches</p>
+ <p>25 cl de crème fraîche</p>
+ <p>1 filet d’ huile d’ olive</p>
+ <p>1 noisette de beurre</p>
+ <p>romarin</p>
+ <p>curry</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>gruyère râpé</p>
+ <p>chèvre ou mozzarella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=20>faire cuire les <ingredient quantite=1>épinards</ingredient> dans une <recipient>casserole</recipient></operation>. une fois cuits, y ajouter la <ingredient quantite=1>crème</ingredient>, saler, poivrer et mettre de côté. dans un <recipient>wok</recipient> ou une <recipient>poêle</recipient>, <operation temps=6.86min espace=20>faire chauffer un peu d’ huile</operation> et <operation temps=6.86min espace=20>faire revenir les <ingredient quantite=1>oignons</ingredient> et l’ <ingredient quantite=5>ail</ingredient> coupés en <ingredient quantite=1>petits</ingredient> morceaux</operation>. couper les <ingredient quantite=1>tomates</ingredient> en dés et les ajouter dans le <recipient>wok</recipient>. bien mélanger et <operation temps=6.86min espace=20>laisser cuire quelques minutes avant d’</operation> ajouter les crevettes préalablement équeutées. ajouter un peu de <ingredient quantite=1>curry</ingredient>, du <ingredient quantite=1>romarin</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre et mélanger le tout. beurrer un <recipient>plat</recipient> rectangulaire ou carré (plus pratique pour les <ingredient quantite=1>lasagnes</ingredient>), y mettre une rangée de <ingredient quantite=1>lasagnes</ingredient> pré-cuites, ajouter une couche de la préparation aux crevettes, remettre une rangée de <ingredient quantite=1>lasagnes</ingredient>, ajouter des <ingredient quantite=1>épinards</ingredient> jusqu’ à ce qu’ il ne vous en reste plus. <operation temps=6.86min espace=20>finir avec une rangée de <ingredient quantite=1>lasagnes</ingredient></operation>. parsemer soit d’ un peu de gruyère, de rondelles de <ingredient quantite=1>chèvre</ingredient> (excellent), de <ingredient quantite=1>mozzarella</ingredient> ou un autre fromage si vous le souhaitez.
+]]>
+ </preparation>
+</recette>

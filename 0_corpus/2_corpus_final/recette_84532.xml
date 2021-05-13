@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84532">
+ <titre>Soupe indienne simplissime</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 reste de poulet émincé en lanières (prendre sur la carcasse d’ un poulet rôti) </p>
+ <p>4 belles pommes légèrement acidulées</p>
+ <p>3 beaux oignons</p>
+ <p>1 l de bouillon de volaille (eau + bouillon cube de volaille bio de préférence) </p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>un peu d’ huile</p>
+ <p>1 cuillère à soupe environ de poudre de curry</p>
+ <p>4 cuillères à café de crème fraîche (facultatif) </p>
+ <p>250 g de riz basmati cuit et chaud</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez, <ingredient quantite=1>émincez</ingredient> les <ingredient quantite=3>oignons</ingredient>, <operation temps=3.0min espace=11>pelez</operation> et <operation temps=6.86min espace=11>découpez les <ingredient quantite=4>pommes</ingredient> en quartiers</operation>. dans un <recipient>faitout</recipient> avec 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ huile, faîtes <operation temps=6.86min espace=11>revenir les <ingredient quantite=3>oignons</ingredient>, puis les quartiers de <ingredient quantite=4>pommes</ingredient></operation>. <operation temps=6.86min espace=11>faites <ingredient quantite=4>légèrement</ingredient> dorer</operation>, <operation temps=6.86min espace=11>saupoudrez de farine puis du</operation> <ingredient quantite=1>curry</ingredient> et arrosez avec le <ingredient quantite=1>bouillon de volaille</ingredient>, <operation temps=15.0min espace=11>faites cuire 15 min à feux doux</operation>. au bout de ce temps, ajoutez le <ingredient quantite=1>poulet émincé</ingredient>, puis remettre à cuire 15 min. <operation temps=6.86min espace=11>ajoutez en cours de cuisson de l</operation>’ eau si besoin pour que cela reste un potage, <operation temps=6.86min espace=11>rectifiez si besoin l’ assaisonnement avec le <ingredient quantite=1>curry</ingredient></operation>. servir bien <ingredient quantite=1>chaud</ingredient> dans des assiettes avec le <ingredient quantite=1>riz</ingredient> réparti dans chaque assiette, ajoutez une <ingredient quantite=1>cuillère de crème fraîche</ingredient> si vous aimez. <recipient>plat</recipient> idéal et facile pour accommoder un reste <ingredient quantite=1>de poulet</ingredient>.
+]]>
+ </preparation>
+</recette>

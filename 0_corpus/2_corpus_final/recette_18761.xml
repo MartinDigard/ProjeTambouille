@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18761">
+ <titre>Flan à la banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 bananes</p>
+ <p>1 orange</p>
+ <p>40 cl de lait</p>
+ <p>4 oeufs</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>1 cuillère à soupe de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez les <ingredient quantite=2>bananes</ingredient> en 2 dans la longueur et encore en 2</operation>. les <operation temps=1.0min espace=9>faire revenir dans une <recipient>poêle</recipient> anti-adhésive 1 mn de chaque côté</operation>. <operation temps=6.86min espace=9>flambez avec le</operation> <ingredient quantite=1>rhum</ingredient> puis <operation temps=6.86min espace=9>versez le jus de l’ orange</operation>. cuire 1 mn. <operation temps=6.86min espace=9>mêlez les <ingredient quantite=4>oeufs</ingredient>, le lait, le <ingredient quantite=3>sucre</ingredient> et le jus de cuisson des <ingredient quantite=2>bananes</ingredient></operation>. <operation temps=6.86min espace=9>versez sur les <ingredient quantite=2>bananes</ingredient> dans un <recipient>plat</recipient> à gratin ou dans 4 ramequins</operation>. cuire au <recipient>bain - marie</recipient> 20 mn th 6. servez tiede dessert très léger (113 cal / pers). pour les gourmands, <operation temps=6.86min espace=9>faire caraméliser une crème brulée</operation>.
+]]>
+ </preparation>
+</recette>

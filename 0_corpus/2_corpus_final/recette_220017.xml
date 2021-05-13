@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220017">
+ <titre>Hamburger magret de canard-chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 pains à hamburger</p>
+ <p>2 oignons</p>
+ <p>24 tranches de magret fumé (ou séché) </p>
+ <p>4 tranches assez épiasses de foie gras</p>
+ <p>4 petits chèvres (rocamadour) </p>
+ <p>huile d’ olive</p>
+ <p>vin blanc de cuisine (type villageoise) </p>
+ <p>4 cuillères à soupe de vinaigre balsamique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+séparer les <ingredient quantite=4>pains</ingredient> en 2 et les <operation temps=6.86min espace=12>faire dorer en <recipient>four</recipient> en mode grill</operation>. éplucher et émincer finement les <ingredient quantite=2>oignons</ingredient>. les <operation temps=6.86min espace=12>faire revenir à la <recipient>poêle</recipient> dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. déglacer au <ingredient quantite=1>vin blanc</ingredient>. <operation temps=8.0min espace=12>laisser réduire</operation> puis ajouter le <ingredient quantite=1>vinaigre balsamique</ingredient>. mélanger, retirer du feu et réserver. <operation temps=6.86min espace=12>sortir les <ingredient quantite=4>pains</ingredient> et les</operation> mettre sur la plaque du <recipient>four</recipient>. couper le <ingredient quantite=4>foie gras</ingredient> en 4 <ingredient quantite=1>tranches</ingredient>. préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 7). mettre les <ingredient quantite=2>oignons</ingredient> sur les <ingredient quantite=4>pains</ingredient> inférieurs puis, déposer les <ingredient quantite=1>tranches de magret fumé</ingredient> (ou séché) puis le rocamadour et enfin une <ingredient quantite=4>tranche de foie gras</ingredient>. mettre le <ingredient quantite=1>pain</ingredient> supérieur. enfourner quelques minutes (5 à 10) puis servir accompagné d’ une salade verte. bon appétit!
+]]>
+ </preparation>
+</recette>

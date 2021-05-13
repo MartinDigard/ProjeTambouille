@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166520">
+ <titre>Tarte au saumon et quenelles de volaille</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>400 g de quenelles de volaille au naturel</p>
+ <p>250 g de saumon frais</p>
+ <p>200 g de champignons de Paris en boîte</p>
+ <p>1 gros oignon</p>
+ <p>2 oeufs</p>
+ <p>20 cl de crème fraiche épaisse</p>
+ <p>3 cuillères à soupe de lait</p>
+ <p>175 g de gruyère râpé</p>
+ <p>1 pointe de muscade</p>
+ <p>Huile d’ olive, sel, poivre, persil</p>
+ <p>Pour faire la pâte feuilletée minute: </p>
+ <p>200 g de farine</p>
+ <p>90 g de beurre mou</p>
+ <p>3 petits suisses égouttés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le pavé de <ingredient quantite=1>saumon</ingredient> en grosses allumettes, les <ingredient quantite=1><operation temps=6.86min espace=21>faire</ingredient> revenir</operation> 10min à l’ huile d’ <ingredient quantite=1>olive</ingredient>. ajouter un peu de <ingredient quantite=1>persil</ingredient>. dans une autre <recipient>poêle</recipient> badigeonnée d’ huile d’ <ingredient quantite=1>olive</ingredient>, <ingredient quantite=1><operation temps=6.86min espace=21>faire</ingredient> revenir</operation> les <ingredient quantite=1>oignons</ingredient> puis ajouter les <ingredient quantite=1>quenelles</ingredient> bien <ingredient quantite=1>égouttées</ingredient> et les <ingredient quantite=1>champignons</ingredient>. ajouter le <ingredient quantite=1>saumon</ingredient> à ce mélange. <operation temps=6.86min espace=21>laisser au chaud</operation>. garnir un <recipient><recipient>moule</recipient> à tarte</recipient> de <ingredient quantite=1>pâte feuilletée</ingredient>, la piquer et mettre 15min au <recipient>four</recipient> à 210 ° c. pendant ce temps, fans une <recipient>terrine</recipient> casser les <ingredient quantite=2>oeufs</ingredient>, ajouter la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=3>lait</ingredient>. bien fouetter puis <operation temps=6.86min espace=21>ajoutez un peu de</operation> <ingredient quantite=1>persil</ingredient>, <operation temps=0.25min espace=21>salez</operation>, <operation temps=0.5min espace=21>poivrez</operation> et <operation temps=6.86min espace=21>ajoutez - y une pointe de <ingredient quantite=1>muscade</ingredient></operation>. mettre le <ingredient quantite=1>gruyère râpé</ingredient>. retirer la <ingredient quantite=1>pâte</ingredient> du <recipient>four</recipient> puis ajouter au fond la préparation au <ingredient quantite=1>saumon</ingredient> ainsi que la migaine. remettre au <recipient>four</recipient> 40min à 200 ° cil faut veiller à bien <ingredient quantite=1>égoutter</ingredient> les <ingredient quantite=1>quenelles</ingredient> et les <ingredient quantite=1>champignons</ingredient> pour éviter que la garniture ne baigne dans l’ eau.
+]]>
+ </preparation>
+</recette>

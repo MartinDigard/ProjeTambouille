@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92594">
+ <titre>Moelleux Banane-chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de farine </p>
+ <p>140 g de beurre demi-sel</p>
+ <p>3 bananes mûres</p>
+ <p>3 œufs</p>
+ <p>80 g de sucre</p>
+ <p>100 g d’ amande en poudre</p>
+ <p>1 sachet de levure chimique</p>
+ <p>100 g de chocolat noir (ou pépite) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+écrasez les <ingredient quantite=3>bananes</ingredient> dans une assiette à la fourchette. dans un récipient mettre le <ingredient quantite=1>sucre</ingredient> et le mélangez avec le beurre puis <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=3>œufs</ingredient>, puis les <ingredient quantite=3>bananes</ingredient>, la farine, la <ingredient quantite=1>levure</ingredient> et la <ingredient quantite=1>poudre</ingredient> d’ amende</operation>. puis <operation temps=6.86min espace=8>incorporez le <ingredient quantite=1>chocolat</ingredient> (ou les pépites</operation>). <operation temps=6.86min espace=8>ajoutez des amandes entière si vous</operation> voulez puis <operation temps=40.0min espace=8>enfournez à 180 degrés pendant 40 minutes</operation>.
+]]>
+ </preparation>
+</recette>

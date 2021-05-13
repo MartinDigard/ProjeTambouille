@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23252">
+ <titre>Esturgeon aux girolles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 bel esturgeon</p>
+ <p>5 échalotes</p>
+ <p>500 g de girolles</p>
+ <p>5 cuillères à soupe d’ huile</p>
+ <p>5 cl de vin blanc sec</p>
+ <p>1 pincée de gingembre en poudre (facultatif) </p>
+ <p>2 cuillères à soupe de ciboulette hachée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>plongez le poisson dans l’ eau bouillante</operation> salée pendant 2 minutes, de préférence dans une poissonnière. <operation temps=6.86min espace=7>egouttez l’</operation> <ingredient quantite=1>esturgeon</ingredient>, <operation temps=6.86min espace=7>ôtez la peau</operation> et <operation temps=6.86min espace=7>levez les filets</operation>. <operation temps=6.86min espace=7>faites fondre les <ingredient quantite=5>échalotes</ingredient></operation> hachées dans l’ <ingredient quantite=5>huile</ingredient> puis <operation temps=6.86min espace=7>ajoutez les <ingredient quantite=1>girolles</ingredient>, du sel et du poivre</operation>. <operation temps=6.86min espace=7>faites revenir les filets de poisson dans l’ <ingredient quantite=5>huile</ingredient> 30 secondes de chaque côté</operation>. mouillez ensuite avec le <ingredient quantite=1>vin blanc</ingredient> et <operation temps=6.86min espace=7>saupoudrez de <ingredient quantite=1>gingembre</ingredient></operation>. <operation temps=6.86min espace=7>laissez réduire</operation>. <operation temps=6.86min espace=7>déposez les filets d’ <ingredient quantite=1>esturgeon</ingredient> sur les assiettes chaudes avec leur sauce</operation>. <operation temps=6.86min espace=7>recouvrez de <ingredient quantite=1>girolles</ingredient></operation> saupoudrées de <ingredient quantite=2>ciboulette</ingredient>.
+]]>
+ </preparation>
+</recette>

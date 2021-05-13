@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27101">
+ <titre>Gratin de pâtes au Chaource</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de macaronis</p>
+ <p>1 gros chaource (fromage crémeux) </p>
+ <p>1 paquet de lardons fumés</p>
+ <p>gruyère râpé</p>
+ <p>2 oignons</p>
+ <p>ail</p>
+ <p>sel / poivre</p>
+ <p>herbes de Provence</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire cuire les pâtes dans de l’ eau</operation> salée 8 mn. les égoutter, les assaisonner de <ingredient quantite=1>sel</ingredient> et d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. les mettre de côté. pendant ce temps, <operation temps=6.86min espace=13>faire revenir les <ingredient quantite=2>oignons</ingredient> dans 2 cuillères à soupe d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. une fois blanchis, y ajouter les <ingredient quantite=1>lardons</ingredient>. saler et poivrer. <operation temps=7.0min espace=13>laisser mijoter 7 mn environ à feu doux</operation>. sur votre plaque à découper, couper le fromage en tranches de 1 cm d’ épaisseur. une fois ces étapes accomplies, ailler et beurrer un <recipient>plat</recipient> à gratin, y mettre la moitié des pâtes, la moitié de la préparation aux <ingredient quantite=1>lardons</ingredient>, puis des lamelles de <ingredient quantite=1>chaource</ingredient>, et reproduire ces étapes une fois, avec les autres moitiés. <operation temps=6.86min espace=13>finir par</operation> parsemer le <recipient>plat</recipient> de <ingredient quantite=1>gruyère râpé</ingredient> puis assaisonner: <ingredient quantite=1>poivre</ingredient> (éviter le <ingredient quantite=1>sel</ingredient>: le <ingredient quantite=1>chaource</ingredient> est assez salé) et <ingredient quantite=1>herbes de provence</ingredient>. mettre au <recipient>four</recipient> th 8 pendant 20 mn. bon appétit!!! <recipient>plat</recipient> conseillé en hiver... il est excellent mais consistant! vin rouge (type: madiran)
+]]>
+ </preparation>
+</recette>

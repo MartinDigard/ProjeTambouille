@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166088">
+ <titre>Flammkueche végétalienne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée végétalienne</p>
+ <p>1 oignon</p>
+ <p>1 brique de soja cuisine</p>
+ <p>Parmesan végétal en poudre</p>
+ <p>Muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un bol, verser la <ingredient quantite=1>brique de soja cuisine</ingredient>. ajouter le <ingredient quantite=1>parmesan végétal en poudre</ingredient>, bien mélanger, ajouter un tout petit peu de <ingredient quantite=1>muscade</ingredient>. eplucher l’ <ingredient quantite=1>oignon</ingredient> et le couper en rondelles. disposer la <ingredient quantite=1>pâte</ingredient> dans le <recipient><recipient>moule</recipient> à tarte</recipient>. au fond disposer joliment les rondelles. verser par dessus le mélange. saupoudrer de <ingredient quantite=1>parmesan végétal</ingredient>. couper les bords, et récupérer l’ excédant pour décorer le dessus. mettre un peu de reste du <ingredient quantite=1>soja cuisine</ingredient> sur les décos par dessus pour les <operation temps=25.0min espace=7>faire dorer</operation>. mettre au <recipient>four</recipient> à 240c ° 20min
+]]>
+ </preparation>
+</recette>

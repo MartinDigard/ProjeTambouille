@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27744">
+ <titre>Artichauts pointus aux tomates et aux lardons</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 artichauts pointus (petits artichauts tendres) </p>
+ <p>1 citron</p>
+ <p>2 oignons</p>
+ <p>100 g de lard</p>
+ <p>50 g de beurre</p>
+ <p>6 cl d’ huile</p>
+ <p>4 tomates</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>1 bouquet garni</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>lavez les <ingredient quantite=6>artichauts</ingredient></operation>. puis <operation temps=6.86min espace=10>éliminez les feuilles extérieures près de la tige</operation>. <operation temps=6.86min espace=10>coupez le haut des feuilles aux trois quarts de leur hauteur</operation>. <operation temps=6.86min espace=10>coupez ensuite les <ingredient quantite=6>artichauts</ingredient> en deux ou en quatre</operation> et <operation temps=6.86min espace=10>retirez le foin</operation>. plongez - les dans de l’ eau citronnée pour qu’ ils ne noircissent pas. <operation temps=6.86min espace=10>occupez -vous du <ingredient quantite=1>lard</ingredient>, des <ingredient quantite=2>oignons</ingredient> et des</operation> <ingredient quantite=4>tomates</ingredient>: <operation temps=6.86min espace=10>coupez le</operation> <ingredient quantite=1>lard</ingredient>, <operation temps=3.0min espace=10>pelez</operation> et <operation temps=6.86min espace=10>coupez les <ingredient quantite=2>oignons</ingredient> en lamelles et les <ingredient quantite=4>tomates</ingredient> en dés</operation>. <operation temps=6.86min espace=10>faites fondre le mélange <ingredient quantite=1>beurre</ingredient> - huile</operation>. <operation temps=6.86min espace=10>faites - y</operation> suer les <ingredient quantite=2>oignons</ingredient> et le <ingredient quantite=1>lard</ingredient> émincé. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=4>tomates</ingredient> pelées</operation> et concassées. mouillez de <ingredient quantite=1>vin blanc</ingredient>, ajoutez le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=1.0min espace=10>assaisonnez</operation>. disposez les <ingredient quantite=6>artichauts</ingredient> dans cette sauce et <operation temps=30.0min espace=10>laissez cuire à couvert, doucement, pendant 30 minutes environ</operation>. retirez le <ingredient quantite=1>bouquet garni</ingredient> et <operation temps=2.0min espace=10>servez bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

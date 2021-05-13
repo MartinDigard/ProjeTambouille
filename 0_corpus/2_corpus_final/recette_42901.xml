@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42901">
+ <titre>Tarte tomates / lardons / vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>moutarde</p>
+ <p>1 peu de vin blanc</p>
+ <p>6 tomates</p>
+ <p>2 oignons</p>
+ <p>1 barquette de lardons fumés</p>
+ <p>1 paquet de gruyère râpé</p>
+ <p>1 fromage de chèvre ou camembert</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>, et la piquer. etendre la <ingredient quantite=1>moutarde</ingredient> en une fine couche. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés et les <ingredient quantite=1>lardons</ingredient>, dans un peu <ingredient quantite=1>de vin blanc</ingredient> ; les étaler sur la <ingredient quantite=1>pâte</ingredient>. couper les <ingredient quantite=6>tomates</ingredient> en rondelles, et les disposer sur la <ingredient quantite=1>pâte</ingredient>. etaler le <ingredient quantite=1>gruyère râpé</ingredient> par dessus. couper le <ingredient quantite=1>fromage</ingredient> en tranches, et le disposer par dessus. enfourner à 180 ° c (thermostat 6), pendant 35 à 40 min. cette recette est très facile à réaliser, et très bonne à déguster!
+]]>
+ </preparation>
+</recette>

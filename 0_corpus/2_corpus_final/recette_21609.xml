@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21609">
+ <titre>Lasagnes pommes et bleu des causses</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses pommes (plutôt acides) </p>
+ <p>125 g de Bleu des Causses </p>
+ <p>100 g de pignons de pin</p>
+ <p>une boîte de lasagnes (sans pré-cuisson) </p>
+ <p>20 cl de crème liquide légère</p>
+ <p>quelques pincées de cannelle en poudre</p>
+ <p>beurre</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>pommes</ingredient> en cubes, les <operation temps=5.0min espace=11>faire revenir 5 mn dans un peu de beurre</operation>. en même temps, <operation temps=6.86min espace=11>faire griller les <ingredient quantite=1>pignons</ingredient> dans une autre <recipient>poêle</recipient> sans gras</operation>. couper le <ingredient quantite=1>bleu</ingredient> en morceaux assez minces (il faut qu’ il s’ intercalent entre les <ingredient quantite=1>lasagnes</ingredient>!). saupoudrer la <ingredient quantite=1>cannelle</ingredient> dans la <ingredient quantite=1>crème</ingredient> et <operation temps=3.0min espace=11>faire chauffer 3 mn pour bien</operation> mélanger. saler. beurrer un <recipient>plat</recipient> long et rectangulaire. poser une <ingredient quantite=1>lasagne</ingredient> (il faut que le fond du <recipient>plat</recipient> soit recouvert) puis parsemer de morceaux de <ingredient quantite=2>pommes</ingredient>, de fromage et de quelques <ingredient quantite=1>pignons</ingredient>. ainsi de suite jusqu’ à ce qu’ il n’ y ai plus de garniture. terminer par une <ingredient quantite=1>lasagne</ingredient>. <operation temps=6.86min espace=11>recouvrir de la <ingredient quantite=1>crème</ingredient> à la <ingredient quantite=1>cannelle</ingredient></operation>. enfourner 35 à 45 mn à 180 ° c. il faut vérifier régulièrement la cuisson et rallonger la <ingredient quantite=1>crème</ingredient> avec un peu de lait si les <ingredient quantite=1>lasagnes</ingredient> sèchent (surtout au-dessus). manger très chaud avec une salade de mâche.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170621">
+ <titre>Potage velouté au pâtisson</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 petits pâtissons</p>
+ <p>1 oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>30 g de beurre</p>
+ <p>1, 5 l eau</p>
+ <p>sel poivre</p>
+ <p>2 tranches de pain</p>
+ <p>10 cl de crême fraîche liquide</p>
+ <p>persil coupé très fin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé et les <ingredient quantite=3>gousses</ingredient> d’ <ingredient quantite=3>ail</ingredient> dans le beurre fondu. <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=3>pâtissons</ingredient> après les avoir épluchés</operation>, vidés des graines à l’ intérieur et émincés. <operation temps=6.86min espace=9>laissez mijoter en</operation> mélangeant régulièrement, <operation temps=6.86min espace=9>ajoutez ensuite l’ eau, le <ingredient quantite=1>sel</ingredient> et le poivre</operation>. <operation temps=6.86min espace=9>laissez cuire 30 minutes,</operation> puis <operation temps=6.86min espace=9>ajoutez les 2 tartines</operation> émiettées. passez au mixer et <operation temps=6.86min espace=9>ajoutez la crème fraîche au moment de</operation> <operation temps=6.86min espace=9>servir ainsi que du <ingredient quantite=1>persil</ingredient></operation>. ce potage est <ingredient quantite=1>très</ingredient> velouté
+]]>
+ </preparation>
+</recette>

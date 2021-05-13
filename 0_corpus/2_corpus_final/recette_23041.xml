@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23041">
+ <titre>Poulet pané à la sauce moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet de 1, 8 kg</p>
+ <p>100 g pain de mie sec</p>
+ <p>100 g de beurre</p>
+ <p>2 cuillères à soupe de moutarde </p>
+ <p>4 filets d’ anchois à l’ huile</p>
+ <p>4 jaunes d’ œufs durs</p>
+ <p>10 cl d’ huile d’ olive</p>
+ <p>3 cuillère à soupe de vinaigre</p>
+ <p>1 cuillère à soupe de persil </p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les ailerons et les cuisses du <ingredient quantite=1>poulet</ingredient>. embrocher le <ingredient quantite=1>poulet</ingredient> sur deux brochettes en x pour le <operation temps=6.86min espace=12>maintenir à <recipient>plat</recipient></operation>. <operation temps=20.0min espace=12>faire cuire au <recipient>barbecue</recipient> pendant 20 min sur les deux faces, en le badigeonnant régulièrement d’ un peu de beurre</operation>. écraser le pain de <ingredient quantite=1>mie sec</ingredient> et assaisonner. rouler le <ingredient quantite=1>poulet</ingredient> dans la chapelure et continuer à le <operation temps=6.86min espace=12>faire cuire pendant 30 min, en le retournant de temps en temps et en le badigeonnant de beurre</operation>. dans un bol, mélanger les <ingredient quantite=4>filets</ingredient> d’ <ingredient quantite=4>anchois</ingredient> pilés et les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>œufs</ingredient>. ajouter la <ingredient quantite=2>moutarde</ingredient>, l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et le <ingredient quantite=3>vinaigre</ingredient>. saupoudrer de <ingredient quantite=1>persil</ingredient> ciselé et mélanger. <operation temps=6.86min espace=12>servir le <ingredient quantite=1>poulet</ingredient> avec la sauce à part</operation>.
+]]>
+ </preparation>
+</recette>

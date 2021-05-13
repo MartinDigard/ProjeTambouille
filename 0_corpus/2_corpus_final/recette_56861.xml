@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56861">
+ <titre>Gouy gouy (banane écrasée au nutella) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 à 4 bananes</p>
+ <p>10 cl de lait</p>
+ <p>2 à 3 cuillères à soupe de nutella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecraser les <ingredient quantite=3>bananes</ingredient> à la fourchette en incorporant petit à petit le lait. mélanger rigouresement en ajoutant le <ingredient quantite=2>nutella</ingredient>. on peut varier les ingrédients (banane/ fraise....)
+]]>
+ </preparation>
+</recette>

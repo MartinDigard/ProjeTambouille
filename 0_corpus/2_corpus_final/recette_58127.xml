@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58127">
+ <titre>Pommes de terre à la Riojana (recette espagnole) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses pommes de terre</p>
+ <p>3 oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>200 g de pimientos (poivrons ou piments doux en boîte) </p>
+ <p>1 poivron vert</p>
+ <p>1 chorizo doux ou piquant</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et émincer finement les <ingredient quantite=3>oignons</ingredient> et les <ingredient quantite=4>gousses</ingredient> d’ <ingredient quantite=4>ail</ingredient>. les <operation temps=10.0min espace=7>faire revenir pendant 10 minutes dans de l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ensuite ajouter les petits piments, le <ingredient quantite=1>poivron</ingredient> coupé en petits dés. peler et couper les <ingredient quantite=6>pommes de terre</ingredient> en petits morceaux, les ajouter au reste et <operation temps=6.86min espace=7>recouvrir avec un peu d’ eau</operation>. ajouter le <ingredient quantite=1>chorizo</ingredient> coupé en rondelles. <operation temps=35.0min espace=7>laisser cuire environ 35 minutes en</operation> remuant de temps en temps. rajouter de l’ eau si nécessaire pendant la cuisson. <ingredient quantite=6>pommes de terre</ingredient> à la riojana ou patatas a la riojana en espagnol.
+]]>
+ </preparation>
+</recette>

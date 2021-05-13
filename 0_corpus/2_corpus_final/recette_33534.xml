@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33534">
+ <titre>Tarte au poulet et pommes de terre (restes de poulet) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 reste de poulet rôti</p>
+ <p>quelques champignons en lamelles (ceux qu’ on préfère) </p>
+ <p>quelques pommes de terre cuites à l’ eau (environ 400 g) </p>
+ <p>4 échalotes </p>
+ <p>deux gousses d’ ail hachée</p>
+ <p>oseille (ou persil si on préfère) </p>
+ <p>un peu de crème fraîche</p>
+ <p>4 oeufs</p>
+ <p>parmesan</p>
+ <p>beurre</p>
+ <p>un tout petit peu de farine (pour la pâte) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c. détailler le <ingredient quantite=1>poulet</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=15>faire revenir les <ingredient quantite=4>échalotes</ingredient> avec les <ingredient quantite=1>champignons</ingredient>,</operation> puis ajouter le <ingredient quantite=1>poulet</ingredient>, l’ oseille, l’ <ingredient quantite=1>ail</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient>, saler et poivrer (le poivre du moulin). étaler la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. mettre un <ingredient quantite=1>peu</ingredient> de farine sur le fond (pour que le dessous reste croustillant). étaler la préparation au <ingredient quantite=1>poulet</ingredient> en alternant avec des rondelles de <ingredient quantite=1>pommes de terre cuites à</ingredient> l’ <ingredient quantite=1>eau</ingredient>. verser sur la tarte 4 <ingredient quantite=4>oeufs</ingredient> battus en omelette. saupoudrer la tarte de <ingredient quantite=1>parmesan</ingredient> râpé. enfourner pendant 30 mn.
+]]>
+ </preparation>
+</recette>

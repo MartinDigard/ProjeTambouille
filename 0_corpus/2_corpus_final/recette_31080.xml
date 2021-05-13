@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31080">
+ <titre>Waterzoï de poulet au Genièvre</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 très gros poulet</p>
+ <p>les abats du poulet (coeur, foie, gésier) </p>
+ <p>6 carottes</p>
+ <p>2-3 oignons</p>
+ <p>2 branches de céleri</p>
+ <p>5 poireaux</p>
+ <p>40 g de beurre</p>
+ <p>1 "dé à coudre" (1 petite cuillère à soupe) de genièvre</p>
+ <p>4 tranches de pain pour la présentation</p>
+ <p>Pour le bouillon: </p>
+ <p>1 jarret de veau de 750 g</p>
+ <p>2 os de veau</p>
+ <p>thym, laurier, persil</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>100 g de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) dans une <recipient>cocotte</recipient>, mettre le <ingredient quantite=1>jarret</ingredient>, <ingredient quantite=1>os</ingredient>, coeur et gésier du <ingredient quantite=1>poulet</ingredient> (mais pas le foie!!) bouquet garni. <operation temps=1.0min espace=19>recouvrir d’ eau</operation> et porter à ébullition, écumer, cuire pendant 2 heures. 2) laver, éplucher et couper en petits morceaux <ingredient quantite=6>carottes</ingredient>, <ingredient quantite=4>oignons</ingredient>, <ingredient quantite=2>céleri</ingredient> et <ingredient quantite=5>poireaux</ingredient>. 3) dans une <recipient>cocotte</recipient> <operation temps=6.86min espace=19>faire revenir les légumes dans le beurre</operation>. (si possible dans cet ordre: <ingredient quantite=4>oignons</ingredient> et <ingredient quantite=5>poireaux</ingredient> d’ abord pour qu’ ils commencent à " fondre ", <ingredient quantite=6>carottes</ingredient> puis <ingredient quantite=2>céleri</ingredient>.). 4) couper le <ingredient quantite=1>poulet</ingredient> (en 8) et émincer le foie, poser le tout sur les légumes et <operation temps=15.0min espace=19>faire cuire 15 mn à feu <ingredient quantite=1>très</ingredient> doux</operation>. 5) retirer les <ingredient quantite=1>os de veau</ingredient> du <ingredient quantite=1>bouillon</ingredient>. (on mangera le <ingredient quantite=1>jarret</ingredient> une autre fois...). 6) <operation temps=6.86min espace=19>recouvrir le <ingredient quantite=1>poulet</ingredient> d’ une partie du <ingredient quantite=1>bouillon</ingredient> (s’</operation> arrêter quand les morceaux de <ingredient quantite=1>poulet</ingredient> sont recouvert de <ingredient quantite=1>bouillon</ingredient>). <operation temps=6.86min espace=19>laisser mijoter 1 h30 à 2 h</operation>. 7) battre les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient>, la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>genièvre</ingredient>. 8) <operation temps=6.86min espace=19>sortir les morceaux de <ingredient quantite=1>poulet</ingredient> et les</operation> présenter sur un <recipient>plat</recipient> (à garder au chaud!!). 9) <operation temps=6.86min espace=19>versez le mélange <ingredient quantite=2>oeufs</ingredient> - <ingredient quantite=1>crème</ingredient> - <ingredient quantite=1>genièvre</ingredient> dans la <recipient>cocotte</recipient></operation> et mélanger jusqu’ à ce que la sauce soit bien liée. 10) napper les morceaux de <ingredient quantite=1>poulet</ingredient>. faire griller les <ingredient quantite=4>tranches de pain</ingredient> et les tartiner généreusement de beurre. <operation temps=6.86min espace=19>servir!!! bière!</operation>!
+]]>
+ </preparation>
+</recette>

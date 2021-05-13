@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80539">
+ <titre>Tarte aux carottes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>800 g de carottes</p>
+ <p>20 cl de crème fraîche</p>
+ <p>200 g de gruyère</p>
+ <p>1 pincée de muscade</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>carottes</ingredient> et <operation temps=6.86min espace=9>coupez - les en rondelles,</operation> puis <operation temps=6.86min espace=9>faites - les</operation> cuire à la <recipient>cocotte</recipient> (plus rapide) ou à l’ eau. ecrasez - les à la fourchette (grossièrement) puis <operation temps=6.86min espace=9>ajoutez - y la <ingredient quantite=1>crème</ingredient>, le gruyère, la <ingredient quantite=1>muscade</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre</operation>. <operation temps=6.86min espace=9>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation> et <operation temps=6.86min espace=9>piquez le fond avec une fourchette</operation>. <operation temps=45.0min espace=9>etalez la préparation sur le fond de tarte et enfournez à 210 °, thermostat 7, à <recipient>four</recipient> préchauffé pour 45 min</operation>.
+]]>
+ </preparation>
+</recette>

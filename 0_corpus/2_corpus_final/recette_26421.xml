@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26421">
+ <titre>Spaghetti et leur sauce aux artichauts</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de spaghetti</p>
+ <p>4 artichauts</p>
+ <p>1 citron</p>
+ <p>1 oignon ciselé</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>450 g de tomates mondées</p>
+ <p>persil haché</p>
+ <p>sel et poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlever les feuilles d’ <ingredient quantite=4>artichauts</ingredient> trop dures et le foin. couper l’ <ingredient quantite=1>artichaut</ingredient> dans la largeur et les plonger dans l’ eau avec le jus du <ingredient quantite=1>citron</ingredient>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=10>faire une fondue avec l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=4>huile</ingredient></operation>. y <operation temps=6.86min espace=10>faire revenir les morceaux d’ <ingredient quantite=1>artichaut</ingredient> égouttés, puis les <ingredient quantite=1>tomates</ingredient></operation>. assaisonner et <operation temps=40.0min espace=10>faire mijoter à feu doux pendant 40 min</operation>. plonger les <ingredient quantite=1>spaghettis</ingredient> dans une <recipient>casserole</recipient> d’ eau bouillante pendant 10 min, les égoutter et les <operation temps=6.86min espace=10>recouvrir de sauce à l’ <ingredient quantite=1>artichaut</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

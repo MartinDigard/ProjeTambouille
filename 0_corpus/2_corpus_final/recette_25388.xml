@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25388">
+ <titre>Flan de poireaux au fromage</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de poireaux</p>
+ <p>5 oeufs</p>
+ <p>50 g de beurre</p>
+ <p>100 g de mie de pain rassis</p>
+ <p>10 cl de lait</p>
+ <p>150 g de fromage râpé</p>
+ <p>1 pincée de noix de muscade râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et émincez les <ingredient quantite=1>poireaux</ingredient>. <operation temps=2.0min espace=12>cuisez - les 2 min à l’ eau bouillante</operation> salée ou à la vapeur. <operation temps=10.0min espace=12>egouttez</operation> - les et <operation temps=6.86min espace=12>hachez - les,</operation> puis <operation temps=6.86min espace=12>faites - les</operation> dessécher dans une <recipient>casserole</recipient> dans le beurre chaud. <operation temps=6.86min espace=12>emiettez le <ingredient quantite=1>pain</ingredient></operation>. hors du feu, ajoutez - le aux <ingredient quantite=1>poireaux</ingredient> ainsi que le lait, le <ingredient quantite=1>fromage râpé</ingredient> et les <ingredient quantite=5>oeufs</ingredient> battus. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation>, <operation temps=6.86min espace=12>ajoutez un peu de</operation> <ingredient quantite=1>muscade</ingredient> et <operation temps=6.86min espace=12>versez dans un <recipient>moule</recipient> haute beurré</operation>. placez dans un <recipient>bain - marie</recipient> et <operation temps=40.0min espace=12>faites cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 40 min</operation>.
+]]>
+ </preparation>
+</recette>

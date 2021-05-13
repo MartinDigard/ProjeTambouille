@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53211">
+ <titre>Pommes de terre à la cancoillotte</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 grosses pommes de terre à chair farineuse</p>
+ <p>150 g de jambon en julienne</p>
+ <p>250 g de cancoillotte (nature ou à l’ ail) </p>
+ <p>8 cuillère à café de crème fraîche légère</p>
+ <p>1 cuillère à café de persil séché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez les <ingredient quantite=8>pommes de terre</ingredient> (<operation temps=6.86min espace=9>gardez la peau),</operation> puis <operation temps=6.86min espace=9>faites - les</operation> cuire au <recipient>four</recipient> traditionnel, au micro-ondes, ou à l’ eau. <operation temps=6.86min espace=9>coupez - les en deux</operation> et <operation temps=6.86min espace=9>évidez - les ; soyez délicats car la peau est assez fragile</operation>. a la fourchette, mélangez la <ingredient quantite=8>chair de pomme de terre</ingredient> avec le reste des ingrédients. <operation temps=6.86min espace=9>farcissez les coques de ce mélange</operation> et <operation temps=6.86min espace=9>disposez - les dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient> ; enfournez encore 15 min à 180 ° c (th 6). copieux et pourtant <ingredient quantite=1>léger</ingredient>: un vrai régal pour les régimeurs de l’ hiver! vin du jura
+]]>
+ </preparation>
+</recette>

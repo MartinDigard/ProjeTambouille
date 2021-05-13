@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28023">
+ <titre>Pain d’ épices aux trois farines</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>15 cl de lait</p>
+ <p>50 g de beurre</p>
+ <p>150 g de miel</p>
+ <p>1 cuillère à café de bicarbonate de soude</p>
+ <p>100 g de sucre de canne</p>
+ <p>1 cuillère à café de zeste d’ orange</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 pointe de girofle moulue</p>
+ <p>150 g de farine de seigle</p>
+ <p>50 g de farine de blé noir (sarrasin) </p>
+ <p>50 g de farine de blé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire chauffer le lait avec le beurre, quand c’ est</operation> chaud, verser le <ingredient quantite=1>miel</ingredient>, bien mélanger. ajouter le <ingredient quantite=1>bicarbonate de soude</ingredient> puis le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>zeste</ingredient> d’ <ingredient quantite=1>orange</ingredient> finement râpé, la <ingredient quantite=1>cannelle</ingredient> et la pointe de <ingredient quantite=1>girofle moulue</ingredient>. mélanger puis incorporer progressivement les 250 g de farines tamisées en veillant à ne pas <operation temps=6.86min espace=13>faire de grumeaux</operation>. quand la pâte est bien homogène, la verser dans un <recipient>moule</recipient> à cake beurré. cuire 60 min à <recipient>four</recipient> moyen (thermostat 5, soit 150 ° c). ce pain d’ épices accompagne très bien le foie gras avec un confit d’ oignons, mais il est aussi délicieux au goûter avec un thé aux épices. vin blanc doux
+]]>
+ </preparation>
+</recette>

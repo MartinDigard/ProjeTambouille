@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81560">
+ <titre>Soupe de potimarron au lait de coco</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 potimarron moyen</p>
+ <p>2 belles carottes</p>
+ <p>5 branches de persil</p>
+ <p>2 oignons</p>
+ <p>2 navets</p>
+ <p>250 ml de lait de coco</p>
+ <p>sel / poivre</p>
+ <p>1 L d’ eau (voire 1, 5 L) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher, égrainer et couper le <ingredient quantite=1>potimarron</ingredient> en morceaux ainsi que les carrottes, <ingredient quantite=2>navets</ingredient> et <ingredient quantite=2>oignons</ingredient>. plonger le tout dans une <recipient>marmite</recipient> avec le <ingredient quantite=5>persil</ingredient>, <ingredient quantite=1>sel</ingredient> et poivre et <operation temps=45.0min espace=9>faire cuire 45 min</operation>. mixer le tout et verser le lait de <ingredient quantite=1>coco</ingredient>, mélanger, puis déguster... si votre soupe est trop épaisse, vous pouvez rajouter de l’ <ingredient quantite=1>eau</ingredient> au momment du mixage, jusqu’ au résultat souhaité.
+]]>
+ </preparation>
+</recette>

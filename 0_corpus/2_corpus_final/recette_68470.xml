@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68470">
+ <titre>Terrine de brioche perdue</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>restes de brioche rassise (de quoi tapisser une terrine) </p>
+ <p>2 oeufs</p>
+ <p>3 cuillères à soupe de sucre poudre</p>
+ <p>20 cl de lait</p>
+ <p>mélange de 4 épices</p>
+ <p>3 cuillères à soupe de cassonade</p>
+ <p>30 g de beurre demi-sel</p>
+ <p>1 terrine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). mélangez dans un récipient les 2 <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=3>sucre poudre</ingredient>, le lait. <operation temps=6.86min espace=13>coupez les restes de <ingredient quantite=1>brioche</ingredient> en tranches et placez - les dans la <ingredient quantite=1><recipient>terrine</recipient></ingredient></operation>. versez l’ appareil dessus. ces quantités sont bien pour une demi <ingredient quantite=1><recipient>terrine</recipient></ingredient>. sinon, <operation temps=6.86min espace=13>augmentez la quantité de lait</operation>. saupoudrez la <ingredient quantite=3>cassonade</ingredient>, un peu de <ingredient quantite=1>4 épices</ingredient> et répartissez le beurre <ingredient quantite=1>demi-sel</ingredient> sur le dessus. <operation temps=30.0min espace=13>fermez la <ingredient quantite=1><recipient>terrine</recipient></ingredient> avec le couvercle et enfournez pour 30 minutes de cuisson</operation>. a la fin de la cuisson, <operation temps=6.86min espace=13>faites attention de ne pas vous</operation> brûler en retirant le couvercle. comme pour au soufflé, la <ingredient quantite=1><recipient>terrine</recipient></ingredient> aura gonflé et redescendra en refroidissant. un plus: pourquoi pas ajouter des pépites de chocolat ou des tranches de pommes caramélisées et des amandes entre les tranches de <ingredient quantite=1>brioche</ingredient>! vous pouvez l’ accompagner d’ une boule de glace à la vanille ou décorer avec un nuage de crème chantilly. bon appétit. parfait pour le goûter des enfants au retour de l’ école, ou une préparation ensemble le mercredi!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33268">
+ <titre>Soupe de potiron et châtaigne</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de potiron</p>
+ <p>2 carottes</p>
+ <p>1 oignon</p>
+ <p>100 g de châtaignes</p>
+ <p>sel, poivre </p>
+ <p>coriandre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre tous les ingrédients dans une <recipient>cocotte</recipient> sauf les <ingredient quantite=1>châtaignes</ingredient> sous pression environ 7 mn avec de l’ eau ; <operation temps=6.86min espace=7>couvrir les ingrédients</operation>, saler poivrer. <operation temps=6.86min espace=7>faire cuire à part les <ingredient quantite=1>châtaignes</ingredient> à l’ eau, les</operation> égoutter et les peler. mixer ensuite le tout. la soupe est prête, on peut rajouter de la crème fraîche dans son assiette, c’ est délicieux.
+]]>
+ </preparation>
+</recette>

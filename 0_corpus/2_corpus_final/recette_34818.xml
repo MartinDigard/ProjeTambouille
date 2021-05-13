@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34818">
+ <titre>Lapin aux endives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin découpé</p>
+ <p>8 endives</p>
+ <p>150 g de lardons</p>
+ <p>2 oignons</p>
+ <p>huile d’ olive</p>
+ <p>thym</p>
+ <p>basilic</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>cocotte</recipient>. <operation temps=6.86min espace=13>faire revenir le <ingredient quantite=1>lapin</ingredient></operation>. lorsqu’ il est bien doré, le retirer et le réserver. laver et <ingredient quantite=1>découper</ingredient> en 2 chaque <ingredient quantite=1>endive</ingredient>. emincer les <ingredient quantite=2>oignons</ingredient>. <operation temps=6.86min espace=13>faire revenir les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=1>lardons</ingredient> dans la <recipient>cocotte</recipient></operation>. lorsque les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=2>oignons</ingredient> sont bien dorés, placer les <ingredient quantite=8>endives</ingredient> sur les bords de la <recipient>cocotte</recipient>. placer le <ingredient quantite=1>lapin</ingredient> au milieu. mettre le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>basilic</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre selon sa convenance. fermer la <recipient>cocotte</recipient> et <operation temps=20.0min espace=13>laisser cuire 20 mn après la montée en pression</operation>. <operation temps=6.86min espace=13>ouvrir la <recipient>cocotte</recipient>, c’ est prêt</operation>. les <ingredient quantite=8>endives</ingredient> lachent beaucoup d’ eau, il est inutile d’ en rajouter.
+]]>
+ </preparation>
+</recette>

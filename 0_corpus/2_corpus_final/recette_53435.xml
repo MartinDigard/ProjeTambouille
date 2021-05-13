@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53435">
+ <titre>Bricks aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Ingrédients (pour 5 bricks): </p>
+ <p>5 feuilles de brick</p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>2 tomates</p>
+ <p>4 à 5 pommes de terre (suivant la grosseur) </p>
+ <p>1 pincée de fromage râpé</p>
+ <p>sel, poivre, huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=4>pommes de terres</ingredient> à la vapeur. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire revenir séparement l’ <ingredient quantite=1>aubergine</ingredient> et la <ingredient quantite=1>courgette</ingredient></operation> coupées en dés. faire griller les <ingredient quantite=4>pommes de terre</ingredient> coupées en rondelles dans un peu d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. dans chaque <ingredient quantite=5>feuille de brick</ingredient>, disposez: un peu de <ingredient quantite=4>pommes de terre</ingredient>, de l’ <ingredient quantite=1>aubergine</ingredient>, de la <ingredient quantite=1>courgette</ingredient>, 2 à 3 rondelles de <ingredient quantite=2>tomates</ingredient>, quelques lamelles d’ emmental. <operation temps=0.25min espace=11>salez</operation>, <operation temps=6.86min espace=11>poivrez,</operation> puis <operation temps=6.86min espace=11>refermez la <ingredient quantite=1>feuille</ingredient> de façon à</operation> <operation temps=6.86min espace=11>obtenir un rectangle</operation> ; <operation temps=6.86min espace=11>répétez l’ opération pour chaque <ingredient quantite=5>brick</ingredient></operation>. <operation temps=6.86min espace=11>faites - les griller des 2 côtés, à la <recipient>poêle</recipient>, dans un peu d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>,</operation> ou <operation temps=25.0min espace=11>faites cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant environ 25 minutes</operation> (<operation temps=6.86min espace=11>retournez à mi-cuisson</operation>). <operation temps=6.86min espace=11>servez chaud, avec une salade verte ou en accompagnement de viandes, poissons</operation>...
+]]>
+ </preparation>
+</recette>

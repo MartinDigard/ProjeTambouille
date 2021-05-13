@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43463">
+ <titre>Chapon farci aux boudins blancs</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>250 g de foies de volaille</p>
+ <p>4 boudins blancs</p>
+ <p>2 cuillères à soupe d’ huile d’ olives</p>
+ <p>2 échalotes</p>
+ <p>1 chapon de 3 kg</p>
+ <p>2 litres de bouillon de volaille (1 carotte, 1 poireau, sel et poivre, laurier) </p>
+ <p>Pour la garniture: </p>
+ <p>200 g de marrons </p>
+ <p>250 g de champignons </p>
+ <p>200 g de purée de cèleri (ou de pommes de terre) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+en premier lieu, je prépare la farce: je hache les <ingredient quantite=2>échalotes</ingredient>, et je les fait <operation temps=6.86min espace=14>revenir doucement dans une <recipient>sauteuse</recipient> avec de l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. je hache au ciseau mes <ingredient quantite=1>foies de volaille</ingredient>, je mélange bien, et je retire la peau des boudins dans un <recipient>saladier</recipient>. je les coupe en petits morceaux, et je mélange avec les <ingredient quantite=1>foies</ingredient> et les <ingredient quantite=2>échalotes</ingredient>... je ne rajoutte rien car le mélange est assez crémeux! je <operation temps=6.86min espace=14>farcis mon <ingredient quantite=1>chapon</ingredient>, et je le coud avec du fil</operation>. je <operation temps=6.86min espace=14>fais chauffer dans un grand <recipient>faitout</recipient>, le <ingredient quantite=2>bouillon</ingredient> avec la carotte</operation> coupée, et le poireau, ainsi que le laurier. je plonge le <ingredient quantite=1>chapon</ingredient> dans le <ingredient quantite=2>bouillon</ingredient>, et je le fait cuire pendant 1h. puis, je le sort, je l’ égoutte bien, et je le place sur la lèche frite. je fait chauffer le <recipient>four</recipient> à 180 ° c (thermostat 6), et je <operation temps=6.86min espace=14>laisse le <ingredient quantite=1>chapon</ingredient></operation> cuire 2 h, en arrosant bien la <ingredient quantite=1>volaille</ingredient> avec le <ingredient quantite=2>bouillon</ingredient> de cuisson. au bout du temps de cuisson, je le <operation temps=6.86min espace=14>laisse reposer un peu, puis je le découpe</operation>. je fait cuire la <ingredient quantite=1>garniture</ingredient> choisie, selon son mode de cuisson. le pochage du <ingredient quantite=1>chapon</ingredient> dans le <ingredient quantite=2>bouillon</ingredient> <operation temps=6.86min espace=14>laisse la chair tendre et non séche</operation>. il n’ est pas nécesaire d’ enduire le <ingredient quantite=1>chapon</ingredient> de matière grasse, la viande l’ est suffisemment.
+]]>
+ </preparation>
+</recette>

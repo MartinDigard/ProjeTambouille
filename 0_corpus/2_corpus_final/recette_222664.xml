@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222664">
+ <titre>Carbonnade Flamande de Belle-Maman</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gousse d’ ail</p>
+ <p>75 cl de bière blonde</p>
+ <p>1 kg de boeuf</p>
+ <p>1 bouquet garni</p>
+ <p>1 cuillère à soupe de cassonade</p>
+ <p>2 cuillères à soupe d’ huile de tournesol</p>
+ <p>25 g de beurre</p>
+ <p>4 cuillères à soupe de moutarde forte</p>
+ <p>350 g d’ oignons</p>
+ <p>4 tranches de pain rassis</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>2 cuillères à soupe de vinaigre de vin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler la viande en gros cubes. peler et couper les <ingredient quantite=1>oignons</ingredient> en fines rondelles. peler et écraser la gousse d’ <ingredient quantite=1>ail</ingredient>. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=16>faire chauffer l’ huile</operation>. <operation temps=5.0min espace=16>faire revenir la viande pendant 5 min</operation>. saler et poivrer. réserver. dans la même <recipient>cocotte</recipient>, <operation temps=1.0min espace=16>faire fondre le beurre</operation> et dorer les <ingredient quantite=1>oignons</ingredient> pendant 15 min. lorsqu’ ils sont bien colorés, ajouter le <ingredient quantite=2>vinaigre</ingredient> et la <ingredient quantite=1>cassonade</ingredient>. <operation temps=10.0min espace=16>laisser cuire environ 10 min</operation>. ajouter la viande, l’ <ingredient quantite=1>ail</ingredient> écrasé, le <ingredient quantite=1>bouquet garni</ingredient> et mouiller à la <ingredient quantite=1>bière</ingredient> qui doit arriver au niveau de la viande. badigeonner de <ingredient quantite=4>moutarde</ingredient> les <ingredient quantite=4>tranches de pain</ingredient> de chaque côté. mettre le <ingredient quantite=4>pain</ingredient> dans la <recipient>cocotte</recipient>. porter à ébullition. aux premiers bouillons, <operation temps=0.25min espace=16>couvrir</operation> et baisser le feu. <operation temps=6.86min espace=16>laisser mijoter à feu doux pendant 3 heures</operation>. servir accompagné de frites ou de pommes de terre. <ingredient quantite=1>bière</ingredient>
+]]>
+ </preparation>
+</recette>

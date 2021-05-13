@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10862">
+ <titre>Mousse de thon aux fines herbes</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de thon au naturel</p>
+ <p>20 cl de crème fraîche</p>
+ <p>10 cl de gelée</p>
+ <p>2 cuillères à café de jus de citron</p>
+ <p>2 cuillères à café d’ huile d’ olive extra vierge</p>
+ <p>2 cuillères à soupe de ciboulette </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites fondre la <ingredient quantite=1>gelée</ingredient> sur feu doux,</operation> puis <operation temps=6.86min espace=9>laissez - la refroidir</operation>. <operation temps=6.86min espace=9>passez le <ingredient quantite=1>thon</ingredient>, les herbes et l’ <ingredient quantite=2>huile</ingredient> au mixer jusqu’ à obtention d’ une purée fine</operation>. <operation temps=6.86min espace=9>fouettez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=0.5min espace=9>ajoutez</operation> la <ingredient quantite=1>gelée</ingredient> et le <ingredient quantite=2>jus de citron</ingredient> au <ingredient quantite=1>thon</ingredient>. <operation temps=0.25min espace=9>salez</operation>. <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=0.5min espace=9>ajoutez</operation> délicatement la <ingredient quantite=1>crème</ingredient> à ce mélange. <operation temps=6.86min espace=9>mettez la mousse dans une <recipient>terrine</recipient></operation> et <operation temps=6.86min espace=9>mettez au <recipient>réfrigérateur</recipient> pendant au moins quatre heures</operation>. <operation temps=6.86min espace=9>servez avec des toasts chauds, du beurre et des câpres</operation>.
+]]>
+ </preparation>
+</recette>

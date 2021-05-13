@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28745">
+ <titre>Riz sauce champignons et crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de riz</p>
+ <p>250 g de champignons</p>
+ <p>250 g de grosses crevettes</p>
+ <p>50 g de lard</p>
+ <p>1 gros oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 petite boîte de concentré de tomate</p>
+ <p>1 pincée de basilic</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites cuire le <ingredient quantite=1>riz</ingredient> à l’ eau bouillante</operation> salée ou selon votre habitude. pendant ce temps, <operation temps=6.86min espace=11>détaillez le <ingredient quantite=1>lard</ingredient> en dés</operation>. lavez et émincez les <ingredient quantite=1>champignons</ingredient>, émincez les oignosn et pressez l’ <ingredient quantite=2>ail</ingredient>. <operation temps=6.86min espace=11>faites revenir les lardons, les <ingredient quantite=1>oignons</ingredient> et l’ <ingredient quantite=2>ail</ingredient> dans du beurre à la <recipient>poêle</recipient></operation>. ajoutez les <ingredient quantite=1>champignons</ingredient> et le <ingredient quantite=1>concentré de tomate</ingredient>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et <operation temps=6.86min espace=11>mouillez d’ un peu d’ eau</operation> et <operation temps=6.86min espace=11>laissez bouillir</operation> mijoter 5 min. <operation temps=6.86min espace=11>egouttez le <ingredient quantite=1>riz</ingredient>, diposez - le en dôme</operation> et <operation temps=6.86min espace=11>versez la sauce au centre</operation>. répartissez les crevettes et <operation temps=2.0min espace=11>servez</operation>.
+]]>
+ </preparation>
+</recette>

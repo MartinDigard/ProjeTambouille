@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80424">
+ <titre>Omelette berbère</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 oeufs</p>
+ <p>3 poivrons</p>
+ <p>3 gros oignons</p>
+ <p>huile d’ olive, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à chauffer sur le feu un <recipient>plat</recipient> à tajine, avec un fond d’ huile d’ <ingredient quantite=1>olive</ingredient>. couper les <ingredient quantite=3>oignons</ingredient> et les <ingredient quantite=3>poivrons</ingredient> en lamelles. les mettre dans le <recipient>plat</recipient> à tajine et <operation temps=6.86min espace=9>faire frire</operation>. ne pas <operation temps=6.86min espace=9>couvrir le <recipient>plat</recipient></operation>. casser les <ingredient quantite=8>oeufs</ingredient> et les battre dans une jatte. verser sur les <ingredient quantite=3>oignons</ingredient> et <ingredient quantite=3>poivrons</ingredient> frits. saler, poivrer. <operation temps=6.86min espace=9>couvrir le <recipient>plat</recipient></operation> et <operation temps=15.0min espace=9>laisser cuire à feu doux pendant 15 min environ</operation>. vérifier que votre <recipient>plat</recipient> à tajine supporte la cuisson sur le gaz. rosé de provence
+]]>
+ </preparation>
+</recette>

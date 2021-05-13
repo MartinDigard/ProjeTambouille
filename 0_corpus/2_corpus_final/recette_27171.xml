@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27171">
+ <titre>Mouton mijoté au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 2 kg de morceaux de moutons</p>
+ <p>3 carottes</p>
+ <p>7 oignons</p>
+ <p>1 bouquet garni</p>
+ <p>4 gousses d’ ail</p>
+ <p>4 cuillères à soupe de farine</p>
+ <p>3 tomates pelées</p>
+ <p>60 cl de vin blanc</p>
+ <p>15 cl de bouillon</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et détailler les <ingredient quantite=3>carottes</ingredient> en rondelles, puis écraser les <ingredient quantite=4>gousses</ingredient> d’ <ingredient quantite=4>ail</ingredient>. <ingredient quantite=1>peler</ingredient> et émincer les <ingredient quantite=7>oignons</ingredient>, puis les <operation temps=6.86min espace=13>faire revenir dans une <recipient>poêle</recipient> beurrée</operation>. <operation temps=6.86min espace=13>faire chauffer un peu d’</operation> huile dans une <recipient>cocotte</recipient>, puis y ajouter les morceaux de viande avec les rondelles de <ingredient quantite=3>carottes</ingredient>, la fondue d’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=4>ail</ingredient> écrasé. ajouter le <ingredient quantite=1>bouquet garni</ingredient>, saler, poivrer, saupoudrer de farine puis bien mélanger. <operation temps=10.0min espace=13>laisser cuire 10 minutes à couvert sur feu modéré,</operation> puis retirer le couvercle et ajouter les <ingredient quantite=3>tomates pelées</ingredient>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=13>faire chauffer le <ingredient quantite=1>vin</ingredient> avec le <ingredient quantite=1>bouillon</ingredient>,</operation> puis arroser la viande et <operation temps=6.86min espace=13>laisser cuire 1 heure à couvert sur feu doux, en</operation> remuant régulièrement. goûter et rectifier l’ assaisonnement si nécessaire, puis servir.
+]]>
+ </preparation>
+</recette>

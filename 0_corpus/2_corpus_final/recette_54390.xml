@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54390">
+ <titre>Tarte aux fruits et à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>fruits au choix frais ou en boîte: 2 pommes ou 2 poires ou 10 abricots ou 4 pêches, les mélanges sont possibles! </p>
+ <p>70 g de farine</p>
+ <p>60 g de coco râpée</p>
+ <p>100 g de sucre en poudre</p>
+ <p>2 gros oeufs</p>
+ <p>1/2 sachet de levure</p>
+ <p>20 cl de crème fraîche</p>
+ <p>1 pâte feuilletée ou brisée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=3.0min espace=12>pelez</operation>, <operation temps=6.86min espace=12>coupez en <ingredient quantite=2>gros</ingredient> quartiers les <ingredient quantite=1>fruits</ingredient></operation> <operation temps=6.86min espace=12>choisis</operation>. disposez - les sur la <ingredient quantite=1>pâte</ingredient> étalée dans un <recipient><recipient>moule</recipient> à tarte</recipient>. dans un <recipient>saladier</recipient>, mélangez la farine, la <ingredient quantite=1>levure</ingredient> et la <ingredient quantite=1>coco râpée</ingredient>. <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>sucre</ingredient>, bien</operation> mélanger et il n’ y aura pas de grumeaux. ajouter les <ingredient quantite=2>oeufs</ingredient> et la <ingredient quantite=1>crème</ingredient>, à la fin! <operation temps=6.86min espace=12>respectez l’ ordre</operation>. <operation temps=6.86min espace=12>versez cette préparation sur les</operation> <ingredient quantite=1>fruits</ingredient> et mettre au <recipient>four</recipient>. pour un goût plus prononcé, vous pouvez mettre davantage de <ingredient quantite=1>coco râpée</ingredient>! mais <operation temps=6.86min espace=12>veillez à</operation> <operation temps=6.86min espace=12>respectez l’ ordre</operation> du <ingredient quantite=1>mélange</ingredient>! blanc moelleux
+]]>
+ </preparation>
+</recette>

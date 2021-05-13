@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70352">
+ <titre>Poire au brie</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 demie poire au sirop</p>
+ <p>1 tranche de brie</p>
+ <p>1 c. à café de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposez sur une assiette allant au <recipient>four</recipient> une <ingredient quantite=1>demie poire au sirop</ingredient> et une <ingredient quantite=1>tranche de brie</ingredient>. <operation temps=6.86min espace=5>arrosez le tout avec le</operation> <ingredient quantite=1>sirop</ingredient> et <operation temps=6.86min espace=5>soupoudrez de <ingredient quantite=1>sucre</ingredient></operation>. gratinez au <recipient>four</recipient>, assez pour <operation temps=6.86min espace=5>obtenir une belle coloration, mais pas trop pour que le <ingredient quantite=1>brie</ingredient> ne soit pas complètement</operation> fondu. <operation temps=2.0min espace=5>servez</operation> chaud. cette recette plaît à la plupart des convives, elle permet de terminer en douceur un menu en réconciliant fromage et dessert. la qualité du <ingredient quantite=1>brie</ingredient> est importante.
+]]>
+ </preparation>
+</recette>

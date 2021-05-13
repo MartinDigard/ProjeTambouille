@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23493">
+ <titre>Sauté de maquereaux à la vodka</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 maquereaux</p>
+ <p>farine</p>
+ <p>6 piments</p>
+ <p>3 cuillères à soupe de sauce soja</p>
+ <p>2 cuillères à soupe de vodka</p>
+ <p>50 g de sucre en poudre</p>
+ <p>huile d’ olive </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer les <ingredient quantite=8>maquereaux</ingredient> sous l’ eau froide, les vider, puis les essuyer sur du papier absorbant. les rouler ensuite dans la farine et les réserver. <operation temps=6.86min espace=10>faire ensuite</operation> chauffer dans une <recipient>casserole</recipient> la <ingredient quantite=3>sauce soja</ingredient> avec la <ingredient quantite=2>vodka</ingredient> et le <ingredient quantite=1>sucre</ingredient> en remuant. nettoyer les <ingredient quantite=6>piments</ingredient>, les épépiner, puis les découper en 2 dans le sens de la longueur. <operation temps=6.86min espace=10>faire chauffer l’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>poêle</recipient>, puis y</operation> <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=8>maquereaux</ingredient> avec les <ingredient quantite=6>piments</ingredient></operation>. une fois dorés, les égoutter, puis essuyer le surplus d’ <ingredient quantite=1>huile</ingredient> avec du papier absorbant avant de les déposer dans la <recipient>casserole</recipient> avec la <ingredient quantite=3>sauce</ingredient>. les <operation temps=6.86min espace=10>laisser mijoter 6 min, puis servir</operation> et déguster immédiatement après.
+]]>
+ </preparation>
+</recette>

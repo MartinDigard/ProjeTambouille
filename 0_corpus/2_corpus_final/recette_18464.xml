@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18464">
+ <titre>Soupe aux poivrons rouges</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 oignons</p>
+ <p>3 poivrons rouges</p>
+ <p>3 tranches de pain de mie</p>
+ <p>3 cubes (de viande) </p>
+ <p>1 boîte de purée de tomates</p>
+ <p>1 boursin (150 g) à l’ ail et aux fines herbes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=3>oignons</ingredient> et les <ingredient quantite=3>poivrons</ingredient>. les <operation temps=10.0min espace=8>faire revenir 5 à 10 min dans une <recipient>poêle</recipient> sans graisse</operation>. ajouter 1 litre et demi d’ eau, les <ingredient quantite=3>cubes</ingredient>, le <ingredient quantite=3>pain</ingredient>, le fromage, la <ingredient quantite=1>purée de tomates</ingredient>, puis <operation temps=20.0min espace=8>laisser cuire 20 min et mixer</operation>. facultatif: on peut commencer par griller les <ingredient quantite=3>poivrons</ingredient> au <recipient>four</recipient> quelques minutes, les mettre 10 min dans un sac plastique, puis les peler (pour qu’ ils soient plus digestes).
+]]>
+ </preparation>
+</recette>

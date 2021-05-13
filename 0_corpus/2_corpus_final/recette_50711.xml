@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50711">
+ <titre>Soupe froide au melon et pointe de céleri</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 melons moyens</p>
+ <p>1 ou 2 branches de céleri </p>
+ <p>1 citron</p>
+ <p>tabasco</p>
+ <p>sel</p>
+ <p>5 baies au moulin (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+evider les <ingredient quantite=2>melons</ingredient>, couper le <ingredient quantite=1>céleri</ingredient> en morceaux et passer le tout au mixer. ajouter le <ingredient quantite=1>citron</ingredient> pressé, quelques gouttes de <ingredient quantite=1>tabasco</ingredient> et un peu de <ingredient quantite=1>sel</ingredient>. mettre la préparation dans des coupes individuelles, conserver au frigo 1 ou 2 heures. au moment de <operation temps=2.0min espace=6>servir</operation>, ajouter les <ingredient quantite=5>baies au moulin</ingredient> et décorer de quelques petits morceaux de <ingredient quantite=1>céleri</ingredient>.
+]]>
+ </preparation>
+</recette>

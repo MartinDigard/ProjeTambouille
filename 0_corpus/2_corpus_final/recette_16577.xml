@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16577">
+ <titre>Gâteau de riz au safran (Inde) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>15 cl de riz rond</p>
+ <p>3 dl d’ eau</p>
+ <p>7 dl de lait</p>
+ <p>3 cm de bâton de cannelle</p>
+ <p>1 cuillère à café de graines de cardamome</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>1 cuillère à soupe de raisins</p>
+ <p>1/2 g de safran (1 paquet) </p>
+ <p>1 cuillère à soupe d’ amandes douces hachées finement</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>riz</ingredient> et l’ <ingredient quantite=1>eau</ingredient> dans une <recipient>casserole</recipient>. cuire 10 mn. ajouter le lait, le <ingredient quantite=3>bâton de cannelle</ingredient>, la <ingredient quantite=1>cardamome</ingredient> et les <ingredient quantite=1>raisins</ingredient>. mélanger le <ingredient quantite=1>safran</ingredient> avec 1 <ingredient quantite=1>cuillère à soupe</ingredient> de mélange chaud. mélanger au reste. <operation temps=40.0min espace=10>laisser frémir à feu doux environ 40 mn (le <ingredient quantite=1>riz</ingredient></operation> doit être bien tendre). <operation temps=6.86min espace=10>servir chaud ou froid</operation>. décorer de poudre de <ingredient quantite=3>cannelle</ingredient>, noix ou pistaches.
+]]>
+ </preparation>
+</recette>

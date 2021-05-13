@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80956">
+ <titre>Gâteau basque aux figues et aux noix</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de farine</p>
+ <p>3 oeufs</p>
+ <p>200 g de sucre</p>
+ <p>250 g de beurre</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>un pot de confiture de figues noires</p>
+ <p>15 cerneaux de noix</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre dans un <recipient>saladier</recipient> 1 <ingredient quantite=1>oeuf</ingredient> entier et 2 jaunes d’ <ingredient quantite=3>oeufs</ingredient> puis battre à la fourchette. ajouter le <ingredient quantite=1>sucre</ingredient>, battre au fouet pour <operation temps=6.86min espace=11>faire blanchir,</operation> puis ajouter la farine, le <ingredient quantite=1>rhum</ingredient> et le <ingredient quantite=1>sel</ingredient> en battant à nouveau. incorporer le beurre ramolli en malaxant bien à la main. <operation temps=6.86min espace=11>laisser reposer 1 heure au frais</operation>. la pâte étant reposée, beurrer un <recipient>moule</recipient> assez profond et le garnir avec 2/3 de la pâte en <operation temps=6.86min espace=11>faisant un bourrelet contre les parois</operation>. y verser la <ingredient quantite=1>confiture</ingredient> et les <ingredient quantite=1>noix</ingredient>. <operation temps=6.86min espace=11>recouvrir avec le reste de la pâte</operation>. battre un <ingredient quantite=1>oeuf</ingredient> et en badigoner au pinceau le dessus du gâteau, <operation temps=45.0min espace=11>faire cuire ensuite à <recipient>four</recipient> moyen 45 min</operation>. démouler à froid.
+]]>
+ </preparation>
+</recette>

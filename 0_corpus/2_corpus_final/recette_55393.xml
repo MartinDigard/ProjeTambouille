@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55393">
+ <titre>Lasagne aux épinards et au boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>feuilles de lasagne prêtes à cuire</p>
+ <p>450 g d’ épinards hachés</p>
+ <p>crème liquide</p>
+ <p>1 tomate</p>
+ <p>1 oignon</p>
+ <p>500 g de viande hachée</p>
+ <p>béchamel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer une <ingredient quantite=1>béchamel</ingredient> avec un morceau de beurre, ajouter la farine équivalente à la quantité de beurre, puis <operation temps=6.86min espace=14>finir avec du lait jusqu’ à obtention d’ une <ingredient quantite=1>béchamel</ingredient> pas trop <ingredient quantite=1>liquide</ingredient></operation>. <operation temps=6.86min espace=14>faire revenir une <ingredient quantite=1>tomate</ingredient> avec les <ingredient quantite=1>oignons</ingredient> dans une <recipient>poêle</recipient>, quand c’ est bien rissolé</operation>, ajouter la <ingredient quantite=1>viande hachée</ingredient>. dans une autre <recipient>poêle</recipient>, faire chauffer la boîte d’ <ingredient quantite=1>épinards</ingredient> avec de la <ingredient quantite=1>crème liquide</ingredient> (environ une briquette). réunir les <ingredient quantite=1>épinards</ingredient> et la <ingredient quantite=1>viande hachée</ingredient> en une seul <recipient>poêle</recipient>. dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, mettre un fond de mélange <ingredient quantite=1>épinards</ingredient>, poser dessus une couche de <ingredient quantite=1>béchamel</ingredient> puis une <ingredient quantite=1>feuille</ingredient> de lasagne. procéder de cette façon jusqu’ au dessus en mettant à la fin un peu de gruyere rapé. mettre au <recipient>four</recipient> thermostat 6 (180 ° c) pendant une heure ou un peu moins selon la puissance du <recipient>four</recipient>. ca change un peu des lasagnes bolo!!!! un bordeaux
+]]>
+ </preparation>
+</recette>

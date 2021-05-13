@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52990">
+ <titre>Salade de poulet au miel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 escalopes de poulet</p>
+ <p>plusieurs poignés de dés d’ emmental</p>
+ <p>1 barquette de tomates cerises</p>
+ <p>miel liquide</p>
+ <p>moutarde à l’ ancienne</p>
+ <p>1 sachet de salade fraîche (jeunes pousses de préférence) </p>
+ <p>vinaigre balsamique</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les <ingredient quantite=2>escalopes de poulet</ingredient> en petits morceaux et les <operation temps=6.86min espace=10>faire blanchir quelques minutes dans une <recipient>poêle</recipient> anti-adhésive</operation>. dans un petit bol, mélanger environ 4 cuillères à soupe de <ingredient quantite=1>miel liquide</ingredient> et 4 cuillères à soupe de <ingredient quantite=1>moutarde à</ingredient> l’ <ingredient quantite=1>ancienne</ingredient>. ajouter ce mélange sur le <ingredient quantite=2>poulet</ingredient> et <operation temps=6.86min espace=10>faire revenir à feu doux jusqu’ à caramélisation</operation>. pendant ce temps, mélanger la <ingredient quantite=1>salade</ingredient>, les <ingredient quantite=1>tomates cerises</ingredient> coupées en deux et les <ingredient quantite=1>dés</ingredient> d’ <ingredient quantite=1>emmental</ingredient>. ajouter par dessus les morceaux de <ingredient quantite=2>poulet</ingredient> caramélisés encore chaud. assaisonner avec <ingredient quantite=1>vinaigre balsamique</ingredient>, huile d’ <ingredient quantite=1>olive</ingredient>, <ingredient quantite=1>poivre et sel</ingredient>. <operation temps=6.86min espace=10>servir de suite! ce sont des doses approximatives</operation>... rien ne vous empêche de changer la quantité de <ingredient quantite=1>tomates</ingredient> ou d’ <ingredient quantite=1>emmental</ingredient> mais attention à respecter le mélange 50/50 <ingredient quantite=1>miel</ingredient> / <ingredient quantite=1>moutarde</ingredient> (s’ il y a trop de <ingredient quantite=1>miel</ingredient>, c’ est pas top!).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169625">
+ <titre>Côtes de veau Pojarski</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 côtes de veau hachées (175 g chacune) </p>
+ <p>1 œuf</p>
+ <p>20 cl de lait</p>
+ <p>100 g chapelure</p>
+ <p>50 g de mie de pain rassis</p>
+ <p>50 g de beurre ou margarine</p>
+ <p>sel, poivre</p>
+ <p>2 citrons (pour servir) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tremper le <ingredient quantite=1>pain</ingredient> dans le lait. saler et poivrer le <ingredient quantite=4>veau</ingredient> désossé et <ingredient quantite=1>haché</ingredient> dans un <recipient>saladier</recipient>. presser le <ingredient quantite=1>pain</ingredient> et l’ ajouter au <ingredient quantite=4>veau</ingredient>. casser l’ <ingredient quantite=1>œuf</ingredient> et l’ ajouter aussi. bien mélanger en salant et poivrant. <operation temps=6.86min espace=10>faire fondre le beurre dans une <recipient>poêle</recipient></operation>. former des boulettes avec le mélange, les aplatir et les passer dans la chapelure. cuire doucement les boulettes 6 à 7 min de chaque côté dans le beurre. servir avec des demi-citrons. faire désosser et <ingredient quantite=1>hacher</ingredient> les <ingredient quantite=4>côtes de veau</ingredient> par le boucher.
+]]>
+ </preparation>
+</recette>

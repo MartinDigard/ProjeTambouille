@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228282">
+ <titre>Crêpe façon tatin</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pomme verte</p>
+ <p>10 g de cannelle</p>
+ <p>1 pincée de vanille</p>
+ <p>50 g d’ eau</p>
+ <p>4 crêpes</p>
+ <p>30 g de sucre</p>
+ <p>4 gouttes d’ eau de fleur d’ oranger</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire bouillir l’ <ingredient quantite=1>eau</ingredient> avec la <ingredient quantite=1>cannelle</ingredient>, la <ingredient quantite=1>vanille</ingredient>, l’ <ingredient quantite=1>eau de fleur</ingredient> d’ <ingredient quantite=4>oranger</ingredient>, le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>pomme verte</ingredient> (pelée et coupée en morceaux) pendant 5 minutes. egoutter grossièrement les <ingredient quantite=1>pommes</ingredient> puis les <operation temps=6.86min espace=8>faire chauffer dans une <recipient>poêle</recipient> pour les</operation> <operation temps=6.86min espace=8>faire caraméliser</operation>. <operation temps=6.86min espace=8>faire de même avec la sauce, puis l’</operation> ajouter au <ingredient quantite=1>pommes</ingredient>. <operation temps=6.86min espace=8>faire refroidir quelques minutes</operation> puis mettre le tout dans la <ingredient quantite=1>crêpe</ingredient>. et voila prêt à déguster. bon appétit. c’ est une recette inventée sur un coup de tête, mais je suis plutôt fière du résultat.
+]]>
+ </preparation>
+</recette>

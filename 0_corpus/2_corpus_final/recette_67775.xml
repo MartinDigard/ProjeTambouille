@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67775">
+ <titre>Brioche à l’ orange pour map</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>10 cl de jus d’ orange (correspond à 1 orange et demie) </p>
+ <p>le zeste de 2 oranges</p>
+ <p>4 cuillères à soupe de sucre (60 g) </p>
+ <p>400 g de farine</p>
+ <p>1 cuillère à café de sel</p>
+ <p>1 cuillère à soupe de grains d’ anis vert ou de cannelle</p>
+ <p>1 sachet de levure de boulanger</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans la <recipient>machine à pain</recipient> introduire dans l’ ordre: le beurre, les <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient>, la moitié de la farine, le <ingredient quantite=1>zeste</ingredient> d’ <ingredient quantite=1>oranges</ingredient>, les <ingredient quantite=1>grains</ingredient> d’ <ingredient quantite=1>anis</ingredient>, le <ingredient quantite=4>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient>, le reste de farine puis la <ingredient quantite=1>levure de boulanger</ingredient>. lancer le programme sucré (750 g) croûte moyenne, pour une durée de 3h30 environ.
+]]>
+ </preparation>
+</recette>

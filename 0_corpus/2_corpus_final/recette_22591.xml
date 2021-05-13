@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22591">
+ <titre>Compote à la framboise et aux abricots secs</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de framboises (on peut utiliser des framboises surgelées) </p>
+ <p>500 g d’ abricots secs</p>
+ <p>50 cl d’ eau</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>160 g de sucre en poudre</p>
+ <p>5 cl de kirsch</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>abricots</ingredient> à tremper dans de l’ <ingredient quantite=1>eau</ingredient> au moins une nuit. le lendemain, les cuire à feu doux pendant 45 minutes dans l’ <ingredient quantite=1>eau</ingredient> de trempage en ajoutant le <ingredient quantite=1>sucre</ingredient> et le demi-sachet de <ingredient quantite=1>sucre vanillé</ingredient>. on doit <operation temps=6.86min espace=6>obtenir une consistance de compote</operation>. <operation temps=6.86min espace=6>laisser refroidir deux bonnes heures,</operation> puis ajouter les <ingredient quantite=1>framboises</ingredient> et le <ingredient quantite=1>kirsch</ingredient>. disposer dans des coupes individuelles, <operation temps=3.0min espace=6>répartir</operation> dessus le reste du <ingredient quantite=1>sachet de sucre vanillé</ingredient>. servir bien frais avec quelques <ingredient quantite=1>framboises</ingredient> pour la déco.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224526">
+ <titre>Zézettes de Sète maison</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 verre de muscat</p>
+ <p>1 verre de sucre</p>
+ <p>1 verre d’ huile d’ olive</p>
+ <p>550 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 pincée de sel</p>
+ <p>un peu de sucre pour enrober les biscuits</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=12>versez</operation> le <ingredient quantite=1>muscat</ingredient> dans un <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>sucre</ingredient></operation>. remuez avec un fouet pour <operation temps=6.86min espace=12>faire fondre celui-ci</operation>. <operation temps=6.86min espace=12>versez l’</operation> <ingredient quantite=1>huile</ingredient> et <operation temps=6.86min espace=12>mélangez bien le tout</operation>. dans un autre récipient, <operation temps=6.86min espace=12>amalgamez la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sucre</ingredient></operation> vanillé et le <ingredient quantite=1>sel</ingredient>, puis <operation temps=1.0min espace=12>versez</operation> progressivement dans le mélange liquide. commencez par mélanger avec une cuillère en bois, puis pétrissez à la main. <operation temps=6.86min espace=12>formez une boule</operation>, <operation temps=6.86min espace=12>recouvrez de film alimentaire</operation> puis <operation temps=30.0min espace=12>entreposez au <recipient>réfrigérateur</recipient> pour 30 min</operation>. préchauffez le <recipient>four</recipient> à 160 ° c (thermostat 5). pour former les zézettes, vous <operation temps=6.86min espace=12>avez deux méthodes: - soit vous</operation> <operation temps=6.86min espace=12>prenez un gros morceau de pâte que vous</operation> <operation temps=6.86min espace=12>faites rouler sur le plan de travail jusqu’ à</operation> former un long boudin, que vous <operation temps=6.86min espace=12>coupez en tronçons</operation>. - soit vous <operation temps=6.86min espace=12>prélevez des petites boulettes de pâte de la taille d’ une noix, et vous les</operation> <operation temps=6.86min espace=12>roulez au fur et à mesure entre vos mains jusqu’ à</operation> former un petit boudin de la taille de votre index. ensuite, une fois que vous <operation temps=6.86min espace=12>avez vos petits boudins, vous pincez chaque extrémité en les</operation> étirant légèrement, jusqu’ à obtention d’ une pointe (comme un crayon). <operation temps=1.0min espace=12>versez</operation> du <ingredient quantite=1>sucre</ingredient> dans une assiette creuse et <operation temps=6.86min espace=12>roulez - y les zézettes</operation>. incisez - les sur toute la longueur avec une lame bien acérée, puis <operation temps=6.86min espace=12>disposez</operation> - les sur une plaque tapissée de papier cuisson. enfournez - les pour 20 min. a la sortie du <recipient>four</recipient>, <operation temps=6.86min espace=12>laissez - les refroidir sur une grille</operation>. <operation temps=6.86min espace=12>veillez à les</operation> conserver dans un contenant bien hermétique. sur la base d’ un <ingredient quantite=1>verre</ingredient> de 20 cl plein
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11974">
+ <titre>Clémentines au Grand Marnier</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>175g sucre semoule</p>
+ <p>200ml d’ eau</p>
+ <p>200ml de Grand Marnier</p>
+ <p>6 clémentines (pelées) </p>
+ <p>2 clous de girofle</p>
+ <p>1 baton de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre l’ <ingredient quantite=1>eau</ingredient> et le sucre dans une <recipient>casserole</recipient> sur feu doux jusqu’ à ce que le sucre soit dissous, puis augmenter le feu et amener à ébullition, <operation temps=1.0min espace=8>faire bouillir 1 mn</operation>. ajouter le <ingredient quantite=1>grand marnier</ingredient>, les <ingredient quantite=6>clémentines</ingredient>, <ingredient quantite=2>girofle</ingredient> et <ingredient quantite=1>cannelle</ingredient>. <operation temps=6.86min espace=8>laisser infuser hors du feu pendant au moins 30 mn, ou jusqu’ à 3 jours au <recipient>réfrigérateur</recipient></operation>. <operation temps=6.86min espace=8>servir les <ingredient quantite=6>clémentines</ingredient></operation> arrosées du sirop de <ingredient quantite=1>grand marnier</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225015">
+ <titre>Quiche sans pâte au saumon et parmesan</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de saumon fumé</p>
+ <p>3 œufs</p>
+ <p>25 cl de lait</p>
+ <p>2 cuillères à soupe bombées de farine</p>
+ <p>parmesan</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer tous les ingrédients sauf le <ingredient quantite=1>saumon</ingredient>. incorporer le <ingredient quantite=1>saumon</ingredient> en fines lamelles. mettre dans un <recipient>plat</recipient> beurré et saupoudrer de <ingredient quantite=1>parmesan</ingredient>. mettre au <recipient>four</recipient> 35 min à 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=8>dégustez avec une salade verte</operation>
+]]>
+ </preparation>
+</recette>

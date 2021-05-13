@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48232">
+ <titre>Tarte marbrée aux fraises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte sablée</p>
+ <p>750 g de fraises</p>
+ <p>9 feuilles de gélatine (18g) </p>
+ <p>2/3 cuillérées à soupe de sucre</p>
+ <p>1 brique de crème liquide non allégée</p>
+ <p>2 cuillérées à soupe de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 7) et <operation temps=6.86min espace=9>faire tremper la <ingredient quantite=9>gélatine</ingredient> dans de l’ eau</operation> froide. foncer un <recipient><recipient>moule</recipient> à tarte</recipient> avec la pâte <ingredient quantite=1>sablée</ingredient> et <operation temps=6.86min espace=9>garnir le fond de haricots secs</operation>. <operation temps=15.0min espace=9>faire cuire 15 minutes</operation>, retirer les haricots et remettre à cuire jusqu’ à ce que le fond soit cuit (5 min environ). <operation temps=20.0min espace=9>laisser refroidir</operation>. pendant ce temps, équeuter les <ingredient quantite=1>fraises</ingredient>, ajouter le <ingredient quantite=1>sucre</ingredient>, mixer et passer au <recipient>chinois</recipient> (ce n’ est pas obligatoire, mais ça retire les petites graines). <operation temps=6.86min espace=9>faire chauffer 4 cuillérées de</operation> coulis de <ingredient quantite=1>fraise</ingredient>, retirer du feu à ébullition et ajouter les <ingredient quantite=9>feuilles de gélatine</ingredient> une à une en mélangeant bien. rajouter dans le coulis froid, mélanger et réserver au frais. battre la crème en chantilly avec le <ingredient quantite=1>sucre glace</ingredient>. au bout de 20 à 30 min, le coulis doit commencer à épaissir. verser le coulis et la chantilly dans la pâte cuite et les mélanger légèrement avec une fourchette ou une spatule pour créer des marbrures. remettre deux heures au frais. variantes: avec des framboises, des fruits rouges, des mangues, des coulis surgelés en hiver.
+]]>
+ </preparation>
+</recette>

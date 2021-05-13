@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34675">
+ <titre>Coquilles Saint Jacques aux endives et à l’ orange</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>12 Noix de St Jacques escalopées</p>
+ <p>8 endives</p>
+ <p>50 g de sucre</p>
+ <p>1 cuillère à soupe d’ eau</p>
+ <p>une noix de beurre</p>
+ <p>2 cuillères à soupe de vinaigre de cidre</p>
+ <p>50 cl jus d’ orange</p>
+ <p>1 orange coupée en rondelles</p>
+ <p>1 cuillères à café de maïzena</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=8>endives</ingredient> à l’ <ingredient quantite=1>eau</ingredient> bouillante salée 20 min, puis les <operation temps=6.86min espace=12>faire braiser à la <recipient>poêle</recipient> avec du <ingredient quantite=1>beurre</ingredient></operation>. dans une <recipient>casserole</recipient>, préparer un caramel avec l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>sucre</ingredient>. déglacer avec le <ingredient quantite=2>vinaigre de cidre</ingredient>. y ajouter le jus d’ <ingredient quantite=1>orange</ingredient> et <operation temps=8.0min espace=12>laisser réduire</operation>. saler, poivrer et ajouter la maïzéna. pendant ce temps, poêler les coquilles <ingredient quantite=1>st jacques escalopées</ingredient> (2 min de chaque côté). dresser les assiettes: mettre la sauce à l’ <ingredient quantite=1>orange</ingredient> au fond, les coquilles <ingredient quantite=1>st jacques</ingredient> et les <ingredient quantite=8>endives</ingredient> dessus. décorer d’ une <ingredient quantite=1>rondelle</ingredient> d’ <ingredient quantite=1>orange</ingredient>.
+]]>
+ </preparation>
+</recette>

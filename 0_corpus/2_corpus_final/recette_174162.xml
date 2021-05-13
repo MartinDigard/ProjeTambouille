@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174162">
+ <titre>Fondue aux cèpes et au champagne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>150 g de cèpes (frais) </p>
+ <p>2 gousses d’ ail</p>
+ <p>1 kg de fromage (1/3 compté, 1/3 tome de Savoie, 1/3 Beaufort) </p>
+ <p>30 cl de champagne</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient> <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>cèpes</ingredient> avec un peu de beurre jusqu’ à qu’ ils soient bien dorés</operation>, ajouter l’ <ingredient quantite=2>ail</ingredient> émincé et <operation temps=6.86min espace=9>faire suer puis les</operation> réserver. dans un <recipient>caquelon</recipient>, mettre le <ingredient quantite=1>champagne</ingredient> puis le <ingredient quantite=1>fromage</ingredient>. une fois le <ingredient quantite=1>fromage</ingredient> fondu ajouter les <ingredient quantite=1>cèpes</ingredient>. un petit <recipient>plat</recipient> hivernal très sympa, bon appétit
+]]>
+ </preparation>
+</recette>

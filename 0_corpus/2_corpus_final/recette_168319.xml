@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168319">
+ <titre>Soupe d’ asperges blanches et pommes de terre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1kg d’ asperges blanches</p>
+ <p>500g de pommes de terre</p>
+ <p>6 tranches fines de lard fumé</p>
+ <p>30gr de beurre</p>
+ <p>1 c. à s. de miel</p>
+ <p>15cl de crème liquide (20% mat. gr) </p>
+ <p>1 c. à s. de fromage blanc maigre aux herbes</p>
+ <p>1 c. à s. de fromage frais allegé (philadelphia light ou st moret léger) </p>
+ <p>Coriandre</p>
+ <p>Sel et Poivre</p>
+ <p>En option: 1dl de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=1>pommes de terre</ingredient>, couper les têtes d’ <ingredient quantite=1>asperges</ingredient> et réserver. dans une grande <recipient>casserole</recipient>, <operation temps=1.0min espace=13>faire fondre</operation> 15gr de beurre et y <operation temps=6.86min espace=13>faire revenir les queues d’ <ingredient quantite=1>asperges</ingredient></operation> coupées en petits tronçons et 2 <ingredient quantite=6>tranches de lard</ingredient> coupées en morceaux, <operation temps=0.25min espace=13>salez</operation> et <operation temps=0.5min espace=13>poivrez</operation>. ajouter quelques feuilles de <ingredient quantite=1>coriandre</ingredient> et le <ingredient quantite=1>miel</ingredient> et <operation temps=6.86min espace=13>laisser suer à feu vif pendant 10mn en</operation> remuant régulièrement. mouiller avec de l’ eau (à hauteur) ou un mélange <ingredient quantite=1>vin</ingredient> blanc+eau. <operation temps=6.86min espace=13>laisser mijoter 10min à feu moyen en</operation> remuant régulièrement, puis filter et conserver uniquement le <ingredient quantite=1>liquide</ingredient> qui doit être blanchâtre. dans la même <recipient>casserole</recipient>, <operation temps=1.0min espace=13>faire fondre</operation> 15gr de beurre et y faire revenir les pointes d’ <ingredient quantite=1>asperges</ingredient>, les <ingredient quantite=1>pommes de terre</ingredient>, le reste du <ingredient quantite=6>lard</ingredient> coupé en morceaux et la <ingredient quantite=1>coriandre</ingredient>, <ingredient quantite=1>sel et poivre</ingredient>. <operation temps=6.86min espace=13>laisser suer à feu vif pendant 10mn en</operation> remuant régulièrement. mouiller avec de l’ eau à mi-hauteur seulement et compléter avec le <ingredient quantite=1>liquide</ingredient> obtenu de la première préparation. <operation temps=6.86min espace=13>laisser mijoter 10min</operation>. mixer, ajouter le <ingredient quantite=1>fromage blanc</ingredient>, la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>fromage frais</ingredient>. servir bien chaud. cette recette fait bien <operation temps=6.86min espace=13>ressortir le gout des <ingredient quantite=1>asperges</ingredient> et le <ingredient quantite=1>miel</ingredient></operation> permet d’ éviter le côté amer. un chardonnay
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65292">
+ <titre>Velouté de légumes du jardin</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 g de beurre</p>
+ <p>1 cuillère à soupe rase de gros sel</p>
+ <p>muscade</p>
+ <p>1 gros oignon</p>
+ <p>1 petit navet</p>
+ <p>1 petit poireau</p>
+ <p>2 carottes</p>
+ <p>2 pommes de terre moyennes</p>
+ <p>2 courgettes</p>
+ <p>sel, poivre</p>
+ <p>facultatif: quinoa</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>oignons</ingredient> coupés en rondelles dans le beurre (ou de l’ huile</operation>). ajouter ensuite les autres légumes coupés en rondelles moyennes. <operation temps=10.0min espace=12>faire revenir tous les légumes environ 10 min</operation>. ajouter une <ingredient quantite=1>grosse</ingredient> pincée de <ingredient quantite=1>muscade</ingredient>. <operation temps=6.86min espace=12>recouvrir d’ eau (environ 1 l)</operation> et <operation temps=20.0min espace=12>laisser mijoter environ 20 min</operation>. on peut ajouter du <ingredient quantite=1>quinoa</ingredient>, cela donne à la <ingredient quantite=1>soupe</ingredient> un <ingredient quantite=1>petit</ingredient> goût de noisette. mouliner la <ingredient quantite=1>soupe</ingredient>. rectifier l’ assaisonnement si nécessaire (<ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>).
+]]>
+ </preparation>
+</recette>

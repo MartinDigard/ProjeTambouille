@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25433">
+ <titre>Croustinoix de Martine</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 pain au noix</p>
+ <p>200 g de fromage blanc</p>
+ <p>125 g de sucre</p>
+ <p>1/2 cuillère à café de cannelle</p>
+ <p>figue, pomme, poire (au choix) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tartiner le <ingredient quantite=1>pain</ingredient> aux <ingredient quantite=1>noix</ingredient> de <ingredient quantite=1>fromage blanc</ingredient>. <operation temps=6.86min espace=6>faire un caramel bien blond avec le <ingredient quantite=1>sucre</ingredient></operation>. y ajouter le fruit de saison en lamelles. bien mélanger. tartiner le caramel aux fruits sur la tartine au <ingredient quantite=1>fromage blanc</ingredient>. saupoudrer de <ingredient quantite=1>cannelle</ingredient>. <operation temps=6.86min espace=6>servir encore</operation> chaud. ce <recipient>plat</recipient> est parfait pour terminer un repas un peu léger. en été, il est très sympa avec quelques fruits rouges, en hiver une <ingredient quantite=1>pomme</ingredient>, une <ingredient quantite=1>poire</ingredient>, quelques <ingredient quantite=1>noix</ingredient> et vous <operation temps=6.86min espace=6>avez un dessert très réconfortant</operation>.
+]]>
+ </preparation>
+</recette>

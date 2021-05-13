@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55687">
+ <titre>Emincé de poulet crémeux aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la marinade: </p>
+ <p>5 blancs de poulet</p>
+ <p>1 cuillère à café de paprika</p>
+ <p>1 cuillère à café de curry</p>
+ <p>1 pincée de café de cannelle</p>
+ <p>1 cuillère à café de miel</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>4 gousses d’ ail</p>
+ <p>2 cuillères à café d’ herbes de Provence</p>
+ <p>poivre</p>
+ <p>Pour la sauce: </p>
+ <p>20 cl de crème liquide</p>
+ <p>1 cuillère à soupe de crème épaisse légère</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+marinade: emincer (finement) les blancs de <ingredient quantite=5>poulet</ingredient> dans une <recipient>terrine</recipient> ; y ajouter les <ingredient quantite=2>herbes</ingredient>, les épices, le <ingredient quantite=1>miel</ingredient>, l’ <ingredient quantite=4>ail</ingredient> émincé et le poivre. mélanger le tout, <operation temps=6.86min espace=19>recouvrir la <recipient>terrine</recipient> d’ un film plastique</operation> et <operation temps=6.86min espace=19>laisser reposer au <recipient>réfrigérateur</recipient> pendant 2 heures</operation>. cuisson: verser le contenu de la <recipient>terrine</recipient> dans une <recipient>sauteuse</recipient> bien chaude. <operation temps=6.86min espace=19>faire dorer la viande sur feu moyen</operation>. ajouter une <ingredient quantite=1>cuillère à soupe de crème épaisse légère</ingredient>, bien mélanger ; puis ajouter la <ingredient quantite=1>crème liquide</ingredient> ; <operation temps=6.86min espace=19>laisser mijoter pendant un quart d’ heure</operation>, saler à la fin. cette recette peut être servie avec du riz basmati et des carottes vichy. bon appétit! vin blanc <ingredient quantite=1>léger</ingredient>
+]]>
+ </preparation>
+</recette>

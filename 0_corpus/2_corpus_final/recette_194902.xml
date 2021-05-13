@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194902">
+ <titre>Tian de légumes au saumon de Charlotte</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de saumon</p>
+ <p>2 poivrons</p>
+ <p>2 tomates</p>
+ <p>1 aubergine</p>
+ <p>1 gousse d’ ail</p>
+ <p>50 g de parmesan</p>
+ <p>5 cl d’ huile d’ olive</p>
+ <p>thym frais</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° (thermostat 6). <operation temps=6.86min espace=12>coupez le <ingredient quantite=1>saumon</ingredient> en escalopes de 1 cm d’ épaisseur</operation> et <operation temps=6.86min espace=12>arrosez - les les d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. assaisonnez de <ingredient quantite=1>sel et poivre</ingredient> et parsemez - les de <ingredient quantite=1>thym</ingredient>. <operation temps=6.86min espace=12>coupez les légumes en fines lamelles de 3 à 4 cm de largeur</operation> et <operation temps=6.86min espace=12>rangez - les dans un <recipient>plat</recipient> huilé et frotté d’ <ingredient quantite=1>ail</ingredient></operation>. alterner les légumes et les escalopes de <ingredient quantite=1>saumon</ingredient>. parsemez la surface de <ingredient quantite=1>parmesan</ingredient> râpé et <operation temps=6.86min espace=12>arrosez - le d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=6.86min espace=12>portez au <recipient>four</recipient> à 180 ° (thermostat 6)</operation> et <operation temps=40.0min espace=12>faites cuire 40 min</operation>.
+]]>
+ </preparation>
+</recette>

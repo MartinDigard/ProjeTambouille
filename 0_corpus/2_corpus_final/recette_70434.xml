@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70434">
+ <titre>Blanquette de lotte aux pointes d’ asperges</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 kg de lotte</p>
+ <p>400 g de pointes d’ asperges</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>30 cl de crème fraîche</p>
+ <p>50 g de beurre</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>sel, poivre</p>
+ <p>cerfeuil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la chair de <ingredient quantite=1>lotte</ingredient> en cubes et les disposer dans une <recipient>cocotte</recipient>. ajouter le <ingredient quantite=1>vin blanc</ingredient>. saler, poivrer légèrement. chauffer sur feu doux et <operation temps=5.0min espace=11>laisser frémir 5 min</operation>. retirer les morceaux et les garder au chaud à <recipient>four</recipient> très doux (50 - 60 ° c - thermostat 2 - 3) en même temps que les <ingredient quantite=1>pointes</ingredient> d’ <ingredient quantite=1>asperges</ingredient> disposées dans un <recipient>plat</recipient> beurré. <operation temps=6.86min espace=11>faire bouillir le jus de <ingredient quantite=1>lotte</ingredient> et le</operation> <operation temps=10.0min espace=11>faire réduire pendant 10 min</operation>. ajouter la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=11>laisser réduire de moitié</operation>. pendant ce temps, mélanger le reste de crème avec les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient>. verser dessus la sauce bouillante et reporter sur le feu sans <operation temps=6.86min espace=11>faire bouillir, puis hors du feu</operation>, ajouter le beurre en fouettant. rectifier l’ assaisonnement. dresser les morceaux de <ingredient quantite=1>lotte</ingredient> dans les assiettes préalablement chauffées, disposer les <ingredient quantite=1>pointes</ingredient> d’ <ingredient quantite=1>asperges</ingredient> et napper avec la sauce. parsemer de <ingredient quantite=1>cerfeuil</ingredient> haché.
+]]>
+ </preparation>
+</recette>

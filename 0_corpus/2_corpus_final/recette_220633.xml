@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220633">
+ <titre>Poulet au deux purées</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>5 pommes de terre</p>
+ <p>1 boîte de maïs (300 g) </p>
+ <p>1/2 aubergine</p>
+ <p>3 tomates</p>
+ <p>1 bouillon de légume</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café de curry</p>
+ <p>coriandre</p>
+ <p>1 cuillère à café de paprika doux</p>
+ <p>noix de muscade pour la purée</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>20 g de beurre</p>
+ <p>sel et poivre</p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettez les <ingredient quantite=5>pommes de terre</ingredient> (déjà épluchées) à <operation temps=30.0min espace=24>bouillir pendant 30 min dans une grande <recipient>casserole</recipient> d’ eau</operation>. pendant ce temps, émincez l’ oignon, les <ingredient quantite=3>tomates</ingredient>, la 1/2 <ingredient quantite=1>aubergine</ingredient> et les <ingredient quantite=4>escalopes de poulet</ingredient> en tout petits morceaux (on peut passer l’ ensemble un petit coup au <recipient>blender</recipient>) et mettre le tout à mijoter dans une <recipient>casserole</recipient> ou un fait - tout avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> pendant 10 - 15 min en remuant de temps en temps afin que les <ingredient quantite=3>tomates</ingredient> sortent bien leurs jus. <operation temps=0.25min espace=24>salez</operation> et <operation temps=0.5min espace=24>poivrez</operation>. hachez la <ingredient quantite=1>coriandre</ingredient> et incorporez - la au mélange avec la <ingredient quantite=1>cuillère de paprika</ingredient> puis celle de <ingredient quantite=1>curry</ingredient>. retouchez l’ assaisonnement si nécessaire et <operation temps=10.0min espace=24>laissez mijoter encore 10 min à feu doux</operation>. une fois les <ingredient quantite=5>pommes de terre</ingredient> cuites et tendres, <operation temps=6.86min espace=24>mettez - les dans un récipient à part et les</operation> écraser en <ingredient quantite=1>purée</ingredient> en y ajoutant d’ abord le <ingredient quantite=2>lait</ingredient>, <operation temps=6.86min espace=24>mélangez un peu</operation> et <operation temps=6.86min espace=24>incorporez le beurre en petits morceaux</operation>. <operation temps=6.86min espace=24>mélangez bien jusqu’ à ce que le beurre fonde</operation>. <operation temps=0.25min espace=24>salez</operation>, <operation temps=0.5min espace=24>poivrez</operation> et <operation temps=6.86min espace=24>râpez légèrement la <ingredient quantite=1>muscade</ingredient> (le goût</operation> doit passer quasi inaperçu mais en restant <ingredient quantite=1>doux</ingredient>...). <operation temps=6.86min espace=24>essorez le <ingredient quantite=1>maïs</ingredient> dans une <recipient>passoire</recipient> et passez - le au hachoir ou au</operation> <recipient>blender</recipient> afin d’ <operation temps=6.86min espace=24>obtenir un pâte qui</operation> servira pour deuxième <ingredient quantite=1>purée</ingredient>. n’ <operation temps=6.86min espace=24>assaisonnez pas pour</operation> garder le sucré naturel du <ingredient quantite=1>maïs</ingredient>. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). dans un <recipient>plat</recipient> moyen, <operation temps=6.86min espace=24>disposez le mélange de la <recipient>casserole</recipient> en premier</operation>, déposez la couche de <ingredient quantite=1>purée</ingredient> de <ingredient quantite=5>pommes de terre</ingredient>, puis <operation temps=6.86min espace=24>finir par la couche de <ingredient quantite=1>purée</ingredient> de <ingredient quantite=1>maïs</ingredient> avec un peu de <ingredient quantite=1>parmesan</ingredient> dessus</operation>. <operation temps=10.0min espace=24>laissez gratiner au <recipient>four</recipient> pendant 10 min à 210 ° c</operation>. un régal simple et facile pour l’ hiver et qui permet d’ utiliser les restes du frigo!
+]]>
+ </preparation>
+</recette>

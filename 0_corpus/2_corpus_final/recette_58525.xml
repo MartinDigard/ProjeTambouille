@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58525">
+ <titre>Pizza lardons jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de pâte à pain</p>
+ <p>3 tranches de jambon blanc</p>
+ <p>100 g d’ allumettes de lardons fumés</p>
+ <p>1 boule de mozzarella</p>
+ <p>6 gros champignons de Paris</p>
+ <p>200 g de coulis de tomates</p>
+ <p>herbes de provence</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler finement la pâte à <ingredient quantite=1>pain</ingredient> (environ 2 mm) sur le plan de travail. la déposer sur la plaque rectangulaire du <recipient>four</recipient> légèrement farinée. etaler le <ingredient quantite=1>coulis de tomate</ingredient> et déposer au dessus la <ingredient quantite=1>mozzarella</ingredient> découpée en petits morceaux. ajouter les <ingredient quantite=6>champignons</ingredient> émincés ainsi que des lamelles de <ingredient quantite=3>jambon</ingredient> et les <ingredient quantite=1>allumettes de lardons fumés</ingredient>. parsemer le tout d’ <ingredient quantite=1>herbes de provence</ingredient> ainsi que d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. disposer dans un <recipient>four</recipient> préchauffé à 200 ° et <operation temps=15.0min espace=10>laisser cuire 15 minutes</operation>. pour que la pizza soit moins grasse, préférez les <ingredient quantite=1>allumettes de lardons</ingredient> dégraissés (en vente dans toutes les grandes surfaces).
+]]>
+ </preparation>
+</recette>

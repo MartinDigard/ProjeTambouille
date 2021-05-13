@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87979">
+ <titre>Oeuf au maroilles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 cl de crème liquide</p>
+ <p>25 g de maroilles (ou un pot de crème de maroilles) </p>
+ <p>1 pincée de gruyère</p>
+ <p>4 œufs</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>2 ramequins moyens</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>maroilles</ingredient> en petits morceaux dans une <recipient>casserole</recipient>. verser la <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=9>laisser chauffer à feu doux jusqu’ à ce que le <ingredient quantite=1>maroilles</ingredient> soit</operation> fondu. casser 2 œufs par <ingredient quantite=2>ramequins</ingredient>. saler et poivrer les <ingredient quantite=4>œufs</ingredient>. verser par dessus le mélange <ingredient quantite=1>crème</ingredient> / <ingredient quantite=1>maroilles</ingredient>. saupoudrer de <ingredient quantite=1>gruyère</ingredient>. passer au <recipient>four</recipient> 5 a 10 min selon si vous voulez les <ingredient quantite=4>œufs</ingredient> coulants ou bien cuits.
+]]>
+ </preparation>
+</recette>

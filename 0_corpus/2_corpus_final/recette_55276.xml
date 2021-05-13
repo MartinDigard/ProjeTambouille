@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55276">
+ <titre>Poêlée de riz et courgette au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 courgette</p>
+ <p>1 verre de riz</p>
+ <p>1 escalope de poulet</p>
+ <p>curry</p>
+ <p>crème fraîche liquide</p>
+ <p>menthe</p>
+ <p>1 échalote</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pendant que le <ingredient quantite=1>riz</ingredient> cuit dans l’ eau, couper la <ingredient quantite=1>courgette</ingredient> et l’ escalope en dés. <operation temps=6.86min espace=11>faire revenir l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation> émincés dans une cuillère d’ huile d’ <ingredient quantite=1>olive</ingredient>. ajouter le <ingredient quantite=1>poulet</ingredient> et la <ingredient quantite=1>courgette</ingredient>. <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>curry</ingredient>, <ingredient quantite=1>menthe</ingredient>. quand le <ingredient quantite=1>riz</ingredient> est cuit, le mettre dans la <recipient>poêle</recipient> et mélanger le tout. ajouter la <ingredient quantite=1>crème</ingredient> fraiche. rectifier si nécessaire. servir.
+]]>
+ </preparation>
+</recette>

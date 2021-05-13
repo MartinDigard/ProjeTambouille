@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24590">
+ <titre>Alouettes sans têtes à la cocotte minute</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de veau</p>
+ <p>4 oeufs durs</p>
+ <p>4 tranches de jambon blanc ou fumé</p>
+ <p>2 cuillerées à soupe d’ huile</p>
+ <p>25 cl de vin blanc</p>
+ <p>champignons</p>
+ <p>oignon</p>
+ <p>ail</p>
+ <p>thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>aplatir les</operation> <ingredient quantite=4>escalopes</ingredient>, poser sur chacune une <ingredient quantite=4>tranche de jambon</ingredient> et un <ingredient quantite=1>oeuf dur</ingredient>. les rouler comme des paupiettes et les ficeler (pas de piques en bois). <operation temps=6.86min espace=11>faire chauffer l’ <ingredient quantite=2>huile</ingredient> dans une <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=11>faire dorer les paupiettes</operation>. quand elles sont dorées, ajouter l’ <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>ail</ingredient> et mouiller avec le <ingredient quantite=4>vin blanc</ingredient>. saler et poivrer et ajouter le <ingredient quantite=1>thym</ingredient>. <operation temps=30.0min espace=11>laisser cuire 30 mn environ</operation>. <operation temps=6.86min espace=11>faire cuire les <ingredient quantite=1>champignons</ingredient> à part</operation>. déficeler les paupiettes et les couper en 2 afin que le jaune d’ <ingredient quantite=1>oeuf</ingredient> soit apparent dans chaque morceau. <operation temps=6.86min espace=11>servir aussitôt avec les <ingredient quantite=1>champignons</ingredient> autour</operation> et accompagner d’ une purée.
+]]>
+ </preparation>
+</recette>

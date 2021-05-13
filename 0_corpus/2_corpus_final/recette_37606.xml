@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37606">
+ <titre>Pâtes complètes à la Vache qui rit, aux oeufs et au jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 verre de pâtes</p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>15 cl de crème fraîche fluide</p>
+ <p>4 tranches de jambon cuit</p>
+ <p>6 portions de "Vache qui rit"</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire cuire les <ingredient quantite=1>pâtes</ingredient> normalement</operation>. pendant ce temps: mélanger dans un bol les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeufs</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>, ajouter la <ingredient quantite=6>vache qui rit</ingredient> (sans chercher à la mélanger ou l’ écraser), découper le <ingredient quantite=4>jambon</ingredient> en petits morceaux. lorsque les <ingredient quantite=1>pâtes</ingredient> sont cuites et égouttées, les remettre dans la <recipient>casserole</recipient>, verser le contenu du bol et le <ingredient quantite=4>jambon</ingredient> dans la <recipient>casserole</recipient>. mélanger et attendre couvercle fermé que la <ingredient quantite=6>vache qui rit</ingredient> fonde. bon appétit!!!
+]]>
+ </preparation>
+</recette>

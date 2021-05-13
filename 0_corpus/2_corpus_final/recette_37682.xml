@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37682">
+ <titre>Gâteau poires amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 cuillères à soupe de farine</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>125 g de beurre fondu</p>
+ <p>2 oeufs</p>
+ <p>3 poires en lamelles</p>
+ <p>1/2 sachet de levure</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>200 gr d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine, le <ingredient quantite=4>sucre</ingredient>, la <ingredient quantite=1>levure</ingredient>, l’ <ingredient quantite=3>huile</ingredient>, le <ingredient quantite=2>lait</ingredient> et 1 <ingredient quantite=1>oeuf</ingredient> et les <ingredient quantite=3>poires en lamelles</ingredient>. mettre cette préparation dans un <recipient>moule</recipient> beurré. mettre à <recipient>four</recipient> chaud à 210 ° c (thermostat 7) pendant 20 minutes. melanger le beurre ramolli, le <ingredient quantite=4>sucre</ingredient> vanillé et 1 <ingredient quantite=1>oeuf</ingredient>. verser ce nappage sur le gâteau. <operation temps=6.86min espace=13>couvrir avec les</operation> <ingredient quantite=1>amandes</ingredient> et remettre au <recipient>four</recipient> 20 minutes. a déguster froid. crémant de bordeaux
+]]>
+ </preparation>
+</recette>

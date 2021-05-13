@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20152">
+ <titre>RIZ AU LAIT A LA CREME ET A LA CANNELLE</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de riz rond</p>
+ <p>75 cl de lait</p>
+ <p>5 cuillères à soupe de crème fraîche</p>
+ <p>120 g de sucre</p>
+ <p>le zeste d’ un citron</p>
+ <p>1 bâton de cannelle</p>
+ <p>1 cuillère à soupe de cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>riz</ingredient> dans une <recipient>casserole</recipient> et <operation temps=6.86min espace=9>couvrir d’ eau à hauteur</operation>. <operation temps=6.86min espace=9>laisser cuire sur feu doux jusqu’ à évaporation complète de l’ eau</operation>. ajouter le lait et la <ingredient quantite=5>crème fraîche</ingredient>. a <operation temps=6.86min espace=9>partir de la reprise de l’ ébullition</operation>, poursuivre la cuisson sur feu doux 20 mn. incorporer alors le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>zeste</ingredient> de <ingredient quantite=1>citron</ingredient> et le <ingredient quantite=1>bâton de cannelle</ingredient>. <operation temps=6.86min espace=9>laisser cuire encore 10</operation> mn. <operation temps=6.86min espace=9>faire refroidir dans un <recipient>plat</recipient> ou dans des ramequins individuels</operation>. au moment de <operation temps=2.0min espace=9>servir</operation>, saupoudrer de <ingredient quantite=1>cannelle</ingredient>. vous pouvez remplacer la <ingredient quantite=1>cannelle</ingredient> par 2 gousses de vanille fendues en deux et grattées, et le <ingredient quantite=1>zeste</ingredient> de <ingredient quantite=1>citron</ingredient> par du <ingredient quantite=1>zeste</ingredient> d’ orange.
+]]>
+ </preparation>
+</recette>

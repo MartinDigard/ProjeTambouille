@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46363">
+ <titre>Fenouils farcis à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 bulbes de fenouil</p>
+ <p>3 cuillères à soupe huile d’ olive</p>
+ <p>thym</p>
+ <p>sarriette</p>
+ <p>sel</p>
+ <p>2 tranches de jambon cru</p>
+ <p>6 champignons de paris</p>
+ <p>1 cuillère à soupe de tapenade</p>
+ <p>2 oignons nouveaux</p>
+ <p>3 gousses d’ ail</p>
+ <p>2 cuillères à soupe de chapelure</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>un peu de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer les <ingredient quantite=6>fenouils</ingredient>, les couper en deux, et les <operation temps=6.86min espace=14>faire revenir dans l’ huile d’ <ingredient quantite=3>olive</ingredient> ; saler</operation> et poivrer. <operation temps=6.86min espace=14>couvrir et les</operation> <operation temps=6.86min espace=14>faire compoter à peu près 1 heure, à feu doux, jusqu’ à cuisson</operation>. dans une autre <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés finement, l’ <ingredient quantite=3>ail</ingredient>, les <ingredient quantite=6>champignons</ingredient>, le <ingredient quantite=2>jambon cru</ingredient> en petits morceaux, rajouter la <ingredient quantite=1>tapenade</ingredient>, la <ingredient quantite=2>chapelure</ingredient>, la <ingredient quantite=1>crème</ingredient>, du <ingredient quantite=1>thym</ingredient> et de la sarriette, et <operation temps=10.0min espace=14>faire cuire doucement pendant 10 min</operation>. disposer la farce sur les demi-bulbes, rajouter le fromage râpé, et <operation temps=6.86min espace=14>faire gratiner</operation>. simple et bon
+]]>
+ </preparation>
+</recette>

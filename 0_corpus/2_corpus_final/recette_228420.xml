@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228420">
+ <titre>Marguerite aux pralines</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine</p>
+ <p>2 œufs</p>
+ <p>15 cl de lait</p>
+ <p>130 g de beurre mou</p>
+ <p>10 g de sel</p>
+ <p>50 g de sucre</p>
+ <p>15 g de levure de boulanger (cube) </p>
+ <p>200 g de pralines concassées (si difficultés pour en trouver, prenez des entières que vous casserez) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la <ingredient quantite=1>levure de boulanger</ingredient> émiettée (en cubes) dans du lait tiédi avec le <ingredient quantite=1>sucre</ingredient> et <operation temps=5.0min espace=16>laisser mousser 5 minutes environ</operation>. dans le <recipient>pétrin</recipient> mettre la farine, le <ingredient quantite=1>beurre mou</ingredient>, les <ingredient quantite=2>œufs</ingredient>, le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=1>levure</ingredient> délayée dans le lait sucré. <operation temps=20.0min espace=16>faire tourner le <recipient>pétrin</recipient> 20 minutes (possibilité de le</operation> <operation temps=6.86min espace=16>faire avec le <recipient>pétrin</recipient> de la <recipient>machine à pain</recipient> ou à la main</operation>). mettre la pâte dans un récipient recouvert d’ un film étirable et <operation temps=6.86min espace=16>laisser lever la pâte pendant 1 h ou 2</operation>. etendre la pâte au rouleau, la <operation temps=6.86min espace=16>recouvrir de</operation> <ingredient quantite=1>pralines</ingredient> et enfoncer les <ingredient quantite=1>pralines</ingredient> avec le rouleau, plier la pâte en 2 puis la couper en 7 morceaux (dont un plus grand pour le centre de la <recipient>marguerite</recipient>). avec chaque morceau, <operation temps=6.86min espace=16>faire une boule</operation>. mettre un papier sulfurisé sur la grille du <recipient>four</recipient>. déposer la plus grosse boule au milieu et coller les 6 autres autour en forme de <recipient>marguerite</recipient>. <operation temps=6.86min espace=16>recouvrir d’ un linge</operation> et attendre que la brioche soit montée. badigeonner le dessus avec un jaune d’ <ingredient quantite=1>œuf</ingredient> battu. <operation temps=35.0min espace=16>faire cuire 30 à 35 minutes au <recipient>four</recipient> 165 ° c (thermostat 5 - 6</operation>). vous pouvez <operation temps=6.86min espace=16>faire la pâte la veille, la</operation> <operation temps=6.86min espace=16>faire lever, la</operation> <operation temps=6.86min espace=16>faire retomber puis la</operation> mettre la nuit dans un sachet au frigo. ne la mettre en forme que le lendemain matin pour la <operation temps=6.86min espace=16>faire lever à nouveau</operation>.
+]]>
+ </preparation>
+</recette>

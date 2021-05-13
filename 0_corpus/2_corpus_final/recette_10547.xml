@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10547">
+ <titre>Délicieuse pomme de terre du Dimanche</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 grosses pommes de terre (quantité souhaitée) </p>
+ <p>une noix de beurre</p>
+ <p>10 cl de crème fraîche (ou non selon les goûts) </p>
+ <p>150 g (1 sachet) de gruyère râpé</p>
+ <p>Chèvre ou roquefort (selon les goûts) </p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prendre les <ingredient quantite=4>pommes de terre</ingredient>, et les <operation temps=6.86min espace=11>faire cuire au <recipient>four</recipient> pendant 1h</operation>. les vider entièrement pour en <operation temps=6.86min espace=11>faire une purée</operation> (conserver la peau). la mettre dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>beurre</ingredient>, l’ éventuelle <ingredient quantite=1>crème fraîche</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre et le <ingredient quantite=1>gruyère râpé</ingredient>. remplir les <ingredient quantite=4>pommes de terre</ingredient> de cette purée. ajouter, selon ses goûts un morceau de <ingredient quantite=1>chèvre</ingredient>, ou de <ingredient quantite=1>roquefort</ingredient> dans chaque <ingredient quantite=4>pomme de terre</ingredient> (c’ est ce qui en fait le charme). ajouter du <ingredient quantite=1>gruyère râpé</ingredient> pour donner l’ aspect gratiné. cuire au <recipient>four</recipient> (<recipient>gril</recipient>) pendant 15 min. bon appétit. accompagne très bien une fondue bourguignonne, une viande rouge au <recipient>barbecue</recipient>, des brochettes... accompagner si possible d’ une salade. mes amis me demandent sans arrêt la recette. vin rouge (cahors par exemple)
+]]>
+ </preparation>
+</recette>

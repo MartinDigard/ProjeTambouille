@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59372">
+ <titre>Pâte à crêpes à la bière</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>450 g de farine</p>
+ <p>33 cl de bière</p>
+ <p>15 cl de lait</p>
+ <p>10 g de beurre (facultatif) </p>
+ <p>1 pincée de sel</p>
+ <p>2 pincées de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer tous les ingrédients et <operation temps=30.0min espace=8>laisser reposer un peu la pâte (environ 30 min</operation>). pour les <operation temps=6.86min espace=8>faire cuire j’</operation> utilise un appareil à crêpes, mais je pense que ça fonctionne aussi très bien dans une <recipient>poêle</recipient>. la recette donnée me sert à <operation temps=6.86min espace=8>faire des crêpes sucrées et salées</operation>. si je ne <operation temps=6.86min espace=8>fais que des crêpes</operation> sucrées, je mets plus de <ingredient quantite=2>sucre</ingredient> dans la pâte et j’ ajoute de la cannelle. bon appétit!
+]]>
+ </preparation>
+</recette>

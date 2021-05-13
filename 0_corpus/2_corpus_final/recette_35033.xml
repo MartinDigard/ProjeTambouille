@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35033">
+ <titre>Lapin à la bière à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>75 cl de bière ambrée</p>
+ <p>2 carottes</p>
+ <p>1 gros oignon</p>
+ <p>4 échalotes</p>
+ <p>20 cl de crème fraîche</p>
+ <p>huile d’ olive</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>lapin</ingredient> en morceaux si cela n’ a pas été déjà fait par le boucher. <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir dans une grande <recipient>sauteuse</recipient> dans de l’ huile d’ <ingredient quantite=1>olive</ingredient> juqu’ à ce qu’ ils soit bien</operation> dorés. retirer les morceaux de la <recipient>sauteuse</recipient>. <operation temps=5.0min espace=12>faites revenir dans la même <recipient>sauteuse</recipient> <ingredient quantite=2>carottes</ingredient>, <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=4>échalotes</ingredient> pendant 5 mn</operation>. remettre les morceaux de <ingredient quantite=1>lapin</ingredient> et <operation temps=6.86min espace=12>recouvrir le tout des 75 cl de bière</operation>. <operation temps=6.86min espace=12>laisser cuire à feu doux, en</operation> couvrant, pendant 45 mn en surveillant. a la fin de la cuisson retirer les morceaux de <ingredient quantite=1>lapin</ingredient>, et mixer la sauce et les légumes. remettre la sauce dans la <recipient>sauteuse</recipient> et ajouter la <ingredient quantite=1>crème fraîche</ingredient>. remettre les morceaux de <ingredient quantite=1>lapin</ingredient> et <operation temps=6.86min espace=12>faites recuire 10</operation> mn. c’ est prêt ; il ne vous reste plus qu’ à déguster avec des pâtes ou un gratin dauphinois. si la sauce n’ est pas assez épaisse à votre goût vous pouvez rajouter un peu de fécule de pomme de terre pour épaissir après avoir mixé. un vin rouge
+]]>
+ </preparation>
+</recette>

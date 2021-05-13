@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69822">
+ <titre>Papaye verte aux crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 papaye verte</p>
+ <p>500 g de grosses crevettes</p>
+ <p>2 branches de thym</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>1 petit morceau de gingembre</p>
+ <p>du curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher la <ingredient quantite=1>papaye</ingredient> et enlever les graines, puis la râper. plonger la <ingredient quantite=1>papaye</ingredient> râpée dans de l’ eau bouillante pendant 2 à 3 min, puis <operation temps=6.86min espace=7>laisser égoutter</operation>. <operation temps=6.86min espace=7>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé, l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=1>gingembre</ingredient> puis les crevettes. rajouter le <ingredient quantite=1>curcuma</ingredient> et la <ingredient quantite=1>papaye</ingredient> et <operation temps=5.0min espace=7>laisser cuire 5 min</operation>. <operation temps=2.0min espace=7>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

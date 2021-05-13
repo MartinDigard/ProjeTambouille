@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57327">
+ <titre>Pizza au maïs</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>maïs</p>
+ <p>pâte à pizza</p>
+ <p>camembert (non obligatoire) </p>
+ <p>de la sauce tomate</p>
+ <p>jambon (non obligatoire) </p>
+ <p>gruyère</p>
+ <p>olives (non obligatoire) </p>
+ <p>crème fraîche (non obligatoire) </p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte à <ingredient quantite=1>pizza</ingredient>. <operation temps=6.86min espace=12>ouvrir une boîte de <ingredient quantite=1>tomates</ingredient> et la</operation> verser dans un <recipient>plat</recipient> mettre un peu de <ingredient quantite=1>sel</ingredient>, de poivre et assez d’ <ingredient quantite=1>origan</ingredient>. remuer. etaler la <ingredient quantite=1>sauce tomate</ingredient> sur la <ingredient quantite=1>pizza</ingredient>. mettre du <ingredient quantite=1>jambon</ingredient> (non obligatoire). mettre le <ingredient quantite=1>maïs</ingredient>. mettre le <ingredient quantite=1>gruyère</ingredient>. mettre du <ingredient quantite=1>camembert</ingredient> (non obligatoire), des <ingredient quantite=1>olives</ingredient> (non obligatoire) et la <ingredient quantite=1>crème fraîche</ingredient> (non obligatoire).
+]]>
+ </preparation>
+</recette>

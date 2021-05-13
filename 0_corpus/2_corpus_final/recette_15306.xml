@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15306">
+ <titre>Sauté de thon au paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de thon frais. </p>
+ <p>2 pommes</p>
+ <p>2 échalotes</p>
+ <p>1, 5 dl de crème épaisse ou liquide. </p>
+ <p>3 cuillères à soupe de vinaigre de vin</p>
+ <p>sel et poivre</p>
+ <p>paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez le <ingredient quantite=1>thon</ingredient> en gros cubes de 2 cm de côté environ</operation>. <operation temps=6.86min espace=11>saupoudrez - le de <ingredient quantite=1>paprika</ingredient></operation>. <operation temps=0.5min espace=11>réservez</operation> - les dans un <recipient>plat</recipient></operation>. pelez et hachez menu les <ingredient quantite=2>échalotes</ingredient>. <operation temps=6.86min espace=11>coupez les <ingredient quantite=2>pommes</ingredient> en quartiers</operation>, <operation temps=6.86min espace=11>retirez les pépins et la partie fibreuse qui les entoure</operation>. <operation temps=6.86min espace=11>pelez - les</operation>, <operation temps=6.86min espace=11>coupez - les en dés</operation>. dans une <recipient>sauteuse</recipient>, <operation temps=1.0min espace=11>faites fondre le beurre</operation>, <operation temps=6.86min espace=11>jetez - y les <ingredient quantite=2>échalotes</ingredient></operation> hachées et les morceaux de <ingredient quantite=1>thon</ingredient>. <operation temps=6.86min espace=11>faites rissoler le tout à feu très vif pendant 4 mn,</operation> puis <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=2>pommes</ingredient> en dés</operation>. remuez délicatement. <operation temps=3.0min espace=11>laissez cuire encore 3 mn sur bon feu</operation>. <operation temps=6.86min espace=11>arrosez avec le <ingredient quantite=3>vinaigre</ingredient></operation>. <operation temps=6.86min espace=11>laissez réduire complètement avant d’</operation> ajouter la <ingredient quantite=1>crème</ingredient> fraîche ou <ingredient quantite=1>liquide</ingredient>. <operation temps=6.86min espace=11>laissez encore</operation> cuire 7 à 8 mn sur feu moyen. <operation temps=6.86min espace=11>mettez ce sauté dans un <recipient>plat</recipient> chaud</operation>, <operation temps=6.86min espace=11>arrosez - le de sa sauce</operation> réduite. <operation temps=2.0min espace=11>servez</operation> brûlant. ce <recipient>plat</recipient> est meilleur réchauffé.
+]]>
+ </preparation>
+</recette>

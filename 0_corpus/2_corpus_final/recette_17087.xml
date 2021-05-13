@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17087">
+ <titre>Salade grillée aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poivrons</p>
+ <p>6 tomates</p>
+ <p>6 gousses d’ ail</p>
+ <p>2 piments</p>
+ <p>1/2 citron</p>
+ <p>2 cuillères à café de carvi</p>
+ <p>2 cuillères à café de coriandre</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire cuire sur le <recipient>barbecue</recipient> les <ingredient quantite=2>poivrons</ingredient>,</operation> <ingredient quantite=6>tomates</ingredient> et piment (s). a défaut de <recipient>barbecue</recipient>, je le <operation temps=6.86min espace=13>fais sous le <recipient>gril</recipient> du <recipient>four</recipient></operation>. ajouter l’ <ingredient quantite=6>ail</ingredient> enveloppé dans du papier alu. une fois cuits, <operation temps=20.0min espace=13>laisser refroidir</operation> puis peler tout ça (enlever les graines des <ingredient quantite=2>poivrons</ingredient> et des <ingredient quantite=2>piments</ingredient>). passer les légumes à la moulinette. ajouter le cumin, la <ingredient quantite=2>coriandre</ingredient>, le jus de <ingredient quantite=1>citron</ingredient> et l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>. saler. mélanger. mettre au <recipient>réfrigérateur</recipient>, car cela se mange bien frais. déguster avec du pain! déguster avec du pain!
+]]>
+ </preparation>
+</recette>

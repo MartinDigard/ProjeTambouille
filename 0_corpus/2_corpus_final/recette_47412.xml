@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47412">
+ <titre>Penne au poulet rôti et sauce soja</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de penne cuites et froides (ou autres sortes de pâtes) </p>
+ <p>1/2 poulet rôti froid</p>
+ <p>2 gros oignons </p>
+ <p>125 ml de sauce soja non douce (sans sucre ajouté) </p>
+ <p>1 petite botte de ciboulette</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=2>oignons</ingredient>, et les <operation temps=6.86min espace=10>faire revenir à la <recipient>poêle</recipient> dans un peu de beurre</operation>. pendant ce temps, couper la chair du <ingredient quantite=1>poulet rôti</ingredient> en <ingredient quantite=1>petits</ingredient> dés et émincer la <ingredient quantite=1>ciboulette</ingredient>. quand les <ingredient quantite=2>oignons</ingredient> sont dorés, verser dans la <recipient>poêle</recipient> les morceaux de <ingredient quantite=1>poulet froid</ingredient> et les pâtes <ingredient quantite=1>froides</ingredient>. arroser le tout de <ingredient quantite=1>sauce soja</ingredient>, et mélanger. <operation temps=6.86min espace=10>laisser revenir une dizaine de minutes sur feu moyen, en</operation> mélangeant de temps, jusqu’ à ce que le tout soit bien chaud. <operation temps=6.86min espace=10>sortir du feu</operation>, verser dans un <recipient>plat</recipient> de service, saupoudrer de la <ingredient quantite=1>ciboulette</ingredient> émincée, mélanger et <operation temps=2.0min espace=10>servir aussitôt</operation>. <recipient>plat</recipient> simplissime, idéal pour utiliser des restes de <ingredient quantite=1>poulet</ingredient> et de pâtes puisque quelles que soient les proportions, ça reste très bon.
+]]>
+ </preparation>
+</recette>

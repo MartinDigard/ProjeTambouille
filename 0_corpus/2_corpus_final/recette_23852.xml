@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23852">
+ <titre>Cake italien tomate et mozzarella</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>170 g de farine</p>
+ <p>2 ou 3 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ <p>20 cl d’ huile d’ olive</p>
+ <p>1 verre de lait</p>
+ <p>100 g de fromage râpé (gruyère ou comté, que vous pouvez mélaner à un peu ou parmesan) </p>
+ <p>200 g de mozzarella (le vrai, de bufflonne, évidemment) </p>
+ <p>2 tomates bien mûres</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 bouquet de basilic frais</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=15>pelez</operation> et <operation temps=6.86min espace=15>épépinez les</operation> <ingredient quantite=2>tomates</ingredient> et <operation temps=6.86min espace=15>coupez les en petits dés que vous</operation> <operation temps=6.86min espace=15>mettrez dans une <recipient>poêle</recipient> avec la moitié de l’ <ingredient quantite=1>huile</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre</operation>. <operation temps=6.86min espace=15>asséchez les</operation> <ingredient quantite=2>tomates</ingredient> et <operation temps=6.86min espace=15>laissez - les refroidir</operation>. <operation temps=6.86min espace=15>coupez la mozzarella en morceaux</operation> et <operation temps=6.86min espace=15>mélangez - la aux <ingredient quantite=2>tomates</ingredient> et au <ingredient quantite=1>basilic</ingredient></operation> ciselé. parallèlement, <operation temps=6.86min espace=15>fouettez les <ingredient quantite=2>oeufs</ingredient>, la farine et la <ingredient quantite=1>levure</ingredient>,</operation> puis <operation temps=6.86min espace=15>incorporez l’ <ingredient quantite=1>huile</ingredient> et le <ingredient quantite=1>lait</ingredient> légèrement</operation> tiédi (mais ce n’ est pas obligatoire, juste si vous <operation temps=6.86min espace=15>avez le temps!</operation>). <operation temps=6.86min espace=15>ajoutez le</operation> <ingredient quantite=1>fromage</ingredient> et <operation temps=5.0min espace=15>mélangez le tout</operation>. <operation temps=6.86min espace=15>versez le tout dans un <recipient>moule</recipient> à cake, sur un papier</operation> sulfurisé, puis <operation temps=6.86min espace=15>glissez au <recipient>four</recipient> préchauffé</operation> et <operation temps=6.86min espace=15>laissez cuire environ 40</operation> mn à thermostat 6 (180 ° c). c’ est un <recipient>plat</recipient> très estival. accompagné d’ une salade verte parfumé au vinaigre de framboise ou balsamique + <ingredient quantite=1>huile</ingredient> d’ olivre, c’ est un véritable régal.
+]]>
+ </preparation>
+</recette>

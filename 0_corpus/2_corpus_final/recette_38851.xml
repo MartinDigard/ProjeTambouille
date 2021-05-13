@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38851">
+ <titre>Pâtes grâtinées aux brocolis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de grosses pâtes (penne rigate, rigatoni) </p>
+ <p>1 belle tête de brocoli</p>
+ <p>1 petit pot de crème (allégée par exemple) </p>
+ <p>fromage râpé</p>
+ <p>parmesan</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler le <ingredient quantite=1>brocoli</ingredient> en <ingredient quantite=1>petits</ingredient> bouquets, couper un peu le pied. plonger les <ingredient quantite=1>pâtes</ingredient> et les bouquets de broccoli dans la même <recipient>casserole</recipient> d’ eau boullante salée (le <ingredient quantite=1>brocoli</ingredient> sera cuit en 10 - 12 minutes, comme la plupart des <ingredient quantite=1>pâtes</ingredient>) egoutter <ingredient quantite=1>pâtes</ingredient> et broccoli, mélanger avec crème et <ingredient quantite=1>fromage râpé</ingredient> dans un <recipient>plat</recipient> à gratin. <operation temps=6.86min espace=9>saupoudrez de</operation> <ingredient quantite=1>parmesan</ingredient> et <operation temps=6.86min espace=9>faire gratiner au <recipient>four</recipient></operation>. c’ est une bonne façon de <operation temps=6.86min espace=9>faire manger des <ingredient quantite=1>brocolis</ingredient> aux enfants, les miens adorent alors qu’ ils sont très très difficiles</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25991">
+ <titre>Galette aux fruits secs et à la confiture d’ abricots</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>125 g de beurre</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>7, 5 cl d’ eau</p>
+ <p>100 g de raisins de Corinthe</p>
+ <p>100 g de cerneaux de noix</p>
+ <p>100 g d’ amandes</p>
+ <p>100 g de sucre</p>
+ <p>1 pincée de cannelle</p>
+ <p>6 cl de rhum</p>
+ <p>400 g de confiture d’ abricots</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire tremper les <ingredient quantite=1>raisins</ingredient> dans le <ingredient quantite=1>rhum</ingredient> pendant 1 heure</operation>. pendant ce temps, préparer la pâte à tarte: mélanger la farine et le <ingredient quantite=1>sel</ingredient>, former un puits et y mettre le beurre coupé en dés. <operation temps=6.86min espace=13>pétrir en</operation> ajoutant l’ <ingredient quantite=1>eau</ingredient> progressivement. couper 1/3 de la pâte et la mettre de côté au frais. etaler le reste de la pâte sur une table farinée et en <operation temps=6.86min espace=13>garnir un <recipient>moule</recipient> à</operation> manqué beurré et fariné. préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). mixer les <ingredient quantite=1>noix</ingredient> et les <ingredient quantite=1>amandes</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>cannelle</ingredient>, les <ingredient quantite=1>raisins</ingredient> et le <ingredient quantite=1>rhum</ingredient> jusqu’ à obtention d’ une pâte épaisse. dans le fond de tarte, alterner: <ingredient quantite=1>confiture</ingredient> d’ <ingredient quantite=1>abricot</ingredient>, pâte aux fruits secs, <ingredient quantite=1>confiture</ingredient> d’ <ingredient quantite=1>abricot</ingredient>, pâte aux fruits secs et pour <operation temps=6.86min espace=13>finir</operation> mettre le reste de <ingredient quantite=1>confiture</ingredient> d’ <ingredient quantite=1>abricot</ingredient>. <operation temps=6.86min espace=13>sortir la pâte qui était au frais et l’</operation> étaler finement. en <operation temps=6.86min espace=13>couvrir la tarte</operation>. humecter légèrement les bords pour souder les deux pâtes. <operation temps=6.86min espace=13>faire cuire 1 heure</operation>. servir froid.
+]]>
+ </preparation>
+</recette>

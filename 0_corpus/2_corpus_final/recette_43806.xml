@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43806">
+ <titre>Parmentier aux marrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de restes de viande (j’ avais du sanglier, mais du gigot, du porc, du veau, ou même de la volaille peuvent très bien faire l’ affaire) </p>
+ <p>2 pommes fruits (ou des coings) </p>
+ <p>2 beaux fenouils</p>
+ <p>1 grosse boîte de marrons au naturel</p>
+ <p>3 cuillères à soupe de crème</p>
+ <p>1 verre de lait</p>
+ <p>1 petit verre de vin blanc</p>
+ <p>sel, baies roses</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher la <ingredient quantite=1>viande</ingredient> pas trop fin, ajouter <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>baies roses</ingredient> écrasées, et le <ingredient quantite=1>vin</ingredient>. tapisser le fond d’ un <recipient>plat</recipient> à gratin graissé avec cette préparation. eplucher les <ingredient quantite=2>pommes</ingredient>, les couper en fins quartiers, et les <operation temps=25.0min espace=14>faire dorer</operation> à la <recipient>poêle</recipient> avec un peu de beurre</operation>, réserver. dans la même <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire compoter à couvert les <ingredient quantite=2>fenouils</ingredient></operation> débités en fine julienne (moi, je les tranche au mixer). quand ils sont fondus (même un peu caramélisés), y mélanger les <ingredient quantite=2>pommes</ingredient>, saler peu, et étaler le mélange sur la <ingredient quantite=1>viande</ingredient> en tassant un peu. mixer les <ingredient quantite=1>marrons</ingredient> égouttés avec la crème, le <ingredient quantite=1>lait</ingredient>, <ingredient quantite=1>sel</ingredient> et poivre, jusqu’ à obtention d’ une purée pas trop épaisse (rajouter du <ingredient quantite=1>lait</ingredient> pour ajuster). etaler la purée sur les <ingredient quantite=2>pommes</ingredient> - <ingredient quantite=2>fenouils</ingredient>, en lissant (on peut <operation temps=6.86min espace=14>faire des dessins à la fourchette</operation>). <operation temps=6.86min espace=14>couvrir de papier alu</operation>. enfourner dans le <recipient>four</recipient> préchauffé à 120 ° c (th 4), pendant 20 min (<recipient>four</recipient> à chaleur tournante), puis <operation temps=6.86min espace=14>découvrir,</operation> et <operation temps=25.0min espace=14>faire dorer</operation>. au moment de <operation temps=2.0min espace=14>servir</operation>, disposer des copeaux de beurre salé dessus pour <operation temps=6.86min espace=14>faire briller</operation>. un <recipient>plat</recipient> que je dédie à notre amie auyo, grande spécialiste des châtaignes et <ingredient quantite=1>marrons</ingredient>. un rouge musclé, type cahors.
+]]>
+ </preparation>
+</recette>

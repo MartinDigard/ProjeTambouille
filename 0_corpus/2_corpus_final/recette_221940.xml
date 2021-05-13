@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221940">
+ <titre>Salade d’ avocat à l’ endive et à la coriandre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 belle endive crue</p>
+ <p>1 avocat</p>
+ <p>jus d’ 1/2 citron</p>
+ <p>1 bouquet de coriandre fraîche</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la vinaigrette avec le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>, l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. éplucher et couper l’ <ingredient quantite=1>avocat</ingredient> en dés d’ environ 2 cm. couper l’ <ingredient quantite=1>endive</ingredient> en rondelles. hacher finement le <ingredient quantite=1>bouquet de coriandre</ingredient>. poser le tout sur la vinaigrette. mélanger juste avant de <operation temps=2.0min espace=6>servir</operation>.
+]]>
+ </preparation>
+</recette>

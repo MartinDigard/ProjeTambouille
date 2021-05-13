@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33707">
+ <titre>Soufflés au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de chocolat noir + 8 carrés de chocolat noir</p>
+ <p>3 oeufs</p>
+ <p>80 g de sucre</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 260 ° c (thermostat 8/9). mélanger les 100 g de <ingredient quantite=1>chocolat</ingredient> (fondu au préalable), les <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le beurre. verser le mélange dans 4 petits ramequins, jusqu’ au 2/3. placer 2 <ingredient quantite=1>carrés de chocolat</ingredient> dans chaque ramequin et rajouter par dessus le reste du mélange. metttre à cuire 10 mn.
+]]>
+ </preparation>
+</recette>

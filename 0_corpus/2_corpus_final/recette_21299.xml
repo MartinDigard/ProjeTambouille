@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21299">
+ <titre>Cotriade bretonne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de poissons: daurade, mulet, congre, grondin, lotte et merlu</p>
+ <p>1 tête de gros colin et de congre</p>
+ <p>500 g de pommes de terre </p>
+ <p>80 g de beurre </p>
+ <p>3 l d’ eau bouillante</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>des tranches de pain rassis </p>
+ <p>4 oignons </p>
+ <p>3 gousses d’ ail</p>
+ <p>1 bouquet garni </p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer les <ingredient quantite=4>oignons</ingredient> et en <operation temps=6.86min espace=12>faire une fondue dans une <recipient>poêle</recipient> avec 50 g de beurre</operation>. ajouter les <ingredient quantite=1>pommes de terre</ingredient> coupées en rondelles, <operation temps=6.86min espace=12>couvrir et les</operation> <operation temps=5.0min espace=12>faire revenir 5 min à feu doux</operation>. arroser de <ingredient quantite=1>vin blanc</ingredient> et déposer le <ingredient quantite=1>bouquet garni</ingredient> sur la préparation. porter à ébullition et mouiller d’ <ingredient quantite=1>eau bouillante</ingredient>. assaisonner, porter à ébullition et mettre à cuire pendant 20 min à feu doux, sans <operation temps=20.0min espace=12>faire bouillir</operation>. plonger le <ingredient quantite=1>poisson</ingredient> dans la préparation et <operation temps=20.0min espace=12>faire bouillir</operation>. <operation temps=6.86min espace=12>servir dans une soupière avec le <ingredient quantite=1>pain</ingredient></operation> <operation temps=6.86min espace=12>rassis et le reste du beurre</operation>. servir à part, le <ingredient quantite=1>poisson</ingredient> et les <ingredient quantite=1>pommes de terre</ingredient>.
+]]>
+ </preparation>
+</recette>

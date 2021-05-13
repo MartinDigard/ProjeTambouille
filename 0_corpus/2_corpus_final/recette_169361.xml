@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169361">
+ <titre>Gâteau au yaourt pomme banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de yaourt</p>
+ <p>3 pots de farine</p>
+ <p>3 oeufs</p>
+ <p>1 pot de sucre semoule</p>
+ <p>1 demi pot d’ huile</p>
+ <p>1 demi sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>2 pommes</p>
+ <p>1 banane</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la pâte. verser dans un <recipient>saladier</recipient>, le <ingredient quantite=1>pot de yaourt</ingredient>. ajoutez le <ingredient quantite=1>pot de sucre</ingredient>, la <ingredient quantite=1>levure</ingredient>, la farine, l’ <ingredient quantite=1>huile</ingredient>, le <ingredient quantite=1>sucre</ingredient> vanillé et les <ingredient quantite=3>oeufs</ingredient>. <operation temps=5.0min espace=12>mélangez le tout</operation>. <operation temps=6.86min espace=12>lavez les deux <ingredient quantite=2>pommes</ingredient> épluchez les</operation> et couper les en petit morceaux. <operation temps=6.86min espace=12>incorporez les dans la pâte</operation>. faite de même avec la <ingredient quantite=1>banane</ingredient>. une fois le mélange prêt. <operation temps=6.86min espace=12>huilez votre <recipient>moule</recipient></operation> et verser la pâte dedans. le <recipient>four</recipient> <operation temps=6.86min espace=12>préchauffez</operation> enfourner a 180 pendant 15 min environ. a la sortie <operation temps=6.86min espace=12>soupoudrez de <ingredient quantite=1>sucre</ingredient> glaçe</operation>.
+]]>
+ </preparation>
+</recette>

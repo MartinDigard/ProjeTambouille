@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223861">
+ <titre>Pavé de saumon, carottes et pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pavés de saumon frais</p>
+ <p>2 grosses carottes</p>
+ <p>2 pommes style golden</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=2>carottes</ingredient> et les râper. éplucher les <ingredient quantite=2>pommes</ingredient> et les couper en petits dès. <operation temps=6.86min espace=7>faire un lit de <ingredient quantite=2>carottes</ingredient> et <ingredient quantite=2>pommes</ingredient> dans un <recipient>plat</recipient> à gratin</operation>, disposer les pavés dessus, saler, poivrer. ne pas ajouter de matière grasse, enfourner dans votre <recipient>four</recipient> préalablement chauffé une vingtaine de minutes à peine.
+]]>
+ </preparation>
+</recette>

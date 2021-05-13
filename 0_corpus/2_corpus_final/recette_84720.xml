@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84720">
+ <titre>Soupe du pauvre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cube de bouillon de bœuf ou de poulet</p>
+ <p>40 cl d’ eau</p>
+ <p>1 pincée de Raz el Hanout</p>
+ <p>2 cuillères à soupe de Tapioca </p>
+ <p>15 ml de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>cube</ingredient> dans l’ <ingredient quantite=1>eau</ingredient> ainsi que le <ingredient quantite=1>raz el hanout</ingredient>. <operation temps=20.0min espace=5>faire bouillir</operation>. ajouter le <ingredient quantite=1>tapioca</ingredient> et remuer 5 minutes à feu moyen. <operation temps=6.86min espace=5>servir dans des bols</operation> et ajouter les 15 ml de lait. c’ est prêt!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41802">
+ <titre>Les farçous de ma mamie</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 ou 6 blettes (juste la partie verte) </p>
+ <p>100 g chair à saucisse</p>
+ <p>2 tranches de lard fumé (ou 75 g de lardons) </p>
+ <p>1/4 de bouquet de persil</p>
+ <p>1/2 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 gros quignon de pain sec</p>
+ <p>10 cl de lait</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>4 œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hacher l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=2>lard</ingredient> et la chair à <ingredient quantite=1>saucisse</ingredient> et mélanger le tout dans une <recipient>terrine</recipient>. tremper quelques minutes le <ingredient quantite=1>pain</ingredient> dans le lait afin d’ <operation temps=6.86min espace=11>obtenir une consistance homogène et l’</operation> ajouter au mélange en émiettant le <ingredient quantite=1>pain</ingredient>. <operation temps=6.86min espace=11>faire cuire les <ingredient quantite=5>blettes</ingredient> et en</operation> retirer le vert. le hacher finement et l’ ajouter également. ajouter ensuite les <ingredient quantite=4>œufs</ingredient> et la farine. la pâte doit avoir la consistance d’ une pâte à beignets. prélever une <ingredient quantite=1>grosse cuillère à soupe</ingredient> de la préparation et la <operation temps=6.86min espace=11>faire frire dans un mélange d’ huile d’ olive et d’</operation> huile de tournesol, 1 à 2 minutes par face. (il est possible de rajouter les blancs de <ingredient quantite=5>blettes</ingredient> ou encore des restes de viande, après avoir haché le tout)
+]]>
+ </preparation>
+</recette>

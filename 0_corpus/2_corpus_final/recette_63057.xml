@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63057">
+ <titre>Mousse glacée aux pêches et framboises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pêches jaunes</p>
+ <p>400 g de sucre pour confiture</p>
+ <p>50 cl de crème fraîche liquide</p>
+ <p>150 g de confiture de framboises</p>
+ <p>chantilly en bombe</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ebouillanter les <ingredient quantite=1>pêches</ingredient>, les peler et les couper en deux. oter les noyaux et les couper en quartiers. prendre 600 g de chair et les passer au mixer avec le sucre. porter à ébullition puis <operation temps=20.0min espace=7>laisser refroidir</operation>. battre la <ingredient quantite=1>crème liquide</ingredient> en <ingredient quantite=1>chantilly</ingredient>. l’ incorporer à la préparation aux <ingredient quantite=1>pêches</ingredient>. verser le tout dans un <recipient>moule</recipient> rond à bord haut de 22 cms de diamètre. <operation temps=6.86min espace=7>faire prendre en glace 12 h au <recipient>congélateur</recipient></operation>. <operation temps=20.0min espace=7>sortir cette mousse 20 min à l’</operation> avance afin de <operation temps=6.86min espace=7>servir glacé mais pas trop dur</operation>. la démouler. décorer de quartiers de <ingredient quantite=1>pêches</ingredient> restants. garnir de <ingredient quantite=1>confiture de framboises</ingredient> et de <ingredient quantite=1>chantilly</ingredient>.
+]]>
+ </preparation>
+</recette>

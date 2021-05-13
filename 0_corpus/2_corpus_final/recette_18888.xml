@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18888">
+ <titre>Pizza chèvre et miel</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza </p>
+ <p>4 petits chèvres frais </p>
+ <p>1 Rocamadour (ou 1 petit brebis bien fait) </p>
+ <p>Miel</p>
+ <p>Gruyère râpé</p>
+ <p>Sel, poivre</p>
+ <p>Pour la sauce: </p>
+ <p>concentré tomate </p>
+ <p>1 cuillère à soupe de sucre </p>
+ <p>eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+étaler la pâte. huiler et fariner un <recipient><recipient>moule</recipient> à tarte</recipient>. <operation temps=6.86min espace=11>répartir la pâte, la</operation> <ingredient quantite=1>tomate</ingredient> puis disposer les <ingredient quantite=4>petits chèvres</ingredient> coupés en 2 dans la largeur et le <ingredient quantite=1>rocamadour</ingredient> en <ingredient quantite=4>petits</ingredient> morceaux. ajouter 1 ou 2 <ingredient quantite=1>cuillères</ingredient> à café de <ingredient quantite=1>miel</ingredient> liquide ou s’ il est solide, un peu fondu. ajouter le gruyère, saler, poivrer. enfourner à 200 ° c pour 30 mn ou plus. côte du rhône ou un vin des cévennes.
+]]>
+ </preparation>
+</recette>

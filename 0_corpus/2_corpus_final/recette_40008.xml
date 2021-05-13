@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40008">
+ <titre>Tiramisu bananes-chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>20 biscuits à la cuillère</p>
+ <p>250 g de mascarpone</p>
+ <p>3 oeufs</p>
+ <p>150 g de sucre</p>
+ <p>3 bananes</p>
+ <p>100 g de chocolat noir</p>
+ <p>1 pincée de sel</p>
+ <p>Pour le sirop: </p>
+ <p>3 cuillères à soupe de rhum </p>
+ <p>20 cl d’ eau chaude</p>
+ <p>60 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>préparez le <ingredient quantite=1>sirop</ingredient> en</operation> mélangeant l’ <ingredient quantite=1>eau</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=3>rhum</ingredient>. puis <operation temps=6.86min espace=15>laissez refroidir quelques minutes</operation>. ensuite, trempez les biscuits dans le <ingredient quantite=1>sirop</ingredient>, et <operation temps=6.86min espace=15>recouvrez -en le fond d’ un <recipient>moule</recipient></operation>. <operation temps=6.86min espace=15>préparez la mousse</operation>: <operation temps=6.86min espace=15>cassez les <ingredient quantite=3>oeufs</ingredient>, en</operation> séparant les jaunes des blancs, et <operation temps=6.86min espace=15>réservez - les dans deux jattes</operation>. <operation temps=6.86min espace=15>fouettez les jaunes d’</operation> oeufs avec le <ingredient quantite=1>sucre</ingredient>, jusqu’ à ce que le mélange blanchisse, double de volume, et coule comme un ruban épais, lorsqu’ on le soulève avec le fouet. battez le <ingredient quantite=1>mascarpone</ingredient> à la fourchette. <operation temps=6.86min espace=15>ajoutez - le aux jaunes d’ <ingredient quantite=3>oeufs</ingredient></operation> battus, et <operation temps=5.0min espace=15>mélangez</operation>. <operation temps=6.86min espace=15>montez les blancs d’ <ingredient quantite=3>oeufs</ingredient> en neige avec une pincée de <ingredient quantite=1>sel</ingredient></operation>. lorsqu’ ils sont bien fermes, incorporez - les, délicatement, à la crème au <ingredient quantite=1>mascarpone</ingredient>. a l’ aide d’ une grande spatule, <operation temps=6.86min espace=15>soulevez largement la crème, pour en</operation> <operation temps=6.86min espace=15>recouvrir les blancs en neige</operation>. <operation temps=6.86min espace=15>versez les 1/3 de la mousse au <ingredient quantite=1>mascarpone</ingredient> dans le <recipient>moule</recipient></operation>. <operation temps=6.86min espace=15>lissez avec une spatule</operation>. <operation temps=6.86min espace=15>recouvrir avec les <ingredient quantite=3>bananes</ingredient></operation> coupées en rondelles, puis avec le <ingredient quantite=1>chocolat</ingredient> fondu. <operation temps=6.86min espace=15>versez le reste de la mousse</operation>, <operation temps=6.86min espace=15>lissez à nouveau</operation>. placez le <recipient>moule</recipient>, au moins 4 h au <recipient>réfrigérateur</recipient>. <operation temps=6.86min espace=15>servez frais</operation>. encore plus gourmand: <operation temps=6.86min espace=15>servir en accompagnement, une boule de glace à la noix de coco</operation>...
+]]>
+ </preparation>
+</recette>

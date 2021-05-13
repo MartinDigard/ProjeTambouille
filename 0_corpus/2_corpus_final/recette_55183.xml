@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55183">
+ <titre>Crumble à l’ ananas et au pain d’ épices</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 tranches d’ ananas </p>
+ <p>2 tranches de pain d’ épices</p>
+ <p>175 g de farine</p>
+ <p>175 g de beurre</p>
+ <p>100 g de cassonade</p>
+ <p>le jus d’ un demi citron</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>beurrez le fond de votre <recipient>plat</recipient></operation>. <operation temps=6.86min espace=9>découpez en morceaux les <ingredient quantite=1>tranches</ingredient> d’ ananas</operation>. <operation temps=6.86min espace=9>vérifiez qu’ elles ne sont pas trop juteuses</operation>. si c’ est le cas, <operation temps=6.86min espace=9>égouttez les quelques minutes</operation>. disposez vos morceaux d’ <ingredient quantite=1>ananas</ingredient> dans le <recipient>plat</recipient> beurré. <operation temps=6.86min espace=9>recouvrez d’ un <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient></operation>. râpez les 2 <ingredient quantite=1>tranches de pain</ingredient> d’ <ingredient quantite=2>épices</ingredient> afin de <operation temps=6.86min espace=9>recouvrir les fruits</operation>. pour la préparation de la pâte: <operation temps=6.86min espace=9>mélangez la farine et la <ingredient quantite=1>cassonade</ingredient>, et la <ingredient quantite=1>cannelle</ingredient></operation>. <operation temps=6.86min espace=9>ajoutez le beurre mou,</operation> et <operation temps=6.86min espace=9>mélangez à la main pour</operation> former une pâte à consistance plutôt molle. effriter la pâte sur les fruits, en <operation temps=6.86min espace=9>faisant de petits morceaux ou débris de pâte, et en</operation> recouvrant la totalité des fruits. <operation temps=30.0min espace=9>faire cuire à feu doux, thermostat 6 (180 ° c), pendant 30 minutes</operation>. servir tiède, accompagné de crème fouettée ou de crème fraîche. muscat de rivesaltes
+]]>
+ </preparation>
+</recette>

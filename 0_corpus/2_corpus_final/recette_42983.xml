@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42983">
+ <titre>Charlotte au saumon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de saumon fumé</p>
+ <p>1 petit pot de crème fraîche</p>
+ <p>le jus d’ un citron</p>
+ <p>ciboulette émincée</p>
+ <p>tranches de pain de mie</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en dés grossiers le <ingredient quantite=1>saumon</ingredient>, et le passer au mixer (donner 2 impulsions seulement, pour conserver quelques morceaux). rajouter la <ingredient quantite=1>crème</ingredient> fraiche épaisse, le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>, et la <ingredient quantite=1>ciboulette émincée</ingredient>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). pendant ce temps, couper les bords du <ingredient quantite=1>pain de mie</ingredient> sur les 4 côtés, <operation temps=6.86min espace=8>applatir les <ingredient quantite=1>tranches</ingredient> au rouleau à pâtisserie pour les</operation> étendre un peu, et les couper en 2 dans le sens de la longueur. dans des <ingredient quantite=1>petits</ingredient> moules individuels: mettre 3 <ingredient quantite=1>petits</ingredient> morceaux de <ingredient quantite=1>pain de mie</ingredient>, en <operation temps=6.86min espace=8>faisant le tour du <recipient>moule</recipient>,</operation> et mettre 10 min au <recipient>four</recipient>. <operation temps=6.86min espace=8>sortir les moules, et les farcir avec la préparation</operation>. <operation temps=2.0min espace=8>servir aussitôt</operation>!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168493">
+ <titre>Salade Quinoa rouge, fenouil, fruits secs explosive! </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la salade: </p>
+ <p>350 g de quinoa rouge</p>
+ <p>2 petits fenouils</p>
+ <p>10 de dattes</p>
+ <p>1 poignée de noix de cajous</p>
+ <p>Pour la sauce: </p>
+ <p>3 gousses d’ ail</p>
+ <p>7 cm de racine de gingembre</p>
+ <p>1/2 verre d’ huile d’ olive généreux</p>
+ <p>3 cuillères à soupe de vinaigre balsamique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire cuire le <ingredient quantite=1>quinoa</ingredient></operation>. pendant ce temps, couper les <ingredient quantite=2>fenouils</ingredient> en <ingredient quantite=2>petits</ingredient> morceaux de 1 <ingredient quantite=1>cm</ingredient>, couper chaque date en 4. mettre le tout dans un <recipient>saladier</recipient> et y ajouter les <ingredient quantite=1>noix de cajous</ingredient>. pour <ingredient quantite=1>la sauce</ingredient>, une astuce... <operation temps=6.86min espace=12>prenez un pot de confiture vide, à l’ intérieur de celui-ci</operation>, <operation temps=6.86min espace=12>mettez l’ <ingredient quantite=3>ail</ingredient></operation> pressé, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, le <ingredient quantite=3>vinaigre</ingredient> et après l’ avoir épluché, la <ingredient quantite=7>racine de gingembre</ingredient> très finement rapée. <operation temps=6.86min espace=12>fermez avec le couvercle</operation> et <operation temps=6.86min espace=12>secouez le tout! quand le <ingredient quantite=1>quinoa</ingredient> est cuit</operation>, <operation temps=6.86min espace=12>laissez le refroidir,</operation> puis <operation temps=6.86min espace=12>mettez - le avec les autres ingrédients et la <ingredient quantite=1>sauce</ingredient> dans le <recipient>saladier</recipient></operation>. réserver une heure au frais avant de <operation temps=2.0min espace=12>servir</operation>. et voilà! ça dépote un peu les papilles, c’ est frais et les ingrédients se marient étonnamment.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72847">
+ <titre>Omelette printanière</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 oeufs</p>
+ <p>400 à 500 g de petits pois à écosser</p>
+ <p>2 carottes</p>
+ <p>2 tomates</p>
+ <p>1/2 botte d’ oignons nouveaux</p>
+ <p>1 noix de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- ecosser les <ingredient quantite=1>petits pois</ingredient>. eplucher et couper les <ingredient quantite=2>carottes</ingredient> en <ingredient quantite=1>petits</ingredient> dés. faire cuire <ingredient quantite=1>petits pois</ingredient> et <ingredient quantite=2>carottes</ingredient> 10 bonnes minutes dans de l’ eau bouillante salée. egoutter. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=10>faire fondre le</operation> <ingredient quantite=1>beurre</ingredient> et <operation temps=6.86min espace=10>faire blondir les <ingredient quantite=1>oignons</ingredient></operation> émincés pendant quelques minutes. ajouter <ingredient quantite=1>petits pois</ingredient> et <ingredient quantite=2>carottes</ingredient>. <operation temps=5.0min espace=10>faire revenir 5 min à feu doux</operation>. ebouillanter puis peler les <ingredient quantite=2>tomates</ingredient>. les tailler en dés (en évacuant le jus). ajouter les <ingredient quantite=2>tomates</ingredient> au mélange précédent. <operation temps=5.0min espace=10>faire revenir 5 min à feu doux</operation>. saler, poivrer. dans un <recipient>saladier</recipient>, battre les <ingredient quantite=8>oeufs</ingredient>. saler, poivrer. verser les <ingredient quantite=8>oeufs</ingredient> battus sur le mélange de légumes. <operation temps=6.86min espace=10>faire prendre l’</operation> omelette à feu moyen en remuant doucement avec une cuillère en bois. <recipient>plat</recipient> idéal pour un soir, accompagné d’ une salade verte.
+]]>
+ </preparation>
+</recette>

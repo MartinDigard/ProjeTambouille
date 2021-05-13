@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171653">
+ <titre>Velouté de courgettes aux lardons et aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse courgette</p>
+ <p>2 carottes</p>
+ <p>1 gros poivrons vert</p>
+ <p>1 cube bouillon</p>
+ <p>1 paquet de lardons</p>
+ <p>1 cuillère a soupe de moutarde</p>
+ <p>1 cuillère a soupe de crème fraiche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+enlevez les pépins de la <ingredient quantite=1>courgette</ingredient>, <operation temps=6.86min espace=8>coupez - la en morceaux sans l’</operation> éplucher. épluchez les <ingredient quantite=2>carottes</ingredient> et <operation temps=6.86min espace=8>coupez - les également en morceaux avec le <ingredient quantite=1>poivron</ingredient></operation>. <operation temps=6.86min espace=8>mettez dans une <recipient>cocotte</recipient> avec un peu d’ eau sans</operation> <operation temps=6.86min espace=8>recouvrir les légumes</operation>. <operation temps=30.0min espace=8>laissez cuire 30 min</operation>. broyez les légumes pour <operation temps=6.86min espace=8>obtenir un velouté</operation> et <operation temps=6.86min espace=8>mettez les <ingredient quantite=1>lardons</ingredient> sans les avoir fait</operation> cuire quand le velouté est encore très chaud avec la <ingredient quantite=1>moutarde</ingredient> et la <ingredient quantite=1>crème fraiche</ingredient>. <operation temps=6.86min espace=8>recouvrez sans</operation> <operation temps=30.0min espace=8>faire cuire</operation>. <operation temps=6.86min espace=8>servez chaud ou froid</operation>. <operation temps=6.86min espace=8>servez dans des verrines ou coupelle avec des <ingredient quantite=1>lardons</ingredient> dessus en</operation> déco. recette qui me vient de ma maman.
+]]>
+ </preparation>
+</recette>

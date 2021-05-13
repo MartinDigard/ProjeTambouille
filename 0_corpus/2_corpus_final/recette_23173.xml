@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23173">
+ <titre>Brochettes de dinde et de porc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc dans l’ échine (1 kg) </p>
+ <p>1 rôti de dinde</p>
+ <p>Pour la marinade: </p>
+ <p>2/3 gousses d’ ail</p>
+ <p>3 oranges</p>
+ <p>1 citron</p>
+ <p>paprika doux </p>
+ <p>sel, poivre</p>
+ <p>Pour la "décoration" des brochettes: </p>
+ <p>1 kg d’ oignon</p>
+ <p>tomates cerises ou tomates coupées</p>
+ <p>deux paquets de trois tranches de lard (à couper en gros lardons) </p>
+ <p>2 ou 3 poivrons coupés en morceaux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les rôtis en gros cubes (dégraisser le <ingredient quantite=1>porc</ingredient>), les mettre dans un <recipient>saladier</recipient>. presser les <ingredient quantite=3>oranges</ingredient> et le <ingredient quantite=1>citron</ingredient>, mettre le jus dans le <recipient>saladier</recipient> avec la viande. rajouter les <ingredient quantite=1>gousses</ingredient> d’ <ingredient quantite=1>ail coupées</ingredient> en quatre, mettre beaucoup de <ingredient quantite=1>paprika</ingredient>, saler modérément, et poivrer. mettre au frigo pendant 12 heures. remuer de temps en temps pour que toute la viande s’ imprègne. préparer les <ingredient quantite=1>brochettes</ingredient>, en alternant viande, <ingredient quantite=1>lard</ingredient>, <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>tomate</ingredient> et <ingredient quantite=1>poivron</ingredient>. les mettre au <recipient>barbecue</recipient> et les retourner régulièrement. conseil: commencez et <operation temps=6.86min espace=16>finissez par un <ingredient quantite=1>morceau</ingredient> de <ingredient quantite=1>poivron</ingredient>, votre brochette tiendra mieux</operation>. un rosé bien frais
+]]>
+ </preparation>
+</recette>

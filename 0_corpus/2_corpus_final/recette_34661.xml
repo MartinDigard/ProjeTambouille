@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34661">
+ <titre>Pizza chèvre miel crème fraiche</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une pâte à pizza toute prête (ou faite maison) </p>
+ <p>une bûche de fromage de chèvre</p>
+ <p>4 grosses cuillerés à soupe au moins de miel liquide</p>
+ <p>un petit pot de crème fraîche liquide (20 cl) </p>
+ <p>olives </p>
+ <p>de l’ emmental râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+bien étaler la <ingredient quantite=1>pâte</ingredient> sur du papier sulfurisé et la <operation temps=3.0min espace=10>répartir</operation> dans un <recipient>plat</recipient> à <recipient>four</recipient> rond avec un minimum de rebords</operation>. verser la totalité du <ingredient quantite=1>pot de crème fraîche</ingredient> dans le <recipient>plat</recipient> et bien la <operation temps=3.0min espace=10>répartir</operation>. couper le <ingredient quantite=1>chèvre</ingredient> en tranches ou en <ingredient quantite=1>petits</ingredient> morceaux, puis le répartir sur le <recipient>plat</recipient>. ajouter le <ingredient quantite=4>miel liquide</ingredient> uniformément. puis ajouter le <ingredient quantite=1>fromage râpé</ingredient> (personnellement j’ ai la main lourde!!). rajouter un peu de <ingredient quantite=4>miel</ingredient> sur le <ingredient quantite=1>fromage</ingredient> et éventuellement ajouter quelques <ingredient quantite=1>olives</ingredient>. enfourner à thermostat 6 pendant 30 mn environ, mais surveiller! retirer quand la <ingredient quantite=1>pâte</ingredient> est bien cuite dessous. bon appétit.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11377">
+ <titre>Mousse au chocolat blanc fondante</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de chocolat blanc</p>
+ <p>40 cl de crème liquide</p>
+ <p>10 blancs d’ oeufs</p>
+ <p>100 g de sucre glace</p>
+ <p>copeaux de chocolat blanc</p>
+ <p>2 cuillères à soupe de pistaches</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+prévoir 4 heures de réfrigération. faites fondre le <ingredient quantite=1>chocolat blanc</ingredient> cassé en morceaux dans la <ingredient quantite=1>crème</ingredient> sur feu doux en remuant avec un fouet. <operation temps=20.0min espace=7>laissez refroidir</operation> puis <operation temps=6.86min espace=7>battez les <ingredient quantite=1>blancs</ingredient> en neige (fermes) en</operation> ajoutant le <ingredient quantite=1>sucre</ingredient> glace en pluie à la fin. <operation temps=5.0min espace=7>mélangez</operation> délicatement les 2 préparations, répartissez - les dans des coupes et <operation temps=6.86min espace=7>mettez - les au frais au moins 4 heures</operation>. décorez de <ingredient quantite=1>copeaux de chocolat</ingredient> et de <ingredient quantite=2>pistaches</ingredient> concassées. pour réaliser les <ingredient quantite=1>copeaux</ingredient>: faites fondre 100 g de <ingredient quantite=1>chocolat blanc</ingredient>, puis <operation temps=6.86min espace=7>versez - le sur une grande plaque à <recipient>four</recipient></operation> tapissée de papier sulfurisé. après refroidissement, <operation temps=6.86min espace=7>formez les <ingredient quantite=1>copeaux</ingredient> avec une spatule large</operation>. stockez - les au frais jusqu’ au moment de <operation temps=2.0min espace=7>servir</operation>.
+]]>
+ </preparation>
+</recette>

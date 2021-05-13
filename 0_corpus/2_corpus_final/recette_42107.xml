@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42107">
+ <titre>Brownies glaçage Mars</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 plaques de chocolat au lait aux noisettes (6 x 100 g) </p>
+ <p>250 g de beurre</p>
+ <p>8 cuillères à soupe de sucre</p>
+ <p>4 oeufs</p>
+ <p>6 cuillères à soupe de farine</p>
+ <p>Pour le glaçage: </p>
+ <p>25 g de beurre</p>
+ <p>2 barres chocolatées type Mars</p>
+ <p>2 cuillères à soupe de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire fondre le beurre et le</operation> <ingredient quantite=6>chocolat</ingredient>, mélanger. ajouter le <ingredient quantite=8>sucre</ingredient>, les <ingredient quantite=4>oeufs</ingredient> battus et la farine. verser dans une <ingredient quantite=1>plaque</ingredient> à <recipient>four</recipient> d’ environ 30x35 cm. mettre au <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6) pendant 25 minutes (chaleur tournante). préparer le <ingredient quantite=1>glaçage</ingredient>: couper les <ingredient quantite=1>mars</ingredient> en petits morceaux, ajouter le beurre et le <ingredient quantite=6>lait</ingredient>, <operation temps=6.86min espace=11>faire fondre tout doucement</operation>. etaler à la spatule sur le brownie, <operation temps=10.0min espace=11>laisser refroidir avant de</operation> découper. un tout petit peu calorique... mais tellement bon!
+]]>
+ </preparation>
+</recette>

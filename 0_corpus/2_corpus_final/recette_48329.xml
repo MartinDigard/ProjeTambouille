@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48329">
+ <titre>Couscous Bolognaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de couscous </p>
+ <p>35 cl d’ eau bouillie</p>
+ <p>250 g de viande hachée</p>
+ <p>1 pot de sauce bolognaise</p>
+ <p>1 noisette de beurre ou 1 filet d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir votre <ingredient quantite=1>viande hachée</ingredient> dans une <recipient>poêle</recipient>. une fois cuite, rajouter la <ingredient quantite=1>sauce bolognaise</ingredient> et <operation temps=10.0min espace=8>laisser mijoter pendant 5 à 10 minutes</operation> (<operation temps=6.86min espace=8>couvrir si possible</operation>). pendant ce temps, verser 300 g de <ingredient quantite=1>couscous</ingredient> dans un <recipient>saladier</recipient> et <operation temps=6.86min espace=8>faire <ingredient quantite=1>bouillir</ingredient> environ 35 cl d’ <ingredient quantite=1>eau</ingredient></operation>. mélanger l’ <ingredient quantite=1>eau</ingredient> au <ingredient quantite=1>couscous</ingredient> et placer une assiette ou un couvercle sur le <recipient>saladier</recipient> pendant plus ou moins 5 minutes. apres 5 minutes, mélanger la semoule avec une fourchette et rajouter une <ingredient quantite=1>noisette de beurre</ingredient> ou un <ingredient quantite=1>filet</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. placer quelques cuillères de <ingredient quantite=1>couscous</ingredient> dans une assiette et verser le mélange viande / bolognaise par dessus. un rosé
+]]>
+ </preparation>
+</recette>

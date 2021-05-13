@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90275">
+ <titre>Pizza chèvre et miel</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte à pizza maison </p>
+ <p>60 cl de coulis de tomate </p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1 pincée de sel</p>
+ <p>un peu d’ huile d’ olive</p>
+ <p>2 chèvres frais</p>
+ <p>50 g de gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en fines lamelles avec de l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. ajouter ensuite une <ingredient quantite=1>cuillère à soupe de miel</ingredient> (un bon <ingredient quantite=1>miel</ingredient> du gatinais qui a du goût!) <operation temps=6.86min espace=10>laisser l’ <ingredient quantite=1>oignon</ingredient> se</operation> carameliser à feu doux. ajouter ensuite le <ingredient quantite=1>coulis de tomate</ingredient> et <operation temps=6.86min espace=10>laisser un peu réduire</operation>. verser une pincée de <ingredient quantite=1>sel</ingredient>. une fois la pâte étalée, disposer le mélange <ingredient quantite=1>coulis</ingredient> - <ingredient quantite=1>oignon</ingredient>. poser dessus le <ingredient quantite=2>chèvre frais</ingredient> coupé en morceaux. saupoudrer de <ingredient quantite=1>gruyère</ingredient> râpé selon le goût de chacun. mettre au <recipient>four</recipient> à 240 ° c (thermostat 8) une dizaine de minutes mais bien vérifier la cuisson.
+]]>
+ </preparation>
+</recette>

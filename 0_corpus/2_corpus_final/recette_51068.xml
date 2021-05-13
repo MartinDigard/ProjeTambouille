@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51068">
+ <titre>Lotte en sauce à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de lotte (joues ou queue coupée en morceaux) </p>
+ <p>1 petite boîte de concentré de tomates</p>
+ <p>3 cl de Whisky</p>
+ <p>1 gros oignon</p>
+ <p>20 cl de crème fraîche</p>
+ <p>1 belle noix de beurre</p>
+ <p>farine</p>
+ <p>sel, poivre, piment de Cayenne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+essuyer la <ingredient quantite=1>lotte</ingredient> avec du papier absorbant et la rouler légèrement dans la farine. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>beurre</ingredient> et y</operation> <operation temps=6.86min espace=10>faire revenir sans</operation> <operation temps=6.86min espace=10>laisser brunir les morceaux de poisson</operation>. couper l’ <ingredient quantite=1>oignon</ingredient> et l’ ajouter dans la <recipient>cocotte</recipient>. verser le <ingredient quantite=1>whisky</ingredient>, <operation temps=15.0min espace=10>faire chauffer</operation> et flamber. ajouter le <ingredient quantite=1>concentré de tomates</ingredient> et un peu d’ eau si la préparation semble sèche. saler, poivrer et assaisonner de <ingredient quantite=1>piment de cayenne</ingredient> (attention son intensité augmente avec la cuisson). <operation temps=20.0min espace=10>laisser cuire à feu doux encore 20 minutes</operation>. ajouter la <ingredient quantite=1>crème fraîche</ingredient> avant de <operation temps=2.0min espace=10>servir</operation> et accompagner de riz basmati. un saumur champigny
+]]>
+ </preparation>
+</recette>

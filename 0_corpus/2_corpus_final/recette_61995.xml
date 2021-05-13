@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61995">
+ <titre>Soupe au chou de ma Grand Mère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 chou vert</p>
+ <p>6 carottes</p>
+ <p>4 pommes de terre moyennes</p>
+ <p>1 oignon</p>
+ <p>100 g de lardons</p>
+ <p>2 cubes de bouillon de boeuf</p>
+ <p>1 pain à soupe</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient> - minute, mettre un peu de beurre et <operation temps=6.86min espace=10>faire revenir l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=1>lardons</ingredient> à feu vif</operation>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire chauffer 1 litre d’ eau et les 2 <ingredient quantite=2>cubes</ingredient> pour les</operation> dissoudre. eplucher, laver, couper en <ingredient quantite=2>cubes</ingredient> les légumes. une fois les <ingredient quantite=1>lardons</ingredient> bien dorés, mettre le <ingredient quantite=2>bouillon</ingredient> et 1 litre d’ eau supplémentaire. ajouter les légumes, saler, poivrer, et fermer la <recipient>cocotte</recipient>, <operation temps=6.86min espace=10>laisser cuire 1 heure</operation>. au moment de <operation temps=2.0min espace=10>servir</operation>, ajouter le <ingredient quantite=1>pain à soupe</ingredient> coupé en petits <ingredient quantite=2>cubes</ingredient>. cette <ingredient quantite=1>soupe</ingredient> est une adaptation de la <ingredient quantite=1>soupe</ingredient> que me servait autrefois ma grand mère, dans sa recette, elle ajoutait un os à moelle et une pièce de viande, pour des raisons diététiques et pratiques, j’ ai remplacé ces ingrédients par 2 <ingredient quantite=2>cubes de bouillon de boeuf</ingredient>.
+]]>
+ </preparation>
+</recette>

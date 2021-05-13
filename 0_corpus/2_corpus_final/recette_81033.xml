@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81033">
+ <titre>Soupe aux patates douces et au reblochon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 patate douce épluchée et coupée en morceaux</p>
+ <p>1 petit oignon</p>
+ <p>2 cuillères à soupe de pâte de curry épicée</p>
+ <p>100 g de lentilles roses</p>
+ <p>500 ml de bouillon de légumes</p>
+ <p>1 yaourt nature</p>
+ <p>1 gousse d’ ail écrasée</p>
+ <p>la moitié d’ un reblochon</p>
+ <p>1 cuillère à soupe d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire chauffer l’ <ingredient quantite=1>huile</ingredient> dans une <recipient>casserole</recipient></operation>. ajouter l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, la <ingredient quantite=2>pâte de curry</ingredient> et <operation temps=4.0min espace=10>faire revenir à feu moyen pendant 4 minutes environ, en</operation> remuant constamment. ajouter les <ingredient quantite=1>lentilles</ingredient>, la <ingredient quantite=1>patate douce</ingredient> et le <ingredient quantite=1>bouillon</ingredient>. mixer le <ingredient quantite=1>reblochon</ingredient>. l’ jouter aux <ingredient quantite=1>lentilles</ingredient>. remuer et porter à ébullition. réduire le feu, <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=30.0min espace=10>laisser mijoter pendant environ 30 min jusqu’ à ce que les <ingredient quantite=1>lentilles</ingredient> soient</operation> ramollies. au moment de <operation temps=2.0min espace=10>servir</operation>, ajouter le <ingredient quantite=1>yaourt</ingredient>. mangez bien! lol
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56960">
+ <titre>Nems aux fromages</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 feuilles de brick</p>
+ <p>5 tranches de jambon cuit</p>
+ <p>10 petits chèvres frais (palets) </p>
+ <p>2 boules de mozzarella</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=7>faire fondre le beurre</operation>. découper les <ingredient quantite=1>petits chèvres</ingredient> en deux, couper les <ingredient quantite=2>boules de mozzarella</ingredient> de la même taille que les morceaux de <ingredient quantite=1>chèvres</ingredient>. prendre une <ingredient quantite=1>feuille de brick</ingredient>, badigeonner de <ingredient quantite=1>beurre</ingredient> fondu. replier sur 3 cm un bord de la <ingredient quantite=1>feuille de brick</ingredient>, poser une demi <ingredient quantite=5>tranche de jambon</ingredient>, deux bouts de <ingredient quantite=1>chèvre</ingredient> et un peu de <ingredient quantite=2>mozzarella</ingredient> puis rouler jusqu’ au deux tiers de la <ingredient quantite=1>feuille de brick</ingredient>. rabattre alors les bords de la <ingredient quantite=1>feuille de brick</ingredient>, re-badigeonner de beurre er <operation temps=6.86min espace=7>finir le nem</operation>. mettre les 10 nems dans un <recipient>plat</recipient> à gratin, badigeonner à nouveau de beurre et <operation temps=15.0min espace=7>faire cuire après préchauffage du <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 15 minutes</operation>. on peut mettre d’ autres fromages mais il faut <operation temps=6.86min espace=7>faire attention à ce que le fromage</operation> tienne la cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65441">
+ <titre>Lapin au yaourt</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin</p>
+ <p>2 yaourts à 0%</p>
+ <p>sel, poivre</p>
+ <p>herbes de Provence</p>
+ <p>garam massala, tandoori</p>
+ <p>moutarde</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger tous les ingrédients dans un bol. tartiner le <ingredient quantite=1>lapin</ingredient> avec la moitié de la préparation, puis <operation temps=30.0min espace=7>faire cuire 30 min au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7</operation>). retourner le <ingredient quantite=1>lapin</ingredient> et tartiner avec le reste de la préparation. cuire encore 30 min en surveillant. c’ est prêt! le <ingredient quantite=1>lapin</ingredient> est très savoureux, pas gras, donc diététique. vite fait, vite cuit. [ ndchef: on peut également le <operation temps=6.86min espace=7>laisser mariner dans le <ingredient quantite=1>yaourt</ingredient> toute une nuit avant de le cuire</operation> ]
+]]>
+ </preparation>
+</recette>

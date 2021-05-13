@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16952">
+ <titre>Velouté de carottes au cumin</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de carottes</p>
+ <p>1 pomme de terre moyenne</p>
+ <p>1 oignon</p>
+ <p>3/4 l d’ eau </p>
+ <p>20 g de beurre</p>
+ <p>1/2 cuillère à café de curry</p>
+ <p>1/2 cuillère à café de cumin</p>
+ <p>sel de Guérande </p>
+ <p>20 cl de crème liquide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez l’ <ingredient quantite=1>oignon</ingredient>. <operation temps=6.86min espace=11>faites fondre le beurre dans une <recipient>cocotte</recipient> minute,</operation> puis <operation temps=6.86min espace=11>ajoutez l’ <ingredient quantite=1>oignon</ingredient></operation>. <operation temps=6.86min espace=11>faites dorer</operation>. ajoutez les <ingredient quantite=1>carottes</ingredient> et la <ingredient quantite=1>pomme de terre</ingredient> préalablement coupés en morceaux. <operation temps=5.0min espace=11>faites cuire ainsi 5 minutes</operation>. <operation temps=6.86min espace=11>ajoutez l’ <ingredient quantite=1>eau</ingredient>, ainsi que le <ingredient quantite=1>curry</ingredient> et le <ingredient quantite=1>cumin</ingredient></operation>. <operation temps=6.86min espace=11>fermez la <recipient>cocotte</recipient></operation> et <operation temps=20.0min espace=11>faire cuire 20 minutes après la montée en pression</operation>. il ne reste plus qu’ à mixer le tout en y ajoutant la <ingredient quantite=1>crème liquide</ingredient>... et bien sûr qu’ à se régaler! une entrée simple et bon marché, qui sera très appréciée de vos convives.
+]]>
+ </preparation>
+</recette>

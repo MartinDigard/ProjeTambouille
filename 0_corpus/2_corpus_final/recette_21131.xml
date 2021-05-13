@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21131">
+ <titre>Soupe glacée au concombre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de fromage blanc à 0 %</p>
+ <p>50 ml de lait écrémé</p>
+ <p>500 g de concombre</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>quelques feuilles de menthe</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez le <ingredient quantite=1>concombre</ingredient>, <operation temps=6.86min espace=10>épépinez - le</operation> et <operation temps=6.86min espace=10>découpez - le en fines lamelles</operation>. dans une <recipient>passoire</recipient>, déposez le <ingredient quantite=1>concombre</ingredient> et ajoutez 1 <ingredient quantite=3>cuillère à soupe</ingredient> de gros <ingredient quantite=1>sel</ingredient> ; <operation temps=5.0min espace=10>mélangez</operation> et <operation temps=6.86min espace=10>laissez dégorger une heure</operation>. dans le bol du <recipient>mixeur</recipient>, mélangez le lait <ingredient quantite=1>écrémé</ingredient>, le <ingredient quantite=1>fromage blanc</ingredient>, l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, la <ingredient quantite=1>menthe</ingredient>, le <ingredient quantite=1>paprika</ingredient>, et le <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=10>pressez le <ingredient quantite=1>concombre</ingredient> avec les mains pour</operation> retirer toute l’ eau, et <operation temps=6.86min espace=10>ajoutez - le dans le bol du <recipient>mixeur</recipient></operation> ; <operation temps=6.86min espace=10>mixez le tout</operation> et <operation temps=6.86min espace=10>réservez au froid</operation>. <operation temps=6.86min espace=10>présentez dans des assiettes creuses</operation>, décorées de <ingredient quantite=1>feuilles de menthe</ingredient> fraîche.
+]]>
+ </preparation>
+</recette>

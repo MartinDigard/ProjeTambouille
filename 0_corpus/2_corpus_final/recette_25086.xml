@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25086">
+ <titre>Salade de chou chinois, poivrons et avocats</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de chou chinois</p>
+ <p>2 oignons doux </p>
+ <p>1 coeur de céleri blanc</p>
+ <p>2 poivrons rouge</p>
+ <p>1 poivron vert</p>
+ <p>1 avocat</p>
+ <p>1 citron vert</p>
+ <p>3 oeufs durs </p>
+ <p>5 cl de sauce aigre-douce</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et émincer le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient>, puis l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>céleri blanc</ingredient>. les déposer dans un <recipient>saladier</recipient> et les mélanger. détailler les <ingredient quantite=2>poivrons</ingredient> en fines lanières puis découper la chair de l’ <ingredient quantite=1>avocat</ingredient> en petits dés. arroser les dés d’ <ingredient quantite=1>avocats</ingredient> de jus de <ingredient quantite=1>citron</ingredient> afin d’ éviter qu’ ils ne noircissent, puis les mélanger avec les autres légumes. napper la salade de sauce <ingredient quantite=1>aigre</ingredient> - <ingredient quantite=1>douce</ingredient> et décorer des <ingredient quantite=3>oeufs durs</ingredient> coupés en quartiers. servir bien frais.
+]]>
+ </preparation>
+</recette>

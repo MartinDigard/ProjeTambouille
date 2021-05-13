@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27699">
+ <titre>Piperade basque</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 œufs</p>
+ <p>4 tranches de jambon de Bayonne</p>
+ <p> 1 poivron rouge</p>
+ <p>1 poivron vert</p>
+ <p>4 tomates</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver, épépiner et détailler les <ingredient quantite=4>tomates</ingredient> en quartiers et les <ingredient quantite=1>poivrons</ingredient> en lamelles. hacher ensuite l’ <ingredient quantite=1>oignon</ingredient> et le plonger dans une <recipient>poêle</recipient> huilée pour le <operation temps=6.86min espace=11>faire dorer avec les <ingredient quantite=1>poivrons</ingredient> et les <ingredient quantite=4>tomates</ingredient></operation>. saler, poivrer et <operation temps=6.86min espace=11>laisser mijoter à feu doux</operation>. pendant ce temps, poêler les <ingredient quantite=4>tranches de jambon de bayonne</ingredient>, puis l’ incorporer avec son jus de cuisson aux légumes. battre les <ingredient quantite=8>œufs</ingredient> en omelette, puis verser les <ingredient quantite=8>œufs</ingredient> battus dans la <recipient>poêle</recipient> sur les légumes et cuire comme une omelette selon que vous l’ aimez baveuse ou bien cuite. vous pouvez remplacer le <ingredient quantite=4>jambon</ingredient> par du lard et <operation temps=6.86min espace=11>faire cuire l’ omelette nature pour la</operation> fourrer seulement ensuite avec les légumes.
+]]>
+ </preparation>
+</recette>

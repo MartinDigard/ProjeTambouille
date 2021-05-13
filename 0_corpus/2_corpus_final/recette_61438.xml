@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61438">
+ <titre>Poivrons et tomates au risotto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates à farcir</p>
+ <p>6 petits poivrons (jaune, rouge, vert) </p>
+ <p>300 g de viande hachée ou champignons de Paris</p>
+ <p>200 g de riz italien spécial risotto</p>
+ <p>1 gros oignon</p>
+ <p>3 gousse d’ ail</p>
+ <p>1 litre de bouillon (boeuf ou légumes) </p>
+ <p>1 cuillère à soupe d’ origan</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre, piment (selon vos goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>videz les</operation> <ingredient quantite=6>tomates</ingredient>, <operation temps=6.86min espace=12>réservez la chair et le chapeau</operation>. <operation temps=6.86min espace=12>salez l’ intérieur et retournez - les sur une grille</operation>, <operation temps=0.5min espace=12>réservez</operation>. préchauffez le <recipient>four</recipient> à 240 ° c (thermostat 8). <operation temps=6.86min espace=12>eliminez les graines et les membranes des <ingredient quantite=6>poivrons</ingredient></operation>. enfournez - les sur une plaque environ 20 minutes. pendant de temps, émincez l’ <ingredient quantite=1>oignon</ingredient>, et <operation temps=6.86min espace=12>faites - le</operation> <operation temps=6.86min espace=12>revenir dans un peu d’</operation> huile. <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>riz</ingredient> et remuez jusqu’ à ce qu’ il</operation> devienne nacré. <operation temps=6.86min espace=12>ajoutez la chair des <ingredient quantite=6>tomates</ingredient>, l’ <ingredient quantite=3>ail</ingredient> et l’ <ingredient quantite=1>origan</ingredient></operation>. <operation temps=6.86min espace=12>arrosez d’ une louche de <ingredient quantite=1>bouillon</ingredient> chaud</operation>. remuez le <ingredient quantite=1>riz</ingredient> et y <operation temps=6.86min espace=12>ajoutez du <ingredient quantite=1>bouillon</ingredient> au fur et à mesure que le <ingredient quantite=1>riz</ingredient> l’ absorbe</operation>. faire <operation temps=6.86min espace=12>revenir dans un peu d’</operation> huile la <ingredient quantite=1>viande hachée</ingredient> ou bien les <ingredient quantite=1>champignons</ingredient> pour une version végétarienne. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation> et <operation temps=6.86min espace=12>insérez au <ingredient quantite=1>risotto</ingredient></operation>. <ingredient quantite=1>farcissez</ingredient> les <ingredient quantite=6>tomates</ingredient> crues et les <ingredient quantite=6>poivrons</ingredient> chauds de <ingredient quantite=1>risotto</ingredient> et <operation temps=20.0min espace=12>enfournez le tout pendant 20 minutes à 180 ° c (thermostat 6</operation>). <recipient>plat</recipient> découvert en crète. rosé
+]]>
+ </preparation>
+</recette>

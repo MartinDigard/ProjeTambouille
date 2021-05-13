@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20104">
+ <titre>Cake aux herbes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1/4 baguette de pain rassis (ou 6 biscottes) </p>
+ <p>2 yaourts nature</p>
+ <p>100 g de parmesan râpé</p>
+ <p>1 bouquet de basilic</p>
+ <p>1 bouquet de persil</p>
+ <p>1 bouquet de ciboulette</p>
+ <p>1 1/2 bouquet de menthe</p>
+ <p>3 oeufs entiers</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>100 g de pignons de pin (ou noix concassées) </p>
+ <p>1 belle gousse d’ ail</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mixer l’ ensemble des herbes, la <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=1>ail</ingredient> ainsi que le <ingredient quantite=1>pain</ingredient> (<operation temps=6.86min espace=13>passez le au besoin au grille - <ingredient quantite=1>pain</ingredient> afin qu’ il se</operation> réduise bien en chapelure). mélanger avec les <ingredient quantite=2>yaourts</ingredient>, l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> et les <ingredient quantite=1>pignons</ingredient> et ajouter en dernier les 3 <ingredient quantite=3>oeufs</ingredient> battus. l’ ensemble ne doit pas être trop liquide (sinon ajouter un peu de <ingredient quantite=1>pain</ingredient> émietté). préchauffer le <recipient>four</recipient> thermostat 180 ° c et <operation temps=6.86min espace=13>laisser cuire 45</operation> mn. <operation temps=0.5min espace=13>sortez</operation>, <operation temps=20.0min espace=13>laissez refroidir</operation>. <operation temps=6.86min espace=13>servez froid, voire même frais</operation>. en entrée, délicieux avec un coulis de tomate. découpé en petits cubes pour l’ apéritif. on peut varier les différents composants des herbes: roquette, cresson, j’ ai même essayé les feuilles de capucines: petit goût poivré très agréable.
+]]>
+ </preparation>
+</recette>

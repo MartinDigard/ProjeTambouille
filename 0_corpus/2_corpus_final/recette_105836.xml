@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105836">
+ <titre>Gâteau Chocolat Canelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de chocolat noir</p>
+ <p>150 g de beurre</p>
+ <p>250 g de sucre</p>
+ <p>125 g de farine</p>
+ <p>20 cl de lait</p>
+ <p>4 oeufs</p>
+ <p>2 cuillères à café de cannelle en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites chauffer le <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). <operation temps=6.86min espace=11>faites chauffer le lait dans une <recipient>casserole</recipient></operation>. pendant ce temps <operation temps=6.86min espace=11>cassez le <ingredient quantite=1>chocolat</ingredient> en petits morceaux</operation>. <operation temps=6.86min espace=11>mettez - les dans le lait chaud et remuez bien</operation>. <operation temps=6.86min espace=11>ajoutez 130 g de beurre, remuez encore</operation> puis incorporer le <ingredient quantite=1>sucre</ingredient>, en remuant toujours. quand tous les éléments sont fondus et le mélange bien homogène, <operation temps=6.86min espace=11>laissez un peu refroidir</operation>. <operation temps=6.86min espace=11>cassez les <ingredient quantite=4>oeufs</ingredient> en</operation> séparant le blanc des jaunes. <operation temps=6.86min espace=11>battez les blancs en neige bien ferme</operation>. <operation temps=6.86min espace=11>ajoutez les jaunes dans la pâte</operation>. remuez bien. <operation temps=6.86min espace=11>ajoutez la farine et la <ingredient quantite=2>cannelle</ingredient></operation>. remuez encore jusqu’ à ce que le mélange soit homogène. la pâte doit être parfaitement lisse. <operation temps=6.86min espace=11>incorporez les blancs en neige très délicatement</operation>. <operation temps=6.86min espace=11>beurrez un <recipient><recipient>moule</recipient> à manqué</recipient></operation> et <operation temps=6.86min espace=11>versez - y la pâte</operation>. enfournez et <operation temps=6.86min espace=11>laissez cuire 45 min, toujours à feu doux</operation>. le gâteau est cuit quand une lame de couteau plongée dedans ressort sèche. <operation temps=6.86min espace=11>laissez refroidir le gâteau avant de le</operation> démouler sur un <recipient>plat</recipient> de service.
+]]>
+ </preparation>
+</recette>

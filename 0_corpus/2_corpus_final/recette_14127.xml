@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14127">
+ <titre>Riz aux petits pois et au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 verres de riz basmati </p>
+ <p>1 citron </p>
+ <p>1 boîte de 500 g de petits pois</p>
+ <p>2 oignons</p>
+ <p>1 pincée de cardamome</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faire revenir dans un peu d’</operation> huile les <ingredient quantite=2>oignons</ingredient> émincés avec 1/2 <ingredient quantite=1>citron</ingredient> coupé en <ingredient quantite=1>petits</ingredient> dés (bien le laver et <operation temps=6.86min espace=7>laisser l’ écorce</operation>). pendant ce temps, <operation temps=6.86min espace=7>faire bouillir l’ eau pour le <ingredient quantite=2>riz</ingredient></operation>. quand le <ingredient quantite=2>riz</ingredient> cuit depuis 5 minutes, ajouter les <ingredient quantite=1>petits pois</ingredient> à la préparation <ingredient quantite=2>oignons</ingredient> - <ingredient quantite=1>citron</ingredient>. quand le <ingredient quantite=2>riz</ingredient> est cuit, l’ égoutter puis l’ ajouter au reste dans la <recipient>poêle</recipient>. saler, poivrer, ajouter la <ingredient quantite=1>cardamome</ingredient> et le jus du 1/2 <ingredient quantite=1>citron</ingredient> restant. <operation temps=6.86min espace=7>laisser les saveurs se</operation> mélanger quelques minutes.
+]]>
+ </preparation>
+</recette>

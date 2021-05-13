@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41202">
+ <titre>Crevettes au chèvre frais en papillote</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>16 grosses crevettes roses</p>
+ <p>2 oignons</p>
+ <p>150 g de chèvre frais (type chavroux) </p>
+ <p>1 citron vert</p>
+ <p>1/2 poivron rouge</p>
+ <p>10 cl de crème fraîche</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>décortiquez les</operation> <ingredient quantite=1>crevettes</ingredient>, <operation temps=6.86min espace=11>mettez - les dans un <recipient>plat</recipient> creux</operation>. <operation temps=0.25min espace=11>salez et</operation> <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>arrosez de jus de <ingredient quantite=1>citron</ingredient> et d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient></operation>. <operation temps=15.0min espace=11>laissez de côté 15 min</operation>. dans une <recipient>terrine</recipient>, mélangez le <ingredient quantite=1>chèvre</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et la moitié de <ingredient quantite=1>poivron</ingredient> coupée en dès. <operation temps=0.25min espace=11>salez et</operation> <operation temps=0.5min espace=11>poivrez</operation>. pelez et hachez les <ingredient quantite=2>oignons</ingredient>. répartissez - les sur 4 feuilles de papier aluminium. <operation temps=6.86min espace=11>posez 4 <ingredient quantite=1>crevettes</ingredient> par feuille</operation>. répartissez la préparation au fromage de <ingredient quantite=1>chèvre</ingredient>. <operation temps=6.86min espace=11>refermez pour</operation> former 4 papillotes. <operation temps=15.0min espace=11>cuisez 12 à 15 min au <recipient>four</recipient> préchauffé à 240 ° c (thermostat 8</operation>). <operation temps=6.86min espace=11>servez dans les papillotes</operation>.
+]]>
+ </preparation>
+</recette>

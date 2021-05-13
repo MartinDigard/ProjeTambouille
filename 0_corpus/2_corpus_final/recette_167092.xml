@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167092">
+ <titre>Gâteau pommes noix praliné</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt nature</p>
+ <p>2 yaourts remplis de farine</p>
+ <p>3 yaourts remplis de sucre</p>
+ <p>1 yaourt rempli d’ huile</p>
+ <p>1 pomme</p>
+ <p>100g de cerneaux de noix</p>
+ <p>50g de pralin</p>
+ <p>Caramel liquide</p>
+ <p>1 sachet de levure chimique</p>
+ <p>2 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) dans un <recipient>saladier</recipient>, mélanger les <ingredient quantite=2>oeufs</ingredient>, la farine, le <ingredient quantite=3>sucre</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, le <ingredient quantite=1>yaourt</ingredient> et la <ingredient quantite=1>levure</ingredient> jusqu’ à obtention d’ une pâte lisse et homogène. couper la <ingredient quantite=1>pomme</ingredient> en petits morceaux, et incorporer à la pâte avec les <ingredient quantite=1>cerneaux de noix</ingredient>. beurrer un <recipient>moule</recipient>, y mettre le tout et placer au <recipient>four</recipient> pendant 30 minutes. en attendant, mélanger le <ingredient quantite=1>pralin</ingredient> avec le <ingredient quantite=1>caramel liquide</ingredient> en mettant assez de <ingredient quantite=1>caramel</ingredient> pour que la mixture soit un peu pâteuse. quand le gâteau est cuit, étaler le <ingredient quantite=1>pralin</ingredient> en glaçage, et remettre au <recipient>four</recipient> 5 minutes pour <operation temps=25.0min espace=15>faire dorer</operation>. assez nourrissant!
+]]>
+ </preparation>
+</recette>

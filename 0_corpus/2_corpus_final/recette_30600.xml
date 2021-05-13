@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30600">
+ <titre>Tarte aux champignons et à la viande</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>2 steacks hachés</p>
+ <p>2 carottes</p>
+ <p>500 g de champignons de Paris</p>
+ <p>1/2 verre vin blanc</p>
+ <p>1 petit suisse</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de persil</p>
+ <p>ail (1 gousse) </p>
+ <p>gruyère</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 220 ° c. faire cuire la <ingredient quantite=1>pâte feuilletée</ingredient> à <ingredient quantite=1>blanc</ingredient> pendant 15 mn. pendant ce temps, <operation temps=6.86min espace=13>faire revenir les <ingredient quantite=1>champignons</ingredient></operation> émincés à la <recipient>poêle</recipient> dans un peu d’ huile d’ olive et avec l’ <ingredient quantite=1>ail</ingredient> pendant 15 mn. ajouter le <ingredient quantite=1>vin blanc</ingredient>, saler et poivrer. réserver. <operation temps=6.86min espace=13>faire cuire les <ingredient quantite=2>carottes</ingredient> coupés en</operation> dés dans un peu d’ huile d’ olive. <operation temps=2.0min espace=13>faire cuire les hamburgers (2 mn chaque face à feu vif</operation>). battre dans un bol 1 jaune d’ <ingredient quantite=1>oeuf</ingredient> battu et ajouter un <ingredient quantite=1>petit suisse</ingredient>. bien mélanger. ajouter le <ingredient quantite=1>persil</ingredient>. mélanger les <ingredient quantite=1>champignons</ingredient>, les <ingredient quantite=2>steacks hachés</ingredient>, les <ingredient quantite=2>carottes</ingredient> ensemble et <operation temps=6.86min espace=13>garnir la tarte avec ce mélange</operation>. recouvrir du mélange <ingredient quantite=1>petit suisse</ingredient> et <ingredient quantite=1>oeuf</ingredient>. puis parsemer de <ingredient quantite=1>gruyère</ingredient> râpé. enfourner pour 10/15 mn à 220 ° c. accompagner d’ une salade verte.
+]]>
+ </preparation>
+</recette>

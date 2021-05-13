@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68668">
+ <titre>Lapin à la moutarde et au thym frais</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 beau lapin coupé en morceaux</p>
+ <p>50 g de beurre</p>
+ <p>4 branches de thym frais (ou à défaut, thym en sachet) </p>
+ <p>4 cuillères à soupe de moutarde forte</p>
+ <p>3 échalotes</p>
+ <p>30 cl de vin blanc sec</p>
+ <p>20 cl d’ eau</p>
+ <p>30 cl de crème fraîche</p>
+ <p>750 g de champignons émincés surgelés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>emiettez le <ingredient quantite=4>thym</ingredient> sur une assiette</operation>, <operation temps=6.86min espace=13>badigeonnez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> avec la <ingredient quantite=4>moutarde</ingredient>,</operation> puis <operation temps=6.86min espace=13>roulez - les dans le <ingredient quantite=4>thym</ingredient> émietté</operation>. dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=13>faites dorer les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> en y</operation> ajoutant les <ingredient quantite=1>échalotes coupées en morceaux</ingredient>. quand le tout est bien doré, versez le <ingredient quantite=1>vin blanc</ingredient>, l’ <ingredient quantite=1>eau</ingredient>, <operation temps=0.25min espace=13>salez</operation> et <operation temps=6.86min espace=13>poivrez à votre convenance</operation>. pendant la cuisson du <ingredient quantite=1>lapin</ingredient>, <operation temps=6.86min espace=13>faites suer les <ingredient quantite=1>champignons</ingredient> dans une <recipient>poêle</recipient> pour que toute l’ <ingredient quantite=1>eau</ingredient> s’ en évapore</operation>. au bout d’ une heure de cuisson du <ingredient quantite=1>lapin</ingredient>, <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=1>champignons</ingredient>,</operation> puis <operation temps=6.86min espace=13>prélevez de la sauce dans un bol, que vous</operation> mélangerez avec 30 cl de <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=13>rajoutez dans la <recipient>cocotte</recipient></operation>, <operation temps=6.86min espace=13>laissez bouillir 1 petite minute, rectifiez l’</operation> assaisonnement si nécessaire. pour ma part, je présente ce <recipient>plat</recipient> avec des pâtes fraîches (spaghettis ou tagliatelles).
+]]>
+ </preparation>
+</recette>

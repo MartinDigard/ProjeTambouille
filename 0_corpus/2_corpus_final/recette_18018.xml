@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18018">
+ <titre>Pain tomaté à l’ ail</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de pain mie</p>
+ <p>huile d’ olive</p>
+ <p>ail en poudre</p>
+ <p>jus de tomates</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>tranches de pain</ingredient> en deux. <operation temps=6.86min espace=7>arrosez d’ huile d’</operation> <ingredient quantite=1>olive</ingredient>, <operation temps=6.86min espace=7>saupoudrez d’ <ingredient quantite=1>ail</ingredient></operation>. arrosez de <ingredient quantite=1>jus de tomate</ingredient>. <operation temps=6.86min espace=7>saupoudrez d’ <ingredient quantite=1>ail</ingredient></operation>, <operation temps=0.25min espace=7>salez</operation> et <operation temps=6.86min espace=7>poivrez selon le goût</operation>. mettre <recipient>four</recipient> sous le grill 220 ° pendant 20 à 25 minutes a manger pendant la préparation des braises du <recipient>barbecue</recipient>. ou comme accompagnement de salades
+]]>
+ </preparation>
+</recette>

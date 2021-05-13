@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40476">
+ <titre>Millas charentais</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 verre (20 cl) de farine de blé</p>
+ <p>1 verre de farine de mais</p>
+ <p>2 verres de sucre</p>
+ <p>3 oeufs</p>
+ <p>2 verres d’ eau bouillante</p>
+ <p>1/2 litre de lait froid</p>
+ <p>1 cuillère à soupe de cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+verser l’ <ingredient quantite=2>eau</ingredient> bouillante sur la <ingredient quantite=1>farine</ingredient> de maîs et <operation temps=20.0min espace=9>laisser refroidir</operation>. mélanger la <ingredient quantite=1>farine de blé</ingredient>, les <ingredient quantite=3>oeufs</ingredient>, le <ingredient quantite=2>sucre</ingredient> et le <ingredient quantite=1>cognac</ingredient>. ajouter la <ingredient quantite=1>farine</ingredient> de maïs et incorporer le <ingredient quantite=1>lait froid</ingredient>. cuire 35 min à 160 ° c dans un <recipient>moule</recipient> de 6 cm de hauteur minimum. <operation temps=6.86min espace=9>laisser refroidir après cuisson</operation>. ce dessert se sert directement dans le <recipient>plat</recipient> de cuisson.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57570">
+ <titre>Saumon en papillote au micro ondes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pavés de saumon</p>
+ <p>2 ou 3 échalotes selon la taille</p>
+ <p>20 cl de crème fraîche épaisse</p>
+ <p>2 rondelles de citron</p>
+ <p>sel et poivre</p>
+ <p>ciboulette fraîche</p>
+ <p>papier de cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour chaque pavé de <ingredient quantite=2>saumon</ingredient>, le disposer sur une feuille de <ingredient quantite=1>papier cuisson</ingredient> puis saler et poivrer selon le goût. ajouter dessus 10 cl de <ingredient quantite=1>crème fraîche</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> finement coupée, de la <ingredient quantite=1>ciboulette fraîche</ingredient> egalement coupée et finir par une <ingredient quantite=2>rondelle de citron</ingredient>. refermer les papillotes et <operation temps=6.0min espace=8>faire cuire au micro ondes pendant 6 minutes</operation>. vous pouvez accompagner les papillotes avec des tagliatelles <ingredient quantite=1>fraîche</ingredient>. ne surtout pas utiliser de <ingredient quantite=1>papier</ingredient> alu pour la <ingredient quantite=1>cuisson</ingredient>, le <recipient>four</recipient> micro ondes ne le supporte pas!
+]]>
+ </preparation>
+</recette>

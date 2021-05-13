@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170399">
+ <titre>Galettes de poisson aux jeunes oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de filets de poisson au choix (cabillaud, colin, bar...) </p>
+ <p>1 l de court-bouillon</p>
+ <p>400 g de pommes de terre</p>
+ <p>1 botte de jeunes oignons</p>
+ <p>2 cuillère à soupe de crème fraîche épaisse</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>6 cuillères à soupe d’ huile de soja</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+coupez les <ingredient quantite=1>filets de poisson</ingredient> en dès et <operation temps=6.86min espace=12>faites - les pocher 10 min, dans le <ingredient quantite=1>court-bouillon</ingredient></operation>. <operation temps=10.0min espace=12>egouttez</operation> et <operation temps=0.5min espace=12>réservez</operation>. epluchez les <ingredient quantite=1>pommes de terre</ingredient>, <operation temps=6.86min espace=12>coupez - les en morceaux</operation>, <operation temps=6.86min espace=12>faites - les</operation> cuire 20 minutes dans de l’ eau bouillante - salée et <operation temps=4.0min espace=12>égouttez - les</operation>. nettoyez les <ingredient quantite=1>jeunes oignons</ingredient> et <operation temps=6.86min espace=12>coupez - les en fines rondelles, blanc et vert compris</operation>. ecrasez les <ingredient quantite=1>pommes de terre</ingredient> dans un <recipient>saladier</recipient> en incorporant la <ingredient quantite=2>crème épaisse</ingredient> et l’ <ingredient quantite=1>oeuf</ingredient>. effilochez le <ingredient quantite=1>poisson</ingredient> et <operation temps=6.86min espace=12>mélangez - le avec la purée</operation>. ajoutez les <ingredient quantite=1>jeunes oignons</ingredient>, la <ingredient quantite=1>sauce soja</ingredient>, un peu de <ingredient quantite=1>sel</ingredient> et le poivre. <operation temps=6.86min espace=12>faites chauffer l’ <ingredient quantite=6>huile</ingredient> dans une <recipient>poêle</recipient></operation>. <operation temps=6.86min espace=12>façonnez la préparation au <ingredient quantite=1>poisson</ingredient> en forme de galette</operation> et <operation temps=3.0min espace=12>faites - les dorer dans l’ <ingredient quantite=6>huile</ingredient> 2 ou 3 min de chaque côté</operation>. <operation temps=6.86min espace=12>epongez sur du papier</operation> absorbant et <operation temps=6.86min espace=12>servez, chaud, tiède ou froid</operation>. <operation temps=6.86min espace=12>servez ce <recipient>plat</recipient> avec une bonne salede verte et des tomates</operation> relevées d’ une bonne vinaigrette au jus de citron vert.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30394">
+ <titre>Feuilletés au saumon fumé</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>4 tranches de saumon fumé</p>
+ <p>4 portions individuelles de fromage ail et fines herbes</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> feuilletée et la couper en 4 parts égales. déposer sur chaque part une <ingredient quantite=4>tranche de saumon fumé</ingredient>, puis le carré de <ingredient quantite=4>fromage</ingredient>. refermer en chausson. enduire de les chaussons de <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. enfourner environ 15 mn, jusqu’ à ce qu’ ils soient bien dorés. <operation temps=6.86min espace=4>servir avec une salade bien assaisonnée</operation>.
+]]>
+ </preparation>
+</recette>

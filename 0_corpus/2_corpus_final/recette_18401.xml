@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18401">
+ <titre>POULET FAJITAS</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la marinade: </p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>1 cuillère à soupe de sauce worcestershire</p>
+ <p>1 cuillère à soupe de vinaigre de cidre ou, de préférence, de vinaigre balsamique</p>
+ <p>1 cuillère à café de pili pili en poudre</p>
+ <p>un gousse d’ ail finement émincée (ou 1/2 cuillère à café d’ ail en poudre) </p>
+ <p>1 cuillère à café de sauce Tabasco Hot</p>
+ <p>750 gr de blanc de poulet (sans peau ni os) </p>
+ <p>1 gros oignon</p>
+ <p>3 poivrons (1 vert, 1 rouge, 1 jaune) </p>
+ <p>1 citron (lime si possible) </p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=18>mélangez les différents ingrédients de la <ingredient quantite=1>marinade</ingredient></operation>. placez - y les <ingredient quantite=1>blancs de poulet</ingredient> et <operation temps=30.0min espace=18>laissez mariner pendant 30 minutes en</operation> retournant les morceaux de temps en temps. <operation temps=6.86min espace=18>découpez - les ensuite en aiguillettes</operation>. pendant ce temps, épluchez l’ <ingredient quantite=1>oignon</ingredient>, hachez - le <ingredient quantite=1>finement</ingredient>, <operation temps=6.86min espace=18>épépinez les</operation> <ingredient quantite=3>poivrons</ingredient> et <operation temps=6.86min espace=18>découpez - les en lanières</operation>. dans une grande <recipient>casserole</recipient>, <operation temps=6.86min espace=18>faites chauffer l’ huile</operation>, ajoutez les aiguillettes de <ingredient quantite=1>blancs de poulet</ingredient> et <operation temps=5.0min espace=18>faites revenir pendant 5 minutes (ils</operation> doivent être bien dorés). ajoutez l’ <ingredient quantite=1>oignon émincé</ingredient>, les lanières de <ingredient quantite=1>poivron</ingredient> et <operation temps=3.0min espace=18>faites sauter encore 3 minutes (le <ingredient quantite=1>poulet</ingredient></operation> doit être cuit mais les <ingredient quantite=1>oignons</ingredient> et <ingredient quantite=3>poivrons</ingredient> doivent rester légérement croquants). <operation temps=6.86min espace=18>retirez la <recipient>casserole</recipient> du feu, rectifiez l’ assaisonnement</operation> et <operation temps=6.86min espace=18>arrosez du jus de lime frais</operation>. <operation temps=6.86min espace=18>servez avec du riz</operation>. vous pouvez <operation temps=6.86min espace=18>laisser le <ingredient quantite=1>poulet</ingredient></operation> mariner plus longtemps. dans ce cas, <operation temps=6.86min espace=18>couvrez le <recipient>saladier</recipient></operation> et <operation temps=6.86min espace=18>mettez - le dans le bas de votre <recipient>réfrigérateur</recipient></operation>. un rosé sec bien frais et une grande bouteille d’ eau
+]]>
+ </preparation>
+</recette>

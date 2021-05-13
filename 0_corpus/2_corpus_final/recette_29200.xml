@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29200">
+ <titre>Tarte aux fenouils et tomates</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros fenouil</p>
+ <p>2 tomates</p>
+ <p>1 rouleau de pâte brisée</p>
+ <p>2 oeufs</p>
+ <p>1 pot de crème liquide</p>
+ <p>sel, poivre</p>
+ <p>gruyère facultatif</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver le <ingredient quantite=1>fenouil</ingredient> et les <ingredient quantite=2>tomates</ingredient>. les couper en morceaux et <operation temps=20.0min espace=9>faire blanchir, le <ingredient quantite=1>fenouil</ingredient> 20 mn environ</operation>. une fois le temps écoulé, l’ égoutter. faite <operation temps=6.86min espace=9>revenir le <ingredient quantite=1>fenouil</ingredient> et les <ingredient quantite=2>tomates</ingredient> avec un peu d’ huile d’ olive, et les</operation> assaisonner. cuire environ 5 mn. préparer dans un bol, les 2 <ingredient quantite=2>oeufs</ingredient> avec la <ingredient quantite=1>crème liquide</ingredient> et le gruyère (<ingredient quantite=1>facultatif</ingredient>) et assaisonner. etaler votre <ingredient quantite=1>pâte</ingredient> dans un <recipient>plat</recipient> beurré, la <operation temps=10.0min espace=9>faire cuire 10 mn à 190 ° c, la</operation> <operation temps=3.0min espace=9>sortir du <recipient>four</recipient></operation>, mettre le <ingredient quantite=1>fenouil</ingredient> et les <ingredient quantite=2>tomates</ingredient> puis la préparation. enfourner jusqu’ à ce que la tarte soit dorée.
+]]>
+ </preparation>
+</recette>

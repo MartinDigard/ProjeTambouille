@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57401">
+ <titre>Raie méditerranéenne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de raie (ail ou queue) </p>
+ <p>1 sachet de court bouillon</p>
+ <p>Pour la garniture: </p>
+ <p>1 boîte de 140 gr de concentré de tomate</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>2 branches de persil</p>
+ <p>un peu de chapelure</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel / poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre a cuire au <ingredient quantite=1>court bouillon</ingredient> la raie pendant 15 min. l’ égoutter puis réserver. eplucher l’ <ingredient quantite=2>ail</ingredient>, l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=2>persil</ingredient> puis passer le tout au robot électrique (mixer). puis <operation temps=6.86min espace=13>ouvrir la boîte de concentré de <ingredient quantite=1>tomate</ingredient> y</operation> ajouter l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>poivre</ingredient>. ensuite mélanger avec le mixer <ingredient quantite=2>ail</ingredient>, <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=2>persil</ingredient>. disposer les morceaux de <ingredient quantite=1>raie</ingredient> (si c’ est de l’ <ingredient quantite=2>ail</ingredient> n’ hésitez pas à l’ éplucher avant) dans un <recipient>plat</recipient> en les collant les uns aux autres. etaler ensuite la préparation dessus puis ajouter un <ingredient quantite=1>peu de chapelure</ingredient>. mettre au <recipient>four</recipient> th7 pendant 20 min puis au grill pendant 10 minutes. et hop, il n’ y a plus qu’ à déguster!!!! je sers ce <recipient>plat</recipient> avec du riz basmati
+]]>
+ </preparation>
+</recette>

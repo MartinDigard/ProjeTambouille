@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26800">
+ <titre>Rôti de porc à la crème à la moutarde</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 rôti de porc d’ environ 800 g</p>
+ <p>2 cuillerées à soupe de moutarde</p>
+ <p>1 oignon</p>
+ <p>20 cl de crème</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>50 g de beurre</p>
+ <p>1 cuillère à soupe de fines herbes</p>
+ <p>sel et du poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 °. <operation temps=0.25min espace=14>salez</operation> et <operation temps=6.86min espace=14>poivrez le rôti</operation>, <operation temps=6.86min espace=14>faites - le</operation> <operation temps=6.86min espace=14>revenir dans du beurre à la <recipient>cocotte</recipient></operation>. emincez l’ <ingredient quantite=1>oignon</ingredient> et <operation temps=6.86min espace=14>tapissez le fond d’ un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>. y <operation temps=6.86min espace=14>déposez le rôti de</operation> <ingredient quantite=1>porc</ingredient>, arrosez - le de son jus de cuisson et de <ingredient quantite=1>fines herbes</ingredient>. <operation temps=45.0min espace=14>enfournez le rôti pour 45 min</operation>. au bout de ce temps, <operation temps=6.86min espace=14>sortez le rôti</operation>, <operation temps=6.86min espace=14>vérifiez la cuisson</operation> et <operation temps=6.86min espace=14>réservez la viande</operation>. dégraissez le jus de cuisson, déglacez le <recipient>plat</recipient> avec le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=14>passez la sauce au <recipient>chinois</recipient></operation>. <operation temps=6.86min espace=14>délayez la <ingredient quantite=2>moutarde</ingredient> dans le jus</operation> obtenu, remettre sur le feu et détendre avec de la <ingredient quantite=1>crème</ingredient>. accompagnez de pommes de terre vapeur et de choux de bruxelles.
+]]>
+ </preparation>
+</recette>

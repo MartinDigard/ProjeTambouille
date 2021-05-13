@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82919">
+ <titre>Salade d’ avocat, échalotes et tomates marinées</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 avocats mûrs</p>
+ <p>4 tomates</p>
+ <p>2 échalotes</p>
+ <p>3 à 4 cuillères à soupe de vinaigre de vin </p>
+ <p>estragon et basilic</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la chair des <ingredient quantite=2>avocats</ingredient> en petits cubes. epépiner les <ingredient quantite=4>tomates</ingredient> et les couper en petits cubes. eplucher et hacher finement les <ingredient quantite=2>échalotes</ingredient>. mélanger le tout et ajouter <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et les herbes aromatiques, aroser de 3 à <ingredient quantite=3>4 cuillères à soupe de vinaigre</ingredient>. mettre au <recipient>réfrigérateur</recipient> et <operation temps=6.86min espace=7>laisser mariner au moins une heure avant de</operation> <operation temps=2.0min espace=7>servir</operation>. recette d’ été rafraîchissante. ajuster la dose de <ingredient quantite=3>vinaigre</ingredient> selon votre goût.
+]]>
+ </preparation>
+</recette>

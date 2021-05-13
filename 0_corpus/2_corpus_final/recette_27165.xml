@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27165">
+ <titre>Bricks aux bananes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 bananes mûres</p>
+ <p>8 feuilles de brick</p>
+ <p>80 g de sucre (selon la maturité des bananes) </p>
+ <p>60 g de fruits du jacquier au sirop</p>
+ <p>brisures de châtaignes</p>
+ <p>huile de friture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>bananes</ingredient> en deux dans la longueur. les <operation temps=6.86min espace=8>assouplir en les</operation> écrasant légèrement avec le dos d’ une fourchette. hacher finement les <ingredient quantite=1>fruits du jacquier</ingredient>. sur chaque <ingredient quantite=8>feuille de brick</ingredient>, déposer une demi-banane, un peu de <ingredient quantite=1>brisures de châtaignes</ingredient> et de <ingredient quantite=1>sucre</ingredient>. enrouler les <ingredient quantite=8>feuilles</ingredient> sur elles - mêmes pour former 8 rouleaux. a l’ aide d’ un pinceau, souder les bords avec de l’ eau. <operation temps=6.86min espace=8>faire dorer les rouleaux de <ingredient quantite=1>banane</ingredient> dans un <recipient>wok</recipient> ou <recipient>sauteuse</recipient></operation> empli (e) d’ <ingredient quantite=1>huile de friture</ingredient>. utiliser une écumoire pour les retirer puis disposer sur du papier absorbant. servir chaud.
+]]>
+ </preparation>
+</recette>

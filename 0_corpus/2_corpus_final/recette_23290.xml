@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23290">
+ <titre>Salade de lentilles et fruits de mer</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de lentilles vertes</p>
+ <p>100 g de crevettes décortiquées</p>
+ <p>375 g de moules</p>
+ <p>10 cl d’ huile</p>
+ <p>10 cl de vinaigre</p>
+ <p>10 g de moutarde</p>
+ <p>1 oignon</p>
+ <p>1 carotte</p>
+ <p>1 bouquet garni</p>
+ <p>sel fin, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>couvrez les lentilles d’ eau</operation> froide, <operation temps=6.86min espace=10>ajoutez l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en deux, la <ingredient quantite=1>carotte</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=10>amenez ébullition</operation> et <operation temps=6.86min espace=10>laissez cuire le temps</operation> indiqué sur le paquet, entre 20 et 40 minutes. <operation temps=10.0min espace=10>egouttez</operation> et <operation temps=20.0min espace=10>laissez refroidir</operation>. <operation temps=6.86min espace=10>déposez les <ingredient quantite=1>moules</ingredient> dans une sautueuse sur feu très vif</operation>, <operation temps=0.25min espace=10>couvrez</operation> et <operation temps=6.86min espace=10>laissez - les s’</operation> <operation temps=6.86min espace=10>ouvrir</operation>. <operation temps=10.0min espace=10>egouttez</operation> - les et décoquillez - les. emulsionnez l’ huile avec le <ingredient quantite=1>vinaigre</ingredient>, la <ingredient quantite=1>moutarde</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. <operation temps=6.86min espace=10>arrosez les lentilles de vinaigrette</operation> puis <operation temps=6.86min espace=10>ajoutez les fruits de</operation> mer. <operation temps=6.86min espace=10>servez frais</operation>.
+]]>
+ </preparation>
+</recette>

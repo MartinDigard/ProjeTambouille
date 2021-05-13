@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49457">
+ <titre>Tarte au pesto, chèvre et bacon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>10 petits chèvre frais</p>
+ <p>10 tranches de bacon</p>
+ <p>1 petit pot de pesto</p>
+ <p>2 grosses cuilléres à soupe de crème fraîche</p>
+ <p>1 oeuf</p>
+ <p>gruyère râpé (ou lamelles de mozzarella) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=9>foncez un <recipient><recipient>moule</recipient> à tarte</recipient> avec la <ingredient quantite=1>pâte</ingredient> brisée, et piquez - la ensuite avec une fourchette</operation>. etalez la moitié du <ingredient quantite=1>pot de pesto</ingredient> par dessus. <operation temps=6.86min espace=9>mélangez ensemble la <ingredient quantite=2>crème</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> et le reste de</operation> <ingredient quantite=1>pesto</ingredient>, <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>chèvre</ingredient></operation> émiétté, et le <ingredient quantite=1>bacon</ingredient> coupé en lamelles. ne <operation temps=6.86min espace=9>salez surtout pas</operation>! <operation temps=6.86min espace=9>versez la préparation sur le fond de tarte</operation>, <operation temps=30.0min espace=9>saupoudrez de <ingredient quantite=1>râpé</ingredient>, ou de lamelles de mozzarella, et enfournez pendant 30 min</operation>. <operation temps=6.86min espace=9>laissez refroidir la tarte, avant de la servir</operation> accompagnée de roquette... vous pouvez également remplacer le <ingredient quantite=1>bacon</ingredient> par des <ingredient quantite=1>petits</ingredient> dés de jambon c’ est aussi bon.
+]]>
+ </preparation>
+</recette>

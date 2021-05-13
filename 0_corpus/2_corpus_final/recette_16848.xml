@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16848">
+ <titre>Curry de poulet au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet en morceaux (ou des escalopes) </p>
+ <p>2 citrons</p>
+ <p>2 oignons</p>
+ <p>curry en poudre (quantité selon la force du curry et vos goûts) </p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 yaourt nature</p>
+ <p>champignons (quantité selon vos goûts) </p>
+ <p>coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient> et <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>morceaux</ingredient> dans une <recipient>poêle</recipient> avec un peu d’ huile, jusqu’ à ce qu’ ils soient bien dorés</operation>. découper les <ingredient quantite=2>oignons</ingredient> et les <operation temps=6.86min espace=11>faire revenir dans une <recipient>poêle</recipient> puis les</operation> mettre de côté. <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>champignons</ingredient> pour les</operation> vider de leur eau et puis les retirer. dans un <recipient>faitout</recipient>, mélanger les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> dorés, <ingredient quantite=1>champignons</ingredient> et <ingredient quantite=2>oignons</ingredient>. rajouter le jus de 2 <ingredient quantite=2>citrons</ingredient>, du <ingredient quantite=1>curry en poudre</ingredient>, la <ingredient quantite=2>crème fraîche</ingredient> et le <ingredient quantite=1>yaourt nature</ingredient>, puis <operation temps=6.86min espace=11>faire mijoter le tout à feu doux pendant environ 1 heure</operation>. en fin de cuisson, rajouter la <ingredient quantite=1>coriandre</ingredient>. <operation temps=6.86min espace=11>servir avec un riz basmati</operation>. je n’ ai jamais réellement calculé les doses de <ingredient quantite=1>citron</ingredient> et <ingredient quantite=1>curry</ingredient>: je goûte et je rajoute en fonction... vin rouge fruité (type australie, mexique ou afrique du sud)
+]]>
+ </preparation>
+</recette>

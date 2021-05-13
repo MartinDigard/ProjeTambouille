@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219500">
+ <titre>Tarte à la tomate et aux lardons</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>200 g de lardons</p>
+ <p>150 g de concentré de tomate</p>
+ <p>1 grosse tomate ou 2 petites</p>
+ <p>2 œufs</p>
+ <p>15 cl de crème</p>
+ <p>un peu de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>lardons</ingredient></operation>. couper les <ingredient quantite=1>tomates</ingredient> en rondelles en ne gardant que la partie charnue (retirer les pépins) placer dans un <recipient>plat</recipient> à tarte la <ingredient quantite=1>pâte</ingredient> feuilletée, la <operation temps=6.86min espace=9>recouvrir avec le concentré de <ingredient quantite=1>tomate</ingredient> puis les <ingredient quantite=1>lardons</ingredient> et les rondelles de <ingredient quantite=1>tomate</ingredient></operation>. battre les deux <ingredient quantite=2>œufs</ingredient> avec la <ingredient quantite=1>crème</ingredient>. ajouter ce mélange sur la tarte. couvrir de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=9>faire cuire à 180 °</operation> c jusqu’ à ce que le gruyère ait une jolie couleur dorée. servir chaud ou froid selon la saison. cette tarte peut être mangée à la sortie du <recipient>four</recipient> avec une salade, réalisée en mini-tartelettes pour l’ apéritif ou encore froide lors d’ un pique-nique! j’ en <operation temps=6.86min espace=9>fais à chaque apéritif dinatoire et c’ est toujours un succès</operation>!
+]]>
+ </preparation>
+</recette>

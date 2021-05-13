@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47896">
+ <titre>Tarte au thon et aux épinards</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de thon en boite</p>
+ <p>1 pâte feuilletée</p>
+ <p>1 oignon</p>
+ <p>10 cl de crème liquide</p>
+ <p>100 g d’ épinards cuits (hachés ou en branche) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emietter le <ingredient quantite=1>thon</ingredient> dans un <recipient>saladier</recipient>. y ajouter la <ingredient quantite=1>crème liquide</ingredient>. hacher l’ <ingredient quantite=1>oignon</ingredient> et le rajouter au mélange. saler et poivrer. etaler la pate <ingredient quantite=1>feuilletée</ingredient> dans un <recipient>moule</recipient> à tartes et la percer de trous avec une fourchette. etaler les <ingredient quantite=1>épinards</ingredient> sur la <ingredient quantite=1>pâte</ingredient>, après les avoir salés et poivrés. verser le mélange <ingredient quantite=1>thon</ingredient> - <ingredient quantite=1>crème</ingredient> - <ingredient quantite=1>oignon</ingredient> sur la couche d’ <ingredient quantite=1>épinards</ingredient>. <operation temps=30.0min espace=9>faire cuire au <recipient>four</recipient> pendant 30 min à 200 ° c (thermostat 6 - 7</operation>).
+]]>
+ </preparation>
+</recette>

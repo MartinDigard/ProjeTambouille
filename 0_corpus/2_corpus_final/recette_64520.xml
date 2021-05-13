@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64520">
+ <titre>Pâtes au brocolis facon carbonara</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de macaroni (ou une autre sorte) </p>
+ <p>1 barquette de lardons fumés</p>
+ <p>1 bouquet de brocolis (500 g minimum) </p>
+ <p>1 gros oignon (ou 2 si vous aimez les oignons) </p>
+ <p>2 pincée de noix de muscade</p>
+ <p>1 pot de crème faîche (20 cl) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et <operation temps=6.86min espace=8>faire bouillir le <ingredient quantite=1>brocolis</ingredient> dans une <recipient>casserole</recipient> d’ eau avec un peu de sel (pas trop car les <ingredient quantite=1>lardons</ingredient> salent beaucoup</operation>). <operation temps=6.86min espace=8>faire revenir les <ingredient quantite=1>lardons</ingredient> à feu moyen sans ajout de matière grasse</operation>. lorsqu’ ils ont dégorgé leur graisse, ajouter l’ <ingredient quantite=1>oignon</ingredient> haché et <operation temps=6.86min espace=8>laisser confire le tout à feu moyen</operation>. une fois le <ingredient quantite=1>brocolis</ingredient> cuit, l’ égoutter, le mettre avec les <ingredient quantite=1>lardons</ingredient> et l’ écraser grossièrement. ajouter le <ingredient quantite=1>pot de crème</ingredient> fraîche, <operation temps=5.0min espace=8>laisser mijoter à feu doux 5 min (il ne</operation> faut pas que ca bout trop!!) et ajouter la <ingredient quantite=2>noix de muscade</ingredient>. <operation temps=6.86min espace=8>faire cuire les pâtes comme</operation> indiqué sur le paquet et égoutter. <operation temps=6.86min espace=8>servir la sauce</operation> mélangée aux pâtes ou à part, selon votre goût... s’ il en reste le soir, <operation temps=6.86min espace=8>versez le tout dans un <recipient>plat</recipient> à gratin</operation> et saupoudrer de fromage râpé avant d’ enfourner!!! c’ est encore meilleur!!!
+]]>
+ </preparation>
+</recette>

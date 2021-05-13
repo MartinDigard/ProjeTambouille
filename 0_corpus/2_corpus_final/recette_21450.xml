@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21450">
+ <titre>Boeuf Stroganov</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de filet de boeuf</p>
+ <p>4 oignons</p>
+ <p>3 échalotes</p>
+ <p>1 grosse carotte</p>
+ <p>1 feuille de laurier</p>
+ <p>1 brin de thym</p>
+ <p>1 bouteille de vin blanc</p>
+ <p>200 g de champignons de Paris</p>
+ <p>80 g de beurre</p>
+ <p>1 verre à liqueur de Cognac</p>
+ <p>1, 5 dl de crème fraîche épaisse</p>
+ <p>2 cuillères à soupe de persil haché</p>
+ <p>se, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) couper le <ingredient quantite=1>filet de boeuf</ingredient> en lamelles de 2, 5 cm de longueur. saler et poivrer. 2) eplucher et <ingredient quantite=1>hacher</ingredient> les <ingredient quantite=4>oignons</ingredient> et les <ingredient quantite=3>échalotes</ingredient>, peler et couper la <ingredient quantite=1>carotte</ingredient>. mettre ces légumes dans une <recipient>terrine</recipient>. ajouter les lamelles de <ingredient quantite=1>filet</ingredient>, le <ingredient quantite=1>laurier</ingredient> et le <ingredient quantite=1>thym</ingredient> émiettés et verser le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=18>laisser mariner au moins 12h au frais, à couvert, en</operation> remuant la viande de temps en temps. eplucher et couper en lamelles les <ingredient quantite=1>champignons</ingredient>. 3) egoutter et éponger la viande. <operation temps=6.86min espace=18>faire réduire la marinade de moitié et la</operation> passer. 4) <operation temps=6.86min espace=18>faire dorer les <ingredient quantite=1>champignons</ingredient> dans 30 g de beurre, puis les</operation> égoutter et les garder au chaud. 5) jeter le gras, essuyer la <recipient>sauteuse</recipient>, y chauffer les 50 g de beurre restants, ajouter la viande et la <operation temps=5.0min espace=18>faire sauter 5 mn à feu vif en la retournant sans arrêt pour qu’ elle ne</operation> brûle pas. chauffer le <ingredient quantite=1>cognac</ingredient>, le verser dans la <recipient>sauteuse</recipient> et flamber. mélanger puis, avec un écumoir <operation temps=6.86min espace=18>sortir la viande et la</operation> disposer dans le <recipient>plat</recipient> de service. garder au chaud. 6) mettre les <ingredient quantite=1>champignons</ingredient> dans la <recipient>sauteuse</recipient>, ajouter la marinade et la <ingredient quantite=1>crème fraîche</ingredient>. remuer sur feu vif pour <operation temps=6.86min espace=18>faire épaissir la sauce</operation>, rectifier l’ assaisonnement et napper la viande. 7) parsemer de <ingredient quantite=2>persil</ingredient> et servir très chaud.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19776">
+ <titre>TARTE CYRANO</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>150 g beurre</p>
+ <p>50 g sucre poudre</p>
+ <p>50 g farine</p>
+ <p>Pour l’ appareil: </p>
+ <p>4 blancs d’ oeufs</p>
+ <p>50 g sucre en poudre</p>
+ <p>une boîte d’ oreillons de pêches au sirop</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire une <ingredient quantite=1>pâte</ingredient></operation> brisée avec le beurre, le sucre et la farine. étaler dans un <recipient><recipient>moule</recipient> à tarte</recipient>. disposer les <ingredient quantite=1>oreillons de pêches</ingredient> bien égouttés et coupés en lamelles. <operation temps=25.0min espace=12>faire cuire 25 mn à <recipient>four</recipient> chaud (150 ° c</operation>). monter les blancs en neige ferme. ajouter les 50 g de sucre. dresser sur la tarte sortie du <recipient>four</recipient>. repasser au <recipient>four</recipient> 5 à 10 mn pour un résultat plus " exotique ", on peut utiliser des quartiers de mangues en <ingredient quantite=1>boîtes</ingredient> et ajouter de la <ingredient quantite=1>poudre</ingredient> de noix de coco à la <ingredient quantite=1>pâte</ingredient>. ou encore, utiliser des quartiers de poires fraîches et ajouter de la <ingredient quantite=1>poudre</ingredient> d’ amandes à la <ingredient quantite=1>pâte</ingredient>.
+]]>
+ </preparation>
+</recette>

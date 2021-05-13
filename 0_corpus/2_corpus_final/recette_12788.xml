@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12788">
+ <titre>Poulet aux bananes vertes (Cameroun) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>1 gros oignon</p>
+ <p>1 bouquet garni</p>
+ <p>30 g de beurre</p>
+ <p>1 verre de bouillon (cube) </p>
+ <p>1 verre de vin blanc</p>
+ <p>12 bananes vertes</p>
+ <p>2 cuillerées d’ huile</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>1 citron</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient> cru. <operation temps=20.0min espace=12>faire cuire les morceaux pendant 20 minutes à</operation> <operation temps=6.86min espace=12>partir de l’ ébullition dans un litre et demi d’ eau avec l’ <ingredient quantite=1>oignon</ingredient></operation> coupé en rondelles et le <ingredient quantite=1>bouquet garni</ingredient>. egoutter et essuyer les morceaux. <operation temps=6.86min espace=12>faire fondre le beurre dans une <recipient>cocotte</recipient> et y</operation> <operation temps=6.86min espace=12>faire dorer les morceaux de <ingredient quantite=1>poulet</ingredient></operation>. recouvrir avec le <ingredient quantite=1>vin blanc</ingredient> et le <ingredient quantite=1>bouillon</ingredient>. saler, poivrer, <operation temps=6.86min espace=12>faire bouillir pendant deux minutes</operation> et <operation temps=15.0min espace=12>laisser mijoter pendant 15 minutes</operation>. eplucher les <ingredient quantite=1>bananes</ingredient>. les fendre en 4 ou en 8 selon leur grosseur. les blanchir à l’ eau bouillante. les joindre au <ingredient quantite=1>poulet</ingredient> et <operation temps=30.0min espace=12>laisser cuire pendant 30 minutes</operation>. retirer le <ingredient quantite=1>poulet</ingredient> et les <ingredient quantite=1>bananes</ingredient>. <operation temps=6.86min espace=12>faire réduire la sauce du tiers de son volume</operation>. la lier avec les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient>. ajouter le jus de <ingredient quantite=1>citron</ingredient>. <operation temps=6.86min espace=12>servir les morceaux de <ingredient quantite=1>poulet</ingredient></operation> recouverts avec la sauce et entourés de <ingredient quantite=1>bananes</ingredient>. les <ingredient quantite=1>bananes</ingredient> doivent être cueillies quelques jours avant leur maturité. on peut les remplacer par du manioc, des macabos, des patates.
+]]>
+ </preparation>
+</recette>

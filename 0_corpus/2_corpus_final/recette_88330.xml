@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88330">
+ <titre>Riz à l’ amande danois</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 cl d’ eau</p>
+ <p>60 g de riz rond</p>
+ <p>40 cl de lait entier</p>
+ <p>1/2 bâton de vanille ou 2 sachets de sucre vanillé</p>
+ <p>2 cuillères à soupe de sucre</p>
+ <p>10 amandes épluchées et coupées en petits morceaux</p>
+ <p>1 amande entière</p>
+ <p>30 cl de crème liquide</p>
+ <p>1 coulis de cerise</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire bouillir l’ <ingredient quantite=1>eau</ingredient> dans une <recipient>casserole</recipient> à fond épais</operation>. verser le <ingredient quantite=1>riz</ingredient> et remuer pendant 2 minutes (l’ <ingredient quantite=1>eau</ingredient> va s’ évaporer). ajouter le lait et le <ingredient quantite=1>bâton de vanille</ingredient>. porter à ébullition en remuant, puis <operation temps=35.0min espace=10>laisser cuire à feu doux, à couvert, pendant 35 minutes environ en</operation> remuant de temps en temps. <operation temps=20.0min espace=10>laisser refroidir</operation>. mélanger dans le <ingredient quantite=1>riz</ingredient> cuit, le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=1>amandes</ingredient>. monter la <ingredient quantite=1>crème</ingredient> à fouetter et la mélanger avec le <ingredient quantite=1>riz</ingredient>. mettre au frais et <operation temps=6.86min espace=10>servir dans des coupelles avec un <ingredient quantite=1>coulis</ingredient> à la <ingredient quantite=1>cerise</ingredient> chaud</operation> versé par dessus.
+]]>
+ </preparation>
+</recette>

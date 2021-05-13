@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62672">
+ <titre>Fondant poire cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de poires Williams ou une boite de poires au sirop</p>
+ <p>3 oeufs</p>
+ <p>100 g de sucre</p>
+ <p>75 g de crème fraîche</p>
+ <p>80 g de farine (ou moitié maïzena) </p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>allumez <recipient>four</recipient> à 125 ° c (thermostat 4</operation>). <operation temps=6.86min espace=8>cassez les</operation> <ingredient quantite=3>oeufs</ingredient>, <operation temps=6.86min espace=8>ajoutez le</operation> <ingredient quantite=1>sucre</ingredient> et <operation temps=5.0min espace=8>fouettez</operation> jusqu’ à ce mélange blanchisse. <operation temps=6.86min espace=8>ajoutez la <ingredient quantite=1>crème</ingredient> et la farine</operation>, <operation temps=5.0min espace=8>mélangez</operation>. <operation temps=6.86min espace=8>pelez les <ingredient quantite=1>poires</ingredient>, les</operation> couper en 4. <operation temps=6.86min espace=8>coupez chaque quartier en fines lamelles</operation>. <operation temps=6.86min espace=8>incorporez dans la préparation</operation>, <operation temps=5.0min espace=8>mélangez</operation> délicatement. <operation temps=6.86min espace=8>versez dans le <recipient>moule</recipient>, préalablement beurré et fariné, enfournez</operation>, <operation temps=5.0min espace=8>démoulez 5 minutes après la sortie</operation>. parsemez de <ingredient quantite=1>cannelle</ingredient> et <operation temps=6.86min espace=8>dégustez! moelleux</operation>
+]]>
+ </preparation>
+</recette>

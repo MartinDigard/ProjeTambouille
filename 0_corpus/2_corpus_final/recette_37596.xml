@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37596">
+ <titre>Pâté de campagne de Mémé Marie</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de gorge de porc</p>
+ <p>500 gr de foie (ou de sanglier, de lapin, selon goûts) </p>
+ <p>1 oeuf</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>10 g de sel par livre et 1 g de poivre par livre</p>
+ <p>herbes et épices au choix, même proportion</p>
+ <p>3 échalotes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hâcher les viandes, hâcher les <ingredient quantite=3>échalotes</ingredient>, mélanger le tout. ajouter les autres ingrédients. bien mélanger. mettre en <recipient>terrine</recipient>, cuire au <recipient>bain - marie</recipient> à 150 ° c pendant 3h. <operation temps=6.86min espace=9>savourez! recette de mon arrière grande tante (de la campagne!), un régal authentique</operation>. rouge, un peu âpre, selon vos goûts
+]]>
+ </preparation>
+</recette>

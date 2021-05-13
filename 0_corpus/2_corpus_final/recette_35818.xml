@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35818">
+ <titre>Mousse au thon</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 feuilles de gélatine</p>
+ <p>300 g de thon au naturel égoutté</p>
+ <p>1 petit oignon haché fin</p>
+ <p>1 jus de citron</p>
+ <p>1/2 pot à yaourt de mayonnaise</p>
+ <p>1 pot de crème (180 g environ) </p>
+ <p>1 cuillère à café d’ aneth</p>
+ <p>1 pointe de couteau de paprika</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire ramollir la <ingredient quantite=4>gélatine</ingredient> dans l’ eau froide</operation>. <ingredient quantite=1>hacher</ingredient> l’ <ingredient quantite=1>oignon</ingredient>. placer le <ingredient quantite=1>thon</ingredient> dans un récpient, y ajouter la <ingredient quantite=1>mayonnaise</ingredient>, la crème, l’ <ingredient quantite=1>aneth</ingredient> et le <ingredient quantite=1>paprika</ingredient>. <operation temps=6.86min espace=11>faire fondre la <ingredient quantite=4>gélatine</ingredient> au <recipient>bain - marie</recipient> (ou au micro-ondes), puis y</operation> ajouter le <ingredient quantite=1>jus de citron</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>. incorporer le mélange obtenu au <ingredient quantite=1>thon</ingredient>. bien mélanger et passer le tout au mixer afin d’ <operation temps=6.86min espace=11>obtenir un mélange très <ingredient quantite=1>fin</ingredient></operation>. verser dans une <recipient>terrine</recipient>. mettre au <recipient>réfrigérateur</recipient> et <operation temps=6.86min espace=11>laisser prendre pendant 24h</operation>. peut également se <operation temps=6.86min espace=11>faire avec de la chair de crabe ou du saumon fumé (avec le <ingredient quantite=1>thon</ingredient>, c’ est la meilleure version</operation>).
+]]>
+ </preparation>
+</recette>

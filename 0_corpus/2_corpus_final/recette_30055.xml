@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30055">
+ <titre>Tourte aux pommes de terre et au pesto</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 rouleaux de pâte feuilletée</p>
+ <p>800 g de pommes de terre</p>
+ <p>1 oeuf entier + 1 blanc</p>
+ <p>1 gros oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe de pesto</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>50 g de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez et coupez les <ingredient quantite=1>pommes de terre</ingredient> en fines tranches. pelez et émincez l’ <ingredient quantite=1>oignon</ingredient>, hachez l’ <ingredient quantite=2>ail</ingredient>. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) avec la plaque de cuisson. <operation temps=6.86min espace=16>faites bouillir une <recipient>casserole</recipient> d’ eau</operation> salée. plongez - y les <ingredient quantite=1>pommes de terre</ingredient> 5 min afin qu’ elles devienent juste tendres. <operation temps=6.86min espace=16>egouttez bien</operation>. <operation temps=6.86min espace=16>faites dorer l’ <ingredient quantite=1>oignon</ingredient> dans le beurre</operation> chaud dans une <recipient>sauteuse</recipient>. <operation temps=2.0min espace=16>ajoutez l’ <ingredient quantite=2>ail</ingredient> et le <ingredient quantite=2>pesto</ingredient> et remuez 2 min</operation>. hors du feu, mélangez avec les <ingredient quantite=1>pommes de terre</ingredient>. garnissez un <recipient><recipient>moule</recipient> à manqué</recipient> beurré de <ingredient quantite=2>pâte</ingredient> feuilletée. répartissez les <ingredient quantite=1>pommes de terre</ingredient> dedans. <operation temps=6.86min espace=16>fouettez 1 <ingredient quantite=1>oeuf</ingredient> avec la</operation> <ingredient quantite=1>crème</ingredient>, <operation temps=6.86min espace=16>versez sur le tout</operation> et <operation temps=6.86min espace=16>couvrez avec le reste de <ingredient quantite=2>pâte</ingredient> étalé</operation>. <operation temps=6.86min espace=16>soudez bien les bords</operation> et <operation temps=6.86min espace=16>piquez la <ingredient quantite=2>pâte</ingredient> à la fourchette</operation>. <operation temps=6.86min espace=16>badigeonnez la toute de <ingredient quantite=1>blanc</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> légèrement battu</operation>. <operation temps=45.0min espace=16>faites cuire 45 min à <recipient>four</recipient> chaud, thermostat 5 ou 6</operation> suivant le <recipient>four</recipient>. <operation temps=5.0min espace=16>laissez reposer 5 min avant d’</operation> <operation temps=6.86min espace=16>ouvrir le <recipient>four</recipient> et de</operation> <operation temps=2.0min espace=16>servir</operation>.
+]]>
+ </preparation>
+</recette>

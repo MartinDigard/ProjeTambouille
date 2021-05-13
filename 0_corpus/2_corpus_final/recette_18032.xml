@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18032">
+ <titre>Terrine de la Mer</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour une Terrine: </p>
+ <p>1 boîte de thon au naturel</p>
+ <p>10 bâtonnets de Surimi ou (environ) 200gr Surimi râpé </p>
+ <p>6 oeufs durs</p>
+ <p>1 pot de yaourt nature mélangé à une cuillère à soupe de moutarde (remplace avantageusement la mayo) </p>
+ <p>1/4 litre gelée (type Maggi au madère) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>réunir tous les ingrédients et mixer (l’</operation> écrasage à la fourchette est aussi pratique et limite la vaisselle!) ajouter le 1/4 litre de la <ingredient quantite=1>gelée</ingredient> encore liquide. verser dans votre <recipient>plat</recipient> à <ingredient quantite=1><recipient>terrine</recipient></ingredient> et mettre une nuit au frigo. et c’ est fait! bon appétit j’ utilise un <recipient>moule</recipient> souple qui permet un démoulage parfait pour une jolie présentation. vs pouvez remplacer le <ingredient quantite=1>thon naturel</ingredient> classique par une <ingredient quantite=1>boîte de thon</ingredient> à la tomate ou au citron pour varier les saveurs
+]]>
+ </preparation>
+</recette>

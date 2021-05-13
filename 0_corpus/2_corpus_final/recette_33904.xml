@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33904">
+ <titre>Tartines façon flammekueche</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 baguette</p>
+ <p>3 oignons</p>
+ <p>6 cuillères à café de crème fraîche épaisse</p>
+ <p>200 g de lardons</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez la <ingredient quantite=1>baguette</ingredient> en 6 tartines égales</operation>. <operation temps=6.86min espace=8>coupez les <ingredient quantite=3>oignons</ingredient> en petits morceaux</operation>. sur chaque tartine de pain, étalez une <ingredient quantite=6>cuillère à café de crème fraîche</ingredient>, des <ingredient quantite=3>oignons</ingredient>, des <ingredient quantite=1>lardons</ingredient>, <operation temps=0.5min espace=8>poivrez</operation>. <operation temps=6.86min espace=8>mettez au <recipient>four</recipient> préchauffé à 210 ° c, pendant 15 mn, c’ est prêt! a</operation> déguster aussitôt! ce <recipient>plat</recipient> très facile à <operation temps=6.86min espace=8>faire peut se</operation> déguster en entrée, ou en <recipient>plat</recipient> principal accompagné d’ une salade verte. idéal pour <operation temps=6.86min espace=8>finir une <ingredient quantite=1>baguette</ingredient> lorsque l’ on n’ a rien</operation> préparé pour le repas du soir! un vin blanc d’ alsace.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42230">
+ <titre>Gâteau au chocolat sans beurre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 œufs</p>
+ <p>100 g de sucre</p>
+ <p>60 g de farine</p>
+ <p>60 g de poudre d’ amandes</p>
+ <p>1/2 paquet de levure chimique</p>
+ <p>1 yaourt</p>
+ <p>1 tablette de chocolat à dessert</p>
+ <p>2 cuillères à soupe de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=3>œufs</ingredient> au <ingredient quantite=1>sucre</ingredient>, énergiquement, jusqu’ à ce que le mélange blanchisse. ajouter la farine, la <ingredient quantite=1>levure</ingredient>, et la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>. bien mélanger. ajouter 2 <ingredient quantite=1>cuillères de cacao en poudre</ingredient>, ceci pour relever le goût en <ingredient quantite=1>chocolat</ingredient>, mais vous pouvez en mettre moins. ajouter le <ingredient quantite=1>yaourt</ingredient>. ajouter la <ingredient quantite=1>tablette de chocolat</ingredient> fondu (<recipient>bain - marie</recipient> ou <recipient>casserole</recipient> + un peu d’ eau ou micro-ondes). la pâte doit être assez épaisse et compacte. je place la pâte dans un <recipient><recipient>moule</recipient> à manqué</recipient>, tapissé de papier sulfurisé, et j’ enfourne dans un <recipient>four</recipient> préchauffé à 210 ° c (thermostat 6 - 7) à chaleur tournante. le temps de cuisson dépend de votre <recipient>four</recipient>, le gâteau est cuit quand la pointe du couteau ressort presque sèche. j’ ai fait ce gâteau, un jour que je <operation temps=6.86min espace=13>voulais un gâteau tres <ingredient quantite=1>chocolat</ingredient>, et rapide à</operation> préparer. il m’ a enchanté par sa texture mousseuse et aérienne!ce gâteau est meilleur, bien refroidi, voire même le lendemain.
+]]>
+ </preparation>
+</recette>

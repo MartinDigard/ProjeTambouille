@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68285">
+ <titre>Croq’ boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 steaks hachés de boeuf</p>
+ <p>4 tranches de pain de mie</p>
+ <p>1 tomate</p>
+ <p>1 oignon</p>
+ <p>4 tranches de fromage préemballé</p>
+ <p>2 cuillères à soupe de ketchup</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). lavez et <operation temps=6.86min espace=10>essuyez la <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=6.86min espace=10>pelez l’</operation> <ingredient quantite=1>oignon</ingredient>, <operation temps=6.86min espace=10>coupez - le en rondelles et détachez les anneaux</operation>. <operation temps=6.86min espace=10>faites saisir les <ingredient quantite=4>steaks</ingredient> sur leur deux faces, rapidement et à feu vif</operation>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation> puis <operation temps=6.86min espace=10>réservez - les</operation>. tartinez les <ingredient quantite=4>tranches de pain de mie</ingredient> de beurre, puis de <ingredient quantite=2>ketchup</ingredient>. <operation temps=6.86min espace=10>mettez les <ingredient quantite=4>steaks</ingredient> sur le</operation> <ingredient quantite=4>pain</ingredient>, <operation temps=6.86min espace=10>posez par -</operation> dessus les <ingredient quantite=4>tranches de fromage</ingredient> et <operation temps=15.0min espace=10>mettez au <recipient>four</recipient> pendant environ 15 min (jusqu’ à ce que le <ingredient quantite=4>fromage</ingredient> soit</operation> fondant). au moment de <operation temps=2.0min espace=10>servir</operation>, <operation temps=6.86min espace=10>décorez avec les rondelles de <ingredient quantite=1>tomate</ingredient> et les anneaux d’</operation> <ingredient quantite=1>oignon</ingredient>, saupoudrez le tout de <ingredient quantite=1>persil haché</ingredient>.
+]]>
+ </preparation>
+</recette>

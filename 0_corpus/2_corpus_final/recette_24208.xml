@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24208">
+ <titre>Gratin de fruits d’ été au sabayon</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de groseilles</p>
+ <p>150 g de framboises</p>
+ <p>200 g de fraises</p>
+ <p>2 pêches</p>
+ <p>4 oeufs</p>
+ <p>100 g de sucre en poudre</p>
+ <p>15 cl de pineau des Charentes (ou à défaut, de champagne ou de Sauternes) </p>
+ <p>amandes effilées et sucre glace à volonté</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez tous les fruits: <operation temps=6.86min espace=12>égrenez les</operation> <ingredient quantite=1>groseilles</ingredient>, <operation temps=6.86min espace=12>lavez</operation> et <operation temps=6.86min espace=12>équeutez les</operation> <ingredient quantite=1>fraises</ingredient>, <operation temps=6.86min espace=12>coupez - les en deux</operation>. <operation temps=3.0min espace=12>pelez</operation> et <operation temps=6.86min espace=12>coupez les <ingredient quantite=2>pêches</ingredient> en tranches</operation>. répartissez les fruits rouges et les <ingredient quantite=2>pêches</ingredient> dans des petits plats à gratin individuels. au moment du dessert, <operation temps=6.86min espace=12>préparez le sabayon</operation>: <operation temps=5.0min espace=12>fouettez</operation> énergiquement les jaunes d’ <ingredient quantite=4>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient> sur feu très doux en ajoutant progressivement le vin. <operation temps=6.86min espace=12>continuez à</operation> fouetter jusqu’ à ce que la crème double de volume et mousse. <operation temps=6.86min espace=12>recouvrez les fruits de sabayon à hauteur</operation>. <operation temps=6.86min espace=12>allumez le <recipient>gril</recipient> du <recipient>four</recipient> et placez la grille à mi-hauteur</operation>. <operation temps=6.86min espace=12>enfournez les gratins</operation>. en quelques minutes, la crème prend une couleur dorée. <operation temps=0.25min espace=12>retirez</operation> - les du <recipient>four</recipient> lorsqu’ ils sont bien dorés. décorez d’ <ingredient quantite=1>amandes effilées</ingredient> grillées à sec dans une <recipient>poêle</recipient> bien chaude et <operation temps=2.0min espace=12>servez sans</operation> attendre en saupoudrant de <ingredient quantite=1>sucre glace</ingredient>. vous pouvez <operation temps=6.86min espace=12>faire ces gratins tout au long de l’ année avec les fruits de saison, y</operation> mettre des cassis, des mûres, des lamelles de poires, d’ abricots ou de mangues, des rondelles de bananes ou de kiwis.
+]]>
+ </preparation>
+</recette>

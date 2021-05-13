@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26370">
+ <titre>Filet Mignon au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 beau filet de porc d’ environ 700 g</p>
+ <p>2 oignons de taille moyenne</p>
+ <p>3 cuillères à soupe de curry</p>
+ <p>25 cl de crème fraîche</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>filet</ingredient> mignon en tranches d’ environ 8 mm d’ épaisseur. saler, poivrer. <operation temps=6.86min espace=7>faire dorer les tranches dans une <recipient>poêle</recipient> (éventuellement en 2 parties pour ne pas trop</operation> diluer l’ <ingredient quantite=1>huile</ingredient>). ajouter les <ingredient quantite=2>oignons</ingredient> coupés en rondelles. saupoudrer du <ingredient quantite=3>curry</ingredient>. <operation temps=5.0min espace=7>laisser 5 mn à feu chaud en</operation> remuant avec une <ingredient quantite=1>cuillère</ingredient> en bois. ajouter la <ingredient quantite=1>crème fraîche</ingredient> et <operation temps=6.86min espace=7>laisser encore</operation> mijoter à feu réduit pendant 3 mn. a <operation temps=6.86min espace=7>servir avec du riz blanc</operation>. accompagner de préférence d’ une bière
+]]>
+ </preparation>
+</recette>

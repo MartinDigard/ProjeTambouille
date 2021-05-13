@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28253">
+ <titre>Gaufres fourrées à la cassonade</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>6 oeufs</p>
+ <p>250 g de beurre ramolli</p>
+ <p>15 cl de lait</p>
+ <p>50 g de sucre en poudre</p>
+ <p>1 cube de levure boulanger</p>
+ <p>1 cuillère à soupe de rhum</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer la <ingredient quantite=1>levure</ingredient> dans le lait tiède et sucré. dans une <recipient>terrine</recipient>, tamiser la farine. ajouter les <ingredient quantite=6>oeufs</ingredient> battus avec le <ingredient quantite=1>sel</ingredient>, le beurre, le <ingredient quantite=1>rhum</ingredient> et la <ingredient quantite=1>levure</ingredient> délayée. <operation temps=6.86min espace=9>pétrir la pâte</operation> et <operation temps=6.86min espace=9>laisser reposer 1 heure dans un endroit tiède</operation>. <operation temps=6.86min espace=9>faire des boules de grosseur d’ une noix et les</operation> cuire au gaufrier (la gaufre se gonfle et on peut la couper pour la fourrer). fourrer les gaufres encore chaudes de l’ une ou l’ autre de ces préparations: mélanger 1 kg de cassonade blonde avec de la crème fraîche et du <ingredient quantite=1>rhum</ingredient> pour <operation temps=6.86min espace=9>faire une préparation pas trop liquide ou 400 g de beurre <ingredient quantite=1>ramolli</ingredient></operation>. 400 g de cassonade. 400 g de <ingredient quantite=1>sucre</ingredient> glace. 1 <ingredient quantite=1>cuillère de rhum</ingredient>. <operation temps=6.86min espace=9>laisser refroidir les gaufres avant de les</operation> déguster, elles n’ en seront que meilleures. plutôt un bon café
+]]>
+ </preparation>
+</recette>

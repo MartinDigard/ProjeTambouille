@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20350">
+ <titre>Salade de quenelles panées</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 quenelles lyonnaises</p>
+ <p>1 œuf</p>
+ <p>1 tomate</p>
+ <p>1 batavia</p>
+ <p>chapelure</p>
+ <p>lardons</p>
+ <p>1 peu de sauce tomate</p>
+ <p>vinaigrette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+paner les <ingredient quantite=6>quenelles</ingredient>: les fariner une par une, les passer dans l’ oeuf battu, puis dans la <ingredient quantite=1>chapelure</ingredient>, les <operation temps=6.86min espace=10>faire cuire à feu doux dans une <recipient>poêle</recipient> avec un peu d’</operation> huile. <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>lardons</ingredient> à la <recipient>poêle</recipient> (sans huile</operation>). dresser la salade en y mettant salade, <ingredient quantite=1>tomate</ingredient> en tranche, <ingredient quantite=1>lardons</ingredient> grillé, et quenelles cuites sur le dessus. pour accompagner les <ingredient quantite=6>quenelles</ingredient> mettre à disposition un peu <ingredient quantite=1>de sauce tomate</ingredient> dans un petit récipient pour y tremper les <ingredient quantite=6>quenelles</ingredient>.
+]]>
+ </preparation>
+</recette>

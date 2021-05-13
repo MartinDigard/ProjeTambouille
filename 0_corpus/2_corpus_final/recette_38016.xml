@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38016">
+ <titre>Picadillo (Mexique) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>700 g environ de tomates concassées (sans peau) </p>
+ <p>600 g de bœuf haché</p>
+ <p>3 oignons</p>
+ <p>3 gousses d’ ail</p>
+ <p>6 piments oiseaux</p>
+ <p>3 cuillères à café piment en poudre</p>
+ <p>quelques goutes de tabasco</p>
+ <p>graines de coriandre</p>
+ <p>1 bouquet de coriandre</p>
+ <p>6 citrons verts</p>
+ <p>riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre du <ingredient quantite=1>citron</ingredient> et du <ingredient quantite=3>piment</ingredient> sur la viande crue. <operation temps=6.86min espace=11>faire revenir des <ingredient quantite=3>oignons</ingredient> et de l’ <ingredient quantite=3>ail</ingredient> dans un mélange d’</operation> huile normal et d’ huile d’ olive, puis faire revenir du <ingredient quantite=1>bœuf haché</ingredient>. ajouter des <ingredient quantite=1>tomates concassées</ingredient> du <ingredient quantite=3>piment</ingredient>, du <ingredient quantite=1>tabasco</ingredient> et quelques <ingredient quantite=1>graines de coriandre</ingredient>. <operation temps=40.0min espace=11>laisser mijoter 40 min</operation>. au moment de <operation temps=2.0min espace=11>servir</operation>, ajouter un <ingredient quantite=1>bouquet de coriandre</ingredient> ciselée. <operation temps=6.86min espace=11>servir dans un bol avec du</operation> <ingredient quantite=1>riz</ingredient> et arroser le tout de <ingredient quantite=1>citron vert</ingredient>. délicieux! ne pas hésiter à arroser de <ingredient quantite=1>citron</ingredient>.
+]]>
+ </preparation>
+</recette>

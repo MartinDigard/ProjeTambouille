@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23967">
+ <titre>Croquettes au Bleu d’ Auvergne (Aveyron) </titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>150 g de bleu d’ Auvergne</p>
+ <p>3 oeufs</p>
+ <p>chapelure</p>
+ <p>sel et poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>pommes de terre</ingredient> à l’ eau. les éplucher et les réduire en purée. <operation temps=6.86min espace=6>laisser tiédir, saler</operation> <operation temps=6.86min espace=6>poivrez bien</operation> et <operation temps=6.86min espace=6>ajoutez un <ingredient quantite=1>oeuf</ingredient> entier</operation>. <operation temps=6.86min espace=6>pétrir des boulettes de la taille d’ une belle noix</operation>. mettre au milieu une noisette de fromage. passer les boulettes dans 1 <ingredient quantite=1>oeuf</ingredient> entier battu. rouler les boulettes dans la <ingredient quantite=1>chapelure</ingredient> et <operation temps=6.86min espace=6>laisser reposer au moins 1/2 h avant de les</operation> plonger dans de l’ huile bien chaude. <operation temps=6.86min espace=6>laisser frire 5 mn: le fromage</operation> doit être fondu à l’ intérieur. egoutter et <operation temps=6.86min espace=6>servir avec une salade comme entrée ou en apéritif</operation>, relevées d’ un rien de poivre de cayenne.
+]]>
+ </preparation>
+</recette>

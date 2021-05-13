@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93322">
+ <titre>Confiture simplissime de mûres</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de mûres</p>
+ <p>800 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les mûres et le <ingredient quantite=1>sucre</ingredient> dans une grande bassine. <operation temps=6.86min espace=2>faire chauffer en</operation> remuant de temps en temps jusqu’ à ébullition. <operation temps=15.0min espace=2>laisser cuire à gros bouillons 10 à 15 mn bien mixer le mélange pour</operation> écraser les grains mettre en pot
+]]>
+ </preparation>
+</recette>

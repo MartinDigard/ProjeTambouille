@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15302">
+ <titre>Poulet des moines</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet découpé ou des morceaux de poulet choisis</p>
+ <p>1 oignon</p>
+ <p>ail</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>3 cuillère à soupe de crème fraîche épaisse. </p>
+ <p>2 sachets de gruyère râpé (125 g) </p>
+ <p>1/2 l de vin blanc sec</p>
+ <p>1 cuillère à café de paprika</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>un peu de cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=1>morceaux de poulet</ingredient> dans l’ huile avec l’ <ingredient quantite=1>oignon</ingredient>, le <ingredient quantite=1>paprika</ingredient> et l’ <ingredient quantite=1>ail</ingredient>. attendre que les morceaux dorent. quand ils ont atteints la couleur, les flamber avec du <ingredient quantite=1>cognac</ingredient> ou de la bénédictine. puis les mettre de côté dans une assiette. mettre dans le reste de sauce 1 grosse <ingredient quantite=1>cuillère à soupe de moutarde</ingredient>, 1/2 <ingredient quantite=2>sachet de gruyère râpé</ingredient>, puis mélanger pour <operation temps=6.86min espace=15>obtenir une sauce homogène</operation>. ajouter la <ingredient quantite=3>crème fraîche</ingredient>. remettre le <ingredient quantite=1>poulet</ingredient> et 1/2l de <ingredient quantite=1>vin blanc sec</ingredient>. <operation temps=6.86min espace=15>laisser cuire 3/4 d’ heure</operation>. préchauffer le <recipient>four</recipient> à thermostat 7/8.mettre les <ingredient quantite=1>morceaux de poulet</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, les arroser avec la sauce, parsemer de <ingredient quantite=2>gruyère râpé</ingredient> et mettre au <recipient>four</recipient> 1/4 d’ heure. servir très chaud avec du riz. <ingredient quantite=1>vin blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

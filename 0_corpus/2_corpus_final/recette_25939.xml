@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25939">
+ <titre>Endives au saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg d’ endives</p>
+ <p>8-10 tranches de saumon fumé</p>
+ <p>béchamel (environ 50 g de beurre, 50 g de farine, 1/2 l de lait) </p>
+ <p>200 g de d’ emmental râpé</p>
+ <p>une pincé de muscade</p>
+ <p>poivre, sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un premier temps <operation temps=30.0min espace=7>faire cuire les <ingredient quantite=1>endives</ingredient> à la vapeur durant environ 30 mn (il</operation> faut que l’ on puisse facilement traverser l’ <ingredient quantite=1>endive</ingredient> avec la pointe d’ un couteau). pendant ce temps préparer la <ingredient quantite=1>béchamel</ingredient>: <operation temps=6.86min espace=7>faire tout d’ abord</operation> fondre le beurre ensuite y ajouter la farine remuer sans discontinuer et rajouter par petites quantitées le lait. <operation temps=0.5min espace=7>poivrez</operation>, <operation temps=0.25min espace=7>salez</operation> et <operation temps=6.86min espace=7>ajoutez la <ingredient quantite=1>muscade</ingredient></operation>. une fois les <ingredient quantite=1>endives</ingredient> cuites et la <ingredient quantite=1>béchamel</ingredient> terminée, couper en deux les <ingredient quantite=1>endives</ingredient> (si elles sont trop grosses) et les enrouler dans les <ingredient quantite=1>tranches de saumon</ingredient>. les disposer dans un <recipient>plat</recipient> à gratin, <operation temps=6.86min espace=7>recouvrez de <ingredient quantite=1>béchamel</ingredient> et pour</operation> <operation temps=6.86min espace=7>finir de fromage <ingredient quantite=1>râpé</ingredient></operation>. <operation temps=45.0min espace=7>faire cuire th 7/8 pendant environ 30 à 45 mn</operation>.
+]]>
+ </preparation>
+</recette>

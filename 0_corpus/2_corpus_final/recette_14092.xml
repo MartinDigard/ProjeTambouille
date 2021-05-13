@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14092">
+ <titre>Filets de sole bistrot</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>18 filets de sole (ou de limande) </p>
+ <p>4 carottes </p>
+ <p>2 poireaux </p>
+ <p>1 branche de céleri </p>
+ <p>10 cuillères à soupe de crème fraîche (au moins) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>émincez en julienne les légumes</operation>. <operation temps=5.0min espace=8>faites - les pocher 5 mn à l’ eau bouillante</operation>. ne <operation temps=6.86min espace=8>salez l’ eau qu’ à l’ ébullition</operation>. <operation temps=6.86min espace=8>egouttez bien</operation>. <operation temps=6.86min espace=8>roulez les <ingredient quantite=1>filets</ingredient>, partie brillante à l’ intérieur</operation>. <operation temps=6.86min espace=8>rangez - les</operation> serrés dans un <recipient>poêlon</recipient>. <operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez - les</operation>. couvrez - les de <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=8>faites cuire à feu</operation> vif 4 mn à <operation temps=6.86min espace=8>partir de l’ ébullition</operation>. <operation temps=6.86min espace=8>otez les</operation> <ingredient quantite=1>filets</ingredient> et <operation temps=6.86min espace=8>tenez - les au chaud dans un <recipient>plat</recipient> beurré au-dessus d’ une <recipient>casserole</recipient> d’ eau bouillante</operation>. <operation temps=6.86min espace=8>maintenez la <ingredient quantite=1>crème</ingredient> en ébullition</operation>. <operation temps=6.86min espace=8>jetez - y la julienne de légumes</operation> et <operation temps=6.86min espace=8>faites réduire de moitié</operation>. <operation temps=6.86min espace=8>nappez les <ingredient quantite=1>filets</ingredient></operation>. beaujolais
+]]>
+ </preparation>
+</recette>

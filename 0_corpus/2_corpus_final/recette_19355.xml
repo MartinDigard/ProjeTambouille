@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19355">
+ <titre>Crème au beurre</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oeuf + 2 jaunes</p>
+ <p>500 g de beurre</p>
+ <p>400 g de sucre</p>
+ <p>arôme voulu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>faire un sirop avec le <ingredient quantite=1>sucre</ingredient> et 10 cl d’ eau ensuite</operation> <operation temps=20.0min espace=4>laisser refroidir</operation>. battre les <ingredient quantite=1>oeufs</ingredient> et incorporer le sirop. ajouter le beurre en pommade et l’ <ingredient quantite=1>arôme voulu</ingredient>. <operation temps=6.86min espace=4>laisser prendre au frigo bien</operation> mélanger en incorporant le beurre, car au début le beurre va <operation temps=6.86min espace=4>faire plein de petits morceaux et c’ est en</operation> tournant vite qu’ ils vont <operation temps=6.86min espace=4>partir</operation>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30413">
+ <titre>Jambon roulé à la compotée de légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de jambon</p>
+ <p>2 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>6 tomates</p>
+ <p>3 poivrons verts</p>
+ <p>2 brins de thym</p>
+ <p>1 feuille de laurier</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites fondre les <ingredient quantite=2>oignons</ingredient> et l’ <ingredient quantite=1>ail</ingredient> hachés dans l’ <ingredient quantite=2>huile</ingredient> d’ olive</operation> puis <operation temps=6.86min espace=9>ajoutez les <ingredient quantite=6>tomates</ingredient> pelées</operation> concassées. <operation temps=6.86min espace=9>incorporez les <ingredient quantite=3>poivrons</ingredient> coupés en dés, le <ingredient quantite=2>thym</ingredient>, le</operation> <ingredient quantite=1>laurier</ingredient> et <operation temps=6.86min espace=9>assaisonnez de <ingredient quantite=1>sel</ingredient> et de poivre</operation>. <operation temps=45.0min espace=9>laissez mijoter 45 minutes</operation> puis <operation temps=20.0min espace=9>laissez refroidir</operation>. garnissez les <ingredient quantite=4>tranches de jambon</ingredient> de cette préparation froide et <operation temps=6.86min espace=9>servez le reste de la compoté de légumes à part</operation>. <operation temps=6.86min espace=9>accompagnez d’ une salade <ingredient quantite=1>verte</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

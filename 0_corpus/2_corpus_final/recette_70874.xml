@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70874">
+ <titre>Salade de crabe et mangue</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de miettes de crabe</p>
+ <p>300 g de riz blanc cuit</p>
+ <p>150 g de mangue</p>
+ <p>persil frais</p>
+ <p>2 yaourts natures</p>
+ <p>1 citron vert</p>
+ <p>sel, poivre</p>
+ <p>huile de tournesol</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire le <ingredient quantite=1>riz</ingredient> et le</operation> <operation temps=20.0min espace=8>laisser refroidir</operation>. ajouter les <ingredient quantite=1>miettes de crabe</ingredient>, la <ingredient quantite=1>mangue</ingredient> découpée en dés et le <ingredient quantite=1>persil</ingredient>. assaisonner la salade avec les <ingredient quantite=2>yaourts</ingredient> blancs battus, une cuillère d’ huile de <ingredient quantite=1>tournesol</ingredient> ainsi que le jus du <ingredient quantite=1>citron vert</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. servir bien <ingredient quantite=1>frais</ingredient>.
+]]>
+ </preparation>
+</recette>

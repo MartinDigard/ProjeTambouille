@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34297">
+ <titre>Mousse au caramel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de sucre</p>
+ <p>180 g de crème fleurette</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>3 feuilles de gélatine</p>
+ <p>350 g de crème fleurette supplémentaires</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire cuire 100 g de <ingredient quantite=1>sucre</ingredient> jusqu’ à caramélisation</operation>. <operation temps=6.86min espace=5>faire bouillir la</operation> <ingredient quantite=1>crème</ingredient>, mélanger au caramel pour le rendre plus souple. battre les <ingredient quantite=3>jaunes</ingredient> avec 25 g de <ingredient quantite=1>sucre</ingredient> et verser dans la <ingredient quantite=1>crème</ingredient> au caramel, <operation temps=6.86min espace=5>faire cuire doucement</operation>. faire ramollir les <ingredient quantite=3>feuilles de gélatine</ingredient> dans de l’ eau et les égoutter avant de les ajouter à la préparation. <operation temps=20.0min espace=5>laissez refroidir</operation>. monter les 350 g de <ingredient quantite=1>crème fleurette</ingredient> jusqu’ à fermeté puis la mélanger à la préparation au caramel. <operation temps=6.86min espace=5>laisser prendre au frigo</operation>. pour avoir une mousse encore plus aérée, je rajoute les 3 blancs d’ <ingredient quantite=3>oeufs</ingredient> battus en neige.
+]]>
+ </preparation>
+</recette>

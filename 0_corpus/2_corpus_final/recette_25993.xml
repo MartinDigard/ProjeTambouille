@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25993">
+ <titre>Aspic de saumon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>450 g de saumon au naturel</p>
+ <p>4 feuilles de gélatine</p>
+ <p>1 petit pot de mayonnaise</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ <p>1 yaourt</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecraser le <ingredient quantite=1>saumon</ingredient> à la fourchette sans peau ni arêtes. dissoudre la <ingredient quantite=4>gélatine</ingredient> dans 5 <ingredient quantite=1>cuillères à soupe</ingredient> d’ eau bouillante. mélangez - la tiède à la <ingredient quantite=1>mayonnaise</ingredient>, au <ingredient quantite=1>yaourt</ingredient>, au <ingredient quantite=1>jus de citron</ingredient>, au poivre, au <ingredient quantite=1>sel</ingredient> et en dernier au <ingredient quantite=1>saumon</ingredient>. bien mélanger. huiler un <recipient><recipient>moule</recipient> à manqué</recipient> (22 cm). verser la préparation et <operation temps=6.86min espace=8>faire prendre</operation> minimum 3 heures au frais. <operation temps=2.0min espace=8>servir avec une salade</operation> et décorer avec des tomates cerise ou quelques crevettes. on peut utiliser le <recipient>moule</recipient> à charlotte tupperweare cela marche très bien aussi
+]]>
+ </preparation>
+</recette>

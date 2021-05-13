@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25158">
+ <titre>Flammenküche aux fruits</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>900 g de fruits frais au choix: pommes, poires, bananes, ananas</p>
+ <p>1 pâte à pizza</p>
+ <p>150 g de crème fraîche</p>
+ <p>150 g de fromage blanc à 40 % de matière grasse</p>
+ <p>2 cuillères à café de rhum</p>
+ <p>4 cuillères à soupe de cassonade</p>
+ <p>50 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>etalez la pâte à <ingredient quantite=1>pizza</ingredient> sur la plaque du <recipient>four</recipient></operation>. epluchez les <ingredient quantite=1>fruits</ingredient>, <operation temps=6.86min espace=9>coupez - les en fines tranches ou en rondelles (pour les</operation> <ingredient quantite=1>bananes</ingredient>). dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faites revenir les <ingredient quantite=1>fruits</ingredient> dans le beurre, le <ingredient quantite=2>rhum</ingredient> et la <ingredient quantite=4>cassonade</ingredient></operation>. <operation temps=15.0min espace=9>laissez cuire à feu doux, jusqu’ à ce que les <ingredient quantite=1>fruits</ingredient> soient bien tendres: environ 15 min pour les <ingredient quantite=1>pommes</ingredient>, 10 min pour les <ingredient quantite=1>poires</ingredient>, un peu moins pour les autres <ingredient quantite=1>fruits</ingredient></operation>. mélangez la <ingredient quantite=1>crème</ingredient> avec le <ingredient quantite=1>fromage blanc</ingredient>, puis <operation temps=6.86min espace=9>étalez ce mélange sur la pâte à <ingredient quantite=1>pizza</ingredient></operation>. <operation temps=6.86min espace=9>répartir les <ingredient quantite=1>fruits</ingredient> sur la pâte ; éventuellement</operation>, <operation temps=6.86min espace=9>saupoudrez de cannelle ou de pépites de chocolat</operation>. <operation temps=35.0min espace=9>enfournez environ 35 min à 180 ° c (th 6</operation>). et <operation temps=2.0min espace=9>servez</operation> tiède! cette flammenkücke est un dessert très agréable qui permet de renouveller la traditionnelle tarte aux <ingredient quantite=1>fruits</ingredient>. en plus elle témoigne du fait que la pâte à <ingredient quantite=1>pizza</ingredient> est parfaite dans les desserts! bien sûr vous pouvez <operation temps=6.86min espace=9>inventez des variantes à cette recette</operation>...
+]]>
+ </preparation>
+</recette>

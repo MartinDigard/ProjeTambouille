@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165159">
+ <titre>Muffins surprises au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>50g de farine</p>
+ <p>75g de sucre</p>
+ <p>80g de chocolat noir</p>
+ <p>95g de beurre</p>
+ <p>12 carrés de chocolat blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> th6 (180 ° c). mélanger dans une <recipient>terrine</recipient>, les <ingredient quantite=3>oeufs</ingredient> avec la farine et le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=9>faire fondre le beurre avec le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. incorporer au mélange précédent. verser la préparation obtenue dans des moules à mini-muffins et déposer un <ingredient quantite=1>carré de chocolat blanc</ingredient> dans chaque empreinte. <operation temps=15.0min espace=9>faire cuire 12 à 15 min</operation>. <operation temps=6.86min espace=9>laisser refroidir à température ambiante avant de tous les</operation> manger!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172337">
+ <titre>Gratin de jambon aux poires et au roquefort</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 ou 7 tranches de pain de mie sans croûte</p>
+ <p>6 tranches de jambon cuit</p>
+ <p>2 oeufs</p>
+ <p>20 cl de crème fraîche liquide entière</p>
+ <p>une tranche de roquefort</p>
+ <p>1 grosse boîte de poires au sirop</p>
+ <p>25 cl de vin blanc sec</p>
+ <p>du beurre pour le plat</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c, thermostat 6. beurrer un <ingredient quantite=1><recipient>plat</recipient></ingredient> carré. disposer les <ingredient quantite=6>tranches de pain de mie</ingredient> dans le <ingredient quantite=1><recipient>plat</recipient></ingredient>, arroser de <ingredient quantite=1>vin blanc sec</ingredient>. couper le <ingredient quantite=6>jambon</ingredient> en petits morceaux, puis étaler sur le <ingredient quantite=1><recipient>plat</recipient></ingredient>. couper le <ingredient quantite=1>roquefort</ingredient> en <ingredient quantite=6>tranches</ingredient>, égoutter les <ingredient quantite=1>poires</ingredient>. il s’ agit maintenant de disposer en alternant le <ingredient quantite=1>roquefort</ingredient> et les <ingredient quantite=1>poires</ingredient>. mélanger les <ingredient quantite=2>oeufs</ingredient> et la <ingredient quantite=1>crème</ingredient>, poivrer, puis arroser la totalité de la surface du gratin. enfourner 30 minutes. accompagner d’ une salade verte.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60425">
+ <titre>Gaspacho rafraîchissant</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses tomates</p>
+ <p>1 poivron rouge</p>
+ <p>1 concombre</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail </p>
+ <p>1 pincée de cumin</p>
+ <p>1 pincée d’ origan</p>
+ <p>1 pincée de basilic</p>
+ <p>1 pincée de sel</p>
+ <p>quelques feuilles de persil</p>
+ <p>1 branche de menthe fraîche</p>
+ <p>5 à 10 cl d’ huile (selon les goûts) </p>
+ <p>5 à 10 cl de vinaigre (selon les goûts) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=6>tomates</ingredient>, les couper en morceaux et les passer au <recipient>mixeur</recipient>. quand elles sont réduites en purée ajouter tous les autres ingrédients et mixer jusqu’ à ce que tout soit complètement liquide. enfin, passer le liquide dans un <recipient>chinois</recipient> ou un tamis, ajouter de l’ eau et des glaçons. réserver au <ingredient quantite=1>frais</ingredient> au moins 2 h avant de <operation temps=2.0min espace=15>servir</operation>. surtout ne pas remplacer la <ingredient quantite=1>menthe</ingredient> fraiche par de la <ingredient quantite=1>menthe</ingredient> séchée, car c’ est cet ingrédient qui donne la caractéristique de rafraîchissant au gaspacho. on peut remplacer la gousse d’ <ingredient quantite=1>ail</ingredient> par une pincée d’ <ingredient quantite=1>ail</ingredient> deshidraté ou le suprimer si on n’ aime pas trop le gôut de l’ <ingredient quantite=1>ail</ingredient>
+]]>
+ </preparation>
+</recette>

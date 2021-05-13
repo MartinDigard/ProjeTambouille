@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26422">
+ <titre>Crème brûlée vanillée aux poires</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de crème fraîche liquide</p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>80 g de sucre semoule</p>
+ <p>1 gousse de vanille</p>
+ <p>8 demi-poires au sirop</p>
+ <p>4 cuillères à soupe de cassonade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+travailler les <ingredient quantite=4>jaunes</ingredient> d’ œufs avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>crème liquide</ingredient>. gratter la <ingredient quantite=1>vanille</ingredient> et ajouter la pulpe prélevée au mélange précédent. <operation temps=6.86min espace=8>répartir les poires</operation> découpées en quartiers dans 4 ramequins à <ingredient quantite=1>crème</ingredient> brûlée. verser la préparation dessus. <operation temps=30.0min espace=8>faire cuire 30 min au <recipient>four</recipient> à 140 ° c (thermostat 4 - 5</operation>). <operation temps=20.0min espace=8>laisser refroidir</operation>. saupoudrer les <ingredient quantite=1>crèmes</ingredient> de <ingredient quantite=4>cassonade</ingredient> et <operation temps=6.86min espace=8>faire caraméliser sous le grill du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

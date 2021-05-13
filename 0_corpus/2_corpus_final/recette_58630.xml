@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58630">
+ <titre>Escalopes de poulet ensoleillées poivron et paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 gros oignon blanc haché</p>
+ <p>50 g de beurre</p>
+ <p>200 g de champignons de Paris frais</p>
+ <p>2 grosses carottes</p>
+ <p>1 gros poivron rouge et 1 gros poivron jaune</p>
+ <p>50 cl de bouillon de volaille chaud</p>
+ <p>1 cuillère à café de paprika doux</p>
+ <p>4 escalopes de poulet</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 gros citron découpé en petits quartiers</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire fondre le beurre dans une <recipient>sauteuse</recipient> à feu vif</operation>. <operation temps=1.0min espace=13>saisir les <ingredient quantite=4>escalopes</ingredient> (1 minute de chaque côté) puis les</operation> mettre de côté dans une assiette. dans la <recipient>sauteuse</recipient>, faire revenir l’ <ingredient quantite=1>oignon haché</ingredient> pendant 2 minutes, ajouter les <ingredient quantite=2>carottes</ingredient> en rondelles pendant encore 2 minutes, puis ajouter les <ingredient quantite=1>champignons</ingredient> émincés et les <ingredient quantite=1>poivrons</ingredient> découpés en lamelles. <operation temps=3.0min espace=13>faire revenir le tout pendant encore 3 minutes</operation>. ajouter les <ingredient quantite=4>escalopes</ingredient> et le <ingredient quantite=1>paprika</ingredient> ainsi que le <ingredient quantite=1>bouillon de volaille</ingredient> en veillant à ce que le liquide ne recouvre pas complètement la préparation. porter à ébullition. <operation temps=0.25min espace=13>couvrir</operation> et réduire le feu à moyen pendant 15 minutes. remuer de temps à autre. ajouter les quartiers de <ingredient quantite=1>citron</ingredient> et <operation temps=5.0min espace=13>laisser cuire pendant encore 5 minutes</operation>. retirer le couvercle et ajouter la <ingredient quantite=2>crème fraîche</ingredient>. saler et poivrer. mélanger et servir accompagné de riz. fitou ou rosé de provence
+]]>
+ </preparation>
+</recette>

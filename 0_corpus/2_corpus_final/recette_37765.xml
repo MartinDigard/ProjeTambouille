@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37765">
+ <titre>Salade de pâtes aux olives et crevettes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de coquillettes </p>
+ <p>une boîte d’ olives dénoyautées (environ 120 g) </p>
+ <p>200 g de petites crevettes cuites (surgelées c’ est moins cher) </p>
+ <p>3 tomates</p>
+ <p>sel et poivre</p>
+ <p>huile d’ olive à souhait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire cuire les pâtes dans de l’ eau bouillante</operation> salée. pendant ce temps, couper les <ingredient quantite=3>tomates</ingredient> et les <ingredient quantite=1>olives</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux. ajouter les <ingredient quantite=1>crevettes</ingredient> (décongelées et cuites si elles ne l’ étaient pas) et assaisonner (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, huile). egoutter les pâtes et les passer un moment sous l’ eau froide pour arrêter la cuisson. les ajouter au reste. c’ est prêt! j’ utilise des <ingredient quantite=1>olives</ingredient> vertes mais c’ est bon avec les noires aussi. cette recette ne paraît pas passionnante à première vue, mais elle vaut le détour... peut consistuer un repas complet si vous <operation temps=6.86min espace=6>doublez les proportions</operation>!
+]]>
+ </preparation>
+</recette>

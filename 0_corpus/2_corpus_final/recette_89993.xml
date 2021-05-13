@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89993">
+ <titre>Terrine de foie gras du pauvre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de foies de volaille </p>
+ <p>100 g de beurre mou</p>
+ <p>5 cl de madère, de cognac ou de porto</p>
+ <p>sel, poivre, muscade</p>
+ <p>1 sachet de gelée au madère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>foies de volaille</ingredient> avec un morceau de <ingredient quantite=1>beurre</ingredient> prélevé sur les 100 g. les flamber au <ingredient quantite=1>madère</ingredient> (ou <ingredient quantite=1>cognac ou porto</ingredient>). laisser refroidir et mixer les <ingredient quantite=1>foies de volaille</ingredient> avec le <ingredient quantite=1>beurre mou</ingredient> restant. ajouter le <ingredient quantite=1>sel</ingredient>, le poivre et la <ingredient quantite=1>muscade</ingredient>. disposer dans une <recipient>terrine</recipient> et placer au <recipient>réfrigérateur</recipient>. préparer la <ingredient quantite=1>gelée</ingredient> et en <operation temps=6.86min espace=8>couvrir la <recipient>terrine</recipient></operation>. excellent en été avec une salade et des cornichons.
+]]>
+ </preparation>
+</recette>

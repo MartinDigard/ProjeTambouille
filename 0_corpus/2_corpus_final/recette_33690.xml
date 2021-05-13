@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33690">
+ <titre>Faisan aux pommes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poule faisane</p>
+ <p>8 tranches fines de lard</p>
+ <p>1 verre à liqueur de Calvados</p>
+ <p>sel, poivre</p>
+ <p>beurre</p>
+ <p>6 pommes à cuire</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>préparez la volaille</operation>, <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation> l’ intérieur, puis bardez - la avec les <ingredient quantite=8>tranches fines de lard</ingredient>. <operation temps=6.86min espace=11>faites la</operation> <operation temps=6.86min espace=11>revenir en <recipient>cocotte</recipient> au beurre</operation>. lorsqu’ elle est bien dorée de tous les côté, flambez au <ingredient quantite=1>calvados</ingredient>. <operation temps=6.86min espace=11>ajoutez un peu de cuisson (eau) si nécessaire</operation> et <operation temps=6.86min espace=11>faire <ingredient quantite=6>cuire</ingredient> doucement 45</operation> mn. a ce moment, <operation temps=3.0min espace=11>pelez les</operation> <ingredient quantite=6>pommes</ingredient>, <operation temps=0.5min espace=11>poivrez</operation> - les et <operation temps=6.86min espace=11>mettez - les dans la <recipient>cocotte</recipient> autour de la volaille</operation>. laisez <ingredient quantite=6>cuire</ingredient> encore 15 mn. au moment de <operation temps=2.0min espace=11>servir</operation>, <operation temps=6.86min espace=11>sortez la volaille sur un <recipient>plat</recipient></operation>, installez les <ingredient quantite=6>pommes</ingredient> autour. <operation temps=6.86min espace=11>versez la <ingredient quantite=1>crème</ingredient> dans la <recipient>cocotte</recipient>, sur le jus de cuisson</operation> et <operation temps=6.86min espace=11>laissez <ingredient quantite=6>cuire</ingredient> quelques bouillons</operation>. mettre en saucière et servir. nb: je <operation temps=6.86min espace=11>fais cette recette avec de la pintade, c’ est très bon également et surtout moins cher</operation>. vin rouge léger ou... cidre.
+]]>
+ </preparation>
+</recette>

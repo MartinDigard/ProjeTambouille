@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24067">
+ <titre>Tagliatelles aux champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>300 g de pâtes type tagliatelles ou linguines</p>
+ <p>2600 g de champignons: cèpes, trompettes, girolles</p>
+ <p>30 g de beurre</p>
+ <p>1 cuillère d’ huile d’ olive</p>
+ <p>2 cl de crème fraîche</p>
+ <p>6 brins de persil ciselés</p>
+ <p>2 gousses d’ ail</p>
+ <p>30 g de parmesan râpé</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eminicer les <ingredient quantite=1>champignons</ingredient> lavées et séchés. mettre le beurre fondu avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> pour <operation temps=10.0min espace=10>faire revenir les <ingredient quantite=1>champignons</ingredient> pendant 10 min à feu doux</operation>. en fin de cuisson, mettre l’ <ingredient quantite=2>ail</ingredient> écrasé et coupé, la <ingredient quantite=1>crème fraîche</ingredient> et le <ingredient quantite=1>parmesan</ingredient>, sans oublier d’ assaisonner. <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>pâtes</ingredient> en</operation> attendant dans de l’ eau bouillante salée. rajouter les <ingredient quantite=1>pâtes</ingredient> égouttées dans la <ingredient quantite=1>crème</ingredient> aux <ingredient quantite=1>champignons</ingredient>. <operation temps=6.86min espace=10>laisser bien</operation> aborber la sauce en remuant. présenter dans un <recipient>plat</recipient> chaud et saupoudré de <ingredient quantite=6>persil</ingredient>.
+]]>
+ </preparation>
+</recette>

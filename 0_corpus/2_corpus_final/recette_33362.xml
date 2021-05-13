@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33362">
+ <titre>Quatre quart aux pommes et au miel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>175 g de farine</p>
+ <p>175 g de sucre</p>
+ <p>175 g de beurre mou + 5 g</p>
+ <p>3 gros oeufs</p>
+ <p>2 grosses pommes</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>1 cuillère à soupe d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=9>pelez</operation>, <operation temps=6.86min espace=9>épépinez</operation> et <operation temps=6.86min espace=9>coupez en morceaux les <ingredient quantite=2>pommes</ingredient></operation>. <operation temps=6.86min espace=9>cuisez à feu doux avec 5 <ingredient quantite=1>g</ingredient> de <ingredient quantite=1>beurre</ingredient></operation>. mélangez le <ingredient quantite=1>beurre mou</ingredient> avec le <ingredient quantite=1>sucre</ingredient> puis <operation temps=6.86min espace=9>ajoutez 2 jaunes d’ <ingredient quantite=3>oeufs</ingredient> et 1 <ingredient quantite=1>oeuf</ingredient> entier</operation>. <operation temps=6.86min espace=9>incorporez la farine</operation>. <operation temps=6.86min espace=9>montez les blancs d’ <ingredient quantite=3>oeufs</ingredient> en neige ferme</operation> et <operation temps=6.86min espace=9>incorporez à la pâte</operation>. <operation temps=6.86min espace=9>finissez en</operation> ajoutant les <ingredient quantite=2>pommes</ingredient>, puis le <ingredient quantite=2>miel</ingredient>. cuire dans un <recipient>moule</recipient> anti-adhésif 5 mn à 210 ° c puis <operation temps=6.86min espace=9>baissez à 200 ° c pendant environ 40</operation> mn. vérifiez la cuisson avec un couteau. <operation temps=6.86min espace=9>démoulez</operation>, <operation temps=6.86min espace=9>piquez le gâteau avec un couteau en plusieurs endroits</operation>. tiédissez le <ingredient quantite=2>miel</ingredient> avec l’ <ingredient quantite=1>eau</ingredient> et <operation temps=6.86min espace=9>arrosez le gâteau encore</operation> tiède. <operation temps=6.86min espace=9>dégustez froid</operation>. montbazillac
+]]>
+ </preparation>
+</recette>

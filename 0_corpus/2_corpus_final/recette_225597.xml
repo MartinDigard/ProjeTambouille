@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225597">
+ <titre>Saumon au fenouil et à la tapenade</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 pavés de saumon congelés</p>
+ <p>2 fenouils</p>
+ <p>1 boite d’ anchois</p>
+ <p>5 cuillères à soupe d’ olives vertes</p>
+ <p>1 cuillères à soupe de câpres</p>
+ <p>1 citron</p>
+ <p>1 échalote</p>
+ <p>huile d’ olive</p>
+ <p>poivre</p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=2>fenouils</ingredient> coupés en rondelles dans une papillote en silicone. arroser de jus de <ingredient quantite=1>citron</ingredient>. <operation temps=10.0min espace=10>faire cuire au micro-ondes pendant 10 minutes</operation>. pendant ce temps, <operation temps=6.86min espace=10>préparez la tapenade</operation>: hacher les <ingredient quantite=1>anchois</ingredient>, les <ingredient quantite=5>olives</ingredient>, les <ingredient quantite=1>câpres</ingredient> et l’ <ingredient quantite=1>échalote</ingredient> épluchée. rectifier l’ assaisonnement avec du poivre, des <ingredient quantite=1>herbes de provence</ingredient>, du jus de <ingredient quantite=1>citron</ingredient> et de l’ huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=10>faire cuire le <ingredient quantite=2>saumon</ingredient> encore</operation> congelé dans la papillote pendant 3 minutes au micro-ondes. dresser ensuite l’ assiette avec le <ingredient quantite=1>fenouil</ingredient> au fond de l’ assiette, le <ingredient quantite=2>saumon</ingredient> par - dessus et napper le tout de tapenade.
+]]>
+ </preparation>
+</recette>

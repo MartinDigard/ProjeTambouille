@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19864">
+ <titre>Pointe de porc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pointe de porc</p>
+ <p>huile d’ olive (facultatif) </p>
+ <p>3 grosses tomates</p>
+ <p>ail (1 gousse) </p>
+ <p>1 oignon</p>
+ <p>sel, poivre</p>
+ <p>1 verre de vin blanc sec</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 degrés. piquer la pointe de la gousse d’ <ingredient quantite=1>ail</ingredient> que vous aurez divisé en plusieurs parties, huiler saler, poivrer. couper l’ <ingredient quantite=1>oignon</ingredient> en deux, disposez - le dans le <recipient>plat</recipient> avec 1 feuille de laurier et 1 clou de girofle. mettre au <recipient>four</recipient>. 1/4 d’ heure après, verser le <ingredient quantite=1>verre de vin blanc sec</ingredient>. continuer la cuisson en remuant de temps à autre, rajouter les <ingredient quantite=3>tomates</ingredient> en milieu de cuisson. et <operation temps=30.0min espace=10>laisser cuire</operation>. accompagner à votre convenance bordeaux
+]]>
+ </preparation>
+</recette>

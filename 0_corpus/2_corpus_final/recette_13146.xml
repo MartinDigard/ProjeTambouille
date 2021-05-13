@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13146">
+ <titre>Oeufs à la tripe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>du beurre</p>
+ <p>2 beaux oignons</p>
+ <p>30 g env de farine (1 cuillère à soupe bombée) </p>
+ <p>1/2 l de lait</p>
+ <p>sel, poivre, persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=6>oeufs</ingredient> à <operation temps=10.0min espace=9>durcir 10 mn environ</operation>. les refroidir aussitôt à l’ eau froide. eplucher et émincer les <ingredient quantite=2>oignons</ingredient>. les <operation temps=6.86min espace=9>faire cuire doucement dans une <recipient>casserole</recipient> avec un peu de <ingredient quantite=1>beurre</ingredient></operation>. ajouter une cuillèrée d’ eau. <operation temps=0.25min espace=9>couvrir</operation> et <operation temps=6.86min espace=9>laisser mijoter à couvert à feu doux</operation>. saupoudrer les <ingredient quantite=2>oignons</ingredient> de farine. bien mélanger et ajouter le lait froid d’ un seul coup. assaisonner et remuer jusqu’ à épaississemnt (5mn sur feu doux). ecaler les <ingredient quantite=6>oeufs</ingredient>, les couper en rondelles. mettre dans un <recipient>plat</recipient> creux. <operation temps=6.86min espace=9>recouvrir de sauce</operation>. parsemer de <ingredient quantite=1>persil haché</ingredient> et servir bien chaud. <recipient>plat</recipient> complet pour le soir avec une salade, ou petite entrée à <operation temps=6.86min espace=9>servir dans des petits plats individuels</operation>. on peut aussi saupoudrer de fromage rapé et <operation temps=6.86min espace=9>faire gratiner</operation>.
+]]>
+ </preparation>
+</recette>

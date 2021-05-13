@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60502">
+ <titre>Gratin de pâtes courgettes citron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de pâtes (type macaronis) </p>
+ <p>2 oeufs</p>
+ <p>un peu de fromage râpé</p>
+ <p>1 courgette</p>
+ <p>1 aubergine</p>
+ <p>1/2 citron</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>1 cuillère à soupe de sauce pesto</p>
+ <p>quelques graines de coriandre</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>faites chauffer de l’ eau pour les <ingredient quantite=1>pâtes</ingredient></operation>. pendant ce temps, <operation temps=6.86min espace=15>coupez les <ingredient quantite=1>courgettes</ingredient> et <ingredient quantite=1>aubergines</ingredient> en petits dés</operation>. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=15>faites revenir les <ingredient quantite=1>courgettes</ingredient> et <ingredient quantite=1>aubergines</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. l’ eau des <ingredient quantite=1>pâtes</ingredient> doit être à ébullition... <operation temps=6.86min espace=15>versez les <ingredient quantite=1>pâtes</ingredient>! dans la <recipient>sauteuse</recipient></operation>, <operation temps=6.86min espace=15>ajoutez le demi-citron</operation> coupé en morceau (avec la peau) puis <operation temps=6.86min espace=15>ajoutez le <ingredient quantite=1>pesto</ingredient> et la</operation> <ingredient quantite=1>coriandre</ingredient>, <operation temps=0.25min espace=15>salez</operation>, <operation temps=0.5min espace=15>poivrez</operation>. quand les légumes sont cuits, <operation temps=6.86min espace=15>ajoutez hors du feu la <ingredient quantite=3>crème</ingredient> fraiche et les</operation> <ingredient quantite=2>oeufs</ingredient>, <operation temps=6.86min espace=15>mélangez rapidement</operation>. versez dans un <recipient>plat</recipient> à gratin les légumes et les <ingredient quantite=1>pâtes</ingredient>, parsemez d’ un <ingredient quantite=1>peu de fromage râpé</ingredient> sur le dessus et hop, au <recipient>four</recipient>! <operation temps=15.0min espace=15>laissez fondre environ 15 min à 180 ° c (thermostat 6), et quelques minutes en position grill pour</operation> gratiner.
+]]>
+ </preparation>
+</recette>

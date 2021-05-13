@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20471">
+ <titre>Sauté de poulet aux tomates et poivre vert</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de blanc de poulet (escalopes, filets) </p>
+ <p>5 tomates concassées</p>
+ <p>5 échalotes</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>4 cuillères à café de poivre vert</p>
+ <p>2 feuilles de laurier</p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>1 cuillère à soupe de nuoc mam</p>
+ <p>1 cuillère à café de sucre</p>
+ <p>sel, poivre blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>poulet</ingredient> en cubes. <operation temps=5.0min espace=10>faire dorer les <ingredient quantite=5>échalotes</ingredient> et l’ <ingredient quantite=2>ail</ingredient> hachés dans l’ <ingredient quantite=4>huile</ingredient> 5 min à feu moyen</operation>. ajouter les morceaux de <ingredient quantite=1>poulet</ingredient>, <operation temps=10.0min espace=10>laisser cuire 10 min en</operation> remuant. rajouter les <ingredient quantite=5>tomates</ingredient>, le <ingredient quantite=4>poivre</ingredient>, le <ingredient quantite=2>laurier</ingredient> et <operation temps=6.86min espace=10>mouillez avec 25 cl d’ eau</operation>. porter à ébullition et baisser le feu. <operation temps=30.0min espace=10>laisser mijoter 30 min</operation>. au dernier moment, ajouter le <ingredient quantite=1>nuoc mam</ingredient> et le <ingredient quantite=1>sucre</ingredient>, saler légèrement et poivrer. réchauffer 2 min et servir.
+]]>
+ </preparation>
+</recette>

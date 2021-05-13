@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93521">
+ <titre>Rouleaux à la confiture d’ amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la confiture: </p>
+ <p>100 g de sucre en poudre</p>
+ <p>150 g d’ amandes en poudre </p>
+ <p>eau</p>
+ <p>Pour les rouleaux: </p>
+ <p>feuilles de bricks</p>
+ <p>miel</p>
+ <p>amandes en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>commencez par la <ingredient quantite=1>confiture</ingredient></operation> mettre le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=1>amandes</ingredient> et l’ <ingredient quantite=1>eau</ingredient> dans une caserole <operation temps=6.86min espace=10>faites chauffez à feu dou</operation>. attention: il faut touner sans s’ arrêter, sinon ça va brûler et avec une cuillière en bois. mettre une cullière de confitte dans une brik coupées en deux et la roulée. <operation temps=6.86min espace=10>faire de même avec les autres</operation>. <operation temps=6.86min espace=10>faire frire</operation> ou cuire au <recipient>four</recipient>, mais je vous conseil au <recipient>four</recipient>. quand c’ est froid mettre le meil et saupoudrer d’ <ingredient quantite=1>amandes</ingredient>. bon appétit!!!!
+]]>
+ </preparation>
+</recette>

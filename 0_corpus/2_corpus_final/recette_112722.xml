@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112722">
+ <titre>Bûche de noël à la mangue</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 mangues bien mûres</p>
+ <p>1 citron</p>
+ <p>3 oeufs</p>
+ <p>30 g de beurre</p>
+ <p>3 cuillères à soupe de lait</p>
+ <p>15 cl de crème liquide</p>
+ <p>200 g de chocolat blanc</p>
+ <p>40 g de noix de coco râpée</p>
+ <p>75 g de sucre</p>
+ <p>2 sachets de sucre vanillé</p>
+ <p>1 cuillère à café de levure</p>
+ <p>75 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>pelez les <ingredient quantite=2>mangues</ingredient> et enlevez les noyaux</operation>. <operation temps=6.86min espace=13>faire cuire la chaire découpée en cube avec le <ingredient quantite=1>sucre</ingredient></operation> vanillé et le beurre durant 20 min. <operation temps=6.86min espace=13>allumez le <recipient>four</recipient> th.7</operation>, <operation temps=6.86min espace=13>préparez une plaque et posez du papier cuisson beurré</operation>. <operation temps=6.86min espace=13>séparez les <ingredient quantite=1>blancs</ingredient> des jaunes</operation>. <operation temps=6.86min espace=13>mélangez les jaunes avec le <ingredient quantite=1>sucre</ingredient> et le zeste du <ingredient quantite=1>citron</ingredient></operation>. <operation temps=6.86min espace=13>ajoutez la farine la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=3>lait</ingredient> froid</operation>. battre les <ingredient quantite=1>blancs</ingredient> en neige et les incorporer à la préparation. mettre la pâte sur la plaque beurré et l’ enfourner pendant 10 min. <operation temps=6.86min espace=13>préparez un torchon humide</operation> et <operation temps=6.86min espace=13>étendez le sur une table</operation>. <operation temps=6.86min espace=13>démoulez le biscuit sur le torchon</operation>, <operation temps=6.86min espace=13>roulez le</operation> et <operation temps=20.0min espace=13>laissez refroidir</operation>. <operation temps=6.86min espace=13>déroulez le biscuit</operation> et <operation temps=6.86min espace=13>étalez la compote de</operation> <ingredient quantite=1>mangue</ingredient> puis <operation temps=6.86min espace=13>roulez le biscuit à nouveau</operation>. <operation temps=6.86min espace=13>cassez le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation> et <operation temps=6.86min espace=13>mettez le dans un récipient</operation>. <operation temps=6.86min espace=13>ajoutez la <ingredient quantite=1>crème</ingredient> bouillante dessus</operation> et mélangez 30 g de <ingredient quantite=1>coco râpé</ingredient>. <operation temps=5.0min espace=13>mélangez</operation> et <operation temps=6.86min espace=13>étalez sur le biscuit</operation>. mettre les 10 g de <ingredient quantite=1>coco</ingredient> restant sur le glaçage pour la décoration. mettre au frais durant 6 heures.
+]]>
+ </preparation>
+</recette>

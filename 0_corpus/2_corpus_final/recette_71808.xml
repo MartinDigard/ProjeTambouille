@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71808">
+ <titre>Gâteau basque maison</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>200 g de beurre mou</p>
+ <p>1 oeuf</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>200 g de sucre</p>
+ <p>300 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la crème: </p>
+ <p>25 cl de lait</p>
+ <p>1 oeuf</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>50 g de farine</p>
+ <p>65 g de sucre</p>
+ <p>1 cuillère à café de rhum</p>
+ <p>1/2 gousse de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour <ingredient quantite=1>la pâte</ingredient>: <operation temps=6.86min espace=17>faire un puits avec la farine et le</operation> <ingredient quantite=1>sucre</ingredient>, ajouter les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=1>oeufs</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient> entier, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>beurre</ingredient>. bien malaxer. pour <ingredient quantite=1>la crème</ingredient>: mélanger avec un fouet la farine, le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=1>oeufs</ingredient>, le <ingredient quantite=1>rhum</ingredient>, la <ingredient quantite=1>vanille</ingredient> et le lait. porter à ébullition jusqu’ à épaississement de la <ingredient quantite=1>crème</ingredient>. dans un <recipient>moule</recipient> beurré, mettre la moitié de la <ingredient quantite=1>pâte</ingredient> aplatie au rouleau. <operation temps=6.86min espace=17>recouvrir de <ingredient quantite=1>crème</ingredient> et étaler dessus l’ autre moitié de la <ingredient quantite=1>pâte</ingredient></operation>. dorer le dessus avec un <ingredient quantite=1>oeuf</ingredient> battu, rayer à la fourchette. <operation temps=25.0min espace=17>faire cuire au <recipient>four</recipient> à 210 ° c (thermostat 7), durant 25 minutes</operation>.
+]]>
+ </preparation>
+</recette>

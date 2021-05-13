@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27686">
+ <titre>Riz cantonais facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de riz</p>
+ <p>2 oignons</p>
+ <p>2 oeufs</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>50 g de crevettes décortiquées</p>
+ <p>75 g de jambon</p>
+ <p>3 cuillères à soupe de petits pois</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire le <ingredient quantite=1>riz</ingredient> et le</operation> rincer à l’ eau froide. couper le <ingredient quantite=1>jambon</ingredient> en dés, émincer finement les <ingredient quantite=2>oignons</ingredient>. mettre à chauffer 1 <ingredient quantite=1>cuillère</ingredient> d’ <ingredient quantite=2>huile</ingredient> dans une <recipient>poêle</recipient> et faire revenir l’ <ingredient quantite=1>oignon</ingredient> avec les <ingredient quantite=3>petits pois</ingredient> (3 mn). verser le mélange dans un <recipient>plat</recipient>. <operation temps=6.86min espace=9>faire une omelette et la</operation> couper en lanières. mettre à chauffer 1 <ingredient quantite=1>cuillère</ingredient> d’ huile et <operation temps=1.0min espace=9>faire revenir 1 mn les <ingredient quantite=1>crevettes</ingredient></operation>. ajouter le <ingredient quantite=1>riz</ingredient>, <ingredient quantite=3>petits pois</ingredient>, <ingredient quantite=2>oignons</ingredient>, <ingredient quantite=1>jambon</ingredient>, omelette. saler et poivrer. <operation temps=6.86min espace=9>faire chauffer 3</operation> mn en remuant sans cesse. <operation temps=6.86min espace=9>servir très chaud on</operation> peut aussi y mettre des champignons noirs, des morceaux de poulet...
+]]>
+ </preparation>
+</recette>

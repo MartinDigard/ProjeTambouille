@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24716">
+ <titre>Crème glacée à la pistache</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>75 g d’ amandes</p>
+ <p>225 g de pistaches</p>
+ <p>75 cl de lait</p>
+ <p>9 jaunes d’ oeufs</p>
+ <p>300 g de sucre</p>
+ <p>150 g de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+moudre les <ingredient quantite=1>amandes</ingredient> et les <ingredient quantite=1>pistaches</ingredient> puis les mettre à infuser dans le lait. amener à ébullition puis couper le feu, <operation temps=20.0min espace=7>laisser refroidir</operation> puis filtrer. fouetter les <ingredient quantite=9>jaunes</ingredient> d’ oeufs avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange blanchisse. incorporer progressivement le lait puis remettre sur feu doux et <operation temps=6.86min espace=7>laisser épaissir en</operation> remuant sans cesse. ne pas <operation temps=20.0min espace=7>faire bouillir</operation>. lorsque le mélange est froid, incorporer la <ingredient quantite=1>crème</ingredient> fouettée en chantilly. verser dans la <recipient>sorbetière</recipient> et <operation temps=6.86min espace=7>laisser prendre</operation>.
+]]>
+ </preparation>
+</recette>

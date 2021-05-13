@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49205">
+ <titre>Cookies aux trois chocolats</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de beurre</p>
+ <p>100 g de sucre roux</p>
+ <p>100 g de sucre blanc</p>
+ <p>1 œuf</p>
+ <p>230 g de farine</p>
+ <p>1/2 sachet de levure</p>
+ <p>1 pincée de sel</p>
+ <p>100 g de chocolat blanc aux noisettes</p>
+ <p>100 g de chocolat au lait aux noix de pécan</p>
+ <p>100 g de chocolat noir aux amandes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire fondre le beurre, y</operation> ajouter les <ingredient quantite=1>sucres</ingredient>. remuer avant d’ ajouter l’ <ingredient quantite=1>œuf</ingredient> entier, puis incorporer la farine, la <ingredient quantite=1>levure</ingredient> et la pincée de <ingredient quantite=1>sel</ingredient>. bien mélanger le tout à l’ aide d’ une cuillère jusqu’ à l’ obtention d’ une pâte homogène. concasser les <ingredient quantite=1>chocolats</ingredient> en petits morceaux et les incorporer à la pâte. former des petits tas d’ environ 4 cm de diamètre (pas trop <recipient>plat</recipient>). disposer sur une plaque recouverte de papier sulfurisé. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6) puis enfourner 8 à 10 min (légèrement doré et toujours moelleux au cœur). <operation temps=20.0min espace=12>laisser refroidir</operation>.
+]]>
+ </preparation>
+</recette>

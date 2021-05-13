@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65451">
+ <titre>Poulet aux asperges et aux oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de filets de poulet</p>
+ <p>2 oignons </p>
+ <p>1 petit bocal de pointes d’ asperges</p>
+ <p>1/2 verre de vin blanc sec (10 cl) </p>
+ <p>1 cube aide-culinaire ail-persil (ou ail + persil mixé avec beurre/huile) </p>
+ <p>sauce soja</p>
+ <p>eau</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire revenir les <ingredient quantite=1>filets</ingredient> coupés en morceaux dans un peu d’</operation> huile. au bout d’ 1 min, rajouter le <ingredient quantite=1>vin blanc</ingredient>, l’ <ingredient quantite=1>aide culinaire</ingredient> et un <ingredient quantite=1>filet</ingredient> de sauce <ingredient quantite=1>soja</ingredient>. continuer la cuisson 2 min et réserver en prenant soin de <operation temps=6.86min espace=11>laisser le liquide dans le <recipient>faitout</recipient></operation>. y <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés pendant 5 min à feu plus doux puis y ajouter les <ingredient quantite=1>pointes</ingredient> d’ <ingredient quantite=1>asperges</ingredient>, un peu de sauce <ingredient quantite=1>soja</ingredient>. continuer la cuisson 5 min, allonger avec un peu d’ <ingredient quantite=1>eau</ingredient> si nécessaire. saupoudrer le <ingredient quantite=1>poulet</ingredient> cuit d’ 1 cuillère à soupe rase de farine, le remettre dans le <recipient>faitout</recipient>. continuer la cuisson le temps d’ amener le <ingredient quantite=1>poulet</ingredient> à bonne température. servir. vous pouvez présenter ce <recipient>plat</recipient> avec du riz <ingredient quantite=1>blanc</ingredient> servi à part.
+]]>
+ </preparation>
+</recette>

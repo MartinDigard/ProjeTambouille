@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61880">
+ <titre>Gâteau au yaourt au café</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pot de yaourt</p>
+ <p>2 pots de sucre</p>
+ <p>2 pots de farine</p>
+ <p>1/2 pot d’ huile</p>
+ <p>1/2 sachet de levure</p>
+ <p>3 oeufs</p>
+ <p>3 cuillères à café de café soluble (en poudre de preférence) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=10>mélangez le <ingredient quantite=1>yaourt</ingredient>, le <ingredient quantite=2>sucre</ingredient>, la farine, l’ <ingredient quantite=1>huile</ingredient> les <ingredient quantite=3>oeufs</ingredient> et la <ingredient quantite=1>levure</ingredient></operation>. si le <ingredient quantite=3>café soluble</ingredient> est en poudre: <operation temps=6.86min espace=10>mélangez - le directement avec les autres ingrédients</operation>. si le <ingredient quantite=3>café soluble</ingredient> est en grains: <operation temps=6.86min espace=10>mélangez - le avec quelques gouttes d’ eau afin d’</operation> <operation temps=6.86min espace=10>obtenir une pâte un peu gluante</operation> et <operation temps=6.86min espace=10>incorporez - la au reste du mélange</operation>. <operation temps=6.86min espace=10>beurrez le <recipient>moule</recipient></operation> et <operation temps=6.86min espace=10>saupoudrez - le de <ingredient quantite=2>farine</ingredient></operation>. <operation temps=6.86min espace=10>versez la pâte dedans</operation>. <operation temps=6.86min espace=10>mettez au <recipient>four</recipient>, préchauffé à 180 ° c (thermostat 6),</operation> et <operation temps=30.0min espace=10>laissez cuire 30 min</operation>.
+]]>
+ </preparation>
+</recette>

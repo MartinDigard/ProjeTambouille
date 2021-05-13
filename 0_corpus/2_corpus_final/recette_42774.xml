@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42774">
+ <titre>Mousse au chocolat à la crème de marrons</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de chocolat noir (200 g) </p>
+ <p>4 oeufs </p>
+ <p>2 cuillères à soupe de crème de marrons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=3>faire fondre la tablette de <ingredient quantite=1>chocolat</ingredient> en y</operation> incorporant un peu d’ eau. y ajouter la <ingredient quantite=2>crème de marron</ingredient>. casser les <ingredient quantite=4>oeufs</ingredient> en séparant les jaunes des blancs. incorporer le <ingredient quantite=1>chocolat</ingredient> fondu aux jaunes. monter en neige les blancs en ajoutant une pincé de sel puis incorporer délicatement les blancs au <ingredient quantite=1>chocolat</ingredient>. <operation temps=6.86min espace=3>laisser reposer 6 h</operation> puis déguster.
+]]>
+ </preparation>
+</recette>

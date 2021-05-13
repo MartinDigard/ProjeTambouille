@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70200">
+ <titre>Terrine de porc aux noisettes et au porto</titre>
+ <type>Entrée</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>Pour la marinade: </p>
+ <p>25 cl de vin blanc</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>mélange 5 baies ou poivre blanc (moulu) </p>
+ <p>sel</p>
+ <p>herbes de Provence</p>
+ <p>6 clous de girofle</p>
+ <p>1 échalote hachée</p>
+ <p>3 feuilles de laurier</p>
+ <p>Pour la terrine: </p>
+ <p>700 g de gorge de porc</p>
+ <p>400 g de sauté de porc</p>
+ <p>1 rectangle de barde de 30 x 20 cm</p>
+ <p>50 g de noisettes</p>
+ <p>2 tranches de pain de mie</p>
+ <p>2 œufs</p>
+ <p>2 cuillères à soupe de farine (plus 2 autres pour sceller la terrine) </p>
+ <p>1 cuillère à soupe de porto</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 feuilles de laurier</p>
+ <p>lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper la <ingredient quantite=1>gorge de porc</ingredient> en morceaux de même grosseur que le sauté et placer l’ ensemble dans une jatte. verser dessus l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, puis l’ ensemble des ingrédients de la <ingredient quantite=1>marinade</ingredient> en terminant par le <ingredient quantite=1>vin</ingredient>. bien mélanger, <operation temps=6.86min espace=28>couvrir d’ un film plastique</operation> et <operation temps=6.86min espace=28>laisser reposer au <recipient>réfrigérateur</recipient> 3 ou 4 heures</operation>. avec une écumoire, placer la viande marinée dans le bol du robot et la hacher. verser ce hachis dans un grand <recipient>saladier</recipient> et y ajouter le <ingredient quantite=2>pain de mie</ingredient> trempé dans le lait, les <ingredient quantite=2>œufs</ingredient> battus, la farine, le <ingredient quantite=1>porto</ingredient>, les <ingredient quantite=1>noisettes</ingredient> coupées en deux et les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> moulinées. mélanger soigneusement entre chaque ajout d’ ingrédient à l’ aide d’ une fourchette. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=28>garnir la <ingredient quantite=1><recipient>terrine</recipient></ingredient> de <ingredient quantite=1>barde</ingredient> (fond et côtés) puis la</operation> <operation temps=6.86min espace=28>remplir du hachis</operation>. poser dessus 3 <ingredient quantite=3>feuilles de laurier</ingredient> et <operation temps=6.86min espace=28>recouvrir de <ingredient quantite=1>barde</ingredient></operation>. dans une jatte, préparer une pâte avec de la farine et de l’ eau. en <operation temps=6.86min espace=28>faire un cordon</operation> et sceller le couvercle de la <ingredient quantite=1><recipient>terrine</recipient></ingredient> avec. placer dans un <recipient>bain marie</recipient> au <recipient>four</recipient> pendant 2h30. la finesse du hachage de la viande se fait selon votre goût.
+]]>
+ </preparation>
+</recette>

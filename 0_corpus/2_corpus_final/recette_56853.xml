@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56853">
+ <titre>Petits biscuits tous simples</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de beurre (température ambiante) </p>
+ <p>200 g de sucre</p>
+ <p>1 cuillère à café de sucre vanillé ou essence</p>
+ <p>3 petits oeufs</p>
+ <p>1 zeste de citron</p>
+ <p>520 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un grand bol, mélanger le beurre et les <ingredient quantite=1>sucres</ingredient>. ajouter les <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>zeste</ingredient>. puis <ingredient quantite=1>petit</ingredient> à <ingredient quantite=1>petit</ingredient> ajouter la farine. (si vous voulez utiliser une machine à biscuits, ne <operation temps=6.86min espace=7>mettez pas toute la farine</operation>.) etaler la pâte sur le plan de travail, fariné (environ 1/2 cm) et découper des formes. mettre à cuire dans le <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6), pendant une quinzaine de minutes (ils doivent être légèrement bronzés). si vous <operation temps=6.86min espace=7>arrivez à</operation> attendre quelques jours avant de les manger, ils seront encore meilleurs!!!
+]]>
+ </preparation>
+</recette>

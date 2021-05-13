@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36541">
+ <titre>Grimolle aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 cuillères à soupe de farine</p>
+ <p>6 cuillères à soupe de sucre</p>
+ <p>5 cuillères à soupe d’ huile</p>
+ <p>1 paquet de levure chmiqiue (soit 11 g) </p>
+ <p>1/2 verre d’ eau</p>
+ <p>2 oeufs entiers</p>
+ <p>5 belles pommes golden</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre dans un <recipient>plat</recipient> la farine, le <ingredient quantite=6>sucre</ingredient>, l’ huile, la <ingredient quantite=1>levure</ingredient>, les <ingredient quantite=2>oeufs</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. bien mélanger le tout. ajouter les <ingredient quantite=5>pommes</ingredient> coupées en moyens morceaux et mettre le tout dans le <recipient>four</recipient> bien chaud (préchauffé à thermostat 7, soit 210 ° c). <operation temps=25.0min espace=9>laisser cuire 25 min</operation> a 30 min et <operation temps=6.86min espace=9>laissez refroidir un peu avant de</operation> démouler. pour savoir si c’ est cuit, planter la pointe d’ un couteau: si il n’ y a rien sur le couteau, c’ est prêt.
+]]>
+ </preparation>
+</recette>

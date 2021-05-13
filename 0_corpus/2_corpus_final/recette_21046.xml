@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21046">
+ <titre>Gâteau rose de Reims</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>30 biscuits roses de Reims</p>
+ <p>200 g d’ amandes en poudre</p>
+ <p>125 g de beurre ramolli</p>
+ <p>80 g de sucre</p>
+ <p>4 jaunes d’ oeuf</p>
+ <p>1 verre de lait</p>
+ <p>4 cl de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire chauffer le <ingredient quantite=1>lait</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>rhum</ingredient></operation>. battre les <ingredient quantite=4>jaunes</ingredient> et verser doucement le <ingredient quantite=1>lait</ingredient> chaud en tournant pour <operation temps=6.86min espace=10>obtenir une crème consistante</operation>. <operation temps=6.86min espace=10>faire prendre doucement sur le feu sans</operation> <operation temps=6.86min espace=10>laisser bouillir</operation>. <operation temps=20.0min espace=10>laisser refroidir</operation>. mélanger le beurre avec la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> et incorporer petit à petit les gâteaux roses réduits en <ingredient quantite=1>poudre</ingredient>. ajouter la crème refroidie, mélanger. mettre dans un <recipient>moule</recipient> et placer 12h au <recipient>réfrigérateur</recipient>. servir coupé en tranches fines avec de la crème anglaiseencore meilleur si on le prépare la veille. champagne
+]]>
+ </preparation>
+</recette>

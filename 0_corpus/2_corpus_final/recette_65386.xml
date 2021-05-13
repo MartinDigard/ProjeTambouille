@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65386">
+ <titre>Paupiettes de dinde sauce volaille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuillères à café de fond de volaille</p>
+ <p>20 cl de vin blanc ou d’ eau</p>
+ <p>4 paupiettes de dinde</p>
+ <p>2 oignons</p>
+ <p>100 g de lardons fumés</p>
+ <p>1 petite boite de champignons de Paris émincés</p>
+ <p>sel, poivre, piment</p>
+ <p>huile d’ olive</p>
+ <p>farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passer les <ingredient quantite=4>paupiettes</ingredient> dans de la farine. <operation temps=6.86min espace=10>faire chauffer une <recipient>poêle</recipient> avec un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>, y</operation> faire dorer les <ingredient quantite=4>paupiettes de dinde</ingredient> de tous les côtés. assaisonner avec le <ingredient quantite=1>sel</ingredient>, le poivre et un peu de piment en poudre. ajouter les <ingredient quantite=2>oignons émincés</ingredient> et <operation temps=3.0min espace=10>faire cuire 2/3 minutes</operation>. ajouter les <ingredient quantite=1>lardons fumés</ingredient> et les <ingredient quantite=1>champignons</ingredient> égouttés. <operation temps=15.0min espace=10>laisser mijoter 15 minutes en</operation> remuant de temps en temps. délayer le <ingredient quantite=2>fond de volaille</ingredient> avec le <ingredient quantite=1>vin blanc</ingredient>, ajouter le tout à la préparation (<ingredient quantite=1>lardons</ingredient>, <ingredient quantite=2>oignons</ingredient>, <ingredient quantite=4>paupiettes</ingredient> et <ingredient quantite=1>champignons</ingredient>). <operation temps=2.0min espace=10>laisser réduire 2 minutes à feu doux</operation>. servir, c’ est prêt bon appétit... accompagner de riz, pâtes, purée, haricots verts, <ingredient quantite=1>petits</ingredient> pois... tout est possible!
+]]>
+ </preparation>
+</recette>

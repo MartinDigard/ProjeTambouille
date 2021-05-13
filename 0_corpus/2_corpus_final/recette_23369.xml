@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23369">
+ <titre>Charlotte légère aux pêches fraîches</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pêches mûres et parfumées</p>
+ <p>biscuits à la cuillère</p>
+ <p>5 cuillères à soupe de rhum (ou alcool de pêche) </p>
+ <p>75 g de sucre</p>
+ <p>Pour la crème: </p>
+ <p>1/2 litre de lait</p>
+ <p>125 g de sucre</p>
+ <p>3 oeufs</p>
+ <p>30 g de fécule (ou Maïzena) </p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=16>pelez</operation> et <operation temps=6.86min espace=16>dénoyautez les <ingredient quantite=4>pêches</ingredient></operation>. <operation temps=6.86min espace=16>coupez - les en petits dés</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=16>mélangez les <ingredient quantite=4>pêches</ingredient> avec le <ingredient quantite=5>rhum</ingredient>, le <ingredient quantite=1>sucre</ingredient> et un peu d’ eau</operation>. <operation temps=6.86min espace=16>laissez macérer 2 à 3 heures au frigo</operation>. <operation temps=6.86min espace=16>egouttez les <ingredient quantite=4>pêches</ingredient></operation>. <operation temps=6.86min espace=16>conservez le jus, il</operation> servira à tremper les biscuits. <operation temps=6.86min espace=16>préparez la <ingredient quantite=1>crème</ingredient> pâtissière légère</operation>. <operation temps=6.86min espace=16>faites bouillir le</operation> <ingredient quantite=1>lait</ingredient> puis <operation temps=6.86min espace=16>retirez - le du feu</operation>. <operation temps=6.86min espace=16>délayez la fécule, les jaunes d’</operation> oeufs avec un peu de <ingredient quantite=1>lait</ingredient> tiède. <operation temps=6.86min espace=16>ajoutez le reste de</operation> <ingredient quantite=1>lait</ingredient>, <operation temps=6.86min espace=16>mettez à feu très doux</operation> et <operation temps=6.86min espace=16>laissez cuire jusqu’ à bonne consistance sans</operation> cesser de remuer. <operation temps=6.86min espace=16>retirez ensuite du feu</operation>, <operation temps=6.86min espace=16>laissez tiédir avant d’</operation> ajouter la <ingredient quantite=1>crème</ingredient> puis les blancs d’ <ingredient quantite=3>oeufs</ingredient> battus en neige ferme. montage de la charlotte... imbibez les biscuits avec le jus des <ingredient quantite=4>pêches</ingredient>, <operation temps=6.86min espace=16>tapissez -en le fond et les côtés d’ un <recipient>moule</recipient> à charlotte</operation>. <operation temps=6.86min espace=16>couvrez le fond d’ une couche de <ingredient quantite=4>pêches</ingredient>, d’ une couche de <ingredient quantite=1>crème</ingredient> puis d’ une couche de biscuits</operation>. recommencer en terminant par une couche de biscuits. <operation temps=6.86min espace=16>pressez la charlotte avec un poids</operation> posé sur une assiette formant couvercle, <operation temps=6.86min espace=16>mettez plusieurs heures au <recipient>réfrigérateur</recipient></operation>. <operation temps=6.86min espace=16>démoulez pour</operation> <operation temps=2.0min espace=16>servir</operation>. si vous n’ avez pas de <recipient>moule</recipient> à charlotte, utilisez un <recipient>plat</recipient> à gratin et <operation temps=6.86min espace=16>montez la charlotte comme un tiramisu: vous</operation> <operation temps=6.86min espace=16>servirez la charlotte directement dans le <recipient>plat</recipient></operation>. si il ne vous reste pas assez de liquide pour tremper les biscuits, il suffit de mélanger quelques <ingredient quantite=1>cuillères</ingredient> d’ eau avec du <ingredient quantite=1>sucre</ingredient> et du <ingredient quantite=5>rhum</ingredient>. cette charlotte est un régal de fraicheur, de légèreté. un montbazillac
+]]>
+ </preparation>
+</recette>

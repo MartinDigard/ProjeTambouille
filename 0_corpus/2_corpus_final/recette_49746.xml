@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49746">
+ <titre>Tarte à l’ abricot et aux pistaches</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g d’ abricots mûrs</p>
+ <p>3 cuillères à soupe de gelée de coings ou de confiture d’ abricots</p>
+ <p>150 g de pistaches émondées</p>
+ <p>environ 50 g de sucre (varier selon les goûts) </p>
+ <p>1 pâte feuilletée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> sur la plaque du <recipient>four</recipient>, et la piquer à l’ aide d’ une fourchette. replier légèrement les bords, pour que la bordure de la tarte soit plus épaisse. etaler la <ingredient quantite=3>gelée de coing</ingredient> sur toute la surface. laver et sécher les <ingredient quantite=1>abricots</ingredient>, les <operation temps=6.86min espace=6>ouvrir en deux</operation>, retirer les noyaux. les <operation temps=6.86min espace=6>répartir sur la <ingredient quantite=1>pâte</ingredient>, côté bombé vers le haut</operation>. saupoudrer de <ingredient quantite=1>sucre</ingredient>. concasser finement les <ingredient quantite=1>pistaches</ingredient>, puis les <operation temps=6.86min espace=6>répartir sur les <ingredient quantite=1>abricots</ingredient></operation>. enfourner à 210 ° c (th 7), pendant 20 minutes minimum.
+]]>
+ </preparation>
+</recette>

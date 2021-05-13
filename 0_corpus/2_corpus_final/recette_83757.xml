@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83757">
+ <titre>Tarte aux deux saumons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée (rouleau standard) </p>
+ <p>150 g de saumon fumé</p>
+ <p>300 g de saumon frais (un pavé) </p>
+ <p>150 g de gruyère râpé</p>
+ <p>20 cl de crème fraiche</p>
+ <p>3 oeufs</p>
+ <p>15-20 cl de lait</p>
+ <p>1/2 poivron rouge</p>
+ <p>1 court-bouillon</p>
+ <p>1 cuillerée à soupe de farine ou Maïzena. </p>
+ <p>Sel et noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire le <ingredient quantite=1>saumon frais</ingredient> au <ingredient quantite=1>court-bouillon</ingredient> à feu doux. pendant ce temps <operation temps=6.86min espace=15>faire griller le 1/2 <ingredient quantite=1>poivron</ingredient> au <recipient>four</recipient> pour</operation> pouvoir ensuite en ôter la peau. étaler le fond de tarte dans un <recipient>moule</recipient>. dans un <recipient>saladier</recipient>, mélangez les <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=1>crème</ingredient> fraîche, la <ingredient quantite=1>farine</ingredient>, le lait, le <ingredient quantite=1>sel</ingredient> et la <ingredient quantite=1>noix de muscade</ingredient>. disposer le <ingredient quantite=1>saumon fumé</ingredient> en petits morceaux dans le fond de la tarte puis le <ingredient quantite=1>saumon</ingredient> frais cuit émietté. saupoudrer du <ingredient quantite=1>gruyère râpé</ingredient>. verser par dessus le mélange du <recipient>saladier</recipient> et parsemer la surface de petits morceaux du <ingredient quantite=1>poivron rouge</ingredient>. cuire pendant 20 - 25 min à 230 ° (thermostat 8). <operation temps=6.86min espace=15>finir par un petit coup de grill pour</operation> dorer au besoin. a accompagner d’ une salade de mâche ou autre salade verte. peut aussi servir d’ entrée ou de buffet pour 8 personnes. un muscadet
+]]>
+ </preparation>
+</recette>

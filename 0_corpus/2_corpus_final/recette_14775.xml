@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14775">
+ <titre>Kébbé au four facile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de viande d’ agneau </p>
+ <p>200 à 250 g de bourghoul (boulgour) à cuire</p>
+ <p>3 oignons moyens</p>
+ <p>1 échalote</p>
+ <p>2 ou 3 gousses d’ ail</p>
+ <p>125 g de pignons</p>
+ <p>huile d’ olive</p>
+ <p>60 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faire revenir à blanc les <ingredient quantite=3>oignons</ingredient></operation> hachés à la <recipient>poêle</recipient> sans coloration. <operation temps=20.0min espace=13>laisser refroidir</operation>. hacher grossièrement 1 épaule d’ <ingredient quantite=1>agneau</ingredient>. <operation temps=6.86min espace=13>pétrir la <ingredient quantite=1>viande</ingredient> hachée avec <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=2>ail</ingredient>, <ingredient quantite=1>échalote</ingredient>, <ingredient quantite=3>oignons</ingredient> cuits</operation>. ajouter le <ingredient quantite=1>bourghoul</ingredient>, puis le beurre fondu, puis les <ingredient quantite=1>pignons</ingredient>. bien mélanger. mettre dans un <recipient>plat</recipient> en terre un peu haut. <operation temps=6.86min espace=13>recouvrir d’ un peu d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <ingredient quantite=1>cuire</ingredient> 45 min à <recipient>four</recipient> chaud pendant 20 min (220 ° c - thermostat 6 - 7), puis <ingredient quantite=1>moyen</ingredient> pendant 25 min (180 ° c - thermostat 6). c’ est assez gras, donc à déconseiller pour les régimes amaigrissants! [ ndchef: en principe le kebbé au <recipient>four</recipient> est composé d’ une couche de <ingredient quantite=1>viande</ingredient>, une couche de blé et une dernière couche de <ingredient quantite=1>viande</ingredient>. mais ici, la recette est simplifiée pour aller plus vite! ]
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15213">
+ <titre>Quiche à la tomate et au jambon</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>-1 pot (20 cl) de crème fraîche épaisse </p>
+ <p>1 pâte brisée toute faite</p>
+ <p>2 tranches de jambon de paris</p>
+ <p>2 grosse boîtes de sauce tomate à l’ italienne avec viande (ou sauce bolognaise maison) </p>
+ <p>4 blancs d’ oeufs</p>
+ <p>1 paquets de 200 g de gruyère râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la <ingredient quantite=1>crème fraîche</ingredient>, la <ingredient quantite=2>sauce tomate</ingredient>, le gruyère et le <ingredient quantite=2>jambon</ingredient> coupé en dés, le <ingredient quantite=1>sel</ingredient> et le poivre. monter les blancs en neige, puis les incoporer doucement au mélange. mettre la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. etaler la préparation sur la <ingredient quantite=1>pâte</ingredient>. mettre à <recipient>four</recipient> chaud (200 à 220 ° c) et <operation temps=6.86min espace=10>laisser cuire, en</operation> surveillant la cuisson. c’ est la recette de quiche lorraine de ma mère. peut être aussi un <recipient>plat</recipient> principal, accompagné d’ une salade. blanc ou rosé
+]]>
+ </preparation>
+</recette>

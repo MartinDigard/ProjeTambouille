@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227996">
+ <titre>Poivron farci au reblochon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 poivrons rouges</p>
+ <p>1/2 reblochon</p>
+ <p>2 courgettes</p>
+ <p>1 oignon</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>râpez les <ingredient quantite=2>courgettes</ingredient> grossièrement</operation>. hachez l’ <ingredient quantite=1>oignon</ingredient>. faîtes <operation temps=5.0min espace=9>revenir l’ <ingredient quantite=1>oignon</ingredient> et les <ingredient quantite=2>courgettes</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient> pendant 5 minutes</operation>. préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=9>partagez les <ingredient quantite=3>poivrons</ingredient> en deux et enlevez les graines et les pédoncules</operation>. hors du feu, <operation temps=6.86min espace=9>mélangez les <ingredient quantite=2>courgettes</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> avec le <ingredient quantite=1>reblochon</ingredient></operation> coupé en dés. <operation temps=0.25min espace=9>salez</operation> et <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=6.86min espace=9>farcissez les demi-poivrons avec cette préparation</operation>. <operation temps=45.0min espace=9>mettez au <recipient>four</recipient> pendant 45 minutes en</operation> mettant au fond du <recipient>plat</recipient> 1/2 verre d’ eau et un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=3.0min espace=9>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

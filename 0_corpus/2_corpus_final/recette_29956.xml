@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29956">
+ <titre>Gâteau basque crémeux</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>300 g de farine</p>
+ <p>200 g de sucre</p>
+ <p>200 g de beurre</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>1 oeuf entier</p>
+ <p>1 citron râpé</p>
+ <p>1 pincée de sel Pour la crème: </p>
+ <p>25 cl de litre de lait</p>
+ <p>60 g de sucre</p>
+ <p>25 g de farine</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>1 cuillère à café de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=18>faire un puits avec la farine et le <ingredient quantite=1>sucre</ingredient></operation>. ajouter les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient>, l’ <ingredient quantite=1>oeuf entier</ingredient>, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>citron râpé</ingredient> ainsi que le beurre. malaxer le tout avec les mains jusqu’ à l’ obtention d’ une boule de <ingredient quantite=1>pâte</ingredient>. dans un <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=2>jaunes</ingredient> d’ oeufs à l’ aide d’ un fouet. ajouter le <ingredient quantite=1>lait</ingredient> préalablement chauffé. mettre le tout dans une <recipient>casserole</recipient> puis porter à ébullition jusqu’ à ce que cela épaississe. <operation temps=20.0min espace=18>laisser refroidir</operation> et ajouter le <ingredient quantite=1>rhum</ingredient>. dans un <recipient>moule</recipient> beurré, mettre la moitié de la <ingredient quantite=1>pâte</ingredient> aplatie au rouleau. <operation temps=6.86min espace=18>recouvrir de <ingredient quantite=1>crème</ingredient> et étaler l’ autre moitié de <ingredient quantite=1>pâte</ingredient> au dessus</operation>. <operation temps=25.0min espace=18>faire cuire 25 min à <recipient>four</recipient> chaud (thermostat 7/210 ° c</operation>). dans la <ingredient quantite=1>crème</ingredient> vous pouvez ajouter des griottes et plus de <ingredient quantite=1>rhum</ingredient>, selon votre goût.
+]]>
+ </preparation>
+</recette>

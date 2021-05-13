@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19644">
+ <titre>Gambas à l’ armoricaine</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>24 gambas</p>
+ <p>1/2 verre de Cognac ou Whisky</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>10 cl de crème fraîche</p>
+ <p>15 cl de coulis de tomate</p>
+ <p>1 verre de vin blanc</p>
+ <p>1 échalote</p>
+ <p>1 oignon</p>
+ <p>3 gousses d’ ail</p>
+ <p>persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>gambas</ingredient>, l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> hachés à feu vif dans de l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient></operation>. flambez au <ingredient quantite=1>whisky</ingredient> ou au <ingredient quantite=1>cognac</ingredient> hors du feu. remettre à feu doux et mouiller avec le <ingredient quantite=1>vin blanc</ingredient>, ajouter l’ <ingredient quantite=3>ail</ingredient> pilé, le <ingredient quantite=1>persil haché</ingredient>, le <ingredient quantite=1>coulis de tomate</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>. saler et poivrer. <operation temps=20.0min espace=10>laisser mijoter à feu doux 20 min</operation>. <operation temps=6.86min espace=10>servir avec du riz ou des pâtes</operation>. toute la maison sent bon la bretagne!!!! muscadet sur lie
+]]>
+ </preparation>
+</recette>

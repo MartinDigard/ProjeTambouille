@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20387">
+ <titre>Steack aux échalotes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 steacks</p>
+ <p>1 échalote</p>
+ <p>5 cl de vin rouge</p>
+ <p>un peu de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer l’ <ingredient quantite=1>échalote</ingredient> finement. <operation temps=6.86min espace=6>faire cuire l’ <ingredient quantite=1>échalote</ingredient> dans une <recipient>poêle</recipient> avec un <ingredient quantite=1>peu</ingredient> de gras (margarine), jusqu’ à ce qu’ elle soit</operation> fondue et légèrement dorée. réserver. <operation temps=6.86min espace=6>faire cuire les <ingredient quantite=2>steacks</ingredient> à la cuisson</operation> désirée. réserver. remettre les <ingredient quantite=1>échalotes</ingredient> dans la <recipient>poêle</recipient>, ajouter un <ingredient quantite=1>peu</ingredient> de farine, mélanger, ajouter le <ingredient quantite=1>vin</ingredient>, un peu d’ eau, <operation temps=6.86min espace=6>laisser réduire jusqu’ à</operation> <operation temps=6.86min espace=6>obtenir la consistance</operation> désirée. verser la sauce sur les <ingredient quantite=2>steacks</ingredient>, c’ est prêt!
+]]>
+ </preparation>
+</recette>

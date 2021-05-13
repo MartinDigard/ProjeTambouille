@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27041">
+ <titre>Miadaowsik, Gâteau au Miel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>600 g de farine</p>
+ <p>220 g de sucre</p>
+ <p>80 g de beurre</p>
+ <p>110 g de miel</p>
+ <p>1, 5 cuillère à café de levure fermentante</p>
+ <p>3 oeufs entiers</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la crème: </p>
+ <p>50 cl de lait</p>
+ <p>4, 5 cuillères à soupe de semoule de riz</p>
+ <p>300 g de beurre</p>
+ <p>220 g de sucre</p>
+ <p>3 jaunes d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pâte: 1) tamiser la farine, y ajouter la moitié du <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>levure</ingredient> et travailler le tout. 2) <operation temps=6.86min espace=15>faire fondre le <ingredient quantite=1>miel</ingredient> et le reste du <ingredient quantite=1>sucre</ingredient> et le beurre</operation>. lorsque le tout est fondu <operation temps=6.86min espace=15>ajoutez - le au 1 ° en ayant</operation> <operation temps=6.86min espace=15>pris soin de</operation> mélanger les <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sel</ingredient> à cette même préparation. <operation temps=6.86min espace=15>séparez en 3 parties dans un <recipient>moule</recipient> rectangulaire</operation> et <operation temps=10.0min espace=15>faites cuire séparément, plus ou moins 10 min</operation>. <ingredient quantite=1>crème</ingredient>: <operation temps=6.86min espace=15>faire bouillir le lait</operation>, ajouter la <ingredient quantite=4>semoule de riz</ingredient> et <operation temps=10.0min espace=15>laisser cuire 10 min</operation>. travailler le beurre le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeuf</ingredient> en mélange mousseux. ajouter la préparation semoule - lait quand c’ est froid, et bien mélanger. <operation temps=6.86min espace=15>répartir la</operation> crème sur les trois gâteaux et les superposer. bon appétit. peut <operation temps=6.86min espace=15>servir de bûche de noël</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18318">
+ <titre>Quatre-quarts aux pommes caramélisées</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles pommes</p>
+ <p>180 g de sucre</p>
+ <p>180 g de farine</p>
+ <p>180 g de beurre</p>
+ <p>4 oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>25 morceaux de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher les <ingredient quantite=2>pommes</ingredient> et les couper en tranches minces. dans une <recipient>terrine</recipient>, mélanger les <ingredient quantite=4>oeufs</ingredient> entiers avec le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient> et travailler jusqu’ à ce que le mélange blanchisse et devienne mousseux. ajouter alors alternativement la farine et le beurre ramolli, par petite quantités. <operation temps=6.86min espace=11>faire le caramel dans le <recipient>moule</recipient></operation> et disposer les <ingredient quantite=2>pommes</ingredient> en 2 ou 3 couches. verser la pâte sur les <ingredient quantite=2>pommes</ingredient>. <operation temps=6.86min espace=11>faire cuire 40mn à <recipient>four</recipient> moyen (180 ° c)</operation> et <operation temps=20.0min espace=11>laisser refroidir</operation>. démouler le quatre-quarts tiède, que le caramel ne durcisse pas. vous pouvez aussi <operation temps=6.86min espace=11>faire cette recette sans le caramel</operation>. disposer simplement du papier sulfurisé au fond du <recipient>moule</recipient>, puis placer les <ingredient quantite=2>pommes</ingredient> directement. c’ est également très bon.
+]]>
+ </preparation>
+</recette>

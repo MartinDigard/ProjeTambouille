@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11540">
+ <titre>Placek (gâteau polonais) </titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de farine</p>
+ <p>5 cuillères à soupe de sucre</p>
+ <p>30 g de de beurre</p>
+ <p>10 cl de lait</p>
+ <p>2 oeufs</p>
+ <p>5 g de levure fraîche</p>
+ <p>1 paquet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer d’ abord un levain: mélanger la <ingredient quantite=1>levure</ingredient> avec le lait chaud. ajouter 50 gr de farine. <operation temps=6.86min espace=9>laisser reposer 1/2 h</operation>. ajouter les <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=5>sucre</ingredient>, le <ingredient quantite=1>beurre</ingredient> ramolli et la farine. bien mélanger. bien travailler la pâte. mettre dans un <recipient>moule</recipient> préalablement beurré (de préférence large et rectangulaire) et <operation temps=6.86min espace=9>laisser monter 1 h au chaud (la pâte</operation> doit doubler de volume). parsemer de pâte râpée préparée de la manière suivante: bien mélanger 50 g de farine avec 40 g de <ingredient quantite=1>beurre</ingredient> et 50 g de <ingredient quantite=5>sucre</ingredient>, puis râper la pâte obtenue avec une râpe à gros trous. mettre à <recipient>four</recipient> chaud (th. 7) environ 45 minutes. se mange froid.
+]]>
+ </preparation>
+</recette>

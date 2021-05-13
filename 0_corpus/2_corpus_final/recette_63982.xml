@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63982">
+ <titre>Filet mignon de porc au lait</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon de porc de 600 g</p>
+ <p>10 pommes de terre moyennes</p>
+ <p>5 carottes</p>
+ <p>1 gros oignon</p>
+ <p>1 cuillère à café de curry</p>
+ <p>sel, poivre</p>
+ <p>bouquet garni</p>
+ <p>75 cl de lait (de quoi recouvrir la viande) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>oignons</ingredient> dans un <recipient>faitout</recipient> jusqu’ à ce qu’ ils soient</operation> translucides, puis les réserver. faire revenir chaque face du <ingredient quantite=1>filet mignon</ingredient> en entier (ou coupé en <ingredient quantite=1>gros</ingredient> tronçons), jusqu’ à ce qu’ il soit doré. eplucher les <ingredient quantite=1>pommes de terre</ingredient> et les <ingredient quantite=5>carottes</ingredient>, et les couper en dés. remettre dans le <recipient>faitout</recipient>, les légumes, les <ingredient quantite=1>oignons</ingredient> avec la viande, le <ingredient quantite=1>bouquet garni</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=1>curry</ingredient> et <operation temps=6.86min espace=10>recouvrir l’ ensemble de lait</operation>. <operation temps=30.0min espace=10>laisser mijoter à feu <ingredient quantite=1>moyen</ingredient> pendant 30 min puis à feu doux pendant 30 à 40 autres min environ</operation>.
+]]>
+ </preparation>
+</recette>

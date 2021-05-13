@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17790">
+ <titre>Crevettes aux mangues</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de grosses crevettes</p>
+ <p>1 kg de chair de mangue coupée en gros dés</p>
+ <p>50 g de beurre</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 oignons</p>
+ <p>15 cl de bouillon de poisson</p>
+ <p>15 cl de vin blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez l’ <ingredient quantite=1>ail</ingredient> et les <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=10>faites les</operation> <operation temps=6.86min espace=10>revenir avec un peu de beurre</operation>. <operation temps=6.86min espace=10>versez le <ingredient quantite=1>bouillon</ingredient> et le</operation> <ingredient quantite=1>vin</ingredient>, <operation temps=6.86min espace=10>portez à ébullition,</operation> puis <operation temps=6.86min espace=10>baissez le feu</operation>. <operation temps=20.0min espace=10>laissez réduire environ 20 mn</operation>. <operation temps=6.86min espace=10>ajoutez les morceaux de <ingredient quantite=1>mangue</ingredient> à la sauce</operation>, <operation temps=0.25min espace=10>salez</operation> et <operation temps=0.5min espace=10>poivrez</operation> généreusement. <operation temps=6.86min espace=10>faites chauffer quelques minutes</operation>. pendant ce temps, <operation temps=6.86min espace=10>décortiquez les crevettes en</operation> laissant les têtes et <operation temps=6.86min espace=10>faites les</operation> sauter à feu vif avec le reste de beurre dans une deuxième <recipient>poêle</recipient>. disposez les crevettes dans un <recipient>plat</recipient> et <operation temps=6.86min espace=10>nappez les de sauce</operation>.
+]]>
+ </preparation>
+</recette>

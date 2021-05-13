@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46961">
+ <titre>Pâtes cuites façon risotto</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>300 g de champignons</p>
+ <p>25 cL de vin rouge</p>
+ <p>250 g de pâtes courtes (toupies) </p>
+ <p>1 l d’ eau</p>
+ <p>1 cube de bouillon de bœuf</p>
+ <p>½ cube de bouillon de légumes</p>
+ <p>10 olives vertes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir l’ <ingredient quantite=1>oignon</ingredient>, l’ <ingredient quantite=1>ail</ingredient> dans de l’ huile d’ <ingredient quantite=1>olive</ingredient>, ensuite</operation> ajouter les <ingredient quantite=1>pâtes</ingredient>, mélanger pendant 1 min pour qu’ elles s’ imprègnent bien de l’ huile. verser le verre de <ingredient quantite=1>vin</ingredient>, <operation temps=6.86min espace=9>laisser les <ingredient quantite=1>pâtes</ingredient> s’ en</operation> imprégner, ensuite ajouter le <ingredient quantite=1>bouillon</ingredient> petit à petit bien chaud, comme pour un risotto, jusqu’ à ce que les <ingredient quantite=1>pâtes</ingredient> soient cuites … pendant ce temps, <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>champignons</ingredient>,</operation> et couper les <ingredient quantite=1>olives</ingredient> en morceau … mélanger le tout, avec du parmesan! les <ingredient quantite=1>pâtes</ingredient> version " risotto " ne plairont probablement pas à ceux qui les aiment al dente! mais ça change...
+]]>
+ </preparation>
+</recette>

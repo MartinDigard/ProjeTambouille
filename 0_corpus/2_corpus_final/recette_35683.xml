@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35683">
+ <titre>Magret de canard miel et amandes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>un filet de magret de canard</p>
+ <p>environ 2 cuillères à soupe d’ amandes effilées</p>
+ <p>1 cuillère à café de miel</p>
+ <p>thym, laurier, marjolaine</p>
+ <p>un petit oignon</p>
+ <p>un dl de jus d’ orange</p>
+ <p>une cuillère à café de Maïzena</p>
+ <p>sel poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>magret</ingredient> en une dizaine de morceaux et les <operation temps=6.86min espace=9>faire revenir côté graisse dans un <recipient>poêle</recipient> à feux moyen</operation>. quand la graisse à bien diminué, en enlever une partie. <operation temps=6.86min espace=9>faire dorer les</operation> <ingredient quantite=1>amandes</ingredient> et additionner le <ingredient quantite=1>miel</ingredient>, les herbes et les <ingredient quantite=1>oignons</ingredient>. attendre 5 à 7 mn. déglacer avec le <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient>. si envie d’ une sauce plus homogène ajouter <ingredient quantite=1>maïzena</ingredient>. <operation temps=6.86min espace=9>servir avec du riz ou pommes vapeur</operation>.
+]]>
+ </preparation>
+</recette>

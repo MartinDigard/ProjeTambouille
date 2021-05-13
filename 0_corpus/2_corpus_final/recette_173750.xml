@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173750">
+ <titre>Fondue genèvoise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de gruyère ou de comté</p>
+ <p>30 cl de vin blanc sec</p>
+ <p>1 bon verre de crème fraiche</p>
+ <p>sel </p>
+ <p>poivre </p>
+ <p>muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>râpez le fromage directement dans le <recipient>caquelon</recipient> à fondue</operation>. mouillez avec le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=0.25min espace=7>salez</operation> et <operation temps=0.5min espace=7>poivrez</operation>. <operation temps=6.86min espace=7>portez sur feu doux</operation>. <operation temps=6.86min espace=7>laissez cuire doucement une vingtaine de minutes, sans</operation> cesser de remuer avec une spatule en bois, jusqu’ à ce que le fromage soit bien fondu et forme une <ingredient quantite=1>crème</ingredient> lisse et homogène. incorporez alors la <ingredient quantite=1>crème fraiche</ingredient>. <operation temps=6.86min espace=7>ajoutez <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et une pincée de <ingredient quantite=1>muscade</ingredient></operation>. accompagnement: en plus des dés de pain, on sert des cubes de saucisson <ingredient quantite=1>sec</ingredient>, des radis, des olives dénoyautées, des petits champignons de paris crus et des cubes de jambon fumé. essayer, c’ est l’ adopter! le meme que la préparation (<ingredient quantite=1>vin blanc</ingredient> suisse ou gewurztraminer)
+]]>
+ </preparation>
+</recette>

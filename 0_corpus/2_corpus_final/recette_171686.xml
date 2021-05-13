@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171686">
+ <titre>Ravioles de canard</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuisses de canard confit</p>
+ <p>2 carottes</p>
+ <p>4 petites tomates</p>
+ <p>quelques champignons</p>
+ <p>1 oignon</p>
+ <p>1 botte de ciboulette</p>
+ <p>4 rectangles de pâte à lasagne</p>
+ <p>20 cl de crème liquide</p>
+ <p>20 cl de lait</p>
+ <p>40 cl de bouillon</p>
+ <p>200 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+chauffer le <ingredient quantite=2>canard</ingredient> au <recipient>four</recipient> pour enlever la graisse. monder les <ingredient quantite=4>tomates</ingredient> et les couper en <ingredient quantite=1>petits</ingredient> dés. couper de même les <ingredient quantite=2>carottes</ingredient> et les <ingredient quantite=1>champignons</ingredient>. ciseler finement l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>ciboulette</ingredient>. dans une <recipient>poêle</recipient> <operation temps=6.86min espace=15>faire fondre l’</operation> <ingredient quantite=1>oignon</ingredient>, ajouter les légumes, mouiller avec un peu de <ingredient quantite=1>bouillon</ingredient> et cuire à couvert. cuire la <ingredient quantite=4>pâte</ingredient> dans de l’ eau bouillante. émincer la chair du <ingredient quantite=2>canard</ingredient> et mélanger avec les légumes. pour la sauce: <operation temps=6.86min espace=15>faire réduire le <ingredient quantite=1>bouillon</ingredient> avec la <ingredient quantite=1>crème</ingredient> et le lait</operation>. ajouter le beurre et émulsionner au mixer plongeant. ajouter la <ingredient quantite=1>ciboulette</ingredient> au mélange et disposer sur une plaque de <ingredient quantite=4>pâte</ingredient>. replier celle-ci sur la préparation (raviole ouverte) et napper de sauce. suivant la quantité proposée, ce <recipient>plat</recipient> peut se <operation temps=6.86min espace=15>servir en entrée ou en <recipient>plat</recipient> principal avec une salade</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57980">
+ <titre>Saltimbocca toutes simples</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 morceaux de veau (spécial "cuisson sur pierre") </p>
+ <p>1 morceau de fromage St Marcelin</p>
+ <p>8 tranches de jambon cru</p>
+ <p>un verre de vin blanc ou du marsala</p>
+ <p>cure-dents</p>
+ <p>beurre de cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper des <ingredient quantite=8>tranches</ingredient> de <ingredient quantite=1>fromage</ingredient> de la taille des escalopes. sur l’ escalope, poser un <ingredient quantite=1>morceau de fromage</ingredient> et <operation temps=6.86min espace=6>recouvrez de <ingredient quantite=8>jambon</ingredient> cru (la <ingredient quantite=1>tranche</ingredient></operation> devra être coupée aux dimensions de l’ escalope). fermer par des <ingredient quantite=1>cure dents</ingredient> (2 suffisent, normalement). <operation temps=6.86min espace=6>faire revenir les <ingredient quantite=8>morceaux</ingredient> de viande dans du beurre, d’ abord côté <ingredient quantite=8>jambon</ingredient>, le temps de</operation> <operation temps=6.86min espace=6>faire un peu</operation> colorer, puis cuire coté viande, comme pour une escalope classique. juste avant la fin de <ingredient quantite=1>cuisson</ingredient>, ajouter le <ingredient quantite=1>vin</ingredient>. <operation temps=6.86min espace=6>grattez les sucs et le <ingredient quantite=1>fromage</ingredient> qui aura</operation> commencé à couler, afin de le lier au jus et <operation temps=1.0min espace=6>laisser mijoter 1 min à feu doux</operation>... server les escalopes et nappez de jus. pas vraiment " diététique " mais délicieux... un régal avec un gratin dauphinois maison, par exemple. un <ingredient quantite=1>vin blanc</ingredient> sec
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30460">
+ <titre>Moussaka d’ aubergine à l’ agneau</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 grosses aubergines</p>
+ <p>1 petite épaule d’ agneau</p>
+ <p>3 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 brins de thym</p>
+ <p>huile d’ olive</p>
+ <p>4 tomates </p>
+ <p>1 cuillère à café de sucre</p>
+ <p>vin blanc</p>
+ <p>20 g de beurre</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>20 cl de lait</p>
+ <p>125 g de parmesan</p>
+ <p>sel, poivre et noix de muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>aubergines</ingredient> en tranches puis <operation temps=30.0min espace=16>faire dégorger au <ingredient quantite=1>sel</ingredient> durant 30 minutes avant de les</operation> rincer et de les sécher. hacher l’ <ingredient quantite=1>agneau</ingredient>. <operation temps=6.86min espace=16>faire revenir les <ingredient quantite=3>oignons</ingredient> hachés dans l’ huile d’</operation> <ingredient quantite=1>olive</ingredient> puis ajouter l’ <ingredient quantite=2>ail</ingredient> écrasé et le <ingredient quantite=2>thym</ingredient>. incorporer la viande, saler et poivrer. <operation temps=10.0min espace=16>laisser cuire 10 minutes</operation> puis ajouter les <ingredient quantite=4>tomates</ingredient> concassées et le <ingredient quantite=1>sucre</ingredient>. mouiller à hauteur de <ingredient quantite=1>vin blanc</ingredient>. <operation temps=6.86min espace=16>laisser cuire à</operation> découvert pour <operation temps=6.86min espace=16>faire réduire le jus</operation>. cuire les <ingredient quantite=2>aubergines</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient> 4 minutes de chaque côté. préparer une béchamel: sur feu doux, mélanger la farine au beurre fondu puis verser le lait. <operation temps=6.86min espace=16>laisser épaissir sans</operation> cesser de remuer. assaisonner de <ingredient quantite=1>sel</ingredient>, de poivre et <ingredient quantite=1>de noix de muscade</ingredient> râpée. ajouter la moitié du <ingredient quantite=1>parmesan</ingredient>. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). dans un <recipient>plat</recipient> à gratin, disposer des couches successives d’ <ingredient quantite=2>aubergines</ingredient> et de viande. napper de béchamel et parsemer de de <ingredient quantite=1>parmesan</ingredient>. enfourner 10 minutes.
+]]>
+ </preparation>
+</recette>

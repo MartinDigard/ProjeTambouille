@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21952">
+ <titre>Abricots au sirop maison</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g d’ abricots</p>
+ <p>250 g de sucre en poudre</p>
+ <p>5 cl d’ alcool au choix (kirsch, rhum...) </p>
+ <p>20 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>dénoyautez les <ingredient quantite=1>abricots</ingredient>,</operation> puis <operation temps=6.86min espace=5>cassez une dizaine de noyaux d’ <ingredient quantite=1>abricots</ingredient> pour en extraire l’ amande</operation>. <operation temps=6.86min espace=5>faites tremper ces amandes dans l’ <ingredient quantite=1>alcool</ingredient> quelques heures</operation>. <operation temps=6.86min espace=5>préparez un sirop en</operation> <operation temps=6.86min espace=5>faisant bouillir ensemble le <ingredient quantite=1>sucre</ingredient> et l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. placez les <ingredient quantite=1>abricots</ingredient> dans le sirop, puis <operation temps=5.0min espace=5>laissez cuire 5 minutes à petits bouillons</operation>. <operation temps=6.86min espace=5>laissez refroidir le sirop,</operation> puis <operation temps=6.86min espace=5>retirez les <ingredient quantite=1>abricots</ingredient> et placez - les dans le <recipient>plat</recipient> de service</operation>. <operation temps=6.86min espace=5>faites épaissir le sirop à feu doux</operation>. après quelques minutes, <operation temps=6.86min espace=5>ajoutez le kirsch parfumé aux amandes d’ <ingredient quantite=1>abricots</ingredient> (sans les amandes),</operation> puis <operation temps=20.0min espace=5>laissez refroidir</operation>. <operation temps=6.86min espace=5>nappez les <ingredient quantite=1>abricots</ingredient> avec ce sirop</operation> et <operation temps=6.86min espace=5>servez de suite, ou bien</operation> <operation temps=6.86min espace=5>mettez en bocaux et stérilisez</operation>.
+]]>
+ </preparation>
+</recette>

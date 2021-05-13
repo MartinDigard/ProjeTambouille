@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90724">
+ <titre>Truite aux pêches</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 truites</p>
+ <p>5 pêches</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de sauce soja</p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>1 pincée de cannelle </p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+vider les <ingredient quantite=4>truites</ingredient>, les placer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. saler et enfourner dans un <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 20 minutes environ. éplucher les <ingredient quantite=5>pêches</ingredient> et les couper en petits dés. émincer l’ <ingredient quantite=1>oignon</ingredient> et le faire revenir avec une <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>poêle</recipient>. ajouter les <ingredient quantite=5>pêches</ingredient>, déglacer avec du <ingredient quantite=1>vinaigre balsamique</ingredient>, ajouter une <ingredient quantite=1>cuillère à soupe de sauce soja</ingredient>. <operation temps=2.0min espace=12>laisser réduire pendant 2 minutes</operation> puis ajouter la <ingredient quantite=1>cannelle</ingredient>. saler et poivrer. dresser les <ingredient quantite=4>truites</ingredient> dans les assiettes et la <ingredient quantite=1>sauce</ingredient> aux <ingredient quantite=5>pêches</ingredient>.
+]]>
+ </preparation>
+</recette>

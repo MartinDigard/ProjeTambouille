@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86196">
+ <titre>Velouté d’ endives simplissime</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 endives</p>
+ <p>2 échalotes</p>
+ <p>3 cuillères à soupe de purée en poudre</p>
+ <p>20 cl d’ eau</p>
+ <p>20 cl de lait</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir les <ingredient quantite=2>échalotes</ingredient></operation> émincées dans un peu d’ huile, puis ajouter les <ingredient quantite=3>endives</ingredient> coupées en tronçons de 1 cm pendant environ 15 minutes. assaisonner de poivre et de souce <ingredient quantite=2>soja</ingredient>. remuer régulièrement. porter à ébullition l’ <ingredient quantite=1>eau</ingredient> et le lait avant d’ ajouter hors du feu la <ingredient quantite=3>purée en poudre</ingredient> (on peut en mettre plus selon la consistance désirée). verser les <ingredient quantite=3>endives</ingredient> dans la <recipient>casserole</recipient> puis les <operation temps=10.0min espace=8>faire légèrement réduire à petits bouillons pendant 10 min</operation>. mixer et servir très chaud.
+]]>
+ </preparation>
+</recette>

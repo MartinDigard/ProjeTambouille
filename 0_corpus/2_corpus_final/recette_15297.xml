@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15297">
+ <titre>Oeufs cocotte au Madère</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 oeufs</p>
+ <p>1 petite boîte de concentré de tomates</p>
+ <p>poivre</p>
+ <p>2 cuillères à soupe de Madère</p>
+ <p>6 cuillères à soupe de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger dans un bol la <ingredient quantite=6>crème</ingredient>, le <ingredient quantite=1>concentré de tomates</ingredient>, le poivre et le <ingredient quantite=1>madère</ingredient>. mettre chaque <ingredient quantite=1>oeuf</ingredient> dans un ramequin et y mettre le mélange. cuire au <recipient>bain - marie</recipient> pendant 10 minutes.
+]]>
+ </preparation>
+</recette>

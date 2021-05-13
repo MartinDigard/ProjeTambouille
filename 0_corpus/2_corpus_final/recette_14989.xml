@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14989">
+ <titre>Tarte aux figues et aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 figues violettes</p>
+ <p>3 pommes golden</p>
+ <p>1 pâte à tarte</p>
+ <p>miel liquide</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de sucre roux</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>1/2 cuillère à café de vanille en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+disposer la pâte à <ingredient quantite=1>tarte</ingredient> dans le <recipient>moule</recipient>. battre l’ <ingredient quantite=1>oeuf</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>vanille</ingredient>. déposer la préparation sur le fond de la pâte. laver les <ingredient quantite=1>figues</ingredient> et les couper en 4. les mettre sur la pâte au bord du <recipient>moule</recipient> (côté sur le dessous), puis continuer de <operation temps=6.86min espace=11>remplir avec les <ingredient quantite=3>pommes</ingredient></operation>. déposer un peu de <ingredient quantite=1>miel</ingredient> sur chaque morceau de <ingredient quantite=1>figue</ingredient>. saupoudrer toute la <ingredient quantite=1>tarte</ingredient> avec un peu de <ingredient quantite=1>cannelle</ingredient> avant la cuisson. mettre au <recipient>four</recipient> thermostat 7 pendant 30 à 45 mn.
+]]>
+ </preparation>
+</recette>

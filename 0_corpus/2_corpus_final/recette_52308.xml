@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52308">
+ <titre>Tarte figue banane</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>figues</p>
+ <p>2 à 3 bananes</p>
+ <p>1 pâte feuilletée</p>
+ <p>sucre en poudre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). disposer la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. découper les <ingredient quantite=1>figues</ingredient> en fines lamelles et les <operation temps=6.86min espace=8>répartir sur la <ingredient quantite=1>pâte</ingredient> de façon à la</operation> <operation temps=6.86min espace=8>recouvrir totalement</operation>. couper les <ingredient quantite=2>bananes</ingredient> et les <operation temps=6.86min espace=8>répartir par dessus</operation>. saupoudrer de <ingredient quantite=1>sucre en poudre</ingredient>. arroser d’ un filet d’ huile d’ <ingredient quantite=1>olive</ingredient>. mettre au <recipient>four</recipient> durant 30 à 40 minutes. c’ est prêt!!
+]]>
+ </preparation>
+</recette>

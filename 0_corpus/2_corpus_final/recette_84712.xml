@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84712">
+ <titre>Compote pommes carottes bananes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 à 5 pommes</p>
+ <p>4 à 5 grosses carottes</p>
+ <p>1 banane</p>
+ <p>cannelle, gingembre, étoile de badiane</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=4>carottes</ingredient> en petits dés. commencer à les <operation temps=10.0min espace=5>faire cuire dans une <recipient>casserole</recipient> anti-adhésive avec un fond d’ eau pendant 10 minutes environ</operation>. pendant ce temps, éplucher les <ingredient quantite=4>pommes</ingredient> et la <ingredient quantite=1>banane</ingredient>. les couper en dés. les ajouter aux <ingredient quantite=4>carottes</ingredient> au bout des 10 minutes de cuisson. ajouter encore un fond d’ eau de manière à ce que ça n’ attache pas. ajouter les épices. <operation temps=10.0min espace=5>laisser mijoter encore 10 minutes</operation>. mixer et servir tiède ou froid.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171757">
+ <titre>Riz aux lardons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 sachet de riz</p>
+ <p>25 g de lardons</p>
+ <p>1 brin de persil</p>
+ <p>1 cuillère à soupe de crème fraiche</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faites cuire le <ingredient quantite=1>riz</ingredient>, comme</operation> indiqué sur l’ emballage, <operation temps=6.86min espace=7>égouttez - le</operation>. <operation temps=6.86min espace=7>mettez le <ingredient quantite=1>riz</ingredient> avec les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient>, sans matière grasse</operation>, <operation temps=6.86min espace=7>faites cuire quelques instants</operation>. ajoutez la <ingredient quantite=1>crème fraiche</ingredient>, le <ingredient quantite=1>persil</ingredient>, saler, poivrer et <operation temps=5.0min espace=7>laisser chauffer 5 min environ</operation>. <operation temps=2.0min espace=7>servez</operation> chaud... très rapide et délicieux...
+]]>
+ </preparation>
+</recette>

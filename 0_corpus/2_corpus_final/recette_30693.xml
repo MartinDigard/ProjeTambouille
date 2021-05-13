@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30693">
+ <titre>Maquereaux marinés et grillés d’ Oléron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 maquereaux de taille moyenne</p>
+ <p>Pour la marinade: </p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>paprika</p>
+ <p>laurier</p>
+ <p>piment de Cayenne</p>
+ <p>sel, poivre du moulin Pour la sauce: </p>
+ <p>70 g de beurre salé</p>
+ <p>3 cuillères à soupe de moutarde forte</p>
+ <p>le jus d’ 1 citron</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> en position grill. nettoyer et vider les <ingredient quantite=4>maquereaux</ingredient> puis les réserver. préparer une <ingredient quantite=1>marinade</ingredient> en mélangeant de l’ huile d’ <ingredient quantite=1>olive</ingredient> avec du <ingredient quantite=1>sel</ingredient>, su <ingredient quantite=1>poivre</ingredient>, du <ingredient quantite=1>paprika</ingredient>, du <ingredient quantite=1>piment de cayenne</ingredient> et une feuille de <ingredient quantite=1>laurier</ingredient>. tremper les <ingredient quantite=4>maquereaux</ingredient> de chaque côté dans la <ingredient quantite=1>marinade</ingredient>, pour bien les imbiber, puis les déposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. les <operation temps=10.0min espace=16>faire griller sur le grill du <recipient>four</recipient> environ 10 min de chaque côté</operation>. pendant ce temps, préparer une <ingredient quantite=1>sauce</ingredient> en <operation temps=6.86min espace=16>faisant fondre dans une <recipient>casserole</recipient> le beurre avec la <ingredient quantite=3>moutarde</ingredient> et le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient></operation>. bien mélanger, <ingredient quantite=1>saler</ingredient> et poivrer, puis <operation temps=6.86min espace=16>laisser épaissir un peu à feu très doux</operation>. napper les <ingredient quantite=4>maquereaux</ingredient> de cette <ingredient quantite=1>sauce</ingredient> et les servir avec des pommes de terre vapeur.
+]]>
+ </preparation>
+</recette>

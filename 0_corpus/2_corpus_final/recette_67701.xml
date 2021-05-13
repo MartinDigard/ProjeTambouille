@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67701">
+ <titre>Red red</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 grosses bananes plantain</p>
+ <p>200 g de haricots coco secs</p>
+ <p>1 boîte de concentré de tomates</p>
+ <p>2 belles tomates</p>
+ <p>1 oignon</p>
+ <p>piment</p>
+ <p>huile pour la cuisson, ou beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+le red red est une recette ghanéenne (afrique de l’ ouest). <operation temps=6.86min espace=8>faire tremper les <ingredient quantite=1>haricots</ingredient>, la veille</operation>. le lendemain, les <operation temps=45.0min espace=8>faire cuire à l’ eau, 45 min</operation> (saler à mi-cuisson). pendant ce temps, préparer la sauce: <operation temps=6.86min espace=8>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé fin dans l’ huile (là - bas, c’ est à l’ huile de palme, mais on peut remplacer par de l’ huile de tournesol ou d’ arachide). ebouillanter les <ingredient quantite=1>tomates</ingredient> (15 secondes dans l’ eau bouillante, la peau se décolle ensuite aisément), les peler, découper la chair en petits cubes et ajouter aux <ingredient quantite=1>oignons</ingredient>, <operation temps=8.0min espace=8>laisser réduire</operation>. quand la sauce est bien réduite, ajouter le <ingredient quantite=1>concentré de tomate</ingredient> et le <ingredient quantite=1>piment</ingredient>. on peut mettre de l’ ail. peler et couper les <ingredient quantite=2>plantains</ingredient> en tronçons de 1 cm de large, en biais. les <operation temps=6.86min espace=8>faire revenir à la <recipient>poêle</recipient> à feu moyen, sans</operation> lésiner sur l’ huile. elles sont prêtes quand elle sont bien caramélisées. mélanger les <ingredient quantite=1>haricots</ingredient> et la sauce, servir les assiettes moitié <ingredient quantite=1>haricots</ingredient> et moitié <ingredient quantite=2>bananes plantains</ingredient>...
+]]>
+ </preparation>
+</recette>

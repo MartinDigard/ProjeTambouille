@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61029">
+ <titre>Gâteau Malibu</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>130 g de sucre</p>
+ <p>180 g de farine</p>
+ <p>100 g de beurre mou</p>
+ <p>1 sachet, soit 10 g de levure chimique</p>
+ <p>1 cuillère à soupe de lait</p>
+ <p>5 cl de Malibu</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> thermostat 6 (180 °), <operation temps=6.86min espace=12>beurrez</operation> et <operation temps=6.86min espace=12>farinez un <recipient>moule</recipient></operation>. <operation temps=6.86min espace=12>mélangez la farine et la <ingredient quantite=1>levure</ingredient> dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=12>battez les <ingredient quantite=3>oeufs</ingredient></operation>. <operation temps=6.86min espace=12>faites ramollir le <ingredient quantite=1>beurre</ingredient> 30 s au micro-ondes,</operation> puis <operation temps=6.86min espace=12>travaillez - le avec le <ingredient quantite=1>sucre</ingredient> au fouet électrique pour</operation> <operation temps=6.86min espace=12>obtenir une crème blanche</operation>. <operation temps=6.86min espace=12>incorporez les <ingredient quantite=3>oeufs</ingredient>, puis le <ingredient quantite=1>lait</ingredient>, et le <ingredient quantite=1>malibu</ingredient></operation>. <operation temps=6.86min espace=12>ajoutez la farine, petit à petit pour</operation> <operation temps=6.86min espace=12>obtenir une pâte homogème</operation>. <operation temps=6.86min espace=12>versez la pâte dans le <recipient>moule</recipient></operation>, mettre au <recipient>four</recipient> et cuire 30 min. bon appétit!!
+]]>
+ </preparation>
+</recette>

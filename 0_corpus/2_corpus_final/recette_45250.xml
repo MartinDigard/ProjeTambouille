@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45250">
+ <titre>Marmite mongole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 blancs de poireaux</p>
+ <p>1/2 chou chinois</p>
+ <p>1 racine de gingembre</p>
+ <p>2 boîtes de 425 ml de lait de coco</p>
+ <p>1 sachet de nouilles chinoises</p>
+ <p>champignons noirs (champignons chinois) </p>
+ <p>2 ou 3 sorte de poissons (saumon, colin, lieu) </p>
+ <p>curry, safran, cumin, poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en fines lamelles les blancs de <ingredient quantite=4>poireaux</ingredient>, le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient> et les <ingredient quantite=1>champignons noirs</ingredient>. <operation temps=6.86min espace=10>faire revenir dans un peu d’</operation> huile les blancs de <ingredient quantite=4>poireaux</ingredient>, le <ingredient quantite=1>chou <recipient>chinois</recipient></ingredient>, le <ingredient quantite=1>gingembre</ingredient> haché, et les <ingredient quantite=1>champignons noirs</ingredient>. une fois les légumes réduits, ajouter les épices (assaisonnement à votre convenance, n’ hésitez pas!), le lait de <ingredient quantite=1>coco</ingredient>. et <operation temps=15.0min espace=10>laisser mijoter 10 à 15 min</operation>. ajouter les <ingredient quantite=1>nouilles</ingredient> et les <ingredient quantite=2>poissons</ingredient> coupés en dés. <operation temps=15.0min espace=10>laisser mijoter 10 à 15 min</operation>, jusqu’ a ce que le <ingredient quantite=1>poisson</ingredient> soit cuit. vin blanc
+]]>
+ </preparation>
+</recette>

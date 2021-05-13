@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53104">
+ <titre>Merlu blanc au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de merlu</p>
+ <p>1/2 poivron rouge, vert et jaune</p>
+ <p>2 échalotes</p>
+ <p>1 verre de vin blanc</p>
+ <p>1/2 verre de jus de citron</p>
+ <p>1 cuillère à soupe de curry</p>
+ <p>20 cl de crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>poivrons</ingredient></operation> coupé en petits dés avec les <ingredient quantite=2>échalotes</ingredient> hachées, dans une <recipient>poêle</recipient>, avec une <ingredient quantite=1>cuillère à soupe</ingredient> d’ huile d’ olive pendant 10 min. ajouter le <ingredient quantite=1>jus de citron</ingredient> et le <ingredient quantite=1>verre de vin blanc</ingredient>, remuer, <operation temps=6.86min espace=9>laisser réduire 3 à 4 min,</operation> puis ajouter le <ingredient quantite=1>curry</ingredient> ; lier ensuite avec la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=9>laisser chauffer quelques instants la sauce,</operation> puis réserver au chaud. pendant ce temps, faire cuire les <ingredient quantite=4>filets de merlu</ingredient> à la vapeur 10 min. une fois cuits, les disposer dans un <recipient>plat</recipient> et les napper de sauce. accompagner de riz nature, légumes <ingredient quantite=1>vert</ingredient> ou pommes vapeur.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96094">
+ <titre>Chou gourmand</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un chou blanc</p>
+ <p>60 g de lardons fumés</p>
+ <p>2 oignons</p>
+ <p>16 rondelles de saucisse sèche ou 8 tranches de jambon fumé</p>
+ <p>40 cl de bouillon</p>
+ <p>sel, poivre du moulin</p>
+ <p>2 feuilles de laurier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=2>oignons</ingredient> et les <operation temps=15.0min espace=9>faire revenir 10 - 15 minutes dans une <recipient>cocotte</recipient> avec les <ingredient quantite=1>lardons</ingredient> à feu moyen</operation>. pendant ce temps, couper le <ingredient quantite=1>chou</ingredient> en lamelles. ajouter les <ingredient quantite=1>rondelles de saucisse sèche</ingredient> ou les <ingredient quantite=1>tranches de jambon</ingredient> dans la <recipient>cocotte</recipient>, <operation temps=5.0min espace=9>laisser cuire encore 5 minutes avant d’</operation> ajouter le <ingredient quantite=1>chou</ingredient> en lamelle et les <ingredient quantite=2>feuilles de laurier</ingredient>. ajouter ensuite le <ingredient quantite=1>bouillon</ingredient> chaud. saler, poivrer et <operation temps=30.0min espace=9>laisser cuire 30 minutes couvert à feu doux</operation>. le temps de cuisson peut varier suivant le type de feu (gaz ou électrique). vin <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

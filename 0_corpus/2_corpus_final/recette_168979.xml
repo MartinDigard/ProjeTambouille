@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168979">
+ <titre>Bolognaise à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1kg de chaire à saucisse</p>
+ <p>2 oignons </p>
+ <p>1 échalote</p>
+ <p>1 carotte</p>
+ <p>Herbes aromatiques (thym, persil, ciboulette, romarin ect...) </p>
+ <p>Curry (quantité selon les goûts) </p>
+ <p>1 petite boite de concentré de tomate</p>
+ <p>500ml de purée de tomates</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher, couper en <ingredient quantite=1>petits</ingredient> dés les <ingredient quantite=2>oignons</ingredient>, <ingredient quantite=1>échalote</ingredient>, <ingredient quantite=1>carotte</ingredient> et <operation temps=6.86min espace=9>faire revenir le tout dans un <recipient>wok</recipient></operation>. ajouter les <ingredient quantite=1>herbes</ingredient> et le <ingredient quantite=1>curry</ingredient>, mettre ensuite le <ingredient quantite=1>concentré de tomate</ingredient>, mélanger et rajouter la <ingredient quantite=1>chaire à saucisse</ingredient>. mélanger bien et <operation temps=6.86min espace=9>laisser cuire environ 10 min, ensuite</operation> ajouter la <ingredient quantite=1>purée de tomate</ingredient> et <operation temps=30.0min espace=9>laisser cuire entre 20 et 30 min en</operation> surveillant. c’ est prêt
+]]>
+ </preparation>
+</recette>

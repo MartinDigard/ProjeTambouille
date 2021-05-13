@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170328">
+ <titre>Tarte feuilletée aux courgettes et aux lardons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>500 g de courgettes</p>
+ <p>150 g de lardons fumés</p>
+ <p>100 g d’ emmental râpé</p>
+ <p>25 cl de lait</p>
+ <p>30 g de beurre</p>
+ <p>25 g de farine</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sauge</p>
+ <p>1 gousse d’ ail</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>faire une sauce</operation> béchamel avec le beurre, la farine et le lait. saler et poivrer. couper les <ingredient quantite=1>courgettes</ingredient> en rondelles, les faire revenir à la <recipient>poêle</recipient> avec 1 <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=1>ail</ingredient> hachée dans 2 <ingredient quantite=2>cuillères à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient> environ 10 min, jusqu’ à ce qu’ elles ne rendent plus d’ eau. saler et poivrer. les retirer de la <recipient>poêle</recipient>. a la place, <operation temps=6.86min espace=17>faire revenir les <ingredient quantite=1>lardons</ingredient> sans matière grasse</operation>. préchauffer le <recipient>four</recipient> thermostat 6 ou 180 ° c. mélanger la béchamel avec les <ingredient quantite=1>courgettes</ingredient>, les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>emmental</ingredient>. ajouter un peu de sauge ciselée. <operation temps=10.0min espace=17>laisser tiédir</operation>. <operation temps=6.86min espace=17>garnir un <recipient><recipient>moule</recipient> à tarte</recipient> avec la <ingredient quantite=1>pâte</ingredient> feuilletée</operation>. etaler la préparation aux <ingredient quantite=1>courgettes</ingredient>. enfourner pour 35 à 40 min. servi avec une salade verte, cela devient un <recipient>plat</recipient> principal complet. la <ingredient quantite=1>pâte feuilletée</ingredient> donne un côté croustillant! bordeaux blanc
+]]>
+ </preparation>
+</recette>

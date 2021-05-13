@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20521">
+ <titre>Saucisse de Morteau à la Cancoillote</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 saucisses de Morteau </p>
+ <p>8 pommes de terre moyenne</p>
+ <p>1 pot de Cancoillote déjà prête, nature ou à l’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=20.0min espace=9>faire cuire les <ingredient quantite=2>saucisses</ingredient> entière dans une <recipient>casserole</recipient> pendant 20 min</operation>. dans une autre <recipient>casserole</recipient>, faire cuire les <ingredient quantite=8>pommes de terre</ingredient> en robe des champs, pendant 20 min. eplucher les <ingredient quantite=8>pommes de terre</ingredient>, les débiter en tranches et les <operation temps=6.86min espace=9>faire dorer à la <recipient>poêle</recipient></operation>. réserver au chaud. dans la <recipient>casserole</recipient> verser la <ingredient quantite=1>cancoillote</ingredient> et la <operation temps=6.86min espace=9>faire fondre à feu doux</operation>. débiter les <ingredient quantite=2>saucisses</ingredient> en tranches les disposer sur un <recipient>plat</recipient>, entourer avec les <ingredient quantite=8>pommes de terre</ingredient>. <operation temps=2.0min espace=9>servir chaud</operation> et verser la <ingredient quantite=1>cancoillote</ingredient> sur la préparation dans l’ assiette. un excellent <recipient>plat</recipient> d’ hiver qui réchauffe les corps et les coeurs! apremont- vin d’ alsace sec (blanc)
+]]>
+ </preparation>
+</recette>

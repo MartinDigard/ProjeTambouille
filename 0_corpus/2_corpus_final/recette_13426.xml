@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13426">
+ <titre>Foie gras de canard cru aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 foie gras cru de canard</p>
+ <p>1 verre de porto</p>
+ <p>3 carottes</p>
+ <p>3 poireaux</p>
+ <p>3 navets</p>
+ <p>crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper en fine lamelles les <ingredient quantite=3>carottes</ingredient>, <ingredient quantite=3>poireaux</ingredient> et <ingredient quantite=3>navets</ingredient>. les <operation temps=6.86min espace=6>faire revenir dans le <ingredient quantite=1>porto</ingredient></operation>. poser le <ingredient quantite=1>foie gras</ingredient> cru dessus, <operation temps=30.0min espace=6>laisser cuire</operation>. le piquer avec une paille afin de voir s’ il est bien cuit (il doit être rosé à l’ intérieur). retirer les légumes et le <ingredient quantite=1>foie</ingredient>. réduire la sauce, ajouter une cuillère de <ingredient quantite=1>crème</ingredient> et servir chaud. sauternes
+]]>
+ </preparation>
+</recette>

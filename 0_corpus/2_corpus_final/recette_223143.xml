@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223143">
+ <titre>Potée gaumaise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>9 saucisses à cuire (mettwurst, diots ou autre) </p>
+ <p>6 pommes de terre moyennes</p>
+ <p>6 carottes</p>
+ <p>2 poireaux</p>
+ <p>1 céleri</p>
+ <p>1 cube de bouillon de légumes</p>
+ <p>1 oignon</p>
+ <p>1 bouquet garni</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>préparez les</operation> <ingredient quantite=1>légumes</ingredient>: <operation temps=6.86min espace=9>lavez - les</operation>, épluchez les <ingredient quantite=6>carottes</ingredient> et les <ingredient quantite=6>pommes de terre</ingredient>. <operation temps=6.86min espace=9>découpez en morceaux grossiers les <ingredient quantite=1>légumes</ingredient></operation>. dans une grande <recipient>marmite</recipient> d’ eau bouillante, mettre les <ingredient quantite=9>saucisses</ingredient> (préalablement piquées), l’ <ingredient quantite=1>oignon</ingredient> entier et les morceaux de <ingredient quantite=1>légumes</ingredient>. ajoutez le <ingredient quantite=1>bouquet garni</ingredient> et le <ingredient quantite=1>cube de bouillon</ingredient>. <operation temps=50.0min espace=9>laissez mijoter pendant environ 50 min à 1h</operation>. <operation temps=6.86min espace=9>surveillez la cuisson, le <ingredient quantite=1>bouillon</ingredient> ne</operation> doit pas trop s’ évaporer. avant de <operation temps=2.0min espace=9>servir</operation>, retirer l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>.
+]]>
+ </preparation>
+</recette>

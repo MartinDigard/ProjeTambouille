@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48842">
+ <titre>Salade de pâtes surimi/basilic</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>macaroni</p>
+ <p>surimi</p>
+ <p>tomates</p>
+ <p>basilic</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>découpez en morceaux les <ingredient quantite=1>tomates</ingredient>, et le <ingredient quantite=1>surimi</ingredient></operation>. <operation temps=6.86min espace=8>faire cuire les pâtes dans l’ au bouillante salée</operation> et agrémentée d’ herbs pour parfumer. une fois vos pâtes cuites et refroidies, <operation temps=6.86min espace=8>mélangez - les aux dés de <ingredient quantite=1>tomates</ingredient> et de <ingredient quantite=1>surimi</ingredient></operation>. <operation temps=6.86min espace=8>saupoudrez d’ un peu de <ingredient quantite=1>basilic</ingredient> et de</operation> <ingredient quantite=1>parmesan</ingredient>, <operation temps=0.25min espace=8>salez</operation>, <operation temps=6.86min espace=8>poivrez, et bien</operation> mélanger. verser l’ huile d’ <ingredient quantite=1>olive</ingredient> sur le dessus de la préparation. réserver au frais et déguster. un régal l’ été, idéale pour accompager un <recipient>barbecue</recipient>.
+]]>
+ </preparation>
+</recette>

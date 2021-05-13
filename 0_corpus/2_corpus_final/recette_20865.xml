@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20865">
+ <titre>Agneau sauté aux épices</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 épaule d’ agneau désossée et coupée en dés</p>
+ <p>3 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 boîte 1/2 de tomates pelées non égouttées</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 tasse à thé d’ eau</p>
+ <p>2 clous de girofle écrasés</p>
+ <p>cannelle en poudre</p>
+ <p>1 étoile de badiane</p>
+ <p>1 cuillère à café de coriandre en poudre</p>
+ <p>du piment en poudre doux ou plus fort selon le goût</p>
+ <p>une pincée de cumin en poudre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler et hacher finement l’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=3>oignons</ingredient>. <ingredient quantite=1>couper</ingredient> en dés les <ingredient quantite=1>tomates</ingredient> en <ingredient quantite=1>boîte</ingredient>. réduire les clous de <ingredient quantite=2>girofle</ingredient> en <ingredient quantite=1>poudre</ingredient>. dans un <recipient>autocuiseur</recipient>, <operation temps=6.86min espace=16>faire colorer dans l’ <ingredient quantite=3>huile</ingredient> chaude les dés de viande</operation>, ajouter les <ingredient quantite=3>oignons</ingredient>, l’ <ingredient quantite=2>ail</ingredient> et les <ingredient quantite=1>tomates</ingredient>. saupoudrer avec les épices. verser l’ <ingredient quantite=1>eau</ingredient> et bien mélanger. assaisonner. fermer la <recipient>cocotte</recipient>. <operation temps=15.0min espace=16>laisser cuire 12 à 15 mn</operation>. <operation temps=6.86min espace=16>ouvrir la <recipient>cocotte</recipient></operation>. servir accompagné de riz. délicieux avec un riz pilaf
+]]>
+ </preparation>
+</recette>

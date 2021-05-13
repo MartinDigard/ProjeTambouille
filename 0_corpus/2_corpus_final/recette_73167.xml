@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73167">
+ <titre>Wok de poulet au curry et lait de coco</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 escalopes de poulets</p>
+ <p>250 g de nouilles chinoises aux oeufs</p>
+ <p>100 g de haricots vert</p>
+ <p>1 oignon rouge</p>
+ <p>15 cl de lait de coco</p>
+ <p>2 cuillères à café de curry</p>
+ <p>sel et poivre</p>
+ <p>huile d’ arachide</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper l’ <ingredient quantite=1>oignon rouge</ingredient> en tout petits bouts. couper les <ingredient quantite=3>escalopes de poulet</ingredient> en lamelles fines. mettre un fond d’ huile d’ <ingredient quantite=1>arachide</ingredient> dans le <recipient>wok</recipient>, <operation temps=6.86min espace=9>faire chauffer et y</operation> ajouter l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=1>haricots verts</ingredient> et le <ingredient quantite=1>poulet</ingredient>. <operation temps=6.86min espace=9>faire dorer un peu le <ingredient quantite=1>poulet</ingredient> en</operation> remuant très souvent. quand le <ingredient quantite=1>poulet</ingredient> est bien doré, ajouter le <ingredient quantite=1>sel</ingredient>, le poivre et le <ingredient quantite=2>curry</ingredient>. <operation temps=5.0min espace=9>laisser cuire un peu (5 min</operation>). mettre le lait de <ingredient quantite=1>coco</ingredient> tout en baissant le feu, et remuer très souvent. préparer les pâtes en <operation temps=6.86min espace=9>faisant bouillir 2 l d’ eau</operation>: immerger les pâtes dedans et attendre que l’ ébullition reprenne. couper alors le feu et <operation temps=4.0min espace=9>laisser dans l’ eau 4 min</operation>. egoutter les pâtes et les ajouter à la préparation, bien mélanger et servir chaud. un vin <ingredient quantite=1>rouge</ingredient> type graves
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22366">
+ <titre>Crème-mousse aux fraises</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de fraises bien mûres</p>
+ <p>15 cl de crème entière</p>
+ <p>3 cuillères à soupe de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=1>fraises</ingredient>. mettre les <ingredient quantite=1>fraises</ingredient> dans un <recipient>saladier</recipient>. mixer les <ingredient quantite=1>fraises</ingredient> pour <operation temps=6.86min espace=4>obtenir une purée</operation>. ajouter de la <ingredient quantite=1>crème</ingredient> et un peu de <ingredient quantite=3>sucre</ingredient> (selon l’ envie). remixer. réfrigérer pendant environ 30 mn et servir <ingredient quantite=1>bien</ingredient> froid
+]]>
+ </preparation>
+</recette>

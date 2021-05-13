@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53842">
+ <titre>Poulet au curry, jus d’ ananas et soja</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de poulet</p>
+ <p>5 gousses d’ ail</p>
+ <p>1 grosse cuillère à soupe de gingembre frais</p>
+ <p>curry</p>
+ <p>jus d’ ananas</p>
+ <p>environ 2 litres de fond de veau et volaille </p>
+ <p>1 boîte de lait coco</p>
+ <p>10 cl de sauce aigre douce</p>
+ <p>10 cl de sauce soja</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1 cuillère à soupe de sucre de canne</p>
+ <p>4 à 5 oignons</p>
+ <p>4 à 5 pommes de terre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir le</operation> <ingredient quantite=1>poulet</ingredient>, ajouter l’ <ingredient quantite=5>ail</ingredient> et le <ingredient quantite=1>gingembre</ingredient> émincé, saupoudrer généreusement de <ingredient quantite=1>curry</ingredient>. bien cuire, afin que le <ingredient quantite=1>curry</ingredient> accroche bien au <ingredient quantite=1>poulet</ingredient>! déglacer avec le <ingredient quantite=1>jus</ingredient> d’ ananas (<operation temps=6.86min espace=14>recouvrir le <ingredient quantite=1>poulet</ingredient>)</operation>, ajouter les fonds (dans une <recipient>casserole</recipient> d’ eau froide, verser les 2 <ingredient quantite=1>boîtes</ingredient> de fonds et laisser épaissir sur feu moyen), le <ingredient quantite=1>lait coco</ingredient>, la sauce <ingredient quantite=1>soja</ingredient>, la sauce <ingredient quantite=1>aigre douce</ingredient>, le <ingredient quantite=1>miel</ingredient>, le <ingredient quantite=1>sucre</ingredient>. <operation temps=20.0min espace=14>laisser cuire environ 1 h et 20 min</operation>. avant la fin de cuisson, ajouter les <ingredient quantite=4>pommes de terre</ingredient> et les <ingredient quantite=4>oignons</ingredient> coupés grossièrement. accompagner de riz non salé. j’ insiste sur le <ingredient quantite=5>fond de veau et volaille</ingredient>, il faut que la préparation soit épaisse et non liquide. vin rouge du chili
+]]>
+ </preparation>
+</recette>

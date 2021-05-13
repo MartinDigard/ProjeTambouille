@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25784">
+ <titre>Lotte aux tomates, pignons et amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de lotte en morceaux </p>
+ <p>100 g de pignons de pin</p>
+ <p>50 g d’ amandes en poudre</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>4 oignons</p>
+ <p>3 têtes d’ ail</p>
+ <p>2 tomates</p>
+ <p>1 poivron rouge </p>
+ <p>7 ou 8 brins de persil plat</p>
+ <p>50 cl de fumet de poisson</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 pincée de poivre de Cayenne</p>
+ <p>sel </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire une fondue d’ <ingredient quantite=1>oignon</ingredient> dans une <recipient>poêle</recipient> à feu doux pendant 20 min avec 2 <ingredient quantite=4>cuillères à soupe</ingredient> d’ <ingredient quantite=4>huile</ingredient>. assaisonner. verser le <ingredient quantite=1>fumet de poisson</ingredient> et le <ingredient quantite=1>vin blanc</ingredient> dans une <recipient>sauteuse</recipient>. y <operation temps=15.0min espace=16>faire pocher le <ingredient quantite=1>poisson</ingredient> 15 min</operation>. découper le <ingredient quantite=1>poivron rouge</ingredient> en <ingredient quantite=1>morceaux</ingredient> et monder les <ingredient quantite=2>tomates</ingredient>. les mixer avec le <ingredient quantite=7>persil</ingredient>, les <ingredient quantite=1>pignons</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, le <ingredient quantite=2>poivre de cayenne</ingredient> et l’ huile. verser dans la fondue d’ <ingredient quantite=1>oignon</ingredient>. égoutter le <ingredient quantite=1>poisson</ingredient> et tamiser le bouillon. verser les 2/3 de celui-ci dans la <recipient>poêle</recipient> et <operation temps=2.0min espace=16>laisser mijoter pendant 2 min</operation>. y placer la <ingredient quantite=1>lotte</ingredient> quelques instants pour la réchauffer.
+]]>
+ </preparation>
+</recette>

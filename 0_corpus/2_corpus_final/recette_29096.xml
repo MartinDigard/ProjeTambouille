@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29096">
+ <titre>Crumble à la poire</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 poires</p>
+ <p>175 g de sucre</p>
+ <p>120 g de beurre mou</p>
+ <p>2 cuillères à soupe de cannelle</p>
+ <p>150 g de farine</p>
+ <p>jus d’ 1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> à 200 ° c. epluchez et <operation temps=6.86min espace=10>épépinez les <ingredient quantite=5>poires</ingredient></operation>. <operation temps=6.86min espace=10>découpez - les en cubes</operation> et <operation temps=6.86min espace=10>mettez - les dans un <recipient>moule</recipient></operation>. versez le <ingredient quantite=1>1/2 jus</ingredient> de <ingredient quantite=1>citron</ingredient> dessus et <operation temps=6.86min espace=10>saupoudrez de <ingredient quantite=2>cannelle</ingredient></operation>. dans un <recipient>saladier</recipient> mélanger du bout des doigts le <ingredient quantite=1>beurre mou</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et la farine. <operation temps=6.86min espace=10>effritez cette préparation sur les <ingredient quantite=5>poires</ingredient></operation>. <operation temps=35.0min espace=10>faire cuire 35 mn dans le <recipient>four</recipient> chaud</operation>. <operation temps=6.86min espace=10>laissez tiédir</operation> et <operation temps=5.0min espace=10>dégustez</operation>.
+]]>
+ </preparation>
+</recette>

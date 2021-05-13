@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95147">
+ <titre>Mes sablés pour le café</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>60g de beurre salé</p>
+ <p>60g de farine</p>
+ <p>30g de’ amande en poudre</p>
+ <p>30g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le beurre ramoli avec le <ingredient quantite=1>sucre</ingredient> à l’ aide d’ une fourchette. ajouter la farine et la <ingredient quantite=1>poudre</ingredient> d’ amande en mélangeant à la main jusqu’ à obtention d’ une boule de pâte <operation temps=6.86min espace=5>faire des petites boules les</operation> <operation temps=6.86min espace=5>applatir à la main et les</operation> enfourner dans un <recipient>four</recipient> chaud cuisson de 15 à 18 minutes thermostat 6 et <operation temps=6.86min espace=5>servir avec un café ou thé ou mousse au chocolat</operation>...
+]]>
+ </preparation>
+</recette>

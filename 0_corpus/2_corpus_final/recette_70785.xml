@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70785">
+ <titre>Bouchées poires framboises</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 bouchées feuilletés</p>
+ <p>3 poires</p>
+ <p>150 g de framboises</p>
+ <p>20 g de beurre</p>
+ <p>100 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>préparez la garniture des fruits</operation>: <operation temps=3.0min espace=7>pelez les</operation> <ingredient quantite=3>poires</ingredient>, <operation temps=6.86min espace=7>éliminez les coeurs et les pépins</operation>, <operation temps=6.86min espace=7>découpez la chair en dés</operation>. dans une <recipient>cocotte</recipient>, <operation temps=1.0min espace=7>faites fondre le beurre</operation>, <operation temps=6.86min espace=7>ajoutez les dés de <ingredient quantite=3>poires</ingredient> et les</operation> <ingredient quantite=1>framboises</ingredient>, <operation temps=6.86min espace=7>saupoudrez avec le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=7>mettez le couvercle</operation> et <operation temps=15.0min espace=7>laissez cuire sur feu doux pendant 15 minutes</operation>. une fois, cuit <operation temps=6.86min espace=7>mettez la préparation dans une <recipient>passoire</recipient> pour éliminez le jus</operation> (<operation temps=6.86min espace=7>réservez celui-ci pour</operation> <operation temps=6.86min espace=7>servir à la fin</operation>). <operation temps=10.0min espace=7>faites cuire les <ingredient quantite=4>bouchées</ingredient> à 180 ° c (thermostat 6) pendant 10 minutes</operation> puis <operation temps=6.86min espace=7>garnir les <ingredient quantite=4>bouchées</ingredient> de la préparation</operation> et <operation temps=6.86min espace=7>servez vous du jus pour la décoration</operation>. dégustez chaud ou tiède.
+]]>
+ </preparation>
+</recette>

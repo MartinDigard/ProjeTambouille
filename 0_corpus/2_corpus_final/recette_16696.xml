@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16696">
+ <titre>Kouglopf à la noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>200 g de sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>200 g beurre ou margarine</p>
+ <p>200 g de farine</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ <p>6 cuillères à soupe de jus d’ orange</p>
+ <p>100 g noix de coco râpée</p>
+ <p>100 g de cerises confites hachées</p>
+ <p>Pour la garniture: </p>
+ <p>20 g de noix de coco râpée</p>
+ <p>8 cerises confites</p>
+ <p>1 pot de confiture</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+travailler le beurre ou la margarine en mousse et ajouter dans l’ ordre le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>sucre vanillé</ingredient>, les <ingredient quantite=1>jus de citron</ingredient> et d’ <ingredient quantite=6>orange</ingredient>, le mélange tamisé <ingredient quantite=1>farine</ingredient> - <ingredient quantite=1>levure</ingredient>, la <ingredient quantite=1>noix de coco râpée</ingredient> et les <ingredient quantite=1>cerises confites</ingredient>. mélanger bien le tout et verser la pâte dans un <recipient>moule</recipient> à kouglopf bien beurré. glisser le <recipient>moule</recipient> dans le <recipient>four</recipient> et <operation temps=70.0min espace=17>faire cuire 60 à 70 mn environ à feu doux</operation> (surveiller). démouler et <operation temps=20.0min espace=17>laisser refroidir</operation>. badigeonner le gâteau de <ingredient quantite=1>confiture</ingredient>, saupoudrer de <ingredient quantite=1>noix de coco râpée</ingredient> et décorer de <ingredient quantite=1>cerises confites</ingredient>.
+]]>
+ </preparation>
+</recette>

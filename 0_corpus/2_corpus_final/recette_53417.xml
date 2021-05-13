@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53417">
+ <titre>Beignets végétariens à la tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de flocons d’ avoine secs (ou autres céréales) </p>
+ <p>2 oeufs</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>25 cl de lait</p>
+ <p>quelques branches de persil (frais) </p>
+ <p>sel, poivre, épices au choix</p>
+ <p>Pour la sauce tomate: </p>
+ <p>1 brique de coulis de tomate (30 cl) </p>
+ <p>2 oignons</p>
+ <p>1 sucre</p>
+ <p>herbes de Provence</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=17>mouillez les <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient> avec le lait</operation>, <operation temps=15.0min espace=17>laissez reposer la préparation environ 15 min</operation>. préparez la <ingredient quantite=1>sauce tomate</ingredient> pendant ce temps. <operation temps=6.86min espace=17>coupez les</operation> <ingredient quantite=2>oignons</ingredient> et <operation temps=6.86min espace=17>faites - les</operation> <operation temps=6.86min espace=17>revenir dans l’</operation> huile chaude 1 min. ajoutez le <ingredient quantite=1>coulis de tomate</ingredient>, le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=1>herbes de provence</ingredient>, puis <operation temps=6.86min espace=17>laissez cuire à feu moyen en</operation> remuant réguliérement pour éviter que cela n’ attache à la <recipient>casserole</recipient>. <operation temps=6.86min espace=17>mélangez dans un grand <recipient>saladier</recipient> les <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient>, le <ingredient quantite=1>persil</ingredient> et les</operation> <ingredient quantite=2>oeufs</ingredient> ; ajouter la farine, le <ingredient quantite=1>sel</ingredient> et les <ingredient quantite=1>épices</ingredient>. <operation temps=6.86min espace=17>chauffez un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> dans votre <recipient>poêle</recipient>,</operation> puis <operation temps=6.86min espace=17>déposez de petits paquets de pâte avec une cuilléres à <ingredient quantite=2>soupe</ingredient></operation>. lorsque les paquets glissent seuls dans la <recipient>poêle</recipient>, retournez - les délicatement. consommez encore chaud, accompagné de la <ingredient quantite=1>sauce tomate</ingredient>. il est possible de remplacer les <ingredient quantite=1>flocons</ingredient> d’ <ingredient quantite=1>avoine</ingredient> ou d’ y ajouter des restes de légumes (de viandes ou de poissons). attention, vous <operation temps=6.86min espace=17>devrez</operation> ajuster les quantités de farine pour <operation temps=6.86min espace=17>obtenir une pate adéquate</operation>.
+]]>
+ </preparation>
+</recette>

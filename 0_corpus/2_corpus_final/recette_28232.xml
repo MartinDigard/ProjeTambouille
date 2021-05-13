@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28232">
+ <titre>Agneau aux poivrons et sa sauce rose au paprika</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg d’ épaule d’ agneau désossée</p>
+ <p>120 g de beurre</p>
+ <p>3 oignons</p>
+ <p>15 g de farine</p>
+ <p>15 g de paprika doux</p>
+ <p>6 tomates</p>
+ <p>3 poivrons</p>
+ <p>30 cl de crème liquide</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincer les <ingredient quantite=3>oignons</ingredient>. détailler la viande en cubes, puis <operation temps=6.86min espace=11>faire revenir dans le beurre</operation> chaud jusqu’ à ce qu’ elle soit uniformément dorée. <operation temps=6.86min espace=11>sortir la viande de la <recipient>sauteuse</recipient>, puis y</operation> déposer les <ingredient quantite=3>oignons</ingredient> à cuire. les <operation temps=6.86min espace=11>laisser blondir pendant 10 minutes, puis les</operation> saupoudrer de farine et de <ingredient quantite=1>paprika</ingredient> sans cesser de remuer. peler, épépiner et concasser les <ingredient quantite=6>tomates</ingredient>, puis détailler les <ingredient quantite=3>poivrons</ingredient> en fines lanières. remettre la viande dans la <recipient>sauteuse</recipient> avec les <ingredient quantite=6>tomates</ingredient> et les <ingredient quantite=3>poivrons</ingredient>. saler, poivrer, puis <operation temps=6.86min espace=11>laisser mijoter 1 heure à couvert</operation> incorporer la <ingredient quantite=1>crème</ingredient>, puis <operation temps=10.0min espace=11>laisser frémir encore 10 minutes en</operation> remuant et servir.
+]]>
+ </preparation>
+</recette>

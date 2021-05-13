@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22355">
+ <titre>Semoule au chocolat meringuée</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de semoule</p>
+ <p>50 cl de lait</p>
+ <p>100 g de chocolat pâtissier</p>
+ <p>50 g de sucre en poudre</p>
+ <p>3 oeufs</p>
+ <p>2 sachets de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>portez le lait à ébullition</operation>. <operation temps=6.86min espace=8>jetez - y la semoule en pluie</operation>, <operation temps=6.86min espace=8>laissez cuire 5 bonnes minutes en</operation> remuant. <operation temps=0.25min espace=8>retirez du feu</operation>, ajoutez le <ingredient quantite=1>sucre en poudre</ingredient> <operation temps=6.86min espace=8>laissez tiédir</operation>. a part, <operation temps=6.86min espace=8>faites fondre le <ingredient quantite=1>chocolat</ingredient></operation>. <operation temps=0.5min espace=8>réservez</operation>. battez les blancs d’ <ingredient quantite=3>oeufs</ingredient> en neige. <operation temps=6.86min espace=8>incorporez 1/3 des blancs</operation> battus au <ingredient quantite=1>chocolat</ingredient> fondu refroidi. <operation temps=6.86min espace=8>ajoutez les jaunes d’</operation> oeufs à la semoule, <operation temps=8.0min espace=8>mélangez bien</operation>. <operation temps=6.86min espace=8>incorporez la mousse au <ingredient quantite=1>chocolat</ingredient>, puis répartissez dans 6 ramequins</operation>. incorporez le <ingredient quantite=1>sucre vanillé</ingredient> aux 2/3 restants des blancs en neige. <operation temps=6.86min espace=8>déposez cette meringue sur les ramequins à l’</operation> aide d’ une poche à <recipient>douille</recipient> ou une cuillère. faîtes dorer 5 minutes au <recipient>four</recipient> à 200 ° c (thermostat 6) en surveillant.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173514">
+ <titre>Italiano carbonara</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 gousses d’ ail</p>
+ <p>1 oignon</p>
+ <p>1 gros champignon</p>
+ <p>crème fraiche épaisse</p>
+ <p>parmesan</p>
+ <p>2 jaunes d’ oeuf</p>
+ <p>pâtes </p>
+ <p>1 morceau de poitrine fumée</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre à chauffer l’ eau des <ingredient quantite=1>pâtes</ingredient>. sur une <recipient>planche</recipient>, découper en fines lamelles la <ingredient quantite=1>poitrine fumée</ingredient>, ensuite hacher finement l’ <ingredient quantite=1>oignon</ingredient> ainsi que les <ingredient quantite=4>gousses</ingredient> d’ <ingredient quantite=4>ail</ingredient>. casser deux œufs, mettre ensuite les <ingredient quantite=2>jaunes</ingredient> dans un bol et bien les mélanger avec du <ingredient quantite=1>sel</ingredient> et du poivre. quand l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=4>ail</ingredient> ont bien fondu dans la <recipient>poêle</recipient>, ajouter la <ingredient quantite=1>poitrine fumée</ingredient>, puis <operation temps=7.0min espace=16>laisser cuire 5 à 7 min</operation>. ajouter dans la <recipient>poêle</recipient> de la <ingredient quantite=1>crème fraiche</ingredient> ainsi que les œufs, bien remuer et <operation temps=5.0min espace=16>laisser mijoter 5 min à feu doux</operation>. <operation temps=6.86min espace=16>sortir vos <ingredient quantite=1>pâtes</ingredient> de l’ eau, puis les</operation> mettre dans un <recipient>plat</recipient>. incorporer 1 à 2 louches de l’ eau de cuisson des <ingredient quantite=1>pâtes</ingredient> dans la <recipient>poêle</recipient>, remuer. incorporer la préparation aux <ingredient quantite=1>pâtes</ingredient> et y ajouter du <ingredient quantite=1>parmesan</ingredient>. bon appétit! <recipient>plat</recipient> qui vient de ma grand-mère italienne. un régal.
+]]>
+ </preparation>
+</recette>

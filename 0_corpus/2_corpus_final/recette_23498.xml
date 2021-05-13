@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23498">
+ <titre>Tarte minute tomates-aubergines-anchois</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée prête à l’ emploi</p>
+ <p>2 tomates</p>
+ <p>1 gros oignon</p>
+ <p>1 aubergine</p>
+ <p>4-5 anchois marinés</p>
+ <p>1 cuillère à soupe de Moutarde</p>
+ <p>1 cuillère à soupe de crème fraîche 15 % MG</p>
+ <p>1 cuillère à soupe de sauce tomate, coulis de tomate ou tomate concentrée</p>
+ <p>origan (herbes de Provence, persil plat ou coriandre) </p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et couper l’ <ingredient quantite=1>aubergine</ingredient> en rondelles puis la <operation temps=6.86min espace=14>faire revenir dans une <recipient>poêle</recipient> à l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. laver et couper les <ingredient quantite=2>tomates</ingredient> en rondelles, et enlever les pépins. couper l’ oigons en rondelles. tapisser le <recipient><recipient>moule</recipient> à tarte</recipient> de <ingredient quantite=1>pâte feuilletée</ingredient>. etaler sucessivement la <ingredient quantite=1>moutarde</ingredient>, la <ingredient quantite=1>crème</ingredient> et la <ingredient quantite=1>sauce tomate</ingredient>. saler, poivrer. <operation temps=6.86min espace=14>recouvrir d’ <ingredient quantite=1>oignons</ingredient></operation>. placer les rondelles d’ <ingredient quantite=1>aubergines</ingredient> dorées, et de <ingredient quantite=2>tomates</ingredient>. placer les filets d’ <ingredient quantite=7>anchois</ingredient> en étoile. saler, poivrer et parsemer d’ <ingredient quantite=1>origan</ingredient>. <operation temps=20.0min espace=14>faire cuire 20 mn à <recipient>four</recipient> chaud, jusqu’ à ce que la <ingredient quantite=1>pâte</ingredient> soit</operation> dorée.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38044">
+ <titre>Cake chocolat et amandes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>150 g de chocolat noir</p>
+ <p>1/2 sachet de levure</p>
+ <p>150 g de sucre</p>
+ <p>170 g de beurre fondue</p>
+ <p>3 oeufs</p>
+ <p>5 cl de lait</p>
+ <p>50 g de poudre d’ amandes</p>
+ <p>3 cuillères à soupe de rhum</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=14>cassez le <ingredient quantite=1>chocolat</ingredient> en morceaux</operation> et <operation temps=6.86min espace=14>faites - le <ingredient quantite=1>fondre</ingredient> dans une <recipient>casserole</recipient> au <recipient>bain - marie</recipient></operation>. <operation temps=6.86min espace=14>travaillez le beurre <ingredient quantite=1>fondu</ingredient> avec le <ingredient quantite=1>sucre</ingredient> 1 <ingredient quantite=1>oeuf</ingredient> et le <ingredient quantite=1>sel</ingredient></operation> <operation temps=5.0min espace=14>mélangez</operation> jusqu’ a l’ obtention d’ une pâte lisse... puis <operation temps=6.86min espace=14>ajoutez dans l’</operation> ordre les autres <ingredient quantite=3>oeufs</ingredient>, la farine, la <ingredient quantite=1>levure</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient>, le lait, le <ingredient quantite=3>rhum</ingredient> et enfin le <ingredient quantite=1>chocolat</ingredient>. <operation temps=6.86min espace=14>versez la pâte dans un <recipient>moule</recipient> à cake beurré</operation> et <operation temps=45.0min espace=14>cuisez 45 min à 180 ° c</operation>. bien surveiller la cuisson il se peut que le gateau soit cuit en moins de 45 min ; ne pas <operation temps=6.86min espace=14>laissez trop</operation> cuire le gateau où il sera trop sec.
+]]>
+ </preparation>
+</recette>

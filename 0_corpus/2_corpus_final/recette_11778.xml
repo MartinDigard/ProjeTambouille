@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11778">
+ <titre>Oeuf au parmesan</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 oeufs</p>
+ <p>100 g de parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+c’ est tout bête: un <ingredient quantite=1>oeuf</ingredient> au <recipient>plat</recipient>... aménagé! séparer le blanc du jaune, réserver le jaune. râper une bonne dose de <ingredient quantite=1>parmesan</ingredient> frais assez jeune et bien le mélanger avec le blanc. le mélange doit <operation temps=6.86min espace=4>contenir assez de fromage, sans en</operation> <operation temps=6.86min espace=4>faire une pâte</operation>! <operation temps=6.86min espace=4>faire chauffer la <recipient>poêle</recipient> avec un peu de beurre, y</operation> verser le blanc. là intervient la touche perso: on peut remettre le jaune de suite ou attendre un peu la cuisson du blanc et ajouter déllicatement le jaune vers la fin de cuisson. la cuisson se fait à feu moyen. le tout est à point lorsque le mélange blanc-fromage commence sensiblement et assez brusquement à gonfler ou " mousser ", c’ est assez bizarre comme phénomène: servir de suite! bon appétit...... sur le pouce, ou presque...
+]]>
+ </preparation>
+</recette>

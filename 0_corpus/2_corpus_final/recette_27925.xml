@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27925">
+ <titre>Thon rôti aux légumes confits</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 tranche de thon frais de 600 g</p>
+ <p>4 tomates</p>
+ <p>2 poivrons</p>
+ <p>2 oignons</p>
+ <p>6 cuillères à soupe d’ huile</p>
+ <p>1 bonne pincée de thym émietté</p>
+ <p>1 bonne pincée de laurier émietté</p>
+ <p>1 cuillère à café d’ ail haché</p>
+ <p>1 cuillère à café de paprika doux</p>
+ <p>1 cuillère à café de mélange pour rouille</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>pelez les <ingredient quantite=4>tomates</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=14>coupez - les en quartiers</operation>. emincez et <operation temps=6.86min espace=14>épépinez les <ingredient quantite=2>poivrons</ingredient></operation>. <operation temps=6.86min espace=14>faites chauffer l’ huile</operation>, <operation temps=6.86min espace=14>mettez - les les</operation> <ingredient quantite=2>poivrons</ingredient> et <operation temps=5.0min espace=14>laissez revenir 5 minutes</operation>. <operation temps=6.86min espace=14>ajoutez les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=4>tomates</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre, le <ingredient quantite=1>thym</ingredient>, le <ingredient quantite=1>laurier</ingredient> et l’ <ingredient quantite=1>ail</ingredient></operation>. <operation temps=6.86min espace=14>poursuivez la cuisson 20 minutes, les légumes</operation> doivent être fondants. versez - les dans un <recipient>plat</recipient> huilé allant au <recipient>four</recipient>. déposez le <ingredient quantite=1>thon</ingredient> dessus, saupoudrez de <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>paprika</ingredient> et du <ingredient quantite=1>mélange pour rouille</ingredient>. <operation temps=25.0min espace=14>faites cuire 25 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). tranchez le <ingredient quantite=1>thon</ingredient> et <operation temps=2.0min espace=14>servez</operation>. <operation temps=6.86min espace=14>accompagnez de riz ou pommes de terre vapeur</operation>.
+]]>
+ </preparation>
+</recette>

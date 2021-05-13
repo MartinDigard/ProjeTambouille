@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29381">
+ <titre>Jambon caramélisé et marrons au madère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de noix de jambon fraîche, avec sa couenne</p>
+ <p>1 oignon</p>
+ <p>1 carotte</p>
+ <p>5 clous de girofle</p>
+ <p>3 pincées d’ origan</p>
+ <p>2 cuillerées à soupe de sucre glace</p>
+ <p>3 cuillères à soupe de whisky</p>
+ <p>1/2 cuillerée à café de poivre concassé</p>
+ <p>sel</p>
+ <p>Pour l’ accompagnement: </p>
+ <p>500 g de marrons au naturel (en bocaux) </p>
+ <p>1 branche de céleri</p>
+ <p>5 cl de madère</p>
+ <p>40 g de beurre</p>
+ <p>1 morceau de sucre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=0.25min espace=20>salez</operation>, poivrez et parsemez la <ingredient quantite=1>noix de jambon</ingredient> d’ <ingredient quantite=3>origan</ingredient>. <operation temps=6.86min espace=20>mettez - la dans une <recipient>cocotte</recipient>, <ingredient quantite=1>couenne</ingredient> en dessous</operation> et <operation temps=6.86min espace=20>mouillez avec 50 cl d’ eau</operation>. <operation temps=6.86min espace=20>ajoutez l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>carotte</ingredient> pelés</operation> et <operation temps=45.0min espace=20>laissez cuire 45 min à frémissement</operation>. ecumez régulièrement. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). <operation temps=6.86min espace=20>egouttez la viande</operation> et <operation temps=6.86min espace=20>laissez - la</operation> <operation temps=6.86min espace=20>tiédir</operation>. <operation temps=6.86min espace=20>entaillez la <ingredient quantite=1>couenne</ingredient> et la couche de gras en y</operation> dessinant un quadrillage, et sans entamer la chair. piquez - la des clous de <ingredient quantite=5>girofle</ingredient> et placez - la dans un <recipient>four</recipient>, <ingredient quantite=1>couenne</ingredient> au dessus. <operation temps=6.86min espace=20>saupoudrez de</operation> <ingredient quantite=2>sucre</ingredient> et <operation temps=45.0min espace=20>faites cuire 45 min jusqu’ à ce que la <ingredient quantite=1>couenne</ingredient> caramélise et soit d’ une jolie couleur brune</operation>. en cours de cuisson, cuisson arroser avec le jus rendu et le <ingredient quantite=3>whisky</ingredient>. pendant ce temps, <operation temps=6.86min espace=20>réchauffez les <ingredient quantite=1>marrons</ingredient> dans une <recipient>sauteuse</recipient> avec de l’ eau à hauteur</operation>. ajoutez le <ingredient quantite=2>sucre</ingredient> et le <ingredient quantite=1>céleri</ingredient>, <ingredient quantite=1>sel et poivre</ingredient> et <operation temps=20.0min espace=20>portez à ébullition</operation>. <operation temps=6.86min espace=20>laissez cuire ainsi à</operation> découvert 20 min à feu doux. <operation temps=6.86min espace=20>rajoutez le beurre et le madère</operation>, <operation temps=6.86min espace=20>laissez réduire</operation> et <operation temps=6.86min espace=20>servez avec le <ingredient quantite=1>jambon</ingredient></operation> tranché.
+]]>
+ </preparation>
+</recette>

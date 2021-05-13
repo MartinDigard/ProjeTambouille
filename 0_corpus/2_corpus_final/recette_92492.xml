@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92492">
+ <titre>Petits coeurs fondants au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200g de chocolat noir pâticier (+ 18 carrés pour le coeur fondant) - 4 oeufs- 150g de sucre- 80g de farine- 200g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> th.6 (200 °). <operation temps=6.86min espace=3>faire fondre le <ingredient quantite=1>chocolat</ingredient> et le beurre</operation>. dans un <recipient>saladier</recipient>, <operation temps=6.86min espace=3>mélangez les oeufs et le sucre, puis la farine</operation>. <operation temps=6.86min espace=3>versez le <ingredient quantite=1>chocolat</ingredient> fondu</operation> puis <operation temps=6.86min espace=3>élangez jusqu’ à</operation> <operation temps=8.0min espace=3>obtenir une pâte homogène</operation>. <operation temps=6.86min espace=3>versez dans des moules en forme de coeur,</operation> puis <operation temps=6.86min espace=3>ajoutez un carré de <ingredient quantite=1>chocolat</ingredient> dans chaque coeur (beurré et fariné</operation>). <operation temps=6.86min espace=3>faire cuire 25min</operation> (<operation temps=6.86min espace=3>ajustez ce temps de suisson pour</operation> <operation temps=6.86min espace=3>obtenir un coeur plus ou moin</operation> fondant).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43128">
+ <titre>Crème dessert à la fleur d’ oranger</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 litre de lait</p>
+ <p>1 oeuf</p>
+ <p>2 cuillères à soupe de maïzéna</p>
+ <p>sucre (selon les goûts) </p>
+ <p>fleur d’ oranger</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>lait</ingredient>, <ingredient quantite=1>sucre</ingredient>, maïzéna, et <ingredient quantite=1>oeuf</ingredient>, sur le feu, dans une <recipient>casserole</recipient>. ne jamais cesser de remuer, ça dure 10 min, et ça doit s’ épaissir un peu. ajouter ensuite un capuchon d’ eau de <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient>, et continuer à remuer, jusqu’ à <operation temps=6.86min espace=6>obtenir une bonne consistance de crème</operation>. verser dans des petits ramequins, et saupoudrer de poudre d’ amandes ou de pistaches concassées. vous pouvez remplacer l’ eau de <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> par du chocolat fondu, un sachet de thé fort (à <operation temps=6.86min espace=6>faire infuser dans le <ingredient quantite=1>lait</ingredient> préalablement chauffé</operation>). simplissime et super bon!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225552">
+ <titre>Penne à la Sicilienne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de penne</p>
+ <p>3 tomates bien mûres</p>
+ <p>1 oignon blanc</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>50 g de mozzarella</p>
+ <p>20 olives noires à la Grecque</p>
+ <p>1 branche de basilic</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>1 pincée de sel</p>
+ <p>1 pincée de poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plonger les <ingredient quantite=3>tomates</ingredient> dans de l’ eau bouillante quelques secondes pour les éplucher. éplucher l’ <ingredient quantite=1>oignon blanc</ingredient> et le <operation temps=6.86min espace=12>faire fondre dans un fond d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. éplucher l’ <ingredient quantite=2>ail</ingredient>, le hacher et l’ ajouter aux <ingredient quantite=1>oignons</ingredient> ainsi que les <ingredient quantite=3>tomates</ingredient>. ajouter un verre d’ eau. <operation temps=20.0min espace=12>faire cuire à feu doux 20 min</operation>. pendant ce temps, couper l’ <ingredient quantite=1>aubergine</ingredient> en lanière et les <operation temps=6.86min espace=12>faire revenir dans un peu d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> en</operation> <operation temps=6.86min espace=12>faisant attention a ce qu’ elles ne</operation> brûlent pas. couper la <ingredient quantite=1>courgette</ingredient> en quartier et les <operation temps=6.86min espace=12>faire sauter dans de l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> également</operation>. préparer les pâtes et réserver les <ingredient quantite=1>aubergines</ingredient> et les <ingredient quantite=1>courgettes</ingredient>. couper la mozzarella en petits dés et hacher les <ingredient quantite=1>olives</ingredient> avec 5 belles feuilles de <ingredient quantite=1>basilic</ingredient>. ajouter la mozzarella et le mélange <ingredient quantite=1>olives</ingredient> / <ingredient quantite=1>basilic</ingredient> à la sauce tomate et stopper la cuisson, saler et poivrer en fonction de vos gouts. <operation temps=6.86min espace=12>servir les <ingredient quantite=1>pennes</ingredient>’ al dente’, assorties des lanières d’ <ingredient quantite=1>aubergines</ingredient> et des quartiers de</operation> <ingredient quantite=1>courgettes</ingredient>, napper avec la sauce sicilienne, parsemer de parmesan et décorer avec 2 feuilles de <ingredient quantite=1>basilic</ingredient> fraîches.
+]]>
+ </preparation>
+</recette>

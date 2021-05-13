@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25176">
+ <titre>Gâteau aux pommes (Le Roi Des Reinettes) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de pommes</p>
+ <p>150 g de crème fraîche</p>
+ <p>120 g de sucre</p>
+ <p>100 g de farine</p>
+ <p>1/2 sachet de levure chimique</p>
+ <p>2 oeufs</p>
+ <p>3 cuillères à soupe de rhum ou calvados</p>
+ <p>une noix de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>pommes</ingredient>, râpez - les, <operation temps=6.86min espace=13>mettez - les dans un <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=13>poudrez - les de la moitié du</operation> <ingredient quantite=1>sucre</ingredient> et arrosez - les de <ingredient quantite=3>rhum ou calvados</ingredient>. <operation temps=6.86min espace=13>allumez le <recipient>four</recipient> th 6</operation>. <operation temps=6.86min espace=13>cassez les <ingredient quantite=2>oeufs</ingredient> dans une <recipient>terrine</recipient></operation>, <operation temps=6.86min espace=13>battez - les en omelette</operation>, <operation temps=6.86min espace=13>versez y le reste du <ingredient quantite=1>sucre</ingredient> et la farine</operation>, <operation temps=5.0min espace=13>mélangez</operation>. <operation temps=6.86min espace=13>ajoutez la <ingredient quantite=1>levure</ingredient> et la <ingredient quantite=1>crème</ingredient></operation>. incorporez à la préparation les <ingredient quantite=1>pommes</ingredient>. <operation temps=6.86min espace=13>beurrez un <recipient>moule</recipient></operation> et <operation temps=6.86min espace=13>versez la préparation</operation>. <operation temps=50.0min espace=13>laissez cuire 50 mn</operation>. a la sortie du <recipient>four</recipient> <operation temps=6.86min espace=13>saupoudrez le gâteau de <ingredient quantite=1>sucre</ingredient></operation> vanillé. ce gâteau est idéal pour les goûters d’ enfants, évidemment sans le <ingredient quantite=3>rhum</ingredient>, car il a la consistance d’ un flan. muscat
+]]>
+ </preparation>
+</recette>

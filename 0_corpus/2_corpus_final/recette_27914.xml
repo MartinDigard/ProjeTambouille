@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27914">
+ <titre>Tarte provençale originale</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée ou brisée</p>
+ <p>1 oignon</p>
+ <p>1 gousse d’ ail</p>
+ <p>1/2 poivron rouge</p>
+ <p>1/2 poivron vert</p>
+ <p>1/2 poivron jaune</p>
+ <p>2 tomates</p>
+ <p>1 courgette</p>
+ <p>2 steacks hachés</p>
+ <p>40 g de gruyère râpé</p>
+ <p>sel, poivre</p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> et <operation temps=5.0min espace=14>faites - la précuire 5 mn (<recipient>four</recipient> 180 ° c</operation>). dans une <recipient>casserole</recipient> <operation temps=6.86min espace=14>faites fondre l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans un peu d’ huile d’ olive. ajouter les <ingredient quantite=1>poivrons</ingredient> coupés en lamelles. une fois fondus, ajouter la <ingredient quantite=1>courgette</ingredient> puis les <ingredient quantite=2>tomates</ingredient>. <operation temps=10.0min espace=14>faire réduire 10 mn à feu doux</operation>. les légumes doivent rester croquants! saler, poivrer, " ailler " et ajouter les <ingredient quantite=1>herbes</ingredient>. a part <operation temps=6.86min espace=14>faire cuire les <ingredient quantite=2>steacks</ingredient> en petits morceaux</operation>. <operation temps=6.86min espace=14>mettez les légumes sur la <ingredient quantite=1>pâte</ingredient> puis les morceaux de viande et enfin parsemez le <ingredient quantite=1>gruyère</ingredient></operation>. <operation temps=20.0min espace=14>faire cuire 20 mn</operation>. tous les ingrédients se marient vraiment bien tant en couleurs qu’ en goût!
+]]>
+ </preparation>
+</recette>

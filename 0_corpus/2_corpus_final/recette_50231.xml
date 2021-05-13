@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50231">
+ <titre>Tomates farcies au thon minceur</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 Tomates</p>
+ <p>1 boîte de thon de 130 g (poids égoutté) </p>
+ <p>100 g de fromage blanc à 0%</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>videz les</operation> <ingredient quantite=1>tomates</ingredient>: couper la partie supérieure. dans un bol, fouettez le <ingredient quantite=1>fromage blanc</ingredient> avec l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> puis <operation temps=6.86min espace=5>assaisonnez de <ingredient quantite=1>sel</ingredient> et de poivre</operation>. <operation temps=6.86min espace=5>incorporez le <ingredient quantite=1>thon</ingredient> émietté</operation>. <operation temps=6.86min espace=5>farcissez les <ingredient quantite=1>tomates</ingredient> de cette préparation</operation> et <operation temps=6.86min espace=5>servez frais</operation>. pour donner plus de goût, vous pouvez rajouter des épices: curry, cumin ou herbes de provence.
+]]>
+ </preparation>
+</recette>

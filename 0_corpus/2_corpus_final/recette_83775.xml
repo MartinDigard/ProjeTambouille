@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83775">
+ <titre>Gratin de pomme de terre d’ Adeline</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terre</p>
+ <p>200 g de lardons</p>
+ <p>1 gros oignon</p>
+ <p>160 g de gruyère râpé</p>
+ <p>3 cuillères à soupe de crème fraiche épaisse</p>
+ <p>2 oeufs</p>
+ <p>1 bouillon cube de veau ou volaille</p>
+ <p>Ail et persil</p>
+ <p>Sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=1>pommes de terre</ingredient> et les mettre dans une <recipient>cocotte</recipient>. ajouter le <ingredient quantite=1>bouillon cube</ingredient> à l’ eau, puis de l’ <ingredient quantite=1>ail</ingredient>, du <ingredient quantite=1>persil</ingredient>, du <ingredient quantite=1>sel</ingredient> et du poivre. les <operation temps=15.0min espace=13>faire cuire durant 15 min</operation>. pendant ce temps, <operation temps=6.86min espace=13>faire revenir 200 g de <ingredient quantite=1>lardons</ingredient> et un <ingredient quantite=1>oignon</ingredient> dans une <recipient>poêle</recipient></operation>. dans un bol, mélanger 3 <ingredient quantite=3>cuillères à soupe de crème fraiche épaisse</ingredient>, 2 <ingredient quantite=2>oeufs</ingredient>, 60 g de <ingredient quantite=1>gruyère râpé</ingredient> et du <ingredient quantite=1>sel</ingredient>. couper les <ingredient quantite=1>pommes de terre</ingredient> en rondelles et les mettre dans un <recipient>plat</recipient> à gratin. ajouter les <ingredient quantite=1>lardons</ingredient> et <ingredient quantite=1>oignon</ingredient> à la <ingredient quantite=3>crème</ingredient> et ajouter 2 louches de <ingredient quantite=1>bouillon</ingredient>. verser la préparation sur les <ingredient quantite=1>pommes de terre</ingredient>. déposer environ 100 g de gruyère sur le dessus du gratin. passer au <recipient>four</recipient> 20 min à 200 ° c (thermostat 7) et <operation temps=2.0min espace=13>faire gratiner 2 min à 275 ° c (thermostat 9</operation>).
+]]>
+ </preparation>
+</recette>

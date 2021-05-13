@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41511">
+ <titre>Tarte tatin pêches et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte de pêches au sirop</p>
+ <p>80 g de beurre doux</p>
+ <p>50 g de sucre blanc</p>
+ <p>50 g de cassonade</p>
+ <p>1 tablette de chocolat (150 à 200g) </p>
+ <p>1 pâte feuilletée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=11>faire fondre le beurre dans un <recipient>plat</recipient> à tarte</operation>. ajouter les <ingredient quantite=1>sucres</ingredient> et bien <operation temps=6.86min espace=11>répartir au fond du <recipient>plat</recipient></operation>. par - dessus, mettre les oreillons de <ingredient quantite=1>pêches</ingredient> coupé en deux ou en quatre. dans les interstices, glisser des carreaux de <ingredient quantite=1>chocolat</ingredient>. il faut mettre presque la <ingredient quantite=1>tablette</ingredient> entière. disposer la <ingredient quantite=1>pâte</ingredient> sur les <ingredient quantite=1>pêches</ingredient> et le <ingredient quantite=1>chocolat</ingredient> et bien l’ enfoncer au bord du <recipient>moule</recipient>. <operation temps=25.0min espace=11>faire cuire pendant environ 25 min</operation>. déguster tiède après l’ avoir retournée sur un <recipient>plat plat</recipient>.
+]]>
+ </preparation>
+</recette>

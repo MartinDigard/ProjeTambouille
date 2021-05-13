@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20290">
+ <titre>Poulet aux litchis</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>2 boîtes de litchis au sirop</p>
+ <p>2 gousses d’ ail</p>
+ <p>3 échalotes ou oignons</p>
+ <p>1 petit piment (frais ou séché) </p>
+ <p>herbes au choix (thym, romarin, herbes de provence...) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>litchis</ingredient> en morceaux. emincer l’ <ingredient quantite=2>ail</ingredient>, les <ingredient quantite=3>échalotes</ingredient> et le <ingredient quantite=1>piment</ingredient>. rajouter les <ingredient quantite=1>herbes</ingredient>, saler, poivrer et tout mélanger. farcir le <ingredient quantite=1>poulet</ingredient> avec la préparation, mettre ce qui reste de la farce dans le <recipient>plat</recipient>. enduire la peau avec le <ingredient quantite=2>sirop de litchis</ingredient>. cuire 1 h 15 th 7. <operation temps=6.86min espace=8>servir par exemple avec du boulgour</operation> aromatisé à votre goût. important: la peau du <ingredient quantite=1>poulet</ingredient> caramélise à la cuisson avec le <ingredient quantite=2>sirop de litchis</ingredient>. il faut donc retourner et arroser le <ingredient quantite=1>poulet</ingredient> régulièrement. on peut mettre un aluminium sur le <ingredient quantite=1>poulet</ingredient> pour le dernier quart d’ heure (face brillante à l’ intérieur, sinon ça renvoie la chaleur).
+]]>
+ </preparation>
+</recette>

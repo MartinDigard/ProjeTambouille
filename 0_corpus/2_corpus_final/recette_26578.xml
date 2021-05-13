@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26578">
+ <titre>Chou farci en cocotte</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gros chou</p>
+ <p>500 g de chair à saucisse</p>
+ <p>quelques bardes de lard</p>
+ <p>quelques couennes</p>
+ <p>2 carottes</p>
+ <p>1 oignon</p>
+ <p>25 cl de bouillon </p>
+ <p>1 verre de vin blanc</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer et parer le <ingredient quantite=1>chou</ingredient>, puis le <operation temps=10.0min espace=12>faire blanchir 10 min dans l’ eau bouillante</operation> salée. pendant ce temps, peler et détailler les <ingredient quantite=2>carottes</ingredient> et les <ingredient quantite=1>oignons</ingredient> en rondelles. tapisser une grande <recipient>cocotte</recipient> de <ingredient quantite=1>couennes</ingredient> de <ingredient quantite=1>lard</ingredient>. egoutter ensuite le <ingredient quantite=1>chou</ingredient>, puis le presser pour extraire toute l’ eau absorbée. le farcir avec un peu de <ingredient quantite=1>chair à saucisse</ingredient> au centre, puis <operation temps=6.86min espace=12>répartir la farce entre ses feuilles en</operation> veillant à ne pas les casser. envelopper le <ingredient quantite=1>chou</ingredient> farci de <ingredient quantite=1>bardes de lard</ingredient> puis le ficeler avec de la ficelle de cuisine. déposer ensuite le <ingredient quantite=1>chou</ingredient> farci sur le lit de <ingredient quantite=1>couennes</ingredient> et l’ entourer de rondelles d’ <ingredient quantite=1>oignons</ingredient> et de <ingredient quantite=2>carottes</ingredient>. saler, poivrer, puis arroser le <ingredient quantite=1>chou</ingredient> de <ingredient quantite=1>vin</ingredient> et de <ingredient quantite=1>bouillon</ingredient>. <operation temps=6.86min espace=12>laisser cuire 3 h à couvert à feu doux en le mouillant de temps en temps</operation>. <operation temps=6.86min espace=12>sortir le <ingredient quantite=1>chou</ingredient> de la <recipient>cocotte</recipient>, le déficeler et lui</operation> ôter les <ingredient quantite=1>bardes</ingredient> qui l’ entourent. découper le <ingredient quantite=1>chou</ingredient> en quartiers puis le dresser sur un <recipient>plat</recipient> de service chaud. le napper de jus de cuisson et servir. pour éviter que le <ingredient quantite=1>chou</ingredient> ne se défasse à la cuisson, vous pouvez l’ envelopper dans une mousseline pour qu’ il garde sa forme d’ origine.
+]]>
+ </preparation>
+</recette>

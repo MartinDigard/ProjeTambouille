@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57301">
+ <titre>Mendiant aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 baguette de pain rassi</p>
+ <p>50 cl de lait</p>
+ <p>sucre (selon goût) </p>
+ <p>1 pomme (ou deux selon goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 240 ° c (thermostat 8). couper le <ingredient quantite=1>pain</ingredient> en morceaux, le mettre dans une <recipient>casserole</recipient> à feu doux puis noyer de lait pour <operation temps=6.86min espace=10>obtenir une pâte</operation>. sucrer à volonté (selon goût) et ajouter de petits quartiers de <ingredient quantite=1>pomme</ingredient>. retirer du feu et verser dans un <recipient>moule</recipient> beurré. <operation temps=6.86min espace=10>laisser au <recipient>four</recipient> 15/20</operation> minutes en surveillant. quand le gâteau est bien doré, le retirer du <recipient>four</recipient> et le <operation temps=20.0min espace=10>laisser refroidir</operation>. placer au <recipient>réfrigérateur</recipient> 1 heure avant de consommer. gâteau à manger en famille.
+]]>
+ </preparation>
+</recette>

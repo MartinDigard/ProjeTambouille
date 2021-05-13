@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170793">
+ <titre>Verrine crumble citron</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 cl de jus de citron</p>
+ <p>10 g de préparation pour flan nature (sucré ou non) </p>
+ <p>3 oeufs</p>
+ <p>125 g de sucre</p>
+ <p>25 g de beurre</p>
+ <p>100 g de biscuits</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>mélangez le <ingredient quantite=1>sucre</ingredient> et les <ingredient quantite=3>oeufs</ingredient> jusqu’ à blanchiment</operation> puis ajoutez la <ingredient quantite=1>préparation pour flan</ingredient>. <operation temps=6.86min espace=8>versez le</operation> mélanger dans une <recipient>casserole</recipient>, ajoutez le <ingredient quantite=1>jus de citron</ingredient> et <operation temps=20.0min espace=8>portez à ébullition</operation>. hors du feu, <operation temps=6.86min espace=8>ajoutez le beurre</operation>. pour dresser les verrines, <operation temps=6.86min espace=8>mettez une couche de <ingredient quantite=1>biscuits</ingredient></operation> écrasés puis <operation temps=6.86min espace=8>versez dessus la crème jusqu’ au 3/4 de la verrine</operation>. si vous <operation temps=6.86min espace=8>avez une framboise</operation> <operation temps=6.86min espace=8>posez la dessus pour la beauté de la verrine</operation>. <operation temps=6.86min espace=8>laissez refroidir au <recipient>réfrigérateur</recipient> quelques heures, bien froid c’ est meilleur!! vous</operation> pouvez également <operation temps=6.86min espace=8>faire simplement la crème de <ingredient quantite=1>citron</ingredient> et la</operation> dresser sur une tarte, c’ est trop bon! pour ceux qui n’ aiment pas trop le <ingredient quantite=1>citron</ingredient>, elle passe tout de même très bien cette recette
+]]>
+ </preparation>
+</recette>

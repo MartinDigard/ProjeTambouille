@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90579">
+ <titre>Cake aux figues et au chorizo</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p> 200 g de farine </p>
+ <p> 150 g de beurre</p>
+ <p> 150 g de figues</p>
+ <p> 1 chorizo</p>
+ <p> 70 g de gruyère rapé</p>
+ <p> 4 oeufs</p>
+ <p> 1 sachet de levure chimique</p>
+ <p> 25 cl de lait</p>
+ <p> sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7. fouetter les <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=1>sel</ingredient> et le poivre dans un <recipient>saladier</recipient>. ajouter la farine et la <ingredient quantite=1>levure</ingredient>. <operation temps=1.0min espace=13>faire fondre le beurre</operation>. ajouter le beurre fondu et le lait. mélanger bien. couper le <ingredient quantite=1>chorizo</ingredient> et les <ingredient quantite=1>figues</ingredient> en petits morceaux et les ajouter à la préparation avec le <ingredient quantite=1>gruyère rapé</ingredient>. beurrer le <recipient>moule</recipient> et verser la pâte dans celui-ci. mettre au <recipient>four</recipient> pendant 45 minutes à 180 ° c (thermostat 6) en le surveillant régulièrement à <operation temps=6.86min espace=13>partir de la trentième minute</operation>.
+]]>
+ </preparation>
+</recette>

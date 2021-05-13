@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61366">
+ <titre>Gratin express au poisson</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 boîtes de poisson blanc ou saumon (150 g / boîte) </p>
+ <p>150 g gruyère rapé</p>
+ <p>50 cl de béchamel en brique </p>
+ <p>1 petite boite de champignons</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>emiéttez grossièrement le <ingredient quantite=2>poisson</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient></operation>. <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=1>champignons</ingredient> égouttés</operation>, <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation>. <operation temps=6.86min espace=8>recouvrez de <ingredient quantite=1>béchamel</ingredient> et gruyère</operation>. <operation temps=30.0min espace=8>faites cuire 30 min au <recipient>four</recipient> à 175 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

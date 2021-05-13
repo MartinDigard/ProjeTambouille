@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168788">
+ <titre>Tarte tatin mangue coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilleté</p>
+ <p>2 mangues</p>
+ <p>noix de coco rapée</p>
+ <p>Pour le caramel: </p>
+ <p>80g de sucre</p>
+ <p>30g de beurre</p>
+ <p>1c. s d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>mangue</ingredient> en tranche, les <operation temps=6.86min espace=10>faires dorer dans une <recipient>poêle</recipient> avec le beurre, <ingredient quantite=1>sucre</ingredient> et <ingredient quantite=1>eau</ingredient> placez les tranches de <ingredient quantite=1>mangue</ingredient></operation> dorés dans un <recipient>plat</recipient> à tarte, <operation temps=6.86min espace=10>recouvrir avec la pâte</operation> feuilleté. cuisson 30 min dans le <recipient>four</recipient> à 200 ° décorer avec de la <ingredient quantite=1>noix de coco</ingredient>, <operation temps=20.0min espace=10>laisser refroidir</operation> et <operation temps=6.86min espace=10>retournez la tarte sur une assiéte</operation>. peut être servi avec du lait de <ingredient quantite=1>coco</ingredient> (le <operation temps=6.86min espace=10>faire chauffer un peu</operation>).
+]]>
+ </preparation>
+</recette>

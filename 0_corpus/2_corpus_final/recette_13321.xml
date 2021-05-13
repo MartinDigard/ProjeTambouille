@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13321">
+ <titre>Porridge cacaoté</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 cuillères à soupe de flocon d’ avoine</p>
+ <p>2 cuillères à soupe de sucre en poudre</p>
+ <p>1 bol de lait</p>
+ <p>une pincé de sel fin</p>
+ <p>1 cuillère à soupe de cacao maigre, genre Van Houten</p>
+ <p>facultatif: vanille ou cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le <ingredient quantite=1>lait</ingredient> dans le <ingredient quantite=1>bol</ingredient> ainsi que les <ingredient quantite=3>flocons</ingredient> d’ <ingredient quantite=3>avoine</ingredient>. chauffer au <recipient>micro-onde</recipient> pendant 2 ou 3 mn. <operation temps=6.86min espace=9>ouvrir le <recipient>micro-onde</recipient></operation>,</operation> remuer. chauffer à nouveau pendant 2 ou 3 mn. <operation temps=6.86min espace=9>ouvrir le <recipient>micro-onde</recipient></operation>,</operation> <operation temps=6.86min espace=9>sortir le <ingredient quantite=1>bol</ingredient></operation>. ajouter sucre, <ingredient quantite=1>cacao</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>vanille ou cannelle</ingredient>. remuer. se déguste chaud ou froid selon le goût. se fait surtout au petit-déjeuner. pour <operation temps=6.86min espace=9>faire beau au dessert du midi ou soir</operation>, mettre dans le petit <ingredient quantite=1>bol</ingredient> humidifié, <operation temps=6.86min espace=9>laisser refroidir au frigo</operation>, démouler. attention, des fois, c’ est dur à démouler! napper de crème anglaise! ou bien de chocolat noir fondu! très gourmand!!!
+]]>
+ </preparation>
+</recette>

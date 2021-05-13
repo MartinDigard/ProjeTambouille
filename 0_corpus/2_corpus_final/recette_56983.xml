@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56983">
+ <titre>Tourte au saumon rapide</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tranches de saumon fumé</p>
+ <p>2 pâtes feuilletées</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>250 g de mascarpone</p>
+ <p>50 g gruyère</p>
+ <p>10 cl crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). etaler la <ingredient quantite=1>pâte</ingredient> feuilletée dans le <recipient><recipient>moule</recipient> à tarte</recipient>. mettre les <ingredient quantite=6>tranches de saumon</ingredient> puis le <ingredient quantite=1>mascarpone</ingredient>, le gruyère et la crème <ingredient quantite=1>fraîche</ingredient>. recouvrir avec la deuxième <ingredient quantite=1>pâte feuilletée</ingredient>, passer sur la <ingredient quantite=1>pâte</ingredient> le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> à l’ aide d’ un pinceau et <operation temps=30.0min espace=8>faire cuire 30 minutes</operation>. vous pouvez remplacer le <ingredient quantite=1>mascarpone</ingredient> par de la mozzarella.
+]]>
+ </preparation>
+</recette>

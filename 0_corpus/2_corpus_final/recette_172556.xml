@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172556">
+ <titre>Blé aux asperges et à la viande grillée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de blé prêt à cuisiner</p>
+ <p>asperges thaïlandaises (petites asperges vertes) </p>
+ <p>viande au choix à griller</p>
+ <p>1 filet de citron</p>
+ <p>1 oignon</p>
+ <p>1/2 bouillon cube de volaille</p>
+ <p>ail en poudre (facultattif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=1>blé</ingredient> avec le <ingredient quantite=1>bouillon de volaille</ingredient>. égoutter le <ingredient quantite=1>blé</ingredient> et ajouter une cuillère à soupe d’ huile et un <ingredient quantite=1>filet de citron</ingredient>. couper les têtes d’ <ingredient quantite=1>asperges</ingredient>, et couper le reste en deux. mettre le dur des <ingredient quantite=1>asperges</ingredient> dans l’ eau pendant environ 6 min et ajouter les têtes d’ <ingredient quantite=1>asperges</ingredient> pour les cuire encore 5 min. couper l’ <ingredient quantite=1>oignon</ingredient> en morceaux. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=9>faire dorer les <ingredient quantite=1>oignons</ingredient> avec un peu d’</operation> huile. cuire la <ingredient quantite=1>viande</ingredient> avec les <ingredient quantite=1>oignons</ingredient>. saler et poivrer la <ingredient quantite=1>viande</ingredient>. quand l’ <ingredient quantite=1>oignon</ingredient> et la <ingredient quantite=1>viande</ingredient> sont cuits, ajouter les <ingredient quantite=1>asperges</ingredient> et <operation temps=6.86min espace=9>faire <ingredient quantite=1>griller</ingredient> le tout à feu vif</operation>... bien surveiller pour ne pas que cela brûle. ajouter un peu d’ <ingredient quantite=1>ail en poudre</ingredient>. verser dans une verrine une couche de <ingredient quantite=1>blé</ingredient>, puis mettre le contenu de la <recipient>poêle</recipient>.
+]]>
+ </preparation>
+</recette>

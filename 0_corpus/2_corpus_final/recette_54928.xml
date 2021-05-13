@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54928">
+ <titre>Bavarois de fromage blanc au coulis de fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de fromage blanc 0% de matière grasse</p>
+ <p>5 feuilles de gélatine</p>
+ <p>5 cuillères à soupe d’ eau chaude</p>
+ <p>3 cuillères à soupe de sucre roux en poudre</p>
+ <p>extrait de vanille</p>
+ <p>Pour le coulis: </p>
+ <p>300 g de myrtille</p>
+ <p>300 g de framboises</p>
+ <p>2 cuillères à soupe de miel liquide</p>
+ <p>le jus de 2 citrons</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passez les <ingredient quantite=5>feuilles de gélatines</ingredient> sous l’ <ingredient quantite=5>eau</ingredient> froide. <operation temps=6.86min espace=11>mettez les dans un bol</operation> et arrosez les de 5 <ingredient quantite=5>cuillères à soupe</ingredient> d’ <ingredient quantite=5>eau chaude</ingredient>. <operation temps=6.86min espace=11>laissez les fondre</operation>. fouettez le <ingredient quantite=1>fromage blanc</ingredient> à la main avec le <ingredient quantite=3>sucre</ingredient> et l’ <ingredient quantite=1>extrait de vanille</ingredient>. <operation temps=6.86min espace=11>incorporez la <ingredient quantite=5>gélatine</ingredient></operation>. <operation temps=6.86min espace=11>versez dans 6 ramequins</operation> et <operation temps=6.86min espace=11>laissez prendre au <recipient>congélateur</recipient> pendant 2h</operation>. <operation temps=6.86min espace=11>préparez le <ingredient quantite=1>coulis</ingredient> de fruits rouges</operation>: <operation temps=6.86min espace=11>lavez les fruits</operation>. passez les à la moulinette avec le <ingredient quantite=1>jus de citron</ingredient> et une <ingredient quantite=5>cuillère à soupe de miel</ingredient>. pour <operation temps=2.0min espace=11>servir</operation>, <operation temps=6.86min espace=11>démoulez les bavarois dans des assiettes à dessert</operation>. <operation temps=6.86min espace=11>nappez les de <ingredient quantite=1>coulis</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

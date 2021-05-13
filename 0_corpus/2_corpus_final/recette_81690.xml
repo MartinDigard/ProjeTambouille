@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81690">
+ <titre>Brioche de mamy ja</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>15 g levure de boulanger</p>
+ <p>1/2 verre de lait tiède</p>
+ <p>30 g de sucre</p>
+ <p>1 pincée sel</p>
+ <p>200 g beurre fondu</p>
+ <p>4 oeufs entiers</p>
+ <p>300 g de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+délayer 15 g de levure de <ingredient quantite=1>boulanger</ingredient> dans 1/2 <ingredient quantite=1>verre de lait tiède</ingredient> et 30 g de <ingredient quantite=1>sucre</ingredient>. ajouter 75 g de farine et <operation temps=6.86min espace=9>laisser lever à la chaleur jusqu’ à ce que ce mélange double de volume</operation>. ajouter à ce moment 1 pincée de <ingredient quantite=1>sel</ingredient>, le beurre <ingredient quantite=1>fondu</ingredient>, les <ingredient quantite=4>oeufs</ingredient> et la farine. travailler la pâte en la soulevant et en la déchiquetant, puis <operation temps=6.86min espace=9>laisser reposer quelques heures en</operation> couvrant d’ un linge jusqu’ à ce que le tout soit levé. verser dans un <recipient>moule</recipient> beurré, dorer le dessus à l’ <ingredient quantite=1>oeuf</ingredient> battu (facultatif) et <operation temps=40.0min espace=9>faire cuire à <recipient>four</recipient> chaud 40 min</operation>. <operation temps=6.86min espace=9>laisser refroidir et ne</operation> consommer que le lendemain. bonne dégustation.
+]]>
+ </preparation>
+</recette>

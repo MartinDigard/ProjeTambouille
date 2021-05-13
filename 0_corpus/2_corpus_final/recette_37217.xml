@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37217">
+ <titre>Le brownie de fannychan</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de chocolat pâtissier</p>
+ <p>4 oeufs</p>
+ <p>200 g de sucre</p>
+ <p>200 g de beurre salé</p>
+ <p>80 g de farine</p>
+ <p>1 sachet de levure</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>50g de coco en poudre (à votre goût) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>chocolat</ingredient> puis le beurre dans une même <recipient>casserole</recipient></operation>. dans un <recipient>saladier</recipient>, verser le <ingredient quantite=1>sucre</ingredient> et bien y battre les <ingredient quantite=4>oeufs</ingredient> pour qu’ ils ne cuisent pas quand on verse le <ingredient quantite=1>chocolat</ingredient>. verser le mélange <ingredient quantite=1>chocolat</ingredient> - <ingredient quantite=1>beurre</ingredient>. verser doucement la farine et la <ingredient quantite=1>levure</ingredient> tout en remuant. terminer en ajoutant la <ingredient quantite=1>poudre</ingredient> de <ingredient quantite=1>coco</ingredient>. <operation temps=25.0min espace=10>faire cuire 25 minutes à 180 ° c (thermostat 6</operation>). c’ est une de mes recettes " british " dont mes amis raffolent. essayez aussi le " gâteau à la carotte nappage cream cheese " pour épater vos papilles et vos amis!!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20707">
+ <titre>Crêpes à la farine de châtaigne</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine de châtaigne</p>
+ <p>100 g de farine de blé</p>
+ <p>4 œufs</p>
+ <p>50 cl de lait</p>
+ <p>1 cuillerée d’ huile</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les farines. <operation temps=6.86min espace=7>faire un puits puis y</operation> casser les <ingredient quantite=4>œufs</ingredient> 1 à 1. ajouter l’ <ingredient quantite=1>huile</ingredient>, le <ingredient quantite=1>sel</ingredient> et le lait progressivement jusqu’ à ce que la pâte coulant en <operation temps=6.86min espace=7>faisant " un ruban</operation> ". <operation temps=6.86min espace=7>laisser reposer la pâte au moins 1 h</operation> et ajouter un peu d’ eau si elle semble trop épaisse. cuire dans une <recipient>crêpière</recipient> huilée.
+]]>
+ </preparation>
+</recette>

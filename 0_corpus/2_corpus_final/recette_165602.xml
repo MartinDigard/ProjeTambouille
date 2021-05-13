@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165602">
+ <titre>Fondue savoyarde économe (mais succulente) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>30 cl de Vin blanc: Vin de pays des côtes de Gascogne "Fontagnac" (parfait pour cette fondue et moins cher qu’ un vin de Savoie) </p>
+ <p>200 g d’ emmental râpé</p>
+ <p>150 g de comté râpé</p>
+ <p>200 g de tome de Savoie</p>
+ <p>Facultatif: 5 cl de kirsch mélangé à 1 cuillère à café de maïzena</p>
+ <p>1 baguette de pain</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencez par couper le <ingredient quantite=1>pain</ingredient> en morceaux afin qu’ il durcisse. <operation temps=6.86min espace=7>coupez en</operation> lamelles la <ingredient quantite=1>tome de savoie</ingredient> (<operation temps=6.86min espace=7>retirez d’ abord la croûte</operation>) faites chauffer le <ingredient quantite=1>vin blanc</ingredient> dans la <recipient>casserole</recipient> jusqu’ à ce qu’ il mousse puis <operation temps=6.86min espace=7>mettez à feu moyen</operation> et <operation temps=0.5min espace=7>ajoutez</operation> progressivement le fromage en remuant avec une cuiller en bois (<operation temps=6.86min espace=7>faire des " 8 "</operation>). facultatif: une fois le fromage fondu, <ingredient quantite=1>mélangez</ingredient> une cuiller à <ingredient quantite=1>café</ingredient> de maïzena dans 5 cl de <ingredient quantite=1>kirsch</ingredient> que vous <operation temps=6.86min espace=7>ajouterez au fromage</operation>. <operation temps=6.86min espace=7>allumez le brûleur</operation> et <operation temps=6.86min espace=7>mettez dessus la fondue</operation>. remuez régulièrement avec la cuiller. bon appétit!
+]]>
+ </preparation>
+</recette>

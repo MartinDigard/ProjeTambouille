@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25935">
+ <titre>Rascasse poêlée au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 filets de rascasse</p>
+ <p>1 citron</p>
+ <p>30 g de beurre</p>
+ <p>farine</p>
+ <p>persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>passez les</operation> filest de poissons dans la farine, <operation temps=0.25min espace=6>salez</operation> et <operation temps=6.86min espace=6>poivrez - les</operation>. <operation temps=4.0min espace=6>faites - les dorer dans le beurre chaud, 3 - 4 min sur chaque face</operation>. parsemez de <ingredient quantite=1>persil</ingredient> frais haché et <operation temps=6.86min espace=6>arrosez de jus de <ingredient quantite=1>citron</ingredient></operation>. <operation temps=2.0min espace=6>servez</operation>. pour accompagner: riz, pommes de terre, purée de courgettes ou ratatouille...
+]]>
+ </preparation>
+</recette>

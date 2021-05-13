@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46637">
+ <titre>Tarte à l’ aubergine express</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée prête à dérouler</p>
+ <p>1 aubergine</p>
+ <p>1 pot de sauce tomate provençale (200g) </p>
+ <p>75g de fromage râpé</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> et la mettre dans un <recipient><recipient>moule</recipient> à tarte</recipient>. bien laver l’ <ingredient quantite=1>aubergine</ingredient>, la couper en rondelles moyennes (7 à 8 mm d’ épaisseur) et en <operation temps=6.86min espace=6>garnir le fond de tarte</operation>. <operation temps=6.86min espace=6>faire couler un filet d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient> sur les <ingredient quantite=1>aubergines</ingredient></operation>. napper le tout de <ingredient quantite=1>sauce tomate</ingredient>. ajouter le <ingredient quantite=1>fromage râpé</ingredient>. <operation temps=20.0min espace=6>faire cuire à 220 ° c (thermostat 7) pendant 20 min</operation> et déguster tant que c’ est chaud! se sert aussi en entrée, pour 4 ou 6 personnes.
+]]>
+ </preparation>
+</recette>

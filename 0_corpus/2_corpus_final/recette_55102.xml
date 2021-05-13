@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55102">
+ <titre>Calamars au vin blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2, 5 kg de gros calamar/poulpe</p>
+ <p>1 très grosse gousse d’ ail</p>
+ <p>une bonne touffe de persil</p>
+ <p>un vin blanc quelconque (sec!) </p>
+ <p>3 citrons</p>
+ <p>5 cuillères à soupe de crème fraîche</p>
+ <p>1 grande poêle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper l’ <ingredient quantite=1>ail</ingredient> et le <ingredient quantite=1>persil</ingredient> en petits morceaux. les <operation temps=6.86min espace=10>faire revenir ensuite à feu moyen avec un tout petit peu d’ huile d’ olive</operation>. pendant ce temps couper le <ingredient quantite=1>calamar</ingredient> en lamelles de 5 cm x 1 cm environ. les jeter dans la <ingredient quantite=1><recipient>poêle</recipient></ingredient> avec le reste et les <operation temps=20.0min espace=10>laisser cuire / griller à feu moyen fort pendant 15/20 min en</operation> remuant régulièrement. saler. vider l’ eau que crache le <ingredient quantite=1>calamar</ingredient> de temps en temps. une fois que le <ingredient quantite=1>calamar</ingredient> semble bien grillé -mais pas trop cuit car il devient dur- baisser le feu et presser tous les <ingredient quantite=3>citrons</ingredient> dans la <ingredient quantite=1><recipient>poêle</recipient></ingredient>. jeter un peu de <ingredient quantite=1>vin</ingredient> dans le fond de la <ingredient quantite=1><recipient>poêle</recipient></ingredient> (1/4 de bouteille). puis rajouter la <ingredient quantite=5>crème fraîche</ingredient>, jusqu’ à <operation temps=6.86min espace=10>obtenir l’ épaisseur</operation> souhaitée de la sauce. <operation temps=6.86min espace=10>faire chauffer en</operation> remuant pendant 2/3 min et servir chaud.
+]]>
+ </preparation>
+</recette>

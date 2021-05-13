@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41170">
+ <titre>Risotto aux crevettes et aux oranges</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de riz arborio (ou carnaroli) </p>
+ <p>20 gambas crues </p>
+ <p>200 g de crevettes cuites decortiquées </p>
+ <p>2 échalotes </p>
+ <p>1 litre de bouillon de poisson (ou de légumes, bien chaud) </p>
+ <p>20 cL de vin blanc </p>
+ <p>2 oranges (jus + 1 zeste râpé) </p>
+ <p>1/2 citron</p>
+ <p>25 g de beurre </p>
+ <p>20 g de parmesan (à râper frais) </p>
+ <p>1/3 cuillère à café de poivre blanc </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=11>faire fondre le beurre</operation>, <operation temps=6.86min espace=11>faire sauter les <ingredient quantite=1>gambas</ingredient> entières, puis les</operation> enlever et les reserver au chaud. ajouter les <ingredient quantite=2>échalotes</ingredient>, et les <operation temps=6.86min espace=11>faire revenir jusqu’ à ce qu’ elles</operation> deviennent transparentes. jeter le <ingredient quantite=1>riz</ingredient>, et le <operation temps=6.86min espace=11>laisser s’</operation> imbiber pendant quelques minutes de ces saveurs... <operation temps=6.86min espace=11>faire chauffer le <ingredient quantite=1>bouillon</ingredient>,</operation> et presser les agrumes (demi <ingredient quantite=1>citron</ingredient> seulement). <operation temps=6.86min espace=11>couvrir à hauteur, avec le <ingredient quantite=1>bouillon</ingredient> chaud</operation> mélangé aux jus plusieurs fois, et <operation temps=6.86min espace=11>laisser gonfler en tournant de temps en temps</operation>. si besoin, rajouter un peu de bouillon.5 min avant la fin de la cuisson, ajouter les <ingredient quantite=1>crevettes</ingredient> et les <ingredient quantite=1>gambas</ingredient>, le zeste d’ <ingredient quantite=1>orange</ingredient>, la noix de beurre, le <ingredient quantite=1>parmesan</ingredient> râpé, et un tour de <ingredient quantite=1>poivre blanc</ingredient>. bien mélanger. le risotto doit être crémeux, et servi bien chaud! plus facile pour déguster: pendant la cuisson du risotto, on peut décortiquer les <ingredient quantite=1>gambas</ingredient>, en partie, après les avoir fait sauter. pour la déco, presenter les têtes sur le risotto, avec un ruban de peau de la 2ème <ingredient quantite=1>orange</ingredient> et du <ingredient quantite=1>citron</ingredient>. cette délicieuse recette convient très bien pour une entrée festive, en multipliant les convives ou en diminuant les portions. cuire et servir avec un champagne! un <ingredient quantite=1>vin blanc</ingredient> frais, mais pas sec, avec des notes d’ agrumes
+]]>
+ </preparation>
+</recette>

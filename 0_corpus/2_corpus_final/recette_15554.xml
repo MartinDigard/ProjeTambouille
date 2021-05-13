@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15554">
+ <titre>Pâte à tarte spéciale pour fruits juteux</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ <p>1 pincée de sel</p>
+ <p>1 cuillère à café de levure chimique</p>
+ <p>1 oeuf entier</p>
+ <p>1 dl d’ eau</p>
+ <p>1 dl d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la farine, la <ingredient quantite=1>levure</ingredient>, le <ingredient quantite=1>sel</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans une <recipient>terrine</recipient>. <operation temps=6.86min espace=8>faire un puits</operation>. ajouter l’ <ingredient quantite=1>oeuf entier</ingredient>, l’ <ingredient quantite=1>eau</ingredient> et l’ <ingredient quantite=1>huile</ingredient>. mélanger le tout à la fourchette. rajouter de la farine et <operation temps=6.86min espace=8>finir à la main</operation>. etendre au rouleau. idéale pour tous les fruits juteux où congelés. cela évite de mettre de la chapelure sur le fond de la tarte.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24618">
+ <titre>Cabillaud à la sauce au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de cabillaud</p>
+ <p>Pour la sauce: </p>
+ <p>30 g de beurre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>1 cuillère à soupe de curry en poudre</p>
+ <p>1 cube de bouillon</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>33 cl de vin blanc demi-sec</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>préparez le court-bouillon en</operation> plongeant le <ingredient quantite=1>cube de bouillon</ingredient> dans 60 cl d’ eau et 33 cl de <ingredient quantite=1>vin blanc</ingredient> de votre choix. <operation temps=6.86min espace=10>portez à ébullition, plongez - y le morceau de poisson</operation> et <operation temps=20.0min espace=10>laissez cuire 20 min à petit feu</operation>. <operation temps=6.86min espace=10>préparez la <ingredient quantite=1>sauce</ingredient></operation>. <operation temps=6.86min espace=10>faites fondre le beurre, dès qu’ il</operation> colore, <operation temps=6.86min espace=10>ajoutez la farine en pluie</operation> et <operation temps=6.86min espace=10>laissez cuire quelques minutes</operation>. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>curry</ingredient> et remuez</operation>. <operation temps=6.86min espace=10>egouttez le poisson</operation>, <operation temps=6.86min espace=10>filtrez le court-bouillon</operation>. <operation temps=6.86min espace=10>ajoutez des louches de <ingredient quantite=1>bouillon</ingredient> dans la <recipient>casserole</recipient> où se</operation> trouve le roux au <ingredient quantite=1>curry</ingredient>, remuez au fouet et <operation temps=6.86min espace=10>laissez épaissir jusqu’ à ce que la <ingredient quantite=1>sauce</ingredient> soit nappante</operation>. a la fin, incorporez la <ingredient quantite=2>crème fraîche</ingredient> dans la <ingredient quantite=1>sauce</ingredient>, <operation temps=8.0min espace=10>mélangez bien</operation>, <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation> et <operation temps=6.86min espace=10>servez avec le poisson</operation>. accompagnez de pommes de terre vapeur, julienne de légumes ou riz.
+]]>
+ </preparation>
+</recette>

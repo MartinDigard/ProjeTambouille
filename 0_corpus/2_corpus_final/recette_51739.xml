@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51739">
+ <titre>Salade de haricots rouges cow-boy</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g haricots rouges secs</p>
+ <p>1 boîte de 140 g de maïs</p>
+ <p>150 g de riz sauvage ou riz mélangé</p>
+ <p>2 poivrons rouges</p>
+ <p>1 poivron vert</p>
+ <p>1 gros oignon</p>
+ <p>tamari</p>
+ <p>vinaigre balsamique</p>
+ <p>huile de sésame (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire tremper les haricots <ingredient quantite=1>rouges secs</ingredient> pendant une nuit. les rincer, les <operation temps=6.86min espace=12>faire cuire 1 heure en <recipient>cocotte</recipient></operation> recouverts d’ eau avec l’ <ingredient quantite=1>oignon</ingredient> épluché coupé en 4. griller les <ingredient quantite=2>poivrons</ingredient> au <recipient>four</recipient> et retirer la peau ou cuire en <recipient>cocotte</recipient> et <operation temps=6.86min espace=12>laisser la peau</operation>. cuire le <ingredient quantite=1>riz</ingredient> selon les indications inscrites sur le paquet. <operation temps=6.86min espace=12>laisser refroidir le tout</operation>. <ingredient quantite=1>mélanger</ingredient> les ingrédients et ajouter le <ingredient quantite=1>maïs</ingredient> rincé. assaisonner avec 2 cuillères à soupe de <ingredient quantite=1>tamari</ingredient>, 2 cuillères à soupe de <ingredient quantite=1>vinaigre</ingredient> et éventuellement un peu d’ <ingredient quantite=1>huile de sésame</ingredient>. idéal pour un pique-nique ou un buffet, les ingrédients ne confisent pas... et les enfants apprécient.
+]]>
+ </preparation>
+</recette>

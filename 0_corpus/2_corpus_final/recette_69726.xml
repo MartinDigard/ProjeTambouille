@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69726">
+ <titre>Gâteau au chocolat anglais</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de chocolat noir</p>
+ <p>150 g de beurre</p>
+ <p>250 g de biscuits (sablés par exemple) </p>
+ <p>170 g de lait concentré</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire fondre 125 g de</operation> <ingredient quantite=1>chocolat</ingredient> puis ajouter le beurre fondu. ajouter le lait <ingredient quantite=1>concentré</ingredient>, écraser les <ingredient quantite=1>biscuits</ingredient> puis les ajouter. verser dans un grand <recipient>moule</recipient>. ensuite <operation temps=6.86min espace=5>faire fondre le reste du <ingredient quantite=1>chocolat</ingredient> et l’</operation> ajouter en nappage. <operation temps=6.86min espace=5>laisser refroidir le tout 2 ou 3 heures</operation> puis déguster. se déguste très bien avec de la crème anglaise
+]]>
+ </preparation>
+</recette>

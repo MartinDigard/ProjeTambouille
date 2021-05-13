@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30520">
+ <titre>Yaourts aux agrumes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 yaourts</p>
+ <p>2 pamplemousses</p>
+ <p>2 oranges</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>1 cuillère à soupe de kirsch (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>pelez les <ingredient quantite=2>oranges</ingredient> à vif</operation>, <operation temps=6.86min espace=5>découpez - les en tranches</operation>. <operation temps=6.86min espace=5>coupez les <ingredient quantite=2>pamplemousses</ingredient> en deux</operation>, <operation temps=6.86min espace=5>évidez - les soigneusement</operation> et <operation temps=6.86min espace=5>pelez la chair à vif</operation>. <operation temps=6.86min espace=5>découpez - la en dés</operation> et <operation temps=6.86min espace=5>récupérez le jus</operation> rendu. <operation temps=6.86min espace=5>mélangez les <ingredient quantite=4>yaourts</ingredient> avec le jus et les dés de</operation> <ingredient quantite=1>pamplemousse</ingredient>, <operation temps=6.86min espace=5>ajoutez les <ingredient quantite=2>oranges</ingredient>, le <ingredient quantite=1>kirsch</ingredient>, et le <ingredient quantite=4>sucre</ingredient></operation>. garnissez les écorces de <ingredient quantite=1>pamplemousse</ingredient> évidées et <operation temps=6.86min espace=5>réservez au frais avant de</operation> <operation temps=2.0min espace=5>servir</operation>.
+]]>
+ </preparation>
+</recette>

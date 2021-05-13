@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14876">
+ <titre>Gratin de penne aux légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 poivrons (rouge et jaune) </p>
+ <p>1 aubergine</p>
+ <p>1 courgette</p>
+ <p>huile d’ olive</p>
+ <p>2 gousses d’ ail</p>
+ <p>persil, herbes de provence</p>
+ <p>sel, poivre</p>
+ <p>250 g de penne</p>
+ <p>200 g de sauce tomate</p>
+ <p>300 g de mozzarella</p>
+ <p>basilic frais</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epépiner et couper les <ingredient quantite=2>poivrons</ingredient> en morceaux. couper l’ <ingredient quantite=1>aubergine</ingredient> et la <ingredient quantite=1>courgette</ingredient> en morceaux. mettre l’ huile dans une <recipient>casserole</recipient> et verser les légumes. ajouter l’ <ingredient quantite=2>ail</ingredient> pressé, les fines <ingredient quantite=1>herbes</ingredient>, le <ingredient quantite=1>persil</ingredient> haché. saler et poivrer. <operation temps=30.0min espace=14>faire cuire 30 mn en</operation> remuant de temps en temps. <operation temps=6.86min espace=14>faire cuire les <ingredient quantite=1>penne</ingredient> ‘ al dente’ dans de l’ eau</operation> salée. mélanger les <ingredient quantite=1>penne</ingredient>, les légumes et la sauce <ingredient quantite=1>tomate</ingredient>. verser dans un <recipient>plat</recipient> allant au <recipient>four</recipient>, puis ajouter la mozzarella en dés sur le dessus. <operation temps=15.0min espace=14>faire cuire 15 mn</operation>. servir chaud en parsemant de <ingredient quantite=1>basilic</ingredient>.
+]]>
+ </preparation>
+</recette>

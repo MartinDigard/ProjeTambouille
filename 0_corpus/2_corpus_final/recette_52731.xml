@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52731">
+ <titre>Poulet Bombo</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 pilons de poulet</p>
+ <p>2 oignons rouges</p>
+ <p>20 cl d’ eau</p>
+ <p>1 citron vert et 1 citron jaune</p>
+ <p>gingembre</p>
+ <p>coriandre</p>
+ <p>sel, poivre</p>
+ <p>huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour la marinade: mettre les <ingredient quantite=1>pilons de poulet</ingredient> avec les <ingredient quantite=2>oignons</ingredient> émincés finement dans un <recipient>saladier</recipient>, arroser de jus de <ingredient quantite=1>citron vert</ingredient> et ajouter le <ingredient quantite=1>citron jaune</ingredient> coupé en quartiers, du gingembre râpé, du <ingredient quantite=1>sel</ingredient>, du poivre et de l’ huile. <operation temps=0.25min espace=12>couvrir et</operation> <operation temps=6.86min espace=12>laisser macérer au <recipient>réfrigérateur</recipient> durant 2 heures</operation>. une fois la marinade terminée, <operation temps=6.86min espace=12>faire chauffer de l’</operation> huile (ou graisse de canard) dans une <recipient>cocotte</recipient>. <operation temps=6.86min espace=12>faire cuire les <ingredient quantite=1>pilons</ingredient> à moitié</operation> puis verser toute la marinade dans la <recipient>cocotte</recipient>. ajouter 20 cl d’ <ingredient quantite=1>eau</ingredient>, <operation temps=0.25min espace=12>couvrir et</operation> <operation temps=40.0min espace=12>laisser cuire 30 à 40 minutes en</operation> remuant. <operation temps=6.86min espace=12>servir avec du riz et de la <ingredient quantite=1>coriandre</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

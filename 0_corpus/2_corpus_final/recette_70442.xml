@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70442">
+ <titre>Potée aux 2 saucisses</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou blanc</p>
+ <p>4 belles carottes</p>
+ <p>3 grosses pommes de terre</p>
+ <p>3 belles tomates</p>
+ <p>1 oignon</p>
+ <p>1 clou de girofle</p>
+ <p>3 ou 4 saucisses fumées (ou une grosse saucisse de Morteau) </p>
+ <p>3 ou 4 saucisses de Toulouse</p>
+ <p>1 clou de girofle</p>
+ <p>thym, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+il faut dans un premier temps <operation temps=6.86min espace=13>faire blanchir le <ingredient quantite=1>chou</ingredient></operation>. ainsi, il faut le laver et le couper en 4 à 6 morceaux, qu’ il faut plonger dans l’ eau bouillante pendant 15 minutes, puis égoutter. pour éviter ou atténuer les " inconvénients " digestifs du <ingredient quantite=1>chou</ingredient>, je mets une à deux cuillerée (s) à café de bicarbonate de sodium dans l’ eau. ensuite, éplucher les autres légumes (<ingredient quantite=4>carottes</ingredient>, <ingredient quantite=3>pommes de terre</ingredient>, <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=3>tomates</ingredient>) et les mettre dans une <recipient>cocotte</recipient> minute, coupés en <ingredient quantite=1>gros</ingredient> morceaux. ajouter le <ingredient quantite=1>chou</ingredient>, les <ingredient quantite=3>saucisses</ingredient> (piquées au couteau), le <ingredient quantite=1>clou de girofle</ingredient>, le <ingredient quantite=1>thym</ingredient> et le poivre. mettre de l’ eau sans <operation temps=6.86min espace=13>couvrir entièrement les ingrédients dans la <recipient>cocotte</recipient> (un demi litre environ</operation>). fermer la <recipient>cocotte</recipient> et <operation temps=30.0min espace=13>faire cuire 30 minutes après avoir</operation> baissé le feu, une fois que la soupape a tourné. <operation temps=6.86min espace=13>servir la potée bien chaude, avec de la moutarde et du pain de campagne! il est possible de</operation> remplacer le <ingredient quantite=1>chou blanc</ingredient> par un <ingredient quantite=1>chou</ingredient> vert. bordeaux
+]]>
+ </preparation>
+</recette>

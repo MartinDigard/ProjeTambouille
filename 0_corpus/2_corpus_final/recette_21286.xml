@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21286">
+ <titre>Haricots verts à la crème et tagliatelles</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de haricots verts </p>
+ <p>30 g de beurre</p>
+ <p>1 gousse d’ ail</p>
+ <p>20 cl de crème fraîche liquide</p>
+ <p>400 g de tagliatelles</p>
+ <p>75 g de fromage râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>faites cuire les <ingredient quantite=1>haricots</ingredient> coupés en petits morceaux dans l’ eau bouillante</operation> salée durant 10 min. <operation temps=10.0min espace=7>egouttez</operation> - les et <operation temps=6.86min espace=7>faites - les</operation> <operation temps=6.86min espace=7>revenir dans le beurre avec l’ <ingredient quantite=1>ail</ingredient></operation> haché. <operation temps=0.25min espace=7>salez</operation>, <operation temps=0.5min espace=7>poivrez</operation> et <operation temps=6.86min espace=7>versez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=0.5min espace=7>réservez au chaud</operation>. <operation temps=6.86min espace=7>faites cuire les pâtes dans une grande quantité d’ eau bouillante</operation> salée. <operation temps=10.0min espace=7>egouttez</operation> les pâtes, saupoudrez de <ingredient quantite=1>fromage râpé</ingredient> et nappez de <ingredient quantite=1>haricots verts</ingredient> à la <ingredient quantite=1>crème</ingredient>. <operation temps=5.0min espace=7>mélangez</operation> et <operation temps=2.0min espace=7>servez</operation>.
+]]>
+ </preparation>
+</recette>

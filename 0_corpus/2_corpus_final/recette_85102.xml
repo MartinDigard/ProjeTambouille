@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85102">
+ <titre>Quiche au saumon fumé et fromage de chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>une pâte feuilletée</p>
+ <p>une tranche de saumon fumé</p>
+ <p>Quelques tranches d’ une bûche de fromage de chèvre </p>
+ <p>4 œufs</p>
+ <p>1 sachet de gruyère râpé</p>
+ <p>1 ou 2 échalotes, selon les goûts</p>
+ <p>20 cl de crème fraîche</p>
+ <p>Sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7 - 8). <operation temps=6.86min espace=12>faire revenir l’ <ingredient quantite=1>échalote</ingredient> avec un filet d’ huile d’ olive</operation>. etaler la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>. la piquer à la fourchette. dans une <recipient>terrine</recipient>, mélanger les <ingredient quantite=4>œufs</ingredient>, la <ingredient quantite=1>crème</ingredient> et le <ingredient quantite=1>gruyère</ingredient> rapé. saler, poivrer. sur la <ingredient quantite=1>pâte</ingredient>, étaler d’ abord l’ <ingredient quantite=1>échalote</ingredient>, puis le reste de gruyère et verser la préparation. enfin, couper des petits morceaux de <ingredient quantite=1>saumon fumé</ingredient> et de <ingredient quantite=1>fromage de chèvre</ingredient> et les répandre sur la tarte. <operation temps=40.0min espace=12>faire cuire au <recipient>four</recipient> 30 à 40 minutes à 180 ° c (thermostat 6</operation>). parfait accompagné d’ une salade verte à la vinaigrette.
+]]>
+ </preparation>
+</recette>

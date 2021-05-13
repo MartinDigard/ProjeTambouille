@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25458">
+ <titre>Curry de crevettes épicées</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de crevettes fraîches</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe de curry en poudre</p>
+ <p>2 verres de vin blanc sec</p>
+ <p>3 cuillères à soupe de crème fraîche épaisse</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>Tabasco</p>
+ <p>sel, poivre</p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+epluchez les <ingredient quantite=1>crevettes</ingredient>. emincez les <ingredient quantite=2>oignons</ingredient>, l’ <ingredient quantite=2>ail</ingredient> et <operation temps=6.86min espace=12>faites - les</operation> <operation temps=6.86min espace=12>revenir dans l’ <ingredient quantite=2>huile</ingredient></operation>. <operation temps=3.0min espace=12>ajoutez les</operation> <ingredient quantite=1>crevettes</ingredient> et <operation temps=3.0min espace=12>laissez dorer 3 mn environ</operation>. <operation temps=6.86min espace=12>saupoudrez de</operation> <ingredient quantite=2>curry</ingredient> et <operation temps=6.86min espace=12>laissez prendre encore quelques instants</operation>. mouillez ensuite avec le <ingredient quantite=2>vin blanc</ingredient>. <operation temps=6.86min espace=12>laissez mijoter 5 bonnes minutes</operation>. <operation temps=0.25min espace=12>salez</operation>, <operation temps=0.5min espace=12>poivrez</operation>, ajoutez quelques gouttes de <ingredient quantite=1>tabasco</ingredient> et les <ingredient quantite=1>herbes de provence</ingredient>. avant de <operation temps=2.0min espace=12>servir</operation> ajoutez la <ingredient quantite=3>crème fraîche</ingredient>, remuez pour donner au <recipient>plat</recipient> la couleur du <ingredient quantite=2>curry</ingredient>. attention de ne exagérer sur le <ingredient quantite=1>tabasco</ingredient>, le <recipient>plat</recipient> ne doit pas piquer mais <operation temps=6.86min espace=12>laisser un petit gout légèrement</operation> relevé dans la bouche. des <ingredient quantite=1>crevettes fraîches</ingredient> sont indispensables. <ingredient quantite=2>vin blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

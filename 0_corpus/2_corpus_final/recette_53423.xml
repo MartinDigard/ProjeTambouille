@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53423">
+ <titre>Gigot d’ agneau à la grecque</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gigot agneau désossé de 1 kg</p>
+ <p>1 gousse ail</p>
+ <p>origan </p>
+ <p>vin blanc </p>
+ <p>margarine</p>
+ <p>crème fraîche</p>
+ <p>poivre vert</p>
+ <p>cognac</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+piquer le <ingredient quantite=1>gigot</ingredient> de quelques gousses d’ <ingredient quantite=1>ail</ingredient> et parsemer l’ intérieur d’ <ingredient quantite=1>origan</ingredient> séché. <operation temps=6.86min espace=9>faire fondre la margarine dans une <recipient>cocotte</recipient> et y</operation> <operation temps=6.86min espace=9>faire brunir le</operation> <ingredient quantite=1>gigot</ingredient>, ajouter le sel et le poivre et saupoudrer d’ <ingredient quantite=1>origan</ingredient>. déglacer avec 1 bon verre de <ingredient quantite=1>vin blanc</ingredient>, puis <operation temps=6.86min espace=9>laisser cuire 1 h en</operation> arrosant régulièrement avec le jus de cuisson. retirer le <ingredient quantite=1>gigot</ingredient>, prélever une partie du jus de cuisson, y ajouter le poivre <ingredient quantite=1>vert</ingredient> et le <ingredient quantite=1>cognac</ingredient>. flamber le tout, ajouter la <ingredient quantite=1>crème fraîche</ingredient> et rectifier l’ assaisonnement ; épaissir la sauce obtenue de façon onctueuse. servir avec des croquettes.
+]]>
+ </preparation>
+</recette>

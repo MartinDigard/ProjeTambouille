@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17573">
+ <titre>Completos</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 avocat</p>
+ <p>3 tomates moyennes</p>
+ <p>4 saucisses de Strasbourg</p>
+ <p>1 choux (de choucroute) </p>
+ <p>1 pain viennois (baguette viennoise) </p>
+ <p>1 citron</p>
+ <p>sel</p>
+ <p>3 cuillères à soupe de mayonnaise</p>
+ <p>Tabasco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1- <operation temps=6.86min espace=12>coupez les <ingredient quantite=3>tomates</ingredient> en petits dés</operation> et <operation temps=0.25min espace=12>salez</operation> - les (on peut ajouter un peu d’ huile d’ olives) ; disposer dans un <recipient>plat</recipient>. 2- ecrasez l’ <ingredient quantite=1>avocat</ingredient> puis ajouter du jus de <ingredient quantite=1>citron</ingredient> pour qu’ il ne noircisse pas, et saler un tout petit peu ; mettre dans un <recipient>plat</recipient> également. 3- <operation temps=6.86min espace=12>faire réchauffer le <ingredient quantite=1>choux</ingredient> et les <ingredient quantite=4>saucisses</ingredient></operation>. 4- <operation temps=6.86min espace=12>coupez la baguette en 4</operation> et fendre que d’ un côté. chacun compose ensuite son sandwich: mettre ainsi de suite un peu de <ingredient quantite=1>choux</ingredient>, la <ingredient quantite=1>saucisse</ingredient>, l’ <ingredient quantite=1>avocat</ingredient>, des dés de <ingredient quantite=3>tomates</ingredient>. <operation temps=6.86min espace=12>ajoutez du <ingredient quantite=1>tabasco</ingredient>, de la <ingredient quantite=3>mayonnaise</ingredient>, selon son désir</operation>. les quantités varient en fonction du goût de chacun. les végétariens apprécient en général ce <recipient>plat</recipient> même sans <ingredient quantite=1>saucisse</ingredient>. c’ est un sandwich chilien très apprécié par tous ceux qui le goûtent. bière
+]]>
+ </preparation>
+</recette>

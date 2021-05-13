@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58972">
+ <titre>Rillettes rapide au saumon et aux crevettes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>150 g de crevettes en boîte</p>
+ <p>200 g de saumon fumé</p>
+ <p>25 g de beurre mou</p>
+ <p>20 cl de crème semi-épaisse</p>
+ <p>15 ml de jus de citron</p>
+ <p>aneth ciselé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>ouvrez la <ingredient quantite=1>boîte</ingredient> de crevettes et les</operation> égoutter. dans un robot, mixez le <ingredient quantite=1>saumon</ingredient> avec les 3/4 des crevettes, le <ingredient quantite=1>beurre</ingredient>, la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=1>jus de citron</ingredient>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>, <operation temps=6.86min espace=10>ajoutez l’</operation> <ingredient quantite=1>aneth</ingredient> et <operation temps=8.0min espace=10>mélangez bien</operation>. vous pouvez mettre la préparation dans une <recipient>terrine</recipient> ou alors <operation temps=6.86min espace=10>huilez</operation> légèrement un <recipient>moule</recipient> adapté. <operation temps=6.86min espace=10>versez la préparation dans le récipient</operation> choisi et <operation temps=6.86min espace=10>démoulez quand c’ est prêt</operation>. mettre 3 à 4 h au frigo. <operation temps=6.86min espace=10>démoulez</operation> ou <operation temps=6.86min espace=10>sortez la <recipient>terrine</recipient></operation>. <operation temps=6.86min espace=10>décorez des crevettes restantes et de quelques brins d’ <ingredient quantite=1>aneth</ingredient></operation>. <operation temps=6.86min espace=10>servez avec du pain de votre choix, grillé ou non</operation>. un crémant en apéro
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37209">
+ <titre>Poisson rapide à la provençale</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse boîte de ratatouille achetée dans le commerce (contenance 850 ml) </p>
+ <p>4 filets de poisson blanc selon votre goût (filets de perche, cabillaud, merlan...) </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les <ingredient quantite=4>filets de poisson</ingredient> et les essuyer. beurre un grand <recipient>moule</recipient> à gratin et disposer les <ingredient quantite=4>filets</ingredient>. saler et poivrer. verser dessus la <ingredient quantite=1>ratatouille</ingredient>. <operation temps=30.0min espace=5>faire cuire au <recipient>four</recipient> à 200 ° c (thermostat 6 - 7) pendant 20 à 30 min</operation>. <operation temps=3.0min espace=5>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

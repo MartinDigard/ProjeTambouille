@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72313">
+ <titre>Tarte à la tomate et aux poivrons rouges</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>3 tomates</p>
+ <p>1 poivron rouge</p>
+ <p>1 cuillère à soupe de moutarde</p>
+ <p>fromage râpé (emmental, comté, parmesan...) </p>
+ <p>sel, poivre</p>
+ <p>origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). etalez la <ingredient quantite=1>pâte feuilletée</ingredient> dans une tourtière, <operation temps=6.86min espace=8>piquez le fond à l’</operation> aide d’ une fourchette. etalez ensuite 1 <ingredient quantite=1>cuillère à soupe de moutarde</ingredient> au fond. <operation temps=6.86min espace=8>coupez les <ingredient quantite=3>tomates</ingredient> en rondelles</operation> et <operation temps=6.86min espace=8>disposez - les au fond de la tarte</operation>. <operation temps=6.86min espace=8>coupez le <ingredient quantite=1>poivrons</ingredient> en lamelles</operation> et <operation temps=6.86min espace=8>ajoutez - les sur les <ingredient quantite=3>tomates</ingredient></operation>. <operation temps=0.25min espace=8>salez</operation>, poivrez, parsemez de <ingredient quantite=1>fromage râpé</ingredient> et d’ <ingredient quantite=1>origan</ingredient>. <operation temps=25.0min espace=8>faites cuire pendant environ 25 min</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64172">
+ <titre>Gateau au yaourt fourré à la marmelade</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt nature</p>
+ <p>3 pots de yaourt de farine</p>
+ <p>2 pots de yaourt de sucre</p>
+ <p>3 oeufs</p>
+ <p>125 g de beurre</p>
+ <p>1/2 sachet de levure</p>
+ <p>150 g de marmelade (abricot de préférence) </p>
+ <p>30 g d’ amandes effilées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 °. faîtes fondre le beurre. <operation temps=6.86min espace=12>cassez les <ingredient quantite=3>oeufs</ingredient> dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=12>ajoutez le</operation> <ingredient quantite=2>sucre</ingredient> et <operation temps=6.86min espace=12>mélangez au fouet jusqu’ à ce que le mélange</operation> blanchisse. <operation temps=6.86min espace=12>ajoutez la farine, la <ingredient quantite=1>levure</ingredient>, le beurre fondu, le</operation> <ingredient quantite=1>yaourt</ingredient> et <operation temps=6.86min espace=12>mélangez bien le tout</operation>. beurrez et <operation temps=6.86min espace=12>farinez un <recipient><recipient>moule</recipient> à manqué</recipient> de 22 cm de</operation> diamètre. <operation temps=6.86min espace=12>versez un tiers de la pâte</operation>. <operation temps=6.86min espace=12>déposez la <ingredient quantite=1>marmelade</ingredient> au centre</operation>. <operation temps=6.86min espace=12>recouvrez avec le reste de la pâte</operation> puis <operation temps=6.86min espace=12>enfournez</operation>. a la sortie du <recipient>four</recipient>, <operation temps=6.86min espace=12>éparpillez</operation> dessus les <ingredient quantite=1>amandes effilées</ingredient>.
+]]>
+ </preparation>
+</recette>

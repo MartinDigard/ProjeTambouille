@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30523">
+ <titre>Cheesecake sans cuisson</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la base: </p>
+ <p>125 g de petits beurres</p>
+ <p>60 g de beurre</p>
+ <p>Pour la garniture: </p>
+ <p>500 g de fromage blanc bien égoutté</p>
+ <p>1 tasse à thé de sucre en poudre (environ 200 g) </p>
+ <p>2 oeufs</p>
+ <p>1 zeste de citron finement râpé</p>
+ <p>1 cuillère à soupe 1/2 de jus de citron</p>
+ <p>1 tasse à thé de crème épaisse (environ 15 cl) </p>
+ <p>5 feuilles de gélatine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ecraser les biscuits <ingredient quantite=1>finement</ingredient> et les mélanger avec le <ingredient quantite=1>beurre</ingredient> mou, en <operation temps=6.86min espace=15>garnir le fond d’ un <recipient>moule</recipient> à</operation> manqué à fond amovible de 20 cm de diamètre. le placer au <recipient>réfrigérateur</recipient>. mélanger le <ingredient quantite=1>fromage blanc</ingredient>, la <ingredient quantite=1>crème</ingredient> fraîche, le <ingredient quantite=1>zeste de citron</ingredient>, le <ingredient quantite=1>sucre</ingredient>, les jaunes d’ oeufs le <ingredient quantite=1>jus de citron</ingredient>, puis la <ingredient quantite=5>gélatine</ingredient> ramollie. ajouter les <ingredient quantite=1>blancs</ingredient> battus. <operation temps=6.86min espace=15>remplir le <recipient>moule</recipient></operation> et mettre toute une nuit au <recipient>réfrigérateur</recipient> (impératif). <operation temps=6.86min espace=15>garnir au choix avec de la chantilly, des amandes grillées</operation>...
+]]>
+ </preparation>
+</recette>

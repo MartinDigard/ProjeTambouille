@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25891">
+ <titre>Quiche épaisse au poulet et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>des restes de poulet rôti</p>
+ <p>6 tranches fines de lard fumé</p>
+ <p>150 g de champignons</p>
+ <p>25 cl de crème</p>
+ <p>3 oeufs</p>
+ <p>40 g de gruyère râpé</p>
+ <p>30 g de beurre</p>
+ <p>1 oignon</p>
+ <p>muscade</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation>, <operation temps=6.86min espace=15>faites - la</operation> cuire à blanc 10 minutes au <recipient>four</recipient> à 180 ° c (thermostat 6). pendant ce temps, <operation temps=6.86min espace=15>faites suer l’ <ingredient quantite=1>oignon</ingredient></operation> haché dans le beurre. ajoutez les <ingredient quantite=6>tranches de lard</ingredient> et les <ingredient quantite=1>champignons</ingredient> nettoyés et émincés. <operation temps=6.86min espace=15>laissez dorer le tout quelques minutes en</operation> remuant. versez la garniture sur le fond de <ingredient quantite=1>pâte</ingredient>, disposez les <ingredient quantite=6>tranches de lard</ingredient> en étoile. répartissez les <ingredient quantite=1>restes de poulet</ingredient> coupés en morceaux sur le tout. battez la <ingredient quantite=1>crème</ingredient> et les <ingredient quantite=3>oeufs</ingredient>, <operation temps=0.25min espace=15>salez</operation>, <operation temps=0.5min espace=15>poivrez</operation> et <operation temps=6.86min espace=15>parfumez de <ingredient quantite=1>muscade</ingredient></operation>. <operation temps=6.86min espace=15>versez le tout sur la tarte et parsemez de fromage</operation>. <operation temps=20.0min espace=15>faites cuire 20 min au <recipient>four</recipient></operation> chaud à 200 ° c (thermostat 6 - 7). cette quiche est bien consistante, accompagnée d’ une salade elle fait un <recipient>plat</recipient> complet.
+]]>
+ </preparation>
+</recette>

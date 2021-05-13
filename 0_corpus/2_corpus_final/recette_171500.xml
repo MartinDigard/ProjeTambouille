@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171500">
+ <titre>Chausson Napolitain</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>300 g de dés de jambon</p>
+ <p>1 boule de mozzarella</p>
+ <p>12 olives vertes dénoyautées</p>
+ <p>100 g de sauce tomates</p>
+ <p>1 jaune d’ œuf pour dorer</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger dans un <recipient>saladier</recipient> les <ingredient quantite=1>dés de jambon</ingredient>, les <ingredient quantite=1>olives</ingredient> et la <ingredient quantite=1>mozzarella</ingredient> coupée en <ingredient quantite=1>dés</ingredient>. étaler la <ingredient quantite=1>pâte</ingredient> feuilletée et <operation temps=6.86min espace=8>répartir sur une moitié la sauce <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=6.86min espace=8>versez sur cette même moitié le mélange <ingredient quantite=1>jambon</ingredient>, <ingredient quantite=1>mozzarella</ingredient>, <ingredient quantite=1>olives</ingredient></operation>. passer du <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient> sur le tour de la <ingredient quantite=1>pâte</ingredient> puis fermer pour former le chausson. <ingredient quantite=1>dorer</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient>. cuire à <recipient>four</recipient> chaud (180 ° - thermostat 6) pendant 30 min.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16796">
+ <titre>Mousse de chocolat blanc nappée de sauce choco amer</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la sauce au chocolat amère: </p>
+ <p>1 tablette de chocolat noir</p>
+ <p>une demi cuillère de rhum</p>
+ <p>2 cuillères à soupe de beurre</p>
+ <p>Pour la mousse: </p>
+ <p>1 tablette de Chocolat blanc </p>
+ <p>2 œufs</p>
+ <p>4 cuillères à soupe de sucre</p>
+ <p>20 cl crème fraiche </p>
+ <p>1 sachet de gélatine en poudre (12 g) </p>
+ <p>1 sachet de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour <ingredient quantite=1>la sauce au chocolat</ingredient>: faites fondre le <ingredient quantite=1>chocolat noir</ingredient> au <recipient>bain marie</recipient>, <operation temps=6.86min espace=14>ajoutez le <ingredient quantite=2>beurre</ingredient> et le <ingredient quantite=1>rhum</ingredient> et 4 cuillerées d’ eau</operation>, <operation temps=8.0min espace=14>mélangez bien</operation>. la <ingredient quantite=1>sauce</ingredient> est versée tiède sur la <ingredient quantite=1>mousse</ingredient> froide, on peut parsemer du fromage <ingredient quantite=1>blanc</ingredient> râpé sur le tout. pour <ingredient quantite=1>la mousse</ingredient>: faites fondre le <ingredient quantite=1>chocolat blanc</ingredient> au <recipient>bain marie</recipient>. <operation temps=6.86min espace=14>mettez de côté</operation>. battez les jaunes d’ oeufs avec du <ingredient quantite=4>sucre</ingredient>, jusqu’ à ce que le mélange <ingredient quantite=1>mousse</ingredient> et blanchisse puis ajoutez le <ingredient quantite=1>chocolat blanc</ingredient> fondu. <operation temps=6.86min espace=14>faites fondre la <ingredient quantite=1>gélatine</ingredient> dans 5 <ingredient quantite=1>cuillères</ingredient> d’ eau, au <recipient>bain marie</recipient></operation>, <operation temps=8.0min espace=14>mélangez bien</operation> et <operation temps=6.86min espace=14>ajoutez à la <ingredient quantite=1>mousse</ingredient></operation>. <operation temps=6.86min espace=14>ajoutez ensuite la crème fraîche, la <ingredient quantite=1>vanille</ingredient> et enfin les <ingredient quantite=1>blancs</ingredient> en neige</operation>. <operation temps=6.86min espace=14>versez dans des ramequins</operation> et <operation temps=6.86min espace=14>mettez au frais 4 h au minimum</operation>. au moment de <operation temps=2.0min espace=14>servir</operation>, nappez avec la <ingredient quantite=1>sauce au chocolat</ingredient> et parsemez de <ingredient quantite=1>chocolat blanc</ingredient> grossièrement râpé. cette <ingredient quantite=1>mousse</ingredient> est impossible à rater, <ingredient quantite=1>gélatine</ingredient> oblige, et on peut aussi la faire au <ingredient quantite=1>chocolat noir</ingredient> ou au <ingredient quantite=1>chocolat</ingredient> au lait.
+]]>
+ </preparation>
+</recette>

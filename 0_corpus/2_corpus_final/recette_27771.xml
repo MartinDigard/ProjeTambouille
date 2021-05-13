@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27771">
+ <titre>Lasagnes vertes en gratin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>350 g de lasagnes vertes sans pré-cuisson</p>
+ <p>200 g de rôti de veau cuit</p>
+ <p>150 g de jambon</p>
+ <p>100 g de jambon cru</p>
+ <p>3 œufs</p>
+ <p>1 oignon</p>
+ <p>1 branchette d’ estragon</p>
+ <p>40 cl de crème liquide</p>
+ <p>2 cuillères à café de Maïzena</p>
+ <p>50 g de parmesan râpé</p>
+ <p>40 g de beurre</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, <operation temps=10.0min espace=18>faire cuire les <ingredient quantite=3>œufs</ingredient> 10 min dans de l’ eau</operation> salée bouillante. puis, les écaler et les émiettés. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). hâcher l’ <ingredient quantite=1>oignon</ingredient> et le <operation temps=6.86min espace=18>faire revenir jusqu’ à ce qu’ il soit blond dans une <recipient>poêle</recipient> sur feu doux avec 20 g de beurre</operation>. hacher <ingredient quantite=1>jambons</ingredient> et <ingredient quantite=1>rôti</ingredient>, ajouter à l’ <ingredient quantite=1>oignon</ingredient> avec de l’ <ingredient quantite=1>estragon</ingredient> effeuillé et les <ingredient quantite=3>œufs</ingredient> durs émiettés. mettre la <ingredient quantite=1>maïzena</ingredient> dans la <ingredient quantite=1>crème</ingredient> et mélanger, verser dans <recipient>casserole</recipient>, porter à ébullition et ajouter le reste de la <ingredient quantite=1>crème</ingredient>. épaissir doucement, en remuant pour éviter les grumeaux. assaisonner et ajouter le <ingredient quantite=1>parmesan</ingredient>. disposer une couche de <ingredient quantite=1>lasagne</ingredient> dans un <recipient>plat</recipient> à gratin beurré. mettre une couche de viande puis de sauce à la <ingredient quantite=1>crème</ingredient>. recommencer l’ opération jusqu’ à épuisement des ingrédients. <operation temps=6.86min espace=18>finir par une couche de viande</operation> et verser le reste de sauce à la <ingredient quantite=1>crème</ingredient> sur le dessus. enfourner 20 minutes environ.
+]]>
+ </preparation>
+</recette>

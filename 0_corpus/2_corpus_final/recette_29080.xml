@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29080">
+ <titre>Moelleux aux amandes fourré au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>125 g de farine</p>
+ <p>200 g d’ amandes en poudre</p>
+ <p>125 g de sucre</p>
+ <p>75 g de beurre</p>
+ <p>3 oeufs</p>
+ <p>1 sachet de levure chimique</p>
+ <p>1 pincée de sel</p>
+ <p>4 cuillères à soupe de marmelade d’ orange</p>
+ <p>amandes effilées ou entières</p>
+ <p>Pour la crème au chocolat: </p>
+ <p>125 g de chocolat</p>
+ <p>10 cl de crème fraîche</p>
+ <p>30 g de beurre</p>
+ <p>quelques gouttes d’ extrait de café</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). préparer le gâteau: dans un <recipient>saladier</recipient>, battre les <ingredient quantite=3>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient>, puis incorporer la farine et la <ingredient quantite=1>levure</ingredient>, puis le <ingredient quantite=1>sel</ingredient> et les <ingredient quantite=1>amandes</ingredient>. bien mélanger pour avoir une pâte homogène. verser cette pâte dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré de 20 cm de diamètre et <operation temps=50.0min espace=18>faire cuire 50 minutes</operation>. si le gâteau colore trop vite, le protéger de papier aluminium. démouler et <operation temps=6.86min espace=18>laisser refroidir sur la grille</operation>. préparer la <ingredient quantite=1>crème</ingredient>: <operation temps=6.86min espace=18>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. ajouter la <ingredient quantite=1>crème</ingredient>, le beurre et l’ <ingredient quantite=1>extrait de café</ingredient>. bien mélanger. pour <operation temps=6.86min espace=18>finir</operation>: couper le gâteau en deux dans l’ épaisseur et <operation temps=6.86min espace=18>couvrir la moitié de</operation> crème au <ingredient quantite=1>chocolat</ingredient>. refermer le gâteau, napper le dessus de <ingredient quantite=4>marmelade</ingredient> d’ oranges et décorer d’ <ingredient quantite=1>amandes</ingredient>. ce gâteau peut se préparer la veille.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73395">
+ <titre>Tourte façon Bourguignonne</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>120 g de chair à farce pour tomates (prêtes du boucher ou en grandes surfaces, elles contiennent de l’ oignon, de l’ ail, du persil...) </p>
+ <p>150 g de bœuf haché</p>
+ <p>2 rouleaux de pâte feuilletée prêts à l’ emploi</p>
+ <p>80 g de tomates en dés (l’ équivalent d’ une boîte, même moins) </p>
+ <p>7 à 8 cl de vin rouge</p>
+ <p>1 carotte</p>
+ <p>1 navet</p>
+ <p>Sel, poivre, herbes de Provence</p>
+ <p>1 jaune d’ œuf (pour dorer la pâte du dessus) </p>
+ <p>30 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre votre premier disque de <ingredient quantite=2>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, tout en gardant le papier sulfurisé en-dessous. mettre la <ingredient quantite=1>chair à farce</ingredient> dans une grande <recipient>poêle</recipient>, sans matières grasses, <operation temps=6.86min espace=14>faire chauffer à feu vif</operation>. pendant ce temps, éplucher la <ingredient quantite=1>carotte</ingredient> et le <ingredient quantite=1>navet</ingredient> et les <operation temps=6.86min espace=14>faire cuire dans de l’ eau bouillante jusqu’ à leur " tendresse "</operation> et réserver. dans la <recipient>poêle</recipient> à <ingredient quantite=1>chair</ingredient>, rajouter le <ingredient quantite=1>bœuf haché</ingredient>, cuire environ 8 minutes et mouiller avec 2 à 3 cl de <ingredient quantite=1>vin</ingredient>. remuer puis ajouter les <ingredient quantite=1>tomates</ingredient>, la <ingredient quantite=1>carotte</ingredient> et le <ingredient quantite=1>navet</ingredient> coupés en <ingredient quantite=1>dés</ingredient>. cuire et ajouter le reste de <ingredient quantite=1>vin</ingredient>, <operation temps=6.86min espace=14>laisser refroidir l’ ensemble</operation>. ajouter le mélange <ingredient quantite=1>bœuf</ingredient> et <ingredient quantite=1>chair</ingredient> sur le fond de <ingredient quantite=2>pâte</ingredient> garder un peu de jus mais pas trop sinon la tourte sera trop sèche ou coulera. ajouter le gruyère puis <operation temps=6.86min espace=14>recouvrir du 2ème disque de <ingredient quantite=2>pâte</ingredient>, tout en</operation> serrant bien les bords et en badigeonnant le dessus avec du <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>œuf</ingredient> mélangé avec 1 cuillère à soupe d’ eau. cuire la tourte environ 1 h 30 ou moins suivant les fours. conseil: mettre la tourte en bas du <recipient>four</recipient> durant 20 min puis la remonter en plaçant du papier alu sur le dessus. bon appétit! tourte copieuse, à <operation temps=2.0min espace=14>servir avec une salade verte</operation> arrosée simplement de vinaigre de cidre. miam!
+]]>
+ </preparation>
+</recette>

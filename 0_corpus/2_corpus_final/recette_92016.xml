@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92016">
+ <titre>Tarte à l’ oignon d’ Alsace</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>Pour la garniture: </p>
+ <p>250 g d’ oignons</p>
+ <p>100 g de lardons</p>
+ <p>1 ou 2 cuillères à soupe d’ huile olive</p>
+ <p>Pour la sauce béchamel: </p>
+ <p>50 cl de lait</p>
+ <p>70 g de farine</p>
+ <p>50 g de beurre</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>muscade</p>
+ <p>2 jaunes œufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=16>émincez les</operation> <ingredient quantite=1>oignons</ingredient> et <operation temps=6.86min espace=16>faites - les</operation> <operation temps=6.86min espace=16>revenir dans un peu d’ huile, ils</operation> doivent <operation temps=6.86min espace=16>devenir légèrement</operation> colorés. - <operation temps=6.86min espace=16>faites blanchir les <ingredient quantite=1>lardons</ingredient> dans un <recipient>poêle</recipient></operation>. pendant ce temps: - <operation temps=6.86min espace=16>préparez la</operation> <ingredient quantite=1>béchamel</ingredient>, <operation temps=6.86min espace=16>faites fondre le beurre dans une <recipient>casserole</recipient></operation>, <operation temps=6.86min espace=16>ajoutez la farine puis le lait en</operation> fouettant bien pour éviter les grumeaux. <operation temps=6.86min espace=16>assaisonnez (<ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>muscade</ingredient>)</operation>, <operation temps=6.86min espace=16>laissez cuire tout en</operation> remuant, une fois épaissie, retirer du feu et incorporer les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>œufs</ingredient>. ajouter les <ingredient quantite=1>oignons</ingredient> et vérifiez l’ assaisonnement. disposez votre <ingredient quantite=1>pâte</ingredient> brisée et <operation temps=6.86min espace=16>remplissez la de la <ingredient quantite=1>garniture</ingredient> d’ <ingredient quantite=1>oignons</ingredient></operation>. <operation temps=6.86min espace=16>disposez les <ingredient quantite=1>lardons</ingredient> au-dessus</operation>. <operation temps=6.86min espace=16>laissez cuire la tarte à <recipient>four</recipient> chaud (th</operation>. 7 - 210 ° c) pendant 25 minutesdégustez avec un vin blanc d’ alsace: -)
+]]>
+ </preparation>
+</recette>

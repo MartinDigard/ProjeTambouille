@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94223">
+ <titre>Poule au riz angy</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poule</p>
+ <p>2 oignons</p>
+ <p>1 échalote</p>
+ <p>1 poireau</p>
+ <p>2 carottes</p>
+ <p>250 g de champignon frais</p>
+ <p>2 cubes de bouillon</p>
+ <p>eau</p>
+ <p>2 feuilles de laurier</p>
+ <p>1 sachet de riz</p>
+ <p>beurre ou margarine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=15>découpez la poule et la</operation> <operation temps=6.86min espace=15>faire revenir avec le beurre dans une <recipient>cocotte</recipient>-</operation> <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=2>oignons</ingredient> et l’ échalote- une fois la poule bien</operation> dorée, <operation temps=6.86min espace=15>couvrir d’</operation> <ingredient quantite=1>eau</ingredient> et <operation temps=6.86min espace=15>ajoutez les 2 <ingredient quantite=2>cubes</ingredient>, les <ingredient quantite=2>carottes</ingredient>, le <ingredient quantite=1>poireau</ingredient>, les <ingredient quantite=1>champignon</ingredient> et le</operation> laurier- <operation temps=0.25min espace=15>salez</operation>, poivrer et <operation temps=6.86min espace=15>laissez cuire a</operation> couvert 2 h- 10 min avant la fin de la cuisson, ajouter le <ingredient quantite=1>sachet de riz</ingredient> dans la <recipient>cocotte</recipient> pour que celui-ci en prenne le gout- <operation temps=6.86min espace=15>sortez le</operation> <ingredient quantite=1>riz</ingredient>, égoutter le, ajouter un peu de crème fraiche dans la <recipient>cocotte</recipient> et <operation temps=2.0min espace=15>servez</operation>
+]]>
+ </preparation>
+</recette>

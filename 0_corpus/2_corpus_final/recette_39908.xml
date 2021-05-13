@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39908">
+ <titre>Pizettes de pommes de terre</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de pommes de terre</p>
+ <p>1 œuf</p>
+ <p>100 g de farine</p>
+ <p>100 g de lardons</p>
+ <p>4 tomates</p>
+ <p>1 oignon</p>
+ <p>du persil (suivant les goûts) </p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> (sans les éplucher), à l’ eau bouillante salée pendant 30 min. mettre les <ingredient quantite=4>tomates</ingredient>, 30 secondes, dans une <recipient>casserole</recipient> d’ eau bouillante. les égoutter, les éplucher, et les couper en morceaux. <operation temps=6.86min espace=12>faire cuire les <ingredient quantite=1>lardons</ingredient> dans une <recipient>poêle</recipient>, sans matières grasses, à feu doux, jusqu’ à ce qu’ ils soient à peine</operation> dorés. <operation temps=6.86min espace=12>faire dorer l’ <ingredient quantite=1>oignon</ingredient></operation>. égoutter les <ingredient quantite=1>pommes de terre</ingredient>, et les <operation temps=20.0min espace=12>laisser refroidir</operation>. casser l’ <ingredient quantite=1>œuf</ingredient> dans un <recipient>saladier</recipient>. ajouter une petite <ingredient quantite=1>cuillère</ingredient> d’ huile, et un peu de <ingredient quantite=1>sel</ingredient>. mélanger, en ajoutant petit à petit, la farine et les <ingredient quantite=1>pommes de terre</ingredient> écrasées en purée. <operation temps=6.86min espace=12>obtenir une pâte bien lisse,</operation> et former 6 boules avec les mains farinées. les étaler, de façon à former des galettes de 1 cm d’ épaisseur. <operation temps=6.86min espace=12>garnir avec les <ingredient quantite=4>tomates</ingredient>, <ingredient quantite=1>oignons</ingredient>, <ingredient quantite=1>lardons</ingredient>, <ingredient quantite=1>persil</ingredient>, etc</operation>. placer les galettes sur une plaque, et enfourner à 180 ° c (thermostat 6), pendant 15 min.
+]]>
+ </preparation>
+</recette>

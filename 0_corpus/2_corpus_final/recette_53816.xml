@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53816">
+ <titre>Tarte au poulet et au chèvre</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte brisée</p>
+ <p>4 tomates</p>
+ <p>1 belle escalope de poulet</p>
+ <p>1 bonne poignée de fromage râpé</p>
+ <p>rondelles de fromage de chèvre</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>herbes de provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte</ingredient> brisée, la piquer et saupoudrer le fond de <ingredient quantite=1>fromage râpé</ingredient>. couper les <ingredient quantite=4>tomates</ingredient> et en <operation temps=6.86min espace=7>recouvrir la <ingredient quantite=1>pâte</ingredient></operation>. découper en fines lamelles l’ <ingredient quantite=1>escalope de poulet</ingredient> au-dessus, puis parsemer également de <ingredient quantite=1>rondelles de fromage de chèvre</ingredient>. verser 1 <ingredient quantite=1>cuillère à soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et parsemer d’ <ingredient quantite=1>herbes de provence</ingredient> (pas trop!). enfourner pendant environ 20 min, à 180 ° c (thermostat 6).
+]]>
+ </preparation>
+</recette>

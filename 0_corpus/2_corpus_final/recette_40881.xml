@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40881">
+ <titre>Saumon aux carottes et blé</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet de saumon d’ environ 700g</p>
+ <p>12 grosses carottes</p>
+ <p>1 courgette</p>
+ <p>1 ou 2 gros oignon</p>
+ <p>200 à 220 g de grains de blé précuits</p>
+ <p>1 gros citron</p>
+ <p>6 cuillères à soupe de vin blanc</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=15>pelez</operation>, <operation temps=6.86min espace=15>lavez</operation> et coupez en rondelles les 12 <ingredient quantite=1>grosses carottes</ingredient> et la <ingredient quantite=1>courgette</ingredient> (que vous pouvez couper en cubes) puis les <operation temps=6.86min espace=15>faire cuire à la vapeur pendant 40 bonnes minutes</operation>. pelez et hachez le ou les <ingredient quantite=1>gros oignons</ingredient>. préchauffez le <recipient>four</recipient> pendant 10 min à 200 ° c (thermostat 6 - 7). déposez le <ingredient quantite=1>filet de saumon</ingredient> dans un <recipient>plat</recipient> adapté au <recipient>four</recipient>. déposez sur le dessus une couche d’ <ingredient quantite=1>oignon</ingredient>. une fois que les <ingredient quantite=1>carottes</ingredient> et la <ingredient quantite=1>courgettes</ingredient> sont cuites, <operation temps=6.86min espace=15>mélangez - les avec le restant d’</operation> <ingredient quantite=1>oignons</ingredient> et <operation temps=6.86min espace=15>déposez - les dans le <recipient>plat</recipient> autour du <ingredient quantite=1>saumon</ingredient></operation>. arrosez le tout des 6 <ingredient quantite=6>cuillères de vin blanc</ingredient> (plus si selon votre goût) et d’ un <ingredient quantite=1>filet</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=0.25min espace=15>salez</operation> et <operation temps=6.86min espace=15>poivrez à votre convenance</operation>. <operation temps=6.86min espace=15>coupez des rondelles de <ingredient quantite=1>citrons</ingredient> que vous</operation> <operation temps=6.86min espace=15>déposerez ensuite sur le <ingredient quantite=1>saumon</ingredient></operation>. <operation temps=6.86min espace=15>enfournez le <recipient>plat</recipient></operation> et <operation temps=6.86min espace=15>laissez cuire environ 40 min, selon la texture que vous</operation> voulez <operation temps=6.86min espace=15>obtenir pour le poisson (plus ou moins cuit</operation>). accompagner ce <recipient>plat</recipient> de <ingredient quantite=1>grain de blé</ingredient> cuite dans de l’ eau bouillante et salée pendant 12 minutes. un bon <ingredient quantite=6>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48401">
+ <titre>Biscuits au sésame, citron et cannelle</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oeuf</p>
+ <p>120 g de farine</p>
+ <p>50 g de sucre cristallisé et 50 g de sucre glace</p>
+ <p>100 g de sésame</p>
+ <p>50 g de beurre</p>
+ <p>1/2 citron</p>
+ <p>1 pincée de cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). mettre dans un bol: la farine, le <ingredient quantite=1>sucre</ingredient>, le beurre fondu, l’ <ingredient quantite=1>oeuf</ingredient>, le jus du demi-citron, la <ingredient quantite=1>cannelle</ingredient>. bien mélanger le tout, puis incorporer les graines de <ingredient quantite=1>sésame</ingredient>. bien <operation temps=6.86min espace=9>pétrir la pâte pour en</operation> <operation temps=6.86min espace=9>faire une boule (éventuellement, si elle est trop molle</operation>, rajouter un peu de farine). etaler la pâte et découper les biscuits avec un emporte - pièce. <operation temps=6.86min espace=9>faire cuire au milieu du <recipient>four</recipient>, pendant 15 à 20 min, les biscuits</operation> doivent juste commencer à dorer et être encore un peu mous, car ils vont <operation temps=6.86min espace=9>durcir en refroidissant</operation>...
+]]>
+ </preparation>
+</recette>

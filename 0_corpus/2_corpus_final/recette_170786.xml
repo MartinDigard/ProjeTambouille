@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170786">
+ <titre>Smoothie ananas, poire, pêche, orange</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 rondelles ananas</p>
+ <p>1 poire</p>
+ <p>2 pêches</p>
+ <p>1 orange pressée</p>
+ <p>quelques gouttes de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+épluchez la <ingredient quantite=1>poire</ingredient> et les <ingredient quantite=2>pêches</ingredient>. les <operation temps=6.86min espace=5>coupez en morceaux</operation>. pressez l’ orange. <operation temps=6.86min espace=5>mettez le tout dans le mixer</operation> et ajoutez les <ingredient quantite=1>gouttes de citron</ingredient>. mixer, <operation temps=6.86min espace=5>laissez au frais une heure et boire bien frais</operation>. pas besoin d’ ajouter du sucre donc le smoothie est très peu calorique.
+]]>
+ </preparation>
+</recette>

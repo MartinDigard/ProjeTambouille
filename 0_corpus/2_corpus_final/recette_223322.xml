@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223322">
+ <titre>Pôelée aux pommes de terre et saucisse fumée</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>2 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>herbes de Provence</p>
+ <p>400 g de saucisse fumée</p>
+ <p>8 grosses pommes de terre</p>
+ <p>8 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+émincer l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=1>échalote</ingredient>. hacher finement les deux <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient>. couper la <ingredient quantite=1>saucisse</ingredient> en petites tranches. faire revenir le tout dans une <recipient>sauteuse</recipient> avec deux <ingredient quantite=2>cuillères à soupe</ingredient> d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. saler (pas trop, la <ingredient quantite=1>saucisse</ingredient> est <ingredient quantite=1>fumée</ingredient>), poivrer et saupoudrer d’ <ingredient quantite=1>herbes de provence</ingredient>. réserver. couper en cubes les <ingredient quantite=8>pommes de terre</ingredient> épluchées et lavées. les <operation temps=6.86min espace=10>faire revenir à la <recipient>friteuse</recipient> quelques minutes qu’ elles soient juste</operation> dorées. les mélanger avec la préparation précédente et <operation temps=15.0min espace=10>faire mijoter 15 min avec un demi verre d’ <ingredient quantite=1>eau</ingredient></operation>. c’ est prêt!
+]]>
+ </preparation>
+</recette>

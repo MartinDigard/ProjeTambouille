@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37593">
+ <titre>Brioches de pommes de terres</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de pommes de terres (pour la purée) </p>
+ <p>2 oeufs</p>
+ <p>1 grosse noix de beurre (ou crème épaisse) </p>
+ <p>sel et poivre</p>
+ <p>on peut incorporer également du jambon haché, du gruyére, des lamelles de saumon...</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>pommes de terre</ingredient> à l’ eau, les écraser au presse purée. rajouter le <ingredient quantite=1>sel</ingredient>, le poivre, les 2 jaunes d’ <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>beurre</ingredient>, bien malaxer pour <operation temps=6.86min espace=6>obtenir une belle pomade</operation>. battre les blancs d’ <ingredient quantite=2>oeufs</ingredient> et les rajouter. former des tas sur une plaque huilée à <recipient>four</recipient> très chaud (pour <operation temps=20.0min espace=6>faire bien dorer, environ 240 ° c, thermostat 8)) pendant 20 min</operation>. déguster!! il est vrai que quand on les enrichit de gruyère et de <ingredient quantite=1>jambon</ingredient> c’ est plus goûteux! idéal le soir avec une salade verte! les enfants adorent!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69470">
+ <titre>Tarte rose et verte</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte brisée (maison c’ est meilleur) </p>
+ <p>400 g d’ épinards frais</p>
+ <p>100 g de petites crevettes décortiquées</p>
+ <p>2 oeufs</p>
+ <p>25 cl de crème fraîche légère</p>
+ <p>100 g de gruyère râpé</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer votre <recipient>four</recipient> à 180 °, thermostat 6. etaler la <ingredient quantite=1>pâte brisée</ingredient> dans un <recipient>plat</recipient> à tarte préalablement graissé et fariné. <operation temps=10.0min espace=11>faire cuire les <ingredient quantite=1>épinards</ingredient> à la vapeur (10 min à la <recipient>cocotte</recipient> - minute), puis les mixer</operation>. mélanger <ingredient quantite=1>épinards</ingredient>, <ingredient quantite=1>crème fraîche</ingredient>, <ingredient quantite=2>oeufs</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. disposer les <ingredient quantite=1>crevettes</ingredient> sur le fond de tarte, les <operation temps=6.86min espace=11>recouvrir avec la préparation aux <ingredient quantite=1>épinards</ingredient></operation>. recouvrir le tout avec le <ingredient quantite=1>gruyère râpé</ingredient>. enfourner et <operation temps=40.0min espace=11>laisser cuire 40 min environ</operation>. a déguster le soir pour changer de la traditionnelle quiche.
+]]>
+ </preparation>
+</recette>

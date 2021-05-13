@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94182">
+ <titre>Tourte au chou vert</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes feuilletées</p>
+ <p>1 chou vert</p>
+ <p>2 gros oignons</p>
+ <p>6 oeufs durs</p>
+ <p>1 oeuf frais</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyer et éplucher le <ingredient quantite=1>chou</ingredient> et les deux <ingredient quantite=2>oignons</ingredient> avant des les hacher au robot <recipient>mixeur</recipient>. mettre les légumes hachés dans une <recipient>sauteuse</recipient> à feu doux pour les <operation temps=6.86min espace=10>faire suer avec le <ingredient quantite=1>sel</ingredient> et le poivre</operation>. ecraser à la fourchette les six <ingredient quantite=6>oeufs durs</ingredient>. mélanger les <ingredient quantite=6>oeufs</ingredient> et les légumes une fois que ceux ci ont rendu toute leur eau. mettre une <ingredient quantite=1>pâte</ingredient> feuilletée dans un <recipient><recipient>moule</recipient> à tarte</recipient>, mettre la préparation dessus puis fermer la tourte en recouvrant avec la deuxième <ingredient quantite=1>pâte</ingredient> feuilleté. pour que la tourte soit dorée, badigeonner avec un <ingredient quantite=1>oeuf</ingredient> battu. mettre au <recipient>four</recipient> à 200 ° c 40 mn
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13655">
+ <titre>Riz au thon (tomate, cornichon et olives) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de riz basmati</p>
+ <p>une grande boîte de thon au naturel</p>
+ <p>3 grosses cuillères de concentré de tomates</p>
+ <p>3 cuillères d’ huile d’ olive</p>
+ <p>10 cornichons au vinaigre</p>
+ <p>olives vertes ou noires</p>
+ <p>3 feuilles de laurier</p>
+ <p>sel et poivre</p>
+ <p>purée de piment</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire cuire le <ingredient quantite=1>riz</ingredient> de préférence à la vapeur</operation>. dans un <recipient>faitout</recipient>, mettre ensemble l’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>, le <ingredient quantite=1>thon</ingredient> émietté, le concentré de <ingredient quantite=3>tomates</ingredient>, les <ingredient quantite=1>cornichons</ingredient> coupés en rondelles, les <ingredient quantite=3>olives</ingredient>, les <ingredient quantite=3>feuilles de laurier</ingredient>. saler, poivrer et ajouter du <ingredient quantite=1>piment</ingredient> (+ ou - selon votre goût). mélanger et <operation temps=20.0min espace=11>faire cuire à feu doux pendant 20 mn</operation>. en fin de cuisson, rajouter le <ingredient quantite=1>riz</ingredient>. peut se manger chaud ou froid. <recipient>plat</recipient> qui est bon aussi sans <ingredient quantite=1>piment</ingredient> (si vous <operation temps=6.86min espace=11>avez des enfants!</operation>). rosé
+]]>
+ </preparation>
+</recette>

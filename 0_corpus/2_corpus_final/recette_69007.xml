@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69007">
+ <titre>Potage de patate douce au lait de coco et au gingembre</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de patates douce</p>
+ <p>1 carotte </p>
+ <p>1 blanc de poireau</p>
+ <p>1 branche de céleri</p>
+ <p>50 cl de bouillon de volaille</p>
+ <p>1 boite de lait de coco</p>
+ <p>1 cuillère à soupe d’ huile ordinaire</p>
+ <p>1 cuillère à café de gingembre </p>
+ <p>1 cuillère à café de cardamome</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient> <operation temps=6.86min espace=10>faire revenir le <ingredient quantite=1>poireau</ingredient> et la <ingredient quantite=1>branche</ingredient> de celéri</operation> émincés. ajouter la <ingredient quantite=1>patate</ingredient> douce et la <ingredient quantite=1>carotte</ingredient> en morceaux, le <ingredient quantite=1>gingembre</ingredient> et la <ingredient quantite=1>cardamome</ingredient>. bien remuer et mouiller avec le <ingredient quantite=1>bouillon</ingredient> et le <ingredient quantite=1>lait de coco</ingredient>. <operation temps=30.0min espace=10>laisser cuire</operation> et écraser des la cuisson des aliments. cette <ingredient quantite=1>soupe</ingredient> est sucrée il n’ y a donc pas besoin de sel!
+]]>
+ </preparation>
+</recette>

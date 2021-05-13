@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13853">
+ <titre>Gratin lardons et oignons</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 grosses pommes de terre</p>
+ <p>1 barquette de lardons</p>
+ <p>1 oignon</p>
+ <p>lait</p>
+ <p>crème fraîche</p>
+ <p>fromage râpé</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher, laver et couper les <ingredient quantite=3>pommes de terre</ingredient> en rondelles fines. pendant ce temps, <operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation> emincé dans du beurre (pas trop, ils vont encore cuire 35 mn). dans un <recipient>plat</recipient>, appliquer une 1ère couche de <ingredient quantite=3>pommes de terre</ingredient>, <operation temps=6.86min espace=9>recouvrir avec les <ingredient quantite=1>lardons</ingredient> / <ingredient quantite=1>oignons</ingredient>,</operation> et mettre par dessus le reste des rondelles de <ingredient quantite=3>pommes de terre</ingredient>. a part, mélanger un peu de lait dans 2 cuillères de <ingredient quantite=1>crème fraîche</ingredient>. saler et poivrer. verser la mixture sur le gratin. ajouter si nécessaire un peu de lait, vous devez a peine apercevoir le niveau de lait sur le côté du gratin. recouvrir de <ingredient quantite=1>fromage râpé</ingredient>. <operation temps=35.0min espace=9>faire cuire à feu moyen / fort pendant 35 mn</operation>. le <ingredient quantite=1>fromage</ingredient> râpé doit former une croute. excellent avec une simple salade, ce <recipient>plat</recipient> est entre le gratin dauphinois et la tartiflette.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64177">
+ <titre>Rougail z’ oeufs</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>8 oeufs</p>
+ <p>4 échalotes</p>
+ <p>huile d’ olive</p>
+ <p>curcuma</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire cuire les <ingredient quantite=8>oeufs</ingredient> durs</operation>. couper les <ingredient quantite=4>tomates</ingredient> et les <ingredient quantite=4>échalotes</ingredient> en dés. dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=6>faire revenir les <ingredient quantite=4>échalotes</ingredient> dans l’ huile d’ <ingredient quantite=1>olive</ingredient>, puis y</operation> ajouter les <ingredient quantite=4>tomates</ingredient>. ajouter une cuillère à café de <ingredient quantite=1>curcuma</ingredient>, saler, poivrer, puis <operation temps=15.0min espace=6>laisser réduire à feu doux 15 minutes</operation>. pendant ce temps, éplucher les <ingredient quantite=8>oeufs</ingredient>. une fois que la sauce a réduit, y ajouter les <ingredient quantite=8>oeufs</ingredient> et remettre à feu doux pendant 15 minutes. <operation temps=6.86min espace=6>servir avec du riz et des grains (haricots, lentilles</operation>...) dans lequel on peut ajouter un peu de <ingredient quantite=1>curcuma</ingredient>. vous pouvez aussi <operation temps=6.86min espace=6>faire une sauce rougail en</operation> hachant une <ingredient quantite=1>tomate</ingredient> et deux <ingredient quantite=4>échalotes</ingredient> assaisonnées avec de l’ huile d’ <ingredient quantite=1>olive</ingredient>, du citron et du piment.
+]]>
+ </preparation>
+</recette>

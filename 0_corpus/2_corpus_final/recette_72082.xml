@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72082">
+ <titre>Petites crêpes à la roquette</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>1 oeuf</p>
+ <p>eau ou lait</p>
+ <p>100 g de roquette</p>
+ <p>beurre</p>
+ <p>huile</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>versez la farine dans une grande <recipient>terrine</recipient></operation>. <operation temps=6.86min espace=10>creusez un puits au centre</operation> et <operation temps=6.86min espace=10>cassez - y l’ <ingredient quantite=1>oeuf</ingredient> entier</operation>. mélangez, puis <operation temps=6.86min espace=10>ajoutez petit à petit le lait (ou <ingredient quantite=1>eau</ingredient>) en</operation> remuant avec un fouet, jusqu’ à obtention d’ une consistance fluide. <operation temps=0.25min espace=10>salez</operation>. <operation temps=6.86min espace=10>ciselez la moitié de la</operation> <ingredient quantite=1>roquette</ingredient> et ajouter - la à la pâte. <operation temps=6.86min espace=10>laissez reposer une bonne demi heure</operation>. <operation temps=6.86min espace=10>faites chauffer le beurre et l’</operation> huile dans une grande <recipient>poêle</recipient> et <operation temps=6.86min espace=10>faites cuire les crêpes sur les deux faces</operation>. disposez sur chacune d’ entre elles quelques feuilles de <ingredient quantite=1>roquette</ingredient> et <operation temps=6.86min espace=10>roulez - les sur elles - mêmes</operation>. <operation temps=6.86min espace=10>rangez - les dans un <recipient>plat</recipient> en les</operation> serrant les unes contre les autres pour les <operation temps=6.86min espace=10>maintenir</operation> fermées. <operation temps=2.0min espace=10>servez</operation> chaud!
+]]>
+ </preparation>
+</recette>

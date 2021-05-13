@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81244">
+ <titre>Tarte feuilletée tomate-pesto</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte feuilletée</p>
+ <p>1 pot de pesto (vous n’ utiliserez pas tout) </p>
+ <p>1 à 2 pots de concentré de tomates</p>
+ <p>basilic (frais ou surgelé) </p>
+ <p>1 poignée de pignons</p>
+ <p>2 poignées de roquette</p>
+ <p>copeaux de parmesan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 160 ° c (thermostat 5). découper la <ingredient quantite=1>pâte</ingredient> en 6 parts. les piquer à la fourchette et <operation temps=15.0min espace=11>faire précuire à blanc pendant 15 min</operation>. pendant ce temps, mélanger la <ingredient quantite=1>tomate</ingredient> et le <ingredient quantite=1>basilic</ingredient> hâché, et <operation temps=6.86min espace=11>faire griller les <ingredient quantite=1>pignons</ingredient> à</operation> sec dans une <recipient>poêle</recipient>. <operation temps=6.86min espace=11>sortir les tartes du <recipient>four</recipient>, et les</operation> <operation temps=6.86min espace=11>garnir avec <ingredient quantite=1>pesto</ingredient> et <ingredient quantite=1>tomate</ingredient> en</operation> alternant une bande de chaque, de manière à avoir un appareil bicolore. remettre au <recipient>four</recipient> pendant 15 min. a la sortie, parsemer de <ingredient quantite=2>roquette</ingredient>, <ingredient quantite=1>pignons</ingredient> et <ingredient quantite=1>parmesan</ingredient>. <operation temps=6.86min espace=11>servir sans</operation> attendre.
+]]>
+ </preparation>
+</recette>

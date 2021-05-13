@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55640">
+ <titre>Filet mignon facile à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet mignon de 500 g</p>
+ <p>1 ananas en boîte</p>
+ <p>1 gros oignon</p>
+ <p>1 gousse ail</p>
+ <p>1 échalote</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir le <ingredient quantite=1>filet mignon</ingredient> coupé en tranches assez fines. ajouter ensuite l’ <ingredient quantite=1>oignon</ingredient> émincé. une fois les <ingredient quantite=1>oignons</ingredient> brunits, rajouter le jus de l’ ananas, couper les tranches d’ ananas en petit morceaux, rajouter l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre selon les goûts. <operation temps=15.0min espace=6>faire cuire à feu très doux environ 15 minutes trèss facile, rapide et bon!! à</operation> <operation temps=3.0min espace=6>servir avec du riz</operation>
+]]>
+ </preparation>
+</recette>

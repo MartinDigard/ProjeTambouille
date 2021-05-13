@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80353">
+ <titre>Cari de poulet simple et bon marché</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet d’ environ 1, 5 kg (ou blanc de poulet pour gagner du temps) </p>
+ <p>4 cuillères à soupe d’ huile</p>
+ <p>2 gros oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>4 tomates</p>
+ <p>20 cl d’ eau</p>
+ <p>sel</p>
+ <p>poivre</p>
+ <p>viandox (facultatif) </p>
+ <p>300 g de riz</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez le <ingredient quantite=1>poulet</ingredient> en morceaux de la taille de votre choix</operation> et <operation temps=6.86min espace=11>faites - les</operation> dorer dans une grande <recipient>casserole</recipient> avec l’ <ingredient quantite=4>huile</ingredient></operation>. pendant ce temps, émincez les 2 <ingredient quantite=2>gros oignons</ingredient>. <operation temps=0.5min espace=11>ajoutez</operation> - les au <ingredient quantite=1>poulet</ingredient>, une fois les morceaux dorés, et <operation temps=6.86min espace=11>faites - les</operation> <operation temps=6.86min espace=11>roussir</operation>. pendant que tout cela cuit tranquillement, hachez finement l’ <ingredient quantite=2>ail</ingredient> et les 4 <ingredient quantite=4>tomates</ingredient>. <operation temps=0.5min espace=11>ajoutez</operation> - les ensuite à la préparation, ainsi que l’ <ingredient quantite=1>eau</ingredient>. <operation temps=6.86min espace=11>laissez mijoter 20 bonnes min à feu moyen</operation>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=6.86min espace=11>poivrez à votre goût</operation>. <operation temps=6.86min espace=11>servez avec du <ingredient quantite=1>riz</ingredient> (1/2 verre par personne) et du viandox (qui sera un très bon accompagnement au</operation> <ingredient quantite=1>riz</ingredient>). petite astuce: <operation temps=6.86min espace=11>émincez les <ingredient quantite=2>oignons</ingredient> sous l’ <ingredient quantite=1>eau</ingredient> froide</operation> évite à vos yeux de pleurer:) la viande se fait chère, et un petit <ingredient quantite=1>poulet</ingredient> précuit fera largement l’ affaire, ou même " fumé "... cela donne du goût:)
+]]>
+ </preparation>
+</recette>

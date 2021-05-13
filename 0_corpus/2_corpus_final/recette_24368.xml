@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24368">
+ <titre>Poivrons grillés à l’ huile</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 gros poivrons rouges</p>
+ <p>2 gros poivrons jaunes</p>
+ <p>1 gousse d’ ail</p>
+ <p>20 cl d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=6>faites griller les <ingredient quantite=1>poivron</ingredient> 20 minsous le grill du <recipient>four</recipient> en les</operation> retournant souvent. <operation temps=1.0min espace=6>mettez</operation> - les dans un sac platique et <operation temps=6.86min espace=6>laissez refroidir pour les</operation> peler plus facilement. <operation temps=6.86min espace=6>ensuitez</operation> <operation temps=6.86min espace=6>pelez - les</operation> et <operation temps=6.86min espace=6>épépinez - les</operation>. <operation temps=6.86min espace=6>détaillez - les en lanières</operation>. <operation temps=0.25min espace=6>salez</operation>, <operation temps=6.86min espace=6>poivrez, parsemez d’ <ingredient quantite=1>ail</ingredient></operation> <operation temps=6.86min espace=6>hachez</operation> et <operation temps=6.86min espace=6>arrosez d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. <operation temps=0.5min espace=6>réservez au frais</operation>.
+]]>
+ </preparation>
+</recette>

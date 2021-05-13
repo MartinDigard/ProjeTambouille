@@ -17,7 +17,7 @@ def annot_espace_temps(recette, oper_temps, nb_recipients):
              attributs espace et temps
     """
     if len(oper_temps) != 0:
-        oper, temps = oper_temps[0]
+        oper, tps = oper_temps[0]
         oper_re = re.sub(r'\(', r'\\(', oper)
         oper_re = re.sub(r'\)', r'\\)', oper_re)
         oper_re = re.sub(r'\[', r'\\[', oper_re)
@@ -25,9 +25,8 @@ def annot_espace_temps(recette, oper_temps, nb_recipients):
         oper_re = re.sub(r'\+', r'\\+', oper_re)
         oper_re = oper_re.split('<operation>')[1]
         oper = oper.split('<operation>')[1]
-        recette = re.sub(f'<operation>{oper_re}',
-                         f'<operation temps={temps}min espace={nb_recipients}>{oper}',
-                         recette)
+        recette = re.sub(f'<operation>{oper_re}', f'<operation temps={tps}'
+                         f'min espace={nb_recipients}>{oper}', recette)
         return annot_espace_temps(recette, oper_temps[1:], nb_recipients)
     return recette
 

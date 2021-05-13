@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26310">
+ <titre>Sauté de veau au chorizo facile</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 2 kg de poitrine de veau en morceaux</p>
+ <p>300 g de chorizo en rondelles</p>
+ <p>6 tomates</p>
+ <p>4 oignons émincés</p>
+ <p>3 gousses d’ ail ciselés</p>
+ <p>20 cl de vin blanc</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire dorer les <ingredient quantite=1>morceaux</ingredient> de viande dans une <recipient>cocotte</recipient> avec de l’ huile sur chaque face</operation>. ajouter le <ingredient quantite=1>chorizo</ingredient>, les <ingredient quantite=4>oignons</ingredient>, l’ <ingredient quantite=3>ail</ingredient> et les <ingredient quantite=6>tomates</ingredient> mondées et en <ingredient quantite=1>morceaux</ingredient>. arroser de <ingredient quantite=1>vin</ingredient>, saler, poivrer et <operation temps=6.86min espace=9>faire cuire à feu doux pendant 1 h</operation>.
+]]>
+ </preparation>
+</recette>

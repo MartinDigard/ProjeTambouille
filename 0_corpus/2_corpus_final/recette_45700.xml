@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45700">
+ <titre>Carottes râpées aux brocolis et bacon, en sauce</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 carottes (150 g) </p>
+ <p>2 grosses têtes de brocolis</p>
+ <p>2 tranches de bacon</p>
+ <p>fromage blanc</p>
+ <p>curry, sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+râper les <ingredient quantite=2>carottes</ingredient>. cuire les <ingredient quantite=2>brocolis</ingredient> à la vapeur. emincer le <ingredient quantite=2>bacon</ingredient>, et le <operation temps=6.86min espace=7>faire griller dans une <recipient>poêle</recipient></operation>. ajouter les <ingredient quantite=2>brocolis</ingredient> avec un peu d’ eau, saupoudrer de <ingredient quantite=1>curry</ingredient>, et <operation temps=6.86min espace=7>laisser mijoter jusqu’ à ce que l’ eau soit</operation> évaporée. mélanger 2 grosses cuillères de <ingredient quantite=1>fromage blanc</ingredient>, avec le <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient> et une petite pincée de <ingredient quantite=1>curry</ingredient>. ajouter les <ingredient quantite=2>brocolis</ingredient> - <ingredient quantite=2>bacon</ingredient> aux <ingredient quantite=2>carottes</ingredient>, napper de sauce, mélanger et déguster. parfaite petite salade light et savoureuse. le <ingredient quantite=2>bacon</ingredient> peut être remplacé par des miettes de crabe ou du thon. on peut aussi ajouter du chèvre pour un <recipient>plat</recipient> plus complet.
+]]>
+ </preparation>
+</recette>

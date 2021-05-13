@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40299">
+ <titre>Tarte aux noix croustillante</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte brisée ou feuilletée (selon les goûts) </p>
+ <p>125 g de noix</p>
+ <p>200 g de sucre cristalisé</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire chauffer le <recipient>four</recipient> à 220 ° c (thermostat 7 - 8</operation>). concasser grossièrement les <ingredient quantite=1>noix</ingredient> puis les mélanger avec le <ingredient quantite=1>sucre</ingredient>. battre à part les <ingredient quantite=3>oeufs</ingredient> en omelette. etaler la <ingredient quantite=1>pâte</ingredient> dans le <recipient>moule</recipient>. mélanger les <ingredient quantite=3>oeufs</ingredient> aux <ingredient quantite=1>noix</ingredient> + <ingredient quantite=1>sucre</ingredient>, étaler sur la <ingredient quantite=1>pâte</ingredient> et enfourner aussitôt. <operation temps=20.0min espace=8>laisser cuire 20 minutes environ</operation>. quand c’ est cuit, <operation temps=6.86min espace=8>sortir la tarte du <recipient>four</recipient></operation>, couper les parts à chaud (c’ est plus facile) puis <operation temps=20.0min espace=8>laisser refroidir</operation>. je préfère avec une <ingredient quantite=1>pâte brisée</ingredient>. si je peux, j’ utilise un <recipient>plat</recipient> rectangulaire et je coupe les morceaux en carrés. une fois refroidis, je les mets dans une boite hermétique, ils se conservent très bien.
+]]>
+ </preparation>
+</recette>

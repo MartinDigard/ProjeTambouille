@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211729">
+ <titre>Pâtes saumon frais, citron et câpres</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de tagliatelles vertes</p>
+ <p>500 g de filets de saumon frais</p>
+ <p>1 jus de citron</p>
+ <p>60 g de câpres</p>
+ <p>1 gousse d’ ail</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=1>filets de saumon</ingredient> à la <recipient>poêle</recipient> dans un peu d’ huile d’ <ingredient quantite=1>olive</ingredient>. pendant ce temps, <operation temps=6.86min espace=7>faire revenir la gousse d’ <ingredient quantite=1>ail</ingredient> hachée dans de l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter ensuite le <ingredient quantite=1>jus du citron</ingredient> et les <ingredient quantite=1>câpres</ingredient> égouttés. <operation temps=6.86min espace=7>laisser mijoter à feu doux quelques minutes</operation>. une fois le <ingredient quantite=1>saumon</ingredient> cuit, l’ émietter à la fourchette. ajouter la préparation <ingredient quantite=1>citron</ingredient> et <ingredient quantite=1>câpres</ingredient> au <ingredient quantite=1>saumon</ingredient> émietté et mélanger. mélanger enfin cette préparation aux pâtes cuites al dente et ajouter un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> si besoin. vin blanc sec
+]]>
+ </preparation>
+</recette>

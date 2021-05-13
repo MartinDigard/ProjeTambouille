@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93738">
+ <titre>Coffee cake</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour le gâteau: </p>
+ <p>100 g de beurre mou </p>
+ <p>175 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>1 yaourt velouté nature</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 sachet de levure chimique</p>
+ <p>225 g de farine</p>
+ <p>1 pincée de sel</p>
+ <p>Pour la croûte: </p>
+ <p>60 g de beurre mou</p>
+ <p>60 g de sucre roux</p>
+ <p>50 g de noix de pécan concassées</p>
+ <p>2 cuillères à soupe bombées de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+-préchauffez vôtre <recipient>four</recipient> à th. 6. -mélangez le <ingredient quantite=1>beurre</ingredient> et le <ingredient quantite=1>sucre</ingredient> jusqu’ à <operation temps=6.86min espace=16>obtenir un mélange crémeux</operation>, <operation temps=6.86min espace=16>ajoutez les œufs en</operation> mélangeant bien. <operation temps=6.86min espace=16>-ajoutez le <ingredient quantite=1>yaourt</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation> vanillé. -ajoutez la farine, la <ingredient quantite=1>levure chimique</ingredient> et la pincée de <ingredient quantite=1>sel</ingredient>. <operation temps=6.86min espace=16>versez dans un <recipient>moule</recipient></operation> <operation temps=6.86min espace=16>beurrez d’ environ 21 cm de</operation> diamètre. -préparez la <ingredient quantite=1>croûte</ingredient> du <ingredient quantite=1>gâteau</ingredient> en mélangeant le <ingredient quantite=1>sucre roux</ingredient>, le <ingredient quantite=1>beurre</ingredient> et la farine. -étalez sur la surface du <ingredient quantite=1>gâteau</ingredient>. -répartir les <ingredient quantite=1>noix de pécan</ingredient> sur la surface du <ingredient quantite=1>gâteau</ingredient>. -enfournez 25 à 30min, une lame de couteau doit <operation temps=6.86min espace=16>ressortir sèche</operation>. <ingredient quantite=1>gâteau</ingredient> typiquement américain qui, malgré son nom ne contient pas de café! idéal au goûter!
+]]>
+ </preparation>
+</recette>

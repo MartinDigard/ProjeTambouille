@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49282">
+ <titre>Pâte à tartiner au chocolat et miel</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>340 de lait concentré non sucré</p>
+ <p>90 g de miel</p>
+ <p>30 g de sucre roux</p>
+ <p>200 g de chocolat noir à 70%</p>
+ <p>80 g de chocolat au lait</p>
+ <p>20 g de cacao pur</p>
+ <p>200 g de noisettes en poudre</p>
+ <p>250 g de margarine</p>
+ <p>1 cuillère à soupe 1/2 d’ huile de sésame</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>sucre</ingredient> et la <ingredient quantite=1>poudre</ingredient> de <ingredient quantite=1>noisettes</ingredient>, passer le mélange au moulin (cela réveille les arômes) et le réduire au maximum. concasser ou râper les <ingredient quantite=1>chocolats</ingredient>, y ajouter le <ingredient quantite=1>lait</ingredient> et <operation temps=1.0min espace=9>faire fondre le tout pendant 1 min 30 au micro-ondes</operation>. ajouter tous les autres ingrédients, passer le tout rapidement au mixer et le verser dans un pot. c’ est prêt!
+]]>
+ </preparation>
+</recette>

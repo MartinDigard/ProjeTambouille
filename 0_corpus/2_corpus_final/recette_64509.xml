@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64509">
+ <titre>Salade aux foies de volaille selon la saison</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 foies de volailles (environ 500 g) </p>
+ <p>1 salade verte (feuille de chêne par exemple) </p>
+ <p>4 cuillères à soupe de porto, à défaut on peut remplacer par 4 cuillères à soupe de vinaigre + 1 cuillère à soupe de miel</p>
+ <p>huile</p>
+ <p>Pour la vinaigrette: </p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>3 cuillère à soupe d’ huile</p>
+ <p>Pour la version PRINTEMPS: </p>
+ <p>400 g de pommes de terre vapeur</p>
+ <p>1 ou 2 échalotes</p>
+ <p>brins de ciboulette</p>
+ <p>Pour la version ETE: </p>
+ <p>2 grosses tomates charnues</p>
+ <p>2 ou 3 tranches de pain rassis</p>
+ <p>feuilles de basilic</p>
+ <p>Pour la version AUTOMNE: </p>
+ <p>6 à 8 figues</p>
+ <p>60 g de noisettes décortiquées</p>
+ <p>poivre</p>
+ <p>Pour la version HIVER: </p>
+ <p>20 à 25 châtaignes épluchées et cuites</p>
+ <p>60 g de raisins secs</p>
+ <p>gingembre moulu ou mélange 4 épices</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation de la salade: eplucher, laver et essorer la salade. dissoudre la <ingredient quantite=1>moutarde</ingredient> dans le <ingredient quantite=4>vinaigre</ingredient>, puis émulsionner avec l’ <ingredient quantite=1>huile</ingredient>. assaisonner la salade avec la <ingredient quantite=4>vinaigrette</ingredient>. disposer la salade dans 4 assiettes. cuire les <ingredient quantite=1>foies</ingredient> dans une <recipient>poêle</recipient> <ingredient quantite=1>huile</ingredient> à feu vif pendant environ 10 minutes. ils doivent être dorés. ajouter les ingrédients selon la saison et <operation temps=5.0min espace=33>laisser cuire 5 minutes supplémentaires</operation>. disposer les <ingredient quantite=1>foies</ingredient> dans les assiettes sur le lit de salade. déglacer la <recipient>poêle</recipient> avec le <ingredient quantite=4>porto</ingredient> et verser ce jus sur les <ingredient quantite=1>foies</ingredient>. <operation temps=2.0min espace=33>servir immédiatement</operation>. <ingredient quantite=1>version printemps</ingredient>: ajouter les <ingredient quantite=1>pommes de terre</ingredient> coupées en rondelles et l’ <ingredient quantite=1>échalote</ingredient> émincée dans la <recipient>poêle</recipient> avec les <ingredient quantite=1>foies</ingredient>. parsemer les assiettes de <ingredient quantite=1>ciboulette</ingredient>. <ingredient quantite=1>version ete</ingredient>: au préalable, ôter la peau des <ingredient quantite=2>tomates</ingredient> en les ébouillantant quelques secondes. couper la chair en cubes en éliminant les pépins. préparer des croûtons avec le <ingredient quantite=2>pain</ingredient>: émietter grossièrement le <ingredient quantite=2>pain</ingredient>. le disposer dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. l’ imbiber d’ <ingredient quantite=1>huile</ingredient>. mettre dans le <recipient>four</recipient> chaud 2 à 3 minutes, jusqu’ à ce que les croûtons soient dorés. pour cette <ingredient quantite=1>version</ingredient>, ne pas ajouter les <ingredient quantite=2>tomates</ingredient> et les croûtons dans la <recipient>poêle</recipient>, mais les disposer dans les assiettes. parsemer de <ingredient quantite=1>feuilles de basilic</ingredient> ciselées. <ingredient quantite=1>version automne</ingredient>: couper les <ingredient quantite=6>figues</ingredient> en 4. concasser grossièrement les <ingredient quantite=1>noisettes</ingredient>. ajouter les <ingredient quantite=6>figues</ingredient> et les <ingredient quantite=1>noisettes</ingredient> dans la <recipient>poêle</recipient> avec les <ingredient quantite=1>foies</ingredient>. donner 1 ou 2 tour de moulin à poivre par assiette. <ingredient quantite=1>version hiver</ingredient>: concasser les <ingredient quantite=1>châtaignes</ingredient>. ajouter les <ingredient quantite=1>châtaignes</ingredient> et les <ingredient quantite=1>raisins secs</ingredient> dans la <recipient>poêle</recipient> avec les <ingredient quantite=1>foies</ingredient>. au moment de déglacer, ajouter au <ingredient quantite=4>porto</ingredient> une <ingredient quantite=1>grosse</ingredient> pincée de <ingredient quantite=1>gingembre moulu</ingredient>. menetou - salon
+]]>
+ </preparation>
+</recette>

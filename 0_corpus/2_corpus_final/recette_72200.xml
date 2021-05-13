@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72200">
+ <titre>Beignets de roses</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de farine </p>
+ <p>4 œufs </p>
+ <p>3 cuillerées à soupe de sucre </p>
+ <p>20 à 30 cl de lait </p>
+ <p>25 g de beurre fondu </p>
+ <p>1 pincée de sel</p>
+ <p>pétales de roses à volonté</p>
+ <p>1 l d’ huile pour frire les beignets </p>
+ <p>sucre glace pour saupoudrer</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+au petit matin, <operation temps=6.86min espace=9>cueillir de belles <ingredient quantite=1>roses</ingredient> encore couvertes de rosée</operation>. les laver à l’ eau froide et les réserver dans un bol. <operation temps=6.86min espace=9>faire une pâte de <ingredient quantite=1>beignets</ingredient> un peu ferme avec les divers ingrédients et la</operation> <operation temps=6.86min espace=9>laisser reposer 1 h</operation>. y plonger les <ingredient quantite=1>pétales de rose</ingredient>. cuire ces petits <ingredient quantite=1>beignets</ingredient> dans de l’ huile bien chaude. les éponger sur un torchon et les dresser sur du papier dentelle. <ingredient quantite=1>saupoudrer</ingredient> les <ingredient quantite=1>beignets</ingredient> de <ingredient quantite=3>sucre glace</ingredient> et les servir bien chauds. il est important de <operation temps=6.86min espace=9>servir immédiatement les <ingredient quantite=1>beignets</ingredient> pour qu’ ils soient bien</operation> soufflés et il est tout aussi important de ne pas trop les cuire, car dans ce cas les <ingredient quantite=1>pétales</ingredient> perdraient leur couleur.
+]]>
+ </preparation>
+</recette>

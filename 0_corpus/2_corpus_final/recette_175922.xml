@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175922">
+ <titre>Gratin de panais et chaource</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 panais</p>
+ <p>4 carottes</p>
+ <p>4 pommes de terre</p>
+ <p>100 g de lardons</p>
+ <p>100 g de chaource</p>
+ <p>3 cuillères à soupe de crème fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). épluchez les légumes, <operation temps=3.0min espace=11>coupez - les en rondelles</operation>. <operation temps=6.86min espace=11>faites - les</operation> cuire à l’ <recipient>autocuiseur</recipient> (à la vapeur) pendant 15 min. <operation temps=6.86min espace=11>mettez la moitié des légumes dans un <recipient>plat</recipient> à gratin</operation>, <operation temps=6.86min espace=11>ajoutez la moitié des <ingredient quantite=1>lardons</ingredient> et la moitié du <ingredient quantite=1>chaource</ingredient></operation>. <operation temps=6.86min espace=11>renouvelez l’ opération</operation>. ajoutez la <ingredient quantite=3>crème fraîche</ingredient>. <operation temps=6.86min espace=11>faites cuire au <recipient>four</recipient> pendant 10 à 15 minutes, le temps que le fromage fonde un peu</operation>. <operation temps=2.0min espace=11>servez</operation> chaud. une très bonne façon de <operation temps=6.86min espace=11>faire manger des <ingredient quantite=4>panais</ingredient> à mes enfants</operation>.
+]]>
+ </preparation>
+</recette>

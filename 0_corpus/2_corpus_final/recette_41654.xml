@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41654">
+ <titre>Compotée de fruits d’ automne</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 Reine-Claudes, ou mirabelles, ou prunes</p>
+ <p>6 figues</p>
+ <p>2 poires Williams (ou autres) </p>
+ <p>6 pêches de vigne</p>
+ <p>1 grappe de raisins noirs</p>
+ <p>200 g de sucre semoule</p>
+ <p>15 cl de Pommeau ou Pineau des Charentes</p>
+ <p>1 cuillère à soupe de vanille liquide</p>
+ <p>1 cuillère à soupe de 4 épices</p>
+ <p>2 tours de moulin à poivre</p>
+ <p>10 feuilles de menthe</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>coupez en gros dés, tous les fruits non épluchés</operation>. dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=12>versez le <ingredient quantite=1>sucre</ingredient> avec le <ingredient quantite=1>pommeau</ingredient>, les <ingredient quantite=1>épices</ingredient>, la vanille et le poivre</operation>. faîtes <operation temps=5.0min espace=12>bouillir à feu moyen, pendant environ 5 min</operation>. <operation temps=6.86min espace=12>ajoutez les fruits,</operation> et <operation temps=6.86min espace=12>portez le tout à ébullition</operation>. hors du feu, <operation temps=6.86min espace=12>ajoutez la <ingredient quantite=1>menthe</ingredient></operation> ciselé. <operation temps=5.0min espace=12>mélangez</operation>. servir tiède ou froide. cette recette peut-être réalisée avec d’ autres fruits, mais attention aux fruits trop fragiles (c’ est le cas de <ingredient quantite=6>figues</ingredient> ou des framboises). il faut les ajouter au dernier moment, sinon ils se décomposent. excellent aussi tiède, accompagné d’ une boule de glace <ingredient quantite=1>vanille</ingredient>.
+]]>
+ </preparation>
+</recette>

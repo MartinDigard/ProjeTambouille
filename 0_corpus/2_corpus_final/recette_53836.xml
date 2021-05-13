@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53836">
+ <titre>Tajine de lapin aux citrons confits</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin en morceau (envron 1, 300 kg) </p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>2 oignons émincés</p>
+ <p>2 gousses d’ ail écrasées</p>
+ <p>2 citrons confits</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1/2 cuillère à café de cannelle en poudre</p>
+ <p>1/2 cuillère à café de mélange quatre épices en poudre</p>
+ <p>1 poignée d’ amandes entières</p>
+ <p>1 poignée d’ abricots secs</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire revenir les <ingredient quantite=2>oignons</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient></operation>. quand ils commencent à fondre, ajouter les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> ; <operation temps=6.86min espace=12>faire dorer sur toutes les faces</operation>. ajouter la <ingredient quantite=1>cannelle</ingredient>, le quatre <ingredient quantite=1>épices</ingredient>, l’ <ingredient quantite=2>ail</ingredient>, le <ingredient quantite=2>miel</ingredient> ; saler, poivrer. <operation temps=2.0min espace=12>couvrir d’ eau</operation> et <operation temps=45.0min espace=12>laisser cuire environ 45 min</operation>. tailler les <ingredient quantite=2>citrons</ingredient> en julienne, les ajouter dans la <recipient>cocotte</recipient>, ainsi que les <ingredient quantite=1>amandes</ingredient> et les <ingredient quantite=1>abricots secs</ingredient>. poursuivre la cuisson 15 min. si vous <operation temps=6.86min espace=12>avez trop de jus à la fin de la cuisson</operation>, <operation temps=6.86min espace=12>enlevez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> et fruits <ingredient quantite=1>secs</ingredient>,</operation> et <operation temps=6.86min espace=12>faites - le réduire afin d’</operation> avoir juste assez de sauce pour napper la viande. gewurztraminer
+]]>
+ </preparation>
+</recette>

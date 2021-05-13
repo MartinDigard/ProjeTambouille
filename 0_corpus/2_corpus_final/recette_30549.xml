@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30549">
+ <titre>Tomates à la menthe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>200 g de fromage blanc</p>
+ <p>1 feuille de gélatine ramollie</p>
+ <p>14 feuilles de menthe ciselées + quelques feuilles pour le décor</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>faire fondre la <ingredient quantite=1>feuille</ingredient> de <ingredient quantite=1>gélatine</ingredient> à feu doux</operation>. dans une jatte, mettre le <ingredient quantite=1>fromage blanc</ingredient>, la <ingredient quantite=1>gélatine</ingredient> et les <ingredient quantite=1>feuilles de menthe ciselées</ingredient>. saler, poivrer et bien mélanger. evider les <ingredient quantite=4>tomates</ingredient> et les farcir du mélange. réserver au frais jusqu’ au moment de <operation temps=2.0min espace=5>servir</operation>. décorer de <ingredient quantite=1>feuilles de menthe</ingredient> fraîche. une entrée simple et fraîche en période de grande chaleur.
+]]>
+ </preparation>
+</recette>

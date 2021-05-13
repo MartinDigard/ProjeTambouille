@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36777">
+ <titre>Tourte de riz à l’ émiliane</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 poignées de riz pour risotto</p>
+ <p>300 g de ricotta</p>
+ <p>2 courgettes râpées</p>
+ <p>50 g de parmesan</p>
+ <p>2 oeufs</p>
+ <p>chapelure</p>
+ <p>un peu d’ huile</p>
+ <p>sel</p>
+ <p>lait froid</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faire cuire le <ingredient quantite=5>riz</ingredient> à l’ eau</operation> jusqu’ à mi-cuisson, soit environ 10 minutes. egoutter et incorporer tous les ingrédients, sauf la <ingredient quantite=1>chapelure</ingredient>. le mélange doit être très moelleux, au besoin ajouter un peu de lait. parsemer de <ingredient quantite=1>chapelure</ingredient> un <recipient>moule</recipient> à gratin beurré, y mettre le mélange et saupoudrer d’ un peu de <ingredient quantite=1>chapelure</ingredient> sur le dessus. cuire 20 min au <recipient>four</recipient> à 180 ° -200 ° c (thermostat 6 - 7). accompagné d’ une salade verte, c’ est excellent pour un repas du soir.
+]]>
+ </preparation>
+</recette>

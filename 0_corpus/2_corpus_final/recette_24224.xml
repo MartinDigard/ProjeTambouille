@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24224">
+ <titre>Poule au blanc</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poule à bouillir</p>
+ <p>1 botte de poireaux</p>
+ <p>céleri</p>
+ <p>2 oignons</p>
+ <p>3 carottes</p>
+ <p>2 citrons</p>
+ <p>1 tablette de concentré de poule</p>
+ <p>feuille de laurier</p>
+ <p>sel, poivre</p>
+ <p>1 boîte de champignons</p>
+ <p>beurre</p>
+ <p>farine</p>
+ <p>lait</p>
+ <p>crème fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la <ingredient quantite=1>poule</ingredient> dans une grande <recipient>casserole</recipient> d’ eau froide. <operation temps=6.86min espace=16>faire chauffer l’ eau</operation> et écumer au fur et à mesure que la <ingredient quantite=1>poule</ingredient> cuit. quand plus rien de sale ne revient à la surface, ajouter tous les légumes pour <operation temps=6.86min espace=16>faire un bouillon</operation>. saler et poivrer. <operation temps=6.86min espace=16>laisser cuire une 1 h</operation>. <operation temps=6.86min espace=16>faire une sauce blanche avec moitié bouillon, moitié <ingredient quantite=1>lait</ingredient></operation>. ajouter le jus d’ 1/2 <ingredient quantite=1>citron</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient> et les <ingredient quantite=1>champignons</ingredient>. - la sauce doit être semi-liquide accompagner ce <recipient>plat</recipient> de riz
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51371">
+ <titre>Gâteau aux noisettes et pépites de chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de farine</p>
+ <p>300 g de sucre</p>
+ <p>4 oeufs (blancs à part) </p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>1 sachet de levure chimique</p>
+ <p>250 g de noisettes en poudre</p>
+ <p>pépites de chocolat noir</p>
+ <p>1 verre d’ eau </p>
+ <p>1 verre d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les jaunes d’ oeufs avec les <ingredient quantite=1>sucres</ingredient>, jusqu’ à que le mélange blanchisse. ajouter la farine, la <ingredient quantite=1>levure chimique</ingredient> et ensuite le <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>eau</ingredient> et d’ huile ; bien mélanger. ajouter les <ingredient quantite=1>pépites de chocolat</ingredient> et les <ingredient quantite=1>noisettes en poudre</ingredient>. incorporer les blancs battus en neige. pour les <ingredient quantite=1>pépites de chocolat</ingredient>, râper du <ingredient quantite=1>chocolat noir</ingredient> pâtissier!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55194">
+ <titre>Salade mixte saucisse galette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 galette de blé noir</p>
+ <p>5-6 saucisses type knack</p>
+ <p>1 salade verte</p>
+ <p>beurre ou huile</p>
+ <p>vinaigrette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>coupez les <ingredient quantite=4>galettes</ingredient> en morceaux</operation> et <operation temps=6.86min espace=7>faites - les</operation> <operation temps=6.86min espace=7>revenir à la <recipient>poêle</recipient> dans une noisette de beurre</operation>. <operation temps=6.86min espace=7>coupez ensuite les saussice en rondelles assez grosse</operation> et <operation temps=6.86min espace=7>faites - les dorer dans une <recipient>poêle</recipient> également</operation>. <operation temps=6.86min espace=7>préparez la salade et la</operation> <ingredient quantite=1>vinaigrette</ingredient>, <operation temps=5.0min espace=7>mélangez</operation> et <operation temps=6.86min espace=7>ajoutez le mélange galette / <ingredient quantite=1>saucisse</ingredient></operation>. une touche de moutarde dans la sauce <ingredient quantite=1>salade</ingredient> réhausse le goût de la <ingredient quantite=4>galette</ingredient>.
+]]>
+ </preparation>
+</recette>

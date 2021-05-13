@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65202">
+ <titre>Tajine de poulet aux abricots et amandes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 cuisses de poulet</p>
+ <p>250 g d’ abricots secs moelleux</p>
+ <p>2 oignons coupés en dés</p>
+ <p>30 g de beurre</p>
+ <p>1 cuillère à soupe d’ huile d’ arachide</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>2 cuillères à café de cannelle</p>
+ <p>1 pointe de couteau de cumin en poudre</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>50 g d’ amandes émondées</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=2>oignons</ingredient> à fondre dans une <recipient>sauteuse</recipient> avec le beurre et l’ <ingredient quantite=1>huile</ingredient> d’ arachide. séparer les hauts des pilons des <ingredient quantite=4>cuisses de poulet</ingredient>. ajouter le <ingredient quantite=4>poulet</ingredient> dans la <recipient>sauteuse</recipient> et <operation temps=6.86min espace=15>faire dorer à feu</operation> vif environ 5 minutes. saler et poivrer. ajouter les épices. delayer le <ingredient quantite=1>bouillon de volaille</ingredient> dans 30 cl d’ eau chaude avec le <ingredient quantite=2>miel</ingredient>. verser dans la <recipient>sauteuse</recipient>. <operation temps=30.0min espace=15>laisser cuire 30 min à couvert</operation>. ajouter les <ingredient quantite=1>abricots</ingredient> et les <ingredient quantite=1>amandes</ingredient> et cuire encore 10 min. retirer le <ingredient quantite=4>poulet</ingredient> de la <recipient>sauteuse</recipient> et <operation temps=6.86min espace=15>faire réduire la sauce afin qu’ elle</operation> épaississe. <operation temps=6.86min espace=15>servir le <ingredient quantite=4>poulet</ingredient> nappé de sauce</operation> accompagné de semoule.
+]]>
+ </preparation>
+</recette>

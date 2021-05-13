@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56876">
+ <titre>Biscuits roulés au chocolat de Mamy</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la partie au chocolat: </p>
+ <p>300 g de farine</p>
+ <p>1 œuf</p>
+ <p>10 cl d’ huile</p>
+ <p>100 g de sucre</p>
+ <p>10 cl d’ eau tiède</p>
+ <p>1/2 sachet de levure</p>
+ <p>30 cl (équivalent) de chocolat en poudre</p>
+ <p>Pour la partie nature: </p>
+ <p>300 g de farine</p>
+ <p>1 œuf</p>
+ <p>10 cl d’ huile</p>
+ <p>10 cl de sucre</p>
+ <p>10 cl d’ eau tiède</p>
+ <p>1/2 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>suivez cette procédure deux fois, dans deux saladiers différents, pour</operation> <operation temps=6.86min espace=15>faire une pâte au chocolate et une pâte <ingredient quantite=1>nature</ingredient></operation>. verser la farine, y <operation temps=6.86min espace=15>faire une fontaine pour l’ <ingredient quantite=1>œuf</ingredient></operation>. ajouter l’ huile, le <ingredient quantite=1>sucre</ingredient>, l’ <ingredient quantite=1>eau tiède</ingredient> et la <ingredient quantite=1>levure</ingredient>. dans un des deux saladiers, ajouter le <ingredient quantite=1>chocolat en poudre</ingredient>. remuez avec une cuillère puis <operation temps=6.86min espace=15>pétrir à la main</operation>. <operation temps=25.0min espace=15>laisser reposer 25 minutes</operation>. allonger la pâte blanche largement puis <operation temps=6.86min espace=15>faire de même avec la pâte</operation> chocolatée. poser celle-ci sur la blanche. les enrouler comme une saucisse puis <operation temps=6.86min espace=15>faire rouler la pâte en longueur pour l’</operation> allonger un peu. découper des biscuits de 2 cm environ et les aplatir légèrement entre les 2 mains avant de les enfourner 30 minutes au thermostat 7/8 (210/220 °).
+]]>
+ </preparation>
+</recette>

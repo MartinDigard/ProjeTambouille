@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22189">
+ <titre>Sorbet à l’ abricot</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg d’ abricots bien mûrs</p>
+ <p>1 citron</p>
+ <p>100 g de sucre glace</p>
+ <p>2 cuillères à soupe de Muscat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=7>dénoyautez les <ingredient quantite=1>abricots</ingredient></operation>. <operation temps=6.86min espace=7>mixez</operation> finement les fruits dans le bol du robot. ajoutez le <ingredient quantite=1>sucre glace</ingredient>, le jus de <ingredient quantite=1>citron</ingredient> et le <ingredient quantite=1>muscat</ingredient>. <operation temps=5.0min espace=7>mélangez</operation> <ingredient quantite=1>bien</ingredient> et <operation temps=6.86min espace=7>versez en sorbitière</operation>. <operation temps=6.86min espace=7>faites prendre en <ingredient quantite=1>glace</ingredient> au <recipient>congélateur</recipient> pendant au moins 2 heures</operation>. <operation temps=6.86min espace=7>pensez à</operation> mettre le <recipient>congélateur</recipient> sur la positin la plus froide avant de mettre la <recipient>sorbetière</recipient>. vous pouvez <operation temps=6.86min espace=7>remplacez les <ingredient quantite=1>abricots</ingredient> par des pêches</operation>. un <ingredient quantite=1>muscat</ingredient> de rivesaltes
+]]>
+ </preparation>
+</recette>

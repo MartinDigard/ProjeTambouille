@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32217">
+ <titre>Salade de boudin blanc et marrons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 boudins blancs</p>
+ <p>échalote</p>
+ <p>200 g de marrons</p>
+ <p>salade verte (au choix) </p>
+ <p>50 g de noix concassées</p>
+ <p>sucre</p>
+ <p>beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez les boudins en lamelles</operation> et <operation temps=6.86min espace=9>faites - les</operation> <operation temps=6.86min espace=9>revenir dans le beurre, pour les</operation> <operation temps=6.86min espace=9>faire dorer sur les deux faces</operation>. <operation temps=0.5min espace=9>réservez</operation>. émincez l’ <ingredient quantite=1>échalote</ingredient>, <operation temps=6.86min espace=9>faites - la</operation> <operation temps=6.86min espace=9>revenir légèrement dans la <recipient>poêle</recipient>,</operation> puis <operation temps=6.86min espace=9>ajoutez le <ingredient quantite=1>sucre</ingredient> afin de</operation> caraméliser légèrement le tout. juste avant le service, <operation temps=6.86min espace=9>réchauffez <ingredient quantite=1>échalote</ingredient>, boudin et <ingredient quantite=1>marrons</ingredient> dans la même <recipient>poêle</recipient></operation> et <operation temps=2.0min espace=9>servez</operation> tiède, sur lit de salade. avec un petit blanc, ça passe tout seul... ;)
+]]>
+ </preparation>
+</recette>

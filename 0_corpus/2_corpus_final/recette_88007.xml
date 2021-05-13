@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88007">
+ <titre>Soupe de fruits rouges et tagada</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>20 fraises tagada </p>
+ <p>250 g de fruits rouges congelés ou frais (les congelés seront moins cher) </p>
+ <p>1 citron (zestes) </p>
+ <p>6 feuilles de menthe ciselées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>fraises tagada</ingredient> dans une <recipient>casserole</recipient> avec 50 cl d’ eau, <operation temps=6.86min espace=7>faire chauffer doucement de façon à</operation> faire fondre les <ingredient quantite=1>fraises tagada</ingredient>. lorsque les bonbons sont fondus, couper le feu et mettre le reste des ingrédients directement dans la <recipient>casserole</recipient>. les <ingredient quantite=1>fruits</ingredient> seront " pochés " par le mélange encore chaud. réserver au <recipient>réfrigérateur</recipient> et servir très <ingredient quantite=1>frais</ingredient> dans des verrines.
+]]>
+ </preparation>
+</recette>

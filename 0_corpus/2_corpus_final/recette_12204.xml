@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12204">
+ <titre>Tarte Brighton aux asperges</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>750g d’ asperges vertes</p>
+ <p>150g de cheddar râpé (que l’ on peut remplacer par du gruyère râpé) </p>
+ <p>1 fond de pâte brisée</p>
+ <p>3 oeufs</p>
+ <p>25cl de crème fraiche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient quantite=1>asperges vertes</ingredient> dans de l’ eau bouillante salée pendant 20mn (vous pouvez utiliser des <ingredient quantite=1>asperges</ingredient> en boîte ou en conserve). <operation temps=10.0min espace=5>egouttez</operation> - les, <operation temps=6.86min espace=5>mixez - les</operation> et <operation temps=6.86min espace=5>mélangez - les à 3 <ingredient quantite=3>oeufs</ingredient></operation> battus, 25cl de <ingredient quantite=1>crème fraiche</ingredient> et au fromage râpé. <operation temps=0.25min espace=5>salez</operation>, <operation temps=0.5min espace=5>poivrez</operation>. <operation temps=6.86min espace=5>etalez le <ingredient quantite=1>fond</ingredient> de tarte et garnissez avec la préparation précédente</operation>. enfournez à thermostat 6 (180 ° c) pendant 35 mn. servez chaud ou tiède. peut être servi aussi en entrée.
+]]>
+ </preparation>
+</recette>

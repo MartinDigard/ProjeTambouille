@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65104">
+ <titre>M’ selmen</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de semoule fine</p>
+ <p>1 cuillère à café de sel</p>
+ <p>200 g de miel</p>
+ <p>huile</p>
+ <p>40 cl d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>terrine</recipient>, mélanger la semoule avec le <ingredient quantite=1>sel</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. <operation temps=6.86min espace=6>pétrir en</operation> rajoutant peu à peu de l’ <ingredient quantite=1>eau</ingredient> jusqu’ à <operation temps=6.86min espace=6>obtenir une pâte souple et élastique</operation>. avec les mains huilées, former des boules de la grosseur d’ une mandarine et <operation temps=10.0min espace=6>laisser reposer 10 min environ</operation>. <operation temps=6.86min espace=6>aplatir chaque boule et l’</operation> étirer dans tous les sens afin d’ <operation temps=6.86min espace=6>obtenir un rectangle transparent</operation>. plier le rectangle en 4, le plonger dans une huile de friture chaude, et lorsqu’ il est doré, l’ égoutter et le passer dans le <ingredient quantite=1>miel</ingredient> fondu. manger chaud.
+]]>
+ </preparation>
+</recette>

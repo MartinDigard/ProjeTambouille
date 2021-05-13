@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56338">
+ <titre>Quiche au fenouil et à l’ estragon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>2 bulbes de fenouil</p>
+ <p>200 g de dés de jambon</p>
+ <p>3 oeufs</p>
+ <p>20 cl de crème liquide</p>
+ <p>beurre et huile</p>
+ <p>sel, poivre</p>
+ <p>estagon, anis étoilée (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>bulbes de fenouil</ingredient> en 4, les <operation temps=5.0min espace=11>faire cuire 5 min à l’ eau bouillante</operation> salée avec quelques étoiles d’ <ingredient quantite=1>anis</ingredient> (si vous en <operation temps=6.86min espace=11>avez sous la main</operation>). egoutter. dans la même <recipient>casserole</recipient>, <operation temps=6.86min espace=11>faire fondre le beurre avec un peu d’ <ingredient quantite=1>huile</ingredient></operation>. y <operation temps=20.0min espace=11>faire cuire le <ingredient quantite=2>fenouil</ingredient> couvert 15 à 20 min à feu très doux</operation>. <operation temps=6.86min espace=11>faire cuire la <ingredient quantite=1>pâte</ingredient> à blanc</operation>, étalée dans un <recipient><recipient>moule</recipient> à tarte</recipient> et piquée, 10 min à 180 ° c (thermostat 6). casser 3 <ingredient quantite=3>oeufs</ingredient>, les mélanger à la <ingredient quantite=1>crème</ingredient>. saler, poivrer, ajouter 2 bonne pincées d’ estragon. garnir la <ingredient quantite=1>pâte</ingredient> du <ingredient quantite=2>fenouil</ingredient> et des <ingredient quantite=1>dés de jambon</ingredient>, et y verser la préparation à l’ <ingredient quantite=1>oeuf</ingredient>. <operation temps=30.0min espace=11>faire cuire au <recipient>four</recipient> environ 30 min</operation>. accompagner d’ une salade verte.
+]]>
+ </preparation>
+</recette>

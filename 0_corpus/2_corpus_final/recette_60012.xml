@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60012">
+ <titre>Salade d’ été aux farfalles et petits pois</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de farfalles (ou autres pâtes) </p>
+ <p>3 oeufs cuits à durs et refroidis</p>
+ <p>1 boîte de chair de crabe</p>
+ <p>1 petite boîte de petits pois</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>sel, poivre</p>
+ <p>1 pincée d’ origan</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=8.0min espace=8>faire cuire les <ingredient quantite=1>farfalles</ingredient> 8 minutes dans de l’ eau bouillante</operation> salée et les <operation temps=6.86min espace=8>faire refroidir sous l’ eau</operation>. couper les <ingredient quantite=3>oeufs durs</ingredient> en quartiers, émietter le <ingredient quantite=1>crabe</ingredient> et rincer les <ingredient quantite=1>petits pois</ingredient>. préparer la vinaigrette dans un bol avec <ingredient quantite=3>huile</ingredient>, <ingredient quantite=1>vinaigre</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>origan</ingredient>. mélanger tous les ingrédients et arroser de vinaigrette. servir bien frais.
+]]>
+ </preparation>
+</recette>

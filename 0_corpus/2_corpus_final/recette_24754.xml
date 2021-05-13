@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24754">
+ <titre>Omelette fourrée aux légumes</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 oeufs</p>
+ <p>2 aubergines</p>
+ <p>2 poivrons rouge</p>
+ <p>1 oignon</p>
+ <p>2 tomates</p>
+ <p>fines herbes mélangées</p>
+ <p>tabasco</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez, <operation temps=6.86min espace=11>pelez et hachez les légumes</operation>. <operation temps=6.86min espace=11>faites - les</operation> cuire à l’ étouffée dans une <recipient>casserole</recipient> avec un peu d’ <ingredient quantite=1>huile</ingredient>. <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation> et ajoutez un peu de <ingredient quantite=1>fines herbes</ingredient> ciselées. <operation temps=6.86min espace=11>ajoutez une cuillère à café de <ingredient quantite=1>tabasco</ingredient></operation>. <operation temps=6.86min espace=11>laissez confire doucement</operation>. battez les <ingredient quantite=1>oeufs</ingredient> en omelette avec un peu de <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>, <operation temps=6.86min espace=11>faites - la</operation> cuire dans une <recipient>poêle</recipient> chaude huilée en ramenant les bords vers le centre au fur et à mesure qu’ ils prennent. <operation temps=6.86min espace=11>faites glisser l’ omelette dans une assiette</operation>, <operation temps=6.86min espace=11>versez les légumes au centre et pliez - la en deux</operation>. <operation temps=2.0min espace=11>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26874">
+ <titre>Poulet au curry et petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cuiller à soupe d’ huile d’ olive</p>
+ <p>1 oignon</p>
+ <p>1 poivron (n’ importe quelle couleur ; pour ma part, je préfère le jaune) </p>
+ <p>2 gros champignons de Paris</p>
+ <p>4 petites tomates</p>
+ <p>1 courgette</p>
+ <p>6 aiguillettes de poulet</p>
+ <p>1 cuiller à soupe de crème fraîche</p>
+ <p>25 cl de lait</p>
+ <p>curry</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>sauteuse</recipient>, <operation temps=6.86min espace=14>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> émincé dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. emincez le reste des légumes. dans la <recipient>sauteuse</recipient>, <operation temps=6.86min espace=14>ajoutez le <ingredient quantite=1>poivron</ingredient>, puis le <ingredient quantite=1>champignon</ingredient>, puis les <ingredient quantite=4>tomates</ingredient>, et enfin la <ingredient quantite=1>courgette</ingredient></operation>. pendant que les légumes cuisent à couvert, mélangez dans un bol le lait avec la <ingredient quantite=1>crème fraîche</ingredient>, <operation temps=0.25min espace=14>salez</operation>, <operation temps=6.86min espace=14>poivrez,</operation> puis <operation temps=6.86min espace=14>ajoutez le <ingredient quantite=1>curry</ingredient> (selon votre goût ; mais environ 2 cuillères à <ingredient quantite=1>soupe</ingredient>, de manière à ce que le mélange</operation> jaunisse suffisamment). <operation temps=6.86min espace=14>coupez les <ingredient quantite=6>aiguillettes</ingredient> en dés,</operation> et <operation temps=6.86min espace=14>ajoutez - les aux légumes</operation>. <operation temps=6.86min espace=14>versez le mélange au <ingredient quantite=1>curry</ingredient> par - dessus les légumes et le <ingredient quantite=6>poulet</ingredient></operation>. <operation temps=6.86min espace=14>mélangez bien le tout,</operation> et <operation temps=6.86min espace=14>laissez cuire à feu doux pendant une quinzaine de minutes</operation>. le <recipient>plat</recipient> est léger et savoureux. selon votre goût, vous pouvez varier les proportions de légumes, changer les légumes selon la saison, ajouter des fruits (la pomme ou la banane se marient bien avec le <ingredient quantite=1>curry</ingredient>), etc.
+]]>
+ </preparation>
+</recette>

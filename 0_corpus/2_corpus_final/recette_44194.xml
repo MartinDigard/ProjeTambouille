@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44194">
+ <titre>Tomates à la méditéranéenne</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses tomates</p>
+ <p>3 oeufs</p>
+ <p>pesto (sauce au basilic) </p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=8>coupez en deux chaque <ingredient quantite=1>tomate</ingredient></operation>. <operation temps=6.86min espace=8>faites - les</operation> cuire dans une <recipient>poêle</recipient>, avec les 2 <ingredient quantite=2>cuillères</ingredient> d’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. <operation temps=6.86min espace=8>salez -</operation> et <operation temps=6.86min espace=8>poivrez, mais pas trop pour qu’ il y</operation> ait le moins d’ eau possible dans la <recipient>poêle</recipient>. une fois qu’ elles deviennent fondantes, versez sur chaque <ingredient quantite=1>tomate</ingredient> une bonne <ingredient quantite=2>cuillère à soupe</ingredient> de <ingredient quantite=1>pesto</ingredient>. <operation temps=6.86min espace=8>laissez mijoter quelques minutes,</operation> puis <operation temps=6.86min espace=8>cassez les <ingredient quantite=3>oeufs</ingredient> sur les</operation> <ingredient quantite=6>tomates</ingredient> (<operation temps=6.86min espace=8>faites en sortes qu’ 1 jaune</operation> recouvre 2 moitiés de <ingredient quantite=6>tomates</ingredient>), et <operation temps=6.86min espace=8>laissez cuire</operation>. votre <recipient>plat</recipient> est enfin prêt à la dégustation!!! vous pouvez saupoudrer les <ingredient quantite=6>tomates</ingredient> de parmesan, juste avant de casser les <ingredient quantite=3>oeufs</ingredient> dessus.
+]]>
+ </preparation>
+</recette>

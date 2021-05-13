@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26972">
+ <titre>Fonds d’ artichauts gratinés</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 gros artichauts (ou 8 fonds d’ artichauts en boîte) </p>
+ <p>40 g de beurre</p>
+ <p>30 g de farine</p>
+ <p>40 cl de lait</p>
+ <p>150 g de gruyère râpé</p>
+ <p>sel, poivre, noix muscade</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire les <ingredient quantite=8>artichauts</ingredient> à l’ eau bouillante salée pendant 40 minutes. egoutter, <operation temps=20.0min espace=8>laisser refroidir</operation>. puis prélever les fonds. <operation temps=6.86min espace=8>coupez les fonds d’ <ingredient quantite=8>artichauts</ingredient> en quatre</operation>. mettre dans un <recipient>plat</recipient> à gratin. <operation temps=6.86min espace=8>faire un roux blond</operation>: mélanger de la farine et du beurre fondu et remuer jusqu’ à coloration blonde sur feu moyen. ajouter progressivement le lait et <operation temps=6.86min espace=8>laisser épaissir à feu doux en</operation> remuant constamment. incorporer le fromage puis assaisonner de <ingredient quantite=1>sel</ingredient>, de poivre et de <ingredient quantite=1>noix</ingredient> de <ingredient quantite=1>muscade</ingredient>. allumer le grill du <recipient>four</recipient> à 180 ° c (thermostat 6). verser la sauce sur les <ingredient quantite=8>artichauts</ingredient>, enfourner et <operation temps=15.0min espace=8>faire gratiner 10 à 15 minutes</operation>.
+]]>
+ </preparation>
+</recette>

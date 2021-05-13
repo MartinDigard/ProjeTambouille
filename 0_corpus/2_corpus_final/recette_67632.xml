@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67632">
+ <titre>Gâteau aux carottes végétalien</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de farine</p>
+ <p>1 sachet et demi de levure chimique</p>
+ <p>180 g de cassonade </p>
+ <p>10 cl d’ huile végétale</p>
+ <p>12, 5 cl de lait de soja</p>
+ <p>300 g de carottes râpées</p>
+ <p>60 g de noix de pécan concassés</p>
+ <p>100 g de raisins secs</p>
+ <p>1, 5 cuillère à café de cannelle en poudre</p>
+ <p>0, 5 cuillère à café de gingembre</p>
+ <p>1 zeste de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 150 ° c (thermostat 5). mélanger la farine, <ingredient quantite=1>levure</ingredient>, sucre, huile, <ingredient quantite=1>lait de soja</ingredient>, épices et <ingredient quantite=1>citron</ingredient>, puis ajouter les <ingredient quantite=1>noix</ingredient>, les <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=1>raisins</ingredient>. mélanger le tout et verser dans un <recipient>moule</recipient> huilé. enfourner et <operation temps=45.0min espace=13>laisser cuire 45 minutes</operation>. vérifier la cuisson en piquant un couteau fin dans le gâteau: il ne doit pas y avoir de pâte collée à la lame. ce gâteau est végétalien. je conseille les non-végétaliens d’ essayer plutôt une recette de gâteau aux <ingredient quantite=1>carottes</ingredient> classique aux oeufs, beurre et <ingredient quantite=1>lait</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55501">
+ <titre>Poivrons farcis au quinoa</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 poivrons rouges</p>
+ <p>80 g de quinoa</p>
+ <p>2 courgettes</p>
+ <p>1 oeuf</p>
+ <p>150 g de jambon en julienne (ou bacon maigre) </p>
+ <p>10 olives noires dénoyautées</p>
+ <p>1 cuillère à soupe de parmesan</p>
+ <p>1 cuillère à soupe de thym</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). râper les <ingredient quantite=2>courgettes</ingredient> ou les couper en petits dés. les jeter dans une <recipient>sauteuse</recipient> avec le <ingredient quantite=1>quinoa</ingredient> et ajouter 2 verre d’ eau. <operation temps=6.86min espace=12>laisser cuire à feu moyen 15 - 20 minutes, jusqu’ à ce que les graines de <ingredient quantite=1>quinoa</ingredient> aient bien</operation> gonflés. hors du feu, ajouter l’ <ingredient quantite=1>oeuf</ingredient> battu en omelette, le <ingredient quantite=1>jambon</ingredient>, les <ingredient quantite=1>olives</ingredient> en rondelles, le <ingredient quantite=1>thym</ingredient> et le <ingredient quantite=1>parmesan</ingredient>. rectifier l’ assaisonnement mais normalement, c’ est déjà salé grâce au <ingredient quantite=1>jambon</ingredient> et aux <ingredient quantite=1>olives</ingredient>. couper un chapeau aux <ingredient quantite=1>poivron</ingredient> et les farcir de mélange au <ingredient quantite=1>quinoa</ingredient>. reposer le chapeau et enfourner 30 - 40 minutes. on peut facilement en <operation temps=6.86min espace=12>faire un <recipient>plat</recipient> végétarien en</operation> supprimant le <ingredient quantite=1>jambon</ingredient>!
+]]>
+ </preparation>
+</recette>

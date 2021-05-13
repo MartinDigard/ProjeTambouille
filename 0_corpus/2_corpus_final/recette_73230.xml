@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73230">
+ <titre>Émincé de veau aux poivrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g d’ émincé de veau </p>
+ <p>150 g de lardons</p>
+ <p>10 cl de crème</p>
+ <p>1 très gros poivron rouge (ou deux plus petits) </p>
+ <p>10 cl de vin blanc</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre à volonté</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=7>détaillez les <ingredient quantite=1>poivrons</ingredient> en lanières d’ environ 3 cm de longueur</operation>. <operation temps=5.0min espace=7>faites revenir les <ingredient quantite=1>lardons</ingredient> 5 min à feu moyen</operation>. lorsque les <ingredient quantite=1>lardons</ingredient> commencent à rendre un peu d’ huile, <operation temps=6.86min espace=7>ajoutez les <ingredient quantite=1>poivrons</ingredient></operation>. <operation temps=6.86min espace=7>réduisez le feu</operation> et <operation temps=5.0min espace=7>faites cuire environ 5 min</operation>. ajoutez l’ <ingredient quantite=1>émincé de veau</ingredient> et <operation temps=6.86min espace=7>laissez - le dorer</operation>. <operation temps=6.86min espace=7>ajoutez ensuite le <ingredient quantite=1>vin</ingredient></operation>. <operation temps=6.86min espace=7>laissez réduire jusqu’ à évaporation presque complète</operation>. <operation temps=0.25min espace=7>salez</operation>, <operation temps=0.5min espace=7>poivrez</operation> et ajoutez les <ingredient quantite=1>herbes de provence</ingredient>. en fin de cuisson, <operation temps=6.86min espace=7>ajoutez la <ingredient quantite=1>crème</ingredient></operation>. <operation temps=6.86min espace=7>réchauffez sans</operation> <operation temps=6.86min espace=7>laisser bouillir</operation> et <operation temps=2.0min espace=7>servez aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88646">
+ <titre>Calmar au carottes, choux et tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 blancs de seiche ou 200 g de calmar</p>
+ <p>3 carottes</p>
+ <p>1/4 de chou vert</p>
+ <p>1 boîte de tomates (ou 4 tomates fraîches en saison) </p>
+ <p>10 g de coriandre moulue</p>
+ <p>1 pincée d’ herbes de provence</p>
+ <p>1 pincée de piment fort</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les blancs de seiche en cubes d’ environ 2 cm de côté. eplucher les <ingredient quantite=3>carottes</ingredient> et les couper en rondelles. emincer le <ingredient quantite=1>chou</ingredient>. <operation temps=10.0min espace=10>faire revenir les cubes de seiche 5 à 10 minutes dans une <recipient>cocotte</recipient> (ou dans un <recipient>plat</recipient> en terre type espagnol) avec un filet d’ huile d’ olive pour qu’ ils</operation> rendent leur eau. réserver les cubes de seiche dans une assiette creuse et <operation temps=10.0min espace=10>faire revenir pendant 10 minutes les <ingredient quantite=3>carottes</ingredient> et le <ingredient quantite=1>chou</ingredient> dans la <recipient>cocotte</recipient></operation>. ajouter ensuite la <ingredient quantite=1>coriandre</ingredient>, les <ingredient quantite=1>herbes de provence</ingredient> et les <ingredient quantite=1>tomates</ingredient> avec leur jus. mettre une pointe de couteau de <ingredient quantite=1>piment fort</ingredient> (ou quelques gouttes de tabasco). mélanger et <operation temps=6.86min espace=10>laisser mijoter environ 1 heure à feu très doux</operation>. servir très chaud.
+]]>
+ </preparation>
+</recette>

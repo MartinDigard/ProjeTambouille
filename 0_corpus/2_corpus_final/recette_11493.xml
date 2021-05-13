@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11493">
+ <titre>Mrouzia (marrakchia) (Maroc) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 kg de viande de mouton avec os</p>
+ <p>2 cuillères à café de cannelle</p>
+ <p>3 cuillères à soupe de sucre</p>
+ <p>gingembre</p>
+ <p>sel et poivre</p>
+ <p>safran </p>
+ <p>10 cl verre d’ huile</p>
+ <p>125 g d’ amandes entières</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+badigeonner la <ingredient quantite=1>viande</ingredient> avec toutes les épices, mettre la <ingredient quantite=1>viande</ingredient> dans une grande <recipient>marmite</recipient> avec de l’ <ingredient quantite=1>huile</ingredient> et 40 cl d’ eau pour la <operation temps=30.0min espace=9>faire cuire</operation>. lorsque la <ingredient quantite=1>viande</ingredient> est cuite, ajouter de la <ingredient quantite=2>cannelle</ingredient>, du <ingredient quantite=3>sucre</ingredient> et des <ingredient quantite=1>amandes</ingredient> épluchées jusqu’ à <operation temps=6.86min espace=9>obtenir une sauce épaisse et sucrée</operation>. servir chaud. thé à la menthe
+]]>
+ </preparation>
+</recette>

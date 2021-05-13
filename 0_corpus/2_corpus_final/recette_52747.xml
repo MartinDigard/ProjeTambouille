@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52747">
+ <titre>Terrine d’ aubergines et son coulis de tomates</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 aubergines</p>
+ <p>4 œufs</p>
+ <p>200 g d’ olives dénoyautées</p>
+ <p>300 g de faisselle</p>
+ <p>5 tomates</p>
+ <p>sel, poivre</p>
+ <p>basilic</p>
+ <p>1 sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fendre les <ingredient quantite=3>aubergines</ingredient> dans le sens de la longueur et les <operation temps=20.0min espace=12>faire cuire au <recipient>four</recipient> (200 ° c) pendant 20 minutes</operation>. <operation temps=6.86min espace=12>faire bouillir les <ingredient quantite=5>tomates</ingredient> et en</operation> retirer la peau. une fois les <ingredient quantite=3>aubergines</ingredient> cuites, prélever la pulpe des <ingredient quantite=3>aubergines</ingredient> avec une cuillère. mixer les <ingredient quantite=3>aubergines</ingredient> avec les <ingredient quantite=4>œufs</ingredient>, les <ingredient quantite=1>olives</ingredient>, la <ingredient quantite=1><operation temps=6.86min espace=12><recipient>faisselle</recipient></ingredient> le <ingredient quantite=1>sel</ingredient> et le poivre</operation>. <operation temps=40.0min espace=12>faire cuire au <recipient>four</recipient> entre 180 ° et 200 ° pendant 40 min (préférable au <recipient>bain - marie</recipient></operation>). mixer les <ingredient quantite=5>tomates</ingredient> en coulis et ajouter le <ingredient quantite=1>basilic</ingredient>, le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. servir bien frais.
+]]>
+ </preparation>
+</recette>

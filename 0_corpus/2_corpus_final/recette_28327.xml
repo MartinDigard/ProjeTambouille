@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28327">
+ <titre>Oeufs cocotte au gruyère et au cumin</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 oeufs</p>
+ <p>150 g de gruyère râpé</p>
+ <p>5 cl de crème fraîche</p>
+ <p>1 cuillère à café rase de cumin moulu</p>
+ <p>un peu de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 220 ° c (thermostat 7 - 8). dans une <recipient>terrine</recipient>, mélanger le <ingredient quantite=1>gruyère</ingredient> avec la <ingredient quantite=1>crème</ingredient>. saler, poivrer, puis ajouter le <ingredient quantite=1>cumin</ingredient>. <operation temps=6.86min espace=12>répartir la préparation dans 6 petites cocottes beurrées,</operation> puis casser un <ingredient quantite=1>oeuf</ingredient> au dessus de chacune d’ entre elles. placer les petites cocottes dans un <recipient>bain - marie</recipient>, puis mettre le <recipient>plat</recipient> au <recipient>four</recipient> et <operation temps=8.0min espace=12>laisser cuire 8 min jusqu’ à ce que le blanc soit bien</operation> <operation temps=6.86min espace=12>pris</operation>. déguster dès la sortie du <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

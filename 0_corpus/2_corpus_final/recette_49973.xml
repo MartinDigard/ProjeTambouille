@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49973">
+ <titre>Alouettes sans têtes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 escalopes de dinde asssez fines</p>
+ <p>6 tranches de jambon cru</p>
+ <p>6 toastinettes</p>
+ <p>2 oignons</p>
+ <p>1 boîte de champignons (400 g) </p>
+ <p>800 g de pommes de terre</p>
+ <p>15 cl de vin blanc</p>
+ <p>un peu d’ eau</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer les alouettes: <operation temps=6.86min espace=9>applatir les <ingredient quantite=6>escalopes</ingredient> du <recipient>plat</recipient> de la main</operation>, poser sur chacune 1 <ingredient quantite=1>toastinette</ingredient> puis 1 <ingredient quantite=6>tranche de jambon</ingredient> cru ; rouler l’ escalope sur elle-même et ficeler. dans une coctte assez grande, <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=2>oignons</ingredient></operation> émincés, et dorer les alouettes. ajouter les <ingredient quantite=1>champignons</ingredient> avec une partie du jus, les <ingredient quantite=1>pommes de terre</ingredient> coupés en morceaux (pas trop petits!). arroser avec le <ingredient quantite=1>vin</ingredient> et rajouter un <ingredient quantite=1>peu</ingredient> d’ <ingredient quantite=1>eau</ingredient> pour <operation temps=6.86min espace=9>couvrir ; saler</operation> et poivrer. puis, laisser cuire à feu doux jusqu’ à ce que les <ingredient quantite=1>pommes de terre</ingredient> soient cuites.
+]]>
+ </preparation>
+</recette>

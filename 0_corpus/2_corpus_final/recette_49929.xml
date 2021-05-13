@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49929">
+ <titre>Terrine de poivrons et aubergines</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 aubergines</p>
+ <p>3 poivrons rouges</p>
+ <p>500 g de fromage frais (type "brousse") </p>
+ <p>10 feuilles de menthe</p>
+ <p>1 gousse d’ ail</p>
+ <p>6 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>coupez les <ingredient quantite=2>aubergines</ingredient> en tranches d’ 1 cm, et badigeonnez - les ensuite d’ huile</operation>. <operation temps=0.25min espace=9>salez et</operation> <operation temps=6.86min espace=9>poivrez,</operation> puis <operation temps=6.86min espace=9>faire - les</operation> cuire 10 min sous le grill en les retournant à mi-cuisson. <operation temps=6.86min espace=9>procédez de la même façon pour les <ingredient quantite=3>poivrons</ingredient>, mais en les</operation> laissant entier ; videz et <operation temps=6.86min espace=9>coupez - les en lanières</operation>. <operation temps=6.86min espace=9>mélangez le <ingredient quantite=1>fromage</ingredient> avec le reste d’ huile, la <ingredient quantite=1>menthe</ingredient> ciselée et l’ <ingredient quantite=1>ail</ingredient></operation> pressé ; <operation temps=0.25min espace=9>salez et</operation> <operation temps=0.5min espace=9>poivrez</operation>. <operation temps=6.86min espace=9>tapissez un <recipient>moule</recipient> à cake de film étirable</operation>, <operation temps=6.86min espace=9>disposez dans le fond une couche de</operation> <ingredient quantite=3>poivrons</ingredient> et <operation temps=6.86min espace=9>alternez ensuite avec des couches de <ingredient quantite=1>fromage</ingredient>, de <ingredient quantite=3>poivrons</ingredient> et d’ <ingredient quantite=2>aubergines</ingredient></operation>. <operation temps=6.86min espace=9>rabattez le film</operation> et <operation temps=6.86min espace=9>disposez un poid sur la <recipient>terrine</recipient></operation> ; <operation temps=6.86min espace=9>réservez au frais pendant 4 h avant de la</operation> démouler. a accompagné d’ un concassé de tomates.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21676">
+ <titre>Gâteau de blettes au jambon et aux pruneaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>les feuilles de 3 tiges de blettes</p>
+ <p>150 g de jambon</p>
+ <p>100 g de lard fumé</p>
+ <p>300 g de pruneaux moelleux</p>
+ <p>1 oignon</p>
+ <p>1 bouquet de persil</p>
+ <p>5 oeufs</p>
+ <p>250 g de farine</p>
+ <p>50 cl de lait</p>
+ <p>25 g de beurre</p>
+ <p>20 cl de thé légèrement sucré</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>laissez tremper les pruneaux dans le <ingredient quantite=1>thé</ingredient></operation> tiède. préchauffez le <recipient>four</recipient> à 210 ° c (thermostat 7). hachez l’ <ingredient quantite=1>oignon</ingredient> avec les <ingredient quantite=1>feuilles de blettes</ingredient>, le <ingredient quantite=1>lard</ingredient>, le <ingredient quantite=1>jambon</ingredient> et le <ingredient quantite=1>persil</ingredient>. <operation temps=6.86min espace=15>versez le lait en un mince filet dans la farine</operation>. remuez à l’ aide d’ une cuillère en bois. <operation temps=6.86min espace=15>incorporez ensuite les <ingredient quantite=5>oeufs</ingredient> un par un en</operation> travaillant longuement la pâte. <operation temps=0.5min espace=15>poivrez</operation> généreusement puis <operation temps=6.86min espace=15>ajoutez le hachis de viande et les pruneaux</operation> égouttés et dénoyautés. <operation temps=6.86min espace=15>versez la préparation dans un grand <recipient>plat</recipient> à <recipient>four</recipient> beurré</operation> et <operation temps=6.86min espace=15>enfournez 1 heure</operation>. vérifiez la cuisson en enfonçant la lame d’ un couteau, celle-ci doit <operation temps=6.86min espace=15>ressortir sèche</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16851">
+ <titre>Cake au reblochon rapide</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1/2 reblochon (gros format) </p>
+ <p>250 g de farine</p>
+ <p>10 cl de crème fraîche liquide</p>
+ <p>10 cl d’ huile</p>
+ <p>20 cl de vin blanc</p>
+ <p>100 grammes de noix</p>
+ <p>1 sachet de levure</p>
+ <p>3 oeufs</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger la farine, les 3 <ingredient quantite=3>oeufs</ingredient>, la <ingredient quantite=1>crème liquide</ingredient>, le <ingredient quantite=1>vin blanc</ingredient>, l’ <ingredient quantite=1>huile</ingredient>, la <ingredient quantite=1>levure</ingredient>, puis remuer de façon à <operation temps=8.0min espace=13>obtenir un mélange homogène</operation>. découper le demi-reblochon en dés et incorporer les dés au mélange, ainsi que les <ingredient quantite=1>noix</ingredient>. beurrer un <recipient>moule</recipient> et y verser le mélange. mettre au <recipient>four</recipient> pendant 50 mn à thermostat 7 (210 ° c). bien surveiller la cuisson (plus ou moins rapide, selon votre <recipient>four</recipient>). <operation temps=6.86min espace=13>servir avec une salade en <recipient>plat</recipient> principal</operation> ou découper en cubes et <operation temps=6.86min espace=13>servir en entrée</operation>.
+]]>
+ </preparation>
+</recette>

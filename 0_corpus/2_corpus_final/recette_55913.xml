@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55913">
+ <titre>Muffins allégés aux pépites de chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>210 g de farine</p>
+ <p>150 g de sucre</p>
+ <p>2 cuillères à café de levure</p>
+ <p>25 cl de lait écrémé</p>
+ <p>60 g de beurre fondu allégé</p>
+ <p>100 g de pépites de chocolat</p>
+ <p>1/2 cuillère à café d’ essence de vanille</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=8>mélangez la farine, la <ingredient quantite=2>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. dans un autre récipient <operation temps=6.86min espace=8>mélangez le beurre <ingredient quantite=1>fondu</ingredient>, le lait et la <ingredient quantite=1>vanille</ingredient></operation>. <operation temps=6.86min espace=8>creusez un puit dans la farine</operation> et <operation temps=6.86min espace=8>versez le lait et le beurre</operation>. mélangez, mais pas trop, il doit rester des grumeaux pour que ça gonfle bien! <operation temps=6.86min espace=8>incorporez les <ingredient quantite=1>pépites</ingredient></operation>. <operation temps=6.86min espace=8>beurrez 12 moules à muffins</operation> ou utilisez des moules en silicone. <operation temps=6.86min espace=8>remplissez les aux 3/4</operation> et <operation temps=20.0min espace=8>faites cuire 20 min environ</operation>. <operation temps=5.0min espace=8>dégustez</operation>!
+]]>
+ </preparation>
+</recette>

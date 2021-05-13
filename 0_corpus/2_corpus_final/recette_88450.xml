@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88450">
+ <titre>Ravioles au reblochon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>8 plaques de ravioles</p>
+ <p>3/4 d’ un reblochon</p>
+ <p>1 gousse d’ ail</p>
+ <p>5 cl de vin blanc</p>
+ <p>8 tranches de caillasse de Savoie (filet mignon de porc séché) </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>caillasse</ingredient> en petits dés. <operation temps=6.86min espace=10>faire cuire très rapidement les <ingredient quantite=8>ravioles</ingredient> dans de l’ eau comme</operation> indiqué sur l’ emballage. mélanger les <ingredient quantite=8>ravioles</ingredient> et la <ingredient quantite=1>caillasse</ingredient> dans un <recipient>plat</recipient> à gratin. retirer la croûte du <ingredient quantite=1>reblochon</ingredient> et la réserver. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire fondre le <ingredient quantite=1>reblochon</ingredient></operation> détaillé grossièrement avec le <ingredient quantite=1>vin blanc</ingredient> puis ajouter la gousse d’ <ingredient quantite=1>ail</ingredient> pressée et un peu de poivre du moulin. verser uniformément le fromage fondu sur les <ingredient quantite=8>ravioles</ingredient> et la <ingredient quantite=1>caillasse</ingredient>. <operation temps=6.86min espace=10>recouvrir ensuite le <recipient>plat</recipient> avec les croûtes de</operation> <ingredient quantite=1>reblochon</ingredient> et <operation temps=6.86min espace=10>faire gratiner sous le <recipient>gril</recipient> quelques minutes</operation>. a défaut de <ingredient quantite=1>caillasse</ingredient>, on peut utiliser du jambon cru ou même éventuellement du jambon cuit.
+]]>
+ </preparation>
+</recette>

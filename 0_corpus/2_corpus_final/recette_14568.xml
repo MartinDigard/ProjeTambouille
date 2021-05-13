@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14568">
+ <titre>Salade de penne au pesto</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de penne rigate</p>
+ <p>1 belle tomate</p>
+ <p>200 g de fèves fraîches (ou surgelées) </p>
+ <p>2 petits oignons blancs</p>
+ <p>1 bouquet de basilic</p>
+ <p>parmesan</p>
+ <p>Pour la sauce: </p>
+ <p>12 feuilles de basilic</p>
+ <p>1 cuillère à soupe de pignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 cuillère de vinaigre de vin</p>
+ <p>3 cuillère d’ huile d’ olive</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=10.0min espace=14>faites cuire les <ingredient quantite=1>fèves</ingredient> 5 à 10 mn à couvert dans de l’ eau bouillante</operation> salée. <operation temps=10.0min espace=14>egouttez</operation> - les et <operation temps=6.86min espace=14>laissez tièdir</operation> puis <operation temps=6.86min espace=14>otez leur fine peau</operation>. <operation temps=6.86min espace=14>faites la <ingredient quantite=1>sauce</ingredient> au pesto</operation>: mixez en purée les <ingredient quantite=1>feuilles de basilic</ingredient>, les <ingredient quantite=1>pignons</ingredient>, l’ <ingredient quantite=1>ail</ingredient>, l’ <ingredient quantite=3>huile</ingredient>, le <ingredient quantite=1>vinaigre</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre. ebouillantez et <operation temps=6.86min espace=14>pelez la</operation> <ingredient quantite=1>tomate</ingredient>, <operation temps=6.86min espace=14>épépinez - la</operation> et <operation temps=6.86min espace=14>taillez - la en dés</operation>. <operation temps=6.86min espace=14>pelez les <ingredient quantite=2>oignons</ingredient> et émincez - les</operation>. <operation temps=6.86min espace=14>faites cuire les pâtes selon votre goût</operation>. <operation temps=6.86min espace=14>rafraichissez - les</operation> et <operation temps=4.0min espace=14>égouttez - les</operation>. <operation temps=6.86min espace=14>versez - les dans un <recipient>saladier</recipient></operation>. <operation temps=6.86min espace=14>mélangez - y les <ingredient quantite=1>fèves</ingredient>, les dés de <ingredient quantite=1>tomate</ingredient> et les <ingredient quantite=2>oignons</ingredient></operation>. <operation temps=6.86min espace=14>arrosez de <ingredient quantite=1>sauce</ingredient></operation> pesto, parsemez de <ingredient quantite=1>feuilles de basilic</ingredient> et <operation temps=6.86min espace=14>saupoudrez de <ingredient quantite=1>parmesan</ingredient></operation>. si la <ingredient quantite=1>sauce</ingredient> est trop épaisse, <operation temps=6.86min espace=14>allongez - la avec un peu d’ eau</operation>.
+]]>
+ </preparation>
+</recette>

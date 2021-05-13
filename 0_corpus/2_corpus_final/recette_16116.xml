@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16116">
+ <titre>Bouillabaisse facile</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 pommes de terre</p>
+ <p>1 poireau ou des oignons</p>
+ <p>une boîte de pulpe de tomates</p>
+ <p>ail, safran, sel, poivre, huile d’ olives, vin blanc</p>
+ <p>4 filets de rascasses</p>
+ <p>500 g de moules</p>
+ <p>quelques gambas (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre au fond d’ une <recipient>cocotte</recipient> minute de l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olives</ingredient>, une couche de <ingredient quantite=6>pommes de terre</ingredient> coupées en lamelles, une couches de <ingredient quantite=1>poireau</ingredient> coupé en rondelles, une couche de <ingredient quantite=1>tomates</ingredient>, recommencer, <ingredient quantite=6>pommes de terre</ingredient>, <ingredient quantite=1>poireau</ingredient>, <ingredient quantite=1>tomates</ingredient>. couvrir aux trois quarts de <ingredient quantite=1>vin blanc</ingredient>, mettre la dosette de <ingredient quantite=1>safran</ingredient> et l’ <ingredient quantite=1>ail</ingredient> pressé. poser dessus les <ingredient quantite=4>filets</ingredient> de poissons, les <ingredient quantite=1>moules</ingredient> grattées et lavées, les <ingredient quantite=1>gambas</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. fermer la <recipient>cocotte</recipient>. quand elle siffle, <operation temps=15.0min espace=9>laisser cuire à feu doux 10 à 15 mn</operation>. <operation temps=6.86min espace=9>ouvrir, c’ est prêt et c’ est bon!! pas</operation> forcément la vraie bouillabaisse, mais nous avons toujours appelé cela comme ça. on peut préparer à l’ avance, c’ est encore meilleur, tout a plus de goût! un petit <ingredient quantite=1>blanc</ingredient> du sud
+]]>
+ </preparation>
+</recette>

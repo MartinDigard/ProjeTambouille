@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82028">
+ <titre>Soupe de tomates et courgettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 tomates moyennes</p>
+ <p>1 belle courgette</p>
+ <p>1 grosse pomme de terre</p>
+ <p>1 oignon</p>
+ <p>1 pincée d’ ail</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher la <ingredient quantite=1>courgette</ingredient> et la couper en morceau. couper en quartier et épépiner les <ingredient quantite=6>tomates</ingredient>. eplucher la <ingredient quantite=1>pomme de terre</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, puis, les couper en morceaux. prendre une grande <recipient>casserole</recipient>, mettre l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>. quand celle-ci est chaude, rissoler les légumes. assaisonner (<ingredient quantite=1>ail</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>). ajouter ensuite l’ équivalent de trois bols d’ eau et <operation temps=6.86min espace=8>laisser mijoter pendant une vingtaine de minutes</operation>. une fois les légumes cuits, mixer le tout. votre <ingredient quantite=1>soupe</ingredient> est prête à être déguster. agrémenter votre <ingredient quantite=1>soupe</ingredient> d’ emmental râpé ou de croutons frottés à l’ <ingredient quantite=1>ail</ingredient>.
+]]>
+ </preparation>
+</recette>

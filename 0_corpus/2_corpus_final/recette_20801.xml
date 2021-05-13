@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20801">
+ <titre>Oeuf à l’ omelette et oseille</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 oeufs</p>
+ <p>150 g d’ oseille</p>
+ <p>1 cuillère à soupe de lait</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver et hacher l’ oseille, la réserver. dans un <recipient>saladier</recipient>, battre les <ingredient quantite=8>oeufs</ingredient> avec le <ingredient quantite=1>lait</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre à l’ aide d’ une fourchette. <operation temps=6.86min espace=7>faire chauffer le beurre dans une <recipient>poêle</recipient></operation> et <operation temps=6.86min espace=7>faire fondre l’</operation> oseille pendant 5 min en remuant régulièrement. verser ensuite les <ingredient quantite=8>oeufs</ingredient> battus sur l’ <ingredient quantite=1>oseille</ingredient> et <operation temps=6.86min espace=7>laisser cuire l’</operation> omelette selon votre goût (baveuse ou ferme).
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62191">
+ <titre>Moelleux au chocolat au lait concentré</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>300 g de chocolat</p>
+ <p>150 g de lait concentré</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>5 oeufs </p>
+ <p>100 g de beurre</p>
+ <p>1 cuillère à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 140 ° c (thermostat 3 - 4). <operation temps=6.86min espace=9>faites fondre le beurre au <recipient>bain - marie</recipient> sur feu doux</operation>. lorsqu’ il est lisse, <operation temps=6.86min espace=9>ajoutez le beurre en dés</operation> et <operation temps=6.86min espace=9>mélangez pour l’</operation> incorporer au <ingredient quantite=1>chocolat</ingredient> et avoir une préparation homogène. <operation temps=0.25min espace=9>retirez du feu</operation>. <operation temps=6.86min espace=9>cassez les <ingredient quantite=5>oeufs</ingredient> en</operation> séparant les blancs des jaunes. <operation temps=6.86min espace=9>fouettez les jaunes avec le</operation> <ingredient quantite=1>sucre</ingredient>, <operation temps=6.86min espace=9>versez sur le</operation> <ingredient quantite=1>chocolat</ingredient> et <operation temps=6.86min espace=9>ajoutez le lait <ingredient quantite=1>concentré</ingredient></operation>. <operation temps=5.0min espace=9>mélangez</operation>. <operation temps=6.86min espace=9>montez les blancs d’ <ingredient quantite=5>oeufs</ingredient> en neige</operation>. <operation temps=6.86min espace=9>incorporez les blancs au mélange chocolaté</operation> et <operation temps=6.86min espace=9>ajoutez la farine</operation>. <operation temps=6.86min espace=9>beurrez un <recipient>moule</recipient></operation> puis <operation temps=6.86min espace=9>versez - y la préparation</operation>. <operation temps=6.86min espace=9>faites cuire 1 heure</operation>.
+]]>
+ </preparation>
+</recette>

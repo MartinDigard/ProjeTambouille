@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34143">
+ <titre>Poulet poêlé à l’ orientale (restes de poulet) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Les restes d’ un poulet rôti de 500 g (ce qui reste quand on à déjà fait un repas poulet à deux, en se servant chacun une cuisse et un morceau de blanc) </p>
+ <p>1 gros oignon jaune</p>
+ <p>3 cuillères à café de curry</p>
+ <p>3 cuillères à soupe de miel liquide dilué dans 6 cuillères à soupe d’ eau</p>
+ <p>50 g de raisins secs</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>20 g d’ amandes effilées</p>
+ <p>sel, poivre du moulin</p>
+ <p>coriandre ciselée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire gonfler les <ingredient quantite=1>raisins secs</ingredient> dans un petit bol d’ <ingredient quantite=3>eau</ingredient> tiède. pendant ce temps, racler la carcasse du <ingredient quantite=1>poulet</ingredient> et couper la viande en lamelles fines. mettre le <ingredient quantite=1>poulet</ingredient> dans un <recipient>saladier</recipient> avec le <ingredient quantite=3>curry</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre. mélanger et <operation temps=6.86min espace=13>laisser mariner</operation>. couper l’ <ingredient quantite=1>oignon</ingredient> en petits morceaux. <operation temps=6.86min espace=13>faire chauffer l’ <ingredient quantite=1>huile</ingredient> dans une <recipient>poêle</recipient> et y</operation> <operation temps=6.86min espace=13>faire blondir l’ <ingredient quantite=1>oignon</ingredient></operation>. ajouter le <ingredient quantite=3>miel</ingredient> dilué puis les morceaux de <ingredient quantite=1>poulet</ingredient>. egoutter les <ingredient quantite=1>raisins secs</ingredient> et les ajouter dans la <recipient>poêle</recipient>. <operation temps=6.86min espace=13>laisser dorer le tout quelques minutes en</operation> remuant. en fin de cuisson, saupoudrer de <ingredient quantite=1>coriandre</ingredient> et rectifier l’ assaisonnement. servir parsemé d’ <ingredient quantite=1>amandes effilées</ingredient>. on peut <operation temps=6.86min espace=13>servir ce <recipient>plat</recipient> avec une semoule à l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39526">
+ <titre>Thon Mariné des Iles</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de thon frais</p>
+ <p>150 ml de lait de coco</p>
+ <p>1 citron vert (lime) </p>
+ <p>1 petit morceau de gingembre frais</p>
+ <p>1 oignon frais</p>
+ <p>1 bouquet de coriandre</p>
+ <p>2 pincées de sel</p>
+ <p>Tabasco</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+presser le <ingredient quantite=1>citron vert</ingredient>, et dissoudre le <ingredient quantite=2>sel</ingredient> dans le jus de <ingredient quantite=1>citron</ingredient>. ajouter 3 giclées de <ingredient quantite=1>tabasco</ingredient>. pour la marinade: hacher finement les <ingredient quantite=1>oignons frais</ingredient>, la <ingredient quantite=1>coriandre</ingredient>, et le <ingredient quantite=1>gingembre</ingredient>. le tout, doit être très finement haché, en particulier le <ingredient quantite=1>gingembre</ingredient>. mélanger le tout et <operation temps=45.0min espace=9>laisser reposer</operation>. pendant ce temps, couper le <ingredient quantite=1>thon</ingredient> en cubes, et disposer dans 2 assiettes à soupe. ajouter le lait de <ingredient quantite=1>coco</ingredient>. et mélanger. arroser les deux assiettes, avec les cubes de <ingredient quantite=1>thon</ingredient>. et <operation temps=6.86min espace=9>recouvrir avec la marinade</operation>. déguster, 20 minutes plus tard. c’ est assez extrême... je suggère d’ accompagner ce <recipient>plat</recipient>, avec une salade <ingredient quantite=1>verte</ingredient>, et une sauce: <ingredient quantite=1>citron vert</ingredient>, <ingredient quantite=2>sel</ingredient>, <ingredient quantite=1>tabasco</ingredient> et mayonnaise. <operation temps=6.86min espace=9>servir avec du riz blanc</operation>. bourgogne blanc
+]]>
+ </preparation>
+</recette>

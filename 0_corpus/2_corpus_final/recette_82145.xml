@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82145">
+ <titre>Muffins de Béa</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>130 g de beurre</p>
+ <p>2 oeufs</p>
+ <p>180 g de sucre en poudre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>100 g de farine</p>
+ <p>1/2 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=1.0min espace=8>faites fondre le beurre</operation>. battez les <ingredient quantite=2>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sucre</ingredient> vanillé. <operation temps=6.86min espace=8>ajoutez le beurre fondu, puis la farine</operation> tamisée en pluie et <operation temps=6.86min espace=8>ajoutez la <ingredient quantite=1>levure</ingredient></operation>. <operation temps=6.86min espace=8>remplissez au 3/4 les moules à muffins</operation>. <operation temps=20.0min espace=8>laissez cuire entre 15 et 20 minutes à 180 ° c (thermostat 6) en fonction du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

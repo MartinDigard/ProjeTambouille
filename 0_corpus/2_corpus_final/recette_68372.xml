@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68372">
+ <titre>Rognons d’ agneau en brochette au barbecue</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 rognons d’ agneau frais</p>
+ <p>12 beaux champignons de paris</p>
+ <p>1 cuillère à soupe d’ huile olive</p>
+ <p>poivre et sel</p>
+ <p>2 cuillère à soupe d’ eau</p>
+ <p>2 cuillère à soupe de miel</p>
+ <p>1 cuilère à soupe de moutarde</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+allumer votre <recipient>barbecue</recipient>. si vous voulez une sauce mélanger le <ingredient quantite=2>miel</ingredient>, la <ingredient quantite=1>moutarde</ingredient>, l’ <ingredient quantite=2>eau</ingredient>. couper des rognons et les <ingredient quantite=1>champignons</ingredient> en deux. badigeonner les <ingredient quantite=1>champignons</ingredient> de l’ huile sur la face coupée. enfiller sur les brochettes les 1/2 rognons et <ingredient quantite=1>champignons</ingredient> sur les baguettes. poser les brochettes sur braises fortes à 10 cm pour 5 mm, face coupées vers le haut. vérifier que ça ne brûle pas. retourner les brochettes 15 secondes sur les faces coupées avant de retirer du feu. <operation temps=0.5min espace=8>poivrez</operation>, <operation temps=0.25min espace=8>salez</operation>, présenter de suite avec la sauce. accompagnement: salade verte ou mixte. vin: un rouge (gaillac ou bourgogne)
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20575">
+ <titre>Cake café et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de biscuits à la cuillère</p>
+ <p>130 g de sucre en poudre</p>
+ <p>200 g de beurre ramolli</p>
+ <p>5 jaunes d’ oeufs</p>
+ <p>30 cl de café fort</p>
+ <p>5 gouttes d’ extrait de café</p>
+ <p>200 g de chocolat noir à dessert </p>
+ <p>4 cuillères à soupe de lait</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+" a <operation temps=6.86min espace=12>faire la veille</operation> ". le gâteau: ecrasez les biscuits à <ingredient quantite=1>la cuillère</ingredient> et passez - les au mixer. <operation temps=6.86min espace=12>mélangez la <ingredient quantite=1>poudre</ingredient></operation> obtenue avec le <ingredient quantite=1>sucre</ingredient> et le beurre <ingredient quantite=1>ramolli</ingredient> de façon à <operation temps=8.0min espace=12>obtenir une pâte homogène</operation>. ajoutez 3 <ingredient quantite=5>jaunes</ingredient> d’ <ingredient quantite=5>oeufs</ingredient>, le <ingredient quantite=1>café</ingredient> et l’ <ingredient quantite=1>extrait de café</ingredient>. <operation temps=6.86min espace=12>tapissez un <recipient>moule</recipient> à cake avec du papier aluminium</operation> et <operation temps=6.86min espace=12>versez - y la préparation</operation>. <operation temps=6.86min espace=12>mettez au <recipient>réfrigérateur</recipient> au moins 24 h</operation>. " a <operation temps=6.86min espace=12>faire le jour même</operation> ". <operation temps=6.86min espace=12>démoulez sur un <recipient>plat</recipient> à cake</operation> et <operation temps=6.86min espace=12>procédez au glaçage</operation>. faites fondre la tablette de <ingredient quantite=1>chocolat noir à dessert</ingredient> avec 4 <ingredient quantite=1>cuillères à soupe de lait</ingredient> puis <operation temps=6.86min espace=12>ajoutez 2 <ingredient quantite=5>jaunes</ingredient> d’ <ingredient quantite=5>oeufs</ingredient></operation>. lorsque le glaçage est bien froid, <operation temps=6.86min espace=12>saupoudrez de <ingredient quantite=1>sucre</ingredient> glace</operation>. cette recette facile à réaliser ravira tous ceux qui aiment la délicieuse harmonie <ingredient quantite=1>café</ingredient> / <ingredient quantite=1>chocolat</ingredient>. champagne ou bordeaux moelleux
+]]>
+ </preparation>
+</recette>

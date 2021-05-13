@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25036">
+ <titre>Poêlée de choux de Bruxelles aux marrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de choux de Bruxelles</p>
+ <p>250 g de marrons cuits</p>
+ <p>50 cl de bouillon</p>
+ <p>75 g de poitrine fumée</p>
+ <p>1 échalote</p>
+ <p>1/2 bouquet de persil</p>
+ <p>10 g de beurre</p>
+ <p>sel, poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+inciser en croix le pied des <ingredient quantite=1>choux</ingredient> et les mettre à cuire 15 minutes dans le <ingredient quantite=1>bouillon</ingredient>. hacher l’ <ingredient quantite=1>échalote</ingredient> avec le <ingredient quantite=1>persil</ingredient>. détailler le lard en lardons, le <operation temps=6.86min espace=10>faire revenir à la <recipient>poêle</recipient> avec le beurre, le <ingredient quantite=1>persil</ingredient> et les <ingredient quantite=1>échalotes</ingredient></operation>. incorporer ensuite les <ingredient quantite=1>marrons</ingredient> et bien remuer de façon à ce qu’ ils soient bien dorés. ajouter enfin les <ingredient quantite=1>choux de bruxelles</ingredient> et <operation temps=5.0min espace=10>laisser mijoter 5 minutes à feu vif sans</operation> cesser de remuer. <operation temps=6.86min espace=10>servir dans un <recipient>plat</recipient> de service chaud</operation> et déguster.
+]]>
+ </preparation>
+</recette>

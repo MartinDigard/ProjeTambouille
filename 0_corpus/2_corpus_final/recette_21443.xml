@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21443">
+ <titre>Tarte saumon brocolis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>du saumon fumé (environ 4 tranches) </p>
+ <p>des brocolis (environ 500 g) </p>
+ <p>de la crème fraîche (20 cl) </p>
+ <p>3 oeufs</p>
+ <p>de l’ aneth</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient>moule</recipient>. <operation temps=6.86min espace=10>recouvrir des tranches de <ingredient quantite=1>saumon</ingredient></operation>. pendant ce temps, <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=1>brocolis</ingredient> à la <recipient>cocotte</recipient> (c’ est plus rapide: je</operation> mets 5 min quand ça tourne). quand ils sont cuits, les étaler sur le <ingredient quantite=1>saumon</ingredient>. mélanger la <ingredient quantite=1>crème</ingredient> et les <ingredient quantite=3>oeufs</ingredient> puis le <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>aneth</ingredient>. <operation temps=6.86min espace=10>recouvrir les <ingredient quantite=1>brocolis</ingredient> de ce mélange</operation>. mettre à <recipient>four</recipient> chaud (180 ° c) 30 min.
+]]>
+ </preparation>
+</recette>

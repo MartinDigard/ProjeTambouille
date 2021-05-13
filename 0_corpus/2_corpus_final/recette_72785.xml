@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72785">
+ <titre>Salade de vincent</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 salade</p>
+ <p>1 blanc de poulet</p>
+ <p>1 avocat</p>
+ <p>50 g de farfalles (pour une personne) </p>
+ <p>2 tranches de pain grillés</p>
+ <p>25 g de beurre</p>
+ <p>1 cuillère à soupe d’ épices créoles (colombo) </p>
+ <p>50 g de graines de sésame</p>
+ <p>Pour la sauce: </p>
+ <p>1 cuillère à soupe de vinaigre balsamique</p>
+ <p>3 cuillères à soupe d’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+- <operation temps=6.86min espace=14>faire cuire les <ingredient quantite=1>farfalles</ingredient> comme</operation> indiqué sur le paquet. couper les <ingredient quantite=1>blancs de poulet</ingredient> en morceaux et les <operation temps=6.86min espace=14>faire revenir dans un peu d’ <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient></operation>. saler et poivrer. réserver. couper les <ingredient quantite=2>tranches de pain</ingredient> grillées en petits morceaux et les <operation temps=6.86min espace=14>faire revenir à la <recipient>poêle</recipient> dans un bon morceau de beurre</operation>. mélanger les <ingredient quantite=1>farfalles</ingredient>, le <ingredient quantite=1>poulet</ingredient>, les morceaux de <ingredient quantite=2>pain</ingredient> grillés dans un <recipient>saladier</recipient>. y ajouter deux <ingredient quantite=1>cuillères</ingredient> de colombo et <operation temps=6.86min espace=14>laisser refroidir un peu</operation>. ajouter l’ <ingredient quantite=1>avocat</ingredient> coupé en morceaux, la <ingredient quantite=1>salade</ingredient> et des <ingredient quantite=1>graines de sésame</ingredient>. préparer la <ingredient quantite=1>sauce</ingredient> au <ingredient quantite=1>vinaigre balsamique</ingredient> et <ingredient quantite=3>huile</ingredient> d’ <ingredient quantite=3>olive</ingredient>. <operation temps=2.0min espace=14>servir</operation>!
+]]>
+ </preparation>
+</recette>

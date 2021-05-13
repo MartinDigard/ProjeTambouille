@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54301">
+ <titre>Pâtes d’ ours (biscuit) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de sucre</p>
+ <p>125 g de chocolat râpé</p>
+ <p>2 oeufs</p>
+ <p>250 g d’ amandes en poudre</p>
+ <p>1 cuillère à café de cannelle (10 g) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>blanchir les <ingredient quantite=2>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. ajouter les <ingredient quantite=1>amandes</ingredient>, la <ingredient quantite=1>cannelle</ingredient> et mélanger à l’ aide d’ une fourchette. incorporer le <ingredient quantite=1>chocolat râpé</ingredient>. mettre la pâte au frais dans un papier aluminium pendant 1 nuit. a l’ aide des doigts former de petit tas et les poser sur du papier sulfurisé. cuire 15 min à 180 ° c (thermostat 6). a la sortie du <recipient>four</recipient> les biscuits n’ ont pas l’ <operation temps=6.86min espace=6>air suffisament cuits, mais il</operation> faut attendre qu’ ils refroidissent.
+]]>
+ </preparation>
+</recette>

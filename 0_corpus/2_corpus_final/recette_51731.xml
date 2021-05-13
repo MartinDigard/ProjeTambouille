@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51731">
+ <titre>Sandre en papillotes de lard sauce vin rouge</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>3 tranches de sandre (3x120g) </p>
+ <p>1 échalote</p>
+ <p>2x10 cl de vin rouge léger (Bourgogne Pinot Noir) </p>
+ <p>10 cl de court-bouillon de poisson</p>
+ <p>10 cl de crème fleurette</p>
+ <p>80 g de beurre</p>
+ <p>6 tranches fines de lard fumé</p>
+ <p>thym</p>
+ <p>laurier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+le <ingredient quantite=1>poisson</ingredient>: poser sur chaque <ingredient quantite=3>tranche de sandre</ingredient> une feuille de <ingredient quantite=1>laurier</ingredient> puis une branche de <ingredient quantite=1>thym</ingredient>. enrouler le tout dans les <ingredient quantite=3>tranches de lard</ingredient> (2 par <ingredient quantite=3>sandre</ingredient>) comme une papillote. les mettre dans un <recipient>plat</recipient> allant au <recipient>four</recipient> avec 10 cl de <ingredient quantite=1>vin</ingredient> et <operation temps=6.86min espace=11>recouvrir d’ un feuille d’ aluminium</operation>. <operation temps=15.0min espace=11>faire cuire 15 min à 200 ° c</operation>. la sauce: emincer l’ <ingredient quantite=1>échalote</ingredient> puis la <operation temps=6.86min espace=11>faire réduire de moitié dans 10 cl de <ingredient quantite=1>vin</ingredient> en</operation> remuant. ajouter les 10 cl de bouillon et <operation temps=6.86min espace=11>faire reduire encore de</operation> moitié toujours en remuant. ajouter les 10 cl de <ingredient quantite=1>crème fleurette</ingredient>, remuer, puis ajouter le beurre coupé en petits morceaux. ne pas trop chauffer pour que le beurre ne se délite pas. bourgone pinot noir
+]]>
+ </preparation>
+</recette>

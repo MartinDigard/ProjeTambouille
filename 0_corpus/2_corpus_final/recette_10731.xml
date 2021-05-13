@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10731">
+ <titre>Pintadeau aux petits pois</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pintadeau</p>
+ <p>200 g de lard fumé coupé en lardons</p>
+ <p>800 g de petits pois extra fins</p>
+ <p>5 grosses échalotes ou 20 petits oignons blancs</p>
+ <p>1 litre de bouillon de volaille</p>
+ <p>15 cl de cognac</p>
+ <p>1 bouquet de thym</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=2.0min espace=9>faire dorer les <ingredient quantite=1>lardons</ingredient> 2 min</operation>. ensuite ajouter le <ingredient quantite=1>pintadeau</ingredient> et le <operation temps=6.86min espace=9>faire dorer sous toutes les faces en n’</operation> oubliant pas de poivrer chaque côté. verser le <ingredient quantite=1>cognac</ingredient> et flamber en arrosant le <ingredient quantite=1>pintadeau</ingredient> (cela aura pour résultat de bien ôter toutes les plumes restantes). ajouter les <ingredient quantite=5>échalotes</ingredient> ou les <ingredient quantite=1>petits oignons</ingredient> et verser le <ingredient quantite=1>bouillon</ingredient> et ajouter le <ingredient quantite=1>thym</ingredient>. <operation temps=40.0min espace=9>laisser cuire 40 min à feu doux ou moins si vous</operation> aimez la viande plus ferme. ajouter les <ingredient quantite=1>petits pois</ingredient> raviver le feu, à la reprise de l’ ébullition, diminuer le feu et compter encore 10 min de cuisson. <operation temps=6.86min espace=9>sortir le <ingredient quantite=1>pintadeau</ingredient> pour le</operation> découper. <operation temps=6.86min espace=9>sortir les autres ingrédients</operation> et <operation temps=6.86min espace=9>laisser réduire la sauce à feu vif, lier si nécessaire avec un peu de fécule de maïs</operation>. remettre tous les ingrédients dans la <recipient>casserole</recipient> et servir avec des croquettes de pommes de terre. j’ attend vos suggestions
+]]>
+ </preparation>
+</recette>

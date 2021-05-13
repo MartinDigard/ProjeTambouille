@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51081">
+ <titre>Massala de légumes en chaussons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée</p>
+ <p>1 grosse carotte</p>
+ <p>1 petite aubergine</p>
+ <p>1 petite courgette</p>
+ <p>1 échalote</p>
+ <p>3 poivrons (1 rouge, 1 vert, 1 jaune) </p>
+ <p>mélange d’ épices Massala</p>
+ <p>sel, poivre</p>
+ <p>20 cl de béchamel épaisse</p>
+ <p>1 cuillère à café de concentré de tomate</p>
+ <p>huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélangez la <ingredient quantite=1>béchamel</ingredient> avec le <ingredient quantite=1>concentré de tomate</ingredient> et une <ingredient quantite=1>cuillère à café</ingredient> de massala. <operation temps=6.86min espace=13>râpez grossièrement la <ingredient quantite=1>carotte</ingredient> et la</operation> <ingredient quantite=1>courgette</ingredient>, <operation temps=6.86min espace=13>coupez l’ <ingredient quantite=1>aubergine</ingredient> en lamelles et les <ingredient quantite=3>poivrons</ingredient> en dés</operation>. <operation temps=6.86min espace=13>faites revenir l’ <ingredient quantite=1>échalote</ingredient></operation> émincée dans l’ huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=13>ajoutez - y les légumes</operation> et <operation temps=6.86min espace=13>assaisonnez de massala, de <ingredient quantite=1>sel</ingredient> et de poivre</operation> puis <operation temps=6.86min espace=13>laissez réduire</operation>. préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). hors du feu, <operation temps=6.86min espace=13>mélangez les légumes et la <ingredient quantite=1>béchamel</ingredient></operation>. coupez la <ingredient quantite=1>pâte feuilletée</ingredient> en deux. disposez la préparation sur 1/4 de la <ingredient quantite=1>pâte</ingredient> et <operation temps=6.86min espace=13>fermez en chausson</operation>. <operation temps=15.0min espace=13>mettez au <recipient>four</recipient> pendant 15 minutes</operation> et <operation temps=2.0min espace=13>servez</operation> chaud. on peut aussi <operation temps=6.86min espace=13>faire 4 <ingredient quantite=1>petits</ingredient> chaussons pour une entrée chaude <ingredient quantite=1>massala</ingredient>: coriandre, cumin, moutarde</operation>, curcuma, girolfe, piment...
+]]>
+ </preparation>
+</recette>

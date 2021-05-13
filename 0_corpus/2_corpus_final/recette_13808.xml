@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13808">
+ <titre>Banane caramélisée</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 banane</p>
+ <p>un peu de beurre</p>
+ <p>1 jus de citron</p>
+ <p>30 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper la <ingredient quantite=1>banane</ingredient> en 2 dans le sens de la longueur, <operation temps=6.86min espace=7>faire fondre le <ingredient quantite=1>beurre</ingredient> dans la <recipient>poêle</recipient></operation>, diposer les 2 tranches de <ingredient quantite=1>banane</ingredient> à <recipient>plat</recipient>. saupoudrer de <ingredient quantite=1>sucre</ingredient>, ajouter le <ingredient quantite=1>jus de citron</ingredient>, puis <operation temps=6.86min espace=7>faire cuire au <recipient>four</recipient> (180 ° c) jusqu’ à ce que la <ingredient quantite=1>banane</ingredient> caramélise</operation> et devienne molle.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69789">
+ <titre>Crème dessert aux marrons</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 cl de lait</p>
+ <p>80 à 100 g de crème de marrons (selon les goûts) </p>
+ <p>50 g de sucre</p>
+ <p>20 g de maïzena</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, verser la <ingredient quantite=1>maïzena</ingredient>, le <ingredient quantite=1>sucre</ingredient> puis la crème de <ingredient quantite=1>marrons</ingredient>. bien mélanger ces ingrédients pour en <operation temps=6.86min espace=6>faire une pâte</operation>. ajouter le lait froid petit à petit en remuant. <operation temps=6.86min espace=6>faire chauffer le tout en</operation> remuant constamment. dès que les premières bulles apparaissent, et sans attendre que la <ingredient quantite=1>crème</ingredient> ne s’ épaississe de trop, retirer du feu. verser dans les ramequins. <operation temps=20.0min espace=6>laisser refroidir</operation> et placer 1 heure au <recipient>réfrigérateur</recipient> avant de consommer. ajouter selon les plaisirs, des copeaux de chocolat blanc ou de poudre de noisette pour décorer.
+]]>
+ </preparation>
+</recette>

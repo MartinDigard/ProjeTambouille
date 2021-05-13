@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15662">
+ <titre>Moelleux aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 cuillères à soupe de farine</p>
+ <p>8 cuillères à soupe de sucre semoule</p>
+ <p>3 cuillères à soupe de lait</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>2 paquets de sucre vanillé</p>
+ <p>1/2 paquet de levure</p>
+ <p>2 œufs</p>
+ <p>le zeste d’ 1 citron</p>
+ <p>50 g de beurre</p>
+ <p>6 pommes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 210 ° c. mélanger dans une <recipient>terrine</recipient>, en respectant l’ ordre suivant: la farine, la moitié du <ingredient quantite=8>sucre vanillé</ingredient>, un <ingredient quantite=1>œuf</ingredient>, l’ <ingredient quantite=2>huile</ingredient>, le <ingredient quantite=3>lait</ingredient> et la <ingredient quantite=1>levure</ingredient>. laver et éplucher les <ingredient quantite=6>pommes</ingredient>. les couper en quatre et les épépiner, puis les disposer dans un <recipient>moule</recipient> beurré. <operation temps=6.86min espace=14>répartir la pâte sur les fruits</operation> et parsemer de quelques <ingredient quantite=1>zestes</ingredient> de <ingredient quantite=1>citron</ingredient> hachés. <operation temps=6.86min espace=14>faire cuire le gâteau une vingtaine de minutes environ</operation>. préparer la garniture: travailler ensemble l’ <ingredient quantite=1>œuf</ingredient>, le <ingredient quantite=8>sucre semoule</ingredient>, le beurre fondu et le <ingredient quantite=8>sucre</ingredient> vanillé. verser cette préparation sur le gâteau, puis le remettre au <recipient>four</recipient> et <operation temps=15.0min espace=14>laisser dorer le tout pendant 15 mn environ</operation>.
+]]>
+ </preparation>
+</recette>

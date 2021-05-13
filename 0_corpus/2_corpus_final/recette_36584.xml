@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36584">
+ <titre>Riz aux courgettes et à la feta</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 tomates</p>
+ <p>2 courgettes</p>
+ <p>150 g de riz cru</p>
+ <p>100 g de feta nature (ou plus selon les goûts) </p>
+ <p>huile d’ olive</p>
+ <p>1 oignon</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>faites cuire le <ingredient quantite=1>riz</ingredient> dans une <recipient>casserole</recipient> d’ eau bouillante</operation>. pendant ce temps, <operation temps=6.86min espace=10>coupez les <ingredient quantite=2>courgettes</ingredient> en rondelles (ne pas les</operation> <operation temps=6.86min espace=10>faire trop épaisses</operation>). <operation temps=6.86min espace=10>faites chauffer l’ huile d’ <ingredient quantite=1>olive</ingredient> dans une <recipient>sauteuse</recipient>, y</operation> jeter les <ingredient quantite=2>courgettes</ingredient>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. <operation temps=6.86min espace=10>laissez cuire environ 10</operation> mn. en fin de cuisson, ajouter les <ingredient quantite=2>tomates</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> coupés en cubes. <operation temps=3.0min espace=10>laisser cuire 3 min</operation>. egoutter le <ingredient quantite=1>riz</ingredient> et le verser dans la <recipient>sauteuse</recipient>. bien remuer. ajouter la <ingredient quantite=1>feta</ingredient> coupée en cubes. <operation temps=5.0min espace=10>laisser cuire 5 min</operation>. <operation temps=2.0min espace=10>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12496">
+ <titre>Sorbet à l’ avocat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 avocats mûrs</p>
+ <p>1 citron (jus) </p>
+ <p>1/2 orange non traitée (zeste) </p>
+ <p>100 g de sucre glace</p>
+ <p>100 g de crème fraîche épaisse</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper les <ingredient quantite=2>avocats</ingredient> en 2, retirer les noyaux avec la pointe d’ un couteau. les mixer avec le jus de <ingredient quantite=1>citron</ingredient>. incorporer le zeste de l’ <ingredient quantite=1>orange</ingredient> ainsi que le <ingredient quantite=1>sucre</ingredient> glace dans la préparation. ajouter la <ingredient quantite=1>crème</ingredient>. verser le tout dans un bac à <ingredient quantite=1>glace</ingredient> et mettre au <recipient>congélateur</recipient>. mélanger régulièrement à la fourchette, toutes les 1/2 h environ pour éviter la formation de petits cristaux de <ingredient quantite=1>glace</ingredient> (sauf si on utilise une <recipient>sorbetière</recipient>). <operation temps=6.86min espace=8>maintenir 3 h au <recipient>congélateur</recipient></operation>. vous pouvez décorer avec des quartiers d’ <ingredient quantite=1>oranges</ingredient> pelées à vif ou des écorces d’ <ingredient quantite=1>oranges</ingredient> confites.
+]]>
+ </preparation>
+</recette>

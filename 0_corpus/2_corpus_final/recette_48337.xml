@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48337">
+ <titre>Escargots en papillote</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>6 douzaines d’ escargots de Bourgogne égouttés</p>
+ <p>6 pommes de terre (moyennes à grosses) pelées, lavées et essuyées</p>
+ <p>2 cuillères à café d’ ail et persil hachés</p>
+ <p>2 cuillères à soupe d’ échalotes hachées</p>
+ <p>1 cuillère à café de thym (sommités) </p>
+ <p>160 g de beurre pommade</p>
+ <p>6 carrés de papier aluminium pour les papillotes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>répartir le beurre en</operation> " tartinant " les 6 <ingredient quantite=6>carrés de papier aluminium</ingredient> au centre. poser sur chaque <ingredient quantite=1>carré</ingredient> 12 <ingredient quantite=6>escargots</ingredient>, une <ingredient quantite=6>pomme de terre</ingredient> coupée en dés assez petits, et <operation temps=6.86min espace=9>répartir le mélange d’ herbes entre les <ingredient quantite=6>papillotes</ingredient></operation>. fermer les <ingredient quantite=6>papillotes</ingredient> hermétiquement et les placer dans le <recipient>four</recipient> à 250 ° c (thermostat 8) pendant 30 minutes en surveillant la cuisson de près. les <operation temps=5.0min espace=9>laisser reposer 5 minutes avant de</operation> <operation temps=2.0min espace=9>servir</operation>. déguster. tester la recette avant de la servir à vos invités, la durée de cuisson des <ingredient quantite=6>pommes de terre</ingredient> dépendant de leur type et aussi de votre <recipient>four</recipient>: elles doivent être bien cuites et même un peu grillées, c’ est meilleur on peut remplacer les <ingredient quantite=6>papillotes</ingredient> par de petites terrines fermées avec du <ingredient quantite=6>papier</ingredient> alu durant cuisson blanc de <ingredient quantite=1>bourgogne</ingredient>
+]]>
+ </preparation>
+</recette>

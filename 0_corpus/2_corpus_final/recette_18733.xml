@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18733">
+ <titre>Gâteau aux quatre parfums</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs</p>
+ <p>100 g d’ édulcorant</p>
+ <p>1 cuillère à soupe de miel</p>
+ <p>1/2 paquet de levure</p>
+ <p>4 cuillères à soupe de farine</p>
+ <p>500 ml de lait</p>
+ <p>1 cuillère à café d’ arôme d’ amandes amères</p>
+ <p>1 cuillère à café de fleur d’ oranger</p>
+ <p>1 à 2 cuillères à soupe de cacao en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=3>oeufs</ingredient> avec l’ <ingredient quantite=1>édulcorant</ingredient>, le <ingredient quantite=1>miel</ingredient>, la <ingredient quantite=1>levure</ingredient> et la farine. d’ autre part, faire bouillir le lait avec l’ <ingredient quantite=1>arôme</ingredient> d’ <ingredient quantite=1>amandes amères</ingredient>, l’ extrait de <ingredient quantite=1>fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient> et le <ingredient quantite=1>cacao</ingredient>. <operation temps=20.0min espace=10>laisser refroidir</operation> puis mélanger avec le mélange précédent. mettre au <recipient>four</recipient> à 180 ° c pendant 35 mn.
+]]>
+ </preparation>
+</recette>

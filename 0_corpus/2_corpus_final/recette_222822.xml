@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222822">
+ <titre>Gratin fondant de pomme de terre et courgette</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 courgettes</p>
+ <p>6 à 8 pommes de terres</p>
+ <p>50 g d’ emmental</p>
+ <p>50 cl de bouillon (bœuf ou volaille) </p>
+ <p>chapelure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). épluchez vos <ingredient quantite=6>pommes de terres</ingredient>, puis <operation temps=6.86min espace=9>coupez - les en petits dés d’ 1 cm de coté</operation>. même chose avec les <ingredient quantite=3>courgettes</ingredient>, <operation temps=6.86min espace=9>coupez - les en petits dés d’ 1 cm de coté</operation>. versez les <ingredient quantite=3>courgettes</ingredient> et les <ingredient quantite=6>pommes de terres</ingredient> dans un <recipient>plat</recipient> à gratin et <operation temps=5.0min espace=9>mélangez le tout</operation>. ensuite, <operation temps=6.86min espace=9>versez les 50 cl de <ingredient quantite=1>bouillon</ingredient> dans le <recipient>plat</recipient> en</operation> arrosant le mélange <ingredient quantite=6>pommes de terres</ingredient> - <ingredient quantite=3>courgettes</ingredient>. <operation temps=6.86min espace=9>râpez sur le dessus 50 g d’ <ingredient quantite=1>emmental</ingredient>, puis saupoudrez</operation> généreusement de <ingredient quantite=1>chapelure</ingredient>. mettre au <recipient>four</recipient> pendant 1 h.
+]]>
+ </preparation>
+</recette>

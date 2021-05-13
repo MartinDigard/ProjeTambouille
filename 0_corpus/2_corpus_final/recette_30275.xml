@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30275">
+ <titre>Carpaccio de saumon au poivre vert</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filet de saumon</p>
+ <p>6 brins d’ aneth</p>
+ <p>4 cuillères à soupe d’ huile d’ olive</p>
+ <p>2 cuillères à soupe de poivre vert</p>
+ <p>3 citrons verts</p>
+ <p>fleur de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+trancher le <ingredient quantite=1>saumon</ingredient> le plus fin possible avec un bon couteau. huiler un <recipient>plat</recipient>, saupoudrer le fond de <ingredient quantite=2>poivre</ingredient> concassé, <ingredient quantite=1>fleur de sel</ingredient> et arroser avec le jus d’ un <ingredient quantite=1>citron</ingredient>. disposer les tranches de <ingredient quantite=1>saumon</ingredient> dans le <recipient>plat</recipient> en les chevauchant légèrement. arroser du jus des <ingredient quantite=3>citrons</ingredient> restants et de l’ <ingredient quantite=4>huile</ingredient> d’ <ingredient quantite=4>olive</ingredient>. saupoudrer de <ingredient quantite=2>poivre</ingredient> concassé, <ingredient quantite=6>aneth</ingredient> hachée et <ingredient quantite=1>fleur de sel</ingredient> émiettée. <operation temps=20.0min espace=8>laissez mariner 20 minutes</operation> et <operation temps=6.86min espace=8>servez avec du pain grillé</operation>.
+]]>
+ </preparation>
+</recette>

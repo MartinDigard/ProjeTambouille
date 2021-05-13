@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60963">
+ <titre>Brioche aux mirabelles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>32 Mirabelles de Lorraine (ou 8 par personne) </p>
+ <p>4 petites brioches au sucre (en vente chez les boulangers) </p>
+ <p>1/2 l de sorbet à la mirabelle </p>
+ <p>2 cuillères à soupe de miel liquide toutes fleurs</p>
+ <p>30 cl de crème pâtissière</p>
+ <p>un petit verre d’ alcool de mirabelle</p>
+ <p>2 cuillères à soupe d’ amandes concassées grillée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>passez les <ingredient quantite=1>mirabelles</ingredient> sous l’ eau</operation>, <operation temps=6.86min espace=8>épongez - les</operation> et <operation temps=6.86min espace=8>dénoyautez - les</operation>. <operation temps=6.86min espace=8>faites - les</operation> <operation temps=6.86min espace=8>revenir dans une <recipient>poêle</recipient></operation>, arrosées de <ingredient quantite=2>miel</ingredient> pendant 15 min environ. préparez la <ingredient quantite=1>crème pâtissière</ingredient> en la parfumant avec un <ingredient quantite=1>petit verre</ingredient> d’ <ingredient quantite=1>alcool de mirabelle</ingredient>. coupez les <ingredient quantite=4>brioches</ingredient> en 2 et garnissez la moitié inférieure de chaque <ingredient quantite=1>brioche</ingredient> de <ingredient quantite=1>crème pâtissière</ingredient> parfumée. déposez dans le fond de 4 coupes en <ingredient quantite=1>verre</ingredient> une boule de <ingredient quantite=1>sorbet mirabelle</ingredient>, arrosez d’ <ingredient quantite=1>alcool de mirabelle</ingredient>, <operation temps=6.86min espace=8>posez la demie brioche garnie, répartissez les <ingredient quantite=1>mirabelles</ingredient> confites dessus sauf 4</operation>. <operation temps=6.86min espace=8>recouvrez avec la moitié restante de la</operation> <ingredient quantite=1>brioche</ingredient> et <operation temps=6.86min espace=8>posez une <ingredient quantite=1>mirabelle</ingredient> dessus</operation>. arrosez à nouveau d’ <ingredient quantite=1>alcool de mirabelle</ingredient> et parsemez d’ <ingredient quantite=2>amandes concassées grillées</ingredient>. <operation temps=2.0min espace=8>servez aussitôt</operation>!
+]]>
+ </preparation>
+</recette>

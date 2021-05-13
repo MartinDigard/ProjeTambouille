@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30065">
+ <titre>Mousse glacée à l’ abricot</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de coulis d’ abricots</p>
+ <p>1 jus de citron</p>
+ <p>100 g de sucre</p>
+ <p>3 blancs d’ oeufs</p>
+ <p>1 pincée de sel</p>
+ <p>quelques feuilles de menthe ou de basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>coulis</ingredient> d’ <ingredient quantite=1>abricot</ingredient> et le <ingredient quantite=1>jus de citron</ingredient>. réserver à température ambiante. préparer un sirop de <ingredient quantite=1>sucre</ingredient> en amenant à ébullition le <ingredient quantite=1>sucre</ingredient> et 1 cuillère d’ eau. <operation temps=10.0min espace=8>laisser cuire à frémissement 10 minutes afin que le sirop épaississe</operation>. monter les blancs en neige avec le <ingredient quantite=1>sel</ingredient>. lorsqu’ ils sont fermes, réduire la vitesse du robot ou du batteur et verser le sirop de <ingredient quantite=1>sucre</ingredient> en un mince filet sur le bord du bol (pas directement sur les blancs). stopper le robot et incorporer délicatement le <ingredient quantite=1>coulis</ingredient> d’ <ingredient quantite=1>abricot</ingredient> à l’ aide d’ une spatule ou d’ une cuillère en bois. <operation temps=6.86min espace=8>répartir la mousse dans un <recipient>plat</recipient> ou dans 6 coupes individuelles</operation>. placer au <recipient>congélateur</recipient> au moins 1 heure. <operation temps=6.86min espace=8>sortir les mousses du froid quelques minutes avant le service</operation> et décorer de <ingredient quantite=1>feuilles de menthe ou de basilic</ingredient>.
+]]>
+ </preparation>
+</recette>

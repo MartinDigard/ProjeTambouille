@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169901">
+ <titre>Fondant au chocolat et aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de chocolat noir</p>
+ <p>125 g de chocolat au lait</p>
+ <p>180 g de beurre</p>
+ <p>300 g de sucre</p>
+ <p>100 g de farine</p>
+ <p>6 oeufs moyens</p>
+ <p>30 noisettes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez votre <recipient>four</recipient> thermostat 6 - 7 (200 ° c). <operation temps=6.86min espace=10>faites fondre le beurre et les <ingredient quantite=1>chocolats</ingredient> dans une <recipient>casserole</recipient></operation>. <operation temps=5.0min espace=10>mélangez</operation> dans un <recipient>saladier</recipient> les <ingredient quantite=6>oeufs</ingredient>, le <ingredient quantite=1>sucre</ingredient> puis la farine</operation>. <operation temps=6.86min espace=10>versez le <ingredient quantite=1>chocolat</ingredient> fondu et les</operation> <ingredient quantite=1>noisettes</ingredient> et <operation temps=5.0min espace=10>mélangez</operation>. enfournez pendant 20 min (ou plus si vous le préférez moins fondant).
+]]>
+ </preparation>
+</recette>

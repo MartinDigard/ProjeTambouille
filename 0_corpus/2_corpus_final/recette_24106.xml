@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24106">
+ <titre>Oeufs pochés à la béchamel rose</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de crème fraîche</p>
+ <p>60 g de beurre</p>
+ <p>8 oeufs</p>
+ <p>150 g de concentré de tomate</p>
+ <p>30 cl de lait</p>
+ <p>1 cuillerée à soupe de farine</p>
+ <p>un peu de vinaigre</p>
+ <p>sel et poivre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plonger les <ingredient quantite=8>oeufs</ingredient> dans une <recipient>casserole</recipient> d’ eau frémissante vinaigrée et les <operation temps=3.0min espace=12>faire pocher 3 min</operation>. égoutter et <operation temps=20.0min espace=12>laisser refroidir</operation>. <operation temps=6.86min espace=12>faire fondre le beurre dans une <recipient>casserole</recipient> sans le</operation> colorer. hors du feu, ajouter la farine et <operation temps=6.86min espace=12>faire cuire à feu doux en</operation> fouettant sans cesse. incorporer le lait peu à peu tout en remuant, jusqu’ a épaississement de la sauce béchamel. incorporer la <ingredient quantite=1>crème fraîche</ingredient> et le concentré de <ingredient quantite=1>tomate</ingredient>. assaisonner et <operation temps=20.0min espace=12>laisser refroidir</operation>. placer les œufs sur un <recipient>plat</recipient> et <operation temps=6.86min espace=12>recouvrir de sauce</operation>. <operation temps=6.86min espace=12>laisser refroidir au <recipient>réfrigérateur</recipient> et servir</operation>.
+]]>
+ </preparation>
+</recette>

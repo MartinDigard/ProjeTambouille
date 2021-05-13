@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49985">
+ <titre>Gambas rôties à l’ ananas</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>16 gambas crues</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>2 cuillères à soupe de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+décongeler les <ingredient quantite=1>gambas</ingredient> la veille. préchauffer le grill du <recipient>four</recipient> à 180 ° c (thermostat 6). trancher les <ingredient quantite=1>gambas</ingredient> en deux, dans le sens de le longueur, et badigeonner la chair et la carapace avec l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>. les disposer dans un <recipient>plat</recipient> à gratin, côté carapace vers le haut, et les <operation temps=2.0min espace=7>faire griller 2 min</operation>. les retourner, et poursuivre la cuisson 3 min jusqu’ à ce qu’ elles deviennent rouges. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=7>faire fondre le</operation> <ingredient quantite=2>beurre</ingredient>, ajouter le <ingredient quantite=1>sucre</ingredient> et <operation temps=6.86min espace=7>faire rôtir les tranches d’ ananas</operation>. en fin de cuisson, saupoudrer de poivre et servir très chaud.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81441">
+ <titre>Tajine de poulet au citron et aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pilons de poulet ou 2 cuisses</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>1 oignon émincé</p>
+ <p>1 citron (jus) </p>
+ <p>12 olives noires dénoyautées</p>
+ <p>1 cuillère à café de miel</p>
+ <p>coriandre en poudre</p>
+ <p>Ras El Hanout</p>
+ <p>poudre de 4 épices</p>
+ <p>5 pommes de terre</p>
+ <p>huile d’ olive, sel, poivre 5 baies</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+eplucher et couper les <ingredient quantite=5>pommes de terre</ingredient> en 2 dans le sens de la longueur. dans la tajine, <operation temps=6.86min espace=11>faire chauffer l’ huile</operation> et <operation temps=6.86min espace=11>faire dorer les <ingredient quantite=1>oignons</ingredient> et le <ingredient quantite=4>poulet</ingredient> avec les <ingredient quantite=1>épices</ingredient></operation>. déglacer avec le jus de <ingredient quantite=1>citron</ingredient>. mettre le <ingredient quantite=1>cube de bouillon</ingredient> et le reste des ingrédients, puis <operation temps=2.0min espace=11>couvrir d’ eau</operation>. <operation temps=45.0min espace=11>laisser cuire à couvert sur feu doux pendant 45 minutes</operation> minimum (il faut que les <ingredient quantite=5>pommes de terre</ingredient> se découpent à la fourchette). nb: surveiller régulièrement pour que le fond n’ attache pas, si besoin rajouter de l’ eau.
+]]>
+ </preparation>
+</recette>

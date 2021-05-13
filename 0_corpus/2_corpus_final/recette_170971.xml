@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170971">
+ <titre>Lasagnes courgettes et tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 courgettes</p>
+ <p>500 g de viande hachée surgelée</p>
+ <p>50 cl de purée de tomates</p>
+ <p>des lasagnes</p>
+ <p>du curry</p>
+ <p>de l’ huile d’ olive</p>
+ <p>sel, poivre</p>
+ <p>du basilic</p>
+ <p>du parmesan</p>
+ <p>du gruyère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+éplucher les <ingredient quantite=3>courgettes</ingredient> et couper les en petits dés puis <operation temps=6.86min espace=13>faites les</operation> <operation temps=6.86min espace=13>revenir à l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> à feu doux</operation>. <operation temps=30.0min espace=13>laisser cuire environ 30 min</operation>, assaisonner en fin de cuisson et ajouter du <ingredient quantite=1>basilic</ingredient>. pendant ce temps, faire revenir la <ingredient quantite=1>viande hachée</ingredient> à l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et ajouter ensuite la <ingredient quantite=1>purée de tomates</ingredient> et le <ingredient quantite=1>curry</ingredient>. assaisonner ensuite à votre goût. <operation temps=6.86min espace=13>faire bouillir les <ingredient quantite=1>lasagnes</ingredient> afin de les précuire</operation>. alterner ensuite dans un <recipient>plat</recipient> allant au <recipient>four</recipient>: <ingredient quantite=1>lasagne</ingredient>, une couche de <ingredient quantite=1>viande hachée</ingredient> accompagnée de la <ingredient quantite=1>purée de tomates</ingredient>, <ingredient quantite=1>parmesan</ingredient>, lasagne, <ingredient quantite=3>courgettes</ingredient>, lasagne... terminer par une couche de <ingredient quantite=1>lasagne</ingredient>, un peu d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, du <ingredient quantite=1>gruyère</ingredient> et du <ingredient quantite=1>parmesan</ingredient>. <operation temps=50.0min espace=13>faire cuire 50 minutes dans un <recipient>four</recipient> préchauffé à 180 ° c (thermostat 6</operation>).
+]]>
+ </preparation>
+</recette>

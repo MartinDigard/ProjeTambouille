@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227980">
+ <titre>Lapin farci au four</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin entier vidé</p>
+ <p>1 bel oignon</p>
+ <p>4 tranches de lard</p>
+ <p>Quelques feuilles de persil</p>
+ <p>sel, poivre, curry, paprika</p>
+ <p>moutarde</p>
+ <p>10 cl de crème liquide</p>
+ <p>10 cl de vin blanc</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). pendant ce temps badigeonner généreusement l’ intérieur du <ingredient quantite=1>lapin</ingredient> avec de la <ingredient quantite=1>moutarde</ingredient>, puis farcir avec l’ <ingredient quantite=1>oignon</ingredient> grossièrement découpé, le <ingredient quantite=4>lard</ingredient> coupé en morceau, et un peu de <ingredient quantite=1>persil</ingredient> <recipient>plat</recipient> haché. saler, poivrer. refermer le <ingredient quantite=1>lapin</ingredient> (fil de cuisson ou cure dents). une fois le <ingredient quantite=1>lapin</ingredient> garni et refermé, badigeonner l’ extérieur du <ingredient quantite=1>lapin</ingredient> de <ingredient quantite=1>moutarde</ingredient>, saler, poivrer, un peu de <ingredient quantite=1>curry</ingredient> et de <ingredient quantite=1>paprika</ingredient>. mettre au <recipient>four</recipient> pendant environ 1h30 (selon la taille du <ingredient quantite=1>lapin</ingredient>). <operation temps=15.0min espace=11>faire dorer 15 min de chaque côté, ensuite l’</operation> arroser avec le <ingredient quantite=1>vin blanc</ingredient>, puis avec un peu d’ eau, retourner à mi cuisson. 5 min avant la fin de cuisson ajouter la <ingredient quantite=1>crème</ingredient>... servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43938">
+ <titre>Faisan au porto et aux chanterelles</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 poule faisane</p>
+ <p>500 g de chanterelles</p>
+ <p>20 cl de crème</p>
+ <p>2 échalotes</p>
+ <p>2 cuillères à soupe de persil</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>30 g de beurre</p>
+ <p>15 cl de porto rouge</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, <operation temps=6.86min espace=10>faire revenir, avec un peu d’ <ingredient quantite=2>huile</ingredient>, les <ingredient quantite=2>échalotes</ingredient></operation> coupées et émincées, et le <operation temps=6.86min espace=10>faisan coupé en quatre</operation>. ajouter le <ingredient quantite=1>porto</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre, et <operation temps=45.0min espace=10>laisser cuire 45 min à feu doux</operation>. <operation temps=5.0min espace=10>faire sauter les <ingredient quantite=1>chanterelles</ingredient> sur feu vif, avec un peu de beurre, durant 5 min</operation>. napper le <operation temps=6.86min espace=10>faisan de la</operation> <ingredient quantite=1>crème</ingredient>, portée à ébullition. ajouter les <ingredient quantite=1>chanterelles</ingredient>, et décorer d’ un brin de romarin. servir avec des tagliatelles.
+]]>
+ </preparation>
+</recette>

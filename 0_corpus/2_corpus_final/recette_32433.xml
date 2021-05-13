@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32433">
+ <titre>Gratin de riz au surimi</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>240 g de riz</p>
+ <p>12 bâtons de surimi</p>
+ <p>une petite boîte de tomates en cubes</p>
+ <p>gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire cuire le <ingredient quantite=1>riz</ingredient></operation>. pendant ce temps couper le <ingredient quantite=1>surimi</ingredient> en dés. un fois le <ingredient quantite=1>riz</ingredient> cuit le mélanger avec les <ingredient quantite=1>tomates</ingredient> et le <ingredient quantite=1>surimi</ingredient>. verser le tout dans un <recipient>plat</recipient>, parsemer de <ingredient quantite=1>gruyère râpé</ingredient>. <operation temps=6.86min espace=6>faire gratiner au <recipient>four</recipient> (th 7</operation>). recette qui n’ a rien d’ exceptionnel mais qui est très simple à <operation temps=6.86min espace=6>faire</operation>.
+]]>
+ </preparation>
+</recette>

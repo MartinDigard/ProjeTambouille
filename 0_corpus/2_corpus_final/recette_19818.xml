@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19818">
+ <titre>Feuilleté de saumon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de saumon sans peau et en filet, coupé en deux morceaux</p>
+ <p>25 g de beurre</p>
+ <p>2 tranches de lard, hachées</p>
+ <p>125 g de champignons hachés</p>
+ <p>125 g de fromage blanc velouté, avec ail et fines herbes</p>
+ <p>2 cuillères à soupe de lait</p>
+ <p>500 g de pâte feuilletée</p>
+ <p>oeuf battu pour dorer</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation> le <ingredient quantite=1>saumon</ingredient> des deux côtés</operation>. <operation temps=6.86min espace=11>faites fondre le beurre dans une <recipient>poêle</recipient></operation>, ajouter le <ingredient quantite=2>lard</ingredient> et faîtes <operation temps=5.0min espace=11>revenir 5 mn</operation>. <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=1>champignons</ingredient> pendant 2 mn, en</operation> remuant. incorporez le <ingredient quantite=1>fromage blanc</ingredient> et le <ingredient quantite=2>lait</ingredient>, <operation temps=0.25min espace=11>salez</operation>, <operation temps=0.5min espace=11>poivrez</operation>. retirer du feu et <operation temps=20.0min espace=11>laisser refroidir</operation>. 2) <operation temps=6.86min espace=11>etalez la <ingredient quantite=1>pâte</ingredient> feuilletée</operation>. mettre la <ingredient quantite=1>pâte</ingredient> sur une plaque beurrée et posez au centre un <ingredient quantite=1>filet</ingredient> de <ingredient quantite=1>saumon</ingredient>, côté dépecé vers le bas. enduisez le poisson de mélange au <ingredient quantite=1>fromage</ingredient>, puis poser le second <ingredient quantite=1>filet</ingredient> côté dépecé vers le haut. <ingredient quantite=1>dorer</ingredient> les bords de la <ingredient quantite=1>pâte</ingredient> avec un peu d’ <ingredient quantite=1>oeuf battu</ingredient>, <operation temps=6.86min espace=11>étalez la <ingredient quantite=1>pâte</ingredient> qui</operation> reste et <operation temps=6.86min espace=11>recouvrez le poisson</operation>. <operation temps=6.86min espace=11>egalisez les bords et pincez les pour</operation> souder. <ingredient quantite=1>dorez</ingredient> le dessus à l’ <ingredient quantite=1>oeuf battu</ingredient>. <operation temps=40.0min espace=11>faire cuire dans un <recipient>four</recipient> préchauffé à 200 ° c (th 6/7), pendant 35 - 40 mn</operation>. variante possible: avec 1 bar d’ un kilo. accompagnement chaud: asperges ou courgettes. accompagnement froid: salade verte. vin <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

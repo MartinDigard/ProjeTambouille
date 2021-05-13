@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63328">
+ <titre>Pichanade niçoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée ou feuilletée</p>
+ <p>1 courgette</p>
+ <p>1 aubergine</p>
+ <p>2 tomates</p>
+ <p>1 oignon</p>
+ <p>2 poivrons (jaunes) </p>
+ <p>5 olives noires</p>
+ <p>huile d’ olive</p>
+ <p>cury, cumin, sel, poivre</p>
+ <p>beurre pour le plat à tarte</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper les légumes en petits morceaux, les <operation temps=6.86min espace=12>faire revenir avec l’ huile d’ <ingredient quantite=1>olive</ingredient> et les épices jusqu’ à ce que les <ingredient quantite=2>poivrons</ingredient> soient " fondants ", ce qui</operation> prend environ 10 à 15 minutes. préchauffer le <recipient>four</recipient> à 210 ° c (thermostat 7). dérouler la <ingredient quantite=1>pâte</ingredient> dans le <ingredient quantite=1><recipient>plat</recipient></ingredient> préalablement beurré et la piquer à l’ aide d’ une fourchette. verser la préparation sur la <ingredient quantite=1>pâte</ingredient>, ajouter les <ingredient quantite=5>olives noires</ingredient> en décoration. enfourner et <operation temps=30.0min espace=12>laisser cuire pendant 20 à 30 minutes selon les fours</operation>.
+]]>
+ </preparation>
+</recette>

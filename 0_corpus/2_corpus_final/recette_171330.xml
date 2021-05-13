@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171330">
+ <titre>Pâte aux crevettes a la crème</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de pâtes </p>
+ <p>120 g de crevettes (roses de préférence) </p>
+ <p>2 tomates</p>
+ <p>1 bel oignon</p>
+ <p>4 à 5 cuillères à soupe de crème fraiche</p>
+ <p>persil </p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>faites revenir l’ <ingredient quantite=1>oignon</ingredient></operation> haché dans une <recipient>casserole</recipient> ou une <recipient>poêle</recipient>. pendant ce temps <operation temps=6.86min espace=11>faites cuire les <ingredient quantite=1>pâtes</ingredient>, une fois celle-ci cuites</operation>, <operation temps=6.86min espace=11>égouttez - les et rincez - les</operation>. quand les <ingredient quantite=1>oignons</ingredient> sont bien dorés, <operation temps=6.86min espace=11>ajoutez - y les</operation> <ingredient quantite=1>crevettes</ingredient>, <operation temps=5.0min espace=11>faites revenir 5 min</operation> puis <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=2>tomates</ingredient></operation> coupées en dés. <operation temps=5.0min espace=11>laissez mijoter le tout 5 min</operation> puis ajoutez la <ingredient quantite=4>crème fraiche</ingredient> puis <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>. <operation temps=6.86min espace=11>ajoutez la garniture aux</operation> <ingredient quantite=1>pâtes</ingredient> et <operation temps=5.0min espace=11>laissez mijoter 5 min (si le <recipient>plat</recipient> est trop sec vous</operation> pouvez ajouter de la <ingredient quantite=4>crème</ingredient> ou du lait). <operation temps=6.86min espace=11>servez chaud</operation> et <operation temps=6.86min espace=11>régalez vous</operation>!
+]]>
+ </preparation>
+</recette>

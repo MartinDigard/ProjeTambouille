@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42706">
+ <titre>Tartiflette de chou fleur au Saint-Marcellin</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 chou-fleur </p>
+ <p>1 Saint-Marcellin</p>
+ <p>50 g de gruyère râpé</p>
+ <p>1 oignon</p>
+ <p>100 g de lardon</p>
+ <p>20 cl de crème fraîche</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=1>chou-fleur</ingredient> en bouquet à la vapeur. <operation temps=6.86min espace=10>faire revenir les <ingredient quantite=1>lardons</ingredient> et l’ <ingredient quantite=1>oignon</ingredient></operation> émincé. dans un <recipient>plat</recipient> à gratin, disposer le <ingredient quantite=1>chou-fleur</ingredient>, les <ingredient quantite=1>lardons</ingredient> et l’ émincé d’ <ingredient quantite=1>oignon</ingredient> ; napper de la <ingredient quantite=1>crème fraîche</ingredient> et saler et poivrer à convenance. disposer sur le dessus du <recipient>plat</recipient> le <ingredient quantite=1>saint-marcellin</ingredient> coupé en lamelles, ainsi que les <ingredient quantite=1>gruyère râpé</ingredient> et quelques noisettes de beurre. passer au grill de 10 à 20 min, en fonction de la température du <ingredient quantite=1>chou-fleur</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38915">
+ <titre>Tarte épinard-brie de Sandy</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée, prête a l’ emploi</p>
+ <p>400 g d’ épinards en branches, surgelés</p>
+ <p>2 oignons</p>
+ <p>1 oeuf</p>
+ <p>15 cl de crème liquide</p>
+ <p>250 g de brie</p>
+ <p>Sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> thermostat 6. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>oignons</ingredient>,</operation> puis ajouter les <ingredient quantite=1>épinards</ingredient>. saler, poivrer et <operation temps=6.86min espace=11>laisser cuire quelque minutes</operation>. dans un bol, battre l’ <ingredient quantite=1>oeuf</ingredient> et la <ingredient quantite=1>crème</ingredient>. placer ensuite la <ingredient quantite=1>pâte</ingredient>, dans un <recipient><recipient>moule</recipient> à tarte</recipient>. retirer les <ingredient quantite=1>épinards</ingredient> du feu et y ajouter le mélange <ingredient quantite=1>oeuf</ingredient> - <ingredient quantite=1>crème</ingredient>. verser le tout sur la pate et <operation temps=6.86min espace=11>répartir le <ingredient quantite=1>brie</ingredient></operation> coupé en tranche. mettre au <recipient>four</recipient>, <operation temps=20.0min espace=11>laisser cuire pendant 20 min</operation>. a <operation temps=6.86min espace=11>servir chaud ou froid, selon les goûts</operation>. bon appétit!
+]]>
+ </preparation>
+</recette>

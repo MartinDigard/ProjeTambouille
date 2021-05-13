@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58938">
+ <titre>Tarte tomates mozzarella bacon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>500 g de tomates</p>
+ <p>300 g de mozzarella</p>
+ <p>150 g de bacon</p>
+ <p>3 oeufs</p>
+ <p>3 cuillères à soupe de crème fraîche épaisse</p>
+ <p>1 cuillère à soupe d’ origan</p>
+ <p>1 cuillère à soupe de basilic</p>
+ <p>moutarde</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6). <operation temps=6.86min espace=13>lavez les</operation> <ingredient quantite=1>tomates</ingredient> et <operation temps=6.86min espace=13>coupez les en tranches</operation>, <operation temps=0.25min espace=13>salez</operation> - les et <operation temps=6.86min espace=13>laissez - les</operation> égoutter sur une grille. <operation temps=6.86min espace=13>coupez la mozzarella en tranches et le <ingredient quantite=1>bacon</ingredient> en morceaux</operation>. <operation temps=6.86min espace=13>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation> et <operation temps=6.86min espace=13>enduisez le fond de tarte de <ingredient quantite=1>moutarde</ingredient></operation>. <operation temps=6.86min espace=13>recouvrez en</operation> alternant une tranche de <ingredient quantite=1>tomate</ingredient> et une tranche de mozzarella, puis « <operation temps=6.86min espace=13>saupoudrez » de <ingredient quantite=1>bacon</ingredient></operation>. mélangez la <ingredient quantite=3>crème fraîche</ingredient> avec les <ingredient quantite=3>oeufs</ingredient>, une <ingredient quantite=3>cuillère à soupe</ingredient> de <ingredient quantite=1>moutarde</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>origan</ingredient> et <ingredient quantite=1>basilic</ingredient> et <operation temps=6.86min espace=13>versez le mélange sur la préparation</operation>. un bandol rouge ou un rosé de provence
+]]>
+ </preparation>
+</recette>

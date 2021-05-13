@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68421">
+ <titre>Truite farcie à la danoise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 truites vidées</p>
+ <p>2 boules de mozzarella</p>
+ <p>2 oignons </p>
+ <p>200 g de lardons</p>
+ <p>5 champignons blancs</p>
+ <p>1 poivron rouge</p>
+ <p>1 citron</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>un verre de vin blanc</p>
+ <p>herbes de provence, romarin, curry</p>
+ <p>sel, poivre, laurier</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hâcher l’ <ingredient quantite=1>oignon</ingredient> et le <ingredient quantite=1>poivron</ingredient>. les <operation temps=6.86min espace=18>faire revenir à la <recipient>poêle</recipient></operation>. ajouter les <ingredient quantite=1>lardons</ingredient> (allumettes ou coupés en petits morceaux). couper les <ingredient quantite=5>champignons</ingredient> et la mozarella en tout petits morceaux dans un <recipient>saladier</recipient>. ajouter le mélange (<ingredient quantite=1>oignon</ingredient>, <ingredient quantite=1>poivron</ingredient>, <ingredient quantite=1>lardons</ingredient>) encore chaud, puis la <ingredient quantite=2>crème fraîche</ingredient> et enfin les <ingredient quantite=1>herbes</ingredient>. saler, poivrer. bien mélanger jusqu’ à ce que la mozarella soit fondue. la farce est prête. laver et égoutter les <ingredient quantite=4>truites</ingredient>. les farcir avec la préparation. fermer les <ingredient quantite=4>truites</ingredient> et les ficeler avec du fil alimentaire (ou fine bande de papier aluminium). disposer les <ingredient quantite=4>truites</ingredient> dans un <recipient>plat</recipient> à <recipient>four</recipient>, en les posant " sur le dos " afin que la farce ne sorte pas. mettre un fond de <ingredient quantite=1>vin blanc</ingredient> au fond du <recipient>plat</recipient>, et ajouter des rondelles d’ <ingredient quantite=1>oignon</ingredient> et de <ingredient quantite=1>citron</ingredient>. assaisonner à votre convenance avec des <ingredient quantite=1>herbes</ingredient> et le <ingredient quantite=1>laurier</ingredient>. placer dans le <recipient>four</recipient> préchauffé à 200 ° c (thermostat 6/7) et arroser régulièrement avec le jus de cuisson, pendant 40 minutes. servir accompagné de riz et éventuellement quelques lamelles de <ingredient quantite=5>champignons</ingredient>. <recipient>plat</recipient> fin mais très facile, concocté par des étudiants français au danemark, en manque de gastronomie française! <ingredient quantite=1>vin blanc</ingredient>
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32639">
+ <titre>Le gâteau au fromage blanc inratable</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de fromage blanc</p>
+ <p>120 g de sucre</p>
+ <p>40 cl de crème fraîche</p>
+ <p>4 oeufs</p>
+ <p>90 g de maïzena délayé dans un verre d’ eau</p>
+ <p>1 cuillère à café d’ extrait de vanille liquide</p>
+ <p>zeste d’ 1 citron lavé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>fromage blanc</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>crème</ingredient>, le jaune des 4 <ingredient quantite=4>oeufs</ingredient>, la <ingredient quantite=1>maïzena</ingredient> délayée, la <ingredient quantite=1>vanille</ingredient>, le <ingredient quantite=1>zeste</ingredient>. battre les <ingredient quantite=1>blancs</ingredient> en neige jusqu’ à ce qu’ ils soient fermes, puis y ajouter le mélange au <ingredient quantite=1>fromage blanc</ingredient> en soulevant délicatement. mettre dans un <recipient>moule</recipient>, enfourner th 5 pendant 1 heure à peu près (le centre doit être sec au couteau). <operation temps=6.86min espace=10>dégustez froid</operation> (mettre plusieurs heures au <recipient>réfrigérateur</recipient>). cette recette a l’ avantage de ne pas dégonfler au <operation temps=6.86min espace=10>sortir du <recipient>four</recipient>! c’ est inratable</operation>!
+]]>
+ </preparation>
+</recette>

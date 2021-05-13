@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15122">
+ <titre>Boeuf rendang de Sumatra</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>120 g de noix de coco râpée</p>
+ <p>1 tige de citronnelle</p>
+ <p>4 étoiles de badiane</p>
+ <p>2 clous de girofle</p>
+ <p>4 gousses de cardamome</p>
+ <p>600 g de boeuf à braiser (en petits morceaux) </p>
+ <p>5 cuillères à soupe d’ huile</p>
+ <p>1 cuillère à café de curcuma</p>
+ <p>2 cuillères à soupe de sauce soja</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>25 cl de lait de coco</p>
+ <p>1 bâton de cannelle (facultatif, certians n’ aiment pas ça!) </p>
+ <p>1 cuillère à soupe de jus de citron vert (ou de citron normal, à défaut) </p>
+ <p>1 cuillère à café de pulpe de tamarin (facultatif) Pour la pâte d’ épices: </p>
+ <p>2 tiges de citronnelle épluchées (dont on aura retiré les parties trop dures) et mixées</p>
+ <p>2 cm de racine de gingembre coupée très finement</p>
+ <p>3 échalotes épluchées</p>
+ <p>3 gousses d’ ail épluchées et dégermées</p>
+ <p>2 cm de racine de galanga coupée très finement (facultatif) </p>
+ <p>10 piments séchés réhydraté dans de l’ eau tiède</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la <ingredient quantite=1>pâte</ingredient> d’ épices en écrasant tous les ingrédients qui la composent au <recipient>mortier</recipient> (ou au <ingredient quantite=1>mixer</ingredient>!) avec un peu d’ <ingredient quantite=5>huile</ingredient>. <operation temps=6.86min espace=22>faire griller à</operation> sec la <ingredient quantite=1>noix de coco râpée</ingredient> à feu fort, en mélangeant en permanence, jusqu’ à ce qu’ elle brunisse, puis placer dans un <recipient>mortier</recipient> et écraser alors qu’ elle est encore chaude et croustillante. <operation temps=6.86min espace=22>faire chauffer l’ <ingredient quantite=5>huile</ingredient> à feu assez chaud,</operation> puis ajouter la <ingredient quantite=1>pâte</ingredient> d’ <ingredient quantite=1>épices</ingredient>, le <ingredient quantite=1>bâton de cannelle</ingredient>, les clous de <ingredient quantite=2>girofle</ingredient>, la <ingredient quantite=4>badiane</ingredient>, la <ingredient quantite=4>cardamome</ingredient>... puis <operation temps=6.86min espace=22>laissez frire 5 bonnes minutes, le temps que les <ingredient quantite=1>épices</ingredient> développement bien leurs arômes</operation>. ajouter le <ingredient quantite=1>boeuf</ingredient>, le lait de <ingredient quantite=1>coco</ingredient> et le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>tamarin</ingredient> (si vous en <operation temps=6.86min espace=22>avez sous la main</operation>). <operation temps=6.86min espace=22>réduisez le feu à feu doux</operation> et <operation temps=6.86min espace=22>laissez mijoter sans</operation> <operation temps=6.86min espace=22>couvrir (en</operation> mélangeant régulièrement) pendent environ 45 minutes. ajouter le <ingredient quantite=1>jus de citron</ingredient>, le curcuma, la <ingredient quantite=2>sauce soja</ingredient> et la <ingredient quantite=1>noix de coco râpée</ingredient> et grillée. <operation temps=6.86min espace=22>laisser mijoter une bonne heure: la viande</operation> doit être tendre et la <ingredient quantite=2>sauce</ingredient> doit s’ être presque entièrement désséchée. <operation temps=3.0min espace=22>servir avec du riz</operation>.
+]]>
+ </preparation>
+</recette>

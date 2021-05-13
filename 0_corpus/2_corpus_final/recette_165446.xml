@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165446">
+ <titre>Petits biscuits aux fruits secs et chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 tablette de chocolat noir</p>
+ <p>100 g de dattes dénoyautées et hachées</p>
+ <p>le jus d’ 1 orange</p>
+ <p>40 g de farine aux céréales</p>
+ <p>15 g de sucre brun</p>
+ <p>20 g de poudre d’ amandes</p>
+ <p>40 g de pistaches en morceaux</p>
+ <p>1 càc de sirop d’ érable</p>
+ <p>40 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=1>dattes</ingredient> dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>sirop</ingredient> d’ érable et 3 càs d’ eau. cuire pendant 3 mn et <operation temps=20.0min espace=12>laisser refroidir</operation>. préchauffer le <recipient>four</recipient> à 180 ° <operation temps=6.86min espace=12>coupez le beurre en <ingredient quantite=1>morceaux</ingredient> et le mélangez avec la farine</operation>. <operation temps=6.86min espace=12>ajoutez le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, le <ingredient quantite=1>jus</ingredient> d’ <ingredient quantite=1>orange</ingredient>, les <ingredient quantite=1>pistaches</ingredient> et les <ingredient quantite=1>dattes</ingredient> refroidies</operation>, <operation temps=6.86min espace=12>mélangez le tout à la main</operation>. <operation temps=6.86min espace=12>beurrez les petits moules ronds et déposez de petits tas en</operation> applatissant. cuire environ 12 mn. <operation temps=6.86min espace=12>faire fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation> et <operation temps=6.86min espace=12>nappez le dessus des petits biscuits</operation> et <operation temps=30.0min espace=12>mettez 30 mn environ au frais</operation>.
+]]>
+ </preparation>
+</recette>

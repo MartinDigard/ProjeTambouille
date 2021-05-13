@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228966">
+ <titre>Salade francfortoise</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 petites pommes de terre </p>
+ <p>8 saucisses de Francfort</p>
+ <p>4 œufs durs</p>
+ <p>100 g de cornichons </p>
+ <p>80 g de mayonnaise</p>
+ <p>160 g de yaourt nature</p>
+ <p>40 g de moutarde</p>
+ <p>1 laitue pour décorer</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faites cuire les <ingredient quantite=4>œufs</ingredient> pendant 10 min et les <ingredient quantite=1>pommes de terre</ingredient> pendant 15 min. <operation temps=20.0min espace=8>laissez refroidir</operation>. <operation temps=6.86min espace=8>coupez les <ingredient quantite=1>cornichons</ingredient> et les <ingredient quantite=8>saucisses</ingredient> en rondelles</operation>. <operation temps=6.86min espace=8>préparez l’</operation> assaisonnement: <operation temps=6.86min espace=8>mélangez <ingredient quantite=1>mayonnaise</ingredient>, <ingredient quantite=1>yaourt</ingredient> et <ingredient quantite=1>moutarde</ingredient></operation>. <operation temps=6.86min espace=8>préparez la salade</operation>: coupez les <ingredient quantite=1>pommes de terre</ingredient> en rondelles. <operation temps=0.5min espace=8>ajoutez</operation> - les aux <ingredient quantite=8>saucisses</ingredient> et au <ingredient quantite=1>cornichons</ingredient>. <operation temps=6.86min espace=8>versez la sauce <ingredient quantite=1>moutarde</ingredient> par dessus et mélangez</operation>. répartissez ce mélange dans les assiettes. <operation temps=6.86min espace=8>entourez de <ingredient quantite=1>laitue</ingredient> ciselée et d’ oeufs <ingredient quantite=4>durs</ingredient> en tranches</operation>.
+]]>
+ </preparation>
+</recette>

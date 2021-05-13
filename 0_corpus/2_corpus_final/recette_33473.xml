@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33473">
+ <titre>Soupe de poissons créole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de filet de saumon</p>
+ <p>200 g de loup ou lotte</p>
+ <p>24 crevettes</p>
+ <p>120 g de maïs</p>
+ <p>100 g de petits-pois</p>
+ <p>30 cl de coulis de tomate</p>
+ <p>1 litre de jus de légumes</p>
+ <p>50 cl d’ eau</p>
+ <p>2 oignons</p>
+ <p>4 gousses d’ ail</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>bouquet garni</p>
+ <p>bouquet de coriandre fraîche</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=15>coupez les <ingredient quantite=1>filets</ingredient> de poissons</operation>, <operation temps=6.86min espace=15>lavez</operation> et <operation temps=6.86min espace=15>épongez - les</operation>. mettre l’ <ingredient quantite=4>ail</ingredient> et les <ingredient quantite=2>oignons</ingredient> dans l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> puis <operation temps=6.86min espace=15>poudrez de <ingredient quantite=1>farine</ingredient></operation>. versez le <ingredient quantite=1>coulis de tomate</ingredient> et le <ingredient quantite=1>jus de légumes</ingredient>, <operation temps=6.86min espace=15>ajoutez 50 cl d’ <ingredient quantite=1>eau</ingredient></operation>. <operation temps=6.86min espace=15>assaisonnez de <ingredient quantite=1>sel</ingredient> et de poivre</operation>, <operation temps=15.0min espace=15>laissez mijotez 15 mn</operation>. <operation temps=6.86min espace=15>ajoutez les poissons et le <ingredient quantite=1>maïs</ingredient>, sans</operation> oublier les <ingredient quantite=1>petits-pois</ingredient>. <operation temps=12.0min espace=15>laissez cuire 10 à 12 mn</operation>. vérifiez vos poissons et parsemez de <ingredient quantite=1>coriandre fraîche</ingredient>. <operation temps=5.0min espace=15>dégustez</operation>! <operation temps=6.86min espace=15>epatez vos invités avec cette excellente <ingredient quantite=2>soupe</ingredient> très vite prête</operation>. proposez un peu de tabasco pour les amateurs de sensations fortes!! vin blanc, rosé
+]]>
+ </preparation>
+</recette>

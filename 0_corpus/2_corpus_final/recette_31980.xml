@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31980">
+ <titre>Poulet sucré salé au melon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 petit melon</p>
+ <p>2 tomates</p>
+ <p>8 petites pommes de terre nouvelles</p>
+ <p>1 concombre</p>
+ <p>1 poignée de raisins de corinthe (facultatif) </p>
+ <p>1 bloc de mozzarella (150 g) </p>
+ <p>400 g de blanc de poulet</p>
+ <p>ail, échalote, persil</p>
+ <p>huile d’ olive</p>
+ <p>poivre</p>
+ <p>4 cuillères à soupe de miel d’ acacia</p>
+ <p>jus d’ 1 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faire mariner (2h minimum) le <ingredient quantite=1>poulet</ingredient></operation> découpé en morceaux avec du <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient> et du <ingredient quantite=4>miel</ingredient>, puis le <operation temps=6.86min espace=16>faire cuire à feux vif dans une <recipient>poêle</recipient></operation>. réserver. dans la même <recipient>poêle</recipient> faire cuire les <ingredient quantite=8>pommes de terre</ingredient> sautées avec une <ingredient quantite=1>échalote</ingredient>, et les <ingredient quantite=2>tomates</ingredient> coupées en deux et parsemer d’ un mélange <ingredient quantite=1>persil</ingredient> + <ingredient quantite=1>ail</ingredient> + huile d’ <ingredient quantite=1>olive</ingredient>. <operation temps=6.86min espace=16>faire mariner (2h minimum) le <ingredient quantite=1>melon</ingredient> et le <ingredient quantite=1>concombre</ingredient> découpés avec du <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient> et du <ingredient quantite=4>miel</ingredient></operation>. <operation temps=10.0min espace=16>faire cuire à feux moyen le <ingredient quantite=1>melon</ingredient> et le <ingredient quantite=1>concombre</ingredient>, pendant 10 minutes environ (à part du <ingredient quantite=1>poulet</ingredient> et des autres légumes car ils</operation> rendent beaucoup de <ingredient quantite=1>jus</ingredient>). <operation temps=6.86min espace=16>faites réchauffer l’</operation> ensemble dans la grande <recipient>poêle</recipient> à feux doux et ajouter les tranches de <ingredient quantite=1>mozzarella</ingredient> qui doivent juste fondre (3 minutes environ). c’ est prêt! idéal en <recipient>plat</recipient> unique. tous les légumes cités ne sont pas essentiels. la combinaison’ centrale’ est <ingredient quantite=1>poulet</ingredient> + <ingredient quantite=1>melon</ingredient> + <ingredient quantite=1>concombre</ingredient> + mozzarela, le reste est facultatif.
+]]>
+ </preparation>
+</recette>

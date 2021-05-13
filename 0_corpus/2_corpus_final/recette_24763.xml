@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24763">
+ <titre>Côtes d’ agneau à la cannelle et au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de côtes d’ agneau</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de curry</p>
+ <p>2 clous de girofle broyés</p>
+ <p>20 g de beurre</p>
+ <p>2 cuillères à soupe d’ huile</p>
+ <p>50 cl de bouillon de boeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, mettre le beurre et l’ <ingredient quantite=2>huile</ingredient> et y <operation temps=6.86min espace=10>faire dorer <ingredient quantite=1>côtes</ingredient> d’ <ingredient quantite=1>agneau</ingredient></operation>. hacher les <ingredient quantite=2>oignons</ingredient> et les <ingredient quantite=2>gousses</ingredient> d’ <ingredient quantite=2>ail</ingredient> et les incorporer à la préparation. saupoudrer de <ingredient quantite=1>cannelle</ingredient>, de <ingredient quantite=1>curry</ingredient> et de <ingredient quantite=2>clous</ingredient> de girofle écrasés. assaisonner et <operation temps=6.86min espace=10>couvrir le tout de <ingredient quantite=1>bouillon</ingredient></operation>. <operation temps=30.0min espace=10>laisser mijoter pendant 1 h 30 min</operation>.
+]]>
+ </preparation>
+</recette>

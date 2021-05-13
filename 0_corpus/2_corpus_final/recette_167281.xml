@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167281">
+ <titre>Flan coco antillais</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 boîte de lait de coco</p>
+ <p>1 boîte de lait concentré sucré</p>
+ <p>1 boîte de lait concentré non sucré</p>
+ <p>3 oeufs</p>
+ <p>1 cuillère à café de vanille liquide</p>
+ <p>1/2 citron vert</p>
+ <p>caramel liquide</p>
+ <p>1 bouchon de rhum</p>
+ <p>cannelle</p>
+ <p>50 g de noix de coco râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> th.6 (180 ° c). <operation temps=6.86min espace=15>battez les <ingredient quantite=3>oeufs</ingredient> en omelette</operation>, ajoutez les 3 <ingredient quantite=1>laits</ingredient>, le zeste du <ingredient quantite=1>citron vert</ingredient> râpé, la vanille <ingredient quantite=1>liquide</ingredient>, <ingredient quantite=1>cannelle</ingredient>, <ingredient quantite=1>rhum</ingredient>, <ingredient quantite=1>coco</ingredient> et <operation temps=6.86min espace=15>mélangez bien le tout</operation>. <operation temps=6.86min espace=15>tapissez un <recipient>moule</recipient> à</operation> manqué (en verre de péférence), de <ingredient quantite=1>caramel liquide</ingredient>. <operation temps=6.86min espace=15>versez la préparation</operation> et <operation temps=6.86min espace=15>mettez à</operation> cuire au <recipient>bain marie</recipient> dans le <recipient>four</recipient>. <operation temps=20.0min espace=15>laissez refroidir</operation> et <operation temps=6.86min espace=15>mettez au <recipient>réfrigérateur</recipient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22370">
+ <titre>Oeufs farcis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>8 oeufs</p>
+ <p>100 g de gruyère râpé</p>
+ <p>2 cuillères à soupe de crème fraîche</p>
+ <p>1 échalote</p>
+ <p>1 botte de ciboulette</p>
+ <p>1 bouquet de persil</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire les <ingredient quantite=8>oeufs</ingredient> durs</operation>. un fois refroidis, les écaler, les couper en 2 dans la longueur, et mettre les jaunes à part dans un bol. ciseler les herbes, hacher l’ <ingredient quantite=1>échalote</ingredient>, ajouter le gruyère, le <ingredient quantite=1>sel</ingredient>, le poivre et la <ingredient quantite=2>crème</ingredient>, ajouter le tout aux jaunes d’ <ingredient quantite=8>oeufs</ingredient>. bien mélanger. <operation temps=6.86min espace=8>remplir les 1/2 blancs d’</operation> oeufs avec cette préparation. poser sur la grille de <recipient>four</recipient> et <operation temps=6.86min espace=8>laisser gratiner quelques minutes</operation>. <operation temps=2.0min espace=8>servir avec une salade</operation>. rosé de provence
+]]>
+ </preparation>
+</recette>

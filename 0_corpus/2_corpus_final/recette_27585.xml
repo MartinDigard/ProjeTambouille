@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27585">
+ <titre>Tarte à l’ oseille et au poisson</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>une pâte feuilletée</p>
+ <p>3 gros oeufs</p>
+ <p>20 cl de crème épaisse</p>
+ <p>2 cuillères à soupe de maïzena</p>
+ <p>20 feuilles d’ oseille hachées ou mieux des l’ oseille hachée surgelée (6/8 galets) </p>
+ <p>1 filet moyen de poisson blanc</p>
+ <p>1 pavé moyen de saumon</p>
+ <p>sel, poivre</p>
+ <p>1 sachet de court bouillon</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire 5 mn les <ingredient quantite=1>filets de poisson</ingredient> au <ingredient quantite=1>court bouillon</ingredient>. battre les <ingredient quantite=3>oeufs</ingredient> avec la <ingredient quantite=1>crème</ingredient> et les deux <ingredient quantite=2>cuillères à soupe</ingredient> de maïzena délayées préalablement dans un peu de lait froid. ajouter à ce mélange l’ <ingredient quantite=1>oseille hachée</ingredient>, le <ingredient quantite=1>poisson</ingredient> coupé en petits morceaux, 4 <ingredient quantite=2>cuillères à soupe</ingredient> du court-bouillon, le <ingredient quantite=1>sel</ingredient> et le poivre. verser le tout sur la <ingredient quantite=1>pâte</ingredient> feuilletée et <operation temps=25.0min espace=10>laisser cuire 25 mn au <recipient>four</recipient> à 200 ° c en</operation> faisant attention à ce que la <ingredient quantite=1>pâte feuilletée</ingredient> ne brûle pas. servir chaud ou froid avec une bonne salade verte. peut aussi se <operation temps=6.86min espace=10>faire avec des crevettes roses ou du surimi</operation>. personnellement j’ ai utilisé des produits <ingredient quantite=1>surgelés</ingredient> et j’ ai mélangé crevettes et <ingredient quantite=1>poisson</ingredient>.
+]]>
+ </preparation>
+</recette>

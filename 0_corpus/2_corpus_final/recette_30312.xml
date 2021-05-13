@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30312">
+ <titre>Asperges sauce mousseline et jambon cru</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>24 belles asperges blanches</p>
+ <p>2 oeufs entiers + 2 blancs</p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>25 cl d’ huile </p>
+ <p>4 tranches de jambon cru</p>
+ <p>sel et poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>pelez les <ingredient quantite=1>asperges</ingredient>, liez - les en bottillons,</operation> puis <operation temps=6.86min espace=6>faites - les</operation> cuire à l’ eau bouillante salée pendant 20 à 30 minutes. <operation temps=6.86min espace=6>vérifiez la cuisson de la pointe du couteau, les <ingredient quantite=1>asperges</ingredient></operation> doivent être tendres. <operation temps=6.86min espace=6>séparez les jaunes des <ingredient quantite=2>blancs</ingredient> d’ <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=6>mélangez les jaunes d’ <ingredient quantite=2>oeufs</ingredient> et la</operation> <ingredient quantite=1>moutarde</ingredient>, <operation temps=0.25min espace=6>salez</operation>, <operation temps=0.5min espace=6>poivrez</operation> et <operation temps=6.86min espace=6>versez l’</operation> huile en un mince filet tout. <operation temps=6.86min espace=6>mélangez constamment à l’</operation> aide d’ un fouet afin de monter la sauce en mayonnaise. <operation temps=6.86min espace=6>montez les <ingredient quantite=2>blancs</ingredient> en neige avec une pincée de <ingredient quantite=1>sel</ingredient> et les</operation> incorporer délicatement à la sauce. <operation temps=6.86min espace=6>présentez les <ingredient quantite=1>asperges</ingredient> chaudes recouvertes de <ingredient quantite=4>jambon</ingredient> cru</operation> et entourée d’ un cordon de sauce. <operation temps=6.86min espace=6>tenez la sauce à disposition dans une saucière</operation>.
+]]>
+ </preparation>
+</recette>

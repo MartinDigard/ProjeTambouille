@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57710">
+ <titre>Cannellonis au boeuf express</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>350 g de viande de boeuf hachée</p>
+ <p>12 tubes de cannellonis</p>
+ <p>150 g d’ emmental râpé</p>
+ <p>20 cl de coulis de tomate </p>
+ <p>20 cl de coulis de tomate cuisiné</p>
+ <p>2 oignons</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 oeuf</p>
+ <p>3 verres d’ eau</p>
+ <p>1 verre de lait</p>
+ <p>herbes de Provence</p>
+ <p>sel, poivre</p>
+ <p>huile d’ olive</p>
+ <p>1 morceau de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>poêle</recipient>, faire revenir les <ingredient quantite=2>oignons hachés</ingredient> puis rajouter les deux <ingredient quantite=1>coulis</ingredient> de sauce, les 3 <ingredient quantite=3>verres</ingredient> d’ <ingredient quantite=3>eau</ingredient>, une <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=2>ail</ingredient> écrasée, le <ingredient quantite=1>sucre</ingredient>, <ingredient quantite=1>herbes de provence</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. <operation temps=15.0min espace=17>faire mijoter le tout 10 - 15 min</operation>. pendant ce temps préparer la farce: écraser le <ingredient quantite=1>boeuf</ingredient> haché, ajouter une <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=2>ail</ingredient> finement <ingredient quantite=1>hachée</ingredient>, 1 <ingredient quantite=1>verre de lait</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>herbes de provence</ingredient>. malaxer le tout et farcir les <ingredient quantite=1>cannellonis</ingredient>. diposer les <operation temps=6.86min espace=17>cannellonis farci dans un <recipient>plat</recipient> et les</operation> napper de sauce (bien les <operation temps=6.86min espace=17>recouvrir)</operation> et saupouder de fromage. enfourner dans le <recipient>four</recipient> à 180 ° c (thermostat 6) et <operation temps=6.86min espace=17>laisser le tout</operation> cuire 35 min environ. prévoir 3 cannellonis par personne.
+]]>
+ </preparation>
+</recette>

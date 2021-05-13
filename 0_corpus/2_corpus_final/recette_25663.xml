@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25663">
+ <titre>Toast israëlien</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 toasts</p>
+ <p>1 filet de saumon</p>
+ <p>1 avocat bien mûr</p>
+ <p>1/2 citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+beurrer les <ingredient quantite=4>toasts</ingredient> grillés et encore chauds avec la chair de l’ <ingredient quantite=1>avocat</ingredient>. après avoir découpé la tranche de <ingredient quantite=1>saumon</ingredient> en quatre, <operation temps=6.86min espace=4>garnir chaque <ingredient quantite=1>toast</ingredient> de <ingredient quantite=1>saumon</ingredient></operation>. ajouter un <ingredient quantite=1>filet</ingredient> de <ingredient quantite=1>citron</ingredient>. c’ est prêt! c’ est une recette simple que l’ on sert en israël au petit déjeuner. peut se <operation temps=6.86min espace=4>servir en apéritif, compte</operation> tenu des goûts.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51925">
+ <titre>Soupe de potimarron au boudin noir</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 potimarron</p>
+ <p>1 poireau</p>
+ <p>oignon</p>
+ <p>sel et poivre</p>
+ <p>parmesan râpé et entier</p>
+ <p>boudin noir extra</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire revenir le <ingredient quantite=1>poireau</ingredient></operation> coupé fin, ainsi que l’ <ingredient quantite=1>oignon</ingredient> dans un peu d’ huile d’ olive. ajouter le <ingredient quantite=1>potimarron</ingredient>, et <operation temps=6.86min espace=8>couvrir d’ eau ; saler</operation> et poivrer. fermer la <recipient>cocotte</recipient> - minute et <operation temps=10.0min espace=8>faire cuire 10 min après sifflement, puis mixer</operation>. poêler du <ingredient quantite=1>boudin</ingredient> en tranches recouvert de <ingredient quantite=1>parmesan râpé</ingredient>. disposer quelques copeaux de <ingredient quantite=1>parmesan</ingredient> dans chaque bol de soupe, ainsi que quelques tranches de <ingredient quantite=1>boudin</ingredient>. déguster! c’ est un <recipient>plat</recipient> complet et nourrissant.
+]]>
+ </preparation>
+</recette>

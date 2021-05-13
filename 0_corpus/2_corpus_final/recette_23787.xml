@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23787">
+ <titre>Blanquette de poulet surprise</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet coupé en morceaux</p>
+ <p>6 quenelles de volaille ou de veau</p>
+ <p>250 g de petits champignons de Paris</p>
+ <p>2 carottes</p>
+ <p>1 oignon</p>
+ <p>1 branche de céleri</p>
+ <p>1 bouquet garni</p>
+ <p>50 g de beurre</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faites revenir les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient> dans une grande <recipient>cocotte</recipient> avec du beurre</operation>. <operation temps=6.86min espace=14>retirez - les une fois dorés et mettez l’ <ingredient quantite=1>oignon</ingredient>, les <ingredient quantite=2>carottes</ingredient> et le <ingredient quantite=1>céleri</ingredient></operation> émincés à la place. <operation temps=6.86min espace=14>faites - les</operation> suer quelques minutes et <operation temps=6.86min espace=14>remettez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>poulet</ingredient></operation>. <operation temps=6.86min espace=14>mouillez d’ eau bouillante à hauteur</operation>, <operation temps=0.25min espace=14>salez</operation>, <operation temps=0.5min espace=14>poivrez</operation> et ajoutez le <ingredient quantite=1>bouquet garni</ingredient>. <operation temps=6.86min espace=14>laissez mijoter 1 h à feu moyen</operation>. <operation temps=6.86min espace=14>rajoutez les <ingredient quantite=1>champignons</ingredient></operation> nettoyés dans la <recipient>cocotte</recipient> et <operation temps=15.0min espace=14>laissez cuire encore 15 min</operation>. <operation temps=6.86min espace=14>egouttez la viande et les légumes</operation>, <operation temps=6.86min espace=14>réservez - les au chaud</operation>. retirez le <ingredient quantite=1>bouquet garni</ingredient> de la <recipient>cocotte</recipient> et <operation temps=6.86min espace=14>passez le bouillon au <recipient>chinois</recipient></operation>. <operation temps=6.86min espace=14>faites fondre 30 g de beurre</operation>, <operation temps=6.86min espace=14>saupoudrez la farine et remuez à la <ingredient quantite=1>cuillère</ingredient> en bois</operation>. <operation temps=6.86min espace=14>mouillez peu à peu de bouillon de cuisson en</operation> remuant et ajoutez les <ingredient quantite=1>quenelles coupées</ingredient> en 3. <operation temps=10.0min espace=14>laissez épaissir 10 min environ,</operation> et <operation temps=6.86min espace=14>incorporez si vous le</operation> souhaitez 1 grosse <ingredient quantite=1>cuillère</ingredient> de crème fraîche. <operation temps=6.86min espace=14>servez le <ingredient quantite=1>poulet</ingredient> nappé de sauce,</operation> et accompagné de riz ou de pâtes fraîches.
+]]>
+ </preparation>
+</recette>

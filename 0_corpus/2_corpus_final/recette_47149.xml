@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47149">
+ <titre>Bouillie au chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de cacao</p>
+ <p>100 g de sucre en poudre</p>
+ <p>50 g de maïzena</p>
+ <p>2 oeufs (ou seulement les jaunes) </p>
+ <p>1 litre de lait</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>cacao</ingredient>, le <ingredient quantite=1>sucre</ingredient>, la maïzéna et les <ingredient quantite=2>oeufs</ingredient>. ajouter progressivement le <ingredient quantite=1>lait</ingredient> froid, jusqu’ à <operation temps=8.0min espace=5>obtenir un mélange homogène</operation>. <operation temps=6.86min espace=5>faire chauffer à feu moyen, en</operation> mélangeant sans arrêt (la crème s’ épaissit), jusqu’ à ce que la crème bouillote. <operation temps=6.86min espace=5>servir immédiatement, dans des ramequins</operation>. manger froid.
+]]>
+ </preparation>
+</recette>

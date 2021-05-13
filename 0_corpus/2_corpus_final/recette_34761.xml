@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34761">
+ <titre>Ravioles au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 plaques de ravioles par personne</p>
+ <p>curry (quantité selon les goûts) </p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>crème selon la quantité de ravioles</p>
+ <p>persil</p>
+ <p>sel</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=2>ravioles</ingredient> dans une eau bouillante avec un <ingredient quantite=1>cube de bouillon de volaille</ingredient>. <operation temps=6.86min espace=8>égouttez</operation> et remettre sur le feu en y ajoutant la <ingredient quantite=1>crème</ingredient> fraîche, le <ingredient quantite=1>curry</ingredient>, le <ingredient quantite=1>persil</ingredient>. <operation temps=0.25min espace=8>salez</operation>, <operation temps=0.5min espace=8>poivrez</operation>, <operation temps=6.86min espace=8>servir sans</operation> attendre. cette recette peut être servie en <recipient>plat</recipient> principal ou en accompagnement d’ un poisson (cabillaud, saumon...)
+]]>
+ </preparation>
+</recette>

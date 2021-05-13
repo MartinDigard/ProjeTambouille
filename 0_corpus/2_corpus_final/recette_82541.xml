@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82541">
+ <titre>Rôti de porc au basilic et aux tomates</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rôti de porc</p>
+ <p>4 tomates</p>
+ <p>6/8 feuilles de basilic</p>
+ <p>2 oignons moyen</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>1 cuillère à café d’ herbes de Provence</p>
+ <p>poivre et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>coupez votre rôti en tranche en</operation> suivant les traits du filets. placez - le dans un <recipient>plat</recipient> relativement profond (à cause du jus des <ingredient quantite=4>tomates</ingredient>). <operation temps=6.86min espace=8>coupez les <ingredient quantite=4>tomates</ingredient> en rondelles ainsi que les <ingredient quantite=2>oignons</ingredient></operation>. ciselez les <ingredient quantite=1>feuilles de basilic</ingredient> placez les rondelles de <ingredient quantite=4>tomates</ingredient> et d’ <ingredient quantite=2>oignons</ingredient> entre les tranches du rôti. versez de l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient> sur le rôti, puis les <ingredient quantite=1>feuilles de basilic</ingredient> ciselés, les <ingredient quantite=1>herbes de provence</ingredient> puis le <ingredient quantite=1>sel</ingredient> et le poivre. ce rôti s’ accompagne très bien avec des haricots verts, le temps de cuisson est approximatif. voilà à vos fourneaux!!! vous pouvez également remplacer les <ingredient quantite=1>herbes de provence</ingredient> par du thym.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17148">
+ <titre>Tarte au fromage blanc et à la rhubarbe</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 abaisse de pâte brisée de 33 cm environ de diamètre</p>
+ <p>250 g de fromage blanc</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>1 cuillère à café de sucre vanillé</p>
+ <p>1 citron</p>
+ <p>1 pomme</p>
+ <p>500 g de rhubarbe</p>
+ <p>1 cuillère à café de sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger le <ingredient quantite=1>fromage blanc</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient>, le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>sucre</ingredient> vanillé. laver le <ingredient quantite=1>citron</ingredient> sous l’ eau chaude et l’ essuyer. râper l’ équivalent d’ une <ingredient quantite=1>cuillère à café</ingredient> de zeste directement au-dessus du mélange. râper la <ingredient quantite=1>pomme</ingredient> au-dessus du mélange. effiler la <ingredient quantite=1>rhubarbe</ingredient> et la débiter en troncons de 1 <ingredient quantite=1>cm</ingredient>. etaler le mélange sur le fond de tarte et <operation temps=6.86min espace=10>répartir la <ingredient quantite=1>rhubarbe</ingredient> dessus</operation>. <operation temps=40.0min espace=10>faire cuire environ 40 mn dans le bas du <recipient>four</recipient> préchauffé à 200 ° c</operation>. quand la tarte est cuite, saupoudrer de <ingredient quantite=1>sucre glace</ingredient>. on peut <operation temps=6.86min espace=10>servir cette tarte avec des fraises</operation>.
+]]>
+ </preparation>
+</recette>

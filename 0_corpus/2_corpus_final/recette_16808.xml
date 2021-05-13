@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16808">
+ <titre>Carbonade flamande</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de boeuf pour carbonade</p>
+ <p>2 cubes de bouillon de viande corsé</p>
+ <p>1 verre de bière (gueuze de préférence) </p>
+ <p>5 oignons</p>
+ <p>1 gousse d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>1 tranche de pain</p>
+ <p>50 g de saindoux ou beurre</p>
+ <p>maïzena</p>
+ <p>1 cuillère à soupe de moutarde, sucre, vinaigre </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler la <ingredient quantite=2>viande</ingredient> en morceaux de ± 100 gr. <operation temps=6.86min espace=10>faire revenir la <ingredient quantite=2>viande</ingredient> avec le <ingredient quantite=1>saindoux</ingredient> ou le beurre</operation>. retirer la <ingredient quantite=2>viande</ingredient> et la remplacer par les <ingredient quantite=5>oignons</ingredient> émincés. quant ils sont <operation temps=6.86min espace=10>attendris</operation> remettre la <ingredient quantite=2>viande</ingredient> et asperger de <ingredient quantite=1>vinaigre</ingredient>. ajouter l’ <ingredient quantite=1>ail</ingredient> haché, le <ingredient quantite=1>bouquet garni</ingredient>, les 2 <ingredient quantite=2>cubes de bouillon</ingredient> dilués dans un peu d’ eau. <operation temps=6.86min espace=10>couvrir d’ une <ingredient quantite=1>bière</ingredient></operation> ajouter la <ingredient quantite=1>moutarde</ingredient> et le <ingredient quantite=1>sucre</ingredient> quand la préparation bout, <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=6.86min espace=10>laisser mijoter pendant 2 heures à feu doux.1/4 d’ heure avant la fin de la cuisson</operation>, ajouter la <ingredient quantite=1>maïzena</ingredient> diluée dans un peu d’ eau. rectifier éventuellement l’ asaisonnement.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175610">
+ <titre>Crème de biscuits vegan</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>50 cl de lait de riz</p>
+ <p>3 cuillères à soupe de fécule de maïs</p>
+ <p>100 g de biscuits réduits en fine poudre</p>
+ <p>1 cuillère à soupe de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=4>faire chauffer 40 cl de lait</operation> additionné du <ingredient quantite=1>sucre</ingredient> et de la <ingredient quantite=1>poudre</ingredient> de <ingredient quantite=1>biscuits</ingredient> jusqu’ à épaississement. mélanger la <ingredient quantite=3>fécule</ingredient> et les cl de lait restants, verser hors du feu dans la première préparation. verser dans de petits ramequins. <operation temps=6.86min espace=4>laisser refroidir,</operation> puis <operation temps=6.86min espace=4>laisser 1 h au frigo</operation>. si vous ne <operation temps=6.86min espace=4>mangez pas de produits animaux</operation>, <operation temps=6.86min espace=4>vérifiez bien la composition des <ingredient quantite=1>biscuits</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

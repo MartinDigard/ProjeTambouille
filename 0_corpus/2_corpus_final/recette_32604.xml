@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32604">
+ <titre>Crumble Chobaba</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 bananes</p>
+ <p>1 paquet de pépites de chocolat</p>
+ <p>50 g de beurre pour le plat</p>
+ <p>Pour les miettes de crumble: </p>
+ <p>3/4 d’ une boîte de gâteaux (de type bastogne ou autres) mixés</p>
+ <p>100 g de farine</p>
+ <p>100 g de beurre </p>
+ <p>100 g de sucre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+parsemer 25 g de beurre coupé en morceaux sur le fond d’ un <ingredient quantite=1><recipient>plat</recipient></ingredient> à gratin de 30 cm x 15 cm. <operation temps=6.86min espace=11>couvrir avec 3 <ingredient quantite=6>bananes</ingredient></operation> épluchées et coupées en rondelles moyennes (un demi centimètre!). répartir le <ingredient quantite=1>paquet de pépites de chocolat</ingredient> sur les <ingredient quantite=6>bananes</ingredient> puis <operation temps=6.86min espace=11>recouvrir avec les 3 <ingredient quantite=6>bananes</ingredient></operation> restantes en rondelles. préparer les <ingredient quantite=1>miettes</ingredient> à crumble en mélangeant puis en effritant entre les doigts la farine, le <ingredient quantite=1>sucre</ingredient>, les bastognes écrasés et les 100 g de beurre en pommade. <operation temps=6.86min espace=11>répartir sur le mélange <ingredient quantite=1>banane</ingredient> /</operation> <ingredient quantite=1>chocolat</ingredient>, enfourner <recipient>four</recipient> thermostat 6 pendant 30 minutes environ. le crumble est prêt lorsque les <ingredient quantite=1>miettes</ingredient> sont dures et couleur brun pain d’ épice. pour la proportion de <ingredient quantite=6>bananes</ingredient>, elle peut différer selon la taille de votre <ingredient quantite=1><recipient>plat</recipient></ingredient>, le tout étant d’ avoir une couche d’ environ 2/3 cm de <ingredient quantite=1>banane</ingredient>, c’ est là que l’ équilibre en bouche du goût <ingredient quantite=1>miette</ingredient> / <ingredient quantite=1>banane</ingredient> - <ingredient quantite=1>chocolat</ingredient> est le meilleur.
+]]>
+ </preparation>
+</recette>

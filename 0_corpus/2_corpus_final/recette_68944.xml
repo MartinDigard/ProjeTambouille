@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68944">
+ <titre>Curry pilaf de poisson</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>800 g de filets ou pavés de poisson blanc</p>
+ <p>500 g de riz</p>
+ <p>500 g d’ oignons émincés</p>
+ <p>500 g de tomates pelées</p>
+ <p>2 carottes coupées en dés</p>
+ <p>1 bulbe de fenouil émincé</p>
+ <p>1 l d’ eau</p>
+ <p>2 cuillères à soupe de curry</p>
+ <p>sel, poivre</p>
+ <p>20 cl d’ huile</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+rincer le <ingredient quantite=1>riz</ingredient> et le <operation temps=6.86min espace=11>laisser égoutter</operation>. <operation temps=10.0min espace=11>faire chauffer l’</operation> huile dans une <recipient>sauteuse</recipient>. <operation temps=6.86min espace=11>faire suer les <ingredient quantite=1>oignons</ingredient></operation>. ajouter les <ingredient quantite=2>carottes</ingredient> puis le <ingredient quantite=1>fenouil</ingredient>. <operation temps=5.0min espace=11>faire dorer 5 minutes</operation>. ajouter les <ingredient quantite=1>tomates</ingredient> et <operation temps=6.86min espace=11>couvrir d’ <ingredient quantite=1>eau</ingredient></operation>. <operation temps=6.86min espace=11>laisser cuire 1 heure à feu moyen</operation>. ajouter le <ingredient quantite=1>riz</ingredient> et les épices, <operation temps=25.0min espace=11>laisser cuire 25 minutes</operation>. ajouter le <ingredient quantite=1>poisson</ingredient>, <operation temps=10.0min espace=11>laisser cuire 10 minutes</operation>. rectifier l’ assaisonnement et servir. cette version peut aussi se <operation temps=6.86min espace=11>faire avec du paprika et dans ce cas</operation>, rajouter en plus une <ingredient quantite=1>cuillère</ingredient> à café de concentré de <ingredient quantite=1>tomates</ingredient>. bon appétit.
+]]>
+ </preparation>
+</recette>

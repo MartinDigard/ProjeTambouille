@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16085">
+ <titre>Filets de poisson sauce citron (micro-ondes) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de filets de poisson blanc (merlan, cabillaud, St Pierre, sole...) </p>
+ <p>30 g de beurre</p>
+ <p>1 citron</p>
+ <p>paprika, sel, poivre, basilic ou persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=1.0min espace=6>faites fondre le beurre 1 mn 30 à puissance maximale</operation>. pendant ce temps, disposez les <ingredient quantite=1>filets</ingredient> dans un <recipient>plat</recipient> adapté au micro-ondes et <operation temps=6.86min espace=6>arrosez - les avec le jus du ciron</operation>. <operation temps=6.86min espace=6>versez le beurre fondu</operation>, <operation temps=0.25min espace=6>salez</operation>, <operation temps=6.86min espace=6>poivrez et saupoudrez</operation> généreusement de <ingredient quantite=1>paprika</ingredient>. <operation temps=6.86min espace=6>recouvrez le <recipient>plat</recipient> de film étirable et percez quelques trous a l’</operation> aide d’ un couteau pointu. <operation temps=8.0min espace=6>enfournez 8 mn à puissance maximum</operation>. <operation temps=6.86min espace=6>retirez le film</operation>, <operation temps=6.86min espace=6>servez avec du riz, un gratin ou des légumes</operation>. vous m’ en direz des nouvelles! vous allez surement trouver que 30 g de beurre, ça fait beaucoup, mais ne <operation temps=6.86min espace=6>réduisez pas la dose sinon votre <ingredient quantite=1>poisson</ingredient> sera trop sec</operation>.
+]]>
+ </preparation>
+</recette>

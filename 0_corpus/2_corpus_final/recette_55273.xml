@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55273">
+ <titre>Frappes de Caroline</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>7 œufs</p>
+ <p>12 cuillères à soupe de sucre</p>
+ <p>1, 5 kg de farine (et même plus) </p>
+ <p>125 g de beurre</p>
+ <p>30 cl de lait</p>
+ <p>2 cuillères à soupe de pastis</p>
+ <p>1 ou 2 citrons râpés</p>
+ <p>2 sachets de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre le lait à petit feu et <operation temps=6.86min espace=10>faire fondre le beurre sans</operation> <operation temps=20.0min espace=10>bouillir</operation>. dans un <recipient>saladier</recipient>, battre les oeufs entiers avec le <ingredient quantite=1>sucre</ingredient>, les <ingredient quantite=1>citrons râpés</ingredient>, le <ingredient quantite=2>pastis</ingredient>, y ajouter le lait et le beurre bien refroidi. mettre la farine et la <ingredient quantite=2>levure</ingredient> en puits dans le contenu du <recipient>saladier</recipient>. bien <operation temps=6.86min espace=10>pétrir le tout, la pâte ne</operation> doit pas coller aux mains. <operation temps=0.25min espace=10>couvrir</operation>, <operation temps=6.86min espace=10>laisser reposer au moins 2 heures</operation> puis étaler petit à petit, découper. <operation temps=6.86min espace=10>faire frire</operation>. <operation temps=6.86min espace=10>ajoutez du <ingredient quantite=1>sucre</ingredient> en poudre par dessus</operation>.
+]]>
+ </preparation>
+</recette>

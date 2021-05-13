@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23323">
+ <titre>Salade de concombre et museau en vinaigrette</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 gros concombre</p>
+ <p>200 g de museau de boeuf</p>
+ <p>1 cuillère à soupe de sel</p>
+ <p>Pour la vinaigrette: </p>
+ <p>1 cuillère à café de moutarde</p>
+ <p>1 cuillère à soupe de vinaigre</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler le <ingredient quantite=1>concombre</ingredient>, le détailler en fines rondelles, puis le <operation temps=6.86min espace=7>faire dégorger avec du <ingredient quantite=1>sel</ingredient> pendant 1 heure</operation>. rincer les <ingredient quantite=1>concombres</ingredient> sous l’ eau froide, les égoutter puis les essuyer avec du papier absorbant. découper ensuite le <ingredient quantite=1>museau</ingredient> en fines lamelles, puis les incorporer au <ingredient quantite=1>concombre</ingredient>. <operation temps=6.86min espace=7>faire une petite <ingredient quantite=1>vinaigrette</ingredient> en</operation> émulsionnant l’ huile avec la <ingredient quantite=1>moutarde</ingredient> et le <ingredient quantite=1>vinaigre</ingredient>, la verser sur le mélange <ingredient quantite=1>concombre</ingredient> / <ingredient quantite=1>museau</ingredient> et servir bien frais.
+]]>
+ </preparation>
+</recette>

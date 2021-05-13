@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42496">
+ <titre>Salade de mache de mamy</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 grosse mâche</p>
+ <p>4 oeufs</p>
+ <p>2 gros oignons</p>
+ <p>vinaigrette</p>
+ <p>4 grosses pomme de terre</p>
+ <p>vinaigrette</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire des <ingredient quantite=4>pomme de terre</ingredient> et les <ingredient quantite=2>oignons</ingredient> au <recipient>four</recipient> (ou autrement mais mais la cuisson au <recipient>four</recipient> apporte ce petit plus de nos mamy!), <operation temps=6.86min espace=10>faire cuire les <ingredient quantite=4>oeufs</ingredient> molets</operation>. mettre la <ingredient quantite=1>mâche</ingredient> dans un grand <recipient>saladier</recipient>, et une fois le tout cuit, creuser les <ingredient quantite=4>pommes de terre</ingredient> et les <ingredient quantite=2>oignons</ingredient>, mettre dans le <recipient>saladier</recipient>, puis rajouter les <ingredient quantite=1>oeuf</ingredient> écaillés. mélanger le tout... assaisoner selon le goût, huile, vinaigre, échalote, sel, poivre (n’ hésitez pas sur le vinaigre). un délice! cette recette vient de ma grand-mère qui l’ a transmise à ma mère, qui me l’ a retransmise... il faut la manger de suite, autrement comme toute salade elle cuit avec le vinaigre. vous pouvez tout cuire à l’ avance, et la <operation temps=6.86min espace=10>faire en dernière minute pour la</operation> manger froide, elle se mange froide l’ été et chaude l’ hiver!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166812">
+ <titre>Cake framboise et noix de coco</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 œufs</p>
+ <p>100g de sucre semoule</p>
+ <p>100g de farine</p>
+ <p>80g de noix de coco rapées</p>
+ <p>1/2 sachet de levure</p>
+ <p>1 cuillère à soupe de fromage blanc</p>
+ <p>80g de beurre demi-sel</p>
+ <p>200g de framboise surgelées</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 180 ° dans un <recipient>saladier</recipient>, mélanger les jaunes d’ <ingredient quantite=3>œufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>fromage blanc</ingredient>. quand le mélange devient mousseux, <operation temps=4.0min espace=11>incorporez</operation> peu à peu la farine, la <ingredient quantite=1>noix de coco</ingredient> et la <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=11>rajoutez le beurre fondu et incorporez</operation> délicatement les <ingredient quantite=1>blancs</ingredient> d’ <ingredient quantite=3>œufs</ingredient> montés en neige. <operation temps=4.0min espace=11>incorporez</operation> délicatement les <ingredient quantite=1>framboises</ingredient>. <operation temps=6.86min espace=11>versez la préparation dans un <recipient>moule</recipient> à cake beurré</operation> et <operation temps=40.0min espace=11>faire cuire pendant 40 minutes</operation>. pour éviter que les fruits tombent au fond, <operation temps=6.86min espace=11>farinez - les légèrement avant de les</operation> incorporer à la pâte.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37415">
+ <titre>Soupe à la semoule et dent-de-lion</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 l d’ eau avec 1 cube de bouillon</p>
+ <p>2 cuillères à soupe de semoule de blé (ou plus si l’ on veut une soupe épaisse) </p>
+ <p>2 poignées grossièrement hachée de "dent-de-lion" (pissenlit) ou d’ épinards </p>
+ <p>1 jaune d’ oeuf</p>
+ <p>10 cl de lait (ou de crème) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>faire bouillir l’</operation> <ingredient quantite=1>eau</ingredient>, rajouter la <ingredient quantite=1>dent-de-lion</ingredient> et la <ingredient quantite=2>semoule</ingredient>. <operation temps=5.0min espace=6>faire cuire 3 à 5 minutes</operation> et garder très chaud. bien mélanger à part dans une soupière (ou un <recipient>plat</recipient> creux) le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et le lait. verser la <ingredient quantite=2>soupe</ingredient> très chaude dessus en fouettant bien. servir. idéal pour les enfant qui ne mangent rien, repas complet pour les petits. et super bon en entrée.
+]]>
+ </preparation>
+</recette>

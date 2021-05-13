@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48294">
+ <titre>Terrine de saumon à la bisque de homard</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la terrine: </p>
+ <p>1 boite de bisque de homard</p>
+ <p>250 g de saumon </p>
+ <p>5 œufs</p>
+ <p>persil hachéPour la sauce: </p>
+ <p>1 petit pot de mayonnaise</p>
+ <p>20 cl de crème fraîche</p>
+ <p>échalotes hachées (2/3 têtes) </p>
+ <p>persil</p>
+ <p>1/2 jus de citron jaune</p>
+ <p>4 ou 5 cornichons aigres ou doux hachés en petits morceaux</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la <ingredient quantite=1><recipient>terrine</recipient></ingredient> et la <ingredient quantite=1>sauce</ingredient> sont à préparer la veille. la <ingredient quantite=1><recipient>terrine</recipient></ingredient>: <operation temps=15.0min espace=17>faire cuire le <ingredient quantite=1>saumon</ingredient> au court bouillon à feux <ingredient quantite=4>doux</ingredient> pendant 10 à 15 minutes</operation>. mixer la <ingredient quantite=1>bisque de homard</ingredient>, le <ingredient quantite=1>saumon</ingredient>, les <ingredient quantite=5>œufs</ingredient> et le <ingredient quantite=1>persil</ingredient>. verser la préparation dans un <recipient>moule</recipient> à cake et <operation temps=40.0min espace=17>faire cuire au <recipient>bain marie</recipient> 40 minutes environ à 210 ° c (thermostat 7</operation>). <operation temps=20.0min espace=17>laisser refroidir</operation> et démouler la <ingredient quantite=1><recipient>terrine</recipient></ingredient>. la <ingredient quantite=1>sauce</ingredient>: mélanger la <ingredient quantite=1>mayonnaise</ingredient>, la <ingredient quantite=1>crème fraîche</ingredient>, les <ingredient quantite=1>échalotes hachées</ingredient>, le <ingredient quantite=1>persil</ingredient>, le <ingredient quantite=1>jus de citron</ingredient> et les <ingredient quantite=4>cornichons</ingredient>. <operation temps=6.86min espace=17>laisser reposer au frais</operation>. service la <ingredient quantite=1><recipient>terrine</recipient></ingredient> et la <ingredient quantite=1>sauce</ingredient> à part dans un bol. déguster. cette recette est très simple à réaliser mais en " jette " beaucoup. elle me vient de mon ancienne belle-mère.
+]]>
+ </preparation>
+</recette>

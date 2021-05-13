@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222776">
+ <titre>Galette des rois sans beurre</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de poudre d’ amande</p>
+ <p>125 g de sucre</p>
+ <p>2 œufs + 1 œuf pour dorer</p>
+ <p>20 cl de crème semi-épaisse (allégée ou non) </p>
+ <p>2 pâtes feuilletés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=6>étalez la 1ère pâte <ingredient quantite=1>feuilleté</ingredient> sur une plaque de cuisson</operation>. mélangez dans un <recipient>saladier</recipient>: <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande + sucre +</ingredient> 2 <ingredient quantite=2>œufs + crème</ingredient>. <operation temps=6.86min espace=6>obtenez un mélange homogène</operation>. <operation temps=6.86min espace=6>déposez le mélange sur la <ingredient quantite=1>pâte</ingredient></operation> feuilleté (<operation temps=6.86min espace=6>laissez 2 à 3 cm au bord)</operation>: <operation temps=6.86min espace=6>mettez une fève</operation>. <operation temps=6.86min espace=6>posez par dessus la 2eme</operation> pâte <ingredient quantite=1>feuilletée</ingredient>. <operation temps=6.86min espace=6>fermez à l’</operation> aide d’ un blanc d’ oeuf. <operation temps=6.86min espace=6>badigeonnez de jaune d’ oeuf</operation>: <operation temps=6.86min espace=6>faites une petite déco à l’</operation> aide d’ un couteau. <operation temps=6.86min espace=6>piquez légèrement la <ingredient quantite=1>pâte</ingredient> pour ne pas qu’ elle</operation> fasse des bulles pendant la cuisson. enfournez pour 20 - 25min à 200 ° c: <operation temps=6.86min espace=6>surveillez</operation>!
+]]>
+ </preparation>
+</recette>

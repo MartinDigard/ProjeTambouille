@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47787">
+ <titre>Sorbet au coca</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 cuillère à soupe de gélatine</p>
+ <p>375 ml d’ eau froide</p>
+ <p>125 ml d’ eau chaude</p>
+ <p>1 tasse de sucre</p>
+ <p>extrait de coca (confiseurs) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>casserole</recipient>, saupoudrez la <ingredient quantite=1>gélatine</ingredient> dans 125 ml d <ingredient quantite=1>eau froide</ingredient> ; <operation temps=10.0min espace=8>laisser gonfler 10 min</operation>. ajouter l’ <ingredient quantite=1>eau</ingredient> bouillante, et remuer à feu doux jusqu’ à ce que la <ingredient quantite=1>gélatine</ingredient> soit dissoute. ajouter le <ingredient quantite=1>sucre</ingredient> et remuer ; ne pas <operation temps=6.86min espace=8>laisser bouillir</operation>! retirer du feu. ajouter le reste de l’ <ingredient quantite=1>eau froide</ingredient> et l’ <ingredient quantite=1>extrait</ingredient> de coca. verser dans une <recipient>sorbetière</recipient> et mettre le tout au <recipient>congélateur</recipient> pendant 24 h. <operation temps=6.86min espace=8>dosez l’ <ingredient quantite=1>extrait</ingredient> de</operation> coca selon votre goût! vous <operation temps=6.86min espace=8>touverez cet extrait chez les confiseurs</operation>.
+]]>
+ </preparation>
+</recette>

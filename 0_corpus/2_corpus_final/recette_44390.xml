@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44390">
+ <titre>Mousse de coings aux épices</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>800 g de coings intacts</p>
+ <p>1 citron le jus + le zeste</p>
+ <p>4 cuillères à soupe de miel</p>
+ <p>2 blancs d’ oeufs en neige</p>
+ <p>2 dl de crème fraîche battue</p>
+ <p>1 cuillère à café de gingembre râpé</p>
+ <p>1 cuillère à café de cannelle en poudre</p>
+ <p>1 pointe de girofle en poudre</p>
+ <p>copeaux de cannelle pour décorer (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver les coings, et les essuyer pour enlever le duvet. cuire 1 à 2 h au <recipient>four</recipient> à 180 ° c (th 6), sur une plaque garnie de papier sulfurisé. la durée de cuisson dépend de la tendreté des coings: les piquer à l’ aide d’ un couteau pointu... si la lame s’ enfonce facilement, inutile de prolonger la cuisson. passer sous l’ eau froide, <operation temps=20.0min espace=12>laisser refroidir</operation>. peler les coings, les couper en quatre, et les épépiner. réduire la chair obtenue en purée, avec le <ingredient quantite=1>jus</ingredient> de <ingredient quantite=1>citron</ingredient>, les épices, et le <ingredient quantite=4>miel</ingredient>. parfois les coings sont encore trop durs, re-cuire la purée à feu doux en veillant bien que ça n’ attache pas. quand la purée est bien lisse et froide, lui incorporer les blancs d’ <ingredient quantite=2>oeufs en neige</ingredient> et la <ingredient quantite=1>crème battue</ingredient>. verser dans des coupes, et <operation temps=6.86min espace=12>laisser prendre au frigo</operation>. astuce: on peut <operation temps=6.86min espace=12>faire prendre la mousse en <recipient>sorbetière</recipient> pour en</operation> <operation temps=6.86min espace=12>faire une glace, mais ne pas la</operation> <operation temps=6.86min espace=12>laisser trop</operation> <operation temps=6.86min espace=12>durcir au <recipient>congélateur</recipient></operation>. voilà!
+]]>
+ </preparation>
+</recette>

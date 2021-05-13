@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19275">
+ <titre>Chevreuil à la crème d’ ail</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>600 g de filet de chevreuil</p>
+ <p>9 gousses d’ ail</p>
+ <p>2 échalotes</p>
+ <p>10 cl de vin rouge</p>
+ <p>10 cl de fond de veau reconstitué</p>
+ <p>50 g de beurre</p>
+ <p>10 cl de crème fraîche épaisse</p>
+ <p>huile</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler 8 <ingredient quantite=9>gousses</ingredient> d’ <ingredient quantite=9>ail</ingredient>, les verser dans l’ eau froide, et amener à frémissements 10 mn. egoutter, répéter l’ opération 2 fois. les mixer, <operation temps=0.25min espace=10>couvrir</operation>, réserver au frais. trancher le <ingredient quantite=1>filet</ingredient> en 4 pièces, saler, poivrer. les <operation temps=5.0min espace=10>saisir 4 à 5 mn par face, dans un <ingredient quantite=1>filet</ingredient> d’</operation> huile. réserver au chaud entre 2 assiettes. a la place, <operation temps=5.0min espace=10>faire revenir 5 mn les <ingredient quantite=2>échalotes</ingredient> et la <ingredient quantite=1>gousse</ingredient> d’ <ingredient quantite=9>ail</ingredient> restante, finement hachée</operation>. verser le <ingredient quantite=1>vin</ingredient>, réduire de moitié, ajouter le <ingredient quantite=1>fond de veau</ingredient>, mélanger et porter à ébullition. hors du feu, en fouettant, incorporer le beurre froid en morceaux. réchauffer à feu doux la purée d’ <ingredient quantite=9>ail</ingredient>, assaisonner, ajouter la <ingredient quantite=1>crème</ingredient>. <operation temps=6.86min espace=10>servir aussitôt sur un <ingredient quantite=1>fond</ingredient> de sauce,</operation> et entourer de crème d’ <ingredient quantite=9>ail</ingredient>. <operation temps=6.86min espace=10>accompagnez ce <recipient>plat</recipient> de pommes paille ou paillassons</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21499">
+ <titre>Pomme de terre au brie</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 grosses pommes de terre</p>
+ <p>25 cl de crème fraîche épaisse</p>
+ <p>250 g de brie</p>
+ <p>1 botte de ciboulette</p>
+ <p>noix de muscade</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 190 ° c. <operation temps=6.86min espace=10>faites fondre 30 g de beurre</operation>. lavez les <ingredient quantite=6>pommes de terre</ingredient>, <operation temps=6.86min espace=10>piquez le dessus et placez les dans un <recipient>plat</recipient></operation>. <operation temps=6.86min espace=10>beurrez leur peau au pinceau</operation>. <operation temps=55.0min espace=10>enfournez 55 mn à 1 heure</operation>. a mi-cuisson <operation temps=6.86min espace=10>retournez les</operation> et <operation temps=6.86min espace=10>beurrez les encore</operation>. préparation de la farce: <operation temps=6.86min espace=10>retirez la croûte du fromage</operation> et <operation temps=6.86min espace=10>coupez - le en petit dés</operation> (<operation temps=6.86min espace=10>gardez en une vingtaine qui</operation> serviront pour la cuisson finale). <operation temps=6.86min espace=10>ciselez la <ingredient quantite=1>ciboulette</ingredient></operation>. lorsque les <ingredient quantite=6>pommes de terre</ingredient> sont cuites (<operation temps=6.86min espace=10>montez alors le <recipient>four</recipient> à 220 ° c</operation>) <operation temps=6.86min espace=10>découpez y un chapeau</operation> et <operation temps=6.86min espace=10>creusez les 2/3 de la chair sans</operation> percer la peau. <operation temps=6.86min espace=10>ecrasez la chair à la fourchette</operation> et mélangez la à la <ingredient quantite=1>crème</ingredient>, au fromage, à la <ingredient quantite=1>ciboulette</ingredient> et à la <ingredient quantite=1>noix de muscade</ingredient>. <operation temps=0.25min espace=10>salez</operation>, <operation temps=0.5min espace=10>poivrez</operation>. farcissez les <ingredient quantite=6>pommes de terre</ingredient> de ce mélange. <operation temps=6.86min espace=10>parsemez les avec des dés de fromage et le beurre</operation> restant et <operation temps=6.86min espace=10>enfournez 10</operation> mn.
+]]>
+ </preparation>
+</recette>

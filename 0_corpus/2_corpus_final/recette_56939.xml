@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56939">
+ <titre>Burrito sans viande</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>50 g de tofu ferme</p>
+ <p>2 galettes de maïs (type tortillas) </p>
+ <p>1 carotte</p>
+ <p>1 poivron vert</p>
+ <p>1/2 concombre</p>
+ <p>1 oignon rouge</p>
+ <p>sauce maggi</p>
+ <p>2 cuillères à soupe de mayonnaise</p>
+ <p>quelques feuilles de coriandre fraiches (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper quatre fines tranches de <ingredient quantite=1>tofu</ingredient> dans le sens de la longueur. <operation temps=3.0min espace=9>faire rissoler dans du beurre 2 - 3 min sur chaque face</operation>. râper la <ingredient quantite=1>carotte</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, puis couper le <ingredient quantite=1>concombre</ingredient> et le <ingredient quantite=1>poivron vert</ingredient> en lanières très fines. étaler le tortilla. mettre une <ingredient quantite=2>cuillère à soupe de mayonnaise</ingredient> et étaler dans le sens de la longueur bien au milieu de la <ingredient quantite=1>galette</ingredient>. rajouter le filet de sauce <ingredient quantite=1>maggi</ingredient> toujours au milieu. ajouter le <ingredient quantite=1>tofu</ingredient>, les légumes et la <ingredient quantite=1>coriandre</ingredient> au milieu et refermer comme un burrito. <operation temps=6.86min espace=9>degustez!!! jus de fruit</operation>
+]]>
+ </preparation>
+</recette>

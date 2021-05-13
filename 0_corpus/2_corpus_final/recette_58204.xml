@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58204">
+ <titre>Cookies aux smarties</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>125 g de noix ou noisettes en poudre</p>
+ <p>250 g de cassonade</p>
+ <p>100 g de mini smarties</p>
+ <p>4 jaunes d’ oeufs</p>
+ <p>1/2 cuillère à café de sel fin</p>
+ <p>125 g de beurre</p>
+ <p>250 g de farine</p>
+ <p>1/2 sachet de levure</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>mélangez <ingredient quantite=1>noix</ingredient> (ou <ingredient quantite=1>noisettes</ingredient>), smarties et <ingredient quantite=1>cassonade</ingredient></operation>. <operation temps=6.86min espace=8>ajoutez les <ingredient quantite=4>jaunes</ingredient> d’ <ingredient quantite=4>oeufs</ingredient>, le <ingredient quantite=1>sel</ingredient> et le beurre ramolli</operation>. puis <operation temps=6.86min espace=8>ajoutez la farine et la <ingredient quantite=1>levure</ingredient></operation>. <operation temps=6.86min espace=8>faire des petits tas sur une plaque recouverte de papier cuisson</operation>. bien étaler les petits tas car la pâte s’ étale. enfournez à mi hauteur 10 minutes (thermostat 6 - 7, 200 ° c). on peut remplacer les smarties par des m&ms concassés ou par des pépites de chocolat. on peut utiliser les blancs des <ingredient quantite=4>oeufs</ingredient> pour réaliser des congolais.
+]]>
+ </preparation>
+</recette>

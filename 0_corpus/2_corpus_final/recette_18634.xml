@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18634">
+ <titre>Salade d’ automne facile</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 laitue</p>
+ <p>1 barquette de lardons</p>
+ <p>quelques morceaux de pain dur! </p>
+ <p>10 cerneaux de noix</p>
+ <p>une poignée de raisins secs (ou macérés dans du rhum) </p>
+ <p>2 endives</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+laver la <ingredient quantite=1>laitue</ingredient> et la couper en lamelles dans un <recipient>saladier</recipient>. laver les <ingredient quantite=2>endives</ingredient> et les couper en 2 dans la longueur, placer - les dans le <recipient>saladier</recipient>. <operation temps=6.86min espace=9>faire revenir les <ingredient quantite=1>lardons</ingredient> juste dorés</operation>. les retirer de la <recipient>poêle</recipient> puis y ajouter les <ingredient quantite=1>morceaux de pain dur</ingredient> et le <operation temps=6.86min espace=9>faire frire (un peu) avec la graisse des <ingredient quantite=1>lardons</ingredient>, (les</operation> mettre ensuite dans un papier essuie tout). verser les <ingredient quantite=1>lardons</ingredient> et les <ingredient quantite=1>morceaux de pain</ingredient> sur la salade, y ajouter les <ingredient quantite=1>cerneaux de noix</ingredient> et les <ingredient quantite=1>raisins</ingredient>.... bon appétit
+]]>
+ </preparation>
+</recette>

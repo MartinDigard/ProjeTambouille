@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69729">
+ <titre>Crème fouettée aux fruits rouges</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>30 cl de crème fraîche entière</p>
+ <p>2 cuillères à soupe de mascarpone</p>
+ <p>sucre</p>
+ <p>4 cuillères à soupe de sirop d’ orgeat</p>
+ <p>600 g de fruits rouges (fraises ou framboise ou mûre...) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fouetter la <ingredient quantite=1>crème fraîche</ingredient> bien froide jusqu’ à ce qu’ elle soit montée. sucrer à votre goût. incorporer le <ingredient quantite=2>mascarpone</ingredient> détendu avec le <ingredient quantite=4>sirop</ingredient> d’ <ingredient quantite=4>orgeat</ingredient>. dans des ramequins ou des verrines, alterner <ingredient quantite=1>crème</ingredient> fouettée et <ingredient quantite=1>fruits rouges</ingredient>.
+]]>
+ </preparation>
+</recette>

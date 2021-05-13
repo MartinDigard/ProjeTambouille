@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24069">
+ <titre>Blanquette de veau</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 2 kg de viande de veau</p>
+ <p>1 carotte</p>
+ <p>2 blancs de poireaux</p>
+ <p>2 oignon</p>
+ <p>4 gousses d’ ail</p>
+ <p>1 bouquet garni</p>
+ <p>le jus d’ 1 citron</p>
+ <p>300 g de champignons de Paris</p>
+ <p>10 cl de vin blanc sec</p>
+ <p>2 jaunes d’ oeufs</p>
+ <p>10 cl de crème fraîche</p>
+ <p>1 cuillère à soupe de farine</p>
+ <p>70 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=20>faire bouillir une grande <recipient>cocotte</recipient> d’ eau</operation>. y plonger la <ingredient quantite=1>viande</ingredient> découpées en morceaux. au bout d’ une minute, retirer du feu et jeter l’ eau de cuisson. remettre la <recipient>cocotte</recipient> sur le feu et y metre les <ingredient quantite=1>carottes</ingredient> et les <ingredient quantite=2>poireaux</ingredient> en rondelles, les <ingredient quantite=2>oignons</ingredient> émincés, les <ingredient quantite=4>gousses</ingredient> d’ <ingredient quantite=4>ail</ingredient> et le <ingredient quantite=1>bouquet garni</ingredient>. mouiller avec le <ingredient quantite=1>vin</ingredient>, saler, poivrer, remettre la <ingredient quantite=1>viande</ingredient>. ajuster le niveau du liquide en ajoutant de l’ eau: les ingrédients doivent être immergés. <operation temps=30.0min espace=20>laisser cuire 1 h 30 min à couvert</operation>. au bout de ce temps, laver les <ingredient quantite=1>champignons</ingredient> et les <operation temps=6.86min espace=20>faire sauter à la <recipient>poêle</recipient> avec 30 g de beurre</operation>. <operation temps=6.86min espace=20>faire un roux avec le beurre</operation> restant: le <operation temps=6.86min espace=20>faire fondre dans une <recipient>casserole</recipient></operation> et ajouter la farine en fouettant. <operation temps=6.86min espace=20>sortir les légumes et la <ingredient quantite=1>viande</ingredient> de la <recipient>cocotte</recipient></operation>. jeter le <ingredient quantite=1>bouquet garni</ingredient>. y ajouter le roux en remuant et les <ingredient quantite=1>champignons</ingredient>. remettre tous les éléments dans la <recipient>cocotte</recipient> et réchauffer 15 min. délayer les <ingredient quantite=2>jaunes</ingredient> d’ <ingredient quantite=2>oeufs</ingredient> dans la <ingredient quantite=1>crème fraîche</ingredient> et l’ ajouter à la <recipient>cocotte</recipient> avant de <operation temps=2.0min espace=20>servir</operation>.
+]]>
+ </preparation>
+</recette>

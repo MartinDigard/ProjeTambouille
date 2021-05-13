@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58130">
+ <titre>Salade de fruits frais</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 mangue</p>
+ <p>1 demi ananas</p>
+ <p>3 pommes</p>
+ <p>jus de fraises</p>
+ <p>1 kg de framboises</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=5>coupez les <ingredient quantite=1>mangue</ingredient> en cubes</operation> et faites de même pour le <ingredient quantite=1>demi ananas</ingredient>. ensuite <operation temps=6.86min espace=5>coupez les <ingredient quantite=3>pommes</ingredient> en quart</operation> et <operation temps=6.86min espace=5>coupez les en deux</operation>. <operation temps=6.86min espace=5>rajoutez les <ingredient quantite=1>framboises</ingredient></operation>. remuez et pour <operation temps=6.86min espace=5>finir</operation> arrosez les fruits de <ingredient quantite=1>jus de fraises</ingredient> (très peu). c’ est prêt. <operation temps=6.86min espace=5>faites attention en</operation> remuant de ne pas écrabouiller les <ingredient quantite=1>framboises</ingredient> (vous pouvez <operation temps=6.86min espace=5>remplacez les <ingredient quantite=1>framboises</ingredient> par des</operation> <ingredient quantite=1>fraises</ingredient>).
+]]>
+ </preparation>
+</recette>

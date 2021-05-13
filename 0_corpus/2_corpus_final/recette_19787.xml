@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19787">
+ <titre>Poulet au fenouil Caravel</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 cuisses de poulets</p>
+ <p>2 petits oignons</p>
+ <p>2 échalotes</p>
+ <p>100 g de pruneaux d’ Agen</p>
+ <p>2 cuillères d’ huile</p>
+ <p>400 g de fenouil</p>
+ <p>1 verre de vin blanc sec</p>
+ <p>1 verre de muscat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une cocote. <operation temps=2.0min espace=8>faire dorer les <ingredient quantite=2>cuisses</ingredient> pendant 2 mn de chaque côté</operation>, ajouter les <ingredient quantite=2>oignons</ingredient> et <ingredient quantite=2>échalotes</ingredient> préalablement émincés. ajouter les <ingredient quantite=1>pruneaux</ingredient> et le <ingredient quantite=1>fenouil</ingredient> coupé en tranche au dessus du <ingredient quantite=1>poulet</ingredient>. <operation temps=35.0min espace=8>faire cuire 30 - 35 mn à feu doux en</operation> ajoutant régulièrement le <ingredient quantite=1>vin blanc</ingredient> et de l’ eau si nécessaire. déglacer au <ingredient quantite=1>muscat</ingredient> et servir chaud. <ingredient quantite=1>vin</ingredient> blant <ingredient quantite=1>sec</ingredient>, maconais
+]]>
+ </preparation>
+</recette>

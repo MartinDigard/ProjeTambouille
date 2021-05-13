@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45779">
+ <titre>Filet mignon aigre-doux</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 filet mignon de porc</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>1/2 verre de vinaigre</p>
+ <p>1 échalote</p>
+ <p>1 boîte de tomates en dés</p>
+ <p>beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans une <recipient>cocotte</recipient>, faire dorer le <ingredient quantite=1>filet mignon</ingredient> de toute part. le retirer et mettre les <ingredient quantite=1>échalotes</ingredient> coupées en tranches à la place. les <operation temps=6.86min espace=8>laisser dorer quelques instants</operation> puis ajouter le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=8>laisser caraméliser</operation> et ajouter le <ingredient quantite=1>vinaigre</ingredient>. ajouter ensuite les <ingredient quantite=1>tomates</ingredient> en dés, remettre la viande, <operation temps=0.25min espace=8>couvrir</operation> et <operation temps=6.86min espace=8>laisser mijoter sur feu doux pendant 1h environ</operation>. délicieux avec du riz.
+]]>
+ </preparation>
+</recette>

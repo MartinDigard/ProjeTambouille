@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32831">
+ <titre>Gâteau moelleux aux pommes</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>5 cuillères à soupe de farine</p>
+ <p>5 cuillères à soupe de sucre</p>
+ <p>5 cuillères à soupe de lait</p>
+ <p>3 cuillères à soupe d’ huile</p>
+ <p>2 oeufs</p>
+ <p>1/2 paquet de levure chimique</p>
+ <p>4 petites pommes</p>
+ <p>Pour le glaçage: </p>
+ <p>80 g de beurre</p>
+ <p>100 g de sucre</p>
+ <p>1 oeuf</p>
+ <p>1 sachet de sucre vanillé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine et le <ingredient quantite=5>sucre</ingredient>, puis incorporer le <ingredient quantite=5>lait</ingredient>, les <ingredient quantite=2>oeufs</ingredient>, l’ <ingredient quantite=3>huile</ingredient> et la <ingredient quantite=1>levure</ingredient> jusqu’ à <operation temps=8.0min espace=16>obtenir une pâte homogène</operation>. verser la pâte dans un <recipient><recipient>moule</recipient> à manqué</recipient> beurré et fariné. <operation temps=6.86min espace=16>couvrir de fines tranches de <ingredient quantite=4>pommes</ingredient> pelées, en les</operation> <operation temps=6.86min espace=16>faisant se chevaucher</operation>. mettre au <recipient>four</recipient> pendant 5 mn à 210 ° c. <operation temps=6.86min espace=16>faire fondre le beurre au <recipient>bain - marie</recipient></operation>, ajouter les <ingredient quantite=5>sucres</ingredient> et l’ <ingredient quantite=1>oeuf</ingredient> en remuant. dès que le gâteau commence à dorer, l’ arroser avec le <ingredient quantite=1>glaçage</ingredient> et le remettre au <recipient>four</recipient> pour <operation temps=6.86min espace=16>finir la cuisson</operation>.
+]]>
+ </preparation>
+</recette>

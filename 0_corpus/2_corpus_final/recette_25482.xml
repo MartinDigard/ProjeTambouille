@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25482">
+ <titre>Jardinière de légumes de printemps</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de petits pois</p>
+ <p>250 g de pommes de terre </p>
+ <p>150 g de haricots verts</p>
+ <p>40 g de beurre</p>
+ <p>1 laitue</p>
+ <p>1 botte de carottes </p>
+ <p>1/2 botte de navets</p>
+ <p>25 cl d’ eau</p>
+ <p>persil haché</p>
+ <p>1 cuillère à soupe de crème fraîche</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire revenir le beurre dans une <recipient>sauteuse</recipient> et y</operation> ajouter les <ingredient quantite=1>petits pois</ingredient>, les <ingredient quantite=1>haricots verts</ingredient>, les <ingredient quantite=1>navets</ingredient> émincés, les <ingredient quantite=1>carottes</ingredient> coupées en rondelles, la <ingredient quantite=1>laitue</ingredient>, l’ <ingredient quantite=1>eau</ingredient> et le <ingredient quantite=1>persil haché</ingredient>. assaisonner et <operation temps=20.0min espace=12>laisser mijoter 20 min à feu doux</operation>. incorporer les <ingredient quantite=1>pommes de terre</ingredient> coupées en dés et continuer la cuisson pendant 35 minutes. hors du feu, ajouter la <ingredient quantite=1>crème fraîche</ingredient> et servir.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18626">
+ <titre>Gâteau au chocolat (micro-onde) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 oeufs entier</p>
+ <p>100 g de sucre</p>
+ <p>1 sachet sucre vanillé</p>
+ <p>100 g beurre</p>
+ <p>125 g chocolat noir</p>
+ <p>100 g farine tamisée</p>
+ <p>1/2 sachet levure en poudre</p>
+ <p>6 cuillères à soupe amaretto</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+battre les <ingredient quantite=3>oeufs entier</ingredient> avec le <ingredient quantite=1>sucre</ingredient> vanillé. <operation temps=6.86min espace=11>faire fondre le chocolat avec le beurre et incorporez - y le mélange avec les <ingredient quantite=3>oeufs</ingredient></operation>. <operation temps=6.86min espace=11>ajoutez la farine, la levure et l’ <ingredient quantite=6>amaretto</ingredient></operation>. bien mélanger le tout. mettre le tout dans un <recipient>moule</recipient> à charlotte ou tout autre <recipient>moule</recipient> creux pouvant aller au mico - onde. cuire le tout 5 mn au <recipient>micro-onde</recipient> puissance maximum.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25515">
+ <titre>Terrine de pommes confites au cidre</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 kg de pommes acides</p>
+ <p>200 g de raisins secs</p>
+ <p>200 g de sucre en poudre</p>
+ <p>100 g de beurre demi-sel</p>
+ <p>50 cl de cidre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=11>pelez</operation> et <operation temps=6.86min espace=11>épépinez les</operation> <ingredient quantite=1>pommes</ingredient>, <operation temps=6.86min espace=11>coupez - les en gros dés ou en tranches fines</operation>. répartissez - les dans une <recipient>terrine</recipient> avec un couvercle (ou un <recipient>moule</recipient> à cake) en alternant avec des <ingredient quantite=1>raisins</ingredient>, du <ingredient quantite=1>sucre</ingredient> et des morceaux de beurre. <operation temps=6.86min espace=11>remplissez toute la <recipient>terrine</recipient> en</operation> terminant par le <ingredient quantite=1>sucre</ingredient>. <operation temps=6.86min espace=11>versez le</operation> <ingredient quantite=1>cidre</ingredient>, <operation temps=6.86min espace=11>couvrez (d’ aluminium si c’ est un <recipient>moule</recipient> à cake)</operation> et <operation temps=6.86min espace=11>laissez cuire 2 h au <recipient>four</recipient> à 150 ° c (thermostat 5</operation>). s’ il y a trop de liquide, <operation temps=6.86min espace=11>découvrez</operation> et <operation temps=6.86min espace=11>laissez encore</operation> cuire 20 minutes. <operation temps=6.86min espace=11>servez cette <recipient>terrine</recipient></operation> tiède ou bien froide selon vos goûts et le temps! <operation temps=6.86min espace=11>accompagnez de pain d’ épices et crème anglaise, un régal! vous</operation> pouvez la <operation temps=6.86min espace=11>faire la veille et la servir froide ou la réchauffer doucement</operation>.
+]]>
+ </preparation>
+</recette>

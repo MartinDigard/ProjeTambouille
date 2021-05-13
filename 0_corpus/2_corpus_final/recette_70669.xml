@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70669">
+ <titre>Escalope de poulet panée au fromage et jambon</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de poulet</p>
+ <p>4 tranches fines de jambon blanc ou cru</p>
+ <p>8 tranchettes de fromage (pour croque-monsieur) </p>
+ <p>1 petite assiette creuse de chapelure</p>
+ <p>4 oeufs battus</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par faire cuire les <ingredient quantite=4>escalopes de poulet</ingredient> à la <recipient>poêle</recipient>. ensuite, disposer une <ingredient quantite=8>tranchette de fromage</ingredient> de chaque coté de l’ escalope. enrouler le tout dans une <ingredient quantite=4>tranche de jambon</ingredient>. tremper le tout dans les <ingredient quantite=4>oeufs battus</ingredient>, puis disposer dans la <ingredient quantite=1>chapelure</ingredient> et bien la <operation temps=6.86min espace=7>recouvrir de cette dernière</operation>! <operation temps=6.86min espace=7>faire revenir à feu doux, dans une <recipient>poêle</recipient> avec une noix de beurre</operation>. lorsque le <ingredient quantite=8>fromage</ingredient> commence à <operation temps=6.86min espace=7>devenir</operation> coulant c’ est prêt!!! bon appétit...
+]]>
+ </preparation>
+</recette>

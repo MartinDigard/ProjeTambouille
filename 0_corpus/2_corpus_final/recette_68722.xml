@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68722">
+ <titre>Flognarde aux pommes et poires</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de pommes et poires</p>
+ <p>10 cl de rhum</p>
+ <p>75 g de sucre semoule</p>
+ <p>Pour la pâte: </p>
+ <p>125 g de farine</p>
+ <p>3 oeufs</p>
+ <p>25 cl de lait</p>
+ <p>50 g de sucre semoule</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=1>pommes</ingredient> et les <ingredient quantite=1>poires</ingredient>. oter les pépins. couper en fines rondelles. <operation temps=6.86min espace=11>faire macérer avec le <ingredient quantite=1>sucre</ingredient> et le <ingredient quantite=1>rhum</ingredient> pendant une nuit</operation>. le lendemain, préparer la <ingredient quantite=1>pâte</ingredient>. dans une <recipient>terrine</recipient>, mettre la farine, ajouter le <ingredient quantite=1>sucre</ingredient>, le sel et les <ingredient quantite=3>oeufs</ingredient> entiers. délayer en incorporant progressivement la farine. quand la <ingredient quantite=1>pâte</ingredient> devient épaisse, ajouter peu à peu le lait, puis les fruits. verser dans un <recipient><recipient>moule</recipient> à manqué</recipient> légèrement beurré et <operation temps=30.0min espace=11>faire cuire à <recipient>four</recipient> moyen pendant 30 min (thermostat 6 à 180 °</operation>). démouler, retourner le gâteau et cuire l’ autre face 5 min peut se <operation temps=6.86min espace=11>faire avec des cerises</operation>.
+]]>
+ </preparation>
+</recette>

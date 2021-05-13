@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39607">
+ <titre>Tarte pommes-prunes</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 pâte feuilleté</p>
+ <p>500 g de prunes</p>
+ <p>2 pommes</p>
+ <p>1 oeuf</p>
+ <p>1 cuillère à soupe de maïzena</p>
+ <p>20 cl de lait </p>
+ <p>200 g de sucre </p>
+ <p>100 g de beurre</p>
+ <p>2 biscuits sablés</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la pâte <ingredient quantite=1>feuilleté</ingredient>, dans un <recipient><recipient>moule</recipient> à tarte</recipient>, la piquer avec une fourchette, puis séparer le blanc du jaune d’ <ingredient quantite=1>oeuf</ingredient>. badigeonner, le fond de tarte, de blanc d’ <ingredient quantite=1>oeuf</ingredient>. enfourner la pâte à 180 ° c (thermostat 6), pendant environ 10 min. peler les <ingredient quantite=2>pommes</ingredient> et les couper en tranches. etaler la moitié des <ingredient quantite=2>pommes</ingredient>, sur le fond de tarte. <operation temps=6.86min espace=11>faire chauffer les <ingredient quantite=1>prunes</ingredient>, dans une <recipient>poêle</recipient></operation>, ajouter 80 g de <ingredient quantite=1>sucre</ingredient>, et <operation temps=6.86min espace=11>faire chauffer jusqu’ à ébulition</operation>. puis égouter. etaler, le mélange <ingredient quantite=1>prunes</ingredient> - <ingredient quantite=1>sucre</ingredient>, sur les pommmes de la tarte, puis étaler le reste de <ingredient quantite=2>pommes</ingredient>. enfin, écraser les <ingredient quantite=2>biscuits</ingredient> et <operation temps=6.86min espace=11>répartir les miettes sur la tarte</operation>. puis, saupoudrer du reste de <ingredient quantite=1>sucre</ingredient>, et disposer des cubes de beurre, sur la tarte. enfourner environ 40 min.
+]]>
+ </preparation>
+</recette>

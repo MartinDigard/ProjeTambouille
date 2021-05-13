@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48268">
+ <titre>Lapin au chou et aux marrons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 lapin coupé en morceaux d’ 1, 5 kg</p>
+ <p>100 g de lardons</p>
+ <p>3 carottes</p>
+ <p>500 g de chou blanc cuit (disponible au rayon frais, déjà cuisiné au riesling) </p>
+ <p>500 g de marrons entiers (rayon épicerie) </p>
+ <p>25 cl de vin blanc + 25 cl d’ eau</p>
+ <p>1 bouquet garni</p>
+ <p>2 oignons</p>
+ <p>20 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=14>faire revenir, sans matière grasse, les <ingredient quantite=1>lardons</ingredient></operation>. lorsqu’ ils sont bien dorés, les retirer et réserver. dans une <recipient>cocotte</recipient> minute, <operation temps=1.0min espace=14>faire fondre le beurre</operation>, ajouter les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> et les <operation temps=6.86min espace=14>faire dorer de chaque côté</operation>. ajouter les <ingredient quantite=1>carottes coupées</ingredient> en rondelle, les <ingredient quantite=2>oignons</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>. puis incorporer les <ingredient quantite=1>lardons</ingredient>, le <ingredient quantite=1>chou</ingredient>, les <ingredient quantite=1>marrons</ingredient>, le <ingredient quantite=1>vin blanc</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. fermer la <recipient>cocotte</recipient> minute et compter 20 min quand ça fuse (vitesse 1). si vous n’ utilisez pas la <recipient>cocotte</recipient> minute, <operation temps=6.86min espace=14>procédez de la même façon</operation> mais <operation temps=6.86min espace=14>comptez 1 h 30 de cuisson à feu doux</operation>.
+]]>
+ </preparation>
+</recette>

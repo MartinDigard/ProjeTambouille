@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32687">
+ <titre>Thon en sauce aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>3 tranches moyennes de thon rouge</p>
+ <p>huile de tournesol</p>
+ <p>farine</p>
+ <p>1 oignon</p>
+ <p>1 litre de purée de tomate</p>
+ <p>2 cuillères à café de câpres</p>
+ <p>10 cornichons</p>
+ <p>olives noires (quantité selon le goût) </p>
+ <p>25 cl de vin blanc</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+fariner les <ingredient quantite=3>tranches de thon</ingredient>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=13>faire chauffer l’ <ingredient quantite=1>huile</ingredient>,</operation> puis poser les <ingredient quantite=3>tranches de thon</ingredient>. couvrir et <operation temps=6.86min espace=13>laisser cuire doucement de chaque côté</operation>. réserver. dans 1 <recipient>marmite</recipient>, <operation temps=6.86min espace=13>faire revenir l’ <ingredient quantite=1>oignon</ingredient></operation> coupé finement. rajouter la sauce <ingredient quantite=1>tomate</ingredient>, les <ingredient quantite=2>câpres</ingredient>, les <ingredient quantite=1>cornichons</ingredient> ainsi que les <ingredient quantite=1>olives</ingredient>. puis le <ingredient quantite=1>vin</ingredient>. saler et poivrer à votre convenance. <operation temps=6.86min espace=13>laisser cuire 1 h à feux doux</operation>. intégrer les <ingredient quantite=3>tranches de thon</ingredient> et <operation temps=15.0min espace=13>laisser mijoter encore 15 min</operation>. c’ est prêt. <operation temps=6.86min espace=13>servir avec des pommes de terre</operation> sautées. préparer ce <recipient>plat</recipient> la veille. <ingredient quantite=1>vin</ingredient> rosé.
+]]>
+ </preparation>
+</recette>

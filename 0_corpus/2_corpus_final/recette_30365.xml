@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30365">
+ <titre>Croque-monsieur chapeauté d’ oeufs brouillés</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de pain à toaster</p>
+ <p>2 oeufs</p>
+ <p>2 tranches de jambon cuit</p>
+ <p>4 tranches de gruyère</p>
+ <p>3 cl de lait</p>
+ <p>50 g de beurre</p>
+ <p>sel, poivre, persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire des <ingredient quantite=2>oeufs</ingredient> brouillés dans une <recipient>poêle</recipient> à fond épais avec un peu de beurre, du <ingredient quantite=1>sel</ingredient> et du poivre. lorsque les <ingredient quantite=2>oeufs</ingredient> sont presque <ingredient quantite=2>cuits</ingredient>, <operation temps=6.86min espace=12>ajoutez le lait</operation> et <operation temps=6.86min espace=12>terminez la cuisson, cela</operation> prend en tout environ 4 minutes. <operation temps=6.86min espace=12>gardez les <ingredient quantite=2>oeufs</ingredient> au chaud au-dessus d’ une <recipient>casserole</recipient> d’ eau chaude</operation>. prenez 2 <ingredient quantite=4>tranches de pain</ingredient> et garnissez - les chacune d’ une <ingredient quantite=4>tranche de gruyère</ingredient> puis d’ une <ingredient quantite=2>tranche de jambon</ingredient> et à nouveau d’ une <ingredient quantite=4>tranche de gruyère</ingredient>. couvrez avec les autres <ingredient quantite=4>tranches de pain</ingredient>. <operation temps=8.0min espace=12>faites cuire les croque - monsieurs à la <recipient>poêle</recipient> avec du beurre fondu pendant à peu près 8 minutes en les retournant à mi-cuisson</operation>. vous pouvez aussi les cuire au <ingredient quantite=4>toaster</ingredient> ou au <recipient>four</recipient>. dressez - les sur le <recipient>plat</recipient> de service, <operation temps=6.86min espace=12>couvrez - les avec les <ingredient quantite=2>oeufs</ingredient> brouillés et garnissez de <ingredient quantite=1>persil</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23894">
+ <titre>Chaudeau</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 l de lait</p>
+ <p>125 g de sucre</p>
+ <p>4 oeufs</p>
+ <p>1 bâton de cannelle</p>
+ <p>un peu de noix de muscade râpée</p>
+ <p>1 gousse de vanille</p>
+ <p>le zeste d’ un citron vert</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire chauffer le lait avec les épices, le <ingredient quantite=1>zeste</ingredient> de <ingredient quantite=1>citron vert</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ au frémissement. <operation temps=6.86min espace=8>laisser tiédir un <ingredient quantite=1>peu</ingredient> de lait dans un bol</operation>. casser les <ingredient quantite=4>oeufs</ingredient> et les mélanger dans ce bol. verser dans la <recipient>casserole</recipient> et remuer 20 mn environ, jusqu’ à ce que la crème nappe la cuillère. cuire à feu doux pour éviter que la crème ne tourne (séparation du lait et de l’ <ingredient quantite=1>oeuf</ingredient> cuit). si elle a tourné, mixer ou battre au fouet puis filtrer. recette idéale pour le soir, après un repas chargé. tisane
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58214">
+ <titre>Poulet au viandox</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet</p>
+ <p>1 gros oignon</p>
+ <p>3 cuillères à soupe de viandox</p>
+ <p>sel, poivre</p>
+ <p>2 branches de thym</p>
+ <p>1 ou 2 feuilles de laurier </p>
+ <p>15 g de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>plat</recipient>, mettre le <ingredient quantite=1>poulet</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> coupé en petit morceaux. <operation temps=6.86min espace=10>ajoutez quelques noisettes de beurre et un fond d’ eau (ça c’ est pour une recette plus light, vous</operation> pouvez aussi ne mettre que du beurre en plus <ingredient quantite=1>grosse</ingredient> quantité). <operation temps=6.86min espace=10>émiettez le <ingredient quantite=2>thym</ingredient> sur le</operation> <ingredient quantite=1>poulet</ingredient> et ajouter les <ingredient quantite=1>feuilles de laurier</ingredient> puis badigeonner le <ingredient quantite=1>poulet</ingredient> de <ingredient quantite=3>viandox</ingredient>. mettre le <recipient>plat</recipient> dans un <recipient>four</recipient> préchauffé. pendant la cuisson, <operation temps=6.86min espace=10>arrosez le <ingredient quantite=1>poulet</ingredient> avec le jus et éventuellement</operation> <operation temps=6.86min espace=10>ajoutez du <ingredient quantite=3>viandox</ingredient> de temps en temps (selon votre goût</operation>).
+]]>
+ </preparation>
+</recette>

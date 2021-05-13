@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24342">
+ <titre>Carpaccio de thon au gingembre</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de filet de thon rouge</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 échalote</p>
+ <p>du persil</p>
+ <p>du gingembre</p>
+ <p>de la ciboulette</p>
+ <p>huile d’ olive</p>
+ <p>sauce soja</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+découper le <ingredient quantite=1>filet</ingredient> en tranches très fines (astuce: le <operation temps=6.86min espace=10>laisser environ une demi-heure au <recipient>congélateur</recipient> pour le raffermir</operation>). disposer les tranches de <ingredient quantite=1>thon</ingredient> en rosace sur un <recipient>plat</recipient>, ajouter l’ <ingredient quantite=1>huile</ingredient>, parsemer d’ <ingredient quantite=1>échalote</ingredient>, d’ <ingredient quantite=2>ail</ingredient> écrasé, de <ingredient quantite=1>la ciboulette</ingredient> et du <ingredient quantite=1>persil</ingredient>. émincer le <ingredient quantite=1>gingembre</ingredient> et le disposer sur la préparation. terminer avec quelques gouttes de sauce <ingredient quantite=1>soja</ingredient>. <operation temps=6.86min espace=10>servir avec un riz parfumé au jasmin</operation>.
+]]>
+ </preparation>
+</recette>

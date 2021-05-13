@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29141">
+ <titre>Salade de betteraves à la crème et au citron</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 betteraves cuites coupées en cubes ou en tranches fines</p>
+ <p>crème liquide (entière ou allégée) </p>
+ <p>jus de citron</p>
+ <p>une ou deux gousses d’ ail</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger une cuillère à soupe de <ingredient quantite=1>jus de citron</ingredient> avec trois cuillères à soupe de <ingredient quantite=1>crème</ingredient> et une (ou deux selon le goût) gousse d’ <ingredient quantite=1>ail</ingredient> pressée, du sel et du poivre. verser sur les <ingredient quantite=2>betteraves</ingredient> et mettre au frais avant de <operation temps=2.0min espace=4>servir</operation>.
+]]>
+ </preparation>
+</recette>

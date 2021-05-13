@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170592">
+ <titre>Tarte amandine aux abricots</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte brisée</p>
+ <p>12 abricots </p>
+ <p>2 cuillères à soupe de confiture (framboises, mûres, groseilles) </p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>30 cl de lait</p>
+ <p>60 g de sucre en poudre</p>
+ <p>30 g de farine</p>
+ <p>100 g d’ amandes en poudre</p>
+ <p>sucre glace</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=11>fouettez</operation> les <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient> et le <ingredient quantite=1>sucre</ingredient></operation>. <operation temps=6.86min espace=11>incorporez alors la farine</operation> puis <operation temps=6.86min espace=11>délayez avec le lait</operation> bouillant. <operation temps=6.86min espace=11>versez dans une <recipient>casserole</recipient></operation> et <operation temps=5.0min espace=11>fouettez</operation> jusqu’ à ébullition. hors du feu, incorporez les <ingredient quantite=1>amandes en poudre</ingredient>. <operation temps=6.86min espace=11>etalez la <ingredient quantite=2>confiture</ingredient> sur la <ingredient quantite=1>pâte</ingredient></operation>. répartissez les <ingredient quantite=1>abricots</ingredient> coupés en deux, et nappez de la préparation faite précédemment. <operation temps=30.0min espace=11>faites cuire 30 min au <recipient>four</recipient> à 180 ° c (thermostat 6</operation>). <operation temps=6.86min espace=11>servez la tarte refroidie</operation>, saupoudrée de <ingredient quantite=1>sucre</ingredient> glace. vous pouvez parsemez la tarte d’ <ingredient quantite=1>amandes</ingredient> effilées à mi-cuisson pour qu’ elles ne brûlent pas.
+]]>
+ </preparation>
+</recette>

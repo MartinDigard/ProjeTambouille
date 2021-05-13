@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64873">
+ <titre>Rouille d’ encornet</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1kg d’ encornets (grosses lamelles) </p>
+ <p>8 petites pommes de terre</p>
+ <p>10 cl de cognac</p>
+ <p>10 cl de vin blanc</p>
+ <p>4 tomates</p>
+ <p>1 cuillère à soupe de concentré de tomates</p>
+ <p>3 gousses d’ ail</p>
+ <p>1 dose de safran</p>
+ <p>Pour la rouille: </p>
+ <p>1 jaune d’ oeuf</p>
+ <p>3 gousses d’ ail</p>
+ <p>30 cl d’ huile d’ olive</p>
+ <p>1 dose de safran</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+ôter la fine peau des lamelles d’ <ingredient quantite=1>encornet</ingredient>, ensuite les couper en deux puis les <operation temps=5.0min espace=13>faire bouillir 5 min</operation> et rejeter l’ eau. les faire revenir dans 2 <ingredient quantite=1>cuillères à soupe</ingredient> d’ huile d’ <ingredient quantite=1>olive</ingredient>. les flamber au <ingredient quantite=1>cognac</ingredient>, ajouter le <ingredient quantite=1>vin blanc</ingredient>, les <ingredient quantite=4>tomates</ingredient> pelées et coupées en dés, l’ <ingredient quantite=3>ail</ingredient> écrasé, le concentré de <ingredient quantite=4>tomates</ingredient>, le <ingredient quantite=1>safran</ingredient>, poivrer et saler. cuire 25 min à couvert. monter la <ingredient quantite=1>rouille</ingredient> avec le <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient> et l’ huile d’ <ingredient quantite=1>olive</ingredient>, incorporer l’ <ingredient quantite=3>ail</ingredient> haché, le <ingredient quantite=1>safran</ingredient> et poivrer legèrement. pour <operation temps=6.86min espace=13>finir</operation>, ajouter la <ingredient quantite=1>rouille</ingredient> aux <ingredient quantite=1>encornets</ingredient> et servir aussitôt avec des <ingredient quantite=8>pommes de terre</ingredient> vapeur. conseils: pour la cuisson, <operation temps=6.86min espace=13>vérifiez que les <ingredient quantite=1>encornets</ingredient> sont bien tendre et rectifiez l’</operation> assaisonnement si nécessaire.
+]]>
+ </preparation>
+</recette>

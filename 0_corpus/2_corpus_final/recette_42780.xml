@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42780">
+ <titre>Tourte aux artichauts</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes brisées déjà prêtes</p>
+ <p>8 petits coeurs d’ artichauts violets (cuits au préalable) </p>
+ <p>2 belles tomates </p>
+ <p>1 cuillère d’ huile d’ olive</p>
+ <p>basilic ciselé</p>
+ <p>1 gousse d’ ail hachée</p>
+ <p>environ 3 tranches de jambon cru coupées en petits morceaux</p>
+ <p>50 g de roquefort émietté</p>
+ <p>1 jaune d’ oeuf pour la dorure</p>
+ <p>poivre (pas de sel, car le jambon et le rocquefort salent déjà la préparation!) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+foncer un <recipient><recipient>moule</recipient> à tarte</recipient> avec une <ingredient quantite=1>pâte</ingredient>. disposer les <ingredient quantite=2>tomates coupées</ingredient> en rondelles sur la <ingredient quantite=1>pâte</ingredient>... pour ma part, j’ enlève la peau de la <ingredient quantite=1>tomate</ingredient>. <operation temps=6.86min espace=11>faire poêler les <ingredient quantite=8>coeurs</ingredient> d’ <ingredient quantite=8>artichauts</ingredient>, avec l’ <ingredient quantite=1>ail</ingredient>, dans l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter les <ingredient quantite=2>tomates</ingredient>, le <ingredient quantite=1>jambon</ingredient>, le <ingredient quantite=1>roquefort</ingredient>, et le <ingredient quantite=1>basilic</ingredient>. poivrer. refermer la tourte avec la deuxième <ingredient quantite=1>pâte</ingredient>. dorer avec un <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>, et <operation temps=6.86min espace=11>faire une cheminée avec un papier d’ aluminium</operation>. enfourner 35 min. <operation temps=2.0min espace=11>servir avec une salade</operation>. bon appétit.
+]]>
+ </preparation>
+</recette>

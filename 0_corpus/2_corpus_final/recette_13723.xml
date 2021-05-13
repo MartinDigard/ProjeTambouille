@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13723">
+ <titre>Salade de poissons fumés sauce à l’ orange</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 chicons émincés (endives) </p>
+ <p>100 g de saumon fumé</p>
+ <p>50 g de flétan fumé</p>
+ <p>1 orange</p>
+ <p>6 cuillères à soupe de sauce soja</p>
+ <p>sel et poivre</p>
+ <p>aneth</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+nettoyez les <ingredient quantite=4>chicons</ingredient> et émincez - les. <operation temps=6.86min espace=8>coupez les poissons en lanières</operation>. <operation temps=6.86min espace=8>zestez l’ orange</operation> et <operation temps=6.86min espace=8>prélevez -en le jus</operation>. pour la <ingredient quantite=6>sauce</ingredient>, <operation temps=6.86min espace=8>mélangez la sauce <ingredient quantite=6>soja</ingredient>, le jus d’ orange et les zestes</operation>. <operation temps=0.25min espace=8>salez</operation> et <operation temps=6.86min espace=8>poivrez selon votre goût</operation>. mélangez les <ingredient quantite=4>chicons émincés</ingredient> et les poissons dans un grand <recipient>plat</recipient>. garnissez de pluches d’ <ingredient quantite=1>aneth</ingredient> et <operation temps=6.86min espace=8>accompagnez de <ingredient quantite=6>sauce</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

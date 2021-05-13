@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16520">
+ <titre>Gâteau de crabe</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>240 g de chair de crabe cuite (ou 2 boîtes de chair de crabe) </p>
+ <p>2 tranches de pain blanc vieux du jour </p>
+ <p>1 oeuf</p>
+ <p>1 gousse d’ ail</p>
+ <p>2 cuillères à soupe de ciboulette finement hachée</p>
+ <p>1/2 cuillère à café de sel</p>
+ <p>1 cuillère à café de poivre noir fraîchement moulu</p>
+ <p>1 cuillère à café d’ écorce de citron finement râpée</p>
+ <p>1 cuillère à soupe de beurre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+accompagnement: mélange de salades 1 petite carotte quartiers de <ingredient quantite=1>citron</ingredient> retirer la <ingredient quantite=1>chair</ingredient> de la carcasse. pour le <ingredient quantite=1>crabe</ingredient> en boite, l’ égoutter à l’ aide d’ une <recipient>passoire</recipient>. enlever la croute du <ingredient quantite=2>pain</ingredient> et le réduire en morceaux. mélanger la <ingredient quantite=1>chair de crabe</ingredient>, le <ingredient quantite=2>pain</ingredient>, l’ <ingredient quantite=1>oeuf</ingredient>, la salade, l’ <ingredient quantite=1>ail</ingredient> pressé et la <ingredient quantite=2>ciboulette</ingredient>. epicer avec le <ingredient quantite=1>sel</ingredient>, poivre et <ingredient quantite=1>écorce de citron</ingredient>. faconner 8 boules. les <operation temps=2.0min espace=10>faire dorer, 2 minutes par côté, dans le <ingredient quantite=1>beurre</ingredient></operation>. <operation temps=6.86min espace=10>servir avec la salade, carotte <ingredient quantite=1>râpée</ingredient> et un quartier de <ingredient quantite=1>citron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15021">
+ <titre>Casse-museaux aux noisettes</titre>
+ <type>Dessert</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de farine</p>
+ <p>250 g de sucre</p>
+ <p>100 g de beurre </p>
+ <p>3 oeufs</p>
+ <p>200 g de noisettes</p>
+ <p>2 cuillères à café de levure chimique</p>
+ <p>1/2 cuillère à café d’ extrait de vanille liquide</p>
+ <p>1 pointe de muscade râpée</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>travaillez le beurre mou et le <ingredient quantite=1>sucre</ingredient> jusqu’ à blanchiment</operation>. ajoutez alors l’ <ingredient quantite=1>extrait de vanille</ingredient>, puis les <ingredient quantite=3>oeufs</ingredient> entiers un par un. <operation temps=6.86min espace=10>incorporez la farine, la <ingredient quantite=2>levure</ingredient>, la <ingredient quantite=1>muscade</ingredient> et une pincée de sel</operation>. <operation temps=6.86min espace=10>ajoutez ensuite les <ingredient quantite=1>noisettes</ingredient> entières,</operation> puis <operation temps=6.86min espace=10>mélangez bien le tout</operation>. formez 2 pains d’ environ 25 sur 10 cm, puis <operation temps=6.86min espace=10>régularisez</operation> et <operation temps=6.86min espace=10>lissez avec une spatule trempée dans l’ eau</operation> froide. posez - les sur une plaque à patisserie recouverte de papier sulfurisé. <operation temps=25.0min espace=10>enfournez 25 mn dans un <recipient>four</recipient> préchauffé à 180 ° c</operation>. <operation temps=6.86min espace=10>laissez refroidir puis les</operation> découper en tranches de 2 cm d’ épaisseur, puis les remettre au <recipient>four</recipient> préchauffé à 90 ° c pendant 20 mn pour les <operation temps=6.86min espace=10>faire sécher</operation>. les retourner à mi-cuisson. ces biscuits peuvent se conserver quelques jours dans une boite hermétique où l’ on mettra une poignée de pop - corn pour absorber l’ humidité.
+]]>
+ </preparation>
+</recette>

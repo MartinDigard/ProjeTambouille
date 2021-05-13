@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81091">
+ <titre>Tagliatelles basilic pruneaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>400 g de tagliatelles </p>
+ <p>12 pruneaux d’ Agen </p>
+ <p>12 oignons nouveaux</p>
+ <p>200 g de lardons fumés ou non </p>
+ <p>basilic frais</p>
+ <p>1 boite de champignons de Paris émincés</p>
+ <p>5 à 6 tomates (grappes ou olivettes), on peut utiliser une boîte de coulis de tomates</p>
+ <p>1 cube de bouillon de volaille</p>
+ <p>1 bouquet garni (ou un cube bouquet garni) </p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire cuire les <ingredient quantite=1>tagliatelles</ingredient> dans l’ eau avec le <ingredient quantite=1>bouillon cube</ingredient>. hacher le <ingredient quantite=1>basilic frais</ingredient>. couper les <ingredient quantite=5>tomates</ingredient> en petits morceaux. dans une <recipient>casserole</recipient> large et peu profonde, <operation temps=6.86min espace=12>faire revenir les <ingredient quantite=1>lardons</ingredient> avec un filet d’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. ajouter les petits <ingredient quantite=1>oignons</ingredient>, <ingredient quantite=1>champignons</ingredient>, <ingredient quantite=1>pruneaux</ingredient>, <ingredient quantite=5>tomates</ingredient>, <ingredient quantite=1>bouquet garnies</ingredient> (ou <ingredient quantite=1>cube</ingredient>), <ingredient quantite=1>basilic</ingredient>. couvrir et <operation temps=15.0min espace=12>laisser mijoter environ 15 minutes à feu doux, en</operation> remuant de temps en temps. mouiller également de temps en temps avec l’ eau (quart de verre) afin d’ éviter que la préparation ne devienne trop consistante. saler, poivrer. ajouter cette préparation aux <ingredient quantite=1>tagliatelles</ingredient> et servir. bon appétit!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68206">
+ <titre>Délice de pommes au mascarpone</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles pommes (golden de préférence) </p>
+ <p>1 pot de mascarpone</p>
+ <p>8 spéculoos</p>
+ <p>nougatine concassée</p>
+ <p>50 g de beurre salé ou demi sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=3.0min espace=6>pelez les</operation> <ingredient quantite=2>pommes</ingredient> et <operation temps=6.86min espace=6>coupez - les en 4</operation>. <operation temps=6.86min espace=6>faites - les</operation> <operation temps=6.86min espace=6>revenir une quinzaine de minutes à feu doux dans le beurre à couvert jusqu’ à ce qu’ elles soient bien</operation> dorées. a l’ aide d’ un rouleau à pâtisserie, <operation temps=6.86min espace=6>faites des miettes de <ingredient quantite=8>spéculoos</ingredient>, répartissez -en la moitié dans des verrines,</operation> puis <operation temps=6.86min espace=6>ajoutez une bonne cuillère à soupe de <ingredient quantite=1>mascarpone</ingredient></operation>. <operation temps=6.86min espace=6>mettez ensuite 2 quartiers de <ingredient quantite=2>pommes</ingredient></operation> rôties, <operation temps=6.86min espace=6>recouvrez - les d’ une autre bonne cuillère de <ingredient quantite=1>mascarpone</ingredient>, enfin</operation> <operation temps=6.86min espace=6>agrémentez du reste de miettes de <ingredient quantite=8>spéculoos</ingredient> et de quelques éclats de nougatine concassée</operation>. <operation temps=6.86min espace=6>mettez 1 bonne heure au moins au <recipient>réfrigérateur</recipient>, se</operation> mange très frais. un bon cidre brut
+]]>
+ </preparation>
+</recette>

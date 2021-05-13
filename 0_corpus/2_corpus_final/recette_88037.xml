@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88037">
+ <titre>Quiche Chorizo Mimolette</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte feuilletée ou brisée achetée dans le commerce</p>
+ <p>1 chorizo doux ou fort selon votre préférence</p>
+ <p>5 tranches de mimolette</p>
+ <p>20 cl de crème fraiche liquide à 15% (soit une brique) </p>
+ <p>1 oeuf</p>
+ <p>gruyère rapé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+etaler la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient>, couper le <ingredient quantite=1>chorizo</ingredient> en <ingredient quantite=5>tranches</ingredient> plus ou moins fines et les disposer sur la <ingredient quantite=1>pâte</ingredient>. déposer ensuite les <ingredient quantite=5>tranches de mimolette</ingredient>. réserver. dans une jatte, battre l’ <ingredient quantite=1>oeuf</ingredient> en omelette, y ajouter la <ingredient quantite=1>crème</ingredient> et battre à nouveau pour homogénéiser le mélange. verser ensuite sur la quiche et disperser le <ingredient quantite=1>gruyère rapé</ingredient>. mettre eu <recipient>four</recipient> entre 25 et 30 minutes à 180 ° c (thermostat 6) pour que la quiche soit bien dorée.
+]]>
+ </preparation>
+</recette>

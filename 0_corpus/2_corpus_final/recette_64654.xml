@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64654">
+ <titre>Coeurs de laitue braisés</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 coeurs de laitue</p>
+ <p>100 g de lardons</p>
+ <p>30 g de beurre</p>
+ <p>1 cuillère à soupe de sucre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparez les <ingredient quantite=4>coeurs de laitue</ingredient>. <operation temps=10.0min espace=5>cuisez - les à feu doux 10 minutes (ou plus si nécéssaire) avec le beurre</operation>. <operation temps=1.0min espace=5>assaisonnez</operation> et <operation temps=6.86min espace=5>égouttez</operation>. plongez les <ingredient quantite=1>lardons</ingredient> dans de l’ eau bouillante durant 2 minutes puis <operation temps=6.86min espace=5>faites - les</operation> sauter dans le beurre également. <operation temps=1.0min espace=5>assaisonnez</operation> puis <operation temps=6.86min espace=5>sucrez au dernier moment</operation>. <operation temps=6.86min espace=5>ôtez le jus des</operation> <ingredient quantite=4>laitues</ingredient> et <operation temps=6.86min espace=5>mélangez aux <ingredient quantite=1>lardons</ingredient></operation>. <operation temps=2.0min espace=5>servez</operation> chaud.
+]]>
+ </preparation>
+</recette>

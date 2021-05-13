@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26099">
+ <titre>Soupe du berger</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>pain de campagne de la veille coupé en tranches fines</p>
+ <p>50 g de jambon de pays</p>
+ <p>6 oeufs</p>
+ <p>2 poivrons rouges</p>
+ <p>250 g de tomates pelées</p>
+ <p>1 oignon</p>
+ <p>2 gousses d’ ail</p>
+ <p>1 litre de bouillon de poulet</p>
+ <p>persil, 1 petit piment, huile d’ olive et sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+1) eplucher <ingredient quantite=1>oignon</ingredient> et <ingredient quantite=2>ail</ingredient>, passer au mixer pas trop <ingredient quantite=1>fin</ingredient> ainsi que le <ingredient quantite=1>petit piment</ingredient>. 2) dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faire chauffer 2 cuillères à soupe d’ huile</operation> et <operation temps=6.86min espace=14>faire revenir le mélange, <ingredient quantite=1>oignon</ingredient>, <ingredient quantite=2>ail</ingredient> et <ingredient quantite=1>piment</ingredient></operation>. ajouter les <ingredient quantite=1>tomates</ingredient> en morceaux. 3) pendant ce temps placer les <ingredient quantite=2>poivrons</ingredient> dans le <recipient>four</recipient> pour <operation temps=6.86min espace=14>faire griller leur peau</operation>. <ingredient quantite=1>peler</ingredient>, enlever les graines et <ingredient quantite=1>couper</ingredient> en morceaux. les ajouter dans la <recipient>poêle</recipient> et <operation temps=0.25min espace=14>salez</operation>. 4) passer le tout au presse - purée <ingredient quantite=1>fin</ingredient>, ajouter le <ingredient quantite=1>bouillon</ingredient>. 6) dans une soupière pouvant aller au <recipient>four</recipient>, mettre les <ingredient quantite=1>tranches de pain</ingredient>, arroser avec le <ingredient quantite=1>bouillon</ingredient>, ajouter les <ingredient quantite=6>oeufs</ingredient> crus et le <ingredient quantite=1>jambon coupé</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux. 7) mettre au <recipient>four</recipient> à 150ºc quelques minutes et <operation temps=2.0min espace=14>servir</operation>. pour aller plus vite on peut <operation temps=6.86min espace=14>faire cette soupe avec des <ingredient quantite=1>tomates</ingredient></operation> concassées en boite, des <ingredient quantite=2>poivrons rouges</ingredient> en boîte et du <ingredient quantite=1>bouillon</ingredient> en cube.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55847">
+ <titre>Tournedos de saumon aux herbes</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 pavés de saumon sans peau</p>
+ <p>1 petit bouquet d’ herbes</p>
+ <p>2 cuillères à soupe d’ huile d’ olive</p>
+ <p>8 fines tranches de poitrines fumée</p>
+ <p>1 verre de vin blanc</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hâcher la moitié des <ingredient quantite=1>herbes</ingredient> puis rouler la <ingredient quantite=1>tranche</ingredient> des pavés dedans en pressant pour <operation temps=6.86min espace=8>faire adhérer</operation>. entourer chaque tournedos avec 2 <ingredient quantite=8>tranches de poitrine</ingredient> et ficeler. glisser sous la ficelle quelques brins de thym et de romarin. chauffer l’ <ingredient quantite=2>huile</ingredient> dans une grande <recipient>poêle</recipient> et y <operation temps=30.0min espace=8>faire cuire</operation> et dorer les tournedos 2 min par face. les retirer et les réserver au chaud dans du papier alu. verser le <ingredient quantite=1>vin</ingredient> dans la <recipient>poêle</recipient>, <operation temps=6.86min espace=8>laisser bouillir en</operation> remuant. server les pavés poivrés et nappés du jus bien chaud. vouvray <ingredient quantite=1>blanc</ingredient>
+]]>
+ </preparation>
+</recette>

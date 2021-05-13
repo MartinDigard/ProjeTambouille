@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41341">
+ <titre>Gâteau choco-sprits</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de beurre</p>
+ <p>80 g de farine</p>
+ <p>80 g de sucre en poudre</p>
+ <p>30 g de cacao en poudre sucré</p>
+ <p>2 œufs</p>
+ <p>2 biscuits type "sprits" broyés finement</p>
+ <p>1 cuillère à soupe d’ arôme vanille</p>
+ <p>1 sachet de levure chimique</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, mélanger la farine, le <ingredient quantite=1>cacao</ingredient>, la <ingredient quantite=1>levure</ingredient> et les <ingredient quantite=2>biscuits</ingredient> en <ingredient quantite=1>poudre</ingredient>. préchauffer le <recipient>four</recipient> à 180 ° c (thermostat 6). dans un autre <recipient>saladier</recipient>, battre le beurre et le <ingredient quantite=1>sucre</ingredient> en pommade. ajouter l’ <ingredient quantite=1>arôme</ingredient> de vanille et les <ingredient quantite=2>œufs</ingredient> entiers. dès que cette pâte est onctueuse, ajouter le contenu du premier <recipient>saladier</recipient> et mélanger. verser dans un <recipient>moule</recipient> couvert de papier sulfurisé. mettre au <recipient>four</recipient> (180 ° c) pendant 50 - 55 minutes. vérifier régulièrement la cuisson grâce à la pointe d’ un couteau.
+]]>
+ </preparation>
+</recette>

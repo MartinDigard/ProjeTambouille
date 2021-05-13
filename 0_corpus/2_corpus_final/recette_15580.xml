@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15580">
+ <titre>Curry de crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de crevettes</p>
+ <p>2 boîtes de tomates pelées</p>
+ <p>1 oignon</p>
+ <p>1 cuillère à café de curry</p>
+ <p>un peu de beurre</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez l’ <ingredient quantite=1>oignon</ingredient>, et <operation temps=6.86min espace=6>faites - le</operation> <operation temps=6.86min espace=6>revenir dans le <ingredient quantite=1>beurre</ingredient> jusqu’ à ce qu’ il</operation> blanchisse. <operation temps=6.86min espace=6>rajoutez les <ingredient quantite=2>tomates</ingredient></operation> coupées en petits morceaux ainsi que leur jus. <operation temps=6.86min espace=6>laissez cuire quelques instants,</operation> puis <operation temps=6.86min espace=6>rajoutez les <ingredient quantite=1>crevettes</ingredient></operation> décortiquées et <operation temps=6.86min espace=6>faire cuire à feu doux 10 à 15 min, en</operation> ajoutant le <ingredient quantite=1>curry</ingredient>, le <ingredient quantite=1>sel</ingredient> et le poivre.
+]]>
+ </preparation>
+</recette>

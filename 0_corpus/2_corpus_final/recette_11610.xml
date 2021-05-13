@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11610">
+ <titre>Pintade farcie à mousse de foie d’ oie</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>1 pintade de 1, 5kg</p>
+ <p>200 g de mousse de foie d’ oie en rouleau </p>
+ <p>20 g de morilles séchées</p>
+ <p>3 échalotes</p>
+ <p>10 cl de porto</p>
+ <p>100 g de crème fraîche</p>
+ <p>20 g de beurre</p>
+ <p>1 barde de lard très fine</p>
+ <p>4 tranches de pain de mie rond</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=16>faire chauffer le <recipient>four</recipient> à 230 ° c (thermostat 7/8</operation>). ôter les éventuels restes de plumes. saler et poivrer. <operation temps=6.86min espace=16>ouvrir la boîte de <ingredient quantite=1>mousse</ingredient> par les deux extrémités</operation> et <operation temps=6.86min espace=16>faire pénétrer le <ingredient quantite=1>rouleau</ingredient> entier de <ingredient quantite=1>mousse</ingredient> dans la <ingredient quantite=1>pintade</ingredient></operation>. fermer l’ ouverture avec un pique-olives en bois. brider la volaille, l’ envelopper dans la <ingredient quantite=1>barde de lard</ingredient> et la poser dans un <recipient>plat</recipient>. glisser au <recipient>four</recipient> et <operation temps=6.86min espace=16>laisser cuire pendant 1 heure environ</operation>. 45 min plus tard, <operation temps=20.0min espace=16>faire tremper les <ingredient quantite=1>morilles</ingredient> 20 min dans de l’ eau</operation> tiède. peler les <ingredient quantite=3>échalotes</ingredient> et les hacher finement. <operation temps=6.86min espace=16>faire fondre le beurre dans une petite <recipient>casserole</recipient> y</operation> <operation temps=6.86min espace=16>faire blondir les <ingredient quantite=3>échalotes</ingredient> à feu doux</operation>. egoutter les <ingredient quantite=1>morilles</ingredient>, les couper en morceaux, les ajouter aux <ingredient quantite=3>échalotes</ingredient> et <operation temps=10.0min espace=16>laisser cuire pendant 10 min à feu doux</operation>. après 1 heure de cuisson, ôter la <ingredient quantite=1>barde</ingredient> et <operation temps=15.0min espace=16>laissez dorer la <ingredient quantite=1>pintade</ingredient> 15 min</operation>. ôter la croûte du <ingredient quantite=4>pain</ingredient> et le <operation temps=6.86min espace=16>faire griller</operation>. arroser <ingredient quantite=1>morilles</ingredient> et <ingredient quantite=3>échalotes</ingredient> avec le <ingredient quantite=1>porto</ingredient>, <operation temps=6.86min espace=16>laisser réduire des trois quarts,</operation> puis ajouter la <ingredient quantite=1>crème</ingredient>, saler, poivrer, mélanger et <operation temps=6.86min espace=16>laisser épaissir à feu doux</operation>. découper la <ingredient quantite=1>pintade</ingredient> et ranger les morceaux sur un <recipient>plat</recipient> de service chaud. sortir la <ingredient quantite=1>mousse de foie</ingredient> d’ <ingredient quantite=1>oie</ingredient>, y couper 4 <ingredient quantite=4>tranches</ingredient>, poser chacune d’ elles sur un toast et en entourer la <ingredient quantite=1>pintade</ingredient>. verser 3 cuillères à soupe d’ eau bouillante dans le <recipient>plat</recipient> de cuisson et gratter à la spatule pour dissoudre tous les sucs. ajouter ce jus aux <ingredient quantite=1>morilles</ingredient> et aux <ingredient quantite=3>échalotes</ingredient>. couper le reste de la <ingredient quantite=1>mousse</ingredient> en parcelles et les ajouter à la sauce en fouettant. verser en saucière et <operation temps=2.0min espace=16>servir aussitôt</operation>.
+]]>
+ </preparation>
+</recette>

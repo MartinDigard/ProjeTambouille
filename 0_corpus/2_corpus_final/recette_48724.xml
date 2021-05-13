@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48724">
+ <titre>Mousse de mirabelles</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de mirabelles </p>
+ <p>50 g de sucre</p>
+ <p>1/2 cuillère à café de vanille liquide</p>
+ <p>1/2 jus de citron</p>
+ <p>2 oeufs</p>
+ <p>50 g de beurre</p>
+ <p>tuiles aux amandes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+lavez et <operation temps=6.86min espace=8>dénoyautez les <ingredient quantite=1>mirabelles</ingredient></operation>. placez - les dans une casseroles avec le <ingredient quantite=1>sucre</ingredient>, la <ingredient quantite=1>vanille</ingredient> et le <ingredient quantite=1>jus de citron</ingredient> et <operation temps=15.0min espace=8>laissez cuire 15 min à feu doux</operation> ; <operation temps=6.86min espace=8>laissez tiédir</operation>. <operation temps=6.86min espace=8>séparez les blancs des jaunes d’ <ingredient quantite=2>oeufs</ingredient></operation>. <operation temps=6.86min espace=8>mixez les</operation> <ingredient quantite=1>mirabelles</ingredient>, <operation temps=6.86min espace=8>ajoutez le beure en parcelles et les jaunes d’ <ingredient quantite=2>oeufs</ingredient></operation>. battez les blancs en neige ferme et <operation temps=6.86min espace=8>incorporez - les</operation> délicatement à la préparation en soulevant la masse. <operation temps=20.0min espace=8>laissez refroidir</operation> et <operation temps=6.86min espace=8>mettez 2 h au <recipient>réfrigérateur</recipient></operation>. servez dans des coupes, avec des <ingredient quantite=1>tuiles aux amandes</ingredient>.
+]]>
+ </preparation>
+</recette>

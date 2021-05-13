@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29060">
+ <titre>Tarte aux bananes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de pâte feuilletée</p>
+ <p>6 bananes</p>
+ <p>10 cl de crème</p>
+ <p>2 cuillères à soupe de farine</p>
+ <p>3 jaunes d’ oeufs</p>
+ <p>150 g de sucre</p>
+ <p>5 cl de rhum</p>
+ <p>2 cuillères à soupe de sucre glace</p>
+ <p>3 cuillères à soupe de marmelade d’ abricots</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat). <operation temps=6.86min espace=13>etalez la <ingredient quantite=1>pâte</ingredient> dans un <recipient><recipient>moule</recipient> à tarte</recipient></operation> et <operation temps=15.0min espace=13>faites cuire à blanc 15 minutes</operation>. <operation temps=6.86min espace=13>saupoudrez le fond de la tarte de 50 g de <ingredient quantite=1>sucre</ingredient></operation> semoule. <operation temps=6.86min espace=13>coupez la moitié des <ingredient quantite=6>bananes</ingredient> en rondelles et écrasez l’ autre moitié</operation>. <operation temps=6.86min espace=13>mélangez la <ingredient quantite=1>crème</ingredient>, le reste de <ingredient quantite=1>sucre</ingredient>, les trois <ingredient quantite=3>jaunes</ingredient> d’ <ingredient quantite=3>oeufs</ingredient>, la farine et 4 cl de <ingredient quantite=1>rhum</ingredient></operation>. <operation temps=6.86min espace=13>battez bien</operation>. <operation temps=6.86min espace=13>incorporez la purée de</operation> <ingredient quantite=6>bananes</ingredient> et <operation temps=6.86min espace=13>nappez -en le fond de tarte</operation>. <operation temps=6.86min espace=13>disposez</operation> dessus les rondelles de <ingredient quantite=6>bananes</ingredient> restantes. <operation temps=6.86min espace=13>délayez la <ingredient quantite=3>marmelade</ingredient> d’ <ingredient quantite=3>abricots</ingredient> avec le reste de</operation> <ingredient quantite=1>rhum</ingredient> et <operation temps=6.86min espace=13>nappez -en le dessus de la tarte</operation>. enfournez pour 20 minutes de cuisson. saupoudrez de <ingredient quantite=1>sucre glace</ingredient> puis <operation temps=2.0min espace=13>passez 2 minutes sous le <recipient>gril</recipient> du <recipient>four</recipient></operation>.
+]]>
+ </preparation>
+</recette>

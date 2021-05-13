@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14195">
+ <titre>Tarte amandine aux poires</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée toute prête</p>
+ <p>1 ou 2 boîtes de poires au sirop</p>
+ <p>100 g de beurre</p>
+ <p>100 g de sucre</p>
+ <p>2 oeufs</p>
+ <p>100 g d’ amandes en poudre</p>
+ <p>25 g de farine</p>
+ <p>10 cl d’ alcool de poire ou autre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=10>mélangez le beurre</operation> ramolli au <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que vous <operation temps=6.86min espace=10>obteniez un mélange léger</operation>. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=2>oeufs</ingredient></operation> battus, puis les <ingredient quantite=1>amandes en poudre</ingredient> et la farine tamisée. parfumez avec l’ <ingredient quantite=1>alcool de poire</ingredient>. etalez la <ingredient quantite=1>pâte brisée</ingredient> au fond d’ un <recipient><recipient>moule</recipient> à tarte</recipient>. <operation temps=6.86min espace=10>piquez -en le fond</operation> et <operation temps=6.86min espace=10>versez - y le mélange</operation>. placez enfin les <ingredient quantite=1>poires</ingredient> sur le mélange en les enfonçant délicatement. <operation temps=6.86min espace=10>mettez à</operation> cuire 30 mn à <recipient>four</recipient> moyen (thermostat 6).
+]]>
+ </preparation>
+</recette>

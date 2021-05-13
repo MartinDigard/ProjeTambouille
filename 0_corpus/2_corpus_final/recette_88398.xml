@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88398">
+ <titre>Poulet au cumin et au curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 filets de poulet</p>
+ <p>40 cl de crème de coco</p>
+ <p>2 cuillères à café de curry en poudre</p>
+ <p>1 cuillère à café de cumin en poudre</p>
+ <p>2 oignons</p>
+ <p>2 petites courgettes jaunes</p>
+ <p>1 pincée de piment en poudre</p>
+ <p>2 cuillères à soupe de crème</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+détailler les <ingredient quantite=6>filets de poulet</ingredient> en <ingredient quantite=1>petits</ingredient> morceaux. les cuire dans un <recipient>wok</recipient> avec de l’ huile d’ olive. les réserver. emincer les <ingredient quantite=2>oignons</ingredient>, éplucher et couper les <ingredient quantite=2>courgettes</ingredient> en dés. <operation temps=6.86min espace=11>faire dorer les <ingredient quantite=2>oignons</ingredient> dans un <recipient>wok</recipient></operation>, ajouter les dés de <ingredient quantite=2>courgettes</ingredient>. <operation temps=30.0min espace=11>faire cuire le tout à feu doux pendant environ 30 minutes</operation>. dans le <recipient>wok</recipient>, ajouter le <ingredient quantite=6>poulet</ingredient>, 40 cl de <ingredient quantite=1>crème</ingredient> de <ingredient quantite=1>coco</ingredient>, 40 cl d’ eau, du <ingredient quantite=1>cumin</ingredient> et du <ingredient quantite=2>curry</ingredient>. saler, poivrer, saupoudrer de <ingredient quantite=1>piment</ingredient>. <operation temps=6.86min espace=11>laisser cuire le tout à feu doux et sous un couvercle pendant 1h30</operation>. ajouter la <ingredient quantite=1>crème</ingredient> et <operation temps=3.0min espace=11>servir avec du riz</operation>. blanc
+]]>
+ </preparation>
+</recette>

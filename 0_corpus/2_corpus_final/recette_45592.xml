@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45592">
+ <titre>Poulet rôti au camembert</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 beau poulet fermier</p>
+ <p>1/4 de camembert</p>
+ <p>1 gousse d’ ail</p>
+ <p>quelques tranches de pain rassi</p>
+ <p>20 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper des lamelles de <ingredient quantite=1>camembert</ingredient> assez finement. décoller doucement avec les doigts la peau du dos du <ingredient quantite=1>poulet</ingredient> (au dessus des blancs). insérer délicatement les lamelles de <ingredient quantite=1>camembert</ingredient> entre la peau et les blancs. ailler des <ingredient quantite=1>tranches de pains rassi</ingredient>, et les insérer dans le <ingredient quantite=1>poulet</ingredient>. saler, poivrer et beurrer la peau du <ingredient quantite=1>poulet</ingredient>. <operation temps=50.0min espace=7>faire cuire à 200 ° c (th 6 - 7), pendant environ 50 min (ça</operation> dépend du <ingredient quantite=1>poulet</ingredient> et du <recipient>four</recipient>), en surveillant bien. vous pouvez prendre un vieux reste de <ingredient quantite=1>camembert</ingredient>, en fait plus il est fort mieux c’ est, car en cuisant il va fondre sur les blancs qui prendront une saveur et un moelleux délicat... grave rouge ou chablis qui sera plus subtil
+]]>
+ </preparation>
+</recette>

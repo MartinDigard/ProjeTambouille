@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27272">
+ <titre>Salade de fruits parfumée</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>des fruits pas trop mûrs et qui se tiennent comme des oranges des pamplemousses des poires des pommes des abricots...</p>
+ <p>de l’ eau</p>
+ <p>du sucre</p>
+ <p>1 ou 2 sachets d’ infusion verveine menthe ou un parfum que vous aimez et qui s’ accorde avec les fruits</p>
+ <p>de la badiane</p>
+ <p>de la cannelle</p>
+ <p>un peu de gingembre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>préparez les</operation> <ingredient quantite=1>fruits</ingredient> ; <operation temps=3.0min espace=8>pelez</operation> - les ou <operation temps=6.86min espace=8>lavez les</operation> et <operation temps=6.86min espace=8>coupez - les en morceaux assez gros</operation>. <operation temps=1.0min espace=8>mettez</operation> chauffer suffisamment d’ <ingredient quantite=1>eau</ingredient> mélangée à du <ingredient quantite=1>sucre</ingredient> pour recouvrir la quantité de <ingredient quantite=1>fruits que</ingredient> vous aurez <operation temps=6.86min espace=8>mis dans un <recipient>saladier</recipient></operation>. une fois que l’ <ingredient quantite=1>eau</ingredient> bout ajouter 1 étoile de <ingredient quantite=1>badiane</ingredient>, un <ingredient quantite=1>peu de gingembre</ingredient> et de <ingredient quantite=1>cannelle</ingredient> en poudre et <ingredient quantite=1>les sachets</ingredient> d’ <ingredient quantite=1>infusion</ingredient>. <operation temps=15.0min espace=8>laissez infuser environ 15 min</operation>. retirez la <ingredient quantite=1>badiane</ingredient> et <ingredient quantite=1>les sachets</ingredient> et <operation temps=1.0min espace=8>versez</operation> tiède sur les <ingredient quantite=1>fruits</ingredient>. <operation temps=6.86min espace=8>laissez mariner au frigo</operation> et <operation temps=6.86min espace=8>sortez un peu à l’ avance</operation>. <operation temps=6.86min espace=8>servez avec des boules de glace ou <ingredient quantite=1>avec</ingredient> des biscuits secs</operation>.
+]]>
+ </preparation>
+</recette>

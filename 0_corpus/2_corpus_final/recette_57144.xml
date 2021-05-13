@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57144">
+ <titre>Gâteau Victoria</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>100 g de chocolat noir à dessert</p>
+ <p>100 g de farine</p>
+ <p>160 g de crème fraîche</p>
+ <p>4 oeufs</p>
+ <p>2 cuillères à café de café soluble</p>
+ <p>160 g de sucre en poudre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 200 ° c (thermostat 6 - 7). <operation temps=6.86min espace=8>râpez le <ingredient quantite=1>chocolat</ingredient></operation>. <operation temps=6.86min espace=8>fouettez les <ingredient quantite=4>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le mélange soit mousseux</operation>. <operation temps=6.86min espace=8>faites dissoudre le <ingredient quantite=2>café</ingredient> dans 2 <ingredient quantite=2>cuillères</ingredient> à soupe de <ingredient quantite=1>crème</ingredient> tièdie</operation>. <operation temps=6.86min espace=8>ajoutez la farine au mélange <ingredient quantite=4>oeufs</ingredient> - <ingredient quantite=1>sucre</ingredient>, puis la <ingredient quantite=1>crème</ingredient>, le <ingredient quantite=2>café</ingredient> délayé et le <ingredient quantite=1>chocolat</ingredient> râpé</operation>. <operation temps=8.0min espace=8>mélangez bien</operation> et <operation temps=6.86min espace=8>versez la pâte dans un <recipient>moule</recipient> à</operation> manqué beurré d’ environ 24 cm de diamètre. <operation temps=35.0min espace=8>faire cuire 35 min</operation>. <operation temps=6.86min espace=8>démoulez le gâteau</operation> tiède et <operation temps=6.86min espace=8>laissez - le refroidir complètement avant de</operation> <operation temps=2.0min espace=8>servir</operation>.
+]]>
+ </preparation>
+</recette>

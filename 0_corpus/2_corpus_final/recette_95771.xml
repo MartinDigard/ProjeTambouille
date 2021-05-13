@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95771">
+ <titre>Cari de crabe réunionais</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 crabe</p>
+ <p>6 petits piments (selon les goûts) </p>
+ <p>1 cuillère à café de curcuma</p>
+ <p>6 tomates</p>
+ <p>2 oignons</p>
+ <p>1 branche de thym</p>
+ <p>1 petit morceau de gingembre</p>
+ <p>3 gousses d’ ail</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+couper le <ingredient quantite=1>crabe</ingredient> en <ingredient quantite=1>morceaux</ingredient>. verser dans une <recipient>marmite</recipient> d’ huile chaude les <ingredient quantite=2>oignons</ingredient> émincés, l’ <ingredient quantite=3>ail</ingredient>, les <ingredient quantite=6>piments</ingredient> pilés (ou hachés) avec l gingembre, le <ingredient quantite=1>sel</ingredient>, le <ingredient quantite=1>thym</ingredient> et <operation temps=6.86min espace=10>laissez dorer</operation>. <operation temps=6.86min espace=10>ajoutez le <ingredient quantite=1>curcuma</ingredient> puis les <ingredient quantite=6>tomates</ingredient></operation> coupées en <ingredient quantite=6>petits</ingredient> dés. <operation temps=6.86min espace=10>ajoutez les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>crabe</ingredient> et 2dl d’ eau</operation>. <operation temps=6.86min espace=10>ajoutez le persil</operation> et <operation temps=30.0min espace=10>laisser cuire pendant 30 minutes environ</operation>.
+]]>
+ </preparation>
+</recette>

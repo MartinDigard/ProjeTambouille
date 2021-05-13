@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23129">
+ <titre>Pennes aux olives / basilic</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>200 g de penne</p>
+ <p>10 olives vertes ou noires</p>
+ <p>15 cl d’ huile d’ olive</p>
+ <p>basilic</p>
+ <p>1 tomate</p>
+ <p>une boule de mozzarella</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire cuire les <ingredient quantite=1>penne</ingredient> dans une <recipient>casserole</recipient> remplie d’ eau</operation> salée, pendant ce temps mettre le <ingredient quantite=1>basilic</ingredient> 30 seconde dans de l’ eau bouillante, <operation temps=6.86min espace=9>égouttez le puis le</operation> mettre dans un mixer avec les <ingredient quantite=1>olives</ingredient> et l’ huile d’ <ingredient quantite=1>olive</ingredient>, ce sera la sauce de vos pâtes. <operation temps=6.86min espace=9>coupez la <ingredient quantite=1>tomate</ingredient> en dés, de même pour la</operation> <ingredient quantite=1>mozzarella</ingredient>, mettre ces deux éléments dans un <recipient>saladier</recipient>. après avoir égoutté les pâtes, <operation temps=6.86min espace=9>jetez</operation> - les sous l’ eau froide pour stoper la cuisson, puis finalement les mettre dans le <recipient>saladier</recipient> avec la quantité de sauce aux <ingredient quantite=1>olives</ingredient> et <ingredient quantite=1>basilic</ingredient> que vous souhaitez, saler, poivrer, déguster!!!!!!!
+]]>
+ </preparation>
+</recette>

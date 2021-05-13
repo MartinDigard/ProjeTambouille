@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34432">
+ <titre>Tarte à la vache qui rit</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 rouleau de pâte brisée</p>
+ <p>1 boîte de vache qui rit (normalement 8 portions suffisent, vous pouvez en mettre plus selon votre goût) </p>
+ <p>20 cl de crème fraîche liquide</p>
+ <p>2 oeufs</p>
+ <p>200 g de gruyère</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>cassez les 2 <ingredient quantite=2>oeufs</ingredient> dans un <recipient>saladier</recipient></operation> et versez la <ingredient quantite=1>crème fraîche liquide</ingredient>. mettre les 3/4 du gruyère, <operation temps=0.25min espace=9>salez</operation>, <operation temps=6.86min espace=9>poivrez et remuez bien le tout</operation>. <operation temps=0.5min espace=9>réservez</operation>. dans un <recipient><recipient>moule</recipient> à tarte</recipient>, <operation temps=6.86min espace=9>déposez la <ingredient quantite=1>pâte</ingredient> brisée (avec le papier</operation> sulfurisé, <operation temps=6.86min espace=9>coupez les morceaux qui</operation> dépassent). <operation temps=6.86min espace=9>piquez la tarte avec une fourchette</operation>. <operation temps=6.86min espace=9>coupez la <ingredient quantite=1>vache</ingredient> qui ki <ingredient quantite=1>rit</ingredient> en morceaux et les</operation> mettre sur la <ingredient quantite=1>pâte</ingredient>. <operation temps=6.86min espace=9>versez le contenu du <recipient>saladier</recipient> sur les morceaux de fromage</operation>. mettre le reste du gruyère pour <operation temps=6.86min espace=9>faire gratiner</operation>. enfourner à 180 ° c pendant 40 mn (peut-être un peu plus, le temps que la tarte soit bien dorée). accompagnée d’ une salade, c’ est trop bon!
+]]>
+ </preparation>
+</recette>

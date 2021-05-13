@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46295">
+ <titre>Nouilles chinoises aux crevettes et petits légumes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de nouilles de soja</p>
+ <p>200 g de crevettes roses décortiquées (fraîches ou surgelées) </p>
+ <p>Pour les légumes au choix: </p>
+ <p>fenouil</p>
+ <p>chou vert (ou chou chinois) </p>
+ <p>champignons noirs (ou champignons de Paris) </p>
+ <p>1 gousse d’ ail</p>
+ <p>1 pincée de gingembre</p>
+ <p>1 pincée de basilic</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>faire revenir dans un <recipient>wok</recipient> les <ingredient quantite=1>légumes</ingredient> coupés en petits morceaux, dans une huile neutre</operation> (soja ou arachide), rajouter les <ingredient quantite=1>crevettes</ingredient> et les 2 pincées de condiments. pendant ce temps, <operation temps=6.86min espace=12>faire bouillir de l’ eau</operation>. quand le liquide est à ébullition, éteindre et rajouter les <ingredient quantite=1>nouilles</ingredient>. attendre 5 min. verser les <ingredient quantite=1>nouilles</ingredient> dans un <recipient>plat</recipient>, rajouter le mélange de <ingredient quantite=1>légumes</ingredient> et <ingredient quantite=1>crevettes</ingredient>, mélanger, <operation temps=2.0min espace=12>servir aussitôt</operation>. ce <recipient>plat</recipient> est savoureux, très agréable et facile. je l’ ai réalisé car les films où l’ on voit les asiatiques avaler leurs longues <ingredient quantite=1>nouilles</ingredient> dans leur petits bols m’ ont toujours donné envie!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30842">
+ <titre>Jambon braisé à la bourguignonne</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 jambon de 4 kg</p>
+ <p>200 g de carottes</p>
+ <p>150 g d’ oignons</p>
+ <p>40 g de beurre</p>
+ <p>1 bouteille de vin blanc de Bourgogne</p>
+ <p>2 l de fond de veau</p>
+ <p>1 bouquet garni</p>
+ <p>Pour la garniture: </p>
+ <p>1 kg de champignons de Paris</p>
+ <p>50 g de beurre</p>
+ <p>4 tomates</p>
+ <p>1 l de crème fraîche épaisse</p>
+ <p>1 kg de petits pois extra-fins cuits</p>
+ <p>50 cl de fine de Bourgogne</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+plonger le <ingredient quantite=1>jambon</ingredient> dans l’ eau pendant 24 heures puis le mettre dans une grande bassine d’ eau froide. porter à ébullition et cuire durant 2 heures. egoutter et le débarasser de sa couenne. emincer les <ingredient quantite=1>oignons</ingredient> et les <ingredient quantite=1>carottes</ingredient> puis les <operation temps=6.86min espace=14>faire fondre dans le beurre</operation>. disposer le <ingredient quantite=1>jambon</ingredient> dessus et recouvrir de <ingredient quantite=1>vin</ingredient> et de <ingredient quantite=1>fond de veau</ingredient>. ajouter le <ingredient quantite=1>bouquet garni</ingredient>. cuire durant 1 h 30 puis égoutter et <operation temps=6.86min espace=14>faire réduire le jus de cuisson sur feu vif</operation>. emincer les <ingredient quantite=1>champignons</ingredient> et les <operation temps=6.86min espace=14>faire fondre dans le beurre</operation>. ajouter les <ingredient quantite=4>tomates</ingredient> concassées et le jus de cuisson du <ingredient quantite=1>jambon</ingredient>. ajouter la <ingredient quantite=1>crème</ingredient> et cuire 15 minutes. incorporer les petits-pois et la <ingredient quantite=1>fine de bourgogne</ingredient>. poursuivre la cuisson 15 minutes et napper le <ingredient quantite=1>jambon</ingredient> coupé en tranches de cette sauce.
+]]>
+ </preparation>
+</recette>

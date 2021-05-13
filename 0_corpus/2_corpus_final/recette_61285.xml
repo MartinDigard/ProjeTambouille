@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61285">
+ <titre>Nouilles au saumon et pesto (au wok) </titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>600 g de darnes de saumon coupés en dés de 2 cm (ou pavé de saumon se sera beaucoup plus rapide mais moins économique) </p>
+ <p>500 g de nouilles chinoises</p>
+ <p>1 feuille de nori rôti</p>
+ <p>1 cuillère à soupe d’ huile d’ olive</p>
+ <p>Pour le pesto de nori: </p>
+ <p>1 feuille de nori rôti en lanières</p>
+ <p>180 g de basilic frais</p>
+ <p>65 g d’ aneth frais</p>
+ <p>2 cuillères à soupe de pignons de pin</p>
+ <p>2 gousses d’ ail pilées</p>
+ <p>125 g d’ huile d’ olive</p>
+ <p>20 g de parmesan râpé grossiérement</p>
+ <p>Pour les personnes pressées, il est possible d’ acheter un pot de pesto de 200 g à la place. </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer le <ingredient quantite=1>pesto</ingredient> au <ingredient quantite=1>nori</ingredient> en mixant vigoureusement tous les éléments. mélanger le <ingredient quantite=1>saumon en dés</ingredient> avec la moitié du <ingredient quantite=1>pesto</ingredient> dans un <recipient>saladier</recipient> et mettre à mariner au <recipient>réfrigérateur</recipient> 2 heures. <operation temps=3.0min espace=17>faire cuire les <ingredient quantite=1>nouilles</ingredient> dans une grande <recipient>casserole</recipient> d’ eau bouillante 2 ou 3 min</operation>. <operation temps=10.0min espace=17>egouttez</operation>. coupez la feuille de <ingredient quantite=1>nori rôti en lanières</ingredient>. egoutter le poisson. mettre l’ <ingredient quantite=1>huile</ingredient> dans le <recipient>wok</recipient> et <operation temps=6.86min espace=17>faire revenir le <ingredient quantite=1>saumon</ingredient> par petite quantité jusqu’ a se</operation> qu’ il soit cuit et doré. réserver au chaud. <operation temps=6.86min espace=17>faire sauter les <ingredient quantite=1>nouilles</ingredient> pour les rechauffer</operation>. incorporer le <ingredient quantite=1>saumon</ingredient> puis ajouter le reste du <ingredient quantite=1>pesto</ingredient>. bon appétit.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15793">
+ <titre>Poulet au citron</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 poulet entier</p>
+ <p>4 échalotes</p>
+ <p>50 cl de crème fraîche</p>
+ <p>10 cl de vin blanc </p>
+ <p>20 cl d’ eau </p>
+ <p>1 citron</p>
+ <p>1 cuillère à soupe de farine de froment</p>
+ <p>sel, poivre</p>
+ <p>beurre demi-sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+commencer par découper le <ingredient quantite=1>poulet</ingredient> (il est evidemment possible de n’ acheter que des <ingredient quantite=1>blancs</ingredient>...), émincer les <ingredient quantite=4>échalotes</ingredient>. dans une <recipient>marmite</recipient>, <operation temps=6.86min espace=10>faire revenir les morceaux de <ingredient quantite=1>poulet</ingredient> dans le beurre à feux moyen</operation>. quand ils sont colorés, ajouter les <ingredient quantite=4>échalotes</ingredient>. au bout de 2 mn, ajouter la <ingredient quantite=1>farine</ingredient>, le <ingredient quantite=1>vin</ingredient> et l’ <ingredient quantite=1>eau</ingredient>. mélanger le tout pour <operation temps=6.86min espace=10>obtenir une sauce homogène</operation>, <operation temps=0.25min espace=10>couvrir</operation> et <operation temps=30.0min espace=10>laisser cuire 30 mn</operation>. ajouter le jus de <ingredient quantite=1>citron</ingredient> et la <ingredient quantite=1>crème fraîche</ingredient>, mélanger et <operation temps=10.0min espace=10>laisser mijoter 10 mn</operation>. servir accompagné de riz ou de pâtes fraîches.
+]]>
+ </preparation>
+</recette>

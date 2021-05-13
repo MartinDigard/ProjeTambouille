@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12059">
+ <titre>Emincé à la zurichoise</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>700 g d’ émincé de veau</p>
+ <p>100 g de beurre</p>
+ <p>200 g de champignons de Paris</p>
+ <p>100 g d’ échalotes</p>
+ <p>20 cl de vin blanc sec</p>
+ <p>20 g de beurre manié: beurre et farine</p>
+ <p>10 cl de fond brun</p>
+ <p>1 cuillère à café de zeste de citron râpé</p>
+ <p>1 cuillère à soupe de persil haché</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faire sauter la viande en plusieurs portions et la</operation> retirer. <ingredient quantite=1>hacher</ingredient> les <ingredient quantite=1>échalotes</ingredient>, <ingredient quantite=1>émincer</ingredient> les <ingredient quantite=1>champignons</ingredient> et <operation temps=6.86min espace=9>faire suer le tout</operation>. déglacer au <ingredient quantite=1>vin blanc</ingredient>, ajouter le <ingredient quantite=1>fond brun</ingredient> et donner quelques bouillons. lier au <ingredient quantite=1>beurre manié</ingredient>, puis ajouter l’ <ingredient quantite=1>émincé</ingredient>. <operation temps=6.86min espace=9>faire chauffer sans</operation> cuire, ajouter <ingredient quantite=1>zestes de citron</ingredient> et <ingredient quantite=1>persil</ingredient>. servir très chaud. contrairement à une idée trop répandue, cet <ingredient quantite=1>émincé</ingredient> ne comporte pas de crème. <ingredient quantite=1>vin blanc sec</ingredient>
+]]>
+ </preparation>
+</recette>

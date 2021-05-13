@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55205">
+ <titre>Tomme de Savoie au four</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 tomme de Savoie</p>
+ <p>vin blanc sec de Savoie</p>
+ <p>poivre du moulin</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+gratter la croûte de la surface de la tomme. avec un évide - pomme percer une vingtaine de trous profonds dans la tomme. remplir chaque trou de <ingredient quantite=1>vin blanc</ingredient>. parsemer de poivre noir. entourer le tour de la tomme de papier aluminium (surtout pas le dessus). mettre dans un <recipient>plat</recipient> qui entoure bien la tomme pour évider qu’ elle se répande. <operation temps=45.0min espace=4>savourez au bout de 45 min environ de cuisson, avec du pain</operation> trempé dedans, de la charcuterie et des pommes de terre. <ingredient quantite=1>blanc de savoie</ingredient>
+]]>
+ </preparation>
+</recette>

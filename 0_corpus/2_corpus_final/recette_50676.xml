@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50676">
+ <titre>Paupiette de canard farcie sauce aux olives</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>250 g de riz</p>
+ <p>1 gros magret de canard coupé en 4 dans l’ épaisseur</p>
+ <p>250 g de hachis de volaille, porc et/ou veau</p>
+ <p>1 oeuf</p>
+ <p>mie de pain ou chapelure</p>
+ <p>50 cl de sauce tomate</p>
+ <p>40 olives vertes dénoyautées</p>
+ <p>75g de beurre</p>
+ <p>1 botte de persil</p>
+ <p>1 botte de ciboulette </p>
+ <p>20 cl de vin blanc</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=13>faites cuire le <ingredient quantite=1>riz</ingredient></operation>. aplatissez légèrement les 4 tranches de <ingredient quantite=1>magret de canard</ingredient>, <operation temps=6.86min espace=13>assaisonnez de fel et de poivre</operation>. <operation temps=6.86min espace=13>farcissez les tranches de <ingredient quantite=1>magret</ingredient> d’ une farce</operation> composée de la viande hachée, de l’ <ingredient quantite=1>oeuf</ingredient>, des herbes ciselées et d’ un peu de <ingredient quantite=1>mie de pain ou de chapelure</ingredient>. <operation temps=6.86min espace=13>roulez - les</operation> et <operation temps=6.86min espace=13>faites - les</operation> <operation temps=6.86min espace=13>tenir avec un petite brochette</operation>. <operation temps=15.0min espace=13>faites cuire doucement pendant 15 minutes dans le beurre</operation> puis <operation temps=0.5min espace=13>réservez au chaud</operation>. dégraissez la <recipient>poêle</recipient> et déglacez avec le <ingredient quantite=1>vin blanc</ingredient>. <operation temps=3.0min espace=13>laissez réduire sur feu vif pendant 3 minutes</operation> puis <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=1>olives</ingredient>, la sauce tomate</operation> et <operation temps=10.0min espace=13>poursuivez la cuisson pendant 10 minutes</operation>. <operation temps=6.86min espace=13>dressez un dôme de <ingredient quantite=1>riz</ingredient> par assiette avec une paupiette <ingredient quantite=1>coupée</ingredient> en 2 dans l’ <ingredient quantite=1>épaisseur</ingredient>, côté <ingredient quantite=1>coupé</ingredient> vers le haut</operation>. <operation temps=6.86min espace=13>disposez les <ingredient quantite=1>olives</ingredient> autour</operation> et <operation temps=6.86min espace=13>versez la sauce dans le fond de l’ assiette</operation>.
+]]>
+ </preparation>
+</recette>

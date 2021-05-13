@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21902">
+ <titre>Compote de potiron aux raisins secs et miel</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1, 5 kg de potiron</p>
+ <p>250 g de miel</p>
+ <p>100 g de raisins secs</p>
+ <p>1 orange non traitée</p>
+ <p>1 citron non traité</p>
+ <p>1 petit verre de rhum</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>mettez la moitié des <ingredient quantite=1>raisins</ingredient> à</operation> gonfler dans le <ingredient quantite=1>rhum</ingredient>. pelez et <operation temps=6.86min espace=9>coupez la chair du <ingredient quantite=1>potiron</ingredient> en gros cubes</operation>. <operation temps=6.86min espace=9>découpez l’ <ingredient quantite=1>orange</ingredient> et le <ingredient quantite=1>citron</ingredient> en rondelles</operation>. <operation temps=6.86min espace=9>mettez le tout dans une <recipient>casserole</recipient> avec le <ingredient quantite=1>miel</ingredient> et le reste des <ingredient quantite=1>raisins</ingredient></operation>. <operation temps=0.25min espace=9>couvrez</operation> et <operation temps=30.0min espace=9>faites cuire 30 min à feu doux</operation>. <operation temps=6.86min espace=9>sortez les tranches d’ agrumes</operation> et <operation temps=6.86min espace=9>disposez - les au fond d’ un <recipient>saladier</recipient></operation>. ecrasez bien le <ingredient quantite=1>potiron</ingredient> en purée et <operation temps=6.86min espace=9>versez - le dans le <recipient>saladier</recipient></operation>, <operation temps=6.86min espace=9>rajoutez les <ingredient quantite=1>raisins</ingredient></operation> macérés au le <ingredient quantite=1>rhum</ingredient>. <operation temps=6.86min espace=9>réservez au frais jusqu’ au service</operation>. cette compote peut <operation temps=6.86min espace=9>servir de base pour</operation> <operation temps=6.86min espace=9>garnir une tarte au <ingredient quantite=1>potiron</ingredient></operation>.
+]]>
+ </preparation>
+</recette>

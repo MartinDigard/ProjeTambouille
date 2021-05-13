@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58814">
+ <titre>Pastachuta</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de boeuf haché</p>
+ <p>4 saucisses fumées</p>
+ <p>1 boîte de champignon émincé (115 g) </p>
+ <p>750 ml de coulis de tomate</p>
+ <p>1 feuille de laurier</p>
+ <p>1 branche de thym</p>
+ <p>600 g de spaghetti</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer des boulettes de <ingredient quantite=1>boeuf</ingredient> hachée de la taille d’ une grosse bille. les passer dans la farine pour qu’ elles ne collent pas. couper les <ingredient quantite=4>saucisses fumées</ingredient> en rondelles assez fines. dans une grande <recipient>cocotte</recipient>, <operation temps=6.86min espace=9>faire revenir dans du beurre les boulettes de <ingredient quantite=1>boeuf</ingredient> et les <ingredient quantite=4>saucisses</ingredient></operation>. ajouter le <ingredient quantite=1>coulis de tomate</ingredient>, puis les <ingredient quantite=1>champignons</ingredient>, le <ingredient quantite=1>laurier</ingredient> et le <ingredient quantite=1>thym</ingredient>. saler et poivrer. au bout de 30 min de cuisson, ajouter 1/4 de litre d’ eau et <operation temps=45.0min espace=9>laisser cuire encore 45 min à 1 h</operation>. <operation temps=6.86min espace=9>faire bouillir de l’ eau</operation> et cuire les <ingredient quantite=1>spaghetti</ingredient>. <operation temps=6.86min espace=9>servir dans un grand <recipient>plat</recipient> en</operation> mettant d’ abord les pâtes, puis la sauce dessus. c’ est encore meilleur réchauffé.
+]]>
+ </preparation>
+</recette>

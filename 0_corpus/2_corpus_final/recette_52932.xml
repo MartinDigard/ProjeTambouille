@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52932">
+ <titre>Tagliatelles aux st-jacques et safran</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Assez Cher</cout>
+ <ingredients>
+ <p>400 g de tagliatelles (ou spaghetti) </p>
+ <p>400 g de noix de st-jacques (éventuellement surgelées) </p>
+ <p>200 g de champignons de Paris</p>
+ <p>2 échalotes</p>
+ <p>2 grosses cuillères à soupe de crème fraîche</p>
+ <p>2 doses de safran</p>
+ <p>2 cuillères à soupe de cognac</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire revenir les <ingredient quantite=2>échalotes</ingredient></operation> hachées finement dans une <ingredient quantite=1>noix</ingredient> de beurre. ajouter les <ingredient quantite=1>noix de st</ingredient> - <ingredient quantite=1>jacques</ingredient>, coupées en 2 selon la taille (sauf si elles sont très petites) ; si ce sont des surgelées, les dégeler avant. déglacer avec les 2 <ingredient quantite=2>cuillères à soupe de cognac</ingredient> et <operation temps=5.0min espace=11>laisser mijoter à feu doux 5 min ; saler</operation>, poivrer et réserver de côté. dans la même <recipient>poêle</recipient>, <operation temps=6.86min espace=11>faire cuire les <ingredient quantite=1>champignons</ingredient> jusqu’ à évaporation de l’ eau ; saler</operation>, poivrer et mettre de côté avec les <ingredient quantite=1>noix</ingredient>. <operation temps=6.86min espace=11>faire cuire les <ingredient quantite=1>tagliatelles</ingredient></operation>. pendant ce temps, remettre les <ingredient quantite=1>champignons</ingredient> et <ingredient quantite=1>st</ingredient> - <ingredient quantite=1>jacques</ingredient> dans la <recipient>poêle</recipient>, avec la <ingredient quantite=2>crème</ingredient> et le <ingredient quantite=2>safran</ingredient>, juste le temps de réchauffer l’ ensemble. servir bien chaud avec les <ingredient quantite=1>tagliatelles</ingredient>.
+]]>
+ </preparation>
+</recette>

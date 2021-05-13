@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201212">
+ <titre>Rôti de sanglier à la bière</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>un rôti ou petit gigot de sanglier</p>
+ <p>33 cl de bière</p>
+ <p>2 cuillerées à soupe de moutarde</p>
+ <p>2 cuillerées à soupe d’ huile d’ olive</p>
+ <p>1 cuillerées à soupe de vinaigre balsamique</p>
+ <p>2 cuillerées à soupe de guignolet</p>
+ <p>50 g de lardons fumés</p>
+ <p>1 échalote </p>
+ <p>1/2 oignon ou un petit</p>
+ <p>2 gousses d’ ail</p>
+ <p>thym et herbes de Provence</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger d’ abord la <ingredient quantite=2>moutarde</ingredient> et l’ <ingredient quantite=2>huile</ingredient> d’ <ingredient quantite=2>olive</ingredient>, puis rajouter les autres ingrédients dont l’ <ingredient quantite=1>échalote</ingredient>, l’ <ingredient quantite=1>oignon</ingredient> et l’ <ingredient quantite=2>ail</ingredient> émincés. <operation temps=6.86min espace=13>laissez mariner 24 heures si possible (cela parfume</operation> et attendri la viande), le tourner à mi-temps. mettre le tout au <recipient>four</recipient> à 180 ° c (thermostat 6) 1h à 1h30 suivant le morceau. le tourner à mi-cuisson. bon appétit!
+]]>
+ </preparation>
+</recette>

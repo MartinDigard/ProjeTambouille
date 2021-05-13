@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169111">
+ <titre>Filet mignon en croûte ultra simple</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 filet mignon de porc</p>
+ <p>1 pâte feuilletée</p>
+ <p>1 petite boîte de Saint-Moret</p>
+ <p>15 feuilles de menthe</p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dérouler la <ingredient quantite=1>pâte feuilletée</ingredient> dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. y déposer le <ingredient quantite=1>filet mignon</ingredient>. ciseler les <ingredient quantite=1>feuilles de menthe</ingredient> et les incorporer au <ingredient quantite=1>saint-moret</ingredient>. poivrer. tartiner le <ingredient quantite=1>filet mignon</ingredient> avec le mélange saint - moret / <ingredient quantite=1>menthe</ingredient> / <ingredient quantite=1>poivre</ingredient>. refermer la <ingredient quantite=1>pâte</ingredient> hermétiquement. mettre au <recipient>four</recipient> (200 °) pour 40 minutes.
+]]>
+ </preparation>
+</recette>

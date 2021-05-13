@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32693">
+ <titre>La bignaïe (vieille recette de crêpes maraichines) </titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>6 cuillères à soupe de farine de sarrasin</p>
+ <p>4 cuillères à soupe de farine blanche</p>
+ <p>sel</p>
+ <p>eau</p>
+ <p>200 g de lardons</p>
+ <p>huile pour la cuisson</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>préparez une pâte à crêpes façon galette de blé noir</operation>: mettez dans un <recipient>saladier</recipient> 5 à 6 cuilères à <ingredient quantite=6>soupe de farine de sarrasin</ingredient>, puis 3 à 4 <ingredient quantite=6>cuillères à soupe de farine blanche</ingredient>. <operation temps=6.86min espace=8>ajoutez du</operation> <ingredient quantite=1>sel</ingredient>, <operation temps=6.86min espace=8>mélangez le tout avec de l’ <ingredient quantite=1>eau</ingredient> jusqu’ à ce que la pâte soit ni trop épaisse, ni trop liquide</operation>. <operation temps=6.86min espace=8>faire revenir les <ingredient quantite=1>lardons</ingredient></operation>. mélanger les <ingredient quantite=1>lardons</ingredient> avec la pâte. <operation temps=6.86min espace=8>faire chauffer la <recipient>crêpière</recipient> avec une peu d’</operation> huile. lorsque celle-ci est bien chaude, <operation temps=6.86min espace=8>répartir une louche de de pâte aux</operation> <ingredient quantite=1>lardons</ingredient> et <operation temps=6.86min espace=8>faire cuire,</operation> puis retourner la crêpe.
+]]>
+ </preparation>
+</recette>

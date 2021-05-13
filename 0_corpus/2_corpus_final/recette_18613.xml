@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18613">
+ <titre>Curry japonais</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de porc coupé en morceaux de 3 cm sur 3 environ</p>
+ <p>4 carottes coupées en gros cubes</p>
+ <p>2 navets coupés en gros cubes</p>
+ <p>4 pommes de terre coupées en gros cubes</p>
+ <p>2 courgettes coupées en gros cubes</p>
+ <p>curry selon votre goût</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+faire revenir les <ingredient quantite=1>morceaux de porc</ingredient> dans un peu d’ huile jusqu’ à ce qu’ ils soient bien grillés. les retirer et <operation temps=6.86min espace=8>faire un roux avec la graisse qu’ il y</operation> a dans la <recipient>casserole</recipient> (en rajouter si nécessaire). ajouter de l’ eau (un litre à un litre et demi), ainsi que le <ingredient quantite=1>curry</ingredient>. <operation temps=20.0min espace=8>faire bouillir</operation>. ajouter les <ingredient quantite=1>morceaux</ingredient> de viande, les <ingredient quantite=4>carottes</ingredient> et les <ingredient quantite=2>navets</ingredient>. après 10 minutes de cuisson ajouter les <ingredient quantite=4>pommes de terre</ingredient> et les <ingredient quantite=2>courgettes</ingredient> et <operation temps=25.0min espace=8>laisser cuire sur feu doux encore 20 à 25 minutes</operation>. le <recipient>plat</recipient> doit ressembler à une soupe que l’ on servira avec un bol de riz blanc. saler à convenance. on peut mettre aussi d’ autres légumes comme haricots verts, poivrons …
+]]>
+ </preparation>
+</recette>

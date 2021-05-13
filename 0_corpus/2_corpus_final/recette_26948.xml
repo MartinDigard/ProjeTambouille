@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26948">
+ <titre>Pompe à l’ huile</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>20 g de levure de boulangerie</p>
+ <p>4 oeufs</p>
+ <p>300 g de sucre + 1 cuillère pour le levain</p>
+ <p>1/4 litre d’ huile d’ olive</p>
+ <p>1 cuillère à soupe d’ huile d’ olive pour plaques de cuisson</p>
+ <p>2 cuillères à soupe de grains d’ anis</p>
+ <p>1 verre d’ eau de fleur d’ oranger</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=12>préparez le</operation> <ingredient quantite=1>levain</ingredient>: <operation temps=6.86min espace=12>délayez la <ingredient quantite=1>levure</ingredient> et le <ingredient quantite=1>sucre</ingredient> dans 1/2 <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>eau</ingredient></operation>. <operation temps=6.86min espace=12>mélangez avec 100 g de farine</operation>. couvrez et <operation temps=6.86min espace=12>laissez doubler de volume dans un endroit</operation> tiède. <operation temps=6.86min espace=12>versez le reste de la farine, le <ingredient quantite=1>sucre</ingredient> et une pincée de <ingredient quantite=1>sel</ingredient> dans un <recipient>saladier</recipient></operation>. creusez - y un puits, versez - y les <ingredient quantite=4>oeufs</ingredient>, <ingredient quantite=1>eau de fleur</ingredient> d’ <ingredient quantite=1>oranger</ingredient>, <ingredient quantite=1>huile</ingredient>, <ingredient quantite=1>levain</ingredient> et <ingredient quantite=1>grain</ingredient> d’ <ingredient quantite=2>anis</ingredient> en pétrissant. quand la pâte est souple <operation temps=6.86min espace=12>mettez - la en boule</operation> et <operation temps=6.86min espace=12>laissez - la encore</operation> lever 2 heures sous un torchon. <operation temps=6.86min espace=12>séparez la pâte en 2 parts</operation>. pétrissez - les et abaissez - les en 2 galettes ronde. posez - les sur 2 <ingredient quantite=1>plaques</ingredient> à pâtisserie huilées et <operation temps=6.86min espace=12>laissez - les encore</operation> lever 2 heures. <operation temps=6.86min espace=12>allumez le <recipient>four</recipient> à 240 ° c</operation> et <operation temps=30.0min espace=12>cuisez 30 mn</operation>. galette préparée en provence pour la noël. vin chaud
+]]>
+ </preparation>
+</recette>

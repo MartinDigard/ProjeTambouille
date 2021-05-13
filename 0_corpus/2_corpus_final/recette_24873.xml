@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24873">
+ <titre>Lapin frit aux herbes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 5 kg de lapin en morceaux</p>
+ <p>100 g de farine</p>
+ <p>2 oeufs</p>
+ <p>2 pincée de romarin</p>
+ <p>2 pincée de basilic</p>
+ <p>chapelure</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un <recipient>saladier</recipient>, battre les <ingredient quantite=2>oeufs</ingredient> en omelette avec le <ingredient quantite=2>romarin</ingredient> et le <ingredient quantite=2>basilic</ingredient>. assaisonner de <ingredient quantite=1>sel et poivre</ingredient>. <operation temps=6.86min espace=9>recouvrir les <ingredient quantite=1>morceaux</ingredient> de <ingredient quantite=1>lapin</ingredient> de farine, les</operation> tremper dans les <ingredient quantite=2>oeufs</ingredient> battus, puis dans la <ingredient quantite=1>chapelure</ingredient>. plonger dans la <recipient>friteuse</recipient>. déguster!
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59476">
+ <titre>Tajine aux pommes et chicons (endives) </titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>500 g de carbonade de boeuf</p>
+ <p>1 gros oignon</p>
+ <p>1 grosse cuillère à soupe d’ huile d’ olive</p>
+ <p>5 petits chicons</p>
+ <p>3 pommes</p>
+ <p>2 cuillères à soupe de miel</p>
+ <p>3 cuillères à café de curcuma (ajuster selon vos goûts) </p>
+ <p>2 cuillères à café de gingembre (ajuster selon vos goûts) </p>
+ <p>100 g de riz (éventuellement) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+hachez l’ <ingredient quantite=1>oignon</ingredient> et le mettre dans une <recipient>cocotte</recipient> avec la viande, le <ingredient quantite=3>curcuma</ingredient>, le <ingredient quantite=2>gingembre</ingredient>, l’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient>, <operation temps=0.25min espace=13>salez</operation> et <operation temps=0.5min espace=13>poivrez</operation>. <operation temps=6.86min espace=13>couvrez juste d’ eau</operation>, <operation temps=20.0min espace=13>portez à ébullition</operation>, <operation temps=6.86min espace=13>écumez, réduisez le feu</operation> et <operation temps=6.86min espace=13>laissez cuire 1 h 30 à demi-couvert</operation>. pendant ce temps, dans une grande <recipient>poêle</recipient>, faites chauffer 2 autres <ingredient quantite=1>cuillères à soupe</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient> et <operation temps=6.86min espace=13>ajoutez - y les <ingredient quantite=5>chicons</ingredient></operation>. vous pouvez éventuellement les couper en 2 (dans le sens de la longueur) afin qu’ ils cuisent bien à l’ intérieur. <operation temps=6.86min espace=13>laissez cuire, à feu très doux, jusqu’ à ce qu’ ils</operation> brunissent et qu’ ils ne soient plus durs à l’ intérieur. une fois ceux - ci cuits, <operation temps=6.86min espace=13>disposez de côté</operation>. epluchez les <ingredient quantite=3>pommes</ingredient>, <operation temps=6.86min espace=13>coupez - les en fins quartiers</operation>, <operation temps=6.86min espace=13>faites - les</operation> cuire dans votre <recipient>poêle</recipient> et une fois ramollies, <operation temps=0.5min espace=13>réservez</operation>. dans la <recipient>cocotte</recipient>, après 1 h 30 de cuisson, <operation temps=6.86min espace=13>ajoutez du</operation> <ingredient quantite=2>miel</ingredient> et <operation temps=15.0min espace=13>laissez mijoter encore 15 minutes</operation> et <operation temps=6.86min espace=13>ajoutez les <ingredient quantite=3>pommes</ingredient></operation>. <operation temps=2.0min espace=13>servez</operation>. ajuster le temps de cuisson, il doit rester un peu de jus mais l’ eau doit s’ être évaporée. les endives doivent être cuites à feu très doux pour ne pas brûler.
+]]>
+ </preparation>
+</recette>

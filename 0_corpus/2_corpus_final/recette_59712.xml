@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59712">
+ <titre>Entrecôte à l’ espagnole</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>2 entrecôtes</p>
+ <p>1 chorizo</p>
+ <p>3 oignons</p>
+ <p>huile d’ olive</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+emincez les <ingredient quantite=3>oignons</ingredient>, <operation temps=6.86min espace=8>coupez le <ingredient quantite=1>chorizo</ingredient> en rondelles</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=8>faire chauffer un peu d’ huile d’ <ingredient quantite=1>olive</ingredient> et y</operation> <operation temps=4.0min espace=8>faire suer les <ingredient quantite=3>oignons</ingredient> pendant environ 4 minutes</operation>. <operation temps=6.86min espace=8>ajoutez - y le <ingredient quantite=1>chorizo</ingredient>, saler</operation>, poivrer et <operation temps=5.0min espace=8>faites revenir le tout pendant 5 minutes environ</operation> puis ajouter 10 cl d’ eau, remuez bien et <operation temps=6.86min espace=8>baissez le feu pour</operation> <operation temps=6.86min espace=8>tenir à chaud la préparation</operation>. saler et poivrer les <ingredient quantite=2>entrecôtes</ingredient>, les <operation temps=6.86min espace=8>faire cuire dans une <recipient>poêle</recipient> avec de l’ huile d’ <ingredient quantite=1>olive</ingredient></operation>. une fois la viande cuite, servir l’ <ingredient quantite=1>entrecôte</ingredient> avec la préparation de <ingredient quantite=1>chorizo</ingredient> sur le dessus. et c’ est prêt à déguster... vous pouvez <operation temps=6.86min espace=8>servir ce <recipient>plat</recipient> avec des frites</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65308">
+ <titre>Tagliatelles au potimarron et curry</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>500 g de tagliatelles fraîches</p>
+ <p>200 g de potimarron</p>
+ <p>1 cuillère à soupe de pâte de curry ou 1 cuillère à café de curry en poudre</p>
+ <p>4 cuillères à soupe de crème fraîche</p>
+ <p>2 cuillères à soupe de pignons de pin</p>
+ <p>sel, poivre et un peu de persil pour la couleur</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faire cuire le <ingredient quantite=1>potimarron</ingredient>, l’</operation> écraser à la fourchette. ajouter la <ingredient quantite=4>crème</ingredient> fraiche et la <ingredient quantite=1>pâte de curry</ingredient> (ou le <ingredient quantite=1>curry en poudre</ingredient>), saler et poivrer. réserver. <operation temps=6.86min espace=8>faire cuire les <ingredient quantite=1>tagliatelles</ingredient> comme</operation> indiqué sur le paquet. mélanger le tout au <recipient>wok</recipient> ou à la <recipient>poêle</recipient>. <operation temps=6.86min espace=8>faire griller les <ingredient quantite=2>pignons</ingredient> (qu’ il est possible de</operation> remplacer par des noix ou des amandes). dresser les assiettes en ajoutant quelques feuilles de <ingredient quantite=1>persil</ingredient> ciselées pour <ingredient quantite=1>la couleur</ingredient>.
+]]>
+ </preparation>
+</recette>

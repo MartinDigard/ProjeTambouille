@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54654">
+ <titre>Magret de canard sauce aux poivres</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 magret de canard</p>
+ <p>1 cuillère à soupe de 4 poivres</p>
+ <p>20 cl de crème liquide</p>
+ <p>2 cuillères à café de fond de veau</p>
+ <p>sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+entailler le gras du <ingredient quantite=1>magret</ingredient>, pré-trancher le <ingredient quantite=1>magret</ingredient> du côté chair. <operation temps=6.0min espace=6>faire cuire le <ingredient quantite=1>magret</ingredient> du côté gras, sur feu vif 5 à 6 minutes</operation>. concasser le <ingredient quantite=1>poivre</ingredient>. une fois le gras bien fondu, retourner le <ingredient quantite=1>magret</ingredient> et le <operation temps=6.0min espace=6>laisser cuire sur feu moyen 6 min</operation>. enlever le gras et le <ingredient quantite=1>magret</ingredient>, mettre le <ingredient quantite=1>poivre</ingredient> et le <ingredient quantite=2>fond de veau</ingredient>, remuer rapidement. ajouter la <ingredient quantite=1>crème</ingredient> et <operation temps=6.86min espace=6>laisser épaissir la sauce avant de</operation> remettre le <ingredient quantite=1>magret</ingredient> dans la <recipient>poêle</recipient>. servir avec des petites pommes de terre rissolées (éventuellement dans le gras du <ingredient quantite=1>magret</ingredient>).
+]]>
+ </preparation>
+</recette>

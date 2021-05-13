@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23504">
+ <titre>Gratin de pâtes au jambon, olives et champignons</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>400 g de pâtes de petite taille (coquillettes, macaronis...) </p>
+ <p>200 g jambon blanc</p>
+ <p>150 g de champignons de Paris</p>
+ <p>100 g d’ olives vertes</p>
+ <p>50 cl de coulis de tomates</p>
+ <p>150 g de gruyère râpé</p>
+ <p>80 g de beurre</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=5.0min espace=12>ebouillantez les <ingredient quantite=1>olives</ingredient> 5 mn à l’ eau bouillante</operation>. <operation temps=6.86min espace=12>grattez et émincez les <ingredient quantite=1>champignons</ingredient></operation>. <operation temps=6.86min espace=12>faites - les</operation> <operation temps=10.0min espace=12>revenir à la <recipient>poêle</recipient> avec 30 g de beurre pendant 10 min environ</operation>, <operation temps=0.25min espace=12>salez</operation>, <operation temps=6.86min espace=12>poivrez et remuez de temps en temps</operation>. faites chauffer le <ingredient quantite=1>coulis de tomates</ingredient> dans une <recipient>casserole</recipient>. <operation temps=6.86min espace=12>ajoutez le jambon</operation> coupé en dés puis 100 g de gruyère. <operation temps=6.86min espace=12>rajoutez les</operation> <ingredient quantite=1>champignons</ingredient>, <operation temps=5.0min espace=12>mélangez</operation>. <operation temps=6.86min espace=12>faites cuire les <ingredient quantite=1>pâtes</ingredient> à l’ eau bouillante</operation> salée en les gardant " al dente ". <operation temps=10.0min espace=12>egouttez</operation> - les et <operation temps=6.86min espace=12>mettez - les dans un <recipient>plat</recipient> à gratin</operation>. mélangez - les avec le reste du beurre et <operation temps=6.86min espace=12>versez la sauce dessus</operation>. <operation temps=6.86min espace=12>saupoudrez le reste de fromage</operation> et <operation temps=20.0min espace=12>faites gratiner au <recipient>four</recipient> à 180 ° c (thermostat 6) environ 20 min</operation>.
+]]>
+ </preparation>
+</recette>

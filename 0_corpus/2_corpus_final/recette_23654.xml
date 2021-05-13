@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23654">
+ <titre>Rôti de boeuf au Madère</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1, 2 kg de rôti de boeuf</p>
+ <p>300 g de champignons de Paris</p>
+ <p>120 g de beurre</p>
+ <p>1 blanc de poireau</p>
+ <p>1 belle tomate</p>
+ <p>1 échalote</p>
+ <p>2 carottes</p>
+ <p>1 branche de céleri</p>
+ <p>1 bouquet garni</p>
+ <p>10 cl de bouillon</p>
+ <p>10 cl de Madère</p>
+ <p>1 cuillère à soupe de farine </p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour <operation temps=6.86min espace=15>faire la sauce: émincez tous les légumes</operation> et <operation temps=6.86min espace=15>faites les</operation> <operation temps=6.86min espace=15>revenir - sauf les <ingredient quantite=1>champignons</ingredient>! - dans 40 g de beurre pendant quelques minutes</operation> puis <operation temps=6.86min espace=15>saupoudrez de <ingredient quantite=1>farine</ingredient></operation>. <operation temps=6.86min espace=15>laissez la farine se</operation> colorer puis <operation temps=6.86min espace=15>versez le <ingredient quantite=1>bouillon</ingredient></operation>. ajoutez le <ingredient quantite=1>bouquet garni</ingredient>, <operation temps=0.25min espace=15>salez</operation> et <operation temps=0.5min espace=15>poivrez</operation>. <operation temps=15.0min espace=15>laissez cuire à petit feu pendant 15 minutes</operation>. dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=15>faites cuire les <ingredient quantite=1>champignons</ingredient> dans 20 g de beurre</operation>. dans une grande <recipient>cocotte</recipient>, <operation temps=6.86min espace=15>faites fondre le reste du beurre</operation> et <operation temps=10.0min espace=15>dorez - y le rôti sur toutes les faces pendant 10 minutes</operation>. <operation temps=6.86min espace=15>assaisonnez de <ingredient quantite=1>sel</ingredient> et de poivre</operation>. <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=1>champignons</ingredient> et la sauce filtrée</operation>. <operation temps=10.0min espace=15>laissez cuire 10 minutes supplémentaires</operation> puis <operation temps=6.86min espace=15>versez le madère</operation>. <operation temps=5.0min espace=15>poursuivez la cuisson 5 minutes</operation> et <operation temps=2.0min espace=15>servez bien chaud</operation>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72102">
+ <titre>Challah (brioche à l’ huile juive) </titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 kg de farine</p>
+ <p>1 cube de levure du boulanger fraîche de 42 g</p>
+ <p>1 oeuf</p>
+ <p>10 cl d’ huile</p>
+ <p>100 g de sucre</p>
+ <p>1 cuillère à soupe de sel</p>
+ <p>1 jaune d’ oeuf</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre la farine et l’ <ingredient quantite=1>oeuf</ingredient> dans un <recipient>saladier</recipient>. diluer la <ingredient quantite=1>levure</ingredient> dans un grand verre d’ eau tiède. ajouter dans le <recipient>saladier</recipient> l’ huile le <ingredient quantite=1>sucre</ingredient>, le <ingredient quantite=1>sel</ingredient> et petit à petit la <ingredient quantite=1>levure</ingredient> diluée en mélangeant à la <ingredient quantite=1>cuillère</ingredient> en bois. quand cela forme une boule <operation temps=10.0min espace=11>pétrir 10 min à la main</operation>. <operation temps=6.86min espace=11>laisser monter 3 h à l’</operation> abri des courants d’ air. au bout de 3 h, donner un coup de poing dans la pâte pour <operation temps=6.86min espace=11>faire sortir l’ air</operation> et séparer la pâte en 4 parts égales. partager chaque part elle-même en 3 parts que vous allez façonner en boudins. avec ces 3 boudins <operation temps=6.86min espace=11>faire une tresse</operation>. répéter l’ opération 4 fois pour <operation temps=6.86min espace=11>obtenir 4 tresses</operation>. déposer les tresses sur deux plaques du <recipient>four</recipient> recouvertes de papier sulfurisé. passer les tresses au <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>. <operation temps=6.86min espace=11>laisser lever encore 1 heure</operation>. cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 20 min. <operation temps=6.86min espace=11>servir au goûter avec de la confiture ou à table</operation>. si on veut, on peut mettre sur chaque challah des graines de pavot, de sésame... avant de les cuire. un vin doux comme un maury
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26043">
+ <titre>Carottes à la marocaine</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>10 carottes</p>
+ <p>1 cuillère à soupe de moutarde forte</p>
+ <p>2 jus de citron</p>
+ <p>1 cuillère à café de cumin en poudre</p>
+ <p>2 cuillères à soupe de raisins secs</p>
+ <p>sel, poivre</p>
+ <p>quelques feuilles de coriandre fraîche</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mettre les <ingredient quantite=2>raisins</ingredient> à tremper dans un verre d’ eau. eplucher et couper les <ingredient quantite=1>carottes</ingredient> en rondelles. les <operation temps=6.0min espace=7>faire cuire à l’ eau, 6 mn à</operation> <operation temps=6.86min espace=7>partir de l’ ébullition pour qu’ elles</operation> restent un peu croquantes. pendant ce temps, mélanger <ingredient quantite=1>moutarde</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient>, <ingredient quantite=1>cumin</ingredient> et <ingredient quantite=2>jus de citron</ingredient>. egoutter les <ingredient quantite=1>carottes</ingredient> et les verser tout de suite dans la sauce, comme elles sont chaudes, elles absorberont mieux les parfums. ajouter les <ingredient quantite=2>raisins</ingredient>. <operation temps=20.0min espace=7>laisser refroidir</operation> et mettre au <ingredient quantite=1>frais</ingredient>. au moment de <operation temps=2.0min espace=7>servir</operation> parsemer de <ingredient quantite=1>coriandre</ingredient>. je le sers plus souvent en apéritif avec des petits piques.
+]]>
+ </preparation>
+</recette>

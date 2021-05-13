@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82391">
+ <titre>Riz sauce tomate avec son omelettes et ses crevettes</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>4 tomates</p>
+ <p>1 poivron</p>
+ <p>1/2 oignon</p>
+ <p>500 g de riz</p>
+ <p>8 oeufs</p>
+ <p>16 crevettes</p>
+ <p>5 cl de lait</p>
+ <p>1 bouquet de persil</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+peler les <ingredient quantite=4>tomates</ingredient>, les vider et les découper en dés. vider puis découper finement le <ingredient quantite=1>poivron</ingredient>. eplucher l’ <ingredient quantite=1>oignon</ingredient>, le découper puis le <operation temps=6.86min espace=8>faire blondir</operation>. incorporer les <ingredient quantite=4>tomates</ingredient> et les <ingredient quantite=1>poivrons</ingredient>. <operation temps=30.0min espace=8>laisser mijoter 30 minutes (minimum</operation>). <operation temps=6.86min espace=8>faire cuire le <ingredient quantite=1>riz</ingredient> puis l’</operation> incorporer à la sauce. réaliser 4 petites omelettes (2 <ingredient quantite=8>oeufs</ingredient> + 1 cuillère à café de lait + du <ingredient quantite=1>persil</ingredient>). <operation temps=6.86min espace=8>faire dorer les <ingredient quantite=1>crevettes</ingredient> préalablement</operation> décortiquées. servir 4 <ingredient quantite=1>crevettes</ingredient> sur l’ omelette avec le <ingredient quantite=1>riz</ingredient> en sauce à côté. bon appétit!
+]]>
+ </preparation>
+</recette>

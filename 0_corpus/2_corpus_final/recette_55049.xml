@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55049">
+ <titre>Escalopes gourmandes</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 escalopes de dinde ou de poulet (c’ est moins cher) </p>
+ <p>2 tranches de jambon blanc</p>
+ <p>4 tranches de fromage pour croque monsieur</p>
+ <p>sauce tomate</p>
+ <p>crème fraîche et gruyère rapé </p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=9>faites cuire les <ingredient quantite=4>escalopes</ingredient></operation>. une fois cuites, <operation temps=6.86min espace=9>disposez les dans un <recipient>plat</recipient></operation> allant au <recipient>four</recipient>, recouvrez les <ingredient quantite=4>escalopes</ingredient> d’ une <ingredient quantite=4>tranche de fromage</ingredient> et d’ une demi <ingredient quantite=2>tranche de jambon blanc</ingredient>. auparavant pendant la cuisson dans un bol vous aurez mélangé le coulis de <ingredient quantite=1>tomate</ingredient> avec la <ingredient quantite=1>crème fraîche</ingredient> de façon à <operation temps=6.86min espace=9>faire une bonne sauce</operation>. ensuite vous <operation temps=6.86min espace=9>recouvrez le tout</operation> et <operation temps=6.86min espace=9>ajoutez du <ingredient quantite=1>gruyère</ingredient> râpé</operation>. <operation temps=15.0min espace=9>mettez à <recipient>four</recipient> chaud environ 15 min pour que le <ingredient quantite=4>fromage</ingredient> soit</operation> fondu. dégustez accompagné d’ un gratin de pommes de terre ou de pâtes fraîches.
+]]>
+ </preparation>
+</recette>

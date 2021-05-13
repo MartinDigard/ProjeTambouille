@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13790">
+ <titre>Vapeurs de foie gras</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 foie gras cru de 200 g</p>
+ <p>1 bouquet de basilic</p>
+ <p>quelques feuilles de coriandre</p>
+ <p>1 cuillère à soupe de ciboulette</p>
+ <p>1/2 cuillère à café de basilic</p>
+ <p>sel et poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparer la papillote en y déposant le <ingredient quantite=1>basilic</ingredient> en lit, puis saler et poivrer. déposer alors le <ingredient quantite=1>foie</ingredient> cru, puis couper quelques <ingredient quantite=1>feuilles de coriandre</ingredient> et une <ingredient quantite=1>cuillère de ciboulette</ingredient>. saler et poivrer à nouveau. fermer la paupiette et <operation temps=20.0min espace=6>faire cuire à la vapeur pendant 15 à 20 min</operation>. sauternes
+]]>
+ </preparation>
+</recette>

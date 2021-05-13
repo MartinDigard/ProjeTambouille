@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194385">
+ <titre>Cannelloni au chèvre et aux poireaux</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>12 cannelloni</p>
+ <p>1 bûche de chèvre frais</p>
+ <p>2 poireaux</p>
+ <p>15 g de beurre</p>
+ <p>40 g de farine</p>
+ <p>200 g de lardons</p>
+ <p>5 cl de lait</p>
+ <p>facultatif: gruyère râpé (ou parmesan) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffer le <recipient>four</recipient> à 170 ° c (thermostat 6). laver et <operation temps=6.86min espace=13>faire cuire les <ingredient quantite=2>poireaux</ingredient> à la vapeur (<recipient>cuit vapeur</recipient></operation>). pendant ce temps, préparer une béchamel en <operation temps=6.86min espace=13>faisant fondre le beurre dans une <recipient>casserole</recipient></operation>. ajouter la farine, mélanger, puis ajouter le lait peu à peu et <operation temps=6.86min espace=13>faire épaissir sur feu moyen sans</operation> <operation temps=20.0min espace=13>faire bouillir</operation>. ajouter le fromage de <ingredient quantite=1>chèvre</ingredient> et le <operation temps=6.86min espace=13>faire fondre dans la béchamel</operation>. mélanger puis ajouter les <ingredient quantite=1>lardons</ingredient>. quand les <ingredient quantite=2>poireaux</ingredient> sont cuits, les égoutter et les passer au <recipient>mixeur</recipient> quelques secondes. il faut les émincer mais pas les réduire en purée. ajouter les <ingredient quantite=2>poireaux</ingredient> à la béchamel. farcir les <ingredient quantite=1>cannelloni</ingredient> avec la préparation, les allonger dans un <recipient>plat</recipient> à gratin et les <operation temps=6.86min espace=13>recouvrir du reste de la béchamel au fromage</operation>. on peut parsemer le gratin de <ingredient quantite=1>gruyère râpé</ingredient> ou de parmesan. enfourner pendant 30 min à 170 ° c.
+]]>
+ </preparation>
+</recette>

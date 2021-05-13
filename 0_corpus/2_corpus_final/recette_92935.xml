@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92935">
+ <titre>Tartine à ma façon</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 belles tranches de pain de campagne de 2 cm d’ épaisseeur</p>
+ <p>100 g de crème fraiche</p>
+ <p>100 g de fromage blanc</p>
+ <p>1 gros oignon coupé en fines lamelles</p>
+ <p>sel, poivre</p>
+ <p>200 g de maroilles ou munster</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la <ingredient quantite=1>crème</ingredient> fraîche et le <ingredient quantite=1>fromage blanc</ingredient>. saler, poivrer. <ingredient quantite=1>couper</ingredient> l’ <ingredient quantite=1>oignon en fines lamelles</ingredient>. gratter ou écroûter le <ingredient quantite=1>maroilles</ingredient>. le <ingredient quantite=1>couper</ingredient> en <ingredient quantite=2>tranches</ingredient>. toaster les <ingredient quantite=2>tranches de pain</ingredient>. les beurrer avec le mélange de <ingredient quantite=1>crème fraiche</ingredient> et de <ingredient quantite=1>fromage blanc</ingredient>. saler, poivrer. ajouter les <ingredient quantite=1>lamelles</ingredient> d’ <ingredient quantite=1>oignons</ingredient>. disposer les <ingredient quantite=1>lamelles</ingredient> de <ingredient quantite=1>maroilles</ingredient>. passer 5 minutes au <recipient>gril</recipient>.
+]]>
+ </preparation>
+</recette>

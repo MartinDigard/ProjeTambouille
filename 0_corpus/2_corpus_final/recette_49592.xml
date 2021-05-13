@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49592">
+ <titre>Tarte tatin pêches/amandes</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>Pour la pâte: </p>
+ <p>200 g de farine</p>
+ <p>100 g de sucre</p>
+ <p>75 g d’ amandes en poudre</p>
+ <p>50g de beurre</p>
+ <p>1 œuf</p>
+ <p>2 cuillères à soupe d’ eau</p>
+ <p>Pour la garniture: </p>
+ <p>8 pêches</p>
+ <p>75 g d’ amandes effilées</p>
+ <p>caramel pour nappage</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+pour <ingredient quantite=1>la pâte</ingredient>: mélanger tous les ingrédients de la <ingredient quantite=1>pâte</ingredient> et <operation temps=6.86min espace=14>pétrir à la main ou au robot</operation>. pour <ingredient quantite=1>la garniture</ingredient>: verser du <ingredient quantite=1>caramel</ingredient> à <ingredient quantite=1>nappage</ingredient> dans le fond d’ un <recipient><recipient>moule</recipient> à manqué</recipient> afin qu’ il recouvre toute la surface. saupoudrer de la moitié des <ingredient quantite=1>amandes effilées</ingredient>. couper les <ingredient quantite=8>pêches</ingredient> en quartiers, les placer sur le <ingredient quantite=1>caramel</ingredient> et les <ingredient quantite=1>amandes effilées</ingredient>. saupoudrer du reste d’ <ingredient quantite=1>amandes effilées</ingredient>. etaler la <ingredient quantite=1>pâte</ingredient> et <operation temps=6.86min espace=14>recouvrir la <ingredient quantite=1>garniture</ingredient> avec</operation>. piquer la <ingredient quantite=1>pâte</ingredient> et <operation temps=20.0min espace=14>enfournez à 180 ° c (thermostat 6) pendant 20 minutes</operation>. démouler dès la sortie du <recipient>four</recipient>, tant que le <ingredient quantite=1>caramel</ingredient> est chaud, pour que les <ingredient quantite=8>pêches</ingredient> n’ accrochent pas au fond du <recipient>plat</recipient>. (attention le geste doit être très rapide, sinon les <ingredient quantite=8>pêches</ingredient> se tassent dans un des coins de la tarte!) on peut la servir chaude ou froide, seule ou accompagnée de glace à la vanille
+]]>
+ </preparation>
+</recette>

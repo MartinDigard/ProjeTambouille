@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37439">
+ <titre>Gâteau ananas chocolat</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>90 g farine</p>
+ <p>80 g sucre</p>
+ <p>1 sachet de sucre vanillé</p>
+ <p>20 g sucre glace</p>
+ <p>3 oeufs</p>
+ <p>1 yaourt aux fruits (fraises...) </p>
+ <p>du rhum </p>
+ <p>de l’ extrait de café</p>
+ <p>de la cannelle</p>
+ <p>1 boîte d’ ananas</p>
+ <p>160 g chocolat</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger les <ingredient quantite=1>sucres</ingredient> et les <ingredient quantite=3>oeufs</ingredient>. après avoir fait fondre le chocolat au <recipient>bain marie</recipient>, l’ ajouter au mélange précédent. ajouter ensuite la farine, le <ingredient quantite=1>yaourt</ingredient>, le <ingredient quantite=1>rhum</ingredient>, l’ <ingredient quantite=1>extrait de café</ingredient> et la <ingredient quantite=1>cannelle</ingredient> (dosage selon les goûts) verser dans un <recipient>moule</recipient> et ajouter l’ <ingredient quantite=1>ananas</ingredient> coupé en morceaux. <operation temps=20.0min espace=14>faire cuire au <recipient>four</recipient> à 180 ° c (thermostat 6) pendant 20 minutes</operation>. on peut bien sur remplacer les ananas par d’ autres <ingredient quantite=1>fruits</ingredient> comme la banane.
+]]>
+ </preparation>
+</recette>

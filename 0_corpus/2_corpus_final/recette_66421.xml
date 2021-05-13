@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66421">
+ <titre>Clafoutis d’ ananas créole</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>100 g de farine</p>
+ <p>50 g de poudre d’ amandes</p>
+ <p>50 g de noix de coco râpée</p>
+ <p>100 g de sucre brun</p>
+ <p>3 oeufs entiers</p>
+ <p>50 g de beurre fondu</p>
+ <p>15 cl de lait</p>
+ <p>5 cl de rhum</p>
+ <p>600 g d’ ananas frais de préférence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger la farine avec la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amandes</ingredient>, la <ingredient quantite=1>noix de coco</ingredient>, le <ingredient quantite=1>sucre brun</ingredient>, les <ingredient quantite=3>oeufs entiers</ingredient>, le beurre <ingredient quantite=1>fondu</ingredient>, le lait et le <ingredient quantite=1>rhum</ingredient>. <operation temps=6.86min espace=10>versez le tout dans un <recipient>moule</recipient></operation> antiadhésif. répartissez l’ ananas coupé en morceaux et <operation temps=45.0min espace=10>enfournez 45 min à 180 ° c (thermostat 6</operation>). <operation temps=20.0min espace=10>laissez refroidir</operation> et <operation temps=6.86min espace=10>servez <ingredient quantite=1>frais</ingredient></operation>. servir avec une boule de glace à la vanille ou du sorbet à l’ ananas ou <ingredient quantite=1>noix de coco</ingredient>
+]]>
+ </preparation>
+</recette>

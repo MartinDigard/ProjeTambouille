@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39023">
+ <titre>Pâtes mascarpone sauce tomate</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>250 g de pâtes (torsades) </p>
+ <p>100 g de mascarpone</p>
+ <p>4 tranches de jambon</p>
+ <p>1 oignon</p>
+ <p>1 boîte de concentré de tomate</p>
+ <p>Sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=7.0min espace=10>faire cuire les <ingredient quantite=1>pâtes</ingredient> pendant 7 minutes</operation>. bien les égoutter. couper le <ingredient quantite=4>jambon</ingredient> en petit morceaux, et émincer l’ <ingredient quantite=1>oignon</ingredient>. dans une <recipient>casserole</recipient>, <operation temps=6.86min espace=10>faire fondre la</operation> <ingredient quantite=1>mascarpone</ingredient> et remuer avec un fouet. incorporer le <ingredient quantite=1>concentré de tomates</ingredient> puis mélanger (toujours avec le fouet). dans un <recipient>plat</recipient> au <recipient>four</recipient>, mettre les <ingredient quantite=1>pâtes</ingredient>, le <ingredient quantite=4>jambon</ingredient> et les <ingredient quantite=1>oignons</ingredient>, la sauce et bien mélanger le tout. enfourner pendant environ 15 min. selon les goûts, vous pouvez également rajouter un peu de gruyère râpé, avant de mettre au <recipient>four</recipient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24975">
+ <titre>Terrine de citrouille</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de citrouille</p>
+ <p>2 gousses d’ ail hachées</p>
+ <p>300 g de lardons</p>
+ <p>100 g de crème fraîche</p>
+ <p>2 oeufs</p>
+ <p>150 g de farine</p>
+ <p>100 g de persil haché</p>
+ <p>100 g de Gruyère</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dégraisser les <ingredient quantite=1>lardons</ingredient> dans de l’ eau bouillante puis les <operation temps=6.86min espace=11>faire rissoler dans une <recipient>poêle</recipient></operation>. cuire la citrouille à l’ eau pendant 20 mn la réduire en purée. ajouter l’ <ingredient quantite=2>ail haché</ingredient>, la farine, la <ingredient quantite=1>crème</ingredient>, les jaunes d’ <ingredient quantite=2>oeufs</ingredient>, les <ingredient quantite=1>lardons</ingredient> le <ingredient quantite=1>persil</ingredient> puis les blancs d’ <ingredient quantite=2>oeufs</ingredient> battus en neige. <operation temps=6.86min espace=11>versez dans un <recipient>moule</recipient> à cake, parsemez de</operation> <ingredient quantite=1>gruyère</ingredient> et cuire à <recipient>four</recipient> chaud, th 6/7, pendant 40 mn environ. le soir avec une salade.
+]]>
+ </preparation>
+</recette>

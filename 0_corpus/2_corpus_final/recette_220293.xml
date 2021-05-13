@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220293">
+ <titre>Jambon roulé aux champignons</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>4 tranches de jambon blanc</p>
+ <p>180 g de champignons de Paris</p>
+ <p>20 cl de crème fraîche</p>
+ <p>70 g de concentré de tomate</p>
+ <p>gruyère râpé</p>
+ <p>1 oignon</p>
+ <p>1 échalote</p>
+ <p>sel </p>
+ <p>poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 220 ° c (thermostat 7). dans une <recipient>poêle</recipient>, <operation temps=6.86min espace=14>faites revenir les <ingredient quantite=1>champignons</ingredient>, avec l’ <ingredient quantite=1>échalote</ingredient> et l’ <ingredient quantite=1>oignon</ingredient>, préalablement coupés, dans une noisette de beurre</operation>. dans un <recipient>plat</recipient> qui va au <recipient>four</recipient>, roulez les <ingredient quantite=4>tranches de jambon</ingredient> avec un peu des <ingredient quantite=1>champignons</ingredient> préparés au milieu, et <operation temps=6.86min espace=14>ajoutez un peu de <ingredient quantite=1>gruyère</ingredient></operation>. mélangez la <ingredient quantite=1>crème fraîche</ingredient> avec le concentré de <ingredient quantite=1>tomate</ingredient>, du <ingredient quantite=1>sel</ingredient>, du poivre, et <operation temps=6.86min espace=14>ajoutez le reste des <ingredient quantite=1>champignons</ingredient></operation>. <operation temps=6.86min espace=14>versez sur le <ingredient quantite=4>jambon</ingredient>, parsemez de gruyère, et hop au <recipient>four</recipient></operation>. dès que le gruyère est doré, c’ est prêt. servir avec des pâtes, des légumes poêlés, ou des patates à l’ eau.
+]]>
+ </preparation>
+</recette>

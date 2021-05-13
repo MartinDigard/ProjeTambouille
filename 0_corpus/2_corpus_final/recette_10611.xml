@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10611">
+ <titre>Choux fleur au riz</titre>
+ <type>Plat principal</type>
+ <niveau>Moyennement difficile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 chou fleur</p>
+ <p>200 g de riz</p>
+ <p>sel, poivre</p>
+ <p>25 cl de sauce béchamel</p>
+ <p>1 jaune d’ oeuf</p>
+ <p>1 noix de muscade</p>
+ <p>200 g de gruyère râpé</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+cuire le <ingredient quantite=1>choux fleur</ingredient> dans l’ eau salée, dans une autre <recipient>casserole</recipient>, cuire 2 bonnes tasses de <ingredient quantite=1>riz</ingredient> salé aussi. quand tout est cuit, mélanger le <ingredient quantite=1>choux fleur</ingredient> au <ingredient quantite=1>riz</ingredient> en écrassant grossièrement à la fourchette. <operation temps=6.86min espace=10>faire une sauce <ingredient quantite=1>béchamel</ingredient> avec beaucoup de <ingredient quantite=1>gruyère</ingredient></operation> rapé dedans et un <ingredient quantite=1>jaune</ingredient> d’ <ingredient quantite=1>oeuf</ingredient>, <ingredient quantite=1>sel</ingredient>, <ingredient quantite=1>poivre</ingredient> et <ingredient quantite=1>noix de muscade</ingredient>. verser la sauce ainsi obtenue sur le <ingredient quantite=1>choux fleur</ingredient> et le <ingredient quantite=1>riz</ingredient> mélangé, bien incorporer les 2 ingrédients, puis mettre le tout dans un <recipient>plat</recipient> allant au <recipient>four</recipient>. parsemer de gruuyère rapé et mettre à gratiner 15 minutes. avec cette recette, vous pouvez <operation temps=6.86min espace=10>faire un bon rôti de veau aux champignons</operation>. un rosé d’ anjou
+]]>
+ </preparation>
+</recette>

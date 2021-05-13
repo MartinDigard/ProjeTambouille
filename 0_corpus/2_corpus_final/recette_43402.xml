@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43402">
+ <titre>Génoise et mousse au chocolat blanc</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>Pour la mousse: </p>
+ <p>400 g de chocolat blanc</p>
+ <p>40 g de beurre </p>
+ <p>3 cuillères à soupe de lait </p>
+ <p>50 g de sucre ou sucre glace</p>
+ <p>2 feuilles de gélatines</p>
+ <p>3 blanc d’ oeufs </p>
+ <p>3 cuillères à soupe de crème fraîche </p>
+ <p>facultatif: noix de coco</p>
+ <p>facultatif: amandes...</p>
+ <p>Pour le gâteau: </p>
+ <p>140 g de farine</p>
+ <p>3 oeufs: jaunes et blancs séparés</p>
+ <p>3 cuillères à soupe de lait</p>
+ <p>140 g de sucre</p>
+ <p>1 sachet de levure </p>
+ <p>1 cuillère à soupe d’ extrait de vanille (facultatif) </p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+la <ingredient quantite=1>mousse</ingredient>: faire fondre le <ingredient quantite=1>chocolat blanc</ingredient> au <recipient>bain marie</recipient> avec le beurre, rajouter petit a petit le <ingredient quantite=3>lait</ingredient>, le <ingredient quantite=1>sucre</ingredient>. remuer jusqu’ à <operation temps=6.86min espace=22>obtenir un mélange onctueux</operation>. ensuite ajouter les deux <ingredient quantite=2>feuilles de gélatines</ingredient> déja trempées dans l’ eau. monter trois <ingredient quantite=1>blancs</ingredient> en neige et incorporer au <ingredient quantite=1>chocolat</ingredient>. ajouter trois <ingredient quantite=3>cuillères à soupe de crème fraîche</ingredient>. mettre au frigo au moins 40 minutes. le <ingredient quantite=1>gâteau</ingredient>: battre les <ingredient quantite=3>jaunes</ingredient> d’ oeufs avec le <ingredient quantite=1>sucre</ingredient> (<operation temps=6.86min espace=22>faire blanchir) + la <ingredient quantite=1>vanille</ingredient> + le <ingredient quantite=3>lait</ingredient></operation>. incorporer <ingredient quantite=1>farine</ingredient> + <ingredient quantite=1>levure</ingredient> tamisée puis les trois <ingredient quantite=1>blancs</ingredient> montés en neige très ferme. préchauffer le <recipient>four</recipient> à 120 ° c / thermostat 4 (<recipient>four</recipient> à gaz) ou 150 ° c / thermostat 5 (<recipient>four</recipient> électrique). verser la pâte dans un <recipient>plat</recipient> recouvert de papier sulfurisé puis cuire 20 minutes. <operation temps=40.0min espace=22>laisser reposer la <ingredient quantite=1>mousse</ingredient> au moins 40 min et la génoise le plus lontemps possible elle sera meilleure</operation>. champagne ou cidre
+]]>
+ </preparation>
+</recette>

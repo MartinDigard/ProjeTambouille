@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57551">
+ <titre>Pâtes gruyère basilic</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pots de basilic</p>
+ <p>130 g de gruyère râpé</p>
+ <p>30 g de beurre</p>
+ <p>1 verre d’ huile d’ olive</p>
+ <p>10 gousses d’ ail</p>
+ <p>1 cuillère à café de sel fin</p>
+ <p>400 g de spaghettis</p>
+ <p>4 litres d’ eau salée pour la cuisson des pâtes</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+dans un robot type <recipient>mixeur</recipient>, <operation temps=6.86min espace=10>effeuillez le</operation> <ingredient quantite=2>basilic</ingredient>, <operation temps=6.86min espace=10>mettez - y l’ <ingredient quantite=1>ail</ingredient>, le <ingredient quantite=1>sel</ingredient>, le beurre, le gruyère, et mixez</operation>. pendant ce temps <operation temps=6.86min espace=10>faites couler en filet le <ingredient quantite=1>verre</ingredient> d’ <ingredient quantite=1>huile</ingredient> d’ <ingredient quantite=1>olive</ingredient></operation>. une fois le tout mixé vous devez <operation temps=6.86min espace=10>obtenir une préparation homogène mais pas crémeuse ; vous</operation> devez voir les bouts de <ingredient quantite=1>gruyère</ingredient> mixé. <operation temps=6.86min espace=10>faites cuire les <ingredient quantite=4>pâtes</ingredient> et puis quand elles sont</operation> prêtes, <operation temps=5.0min espace=10>mélangez le tout</operation> et <operation temps=6.86min espace=10>mangez aussitôt</operation>. <recipient>plat</recipient> de la région du midi à consommer sans modération... vin rouge
+]]>
+ </preparation>
+</recette>

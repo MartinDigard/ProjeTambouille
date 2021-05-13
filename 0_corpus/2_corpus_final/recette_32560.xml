@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32560">
+ <titre>Tourte choco-poire-amande</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>2 pâtes sablées</p>
+ <p>300 g de chocolat noir</p>
+ <p>200 g de poudre d’ amande</p>
+ <p>100 g de beurre</p>
+ <p>3 poires ou une boîte de poires au sirop</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+tapisser un <recipient>plat</recipient> à tarte avec une <ingredient quantite=1>pâte sablée</ingredient>. sur ce fond de tarte, saupoudrer la moitié de la <ingredient quantite=1>poudre</ingredient> d’ <ingredient quantite=1>amande</ingredient> de façon à ce qu’ elle recouvre entièrement le fond. mettre ensuite les <ingredient quantite=3>poires</ingredient> coupées en deux. <operation temps=6.86min espace=6>faire fondre le <ingredient quantite=1>chocolat</ingredient> avec le beurre</operation>. une fois fondus, ajouter le reste de <ingredient quantite=1>poudre</ingredient> d’ amande. napper les <ingredient quantite=3>poires</ingredient> avec ce mélange. mettre par dessus la seconde <ingredient quantite=1>pâte</ingredient> brisée et bien souder les deux <ingredient quantite=2>pâtes</ingredient> ensemble. cuire 45 mn à 190 ° c je rajoute parfois un peu de crème dans le <ingredient quantite=1>chocolat</ingredient>.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54063">
+ <titre>Tira- choco au grand Marnier</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>200 g de chocolat noir</p>
+ <p>20 cl de crème fraîche</p>
+ <p>80 g de sucre</p>
+ <p>4 oeufs</p>
+ <p>biscuits à la cuillère</p>
+ <p>Grand Marnier</p>
+ <p>cannelle</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=8>faites fondre le <ingredient quantite=1>chocolat</ingredient> au <recipient>bain - marie</recipient></operation>. une fois fondu, incorporez la <ingredient quantite=1>crème fraîche</ingredient>. <operation temps=6.86min espace=8>séparez les blancs des jaunes</operation>. <operation temps=6.86min espace=8>faites blanchir les jaunes avec le</operation> <ingredient quantite=1>sucre</ingredient>, <operation temps=6.86min espace=8>saupoudrez de</operation> <ingredient quantite=1>cannelle</ingredient> et <operation temps=6.86min espace=8>mélangez à nouveau</operation>. <operation temps=6.86min espace=8>mélangez le <ingredient quantite=1>chocolat</ingredient> fondu à cette préparation,</operation> puis <operation temps=6.86min espace=8>incorporez - y</operation> délicatement les blancs montés en neige ferme. dans des ramequins ou des verres à whisky (bas et larges), disposez une couche de biscuits imbibés de <ingredient quantite=1>grand marnier</ingredient>, <operation temps=6.86min espace=8>mettez par dessus une couche de la mousse au <ingredient quantite=1>chocolat</ingredient> et recommencez l’ opération une seconde fois</operation>. placez au réfrégirateur 6 bonnes heures avant de <operation temps=2.0min espace=8>servir</operation>. ce dessert est à mi chemin entre une mousse et un tiramisu. pas de vin sur le <ingredient quantite=1>chocolat</ingredient>!!!
+]]>
+ </preparation>
+</recette>

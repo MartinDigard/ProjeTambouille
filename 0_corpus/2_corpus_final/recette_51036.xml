@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51036">
+ <titre>Champignons (cèpes et sanguins) en bocaux</titre>
+ <type>Entrée</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>cèpes fraîchement cueillis</p>
+ <p>sanguins fraîchement cueillis</p>
+ <p>15 cl de vinaigre blanc</p>
+ <p>15 cl d’ eau</p>
+ <p>huile de tournesol</p>
+ <p>1 à 2 feuilles de laurier</p>
+ <p>sel, poivre </p>
+ <p>herbes de Provence</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+après avoir <ingredient quantite=1>cueilli</ingredient> les champignons, les nettoyer délicatement avec un linge sans les laver. couper les champignons en lamelles de taille moyenne. dans une <recipient>casserole</recipient>, mélanger le <ingredient quantite=1>vinaigre blanc</ingredient> et l’ <ingredient quantite=1>eau</ingredient> (s’ il y a beaucoup de champignons doubler les doses). <operation temps=6.86min espace=9>faire frémir l’ <ingredient quantite=1>eau</ingredient></operation>. déposer le mélange de champignons dans l’ <ingredient quantite=1>eau</ingredient> encore frémissante et <operation temps=15.0min espace=9>laisser cuire pendant 15 minutes</operation>. egoutter les champignons et les déposer sur un linge afin qu’ ils sèchent. les <operation temps=6.86min espace=9>laisser sécher environ 12h</operation>. après avoir soigneusement nettoyé et séché les bocaux, <operation temps=6.86min espace=9>remplir ceux - ci du mélange de champignons</operation>. <operation temps=6.86min espace=9>couvrir les champignons d’ huile de <ingredient quantite=1>tournesol</ingredient></operation>. y ajouter le <ingredient quantite=1>laurier</ingredient>, le <ingredient quantite=1>sel</ingredient>, le poivre et deux pincées d’ <ingredient quantite=1>herbes de provence</ingredient>. refermer les bocaux et conserver à température ambiante.
+]]>
+ </preparation>
+</recette>

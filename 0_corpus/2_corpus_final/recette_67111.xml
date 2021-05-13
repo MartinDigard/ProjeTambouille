@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67111">
+ <titre>Boeuf carottes à l’ orange</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>750 g de collier de boeuf</p>
+ <p>4 carottes</p>
+ <p>20 cl de vin rouge</p>
+ <p>15 cl de jus d’ orange</p>
+ <p>5 cm d’ écorce d’ orange</p>
+ <p>4 baies de genièvre</p>
+ <p>1 cuillère à café de baies roses</p>
+ <p>1/2 cuillère à café de cumin</p>
+ <p>2 branches de thym</p>
+ <p>25 cl de bouillon de boeuf</p>
+ <p>2 cuillères à soupe de farine</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préparation: préparer la marinade: couper la viande en gros morceau, la mettre dans un <recipient>saladier</recipient>. <operation temps=6.86min espace=16>couvrir avec le <ingredient quantite=1>vin</ingredient> et le <ingredient quantite=1>jus</ingredient></operation>. ajouter les épices et le zeste. <operation temps=6.86min espace=16>laisser reposer 2 heures</operation>. <operation temps=6.86min espace=16>faire fondre dans un <recipient>wok</recipient> (ou une <recipient>cocotte</recipient>) un peu de beurre</operation> et <operation temps=5.0min espace=16>faire saisir la viande environ 5 min</operation>. ajouter le <ingredient quantite=1>bouillon</ingredient> et le <ingredient quantite=1>jus</ingredient> de marinade, ainsi que les <ingredient quantite=4>carottes</ingredient>. <operation temps=6.86min espace=16>laisser mijoter sans</operation> <operation temps=35.0min espace=16>couvrir 35 min</operation>. tamiser la farine et <operation temps=5.0min espace=16>laisser épaissir 5 min</operation>. servir bien chaud. j’ accompagne ce <recipient>plat</recipient> de pommes de terre entières et pelée arrosées de beurre fondu à <recipient>four</recipient> doux (160 ° c) pendant 1h. bordeaux assez jeune
+]]>
+ </preparation>
+</recette>

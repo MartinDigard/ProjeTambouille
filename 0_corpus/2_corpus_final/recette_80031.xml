@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80031">
+ <titre>Blinis miel citron</titre>
+ <type>Dessert</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 yaourt bulgare</p>
+ <p>1 oeuf</p>
+ <p>1 pot à yaourt de farine</p>
+ <p>1/2 sachet de levure</p>
+ <p>3 cuillères à soupe de miel</p>
+ <p>1 cuillère à soupe de jus de citron</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+mélanger l’ ensemble des ingrédients puis <operation temps=6.86min espace=7>laisser reposer 1 h</operation>. <operation temps=6.86min espace=7>faire cuire dans une <recipient>poêle</recipient></operation>. servir chaud ou froid (ou réchauffé).
+]]>
+ </preparation>
+</recette>

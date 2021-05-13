@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20605">
+ <titre>Pot-au-feu de boeuf</titre>
+ <type>Plat principal</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>1 kg de jarret de boeuf</p>
+ <p>1 langue de veau</p>
+ <p>500 g de queue de boeuf en bouquet</p>
+ <p>3 l d’ eau</p>
+ <p>1 os à moelle</p>
+ <p>1 gros oignon piqué d’ 1 clou de girofle</p>
+ <p>3 gousses d’ ail</p>
+ <p>500 g de poireaux</p>
+ <p>500 g de navets</p>
+ <p>3 carottes</p>
+ <p>2 branches de céleri</p>
+ <p>1 chou vert</p>
+ <p>3 grosses pommes de terre</p>
+ <p>1 bouquet garni</p>
+ <p>1 cuillère à soupe de poivre en grains</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+passez la <ingredient quantite=1>langue de veau</ingredient> sous l’ <ingredient quantite=1>eau</ingredient> courante. ôter la peau et les parties hérissées. déposez les viandes (<ingredient quantite=1>jarret de boeuf</ingredient> et <ingredient quantite=1>langue de veau</ingredient>) dans une grande <recipient>cocotte</recipient>. <operation temps=6.86min espace=18>couvrez de 3 litres d’</operation> <ingredient quantite=1>eau</ingredient> et ajoutez le <ingredient quantite=1>poivre</ingredient>, le <ingredient quantite=1>bouquet garni</ingredient>, du sel, l’ <ingredient quantite=3>ail</ingredient> et l’ <ingredient quantite=1>oignon</ingredient> hachés. <operation temps=20.0min espace=18>portez à ébullition</operation>, <operation temps=6.86min espace=18>ôtez l’ écume qui s’ est</operation> formée à la surface puis <operation temps=6.86min espace=18>laissez cuire à frémissement 2 heures</operation>. <operation temps=6.86min espace=18>blanchissez les feuilles de <ingredient quantite=1>chou</ingredient> dans l’ <ingredient quantite=1>eau</ingredient> bouillante</operation>. <operation temps=6.86min espace=18>lavez</operation> et <operation temps=6.86min espace=18>pelez les légumes: <ingredient quantite=1>navets</ingredient>, <ingredient quantite=3>carottes</ingredient>, <ingredient quantite=2>céleri</ingredient> et <ingredient quantite=1>poireaux</ingredient></operation>. trente minutes avant la fin de la cuisson des viandes, ajoutez dans la <recipient>cocotte</recipient> les légumes et l’ <ingredient quantite=1>os à moelle</ingredient>. <operation temps=20.0min espace=18>laissez cuire 15 - 20 minutes</operation>. <operation temps=6.86min espace=18>coupez les viandes en tranches</operation>. <operation temps=6.86min espace=18>disposez - les dans un <recipient>plat</recipient> avec les légumes et pour</operation> <operation temps=6.86min espace=18>finir</operation>, <operation temps=6.86min espace=18>arrosez de bouillon</operation>. <operation temps=2.0min espace=18>servez</operation> brûlant.
+]]>
+ </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26322">
+ <titre>Gâteau sucré aux courgettes et aux épices</titre>
+ <type>Dessert</type>
+ <niveau>Facile</niveau>
+ <cout>Moyen</cout>
+ <ingredients>
+ <p>300 g de courgettes</p>
+ <p>2 oeufs</p>
+ <p>200 g de sucre en poudre</p>
+ <p>20 cl d’ huile</p>
+ <p>350 g de farine</p>
+ <p>125 g de noix</p>
+ <p>1 citron</p>
+ <p>1/2 cuillère à café de bicarbonate de soude</p>
+ <p>1 sachet de levure en poudre</p>
+ <p>2 cuillère à café de cannelle</p>
+ <p>1 cuillère à café de noix muscade</p>
+ <p>1 pincée de sel</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+préchauffez le <recipient>four</recipient> à 180 ° c (thermostat 6), <operation temps=6.86min espace=15>beurrez</operation> et <operation temps=6.86min espace=15>farinez un <recipient>moule</recipient> à cake</operation>. <operation temps=6.86min espace=15>râpez les <ingredient quantite=1>courgettes</ingredient></operation>. <operation temps=6.86min espace=15>fouettez les <ingredient quantite=2>oeufs</ingredient> avec le <ingredient quantite=1>sucre</ingredient> jusqu’ à ce que le <ingredient quantite=1>sucre</ingredient> soit complètement</operation> dissous. <operation temps=6.86min espace=15>ajoutez les <ingredient quantite=1>courgettes</ingredient> et l’ huile</operation> puis <operation temps=4.0min espace=15>incorporez</operation> progressivement la farine tamisée avec le <ingredient quantite=1>bicarbonate</ingredient> et la <ingredient quantite=1>levure</ingredient>. <operation temps=6.86min espace=15>parfumez des épices et du zeste de <ingredient quantite=1>citron</ingredient> finement râpé</operation>. <operation temps=6.86min espace=15>versez la préparation dans le <recipient>moule</recipient> et enfournez pour 1 heure de cuisson</operation>.
+]]>
+ </preparation>
+</recette>

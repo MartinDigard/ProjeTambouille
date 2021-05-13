@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32599">
+ <titre>Poulet à la bière d’ abbaye</titre>
+ <type>Plat principal</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>des blancs de poulets</p>
+ <p>2 bouteilles de 33 cl de bière brune d’ abbaye</p>
+ <p>3 oignons</p>
+ <p>4 carottes</p>
+ <p>2 tranches de pain d’ épices</p>
+ <p>4 cuillères à soupe de moutarde</p>
+ <p>thym, laurier</p>
+ <p>un peu de beurre</p>
+ <p>farine</p>
+ <p>sel, poivre</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+<operation temps=6.86min espace=11>coupez les <ingredient quantite=4>carottes</ingredient> en rondelles et émincez les <ingredient quantite=3>oignons</ingredient></operation>. <operation temps=6.86min espace=11>faites dorer les morceaux de <ingredient quantite=1>poulet</ingredient> dans du</operation> <ingredient quantite=1>beurre</ingredient>, <operation temps=3.0min espace=11>ajoutez les</operation> <ingredient quantite=3>oignons</ingredient> et <operation temps=6.86min espace=11>faites - les blondir</operation>. <operation temps=6.86min espace=11>saupoudrez de farine</operation>, <operation temps=5.0min espace=11>mélangez</operation> et <operation temps=6.86min espace=11>mouillez avec la biere</operation>. <operation temps=6.86min espace=11>ajoutez les <ingredient quantite=4>carottes</ingredient>, un <ingredient quantite=1>peu</ingredient> de <ingredient quantite=1>thym</ingredient> et quelques feuilles de <ingredient quantite=1>laurier</ingredient></operation>. <operation temps=0.25min espace=11>salez</operation> et <operation temps=0.5min espace=11>poivrez</operation>. tartinez les <ingredient quantite=2>tranches de pain</ingredient> d’ <ingredient quantite=2>épices</ingredient> avec de la <ingredient quantite=4>moutarde</ingredient> et placez - les dans la <recipient>cocotte</recipient>, en surface. <operation temps=0.25min espace=11>couvrez</operation> et <operation temps=6.86min espace=11>laissez cuire à feu doux un peu moins d’ une heure</operation>. <operation temps=6.86min espace=11>mélangez de temps en temps</operation>. mettre la même <ingredient quantite=1>bière</ingredient> dans la recette et au repas. une <ingredient quantite=1>bière</ingredient> grimbergen belge
+]]>
+ </preparation>
+</recette>

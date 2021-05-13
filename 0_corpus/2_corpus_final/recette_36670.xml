@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36670">
+ <titre>Quiche à la feta et aux knackis</titre>
+ <type>Entrée</type>
+ <niveau>Très facile</niveau>
+ <cout>Bon marché</cout>
+ <ingredients>
+ <p>1 pâte brisée</p>
+ <p>125 g de fromage râpé</p>
+ <p>200 g de feta en’ bloc’ </p>
+ <p>3 ou 4 knackis (saucisses apéritif type Francfort) </p>
+ <p>2 oeufs</p>
+ <p>20cl de crème liquide entière</p>
+ <p>huile d’ olive</p>
+ <p>sel, poivre, herbes de Provence</p>
+ <p>1 échalote</p>
+ </ingredients>
+ <preparation>
+<![CDATA[
+d’ abord émietter la <ingredient quantite=1>feta</ingredient> sur la <ingredient quantite=1>pâte</ingredient> étalée dans le <recipient>plat</recipient> à tarte et piquée. puis ajouter les saucisses, qu’ on aura coupées en tronçons et fait <operation temps=6.86min espace=12>revenir à la <recipient>poêle</recipient> antiadhésive, sans matière grasse</operation>. ajouter encore l’ <ingredient quantite=1>échalote</ingredient> hachée, des <ingredient quantite=1>herbes de provence</ingredient>, <ingredient quantite=1>sel</ingredient> et <ingredient quantite=1>poivre</ingredient>. en parallèle, battre les <ingredient quantite=2>oeufs</ingredient>, la <ingredient quantite=1>crème</ingredient>, un trait d’ huile d’ <ingredient quantite=1>olive</ingredient> et les 2/3 du <ingredient quantite=1>fromage râpé</ingredient>. placer l’ appareil sur la <ingredient quantite=1>pâte</ingredient> garnie, ajouter le reste du <ingredient quantite=1>fromage râpé</ingredient>. <operation temps=30.0min espace=12>faire cuire à <recipient>four</recipient> chaud (thermostat 8/250 ° c) pendant 25 à 30 min</operation>.
+]]>
+ </preparation>
+</recette>
