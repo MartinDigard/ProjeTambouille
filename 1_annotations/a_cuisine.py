@@ -6,7 +6,6 @@ Récupération des ingrédients en récursif.
 """
 
 # Modules
-import os
 import sys
 import argparse
 import re
@@ -22,6 +21,37 @@ import e_recipients as recip
 sys.setrecursionlimit(10**6)
 unites_de_mesure = [' cl ', ' ml ', ' l ', ' dl', 'g ', ' kg ', ' kilogramme ',
                     ' kilogrammes ', ' gramme ', ' grammes ', 'gr ']
+
+
+def bouteille_a_la_mer(input_file, infos_ingredients, target_file):
+    """
+    Les cuisiniers envoient une bouteille contenant les infos des ingrédients à
+    l'équipe de calcul.
+    Écrit un fichier tsv au format (qtt, unite, ingr) dans le répertoire
+    "2_complexite".
+    """
+    infos_ingr_tsv = []
+    for qtt, unite, ingr in infos_ingredients:
+        infos_ingr_tsv.append(f"{qtt}\t{unite}\t{ingr}")
+    infos_ingr_tsv = '\n'.join(infos_ingr_tsv)
+
+    with open(target_file, 'a') as tsv:
+        tsv.write(input_file)
+        tsv.write('\n')
+        tsv.write(infos_ingr_tsv)
+        tsv.write('\n\n')
+
+
+def nettoyage_balises_ope(recette):
+    """
+    Debug balises opérations, (reloutise 2)
+    """
+    recette = re.sub('(<operation>[^<]*)<operation>([^<]*</operation>)',
+                     '\\1\\2', recette)
+    recette = re.sub('(<operation>[^<]*)</operation>([^<]*</operation>)+',
+                     '\\1\\2', recette)
+    recette = re.sub('<operation><operation>', '<operation>', recette)
+    return recette
 
 
 def main():
@@ -59,16 +89,8 @@ def main():
                                                      unites_de_mesure)
 
         # Écriture des infos ingrédients dans le répertoire complexité
-        infos_ingr_tsv = []
-        for qtt, unite, ingr in infos_ingredients:
-            infos_ingr_tsv.append(f"{qtt}\t{unite}\t{ingr}")
-        infos_ingr_tsv = '\n'.join(infos_ingr_tsv)
-
-        with open('../2_complexite/z_infos_ingredients.tsv', 'a') as tsv:
-            tsv.write(file_list[0])
-            tsv.write('\n')
-            tsv.write(infos_ingr_tsv)
-            tsv.write('\n\n')
+        bouteille_a_la_mer(file_list[0], infos_ingredients,
+                           '../2_complexite/z_infos_ingredients.tsv')
 
         liste_ingredients = ingred.create_ingr_list(infos_ingredients)
 
@@ -84,6 +106,9 @@ def main():
         recette_annotee = recip.annotation(recette_annotee)
         recette_annotee = re.sub('</recipient> <recipient>', ' ',
                                  recette_annotee)
+
+        # Debug annotation
+        recette_annotee = nettoyage_balises_ope(recette_annotee)
 
         # Recoller le recette
         entete = ac.recoller(entete)

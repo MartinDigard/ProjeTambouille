@@ -6,6 +6,7 @@ Calculer la complexité en temps et en espace.
 """
 
 # Modules
+import re
 import argparse
 import glob
 
@@ -77,12 +78,12 @@ def main():
         # Nom du fichier pour la lecture de la clef du dico
         fichier = fichier.split('/')[-1]
 
-        # Récupération des annotations en listes.
-        prepa_complexite = et.decompte_annotation(recette_annotee)
-
         # Annotation des balises ingrédients
         recette_annotee = qt.annotation_qtt(recette_annotee,
                                             infos_ingr[fichier])
+
+        # Récupération des annotations en listes.
+        prepa_complexite = et.decompte_annotation(recette_annotee)
 
         # Calcul de la complexité en temps
         oper_temps = et.temps(prepa_complexite[0], refs_tps)
@@ -91,8 +92,11 @@ def main():
         nb_recipients = len(prepa_complexite[1]) + len(infos_ingr[fichier])
 
         # Annotation du temps et de l’espace
-        et.annot_espace_temps(recette_annotee, oper_temps, nb_recipients)
+        recette = et.annot_espace_temps(recette_annotee, oper_temps, nb_recipients)
 
+        # Debug annotation opération (reloutise) 
+        recette = re.sub('(<operation[^>]+>.*?)</ingredient>(.*?)<operation>(.*?</operation>)', '\\1\\2\\3', recette) 
+        print(recette)
 
 if __name__ == "__main__":
 
