@@ -3,11 +3,7 @@
 
 """
 Programme principal de ce répertoire :
-<<<<<<< HEAD
 - Évaluation de la performance de la fonction de reconnaissance d’ingrédients.
-=======
-- Évaluation de la performance de la fonction de reconnaissance d’ingrédients
->>>>>>> 7a49fc200630726be39f157d3ce2b5cf38a02024
 - Corrélation entre les niveaux de difficulté et de complexité de chaque
   recette.
 """
@@ -48,11 +44,7 @@ def main():
         vpos, fpos, fneg = ev.prepa_eval(ingredients_corps, ingredients_entete,
                                          trouves, corrects)
 
-<<<<<<< HEAD
-        # Préparer les évalutations globales
-=======
         # Préparer les évaluations globales
->>>>>>> 7a49fc200630726be39f157d3ce2b5cf38a02024
         liste_valeurs_locales.append((vpos, fpos, fneg))
 
     ev.evaluation_globale(liste_valeurs_locales)
