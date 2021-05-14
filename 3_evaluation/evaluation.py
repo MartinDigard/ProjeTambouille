@@ -81,10 +81,12 @@ def evaluation_globale(liste_valeurs_locales):
     fneg_total = sum([val[2] for val in liste_valeurs_locales])
 
     # Affichage des valeurs totales vpos/fpos/fneg
-    print(f"\nvpos : {vpos_total}\nfpos : {fpos_total}\nfneg : {fneg_total}\n")
+    print(f"\nVrais positifs : {vpos_total}\nFaux positifs : {fpos_total}\n"
+          f"Faux négatifs : {fneg_total}\n")
 
     # Évaluation globale à partir des valeurs vpos/fpos/fneg
     evaluation = Evaluation(vpos_total, fpos_total, fneg_total)
+    print("Évaluation :")
     print(f"Précision : {round(evaluation.precision(), 3)}\nRappel : "
           f"{round(evaluation.rappel(), 3)}\nF-mesure : "
           f"{round(evaluation.fmesure(), 3)}\n")
