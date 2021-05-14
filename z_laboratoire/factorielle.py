@@ -22,4 +22,4 @@ def factorec(num):
 
 
 print(f"récursif: {factorec(nombre)}")
-print (f"itératif: {factorielle(nombre)}")
+print(f"itératif: {factorielle(nombre)}")
