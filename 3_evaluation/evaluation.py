@@ -2,20 +2,15 @@
 # Anaëlle Pierredon, Martin Digard
 
 """
-Évalue la performance de notre fonction de reconnaissance d’ingrédients par
+Évalue la performance de la fonction de reconnaissance d’ingrédients par
 rapport à la liste d’ingrédients mentionnés dans la recette avec les mesures de
 précision et de rappel.
 """
 
-# Modules
-import argparse
-from glob import glob
-import re
-
 
 def prepa_eval(balises_ingr, entete_ingr, trouves, corrects):
     """
-    Sortie : matrice (vpos, fpos, vneg, fneg)
+    Sortie : matrice (vpos, fpos, fneg)
     """
     if len(balises_ingr) != 0:
         ingredient_balises = balises_ingr[0].lower()
@@ -76,47 +71,20 @@ class Evaluation:
         return fmesure
 
 
-def main():
+def evaluation_globale(liste_valeurs_locales):
     """
-    Évaluation
+    Calcul et affichage de l’évaluation globale
     """
-    # Arguments
-    parser = argparse.ArgumentParser()
-    parser.add_argument('rep_corpus_final')
-    args = parser.parse_args()
-    compteur = 0
-    for chemin_fichier in glob(args.rep_corpus_final + '/*'):
-        nom_fichier = chemin_fichier.split('/')[-1]
-        print(f"\n{compteur}\nChemin fichier : "
-              f"{chemin_fichier}\tNom du fichier : {nom_fichier}\n")
-        compteur += 1
-        with open(chemin_fichier) as recette_finale:
-            recette = recette_finale.read()
+    # Calcul à partir des valeurs totales récupérées dans les tuples locaux
+    vpos_total = sum([val[0] for val in liste_valeurs_locales])
+    fpos_total = sum([val[1] for val in liste_valeurs_locales])
+    fneg_total = sum([val[2] for val in liste_valeurs_locales])
 
-        # Récupérer le contenu des balises ingrédients
-        ingredients_corps = re.findall(r'<ingredient[^>]+>(.*?)</ingredient>',
-                                       recette)
-        ingredients_corps = list(set(ingredients_corps))
+    # Affichage des valeurs totales vpos/fpos/fneg
+    print(f"\nvpos : {vpos_total}\nfpos : {fpos_total}\nfneg : {fneg_total}\n")
 
-        # Récupérer le contenu de la liste d’ingrédients de l’entête
-        ingredients_entete = re.findall(r'<p>(.*)</p>', recette)
-
-        # Préparer l’évaluation
-        corrects = len(ingredients_entete)
-        trouves = len(ingredients_corps)
-        vpos, fpos, fneg = prepa_eval(ingredients_corps, ingredients_entete,
-                                      trouves, corrects)
-        print(f"vpos : {vpos}\nfpos : {fpos}\nfneg : {fneg}\n")
-
-        # Évaluation
-        evaluation = Evaluation(vpos, fpos, fneg)
-        print(f"Précision : {round(evaluation.precision(), 3)}")
-        print(f"Rappel : {round(evaluation.rappel(), 3)}")
-        print(f"F-mesure : {round(evaluation.fmesure(), 3)}")
-
-        print("\n**********************************************************\n")
-
-
-if __name__ == "__main__":
-
-    main()
+    # Évaluation globale à partir des valeurs vpos/fpos/fneg
+    evaluation = Evaluation(vpos_total, fpos_total, fneg_total)
+    print(f"Précision : {round(evaluation.precision(), 3)}\nRappel : "
+          f"{round(evaluation.rappel(), 3)}\nF-mesure : "
+          f"{round(evaluation.fmesure(), 3)}\n")
