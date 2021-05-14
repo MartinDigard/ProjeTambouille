@@ -73,13 +73,18 @@ class Evaluation:
 
 def evaluation_globale(liste_valeurs_locales):
     """
+<<<<<<< HEAD
     Calcul et affichage de l'évaluation globale
+=======
+    Calcul et affichage de l’évaluation globale
+>>>>>>> 7a49fc200630726be39f157d3ce2b5cf38a02024
     """
     # Calcul à partir des valeurs totales récupérées dans les tuples locaux
     vpos_total = sum([val[0] for val in liste_valeurs_locales])
     fpos_total = sum([val[1] for val in liste_valeurs_locales])
     fneg_total = sum([val[2] for val in liste_valeurs_locales])
 
+<<<<<<< HEAD
     print(f"\nvpos_total : {vpos_total}\nfpos_total : {fpos_total}\n"
           f"fneg_total : {fneg_total}\n")
 
@@ -88,3 +93,13 @@ def evaluation_globale(liste_valeurs_locales):
     print(f"Précision : {round(evaluation.precision(), 3)}")
     print(f"Rappel : {round(evaluation.rappel(), 3)}")
     print(f"F-mesure : {round(evaluation.fmesure(), 3)}\n")
+=======
+    # Affichage des valeurs totales vpos/fpos/fneg
+    print(f"\nvpos : {vpos_total}\nfpos : {fpos_total}\nfneg : {fneg_total}\n")
+
+    # Évaluation globale à partir des valeurs vpos/fpos/fneg
+    evaluation = Evaluation(vpos_total, fpos_total, fneg_total)
+    print(f"Précision : {round(evaluation.precision(), 3)}\nRappel : "
+          f"{round(evaluation.rappel(), 3)}\nF-mesure : "
+          f"{round(evaluation.fmesure(), 3)}\n")
+>>>>>>> 7a49fc200630726be39f157d3ce2b5cf38a02024
