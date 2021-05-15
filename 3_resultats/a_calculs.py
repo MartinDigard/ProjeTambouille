@@ -46,8 +46,8 @@ def correlation(liste_de_tuple):
     axes.scatter(niveau, espace, label="Espace")
     axes.set_title("Calcul de corrélation entre le niveau et le temps et "
                    "l'espace")
-    axes.set_xlabel('Temps et espace')
-    axes.set_ylabel('Niveau')
+    axes.set_ylabel('Temps et espace')
+    axes.set_xlabel('Niveau')
     axes.legend()
     plt.savefig('graphiques/correlations.png')
 
