@@ -41,19 +41,20 @@ def correlation(liste_de_tuple):
     temps = [var[1] for var in liste_de_tuple]
     espace = [var[2] for var in liste_de_tuple]
 
-    fig, axes = plt.subplots()
+    _, axes = plt.subplots()
     axes.scatter(niveau, temps, label="Temps")
     axes.scatter(niveau, espace, label="Espace")
-    axes.set_title("Calcul de corrélation entre le niveau et le temps et l'espace")
+    axes.set_title("Calcul de corrélation entre le niveau et le temps et "
+                   "l'espace")
     axes.set_xlabel('Temps et espace')
     axes.set_ylabel('Niveau')
     axes.legend()
-    plt.savefig('graphiques/correlation.png')
+    plt.savefig('graphiques/correlations.png')
 
     print("Coefficients de corrélation :")
     print(f"Niveau et temps : {round(np.corrcoef(niveau, temps)[0, 1], 3)}")
     print(f"Niveau et espace : {round(np.corrcoef(niveau, espace)[0, 1], 3)}")
-    print("\nLe fichier « correlation.png » a été créé dans le répertoire "
+    print("\nLe fichier « correlations.png » a été créé dans le répertoire "
           "« graphiques ».\n")
 
 
