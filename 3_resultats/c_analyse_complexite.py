@@ -17,4 +17,6 @@ axes.set_title("Analyse de la complexité en temps de la fonction d'annotation")
 axes.set_ylabel("Temps (s)")
 axes.set_xlabel("Nombre de recettes")
 axes.legend()
-plt.savefig('analyse_complexite.png')
+plt.savefig('graphiques/analyse_complexite.png')
+print("\nLe fichier « analyse_complexite.png » a été "
+      "créé dans le répertoire « graphiques ».\n")

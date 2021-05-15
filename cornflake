@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Martin Digard
+
+# Évalue les fichiers python donnés en paramètre.
+# Par défaut, évalue tous les fichiers python du répertoire courant.
+
+filtre()
+{
+	echo
+	echo "~~~~~~~~~~ ""$1"" ~~~~~~~~~~"
+	echo
+	nb_ligne=`flake8 $1 | wc -l`
+	echo flake8
+	if [ $nb_ligne -gt 0 ]
+	then
+		echo "************* Module ""$1"
+	fi
+	flake8 $1
+	note=$((10 - $nb_ligne))
+	echo
+	echo "--------------------------------------------------------------------"
+	echo "Your code has been rated at ""$note""/10"
+	echo
+	echo
+	echo "pylint"
+	pylint $1
+}
+
+if [ $# -gt 0 ]
+then
+	for code in $@
+	do
+		filtre "$code"
+	done
+else
+	for code in `ls *.py`
+	do
+		filtre "$code"
+done
+fi

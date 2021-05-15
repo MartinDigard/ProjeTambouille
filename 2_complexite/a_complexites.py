@@ -11,8 +11,8 @@ import argparse
 import glob
 
 # Modules du projet
-import quantites as qt
-import espace_temps as et
+import b_espace_temps as et
+import c_quantites as qt
 
 
 def recup_temps(fichier_ref):
@@ -65,7 +65,7 @@ def main():
     compteur = 0
     for fichier in glob.glob(args.rep_corpus_annote + '*/*'):
         print(f'\n\n==> {compteur}\nTraitement de la recette {fichier} en '
-               'cours…\n')
+              'cours…\n')
 
         # Limitation pour les tests
         compteur += 1

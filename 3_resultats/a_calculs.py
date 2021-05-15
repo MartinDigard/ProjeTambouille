@@ -16,7 +16,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Modules du projet
-import evaluation as ev
+import b_evaluation as ev
 
 
 def recup_temps_espace(recette):
@@ -45,18 +45,20 @@ def correlation(liste_de_tuple):
     plt.title("Calcul de corrélation entre le niveau et le temps")
     plt.xlabel('temps')
     plt.ylabel('niveau')
-    plt.show()
+    plt.savefig('graphiques/corr_niveau_temps.png')
 
     plt.scatter(niveau, espace)
-    plt.title("Calcul de corrélation entre le niveau et le temps")
+    plt.title("Calcul de corrélation entre le niveau et l’espace")
     plt.xlabel('espace')
     plt.ylabel('niveau')
-    plt.show()
+    plt.savefig('graphiques/corr_niveau_espace.png')
 
     print("Coefficients de corrélation :")
     print(f"Niveau et temps : {round(np.corrcoef(niveau, temps)[0, 1], 3)}")
     print(f"Niveau et espace : {round(np.corrcoef(niveau, espace)[0, 1], 3)}")
-    print()
+    print("\nLes fichiers « corr_niveau_espace.png » et "
+          "« corr_niveau_temps.png » ont été créés dans le répertoire "
+          "« graphiques ».\n")
 
 
 def main():
