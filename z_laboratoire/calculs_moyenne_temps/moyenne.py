@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Anaëlle Pierredon, Martin Digard
+
 """
 Calcul la moyenne du temps des opérations pour complexité.
 """

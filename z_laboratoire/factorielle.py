@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Anaëlle Pierredon, Martin Digard
+
 """
 Comparaison récursif vs itératif
 """

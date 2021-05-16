@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Anaëlle Pierredon, Martin Digard
+
 """
 Base pour le test de fonction imbriquée « expe_recursif.py ».
 """
